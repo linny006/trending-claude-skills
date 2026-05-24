@@ -5,8 +5,44 @@
     "language": "HTML",
     "name": "LiHongwei-cn/lihongwei-cn",
     "stars": 0,
-    "updated_at": "2026-05-24T18:58:19Z",
+    "updated_at": "2026-05-24T19:13:28Z",
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Rust-based lib to extract info from docx files",
+    "id": "Maks417/docx-extractor",
+    "language": "Rust",
+    "name": "Maks417/docx-extractor",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:06:45Z",
+    "url": "https://github.com/Maks417/docx-extractor"
+  },
+  {
+    "description": " Dependency manager for Claude Code \u2014 rules, skills, agents, and MCP servers. The missing package manager for Claude.",
+    "id": "Surt/cleo",
+    "language": "Python",
+    "name": "Surt/cleo",
+    "stars": 1,
+    "updated_at": "2026-05-24T19:06:38Z",
+    "url": "https://github.com/Surt/cleo"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:00:03Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
     "description": "Automate Salesforce RevOps system tasks like pipeline audits, forecast reconciliation, and deal pressure testing using e",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T18:55:42Z",
     "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Rust-based lib to extract info from docx files",
-    "id": "Maks417/docx-extractor",
-    "language": "Rust",
-    "name": "Maks417/docx-extractor",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:55:23Z",
-    "url": "https://github.com/Maks417/docx-extractor"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -421,32 +448,5 @@
     "stars": 22925,
     "updated_at": "2026-05-24T18:48:59Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:48:51Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:48:51Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:48:40Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
   }
 ]
