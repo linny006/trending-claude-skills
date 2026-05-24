@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 17:15 UTC
+> ⏰ Last updated: 2026-05-24 17:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Shada01245/the-unofficial-swift-programming-language-skill](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill) | 3 | Python | 2026-05-24 | 📦 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif |
-| 2 | [thairns/claude-rubycritic-skill](https://github.com/thairns/claude-rubycritic-skill) | 0 | — | 2026-05-24 | 🔍 Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics. |
-| 3 | [Junayedahmedd/gemini_cli_skill](https://github.com/Junayedahmedd/gemini_cli_skill) | 3 | — | 2026-05-24 | 🚀 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal |
-| 4 | [ArianKHeirgadam/craftdesk](https://github.com/ArianKHeirgadam/craftdesk) | 4 | TypeScript | 2026-05-24 | 🛠️ Manage AI capabilities with CraftDesk, a streamlined package manager for installing and versioning Claude Code skills |
-| 5 | [Kayunangka/claude-skill](https://github.com/Kayunangka/claude-skill) | 5 | — | 2026-05-24 | 🔍 Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis. |
-| 6 | [zubayer0077/Claude-Multi-Agent-Research-System-Skill](https://github.com/zubayer0077/Claude-Multi-Agent-Research-System-Skill) | 2 | Python | 2026-05-24 | 🧩 Orchestrate multi-agent research with parallel execution and audits for efficient, structured investigations and seaml |
-| 7 | [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 57 | Python | 2026-05-24 | 13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ |
-| 8 | [Squirrelfishcityhall150/claude-code-kit](https://github.com/Squirrelfishcityhall150/claude-code-kit) | 3 | Shell | 2026-05-24 | 🚀 Harness AI with the Claude Code Kit to simplify your development process and enhance your projects efficiently. Join t |
-| 9 | [Uncoated-ell721/Awesome-Claude-Skills](https://github.com/Uncoated-ell721/Awesome-Claude-Skills) | 3 | — | 2026-05-24 |  |
-| 10 | [jnMetaCode/ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) | 36 | — | 2026-05-24 | Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell — the AI short PJ Ace called "one of the b |
-| 11 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 59 | Python | 2026-05-24 | 📊 Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f |
-| 12 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 0 | Python | 2026-05-24 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 0 | Python | 2026-05-24 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [Shada01245/the-unofficial-swift-programming-language-skill](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill) | 3 | Python | 2026-05-24 | 📦 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif |
+| 3 | [thairns/claude-rubycritic-skill](https://github.com/thairns/claude-rubycritic-skill) | 0 | — | 2026-05-24 | 🔍 Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics. |
+| 4 | [Junayedahmedd/gemini_cli_skill](https://github.com/Junayedahmedd/gemini_cli_skill) | 3 | — | 2026-05-24 | 🚀 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal |
+| 5 | [ArianKHeirgadam/craftdesk](https://github.com/ArianKHeirgadam/craftdesk) | 4 | TypeScript | 2026-05-24 | 🛠️ Manage AI capabilities with CraftDesk, a streamlined package manager for installing and versioning Claude Code skills |
+| 6 | [Kayunangka/claude-skill](https://github.com/Kayunangka/claude-skill) | 5 | — | 2026-05-24 | 🔍 Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis. |
+| 7 | [zubayer0077/Claude-Multi-Agent-Research-System-Skill](https://github.com/zubayer0077/Claude-Multi-Agent-Research-System-Skill) | 2 | Python | 2026-05-24 | 🧩 Orchestrate multi-agent research with parallel execution and audits for efficient, structured investigations and seaml |
+| 8 | [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 57 | Python | 2026-05-24 | 13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ |
+| 9 | [Squirrelfishcityhall150/claude-code-kit](https://github.com/Squirrelfishcityhall150/claude-code-kit) | 3 | Shell | 2026-05-24 | 🚀 Harness AI with the Claude Code Kit to simplify your development process and enhance your projects efficiently. Join t |
+| 10 | [Uncoated-ell721/Awesome-Claude-Skills](https://github.com/Uncoated-ell721/Awesome-Claude-Skills) | 3 | — | 2026-05-24 |  |
+| 11 | [jnMetaCode/ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) | 36 | — | 2026-05-24 | Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell — the AI short PJ Ace called "one of the b |
+| 12 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 59 | Python | 2026-05-24 | 📊 Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f |
 | 13 | [Hildegaardchiasmal966/claude-skills](https://github.com/Hildegaardchiasmal966/claude-skills) | 2 | TypeScript | 2026-05-24 | 🎙️ Enhance Claude's capabilities with specialized agent skills for efficient workflows and deep domain expertise. |
 | 14 | [Vankill08/claude-skills-mcp](https://github.com/Vankill08/claude-skills-mcp) | 3 | Python | 2026-05-24 | 🌐 Enhance AI interactions by integrating Claude's Skills system with any model using this versatile Model Context Protoc |
 | 15 | [moido1092/algo-sensei](https://github.com/moido1092/algo-sensei) | 1 | — | 2026-05-24 | 🥋 Master algorithms and improve your problem-solving skills with guided practice and intelligent hints, not just answers |
@@ -74,7 +74,7 @@ expired items removed — so you can rely on what you see being current.
 | 30 | [BENZEMA216/awesome-weread](https://github.com/BENZEMA216/awesome-weread) | 8 | JavaScript | 2026-05-24 | 基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17) |
 | 31 | [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions) | 7 | Shell | 2026-05-24 | A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions  |
 | 32 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-05-24 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 33 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 59256 | TypeScript | 2026-05-24 | omo; the best agent harness - previously oh-my-opencode |
+| 33 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 59257 | TypeScript | 2026-05-24 | omo; the best agent harness - previously oh-my-opencode |
 | 34 | [rubenviolinha/linkedin-job-search-skill](https://github.com/rubenviolinha/linkedin-job-search-skill) | 0 | JavaScript | 2026-05-24 | Claude Code skills to discover LinkedIn jobs, analyze fit against your profile, and generate tailored resumes and cover  |
 | 35 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 0 | HTML | 2026-05-24 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
 | 36 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 0 | HTML | 2026-05-24 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
