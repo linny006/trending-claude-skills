@@ -1,12 +1,21 @@
 [
   {
-    "description": "Defensive security audit skills for Claude \u2014 tech-stack-keyed and audit-domain-keyed packs for SaaS apps.",
-    "id": "hlsitechio/claude-skills-security",
-    "language": "Shell",
-    "name": "hlsitechio/claude-skills-security",
+    "description": "Rust-based lib to extract info from docx files",
+    "id": "Maks417/docx-extractor",
+    "language": "Rust",
+    "name": "Maks417/docx-extractor",
     "stars": 0,
-    "updated_at": "2026-05-24T16:01:12Z",
-    "url": "https://github.com/hlsitechio/claude-skills-security"
+    "updated_at": "2026-05-24T16:10:58Z",
+    "url": "https://github.com/Maks417/docx-extractor"
+  },
+  {
+    "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
+    "id": "charlieviettq/awesome-agent-skill",
+    "language": "Python",
+    "name": "charlieviettq/awesome-agent-skill",
+    "stars": 6,
+    "updated_at": "2026-05-24T16:07:34Z",
+    "url": "https://github.com/charlieviettq/awesome-agent-skill"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 0,
-    "updated_at": "2026-05-24T16:00:12Z",
+    "updated_at": "2026-05-24T16:03:12Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Defensive security audit skills for Claude \u2014 tech-stack-keyed and audit-domain-keyed packs for SaaS apps.",
+    "id": "hlsitechio/claude-skills-security",
+    "language": "Shell",
+    "name": "hlsitechio/claude-skills-security",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:01:12Z",
+    "url": "https://github.com/hlsitechio/claude-skills-security"
   },
   {
     "description": "Convention packs for any AI coding tool - agents, skills, commands, and rules for 15 tools including Claude Code, Cursor",
@@ -27,20 +45,11 @@
     "url": "https://github.com/smicolon/ai-kit"
   },
   {
-    "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
-    "id": "charlieviettq/awesome-agent-skill",
-    "language": "Python",
-    "name": "charlieviettq/awesome-agent-skill",
-    "stars": 6,
-    "updated_at": "2026-05-24T15:57:31Z",
-    "url": "https://github.com/charlieviettq/awesome-agent-skill"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 14962,
+    "stars": 14967,
     "updated_at": "2026-05-24T15:55:48Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -50,7 +59,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 87,
-    "updated_at": "2026-05-24T16:01:24Z",
+    "updated_at": "2026-05-24T16:04:40Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "aitit-inc/lead-ace",
     "stars": 1,
-    "updated_at": "2026-05-24T15:24:47Z",
+    "updated_at": "2026-05-24T16:13:41Z",
     "url": "https://github.com/aitit-inc/lead-ace"
   },
   {
@@ -301,7 +310,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 59251,
+    "stars": 59252,
     "updated_at": "2026-05-24T15:07:08Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:38:50Z",
     "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:38:36Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
   }
 ]
