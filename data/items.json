@@ -1,5 +1,32 @@
 [
   {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 80,
+    "updated_at": "2026-05-24T15:12:53Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Production-tested Claude Code skills for marketing, operations, and business automation. Built by PureBrain.",
+    "id": "puretechnyc/purebrain-skills",
+    "language": "\u2014",
+    "name": "puretechnyc/purebrain-skills",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:11:51Z",
+    "url": "https://github.com/puretechnyc/purebrain-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:10:57Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "When your agent starts coding, you gotta let it cook",
     "id": "ndisisnd/cook",
     "language": "Python",
@@ -63,15 +90,6 @@
     "url": "https://github.com/yegor256/critic"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 80,
-    "updated_at": "2026-05-24T14:53:49Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:53:22Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:52:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Collection of AI Agent Code skills",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:31:45Z",
     "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:31:43Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
   }
 ]
