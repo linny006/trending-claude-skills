@@ -1,12 +1,93 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 87,
+    "updated_at": "2026-05-25T09:24:49Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "A collection of skills for Claude Code \u2014 installable via plugin marketplace. First skill: ebay-seller (full eBay.de sell",
+    "id": "okuegow/agent-skills",
+    "language": "Python",
+    "name": "okuegow/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:22:06Z",
+    "url": "https://github.com/okuegow/agent-skills"
+  },
+  {
+    "description": "Build & Automate 2026 Enterprise E2E Tests Using AI & Playwright",
+    "id": "Garba1327/playwright-enterprise-orchestrator",
+    "language": "HTML",
+    "name": "Garba1327/playwright-enterprise-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:21:00Z",
+    "url": "https://github.com/Garba1327/playwright-enterprise-orchestrator"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
+    "language": "Python",
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 339,
+    "updated_at": "2026-05-25T09:20:28Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15053,
+    "updated_at": "2026-05-25T09:20:05Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Contact Ninja takes partial information about a person and fills in the rest using public OSINT, then writes the enriche",
+    "id": "SamaritanOC/contact-ninja",
+    "language": "\u2014",
+    "name": "SamaritanOC/contact-ninja",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:18:14Z",
+    "url": "https://github.com/SamaritanOC/contact-ninja"
+  },
+  {
+    "description": "Multi-domain agent skills collection for AI coding agents (Claude, Cursor, Copilot, OpenCode, and more). Covers programm",
+    "id": "natuleadan/skills",
+    "language": "Python",
+    "name": "natuleadan/skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:16:39Z",
+    "url": "https://github.com/natuleadan/skills"
+  },
+  {
+    "description": "Automate Salesforce RevOps system tasks like pipeline audits, forecast reconciliation, and deal pressure testing using e",
+    "id": "Unifying-sheeptick539/revops-skills",
+    "language": "Python",
+    "name": "Unifying-sheeptick539/revops-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:16:34Z",
+    "url": "https://github.com/Unifying-sheeptick539/revops-skills"
+  },
+  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 80,
-    "updated_at": "2026-05-25T09:14:53Z",
+    "updated_at": "2026-05-25T09:16:23Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T09:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "MCP server that suggests repository-specific AI agent skills.",
@@ -144,15 +225,6 @@
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T09:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude skill for WordPress plugin development \u2014 build plugins correctly and pass wp.org Plugin Directory review. Mirror ",
     "id": "atlasaidev/claude-wordpress-skill",
     "language": "\u2014",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T09:00:04Z",
     "url": "https://github.com/atlasaidev/claude-wordpress-skill"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 87,
-    "updated_at": "2026-05-25T09:11:21Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -211,7 +274,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 59329,
+    "stars": 59331,
     "updated_at": "2026-05-25T08:51:59Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -279,20 +342,11 @@
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15051,
-    "updated_at": "2026-05-25T08:42:00Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 29377,
+    "stars": 29378,
     "updated_at": "2026-05-25T08:41:51Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -322,15 +376,6 @@
     "stars": 1030,
     "updated_at": "2026-05-25T08:34:59Z",
     "url": "https://github.com/conorluddy/ios-simulator-skill"
-  },
-  {
-    "description": "Multi-domain agent skills collection for AI coding agents (Claude, Cursor, Copilot, OpenCode, and more). Covers programm",
-    "id": "natuleadan/skills",
-    "language": "Python",
-    "name": "natuleadan/skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T08:30:06Z",
-    "url": "https://github.com/natuleadan/skills"
   },
   {
     "description": "\ud83d\udc51 MUNDO \u2014 THE EMPEROR. Ultimate AI learning engine for Claude Code & Hermes Agent. Self-evolving skill system with Three",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T08:15:34Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
-    "id": "BENZEMA216/awesome-weread",
-    "language": "JavaScript",
-    "name": "BENZEMA216/awesome-weread",
-    "stars": 8,
-    "updated_at": "2026-05-25T08:15:07Z",
-    "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-05-25T08:13:42Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "A structured, trilingual (\u7e41\u4e2d / \u7b80\u4e2d / English) learning roadmap for agentic AI \u2014 from LLM basics to multi-agent systems. 8",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 1715,
-    "updated_at": "2026-05-25T08:11:54Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Open source, free, private, local, *generative* co-intellegence scaffold",
-    "id": "huximaxi/loci",
-    "language": "HTML",
-    "name": "huximaxi/loci",
-    "stars": 4,
-    "updated_at": "2026-05-25T08:09:52Z",
-    "url": "https://github.com/huximaxi/loci"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 320,
-    "updated_at": "2026-05-25T08:08:46Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   }
 ]
