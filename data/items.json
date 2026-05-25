@@ -1,5 +1,86 @@
 [
   {
+    "description": "FAANG software engineering practices for AI coding agents. Fewer vibes. More production.",
+    "id": "tnilabs/pagerproof",
+    "language": "Python",
+    "name": "tnilabs/pagerproof",
+    "stars": 1,
+    "updated_at": "2026-05-25T02:58:21Z",
+    "url": "https://github.com/tnilabs/pagerproof"
+  },
+  {
+    "description": "AI \u6bcf\u65e5\u65b0\u95fb\u7b80\u62a5 \u00b7 GitHub \u70ed\u95e8 + X \u70ed\u95e8\u6587\u7ae0 + \u884c\u60c5\u6280\u672f\u5206\u6790 \u00b7 23 \u4e2a\u6570\u636e\u6e90\u805a\u5408 + LLM \u4e2d\u6587\u6458\u8981 \u00b7 \u672c\u5730\u6216 GitHub Actions \u90e8\u7f72",
+    "id": "leiting-eric/DailyBrief",
+    "language": "TypeScript",
+    "name": "leiting-eric/DailyBrief",
+    "stars": 84,
+    "updated_at": "2026-05-25T02:58:00Z",
+    "url": "https://github.com/leiting-eric/DailyBrief"
+  },
+  {
+    "description": "Awesome Skills from Around the World",
+    "id": "AbsolutelySkilled/AbsolutelySkilled",
+    "language": "MDX",
+    "name": "AbsolutelySkilled/AbsolutelySkilled",
+    "stars": 160,
+    "updated_at": "2026-05-25T02:55:56Z",
+    "url": "https://github.com/AbsolutelySkilled/AbsolutelySkilled"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 7,
+    "updated_at": "2026-05-25T02:54:37Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Karpathy \u6559\u4f60 LLM \u4f1a\u72af\u4ec0\u4e48\u9519\u3002\u6211\u6559\u4f60 LLM \u5728\u6211\u8fd9\u72af\u4e86\u4ec0\u4e48\u9519\u3001\u600e\u4e48\u6cbb\u30028 \u6761\u94c1\u5f8b + \u771f\u5b9e\u53cd\u4f8b + \u4e2d\u6587 Claude Code \u5b9e\u6218\u5305",
+    "id": "yli769227-jpg/awesome-claude-code-cn",
+    "language": "Shell",
+    "name": "yli769227-jpg/awesome-claude-code-cn",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:53:15Z",
+    "url": "https://github.com/yli769227-jpg/awesome-claude-code-cn"
+  },
+  {
+    "description": "One brain for all your agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 196,
+    "updated_at": "2026-05-25T02:51:36Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:48:13Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 366,
+    "updated_at": "2026-05-25T02:49:30Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -34,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T02:43:06Z",
     "url": "https://github.com/brycewang-stanford/AER-skills"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 7,
-    "updated_at": "2026-05-25T02:42:53Z",
-    "url": "https://github.com/travsteward/openwriter"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 366,
-    "updated_at": "2026-05-25T02:43:45Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "FAANG software engineering practices for AI coding agents. Fewer vibes. More production.",
-    "id": "tnilabs/pagerproof",
-    "language": "Python",
-    "name": "tnilabs/pagerproof",
-    "stars": 1,
-    "updated_at": "2026-05-25T02:40:47Z",
-    "url": "https://github.com/tnilabs/pagerproof"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -103,25 +157,16 @@
     "id": "nexscope-ai/Amazon-Skills",
     "language": "Python",
     "name": "nexscope-ai/Amazon-Skills",
-    "stars": 177,
+    "stars": 178,
     "updated_at": "2026-05-25T02:30:51Z",
     "url": "https://github.com/nexscope-ai/Amazon-Skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T02:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "omo; the best agent harness - previously oh-my-opencode",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 59287,
+    "stars": 59290,
     "updated_at": "2026-05-25T02:29:56Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -148,7 +193,7 @@
     "id": "JimLiu/baoyu-skills",
     "language": "TypeScript",
     "name": "JimLiu/baoyu-skills",
-    "stars": 19399,
+    "stars": 19402,
     "updated_at": "2026-05-25T02:28:27Z",
     "url": "https://github.com/JimLiu/baoyu-skills"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T01:32:16Z",
     "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Deploy 76 audit-ready robotics skills for Claude with integrated KPI dashboards, ISO standard compliance, and automated ",
-    "id": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "stars": 1,
-    "updated_at": "2026-05-25T01:30:57Z",
-    "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-05-25T01:30:55Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:30:42Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 1,
-    "updated_at": "2026-05-25T01:30:33Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:30:27Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
