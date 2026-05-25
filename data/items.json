@@ -1,5 +1,59 @@
 [
   {
+    "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
+    "id": "specscore/specstudio-skills",
+    "language": "\u2014",
+    "name": "specscore/specstudio-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T05:58:20Z",
+    "url": "https://github.com/specscore/specstudio-skills"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-05-25T05:57:12Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 8,
+    "updated_at": "2026-05-25T05:54:38Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Cat\u00e1logo abierto de 20 SKILLs (instrucciones modulares para agentes de IA) para auditores: 8 procesos transversales + 12",
+    "id": "marcelinero/auditoria-skills",
+    "language": "Python",
+    "name": "marcelinero/auditoria-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T05:53:39Z",
+    "url": "https://github.com/marcelinero/auditoria-skills"
+  },
+  {
+    "description": "Agent skill stack for American Economic Review, AER:Insights, and AEJ manuscripts \u2014 identification-first empirics, AEA-c",
+    "id": "brycewang-stanford/AER-skills",
+    "language": "Stata",
+    "name": "brycewang-stanford/AER-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T05:45:56Z",
+    "url": "https://github.com/brycewang-stanford/AER-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T05:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous m",
     "id": "zeikar/hyperclaude",
     "language": "JavaScript",
@@ -41,17 +95,8 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 15038,
-    "updated_at": "2026-05-25T05:43:20Z",
+    "updated_at": "2026-05-25T05:59:38Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -76,7 +121,7 @@
     "id": "JimLiu/baoyu-skills",
     "language": "TypeScript",
     "name": "JimLiu/baoyu-skills",
-    "stars": 19414,
+    "stars": 19415,
     "updated_at": "2026-05-25T05:21:16Z",
     "url": "https://github.com/JimLiu/baoyu-skills"
   },
@@ -121,7 +166,7 @@
     "id": "xiaomoBoy/claude-writing-skills",
     "language": "Python",
     "name": "xiaomoBoy/claude-writing-skills",
-    "stars": 0,
+    "stars": 5,
     "updated_at": "2026-05-25T05:14:26Z",
     "url": "https://github.com/xiaomoBoy/claude-writing-skills"
   },
@@ -373,7 +418,7 @@
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 16108,
+    "stars": 16111,
     "updated_at": "2026-05-25T05:07:36Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T05:07:27Z",
     "url": "https://github.com/zavora-ai/skill-notification-delivery"
-  },
-  {
-    "description": "Document management skill \u2014 Google Docs, Notion, OneDrive CRUD, search, share, export via mcp-document",
-    "id": "zavora-ai/skill-document-management",
-    "language": "\u2014",
-    "name": "zavora-ai/skill-document-management",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:07:25Z",
-    "url": "https://github.com/zavora-ai/skill-document-management"
-  },
-  {
-    "description": "Smart scheduling skill for AI agents \u2014 free time, meetings, events, and timezone coordination via mcp-calendar",
-    "id": "zavora-ai/skill-calendar-scheduling",
-    "language": "\u2014",
-    "name": "zavora-ai/skill-calendar-scheduling",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:06:57Z",
-    "url": "https://github.com/zavora-ai/skill-calendar-scheduling"
-  },
-  {
-    "description": "Email operations skill for AI agents \u2014 multi-backend sending, inbox management, and search via mcp-email",
-    "id": "zavora-ai/skill-email-management",
-    "language": "\u2014",
-    "name": "zavora-ai/skill-email-management",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:06:56Z",
-    "url": "https://github.com/zavora-ai/skill-email-management"
-  },
-  {
-    "description": "Multi-carrier logistics skill for AI agents \u2014 shipments, rate comparison, tracking, and route optimization via mcp-logis",
-    "id": "zavora-ai/skill-logistics-shipping",
-    "language": "Python",
-    "name": "zavora-ai/skill-logistics-shipping",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:06:10Z",
-    "url": "https://github.com/zavora-ai/skill-logistics-shipping"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-05-25T05:06:01Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
   }
 ]
