@@ -1,12 +1,21 @@
 [
   {
-    "description": "A Claude AI skill for supervised ML on small datasets",
-    "id": "jiachengwang-punch/small-sample-analysis",
-    "language": "Shell",
-    "name": "jiachengwang-punch/small-sample-analysis",
-    "stars": 2,
-    "updated_at": "2026-05-25T01:59:41Z",
-    "url": "https://github.com/jiachengwang-punch/small-sample-analysis"
+    "description": "omo; the best agent harness - previously oh-my-opencode",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 59283,
+    "updated_at": "2026-05-25T02:13:40Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Suanfish Studio \u00b7 Claude Code / Codex / Copilot CLI plugin marketplace \u00b7 \u54f2\u5b66\u9a71\u52a8\u7684\u591a\u667a\u80fd\u4f53\u8bbe\u8ba1\u8bed\u8a00\u4f53\u7cfb",
+    "id": "SuanFishXYY/suanfish-marketplace",
+    "language": "\u2014",
+    "name": "SuanFishXYY/suanfish-marketplace",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:10:08Z",
+    "url": "https://github.com/SuanFishXYY/suanfish-marketplace"
   },
   {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
@@ -14,17 +23,71 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 366,
-    "updated_at": "2026-05-25T01:58:00Z",
+    "updated_at": "2026-05-25T02:09:39Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "omo; the best agent harness - previously oh-my-opencode",
-    "id": "code-yeongyu/oh-my-openagent",
+    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
+    "id": "fabioc-aloha/Alex_ACT_Edition",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Edition",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:08:08Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
+  },
+  {
+    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
+    "id": "Scorpio-1111/OmicsAgent-Skills",
+    "language": "HTML",
+    "name": "Scorpio-1111/OmicsAgent-Skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:06:47Z",
+    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
+  },
+  {
+    "description": "",
+    "id": "jordanl17/claude-skill-decision-tree",
     "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 59281,
-    "updated_at": "2026-05-25T01:56:56Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "name": "jordanl17/claude-skill-decision-tree",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:04:57Z",
+    "url": "https://github.com/jordanl17/claude-skill-decision-tree"
+  },
+  {
+    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
+    "id": "Mary2241/seo-skills-agent-toolbox",
+    "language": "HTML",
+    "name": "Mary2241/seo-skills-agent-toolbox",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:04:40Z",
+    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:02:28Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A Claude AI skill for supervised ML on small datasets",
+    "id": "jiachengwang-punch/small-sample-analysis",
+    "language": "Shell",
+    "name": "jiachengwang-punch/small-sample-analysis",
+    "stars": 2,
+    "updated_at": "2026-05-25T01:59:41Z",
+    "url": "https://github.com/jiachengwang-punch/small-sample-analysis"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -72,15 +135,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
-    "id": "fabioc-aloha/Alex_ACT_Edition",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_ACT_Edition",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:47:36Z",
-    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
-  },
-  {
     "description": "FAANG software engineering practices for AI coding agents. Fewer vibes. More production.",
     "id": "tnilabs/pagerproof",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 274,
     "updated_at": "2026-05-25T01:46:30Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Build & Automate 2026 Enterprise E2E Tests Using AI & Playwright",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T01:27:48Z",
     "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "MCP server that suggests repository-specific AI agent skills.",
-    "id": "sator-imaging/suggest-skills",
-    "language": "TypeScript",
-    "name": "sator-imaging/suggest-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:27:45Z",
-    "url": "https://github.com/sator-imaging/suggest-skills"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:27:44Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-05-25T01:27:23Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:27:18Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-25T01:27:06Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
   }
 ]
