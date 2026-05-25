@@ -1,5 +1,77 @@
 [
   {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 366,
+    "updated_at": "2026-05-25T13:15:00Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Build & Automate 2026 Enterprise E2E Tests Using AI & Playwright",
+    "id": "Garba1327/playwright-enterprise-orchestrator",
+    "language": "HTML",
+    "name": "Garba1327/playwright-enterprise-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-25T13:08:33Z",
+    "url": "https://github.com/Garba1327/playwright-enterprise-orchestrator"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 279,
+    "updated_at": "2026-05-25T13:10:20Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Kaspa research and engineering skill for AI agents, with source-gated protocol intelligence and release packaging.",
+    "id": "gryszzz/Kaspa-Ai-Agent-Skill",
+    "language": "TypeScript",
+    "name": "gryszzz/Kaspa-Ai-Agent-Skill",
+    "stars": 4,
+    "updated_at": "2026-05-25T13:08:28Z",
+    "url": "https://github.com/gryszzz/Kaspa-Ai-Agent-Skill"
+  },
+  {
+    "description": "Drop-in markdown guides and Claude Code skills for the domains developers Google when shipping a website: AWS deployment",
+    "id": "ziniman/ai-instruct",
+    "language": "JavaScript",
+    "name": "ziniman/ai-instruct",
+    "stars": 20,
+    "updated_at": "2026-05-25T13:07:19Z",
+    "url": "https://github.com/ziniman/ai-instruct"
+  },
+  {
+    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms",
+    "id": "nostrband/ServiceGraph",
+    "language": "Shell",
+    "name": "nostrband/ServiceGraph",
+    "stars": 143,
+    "updated_at": "2026-05-25T13:06:46Z",
+    "url": "https://github.com/nostrband/ServiceGraph"
+  },
+  {
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "id": "yusufkaraaslan/Skill_Seekers",
+    "language": "Python",
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "stars": 13747,
+    "updated_at": "2026-05-25T13:04:23Z",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T13:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A collection of Claude Skills",
     "id": "GetBindu/awesome-claude-code-and-skills",
     "language": "\u2014",
@@ -18,22 +90,13 @@
     "url": "https://github.com/BridgeLogicsProjects/okr-skill-coach"
   },
   {
-    "description": "Kaspa research and engineering skill for AI agents, with source-gated protocol intelligence and release packaging.",
-    "id": "gryszzz/Kaspa-Ai-Agent-Skill",
-    "language": "TypeScript",
-    "name": "gryszzz/Kaspa-Ai-Agent-Skill",
-    "stars": 4,
-    "updated_at": "2026-05-25T12:57:39Z",
-    "url": "https://github.com/gryszzz/Kaspa-Ai-Agent-Skill"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 366,
-    "updated_at": "2026-05-25T12:54:55Z",
-    "url": "https://github.com/boshu2/agentops"
+    "description": "Model-aware Claude Agent Skills for AI image & video generation on Higgsfield \u2014 15 creative skills with opt-in MCP gener",
+    "id": "pixelab-ch/higgsfield-skills",
+    "language": "Shell",
+    "name": "pixelab-ch/higgsfield-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:57:08Z",
+    "url": "https://github.com/pixelab-ch/higgsfield-skills"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -41,7 +104,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 87,
-    "updated_at": "2026-05-25T12:55:25Z",
+    "updated_at": "2026-05-25T13:08:46Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
     "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
@@ -175,7 +229,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15066,
+    "stars": 15067,
     "updated_at": "2026-05-25T12:32:11Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -394,59 +448,5 @@
     "stars": 24,
     "updated_at": "2026-05-25T12:12:56Z",
     "url": "https://github.com/georgekhananaev/claude-skills-vault"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-25T12:12:54Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:12:35Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Optimize your AI workflow with this open-source Electron desktop client for Claude, featuring native integration and eff",
-    "id": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "language": "JavaScript",
-    "name": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "stars": 1,
-    "updated_at": "2026-05-25T12:12:30Z",
-    "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 1,
-    "updated_at": "2026-05-25T12:12:16Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:12:02Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-05-25T12:11:31Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
   }
 ]
