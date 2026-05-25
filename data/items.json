@@ -1,5 +1,77 @@
 [
   {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 58,
+    "updated_at": "2026-05-25T06:15:03Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:14:30Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "Agent skill stack for American Economic Review, AER:Insights, and AEJ manuscripts \u2014 identification-first empirics, AEA-c",
+    "id": "brycewang-stanford/AER-skills",
+    "language": "Stata",
+    "name": "brycewang-stanford/AER-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:13:44Z",
+    "url": "https://github.com/brycewang-stanford/AER-skills"
+  },
+  {
+    "description": "\ud83d\ude80 Harness AI with the Claude Code Kit to simplify your development process and enhance your projects efficiently. Join t",
+    "id": "Squirrelfishcityhall150/claude-code-kit",
+    "language": "Shell",
+    "name": "Squirrelfishcityhall150/claude-code-kit",
+    "stars": 3,
+    "updated_at": "2026-05-25T06:13:33Z",
+    "url": "https://github.com/Squirrelfishcityhall150/claude-code-kit"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:13:11Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "",
+    "id": "Uncoated-ell721/Awesome-Claude-Skills",
+    "language": "\u2014",
+    "name": "Uncoated-ell721/Awesome-Claude-Skills",
+    "stars": 3,
+    "updated_at": "2026-05-25T06:12:38Z",
+    "url": "https://github.com/Uncoated-ell721/Awesome-Claude-Skills"
+  },
+  {
+    "description": "Pure instruction-pack skill wrapping Ai2's Asta MCP server (Semantic Scholar). Intent-to-tool routing, safe defaults, mu",
+    "id": "Agents365-ai/asta-skill",
+    "language": "\u2014",
+    "name": "Agents365-ai/asta-skill",
+    "stars": 114,
+    "updated_at": "2026-05-25T06:15:12Z",
+    "url": "https://github.com/Agents365-ai/asta-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:11:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Suanfish Studio \u00b7 Claude Code / Codex / Copilot CLI plugin marketplace \u00b7 \u54f2\u5b66\u9a71\u52a8\u7684\u591a\u667a\u80fd\u4f53\u8bbe\u8ba1\u8bed\u8a00\u4f53\u7cfb",
     "id": "SuanFishXYY/suanfish-marketplace",
     "language": "\u2014",
@@ -72,6 +144,15 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15039,
+    "updated_at": "2026-05-25T06:07:16Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
     "description": "\ud83e\udd16 Build and manage Claude-powered agents with utilities for session handling, message parsing, and real-time experiences",
     "id": "vl0dyy/claude-agent-kit",
     "language": "TypeScript",
@@ -135,15 +216,6 @@
     "url": "https://github.com/LessUp/awesome-claude-skills-zh"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T06:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
     "id": "specscore/specstudio-skills",
     "language": "\u2014",
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T05:58:20Z",
     "url": "https://github.com/specscore/specstudio-skills"
-  },
-  {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:57:12Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
   },
   {
     "description": "Cat\u00e1logo abierto de 20 SKILLs (instrucciones modulares para agentes de IA) para auditores: 8 procesos transversales + 12",
@@ -178,15 +241,6 @@
     "stars": 59304,
     "updated_at": "2026-05-25T05:50:10Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Agent skill stack for American Economic Review, AER:Insights, and AEJ manuscripts \u2014 identification-first empirics, AEA-c",
-    "id": "brycewang-stanford/AER-skills",
-    "language": "Stata",
-    "name": "brycewang-stanford/AER-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:45:56Z",
-    "url": "https://github.com/brycewang-stanford/AER-skills"
   },
   {
     "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous m",
@@ -225,15 +279,6 @@
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15038,
-    "updated_at": "2026-05-25T06:07:16Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -256,7 +301,7 @@
     "id": "JimLiu/baoyu-skills",
     "language": "TypeScript",
     "name": "JimLiu/baoyu-skills",
-    "stars": 19416,
+    "stars": 19417,
     "updated_at": "2026-05-25T05:21:16Z",
     "url": "https://github.com/JimLiu/baoyu-skills"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T05:09:15Z",
     "url": "https://github.com/zavora-ai/skill-environment-deployment"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:09:14Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Credentials vault skill \u2014 scoped secret access, rotation, revocation, and audit",
-    "id": "zavora-ai/skill-credentials-management",
-    "language": "\u2014",
-    "name": "zavora-ai/skill-credentials-management",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:09:13Z",
-    "url": "https://github.com/zavora-ai/skill-credentials-management"
-  },
-  {
-    "description": "Session memory skill \u2014 typed state, recall, replay snapshots, and resumable workflows",
-    "id": "zavora-ai/skill-session-memory-management",
-    "language": "\u2014",
-    "name": "zavora-ai/skill-session-memory-management",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:09:11Z",
-    "url": "https://github.com/zavora-ai/skill-session-memory-management"
-  },
-  {
-    "description": "Workflow orchestration skill \u2014 multi-step processes with approval gates and state machines",
-    "id": "zavora-ai/skill-workflow-orchestration",
-    "language": "\u2014",
-    "name": "zavora-ai/skill-workflow-orchestration",
-    "stars": 0,
-    "updated_at": "2026-05-25T05:09:09Z",
-    "url": "https://github.com/zavora-ai/skill-workflow-orchestration"
-  },
-  {
-    "description": "A2A agent orchestration skill \u2014 discover, dispatch, stream, and manage remote agent tasks",
-    "id": "zavora-ai/skill-a2a-agent-orchestration",
-    "language": "\u2014",
-    "name": "zavora-ai/skill-a2a-agent-orchestration",
-    "stars": 1,
-    "updated_at": "2026-05-25T05:09:07Z",
-    "url": "https://github.com/zavora-ai/skill-a2a-agent-orchestration"
   }
 ]
