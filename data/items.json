@@ -1,5 +1,122 @@
 [
   {
+    "description": "Azure architecture diagrams that agents can actually render. Create clean, Microsoft-style Azure diagrams in Mermaid wit",
+    "id": "adindabudi/pretty-azure-mermaid-skills",
+    "language": "JavaScript",
+    "name": "adindabudi/pretty-azure-mermaid-skills",
+    "stars": 1,
+    "updated_at": "2026-05-25T17:44:05Z",
+    "url": "https://github.com/adindabudi/pretty-azure-mermaid-skills"
+  },
+  {
+    "description": "KAppMaker CLI tool that automates mobile app setup \u2014 Firebase, App Store Connect, Adapty, signing, publishing, and AI-po",
+    "id": "KAppMaker/KAppMaker-CLI",
+    "language": "TypeScript",
+    "name": "KAppMaker/KAppMaker-CLI",
+    "stars": 3,
+    "updated_at": "2026-05-25T17:43:59Z",
+    "url": "https://github.com/KAppMaker/KAppMaker-CLI"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 30,
+    "updated_at": "2026-05-25T17:42:22Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Model-aware Claude Agent Skills for AI image & video generation on Higgsfield \u2014 15 creative skills with opt-in MCP gener",
+    "id": "pixelab-ch/higgsfield-skills",
+    "language": "Shell",
+    "name": "pixelab-ch/higgsfield-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:42:01Z",
+    "url": "https://github.com/pixelab-ch/higgsfield-skills"
+  },
+  {
+    "description": "",
+    "id": "jordanl17/claude-skill-linear-editing",
+    "language": "TypeScript",
+    "name": "jordanl17/claude-skill-linear-editing",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:40:59Z",
+    "url": "https://github.com/jordanl17/claude-skill-linear-editing"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:40:02Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:39:22Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:39:14Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-05-25T17:36:59Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
+    "id": "fabioc-aloha/Alex_ACT_Edition",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Edition",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:36:56Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
+  },
+  {
+    "description": "Free preview samples from the AI Agent Buyer Pack \u2014 Hermes Audit, Claude Code Skills, and agent tools. Full packs launch",
+    "id": "bv-12345/agent-buyer-pack-preview",
+    "language": "\u2014",
+    "name": "bv-12345/agent-buyer-pack-preview",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:35:34Z",
+    "url": "https://github.com/bv-12345/agent-buyer-pack-preview"
+  },
+  {
+    "description": "Build & Automate 2026 Enterprise E2E Tests Using AI & Playwright",
+    "id": "Garba1327/playwright-enterprise-orchestrator",
+    "language": "HTML",
+    "name": "Garba1327/playwright-enterprise-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:33:26Z",
+    "url": "https://github.com/Garba1327/playwright-enterprise-orchestrator"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck",
     "id": "browser-act/skills",
     "language": "Python",
@@ -27,15 +144,6 @@
     "url": "https://github.com/kreek/consult"
   },
   {
-    "description": "Model-aware Claude Agent Skills for AI image & video generation on Higgsfield \u2014 15 creative skills with opt-in MCP gener",
-    "id": "pixelab-ch/higgsfield-skills",
-    "language": "Shell",
-    "name": "pixelab-ch/higgsfield-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:26:34Z",
-    "url": "https://github.com/pixelab-ch/higgsfield-skills"
-  },
-  {
     "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
     "id": "fabioc-aloha/Alex_Skill_Mall",
     "language": "JavaScript",
@@ -43,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T17:24:24Z",
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
-    "id": "fabioc-aloha/Alex_ACT_Edition",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_ACT_Edition",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:24:01Z",
-    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
   },
   {
     "description": "claude-devkit - an agentic coding framework",
@@ -79,33 +178,6 @@
     "stars": 4,
     "updated_at": "2026-05-25T17:17:13Z",
     "url": "https://github.com/synaptiai/synapti-marketplace"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:15:51Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Azure architecture diagrams that agents can actually render. Create clean, Microsoft-style Azure diagrams in Mermaid wit",
-    "id": "adindabudi/pretty-azure-mermaid-skills",
-    "language": "JavaScript",
-    "name": "adindabudi/pretty-azure-mermaid-skills",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:15:31Z",
-    "url": "https://github.com/adindabudi/pretty-azure-mermaid-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T17:06:56Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 30,
-    "updated_at": "2026-05-25T17:03:54Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -297,15 +360,6 @@
     "url": "https://github.com/j-256/claude-code-skills"
   },
   {
-    "description": "Build & Automate 2026 Enterprise E2E Tests Using AI & Playwright",
-    "id": "Garba1327/playwright-enterprise-orchestrator",
-    "language": "HTML",
-    "name": "Garba1327/playwright-enterprise-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:43:48Z",
-    "url": "https://github.com/Garba1327/playwright-enterprise-orchestrator"
-  },
-  {
     "description": "Enterprise frontend team Claude Code plugin \u2014 production-ready hooks for code review, security review, performance optim",
     "id": "bovinphang/frontend-craft",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T16:25:40Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:25:37Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:25:31Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-05-25T16:24:30Z",
-    "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:22:39Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Claude Code skill: interview-style design review that persists the full decision tree + SaaS-vs-self-host cost tradeoffs",
-    "id": "vbalasu/grill-me-store-decisions",
-    "language": "\u2014",
-    "name": "vbalasu/grill-me-store-decisions",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:21:11Z",
-    "url": "https://github.com/vbalasu/grill-me-store-decisions"
-  },
-  {
-    "description": "Claude Code skill: Conventional Commits + best-practice workflow + project-dialect scaffolding. Treats commits as durabl",
-    "id": "rhino-ty/principled-git-commit",
-    "language": "Shell",
-    "name": "rhino-ty/principled-git-commit",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:20:59Z",
-    "url": "https://github.com/rhino-ty/principled-git-commit"
   }
 ]
