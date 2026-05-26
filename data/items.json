@@ -1,12 +1,300 @@
 [
   {
+    "description": "18 strategy frameworks for positioning that holds under pressure. By Petrichor Projects.",
+    "id": "petrichorprojects/resilience-stack",
+    "language": "JavaScript",
+    "name": "petrichorprojects/resilience-stack",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:29:23Z",
+    "url": "https://github.com/petrichorprojects/resilience-stack"
+  },
+  {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
     "id": "Tibsfox/gsd-skill-creator",
     "language": "TypeScript",
     "name": "Tibsfox/gsd-skill-creator",
     "stars": 61,
-    "updated_at": "2026-05-26T03:14:46Z",
+    "updated_at": "2026-05-26T03:28:48Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 30,
+    "updated_at": "2026-05-26T03:28:28Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "One brain for all your agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 208,
+    "updated_at": "2026-05-26T03:27:46Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:26:17Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
+    "id": "alinafe82/cognitive-deadlift",
+    "language": "Python",
+    "name": "alinafe82/cognitive-deadlift",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:26:14Z",
+    "url": "https://github.com/alinafe82/cognitive-deadlift"
+  },
+  {
+    "description": "A Claude skill that turns raw material into persuasive presentation outlines. Story and narrative architecture \u2014 not des",
+    "id": "marcusnelson/powerpoint-keynote-skill",
+    "language": "\u2014",
+    "name": "marcusnelson/powerpoint-keynote-skill",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:23:53Z",
+    "url": "https://github.com/marcusnelson/powerpoint-keynote-skill"
+  },
+  {
+    "description": "A collection of reusable teaching-style skill documents for AI tutors, Claude Skills, prompt engineering, and human-frie",
+    "id": "SH20RAJ/teaching-skills",
+    "language": "\u2014",
+    "name": "SH20RAJ/teaching-skills",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:23:17Z",
+    "url": "https://github.com/SH20RAJ/teaching-skills"
+  },
+  {
+    "description": "MCP registry skill \u2014 register servers, discover tools, allow-lists, health monitoring",
+    "id": "zavora-ai/skill-mcp-registry-management",
+    "language": "Python",
+    "name": "zavora-ai/skill-mcp-registry-management",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:23:16Z",
+    "url": "https://github.com/zavora-ai/skill-mcp-registry-management"
+  },
+  {
+    "description": "Governance policy skill \u2014 evaluate, approve, simulate, audit, export evidence",
+    "id": "zavora-ai/skill-governance-policy-enforcement",
+    "language": "Python",
+    "name": "zavora-ai/skill-governance-policy-enforcement",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:23:14Z",
+    "url": "https://github.com/zavora-ai/skill-governance-policy-enforcement"
+  },
+  {
+    "description": "ACP workspace skill \u2014 coding agent sessions, patch review, permissions, publishing",
+    "id": "zavora-ai/skill-acp-workspace-management",
+    "language": "Python",
+    "name": "zavora-ai/skill-acp-workspace-management",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:22:55Z",
+    "url": "https://github.com/zavora-ai/skill-acp-workspace-management"
+  },
+  {
+    "description": "Artifact lifecycle skill \u2014 versioned storage, provenance, derivation, export",
+    "id": "zavora-ai/skill-artifact-lifecycle",
+    "language": "Python",
+    "name": "zavora-ai/skill-artifact-lifecycle",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:22:54Z",
+    "url": "https://github.com/zavora-ai/skill-artifact-lifecycle"
+  },
+  {
+    "description": "Identity governance skill \u2014 user lookup, MFA, entitlements, access requests, emergency revoke via mcp-identity",
+    "id": "zavora-ai/skill-identity-access-management",
+    "language": "Python",
+    "name": "zavora-ai/skill-identity-access-management",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:22:32Z",
+    "url": "https://github.com/zavora-ai/skill-identity-access-management"
+  },
+  {
+    "description": "Package dependency skill \u2014 versions, changelogs, compatibility, lockfile analysis, upgrade plans",
+    "id": "zavora-ai/skill-package-dependency-management",
+    "language": "Python",
+    "name": "zavora-ai/skill-package-dependency-management",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:22:30Z",
+    "url": "https://github.com/zavora-ai/skill-package-dependency-management"
+  },
+  {
+    "description": "Device fleet skill \u2014 security posture, health checks, diagnostics, remediation",
+    "id": "zavora-ai/skill-device-fleet-management",
+    "language": "Python",
+    "name": "zavora-ai/skill-device-fleet-management",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:22:28Z",
+    "url": "https://github.com/zavora-ai/skill-device-fleet-management"
+  },
+  {
+    "description": "Revenue intelligence skill for AI agents \u2014 metrics, funnels, anomaly detection, forecasting, and dashboards via mcp-anal",
+    "id": "zavora-ai/skill-analytics-reporting",
+    "language": "Python",
+    "name": "zavora-ai/skill-analytics-reporting",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:22:26Z",
+    "url": "https://github.com/zavora-ai/skill-analytics-reporting"
+  },
+  {
+    "description": "Revenue operations skill for AI agents \u2014 invoicing, collections, reconciliation, and financial reporting via mcp-finance",
+    "id": "zavora-ai/skill-finance-accounting",
+    "language": "Python",
+    "name": "zavora-ai/skill-finance-accounting",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:22:25Z",
+    "url": "https://github.com/zavora-ai/skill-finance-accounting"
+  },
+  {
+    "description": "Banking intelligence skill for AI agents \u2014 accounts, transactions, anomaly detection, and payments across Plaid, Mono, a",
+    "id": "zavora-ai/skill-banking-operations",
+    "language": "Python",
+    "name": "zavora-ai/skill-banking-operations",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:22:23Z",
+    "url": "https://github.com/zavora-ai/skill-banking-operations"
+  },
+  {
+    "description": "Environment deployment skill \u2014 health checks, promotion, rollback, drift detection",
+    "id": "zavora-ai/skill-environment-deployment",
+    "language": "Python",
+    "name": "zavora-ai/skill-environment-deployment",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:21:35Z",
+    "url": "https://github.com/zavora-ai/skill-environment-deployment"
+  },
+  {
+    "description": "Credentials vault skill \u2014 scoped secret access, rotation, revocation, and audit",
+    "id": "zavora-ai/skill-credentials-management",
+    "language": "Python",
+    "name": "zavora-ai/skill-credentials-management",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:21:33Z",
+    "url": "https://github.com/zavora-ai/skill-credentials-management"
+  },
+  {
+    "description": "Session memory skill \u2014 typed state, recall, replay snapshots, and resumable workflows",
+    "id": "zavora-ai/skill-session-memory-management",
+    "language": "Python",
+    "name": "zavora-ai/skill-session-memory-management",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:21:32Z",
+    "url": "https://github.com/zavora-ai/skill-session-memory-management"
+  },
+  {
+    "description": "Workflow orchestration skill \u2014 multi-step processes with approval gates and state machines",
+    "id": "zavora-ai/skill-workflow-orchestration",
+    "language": "Python",
+    "name": "zavora-ai/skill-workflow-orchestration",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:21:30Z",
+    "url": "https://github.com/zavora-ai/skill-workflow-orchestration"
+  },
+  {
+    "description": "A2A agent orchestration skill \u2014 discover, dispatch, stream, and manage remote agent tasks",
+    "id": "zavora-ai/skill-a2a-agent-orchestration",
+    "language": "Python",
+    "name": "zavora-ai/skill-a2a-agent-orchestration",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:21:28Z",
+    "url": "https://github.com/zavora-ai/skill-a2a-agent-orchestration"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15127,
+    "updated_at": "2026-05-26T03:20:25Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "CI/CD pipeline skill \u2014 build status, logs, reruns, deployments via mcp-cicd",
+    "id": "zavora-ai/skill-cicd-pipeline-management",
+    "language": "Python",
+    "name": "zavora-ai/skill-cicd-pipeline-management",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:19:44Z",
+    "url": "https://github.com/zavora-ai/skill-cicd-pipeline-management"
+  },
+  {
+    "description": "Multi-agent AI system for legal document analysis \u2014 compliance, risk, strategy, and redline suggestions",
+    "id": "varunk130/ai-legal-team-agent",
+    "language": "Python",
+    "name": "varunk130/ai-legal-team-agent",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:19:22Z",
+    "url": "https://github.com/varunk130/ai-legal-team-agent"
+  },
+  {
+    "description": "Multi-carrier logistics skill for AI agents \u2014 shipments, rate comparison, tracking, and route optimization via mcp-logis",
+    "id": "zavora-ai/skill-logistics-shipping",
+    "language": "Python",
+    "name": "zavora-ai/skill-logistics-shipping",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:19:17Z",
+    "url": "https://github.com/zavora-ai/skill-logistics-shipping"
+  },
+  {
+    "description": "12 AI-powered skills for product discovery \u2014 from raw customer signal to validated opportunity. Built for Claude Code & ",
+    "id": "varunk130/ai-customer-discovery-skills",
+    "language": "Python",
+    "name": "varunk130/ai-customer-discovery-skills",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:19:00Z",
+    "url": "https://github.com/varunk130/ai-customer-discovery-skills"
+  },
+  {
+    "description": "AI-powered partner ecosystem analysis for ISV intelligence and strategic insights",
+    "id": "varunk130/ai-partner-ecosystem-analysis",
+    "language": "Python",
+    "name": "varunk130/ai-partner-ecosystem-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:18:22Z",
+    "url": "https://github.com/varunk130/ai-partner-ecosystem-analysis"
+  },
+  {
+    "description": "A fully orchestrated 6-agent AI pipeline that transforms customer feedback into executive-ready strategy, PRDs, and stak",
+    "id": "varunk130/multi-ai-agent-pm-team",
+    "language": "Python",
+    "name": "varunk130/multi-ai-agent-pm-team",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:17:07Z",
+    "url": "https://github.com/varunk130/multi-ai-agent-pm-team"
+  },
+  {
+    "description": "31 opinionated GTM skills for Claude Code & GitHub Copilot \u2014 a complete revenue engine spanning discover, design, positi",
+    "id": "varunk130/ai-gtm-skill-library",
+    "language": "Python",
+    "name": "varunk130/ai-gtm-skill-library",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:16:37Z",
+    "url": "https://github.com/varunk130/ai-gtm-skill-library"
+  },
+  {
+    "description": "Turn raw research into Jobs-to-be-Done statements \u2014 extract functional, emotional, and social jobs with opportunity scor",
+    "id": "varunk130/jtbd-extractor",
+    "language": "Python",
+    "name": "varunk130/jtbd-extractor",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:15:25Z",
+    "url": "https://github.com/varunk130/jtbd-extractor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Multi-agent system that generates production-grade PRDs for regulated industries using 4 specialized AI agents in parall",
@@ -25,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T03:13:26Z",
     "url": "https://github.com/varunk130/ai-workflow-playbooks"
-  },
-  {
-    "description": "A repo in which - teaching styles skills is stored",
-    "id": "SH20RAJ/teaching-skills",
-    "language": "\u2014",
-    "name": "SH20RAJ/teaching-skills",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:12:55Z",
-    "url": "https://github.com/SH20RAJ/teaching-skills"
   },
   {
     "description": "Curated AI agent evaluation skills from Microsoft's Eval Guide \u2014 plan, generate, run, and interpret eval suites for Copi",
@@ -117,15 +396,6 @@
     "url": "https://github.com/kongma1891/microsoft-style-skill"
   },
   {
-    "description": "AI-powered partner ecosystem analysis for ISV intelligence and strategic insights",
-    "id": "varunk130/ai-partner-ecosystem-analysis",
-    "language": "Python",
-    "name": "varunk130/ai-partner-ecosystem-analysis",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:08:56Z",
-    "url": "https://github.com/varunk130/ai-partner-ecosystem-analysis"
-  },
-  {
     "description": "Curate agent skills and template libraries to build single-file HTML presentations for Claude Code, Cursor, and other AI",
     "id": "alissonkohn01-cmyk/awesome-html-slide-skills",
     "language": "\u2014",
@@ -142,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T03:08:23Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15123,
-    "updated_at": "2026-05-26T03:15:08Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
@@ -180,15 +441,6 @@
     "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
   },
   {
-    "description": "31 opinionated GTM skills for Claude Code & GitHub Copilot \u2014 a complete revenue engine spanning discover, design, positi",
-    "id": "varunk130/ai-gtm-skill-library",
-    "language": "Python",
-    "name": "varunk130/ai-gtm-skill-library",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:07:30Z",
-    "url": "https://github.com/varunk130/ai-gtm-skill-library"
-  },
-  {
     "description": "Build & Automate 2026 Enterprise E2E Tests Using AI & Playwright",
     "id": "Garba1327/playwright-enterprise-orchestrator",
     "language": "HTML",
@@ -196,257 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T03:07:04Z",
     "url": "https://github.com/Garba1327/playwright-enterprise-orchestrator"
-  },
-  {
-    "description": "12 AI-powered skills for product discovery \u2014 from raw customer signal to validated opportunity. Built for Claude Code & ",
-    "id": "varunk130/ai-customer-discovery-skills",
-    "language": "Python",
-    "name": "varunk130/ai-customer-discovery-skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:06:35Z",
-    "url": "https://github.com/varunk130/ai-customer-discovery-skills"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:06:15Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Deploy 76 audit-ready robotics skills for Claude with integrated KPI dashboards, ISO standard compliance, and automated ",
-    "id": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:06:08Z",
-    "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:06:08Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:05:49Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:05:45Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:05:44Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Multi-agent AI system for legal document analysis \u2014 compliance, risk, strategy, and redline suggestions",
-    "id": "varunk130/ai-legal-team-agent",
-    "language": "Python",
-    "name": "varunk130/ai-legal-team-agent",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:05:18Z",
-    "url": "https://github.com/varunk130/ai-legal-team-agent"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:04:40Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:04:16Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Optimize your AI workflow with this open-source Electron desktop client for Claude, featuring native integration and eff",
-    "id": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "language": "JavaScript",
-    "name": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:04:16Z",
-    "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:04:02Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:03:51Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:03:42Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:03:33Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:03:21Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:03:10Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
-  },
-  {
-    "description": "Connect Claude Managed Agents to Linear using a bridge server to automate issue management and sync responses through ag",
-    "id": "Saudiarabian-tachograph4331/claude-managed-agents-demo",
-    "language": "TypeScript",
-    "name": "Saudiarabian-tachograph4331/claude-managed-agents-demo",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:03:07Z",
-    "url": "https://github.com/Saudiarabian-tachograph4331/claude-managed-agents-demo"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:03:07Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:03:06Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:03:05Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:02:57Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:02:52Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:02:42Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:02:32Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:02:15Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Transform public expressions and interpersonal insights into a standardized modular skill set for cross-platform applica",
-    "id": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "language": "\u2014",
-    "name": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:02:09Z",
-    "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:02:02Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
   }
 ]
