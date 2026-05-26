@@ -1,11 +1,119 @@
 [
   {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 30,
+    "updated_at": "2026-05-26T04:45:00Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Semantic agent skills for cloud operations \u2014 open SKILL.md packages for Claude Code, Cursor, Codex CLI. Includes huawei-",
+    "id": "ontology-of-everything/SemanticSkills",
+    "language": "Python",
+    "name": "ontology-of-everything/SemanticSkills",
+    "stars": 5,
+    "updated_at": "2026-05-26T04:44:20Z",
+    "url": "https://github.com/ontology-of-everything/SemanticSkills"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 5963,
+    "updated_at": "2026-05-26T04:43:26Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:41:00Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "50+ curated agent skills for Claude Cowork and Claude.ai \u2014 ready-to-use tools for non-technical users: project managemen",
+    "id": "KirKruglov/claude-skills-kit",
+    "language": "\u2014",
+    "name": "KirKruglov/claude-skills-kit",
+    "stars": 8,
+    "updated_at": "2026-05-26T04:39:28Z",
+    "url": "https://github.com/KirKruglov/claude-skills-kit"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:39:18Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Learn Claude Code Internals 2026: Tools, Permissions & Streaming Pipeline",
+    "id": "Danielking101/study-claude-code-architecture",
+    "language": "HTML",
+    "name": "Danielking101/study-claude-code-architecture",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:39:12Z",
+    "url": "https://github.com/Danielking101/study-claude-code-architecture"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:37:26Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "Claude skill for Betaflight: FPV drone configuration, PID tuning, log analysis, and troubleshooting.",
+    "id": "SebGalina/betaflight-claude-skill",
+    "language": "Python",
+    "name": "SebGalina/betaflight-claude-skill",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:36:48Z",
+    "url": "https://github.com/SebGalina/betaflight-claude-skill"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 0,
+    "updated_at": "2026-05-26T04:35:52Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
+    "id": "cclank/lanshu-awesome-ai-video-kit",
+    "language": "HTML",
+    "name": "cclank/lanshu-awesome-ai-video-kit",
+    "stars": 29,
+    "updated_at": "2026-05-26T04:32:08Z",
+    "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-26T04:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
     "id": "apresmoi/jianglens",
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-05-26T04:25:57Z",
+    "updated_at": "2026-05-26T04:42:15Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -34,15 +142,6 @@
     "stars": 243,
     "updated_at": "2026-05-26T04:17:54Z",
     "url": "https://github.com/rampstackco/claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T04:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -97,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T04:02:38Z",
     "url": "https://github.com/Modellix/modellix-skill"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 30,
-    "updated_at": "2026-05-26T04:02:24Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
     "description": "A structured, trilingual (\u7e41\u4e2d / \u7b80\u4e2d / English) learning roadmap for agentic AI \u2014 from LLM basics to multi-agent systems. 8",
@@ -346,7 +436,7 @@
     "id": "zavora-ai/skill-device-fleet-management",
     "language": "Python",
     "name": "zavora-ai/skill-device-fleet-management",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-26T03:22:28Z",
     "url": "https://github.com/zavora-ai/skill-device-fleet-management"
   },
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T03:22:26Z",
     "url": "https://github.com/zavora-ai/skill-analytics-reporting"
-  },
-  {
-    "description": "Revenue operations skill for AI agents \u2014 invoicing, collections, reconciliation, and financial reporting via mcp-finance",
-    "id": "zavora-ai/skill-finance-accounting",
-    "language": "Python",
-    "name": "zavora-ai/skill-finance-accounting",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:22:25Z",
-    "url": "https://github.com/zavora-ai/skill-finance-accounting"
-  },
-  {
-    "description": "Banking intelligence skill for AI agents \u2014 accounts, transactions, anomaly detection, and payments across Plaid, Mono, a",
-    "id": "zavora-ai/skill-banking-operations",
-    "language": "Python",
-    "name": "zavora-ai/skill-banking-operations",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:22:23Z",
-    "url": "https://github.com/zavora-ai/skill-banking-operations"
-  },
-  {
-    "description": "Environment deployment skill \u2014 health checks, promotion, rollback, drift detection",
-    "id": "zavora-ai/skill-environment-deployment",
-    "language": "Python",
-    "name": "zavora-ai/skill-environment-deployment",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:21:35Z",
-    "url": "https://github.com/zavora-ai/skill-environment-deployment"
-  },
-  {
-    "description": "Credentials vault skill \u2014 scoped secret access, rotation, revocation, and audit",
-    "id": "zavora-ai/skill-credentials-management",
-    "language": "Python",
-    "name": "zavora-ai/skill-credentials-management",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:21:33Z",
-    "url": "https://github.com/zavora-ai/skill-credentials-management"
-  },
-  {
-    "description": "Session memory skill \u2014 typed state, recall, replay snapshots, and resumable workflows",
-    "id": "zavora-ai/skill-session-memory-management",
-    "language": "Python",
-    "name": "zavora-ai/skill-session-memory-management",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:21:32Z",
-    "url": "https://github.com/zavora-ai/skill-session-memory-management"
-  },
-  {
-    "description": "Workflow orchestration skill \u2014 multi-step processes with approval gates and state machines",
-    "id": "zavora-ai/skill-workflow-orchestration",
-    "language": "Python",
-    "name": "zavora-ai/skill-workflow-orchestration",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:21:30Z",
-    "url": "https://github.com/zavora-ai/skill-workflow-orchestration"
-  },
-  {
-    "description": "A2A agent orchestration skill \u2014 discover, dispatch, stream, and manage remote agent tasks",
-    "id": "zavora-ai/skill-a2a-agent-orchestration",
-    "language": "Python",
-    "name": "zavora-ai/skill-a2a-agent-orchestration",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:21:28Z",
-    "url": "https://github.com/zavora-ai/skill-a2a-agent-orchestration"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15130,
-    "updated_at": "2026-05-26T03:20:25Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "CI/CD pipeline skill \u2014 build status, logs, reruns, deployments via mcp-cicd",
-    "id": "zavora-ai/skill-cicd-pipeline-management",
-    "language": "Python",
-    "name": "zavora-ai/skill-cicd-pipeline-management",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:19:44Z",
-    "url": "https://github.com/zavora-ai/skill-cicd-pipeline-management"
-  },
-  {
-    "description": "Multi-agent AI system for legal document analysis \u2014 compliance, risk, strategy, and redline suggestions",
-    "id": "varunk130/ai-legal-team-agent",
-    "language": "Python",
-    "name": "varunk130/ai-legal-team-agent",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:19:22Z",
-    "url": "https://github.com/varunk130/ai-legal-team-agent"
   }
 ]
