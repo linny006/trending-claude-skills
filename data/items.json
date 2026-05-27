@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 9,
+    "updated_at": "2026-05-27T15:58:12Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15296,
+    "updated_at": "2026-05-27T15:53:16Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI altern",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 1317,
+    "updated_at": "2026-05-27T15:52:30Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Claude Code agent skills: multi-expert stock analysis, markdown-to-docx",
+    "id": "desmondc9/agent-skills",
+    "language": "Python",
+    "name": "desmondc9/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:51:17Z",
+    "url": "https://github.com/desmondc9/agent-skills"
+  },
+  {
+    "description": "Generate and maintain Claude skills from a SaaS vendor's own API signals \u2014 OpenAPI, GraphQL, llms.txt, docs, MCP catalog",
+    "id": "Firmislabs/skillship",
+    "language": "TypeScript",
+    "name": "Firmislabs/skillship",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:50:23Z",
+    "url": "https://github.com/Firmislabs/skillship"
+  },
+  {
+    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
+    "id": "fabioc-aloha/Alex_ACT_Edition",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Edition",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:49:27Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
+  },
+  {
+    "description": "Build visual Claude skills - widgets that render in claude.ai and Claude Desktop. Four-package pnpm monorepo; see README",
+    "id": "jordanl17/visill",
+    "language": "TypeScript",
+    "name": "jordanl17/visill",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:47:04Z",
+    "url": "https://github.com/jordanl17/visill"
+  },
+  {
+    "description": "Decision-quality pre-commitment analysis. Hosted at azimuth-testbed.netlify.app \u2014 no install required. Claude Code skill",
+    "id": "MrBinnacle/azimuth",
+    "language": "HTML",
+    "name": "MrBinnacle/azimuth",
+    "stars": 6,
+    "updated_at": "2026-05-27T15:46:33Z",
+    "url": "https://github.com/MrBinnacle/azimuth"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T15:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T15:45:13Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
     "description": "Nyann (\u1004\u103c\u1019\u103a\u1038) is Burmese for scaffolding. Nyann is a Claude Code plugin that sets up and maintains project governance.",
     "id": "thettwe/nyann",
     "language": "Shell",
@@ -27,20 +117,11 @@
     "url": "https://github.com/guorunjie/agentic-workflow-guard"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15293,
-    "updated_at": "2026-05-27T15:41:06Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "Use when translating academic papers (PDF to Chinese Markdown), extracting PDFs with MinerU API, or needing to preserve ",
     "id": "APLaS-Plus/paper-translation",
     "language": "Python",
     "name": "APLaS-Plus/paper-translation",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-05-27T15:39:48Z",
     "url": "https://github.com/APLaS-Plus/paper-translation"
   },
@@ -54,15 +135,6 @@
     "url": "https://github.com/quzhiii/thesis-skills"
   },
   {
-    "description": "Decision-quality pre-commitment analysis. Hosted at azimuth-testbed.netlify.app \u2014 no install required. Claude Code skill",
-    "id": "MrBinnacle/azimuth",
-    "language": "HTML",
-    "name": "MrBinnacle/azimuth",
-    "stars": 6,
-    "updated_at": "2026-05-27T15:43:33Z",
-    "url": "https://github.com/MrBinnacle/azimuth"
-  },
-  {
     "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
     "id": "yurukusa/cc-safe-setup",
     "language": "Shell",
@@ -70,15 +142,6 @@
     "stars": 33,
     "updated_at": "2026-05-27T15:34:44Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T15:45:13Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -90,21 +153,12 @@
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T15:30:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Fill standard legal agreement templates and produce signable DOCX files.",
     "id": "open-agreements/open-agreements",
     "language": "TypeScript",
     "name": "open-agreements/open-agreements",
     "stars": 34,
-    "updated_at": "2026-05-27T15:41:21Z",
+    "updated_at": "2026-05-27T15:47:27Z",
     "url": "https://github.com/open-agreements/open-agreements"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T15:22:23Z",
     "url": "https://github.com/konglong87/shenbi-maliang"
-  },
-  {
-    "description": "Build visual Claude skills - widgets that render in claude.ai and Claude Desktop. Four-package pnpm monorepo; see README",
-    "id": "jordanl17/visill",
-    "language": "TypeScript",
-    "name": "jordanl17/visill",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:21:55Z",
-    "url": "https://github.com/jordanl17/visill"
   },
   {
     "description": "Outbound sales, autopiloted.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:26:08Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Plugin with opinionated set of Claude Code agents nad skills",
-    "id": "lklimek/claudius",
-    "language": "Python",
-    "name": "lklimek/claudius",
-    "stars": 1,
-    "updated_at": "2026-05-27T14:53:03Z",
-    "url": "https://github.com/lklimek/claudius"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:25:32Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Multi-LLM Plan and TDD flow",
-    "id": "gitgitWi/council-flow",
-    "language": "Shell",
-    "name": "gitgitWi/council-flow",
-    "stars": 1,
-    "updated_at": "2026-05-27T14:24:21Z",
-    "url": "https://github.com/gitgitWi/council-flow"
-  },
-  {
-    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
-    "id": "maxritter/pilot-shell",
-    "language": "TypeScript",
-    "name": "maxritter/pilot-shell",
-    "stars": 1728,
-    "updated_at": "2026-05-27T14:23:24Z",
-    "url": "https://github.com/maxritter/pilot-shell"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:21:28Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   }
 ]
