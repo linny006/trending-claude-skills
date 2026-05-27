@@ -1,5 +1,104 @@
 [
   {
+    "description": "Git workflow safety skills for rebase validation, merge auditing, and stacked PR management",
+    "id": "voxpelli/claude-git",
+    "language": "JavaScript",
+    "name": "voxpelli/claude-git",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:12:17Z",
+    "url": "https://github.com/voxpelli/claude-git"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 1588,
+    "updated_at": "2026-05-27T16:12:43Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "Claude Code agent skills: multi-expert stock analysis, markdown-to-docx",
+    "id": "desmondc9/agent-skills",
+    "language": "Python",
+    "name": "desmondc9/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:11:36Z",
+    "url": "https://github.com/desmondc9/agent-skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:11:15Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
+    "id": "OpenLatch/saferskills",
+    "language": "Python",
+    "name": "OpenLatch/saferskills",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:07:58Z",
+    "url": "https://github.com/OpenLatch/saferskills"
+  },
+  {
+    "description": "Agent skills for VillageSQL - gemini-cli-extension; claude-code-plugin",
+    "id": "villagesql/villagesql-skills",
+    "language": "\u2014",
+    "name": "villagesql/villagesql-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:07:10Z",
+    "url": "https://github.com/villagesql/villagesql-skills"
+  },
+  {
+    "description": "Find dangerous AI automation workflows before agents get write access; ships a portable skill pack for GitHub Actions, n",
+    "id": "guorunjie/agentic-workflow-guard",
+    "language": "JavaScript",
+    "name": "guorunjie/agentic-workflow-guard",
+    "stars": 1,
+    "updated_at": "2026-05-27T16:07:09Z",
+    "url": "https://github.com/guorunjie/agentic-workflow-guard"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 61,
+    "updated_at": "2026-05-27T16:05:01Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Nyann (\u1004\u103c\u1019\u103a\u1038) is Burmese for scaffolding. Nyann is a Claude Code plugin that sets up and maintains project governance.",
+    "id": "thettwe/nyann",
+    "language": "Shell",
+    "name": "thettwe/nyann",
+    "stars": 5,
+    "updated_at": "2026-05-27T16:04:40Z",
+    "url": "https://github.com/thettwe/nyann"
+  },
+  {
+    "description": "Daily signals for agentic payment infrastructure, stablecoin rails, wallets, risk, compliance, and agent-executable comm",
+    "id": "Stablehunter/agentic-payment-signal",
+    "language": "\u2014",
+    "name": "Stablehunter/agentic-payment-signal",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:01:35Z",
+    "url": "https://github.com/Stablehunter/agentic-payment-signal"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T16:00:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
     "id": "BENZEMA216/awesome-weread",
     "language": "JavaScript",
@@ -25,15 +124,6 @@
     "stars": 1317,
     "updated_at": "2026-05-27T15:52:30Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "Claude Code agent skills: multi-expert stock analysis, markdown-to-docx",
-    "id": "desmondc9/agent-skills",
-    "language": "Python",
-    "name": "desmondc9/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:51:17Z",
-    "url": "https://github.com/desmondc9/agent-skills"
   },
   {
     "description": "Generate and maintain Claude skills from a SaaS vendor's own API signals \u2014 OpenAPI, GraphQL, llms.txt, docs, MCP catalog",
@@ -72,15 +162,6 @@
     "url": "https://github.com/MrBinnacle/azimuth"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T15:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
     "id": "ssurmic/claude-investment-skills",
     "language": "Python",
@@ -88,33 +169,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T15:45:13Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Nyann (\u1004\u103c\u1019\u103a\u1038) is Burmese for scaffolding. Nyann is a Claude Code plugin that sets up and maintains project governance.",
-    "id": "thettwe/nyann",
-    "language": "Shell",
-    "name": "thettwe/nyann",
-    "stars": 5,
-    "updated_at": "2026-05-27T15:44:42Z",
-    "url": "https://github.com/thettwe/nyann"
-  },
-  {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 61,
-    "updated_at": "2026-05-27T15:44:14Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "Find dangerous AI automation workflows before agents get write access; ships a portable skill pack for GitHub Actions, n",
-    "id": "guorunjie/agentic-workflow-guard",
-    "language": "JavaScript",
-    "name": "guorunjie/agentic-workflow-guard",
-    "stars": 1,
-    "updated_at": "2026-05-27T15:45:03Z",
-    "url": "https://github.com/guorunjie/agentic-workflow-guard"
   },
   {
     "description": "Use when translating academic papers (PDF to Chinese Markdown), extracting PDFs with MinerU API, or needing to preserve ",
@@ -252,6 +306,15 @@
     "url": "https://github.com/MaskedControl/skills"
   },
   {
+    "description": "Comprehensive clinical pathology toolkit for Claude - skills for CAP/ICCR compliance, TNM staging, synoptic templates, S",
+    "id": "sbalci/pathology-skills-collection",
+    "language": "Python",
+    "name": "sbalci/pathology-skills-collection",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:10:45Z",
+    "url": "https://github.com/sbalci/pathology-skills-collection"
+  },
+  {
     "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
     "id": "charlieviettq/awesome-agent-skill",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:30:28Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:30:05Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:29:48Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 80,
-    "updated_at": "2026-05-27T14:29:26Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:28:43Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:28:30Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:26:48Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:26:08Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
