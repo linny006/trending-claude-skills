@@ -1,5 +1,77 @@
 [
   {
+    "description": "Collection of AI Agent Code skills",
+    "id": "kogakure/skills",
+    "language": "\u2014",
+    "name": "kogakure/skills",
+    "stars": 5,
+    "updated_at": "2026-05-27T15:00:01Z",
+    "url": "https://github.com/kogakure/skills"
+  },
+  {
+    "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
+    "id": "charlieviettq/awesome-agent-skill",
+    "language": "Python",
+    "name": "charlieviettq/awesome-agent-skill",
+    "stars": 14,
+    "updated_at": "2026-05-27T14:55:33Z",
+    "url": "https://github.com/charlieviettq/awesome-agent-skill"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15290,
+    "updated_at": "2026-05-27T14:55:14Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 16320,
+    "updated_at": "2026-05-27T14:54:09Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T14:46:24Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Deploy Your Frontend in a Single Command. Claude Code Skills supported.",
+    "id": "glitternetwork/pinme",
+    "language": "TypeScript",
+    "name": "glitternetwork/pinme",
+    "stars": 3570,
+    "updated_at": "2026-05-27T14:45:30Z",
+    "url": "https://github.com/glitternetwork/pinme"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:45:21Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T14:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI Agent skills to access structured datasets for startup founders",
     "id": "nostrband/ServiceGraph",
     "language": "Shell",
@@ -23,17 +95,8 @@
     "language": "Python",
     "name": "1shooperman/shooperman-claude-plugins",
     "stars": 0,
-    "updated_at": "2026-05-27T14:40:53Z",
+    "updated_at": "2026-05-27T14:58:29Z",
     "url": "https://github.com/1shooperman/shooperman-claude-plugins"
-  },
-  {
-    "description": "329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 16319,
-    "updated_at": "2026-05-27T14:40:14Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -45,21 +108,12 @@
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
-    "description": "Collection of AI Agent Code skills",
-    "id": "kogakure/skills",
-    "language": "\u2014",
-    "name": "kogakure/skills",
-    "stars": 5,
-    "updated_at": "2026-05-27T14:34:50Z",
-    "url": "https://github.com/kogakure/skills"
-  },
-  {
     "description": "Personal collection of Claude Code skills for development workflows",
     "id": "technicalpickles/pickled-claude-plugins",
     "language": "Python",
     "name": "technicalpickles/pickled-claude-plugins",
     "stars": 10,
-    "updated_at": "2026-05-27T14:33:44Z",
+    "updated_at": "2026-05-27T14:47:01Z",
     "url": "https://github.com/technicalpickles/pickled-claude-plugins"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/munexor/seo-opportunity-nexus"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T14:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
     "id": "arnoldalberto007-sys/Swift-UIKit-Components",
     "language": "HTML",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:30:05Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15290,
-    "updated_at": "2026-05-27T14:41:59Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -162,15 +198,6 @@
     "url": "https://github.com/hieu5882/telos-customer-validator"
   },
   {
-    "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
-    "id": "charlieviettq/awesome-agent-skill",
-    "language": "Python",
-    "name": "charlieviettq/awesome-agent-skill",
-    "stars": 14,
-    "updated_at": "2026-05-27T14:26:57Z",
-    "url": "https://github.com/charlieviettq/awesome-agent-skill"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "lklimek/claudius",
     "stars": 1,
-    "updated_at": "2026-05-27T14:29:07Z",
+    "updated_at": "2026-05-27T14:53:03Z",
     "url": "https://github.com/lklimek/claudius"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:18:23Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T14:16:09Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -374,7 +392,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 87,
-    "updated_at": "2026-05-27T13:48:40Z",
+    "updated_at": "2026-05-27T14:54:05Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-05-27T13:06:36Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "One manifest for every AI coding agent: generate AGENTS.md, Claude Skills, Codex Skills, Cursor rules, and Copilot instr",
-    "id": "guorunjie/skillpack-forge",
-    "language": "JavaScript",
-    "name": "guorunjie/skillpack-forge",
-    "stars": 1,
-    "updated_at": "2026-05-27T12:59:51Z",
-    "url": "https://github.com/guorunjie/skillpack-forge"
-  },
-  {
-    "description": "Deploy Your Frontend in a Single Command. Claude Code Skills supported.",
-    "id": "glitternetwork/pinme",
-    "language": "TypeScript",
-    "name": "glitternetwork/pinme",
-    "stars": 3570,
-    "updated_at": "2026-05-27T14:43:06Z",
-    "url": "https://github.com/glitternetwork/pinme"
   }
 ]
