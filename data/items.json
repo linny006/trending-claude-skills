@@ -1,12 +1,66 @@
 [
   {
+    "description": "Your AI digital clone \u2014 learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a",
+    "id": "project-nomos/nomos",
+    "language": "TypeScript",
+    "name": "project-nomos/nomos",
+    "stars": 20,
+    "updated_at": "2026-05-27T00:43:41Z",
+    "url": "https://github.com/project-nomos/nomos"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 369,
+    "updated_at": "2026-05-27T00:43:40Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Writing Intelligence v3.0 \u2014 Sovereign Writing Operating System. 11-pass governed kernel. 12 engines. 12 specialist agent",
+    "id": "antonio0720/writing-intelligence",
+    "language": "\u2014",
+    "name": "antonio0720/writing-intelligence",
+    "stars": 12,
+    "updated_at": "2026-05-27T00:43:18Z",
+    "url": "https://github.com/antonio0720/writing-intelligence"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 61,
+    "updated_at": "2026-05-27T00:40:19Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Webcraft Skills empowers AI to not only generate web pages, but also critique and perfect them \u2014 helping AI create inter",
+    "id": "frankguodev/webcraft-skills",
+    "language": "JavaScript",
+    "name": "frankguodev/webcraft-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T00:40:06Z",
+    "url": "https://github.com/frankguodev/webcraft-skills"
+  },
+  {
     "description": "A Claude Code skill for creating polished web and UI designs from structured website plans.",
     "id": "liberastudio-mx/skill-web-design",
     "language": "\u2014",
     "name": "liberastudio-mx/skill-web-design",
     "stars": 1,
-    "updated_at": "2026-05-27T00:29:38Z",
+    "updated_at": "2026-05-27T00:39:34Z",
     "url": "https://github.com/liberastudio-mx/skill-web-design"
+  },
+  {
+    "description": "Build & Automate 2026 Enterprise E2E Tests Using AI & Playwright",
+    "id": "Garba1327/playwright-enterprise-orchestrator",
+    "language": "HTML",
+    "name": "Garba1327/playwright-enterprise-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-27T00:39:24Z",
+    "url": "https://github.com/Garba1327/playwright-enterprise-orchestrator"
   },
   {
     "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
@@ -14,8 +68,35 @@
     "language": "Python",
     "name": "fabioc-aloha/Alex_Skill_Mall",
     "stars": 0,
-    "updated_at": "2026-05-27T00:29:17Z",
+    "updated_at": "2026-05-27T00:39:15Z",
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "This AI Skill supports development using the Next2D Framework and Next2D Player. It assists with code generation followi",
+    "id": "Next2D/next2d-development-assistant",
+    "language": "\u2014",
+    "name": "Next2D/next2d-development-assistant",
+    "stars": 0,
+    "updated_at": "2026-05-27T00:38:24Z",
+    "url": "https://github.com/Next2D/next2d-development-assistant"
+  },
+  {
+    "description": "\ud55c\uad6d \ubcc0\ub9ac\uc0ac \uc2e4\ubb34\ub97c \uc704\ud55c Claude \uc2a4\ud0ac \ubaa8\uc74c \u2014 \ubc1c\uba85\uc790 \ubbf8\ud305\ubd80\ud130 docx \ucd9c\ub825\uae4c\uc9c0",
+    "id": "lsj4232/KR_PATENT_SKILL",
+    "language": "JavaScript",
+    "name": "lsj4232/KR_PATENT_SKILL",
+    "stars": 0,
+    "updated_at": "2026-05-27T00:35:19Z",
+    "url": "https://github.com/lsj4232/KR_PATENT_SKILL"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T00:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Local-first AI agent platform for desktop and CLI. Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents i",
@@ -34,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T00:22:49Z",
     "url": "https://github.com/RayFernando1337/rayfernando-skills"
-  },
-  {
-    "description": "Writing Intelligence v3.0 \u2014 Sovereign Writing Operating System. 11-pass governed kernel. 12 engines. 12 specialist agent",
-    "id": "antonio0720/writing-intelligence",
-    "language": "\u2014",
-    "name": "antonio0720/writing-intelligence",
-    "stars": 12,
-    "updated_at": "2026-05-27T00:21:59Z",
-    "url": "https://github.com/antonio0720/writing-intelligence"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T00:19:03Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A structured, trilingual (\u7e41\u4e2d / \u7b80\u4e2d / English) learning roadmap for agentic AI \u2014 from LLM basics to multi-agent systems. 8",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T00:08:44Z",
     "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:08:43Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-05-27T00:08:43Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:08:41Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:08:35Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:08:33Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "",
-    "id": "jordanl17/claude-skill-linear-editing",
-    "language": "TypeScript",
-    "name": "jordanl17/claude-skill-linear-editing",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:08:13Z",
-    "url": "https://github.com/jordanl17/claude-skill-linear-editing"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:08:13Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
   }
 ]
