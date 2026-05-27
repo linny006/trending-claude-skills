@@ -1,12 +1,120 @@
 [
   {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T12:25:32Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-05-27T12:25:21Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "Neo Skills \u662f\u5c08\u70ba\u73fe\u4ee3 AI Agent \u8a2d\u8a08\u7684\u5168\u65b9\u4f4d\u80fd\u529b\u64f4\u5145\u5957\u4ef6\u3002\u672c\u5c08\u6848\u900f\u904e\u6a19\u6e96\u5316\u7684\u901a\u8a0a\u67b6\u69cb\uff0c\u70ba AI \u4ee3\u7406\u5b89\u88dd\u53ef\u63d2\u62d4\u7684\u300c\u6280\u80fd\u6a21\u7d44 (Skills)\u300d\uff0c\u4f7f\u5176\u4e0d\u50c5\u50c5\u662f\u4e00\u500b\u804a\u5929\u6a5f\u5668\u4eba\uff0c\u800c\u662f\u80fd\u8f49\u5316\u70ba\u5177\u5099\u300c\u611f\u77e5-\u63a8\u7406-\u884c\u52d5\u300d\u80fd\u529b\u7684\u591a\u9818\u57df",
+    "id": "Benknightdark/neo-skills",
+    "language": "JavaScript",
+    "name": "Benknightdark/neo-skills",
+    "stars": 5,
+    "updated_at": "2026-05-27T12:25:16Z",
+    "url": "https://github.com/Benknightdark/neo-skills"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 32,
+    "updated_at": "2026-05-27T12:24:31Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 61,
+    "updated_at": "2026-05-27T12:21:37Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Package manager for Claude Code skills and agents and other AI related resources",
+    "id": "mensfeld/craftdesk",
+    "language": "TypeScript",
+    "name": "mensfeld/craftdesk",
+    "stars": 59,
+    "updated_at": "2026-05-27T12:20:43Z",
+    "url": "https://github.com/mensfeld/craftdesk"
+  },
+  {
+    "description": "A set of rules possibly applicable to a source code repository: ask your AI agent to configure your linter this way",
+    "id": "yegor256/purist",
+    "language": "\u2014",
+    "name": "yegor256/purist",
+    "stars": 1,
+    "updated_at": "2026-05-27T12:18:44Z",
+    "url": "https://github.com/yegor256/purist"
+  },
+  {
+    "description": "Claude Code marketplace of small, opinionated plugins by yegor256",
+    "id": "yegor256/plugins",
+    "language": "\u2014",
+    "name": "yegor256/plugins",
+    "stars": 19,
+    "updated_at": "2026-05-27T12:18:37Z",
+    "url": "https://github.com/yegor256/plugins"
+  },
+  {
+    "description": "A collection of skills for an AI agent that helps writing texts",
+    "id": "yegor256/critic",
+    "language": "TeX",
+    "name": "yegor256/critic",
+    "stars": 1,
+    "updated_at": "2026-05-27T12:18:30Z",
+    "url": "https://github.com/yegor256/critic"
+  },
+  {
+    "description": "A skill for an AI agent to help it create well documented and clean pull requests",
+    "id": "yegor256/courier",
+    "language": "\u2014",
+    "name": "yegor256/courier",
+    "stars": 1,
+    "updated_at": "2026-05-27T12:18:23Z",
+    "url": "https://github.com/yegor256/courier"
+  },
+  {
+    "description": "A collection of skills for an AI agent that helps filing bug reports as GitHub issues",
+    "id": "yegor256/bugscribe",
+    "language": "\u2014",
+    "name": "yegor256/bugscribe",
+    "stars": 0,
+    "updated_at": "2026-05-27T12:18:06Z",
+    "url": "https://github.com/yegor256/bugscribe"
+  },
+  {
     "description": "Security scanner and portable skill pack for AI automation workflows across GitHub Actions, n8n, MCP, Claude, Codex, Gem",
     "id": "guorunjie/agentic-workflow-guard",
     "language": "JavaScript",
     "name": "guorunjie/agentic-workflow-guard",
     "stars": 0,
-    "updated_at": "2026-05-27T12:14:54Z",
+    "updated_at": "2026-05-27T12:17:29Z",
     "url": "https://github.com/guorunjie/agentic-workflow-guard"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T12:16:32Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI Skills\uff08ai-skills.ai\uff09\u662f\u4e00\u4e2a\u9762\u5411\u5404\u884c\u5404\u4e1a\u7684 AI \u6280\u80fd\u5e93\u3002\u53ef\u76f4\u63a5\u7528\u4e8eopenclaw\uff0cHermes\uff0cqclaw\uff0cclaude code\uff0ccodex\u7b49\u667a\u80fd\u4f53\u5e73\u53f0\u3002\u4e3a\u4f60\u7684\u804c\u4e1a\u53d1\u5c55\u3001\u884c\u4e1a\u7ade\u4e89\u529b\uff0c\u589e\u52a0\u66f4\u591a\u53ef\u80fd\u3002",
@@ -36,21 +144,12 @@
     "url": "https://github.com/rohitg00/pro-workflow"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T12:02:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
     "id": "charlieviettq/awesome-agent-skill",
     "language": "Python",
     "name": "charlieviettq/awesome-agent-skill",
     "stars": 14,
-    "updated_at": "2026-05-27T11:59:08Z",
+    "updated_at": "2026-05-27T12:21:55Z",
     "url": "https://github.com/charlieviettq/awesome-agent-skill"
   },
   {
@@ -61,15 +160,6 @@
     "stars": 15284,
     "updated_at": "2026-05-27T12:12:23Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 61,
-    "updated_at": "2026-05-27T12:01:07Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
     "description": "When your agent starts coding, you gotta let it cook",
@@ -85,7 +175,7 @@
     "id": "browser-act/skills",
     "language": "Python",
     "name": "browser-act/skills",
-    "stars": 1483,
+    "stars": 1484,
     "updated_at": "2026-05-27T11:51:32Z",
     "url": "https://github.com/browser-act/skills"
   },
@@ -95,7 +185,7 @@
     "language": "Python",
     "name": "WhatIfWeDigDeeper/agent-skills",
     "stars": 1,
-    "updated_at": "2026-05-27T11:56:45Z",
+    "updated_at": "2026-05-27T12:27:28Z",
     "url": "https://github.com/WhatIfWeDigDeeper/agent-skills"
   },
   {
@@ -160,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T11:12:58Z",
     "url": "https://github.com/Garba1327/playwright-enterprise-orchestrator"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T11:11:49Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "RunDrill \u2014 courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro",
@@ -346,7 +427,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 59766,
+    "stars": 59767,
     "updated_at": "2026-05-27T10:26:23Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:20:10Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Reusable Codex/Claude-style skill folders for repeatable AI workflows.",
-    "id": "jqaisystems/jqai-ai-skills",
-    "language": "HTML",
-    "name": "jqaisystems/jqai-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:17:32Z",
-    "url": "https://github.com/jqaisystems/jqai-ai-skills"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:14:50Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:14:02Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 32,
-    "updated_at": "2026-05-27T10:12:12Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:11:48Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Production-ready Next.js + Postgres starter with 6 Claude Code skills. Zero-downtime migrations, instant DB branches, PI",
-    "id": "xataio/nextjs-claude-code-starter",
-    "language": "TypeScript",
-    "name": "xataio/nextjs-claude-code-starter",
-    "stars": 1,
-    "updated_at": "2026-05-27T10:11:46Z",
-    "url": "https://github.com/xataio/nextjs-claude-code-starter"
-  },
-  {
-    "description": "A curated Claude Code plugin with skills for anything Claude can do.",
-    "id": "toolbox-playground/super-claudio",
-    "language": "\u2014",
-    "name": "toolbox-playground/super-claudio",
-    "stars": 1,
-    "updated_at": "2026-05-27T10:11:23Z",
-    "url": "https://github.com/toolbox-playground/super-claudio"
-  },
-  {
-    "description": "Curated collection of Claude Code skills by Citedy \u2014 AI-powered SEO content automation",
-    "id": "citedy/skills",
-    "language": "JavaScript",
-    "name": "citedy/skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:11:21Z",
-    "url": "https://github.com/citedy/skills"
-  },
-  {
-    "description": "An opinionated library of reusable agent skills. Contains practical skills for writing, planning, triage, architecture, ",
-    "id": "risadams/skills",
-    "language": "Python",
-    "name": "risadams/skills",
-    "stars": 2,
-    "updated_at": "2026-05-27T10:10:16Z",
-    "url": "https://github.com/risadams/skills"
   }
 ]
