@@ -1,6 +1,87 @@
 [
   {
-    "description": "Agent Skills for using DataRobot to build agents and solve complex enterprise problems",
+    "description": "DPD (Decompose-Propagate Decision) \u2014 A method for organizing thoughts with AI",
+    "id": "o3co/agent-dpd",
+    "language": "Python",
+    "name": "o3co/agent-dpd",
+    "stars": 0,
+    "updated_at": "2026-05-27T04:43:46Z",
+    "url": "https://github.com/o3co/agent-dpd"
+  },
+  {
+    "description": "omo; the best agent harness - previously oh-my-opencode",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 59697,
+    "updated_at": "2026-05-27T04:42:21Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Build visual Claude skills - widgets that render in claude.ai and Claude Desktop. Four-package pnpm monorepo; see README",
+    "id": "jordanl17/visill",
+    "language": "TypeScript",
+    "name": "jordanl17/visill",
+    "stars": 0,
+    "updated_at": "2026-05-27T04:41:39Z",
+    "url": "https://github.com/jordanl17/visill"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-05-27T04:41:27Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Default HTML-form variant of grill-with-docs: interactive decision form with FACTS, trade-offs, WHY panels, and mmdc-val",
+    "id": "cskwork/grill-with-docs-html",
+    "language": "\u2014",
+    "name": "cskwork/grill-with-docs-html",
+    "stars": 0,
+    "updated_at": "2026-05-27T04:41:23Z",
+    "url": "https://github.com/cskwork/grill-with-docs-html"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
+    "id": "phariyawitjiap-aeternix/AEGIS-Team",
+    "language": "Shell",
+    "name": "phariyawitjiap-aeternix/AEGIS-Team",
+    "stars": 0,
+    "updated_at": "2026-05-27T04:39:35Z",
+    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 61,
+    "updated_at": "2026-05-27T04:38:40Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Local-first AI agent platform for desktop and CLI. Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents i",
+    "id": "askimo-ai/askimo",
+    "language": "Kotlin",
+    "name": "askimo-ai/askimo",
+    "stars": 122,
+    "updated_at": "2026-05-27T04:39:41Z",
+    "url": "https://github.com/askimo-ai/askimo"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T04:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent Skills that bring DataRobot platform capabilities to your coding agents",
     "id": "datarobot-oss/datarobot-agent-skills",
     "language": "Python",
     "name": "datarobot-oss/datarobot-agent-skills",
@@ -34,33 +115,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T04:26:39Z",
     "url": "https://github.com/anshulLuhsna/arbityr-skill"
-  },
-  {
-    "description": "omo; the best agent harness - previously oh-my-opencode",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 59696,
-    "updated_at": "2026-05-27T04:26:17Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Default HTML-form variant of grill-with-docs: interactive decision form with FACTS, trade-offs, WHY panels, and mmdc-val",
-    "id": "cskwork/grill-with-docs-html",
-    "language": "\u2014",
-    "name": "cskwork/grill-with-docs-html",
-    "stars": 0,
-    "updated_at": "2026-05-27T04:23:00Z",
-    "url": "https://github.com/cskwork/grill-with-docs-html"
-  },
-  {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 61,
-    "updated_at": "2026-05-27T04:21:45Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
     "description": "50+ curated agent skills for Claude Cowork and Claude.ai \u2014 ready-to-use tools for non-technical users: project managemen",
@@ -97,15 +151,6 @@
     "stars": 9,
     "updated_at": "2026-05-27T04:18:23Z",
     "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T04:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-27T03:51:40Z",
     "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-05-27T03:51:33Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "12 codex-grade PM skills (1,000\u20131,300 lines each) for senior PMs, founders, and AI agents. AGENTS.md, MCP server, plugin",
-    "id": "Avyayalaya/pm-skills-arsenal",
-    "language": "HTML",
-    "name": "Avyayalaya/pm-skills-arsenal",
-    "stars": 3,
-    "updated_at": "2026-05-27T03:51:31Z",
-    "url": "https://github.com/Avyayalaya/pm-skills-arsenal"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T03:51:23Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Transform public expressions and interpersonal insights into a standardized modular skill set for cross-platform applica",
-    "id": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "language": "\u2014",
-    "name": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "stars": 0,
-    "updated_at": "2026-05-27T03:51:16Z",
-    "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-05-27T03:51:10Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
   }
 ]
