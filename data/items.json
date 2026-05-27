@@ -1,12 +1,30 @@
 [
   {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
     "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 289,
-    "updated_at": "2026-05-27T13:14:19Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15287,
+    "updated_at": "2026-05-27T13:23:21Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "A Claude Code starter \u2014 fork, run /onboarding, and Claude sets itself up for your project",
+    "id": "hereinthehive/kickstart",
+    "language": "\u2014",
+    "name": "hereinthehive/kickstart",
+    "stars": 2,
+    "updated_at": "2026-05-27T13:20:39Z",
+    "url": "https://github.com/hereinthehive/kickstart"
+  },
+  {
+    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
+    "id": "fabioc-aloha/Alex_ACT_Edition",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Edition",
+    "stars": 0,
+    "updated_at": "2026-05-27T13:20:24Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
   },
   {
     "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "fabioc-aloha/Alex_Skill_Mall",
     "stars": 0,
-    "updated_at": "2026-05-27T13:10:17Z",
+    "updated_at": "2026-05-27T13:20:17Z",
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 326,
+    "updated_at": "2026-05-27T13:16:27Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T13:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 289,
+    "updated_at": "2026-05-27T13:14:19Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
     "description": "Build & Automate 2026 Enterprise E2E Tests Using AI & Playwright",
@@ -36,31 +81,13 @@
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15287,
-    "updated_at": "2026-05-27T13:05:06Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
     "id": "charlieviettq/awesome-agent-skill",
     "language": "Python",
     "name": "charlieviettq/awesome-agent-skill",
     "stars": 14,
-    "updated_at": "2026-05-27T13:12:44Z",
+    "updated_at": "2026-05-27T13:21:42Z",
     "url": "https://github.com/charlieviettq/awesome-agent-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T13:00:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "One manifest for every AI coding agent: generate AGENTS.md, Claude Skills, Codex Skills, Cursor rules, and Copilot instr",
@@ -79,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-05-27T12:59:49Z",
     "url": "https://github.com/guorunjie/agentic-workflow-guard"
+  },
+  {
+    "description": "Deploy Your Frontend in a Single Command. Claude Code Skills supported.",
+    "id": "glitternetwork/pinme",
+    "language": "TypeScript",
+    "name": "glitternetwork/pinme",
+    "stars": 3570,
+    "updated_at": "2026-05-27T12:58:48Z",
+    "url": "https://github.com/glitternetwork/pinme"
   },
   {
     "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
@@ -378,15 +414,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 326,
-    "updated_at": "2026-05-27T10:50:46Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:43:41Z",
     "url": "https://github.com/Firmislabs/skillship"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:42:11Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
-    "id": "VoltAgent/awesome-agent-skills",
-    "language": "\u2014",
-    "name": "VoltAgent/awesome-agent-skills",
-    "stars": 23276,
-    "updated_at": "2026-05-27T10:38:52Z",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills"
-  },
-  {
-    "description": "354 free Claude skills for TV producers, journalists, podcasters, YouTubers & media professionals. Pitch to publish. Qua",
-    "id": "ur-grue/autopunk-media-skills",
-    "language": "Shell",
-    "name": "ur-grue/autopunk-media-skills",
-    "stars": 5,
-    "updated_at": "2026-05-27T10:35:05Z",
-    "url": "https://github.com/ur-grue/autopunk-media-skills"
   }
 ]
