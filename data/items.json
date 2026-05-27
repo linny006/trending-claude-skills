@@ -1,11 +1,92 @@
 [
   {
+    "description": "A 4-skill pipeline for Claude Code: verify mathematical proofs \u2192 repair with literature support \u2192 sharpen the theory \u2192 w",
+    "id": "gyf9712/stat-theory-skills",
+    "language": "Shell",
+    "name": "gyf9712/stat-theory-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T18:59:37Z",
+    "url": "https://github.com/gyf9712/stat-theory-skills"
+  },
+  {
+    "description": "A Claude skill that turns raw material into persuasive presentation outlines. Story and narrative architecture \u2014 not des",
+    "id": "marcusnelson/powerpoint-keynote-skill",
+    "language": "\u2014",
+    "name": "marcusnelson/powerpoint-keynote-skill",
+    "stars": 0,
+    "updated_at": "2026-05-27T18:54:58Z",
+    "url": "https://github.com/marcusnelson/powerpoint-keynote-skill"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 61,
+    "updated_at": "2026-05-27T18:53:43Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Resolve unresolved PR/MR review comments across GitHub, GitLab, Azure and BitBucket",
+    "id": "Dropelikeit/pr-comments-resolver",
+    "language": "Shell",
+    "name": "Dropelikeit/pr-comments-resolver",
+    "stars": 2,
+    "updated_at": "2026-05-27T18:52:30Z",
+    "url": "https://github.com/Dropelikeit/pr-comments-resolver"
+  },
+  {
+    "description": "Build & Automate 2026 Enterprise E2E Tests Using AI & Playwright",
+    "id": "Garba1327/playwright-enterprise-orchestrator",
+    "language": "HTML",
+    "name": "Garba1327/playwright-enterprise-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-27T18:47:05Z",
+    "url": "https://github.com/Garba1327/playwright-enterprise-orchestrator"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 0,
+    "updated_at": "2026-05-27T18:46:27Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T18:46:26Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Ray Fernando's collection of Skill files for AI coding agents. First up: running-bug-review-board, a real-user QA workfl",
+    "id": "RayFernando1337/rayfernando-skills",
+    "language": "Shell",
+    "name": "RayFernando1337/rayfernando-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T18:46:01Z",
+    "url": "https://github.com/RayFernando1337/rayfernando-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T18:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Local-first AI agent platform for desktop and CLI. Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents i",
     "id": "askimo-ai/askimo",
     "language": "Kotlin",
     "name": "askimo-ai/askimo",
     "stars": 122,
-    "updated_at": "2026-05-27T18:44:59Z",
+    "updated_at": "2026-05-27T18:53:44Z",
     "url": "https://github.com/askimo-ai/askimo"
   },
   {
@@ -16,15 +97,6 @@
     "stars": 7,
     "updated_at": "2026-05-27T18:42:33Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "Ray Fernando's collection of Skill files for AI coding agents. First up: running-bug-review-board, a real-user QA workfl",
-    "id": "RayFernando1337/rayfernando-skills",
-    "language": "Shell",
-    "name": "RayFernando1337/rayfernando-skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:42:13Z",
-    "url": "https://github.com/RayFernando1337/rayfernando-skills"
   },
   {
     "description": "Automate Salesforce RevOps system tasks like pipeline audits, forecast reconciliation, and deal pressure testing using e",
@@ -178,24 +250,6 @@
     "stars": 393,
     "updated_at": "2026-05-27T18:36:40Z",
     "url": "https://github.com/jabrena/cursor-rules-java"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T18:35:45Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T18:35:42Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T18:32:34Z",
     "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Build high-quality Jamdesk documentation faster with this Claude Code plugin that provides AI with deep knowledge of com",
-    "id": "Willettedivided5004/jamdesk-claude-plugin",
-    "language": "\u2014",
-    "name": "Willettedivided5004/jamdesk-claude-plugin",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:32:33Z",
-    "url": "https://github.com/Willettedivided5004/jamdesk-claude-plugin"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:32:30Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:32:30Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:32:17Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:32:14Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:32:03Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
   }
 ]
