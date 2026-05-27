@@ -1,11 +1,74 @@
 [
   {
+    "description": "TeamCity from your terminal \u2013 or your AI's. Builds, logs, agents, agent terminals, queues.",
+    "id": "JetBrains/teamcity-cli",
+    "language": "Go",
+    "name": "JetBrains/teamcity-cli",
+    "stars": 89,
+    "updated_at": "2026-05-27T08:38:04Z",
+    "url": "https://github.com/JetBrains/teamcity-cli"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 34,
+    "updated_at": "2026-05-27T08:37:02Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-05-27T08:35:25Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15269,
+    "updated_at": "2026-05-27T08:32:58Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "RunDrill \u2014 courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro",
+    "id": "rundrill/marketplace",
+    "language": "\u2014",
+    "name": "rundrill/marketplace",
+    "stars": 0,
+    "updated_at": "2026-05-27T08:31:17Z",
+    "url": "https://github.com/rundrill/marketplace"
+  },
+  {
+    "description": "Plugin with opinionated set of Claude Code agents nad skills",
+    "id": "lklimek/claudius",
+    "language": "Python",
+    "name": "lklimek/claudius",
+    "stars": 1,
+    "updated_at": "2026-05-27T08:30:36Z",
+    "url": "https://github.com/lklimek/claudius"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T08:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
     "id": "Tibsfox/gsd-skill-creator",
     "language": "TypeScript",
     "name": "Tibsfox/gsd-skill-creator",
     "stars": 61,
-    "updated_at": "2026-05-27T08:30:10Z",
+    "updated_at": "2026-05-27T08:30:12Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 62,
     "updated_at": "2026-05-27T08:25:26Z",
     "url": "https://github.com/jianshuo/claude-skills"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15268,
-    "updated_at": "2026-05-27T08:23:03Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Skills for apes like us, so we can do our jobs better and make our lives easier.",
@@ -41,7 +95,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 87,
-    "updated_at": "2026-05-27T08:24:01Z",
+    "updated_at": "2026-05-27T08:32:31Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "danieljustus/symaira-eraseme",
     "stars": 0,
-    "updated_at": "2026-05-27T08:16:28Z",
+    "updated_at": "2026-05-27T08:40:06Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -103,18 +157,9 @@
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 287,
+    "stars": 288,
     "updated_at": "2026-05-27T08:15:26Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T08:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Your Ultimate Research Co-Pilot 2026 \u2013 Literature Review, Data Analysis & Manuscript Drafting",
@@ -166,7 +211,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 59732,
+    "stars": 59733,
     "updated_at": "2026-05-27T07:52:00Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -259,15 +304,6 @@
     "stars": 7,
     "updated_at": "2026-05-27T07:06:03Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "RunDrill \u2014 courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro",
-    "id": "rundrill/marketplace",
-    "language": "\u2014",
-    "name": "rundrill/marketplace",
-    "stars": 0,
-    "updated_at": "2026-05-27T07:04:20Z",
-    "url": "https://github.com/rundrill/marketplace"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:48:43Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
-    "id": "guildsocialismteamteaching487/Claude-session-smasher",
-    "language": "\u2014",
-    "name": "guildsocialismteamteaching487/Claude-session-smasher",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:48:42Z",
-    "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:48:26Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:47:59Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-05-27T06:46:45Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
   }
 ]
