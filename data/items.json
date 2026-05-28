@@ -1,5 +1,95 @@
 [
   {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 369,
+    "updated_at": "2026-05-28T13:56:26Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 61,
+    "updated_at": "2026-05-28T13:56:13Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Enterprise frontend team Claude Code plugin \u2014 production-ready hooks for code review, security review, performance optim",
+    "id": "bovinphang/frontend-craft",
+    "language": "TypeScript",
+    "name": "bovinphang/frontend-craft",
+    "stars": 14,
+    "updated_at": "2026-05-28T13:56:00Z",
+    "url": "https://github.com/bovinphang/frontend-craft"
+  },
+  {
+    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
+    "id": "maxritter/pilot-shell",
+    "language": "TypeScript",
+    "name": "maxritter/pilot-shell",
+    "stars": 1730,
+    "updated_at": "2026-05-28T13:55:37Z",
+    "url": "https://github.com/maxritter/pilot-shell"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-05-28T13:52:16Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-05-28T13:51:55Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
+    "id": "Infrasity-Labs/dev-gtm-claude-skills",
+    "language": "HTML",
+    "name": "Infrasity-Labs/dev-gtm-claude-skills",
+    "stars": 23,
+    "updated_at": "2026-05-28T13:51:42Z",
+    "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
+  },
+  {
+    "description": "RunDrill \u2014 courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro",
+    "id": "rundrill/rundrill",
+    "language": "\u2014",
+    "name": "rundrill/rundrill",
+    "stars": 0,
+    "updated_at": "2026-05-28T13:49:29Z",
+    "url": "https://github.com/rundrill/rundrill"
+  },
+  {
+    "description": "A Claude Code / OpenCode skill for identifying and verifying AI model identity.",
+    "id": "ParticleG/llm-fingerprint-skill",
+    "language": "\u2014",
+    "name": "ParticleG/llm-fingerprint-skill",
+    "stars": 1,
+    "updated_at": "2026-05-28T13:45:59Z",
+    "url": "https://github.com/ParticleG/llm-fingerprint-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-28T13:45:24Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
     "id": "glitchwerks/claude-wayfinder",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-05-28T13:44:20Z",
+    "updated_at": "2026-05-28T13:53:47Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -25,24 +115,6 @@
     "stars": 7,
     "updated_at": "2026-05-28T13:43:42Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 61,
-    "updated_at": "2026-05-28T13:43:29Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "Enterprise frontend team Claude Code plugin \u2014 production-ready hooks for code review, security review, performance optim",
-    "id": "bovinphang/frontend-craft",
-    "language": "TypeScript",
-    "name": "bovinphang/frontend-craft",
-    "stars": 14,
-    "updated_at": "2026-05-28T13:42:15Z",
-    "url": "https://github.com/bovinphang/frontend-craft"
   },
   {
     "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
@@ -61,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T13:39:52Z",
     "url": "https://github.com/jordanl17/visill"
-  },
-  {
-    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
-    "id": "maxritter/pilot-shell",
-    "language": "TypeScript",
-    "name": "maxritter/pilot-shell",
-    "stars": 1730,
-    "updated_at": "2026-05-28T13:38:21Z",
-    "url": "https://github.com/maxritter/pilot-shell"
-  },
-  {
-    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
-    "id": "Infrasity-Labs/dev-gtm-claude-skills",
-    "language": "HTML",
-    "name": "Infrasity-Labs/dev-gtm-claude-skills",
-    "stars": 23,
-    "updated_at": "2026-05-28T13:34:55Z",
-    "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
@@ -106,15 +160,6 @@
     "stars": 192,
     "updated_at": "2026-05-28T13:31:58Z",
     "url": "https://github.com/vast-ai/vast-cli"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-28T13:30:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automate Salesforce RevOps system tasks like pipeline audits, forecast reconciliation, and deal pressure testing using e",
@@ -306,15 +351,6 @@
     "url": "https://github.com/close-shellflower7762/e2e-tester"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 369,
-    "updated_at": "2026-05-28T13:19:03Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "Restore and run Claude Code source with full native modules, types, and internals for local use and MCP mode",
     "id": "aymannaim822-create/claude-code-source",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T13:12:51Z",
     "url": "https://github.com/maduwanthasathsara0-hub/claude-proj-blueprint"
-  },
-  {
-    "description": "Build pragmatic Go apps with an idiomatic, flat project layout guide for clean code, clear flow, and maintainable APIs",
-    "id": "chafingdishposition355/go-skills",
-    "language": "\u2014",
-    "name": "chafingdishposition355/go-skills",
-    "stars": 1,
-    "updated_at": "2026-05-28T13:12:38Z",
-    "url": "https://github.com/chafingdishposition355/go-skills"
-  },
-  {
-    "description": "Structure product discovery in your repo so Claude Code sees PRDs, hypotheses, and validation results before it builds f",
-    "id": "Florellaoccipital551/claude-code-discover",
-    "language": "\u2014",
-    "name": "Florellaoccipital551/claude-code-discover",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:12:24Z",
-    "url": "https://github.com/Florellaoccipital551/claude-code-discover"
-  },
-  {
-    "description": "Build AI skills, teaching materials, and real-world patterns for non-technical builders learning Claude Code, automation",
-    "id": "derrickbiotypic865/pathfinder-skills",
-    "language": "\u2014",
-    "name": "derrickbiotypic865/pathfinder-skills",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:11:55Z",
-    "url": "https://github.com/derrickbiotypic865/pathfinder-skills"
-  },
-  {
-    "description": "Bridge Python to the local Claude CLI for persistent sessions and stream-json event handling",
-    "id": "ambrosiogalwegian826/claude-node",
-    "language": "Python",
-    "name": "ambrosiogalwegian826/claude-node",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:11:52Z",
-    "url": "https://github.com/ambrosiogalwegian826/claude-node"
   }
 ]
