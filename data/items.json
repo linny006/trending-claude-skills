@@ -1,5 +1,59 @@
 [
   {
+    "description": "A Claude skill that turns your skills, experiences, unfair advantages into a business. Adaptive intake \u2192 personalized id",
+    "id": "Sudiddii/Build-DNA",
+    "language": "\u2014",
+    "name": "Sudiddii/Build-DNA",
+    "stars": 2,
+    "updated_at": "2026-05-29T02:42:59Z",
+    "url": "https://github.com/Sudiddii/Build-DNA"
+  },
+  {
+    "description": "DPD (Decompose-Propagate Decision) \u2014 A method for organizing thoughts with AI",
+    "id": "o3co/agent-dpd",
+    "language": "Python",
+    "name": "o3co/agent-dpd",
+    "stars": 0,
+    "updated_at": "2026-05-29T02:40:38Z",
+    "url": "https://github.com/o3co/agent-dpd"
+  },
+  {
+    "description": "A modular marketplace of custom Claude Code skills, plugins, hooks, and AI workflow extensions built for reusable agenti",
+    "id": "jzills/Claude-Marketplace",
+    "language": "Python",
+    "name": "jzills/Claude-Marketplace",
+    "stars": 0,
+    "updated_at": "2026-05-29T02:37:57Z",
+    "url": "https://github.com/jzills/Claude-Marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T02:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 370,
+    "updated_at": "2026-05-29T02:30:10Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "One brain for all your agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 302,
+    "updated_at": "2026-05-29T02:41:55Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
     "id": "Tibsfox/gsd-skill-creator",
     "language": "TypeScript",
@@ -13,7 +67,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 59981,
+    "stars": 59984,
     "updated_at": "2026-05-29T02:24:10Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -36,31 +90,13 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-29T02:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 15425,
-    "updated_at": "2026-05-29T02:15:05Z",
+    "updated_at": "2026-05-29T02:40:35Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "A Claude skill that turns your skills, experiences, unfair advantages into a business, like your personal AI co-founder.",
-    "id": "Sudiddii/Build-DNA",
-    "language": "\u2014",
-    "name": "Sudiddii/Build-DNA",
-    "stars": 2,
-    "updated_at": "2026-05-29T02:13:39Z",
-    "url": "https://github.com/Sudiddii/Build-DNA"
   },
   {
     "description": "Cerebro is an open-source personal intelligence system for building AI experts, automating routines, and running work an",
@@ -103,7 +139,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 79431,
+    "stars": 79430,
     "updated_at": "2026-05-29T02:01:20Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T01:52:56Z",
     "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T01:52:51Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-29T01:52:44Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T01:52:26Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Retry OpenCode model requests using exponential backoff and jitter to handle rate limits without switching models.",
-    "id": "notmay666-code/opencode-rate-limit-retry",
-    "language": "TypeScript",
-    "name": "notmay666-code/opencode-rate-limit-retry",
-    "stars": 0,
-    "updated_at": "2026-05-29T01:52:22Z",
-    "url": "https://github.com/notmay666-code/opencode-rate-limit-retry"
   }
 ]
