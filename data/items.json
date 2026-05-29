@@ -1,21 +1,111 @@
 [
   {
-    "description": "Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets",
-    "id": "jqaisystems/jqai-ai-skills",
-    "language": "HTML",
-    "name": "jqaisystems/jqai-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:59:47Z",
-    "url": "https://github.com/jqaisystems/jqai-ai-skills"
-  },
-  {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
     "id": "Tibsfox/gsd-skill-creator",
     "language": "TypeScript",
     "name": "Tibsfox/gsd-skill-creator",
     "stars": 61,
-    "updated_at": "2026-05-29T14:58:03Z",
+    "updated_at": "2026-05-29T15:14:39Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "An agent skills marketplace from Narrative I/O \u2014 interactive, AI-powered slash-command workflows for the recurring work ",
+    "id": "narrative-io/narrative-skills-marketplace",
+    "language": "Go Template",
+    "name": "narrative-io/narrative-skills-marketplace",
+    "stars": 4,
+    "updated_at": "2026-05-29T15:14:26Z",
+    "url": "https://github.com/narrative-io/narrative-skills-marketplace"
+  },
+  {
+    "description": "Some useful Claude Code Skills",
+    "id": "j-256/claude-code-skills",
+    "language": "JavaScript",
+    "name": "j-256/claude-code-skills",
+    "stars": 2,
+    "updated_at": "2026-05-29T15:13:28Z",
+    "url": "https://github.com/j-256/claude-code-skills"
+  },
+  {
+    "description": "Agentic DAST orchestrator for Burp Suite",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 1,
+    "updated_at": "2026-05-29T15:13:17Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 297,
+    "updated_at": "2026-05-29T15:13:01Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "CO2 - an OPINIONATED approach to software development using AI coding agents",
+    "id": "rashidee/co2-skills",
+    "language": "\u2014",
+    "name": "rashidee/co2-skills",
+    "stars": 3,
+    "updated_at": "2026-05-29T15:11:19Z",
+    "url": "https://github.com/rashidee/co2-skills"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 833,
+    "updated_at": "2026-05-29T15:09:22Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-05-29T15:06:32Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15473,
+    "updated_at": "2026-05-29T15:05:29Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "A collection of Claude Skills from Posit",
+    "id": "posit-dev/skills",
+    "language": "R",
+    "name": "posit-dev/skills",
+    "stars": 379,
+    "updated_at": "2026-05-29T15:03:54Z",
+    "url": "https://github.com/posit-dev/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T15:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets",
+    "id": "jqaisystems/jqai-ai-skills",
+    "language": "HTML",
+    "name": "jqaisystems/jqai-ai-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T15:11:06Z",
+    "url": "https://github.com/jqaisystems/jqai-ai-skills"
   },
   {
     "description": "A Claude skill for converting any HTML/CSS/JavaScript project into a production-ready WordPress Block Theme (Full Site E",
@@ -23,7 +113,7 @@
     "language": "Go Template",
     "name": "siddik-web/wp-block-theme-converter",
     "stars": 31,
-    "updated_at": "2026-05-29T14:57:00Z",
+    "updated_at": "2026-05-29T15:12:43Z",
     "url": "https://github.com/siddik-web/wp-block-theme-converter"
   },
   {
@@ -45,24 +135,6 @@
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
-    "description": "An agent skills marketplace from Narrative I/O \u2014 interactive, AI-powered slash-command workflows for the recurring work ",
-    "id": "narrative-io/narrative-skills-marketplace",
-    "language": "Go Template",
-    "name": "narrative-io/narrative-skills-marketplace",
-    "stars": 4,
-    "updated_at": "2026-05-29T14:55:19Z",
-    "url": "https://github.com/narrative-io/narrative-skills-marketplace"
-  },
-  {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 829,
-    "updated_at": "2026-05-29T14:52:32Z",
-    "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
     "description": "Awesome Skills from Around the World",
     "id": "AbsolutelySkilled/AbsolutelySkilled",
     "language": "MDX",
@@ -79,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-05-29T14:51:54Z",
     "url": "https://github.com/elan6666/your-bytedance-skills"
-  },
-  {
-    "description": "Agentic DAST orchestrator for Burp Suite",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:50:25Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:45:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:28:13Z",
     "url": "https://github.com/Unifying-sheeptick539/revops-skills"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15471,
-    "updated_at": "2026-05-29T14:27:54Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
@@ -338,7 +383,7 @@
     "language": "JavaScript",
     "name": "chrislacey89/skills",
     "stars": 2,
-    "updated_at": "2026-05-29T14:24:23Z",
+    "updated_at": "2026-05-29T15:09:01Z",
     "url": "https://github.com/chrislacey89/skills"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:22:44Z",
     "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:22:28Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:22:15Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:21:44Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:21:38Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:21:35Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
   }
 ]
