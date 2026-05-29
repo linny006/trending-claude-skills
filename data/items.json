@@ -1,12 +1,39 @@
 [
   {
-    "description": "Multi-perspective parallel Codex review for Claude Code \u2014 N sub-agents, each framed with a role you decide per call.",
-    "id": "ehzawad/codex-council",
-    "language": "Python",
-    "name": "ehzawad/codex-council",
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 371,
+    "updated_at": "2026-05-29T21:02:57Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Print-first sparring skill for Claude, Codex, and tmux-backed CLI agents",
+    "id": "nyxandro/sparring-skill",
+    "language": "Shell",
+    "name": "nyxandro/sparring-skill",
     "stars": 0,
-    "updated_at": "2026-05-29T20:59:37Z",
-    "url": "https://github.com/ehzawad/codex-council"
+    "updated_at": "2026-05-29T21:02:25Z",
+    "url": "https://github.com/nyxandro/sparring-skill"
+  },
+  {
+    "description": "AI Skills Bank is a unified, multi-tool platform designed to aggregate, manage, and route AI skills across various workf",
+    "id": "abdulsamed1/AI-skills-bank",
+    "language": "Rust",
+    "name": "abdulsamed1/AI-skills-bank",
+    "stars": 6,
+    "updated_at": "2026-05-29T21:01:53Z",
+    "url": "https://github.com/abdulsamed1/AI-skills-bank"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:01:47Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -14,8 +41,35 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 250,
-    "updated_at": "2026-05-29T20:59:32Z",
+    "updated_at": "2026-05-29T21:02:40Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:01:04Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T21:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Multi-perspective parallel Codex review for Claude Code \u2014 N sub-agents, each framed with a role you decide per call.",
+    "id": "ehzawad/codex-council",
+    "language": "Python",
+    "name": "ehzawad/codex-council",
+    "stars": 0,
+    "updated_at": "2026-05-29T20:59:37Z",
+    "url": "https://github.com/ehzawad/codex-council"
   },
   {
     "description": "Automate Salesforce RevOps system tasks like pipeline audits, forecast reconciliation, and deal pressure testing using e",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T20:54:01Z",
     "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "AI Skills Bank is a unified, multi-tool platform designed to aggregate, manage, and route AI skills across various workf",
-    "id": "abdulsamed1/AI-skills-bank",
-    "language": "Rust",
-    "name": "abdulsamed1/AI-skills-bank",
-    "stars": 6,
-    "updated_at": "2026-05-29T20:53:59Z",
-    "url": "https://github.com/abdulsamed1/AI-skills-bank"
   },
   {
     "description": "Train video world models with diffusion-forcing using this minimalist framework.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T20:49:42Z",
     "url": "https://github.com/Willettedivided5004/jamdesk-claude-plugin"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:49:41Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:49:34Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:49:24Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:48:56Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Convert raw documents and notes into an interlinked markdown wiki to build a persistent, browsable knowledge base.",
-    "id": "predictorvariabledeepcervicalvein703/llm-wiki-compiler",
-    "language": "TypeScript",
-    "name": "predictorvariabledeepcervicalvein703/llm-wiki-compiler",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:48:54Z",
-    "url": "https://github.com/predictorvariabledeepcervicalvein703/llm-wiki-compiler"
   }
 ]
