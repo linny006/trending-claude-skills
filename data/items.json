@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 1670,
+    "updated_at": "2026-05-29T14:44:49Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 82,
+    "updated_at": "2026-05-29T14:44:16Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Claude Code skill that runs an iterative Claude <-> GPT review loop on any prompt and ships an optimized version",
+    "id": "yorilavi/prompt-optimizer",
+    "language": "PowerShell",
+    "name": "yorilavi/prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:42:34Z",
+    "url": "https://github.com/yorilavi/prompt-optimizer"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T14:40:53Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Designed for the future of AI development (2027-2030) and leverages the novel `.ah` (Teleological Semantic Format) for u",
+    "id": "davccavalcante/supreme-coding-guidelines-skill.ah",
+    "language": "Python",
+    "name": "davccavalcante/supreme-coding-guidelines-skill.ah",
+    "stars": 1,
+    "updated_at": "2026-05-29T14:37:22Z",
+    "url": "https://github.com/davccavalcante/supreme-coding-guidelines-skill.ah"
+  },
+  {
+    "description": "",
+    "id": "fmschulz/omics-skills",
+    "language": "Python",
+    "name": "fmschulz/omics-skills",
+    "stars": 3,
+    "updated_at": "2026-05-29T14:36:58Z",
+    "url": "https://github.com/fmschulz/omics-skills"
+  },
+  {
+    "description": "Mirror of feichangai-team/china-compliance-skills \u2014 4 premium AI agent skills for Chinese content compliance",
+    "id": "lm203688/china-compliance-skills-mirror",
+    "language": "Shell",
+    "name": "lm203688/china-compliance-skills-mirror",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:35:02Z",
+    "url": "https://github.com/lm203688/china-compliance-skills-mirror"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 11,
+    "updated_at": "2026-05-29T14:33:59Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:33:50Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
+    "id": "Mary2241/seo-skills-agent-toolbox",
+    "language": "HTML",
+    "name": "Mary2241/seo-skills-agent-toolbox",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:33:41Z",
+    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
+  },
+  {
+    "description": "Agentic DAST orchestrator for Burp Suite",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 1,
+    "updated_at": "2026-05-29T14:32:34Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T14:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A Claude Code harness that turns a session into an agentic data engineer for SMBs \u2014 packaged as an installable plugin, b",
     "id": "pol-cc/agentic-data-engineer",
     "language": "Python",
@@ -22,7 +130,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15469,
+    "stars": 15471,
     "updated_at": "2026-05-29T14:27:54Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -52,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:27:34Z",
     "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Agentic DAST orchestrator for Burp Suite",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:27:10Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
-    "description": "Claude Code skill that runs an iterative Claude <-> GPT review loop on any prompt and ships an optimized version",
-    "id": "yorilavi/prompt-optimizer",
-    "language": "PowerShell",
-    "name": "yorilavi/prompt-optimizer",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:27:09Z",
-    "url": "https://github.com/yorilavi/prompt-optimizer"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:20:36Z",
     "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:20:35Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:20:26Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:20:25Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Retry OpenCode model requests using exponential backoff and jitter to handle rate limits without switching models.",
-    "id": "notmay666-code/opencode-rate-limit-retry",
-    "language": "TypeScript",
-    "name": "notmay666-code/opencode-rate-limit-retry",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:20:19Z",
-    "url": "https://github.com/notmay666-code/opencode-rate-limit-retry"
-  },
-  {
-    "description": "Integrate Claude with Obsidian to build a persistent, searchable knowledge vault that automatically connects your notes ",
-    "id": "unresentful-barbeque695/claude-obsidian",
-    "language": "\u2014",
-    "name": "unresentful-barbeque695/claude-obsidian",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:20:16Z",
-    "url": "https://github.com/unresentful-barbeque695/claude-obsidian"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:20:11Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:20:10Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Build high-quality Jamdesk documentation faster with this Claude Code plugin that provides AI with deep knowledge of com",
-    "id": "Willettedivided5004/jamdesk-claude-plugin",
-    "language": "\u2014",
-    "name": "Willettedivided5004/jamdesk-claude-plugin",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:20:09Z",
-    "url": "https://github.com/Willettedivided5004/jamdesk-claude-plugin"
-  },
-  {
-    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 16506,
-    "updated_at": "2026-05-29T14:25:41Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:19:57Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
   }
 ]
