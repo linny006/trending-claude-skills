@@ -1,21 +1,93 @@
 [
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 88,
-    "updated_at": "2026-05-29T05:30:04Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15436,
+    "updated_at": "2026-05-29T05:43:53Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Bandwise \u2014 IELTS Coach for Claude Code. 10 skills covering writing/listening/reading/speaking + mock, vocab, question-ba",
+    "id": "lilialla/bandwise",
+    "language": "Python",
+    "name": "lilialla/bandwise",
+    "stars": 0,
+    "updated_at": "2026-05-29T05:43:29Z",
+    "url": "https://github.com/lilialla/bandwise"
+  },
+  {
+    "description": "\u500b\u4eba\u7684\u306b\u5fc5\u8981\u306b\u306a\u3063\u305fClaude Code\u306eskills\u3092\u7ba1\u7406\u3059\u308b\u305f\u3081\u306e\u30ea\u30dd\u30b8\u30c8\u30ea\u3067\u3059\u3002",
+    "id": "ijufumi/claude-skills",
+    "language": "Python",
+    "name": "ijufumi/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-29T05:40:07Z",
+    "url": "https://github.com/ijufumi/claude-skills"
+  },
+  {
+    "description": "",
+    "id": "jeannesulzer/international-criminal-tribunals-skills",
+    "language": "\u2014",
+    "name": "jeannesulzer/international-criminal-tribunals-skills",
+    "stars": 0,
+    "updated_at": "2026-05-29T05:38:48Z",
+    "url": "https://github.com/jeannesulzer/international-criminal-tribunals-skills"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 61,
+    "updated_at": "2026-05-29T05:36:30Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
+    "id": "phariyawitjiap-aeternix/AEGIS-Team",
+    "language": "Shell",
+    "name": "phariyawitjiap-aeternix/AEGIS-Team",
+    "stars": 0,
+    "updated_at": "2026-05-29T05:32:54Z",
+    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 34,
+    "updated_at": "2026-05-29T05:43:28Z",
+    "url": "https://github.com/open-agreements/open-agreements"
   },
   {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 295,
-    "updated_at": "2026-05-29T05:29:42Z",
+    "stars": 296,
+    "updated_at": "2026-05-29T05:31:48Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T05:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 88,
+    "updated_at": "2026-05-29T05:44:41Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "8 production-tested Claude skills: automation, Gemini cost/structured output, OSS bounty scouting, ML validation.",
@@ -72,15 +144,6 @@
     "url": "https://github.com/ashishkumar14/fullstack-agent-skills"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15435,
-    "updated_at": "2026-05-29T05:21:20Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -103,7 +166,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60005,
+    "stars": 60006,
     "updated_at": "2026-05-29T05:17:35Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T05:16:38Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-29T05:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
@@ -144,29 +198,11 @@
     "url": "https://github.com/echennells/sparkbtcbot-skill"
   },
   {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 61,
-    "updated_at": "2026-05-29T05:11:17Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "Bandwise \u2014 IELTS Coach for Claude Code. 10 skills covering writing/listening/reading/speaking + mock, vocab, question-ba",
-    "id": "lilialla/bandwise",
-    "language": "Python",
-    "name": "lilialla/bandwise",
-    "stars": 0,
-    "updated_at": "2026-05-29T05:10:30Z",
-    "url": "https://github.com/lilialla/bandwise"
-  },
-  {
     "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 16460,
+    "stars": 16463,
     "updated_at": "2026-05-29T05:09:23Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T04:35:51Z",
     "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Curate agent skills and template libraries to build single-file HTML presentations for Claude Code, Cursor, and other AI",
-    "id": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "language": "\u2014",
-    "name": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "stars": 1,
-    "updated_at": "2026-05-29T04:35:15Z",
-    "url": "https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:35:12Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:34:55Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
-    "id": "guildsocialismteamteaching487/Claude-session-smasher",
-    "language": "\u2014",
-    "name": "guildsocialismteamteaching487/Claude-session-smasher",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:34:54Z",
-    "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
   }
 ]
