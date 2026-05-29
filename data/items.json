@@ -1,5 +1,113 @@
 [
   {
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 64,
+    "updated_at": "2026-05-29T19:00:09Z",
+    "url": "https://github.com/testdouble/han"
+  },
+  {
+    "description": "A Claude Code plugin for Siemens TIA Portal engineering automation.",
+    "id": "Czarnak/totally-integrated-claude",
+    "language": "PowerShell",
+    "name": "Czarnak/totally-integrated-claude",
+    "stars": 15,
+    "updated_at": "2026-05-29T19:00:05Z",
+    "url": "https://github.com/Czarnak/totally-integrated-claude"
+  },
+  {
+    "description": "Best static AI text humanizer. Two research-grounded skills that work in any LLM (Claude, ChatGPT, Gemini, Codex): human",
+    "id": "harshaneel/humanize",
+    "language": "HTML",
+    "name": "harshaneel/humanize",
+    "stars": 5,
+    "updated_at": "2026-05-29T18:58:58Z",
+    "url": "https://github.com/harshaneel/humanize"
+  },
+  {
+    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "Python",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 0,
+    "updated_at": "2026-05-29T18:58:51Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 19 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "JavaScript",
+    "name": "chrislacey89/skills",
+    "stars": 2,
+    "updated_at": "2026-05-29T18:58:14Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 863,
+    "updated_at": "2026-05-29T18:55:35Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "Open-source Claude Code skills from the Cornell AI Hub. Grounded web search via Gemini, more coming.",
+    "id": "cu-aaii/claude-skills",
+    "language": "\u2014",
+    "name": "cu-aaii/claude-skills",
+    "stars": 2,
+    "updated_at": "2026-05-29T18:53:59Z",
+    "url": "https://github.com/cu-aaii/claude-skills"
+  },
+  {
+    "description": "Pattern \u2192 SKILL.md compiler for Claude Code. Three pluggable ingestors (MDX lessons, Jupyter notebooks, custom), one typ",
+    "id": "akaieuan/collapse",
+    "language": "TypeScript",
+    "name": "akaieuan/collapse",
+    "stars": 1,
+    "updated_at": "2026-05-29T18:51:27Z",
+    "url": "https://github.com/akaieuan/collapse"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T18:48:34Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 250,
+    "updated_at": "2026-05-29T18:52:04Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 22,
+    "updated_at": "2026-05-29T18:47:09Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T18:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u0e84\u0eb3\u0ea5\u0eb2\u0ea7 \u2014 Lao language quality + compression mode for Claude",
     "id": "nouvath07/KhamLao",
     "language": "Python",
@@ -18,21 +126,12 @@
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-29T18:42:57Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
     "id": "boshu2/agentops",
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 371,
-    "updated_at": "2026-05-29T18:42:47Z",
+    "updated_at": "2026-05-29T18:49:49Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T18:42:27Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Pattern \u2192 SKILL.md compiler for Claude Code. Three pluggable ingestors (MDX lessons, Jupyter notebooks, custom), one typ",
-    "id": "akaieuan/collapse",
-    "language": "TypeScript",
-    "name": "akaieuan/collapse",
-    "stars": 1,
-    "updated_at": "2026-05-29T18:42:12Z",
-    "url": "https://github.com/akaieuan/collapse"
   },
   {
     "description": "Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets",
@@ -94,7 +184,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 79582,
+    "stars": 79583,
     "updated_at": "2026-05-29T18:35:19Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -135,15 +225,6 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "Open-source Claude Code skills from the Cornell AI Hub. Grounded web search via Gemini, more coming.",
-    "id": "cu-aaii/claude-skills",
-    "language": "\u2014",
-    "name": "cu-aaii/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T18:31:40Z",
-    "url": "https://github.com/cu-aaii/claude-skills"
-  },
-  {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
     "id": "apresmoi/jianglens",
     "language": "Jupyter Notebook",
@@ -151,15 +232,6 @@
     "stars": 7,
     "updated_at": "2026-05-29T18:30:04Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-05-29T18:22:48Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
@@ -175,7 +247,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60128,
+    "stars": 60130,
     "updated_at": "2026-05-29T18:20:22Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -223,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T18:14:31Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
-    "id": "testdouble/han",
-    "language": "Shell",
-    "name": "testdouble/han",
-    "stars": 64,
-    "updated_at": "2026-05-29T18:10:42Z",
-    "url": "https://github.com/testdouble/han"
   },
   {
     "description": "AI Skills Bank is a unified, multi-tool platform designed to aggregate, manage, and route AI skills across various workf",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T17:35:41Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-05-29T17:33:23Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:33:20Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
-    "id": "worldwonderer/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "worldwonderer/oh-story-claudecode",
-    "stars": 1675,
-    "updated_at": "2026-05-29T17:32:08Z",
-    "url": "https://github.com/worldwonderer/oh-story-claudecode"
-  },
-  {
-    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "Python",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:29:20Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Claude Code skill for Spark Bitcoin L2 wallet capabilities including L402 for AI agents",
-    "id": "echennells/sparkbtcbot-skill",
-    "language": "JavaScript",
-    "name": "echennells/sparkbtcbot-skill",
-    "stars": 3,
-    "updated_at": "2026-05-29T17:23:54Z",
-    "url": "https://github.com/echennells/sparkbtcbot-skill"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 3,
-    "updated_at": "2026-05-29T17:19:03Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 88,
-    "updated_at": "2026-05-29T18:22:23Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   }
 ]
