@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-30 12:15 UTC
+> ⏰ Last updated: 2026-05-30 12:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 0 | HTML | 2026-05-30 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 2 | [yurukusa/cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) | 36 | Shell | 2026-05-30 | One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo |
-| 3 | [raelli/octowiz](https://github.com/raelli/octowiz) | 1 | Python | 2026-05-30 | Octowiz gives Claude Code agents memory-backed engineering doctrine — cached by role, refreshed by project state, and ro |
-| 4 | [rundrill/rundrill](https://github.com/rundrill/rundrill) | 0 | — | 2026-05-30 | RunDrill — courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro |
-| 5 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-05-30 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 6 | [ferdinandobons/bonsai](https://github.com/ferdinandobons/bonsai) | 3 | Shell | 2026-05-30 | A patient gardener for your code — proactive observations for Claude Code. |
-| 7 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-05-30 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
-| 8 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-05-30 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 9 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-05-30 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
-| 10 | [boshu2/agentops](https://github.com/boshu2/agentops) | 373 | Go | 2026-05-30 | The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions. |
-| 11 | [apresmoi/jianglens](https://github.com/apresmoi/jianglens) | 7 | Jupyter Notebook | 2026-05-30 | Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi |
-| 12 | [ngocsangyem/MeowKit](https://github.com/ngocsangyem/MeowKit) | 14 | TypeScript | 2026-05-30 | Production ready. AI Agent Workflow System for Claude Code |
-| 13 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-05-30 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 14 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 1 | Python | 2026-05-30 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 15 | [Scorpio-1111/OmicsAgent-Skills](https://github.com/Scorpio-1111/OmicsAgent-Skills) | 0 | HTML | 2026-05-30 | Best Bioinformatics & Life Science AI Agent Skills 2026 – SciAgent Skills for RNA-seq & Drug Discovery |
-| 16 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | 359 | Python | 2026-05-30 | ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u |
+| 1 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | 359 | Python | 2026-05-30 | ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 1 | Python | 2026-05-30 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 0 | HTML | 2026-05-30 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 4 | [yurukusa/cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) | 36 | Shell | 2026-05-30 | One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo |
+| 5 | [raelli/octowiz](https://github.com/raelli/octowiz) | 1 | Python | 2026-05-30 | Octowiz gives Claude Code agents memory-backed engineering doctrine — cached by role, refreshed by project state, and ro |
+| 6 | [rundrill/rundrill](https://github.com/rundrill/rundrill) | 0 | — | 2026-05-30 | RunDrill — courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro |
+| 7 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-05-30 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 8 | [ferdinandobons/bonsai](https://github.com/ferdinandobons/bonsai) | 3 | Shell | 2026-05-30 | A patient gardener for your code — proactive observations for Claude Code. |
+| 9 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-05-30 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
+| 10 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-05-30 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 11 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-05-30 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
+| 12 | [boshu2/agentops](https://github.com/boshu2/agentops) | 373 | Go | 2026-05-30 | The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions. |
+| 13 | [apresmoi/jianglens](https://github.com/apresmoi/jianglens) | 7 | Jupyter Notebook | 2026-05-30 | Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi |
+| 14 | [ngocsangyem/MeowKit](https://github.com/ngocsangyem/MeowKit) | 14 | TypeScript | 2026-05-30 | Production ready. AI Agent Workflow System for Claude Code |
+| 15 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-05-30 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 16 | [Scorpio-1111/OmicsAgent-Skills](https://github.com/Scorpio-1111/OmicsAgent-Skills) | 0 | HTML | 2026-05-30 | Best Bioinformatics & Life Science AI Agent Skills 2026 – SciAgent Skills for RNA-seq & Drug Discovery |
 | 17 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-05-30 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 18 | [viibhutisharma30/jetpack-compose-remediation-kit](https://github.com/viibhutisharma30/jetpack-compose-remediation-kit) | 0 | HTML | 2026-05-30 | Modern Jetpack Compose Fixer 2026 – Debug Errors & Boost Android UI Performance |
 | 19 | [ssurmic/claude-investment-skills](https://github.com/ssurmic/claude-investment-skills) | 1 | Python | 2026-05-30 | Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts |
