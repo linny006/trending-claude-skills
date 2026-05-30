@@ -1,5 +1,86 @@
 [
   {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:45:00Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews numb",
+    "id": "gosom/google-maps-scraper",
+    "language": "Go",
+    "name": "gosom/google-maps-scraper",
+    "stars": 4196,
+    "updated_at": "2026-05-30T06:43:28Z",
+    "url": "https://github.com/gosom/google-maps-scraper"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 36,
+    "updated_at": "2026-05-30T06:42:34Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "omo; the best agent harness - previously oh-my-opencode",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60207,
+    "updated_at": "2026-05-30T06:39:43Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous m",
+    "id": "zeikar/hyperclaude",
+    "language": "JavaScript",
+    "name": "zeikar/hyperclaude",
+    "stars": 2,
+    "updated_at": "2026-05-30T06:37:49Z",
+    "url": "https://github.com/zeikar/hyperclaude"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15516,
+    "updated_at": "2026-05-30T06:36:51Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:36:31Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 1687,
+    "updated_at": "2026-05-30T06:32:56Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T06:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
     "id": "apresmoi/jianglens",
     "language": "Jupyter Notebook",
@@ -32,17 +113,8 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 941,
-    "updated_at": "2026-05-30T06:25:27Z",
+    "updated_at": "2026-05-30T06:41:43Z",
     "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
-    "id": "worldwonderer/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "worldwonderer/oh-story-claudecode",
-    "stars": 1687,
-    "updated_at": "2026-05-30T06:23:54Z",
-    "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
   {
     "description": "Test and regression-check your Agent Skills before shipping.",
@@ -135,24 +207,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T06:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews numb",
-    "id": "gosom/google-maps-scraper",
-    "language": "Go",
-    "name": "gosom/google-maps-scraper",
-    "stars": 4196,
-    "updated_at": "2026-05-30T06:13:59Z",
-    "url": "https://github.com/gosom/google-maps-scraper"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -169,15 +223,6 @@
     "stars": 61,
     "updated_at": "2026-05-30T06:06:14Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15516,
-    "updated_at": "2026-05-30T06:26:13Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "A curated collection of high impact skills for Claude Code designed to supercharge the senior full stack workflow. This ",
@@ -214,15 +259,6 @@
     "stars": 319,
     "updated_at": "2026-05-30T05:56:28Z",
     "url": "https://github.com/Ruya-AI/cozempic"
-  },
-  {
-    "description": "omo; the best agent harness - previously oh-my-opencode",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60207,
-    "updated_at": "2026-05-30T05:50:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "ADAC Skills for Acceptance-Driven Agentic Coding: acceptance-first delivery for AI coding agents",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-30T05:27:01Z",
     "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:26:51Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:26:40Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 1,
-    "updated_at": "2026-05-30T05:26:39Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:26:36Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
