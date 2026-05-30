@@ -1,11 +1,92 @@
 [
   {
+    "description": "Production ready. AI Agent Workflow System for Claude Code",
+    "id": "ngocsangyem/MeowKit",
+    "language": "TypeScript",
+    "name": "ngocsangyem/MeowKit",
+    "stars": 14,
+    "updated_at": "2026-05-30T12:43:54Z",
+    "url": "https://github.com/ngocsangyem/MeowKit"
+  },
+  {
+    "description": "Glanceable Claude Code state in iTerm2 tabs \u2014 white=idle, blue=processing, orange=waiting. iTerm2 daemon + launchd watch",
+    "id": "wasulajr/headsup",
+    "language": "Shell",
+    "name": "wasulajr/headsup",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:43:24Z",
+    "url": "https://github.com/wasulajr/headsup"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 363,
+    "updated_at": "2026-05-30T12:41:49Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 963,
+    "updated_at": "2026-05-30T12:41:26Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T12:38:49Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Outbound sales, autopiloted.",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 1,
+    "updated_at": "2026-05-30T12:31:10Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Python",
+    "name": "tobihagemann/turbo",
+    "stars": 312,
+    "updated_at": "2026-05-30T12:30:48Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "omo; the best agent harness - previously oh-my-opencode",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60263,
+    "updated_at": "2026-05-30T12:30:20Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T12:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 88,
-    "updated_at": "2026-05-30T12:28:53Z",
+    "updated_at": "2026-05-30T12:43:53Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -41,8 +122,17 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 373,
-    "updated_at": "2026-05-30T12:22:47Z",
+    "updated_at": "2026-05-30T12:37:39Z",
     "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Autonomous job-search agent for Claude Code: scrapes Telegram/RSS, scores vacancies against your profile, drafts HR mess",
+    "id": "s4nec4ke/hr-agent-ru",
+    "language": "Python",
+    "name": "s4nec4ke/hr-agent-ru",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:21:50Z",
+    "url": "https://github.com/s4nec4ke/hr-agent-ru"
   },
   {
     "description": "A patient gardener for your code \u2014 proactive observations for Claude Code.",
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "raelli/octowiz",
     "stars": 1,
-    "updated_at": "2026-05-30T12:27:50Z",
+    "updated_at": "2026-05-30T12:35:12Z",
     "url": "https://github.com/raelli/octowiz"
   },
   {
@@ -79,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T12:17:00Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T12:16:26Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 361,
-    "updated_at": "2026-05-30T12:16:19Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -171,15 +243,6 @@
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
-    "description": "Production ready. AI Agent Workflow System for Claude Code",
-    "id": "ngocsangyem/MeowKit",
-    "language": "TypeScript",
-    "name": "ngocsangyem/MeowKit",
-    "stars": 14,
-    "updated_at": "2026-05-30T12:05:58Z",
-    "url": "https://github.com/ngocsangyem/MeowKit"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -216,15 +279,6 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T11:58:26Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
     "description": "DPD (Decompose-Propagate Decision) \u2014 A method for organizing thoughts with AI",
     "id": "o3co/agent-dpd",
     "language": "Python",
@@ -241,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T11:57:48Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Glanceable Claude Code state in iTerm2 tabs \u2014 white=idle, blue=processing, orange=waiting. iTerm2 daemon + launchd watch",
-    "id": "wasulajr/headsup",
-    "language": "Shell",
-    "name": "wasulajr/headsup",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:57:39Z",
-    "url": "https://github.com/wasulajr/headsup"
   },
   {
     "description": "Kill Ports Fast 2026 - Best Free kkp CLI Tool for Process Management",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T11:41:29Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:41:11Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-05-30T11:39:44Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Deploy 76 audit-ready robotics skills for Claude with integrated KPI dashboards, ISO standard compliance, and automated ",
-    "id": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "stars": 1,
-    "updated_at": "2026-05-30T11:39:38Z",
-    "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:39:32Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:39:26Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
