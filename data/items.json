@@ -1,5 +1,50 @@
 [
   {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15509,
+    "updated_at": "2026-05-30T04:02:37Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "",
+    "id": "JimLiu/baoyu-skills",
+    "language": "TypeScript",
+    "name": "JimLiu/baoyu-skills",
+    "stars": 19880,
+    "updated_at": "2026-05-30T04:01:42Z",
+    "url": "https://github.com/JimLiu/baoyu-skills"
+  },
+  {
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
+    "id": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "language": "Python",
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "stars": 3,
+    "updated_at": "2026-05-30T04:00:48Z",
+    "url": "https://github.com/Shada01245/the-unofficial-swift-programming-language-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T04:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
+    "id": "thairns/claude-rubycritic-skill",
+    "language": "\u2014",
+    "name": "thairns/claude-rubycritic-skill",
+    "stars": 0,
+    "updated_at": "2026-05-30T04:00:07Z",
+    "url": "https://github.com/thairns/claude-rubycritic-skill"
+  },
+  {
     "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
     "id": "Junayedahmedd/gemini_cli_skill",
     "language": "\u2014",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T03:58:25Z",
     "url": "https://github.com/cabbagecachekid/red-pen"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15509,
-    "updated_at": "2026-05-30T03:57:42Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
@@ -151,6 +187,15 @@
     "stars": 3,
     "updated_at": "2026-05-30T03:52:19Z",
     "url": "https://github.com/Uncoated-ell721/Awesome-Claude-Skills"
+  },
+  {
+    "description": "Portable conversation state transfer protocol for LLM handoffs",
+    "id": "Adityapal67/context-graph-compressor",
+    "language": "\u2014",
+    "name": "Adityapal67/context-graph-compressor",
+    "stars": 0,
+    "updated_at": "2026-05-30T03:51:25Z",
+    "url": "https://github.com/Adityapal67/context-graph-compressor"
   },
   {
     "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
@@ -241,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T03:45:19Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T03:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
@@ -373,7 +409,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60186,
+    "stars": 60187,
     "updated_at": "2026-05-30T03:19:09Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -383,7 +419,7 @@
     "language": "TypeScript",
     "name": "Tibsfox/gsd-skill-creator",
     "stars": 61,
-    "updated_at": "2026-05-30T03:12:57Z",
+    "updated_at": "2026-05-30T04:02:50Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 36,
     "updated_at": "2026-05-30T03:05:24Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "Local-first AI agent platform for desktop and CLI. Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents i",
-    "id": "askimo-ai/askimo",
-    "language": "Kotlin",
-    "name": "askimo-ai/askimo",
-    "stars": 124,
-    "updated_at": "2026-05-30T03:55:59Z",
-    "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "Automate Salesforce RevOps system tasks like pipeline audits, forecast reconciliation, and deal pressure testing using e",
-    "id": "Unifying-sheeptick539/revops-skills",
-    "language": "Python",
-    "name": "Unifying-sheeptick539/revops-skills",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:54:12Z",
-    "url": "https://github.com/Unifying-sheeptick539/revops-skills"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:53:53Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-05-30T02:53:50Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
   }
 ]
