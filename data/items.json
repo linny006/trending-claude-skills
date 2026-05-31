@@ -1,5 +1,77 @@
 [
   {
+    "description": "Enhance Claude Code CLI with undo, safety hooks, session resume, effort control, MCP tools, and multilingual i18n",
+    "id": "Caseous-kerrcell366/claude",
+    "language": "Python",
+    "name": "Caseous-kerrcell366/claude",
+    "stars": 0,
+    "updated_at": "2026-05-31T09:32:21Z",
+    "url": "https://github.com/Caseous-kerrcell366/claude"
+  },
+  {
+    "description": "Turn product briefs into UI directions, Tailwind-ready HTML, and screenshots for fast front-end design work",
+    "id": "blox4859/stitchflow",
+    "language": "JavaScript",
+    "name": "blox4859/stitchflow",
+    "stars": 1,
+    "updated_at": "2026-05-31T09:32:06Z",
+    "url": "https://github.com/blox4859/stitchflow"
+  },
+  {
+    "description": "Boost\u79d1\u7814\u5199\u4f5c\u6548\u7387 with AI prompts for literature review, outlines, drafts, revision, figures, replies, and grant proposals in ",
+    "id": "Nonsteroidevangel872/research-writing-skill",
+    "language": "\u2014",
+    "name": "Nonsteroidevangel872/research-writing-skill",
+    "stars": 0,
+    "updated_at": "2026-05-31T09:31:54Z",
+    "url": "https://github.com/Nonsteroidevangel872/research-writing-skill"
+  },
+  {
+    "description": "Build project-specific coding rules for AI assistants with base, language, and framework layers to keep generated code c",
+    "id": "pegregenerate417/claude-rules",
+    "language": "\u2014",
+    "name": "pegregenerate417/claude-rules",
+    "stars": 2,
+    "updated_at": "2026-05-31T09:31:24Z",
+    "url": "https://github.com/pegregenerate417/claude-rules"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-05-31T09:30:47Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Build Meshy 3D agent skills to generate, texture, rig, animate, and prep 3D models for print without an MCP server",
+    "id": "Laic-parsiism709/meshy-3d-agent",
+    "language": "\u2014",
+    "name": "Laic-parsiism709/meshy-3d-agent",
+    "stars": 1,
+    "updated_at": "2026-05-31T09:30:44Z",
+    "url": "https://github.com/Laic-parsiism709/meshy-3d-agent"
+  },
+  {
+    "description": "Learn Claude and Claude Code best practices for skills, MCP tools, and agentic workflows in one living guide",
+    "id": "Priyamo4482/claude-best-practices",
+    "language": "\u2014",
+    "name": "Priyamo4482/claude-best-practices",
+    "stars": 0,
+    "updated_at": "2026-05-31T09:30:26Z",
+    "url": "https://github.com/Priyamo4482/claude-best-practices"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-31T09:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
     "id": "ebbaunqualified520/ios-agent-skills",
     "language": "Shell",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-31T09:21:50Z",
     "url": "https://github.com/Crokx/nse-trading-skills"
-  },
-  {
-    "description": "Serve real-time and historical Indian stock data from NSE and BSE using Model Context Protocol for easy market analysis ",
-    "id": "shamu0509/nse-bse-mcp",
-    "language": "Python",
-    "name": "shamu0509/nse-bse-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:21:47Z",
-    "url": "https://github.com/shamu0509/nse-bse-mcp"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:21:31Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Provide ready-to-use CLAUDE.md templates for major stacks to improve Claude Code outputs and streamline project setup.",
-    "id": "anns2rn/awesome-claude-md",
-    "language": "Python",
-    "name": "anns2rn/awesome-claude-md",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:21:28Z",
-    "url": "https://github.com/anns2rn/awesome-claude-md"
-  },
-  {
-    "description": "Visualize and analyze agent workflows with VeriGlow's Agent Map Skill for streamlined process tracking and debugging.",
-    "id": "Shroomfaerie/veriglow-agent-map-skill",
-    "language": "\u2014",
-    "name": "Shroomfaerie/veriglow-agent-map-skill",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:21:16Z",
-    "url": "https://github.com/Shroomfaerie/veriglow-agent-map-skill"
-  },
-  {
-    "description": "Generate accurate, professional equity research reports with clear Buy/Sell/Hold advice for NSE and BSE-listed Indian st",
-    "id": "Stavarif/india-equity-report-skill",
-    "language": "\u2014",
-    "name": "Stavarif/india-equity-report-skill",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:20:27Z",
-    "url": "https://github.com/Stavarif/india-equity-report-skill"
-  },
-  {
-    "description": "Enable AI tools to perform product management tasks like critiquing PRDs, analyzing SaaS metrics, and planning roadmaps ",
-    "id": "ayybee1/product-manager-skills",
-    "language": "\u2014",
-    "name": "ayybee1/product-manager-skills",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:20:26Z",
-    "url": "https://github.com/ayybee1/product-manager-skills"
-  },
-  {
-    "description": "Deploy any project stack automatically on xCloud using AI to detect and choose native or Docker methods with no configur",
-    "id": "Khaledcheikhkhalil/xCloud-Docker-Deploy-Skill",
-    "language": "Dockerfile",
-    "name": "Khaledcheikhkhalil/xCloud-Docker-Deploy-Skill",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:20:14Z",
-    "url": "https://github.com/Khaledcheikhkhalil/xCloud-Docker-Deploy-Skill"
-  },
-  {
-    "description": "Provide AI agent skills for the Symfony UX frontend stack using the Agent Skills open standard for seamless integration ",
-    "id": "BKR-57/symfony-ux-skills",
-    "language": "\u2014",
-    "name": "BKR-57/symfony-ux-skills",
-    "stars": 0,
-    "updated_at": "2026-05-31T09:19:37Z",
-    "url": "https://github.com/BKR-57/symfony-ux-skills"
   }
 ]
