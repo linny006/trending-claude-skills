@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-01 15:44 UTC
+> ⏰ Last updated: 2026-06-01 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | 387 | Python | 2026-06-01 | ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u |
-| 2 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 60573 | TypeScript | 2026-06-01 | omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering |
-| 3 | [georgehustlein-oss/peresborka-skills](https://github.com/georgehustlein-oss/peresborka-skills) | 0 | — | 2026-06-01 | Каталог авторских скиллов для AI-команд по методологии «Пересборка» |
-| 4 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 1 | Python | 2026-06-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 1 | Python | 2026-06-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | 387 | Python | 2026-06-01 | ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u |
+| 3 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 60573 | TypeScript | 2026-06-01 | omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering |
+| 4 | [georgehustlein-oss/peresborka-skills](https://github.com/georgehustlein-oss/peresborka-skills) | 0 | — | 2026-06-01 | Каталог авторских скиллов для AI-команд по методологии «Пересборка» |
 | 5 | [Armorpiescalator60/Claude-AI-Pro-2026](https://github.com/Armorpiescalator60/Claude-AI-Pro-2026) | 52 | — | 2026-06-01 | A robust, local desktop integration toolkit providing a secure sandbox for developing and testing AI model interactions. |
 | 6 | [Kaelio/ktx-ai-data-agents-context](https://github.com/Kaelio/ktx-ai-data-agents-context) | 749 | TypeScript | 2026-06-01 | ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query d |
 | 7 | [Stewie-pixel/claude-with-leetcode](https://github.com/Stewie-pixel/claude-with-leetcode) | 1 | JavaScript | 2026-06-01 | Daily Leetcode Solution for DSA and Algorithm master |
