@@ -1,5 +1,32 @@
 [
   {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 40,
+    "updated_at": "2026-06-01T04:19:17Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T04:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A robust, local desktop integration toolkit providing a secure sandbox for developing and testing AI model interactions.",
+    "id": "Armorpiescalator60/Claude-AI-Pro-2026",
+    "language": "\u2014",
+    "name": "Armorpiescalator60/Claude-AI-Pro-2026",
+    "stars": 52,
+    "updated_at": "2026-06-01T04:15:12Z",
+    "url": "https://github.com/Armorpiescalator60/Claude-AI-Pro-2026"
+  },
+  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -13,12 +40,12 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60482,
+    "stars": 60481,
     "updated_at": "2026-06-01T04:12:33Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "AI \u4ea7\u54c1\u7ecf\u7406\u7684 Claude Skills \u96c6\u5408 \u00b7 PRD \u5199\u4f5c / \u9879\u76ee\u811a\u624b\u67b6 / SaaS \u67b6\u6784\u56fe / \u9ad8\u4fdd\u771f\u539f\u578b / \u5bf9\u8bdd\u5f52\u6863\uff085 \u4e2a\u81ea\u521b skill\uff0c\u84b8\u998f\u81eawdy Claw\u3001JMaaS\u3001SCRM \u7b49\u5b9e\u6218\u9879\u76ee\uff09",
+    "description": "AI \u4ea7\u54c1\u7ecf\u7406\u7684 Claude Skills \u96c6\u5408 \u00b7 PRD \u5199\u4f5c / \u9879\u76ee\u811a\u624b\u67b6 / SaaS \u67b6\u6784\u56fe / \u9ad8\u4fdd\u771f\u539f\u578b / \u5bf9\u8bdd\u5f52\u6863",
     "id": "songshishuang/Skills",
     "language": "CSS",
     "name": "songshishuang/Skills",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T04:02:11Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T04:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -121,7 +139,7 @@
     "id": "Mark393295827/third-brain-v5-skills",
     "language": "HTML",
     "name": "Mark393295827/third-brain-v5-skills",
-    "stars": 107,
+    "stars": 108,
     "updated_at": "2026-06-01T03:25:30Z",
     "url": "https://github.com/Mark393295827/third-brain-v5-skills"
   },
@@ -140,7 +158,7 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 375,
-    "updated_at": "2026-06-01T04:14:48Z",
+    "updated_at": "2026-06-01T04:17:18Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T02:22:23Z",
     "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:22:07Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:21:52Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
   }
 ]
