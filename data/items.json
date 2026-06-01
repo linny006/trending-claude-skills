@@ -1,5 +1,59 @@
 [
   {
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
+    "id": "serpro69/claude-toolbox",
+    "language": "Shell",
+    "name": "serpro69/claude-toolbox",
+    "stars": 145,
+    "updated_at": "2026-06-01T14:41:27Z",
+    "url": "https://github.com/serpro69/claude-toolbox"
+  },
+  {
+    "description": "\u4e00\u4e2a agent skill\uff1a\u628a\u4e00\u4e2a\u4e3b\u9898\u505a\u6210\u5c01\u9762/\u76ee\u5f55/\u6bcf\u7ae0\u63d2\u753b/\u7cbe\u6392\u4ff1\u5168\u3001\u53ef\u76f4\u63a5\u51fa\u7247\u7684 PDF \u4e66\u3002\u591a agent   \u8c03\u7814\u2192\u9010\u7ae0\u5199\u4f5c\u2192\u914d\u56fe\u2192Typst \u6392\u7248\u2192\u4e8b\u5b9e\u6838\u67e5\u3002\u5de5\u5177\u65e0\u5173(Claude Code / Codex)\u3001\u98ce\u683c\u53ef\u63d2\u62d4",
+    "id": "songhuichen7-jpg/book_skill",
+    "language": "Python",
+    "name": "songhuichen7-jpg/book_skill",
+    "stars": 1,
+    "updated_at": "2026-06-01T14:37:51Z",
+    "url": "https://github.com/songhuichen7-jpg/book_skill"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1169,
+    "updated_at": "2026-06-01T14:34:45Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60566,
+    "updated_at": "2026-06-01T14:36:15Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T14:30:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 386,
+    "updated_at": "2026-06-01T14:27:29Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
     "description": "\ud55c\uad6d \ubcc0\ub9ac\uc0ac \uc2e4\ubb34\ub97c \uc704\ud55c Claude \uc2a4\ud0ac \ubaa8\uc74c \u2014 \ubc1c\uba85\uc790 \ubbf8\ud305\ubd80\ud130 docx \ucd9c\ub825\uae4c\uc9c0",
     "id": "lsj4232/KR_PATENT_SKILL",
     "language": "JavaScript",
@@ -9,22 +63,31 @@
     "url": "https://github.com/lsj4232/KR_PATENT_SKILL"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "GEO \u9886\u57df AI \u5458\u5de5\u5f00\u6e90\u65b9\u6848 \u00b7 Open-source GEO AI-employee solution (MIT). GEO Skills package + curated lists of agents and office C",
+    "id": "recomby-ai/recomby-geo",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T14:15:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "recomby-ai/recomby-geo",
+    "stars": 253,
+    "updated_at": "2026-06-01T14:39:22Z",
+    "url": "https://github.com/recomby-ai/recomby-geo"
   },
   {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 10,
+    "updated_at": "2026-06-01T14:17:08Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Daily Leetcode Solution for DSA and Algorithm master",
+    "id": "Stewie-pixel/claude-with-leetcode",
     "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1167,
-    "updated_at": "2026-06-01T14:09:25Z",
-    "url": "https://github.com/a5c-ai/babysitter"
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 1,
+    "updated_at": "2026-06-01T14:11:12Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -52,24 +115,6 @@
     "stars": 15655,
     "updated_at": "2026-06-01T14:05:38Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
-    "id": "serpro69/claude-toolbox",
-    "language": "Shell",
-    "name": "serpro69/claude-toolbox",
-    "stars": 145,
-    "updated_at": "2026-06-01T14:27:16Z",
-    "url": "https://github.com/serpro69/claude-toolbox"
-  },
-  {
-    "description": "\u4e00\u4e2a agent skill\uff1a\u628a\u4e00\u4e2a\u4e3b\u9898\u505a\u6210\u5c01\u9762/\u76ee\u5f55/\u6bcf\u7ae0\u63d2\u753b/\u7cbe\u6392\u4ff1\u5168\u3001\u53ef\u76f4\u63a5\u51fa\u7247\u7684 PDF \u4e66\u3002\u591a agent   \u8c03\u7814\u2192\u9010\u7ae0\u5199\u4f5c\u2192\u914d\u56fe\u2192Typst \u6392\u7248\u2192\u4e8b\u5b9e\u6838\u67e5\u3002\u5de5\u5177\u65e0\u5173(Claude Code / Codex)\u3001\u98ce\u683c\u53ef\u63d2\u62d4",
-    "id": "songhuichen7-jpg/book_skill",
-    "language": "Python",
-    "name": "songhuichen7-jpg/book_skill",
-    "stars": 1,
-    "updated_at": "2026-06-01T14:02:48Z",
-    "url": "https://github.com/songhuichen7-jpg/book_skill"
   },
   {
     "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
@@ -166,8 +211,8 @@
     "id": "Kaelio/ktx-ai-data-agents-context",
     "language": "TypeScript",
     "name": "Kaelio/ktx-ai-data-agents-context",
-    "stars": 742,
-    "updated_at": "2026-06-01T13:49:21Z",
+    "stars": 743,
+    "updated_at": "2026-06-01T14:44:54Z",
     "url": "https://github.com/Kaelio/ktx-ai-data-agents-context"
   },
   {
@@ -223,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T13:48:15Z",
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 10,
-    "updated_at": "2026-06-01T14:17:08Z",
-    "url": "https://github.com/travsteward/openwriter"
-  },
-  {
-    "description": "GEO \u9886\u57df AI \u5458\u5de5\u5f00\u6e90\u65b9\u6848 \u00b7 Open-source GEO AI-employee solution (MIT). GEO Skills package + curated lists of agents and office C",
-    "id": "recomby-ai/recomby-geo",
-    "language": "Python",
-    "name": "recomby-ai/recomby-geo",
-    "stars": 252,
-    "updated_at": "2026-06-01T14:18:25Z",
-    "url": "https://github.com/recomby-ai/recomby-geo"
   },
   {
     "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T13:43:49Z",
     "url": "https://github.com/notmay666-code/opencode-rate-limit-retry"
-  },
-  {
-    "description": "Integrate Claude with Obsidian to build a persistent, searchable knowledge vault that automatically connects your notes ",
-    "id": "unresentful-barbeque695/claude-obsidian",
-    "language": "\u2014",
-    "name": "unresentful-barbeque695/claude-obsidian",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:43:40Z",
-    "url": "https://github.com/unresentful-barbeque695/claude-obsidian"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:43:36Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:43:35Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
   }
 ]
