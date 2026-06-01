@@ -1,12 +1,48 @@
 [
   {
+    "description": "A robust, local desktop integration toolkit providing a secure sandbox for developing and testing AI model interactions.",
+    "id": "Armorpiescalator60/Claude-AI-Pro-2026",
+    "language": "\u2014",
+    "name": "Armorpiescalator60/Claude-AI-Pro-2026",
+    "stars": 52,
+    "updated_at": "2026-06-01T15:28:38Z",
+    "url": "https://github.com/Armorpiescalator60/Claude-AI-Pro-2026"
+  },
+  {
+    "description": "ScraperAPI's Agent Skills.",
+    "id": "scraperapi/scraperapi-skills",
+    "language": "\u2014",
+    "name": "scraperapi/scraperapi-skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T15:19:38Z",
+    "url": "https://github.com/scraperapi/scraperapi-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T15:15:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
     "stars": 387,
-    "updated_at": "2026-06-01T15:10:25Z",
+    "updated_at": "2026-06-01T15:18:29Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60572,
+    "updated_at": "2026-06-01T15:09:55Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
@@ -36,22 +72,22 @@
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
-    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60570,
-    "updated_at": "2026-06-01T15:09:55Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 90,
+    "updated_at": "2026-06-01T15:02:05Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T15:00:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "An opinionated AI-native workflow for evolving modern Java Enterprise SDLC practices through reusable Skills, Agents, an",
+    "id": "jabrena/cursor-rules-java",
+    "language": "Java",
+    "name": "jabrena/cursor-rules-java",
+    "stars": 393,
+    "updated_at": "2026-06-01T14:58:11Z",
+    "url": "https://github.com/jabrena/cursor-rules-java"
   },
   {
     "description": "agent skills",
@@ -61,6 +97,15 @@
     "stars": 108,
     "updated_at": "2026-06-01T14:54:40Z",
     "url": "https://github.com/Mark393295827/third-brain-v5-skills"
+  },
+  {
+    "description": "Agent skills for VillageSQL - gemini-cli-extension; claude-code-plugin",
+    "id": "villagesql/villagesql-skills",
+    "language": "\u2014",
+    "name": "villagesql/villagesql-skills",
+    "stars": 5,
+    "updated_at": "2026-06-01T14:53:50Z",
+    "url": "https://github.com/villagesql/villagesql-skills"
   },
   {
     "description": "Meta Search Android App",
@@ -99,12 +144,21 @@
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
   },
   {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:45:47Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
     "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
     "id": "Kaelio/ktx-ai-data-agents-context",
     "language": "TypeScript",
     "name": "Kaelio/ktx-ai-data-agents-context",
-    "stars": 747,
-    "updated_at": "2026-06-01T14:44:54Z",
+    "stars": 748,
+    "updated_at": "2026-06-01T15:27:20Z",
     "url": "https://github.com/Kaelio/ktx-ai-data-agents-context"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-06-01T15:03:25Z",
+    "updated_at": "2026-06-01T15:22:16Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -139,7 +193,7 @@
     "id": "a5c-ai/babysitter",
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
-    "stars": 1170,
+    "stars": 1171,
     "updated_at": "2026-06-01T14:34:45Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
@@ -194,17 +248,8 @@
     "language": "JavaScript",
     "name": "Stewie-pixel/claude-with-leetcode",
     "stars": 1,
-    "updated_at": "2026-06-01T14:56:46Z",
+    "updated_at": "2026-06-01T15:25:14Z",
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 90,
-    "updated_at": "2026-06-01T15:02:05Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Claude skill for Betaflight: FPV drone configuration, PID tuning, log analysis, and troubleshooting.",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "raelli/octowiz",
     "stars": 1,
-    "updated_at": "2026-06-01T13:55:38Z",
+    "updated_at": "2026-06-01T15:26:45Z",
     "url": "https://github.com/raelli/octowiz"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T13:46:26Z",
     "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:46:03Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:45:29Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:45:11Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
-  },
-  {
-    "description": "Connect Claude Managed Agents to Linear using a bridge server to automate issue management and sync responses through ag",
-    "id": "Saudiarabian-tachograph4331/claude-managed-agents-demo",
-    "language": "TypeScript",
-    "name": "Saudiarabian-tachograph4331/claude-managed-agents-demo",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:45:10Z",
-    "url": "https://github.com/Saudiarabian-tachograph4331/claude-managed-agents-demo"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:45:09Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
   }
 ]
