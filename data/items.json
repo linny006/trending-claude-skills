@@ -1,5 +1,32 @@
 [
   {
+    "description": "agent skills",
+    "id": "Mark393295827/third-brain-v5-skills",
+    "language": "HTML",
+    "name": "Mark393295827/third-brain-v5-skills",
+    "stars": 108,
+    "updated_at": "2026-06-01T14:54:40Z",
+    "url": "https://github.com/Mark393295827/third-brain-v5-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T14:45:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
+    "id": "Kaelio/ktx-ai-data-agents-context",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx-ai-data-agents-context",
+    "stars": 744,
+    "updated_at": "2026-06-01T14:44:54Z",
+    "url": "https://github.com/Kaelio/ktx-ai-data-agents-context"
+  },
+  {
     "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
     "id": "serpro69/claude-toolbox",
     "language": "Shell",
@@ -14,35 +41,44 @@
     "language": "Python",
     "name": "songhuichen7-jpg/book_skill",
     "stars": 1,
-    "updated_at": "2026-06-01T14:37:51Z",
+    "updated_at": "2026-06-01T14:48:46Z",
     "url": "https://github.com/songhuichen7-jpg/book_skill"
-  },
-  {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1169,
-    "updated_at": "2026-06-01T14:34:45Z",
-    "url": "https://github.com/a5c-ai/babysitter"
   },
   {
     "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60566,
-    "updated_at": "2026-06-01T14:36:15Z",
+    "stars": 60569,
+    "updated_at": "2026-06-01T14:59:04Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1170,
+    "updated_at": "2026-06-01T14:34:45Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T14:30:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 3,
+    "updated_at": "2026-06-01T14:30:23Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:27:45Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
     "stars": 386,
-    "updated_at": "2026-06-01T14:27:29Z",
+    "updated_at": "2026-06-01T14:52:04Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
@@ -86,7 +122,7 @@
     "language": "JavaScript",
     "name": "Stewie-pixel/claude-with-leetcode",
     "stars": 1,
-    "updated_at": "2026-06-01T14:11:12Z",
+    "updated_at": "2026-06-01T14:56:46Z",
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 90,
-    "updated_at": "2026-06-01T14:06:10Z",
+    "updated_at": "2026-06-01T14:54:44Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -112,7 +148,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15655,
+    "stars": 15657,
     "updated_at": "2026-06-01T14:05:38Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T13:50:58Z",
     "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
-    "id": "Kaelio/ktx-ai-data-agents-context",
-    "language": "TypeScript",
-    "name": "Kaelio/ktx-ai-data-agents-context",
-    "stars": 743,
-    "updated_at": "2026-06-01T14:44:54Z",
-    "url": "https://github.com/Kaelio/ktx-ai-data-agents-context"
   },
   {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T13:44:24Z",
     "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:44:09Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:43:53Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Retry OpenCode model requests using exponential backoff and jitter to handle rate limits without switching models.",
-    "id": "notmay666-code/opencode-rate-limit-retry",
-    "language": "TypeScript",
-    "name": "notmay666-code/opencode-rate-limit-retry",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:43:49Z",
-    "url": "https://github.com/notmay666-code/opencode-rate-limit-retry"
   }
 ]
