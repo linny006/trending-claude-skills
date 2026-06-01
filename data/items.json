@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 387,
+    "updated_at": "2026-06-01T15:10:25Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
+    "id": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
+    "language": "Shell",
+    "name": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
+    "stars": 2,
+    "updated_at": "2026-06-01T15:08:24Z",
+    "url": "https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer"
+  },
+  {
+    "description": "A comprehensive collection of 15 Claude Code Skills for cybersecurity professionals ,covering offensive security, defens",
+    "id": "Masriyan/Claude-Code-CyberSecurity-Skill",
+    "language": "Python",
+    "name": "Masriyan/Claude-Code-CyberSecurity-Skill",
+    "stars": 50,
+    "updated_at": "2026-06-01T15:05:43Z",
+    "url": "https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T15:04:47Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60570,
+    "updated_at": "2026-06-01T15:09:55Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-01T15:00:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "agent skills",
     "id": "Mark393295827/third-brain-v5-skills",
     "language": "HTML",
@@ -9,20 +63,47 @@
     "url": "https://github.com/Mark393295827/third-brain-v5-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
+    "description": "Meta Search Android App",
+    "id": "komodgn/meta-android",
+    "language": "Kotlin",
+    "name": "komodgn/meta-android",
     "stars": 1,
-    "updated_at": "2026-06-01T14:45:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "updated_at": "2026-06-01T14:50:27Z",
+    "url": "https://github.com/komodgn/meta-android"
+  },
+  {
+    "description": "\u4e00\u4e2a agent skill\uff1a\u628a\u4e00\u4e2a\u4e3b\u9898\u505a\u6210\u5c01\u9762/\u76ee\u5f55/\u6bcf\u7ae0\u63d2\u753b/\u7cbe\u6392\u4ff1\u5168\u3001\u53ef\u76f4\u63a5\u51fa\u7247\u7684 PDF \u4e66\u3002\u591a agent   \u8c03\u7814\u2192\u9010\u7ae0\u5199\u4f5c\u2192\u914d\u56fe\u2192Typst \u6392\u7248\u2192\u4e8b\u5b9e\u6838\u67e5\u3002\u5de5\u5177\u65e0\u5173(Claude Code / Codex)\u3001\u98ce\u683c\u53ef\u63d2\u62d4",
+    "id": "songhuichen7-jpg/book_skill",
+    "language": "Python",
+    "name": "songhuichen7-jpg/book_skill",
+    "stars": 1,
+    "updated_at": "2026-06-01T14:48:46Z",
+    "url": "https://github.com/songhuichen7-jpg/book_skill"
+  },
+  {
+    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
+    "id": "Scorpio-1111/OmicsAgent-Skills",
+    "language": "HTML",
+    "name": "Scorpio-1111/OmicsAgent-Skills",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:46:47Z",
+    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
+  },
+  {
+    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
+    "id": "Mary2241/seo-skills-agent-toolbox",
+    "language": "HTML",
+    "name": "Mary2241/seo-skills-agent-toolbox",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:46:07Z",
+    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
   },
   {
     "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
     "id": "Kaelio/ktx-ai-data-agents-context",
     "language": "TypeScript",
     "name": "Kaelio/ktx-ai-data-agents-context",
-    "stars": 744,
+    "stars": 747,
     "updated_at": "2026-06-01T14:44:54Z",
     "url": "https://github.com/Kaelio/ktx-ai-data-agents-context"
   },
@@ -36,22 +117,22 @@
     "url": "https://github.com/serpro69/claude-toolbox"
   },
   {
-    "description": "\u4e00\u4e2a agent skill\uff1a\u628a\u4e00\u4e2a\u4e3b\u9898\u505a\u6210\u5c01\u9762/\u76ee\u5f55/\u6bcf\u7ae0\u63d2\u753b/\u7cbe\u6392\u4ff1\u5168\u3001\u53ef\u76f4\u63a5\u51fa\u7247\u7684 PDF \u4e66\u3002\u591a agent   \u8c03\u7814\u2192\u9010\u7ae0\u5199\u4f5c\u2192\u914d\u56fe\u2192Typst \u6392\u7248\u2192\u4e8b\u5b9e\u6838\u67e5\u3002\u5de5\u5177\u65e0\u5173(Claude Code / Codex)\u3001\u98ce\u683c\u53ef\u63d2\u62d4",
-    "id": "songhuichen7-jpg/book_skill",
+    "description": "GEO \u9886\u57df AI \u5458\u5de5\u5f00\u6e90\u65b9\u6848 \u00b7 Open-source GEO AI-employee solution (MIT). GEO Skills package + curated lists of agents and office C",
+    "id": "recomby-ai/recomby-geo",
     "language": "Python",
-    "name": "songhuichen7-jpg/book_skill",
-    "stars": 1,
-    "updated_at": "2026-06-01T14:48:46Z",
-    "url": "https://github.com/songhuichen7-jpg/book_skill"
+    "name": "recomby-ai/recomby-geo",
+    "stars": 253,
+    "updated_at": "2026-06-01T14:39:22Z",
+    "url": "https://github.com/recomby-ai/recomby-geo"
   },
   {
-    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60569,
-    "updated_at": "2026-06-01T14:59:04Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-01T15:03:25Z",
+    "url": "https://github.com/blisspixel/primr"
   },
   {
     "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
@@ -61,6 +142,15 @@
     "stars": 1170,
     "updated_at": "2026-06-01T14:34:45Z",
     "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "paranoid auditor for Claude Code skills",
+    "id": "AntonioTimo/skillchecker",
+    "language": "Python",
+    "name": "AntonioTimo/skillchecker",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:34:32Z",
+    "url": "https://github.com/AntonioTimo/skillchecker"
   },
   {
     "description": "repo for reusable plugins and skills",
@@ -81,15 +171,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 386,
-    "updated_at": "2026-06-01T14:52:04Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
     "description": "\ud55c\uad6d \ubcc0\ub9ac\uc0ac \uc2e4\ubb34\ub97c \uc704\ud55c Claude \uc2a4\ud0ac \ubaa8\uc74c \u2014 \ubc1c\uba85\uc790 \ubbf8\ud305\ubd80\ud130 docx \ucd9c\ub825\uae4c\uc9c0",
     "id": "lsj4232/KR_PATENT_SKILL",
     "language": "JavaScript",
@@ -99,21 +180,12 @@
     "url": "https://github.com/lsj4232/KR_PATENT_SKILL"
   },
   {
-    "description": "GEO \u9886\u57df AI \u5458\u5de5\u5f00\u6e90\u65b9\u6848 \u00b7 Open-source GEO AI-employee solution (MIT). GEO Skills package + curated lists of agents and office C",
-    "id": "recomby-ai/recomby-geo",
-    "language": "Python",
-    "name": "recomby-ai/recomby-geo",
-    "stars": 253,
-    "updated_at": "2026-06-01T14:39:22Z",
-    "url": "https://github.com/recomby-ai/recomby-geo"
-  },
-  {
     "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
     "id": "travsteward/openwriter",
     "language": "TypeScript",
     "name": "travsteward/openwriter",
     "stars": 10,
-    "updated_at": "2026-06-01T14:17:08Z",
+    "updated_at": "2026-06-01T15:06:55Z",
     "url": "https://github.com/travsteward/openwriter"
   },
   {
@@ -131,7 +203,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 90,
-    "updated_at": "2026-06-01T14:54:44Z",
+    "updated_at": "2026-06-01T15:02:05Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -148,7 +220,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15657,
+    "stars": 15659,
     "updated_at": "2026-06-01T14:05:38Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T13:45:09Z",
     "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:45:06Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:45:03Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:44:57Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:44:55Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:44:41Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
-    "id": "specscore/specstudio-skills",
-    "language": "\u2014",
-    "name": "specscore/specstudio-skills",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:44:31Z",
-    "url": "https://github.com/specscore/specstudio-skills"
-  },
-  {
-    "description": "Transform public expressions and interpersonal insights into a standardized modular skill set for cross-platform applica",
-    "id": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "language": "\u2014",
-    "name": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:44:30Z",
-    "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:44:24Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
   }
 ]
