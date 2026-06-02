@@ -1,5 +1,32 @@
 [
   {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 255,
+    "updated_at": "2026-06-02T17:29:08Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Context cleaning for Claude Code \u2014 prune bloated sessions, protect Agent Teams from context loss, auto-guard with tiered",
+    "id": "Ruya-AI/cozempic",
+    "language": "Python",
+    "name": "Ruya-AI/cozempic",
+    "stars": 323,
+    "updated_at": "2026-06-02T17:26:32Z",
+    "url": "https://github.com/Ruya-AI/cozempic"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-02T17:26:04Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
     "id": "apresmoi/jianglens",
     "language": "Jupyter Notebook",
@@ -22,7 +49,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60718,
+    "stars": 60719,
     "updated_at": "2026-06-02T17:24:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -85,7 +112,7 @@
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
-    "stars": 2046,
+    "stars": 2047,
     "updated_at": "2026-06-02T17:17:29Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
@@ -99,31 +126,13 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 255,
-    "updated_at": "2026-06-02T17:22:54Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
     "id": "a5c-ai/babysitter",
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
-    "stars": 1206,
+    "stars": 1208,
     "updated_at": "2026-06-02T17:16:25Z",
     "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T17:15:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
@@ -284,7 +293,7 @@
     "language": "Shell",
     "name": "yurukusa/cc-safe-setup",
     "stars": 40,
-    "updated_at": "2026-06-02T16:58:39Z",
+    "updated_at": "2026-06-02T17:29:19Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "ssurmic/claude-investment-skills",
     "stars": 1,
-    "updated_at": "2026-06-02T16:51:15Z",
+    "updated_at": "2026-06-02T17:30:14Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:46:39Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:46:12Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
   }
 ]
