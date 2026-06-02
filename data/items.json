@@ -1,11 +1,83 @@
 [
   {
+    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60719,
+    "updated_at": "2026-06-02T17:44:29Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Production-grade financial UI skills for Claude Code. Composable correctness + 10 aesthetic personas (Bloomberg, Trading",
+    "id": "rgourley/financial-ui-suite",
+    "language": "\u2014",
+    "name": "rgourley/financial-ui-suite",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:44:21Z",
+    "url": "https://github.com/rgourley/financial-ui-suite"
+  },
+  {
+    "description": "Test, lint, score, and package Claude/Hermes/AI-agent skills like real software.",
+    "id": "damanisme/agentskills-ci",
+    "language": "Python",
+    "name": "damanisme/agentskills-ci",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:39:34Z",
+    "url": "https://github.com/damanisme/agentskills-ci"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 40,
+    "updated_at": "2026-06-02T17:38:55Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Curated power-ups for coding agents: skills, slash commands, MCP configs, hooks, AGENTS.md templates, and workflows for ",
+    "id": "yeaight7/agent-powerups",
+    "language": "TypeScript",
+    "name": "yeaight7/agent-powerups",
+    "stars": 7,
+    "updated_at": "2026-06-02T17:41:05Z",
+    "url": "https://github.com/yeaight7/agent-powerups"
+  },
+  {
+    "description": "Generate draw.io diagrams from natural language \u2014 6 presets, vision self-check + up to 5-round refinement, codebase-to-d",
+    "id": "Agents365-ai/drawio-skill",
+    "language": "Python",
+    "name": "Agents365-ai/drawio-skill",
+    "stars": 2047,
+    "updated_at": "2026-06-02T17:41:01Z",
+    "url": "https://github.com/Agents365-ai/drawio-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-02T17:30:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-02T17:30:14Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 255,
-    "updated_at": "2026-06-02T17:29:08Z",
+    "updated_at": "2026-06-02T17:31:25Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -18,15 +90,6 @@
     "url": "https://github.com/Ruya-AI/cozempic"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T17:26:04Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
     "id": "apresmoi/jianglens",
     "language": "Jupyter Notebook",
@@ -34,24 +97,6 @@
     "stars": 7,
     "updated_at": "2026-06-02T17:25:46Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "Production-grade financial UI skills for Claude Code. Composable correctness + 10 aesthetic personas (Bloomberg, Trading",
-    "id": "rgourley/financial-ui-suite",
-    "language": "\u2014",
-    "name": "rgourley/financial-ui-suite",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:25:06Z",
-    "url": "https://github.com/rgourley/financial-ui-suite"
-  },
-  {
-    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60719,
-    "updated_at": "2026-06-02T17:24:58Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "AI agent skill for HyperFrames video ads: briefs, scripts, storyboards, GSAP motion maps, validation gates, renders, and",
@@ -108,15 +153,6 @@
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   },
   {
-    "description": "Generate draw.io diagrams from natural language \u2014 6 presets, vision self-check + up to 5-round refinement, codebase-to-d",
-    "id": "Agents365-ai/drawio-skill",
-    "language": "Python",
-    "name": "Agents365-ai/drawio-skill",
-    "stars": 2047,
-    "updated_at": "2026-06-02T17:17:29Z",
-    "url": "https://github.com/Agents365-ai/drawio-skill"
-  },
-  {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
     "id": "ashfaquecg806-dot/symfony-ux-insights",
     "language": "HTML",
@@ -151,15 +187,6 @@
     "stars": 1859,
     "updated_at": "2026-06-02T17:12:22Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Test, lint, score, and package Claude/Hermes/AI-agent skills like real software.",
-    "id": "damanisme/agentskills-ci",
-    "language": "Python",
-    "name": "damanisme/agentskills-ci",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:11:45Z",
-    "url": "https://github.com/damanisme/agentskills-ci"
   },
   {
     "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
@@ -288,15 +315,6 @@
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 40,
-    "updated_at": "2026-06-02T17:29:19Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -322,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:56:01Z",
     "url": "https://github.com/ktaletsk/council"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T17:30:14Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T16:46:43Z",
     "url": "https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:46:39Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
   }
 ]
