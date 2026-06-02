@@ -1,12 +1,57 @@
 [
   {
-    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
-    "id": "code-yeongyu/oh-my-openagent",
+    "description": "One manifest for every AI coding agent: generate AGENTS.md, CLAUDE.md, Claude/Codex Skills, Cursor rules, Copilot instru",
+    "id": "guorunjie/skillpack-forge",
+    "language": "JavaScript",
+    "name": "guorunjie/skillpack-forge",
+    "stars": 1,
+    "updated_at": "2026-06-02T17:59:41Z",
+    "url": "https://github.com/guorunjie/skillpack-forge"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 538,
+    "updated_at": "2026-06-02T17:59:47Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:59:21Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills -  bench",
+    "id": "Ar9av/PaperOrchestra",
+    "language": "Python",
+    "name": "Ar9av/PaperOrchestra",
+    "stars": 558,
+    "updated_at": "2026-06-02T17:55:51Z",
+    "url": "https://github.com/Ar9av/PaperOrchestra"
+  },
+  {
+    "description": "Curated power-ups for coding agents: skills, slash commands, MCP configs, hooks, AGENTS.md templates, and workflows for ",
+    "id": "yeaight7/agent-powerups",
     "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60719,
-    "updated_at": "2026-06-02T17:44:29Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "name": "yeaight7/agent-powerups",
+    "stars": 7,
+    "updated_at": "2026-06-02T17:53:40Z",
+    "url": "https://github.com/yeaight7/agent-powerups"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-02T17:51:14Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Production-grade financial UI skills for Claude Code. Composable correctness + 10 aesthetic personas (Bloomberg, Trading",
@@ -14,8 +59,44 @@
     "language": "\u2014",
     "name": "rgourley/financial-ui-suite",
     "stars": 0,
-    "updated_at": "2026-06-02T17:44:21Z",
+    "updated_at": "2026-06-02T17:50:54Z",
     "url": "https://github.com/rgourley/financial-ui-suite"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60719,
+    "updated_at": "2026-06-02T17:50:21Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-06-02T17:46:47Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Keep non-Goal Codex controller windows moving with low-context, ETA-aware background thread monitoring.",
+    "id": "ggsq003-png/low-frequency-thread-monitor",
+    "language": "\u2014",
+    "name": "ggsq003-png/low-frequency-thread-monitor",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:47:46Z",
+    "url": "https://github.com/ggsq003-png/low-frequency-thread-monitor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-02T17:45:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Test, lint, score, and package Claude/Hermes/AI-agent skills like real software.",
@@ -32,17 +113,8 @@
     "language": "Shell",
     "name": "yurukusa/cc-safe-setup",
     "stars": 40,
-    "updated_at": "2026-06-02T17:38:55Z",
+    "updated_at": "2026-06-02T17:57:17Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "Curated power-ups for coding agents: skills, slash commands, MCP configs, hooks, AGENTS.md templates, and workflows for ",
-    "id": "yeaight7/agent-powerups",
-    "language": "TypeScript",
-    "name": "yeaight7/agent-powerups",
-    "stars": 7,
-    "updated_at": "2026-06-02T17:41:05Z",
-    "url": "https://github.com/yeaight7/agent-powerups"
   },
   {
     "description": "Generate draw.io diagrams from natural language \u2014 6 presets, vision self-check + up to 5-round refinement, codebase-to-d",
@@ -54,30 +126,12 @@
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T17:30:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T17:30:14Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 255,
-    "updated_at": "2026-06-02T17:31:25Z",
+    "updated_at": "2026-06-02T17:57:02Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -167,7 +221,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1208,
-    "updated_at": "2026-06-02T17:16:25Z",
+    "updated_at": "2026-06-02T17:55:07Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "OpenLatch/saferskills",
     "stars": 1,
-    "updated_at": "2026-06-02T17:10:30Z",
+    "updated_at": "2026-06-02T17:45:21Z",
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T17:10:21Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "One manifest for every AI coding agent: generate AGENTS.md, Claude Skills, Codex Skills, Cursor rules, and Copilot instr",
-    "id": "guorunjie/skillpack-forge",
-    "language": "JavaScript",
-    "name": "guorunjie/skillpack-forge",
-    "stars": 1,
-    "updated_at": "2026-06-02T17:09:04Z",
-    "url": "https://github.com/guorunjie/skillpack-forge"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -342,6 +387,15 @@
     "url": "https://github.com/ktaletsk/council"
   },
   {
+    "description": "Claude skills organized into domain layers \u2014 engineering, product, founder/GTM, design, and documents",
+    "id": "BTN101/claude-skill-pack",
+    "language": "\u2014",
+    "name": "BTN101/claude-skill-pack",
+    "stars": 0,
+    "updated_at": "2026-06-02T16:56:01Z",
+    "url": "https://github.com/BTN101/claude-skill-pack"
+  },
+  {
     "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
     "id": "Videoa7917/ClaudeSec",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:48:19Z",
     "url": "https://github.com/Unifying-sheeptick539/revops-skills"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:47:51Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:47:48Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:47:36Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:46:52Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
-    "id": "guildsocialismteamteaching487/Claude-session-smasher",
-    "language": "\u2014",
-    "name": "guildsocialismteamteaching487/Claude-session-smasher",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:46:47Z",
-    "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
-  },
-  {
-    "description": "Curate agent skills and template libraries to build single-file HTML presentations for Claude Code, Cursor, and other AI",
-    "id": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "language": "\u2014",
-    "name": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:46:43Z",
-    "url": "https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills"
   }
 ]
