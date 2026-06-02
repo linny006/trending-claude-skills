@@ -1,12 +1,39 @@
 [
   {
+    "description": "Skills for working on ASU's SOL supercomputer",
+    "id": "Shu-Wan/sol-skills",
+    "language": "Python",
+    "name": "Shu-Wan/sol-skills",
+    "stars": 3,
+    "updated_at": "2026-06-02T00:43:49Z",
+    "url": "https://github.com/Shu-Wan/sol-skills"
+  },
+  {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
     "stars": 411,
-    "updated_at": "2026-06-02T00:24:43Z",
+    "updated_at": "2026-06-02T00:43:21Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 sdd (spec-driven dev) and gh (GitHub workflow) plugins",
+    "id": "kborovik/pilot-skills",
+    "language": "Python",
+    "name": "kborovik/pilot-skills",
+    "stars": 4,
+    "updated_at": "2026-06-02T00:42:24Z",
+    "url": "https://github.com/kborovik/pilot-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-02T00:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T00:15:47Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T00:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -387,15 +405,6 @@
     "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
   },
   {
-    "description": "Skills for working on ASU's SOL supercomputer",
-    "id": "Shu-Wan/sol-skills",
-    "language": "Python",
-    "name": "Shu-Wan/sol-skills",
-    "stars": 3,
-    "updated_at": "2026-06-01T23:53:53Z",
-    "url": "https://github.com/Shu-Wan/sol-skills"
-  },
-  {
     "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
     "id": "Analliseamicable382/bbc-skill",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T23:53:12Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-01T23:52:45Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
   }
 ]
