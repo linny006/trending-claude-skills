@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
+    "id": "yinjialu/ai-frontier-daily",
+    "language": "Python",
+    "name": "yinjialu/ai-frontier-daily",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:41:27Z",
+    "url": "https://github.com/yinjialu/ai-frontier-daily"
+  },
+  {
+    "description": "\ud83e\uddea Run your draft through a 6-phase simulated peer-review panel for a referee letter + scored verdict. A lite, open-sourc",
+    "id": "jy1529098645-gif/Cat_paper_review",
+    "language": "\u2014",
+    "name": "jy1529098645-gif/Cat_paper_review",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:38:20Z",
+    "url": "https://github.com/jy1529098645-gif/Cat_paper_review"
+  },
+  {
+    "description": "\u270d\ufe0f Write literature reviews, proposals, essays, SoPs & r\u00e9sum\u00e9s from your sources \u2014 every citation verified, never invent",
+    "id": "jy1529098645-gif/Cat_synthesis_lab",
+    "language": "\u2014",
+    "name": "jy1529098645-gif/Cat_synthesis_lab",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:38:18Z",
+    "url": "https://github.com/jy1529098645-gif/Cat_synthesis_lab"
+  },
+  {
+    "description": "\ud83d\udd0d Find real academic papers across 5 scholarly databases & deep-read any open-access PDF \u2014 grounded, never fabricated. A",
+    "id": "jy1529098645-gif/Cat_paper_search",
+    "language": "Python",
+    "name": "jy1529098645-gif/Cat_paper_search",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:38:17Z",
+    "url": "https://github.com/jy1529098645-gif/Cat_paper_search"
+  },
+  {
+    "description": "HSE K3 skill for Claude AI \u2014 Indonesian regulatory context (SMK3, P2K3, B3)",
+    "id": "dimassrimerdeka-boop/hse-indonesia-claude-skill",
+    "language": "\u2014",
+    "name": "dimassrimerdeka-boop/hse-indonesia-claude-skill",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:34:26Z",
+    "url": "https://github.com/dimassrimerdeka-boop/hse-indonesia-claude-skill"
+  },
+  {
+    "description": "Research-backed tactics to grow Moltbook karma fast. Scripts, automation & playbook for AI agents on the agent-native so",
+    "id": "thai-max-nguyen/moltbook-growth",
+    "language": "Python",
+    "name": "thai-max-nguyen/moltbook-growth",
+    "stars": 1,
+    "updated_at": "2026-06-02T03:33:57Z",
+    "url": "https://github.com/thai-max-nguyen/moltbook-growth"
+  },
+  {
+    "description": "\u8bf4\u4eba\u8bdd(Say Human)\u2014 \u4e00\u4e2a\u4f5c\u7528\u4e8e\u5176\u5b83 Skill \u7684 Skill:\u628a\u9ed1\u76d2 Skill \u7ffb\u8bd1\u6210\u4eba\u8bdd,\u770b\u61c2\u3001\u4e0a\u624b,\u5e76\u5728\u8fd0\u884c\u65f6\u5168\u7a0b\u53ef\u89c1\u3001\u5173\u952e\u5904\u53ef\u63d2\u624b\u3002",
+    "id": "AIisNothing/say-human",
+    "language": "\u2014",
+    "name": "AIisNothing/say-human",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:33:15Z",
+    "url": "https://github.com/AIisNothing/say-human"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:30:46Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-02T03:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-06-02T03:30:06Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
     "description": "Awesome Skills from Around the World",
     "id": "AbsolutelySkilled/AbsolutelySkilled",
     "language": "MDX",
@@ -16,42 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T03:28:04Z",
     "url": "https://github.com/LabinatorSolutions/kroki-editorial-diagrams"
-  },
-  {
-    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
-    "id": "yinjialu/ai-frontier-daily",
-    "language": "Python",
-    "name": "yinjialu/ai-frontier-daily",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:26:55Z",
-    "url": "https://github.com/yinjialu/ai-frontier-daily"
-  },
-  {
-    "description": "SE K3 skill for Claude AI \u2014 Indonesian regulatory context (SMK3, P2K3, B3)",
-    "id": "dimassrimerdeka-boop/hse-indonesia-claude-skill",
-    "language": "\u2014",
-    "name": "dimassrimerdeka-boop/hse-indonesia-claude-skill",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:26:47Z",
-    "url": "https://github.com/dimassrimerdeka-boop/hse-indonesia-claude-skill"
-  },
-  {
-    "description": "\ud83d\udd0d Find real academic papers across 5 scholarly databases & deep-read any open-access PDF \u2014 grounded, never fabricated. A",
-    "id": "jy1529098645-gif/Cat_paper_search",
-    "language": "Python",
-    "name": "jy1529098645-gif/Cat_paper_search",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:24:10Z",
-    "url": "https://github.com/jy1529098645-gif/Cat_paper_search"
-  },
-  {
-    "description": "\u8bf4\u4eba\u8bdd(Say Human)\u2014 \u4e00\u4e2a\u4f5c\u7528\u4e8e\u5176\u5b83 Skill \u7684 Skill:\u628a\u9ed1\u76d2 Skill \u7ffb\u8bd1\u6210\u4eba\u8bdd,\u770b\u61c2\u3001\u4e0a\u624b,\u5e76\u5728\u8fd0\u884c\u65f6\u5168\u7a0b\u53ef\u89c1\u3001\u5173\u952e\u5904\u53ef\u63d2\u624b\u3002",
-    "id": "AIisNothing/say-human",
-    "language": "\u2014",
-    "name": "AIisNothing/say-human",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:20:26Z",
-    "url": "https://github.com/AIisNothing/say-human"
   },
   {
     "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
@@ -81,15 +135,6 @@
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T03:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "JavaScript",
@@ -115,24 +160,6 @@
     "stars": 4,
     "updated_at": "2026-06-02T03:08:17Z",
     "url": "https://github.com/brycewang-stanford/AER-Skills"
-  },
-  {
-    "description": "\ud83e\uddea Run your draft through a 6-phase simulated peer-review panel for a referee letter + scored verdict. A lite, open-sourc",
-    "id": "jy1529098645-gif/Cat_paper_review",
-    "language": "\u2014",
-    "name": "jy1529098645-gif/Cat_paper_review",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:08:10Z",
-    "url": "https://github.com/jy1529098645-gif/Cat_paper_review"
-  },
-  {
-    "description": "\u270d\ufe0f Write literature reviews, proposals, essays, SoPs & r\u00e9sum\u00e9s from your sources \u2014 every citation verified, never invent",
-    "id": "jy1529098645-gif/Cat_synthesis_lab",
-    "language": "\u2014",
-    "name": "jy1529098645-gif/Cat_synthesis_lab",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:08:08Z",
-    "url": "https://github.com/jy1529098645-gif/Cat_synthesis_lab"
   },
   {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
@@ -175,7 +202,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60616,
+    "stars": 60622,
     "updated_at": "2026-06-02T02:51:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T02:39:53Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:39:22Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:39:19Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-02T02:39:16Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
   }
 ]
