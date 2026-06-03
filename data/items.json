@@ -1,5 +1,122 @@
 [
   {
+    "description": "A Claude skill that pulls real UX sentiment about any company and turns it into interview talking points in 30 minutes",
+    "id": "jibbajabba/ux-sentiment-research",
+    "language": "\u2014",
+    "name": "jibbajabba/ux-sentiment-research",
+    "stars": 1,
+    "updated_at": "2026-06-03T23:11:40Z",
+    "url": "https://github.com/jibbajabba/ux-sentiment-research"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 257,
+    "updated_at": "2026-06-03T23:09:57Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Writing skills for Claude Code: humanize AI prose, enforce Microsoft Writing Style Guide compliance.",
+    "id": "slogsdon/skills-writing",
+    "language": "\u2014",
+    "name": "slogsdon/skills-writing",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:05:50Z",
+    "url": "https://github.com/slogsdon/skills-writing"
+  },
+  {
+    "description": "Pipeline-orchestration skills for Claude Code: publish-post, agents-md-generator, work-tracking, feature-spec, stage-dra",
+    "id": "slogsdon/skills-workflows",
+    "language": "Shell",
+    "name": "slogsdon/skills-workflows",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:05:48Z",
+    "url": "https://github.com/slogsdon/skills-workflows"
+  },
+  {
+    "description": "Obsidian daily-ritual skills for Claude Code: morning focus, end-of-day audit, plan-tomorrow, session log, inbox process",
+    "id": "slogsdon/skills-vault-rituals",
+    "language": "\u2014",
+    "name": "slogsdon/skills-vault-rituals",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:05:46Z",
+    "url": "https://github.com/slogsdon/skills-vault-rituals"
+  },
+  {
+    "description": "Meta-utility skills for Claude Code: compress prompts to save tokens, delegate work to local Qwen via LM Studio.",
+    "id": "slogsdon/skills-meta-utils",
+    "language": "\u2014",
+    "name": "slogsdon/skills-meta-utils",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:05:44Z",
+    "url": "https://github.com/slogsdon/skills-meta-utils"
+  },
+  {
+    "description": "Language and standards reference skills for Claude Code: TypeScript, vanilla JS, CSS, PHP, web standards, auth.",
+    "id": "slogsdon/skills-engineering-reference",
+    "language": "\u2014",
+    "name": "slogsdon/skills-engineering-reference",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:05:42Z",
+    "url": "https://github.com/slogsdon/skills-engineering-reference"
+  },
+  {
+    "description": "Twenty-three brand-agnostic design templates for Claude Code: LinkedIn, Instagram, YouTube, Twitch, blog hero, podcast.",
+    "id": "slogsdon/skills-design",
+    "language": "HTML",
+    "name": "slogsdon/skills-design",
+    "stars": 2,
+    "updated_at": "2026-06-03T23:05:40Z",
+    "url": "https://github.com/slogsdon/skills-design"
+  },
+  {
+    "description": "Twenty Obsidian knowledge-work skills for Claude Code: connect, contradict, emerge, trace, ghost, weekly-learnings.",
+    "id": "slogsdon/skills-vault-knowledge",
+    "language": "\u2014",
+    "name": "slogsdon/skills-vault-knowledge",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:05:19Z",
+    "url": "https://github.com/slogsdon/skills-vault-knowledge"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:02:30Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-06-03T23:02:21Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T23:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:00:06Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
     "description": "Open registry of community-contributed AI coding skills (SKILL.md files) \u2014 daily-synced to skills-hub.ai. Install across",
     "id": "tinh2/skills-hub-registry",
     "language": "Python",
@@ -45,24 +162,6 @@
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 257,
-    "updated_at": "2026-06-03T22:55:39Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Twenty Obsidian knowledge-work skills for Claude Code: connect, contradict, emerge, trace, ghost, weekly-learnings.",
-    "id": "slogsdon/skills-vault-knowledge",
-    "language": "\u2014",
-    "name": "slogsdon/skills-vault-knowledge",
-    "stars": 0,
-    "updated_at": "2026-06-03T22:53:45Z",
-    "url": "https://github.com/slogsdon/skills-vault-knowledge"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -99,15 +198,6 @@
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T22:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets",
     "id": "jqaisystems/jqai-ai-skills",
     "language": "HTML",
@@ -139,7 +229,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15796,
+    "stars": 15797,
     "updated_at": "2026-06-03T22:31:06Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -230,7 +320,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-03T22:19:37Z",
+    "updated_at": "2026-06-03T23:02:55Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T21:51:27Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
-    "id": "Kaelio/ktx",
-    "language": "TypeScript",
-    "name": "Kaelio/ktx",
-    "stars": 844,
-    "updated_at": "2026-06-03T22:19:32Z",
-    "url": "https://github.com/Kaelio/ktx"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:50:10Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:49:34Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:49:00Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:45:57Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:42:40Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:42:00Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:40:12Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 377,
-    "updated_at": "2026-06-03T21:39:50Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:38:57Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
