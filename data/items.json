@@ -1,12 +1,39 @@
 [
   {
+    "description": "Open legal skills for AI-assisted legal teams.",
+    "id": "zgbrenner/agentcounsel",
+    "language": "Python",
+    "name": "zgbrenner/agentcounsel",
+    "stars": 2,
+    "updated_at": "2026-06-03T05:30:12Z",
+    "url": "https://github.com/zgbrenner/agentcounsel"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 257,
-    "updated_at": "2026-06-03T05:27:10Z",
+    "updated_at": "2026-06-03T05:28:37Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "One manifest for every AI coding agent: generate AGENTS.md, CLAUDE.md, Claude/Codex Skills, Cursor rules, Copilot instru",
+    "id": "guorunjie/skillpack-forge",
+    "language": "JavaScript",
+    "name": "guorunjie/skillpack-forge",
+    "stars": 1,
+    "updated_at": "2026-06-03T05:28:49Z",
+    "url": "https://github.com/guorunjie/skillpack-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T05:27:28Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -16,15 +43,6 @@
     "stars": 89,
     "updated_at": "2026-06-03T05:24:37Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "One manifest for every AI coding agent: generate AGENTS.md, CLAUDE.md, Claude/Codex Skills, Cursor rules, Copilot instru",
-    "id": "guorunjie/skillpack-forge",
-    "language": "JavaScript",
-    "name": "guorunjie/skillpack-forge",
-    "stars": 1,
-    "updated_at": "2026-06-03T05:20:37Z",
-    "url": "https://github.com/guorunjie/skillpack-forge"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -52,15 +70,6 @@
     "stars": 60761,
     "updated_at": "2026-06-03T05:15:15Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T05:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T03:42:13Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Hand-drawn Excalidraw diagrams from natural language. 5 patterns, 8-color semantic palette, Kroki API or local CLI. PNG/",
-    "id": "Agents365-ai/excalidraw-skill",
-    "language": "\u2014",
-    "name": "Agents365-ai/excalidraw-skill",
-    "stars": 73,
-    "updated_at": "2026-06-03T03:50:04Z",
-    "url": "https://github.com/Agents365-ai/excalidraw-skill"
   }
 ]
