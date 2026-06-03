@@ -1,21 +1,12 @@
 [
   {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-06-03T12:44:33Z",
-    "url": "https://github.com/easyinplay/harnessed"
-  },
-  {
-    "description": "Collection of hand-crafted skills",
-    "id": "souljorje/agent-skills",
-    "language": "Shell",
-    "name": "souljorje/agent-skills",
-    "stars": 4,
-    "updated_at": "2026-06-03T12:42:21Z",
-    "url": "https://github.com/souljorje/agent-skills"
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-03T12:58:05Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
@@ -23,8 +14,35 @@
     "language": "Go",
     "name": "oxGrad/spicebag",
     "stars": 0,
-    "updated_at": "2026-06-03T12:41:37Z",
+    "updated_at": "2026-06-03T12:56:59Z",
     "url": "https://github.com/oxGrad/spicebag"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1224,
+    "updated_at": "2026-06-03T12:55:32Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 6,
+    "updated_at": "2026-06-03T12:55:16Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 3,
+    "updated_at": "2026-06-03T12:55:24Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -32,8 +50,44 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 258,
-    "updated_at": "2026-06-03T12:42:12Z",
+    "updated_at": "2026-06-03T12:54:16Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 376,
+    "updated_at": "2026-06-03T12:51:50Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Collection of hand-crafted skills",
+    "id": "souljorje/agent-skills",
+    "language": "Shell",
+    "name": "souljorje/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-06-03T12:45:24Z",
+    "url": "https://github.com/souljorje/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T12:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-06-03T12:44:33Z",
+    "url": "https://github.com/easyinplay/harnessed"
   },
   {
     "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
@@ -67,7 +121,7 @@
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 633,
+    "stars": 635,
     "updated_at": "2026-06-03T12:34:11Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T12:32:09Z",
     "url": "https://github.com/jk241282/-deepseek-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T12:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Transforms raw transcripts (interviews, podcasts, calls) into structured, clean Q&A digests.",
@@ -351,15 +396,6 @@
     "url": "https://github.com/Endika/eskills"
   },
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 3,
-    "updated_at": "2026-06-03T12:28:18Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T12:17:44Z",
     "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:17:19Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-03T12:17:10Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:16:59Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:16:37Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
   }
 ]
