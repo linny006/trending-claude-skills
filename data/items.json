@@ -1,5 +1,50 @@
 [
   {
+    "description": "Lean personal Claude Code skills pack \u2014 my conventions, task flow, and quality lenses. Requires the superpowers plugin.",
+    "id": "Endika/eskills",
+    "language": "Makefile",
+    "name": "Endika/eskills",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:22:46Z",
+    "url": "https://github.com/Endika/eskills"
+  },
+  {
+    "description": "Claude Code has no memory between sessions. Every time you start a new conversation, Claude forgets your project's stack",
+    "id": "senapati484/claude-recall",
+    "language": "Python",
+    "name": "senapati484/claude-recall",
+    "stars": 6,
+    "updated_at": "2026-06-03T14:19:45Z",
+    "url": "https://github.com/senapati484/claude-recall"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60844,
+    "updated_at": "2026-06-03T14:18:55Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-06-03T14:17:12Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T14:15:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skill: invoke local Codex CLI as an independent analysis partner",
     "id": "koenvdheide/codex-skill",
     "language": "Shell",
@@ -9,13 +54,40 @@
     "url": "https://github.com/koenvdheide/codex-skill"
   },
   {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
+    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
+    "id": "davepoon/buildwithclaude",
     "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60841,
-    "updated_at": "2026-06-03T14:08:48Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "name": "davepoon/buildwithclaude",
+    "stars": 3010,
+    "updated_at": "2026-06-03T14:28:10Z",
+    "url": "https://github.com/davepoon/buildwithclaude"
+  },
+  {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 10,
+    "updated_at": "2026-06-03T14:09:56Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-03T14:09:44Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
+    "id": "txw842lkj-cmd/silicon-circle-skill",
+    "language": "\u2014",
+    "name": "txw842lkj-cmd/silicon-circle-skill",
+    "stars": 1,
+    "updated_at": "2026-06-03T14:07:46Z",
+    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
   },
   {
     "description": "\u9762\u5411 Word\u2192LaTeX \u8fc1\u79fb\u3001\u5f15\u7528\u5b8c\u6574\u6027\u3001\u4e2d\u6587\u8bed\u8a00\u89c4\u8303\u3001\u683c\u5f0f\u9a8c\u8bc1\u4e0e\u9ad8\u6821\u89c4\u5219\u5305\u7684\u786e\u5b9a\u6027\u8bba\u6587\u5de5\u4f5c\u6d41\u4ed3\u5e93\u3002",
@@ -41,35 +113,17 @@
     "language": "TypeScript",
     "name": "maxritter/pilot-shell",
     "stars": 1737,
-    "updated_at": "2026-06-03T14:01:44Z",
+    "updated_at": "2026-06-03T14:25:54Z",
     "url": "https://github.com/maxritter/pilot-shell"
-  },
-  {
-    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
-    "id": "davepoon/buildwithclaude",
-    "language": "TypeScript",
-    "name": "davepoon/buildwithclaude",
-    "stars": 3010,
-    "updated_at": "2026-06-03T14:11:02Z",
-    "url": "https://github.com/davepoon/buildwithclaude"
   },
   {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 642,
+    "stars": 643,
     "updated_at": "2026-06-03T14:00:35Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T14:00:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -77,7 +131,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 258,
-    "updated_at": "2026-06-03T13:59:26Z",
+    "updated_at": "2026-06-03T14:29:46Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T13:58:35Z",
     "url": "https://github.com/Next2D/next2d-development-assistant"
-  },
-  {
-    "description": "Lean personal Claude Code skills pack \u2014 my conventions, task flow, and quality lenses. Requires the superpowers plugin.",
-    "id": "Endika/eskills",
-    "language": "Makefile",
-    "name": "Endika/eskills",
-    "stars": 0,
-    "updated_at": "2026-06-03T13:58:03Z",
-    "url": "https://github.com/Endika/eskills"
   },
   {
     "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
@@ -167,17 +212,8 @@
     "language": "Go",
     "name": "JetBrains/teamcity-cli",
     "stars": 97,
-    "updated_at": "2026-06-03T14:12:54Z",
+    "updated_at": "2026-06-03T14:28:35Z",
     "url": "https://github.com/JetBrains/teamcity-cli"
-  },
-  {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-06-03T13:47:27Z",
-    "url": "https://github.com/easyinplay/harnessed"
   },
   {
     "description": "Run your work like an AI agency, from a single Notion board. Ships as a Claude Code plugin and an MCP server \u2014 runs in C",
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "OpenLatch/saferskills",
     "stars": 1,
-    "updated_at": "2026-06-03T13:57:20Z",
+    "updated_at": "2026-06-03T14:24:17Z",
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
@@ -342,21 +378,12 @@
     "url": "https://github.com/ethanhq/cc-fleet"
   },
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-06-03T14:09:44Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
     "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
     "id": "a5c-ai/babysitter",
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1225,
-    "updated_at": "2026-06-03T14:04:49Z",
+    "updated_at": "2026-06-03T14:19:53Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T12:30:07Z",
     "url": "https://github.com/bchaoss/transcript-processor"
-  },
-  {
-    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
-    "id": "Scorpio-1111/OmicsAgent-Skills",
-    "language": "HTML",
-    "name": "Scorpio-1111/OmicsAgent-Skills",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:28:16Z",
-    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
-  },
-  {
-    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
-    "id": "Mary2241/seo-skills-agent-toolbox",
-    "language": "HTML",
-    "name": "Mary2241/seo-skills-agent-toolbox",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:27:53Z",
-    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:26:24Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
