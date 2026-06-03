@@ -1,5 +1,41 @@
 [
   {
+    "description": "Claude skills for STEM undergraduates \u2014 upload lectures, get structured notes",
+    "id": "jiaxinlin-jessy/stem-learning-toolkit",
+    "language": "\u2014",
+    "name": "jiaxinlin-jessy/stem-learning-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-03T03:56:39Z",
+    "url": "https://github.com/jiaxinlin-jessy/stem-learning-toolkit"
+  },
+  {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 68,
+    "updated_at": "2026-06-03T03:51:19Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "A Claude Code plugin to build a knowledge base from the explanations you'd otherwise forget. For responsible vibe coders",
+    "id": "koloskus/jotbook",
+    "language": "Shell",
+    "name": "koloskus/jotbook",
+    "stars": 0,
+    "updated_at": "2026-06-03T03:49:16Z",
+    "url": "https://github.com/koloskus/jotbook"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T03:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u5305\u5de5\u5934(Foreman)\u2014 \u4e00\u4e2a\u4f5c\u7528\u4e8e\u5176\u5b83 Skill \u7684 Skill:\u628a\u9ed1\u76d2 Skill \u7ffb\u8bd1\u6210\u4eba\u8bdd,\u770b\u61c2\u3001\u4e0a\u624b,\u5e76\u5728\u8fd0\u884c\u65f6\u5168\u7a0b\u53ef\u89c1\u3001\u5173\u952e\u5904\u968f\u65f6\u63d2\u624b\u3002",
     "id": "AIisNothing/foreman",
     "language": "\u2014",
@@ -23,7 +59,7 @@
     "language": "\u2014",
     "name": "Agents365-ai/excalidraw-skill",
     "stars": 73,
-    "updated_at": "2026-06-03T03:40:19Z",
+    "updated_at": "2026-06-03T03:50:04Z",
     "url": "https://github.com/Agents365-ai/excalidraw-skill"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T03:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
     "id": "allans4635/memctx",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T03:30:13Z",
     "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-06-03T03:30:06Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Retry OpenCode model requests using exponential backoff and jitter to handle rate limits without switching models.",
-    "id": "notmay666-code/opencode-rate-limit-retry",
-    "language": "TypeScript",
-    "name": "notmay666-code/opencode-rate-limit-retry",
-    "stars": 0,
-    "updated_at": "2026-06-03T03:30:03Z",
-    "url": "https://github.com/notmay666-code/opencode-rate-limit-retry"
-  },
-  {
-    "description": "Integrate Claude with Obsidian to build a persistent, searchable knowledge vault that automatically connects your notes ",
-    "id": "unresentful-barbeque695/claude-obsidian",
-    "language": "\u2014",
-    "name": "unresentful-barbeque695/claude-obsidian",
-    "stars": 0,
-    "updated_at": "2026-06-03T03:30:03Z",
-    "url": "https://github.com/unresentful-barbeque695/claude-obsidian"
   }
 ]
