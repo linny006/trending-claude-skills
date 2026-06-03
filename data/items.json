@@ -1,11 +1,92 @@
 [
   {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 63,
+    "updated_at": "2026-06-03T09:11:22Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
+    "id": "specscore/specstudio-skills",
+    "language": "\u2014",
+    "name": "specscore/specstudio-skills",
+    "stars": 0,
+    "updated_at": "2026-06-03T09:09:17Z",
+    "url": "https://github.com/specscore/specstudio-skills"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 5,
+    "updated_at": "2026-06-03T09:08:03Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Documentation and project-story skills (ADR, story, queue-audit, session-wrap) for Claude Code and Cursor, layered on Op",
+    "id": "alexpialetski/doccraft",
+    "language": "TypeScript",
+    "name": "alexpialetski/doccraft",
+    "stars": 4,
+    "updated_at": "2026-06-03T09:07:40Z",
+    "url": "https://github.com/alexpialetski/doccraft"
+  },
+  {
+    "description": "A Claude Code marketplace for Android development, featuring code review, localization management, and APK/AAB release a",
+    "id": "jason0404/Jason-Android-Marketplace",
+    "language": "\u2014",
+    "name": "jason0404/Jason-Android-Marketplace",
+    "stars": 1,
+    "updated_at": "2026-06-03T09:05:43Z",
+    "url": "https://github.com/jason0404/Jason-Android-Marketplace"
+  },
+  {
+    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
+    "id": "shauryalowkeygotaura/brand-launchpad",
+    "language": "HTML",
+    "name": "shauryalowkeygotaura/brand-launchpad",
+    "stars": 1,
+    "updated_at": "2026-06-03T09:04:21Z",
+    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
+  },
+  {
+    "description": "Stop Claude from lying to you. A Claude Code skill that fact-checks every claim against real sources \u2014 code files, live ",
+    "id": "BAS-More/truth-shield",
+    "language": "JavaScript",
+    "name": "BAS-More/truth-shield",
+    "stars": 0,
+    "updated_at": "2026-06-03T09:00:33Z",
+    "url": "https://github.com/BAS-More/truth-shield"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T09:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15759,
+    "updated_at": "2026-06-03T09:11:12Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
     "description": "An easier/safer way to work with Claude code. easily harness the power of team of sub-agents specifically designed to do",
     "id": "zultiAvi/klodTalk",
     "language": "Python",
     "name": "zultiAvi/klodTalk",
     "stars": 1,
-    "updated_at": "2026-06-03T08:57:32Z",
+    "updated_at": "2026-06-03T09:11:50Z",
     "url": "https://github.com/zultiAvi/klodTalk"
   },
   {
@@ -16,15 +97,6 @@
     "stars": 13,
     "updated_at": "2026-06-03T08:57:08Z",
     "url": "https://github.com/fusengine/agents"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 5,
-    "updated_at": "2026-06-03T08:56:10Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
   },
   {
     "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
@@ -45,15 +117,6 @@
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T08:45:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "TDD-first spec workflow for AI coding agents. Strict red-green-refactor enforcement, alternating TEST-IMPL task pairs, T",
     "id": "ngvoicu/specmint-tdd",
     "language": "\u2014",
@@ -72,20 +135,11 @@
     "url": "https://github.com/ngvoicu/specmint-core"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15758,
-    "updated_at": "2026-06-03T08:58:22Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 80355,
+    "stars": 80358,
     "updated_at": "2026-06-03T08:39:38Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T08:38:10Z",
     "url": "https://github.com/vitalikxp/skills"
-  },
-  {
-    "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
-    "id": "specscore/specstudio-skills",
-    "language": "\u2014",
-    "name": "specscore/specstudio-skills",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:35:11Z",
-    "url": "https://github.com/specscore/specstudio-skills"
   },
   {
     "description": "ScraperAPI's Agent Skills.",
@@ -142,15 +187,6 @@
     "stars": 6,
     "updated_at": "2026-06-03T08:23:31Z",
     "url": "https://github.com/senapati484/claude-recall"
-  },
-  {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 63,
-    "updated_at": "2026-06-03T08:23:00Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "618034128/Travel-Planning-Skill",
     "stars": 0,
-    "updated_at": "2026-06-03T08:13:19Z",
+    "updated_at": "2026-06-03T09:05:51Z",
     "url": "https://github.com/618034128/Travel-Planning-Skill"
   },
   {
@@ -202,7 +238,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60798,
+    "stars": 60801,
     "updated_at": "2026-06-03T08:12:36Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "Kaelio/ktx",
     "stars": 833,
-    "updated_at": "2026-06-03T07:50:40Z",
+    "updated_at": "2026-06-03T09:15:05Z",
     "url": "https://github.com/Kaelio/ktx"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:40:23Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
-    "id": "guildsocialismteamteaching487/Claude-session-smasher",
-    "language": "\u2014",
-    "name": "guildsocialismteamteaching487/Claude-session-smasher",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:40:11Z",
-    "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:39:48Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Agent skill stack for American Economic Review, AER:Insights, and AEJ manuscripts \u2014 identification-first empirics, AEA-c",
-    "id": "brycewang-stanford/AER-Skills",
-    "language": "Python",
-    "name": "brycewang-stanford/AER-Skills",
-    "stars": 4,
-    "updated_at": "2026-06-03T07:39:02Z",
-    "url": "https://github.com/brycewang-stanford/AER-Skills"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:38:33Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
   }
 ]
