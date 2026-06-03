@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83e\uddec 180 Claude AI skills for faculty & academic researchers \u2014 installable as a Claude Code plugin, organized into 13 resea",
+    "id": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "language": "Python",
+    "name": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "stars": 22,
+    "updated_at": "2026-06-03T14:35:39Z",
+    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills"
+  },
+  {
+    "description": "Your Claude Code agent that remembers across sessions \u2014 date-tagged memory, multi-project isolation, sandbox experiments",
+    "id": "awrshift/claude-memory-kit",
+    "language": "Python",
+    "name": "awrshift/claude-memory-kit",
+    "stars": 20,
+    "updated_at": "2026-06-03T14:34:42Z",
+    "url": "https://github.com/awrshift/claude-memory-kit"
+  },
+  {
     "description": "Lean personal Claude Code skills pack \u2014 my conventions, task flow, and quality lenses. Requires the superpowers plugin.",
     "id": "Endika/eskills",
     "language": "Makefile",
     "name": "Endika/eskills",
     "stars": 0,
-    "updated_at": "2026-06-03T14:22:46Z",
+    "updated_at": "2026-06-03T14:32:11Z",
     "url": "https://github.com/Endika/eskills"
+  },
+  {
+    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
+    "id": "maxritter/pilot-shell",
+    "language": "TypeScript",
+    "name": "maxritter/pilot-shell",
+    "stars": 1737,
+    "updated_at": "2026-06-03T14:32:08Z",
+    "url": "https://github.com/maxritter/pilot-shell"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T14:30:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 258,
+    "updated_at": "2026-06-03T14:29:46Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:28:40Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "A curated collection of plugins, skills, and agents for your LLM of choice.",
+    "id": "mvdmakesthings/skills",
+    "language": "HTML",
+    "name": "mvdmakesthings/skills",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:27:24Z",
+    "url": "https://github.com/mvdmakesthings/skills"
   },
   {
     "description": "Claude Code has no memory between sessions. Every time you start a new conversation, Claude forgets your project's stack",
@@ -36,13 +99,13 @@
     "url": "https://github.com/easyinplay/harnessed"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T14:15:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "alirezarezvani/claude-skills",
+    "stars": 17020,
+    "updated_at": "2026-06-03T14:16:04Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
     "description": "Claude Code skill: invoke local Codex CLI as an independent analysis partner",
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "ssurmic/claude-investment-skills",
     "stars": 1,
-    "updated_at": "2026-06-03T14:09:44Z",
+    "updated_at": "2026-06-03T14:38:50Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/oxGrad/spicebag"
   },
   {
-    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
-    "id": "maxritter/pilot-shell",
-    "language": "TypeScript",
-    "name": "maxritter/pilot-shell",
-    "stars": 1737,
-    "updated_at": "2026-06-03T14:25:54Z",
-    "url": "https://github.com/maxritter/pilot-shell"
-  },
-  {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
@@ -124,15 +178,6 @@
     "stars": 643,
     "updated_at": "2026-06-03T14:00:35Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 258,
-    "updated_at": "2026-06-03T14:29:46Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -180,13 +225,13 @@
     "url": "https://github.com/Nyx-abu/awwwards-ui-skill"
   },
   {
-    "description": "Your Claude Code agent remembers across  sessions. Multi-project, sandbox experiments audit-driven promotion. Zero deps.",
-    "id": "awrshift/claude-memory-kit",
-    "language": "Python",
-    "name": "awrshift/claude-memory-kit",
-    "stars": 20,
-    "updated_at": "2026-06-03T13:52:19Z",
-    "url": "https://github.com/awrshift/claude-memory-kit"
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 838,
+    "updated_at": "2026-06-03T13:51:26Z",
+    "url": "https://github.com/Kaelio/ktx"
   },
   {
     "description": "Context cleaning for Claude Code \u2014 prune bloated sessions, protect Agent Teams from context loss, auto-guard with tiered",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "Ruya-AI/cozempic",
     "stars": 323,
-    "updated_at": "2026-06-03T13:50:33Z",
+    "updated_at": "2026-06-03T14:41:51Z",
     "url": "https://github.com/Ruya-AI/cozempic"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Go",
     "name": "JetBrains/teamcity-cli",
     "stars": 97,
-    "updated_at": "2026-06-03T14:28:35Z",
+    "updated_at": "2026-06-03T14:43:25Z",
     "url": "https://github.com/JetBrains/teamcity-cli"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "OpenLatch/saferskills",
     "stars": 1,
-    "updated_at": "2026-06-03T14:24:17Z",
+    "updated_at": "2026-06-03T14:35:27Z",
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T13:19:18Z",
     "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
-    "id": "Kaelio/ktx",
-    "language": "TypeScript",
-    "name": "Kaelio/ktx",
-    "stars": 837,
-    "updated_at": "2026-06-03T13:51:26Z",
-    "url": "https://github.com/Kaelio/ktx"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -374,7 +410,7 @@
     "language": "Go",
     "name": "ethanhq/cc-fleet",
     "stars": 77,
-    "updated_at": "2026-06-03T13:03:52Z",
+    "updated_at": "2026-06-03T14:40:43Z",
     "url": "https://github.com/ethanhq/cc-fleet"
   },
   {
@@ -383,7 +419,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1225,
-    "updated_at": "2026-06-03T14:19:53Z",
+    "updated_at": "2026-06-03T14:38:29Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-06-03T12:39:45Z",
     "url": "https://github.com/travsteward/openwriter"
-  },
-  {
-    "description": "Plugin with opinionated set of Claude Code agents nad skills",
-    "id": "lklimek/claudius",
-    "language": "Python",
-    "name": "lklimek/claudius",
-    "stars": 1,
-    "updated_at": "2026-06-03T14:03:38Z",
-    "url": "https://github.com/lklimek/claudius"
-  },
-  {
-    "description": "Operating mechanisms for Claude Code. Not rules. Not principles. Mechanisms with triggers, retry logic, and failure noti",
-    "id": "christophecapel/claude-mechanisms",
-    "language": "\u2014",
-    "name": "christophecapel/claude-mechanisms",
-    "stars": 3,
-    "updated_at": "2026-06-03T12:45:02Z",
-    "url": "https://github.com/christophecapel/claude-mechanisms"
-  },
-  {
-    "description": "\u7ed9 Claude Code + DeepSeek \u88c5\u4e0a\u773c\u775b\u548c\u8033\u6735\uff1a\u672c\u5730\u591a\u6a21\u6001 Skills \u5957\u88c5\uff0c\u652f\u6301\u56fe\u7247\u8bc6\u522b/OCR\uff08Ollama minicpm-v\uff09\u548c\u8bed\u97f3\u8f6c\u6587\u5b57\uff08faster-whisper large-v3-turbo\uff09\uff0c\u7eaf\u672c\u5730\u8fd0\u884c",
-    "id": "jk241282/-deepseek-skills",
-    "language": "Python",
-    "name": "jk241282/-deepseek-skills",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:32:09Z",
-    "url": "https://github.com/jk241282/-deepseek-skills"
-  },
-  {
-    "description": "Transforms raw transcripts (interviews, podcasts, calls) into structured, clean Q&A digests.",
-    "id": "bchaoss/transcript-processor",
-    "language": "Python",
-    "name": "bchaoss/transcript-processor",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:30:07Z",
-    "url": "https://github.com/bchaoss/transcript-processor"
   }
 ]
