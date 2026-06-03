@@ -1,5 +1,113 @@
 [
   {
+    "description": "Claude Code skill: invoke local Codex CLI as an independent analysis partner",
+    "id": "koenvdheide/codex-skill",
+    "language": "Shell",
+    "name": "koenvdheide/codex-skill",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:12:33Z",
+    "url": "https://github.com/koenvdheide/codex-skill"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60841,
+    "updated_at": "2026-06-03T14:08:48Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\u9762\u5411 Word\u2192LaTeX \u8fc1\u79fb\u3001\u5f15\u7528\u5b8c\u6574\u6027\u3001\u4e2d\u6587\u8bed\u8a00\u89c4\u8303\u3001\u683c\u5f0f\u9a8c\u8bc1\u4e0e\u9ad8\u6821\u89c4\u5219\u5305\u7684\u786e\u5b9a\u6027\u8bba\u6587\u5de5\u4f5c\u6d41\u4ed3\u5e93\u3002",
+    "id": "quzhiii/thesis-skills",
+    "language": "Python",
+    "name": "quzhiii/thesis-skills",
+    "stars": 77,
+    "updated_at": "2026-06-03T14:03:24Z",
+    "url": "https://github.com/quzhiii/thesis-skills"
+  },
+  {
+    "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
+    "id": "oxGrad/spicebag",
+    "language": "Go",
+    "name": "oxGrad/spicebag",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:02:50Z",
+    "url": "https://github.com/oxGrad/spicebag"
+  },
+  {
+    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
+    "id": "maxritter/pilot-shell",
+    "language": "TypeScript",
+    "name": "maxritter/pilot-shell",
+    "stars": 1737,
+    "updated_at": "2026-06-03T14:01:44Z",
+    "url": "https://github.com/maxritter/pilot-shell"
+  },
+  {
+    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
+    "id": "davepoon/buildwithclaude",
+    "language": "TypeScript",
+    "name": "davepoon/buildwithclaude",
+    "stars": 3010,
+    "updated_at": "2026-06-03T14:11:02Z",
+    "url": "https://github.com/davepoon/buildwithclaude"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 642,
+    "updated_at": "2026-06-03T14:00:35Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T14:00:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 258,
+    "updated_at": "2026-06-03T13:59:26Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 89,
+    "updated_at": "2026-06-03T14:11:07Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "This AI Skill supports development using the Next2D Framework and Next2D Player. It assists with code generation followi",
+    "id": "Next2D/next2d-development-assistant",
+    "language": "\u2014",
+    "name": "Next2D/next2d-development-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:58:35Z",
+    "url": "https://github.com/Next2D/next2d-development-assistant"
+  },
+  {
+    "description": "Lean personal Claude Code skills pack \u2014 my conventions, task flow, and quality lenses. Requires the superpowers plugin.",
+    "id": "Endika/eskills",
+    "language": "Makefile",
+    "name": "Endika/eskills",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:58:03Z",
+    "url": "https://github.com/Endika/eskills"
+  },
+  {
     "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
     "id": "yurukusa/cc-safe-setup",
     "language": "Shell",
@@ -25,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T13:55:33Z",
     "url": "https://github.com/Nyx-abu/awwwards-ui-skill"
-  },
-  {
-    "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
-    "id": "oxGrad/spicebag",
-    "language": "Go",
-    "name": "oxGrad/spicebag",
-    "stars": 0,
-    "updated_at": "2026-06-03T13:52:47Z",
-    "url": "https://github.com/oxGrad/spicebag"
-  },
-  {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60840,
-    "updated_at": "2026-06-03T13:52:30Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Your Claude Code agent remembers across  sessions. Multi-project, sandbox experiments audit-driven promotion. Zero deps.",
@@ -77,7 +167,7 @@
     "language": "Go",
     "name": "JetBrains/teamcity-cli",
     "stars": 97,
-    "updated_at": "2026-06-03T13:56:46Z",
+    "updated_at": "2026-06-03T14:12:54Z",
     "url": "https://github.com/JetBrains/teamcity-cli"
   },
   {
@@ -97,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-06-03T13:45:27Z",
     "url": "https://github.com/AutomateLab-tech/agency-os"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T13:45:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -162,15 +243,6 @@
     "url": "https://github.com/bobadilla-tech/requiems-api-skills"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 258,
-    "updated_at": "2026-06-03T13:59:26Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Local Claude Code & Codex agent skills for evidence-gated decisions, measurable build-direction forks, mid-session drift",
     "id": "moonweave/decision-kernel",
     "language": "Python",
@@ -214,15 +286,6 @@
     "stars": 837,
     "updated_at": "2026-06-03T13:51:26Z",
     "url": "https://github.com/Kaelio/ktx"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 639,
-    "updated_at": "2026-06-03T13:15:37Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -284,7 +347,7 @@
     "language": "Python",
     "name": "ssurmic/claude-investment-skills",
     "stars": 1,
-    "updated_at": "2026-06-03T12:58:05Z",
+    "updated_at": "2026-06-03T14:09:44Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
@@ -293,7 +356,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1225,
-    "updated_at": "2026-06-03T13:56:46Z",
+    "updated_at": "2026-06-03T14:04:49Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -329,7 +392,7 @@
     "language": "Python",
     "name": "lklimek/claudius",
     "stars": 1,
-    "updated_at": "2026-06-03T13:02:44Z",
+    "updated_at": "2026-06-03T14:03:38Z",
     "url": "https://github.com/lklimek/claudius"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T12:26:24Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
-    "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "language": "JavaScript",
-    "name": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:25:36Z",
-    "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:25:23Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
-    "id": "Daybreakbluepeter503/advise-project-approach",
-    "language": "Python",
-    "name": "Daybreakbluepeter503/advise-project-approach",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:25:19Z",
-    "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
-  },
-  {
-    "description": "Generate personalized real-life side quests to build skills and foster connections with this Claude-powered quest archit",
-    "id": "Glamourous-mammalia359/quest-drop",
-    "language": "\u2014",
-    "name": "Glamourous-mammalia359/quest-drop",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:25:10Z",
-    "url": "https://github.com/Glamourous-mammalia359/quest-drop"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:25:07Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:24:54Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-06-03T12:24:50Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
   }
 ]
