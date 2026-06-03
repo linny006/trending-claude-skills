@@ -1,5 +1,41 @@
 [
   {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 3,
+    "updated_at": "2026-06-03T19:07:12Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-03T19:05:49Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 258,
+    "updated_at": "2026-06-03T19:05:17Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T19:00:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "Python",
@@ -18,15 +54,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 258,
-    "updated_at": "2026-06-03T18:58:12Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -41,7 +68,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 89,
-    "updated_at": "2026-06-03T18:57:04Z",
+    "updated_at": "2026-06-03T19:07:58Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -135,15 +162,6 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T18:45:30Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
     "id": "samuel85194-ux/tycana-claude-hivemind",
     "language": "HTML",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "OpenLatch/saferskills",
     "stars": 1,
-    "updated_at": "2026-06-03T18:42:23Z",
+    "updated_at": "2026-06-03T19:04:16Z",
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 377,
-    "updated_at": "2026-06-03T18:58:24Z",
+    "updated_at": "2026-06-03T19:04:28Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -243,15 +261,6 @@
     "url": "https://github.com/MarkkaMiikka/claude-finnish-skills"
   },
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 3,
-    "updated_at": "2026-06-03T18:46:01Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
     "id": "Zhonghao1995/agentic-swmm-workflow",
     "language": "Python",
@@ -259,6 +268,15 @@
     "stars": 9,
     "updated_at": "2026-06-03T18:26:13Z",
     "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1229,
+    "updated_at": "2026-06-03T18:25:06Z",
+    "url": "https://github.com/a5c-ai/babysitter"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -295,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T18:05:51Z",
     "url": "https://github.com/wardawgmalvicious/claude-config"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-03T18:04:48Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
@@ -358,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T17:53:00Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1228,
-    "updated_at": "2026-06-03T18:25:06Z",
-    "url": "https://github.com/a5c-ai/babysitter"
   },
   {
     "description": "CelesteOps \u2014 local-first creator control panel: signed macOS app + MCP agent kit",
