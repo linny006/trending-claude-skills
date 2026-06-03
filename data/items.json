@@ -1,12 +1,48 @@
 [
   {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-03T04:44:30Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
+  },
+  {
+    "description": "Tame your AI coding agents with natural language. Generate enforced guardrails (CLAUDE.md, hooks, settings) from a singl",
+    "id": "kyu1204/oh-my-harness",
+    "language": "TypeScript",
+    "name": "kyu1204/oh-my-harness",
+    "stars": 11,
+    "updated_at": "2026-06-03T04:43:23Z",
+    "url": "https://github.com/kyu1204/oh-my-harness"
+  },
+  {
+    "description": "One manifest for every AI coding agent: generate AGENTS.md, CLAUDE.md, Claude/Codex Skills, Cursor rules, Copilot instru",
+    "id": "guorunjie/skillpack-forge",
+    "language": "JavaScript",
+    "name": "guorunjie/skillpack-forge",
+    "stars": 1,
+    "updated_at": "2026-06-03T04:41:40Z",
+    "url": "https://github.com/guorunjie/skillpack-forge"
+  },
+  {
     "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
     "id": "jianshuo/claude-skills",
     "language": "Python",
     "name": "jianshuo/claude-skills",
-    "stars": 68,
-    "updated_at": "2026-06-03T04:30:12Z",
+    "stars": 69,
+    "updated_at": "2026-06-03T04:41:12Z",
     "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-06-03T04:39:51Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
@@ -14,17 +50,8 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 15749,
-    "updated_at": "2026-06-03T04:29:23Z",
+    "updated_at": "2026-06-03T04:36:13Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60755,
-    "updated_at": "2026-06-03T04:29:09Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
@@ -32,8 +59,26 @@
     "language": "TypeScript",
     "name": "Tibsfox/gsd-skill-creator",
     "stars": 63,
-    "updated_at": "2026-06-03T04:28:48Z",
+    "updated_at": "2026-06-03T04:31:48Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T04:30:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60756,
+    "updated_at": "2026-06-03T04:29:09Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": " Multi-dimensional analysis via isolated sub-agents: write pseudocode, dispatch functions as sub-agents, assemble   stru",
@@ -43,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-06-03T04:28:16Z",
     "url": "https://github.com/m1908293028-boop/pseudocode-first"
-  },
-  {
-    "description": "One manifest for every AI coding agent: generate AGENTS.md, CLAUDE.md, Claude/Codex Skills, Cursor rules, Copilot instru",
-    "id": "guorunjie/skillpack-forge",
-    "language": "JavaScript",
-    "name": "guorunjie/skillpack-forge",
-    "stars": 1,
-    "updated_at": "2026-06-03T04:28:15Z",
-    "url": "https://github.com/guorunjie/skillpack-forge"
   },
   {
     "description": "8 production-tested Claude skills: automation, Gemini cost/structured output, OSS bounty scouting, ML validation.",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T04:21:27Z",
     "url": "https://github.com/rundrill/rundrill-kazakh"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T04:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T03:32:59Z",
     "url": "https://github.com/zeikar/dotfiles"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-03T03:32:40Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-06-03T03:32:23Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Optimize your AI workflow with this open-source Electron desktop client for Claude, featuring native integration and eff",
-    "id": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "language": "JavaScript",
-    "name": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "stars": 1,
-    "updated_at": "2026-06-03T03:32:16Z",
-    "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
   }
 ]
