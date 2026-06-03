@@ -1,5 +1,59 @@
 [
   {
+    "description": "An easier/safer way to work with Claude code. easily harness the power of team of sub-agents specifically designed to do",
+    "id": "zultiAvi/klodTalk",
+    "language": "Python",
+    "name": "zultiAvi/klodTalk",
+    "stars": 1,
+    "updated_at": "2026-06-03T08:57:32Z",
+    "url": "https://github.com/zultiAvi/klodTalk"
+  },
+  {
+    "description": "Redefining development through cognitive automation and collaborative agent systems.",
+    "id": "fusengine/agents",
+    "language": "TypeScript",
+    "name": "fusengine/agents",
+    "stars": 13,
+    "updated_at": "2026-06-03T08:57:08Z",
+    "url": "https://github.com/fusengine/agents"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 5,
+    "updated_at": "2026-06-03T08:56:10Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:56:19Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:52:15Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T08:45:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "TDD-first spec workflow for AI coding agents. Strict red-green-refactor enforcement, alternating TEST-IMPL task pairs, T",
     "id": "ngvoicu/specmint-tdd",
     "language": "\u2014",
@@ -18,22 +72,22 @@
     "url": "https://github.com/ngvoicu/specmint-core"
   },
   {
-    "description": "Redefining development through cognitive automation and collaborative agent systems.",
-    "id": "fusengine/agents",
-    "language": "Python",
-    "name": "fusengine/agents",
-    "stars": 13,
-    "updated_at": "2026-06-03T08:43:00Z",
-    "url": "https://github.com/fusengine/agents"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 15758,
-    "updated_at": "2026-06-03T08:39:57Z",
+    "updated_at": "2026-06-03T08:58:22Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 80355,
+    "updated_at": "2026-06-03T08:39:38Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Claude Code skill: invoke local Codex CLI as an independent analysis partner",
@@ -70,33 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-03T08:34:57Z",
     "url": "https://github.com/scraperapi/scraperapi-skills"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 5,
-    "updated_at": "2026-06-03T08:33:37Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "An easier/safer way to work with Claude code. easily harness the power of team of sub-agents specifically designed to do",
-    "id": "zultiAvi/klodTalk",
-    "language": "Python",
-    "name": "zultiAvi/klodTalk",
-    "stars": 1,
-    "updated_at": "2026-06-03T08:32:54Z",
-    "url": "https://github.com/zultiAvi/klodTalk"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T08:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -153,13 +180,13 @@
     "url": "https://github.com/YasuakiOmokawa/skills"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 80350,
-    "updated_at": "2026-06-03T08:39:38Z",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "description": "Confirm-before-you-plan travel itinerary skill for Claude \u2014 map route + time-blocked schedule, China/intl maps, 12306 tr",
+    "id": "618034128/Travel-Planning-Skill",
+    "language": "Python",
+    "name": "618034128/Travel-Planning-Skill",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:13:19Z",
+    "url": "https://github.com/618034128/Travel-Planning-Skill"
   },
   {
     "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
@@ -175,7 +202,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60797,
+    "stars": 60798,
     "updated_at": "2026-06-03T08:12:36Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T07:38:33Z",
     "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Deploy 76 audit-ready robotics skills for Claude with integrated KPI dashboards, ISO standard compliance, and automated ",
-    "id": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:37:56Z",
-    "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:37:48Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:37:32Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
   }
 ]
