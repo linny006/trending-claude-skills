@@ -5,8 +5,35 @@
     "language": "\u2014",
     "name": "GreenSchool-AI/claude-skills",
     "stars": 0,
-    "updated_at": "2026-06-03T09:29:59Z",
+    "updated_at": "2026-06-03T09:45:03Z",
     "url": "https://github.com/GreenSchool-AI/claude-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-03T09:41:26Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 71,
+    "updated_at": "2026-06-03T09:39:38Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 5,
+    "updated_at": "2026-06-03T09:37:59Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 15760,
-    "updated_at": "2026-06-03T09:29:26Z",
+    "updated_at": "2026-06-03T09:35:07Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -23,8 +50,26 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 258,
-    "updated_at": "2026-06-03T09:28:45Z",
+    "updated_at": "2026-06-03T09:33:00Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 10,
+    "updated_at": "2026-06-03T09:32:15Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T09:30:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -108,24 +153,6 @@
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-03T09:15:19Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T09:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
     "id": "Tibsfox/gsd-skill-creator",
     "language": "TypeScript",
@@ -135,15 +162,6 @@
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 5,
-    "updated_at": "2026-06-03T09:08:03Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
     "description": "Documentation and project-story skills (ADR, story, queue-audit, session-wrap) for Claude Code and Cursor, layered on Op",
     "id": "alexpialetski/doccraft",
     "language": "TypeScript",
@@ -151,6 +169,15 @@
     "stars": 4,
     "updated_at": "2026-06-03T09:07:40Z",
     "url": "https://github.com/alexpialetski/doccraft"
+  },
+  {
+    "description": "Confirm-before-you-plan travel itinerary skill for Claude \u2014 map route + time-blocked schedule, China/intl maps, 12306 tr",
+    "id": "618034128/Travel-Planning-Skill",
+    "language": "Python",
+    "name": "618034128/Travel-Planning-Skill",
+    "stars": 1,
+    "updated_at": "2026-06-03T09:05:51Z",
+    "url": "https://github.com/618034128/Travel-Planning-Skill"
   },
   {
     "description": "A Claude Code marketplace for Android development, featuring code review, localization management, and APK/AAB release a",
@@ -175,7 +202,7 @@
     "id": "a5c-ai/babysitter",
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
-    "stars": 1219,
+    "stars": 1220,
     "updated_at": "2026-06-03T09:01:13Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "vanducng/skills",
     "stars": 0,
-    "updated_at": "2026-06-03T08:56:19Z",
+    "updated_at": "2026-06-03T09:41:53Z",
     "url": "https://github.com/vanducng/skills"
   },
   {
@@ -247,7 +274,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 80366,
+    "stars": 80369,
     "updated_at": "2026-06-03T08:39:38Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -315,15 +342,6 @@
     "url": "https://github.com/YasuakiOmokawa/skills"
   },
   {
-    "description": "Confirm-before-you-plan travel itinerary skill for Claude \u2014 map route + time-blocked schedule, China/intl maps, 12306 tr",
-    "id": "618034128/Travel-Planning-Skill",
-    "language": "Python",
-    "name": "618034128/Travel-Planning-Skill",
-    "stars": 0,
-    "updated_at": "2026-06-03T09:05:51Z",
-    "url": "https://github.com/618034128/Travel-Planning-Skill"
-  },
-  {
     "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
     "id": "oxGrad/spicebag",
     "language": "Go",
@@ -337,7 +355,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60805,
+    "stars": 60806,
     "updated_at": "2026-06-03T08:12:36Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "OpenLatch/saferskills",
     "stars": 1,
-    "updated_at": "2026-06-03T07:51:49Z",
+    "updated_at": "2026-06-03T09:40:07Z",
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:43:35Z",
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:43:22Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
-    "id": "Daybreakbluepeter503/advise-project-approach",
-    "language": "Python",
-    "name": "Daybreakbluepeter503/advise-project-approach",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:43:21Z",
-    "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
   }
 ]
