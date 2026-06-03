@@ -1,5 +1,77 @@
 [
   {
+    "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
+    "id": "oxGrad/spicebag",
+    "language": "Go",
+    "name": "oxGrad/spicebag",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:12:50Z",
+    "url": "https://github.com/oxGrad/spicebag"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60786,
+    "updated_at": "2026-06-03T08:12:36Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets",
+    "id": "jqaisystems/jqai-ai-skills",
+    "language": "HTML",
+    "name": "jqaisystems/jqai-ai-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T08:10:59Z",
+    "url": "https://github.com/jqaisystems/jqai-ai-skills"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:09:03Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:06:58Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 2,
+    "updated_at": "2026-06-03T08:04:58Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 258,
+    "updated_at": "2026-06-03T08:04:12Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T08:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Reusable Claude Code skills for implementation planning, PR workflows, commits, and architecture documentation",
     "id": "AnotherSava/claude-code-common",
     "language": "Shell",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:59:07Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 258,
-    "updated_at": "2026-06-03T07:58:56Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
@@ -68,7 +131,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 89,
-    "updated_at": "2026-06-03T07:57:19Z",
+    "updated_at": "2026-06-03T08:01:22Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -88,24 +151,6 @@
     "stars": 10,
     "updated_at": "2026-06-03T07:45:48Z",
     "url": "https://github.com/ngvoicu/specmint-core"
-  },
-  {
-    "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
-    "id": "oxGrad/spicebag",
-    "language": "Go",
-    "name": "oxGrad/spicebag",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:45:42Z",
-    "url": "https://github.com/oxGrad/spicebag"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T07:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:34:40Z",
     "url": "https://github.com/Belleplate2038/oh-my-island"
-  },
-  {
-    "description": "Connect Claude Managed Agents to Linear using a bridge server to automate issue management and sync responses through ag",
-    "id": "Saudiarabian-tachograph4331/claude-managed-agents-demo",
-    "language": "TypeScript",
-    "name": "Saudiarabian-tachograph4331/claude-managed-agents-demo",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:34:38Z",
-    "url": "https://github.com/Saudiarabian-tachograph4331/claude-managed-agents-demo"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:34:38Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:34:34Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:34:22Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:34:01Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
   }
 ]
