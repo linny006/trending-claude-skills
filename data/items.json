@@ -1,5 +1,14 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T15:15:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Comprehensive research co-pilot for Claude Code and claude.ai \u2014 14 skills covering literature review, methodology, ethic",
     "id": "Marazii/research-co-pilot",
     "language": "Shell",
@@ -14,7 +23,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 89,
-    "updated_at": "2026-06-03T15:11:55Z",
+    "updated_at": "2026-06-03T15:16:25Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -27,13 +36,31 @@
     "url": "https://github.com/munyoung-ovo/ExamLoop"
   },
   {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 0,
+    "updated_at": "2026-06-03T15:05:45Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
     "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60847,
+    "stars": 60848,
     "updated_at": "2026-06-03T15:05:21Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns",
+    "id": "antonbabenko/terraform-skill",
+    "language": "\u2014",
+    "name": "antonbabenko/terraform-skill",
+    "stars": 1979,
+    "updated_at": "2026-06-03T15:03:26Z",
+    "url": "https://github.com/antonbabenko/terraform-skill"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -45,6 +72,24 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 3,
+    "updated_at": "2026-06-03T15:02:32Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
+    "id": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "language": "Python",
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "stars": 3,
+    "updated_at": "2026-06-03T15:01:46Z",
+    "url": "https://github.com/Shada01245/the-unofficial-swift-programming-language-skill"
+  },
+  {
     "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
     "id": "thairns/claude-rubycritic-skill",
     "language": "\u2014",
@@ -54,15 +99,6 @@
     "url": "https://github.com/thairns/claude-rubycritic-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T15:00:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Manage AI capabilities with CraftDesk, a streamlined package manager for installing and versioning Claude Code skills",
     "id": "ArianKHeirgadam/craftdesk",
     "language": "TypeScript",
@@ -70,6 +106,15 @@
     "stars": 4,
     "updated_at": "2026-06-03T14:59:52Z",
     "url": "https://github.com/ArianKHeirgadam/craftdesk"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-06-03T14:58:51Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
   },
   {
     "description": "\ud83e\udde9 Orchestrate multi-agent research with parallel execution and audits for efficient, structured investigations and seaml",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T14:28:40Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
-    "id": "davepoon/buildwithclaude",
-    "language": "TypeScript",
-    "name": "davepoon/buildwithclaude",
-    "stars": 3011,
-    "updated_at": "2026-06-03T14:28:10Z",
-    "url": "https://github.com/davepoon/buildwithclaude"
-  },
-  {
-    "description": "A curated collection of plugins, skills, and agents for your LLM of choice.",
-    "id": "mvdmakesthings/skills",
-    "language": "HTML",
-    "name": "mvdmakesthings/skills",
-    "stars": 0,
-    "updated_at": "2026-06-03T15:13:45Z",
-    "url": "https://github.com/mvdmakesthings/skills"
-  },
-  {
-    "description": "A Claude Code skill for web report decks \u2014 richer ECharts charts, one file per slide (edit one page, save tokens), and c",
-    "id": "myunwang/ppt-report-skills",
-    "language": "HTML",
-    "name": "myunwang/ppt-report-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T14:23:37Z",
-    "url": "https://github.com/myunwang/ppt-report-skills"
-  },
-  {
-    "description": "Claude Code has no memory between sessions. Every time you start a new conversation, Claude forgets your project's stack",
-    "id": "senapati484/claude-recall",
-    "language": "Python",
-    "name": "senapati484/claude-recall",
-    "stars": 6,
-    "updated_at": "2026-06-03T14:19:45Z",
-    "url": "https://github.com/senapati484/claude-recall"
-  },
-  {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-06-03T14:17:12Z",
-    "url": "https://github.com/easyinplay/harnessed"
   }
 ]
