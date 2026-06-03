@@ -1,12 +1,66 @@
 [
   {
+    "description": "TDD-first spec workflow for AI coding agents. Strict red-green-refactor enforcement, alternating TEST-IMPL task pairs, T",
+    "id": "ngvoicu/specmint-tdd",
+    "language": "\u2014",
+    "name": "ngvoicu/specmint-tdd",
+    "stars": 2,
+    "updated_at": "2026-06-03T08:43:11Z",
+    "url": "https://github.com/ngvoicu/specmint-tdd"
+  },
+  {
+    "description": "Persistent, resumable specs for AI coding agents. Deep research, iterative interviews, phased implementation, resume con",
+    "id": "ngvoicu/specmint-core",
+    "language": "\u2014",
+    "name": "ngvoicu/specmint-core",
+    "stars": 10,
+    "updated_at": "2026-06-03T08:43:08Z",
+    "url": "https://github.com/ngvoicu/specmint-core"
+  },
+  {
+    "description": "Redefining development through cognitive automation and collaborative agent systems.",
+    "id": "fusengine/agents",
+    "language": "Python",
+    "name": "fusengine/agents",
+    "stars": 13,
+    "updated_at": "2026-06-03T08:43:00Z",
+    "url": "https://github.com/fusengine/agents"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15758,
+    "updated_at": "2026-06-03T08:39:57Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Claude Code skill: invoke local Codex CLI as an independent analysis partner",
+    "id": "koenvdheide/codex-skill",
+    "language": "Shell",
+    "name": "koenvdheide/codex-skill",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:39:24Z",
+    "url": "https://github.com/koenvdheide/codex-skill"
+  },
+  {
     "description": "\u041c\u043e\u0438 \u00abSKILL.md\u00bb \u0434\u043b\u044f \u0430\u0433\u0435\u043d\u0442\u043e\u0432.",
     "id": "vitalikxp/skills",
-    "language": "Shell",
+    "language": "\u2014",
     "name": "vitalikxp/skills",
     "stars": 0,
-    "updated_at": "2026-06-03T08:29:08Z",
+    "updated_at": "2026-06-03T08:38:10Z",
     "url": "https://github.com/vitalikxp/skills"
+  },
+  {
+    "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
+    "id": "specscore/specstudio-skills",
+    "language": "\u2014",
+    "name": "specscore/specstudio-skills",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:35:11Z",
+    "url": "https://github.com/specscore/specstudio-skills"
   },
   {
     "description": "ScraperAPI's Agent Skills.",
@@ -14,8 +68,35 @@
     "language": "Python",
     "name": "scraperapi/scraperapi-skills",
     "stars": 2,
-    "updated_at": "2026-06-03T08:25:04Z",
+    "updated_at": "2026-06-03T08:34:57Z",
     "url": "https://github.com/scraperapi/scraperapi-skills"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 5,
+    "updated_at": "2026-06-03T08:33:37Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "An easier/safer way to work with Claude code. easily harness the power of team of sub-agents specifically designed to do",
+    "id": "zultiAvi/klodTalk",
+    "language": "Python",
+    "name": "zultiAvi/klodTalk",
+    "stars": 1,
+    "updated_at": "2026-06-03T08:32:54Z",
+    "url": "https://github.com/zultiAvi/klodTalk"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T08:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -50,7 +131,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 89,
-    "updated_at": "2026-06-03T08:22:54Z",
+    "updated_at": "2026-06-03T08:39:41Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -76,18 +157,9 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 80348,
-    "updated_at": "2026-06-03T08:15:35Z",
+    "stars": 80350,
+    "updated_at": "2026-06-03T08:39:38Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T08:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
@@ -103,7 +175,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60792,
+    "stars": 60797,
     "updated_at": "2026-06-03T08:12:36Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -158,7 +230,7 @@
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-06-03T07:59:07Z",
+    "updated_at": "2026-06-03T08:39:40Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
   },
   {
@@ -184,27 +256,9 @@
     "id": "Kaelio/ktx",
     "language": "TypeScript",
     "name": "Kaelio/ktx",
-    "stars": 832,
+    "stars": 833,
     "updated_at": "2026-06-03T07:50:40Z",
     "url": "https://github.com/Kaelio/ktx"
-  },
-  {
-    "description": "TDD-first spec workflow for AI coding agents. Strict red-green-refactor enforcement, alternating TEST-IMPL task pairs, T",
-    "id": "ngvoicu/specmint-tdd",
-    "language": "\u2014",
-    "name": "ngvoicu/specmint-tdd",
-    "stars": 2,
-    "updated_at": "2026-06-03T07:45:51Z",
-    "url": "https://github.com/ngvoicu/specmint-tdd"
-  },
-  {
-    "description": "Persistent, resumable specs for AI coding agents. Deep research, iterative interviews, phased implementation, resume con",
-    "id": "ngvoicu/specmint-core",
-    "language": "\u2014",
-    "name": "ngvoicu/specmint-core",
-    "stars": 10,
-    "updated_at": "2026-06-03T07:45:48Z",
-    "url": "https://github.com/ngvoicu/specmint-core"
   },
   {
     "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:37:32Z",
     "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:37:26Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-03T07:37:22Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:36:17Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Optimize your AI workflow with this open-source Electron desktop client for Claude, featuring native integration and eff",
-    "id": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "language": "JavaScript",
-    "name": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:35:55Z",
-    "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:35:52Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:35:35Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
   }
 ]
