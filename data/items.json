@@ -1,5 +1,95 @@
 [
   {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 258,
+    "updated_at": "2026-06-03T17:58:07Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-03T17:56:45Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 652,
+    "updated_at": "2026-06-03T18:00:16Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 sdd (spec-driven dev) and gh (GitHub workflow) plugins",
+    "id": "kborovik/pilot-skills",
+    "language": "Python",
+    "name": "kborovik/pilot-skills",
+    "stars": 4,
+    "updated_at": "2026-06-03T17:55:49Z",
+    "url": "https://github.com/kborovik/pilot-skills"
+  },
+  {
+    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
+    "id": "Scorpio-1111/OmicsAgent-Skills",
+    "language": "HTML",
+    "name": "Scorpio-1111/OmicsAgent-Skills",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:54:25Z",
+    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
+  },
+  {
+    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
+    "id": "Mary2241/seo-skills-agent-toolbox",
+    "language": "HTML",
+    "name": "Mary2241/seo-skills-agent-toolbox",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:54:12Z",
+    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:53:00Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-03T17:47:25Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T17:45:24Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "CelesteOps \u2014 local-first creator control panel: signed macOS app + MCP agent kit",
+    "id": "whykusanagi/celeste-ops",
+    "language": "JavaScript",
+    "name": "whykusanagi/celeste-ops",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:44:56Z",
+    "url": "https://github.com/whykusanagi/celeste-ops"
+  },
+  {
     "description": "",
     "id": "JimLiu/baoyu-skills",
     "language": "TypeScript",
@@ -7,15 +97,6 @@
     "stars": 20371,
     "updated_at": "2026-06-03T17:43:13Z",
     "url": "https://github.com/JimLiu/baoyu-skills"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 258,
-    "updated_at": "2026-06-03T17:39:09Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Skills Claude Code de la formation Claude Mastery \u2014 interroge, cadre, planifie, design, investigue, illustre",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T17:32:28Z",
     "url": "https://github.com/Ishanshah09/port-killer-swiftly"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T17:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Mermaid diagrams (.mmd) from natural language with validation loop. 11+ types, multi-backend (mmdc / Kroki), PNG/SVG/PDF",
@@ -167,7 +239,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 89,
-    "updated_at": "2026-06-03T17:32:15Z",
+    "updated_at": "2026-06-03T17:54:29Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 296,
     "updated_at": "2026-06-03T17:10:32Z",
     "url": "https://github.com/rampstackco/claude-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-03T17:10:31Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -248,7 +311,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1227,
-    "updated_at": "2026-06-03T17:44:00Z",
+    "updated_at": "2026-06-03T17:47:40Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T16:51:23Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Curate agent skills and template libraries to build single-file HTML presentations for Claude Code, Cursor, and other AI",
-    "id": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "language": "\u2014",
-    "name": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:51:15Z",
-    "url": "https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:51:14Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
-    "id": "guildsocialismteamteaching487/Claude-session-smasher",
-    "language": "\u2014",
-    "name": "guildsocialismteamteaching487/Claude-session-smasher",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:51:09Z",
-    "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:50:34Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 17031,
-    "updated_at": "2026-06-03T16:49:41Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:48:44Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Deploy 76 audit-ready robotics skills for Claude with integrated KPI dashboards, ISO standard compliance, and automated ",
-    "id": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:48:44Z",
-    "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
   }
 ]
