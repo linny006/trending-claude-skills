@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u041c\u043e\u0438 \u00abSKILL.md\u00bb \u0434\u043b\u044f \u0430\u0433\u0435\u043d\u0442\u043e\u0432.",
+    "id": "vitalikxp/skills",
+    "language": "Shell",
+    "name": "vitalikxp/skills",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:29:08Z",
+    "url": "https://github.com/vitalikxp/skills"
+  },
+  {
+    "description": "ScraperAPI's Agent Skills.",
+    "id": "scraperapi/scraperapi-skills",
+    "language": "Python",
+    "name": "scraperapi/scraperapi-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T08:25:04Z",
+    "url": "https://github.com/scraperapi/scraperapi-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 258,
+    "updated_at": "2026-06-03T08:23:43Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Claude Code has no memory between sessions. Every time you start a new conversation, Claude forgets your project's stack",
+    "id": "senapati484/claude-recall",
+    "language": "Python",
+    "name": "senapati484/claude-recall",
+    "stars": 6,
+    "updated_at": "2026-06-03T08:23:31Z",
+    "url": "https://github.com/senapati484/claude-recall"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 63,
+    "updated_at": "2026-06-03T08:23:00Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 89,
+    "updated_at": "2026-06-03T08:22:54Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "My personal Claude Code skills, open-sourced one at a time. First up: ai-audit for detecting AI slop.",
+    "id": "Ajeesh25353646/claude-skills",
+    "language": "\u2014",
+    "name": "Ajeesh25353646/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:19:41Z",
+    "url": "https://github.com/Ajeesh25353646/claude-skills"
+  },
+  {
+    "description": "Agent skills for improve development",
+    "id": "YasuakiOmokawa/skills",
+    "language": "Shell",
+    "name": "YasuakiOmokawa/skills",
+    "stars": 1,
+    "updated_at": "2026-06-03T08:16:45Z",
+    "url": "https://github.com/YasuakiOmokawa/skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 80348,
+    "updated_at": "2026-06-03T08:15:35Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-03T08:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
     "id": "oxGrad/spicebag",
     "language": "Go",
@@ -13,7 +103,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60786,
+    "stars": 60792,
     "updated_at": "2026-06-03T08:12:36Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -54,24 +144,6 @@
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 258,
-    "updated_at": "2026-06-03T08:04:12Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-03T08:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Reusable Claude Code skills for implementation planning, PR workflows, commits, and architecture documentation",
     "id": "AnotherSava/claude-code-common",
     "language": "Shell",
@@ -99,15 +171,6 @@
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
-    "description": "My personal Claude Code skills, open-sourced one at a time. First up: ai-audit for detecting AI slop.",
-    "id": "Ajeesh25353646/claude-skills",
-    "language": "\u2014",
-    "name": "Ajeesh25353646/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:51:08Z",
-    "url": "https://github.com/Ajeesh25353646/claude-skills"
-  },
-  {
     "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
     "id": "Infrasity-Labs/dev-gtm-claude-skills",
     "language": "HTML",
@@ -126,15 +189,6 @@
     "url": "https://github.com/Kaelio/ktx"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 89,
-    "updated_at": "2026-06-03T08:01:22Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "TDD-first spec workflow for AI coding agents. Strict red-green-refactor enforcement, alternating TEST-IMPL task pairs, T",
     "id": "ngvoicu/specmint-tdd",
     "language": "\u2014",
@@ -151,15 +205,6 @@
     "stars": 10,
     "updated_at": "2026-06-03T07:45:48Z",
     "url": "https://github.com/ngvoicu/specmint-core"
-  },
-  {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 63,
-    "updated_at": "2026-06-03T07:44:35Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
     "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T07:35:35Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:35:33Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:34:49Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:34:43Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:34:41Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:34:40Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
   }
 ]
