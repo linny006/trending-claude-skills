@@ -1,5 +1,140 @@
 [
   {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 257,
+    "updated_at": "2026-06-04T11:44:51Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "macOS dotfiles - Forgotten Art of Makefile",
+    "id": "kborovik/.dotfiles",
+    "language": "Shell",
+    "name": "kborovik/.dotfiles",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:44:24Z",
+    "url": "https://github.com/kborovik/.dotfiles"
+  },
+  {
+    "description": "My collection of Claude skills",
+    "id": "oaustegard/claude-skills",
+    "language": "Python",
+    "name": "oaustegard/claude-skills",
+    "stars": 125,
+    "updated_at": "2026-06-04T11:43:49Z",
+    "url": "https://github.com/oaustegard/claude-skills"
+  },
+  {
+    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
+    "id": "jherrodthomas/robotics-skills-suite",
+    "language": "\u2014",
+    "name": "jherrodthomas/robotics-skills-suite",
+    "stars": 493,
+    "updated_at": "2026-06-04T11:42:53Z",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
+  },
+  {
+    "description": "\u4e00\u5957\u5c06 PDF/LaTeX \u81ea\u52a8\u8f6c\u5316\u4e3a Obsidian \u7ed3\u6784\u5316 Markdown \u77e5\u8bc6\u56fe\u8c31\u7684 AI \u667a\u80fd\u4f53\u6280\u80fd\u3002",
+    "id": "Misaka16384/Wikify",
+    "language": "Python",
+    "name": "Misaka16384/Wikify",
+    "stars": 2,
+    "updated_at": "2026-06-04T11:42:35Z",
+    "url": "https://github.com/Misaka16384/Wikify"
+  },
+  {
+    "description": "Learn Kazakh inside your AI agent \u2014 a RunDrill course plugin for Claude Code, Codex & Antigravity. Drills, progress, and",
+    "id": "rundrill/rundrill-kazakh",
+    "language": "\u2014",
+    "name": "rundrill/rundrill-kazakh",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:40:25Z",
+    "url": "https://github.com/rundrill/rundrill-kazakh"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:39:29Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
+    "id": "glitchwerks/claude-wayfinder",
+    "language": "Python",
+    "name": "glitchwerks/claude-wayfinder",
+    "stars": 1,
+    "updated_at": "2026-06-04T11:39:24Z",
+    "url": "https://github.com/glitchwerks/claude-wayfinder"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 677,
+    "updated_at": "2026-06-04T11:36:47Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-04T11:35:18Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60981,
+    "updated_at": "2026-06-04T11:35:17Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 63,
+    "updated_at": "2026-06-04T11:35:08Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
+    "id": "raelli/octowiz",
+    "language": "Python",
+    "name": "raelli/octowiz",
+    "stars": 2,
+    "updated_at": "2026-06-04T11:31:26Z",
+    "url": "https://github.com/raelli/octowiz"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 41,
+    "updated_at": "2026-06-04T11:30:17Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-04T11:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -9,29 +144,11 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 257,
-    "updated_at": "2026-06-04T11:29:59Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
-    "id": "raelli/octowiz",
-    "language": "Python",
-    "name": "raelli/octowiz",
-    "stars": 2,
-    "updated_at": "2026-06-04T11:29:33Z",
-    "url": "https://github.com/raelli/octowiz"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15830,
+    "stars": 15832,
     "updated_at": "2026-06-04T11:26:56Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -45,15 +162,6 @@
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60980,
-    "updated_at": "2026-06-04T11:23:03Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Agent skills for improve development",
     "id": "YasuakiOmokawa/skills",
     "language": "Shell",
@@ -61,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T11:20:52Z",
     "url": "https://github.com/YasuakiOmokawa/skills"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 41,
-    "updated_at": "2026-06-04T11:27:26Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
     "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
@@ -95,7 +194,7 @@
     "language": "Python",
     "name": "OpenLatch/saferskills",
     "stars": 1,
-    "updated_at": "2026-06-04T11:22:41Z",
+    "updated_at": "2026-06-04T11:43:37Z",
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
@@ -160,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T11:15:29Z",
     "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-04T11:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
@@ -284,7 +374,7 @@
     "language": "JavaScript",
     "name": "gaia-react/gaia",
     "stars": 15,
-    "updated_at": "2026-06-04T11:09:38Z",
+    "updated_at": "2026-06-04T11:34:57Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T11:07:31Z",
     "url": "https://github.com/Saudiarabian-tachograph4331/claude-managed-agents-demo"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:07:28Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:07:25Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:07:25Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:07:20Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:07:15Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "JavaScript",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 2,
-    "updated_at": "2026-06-04T11:06:51Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:06:49Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:06:43Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:06:19Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Transform public expressions and interpersonal insights into a standardized modular skill set for cross-platform applica",
-    "id": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "language": "\u2014",
-    "name": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:06:12Z",
-    "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
   }
 ]
