@@ -1,12 +1,102 @@
 [
   {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 41,
+    "updated_at": "2026-06-04T17:15:03Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 258,
+    "updated_at": "2026-06-04T17:14:57Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 6,
+    "updated_at": "2026-06-04T17:13:08Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 74,
+    "updated_at": "2026-06-04T17:09:25Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 7,
+    "updated_at": "2026-06-04T17:08:09Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
+  },
+  {
     "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
     "id": "domengabrovsek/claude",
     "language": "Shell",
     "name": "domengabrovsek/claude",
     "stars": 9,
-    "updated_at": "2026-06-04T16:58:10Z",
+    "updated_at": "2026-06-04T17:11:54Z",
     "url": "https://github.com/domengabrovsek/claude"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61023,
+    "updated_at": "2026-06-04T17:13:28Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "",
+    "id": "xiaoyaolk/serenity-skills",
+    "language": "\u2014",
+    "name": "xiaoyaolk/serenity-skills",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:05:26Z",
+    "url": "https://github.com/xiaoyaolk/serenity-skills"
+  },
+  {
+    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
+    "id": "OpenLatch/saferskills",
+    "language": "Python",
+    "name": "OpenLatch/saferskills",
+    "stars": 1,
+    "updated_at": "2026-06-04T17:04:13Z",
+    "url": "https://github.com/OpenLatch/saferskills"
+  },
+  {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 29,
+    "updated_at": "2026-06-04T17:00:43Z",
+    "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-04T17:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Collection of AI Agent Code skills",
@@ -36,33 +126,6 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 257,
-    "updated_at": "2026-06-04T16:55:50Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 6,
-    "updated_at": "2026-06-04T16:53:15Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 41,
-    "updated_at": "2026-06-04T16:53:01Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
     "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
     "id": "testdouble/han",
     "language": "Shell",
@@ -70,15 +133,6 @@
     "stars": 69,
     "updated_at": "2026-06-04T16:52:53Z",
     "url": "https://github.com/testdouble/han"
-  },
-  {
-    "description": "Agent skills for building, shipping, and growing software products",
-    "id": "tenequm/skills",
-    "language": "Python",
-    "name": "tenequm/skills",
-    "stars": 29,
-    "updated_at": "2026-06-04T16:52:36Z",
-    "url": "https://github.com/tenequm/skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -117,15 +171,6 @@
     "url": "https://github.com/yuriymarad/laravel-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-04T16:45:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -142,15 +187,6 @@
     "stars": 382,
     "updated_at": "2026-06-04T16:42:58Z",
     "url": "https://github.com/ergrelet/windiff"
-  },
-  {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61023,
-    "updated_at": "2026-06-04T16:42:54Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -265,7 +301,7 @@
     "id": "Southshuquilt/advise-project-approach-275",
     "language": "Python",
     "name": "Southshuquilt/advise-project-approach-275",
-    "stars": 20,
+    "stars": 19,
     "updated_at": "2026-06-04T16:26:14Z",
     "url": "https://github.com/Southshuquilt/advise-project-approach-275"
   },
@@ -275,7 +311,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-04T16:25:21Z",
+    "updated_at": "2026-06-04T17:04:02Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -322,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T16:21:56Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
-    "id": "OpenLatch/saferskills",
-    "language": "Python",
-    "name": "OpenLatch/saferskills",
-    "stars": 1,
-    "updated_at": "2026-06-04T16:57:35Z",
-    "url": "https://github.com/OpenLatch/saferskills"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -419,34 +446,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1237,
-    "updated_at": "2026-06-04T16:47:45Z",
+    "updated_at": "2026-06-04T17:09:57Z",
     "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
-    "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "language": "JavaScript",
-    "name": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:06:18Z",
-    "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:05:56Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
-    "id": "Daybreakbluepeter503/advise-project-approach",
-    "language": "Python",
-    "name": "Daybreakbluepeter503/advise-project-approach",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:05:48Z",
-    "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
   }
 ]
