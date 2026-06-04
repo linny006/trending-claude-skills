@@ -1,12 +1,12 @@
 [
   {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
+    "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
+    "id": "nowork-studio/NotFair",
     "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 60904,
-    "updated_at": "2026-06-04T02:14:42Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "name": "nowork-studio/NotFair",
+    "stars": 2768,
+    "updated_at": "2026-06-04T02:28:28Z",
+    "url": "https://github.com/nowork-studio/NotFair"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -14,8 +14,62 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 257,
-    "updated_at": "2026-06-04T02:14:04Z",
+    "updated_at": "2026-06-04T02:28:35Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
+    "id": "raelli/octowiz",
+    "language": "Python",
+    "name": "raelli/octowiz",
+    "stars": 2,
+    "updated_at": "2026-06-04T02:26:39Z",
+    "url": "https://github.com/raelli/octowiz"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 60907,
+    "updated_at": "2026-06-04T02:19:55Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 63,
+    "updated_at": "2026-06-04T02:19:49Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "A Claude Code skill that acts as your personal code learning partner guiding you through programming problems using Socr",
+    "id": "Rahilyw/learning-buddy",
+    "language": "\u2014",
+    "name": "Rahilyw/learning-buddy",
+    "stars": 1,
+    "updated_at": "2026-06-04T02:16:17Z",
+    "url": "https://github.com/Rahilyw/learning-buddy"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 666,
+    "updated_at": "2026-06-04T02:16:40Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-04T02:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T02:10:36Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "A Claude Code skill that acts as your personal code learning partner guiding you through programming problems using Socr",
-    "id": "Rahilyw/learning-buddy",
-    "language": "\u2014",
-    "name": "Rahilyw/learning-buddy",
-    "stars": 1,
-    "updated_at": "2026-06-04T02:09:16Z",
-    "url": "https://github.com/Rahilyw/learning-buddy"
   },
   {
     "description": "Kill Ports Fast 2026 - Best Free kkp CLI Tool for Process Management",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T02:00:41Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-04T02:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "emlog\u7684\u5e94\u7528\u5f00\u53d1\u6587\u6863\uff08markdown\uff09",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T01:39:48Z",
     "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:39:46Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:39:46Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:39:45Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-04T01:39:41Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
   }
 ]
