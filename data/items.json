@@ -1,12 +1,75 @@
 [
   {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 6,
+    "updated_at": "2026-06-05T08:14:40Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 260,
+    "updated_at": "2026-06-05T08:13:47Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61095,
+    "updated_at": "2026-06-05T08:14:47Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
     "id": "ChronoAIProject/Ornn",
     "language": "TypeScript",
     "name": "ChronoAIProject/Ornn",
     "stars": 18,
-    "updated_at": "2026-06-05T07:59:43Z",
+    "updated_at": "2026-06-05T08:13:06Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 51 skills, 15 slash commands, 681 disclosed-repo",
+    "id": "elementalsouls/Claude-BugHunter",
+    "language": "Python",
+    "name": "elementalsouls/Claude-BugHunter",
+    "stars": 1659,
+    "updated_at": "2026-06-05T08:07:27Z",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 380,
+    "updated_at": "2026-06-05T08:06:59Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Claude Plugin for Beau",
+    "id": "beau-education/beau-plugin",
+    "language": "\u2014",
+    "name": "beau-education/beau-plugin",
+    "stars": 1,
+    "updated_at": "2026-06-05T08:06:09Z",
+    "url": "https://github.com/beau-education/beau-plugin"
+  },
+  {
+    "description": "An opinionated AI-native workflow for evolving modern Java Enterprise SDLC practices through reusable Skills, Agents, an",
+    "id": "jabrena/cursor-rules-java",
+    "language": "Java",
+    "name": "jabrena/cursor-rules-java",
+    "stars": 397,
+    "updated_at": "2026-06-05T08:05:11Z",
+    "url": "https://github.com/jabrena/cursor-rules-java"
   },
   {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
@@ -14,15 +77,33 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 29702,
-    "updated_at": "2026-06-05T07:56:51Z",
+    "updated_at": "2026-06-05T08:04:26Z",
     "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-05T08:00:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15912,
+    "updated_at": "2026-06-05T08:00:09Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "A Claude Code skill that stops AI agents from over doing computations and saves you thousands of tokens",
     "id": "albertobarnabo/think-twice",
     "language": "\u2014",
     "name": "albertobarnabo/think-twice",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-05T07:56:28Z",
     "url": "https://github.com/albertobarnabo/think-twice"
   },
@@ -50,26 +131,8 @@
     "language": "Shell",
     "name": "yurukusa/cc-safe-setup",
     "stars": 42,
-    "updated_at": "2026-06-05T07:54:57Z",
+    "updated_at": "2026-06-05T08:14:37Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61094,
-    "updated_at": "2026-06-05T08:00:11Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 260,
-    "updated_at": "2026-06-05T07:58:12Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "AI Agent skills collection by geekjourneyx  for agent-compatible coding, creator, and automation workflows",
@@ -88,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T07:50:27Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 380,
-    "updated_at": "2026-06-05T07:59:46Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15910,
-    "updated_at": "2026-06-05T08:00:09Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "AI documentation architecture skill for clear, non-duplicated, source-of-truth driven, token-efficient project documenta",
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-05T07:45:15Z",
     "url": "https://github.com/aetox-skills/senior-architect-agent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-05T07:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
@@ -203,7 +239,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-05T07:25:07Z",
+    "updated_at": "2026-06-05T08:02:49Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -238,7 +274,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 24277,
+    "stars": 24281,
     "updated_at": "2026-06-05T07:11:33Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T06:20:42Z",
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
-    "id": "Daybreakbluepeter503/advise-project-approach",
-    "language": "Python",
-    "name": "Daybreakbluepeter503/advise-project-approach",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:20:37Z",
-    "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:20:34Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Generate personalized real-life side quests to build skills and foster connections with this Claude-powered quest archit",
-    "id": "Glamourous-mammalia359/quest-drop",
-    "language": "\u2014",
-    "name": "Glamourous-mammalia359/quest-drop",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:20:30Z",
-    "url": "https://github.com/Glamourous-mammalia359/quest-drop"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:20:13Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
   }
 ]
