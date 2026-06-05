@@ -1,12 +1,66 @@
 [
   {
+    "description": "172 production-ready Claude Code skills for sales, marketing, design, engineering, and AI agent architecture. Built and ",
+    "id": "OneWave-AI/claude-skills",
+    "language": "\u2014",
+    "name": "OneWave-AI/claude-skills",
+    "stars": 170,
+    "updated_at": "2026-06-05T03:41:14Z",
+    "url": "https://github.com/OneWave-AI/claude-skills"
+  },
+  {
+    "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck",
+    "id": "browser-act/skills",
+    "language": "Python",
+    "name": "browser-act/skills",
+    "stars": 1835,
+    "updated_at": "2026-06-05T03:40:42Z",
+    "url": "https://github.com/browser-act/skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 260,
+    "updated_at": "2026-06-05T03:37:36Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
     "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61065,
-    "updated_at": "2026-06-05T03:29:08Z",
+    "stars": 61067,
+    "updated_at": "2026-06-05T03:40:53Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:32:27Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 379,
+    "updated_at": "2026-06-05T03:31:07Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-05T03:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
@@ -126,15 +180,6 @@
     "url": "https://github.com/sageox/ox"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 260,
-    "updated_at": "2026-06-05T03:20:47Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
     "id": "ajayfastfooted329/claude-linkedin-post-creator",
     "language": "\u2014",
@@ -211,7 +256,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15890,
+    "stars": 15892,
     "updated_at": "2026-06-05T03:17:41Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T03:17:34Z",
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 0,
-    "updated_at": "2026-06-05T03:17:31Z",
-    "url": "https://github.com/vanducng/skills"
   },
   {
     "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
@@ -283,7 +319,7 @@
     "id": "alfonsosagacious5877/awesome-claude-design",
     "language": "\u2014",
     "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-05T03:15:43Z",
     "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
   },
@@ -304,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T03:15:22Z",
     "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-05T03:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T03:13:47Z",
     "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Integrate Claude with Obsidian to build a persistent, searchable knowledge vault that automatically connects your notes ",
-    "id": "unresentful-barbeque695/claude-obsidian",
-    "language": "\u2014",
-    "name": "unresentful-barbeque695/claude-obsidian",
-    "stars": 0,
-    "updated_at": "2026-06-05T03:13:44Z",
-    "url": "https://github.com/unresentful-barbeque695/claude-obsidian"
-  },
-  {
-    "description": "Retry OpenCode model requests using exponential backoff and jitter to handle rate limits without switching models.",
-    "id": "notmay666-code/opencode-rate-limit-retry",
-    "language": "TypeScript",
-    "name": "notmay666-code/opencode-rate-limit-retry",
-    "stars": 0,
-    "updated_at": "2026-06-05T03:13:37Z",
-    "url": "https://github.com/notmay666-code/opencode-rate-limit-retry"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-06-05T03:13:37Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
   }
 ]
