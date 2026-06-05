@@ -1,5 +1,50 @@
 [
   {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 63,
+    "updated_at": "2026-06-05T00:57:50Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "A sandbox for prototyping and demonstrating Agent Skills for MATLAB and Simulink work. ",
+    "id": "matlab/agent-skills-playground",
+    "language": "HTML",
+    "name": "matlab/agent-skills-playground",
+    "stars": 119,
+    "updated_at": "2026-06-05T00:56:22Z",
+    "url": "https://github.com/matlab/agent-skills-playground"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61048,
+    "updated_at": "2026-06-05T00:55:42Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Central library for AI coding context: steering files, AGENTS templates, reusable skills, scaffold scripts, and guided s",
+    "id": "dills122/ai-central",
+    "language": "Python",
+    "name": "dills122/ai-central",
+    "stars": 0,
+    "updated_at": "2026-06-05T00:53:30Z",
+    "url": "https://github.com/dills122/ai-central"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-05T00:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Awesome Skills from Around the World",
     "id": "AbsolutelySkilled/AbsolutelySkilled",
     "language": "MDX",
@@ -27,15 +72,6 @@
     "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-05T00:30:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
     "id": "yinjialu/ai-frontier-daily",
     "language": "Python",
@@ -49,7 +85,7 @@
     "id": "jnMetaCode/ai-shortfilm-prompts",
     "language": "\u2014",
     "name": "jnMetaCode/ai-shortfilm-prompts",
-    "stars": 100,
+    "stars": 101,
     "updated_at": "2026-06-05T00:29:11Z",
     "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
   },
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "aaron-he-zhu/seo-geo-claude-skills",
     "stars": 1996,
-    "updated_at": "2026-06-05T00:29:01Z",
+    "updated_at": "2026-06-05T00:51:59Z",
     "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 379,
-    "updated_at": "2026-06-05T00:21:54Z",
+    "updated_at": "2026-06-05T00:48:21Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   },
   {
-    "description": "Central library for AI coding context: steering files, AGENTS templates, reusable skills, scaffold scripts, and guided s",
-    "id": "dills122/ai-central",
-    "language": "Python",
-    "name": "dills122/ai-central",
-    "stars": 0,
-    "updated_at": "2026-06-05T00:34:45Z",
-    "url": "https://github.com/dills122/ai-central"
-  },
-  {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
     "id": "alexzvency-ship-it/claude-browser-automator",
     "language": "HTML",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T00:08:59Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61044,
-    "updated_at": "2026-06-05T00:08:39Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Hub-and-spoke agent-skill clusters, one per stack (Astro\u00b7GSAP\u00b7Remotion, Tauri, \u2026). Installable via skills.sh.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T23:59:23Z",
     "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 2,
-    "updated_at": "2026-06-04T23:59:20Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:59:19Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   }
 ]
