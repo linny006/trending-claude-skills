@@ -1,21 +1,120 @@
 [
   {
-    "description": "Griffen Fargo's Claude Code skills marketplace \u2014 add it once, install any plugin (terminal: tui-design, vhs-cli-demos).",
-    "id": "gfargo/skills",
-    "language": "Shell",
-    "name": "gfargo/skills",
+    "description": "Generate rich UI forms on-the-fly from LLM agents. Let your agent ask humans complex questions visually instead of via c",
+    "id": "borenstejn/formloop",
+    "language": "TypeScript",
+    "name": "borenstejn/formloop",
     "stars": 0,
-    "updated_at": "2026-06-05T14:29:34Z",
-    "url": "https://github.com/gfargo/skills"
+    "updated_at": "2026-06-05T14:44:11Z",
+    "url": "https://github.com/borenstejn/formloop"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 3,
+    "updated_at": "2026-06-05T14:40:45Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "Agent skills for Preset, Apache Superset, Superset MCP & Snowflake Cortex \u2014 works across Claude, Codex, Cursor, Copilot,",
+    "id": "preset-io/agent-skills",
+    "language": "Shell",
+    "name": "preset-io/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-06-05T14:40:26Z",
+    "url": "https://github.com/preset-io/agent-skills"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:38:43Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-06-05T14:38:36Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Awesome Skills from Around the World",
+    "id": "AbsolutelySkilled/AbsolutelySkilled",
+    "language": "MDX",
+    "name": "AbsolutelySkilled/AbsolutelySkilled",
+    "stars": 174,
+    "updated_at": "2026-06-05T14:37:57Z",
+    "url": "https://github.com/AbsolutelySkilled/AbsolutelySkilled"
   },
   {
     "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61139,
-    "updated_at": "2026-06-05T14:28:23Z",
+    "stars": 61138,
+    "updated_at": "2026-06-05T14:43:57Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Griffen Fargo's Claude Code skills marketplace \u2014 add it once, install any plugin (terminal: tui-design, vhs-cli-demos).",
+    "id": "gfargo/skills",
+    "language": "Shell",
+    "name": "gfargo/skills",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:35:29Z",
+    "url": "https://github.com/gfargo/skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:33:17Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15927,
+    "updated_at": "2026-06-05T14:32:20Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:30:38Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:30:35Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-05T14:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "aks-builds/cliproof",
     "stars": 0,
-    "updated_at": "2026-06-05T14:17:15Z",
+    "updated_at": "2026-06-05T14:45:00Z",
     "url": "https://github.com/aks-builds/cliproof"
   },
   {
@@ -67,18 +166,9 @@
     "id": "browser-act/skills",
     "language": "Python",
     "name": "browser-act/skills",
-    "stars": 1888,
+    "stars": 1890,
     "updated_at": "2026-06-05T14:15:29Z",
     "url": "https://github.com/browser-act/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-05T14:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -122,8 +212,17 @@
     "language": "Java",
     "name": "jabrena/cursor-rules-java",
     "stars": 398,
-    "updated_at": "2026-06-05T14:08:35Z",
+    "updated_at": "2026-06-05T14:37:05Z",
     "url": "https://github.com/jabrena/cursor-rules-java"
+  },
+  {
+    "description": "TeamCity from your terminal \u2013 or your AI's. Builds, logs, agents, agent terminals, queues.",
+    "id": "JetBrains/teamcity-cli",
+    "language": "Go",
+    "name": "JetBrains/teamcity-cli",
+    "stars": 100,
+    "updated_at": "2026-06-05T14:04:41Z",
+    "url": "https://github.com/JetBrains/teamcity-cli"
   },
   {
     "description": "Open-source AI Operating System (AIOS) blueprint for Claude Code & Codex \u2014 turn any agent into your personal second brai",
@@ -131,7 +230,7 @@
     "language": "Python",
     "name": "alirezarezvani/gaios",
     "stars": 0,
-    "updated_at": "2026-06-05T13:59:59Z",
+    "updated_at": "2026-06-05T14:38:59Z",
     "url": "https://github.com/alirezarezvani/gaios"
   },
   {
@@ -169,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T13:54:29Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "repo for reusable plugins and skills",
-    "id": "richfrem/agent-plugins-skills",
-    "language": "Python",
-    "name": "richfrem/agent-plugins-skills",
-    "stars": 3,
-    "updated_at": "2026-06-05T13:50:32Z",
-    "url": "https://github.com/richfrem/agent-plugins-skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -221,7 +311,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1251,
-    "updated_at": "2026-06-05T13:41:08Z",
+    "updated_at": "2026-06-05T14:40:48Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T13:31:32Z",
     "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-06-05T13:30:46Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Curate agent skills and template libraries to build single-file HTML presentations for Claude Code, Cursor, and other AI",
-    "id": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "language": "\u2014",
-    "name": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "stars": 2,
-    "updated_at": "2026-06-05T13:30:33Z",
-    "url": "https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:30:18Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
-    "id": "guildsocialismteamteaching487/Claude-session-smasher",
-    "language": "\u2014",
-    "name": "guildsocialismteamteaching487/Claude-session-smasher",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:30:15Z",
-    "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:30:03Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Claude and Codex plugins plus a public skill to use SkillsCake with your agents",
-    "id": "skillscake/use-skillscake",
-    "language": "Shell",
-    "name": "skillscake/use-skillscake",
-    "stars": 2,
-    "updated_at": "2026-06-05T13:29:05Z",
-    "url": "https://github.com/skillscake/use-skillscake"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-05T13:28:32Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-06-05T13:28:20Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Deploy 76 audit-ready robotics skills for Claude with integrated KPI dashboards, ISO standard compliance, and automated ",
-    "id": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "stars": 1,
-    "updated_at": "2026-06-05T13:28:15Z",
-    "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 2,
-    "updated_at": "2026-06-05T13:28:12Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
   }
 ]
