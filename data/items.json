@@ -1,21 +1,66 @@
 [
   {
+    "description": "Four agent skills for Playwright and Cypress: generate E2E tests from scratch with live browser exploration, review exis",
+    "id": "voidmatcha/e2e-skills",
+    "language": "Shell",
+    "name": "voidmatcha/e2e-skills",
+    "stars": 1,
+    "updated_at": "2026-06-05T01:28:32Z",
+    "url": "https://github.com/voidmatcha/e2e-skills"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 379,
+    "updated_at": "2026-06-05T01:27:04Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell \u2014 the AI short PJ Ace called \"one of the b",
+    "id": "jnMetaCode/ai-shortfilm-prompts",
+    "language": "Python",
+    "name": "jnMetaCode/ai-shortfilm-prompts",
+    "stars": 103,
+    "updated_at": "2026-06-05T01:20:30Z",
+    "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
+  },
+  {
     "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
     "id": "raelli/octowiz",
     "language": "Python",
     "name": "raelli/octowiz",
     "stars": 2,
-    "updated_at": "2026-06-05T01:07:49Z",
+    "updated_at": "2026-06-05T01:20:01Z",
     "url": "https://github.com/raelli/octowiz"
   },
   {
-    "description": "Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell \u2014 the AI short PJ Ace called \"one of the b",
-    "id": "jnMetaCode/ai-shortfilm-prompts",
-    "language": "\u2014",
-    "name": "jnMetaCode/ai-shortfilm-prompts",
-    "stars": 102,
-    "updated_at": "2026-06-05T01:03:50Z",
-    "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 11,
+    "updated_at": "2026-06-05T01:19:57Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61053,
+    "updated_at": "2026-06-05T01:19:40Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-05T01:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
@@ -27,15 +72,6 @@
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-05T01:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A sandbox for prototyping and demonstrating Agent Skills for MATLAB and Simulink work. ",
     "id": "matlab/agent-skills-playground",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 119,
     "updated_at": "2026-06-05T00:56:22Z",
     "url": "https://github.com/matlab/agent-skills-playground"
-  },
-  {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61049,
-    "updated_at": "2026-06-05T00:55:42Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Central library for AI coding context: steering files, AGENTS templates, reusable skills, scaffold scripts, and guided s",
@@ -86,7 +113,7 @@
     "language": "Shell",
     "name": "yurukusa/cc-safe-setup",
     "stars": 42,
-    "updated_at": "2026-06-05T00:37:55Z",
+    "updated_at": "2026-06-05T01:27:07Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-06-05T00:24:54Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 379,
-    "updated_at": "2026-06-05T01:14:15Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "SageOx is the hivemind for agentic engineering",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T00:01:30Z",
     "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-05T00:01:10Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-06-04T23:59:31Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
   }
 ]
