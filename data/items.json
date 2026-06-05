@@ -1,5 +1,41 @@
 [
   {
+    "description": "Awesome Skills from Around the World",
+    "id": "AbsolutelySkilled/AbsolutelySkilled",
+    "language": "MDX",
+    "name": "AbsolutelySkilled/AbsolutelySkilled",
+    "stars": 172,
+    "updated_at": "2026-06-05T00:41:59Z",
+    "url": "https://github.com/AbsolutelySkilled/AbsolutelySkilled"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-05T00:40:01Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 42,
+    "updated_at": "2026-06-05T00:37:55Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-05T00:30:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
     "id": "yinjialu/ai-frontier-daily",
     "language": "Python",
@@ -13,7 +49,7 @@
     "id": "jnMetaCode/ai-shortfilm-prompts",
     "language": "\u2014",
     "name": "jnMetaCode/ai-shortfilm-prompts",
-    "stars": 99,
+    "stars": 100,
     "updated_at": "2026-06-05T00:29:11Z",
     "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
   },
@@ -22,7 +58,7 @@
     "id": "aaron-he-zhu/seo-geo-claude-skills",
     "language": "Python",
     "name": "aaron-he-zhu/seo-geo-claude-skills",
-    "stars": 1995,
+    "stars": 1996,
     "updated_at": "2026-06-05T00:29:01Z",
     "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills"
   },
@@ -81,15 +117,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-06-05T00:16:21Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T00:16:05Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-05T00:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Griffen Fargo's Claude Code skills marketplace \u2014 add it once, install any plugin (terminal: tui-design, vhs-cli-demos).",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "dills122/ai-central",
     "stars": 0,
-    "updated_at": "2026-06-05T00:23:15Z",
+    "updated_at": "2026-06-05T00:34:45Z",
     "url": "https://github.com/dills122/ai-central"
   },
   {
@@ -184,7 +202,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61043,
+    "stars": 61044,
     "updated_at": "2026-06-05T00:08:39Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T00:03:34Z",
     "url": "https://github.com/Unifying-sheeptick539/revops-skills"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 42,
-    "updated_at": "2026-06-05T00:03:14Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
     "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T23:59:19Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:59:01Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
