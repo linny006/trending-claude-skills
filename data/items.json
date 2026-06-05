@@ -5,8 +5,107 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 260,
-    "updated_at": "2026-06-05T18:29:41Z",
+    "updated_at": "2026-06-05T18:44:53Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 897,
+    "updated_at": "2026-06-05T18:44:33Z",
+    "url": "https://github.com/Kaelio/ktx"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:43:32Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Pre-ship audit skill for SaaS that takes money. Finds the billing and data-isolation holes generic scanners miss on Next",
+    "id": "Comoco235/saas-preflight",
+    "language": "Shell",
+    "name": "Comoco235/saas-preflight",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:43:20Z",
+    "url": "https://github.com/Comoco235/saas-preflight"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 10,
+    "updated_at": "2026-06-05T18:37:49Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61153,
+    "updated_at": "2026-06-05T18:40:48Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-05T18:36:23Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:31:36Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Glanceable Claude Code state in iTerm2 tabs \u2014 white=idle, blue=processing, orange=waiting. iTerm2 daemon + launchd watch",
+    "id": "wasulajr/headsup",
+    "language": "Shell",
+    "name": "wasulajr/headsup",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:30:18Z",
+    "url": "https://github.com/wasulajr/headsup"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-05T18:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 43,
+    "updated_at": "2026-06-05T18:30:12Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:30:10Z",
+    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -18,15 +117,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61150,
-    "updated_at": "2026-06-05T18:29:01Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -36,15 +126,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-05T18:26:47Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Kill Ports Fast 2026 - Best Free kkp CLI Tool for Process Management",
     "id": "Ishanshah09/port-killer-swiftly",
     "language": "HTML",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T18:24:59Z",
     "url": "https://github.com/Ishanshah09/port-killer-swiftly"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-06-05T18:24:35Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "A collection of utility scripts and tools that streamline my daily development workflow.",
@@ -112,7 +184,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15938,
+    "stars": 15939,
     "updated_at": "2026-06-05T18:16:14Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -124,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-05T18:15:49Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 43,
-    "updated_at": "2026-06-05T18:30:12Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
     "description": "Hub-and-spoke agent-skill clusters, one per stack (Astro\u00b7GSAP\u00b7Remotion, Tauri, \u2026). Installable via skills.sh.",
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "datarobot-oss/datarobot-agent-skills",
     "stars": 18,
-    "updated_at": "2026-06-05T18:19:11Z",
+    "updated_at": "2026-06-05T18:33:04Z",
     "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-06-05T18:10:49Z",
     "url": "https://github.com/kborovik/pilot-skills"
-  },
-  {
-    "description": "Pre-ship audit skill for SaaS that takes money. Finds the billing and data-isolation holes generic scanners miss on Next",
-    "id": "Comoco235/saas-preflight",
-    "language": "Shell",
-    "name": "Comoco235/saas-preflight",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:10:05Z",
-    "url": "https://github.com/Comoco235/saas-preflight"
   },
   {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T17:57:46Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
-    "id": "guildsocialismteamteaching487/Claude-session-smasher",
-    "language": "\u2014",
-    "name": "guildsocialismteamteaching487/Claude-session-smasher",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:57:45Z",
-    "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:57:33Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-06-05T17:56:21Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:56:11Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Deploy 76 audit-ready robotics skills for Claude with integrated KPI dashboards, ISO standard compliance, and automated ",
-    "id": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "stars": 1,
-    "updated_at": "2026-06-05T17:55:42Z",
-    "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:55:41Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   }
 ]
