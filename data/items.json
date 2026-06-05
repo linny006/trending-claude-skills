@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\ude80 Enable AI assistants to access PostgreSQL databases seamlessly with specialized tools and advanced features using the ",
+    "id": "antonygold59/postgresql-mcp",
+    "language": "TypeScript",
+    "name": "antonygold59/postgresql-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-05T01:59:26Z",
+    "url": "https://github.com/antonygold59/postgresql-mcp"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 379,
+    "updated_at": "2026-06-05T01:57:51Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Claude and Codex plugins plus a public skill to use SkillsCake with your agents",
+    "id": "skillscake/use-skillscake",
+    "language": "Shell",
+    "name": "skillscake/use-skillscake",
+    "stars": 2,
+    "updated_at": "2026-06-05T01:55:36Z",
+    "url": "https://github.com/skillscake/use-skillscake"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-06-05T01:55:27Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Read/write Jira & Confluence from an LLM agent via your already-logged-in local browser (Safari/Chrome/Edge) \u2014 no API to",
+    "id": "baekchangjoon/atlassian-browser-skills",
+    "language": "PowerShell",
+    "name": "baekchangjoon/atlassian-browser-skills",
+    "stars": 0,
+    "updated_at": "2026-06-05T01:55:58Z",
+    "url": "https://github.com/baekchangjoon/atlassian-browser-skills"
+  },
+  {
+    "description": "\ud83d\udce6 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an",
+    "id": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "language": "Python",
+    "name": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "stars": 0,
+    "updated_at": "2026-06-05T01:54:01Z",
+    "url": "https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-05T01:53:57Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\ude80 Enhance your Tuist development with Claude plugins, providing tailored knowledge and tools for streamlined workflows i",
     "id": "Asix120403/claude-marketplace",
     "language": "\u2014",
@@ -13,7 +76,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15883,
+    "stars": 15886,
     "updated_at": "2026-06-05T01:53:36Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -72,15 +135,6 @@
     "url": "https://github.com/longbridge/skills"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 379,
-    "updated_at": "2026-06-05T01:52:45Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "Quality gates wired into the Claude Code agent lifecycle",
     "id": "adewale/guardrails-skill",
     "language": "Shell",
@@ -124,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-06-05T01:45:35Z",
     "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-05T01:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
@@ -333,6 +378,15 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
+    "description": "Citations d'entit\u00e9s pour le r\u00e9f\u00e9rencement IA (GEO/AEO) \u2014 skill Claude adapt\u00e9 au Qu\u00e9bec",
+    "id": "ugodemontigny/Ivy-Ugo",
+    "language": "\u2014",
+    "name": "ugodemontigny/Ivy-Ugo",
+    "stars": 0,
+    "updated_at": "2026-06-05T01:03:19Z",
+    "url": "https://github.com/ugodemontigny/Ivy-Ugo"
+  },
+  {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
     "id": "Tibsfox/gsd-skill-creator",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-05T00:24:54Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "SageOx is the hivemind for agentic engineering",
-    "id": "sageox/ox",
-    "language": "Go",
-    "name": "sageox/ox",
-    "stars": 35,
-    "updated_at": "2026-06-05T00:21:22Z",
-    "url": "https://github.com/sageox/ox"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-05T00:19:34Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 4,
-    "updated_at": "2026-06-05T00:19:26Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-05T00:18:29Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 0,
-    "updated_at": "2026-06-05T00:16:05Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Griffen Fargo's Claude Code skills marketplace \u2014 add it once, install any plugin (terminal: tui-design, vhs-cli-demos).",
-    "id": "gfargo/skills",
-    "language": "Shell",
-    "name": "gfargo/skills",
-    "stars": 0,
-    "updated_at": "2026-06-05T00:14:05Z",
-    "url": "https://github.com/gfargo/skills"
   }
 ]
