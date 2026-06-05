@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
+    "id": "yinjialu/ai-frontier-daily",
+    "language": "Python",
+    "name": "yinjialu/ai-frontier-daily",
+    "stars": 0,
+    "updated_at": "2026-06-05T00:29:29Z",
+    "url": "https://github.com/yinjialu/ai-frontier-daily"
+  },
+  {
+    "description": "Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell \u2014 the AI short PJ Ace called \"one of the b",
+    "id": "jnMetaCode/ai-shortfilm-prompts",
+    "language": "\u2014",
+    "name": "jnMetaCode/ai-shortfilm-prompts",
+    "stars": 99,
+    "updated_at": "2026-06-05T00:29:11Z",
+    "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
+  },
+  {
+    "description": "20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audi",
+    "id": "aaron-he-zhu/seo-geo-claude-skills",
+    "language": "Python",
+    "name": "aaron-he-zhu/seo-geo-claude-skills",
+    "stars": 1995,
+    "updated_at": "2026-06-05T00:29:01Z",
+    "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-05T00:24:54Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 379,
+    "updated_at": "2026-06-05T00:21:54Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "SageOx is the hivemind for agentic engineering",
+    "id": "sageox/ox",
+    "language": "Go",
+    "name": "sageox/ox",
+    "stars": 35,
+    "updated_at": "2026-06-05T00:21:22Z",
+    "url": "https://github.com/sageox/ox"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-05T00:19:34Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 4,
+    "updated_at": "2026-06-05T00:19:26Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-05T00:18:29Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-05T00:16:21Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 0,
+    "updated_at": "2026-06-05T00:16:05Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-05T00:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Griffen Fargo's Claude Code skills marketplace \u2014 add it once, install any plugin (terminal: tui-design, vhs-cli-demos).",
     "id": "gfargo/skills",
     "language": "Shell",
@@ -36,21 +144,12 @@
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   },
   {
-    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
-    "id": "yinjialu/ai-frontier-daily",
-    "language": "Python",
-    "name": "yinjialu/ai-frontier-daily",
-    "stars": 0,
-    "updated_at": "2026-06-05T00:12:41Z",
-    "url": "https://github.com/yinjialu/ai-frontier-daily"
-  },
-  {
     "description": "Central library for AI coding context: steering files, AGENTS templates, reusable skills, scaffold scripts, and guided s",
     "id": "dills122/ai-central",
     "language": "Python",
     "name": "dills122/ai-central",
     "stars": 0,
-    "updated_at": "2026-06-05T00:11:41Z",
+    "updated_at": "2026-06-05T00:23:15Z",
     "url": "https://github.com/dills122/ai-central"
   },
   {
@@ -85,7 +184,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61041,
+    "stars": 61043,
     "updated_at": "2026-06-05T00:08:39Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -306,15 +405,6 @@
     "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-05T00:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
     "id": "offensive-tarichagranulosa259/seo-data",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T23:59:01Z",
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:58:57Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-04T23:58:55Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 11,
-    "updated_at": "2026-06-04T23:58:26Z",
-    "url": "https://github.com/travsteward/openwriter"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-04T23:57:43Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:57:16Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Optimize your AI workflow with this open-source Electron desktop client for Claude, featuring native integration and eff",
-    "id": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "language": "JavaScript",
-    "name": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "stars": 2,
-    "updated_at": "2026-06-04T23:57:15Z",
-    "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 1,
-    "updated_at": "2026-06-04T23:56:50Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-04T23:56:41Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:56:07Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:55:58Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
   }
 ]
