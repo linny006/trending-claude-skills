@@ -1,5 +1,68 @@
 [
   {
+    "description": "Go/Echo REST API reconstructing full flight itineraries from unordered segments \u2014 Swagger, fuzz, Newman E2E, cosign-sign",
+    "id": "AndriyKalashnykov/flight-path",
+    "language": "Python",
+    "name": "AndriyKalashnykov/flight-path",
+    "stars": 2,
+    "updated_at": "2026-06-05T03:58:12Z",
+    "url": "https://github.com/AndriyKalashnykov/flight-path"
+  },
+  {
+    "description": "\u4e00\u5957\u5c06 PDF/LaTeX \u81ea\u52a8\u8f6c\u5316\u4e3a Obsidian \u7ed3\u6784\u5316 Markdown \u77e5\u8bc6\u56fe\u8c31\u7684 AI \u667a\u80fd\u4f53\u6280\u80fd\u3002",
+    "id": "Misaka16384/Wikify",
+    "language": "Python",
+    "name": "Misaka16384/Wikify",
+    "stars": 2,
+    "updated_at": "2026-06-05T03:54:25Z",
+    "url": "https://github.com/Misaka16384/Wikify"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 42,
+    "updated_at": "2026-06-05T03:51:45Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:51:58Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "A tackle box of Claude skills for the Rockfish synthetic data SDK.",
+    "id": "Rockfish-Data/tacklebox",
+    "language": "\u2014",
+    "name": "Rockfish-Data/tacklebox",
+    "stars": 0,
+    "updated_at": "2026-06-05T03:47:30Z",
+    "url": "https://github.com/Rockfish-Data/tacklebox"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61068,
+    "updated_at": "2026-06-05T03:59:04Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-05T03:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "172 production-ready Claude Code skills for sales, marketing, design, engineering, and AI agent architecture. Built and ",
     "id": "OneWave-AI/claude-skills",
     "language": "\u2014",
@@ -13,7 +76,7 @@
     "id": "browser-act/skills",
     "language": "Python",
     "name": "browser-act/skills",
-    "stars": 1835,
+    "stars": 1837,
     "updated_at": "2026-06-05T03:40:42Z",
     "url": "https://github.com/browser-act/skills"
   },
@@ -27,40 +90,13 @@
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61067,
-    "updated_at": "2026-06-05T03:40:53Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 0,
-    "updated_at": "2026-06-05T03:32:27Z",
-    "url": "https://github.com/vanducng/skills"
-  },
-  {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
     "id": "boshu2/agentops",
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 379,
-    "updated_at": "2026-06-05T03:31:07Z",
+    "updated_at": "2026-06-05T03:58:24Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-05T03:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
@@ -256,8 +292,8 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15892,
-    "updated_at": "2026-06-05T03:17:41Z",
+    "stars": 15894,
+    "updated_at": "2026-06-05T03:50:41Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T03:14:15Z",
     "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-06-05T03:14:15Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-05T03:14:14Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Transform public expressions and interpersonal insights into a standardized modular skill set for cross-platform applica",
-    "id": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "language": "\u2014",
-    "name": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "stars": 1,
-    "updated_at": "2026-06-05T03:14:06Z",
-    "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-06-05T03:13:47Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
   }
 ]
