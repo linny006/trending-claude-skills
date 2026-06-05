@@ -1,11 +1,65 @@
 [
   {
+    "description": "Wiki-native Claude Skills for the US Federal capture and proposal lifecycle. Karpathy's LLM Wiki pattern applied to GovC",
+    "id": "danielkinneyspears/govcon-pursuit-brain",
+    "language": "Python",
+    "name": "danielkinneyspears/govcon-pursuit-brain",
+    "stars": 1,
+    "updated_at": "2026-06-05T15:10:01Z",
+    "url": "https://github.com/danielkinneyspears/govcon-pursuit-brain"
+  },
+  {
+    "description": "Claude Skills for the US Federal capture and proposal lifecycle, as a flat artifact pipeline. Apache-2.0.",
+    "id": "danielkinneyspears/federal-proposal-skills",
+    "language": "Python",
+    "name": "danielkinneyspears/federal-proposal-skills",
+    "stars": 1,
+    "updated_at": "2026-06-05T15:09:36Z",
+    "url": "https://github.com/danielkinneyspears/federal-proposal-skills"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61139,
+    "updated_at": "2026-06-05T15:15:03Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code + Codex \u81ea\u52d5\u9023\u643a\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8 - AI\u99c6\u52d5\u958b\u767a\u306e\u52b9\u7387\u5316",
+    "id": "AI-Driven-School/aiki",
+    "language": "HTML",
+    "name": "AI-Driven-School/aiki",
+    "stars": 0,
+    "updated_at": "2026-06-05T15:08:41Z",
+    "url": "https://github.com/AI-Driven-School/aiki"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 1,
+    "updated_at": "2026-06-05T15:03:47Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-05T15:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
     "id": "blisspixel/primr",
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-06-05T14:59:53Z",
+    "updated_at": "2026-06-05T15:05:57Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -18,21 +72,12 @@
     "url": "https://github.com/Endika/eskills"
   },
   {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61139,
-    "updated_at": "2026-06-05T14:56:58Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Prove your CLI actually works. A Claude Code skill that captures a real terminal command and its real output as a polish",
     "id": "aks-builds/cliproof",
     "language": "Python",
     "name": "aks-builds/cliproof",
     "stars": 0,
-    "updated_at": "2026-06-05T14:52:27Z",
+    "updated_at": "2026-06-05T15:06:28Z",
     "url": "https://github.com/aks-builds/cliproof"
   },
   {
@@ -43,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-06-05T14:47:28Z",
     "url": "https://github.com/skillscake/use-skillscake"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-06-05T14:45:52Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-05T14:45:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Generate rich UI forms on-the-fly from LLM agents. Let your agent ask humans complex questions visually instead of via c",
@@ -139,7 +166,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 15928,
+    "stars": 15932,
     "updated_at": "2026-06-05T14:32:20Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -202,7 +229,7 @@
     "id": "browser-act/skills",
     "language": "Python",
     "name": "browser-act/skills",
-    "stars": 1892,
+    "stars": 1894,
     "updated_at": "2026-06-05T14:15:29Z",
     "url": "https://github.com/browser-act/skills"
   },
@@ -248,7 +275,7 @@
     "language": "Java",
     "name": "jabrena/cursor-rules-java",
     "stars": 398,
-    "updated_at": "2026-06-05T14:51:53Z",
+    "updated_at": "2026-06-05T15:04:24Z",
     "url": "https://github.com/jabrena/cursor-rules-java"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "JetBrains/teamcity-cli",
     "stars": 100,
-    "updated_at": "2026-06-05T14:49:15Z",
+    "updated_at": "2026-06-05T15:14:26Z",
     "url": "https://github.com/JetBrains/teamcity-cli"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "A-Director/cc-forge",
     "stars": 1,
-    "updated_at": "2026-06-05T13:56:44Z",
+    "updated_at": "2026-06-05T15:03:27Z",
     "url": "https://github.com/A-Director/cc-forge"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T13:33:58Z",
     "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Generate personalized real-life side quests to build skills and foster connections with this Claude-powered quest archit",
-    "id": "Glamourous-mammalia359/quest-drop",
-    "language": "\u2014",
-    "name": "Glamourous-mammalia359/quest-drop",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:33:57Z",
-    "url": "https://github.com/Glamourous-mammalia359/quest-drop"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:33:27Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Automate Salesforce RevOps system tasks like pipeline audits, forecast reconciliation, and deal pressure testing using e",
-    "id": "Unifying-sheeptick539/revops-skills",
-    "language": "Python",
-    "name": "Unifying-sheeptick539/revops-skills",
-    "stars": 0,
-    "updated_at": "2026-06-05T13:32:20Z",
-    "url": "https://github.com/Unifying-sheeptick539/revops-skills"
   }
 ]
