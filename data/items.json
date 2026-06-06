@@ -1,5 +1,59 @@
 [
   {
+    "description": "Turn Claude into a Senior Design Architect \u2014 DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework co",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "HTML",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 203,
+    "updated_at": "2026-06-06T18:29:52Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For y",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61258,
+    "updated_at": "2026-06-06T18:27:12Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A Claude skill that invents hardware and automation designs through a structured six-phase method. ",
+    "id": "dr-armani/autonomous-inventor-old",
+    "language": "\u2014",
+    "name": "dr-armani/autonomous-inventor-old",
+    "stars": 0,
+    "updated_at": "2026-06-06T18:24:25Z",
+    "url": "https://github.com/dr-armani/autonomous-inventor-old"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 261,
+    "updated_at": "2026-06-06T18:24:41Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "AI Plugin & Agent Skills to catch tech debt as it's written. Works with any agent. Any codebase. Backed by two decades o",
+    "id": "bcanfield/agentic-tech-debt",
+    "language": "Python",
+    "name": "bcanfield/agentic-tech-debt",
+    "stars": 6,
+    "updated_at": "2026-06-06T18:22:02Z",
+    "url": "https://github.com/bcanfield/agentic-tech-debt"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-06T18:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T18:13:48Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 261,
-    "updated_at": "2026-06-06T18:14:58Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -99,15 +144,6 @@
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-06T18:08:56Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
     "id": "ssurmic/claude-investment-skills",
     "language": "Python",
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T18:05:50Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Turn Claude into a Senior Design Architect \u2014 DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework co",
-    "id": "plugin87/ux-ui-agent-skills",
-    "language": "HTML",
-    "name": "plugin87/ux-ui-agent-skills",
-    "stars": 203,
-    "updated_at": "2026-06-06T18:02:23Z",
-    "url": "https://github.com/plugin87/ux-ui-agent-skills"
   },
   {
     "description": "Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents integration. Supports OpenAI, Claude, Gemini, Grok, ",
@@ -270,15 +297,6 @@
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For y",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61256,
-    "updated_at": "2026-06-06T18:11:23Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
     "id": "yurukusa/cc-safe-setup",
     "language": "Shell",
@@ -304,6 +322,15 @@
     "stars": 0,
     "updated_at": "2026-06-06T17:49:22Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "A Claude Code skill that guides AI agents through a proper JavaScript \u2192 TypeScript migration. 34 rules, 10 categories, p",
+    "id": "Nika-HISK/agent-js-to-ts-migration",
+    "language": "JavaScript",
+    "name": "Nika-HISK/agent-js-to-ts-migration",
+    "stars": 0,
+    "updated_at": "2026-06-06T17:48:50Z",
+    "url": "https://github.com/Nika-HISK/agent-js-to-ts-migration"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T17:13:51Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-06T17:08:01Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 0,
-    "updated_at": "2026-06-06T17:06:36Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-06-06T17:06:27Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   }
 ]
