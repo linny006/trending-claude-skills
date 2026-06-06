@@ -1,12 +1,102 @@
 [
   {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 261,
+    "updated_at": "2026-06-06T07:14:47Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u4e3aCUMCM\u3001MCM/ICM\u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u63d0\u4f9b\u7ed3\u6784\u5316\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\u7a0b\uff1a\u5efa\u6a21\u5206\u6790\u3001\u4ee3\u7801\u5b9e\u73b0\u3001\u8bba\u6587\u64b0\u5199\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177\u811a\u672c\u3002",
+    "id": "XiaoMaColtAI/math-modeling-skill",
+    "language": "Python",
+    "name": "XiaoMaColtAI/math-modeling-skill",
+    "stars": 249,
+    "updated_at": "2026-06-06T07:14:30Z",
+    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
+  },
+  {
     "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61181,
-    "updated_at": "2026-06-06T06:59:01Z",
+    "stars": 61184,
+    "updated_at": "2026-06-06T07:14:20Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A Claude skill for honest synthetic customer discovery: grounded personas, anti-collapse interview rules, and outputs th",
+    "id": "kdykes/synthetic-customer-discovery",
+    "language": "\u2014",
+    "name": "kdykes/synthetic-customer-discovery",
+    "stars": 1,
+    "updated_at": "2026-06-06T07:11:19Z",
+    "url": "https://github.com/kdykes/synthetic-customer-discovery"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "JavaScript",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 5,
+    "updated_at": "2026-06-06T07:09:11Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "Open-source AI Operating System (AIOS) blueprint for Claude Code & Codex \u2014 turn any agent into your personal second brai",
+    "id": "alirezarezvani/gaios",
+    "language": "Python",
+    "name": "alirezarezvani/gaios",
+    "stars": 1,
+    "updated_at": "2026-06-06T07:09:28Z",
+    "url": "https://github.com/alirezarezvani/gaios"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 15962,
+    "updated_at": "2026-06-06T07:05:53Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Rust runtime with TS/Python bindings for Claude Skills with progressive disclosure of skill metadata, full content and s",
+    "id": "Geeksfino/openskills",
+    "language": "Rust",
+    "name": "Geeksfino/openskills",
+    "stars": 57,
+    "updated_at": "2026-06-06T07:05:06Z",
+    "url": "https://github.com/Geeksfino/openskills"
+  },
+  {
+    "description": "MCP server that suggests repository-specific AI agent skills.",
+    "id": "sator-imaging/suggest-skills",
+    "language": "TypeScript",
+    "name": "sator-imaging/suggest-skills",
+    "stars": 0,
+    "updated_at": "2026-06-06T07:04:53Z",
+    "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 89,
+    "updated_at": "2026-06-06T07:14:52Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-06T07:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skill for Betaflight: FPV drone configuration, PID tuning, log analysis, and troubleshooting.",
@@ -18,16 +108,7 @@
     "url": "https://github.com/SebGalina/betaflight-claude-skill"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 261,
-    "updated_at": "2026-06-06T06:58:40Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Record a task once, run it forever. Turns a screen recording into a fast, self-healing Claude Skill.",
+    "description": "Automation harness that compiles a screen recording into a rerunnable script, with LLMs, only at decision points and sel",
     "id": "prakhar1114/ai_mime",
     "language": "Python",
     "name": "prakhar1114/ai_mime",
@@ -54,15 +135,6 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 89,
-    "updated_at": "2026-06-06T06:52:05Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -72,24 +144,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-06T06:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Open-source AI Operating System (AIOS) blueprint for Claude Code & Codex \u2014 turn any agent into your personal second brai",
-    "id": "alirezarezvani/gaios",
-    "language": "Python",
-    "name": "alirezarezvani/gaios",
-    "stars": 0,
-    "updated_at": "2026-06-06T06:56:14Z",
-    "url": "https://github.com/alirezarezvani/gaios"
-  },
-  {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
     "id": "Tibsfox/gsd-skill-creator",
     "language": "TypeScript",
@@ -97,24 +151,6 @@
     "stars": 63,
     "updated_at": "2026-06-06T06:41:20Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "A Claude skill for honest synthetic customer discovery: grounded personas, anti-collapse interview rules, and outputs th",
-    "id": "kdykes/synthetic-customer-discovery",
-    "language": "\u2014",
-    "name": "kdykes/synthetic-customer-discovery",
-    "stars": 0,
-    "updated_at": "2026-06-06T06:40:44Z",
-    "url": "https://github.com/kdykes/synthetic-customer-discovery"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 15960,
-    "updated_at": "2026-06-06T06:51:34Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -176,7 +212,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-06T06:26:24Z",
+    "updated_at": "2026-06-06T07:03:59Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -202,7 +238,7 @@
     "id": "worldwonderer/oh-story-claudecode",
     "language": "JavaScript",
     "name": "worldwonderer/oh-story-claudecode",
-    "stars": 2009,
+    "stars": 2011,
     "updated_at": "2026-06-06T06:25:51Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
@@ -220,7 +256,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 80894,
+    "stars": 80895,
     "updated_at": "2026-06-06T06:23:50Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -266,7 +302,7 @@
     "language": "Shell",
     "name": "semanticpixel/abc",
     "stars": 0,
-    "updated_at": "2026-06-06T06:21:04Z",
+    "updated_at": "2026-06-06T07:07:33Z",
     "url": "https://github.com/semanticpixel/abc"
   },
   {
@@ -338,7 +374,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1255,
-    "updated_at": "2026-06-06T06:54:06Z",
+    "updated_at": "2026-06-06T07:04:17Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -346,7 +382,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1230,
+    "stars": 1231,
     "updated_at": "2026-06-06T05:46:35Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -358,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T05:43:12Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "MCP server that suggests repository-specific AI agent skills.",
-    "id": "sator-imaging/suggest-skills",
-    "language": "TypeScript",
-    "name": "sator-imaging/suggest-skills",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:43:02Z",
-    "url": "https://github.com/sator-imaging/suggest-skills"
   },
   {
     "description": "Prove your CLI actually works. A Claude Code skill that captures a real terminal command and its real output as a polish",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T05:34:43Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:32:38Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:30:09Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "SageOx is the hivemind for agentic engineering",
-    "id": "sageox/ox",
-    "language": "Go",
-    "name": "sageox/ox",
-    "stars": 35,
-    "updated_at": "2026-06-06T05:29:15Z",
-    "url": "https://github.com/sageox/ox"
   }
 ]
