@@ -1,12 +1,75 @@
 [
   {
+    "description": "Claude Code marketplace of small, opinionated plugins by yegor256",
+    "id": "yegor256/plugins",
+    "language": "\u2014",
+    "name": "yegor256/plugins",
+    "stars": 18,
+    "updated_at": "2026-06-06T06:14:12Z",
+    "url": "https://github.com/yegor256/plugins"
+  },
+  {
+    "description": "Professional development studio for Claude Code CLI",
+    "id": "manastalukdar/ai-devstudio",
+    "language": "Python",
+    "name": "manastalukdar/ai-devstudio",
+    "stars": 1,
+    "updated_at": "2026-06-06T06:13:00Z",
+    "url": "https://github.com/manastalukdar/ai-devstudio"
+  },
+  {
+    "description": "A skill for an agent, to spread news on X, LinkedIn, and other social media",
+    "id": "yegor256/evangelist",
+    "language": "JavaScript",
+    "name": "yegor256/evangelist",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:12:16Z",
+    "url": "https://github.com/yegor256/evangelist"
+  },
+  {
+    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61179,
+    "updated_at": "2026-06-06T06:11:29Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 80891,
-    "updated_at": "2026-06-06T05:59:31Z",
+    "stars": 80892,
+    "updated_at": "2026-06-06T06:10:46Z",
     "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 1,
+    "updated_at": "2026-06-06T06:04:32Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 345,
+    "updated_at": "2026-06-06T06:02:59Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-06T06:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
@@ -18,21 +81,12 @@
     "url": "https://github.com/nowork-studio/NotFair"
   },
   {
-    "description": "omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex,",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61178,
-    "updated_at": "2026-06-06T05:55:34Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
     "id": "a5c-ai/babysitter",
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1255,
-    "updated_at": "2026-06-06T05:59:33Z",
+    "updated_at": "2026-06-06T06:12:45Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -40,18 +94,9 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1224,
+    "stars": 1225,
     "updated_at": "2026-06-06T05:46:35Z",
     "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-06T05:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 15960,
-    "updated_at": "2026-06-06T05:56:58Z",
+    "updated_at": "2026-06-06T06:11:03Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 89,
-    "updated_at": "2026-06-06T05:43:53Z",
+    "updated_at": "2026-06-06T06:04:49Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-06T05:16:58Z",
     "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-06T05:16:41Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-06-06T05:16:40Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:16:07Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:15:54Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:15:50Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
   }
 ]
