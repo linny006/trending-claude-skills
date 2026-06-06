@@ -5,8 +5,80 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 61181,
-    "updated_at": "2026-06-06T06:44:16Z",
+    "updated_at": "2026-06-06T06:59:01Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude skill for Betaflight: FPV drone configuration, PID tuning, log analysis, and troubleshooting.",
+    "id": "SebGalina/betaflight-claude-skill",
+    "language": "HTML",
+    "name": "SebGalina/betaflight-claude-skill",
+    "stars": 1,
+    "updated_at": "2026-06-06T06:59:05Z",
+    "url": "https://github.com/SebGalina/betaflight-claude-skill"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 261,
+    "updated_at": "2026-06-06T06:58:40Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Record a task once, run it forever. Turns a screen recording into a fast, self-healing Claude Skill.",
+    "id": "prakhar1114/ai_mime",
+    "language": "Python",
+    "name": "prakhar1114/ai_mime",
+    "stars": 23,
+    "updated_at": "2026-06-06T06:53:56Z",
+    "url": "https://github.com/prakhar1114/ai_mime"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:53:12Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:52:23Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 89,
+    "updated_at": "2026-06-06T06:52:05Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:46:46Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-06T06:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source AI Operating System (AIOS) blueprint for Claude Code & Codex \u2014 turn any agent into your personal second brai",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "alirezarezvani/gaios",
     "stars": 0,
-    "updated_at": "2026-06-06T06:42:21Z",
+    "updated_at": "2026-06-06T06:56:14Z",
     "url": "https://github.com/alirezarezvani/gaios"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 15960,
-    "updated_at": "2026-06-06T06:38:59Z",
+    "updated_at": "2026-06-06T06:51:34Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "raelli/octowiz",
     "stars": 2,
-    "updated_at": "2026-06-06T06:37:56Z",
+    "updated_at": "2026-06-06T06:57:46Z",
     "url": "https://github.com/raelli/octowiz"
   },
   {
@@ -76,18 +148,9 @@
     "id": "nowork-studio/NotFair",
     "language": "TypeScript",
     "name": "nowork-studio/NotFair",
-    "stars": 2789,
+    "stars": 2790,
     "updated_at": "2026-06-06T06:35:41Z",
     "url": "https://github.com/nowork-studio/NotFair"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-06T06:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T06:27:24Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 89,
-    "updated_at": "2026-06-06T06:43:31Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
@@ -166,7 +220,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 80893,
+    "stars": 80894,
     "updated_at": "2026-06-06T06:23:50Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -284,7 +338,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1255,
-    "updated_at": "2026-06-06T06:44:36Z",
+    "updated_at": "2026-06-06T06:54:06Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -292,7 +346,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1229,
+    "stars": 1230,
     "updated_at": "2026-06-06T05:46:35Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -394,59 +448,5 @@
     "stars": 35,
     "updated_at": "2026-06-06T05:29:15Z",
     "url": "https://github.com/sageox/ox"
-  },
-  {
-    "description": "Claude skill for Betaflight: FPV drone configuration, PID tuning, log analysis, and troubleshooting.",
-    "id": "SebGalina/betaflight-claude-skill",
-    "language": "HTML",
-    "name": "SebGalina/betaflight-claude-skill",
-    "stars": 1,
-    "updated_at": "2026-06-06T05:24:57Z",
-    "url": "https://github.com/SebGalina/betaflight-claude-skill"
-  },
-  {
-    "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
-    "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "language": "JavaScript",
-    "name": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:24:45Z",
-    "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:24:29Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
-    "id": "Daybreakbluepeter503/advise-project-approach",
-    "language": "Python",
-    "name": "Daybreakbluepeter503/advise-project-approach",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:24:15Z",
-    "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:24:11Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Generate personalized real-life side quests to build skills and foster connections with this Claude-powered quest archit",
-    "id": "Glamourous-mammalia359/quest-drop",
-    "language": "\u2014",
-    "name": "Glamourous-mammalia359/quest-drop",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:24:11Z",
-    "url": "https://github.com/Glamourous-mammalia359/quest-drop"
   }
 ]
