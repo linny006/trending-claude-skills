@@ -1,5 +1,86 @@
 [
   {
+    "description": "A collection of Claude Agentic Skills for PDF extraction, Anki flashcard generation, and revision notes creation",
+    "id": "maaarcooo/claude-skills",
+    "language": "Python",
+    "name": "maaarcooo/claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-07T23:45:56Z",
+    "url": "https://github.com/maaarcooo/claude-skills"
+  },
+  {
+    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
+    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
+    "language": "Python",
+    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
+    "stars": 1,
+    "updated_at": "2026-06-07T23:45:49Z",
+    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
+  },
+  {
+    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
+    "id": "Selleparental3533/figshare-skill",
+    "language": "Shell",
+    "name": "Selleparental3533/figshare-skill",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:45:42Z",
+    "url": "https://github.com/Selleparental3533/figshare-skill"
+  },
+  {
+    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
+    "id": "sublimate-toe9304/craftcms-claude-skills",
+    "language": "Shell",
+    "name": "sublimate-toe9304/craftcms-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-07T23:45:30Z",
+    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
+  },
+  {
+    "description": "Transform public expressions and interpersonal insights into a standardized modular skill set for cross-platform applica",
+    "id": "Jonnyunimpeachable9417/skill-tongjincheng",
+    "language": "\u2014",
+    "name": "Jonnyunimpeachable9417/skill-tongjincheng",
+    "stars": 1,
+    "updated_at": "2026-06-07T23:45:25Z",
+    "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
+  },
+  {
+    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
+    "id": "Georgiannebedded725/zenodo-skill",
+    "language": "\u2014",
+    "name": "Georgiannebedded725/zenodo-skill",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:45:19Z",
+    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-07T23:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Retry OpenCode model requests using exponential backoff and jitter to handle rate limits without switching models.",
+    "id": "notmay666-code/opencode-rate-limit-retry",
+    "language": "TypeScript",
+    "name": "notmay666-code/opencode-rate-limit-retry",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:45:12Z",
+    "url": "https://github.com/notmay666-code/opencode-rate-limit-retry"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-07T23:45:10Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
     "id": "close-shellflower7762/e2e-tester",
     "language": "\u2014",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T23:40:24Z",
     "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Explore a curated list of 280+ OpenAI Codex CLI tools, skills, subagents, plugins, and resources",
-    "id": "commonplace-middledistance109/awesome-codex-cli",
-    "language": "\u2014",
-    "name": "commonplace-middledistance109/awesome-codex-cli",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:40:09Z",
-    "url": "https://github.com/commonplace-middledistance109/awesome-codex-cli"
-  },
-  {
-    "description": "Explore a Claude Code 2.1.88 source snapshot with CLI analysis, package files, and buddy TUI and web demos for code stud",
-    "id": "Mikecomparative372/claude-code-2188",
-    "language": "\u2014",
-    "name": "Mikecomparative372/claude-code-2188",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:40:07Z",
-    "url": "https://github.com/Mikecomparative372/claude-code-2188"
-  },
-  {
-    "description": "Recover and reset Claude Code in Python with a faithful CLI port that preserves core logic and removes the UI layer",
-    "id": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "language": "\u2014",
-    "name": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:40:05Z",
-    "url": "https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:40:04Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:40:04Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
-  },
-  {
-    "description": "Recover Claude Code source for TypeScript and React UI analysis and reuse",
-    "id": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "language": "\u2014",
-    "name": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:40:00Z",
-    "url": "https://github.com/cacodaemonic-impulseexplosive956/claude_code_src"
-  },
-  {
-    "description": "Preserve a TypeScript Claude Code source snapshot for security research, supply-chain analysis, and archival reference",
-    "id": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "language": "\u2014",
-    "name": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:40:00Z",
-    "url": "https://github.com/stuffinesslamedh281/claude-code-snapshot-backup"
-  },
-  {
-    "description": "Standardize AI agent workflows with reusable skills, templates, and best practices for team-wide reuse and steady iterat",
-    "id": "philberthandson333/codex-skill-ai-agent-workflow",
-    "language": "\u2014",
-    "name": "philberthandson333/codex-skill-ai-agent-workflow",
-    "stars": 2,
-    "updated_at": "2026-06-07T23:39:57Z",
-    "url": "https://github.com/philberthandson333/codex-skill-ai-agent-workflow"
-  },
-  {
-    "description": "Explore Claude Code\u2019s architecture, runtime flow, and design tradeoffs with a clear guide to its agent CLI, prompts, too",
-    "id": "Performingartsdredger454/Claude-code-open-explain",
-    "language": "JavaScript",
-    "name": "Performingartsdredger454/Claude-code-open-explain",
-    "stars": 1,
-    "updated_at": "2026-06-07T23:39:54Z",
-    "url": "https://github.com/Performingartsdredger454/Claude-code-open-explain"
   }
 ]
