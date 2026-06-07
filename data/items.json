@@ -1,12 +1,30 @@
 [
   {
-    "description": "Hub-and-spoke agent-skill clusters, one per stack (Astro\u00b7GSAP\u00b7Remotion, Tauri, \u2026). Installable via skills.sh.",
-    "id": "Sheshiyer/skill-clusters",
-    "language": "JavaScript",
-    "name": "Sheshiyer/skill-clusters",
-    "stars": 0,
-    "updated_at": "2026-06-07T07:29:31Z",
-    "url": "https://github.com/Sheshiyer/skill-clusters"
+    "description": "A2A Agent Board: Publish \u00b7 Find \u00b7 Use with itinai.com",
+    "id": "aihlp/itinai",
+    "language": "Python",
+    "name": "aihlp/itinai",
+    "stars": 3,
+    "updated_at": "2026-06-07T07:44:15Z",
+    "url": "https://github.com/aihlp/itinai"
+  },
+  {
+    "description": "omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For y",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61314,
+    "updated_at": "2026-06-07T07:38:32Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 383,
+    "updated_at": "2026-06-07T07:34:56Z",
+    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
@@ -14,8 +32,44 @@
     "language": "TypeScript",
     "name": "Tibsfox/gsd-skill-creator",
     "stars": 63,
-    "updated_at": "2026-06-07T07:29:00Z",
+    "updated_at": "2026-06-07T07:32:37Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 0,
+    "updated_at": "2026-06-07T07:31:52Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 930,
+    "updated_at": "2026-06-07T07:30:36Z",
+    "url": "https://github.com/Kaelio/ktx"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-07T07:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Hub-and-spoke agent-skill clusters, one per stack (Astro\u00b7GSAP\u00b7Remotion, Tauri, \u2026). Installable via skills.sh.",
+    "id": "Sheshiyer/skill-clusters",
+    "language": "JavaScript",
+    "name": "Sheshiyer/skill-clusters",
+    "stars": 0,
+    "updated_at": "2026-06-07T07:32:22Z",
+    "url": "https://github.com/Sheshiyer/skill-clusters"
   },
   {
     "description": "Miftahul Islam Efaz \u2014 Entrepreneur, Vibe-Coder & AI Orchestrator building digital products and automation systems for in",
@@ -34,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-06-07T07:23:02Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 383,
-    "updated_at": "2026-06-07T07:26:57Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-07T07:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T06:59:36Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For y",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61313,
-    "updated_at": "2026-06-07T07:25:13Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
@@ -178,15 +205,6 @@
     "stars": 1266,
     "updated_at": "2026-06-07T06:48:09Z",
     "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 0,
-    "updated_at": "2026-06-07T06:45:43Z",
-    "url": "https://github.com/vanducng/skills"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -292,7 +310,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1272,
+    "stars": 1273,
     "updated_at": "2026-06-07T06:14:06Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -365,7 +383,7 @@
     "language": "Shell",
     "name": "yurukusa/cc-safe-setup",
     "stars": 45,
-    "updated_at": "2026-06-07T05:59:42Z",
+    "updated_at": "2026-06-07T07:44:50Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T05:55:34Z",
     "url": "https://github.com/Unifying-sheeptick539/revops-skills"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:55:07Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:55:04Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
   }
 ]
