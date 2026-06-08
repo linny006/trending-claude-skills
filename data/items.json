@@ -1,5 +1,86 @@
 [
   {
+    "description": "Tandem is an MCP bridge that lets a chatbot (Claude.ai or ChatGPT) spin up and drive, interactive Claude Code sessions o",
+    "id": "Maxmedawar/tandem",
+    "language": "TypeScript",
+    "name": "Maxmedawar/tandem",
+    "stars": 7,
+    "updated_at": "2026-06-08T08:26:25Z",
+    "url": "https://github.com/Maxmedawar/tandem"
+  },
+  {
+    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
+    "id": "Infrasity-Labs/dev-gtm-claude-skills",
+    "language": "JavaScript",
+    "name": "Infrasity-Labs/dev-gtm-claude-skills",
+    "stars": 24,
+    "updated_at": "2026-06-08T08:23:20Z",
+    "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
+  },
+  {
+    "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
+    "id": "jabrena/cursor-rules-java",
+    "language": "Java",
+    "name": "jabrena/cursor-rules-java",
+    "stars": 401,
+    "updated_at": "2026-06-08T08:22:54Z",
+    "url": "https://github.com/jabrena/cursor-rules-java"
+  },
+  {
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 136,
+    "updated_at": "2026-06-08T08:22:36Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "",
+    "id": "longbridge/skills",
+    "language": "Python",
+    "name": "longbridge/skills",
+    "stars": 16,
+    "updated_at": "2026-06-08T08:29:54Z",
+    "url": "https://github.com/longbridge/skills"
+  },
+  {
+    "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
+    "id": "specscore/specstudio-skills",
+    "language": "\u2014",
+    "name": "specscore/specstudio-skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:20:49Z",
+    "url": "https://github.com/specscore/specstudio-skills"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 88,
+    "updated_at": "2026-06-08T08:19:29Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Turn Claude into a Senior Design Architect \u2014 DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework co",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "Python",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 211,
+    "updated_at": "2026-06-08T08:16:24Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-08T08:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Miftahul Islam Efaz \u2014 Entrepreneur, Vibe-Coder & AI Orchestrator building digital products and automation systems for in",
     "id": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
     "language": "TypeScript",
@@ -72,15 +153,6 @@
     "url": "https://github.com/techwolf-ai/ai-first-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-08T08:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
     "id": "vanducng/skills",
     "language": "Python",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T07:55:40Z",
     "url": "https://github.com/Haruspex-guru/haruspex-skills"
-  },
-  {
-    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
-    "id": "Infrasity-Labs/dev-gtm-claude-skills",
-    "language": "JavaScript",
-    "name": "Infrasity-Labs/dev-gtm-claude-skills",
-    "stars": 24,
-    "updated_at": "2026-06-08T08:13:43Z",
-    "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
   },
   {
     "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
@@ -140,7 +203,7 @@
     "language": "Shell",
     "name": "yurukusa/cc-safe-setup",
     "stars": 45,
-    "updated_at": "2026-06-08T07:47:22Z",
+    "updated_at": "2026-06-08T08:27:02Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
@@ -171,24 +234,6 @@
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
-    "description": "Turn Claude into a Senior Design Architect \u2014 DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework co",
-    "id": "plugin87/ux-ui-agent-skills",
-    "language": "Python",
-    "name": "plugin87/ux-ui-agent-skills",
-    "stars": 211,
-    "updated_at": "2026-06-08T07:39:58Z",
-    "url": "https://github.com/plugin87/ux-ui-agent-skills"
-  },
-  {
-    "description": "Tandem is an MCP bridge that lets a chatbot (Claude.ai or ChatGPT) spin up and drive, interactive Claude Code sessions o",
-    "id": "Maxmedawar/tandem",
-    "language": "TypeScript",
-    "name": "Maxmedawar/tandem",
-    "stars": 7,
-    "updated_at": "2026-06-08T07:32:29Z",
-    "url": "https://github.com/Maxmedawar/tandem"
-  },
-  {
     "description": "Static security scanner for MCP servers, agent skills & plugins (68 patterns). In the official MCP Registry: io.github.e",
     "id": "eltociear/skill-audit-mcp",
     "language": "Python",
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-06-08T08:02:51Z",
+    "updated_at": "2026-06-08T08:24:34Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-08T06:40:08Z",
     "url": "https://github.com/kanfu-panda/pdlc-skills"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:39:05Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "An end-to-end research workflow skill for turning ideas into evidence-backed, citation-supported manuscript drafts",
-    "id": "mmTheBest/Research-Architect",
-    "language": "Python",
-    "name": "mmTheBest/Research-Architect",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:38:37Z",
-    "url": "https://github.com/mmTheBest/Research-Architect"
-  },
-  {
-    "description": "\u628a\u6a21\u7cca\u9700\u6c42\u62f7\u95ee\u6210\u53ef\u89c6\u5316 spec.html\uff0c\u518d\u62ff spec \u9010\u6761\u9a8c\u4ee3\u7801\u4ea7\u51fa report.html \u2014\u2014 \u4e24\u4e2a skill",
-    "id": "WangLiquan/specforge",
-    "language": "JavaScript",
-    "name": "WangLiquan/specforge",
-    "stars": 2,
-    "updated_at": "2026-06-08T06:36:06Z",
-    "url": "https://github.com/WangLiquan/specforge"
-  },
-  {
-    "description": "Open-source agent skills + Claude Code plugin for Tolstoy \u2014 create marketing videos/images and remix your library, via t",
-    "id": "GoTolstoy/agent-skills",
-    "language": "\u2014",
-    "name": "GoTolstoy/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:31:10Z",
-    "url": "https://github.com/GoTolstoy/agent-skills"
-  },
-  {
-    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
-    "id": "anbeime/skill",
-    "language": "Python",
-    "name": "anbeime/skill",
-    "stars": 1310,
-    "updated_at": "2026-06-08T06:27:51Z",
-    "url": "https://github.com/anbeime/skill"
   }
 ]
