@@ -1,11 +1,74 @@
 [
   {
+    "description": "Test, lint, score, and package Claude/AI-agent skills like real software \u2014 CLI + GitHub Action.",
+    "id": "damanisme/agentskills-ci",
+    "language": "Python",
+    "name": "damanisme/agentskills-ci",
+    "stars": 0,
+    "updated_at": "2026-06-08T03:58:58Z",
+    "url": "https://github.com/damanisme/agentskills-ci"
+  },
+  {
+    "description": "Free, open-source Claude Skills for Australian professionals \u2014 job search, workplace comms, freelancing, small business.",
+    "id": "GreenSchool-AI/claude-skills",
+    "language": "\u2014",
+    "name": "GreenSchool-AI/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T03:51:10Z",
+    "url": "https://github.com/GreenSchool-AI/claude-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 261,
+    "updated_at": "2026-06-08T03:49:35Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "\"Automated AI short-video studio: idea \u2192 published YouTube Short, $0.06/video\"",
+    "id": "dasein108/slope-studio",
+    "language": "Python",
+    "name": "dasein108/slope-studio",
+    "stars": 3,
+    "updated_at": "2026-06-08T03:47:56Z",
+    "url": "https://github.com/dasein108/slope-studio"
+  },
+  {
+    "description": "omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For y",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61424,
+    "updated_at": "2026-06-08T03:47:24Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-08T03:46:23Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-08T03:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "MCP server that suggests repository-specific AI agent skills.",
     "id": "sator-imaging/suggest-skills",
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-06-08T03:44:44Z",
+    "updated_at": "2026-06-08T03:46:54Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
   },
   {
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "activeloopai/hivemind",
     "stars": 382,
-    "updated_at": "2026-06-08T03:39:49Z",
+    "updated_at": "2026-06-08T03:58:40Z",
     "url": "https://github.com/activeloopai/hivemind"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 178,
     "updated_at": "2026-06-08T03:30:15Z",
     "url": "https://github.com/AbsolutelySkilled/AbsolutelySkilled"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-08T03:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
@@ -394,59 +448,5 @@
     "stars": 421,
     "updated_at": "2026-06-08T03:21:35Z",
     "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-08T03:21:15Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-06-08T03:21:15Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 384,
-    "updated_at": "2026-06-08T03:21:14Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-08T03:21:01Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Transform public expressions and interpersonal insights into a standardized modular skill set for cross-platform applica",
-    "id": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "language": "\u2014",
-    "name": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "stars": 1,
-    "updated_at": "2026-06-08T03:20:58Z",
-    "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-06-08T03:20:56Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
   }
 ]
