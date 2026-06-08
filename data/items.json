@@ -1,5 +1,86 @@
 [
   {
+    "description": "Research-backed tactics to grow Moltbook karma fast. Scripts, automation & playbook for AI agents on the agent-native so",
+    "id": "thai-max-nguyen/moltbook-growth",
+    "language": "Python",
+    "name": "thai-max-nguyen/moltbook-growth",
+    "stars": 1,
+    "updated_at": "2026-06-08T06:44:05Z",
+    "url": "https://github.com/thai-max-nguyen/moltbook-growth"
+  },
+  {
+    "description": "A filesystem-inbox spec pipeline for parallel, one-shot Claude Code sessions: think \u2192 spec \u2192 orchestrate \u2192 grade \u2192 ship.",
+    "id": "fredhead88/do-it",
+    "language": "JavaScript",
+    "name": "fredhead88/do-it",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:43:26Z",
+    "url": "https://github.com/fredhead88/do-it"
+  },
+  {
+    "description": "31 slash commands that turn Claude Code into a real PDLC workflow \u2014 PRD \u2192 TDD \u2192 implement \u2192 review \u2192 ship. Hard contract",
+    "id": "kanfu-panda/pdlc-skills",
+    "language": "Shell",
+    "name": "kanfu-panda/pdlc-skills",
+    "stars": 7,
+    "updated_at": "2026-06-08T06:40:08Z",
+    "url": "https://github.com/kanfu-panda/pdlc-skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:39:05Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "An end-to-end research workflow skill for turning ideas into evidence-backed, citation-supported manuscript drafts",
+    "id": "mmTheBest/Research-Architect",
+    "language": "Python",
+    "name": "mmTheBest/Research-Architect",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:38:37Z",
+    "url": "https://github.com/mmTheBest/Research-Architect"
+  },
+  {
+    "description": "\u628a\u6a21\u7cca\u9700\u6c42\u62f7\u95ee\u6210\u53ef\u89c6\u5316 spec.html\uff0c\u518d\u62ff spec \u9010\u6761\u9a8c\u4ee3\u7801\u4ea7\u51fa report.html \u2014\u2014 \u4e24\u4e2a skill",
+    "id": "WangLiquan/specforge",
+    "language": "JavaScript",
+    "name": "WangLiquan/specforge",
+    "stars": 2,
+    "updated_at": "2026-06-08T06:36:06Z",
+    "url": "https://github.com/WangLiquan/specforge"
+  },
+  {
+    "description": "Open-source agent skills + Claude Code plugin for Tolstoy \u2014 create marketing videos/images and remix your library, via t",
+    "id": "GoTolstoy/agent-skills",
+    "language": "\u2014",
+    "name": "GoTolstoy/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:31:10Z",
+    "url": "https://github.com/GoTolstoy/agent-skills"
+  },
+  {
+    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
+    "id": "Infrasity-Labs/dev-gtm-claude-skills",
+    "language": "JavaScript",
+    "name": "Infrasity-Labs/dev-gtm-claude-skills",
+    "stars": 24,
+    "updated_at": "2026-06-08T06:30:23Z",
+    "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-08T06:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
     "id": "vanducng/skills",
     "language": "Python",
@@ -13,9 +94,18 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1300,
+    "stars": 1302,
     "updated_at": "2026-06-08T06:27:51Z",
     "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "Human writing engine - defeat AI detectors (GPTZero, Originality.ai, Turnitin, ZeroGPT, CopyLeaks) by p roducing text th",
+    "id": "obreinx/ghost-skill",
+    "language": "\u2014",
+    "name": "obreinx/ghost-skill",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:25:52Z",
+    "url": "https://github.com/obreinx/ghost-skill"
   },
   {
     "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
@@ -59,17 +149,8 @@
     "language": "Python",
     "name": "plugin87/ux-ui-agent-skills",
     "stars": 211,
-    "updated_at": "2026-06-08T06:22:00Z",
+    "updated_at": "2026-06-08T06:45:11Z",
     "url": "https://github.com/plugin87/ux-ui-agent-skills"
-  },
-  {
-    "description": "A filesystem-inbox spec pipeline for parallel, one-shot Claude Code sessions: think \u2192 spec \u2192 orchestrate \u2192 grade \u2192 ship.",
-    "id": "fredhead88/do-it",
-    "language": "Python",
-    "name": "fredhead88/do-it",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:20:35Z",
-    "url": "https://github.com/fredhead88/do-it"
   },
   {
     "description": "E-commerce skills for AI agents \u2014 product research, marketing automation, supply chain optimization, and business analyt",
@@ -115,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:17:04Z",
     "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-08T06:15:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Anthropic Agent Skills for stock traders, powered by Haruspex.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:06:48Z",
     "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:48Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:46Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:06:44Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:06:18Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:14Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:06:00Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Transform public expressions and interpersonal insights into a standardized modular skill set for cross-platform applica",
-    "id": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "language": "\u2014",
-    "name": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:05:58Z",
-    "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
-  },
-  {
-    "description": "Integrate Claude with Obsidian to build a persistent, searchable knowledge vault that automatically connects your notes ",
-    "id": "unresentful-barbeque695/claude-obsidian",
-    "language": "\u2014",
-    "name": "unresentful-barbeque695/claude-obsidian",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:05:48Z",
-    "url": "https://github.com/unresentful-barbeque695/claude-obsidian"
   }
 ]
