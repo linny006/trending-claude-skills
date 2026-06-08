@@ -1,5 +1,50 @@
 [
   {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:44:50Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Auto harness engineering meta-repo: discuss \u2192 curate \u2192 bootstrap a context-engineered project for Claude Code, Cursor, C",
+    "id": "glowElephant/context-forge",
+    "language": "Python",
+    "name": "glowElephant/context-forge",
+    "stars": 2,
+    "updated_at": "2026-06-08T08:43:38Z",
+    "url": "https://github.com/glowElephant/context-forge"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 45,
+    "updated_at": "2026-06-08T08:30:58Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-08T08:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 29742,
+    "updated_at": "2026-06-08T08:28:26Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
     "description": "Tandem is an MCP bridge that lets a chatbot (Claude.ai or ChatGPT) spin up and drive, interactive Claude Code sessions o",
     "id": "Maxmedawar/tandem",
     "language": "TypeScript",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "longbridge/skills",
     "stars": 16,
-    "updated_at": "2026-06-08T08:29:54Z",
+    "updated_at": "2026-06-08T08:35:03Z",
     "url": "https://github.com/longbridge/skills"
   },
   {
@@ -50,7 +95,7 @@
     "language": "\u2014",
     "name": "specscore/specstudio-skills",
     "stars": 0,
-    "updated_at": "2026-06-08T08:20:49Z",
+    "updated_at": "2026-06-08T08:43:07Z",
     "url": "https://github.com/specscore/specstudio-skills"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 211,
     "updated_at": "2026-06-08T08:16:24Z",
     "url": "https://github.com/plugin87/ux-ui-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-08T08:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Miftahul Islam Efaz \u2014 Entrepreneur, Vibe-Coder & AI Orchestrator building digital products and automation systems for in",
@@ -153,15 +189,6 @@
     "url": "https://github.com/techwolf-ai/ai-first-toolkit"
   },
   {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:59:37Z",
-    "url": "https://github.com/vanducng/skills"
-  },
-  {
     "description": "Anthropic Agent Skills for stock traders, powered by Haruspex.",
     "id": "Haruspex-guru/haruspex-skills",
     "language": "JavaScript",
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "ChronoAIProject/Ornn",
     "stars": 18,
-    "updated_at": "2026-06-08T07:57:55Z",
+    "updated_at": "2026-06-08T08:45:07Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T07:50:34Z",
     "url": "https://github.com/Doris-Labs/sales-skills"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 45,
-    "updated_at": "2026-06-08T08:27:02Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
     "description": "A Claude Code marketplace for Android development, featuring code review, localization management, and APK/AAB release a",
@@ -257,7 +275,7 @@
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-06-08T08:24:34Z",
+    "updated_at": "2026-06-08T08:35:35Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:54:54Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:48:10Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "31 slash commands that turn Claude Code into a real PDLC workflow \u2014 PRD \u2192 TDD \u2192 implement \u2192 review \u2192 ship. Hard contract",
-    "id": "kanfu-panda/pdlc-skills",
-    "language": "Shell",
-    "name": "kanfu-panda/pdlc-skills",
-    "stars": 7,
-    "updated_at": "2026-06-08T06:40:08Z",
-    "url": "https://github.com/kanfu-panda/pdlc-skills"
   }
 ]
