@@ -1,5 +1,59 @@
 [
   {
+    "description": "Curated power-ups for coding agents: skills, slash commands, MCP configs, hooks, AGENTS.md templates, and workflows for ",
+    "id": "yeaight7/agent-powerups",
+    "language": "TypeScript",
+    "name": "yeaight7/agent-powerups",
+    "stars": 7,
+    "updated_at": "2026-06-08T15:45:02Z",
+    "url": "https://github.com/yeaight7/agent-powerups"
+  },
+  {
+    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
+    "id": "OpenLatch/saferskills",
+    "language": "Python",
+    "name": "OpenLatch/saferskills",
+    "stars": 1,
+    "updated_at": "2026-06-08T15:41:11Z",
+    "url": "https://github.com/OpenLatch/saferskills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:40:04Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Awesome Skills from Around the World",
+    "id": "AbsolutelySkilled/AbsolutelySkilled",
+    "language": "MDX",
+    "name": "AbsolutelySkilled/AbsolutelySkilled",
+    "stars": 178,
+    "updated_at": "2026-06-08T15:39:21Z",
+    "url": "https://github.com/AbsolutelySkilled/AbsolutelySkilled"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-08T15:33:43Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-08T15:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A lightweight MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI - saving context window and t",
     "id": "rauls-kjarners/claude-to-agy",
     "language": "Python",
@@ -36,15 +90,6 @@
     "url": "https://github.com/askimo-ai/askimo"
   },
   {
-    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
-    "id": "OpenLatch/saferskills",
-    "language": "Python",
-    "name": "OpenLatch/saferskills",
-    "stars": 1,
-    "updated_at": "2026-06-08T15:28:58Z",
-    "url": "https://github.com/OpenLatch/saferskills"
-  },
-  {
     "description": "Open-source Claude Code Skills that replace clicking through vendor dashboards \u2014 Stripe, Cloudflare DNS, ElevenLabs, Git",
     "id": "iansteitz1-eng/aria-skills",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-06-08T15:17:25Z",
     "url": "https://github.com/tinh2/skills-hub-registry"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-08T15:15:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Comprehensive clinical pathology toolkit for Claude - skills for CAP/ICCR compliance, TNM staging, synoptic templates, S",
@@ -166,7 +202,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16111,
+    "stars": 16113,
     "updated_at": "2026-06-08T14:55:02Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T14:08:54Z",
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
-    "id": "Daybreakbluepeter503/advise-project-approach",
-    "language": "Python",
-    "name": "Daybreakbluepeter503/advise-project-approach",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:08:42Z",
-    "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:08:38Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Generate personalized real-life side quests to build skills and foster connections with this Claude-powered quest archit",
-    "id": "Glamourous-mammalia359/quest-drop",
-    "language": "\u2014",
-    "name": "Glamourous-mammalia359/quest-drop",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:08:38Z",
-    "url": "https://github.com/Glamourous-mammalia359/quest-drop"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-08T14:08:23Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
   }
 ]
