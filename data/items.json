@@ -1,12 +1,120 @@
 [
   {
+    "description": "Hub-and-spoke agent-skill clusters, one per stack (Astro\u00b7GSAP\u00b7Remotion, Tauri, \u2026). Installable via skills.sh.",
+    "id": "Sheshiyer/skill-clusters",
+    "language": "JavaScript",
+    "name": "Sheshiyer/skill-clusters",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:59:50Z",
+    "url": "https://github.com/Sheshiyer/skill-clusters"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:59:37Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Anthropic Agent Skills for stock traders, powered by Haruspex.",
+    "id": "Haruspex-guru/haruspex-skills",
+    "language": "JavaScript",
+    "name": "Haruspex-guru/haruspex-skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:55:40Z",
+    "url": "https://github.com/Haruspex-guru/haruspex-skills"
+  },
+  {
+    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
+    "id": "Infrasity-Labs/dev-gtm-claude-skills",
+    "language": "JavaScript",
+    "name": "Infrasity-Labs/dev-gtm-claude-skills",
+    "stars": 24,
+    "updated_at": "2026-06-08T07:52:38Z",
+    "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
+  },
+  {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query d",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 946,
+    "updated_at": "2026-06-08T07:52:05Z",
+    "url": "https://github.com/Kaelio/ktx"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 18,
+    "updated_at": "2026-06-08T07:57:55Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "",
+    "id": "Doris-Labs/sales-skills",
+    "language": "Shell",
+    "name": "Doris-Labs/sales-skills",
+    "stars": 1,
+    "updated_at": "2026-06-08T07:50:34Z",
+    "url": "https://github.com/Doris-Labs/sales-skills"
+  },
+  {
     "description": "Miftahul Islam Efaz \u2014 Entrepreneur, Vibe-Coder & AI Orchestrator building digital products and automation systems for in",
     "id": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
     "language": "TypeScript",
     "name": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
     "stars": 0,
-    "updated_at": "2026-06-08T07:44:46Z",
+    "updated_at": "2026-06-08T07:49:32Z",
     "url": "https://github.com/Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz"
+  },
+  {
+    "description": "PMF framework spine + supporting methodologies (Lean Startup, Customer Development, RDI, Mom Test, Disruption, Market Ty",
+    "id": "kalyvask/entrepreneurship-lessons",
+    "language": "Python",
+    "name": "kalyvask/entrepreneurship-lessons",
+    "stars": 1,
+    "updated_at": "2026-06-08T07:49:27Z",
+    "url": "https://github.com/kalyvask/entrepreneurship-lessons"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 45,
+    "updated_at": "2026-06-08T07:47:22Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "A Claude Code marketplace for Android development, featuring code review, localization management, and APK/AAB release a",
+    "id": "jason0404/Jason-Android-Marketplace",
+    "language": "\u2014",
+    "name": "jason0404/Jason-Android-Marketplace",
+    "stars": 1,
+    "updated_at": "2026-06-08T07:46:50Z",
+    "url": "https://github.com/jason0404/Jason-Android-Marketplace"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "JavaScript",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 16,
+    "updated_at": "2026-06-08T07:45:55Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-08T07:45:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Spice Bag is an open-source CLI tool that uses Claude AI to intelligently tailor your CV and cover letter for every job ",
@@ -25,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T07:42:00Z",
     "url": "https://github.com/OpenLatch/saferskills"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "JavaScript",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 16,
-    "updated_at": "2026-06-08T07:40:25Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
     "description": "Turn Claude into a Senior Design Architect \u2014 DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework co",
@@ -72,21 +171,12 @@
     "url": "https://github.com/thai-max-nguyen/moltbook-growth"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-08T07:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "MCP server that suggests repository-specific AI agent skills.",
     "id": "sator-imaging/suggest-skills",
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-06-08T07:28:39Z",
+    "updated_at": "2026-06-08T07:58:07Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
   },
   {
@@ -225,15 +315,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:03:45Z",
-    "url": "https://github.com/vanducng/skills"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -324,20 +405,11 @@
     "url": "https://github.com/GoTolstoy/agent-skills"
   },
   {
-    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
-    "id": "Infrasity-Labs/dev-gtm-claude-skills",
-    "language": "JavaScript",
-    "name": "Infrasity-Labs/dev-gtm-claude-skills",
-    "stars": 24,
-    "updated_at": "2026-06-08T06:30:23Z",
-    "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
-  },
-  {
     "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1309,
+    "stars": 1310,
     "updated_at": "2026-06-08T06:27:51Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:22:48Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "E-commerce skills for AI agents \u2014 product research, marketing automation, supply chain optimization, and business analyt",
-    "id": "nexscope-ai/eCommerce-Skills",
-    "language": "Python",
-    "name": "nexscope-ai/eCommerce-Skills",
-    "stars": 228,
-    "updated_at": "2026-06-08T06:19:10Z",
-    "url": "https://github.com/nexscope-ai/eCommerce-Skills"
-  },
-  {
-    "description": "A collection of custom skills",
-    "id": "Emlembow/skills",
-    "language": "Python",
-    "name": "Emlembow/skills",
-    "stars": 2,
-    "updated_at": "2026-06-08T06:18:09Z",
-    "url": "https://github.com/Emlembow/skills"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:17:52Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Generate personalized real-life side quests to build skills and foster connections with this Claude-powered quest archit",
-    "id": "Glamourous-mammalia359/quest-drop",
-    "language": "\u2014",
-    "name": "Glamourous-mammalia359/quest-drop",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:17:33Z",
-    "url": "https://github.com/Glamourous-mammalia359/quest-drop"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:17:04Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Anthropic Agent Skills for stock traders, powered by Haruspex.",
-    "id": "Haruspex-guru/haruspex-skills",
-    "language": "JavaScript",
-    "name": "Haruspex-guru/haruspex-skills",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:15:21Z",
-    "url": "https://github.com/Haruspex-guru/haruspex-skills"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:14:52Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Claude Code marketplace of small, opinionated plugins by yegor256",
-    "id": "yegor256/plugins",
-    "language": "\u2014",
-    "name": "yegor256/plugins",
-    "stars": 18,
-    "updated_at": "2026-06-08T06:16:04Z",
-    "url": "https://github.com/yegor256/plugins"
   }
 ]
