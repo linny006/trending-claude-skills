@@ -1,5 +1,77 @@
 [
   {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 35,
+    "updated_at": "2026-06-08T22:56:42Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "Three open-source AI marketing plugins for agencies & in-house teams \u2014 DigitalMarketingPro (158 skills) + ContentForge (",
+    "id": "indranilbanerjee/neels-plugins",
+    "language": "\u2014",
+    "name": "indranilbanerjee/neels-plugins",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:53:43Z",
+    "url": "https://github.com/indranilbanerjee/neels-plugins"
+  },
+  {
+    "description": "Open-source agency-grade social media production plugin \u2014 16 skills, 25 commands, AI image (Nano Banana Pro) + AI video ",
+    "id": "indranilbanerjee/socialforge",
+    "language": "Python",
+    "name": "indranilbanerjee/socialforge",
+    "stars": 4,
+    "updated_at": "2026-06-08T22:53:37Z",
+    "url": "https://github.com/indranilbanerjee/socialforge"
+  },
+  {
+    "description": "Open-source enterprise content production plugin \u2014 21 skills, 13 agents, 11 quality gates, 29-pattern AI humanizer, fact",
+    "id": "indranilbanerjee/contentforge",
+    "language": "Python",
+    "name": "indranilbanerjee/contentforge",
+    "stars": 6,
+    "updated_at": "2026-06-08T22:53:24Z",
+    "url": "https://github.com/indranilbanerjee/contentforge"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 262,
+    "updated_at": "2026-06-08T22:51:54Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Use Claude to decode raw ACARS/VDLM2 messages",
+    "id": "WPTK/acars-decoder-claude-skill",
+    "language": "\u2014",
+    "name": "WPTK/acars-decoder-claude-skill",
+    "stars": 0,
+    "updated_at": "2026-06-08T22:50:51Z",
+    "url": "https://github.com/WPTK/acars-decoder-claude-skill"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-08T22:49:31Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-08T22:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -45,24 +117,6 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-08T22:38:18Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 262,
-    "updated_at": "2026-06-08T22:37:55Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Some useful Claude Code Skills",
     "id": "j-256/claude-code-skills",
     "language": "JavaScript",
@@ -85,7 +139,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 2022,
+    "stars": 2023,
     "updated_at": "2026-06-08T22:31:11Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -97,15 +151,6 @@
     "stars": 350,
     "updated_at": "2026-06-08T22:30:29Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-08T22:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T22:27:11Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 35,
-    "updated_at": "2026-06-08T22:42:49Z",
-    "url": "https://github.com/open-agreements/open-agreements"
   },
   {
     "description": "A collection of utility scripts and tools that streamline my daily development workflow.",
@@ -216,15 +252,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Three open-source AI marketing plugins for agencies & in-house teams \u2014 DigitalMarketingPro (158 skills) + ContentForge (",
-    "id": "indranilbanerjee/neels-plugins",
-    "language": "\u2014",
-    "name": "indranilbanerjee/neels-plugins",
-    "stars": 0,
-    "updated_at": "2026-06-08T22:19:12Z",
-    "url": "https://github.com/indranilbanerjee/neels-plugins"
-  },
-  {
     "description": "Open-source AI marketing plugin for agencies & in-house teams \u2014 158 skills, 25 specialist agents, 12-Part Strategy Flow,",
     "id": "indranilbanerjee/digital-marketing-pro",
     "language": "Python",
@@ -274,7 +301,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61536,
+    "stars": 61537,
     "updated_at": "2026-06-08T22:16:59Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T21:56:17Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:54:54Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:54:38Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:54:07Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
