@@ -1,5 +1,95 @@
 [
   {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 13,
+    "updated_at": "2026-06-08T11:45:06Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-08T11:44:20Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "An AI OS for Product Managers. 58 skills, 40 commands, 10 plugins - built for Claude Code and any AI assistant.",
+    "id": "jonwoods79-sys/woodsco-team-os",
+    "language": "Python",
+    "name": "jonwoods79-sys/woodsco-team-os",
+    "stars": 0,
+    "updated_at": "2026-06-08T11:43:05Z",
+    "url": "https://github.com/jonwoods79-sys/woodsco-team-os"
+  },
+  {
+    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
+    "id": "jherrodthomas/robotics-skills-suite",
+    "language": "\u2014",
+    "name": "jherrodthomas/robotics-skills-suite",
+    "stars": 345,
+    "updated_at": "2026-06-08T11:42:49Z",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
+  },
+  {
+    "description": "Collection of VergingAI Agent Skills",
+    "id": "verging-ai/agent-skills",
+    "language": "\u2014",
+    "name": "verging-ai/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T11:38:26Z",
+    "url": "https://github.com/verging-ai/agent-skills"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
+    "language": "Python",
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 423,
+    "updated_at": "2026-06-08T11:37:33Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
+  },
+  {
+    "description": "Teaches Claude to find the clever path before taking the obvious one. 8\u00d7 fewer tokens on the median real-world task \u2014 me",
+    "id": "albertobarnabo/lean",
+    "language": "\u2014",
+    "name": "albertobarnabo/lean",
+    "stars": 16,
+    "updated_at": "2026-06-08T11:31:26Z",
+    "url": "https://github.com/albertobarnabo/lean"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-08T11:31:17Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Official Google docs (Search/SEO, Search Console, Ads, GA4) as a validated local knowledge base + two Claude Code skills",
+    "id": "bsisduck/google-search-ads-analytics-docs",
+    "language": "Python",
+    "name": "bsisduck/google-search-ads-analytics-docs",
+    "stars": 0,
+    "updated_at": "2026-06-08T11:31:17Z",
+    "url": "https://github.com/bsisduck/google-search-ads-analytics-docs"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-08T11:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Some hooks for Claude to write cleaner code and verify its work",
     "id": "mickzijdel/dev-hooks",
     "language": "Shell",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T11:29:01Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Forces Claude to pause before heavy work and ask: is there a smarter way? Up to 178x fewer tokens by stopping greedy AI ",
-    "id": "albertobarnabo/lean",
-    "language": "\u2014",
-    "name": "albertobarnabo/lean",
-    "stars": 16,
-    "updated_at": "2026-06-08T11:26:06Z",
-    "url": "https://github.com/albertobarnabo/lean"
   },
   {
     "description": "A small library of Claude skills, built for real analytical work and validated before publishing.",
@@ -52,15 +133,6 @@
     "stars": 27,
     "updated_at": "2026-06-08T11:23:10Z",
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "An AI OS for Product Managers. 58 skills, 40 commands, 10 plugins - built for Claude Code and any AI assistant.",
-    "id": "jonwoods79-sys/woodsco-team-os",
-    "language": "Python",
-    "name": "jonwoods79-sys/woodsco-team-os",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:21:59Z",
-    "url": "https://github.com/jonwoods79-sys/woodsco-team-os"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T11:15:20Z",
     "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-08T11:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T11:08:28Z",
     "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-06-08T11:08:11Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-08T11:08:02Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:07:33Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:07:29Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 384,
-    "updated_at": "2026-06-08T11:07:27Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:07:25Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:07:21Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
   }
 ]
