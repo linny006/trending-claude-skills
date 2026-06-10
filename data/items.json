@@ -1,5 +1,77 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-10T18:52:23Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Get parallel multi-agent coding on $40/month in subscriptions instead of $200/month in API tokens.",
+    "id": "zywkloo/wtcraft",
+    "language": "Shell",
+    "name": "zywkloo/wtcraft",
+    "stars": 3,
+    "updated_at": "2026-06-10T18:56:30Z",
+    "url": "https://github.com/zywkloo/wtcraft"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-10T18:48:07Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-10T18:46:43Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
+    "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
+    "language": "JavaScript",
+    "name": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
+    "stars": 0,
+    "updated_at": "2026-06-10T18:46:29Z",
+    "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
+  },
+  {
+    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
+    "id": "Videoa7917/ClaudeSec",
+    "language": "\u2014",
+    "name": "Videoa7917/ClaudeSec",
+    "stars": 0,
+    "updated_at": "2026-06-10T18:45:56Z",
+    "url": "https://github.com/Videoa7917/ClaudeSec"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-10T18:45:28Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Generate personalized real-life side quests to build skills and foster connections with this Claude-powered quest archit",
+    "id": "Glamourous-mammalia359/quest-drop",
+    "language": "\u2014",
+    "name": "Glamourous-mammalia359/quest-drop",
+    "stars": 0,
+    "updated_at": "2026-06-10T18:45:12Z",
+    "url": "https://github.com/Glamourous-mammalia359/quest-drop"
+  },
+  {
     "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
     "id": "Daybreakbluepeter503/advise-project-approach",
     "language": "Python",
@@ -7,6 +79,24 @@
     "stars": 0,
     "updated_at": "2026-06-10T18:45:11Z",
     "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
+  },
+  {
+    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
+    "id": "prasti8527/legal-ai-skills",
+    "language": "Python",
+    "name": "prasti8527/legal-ai-skills",
+    "stars": 1,
+    "updated_at": "2026-06-10T18:45:08Z",
+    "url": "https://github.com/prasti8527/legal-ai-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16215,
+    "updated_at": "2026-06-10T18:43:31Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Automate Salesforce RevOps system tasks like pipeline audits, forecast reconciliation, and deal pressure testing using e",
@@ -32,7 +122,7 @@
     "language": "TypeScript",
     "name": "project-nomos/nomos",
     "stars": 22,
-    "updated_at": "2026-06-10T18:42:48Z",
+    "updated_at": "2026-06-10T18:59:38Z",
     "url": "https://github.com/project-nomos/nomos"
   },
   {
@@ -169,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T18:36:42Z",
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-10T18:36:42Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T18:31:36Z",
     "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:31:29Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-10T18:31:19Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:31:10Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Transform public expressions and interpersonal insights into a standardized modular skill set for cross-platform applica",
-    "id": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "language": "\u2014",
-    "name": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:31:02Z",
-    "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
-  },
-  {
-    "description": "Retry OpenCode model requests using exponential backoff and jitter to handle rate limits without switching models.",
-    "id": "notmay666-code/opencode-rate-limit-retry",
-    "language": "TypeScript",
-    "name": "notmay666-code/opencode-rate-limit-retry",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:30:35Z",
-    "url": "https://github.com/notmay666-code/opencode-rate-limit-retry"
-  },
-  {
-    "description": "Integrate Claude with Obsidian to build a persistent, searchable knowledge vault that automatically connects your notes ",
-    "id": "unresentful-barbeque695/claude-obsidian",
-    "language": "\u2014",
-    "name": "unresentful-barbeque695/claude-obsidian",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:30:30Z",
-    "url": "https://github.com/unresentful-barbeque695/claude-obsidian"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:30:24Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Build high-quality Jamdesk documentation faster with this Claude Code plugin that provides AI with deep knowledge of com",
-    "id": "Willettedivided5004/jamdesk-claude-plugin",
-    "language": "\u2014",
-    "name": "Willettedivided5004/jamdesk-claude-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:30:23Z",
-    "url": "https://github.com/Willettedivided5004/jamdesk-claude-plugin"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-10T18:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   }
 ]
