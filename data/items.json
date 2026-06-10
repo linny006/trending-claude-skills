@@ -1,10 +1,64 @@
 [
   {
+    "description": "\ud83d\ude80 Enable AI assistants to access PostgreSQL databases seamlessly with specialized tools and advanced features using the ",
+    "id": "antonygold59/postgresql-mcp",
+    "language": "TypeScript",
+    "name": "antonygold59/postgresql-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:23:58Z",
+    "url": "https://github.com/antonygold59/postgresql-mcp"
+  },
+  {
+    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
+    "id": "txw842lkj-cmd/silicon-circle-skill",
+    "language": "\u2014",
+    "name": "txw842lkj-cmd/silicon-circle-skill",
+    "stars": 1,
+    "updated_at": "2026-06-10T16:23:34Z",
+    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:18:38Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Your AI agent skill doctor - 5-dimension scoring + security gate + leaderboard",
+    "id": "huajielong/skill-evaluator",
+    "language": "Shell",
+    "name": "huajielong/skill-evaluator",
+    "stars": 4,
+    "updated_at": "2026-06-10T16:18:13Z",
+    "url": "https://github.com/huajielong/skill-evaluator"
+  },
+  {
+    "description": "Generate and maintain Claude skills from a SaaS vendor's own API signals \u2014 OpenAPI, GraphQL, llms.txt, docs, MCP catalog",
+    "id": "Firmislabs/skillship",
+    "language": "TypeScript",
+    "name": "Firmislabs/skillship",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:16:45Z",
+    "url": "https://github.com/Firmislabs/skillship"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-10T16:15:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory ",
     "id": "nidhinjs/prompt-master",
     "language": "\u2014",
     "name": "nidhinjs/prompt-master",
-    "stars": 9069,
+    "stars": 9070,
     "updated_at": "2026-06-10T16:14:44Z",
     "url": "https://github.com/nidhinjs/prompt-master"
   },
@@ -27,6 +81,15 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
+    "description": "\ud83d\udea2  Spawn any vendor LLM \u2014 DeepSeek \u00b7 GLM \u00b7 Qwen \u00b7 Kimi \u00b7 MiniMax \u2026 \u2014 as real Claude Code teammates or \u26a1 one-shot subagen",
+    "id": "ethanhq/cc-fleet",
+    "language": "Go",
+    "name": "ethanhq/cc-fleet",
+    "stars": 127,
+    "updated_at": "2026-06-10T16:19:32Z",
+    "url": "https://github.com/ethanhq/cc-fleet"
+  },
+  {
     "description": "Claude Code skill \u5957\u4ef6\uff1a\u6a21\u7cca\u8bf7\u6c42\u2192\u610f\u56fe\u6316\u6398(IR)\u2192\u6309\u4f53\u88c1\u7f16\u8bd1 prompt(\u516d\u5927\u9aa8\u67b6\u53cd\u540c\u8d28\u5316)\u2192\u591a\u5019\u9009\u00d7\u5224\u522b\u5668\u8bc4\u5206\u2192HTML \u7ed3\u679c\u9875\u3002\u8986\u76d6\u6587\u5b57/\u6587\u751f\u56fe/\u6587\u751f\u89c6\u9891",
     "id": "Cy4nLiang/prompt-architect",
     "language": "Python",
@@ -36,15 +99,6 @@
     "url": "https://github.com/Cy4nLiang/prompt-architect"
   },
   {
-    "description": "\ud83d\udea2  Spawn any vendor LLM \u2014 DeepSeek \u00b7 GLM \u00b7 Qwen \u00b7 Kimi \u00b7 MiniMax \u2026 \u2014 as real Claude Code teammates or \u26a1 one-shot subagen",
-    "id": "ethanhq/cc-fleet",
-    "language": "Go",
-    "name": "ethanhq/cc-fleet",
-    "stars": 127,
-    "updated_at": "2026-06-10T16:10:12Z",
-    "url": "https://github.com/ethanhq/cc-fleet"
-  },
-  {
     "description": "\ud83d\ude80 Enhance your Tuist development with Claude plugins, providing tailored knowledge and tools for streamlined workflows i",
     "id": "Asix120403/claude-marketplace",
     "language": "\u2014",
@@ -52,6 +106,15 @@
     "stars": 2,
     "updated_at": "2026-06-10T16:09:59Z",
     "url": "https://github.com/Asix120403/claude-marketplace"
+  },
+  {
+    "description": "\ud83d\ude80 Monitor your Claude Code sessions effortlessly on macOS with real-time status updates and quick access features for a ",
+    "id": "zenithpd/agent-sessions",
+    "language": "Rust",
+    "name": "zenithpd/agent-sessions",
+    "stars": 5,
+    "updated_at": "2026-06-10T16:09:10Z",
+    "url": "https://github.com/zenithpd/agent-sessions"
   },
   {
     "description": "\u53f0\u5317\u5e02 SITI \u7522\u696d\u767c\u5c55\u734e\u52f5\u88dc\u52a9\u7533\u8acb\u5de5\u5177 \u2014 Claude Code Skill",
@@ -81,15 +144,6 @@
     "url": "https://github.com/01789692905/cc-frontend-skills"
   },
   {
-    "description": "Your AI agent skill doctor - 5-dimension scoring + security gate + leaderboard",
-    "id": "huajielong/skill-evaluator",
-    "language": "Shell",
-    "name": "huajielong/skill-evaluator",
-    "stars": 4,
-    "updated_at": "2026-06-10T16:01:33Z",
-    "url": "https://github.com/huajielong/skill-evaluator"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T16:00:26Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-10T16:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Ten practical AI-agent skills for turning messy work into clear context, evals, reviews, and launch-ready artifacts.",
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T15:59:23Z",
     "url": "https://github.com/OpenLatch/saferskills"
-  },
-  {
-    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
-    "id": "txw842lkj-cmd/silicon-circle-skill",
-    "language": "\u2014",
-    "name": "txw842lkj-cmd/silicon-circle-skill",
-    "stars": 1,
-    "updated_at": "2026-06-10T15:57:53Z",
-    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
   },
   {
     "description": "Marketplace of plugins and skills for Claude Code \u2014 15 plugins, 190+ skills, and 14 agents covering code review, session",
@@ -256,7 +292,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61797,
+    "stars": 61798,
     "updated_at": "2026-06-10T15:39:11Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "spencermarx/open-code-review",
     "stars": 237,
-    "updated_at": "2026-06-10T15:45:28Z",
+    "updated_at": "2026-06-10T16:22:18Z",
     "url": "https://github.com/spencermarx/open-code-review"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Shell",
     "name": "testdouble/han",
     "stars": 78,
-    "updated_at": "2026-06-10T16:04:56Z",
+    "updated_at": "2026-06-10T16:16:38Z",
     "url": "https://github.com/testdouble/han"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T15:33:46Z",
     "url": "https://github.com/whobat/AI-Agent-skills"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-10T16:10:19Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Legal PPC Skill",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T15:18:45Z",
     "url": "https://github.com/Pranjay-kumar/universal-data-acquisition-pipeline-skill"
-  },
-  {
-    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
-    "id": "Chili-Piper/mcp-assets",
-    "language": "\u2014",
-    "name": "Chili-Piper/mcp-assets",
-    "stars": 6,
-    "updated_at": "2026-06-10T15:17:32Z",
-    "url": "https://github.com/Chili-Piper/mcp-assets"
-  },
-  {
-    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
-    "id": "yinjialu/ai-frontier-daily",
-    "language": "Python",
-    "name": "yinjialu/ai-frontier-daily",
-    "stars": 0,
-    "updated_at": "2026-06-10T15:15:48Z",
-    "url": "https://github.com/yinjialu/ai-frontier-daily"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-10T15:13:17Z",
-    "url": "https://github.com/gaia-react/gaia"
   }
 ]
