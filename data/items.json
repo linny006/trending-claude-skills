@@ -1,5 +1,77 @@
 [
   {
+    "description": "Provide ready-to-use GitHub Agentic Workflow templates to automate issue triage, PR review, and release note generation ",
+    "id": "Ltelitas/awesome-agentic-workflows",
+    "language": "\u2014",
+    "name": "Ltelitas/awesome-agentic-workflows",
+    "stars": 1,
+    "updated_at": "2026-06-10T08:59:51Z",
+    "url": "https://github.com/Ltelitas/awesome-agentic-workflows"
+  },
+  {
+    "description": "Generate clear, structured research pipeline flowcharts from paper summaries using automatic TikZ code creation and comp",
+    "id": "JasonYozza14/Skill-Research-Figure",
+    "language": "\u2014",
+    "name": "JasonYozza14/Skill-Research-Figure",
+    "stars": 0,
+    "updated_at": "2026-06-10T08:59:46Z",
+    "url": "https://github.com/JasonYozza14/Skill-Research-Figure"
+  },
+  {
+    "description": "SEO & GEO skills for Claude Code, built with Claude Mythos 5. Rank in Google AND in LLMs (ChatGPT, Perplexity, Gemini): ",
+    "id": "Thibaultbm/claude-seo-geo",
+    "language": "Python",
+    "name": "Thibaultbm/claude-seo-geo",
+    "stars": 0,
+    "updated_at": "2026-06-10T08:59:33Z",
+    "url": "https://github.com/Thibaultbm/claude-seo-geo"
+  },
+  {
+    "description": "Manage and switch OpenClaw AI agent presets, including personalities, toolsets, and model configurations, via a simple C",
+    "id": "fathanghani864/oh-my-openclaw",
+    "language": "TypeScript",
+    "name": "fathanghani864/oh-my-openclaw",
+    "stars": 0,
+    "updated_at": "2026-06-10T08:59:05Z",
+    "url": "https://github.com/fathanghani864/oh-my-openclaw"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-06-10T08:58:59Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "A lightweight MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI - saving context window and t",
+    "id": "rauls-kjarners/claude-to-agy",
+    "language": "Python",
+    "name": "rauls-kjarners/claude-to-agy",
+    "stars": 7,
+    "updated_at": "2026-06-10T08:58:40Z",
+    "url": "https://github.com/rauls-kjarners/claude-to-agy"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-10T08:58:38Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Perform comprehensive security audits of web apps using OWASP Top 10 checks, automated dependency scans, and detailed vu",
+    "id": "RiturajMitra/claude-security-audit",
+    "language": "\u2014",
+    "name": "RiturajMitra/claude-security-audit",
+    "stars": 0,
+    "updated_at": "2026-06-10T08:58:33Z",
+    "url": "https://github.com/RiturajMitra/claude-security-audit"
+  },
+  {
     "description": "Provide curated Anthropic-format skills for AI agents focused on robotics software, including practical patterns, code e",
     "id": "vicky23383/robotics-agent-skills",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-10T08:47:11Z",
     "url": "https://github.com/wewpellex21/code-sensei"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline academic workflows by automating LaTeX, R, and Quarto tasks with Claude Code for efficient slide and script",
-    "id": "moemoe1230/claude-code-my-workflow",
-    "language": "HTML",
-    "name": "moemoe1230/claude-code-my-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-10T08:47:04Z",
-    "url": "https://github.com/moemoe1230/claude-code-my-workflow"
-  },
-  {
-    "description": "\u2699\ufe0f Manage and sync AI coding assistant skills across multiple platforms to streamline development with Claude Code, Code",
-    "id": "fengaiyunzi/Skills-Manager",
-    "language": "\u2014",
-    "name": "fengaiyunzi/Skills-Manager",
-    "stars": 2,
-    "updated_at": "2026-06-10T08:46:54Z",
-    "url": "https://github.com/fengaiyunzi/Skills-Manager"
-  },
-  {
-    "description": "\ud83d\udd0d Discover user pain points on social media with AI-driven clustering and analysis for targeted business opportunities a",
-    "id": "zykooooooooo/SeekMoney-ai",
-    "language": "TypeScript",
-    "name": "zykooooooooo/SeekMoney-ai",
-    "stars": 2,
-    "updated_at": "2026-06-10T08:46:40Z",
-    "url": "https://github.com/zykooooooooo/SeekMoney-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Enable seamless multi-agent development with Claude Code using skills, agents, hooks, and orchestration scripts in one",
-    "id": "kenzoprime/claude-pipeline",
-    "language": "\u2014",
-    "name": "kenzoprime/claude-pipeline",
-    "stars": 1,
-    "updated_at": "2026-06-10T08:46:38Z",
-    "url": "https://github.com/kenzoprime/claude-pipeline"
-  },
-  {
-    "description": "\u2728 Build and manage a personal library of AI coding assistant skills for tools like Copilot, Claude Code, and more.",
-    "id": "Melon4Program/ai-skills",
-    "language": "\u2014",
-    "name": "Melon4Program/ai-skills",
-    "stars": 4,
-    "updated_at": "2026-06-10T08:46:34Z",
-    "url": "https://github.com/Melon4Program/ai-skills"
-  },
-  {
-    "description": "Brand-pluggable design system for Coding Assistans (Claude Code, Gemini CLI, CoPilot CLI) - turn prompts or markdown int",
-    "id": "marsmike/feinschliff",
-    "language": "Python",
-    "name": "marsmike/feinschliff",
-    "stars": 3,
-    "updated_at": "2026-06-10T08:46:29Z",
-    "url": "https://github.com/marsmike/feinschliff"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-10T08:46:25Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 Enable seamless remote access to Agent Skills with a secure proxy server that supports skill discovery, execution, and",
-    "id": "kazhuki7/agentskills-proxy",
-    "language": "TypeScript",
-    "name": "kazhuki7/agentskills-proxy",
-    "stars": 0,
-    "updated_at": "2026-06-10T08:46:03Z",
-    "url": "https://github.com/kazhuki7/agentskills-proxy"
   }
 ]
