@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open registry of community-contributed AI coding skills (SKILL.md files) \u2014 daily-synced to skills-hub.ai. Install across",
+    "id": "tinh2/skills-hub-registry",
+    "language": "Python",
+    "name": "tinh2/skills-hub-registry",
+    "stars": 5,
+    "updated_at": "2026-06-10T15:23:15Z",
+    "url": "https://github.com/tinh2/skills-hub-registry"
+  },
+  {
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 139,
+    "updated_at": "2026-06-10T15:22:18Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Awesome Skills from Around the World",
+    "id": "AbsolutelySkilled/AbsolutelySkilled",
+    "language": "MDX",
+    "name": "AbsolutelySkilled/AbsolutelySkilled",
+    "stars": 179,
+    "updated_at": "2026-06-10T15:21:50Z",
+    "url": "https://github.com/AbsolutelySkilled/AbsolutelySkilled"
+  },
+  {
+    "description": "Ten practical AI-agent skills for turning messy work into clear context, evals, reviews, and launch-ready artifacts.",
+    "id": "alexzhu0/agent-ready-skills",
+    "language": "Python",
+    "name": "alexzhu0/agent-ready-skills",
+    "stars": 0,
+    "updated_at": "2026-06-10T15:21:27Z",
+    "url": "https://github.com/alexzhu0/agent-ready-skills"
+  },
+  {
+    "description": "InferSports Agent Skill \u2014 live Asian-priced football & basketball odds + scores. Read-only, keyless. Claude Code / Codex",
+    "id": "infersports/infersports-skill",
+    "language": "Shell",
+    "name": "infersports/infersports-skill",
+    "stars": 41,
+    "updated_at": "2026-06-10T15:21:19Z",
+    "url": "https://github.com/infersports/infersports-skill"
+  },
+  {
+    "description": "Codex/Claude skill for designing robust scraping, API, Playwright, and authorized data acquisition pipelines",
+    "id": "Pranjay-kumar/universal-data-acquisition-pipeline-skill",
+    "language": "JavaScript",
+    "name": "Pranjay-kumar/universal-data-acquisition-pipeline-skill",
+    "stars": 0,
+    "updated_at": "2026-06-10T15:18:45Z",
+    "url": "https://github.com/Pranjay-kumar/universal-data-acquisition-pipeline-skill"
+  },
+  {
+    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
+    "id": "Chili-Piper/mcp-assets",
+    "language": "\u2014",
+    "name": "Chili-Piper/mcp-assets",
+    "stars": 6,
+    "updated_at": "2026-06-10T15:17:32Z",
+    "url": "https://github.com/Chili-Piper/mcp-assets"
+  },
+  {
+    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
+    "id": "yinjialu/ai-frontier-daily",
+    "language": "Python",
+    "name": "yinjialu/ai-frontier-daily",
+    "stars": 0,
+    "updated_at": "2026-06-10T15:15:48Z",
+    "url": "https://github.com/yinjialu/ai-frontier-daily"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-10T15:15:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-10T15:13:17Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod",
+    "id": "timescale/pg-aiguide",
+    "language": "Python",
+    "name": "timescale/pg-aiguide",
+    "stars": 1760,
+    "updated_at": "2026-06-10T15:10:07Z",
+    "url": "https://github.com/timescale/pg-aiguide"
+  },
+  {
     "description": "\u53f0\u5317\u5e02 SITI \u7522\u696d\u767c\u5c55\u734e\u52f5\u88dc\u52a9\u7533\u8acb\u5de5\u5177 \u2014 Claude Code Skill",
     "id": "hunthung-code/siti-grants",
     "language": "Python",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "ssurmic/claude-investment-skills",
     "stars": 2,
-    "updated_at": "2026-06-10T15:05:02Z",
+    "updated_at": "2026-06-10T15:29:37Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
@@ -79,15 +178,6 @@
     "stars": 15,
     "updated_at": "2026-06-10T15:01:40Z",
     "url": "https://github.com/ngocsangyem/MeowKit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-10T15:00:26Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -139,7 +229,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61792,
+    "stars": 61791,
     "updated_at": "2026-06-10T14:53:56Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -160,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T14:52:57Z",
     "url": "https://github.com/JeffBrines/openfpa"
-  },
-  {
-    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 139,
-    "updated_at": "2026-06-10T14:50:43Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
@@ -221,7 +302,7 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 387,
-    "updated_at": "2026-06-10T14:38:18Z",
+    "updated_at": "2026-06-10T15:29:53Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -256,7 +337,7 @@
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 17715,
+    "stars": 17716,
     "updated_at": "2026-06-10T14:33:32Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -329,17 +410,8 @@
     "language": "Shell",
     "name": "testdouble/han",
     "stars": 78,
-    "updated_at": "2026-06-10T15:03:08Z",
+    "updated_at": "2026-06-10T15:19:51Z",
     "url": "https://github.com/testdouble/han"
-  },
-  {
-    "description": "Awesome Skills from Around the World",
-    "id": "AbsolutelySkilled/AbsolutelySkilled",
-    "language": "MDX",
-    "name": "AbsolutelySkilled/AbsolutelySkilled",
-    "stars": 179,
-    "updated_at": "2026-06-10T14:27:19Z",
-    "url": "https://github.com/AbsolutelySkilled/AbsolutelySkilled"
   },
   {
     "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T14:24:45Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:23:36Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:22:29Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "InferSports Agent Skill \u2014 live Asian-priced football & basketball odds + scores. Read-only, keyless. Claude Code / Codex",
-    "id": "infersports/infersports-skill",
-    "language": "Shell",
-    "name": "infersports/infersports-skill",
-    "stars": 41,
-    "updated_at": "2026-06-10T14:21:36Z",
-    "url": "https://github.com/infersports/infersports-skill"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:19:48Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16212,
-    "updated_at": "2026-06-10T14:19:20Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "AI software team for Claude Code - 138 agents, 295 skills, 73 hooks. Self-learning, multi-agent swarm, autonomous skill ",
-    "id": "vibeeval/vibecosystem",
-    "language": "C#",
-    "name": "vibeeval/vibecosystem",
-    "stars": 500,
-    "updated_at": "2026-06-10T14:17:14Z",
-    "url": "https://github.com/vibeeval/vibecosystem"
-  },
-  {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
-    "id": "kurone-kito/idd-skill",
-    "language": "JavaScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 2,
-    "updated_at": "2026-06-10T14:16:17Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
-    "id": "Scorpio-1111/OmicsAgent-Skills",
-    "language": "HTML",
-    "name": "Scorpio-1111/OmicsAgent-Skills",
-    "stars": 1,
-    "updated_at": "2026-06-10T14:15:35Z",
-    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
   }
 ]
