@@ -1,12 +1,111 @@
 [
   {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 10,
+    "updated_at": "2026-06-10T14:12:21Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 78,
+    "updated_at": "2026-06-10T14:11:51Z",
+    "url": "https://github.com/testdouble/han"
+  },
+  {
+    "description": "Production ready. AI Agent Workflow System for Claude Code",
+    "id": "ngocsangyem/MeowKit",
+    "language": "TypeScript",
+    "name": "ngocsangyem/MeowKit",
+    "stars": 15,
+    "updated_at": "2026-06-10T14:10:06Z",
+    "url": "https://github.com/ngocsangyem/MeowKit"
+  },
+  {
+    "description": "Reusable Claude Code skills, agents, hooks, and commands",
+    "id": "KhaledSaeed18/dotclaude",
+    "language": "TypeScript",
+    "name": "KhaledSaeed18/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:09:16Z",
+    "url": "https://github.com/KhaledSaeed18/dotclaude"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-10T14:13:21Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 16210,
-    "updated_at": "2026-06-10T13:59:21Z",
+    "updated_at": "2026-06-10T14:12:39Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "TeamCity from your terminal \u2013 or your AI's. Builds, logs, agents, agent terminals, queues.",
+    "id": "JetBrains/teamcity-cli",
+    "language": "Go",
+    "name": "JetBrains/teamcity-cli",
+    "stars": 101,
+    "updated_at": "2026-06-10T14:15:03Z",
+    "url": "https://github.com/JetBrains/teamcity-cli"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 387,
+    "updated_at": "2026-06-10T14:06:24Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "AI + developer co-system protocol grounded in common sense, scientific method, and Nash-equilibrium cooperation.",
+    "id": "AlexShchuka/neuro-matrix",
+    "language": "Python",
+    "name": "AlexShchuka/neuro-matrix",
+    "stars": 3,
+    "updated_at": "2026-06-10T14:04:22Z",
+    "url": "https://github.com/AlexShchuka/neuro-matrix"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 2,
+    "updated_at": "2026-06-10T14:04:19Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 849,
+    "updated_at": "2026-06-10T14:15:15Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-10T14:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Turn AI agents into team SMEs. Kluris builds a shared, human-curated knowledge brain (decisions, constraints, incidents,",
@@ -45,13 +144,13 @@
     "url": "https://github.com/WangLiquan/specforge"
   },
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-10T13:54:37Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61784,
+    "updated_at": "2026-06-10T14:08:39Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -90,15 +189,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "AI + developer co-system protocol grounded in common sense, scientific method, and Nash-equilibrium cooperation.",
-    "id": "AlexShchuka/neuro-matrix",
-    "language": "Python",
-    "name": "AlexShchuka/neuro-matrix",
-    "stars": 3,
-    "updated_at": "2026-06-10T13:50:27Z",
-    "url": "https://github.com/AlexShchuka/neuro-matrix"
-  },
-  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -106,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T13:50:08Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
-    "id": "testdouble/han",
-    "language": "Shell",
-    "name": "testdouble/han",
-    "stars": 78,
-    "updated_at": "2026-06-10T13:47:23Z",
-    "url": "https://github.com/testdouble/han"
   },
   {
     "description": "Single source of truth for AI coding agent configuration \u2014 skills, commands and rules shared across OpenCode and Pi.",
@@ -126,13 +207,13 @@
     "url": "https://github.com/jjmartres/ai-coding-agents"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-10T13:45:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "alirezarezvani/claude-skills",
+    "stars": 17711,
+    "updated_at": "2026-06-10T13:46:48Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
     "description": "183 evaluated academic Claude/agent skills across 13 research domains \u2014 bioinformatics, cheminformatics, data science, d",
@@ -162,40 +243,13 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61782,
-    "updated_at": "2026-06-10T13:54:28Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
     "id": "anmolnagpal/devops-skills",
     "language": "Shell",
     "name": "anmolnagpal/devops-skills",
     "stars": 5,
-    "updated_at": "2026-06-10T13:56:10Z",
+    "updated_at": "2026-06-10T14:09:56Z",
     "url": "https://github.com/anmolnagpal/devops-skills"
-  },
-  {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 10,
-    "updated_at": "2026-06-10T13:59:32Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 2,
-    "updated_at": "2026-06-10T13:56:44Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "Your frontier model is the star - stop making it do the stunts. Claude Code skill that routes every task to the cheapest",
@@ -212,7 +266,7 @@
     "language": "JavaScript",
     "name": "kurone-kito/idd-skill",
     "stars": 2,
-    "updated_at": "2026-06-10T13:57:38Z",
+    "updated_at": "2026-06-10T14:07:59Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -302,7 +356,7 @@
     "language": "Python",
     "name": "lklimek/claudius",
     "stars": 1,
-    "updated_at": "2026-06-10T13:51:52Z",
+    "updated_at": "2026-06-10T14:11:13Z",
     "url": "https://github.com/lklimek/claudius"
   },
   {
@@ -311,7 +365,7 @@
     "language": "\u2014",
     "name": "beau-education/beau-plugin",
     "stars": 1,
-    "updated_at": "2026-06-10T12:59:27Z",
+    "updated_at": "2026-06-10T14:12:45Z",
     "url": "https://github.com/beau-education/beau-plugin"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:45:46Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-10T12:45:30Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Kill Ports Fast 2026 - Best Free kkp CLI Tool for Process Management",
-    "id": "Ishanshah09/port-killer-swiftly",
-    "language": "HTML",
-    "name": "Ishanshah09/port-killer-swiftly",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:44:47Z",
-    "url": "https://github.com/Ishanshah09/port-killer-swiftly"
-  },
-  {
-    "description": "Enterprise frontend team Claude Code plugin \u2014 production-ready hooks for code review, security review, performance optim",
-    "id": "bovinphang/frontend-craft",
-    "language": "TypeScript",
-    "name": "bovinphang/frontend-craft",
-    "stars": 15,
-    "updated_at": "2026-06-10T12:50:06Z",
-    "url": "https://github.com/bovinphang/frontend-craft"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:42:33Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6008,
-    "updated_at": "2026-06-10T12:34:48Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
-    "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "language": "JavaScript",
-    "name": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:33:36Z",
-    "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
   }
 ]
