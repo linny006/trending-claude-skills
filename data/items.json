@@ -1,12 +1,120 @@
 [
   {
+    "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
+    "id": "anmolnagpal/devops-skills",
+    "language": "Shell",
+    "name": "anmolnagpal/devops-skills",
+    "stars": 5,
+    "updated_at": "2026-06-10T21:15:06Z",
+    "url": "https://github.com/anmolnagpal/devops-skills"
+  },
+  {
+    "description": "Curated AI Agent Profiles for Claude Code, Codex, Cursor and more \u2014 install with forgecat CLI",
+    "id": "nota-america/forgecat-agent-profiles",
+    "language": "TypeScript",
+    "name": "nota-america/forgecat-agent-profiles",
+    "stars": 2,
+    "updated_at": "2026-06-10T21:13:17Z",
+    "url": "https://github.com/nota-america/forgecat-agent-profiles"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-10T21:13:02Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A Claude Code skill that gives AI assistants instant access to the complete SCS Software Modding Wiki \u2014 Documentation mi",
+    "id": "MBCustoms/scs-modding-wiki-skill",
+    "language": "PowerShell",
+    "name": "MBCustoms/scs-modding-wiki-skill",
+    "stars": 0,
+    "updated_at": "2026-06-10T21:12:18Z",
+    "url": "https://github.com/MBCustoms/scs-modding-wiki-skill"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-10T21:10:28Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 45,
+    "updated_at": "2026-06-10T21:07:42Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-06-10T21:05:30Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-06-10T21:04:07Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 64,
+    "updated_at": "2026-06-10T21:05:15Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Marketplace of plugins and skills for Claude Code \u2014 15 plugins, 190+ skills, and 14 agents covering code review, session",
+    "id": "RadOrigin-LLC/RAD-Claude-Skills",
+    "language": "Python",
+    "name": "RadOrigin-LLC/RAD-Claude-Skills",
+    "stars": 3,
+    "updated_at": "2026-06-10T21:02:13Z",
+    "url": "https://github.com/RadOrigin-LLC/RAD-Claude-Skills"
+  },
+  {
     "description": "A small library of Claude skills, built for real analytical work and validated before publishing.",
     "id": "viktor-milev/claude-skills",
     "language": "\u2014",
     "name": "viktor-milev/claude-skills",
     "stars": 0,
-    "updated_at": "2026-06-10T20:59:44Z",
+    "updated_at": "2026-06-10T21:00:32Z",
     "url": "https://github.com/viktor-milev/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-10T21:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 sdd (spec-driven dev) and gh (GitHub workflow) plugins",
+    "id": "kborovik/pilot-skills",
+    "language": "Python",
+    "name": "kborovik/pilot-skills",
+    "stars": 4,
+    "updated_at": "2026-06-10T21:00:15Z",
+    "url": "https://github.com/kborovik/pilot-skills"
   },
   {
     "description": "SEO/GEO/AEO skill for AI coding agents (2026)",
@@ -81,15 +189,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-10T20:45:27Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
     "id": "samuel85194-ux/tycana-claude-hivemind",
     "language": "HTML",
@@ -160,15 +259,6 @@
     "stars": 19,
     "updated_at": "2026-06-10T20:33:55Z",
     "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "Marketplace of plugins and skills for Claude Code \u2014 15 plugins, 190+ skills, and 14 agents covering code review, session",
-    "id": "RadOrigin-LLC/RAD-Claude-Skills",
-    "language": "Python",
-    "name": "RadOrigin-LLC/RAD-Claude-Skills",
-    "stars": 3,
-    "updated_at": "2026-06-10T20:33:37Z",
-    "url": "https://github.com/RadOrigin-LLC/RAD-Claude-Skills"
   },
   {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
@@ -252,15 +342,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Curated AI Agent Profiles for Claude Code, Codex, Cursor and more \u2014 install with forgecat CLI",
-    "id": "nota-america/forgecat-agent-profiles",
-    "language": "TypeScript",
-    "name": "nota-america/forgecat-agent-profiles",
-    "stars": 2,
-    "updated_at": "2026-06-10T20:52:08Z",
-    "url": "https://github.com/nota-america/forgecat-agent-profiles"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -268,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T20:11:57Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-10T20:09:20Z",
-    "url": "https://github.com/apresmoi/jianglens"
   },
   {
     "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
@@ -319,7 +391,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 29792,
+    "stars": 29794,
     "updated_at": "2026-06-10T20:02:30Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T19:51:44Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "A family of branded-media plugins for Claude Code \u2014 decks, images & 2D, video, and audio, coupled by CLI capabilities (n",
-    "id": "marsmike/feinschmiede",
-    "language": "Python",
-    "name": "marsmike/feinschmiede",
-    "stars": 3,
-    "updated_at": "2026-06-10T19:51:03Z",
-    "url": "https://github.com/marsmike/feinschmiede"
-  },
-  {
-    "description": "Free agent skills for Claude Code and SKILL.md agents. Add with: /plugin marketplace add justhandledlabs/skills. Eleven ",
-    "id": "justhandledlabs/skills",
-    "language": "Python",
-    "name": "justhandledlabs/skills",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:50:06Z",
-    "url": "https://github.com/justhandledlabs/skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 sdd (spec-driven dev) and gh (GitHub workflow) plugins",
-    "id": "kborovik/pilot-skills",
-    "language": "Python",
-    "name": "kborovik/pilot-skills",
-    "stars": 4,
-    "updated_at": "2026-06-10T21:00:12Z",
-    "url": "https://github.com/kborovik/pilot-skills"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:42:10Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:41:55Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:41:15Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Open-source Agent Skill for Claude Code that makes Claude reason with explicit probabilities, base rates, and falsifiers",
-    "id": "Johna2an/critical-thinking",
-    "language": "HTML",
-    "name": "Johna2an/critical-thinking",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:40:09Z",
-    "url": "https://github.com/Johna2an/critical-thinking"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:39:42Z",
-    "url": "https://github.com/JBSag/pm-artisan"
   }
 ]
