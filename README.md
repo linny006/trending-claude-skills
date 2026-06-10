@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-10 19:14 UTC
+> ⏰ Last updated: 2026-06-10 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Norma-Vault/recall-quiz](https://github.com/Norma-Vault/recall-quiz) | 0 | — | 2026-06-10 | Agent Skill that quizzes you on its own answers — one multiple-choice question after each substantive reply, graded and  |
-| 2 | [Pranjay-kumar/universal-data-acquisition-pipeline-skill](https://github.com/Pranjay-kumar/universal-data-acquisition-pipeline-skill) | 0 | JavaScript | 2026-06-10 | Codex/Claude skill for designing robust scraping, API, Playwright, and authorized data acquisition pipelines |
-| 3 | [eljoujat/sapcc-skill](https://github.com/eljoujat/sapcc-skill) | 1 | JavaScript | 2026-06-10 | A skill that turns natural-language requests into Groovy scripts , FlexibleSearch queries and executes them live on a SA |
-| 4 | [ssurmic/claude-investment-skills](https://github.com/ssurmic/claude-investment-skills) | 2 | Python | 2026-06-10 | Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts |
-| 5 | [travsteward/openwriter](https://github.com/travsteward/openwriter) | 13 | TypeScript | 2026-06-10 | The open-source writing surface for AI agents. Markdown-native editor with pending change review — your agent writes, yo |
-| 6 | [Firmislabs/skillship](https://github.com/Firmislabs/skillship) | 0 | TypeScript | 2026-06-10 | Generate and maintain Claude skills from a SaaS vendor's own API signals — OpenAPI, GraphQL, llms.txt, docs, MCP catalog |
-| 7 | [rauls-kjarners/claude-to-agy](https://github.com/rauls-kjarners/claude-to-agy) | 7 | Python | 2026-06-10 | A lightweight MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI - saving context window and t |
-| 8 | [charliechenye/SkillGate](https://github.com/charliechenye/SkillGate) | 1 | Python | 2026-06-10 | Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang |
-| 9 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 15 | JavaScript | 2026-06-10 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 3 | Python | 2026-06-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 3 | Python | 2026-06-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [Norma-Vault/recall-quiz](https://github.com/Norma-Vault/recall-quiz) | 0 | — | 2026-06-10 | Agent Skill that quizzes you on its own answers — one multiple-choice question after each substantive reply, graded and  |
+| 3 | [Pranjay-kumar/universal-data-acquisition-pipeline-skill](https://github.com/Pranjay-kumar/universal-data-acquisition-pipeline-skill) | 0 | JavaScript | 2026-06-10 | Codex/Claude skill for designing robust scraping, API, Playwright, and authorized data acquisition pipelines |
+| 4 | [eljoujat/sapcc-skill](https://github.com/eljoujat/sapcc-skill) | 1 | JavaScript | 2026-06-10 | A skill that turns natural-language requests into Groovy scripts , FlexibleSearch queries and executes them live on a SA |
+| 5 | [ssurmic/claude-investment-skills](https://github.com/ssurmic/claude-investment-skills) | 2 | Python | 2026-06-10 | Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts |
+| 6 | [travsteward/openwriter](https://github.com/travsteward/openwriter) | 13 | TypeScript | 2026-06-10 | The open-source writing surface for AI agents. Markdown-native editor with pending change review — your agent writes, yo |
+| 7 | [Firmislabs/skillship](https://github.com/Firmislabs/skillship) | 0 | TypeScript | 2026-06-10 | Generate and maintain Claude skills from a SaaS vendor's own API signals — OpenAPI, GraphQL, llms.txt, docs, MCP catalog |
+| 8 | [rauls-kjarners/claude-to-agy](https://github.com/rauls-kjarners/claude-to-agy) | 7 | Python | 2026-06-10 | A lightweight MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI - saving context window and t |
+| 9 | [charliechenye/SkillGate](https://github.com/charliechenye/SkillGate) | 1 | Python | 2026-06-10 | Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang |
+| 10 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 15 | JavaScript | 2026-06-10 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
 | 11 | [project-nomos/nomos](https://github.com/project-nomos/nomos) | 22 | TypeScript | 2026-06-10 | Your AI digital clone — learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a |
 | 12 | [martinambrus/haive](https://github.com/martinambrus/haive) | 0 | TypeScript | 2026-06-10 | Project orchestration and AI agentic workflow utility. |
 | 13 | [zywkloo/wtcraft](https://github.com/zywkloo/wtcraft) | 3 | Shell | 2026-06-10 | Get parallel multi-agent coding on $40/month in subscriptions instead of $200/month in API tokens. |
