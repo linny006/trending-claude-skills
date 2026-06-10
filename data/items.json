@@ -1,12 +1,129 @@
 [
   {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 11,
+    "updated_at": "2026-06-10T07:44:56Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 0,
+    "updated_at": "2026-06-10T07:42:53Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 61738,
+    "updated_at": "2026-06-10T07:41:55Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Agent skills for the Datadata analytics platform.",
+    "id": "datadata-team/datadata-skills",
+    "language": "Python",
+    "name": "datadata-team/datadata-skills",
+    "stars": 0,
+    "updated_at": "2026-06-10T07:40:19Z",
+    "url": "https://github.com/datadata-team/datadata-skills"
+  },
+  {
+    "description": "Package manager for Claude Code skills and agents and other AI related resources",
+    "id": "mensfeld/craftdesk",
+    "language": "TypeScript",
+    "name": "mensfeld/craftdesk",
+    "stars": 58,
+    "updated_at": "2026-06-10T07:38:57Z",
+    "url": "https://github.com/mensfeld/craftdesk"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-10T07:37:00Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or any other AI agent to qu",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 988,
+    "updated_at": "2026-06-10T07:36:59Z",
+    "url": "https://github.com/Kaelio/ktx"
+  },
+  {
+    "description": "Open source, free, private, local, *generative* co-intellegence scaffold",
+    "id": "huximaxi/loci",
+    "language": "Rust",
+    "name": "huximaxi/loci",
+    "stars": 1,
+    "updated_at": "2026-06-10T07:33:38Z",
+    "url": "https://github.com/huximaxi/loci"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16201,
+    "updated_at": "2026-06-10T07:33:38Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
     "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM",
     "id": "konglong87/superPM",
     "language": "JavaScript",
     "name": "konglong87/superPM",
     "stars": 21,
-    "updated_at": "2026-06-10T07:28:34Z",
+    "updated_at": "2026-06-10T07:32:02Z",
     "url": "https://github.com/konglong87/superPM"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-10T07:44:36Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "AI + developer co-system protocol grounded in common sense, scientific method, and Nash-equilibrium cooperation.",
+    "id": "AlexShchuka/neuro-matrix",
+    "language": "Python",
+    "name": "AlexShchuka/neuro-matrix",
+    "stars": 3,
+    "updated_at": "2026-06-10T07:30:41Z",
+    "url": "https://github.com/AlexShchuka/neuro-matrix"
+  },
+  {
+    "description": "My personal agent skill repository, primarily focused on game development.",
+    "id": "Yuki001/game-dev-skills",
+    "language": "Python",
+    "name": "Yuki001/game-dev-skills",
+    "stars": 19,
+    "updated_at": "2026-06-10T07:30:26Z",
+    "url": "https://github.com/Yuki001/game-dev-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-10T07:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
@@ -81,15 +198,6 @@
     "url": "https://github.com/CodedRichy/food-chain-ideation"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-10T07:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Context cleaning for Claude Code \u2014 prune bloated sessions, protect Agent Teams from context loss, auto-guard with tiered",
     "id": "Ruya-AI/cozempic",
     "language": "Python",
@@ -97,15 +205,6 @@
     "stars": 333,
     "updated_at": "2026-06-10T07:12:11Z",
     "url": "https://github.com/Ruya-AI/cozempic"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16200,
-    "updated_at": "2026-06-10T07:18:18Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -133,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-06-10T07:21:27Z",
     "url": "https://github.com/marsmike/feinschliff"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61736,
-    "updated_at": "2026-06-10T07:07:40Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
@@ -338,7 +428,7 @@
     "language": "Kotlin",
     "name": "askimo-ai/askimo",
     "stars": 136,
-    "updated_at": "2026-06-10T06:43:00Z",
+    "updated_at": "2026-06-10T07:42:48Z",
     "url": "https://github.com/askimo-ai/askimo"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 18,
     "updated_at": "2026-06-10T06:39:12Z",
     "url": "https://github.com/ChronoAIProject/Ornn"
-  },
-  {
-    "description": "ArkSpace is a creative workspace for orchestrating agent skills, roles, and workflows across Claude Code and Code",
-    "id": "arch3rPro/ark-space",
-    "language": "Python",
-    "name": "arch3rPro/ark-space",
-    "stars": 1,
-    "updated_at": "2026-06-10T06:33:39Z",
-    "url": "https://github.com/arch3rPro/ark-space"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 842,
-    "updated_at": "2026-06-10T06:28:01Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "Apcore ecosystem management skill for Claude Code. Handles cross-language SDK synchronization, framework integration sca",
-    "id": "aiperceivable/apcore-skills",
-    "language": "Python",
-    "name": "aiperceivable/apcore-skills",
-    "stars": 1,
-    "updated_at": "2026-06-10T06:23:28Z",
-    "url": "https://github.com/aiperceivable/apcore-skills"
-  },
-  {
-    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
-    "id": "Infrasity-Labs/dev-gtm-claude-skills",
-    "language": "Python",
-    "name": "Infrasity-Labs/dev-gtm-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-06-10T06:20:18Z",
-    "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
-  },
-  {
-    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
-    "id": "anbeime/skill",
-    "language": "Python",
-    "name": "anbeime/skill",
-    "stars": 1408,
-    "updated_at": "2026-06-10T06:14:06Z",
-    "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "\u82f9\u679c MCP \u5de5\u5177 \u2705",
-    "id": "AIGC-Hackers/mcpx",
-    "language": "TypeScript",
-    "name": "AIGC-Hackers/mcpx",
-    "stars": 18,
-    "updated_at": "2026-06-10T06:09:56Z",
-    "url": "https://github.com/AIGC-Hackers/mcpx"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-10T06:09:37Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-06-10T06:05:23Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-10T06:05:02Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-10T06:04:15Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   }
 ]
