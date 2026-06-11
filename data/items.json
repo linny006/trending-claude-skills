@@ -1,11 +1,128 @@
 [
   {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 35,
+    "updated_at": "2026-06-11T04:58:27Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 13,
+    "updated_at": "2026-06-11T04:57:53Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "AI Agent Skills",
+    "id": "zydo/skills",
+    "language": "\u2014",
+    "name": "zydo/skills",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:55:50Z",
+    "url": "https://github.com/zydo/skills"
+  },
+  {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 453,
+    "updated_at": "2026-06-11T04:54:55Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
+    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
+    "id": "Dianel555/DSkills",
+    "language": "Python",
+    "name": "Dianel555/DSkills",
+    "stars": 63,
+    "updated_at": "2026-06-11T04:51:26Z",
+    "url": "https://github.com/Dianel555/DSkills"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:49:59Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "ArkSpace is a creative workspace for orchestrating agent skills, roles, and workflows across Claude Code and Code",
+    "id": "arch3rPro/ark-space",
+    "language": "Python",
+    "name": "arch3rPro/ark-space",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:49:26Z",
+    "url": "https://github.com/arch3rPro/ark-space"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:49:19Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 855,
+    "updated_at": "2026-06-11T04:48:35Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "One brain for all your agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 920,
+    "updated_at": "2026-06-11T04:48:24Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "description": "Get parallel multi-agent coding on $40/month in subscriptions instead of $200/month in API tokens.",
+    "id": "zywkloo/wtcraft",
+    "language": "Shell",
+    "name": "zywkloo/wtcraft",
+    "stars": 3,
+    "updated_at": "2026-06-11T04:57:31Z",
+    "url": "https://github.com/zywkloo/wtcraft"
+  },
+  {
+    "description": "bro-skills - Spec-Driven Development CLI",
+    "id": "wedabro/bro-skills",
+    "language": "Python",
+    "name": "wedabro/bro-skills",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:46:16Z",
+    "url": "https://github.com/wedabro/bro-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T04:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "JavaScript",
     "name": "gaia-react/gaia",
     "stars": 15,
-    "updated_at": "2026-06-11T04:42:36Z",
+    "updated_at": "2026-06-11T04:47:55Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -16,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T04:38:45Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 35,
-    "updated_at": "2026-06-11T04:35:08Z",
-    "url": "https://github.com/open-agreements/open-agreements"
   },
   {
     "description": "Claude Code plugin for end-to-end SEO + GEO. One command (/seo) drives everything: bootstrap, audit, find underserved ke",
@@ -43,15 +151,6 @@
     "stars": 10,
     "updated_at": "2026-06-11T04:30:36Z",
     "url": "https://github.com/KirKruglov/claude-skills-kit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T04:30:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Every approved Google AIP (aip.dev) bundled for AI coding agents \u2014 Claude Code, Codex, Cursor \u2014 refreshed daily by CI.",
@@ -81,15 +180,6 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 13,
-    "updated_at": "2026-06-11T04:26:04Z",
-    "url": "https://github.com/travsteward/openwriter"
-  },
-  {
     "description": "An Agent Skill of  Modellix documentation and capabilities reference.",
     "id": "Modellix/modellix-skill",
     "language": "Python",
@@ -115,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T04:18:43Z",
     "url": "https://github.com/ChanMeng666/linkedin-post-skill"
-  },
-  {
-    "description": "bro-skills - Spec-Driven Development CLI",
-    "id": "wedabro/bro-skills",
-    "language": "Python",
-    "name": "wedabro/bro-skills",
-    "stars": 1,
-    "updated_at": "2026-06-11T04:17:55Z",
-    "url": "https://github.com/wedabro/bro-skills"
   },
   {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
@@ -337,7 +418,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16227,
+    "stars": 16228,
     "updated_at": "2026-06-11T03:14:58Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T03:09:01Z",
     "url": "https://github.com/Midstall/claude-for-hardware"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 81677,
-    "updated_at": "2026-06-11T03:07:56Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
-    "id": "jamditis/claude-skills-journalism",
-    "language": "HTML",
-    "name": "jamditis/claude-skills-journalism",
-    "stars": 256,
-    "updated_at": "2026-06-11T03:06:08Z",
-    "url": "https://github.com/jamditis/claude-skills-journalism"
-  },
-  {
-    "description": "One brain for all your agents",
-    "id": "activeloopai/hivemind",
-    "language": "TypeScript",
-    "name": "activeloopai/hivemind",
-    "stars": 919,
-    "updated_at": "2026-06-11T02:59:43Z",
-    "url": "https://github.com/activeloopai/hivemind"
-  },
-  {
-    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
-    "id": "Dianel555/DSkills",
-    "language": "Python",
-    "name": "Dianel555/DSkills",
-    "stars": 63,
-    "updated_at": "2026-06-11T03:03:32Z",
-    "url": "https://github.com/Dianel555/DSkills"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:56:12Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Skills that help YOU operate at staff-researcher level. The agent does the grunt work; you stay in the driver's seat. A ",
-    "id": "shubham0704/claude-skills",
-    "language": "Python",
-    "name": "shubham0704/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-11T02:45:31Z",
-    "url": "https://github.com/shubham0704/claude-skills"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:35:36Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents integration. Supports OpenAI, Claude, Gemini, Grok, ",
-    "id": "askimo-ai/askimo",
-    "language": "Kotlin",
-    "name": "askimo-ai/askimo",
-    "stars": 138,
-    "updated_at": "2026-06-11T02:30:51Z",
-    "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "\ud83d\udcda \u7ed9\u4e2d\u56fd\u5f8b\u5e08/\u6cd5\u52a1\u7684\u4e00\u7ad9\u5f0f\u5f00\u6e90 AI \u5de5\u5177\u5730\u56fe\uff5c200+ \u4e2a gh \u6838\u9a8c\u5f00\u6e90\u4ed3\u00b7\u6309\u5de5\u4f5c\u573a\u666f\u5206\u7c7b\u00b7\u80fd\u5426\u5546\u7528\u6807\u6ce8\uff5cawesome list",
-    "id": "lilialla/awesome-legal-ai-zh",
-    "language": "Shell",
-    "name": "lilialla/awesome-legal-ai-zh",
-    "stars": 15,
-    "updated_at": "2026-06-11T02:28:57Z",
-    "url": "https://github.com/lilialla/awesome-legal-ai-zh"
   }
 ]
