@@ -1,5 +1,86 @@
 [
   {
+    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 393,
+    "updated_at": "2026-06-11T22:45:02Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:44:58Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "A VSCode extension that lets you find and install Agent Skills and MCP Apps to use with GitHub Copilot, Claude Code, and",
+    "id": "VikashLoomba/copilot-mcp",
+    "language": "TypeScript",
+    "name": "VikashLoomba/copilot-mcp",
+    "stars": 494,
+    "updated_at": "2026-06-11T22:44:16Z",
+    "url": "https://github.com/VikashLoomba/copilot-mcp"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-11T22:41:46Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Airtable Scripting agent skill and tools for schema dump, schema diff, and user check",
+    "id": "mickzijdel/airtable-utils",
+    "language": "Python",
+    "name": "mickzijdel/airtable-utils",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:39:54Z",
+    "url": "https://github.com/mickzijdel/airtable-utils"
+  },
+  {
+    "description": "Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents",
+    "id": "AlexShchuka/neuro-matrix",
+    "language": "Python",
+    "name": "AlexShchuka/neuro-matrix",
+    "stars": 3,
+    "updated_at": "2026-06-11T22:39:41Z",
+    "url": "https://github.com/AlexShchuka/neuro-matrix"
+  },
+  {
+    "description": "A brutally honest, sector-specific CV screener skill for Claude",
+    "id": "LoreJob/screener",
+    "language": "Shell",
+    "name": "LoreJob/screener",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:32:07Z",
+    "url": "https://github.com/LoreJob/screener"
+  },
+  {
+    "description": "Curated AI Agent Profiles for Claude Code, Codex, Cursor and more \u2014 install with forgecat CLI",
+    "id": "nota-america/forgecat-agent-profiles",
+    "language": "TypeScript",
+    "name": "nota-america/forgecat-agent-profiles",
+    "stars": 2,
+    "updated_at": "2026-06-11T22:43:52Z",
+    "url": "https://github.com/nota-america/forgecat-agent-profiles"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T22:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Get parallel multi-agent coding on $40/month in subscriptions instead of $200/month in API tokens.",
     "id": "zywkloo/wtcraft",
     "language": "Shell",
@@ -13,18 +94,9 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 27973,
+    "stars": 27974,
     "updated_at": "2026-06-11T22:28:44Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "description": "Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents",
-    "id": "AlexShchuka/neuro-matrix",
-    "language": "Python",
-    "name": "AlexShchuka/neuro-matrix",
-    "stars": 3,
-    "updated_at": "2026-06-11T22:28:16Z",
-    "url": "https://github.com/AlexShchuka/neuro-matrix"
   },
   {
     "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
@@ -34,24 +106,6 @@
     "stars": 144,
     "updated_at": "2026-06-11T22:26:58Z",
     "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-11T22:24:33Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "A brutally honest, sector-specific CV screener skill for Claude",
-    "id": "LoreJob/screener",
-    "language": "Shell",
-    "name": "LoreJob/screener",
-    "stars": 0,
-    "updated_at": "2026-06-11T22:22:04Z",
-    "url": "https://github.com/LoreJob/screener"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -108,15 +162,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T22:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents integration. Supports OpenAI, Claude, Gemini, Grok, ",
     "id": "askimo-ai/askimo",
     "language": "Kotlin",
@@ -131,7 +176,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 262,
-    "updated_at": "2026-06-11T22:14:42Z",
+    "updated_at": "2026-06-11T22:43:58Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T22:04:01Z",
     "url": "https://github.com/giljr/claude"
-  },
-  {
-    "description": "A VSCode extension that lets you find and install Agent Skills and MCP Apps to use with GitHub Copilot, Claude Code, and",
-    "id": "VikashLoomba/copilot-mcp",
-    "language": "TypeScript",
-    "name": "VikashLoomba/copilot-mcp",
-    "stars": 494,
-    "updated_at": "2026-06-11T22:00:11Z",
-    "url": "https://github.com/VikashLoomba/copilot-mcp"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -328,7 +364,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16264,
+    "stars": 16265,
     "updated_at": "2026-06-11T21:33:15Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -409,44 +445,8 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 81822,
+    "stars": 81824,
     "updated_at": "2026-06-11T21:29:02Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
-    "id": "Daybreakbluepeter503/advise-project-approach",
-    "language": "Python",
-    "name": "Daybreakbluepeter503/advise-project-approach",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:28:59Z",
-    "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:28:40Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:28:09Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Automate Salesforce RevOps system tasks like pipeline audits, forecast reconciliation, and deal pressure testing using e",
-    "id": "Unifying-sheeptick539/revops-skills",
-    "language": "Python",
-    "name": "Unifying-sheeptick539/revops-skills",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:27:52Z",
-    "url": "https://github.com/Unifying-sheeptick539/revops-skills"
   }
 ]
