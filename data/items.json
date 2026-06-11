@@ -1,11 +1,110 @@
 [
   {
+    "description": "TeamCity from your terminal \u2013 or your AI's. Builds, logs, agents, agent terminals, queues.",
+    "id": "JetBrains/teamcity-cli",
+    "language": "Go",
+    "name": "JetBrains/teamcity-cli",
+    "stars": 101,
+    "updated_at": "2026-06-11T09:44:46Z",
+    "url": "https://github.com/JetBrains/teamcity-cli"
+  },
+  {
+    "description": "AI product manager skills for Codex/Claude: brainstorming, product research, PRD workflows, requirements review, and pla",
+    "id": "PANGKAIFENG/ai-product-manager-skills",
+    "language": "Python",
+    "name": "PANGKAIFENG/ai-product-manager-skills",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:44:41Z",
+    "url": "https://github.com/PANGKAIFENG/ai-product-manager-skills"
+  },
+  {
+    "description": "Miftahul Islam Efaz \u2014 Entrepreneur, Vibe-Coder & AI Orchestrator building digital products and automation systems for in",
+    "id": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
+    "language": "TypeScript",
+    "name": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:42:59Z",
+    "url": "https://github.com/Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 19,
+    "updated_at": "2026-06-11T09:43:41Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "Claude skill: HTML email design intelligence - renders perfectly in Outlook, Gmail, Apple Mail. Bulletproof buttons, dar",
+    "id": "jayesh-bansal/email-pro-max",
+    "language": "HTML",
+    "name": "jayesh-bansal/email-pro-max",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:34:45Z",
+    "url": "https://github.com/jayesh-bansal/email-pro-max"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 2,
+    "updated_at": "2026-06-11T09:34:16Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Claude skill: API design intelligence - REST conventions, RFC 9457 errors, cursor pagination, idempotency keys, signed w",
+    "id": "jayesh-bansal/api-design-pro",
+    "language": "\u2014",
+    "name": "jayesh-bansal/api-design-pro",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:31:21Z",
+    "url": "https://github.com/jayesh-bansal/api-design-pro"
+  },
+  {
+    "description": "Claude skill: technical SEO intelligence - meta, Open Graph, JSON-LD structured data, semantic HTML, Core Web Vitals. Ev",
+    "id": "jayesh-bansal/seo-pro-max",
+    "language": "\u2014",
+    "name": "jayesh-bansal/seo-pro-max",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:31:17Z",
+    "url": "https://github.com/jayesh-bansal/seo-pro-max"
+  },
+  {
+    "description": "Claude skill: game-feel intelligence - screenshake, hit-stop, easing, particles, squash & stretch with playtested number",
+    "id": "jayesh-bansal/game-juice",
+    "language": "\u2014",
+    "name": "jayesh-bansal/game-juice",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:31:14Z",
+    "url": "https://github.com/jayesh-bansal/game-juice"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:30:19Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T09:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 16242,
-    "updated_at": "2026-06-11T09:30:03Z",
+    "updated_at": "2026-06-11T09:36:28Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -13,7 +112,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61890,
+    "stars": 61894,
     "updated_at": "2026-06-11T09:27:18Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -63,15 +162,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T09:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
     "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
     "language": "HTML",
@@ -86,7 +176,7 @@
     "language": "C++",
     "name": "Stewie-pixel/claude-with-leetcode",
     "stars": 17,
-    "updated_at": "2026-06-11T09:13:37Z",
+    "updated_at": "2026-06-11T09:36:00Z",
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
@@ -97,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T09:13:17Z",
     "url": "https://github.com/Davienzomq/stuntdouble"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:13:13Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -169,15 +250,6 @@
     "stars": 19,
     "updated_at": "2026-06-11T09:05:04Z",
     "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 2,
-    "updated_at": "2026-06-11T09:26:37Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "My personal agent skill repository, primarily focused on game development.",
@@ -293,7 +365,7 @@
     "language": "Python",
     "name": "marsmike/feinschmiede",
     "stars": 3,
-    "updated_at": "2026-06-11T08:40:40Z",
+    "updated_at": "2026-06-11T09:43:58Z",
     "url": "https://github.com/marsmike/feinschmiede"
   },
   {
@@ -346,18 +418,9 @@
     "id": "a5c-ai/babysitter",
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
-    "stars": 1308,
+    "stars": 1309,
     "updated_at": "2026-06-11T08:33:42Z",
     "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
-    "id": "ChronoAIProject/Ornn",
-    "language": "TypeScript",
-    "name": "ChronoAIProject/Ornn",
-    "stars": 19,
-    "updated_at": "2026-06-11T08:34:03Z",
-    "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
     "description": "\ud83d\udea2  Spawn any vendor LLM \u2014 DeepSeek \u00b7 GLM \u00b7 Qwen \u00b7 Kimi \u00b7 MiniMax \u2026 \u2014 as real Claude Code teammates or \u26a1 one-shot subagen",
@@ -365,7 +428,7 @@
     "language": "Go",
     "name": "ethanhq/cc-fleet",
     "stars": 134,
-    "updated_at": "2026-06-11T08:53:46Z",
+    "updated_at": "2026-06-11T09:43:21Z",
     "url": "https://github.com/ethanhq/cc-fleet"
   },
   {
@@ -382,71 +445,8 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 56934,
+    "stars": 56941,
     "updated_at": "2026-06-11T08:28:17Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
-  },
-  {
-    "description": "Context cleaning for Claude Code \u2014 prune bloated sessions, protect Agent Teams from context loss, auto-guard with tiered",
-    "id": "Ruya-AI/cozempic",
-    "language": "Python",
-    "name": "Ruya-AI/cozempic",
-    "stars": 332,
-    "updated_at": "2026-06-11T08:27:37Z",
-    "url": "https://github.com/Ruya-AI/cozempic"
-  },
-  {
-    "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
-    "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "language": "JavaScript",
-    "name": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:24:43Z",
-    "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
-  },
-  {
-    "description": "Generate personalized real-life side quests to build skills and foster connections with this Claude-powered quest archit",
-    "id": "Glamourous-mammalia359/quest-drop",
-    "language": "\u2014",
-    "name": "Glamourous-mammalia359/quest-drop",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:24:32Z",
-    "url": "https://github.com/Glamourous-mammalia359/quest-drop"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:24:31Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:24:21Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
-    "id": "txw842lkj-cmd/silicon-circle-skill",
-    "language": "\u2014",
-    "name": "txw842lkj-cmd/silicon-circle-skill",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:24:06Z",
-    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
-  },
-  {
-    "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
-    "id": "Daybreakbluepeter503/advise-project-approach",
-    "language": "Python",
-    "name": "Daybreakbluepeter503/advise-project-approach",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:23:59Z",
-    "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
   }
 ]
