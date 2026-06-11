@@ -1,12 +1,111 @@
 [
   {
+    "description": "Systematic methodology for building reusable, agent-readable frameworks from any domain expertise. 1100+ frameworks buil",
+    "id": "framework-creator/framework-builder",
+    "language": "\u2014",
+    "name": "framework-creator/framework-builder",
+    "stars": 5,
+    "updated_at": "2026-06-11T11:44:38Z",
+    "url": "https://github.com/framework-creator/framework-builder"
+  },
+  {
+    "description": "Unofficial Huly MCP Server for AI Agent",
+    "id": "yotharit/huly-mcp",
+    "language": "TypeScript",
+    "name": "yotharit/huly-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:41:04Z",
+    "url": "https://github.com/yotharit/huly-mcp"
+  },
+  {
+    "description": "My personal agent skill repository, primarily focused on game development.",
+    "id": "Yuki001/game-dev-skills",
+    "language": "Python",
+    "name": "Yuki001/game-dev-skills",
+    "stars": 19,
+    "updated_at": "2026-06-11T11:40:56Z",
+    "url": "https://github.com/Yuki001/game-dev-skills"
+  },
+  {
+    "description": "MIT reusable AI skills for Codex and Claude Code: safe publishing, research briefs, case studies, web scraping, copy cle",
+    "id": "jqaisystems/jqai-ai-skills",
+    "language": "HTML",
+    "name": "jqaisystems/jqai-ai-skills",
+    "stars": 2,
+    "updated_at": "2026-06-11T11:41:49Z",
+    "url": "https://github.com/jqaisystems/jqai-ai-skills"
+  },
+  {
+    "description": "A collection of agent skills.",
+    "id": "to4iki/skills",
+    "language": "Shell",
+    "name": "to4iki/skills",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:38:16Z",
+    "url": "https://github.com/to4iki/skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 262,
+    "updated_at": "2026-06-11T11:37:23Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Claude Code skill: find SEO 'striking distance' keywords from Google Search Console and weave them into existing content",
+    "id": "benskamps/finding-underserved-keywords",
+    "language": "\u2014",
+    "name": "benskamps/finding-underserved-keywords",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:34:33Z",
+    "url": "https://github.com/benskamps/finding-underserved-keywords"
+  },
+  {
+    "description": "Claude Code plugin for end-to-end SEO + GEO. One command (/seo) drives everything: bootstrap, audit, find underserved ke",
+    "id": "benskamps/seo-superpower",
+    "language": "Python",
+    "name": "benskamps/seo-superpower",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:34:30Z",
+    "url": "https://github.com/benskamps/seo-superpower"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 388,
+    "updated_at": "2026-06-11T11:34:03Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "AI product manager skills for Codex/Claude: brainstorming, product research, PRD workflows, requirements review, and pla",
+    "id": "PANGKAIFENG/ai-product-manager-skills",
+    "language": "Python",
+    "name": "PANGKAIFENG/ai-product-manager-skills",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:33:00Z",
+    "url": "https://github.com/PANGKAIFENG/ai-product-manager-skills"
+  },
+  {
     "description": "Self Sovereign Creative AI Operating System and Task Execution Engine",
     "id": "armyofbear136/PHOBOS",
     "language": "TypeScript",
     "name": "armyofbear136/PHOBOS",
     "stars": 19,
-    "updated_at": "2026-06-11T11:29:57Z",
+    "updated_at": "2026-06-11T11:32:56Z",
     "url": "https://github.com/armyofbear136/PHOBOS"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T11:30:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -27,13 +126,13 @@
     "url": "https://github.com/huximaxi/loci"
   },
   {
-    "description": "AI product manager skills for Codex/Claude: brainstorming, product research, PRD workflows, requirements review, and pla",
-    "id": "PANGKAIFENG/ai-product-manager-skills",
-    "language": "Python",
-    "name": "PANGKAIFENG/ai-product-manager-skills",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:26:54Z",
-    "url": "https://github.com/PANGKAIFENG/ai-product-manager-skills"
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or any other AI agent to qu",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 1118,
+    "updated_at": "2026-06-11T11:28:43Z",
+    "url": "https://github.com/Kaelio/ktx"
   },
   {
     "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
@@ -41,7 +140,7 @@
     "language": "Shell",
     "name": "magnusrodseth/dotfiles",
     "stars": 0,
-    "updated_at": "2026-06-11T11:26:30Z",
+    "updated_at": "2026-06-11T11:44:56Z",
     "url": "https://github.com/magnusrodseth/dotfiles"
   },
   {
@@ -90,15 +189,6 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 262,
-    "updated_at": "2026-06-11T11:30:15Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Claude Code plugin marketplace \u2014 sdd (spec-driven dev) and gh (GitHub workflow) plugins",
     "id": "kborovik/pilot-skills",
     "language": "Python",
@@ -135,15 +225,6 @@
     "url": "https://github.com/rediumvex/seo-blog-writer-claude"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T11:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code skills for Magento 2 / Mage-OS development \u2014 module scaffolding, DI conventions, debugging playbooks",
     "id": "staksoft/magento-claude-skills",
     "language": "Python",
@@ -171,6 +252,15 @@
     "url": "https://github.com/dasein108/slope-studio"
   },
   {
+    "description": "Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI altern",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 1433,
+    "updated_at": "2026-06-11T11:09:34Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
@@ -196,24 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T11:05:35Z",
     "url": "https://github.com/Next2D/next2d-development-assistant"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 388,
-    "updated_at": "2026-06-11T11:03:45Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "MIT reusable AI skills for Codex and Claude Code: safe publishing, research briefs, case studies, web scraping, copy cle",
-    "id": "jqaisystems/jqai-ai-skills",
-    "language": "HTML",
-    "name": "jqaisystems/jqai-ai-skills",
-    "stars": 2,
-    "updated_at": "2026-06-11T11:03:20Z",
-    "url": "https://github.com/jqaisystems/jqai-ai-skills"
   },
   {
     "description": "My assortment of Claude Code skills",
@@ -247,7 +319,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61898,
+    "stars": 61899,
     "updated_at": "2026-06-11T10:59:46Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -283,7 +355,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16247,
+    "stars": 16248,
     "updated_at": "2026-06-11T10:54:44Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -376,77 +448,5 @@
     "stars": 12,
     "updated_at": "2026-06-11T10:47:46Z",
     "url": "https://github.com/domengabrovsek/claude"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
-    "id": "BENZEMA216/awesome-weread",
-    "language": "JavaScript",
-    "name": "BENZEMA216/awesome-weread",
-    "stars": 31,
-    "updated_at": "2026-06-11T10:46:55Z",
-    "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:46:47Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:46:28Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Product Owner skill for Claude: 16 prompts for managing a live product \u2014 health check, churn analysis, opportunity asses",
-    "id": "julijakvetna/po-existing-product",
-    "language": "\u2014",
-    "name": "julijakvetna/po-existing-product",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:45:21Z",
-    "url": "https://github.com/julijakvetna/po-existing-product"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:45:20Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:43:09Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:42:30Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Agent skills for Claude Code and other agentskills.io-compatible agents. See https://developertoolkit.ai for more inform",
-    "id": "wondelai/skills",
-    "language": "Shell",
-    "name": "wondelai/skills",
-    "stars": 1265,
-    "updated_at": "2026-06-11T10:39:10Z",
-    "url": "https://github.com/wondelai/skills"
   }
 ]
