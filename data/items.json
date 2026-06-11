@@ -1,5 +1,59 @@
 [
   {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-11T04:42:36Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "AI agent skills for music & media creators: rights passport, release metadata linter, provenance packaging, credits/spli",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "Python",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 2,
+    "updated_at": "2026-06-11T04:38:45Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 35,
+    "updated_at": "2026-06-11T04:35:08Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "Claude Code plugin for end-to-end SEO + GEO. One command (/seo) drives everything: bootstrap, audit, find underserved ke",
+    "id": "benskamps/seo-superpower",
+    "language": "Python",
+    "name": "benskamps/seo-superpower",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:33:05Z",
+    "url": "https://github.com/benskamps/seo-superpower"
+  },
+  {
+    "description": "60+ curated agent skills for Claude Cowork and Claude.ai \u2014 ready-to-use tools for non-technical users: project managemen",
+    "id": "KirKruglov/claude-skills-kit",
+    "language": "\u2014",
+    "name": "KirKruglov/claude-skills-kit",
+    "stars": 10,
+    "updated_at": "2026-06-11T04:30:36Z",
+    "url": "https://github.com/KirKruglov/claude-skills-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T04:30:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Every approved Google AIP (aip.dev) bundled for AI coding agents \u2014 Claude Code, Codex, Cursor \u2014 refreshed daily by CI.",
     "id": "ekkx/google-aip-skills",
     "language": "Go",
@@ -81,15 +135,6 @@
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T04:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
     "id": "alexzvency-ship-it/claude-browser-automator",
     "language": "HTML",
@@ -121,7 +166,7 @@
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 17760,
+    "stars": 17761,
     "updated_at": "2026-06-11T04:05:18Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T04:03:44Z",
     "url": "https://github.com/lemur47/logic"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-11T04:17:45Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
@@ -355,7 +391,7 @@
     "id": "activeloopai/hivemind",
     "language": "TypeScript",
     "name": "activeloopai/hivemind",
-    "stars": 917,
+    "stars": 919,
     "updated_at": "2026-06-11T02:59:43Z",
     "url": "https://github.com/activeloopai/hivemind"
   },
@@ -412,41 +448,5 @@
     "stars": 15,
     "updated_at": "2026-06-11T02:28:57Z",
     "url": "https://github.com/lilialla/awesome-legal-ai-zh"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Shell",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:18:03Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 sdd (spec-driven dev) and gh (GitHub workflow) plugins",
-    "id": "kborovik/pilot-skills",
-    "language": "Python",
-    "name": "kborovik/pilot-skills",
-    "stars": 4,
-    "updated_at": "2026-06-11T02:16:17Z",
-    "url": "https://github.com/kborovik/pilot-skills"
-  },
-  {
-    "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
-    "id": "jezweb/claude-skills",
-    "language": "Python",
-    "name": "jezweb/claude-skills",
-    "stars": 848,
-    "updated_at": "2026-06-11T02:15:37Z",
-    "url": "https://github.com/jezweb/claude-skills"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 387,
-    "updated_at": "2026-06-11T02:07:13Z",
-    "url": "https://github.com/boshu2/agentops"
   }
 ]
