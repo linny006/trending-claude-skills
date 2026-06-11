@@ -1,5 +1,50 @@
 [
   {
+    "description": "Some hooks for Claude to write cleaner code and verify its work",
+    "id": "mickzijdel/dev-hooks",
+    "language": "Python",
+    "name": "mickzijdel/dev-hooks",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:00:22Z",
+    "url": "https://github.com/mickzijdel/dev-hooks"
+  },
+  {
+    "description": "Enable natural language control of Feishu to send messages, create documents, manage calendars, and update spreadsheets ",
+    "id": "Mucinous-freelance33/feishu-lark-agent",
+    "language": "Python",
+    "name": "Mucinous-freelance33/feishu-lark-agent",
+    "stars": 1,
+    "updated_at": "2026-06-11T21:00:20Z",
+    "url": "https://github.com/Mucinous-freelance33/feishu-lark-agent"
+  },
+  {
+    "description": "Automate experimental code changes with Claude Code by running goal-driven loops that test, measure, and optimize code c",
+    "id": "cristyillusional179/autoresearch-claude-code",
+    "language": "\u2014",
+    "name": "cristyillusional179/autoresearch-claude-code",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:00:19Z",
+    "url": "https://github.com/cristyillusional179/autoresearch-claude-code"
+  },
+  {
+    "description": "Deliver McKinsey-quality consulting analyses with sourced, framework-driven, financially rigorous, and executive-ready r",
+    "id": "sarajanenonchristian388/consulting-gauntlet",
+    "language": "\u2014",
+    "name": "sarajanenonchristian388/consulting-gauntlet",
+    "stars": 2,
+    "updated_at": "2026-06-11T21:00:19Z",
+    "url": "https://github.com/sarajanenonchristian388/consulting-gauntlet"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T21:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Provide accurate Jetpack Compose code by detecting common errors and improving Android UI practices with a modern agent ",
     "id": "Pushpade7366/jetpack-compose-skills",
     "language": "\u2014",
@@ -79,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T20:58:30Z",
     "url": "https://github.com/twilareckless401/agent-soul"
-  },
-  {
-    "description": "Some hooks for Claude to write cleaner code and verify its work",
-    "id": "mickzijdel/dev-hooks",
-    "language": "Python",
-    "name": "mickzijdel/dev-hooks",
-    "stars": 0,
-    "updated_at": "2026-06-11T20:58:08Z",
-    "url": "https://github.com/mickzijdel/dev-hooks"
   },
   {
     "description": "Deploy a proxy that converts Claude.ai sessions into a standard Anthropic API with streaming, tools, and image support.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T20:51:11Z",
     "url": "https://github.com/Teddy012/agent-fs"
-  },
-  {
-    "description": "Provide standalone Windows CLI plugins for OpenCode to research, draft, and analyze sales, marketing, and data tasks eff",
-    "id": "Safen99/opencode-cowork-plugins",
-    "language": "TypeScript",
-    "name": "Safen99/opencode-cowork-plugins",
-    "stars": 1,
-    "updated_at": "2026-06-11T20:50:58Z",
-    "url": "https://github.com/Safen99/opencode-cowork-plugins"
-  },
-  {
-    "description": "Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang",
-    "id": "charliechenye/SkillGate",
-    "language": "Python",
-    "name": "charliechenye/SkillGate",
-    "stars": 1,
-    "updated_at": "2026-06-11T20:50:26Z",
-    "url": "https://github.com/charliechenye/SkillGate"
-  },
-  {
-    "description": "Provide ready-to-use GitHub Agentic Workflow templates to automate issue triage, PR review, and release note generation ",
-    "id": "Ltelitas/awesome-agentic-workflows",
-    "language": "\u2014",
-    "name": "Ltelitas/awesome-agentic-workflows",
-    "stars": 2,
-    "updated_at": "2026-06-11T20:50:26Z",
-    "url": "https://github.com/Ltelitas/awesome-agentic-workflows"
-  },
-  {
-    "description": "Generate clear, structured research pipeline flowcharts from paper summaries using automatic TikZ code creation and comp",
-    "id": "JasonYozza14/Skill-Research-Figure",
-    "language": "\u2014",
-    "name": "JasonYozza14/Skill-Research-Figure",
-    "stars": 0,
-    "updated_at": "2026-06-11T20:50:20Z",
-    "url": "https://github.com/JasonYozza14/Skill-Research-Figure"
   }
 ]
