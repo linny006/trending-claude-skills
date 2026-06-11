@@ -1,12 +1,102 @@
 [
   {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-11T17:14:47Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 9,
+    "updated_at": "2026-06-11T17:14:47Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 90,
+    "updated_at": "2026-06-11T17:14:47Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-11T17:11:14Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Open library of legal AI skills (SKILL.md) for MCP-compatible agents \u2014 39 jurisdictions, 200+ plugins, Apache-2.0.",
+    "id": "ThomasMoreAI/legal-skills-open",
+    "language": "Python",
+    "name": "ThomasMoreAI/legal-skills-open",
+    "stars": 17,
+    "updated_at": "2026-06-11T17:10:30Z",
+    "url": "https://github.com/ThomasMoreAI/legal-skills-open"
+  },
+  {
+    "description": "",
+    "id": "andresnator/agents-orchestrator",
+    "language": "Java",
+    "name": "andresnator/agents-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:06:26Z",
+    "url": "https://github.com/andresnator/agents-orchestrator"
+  },
+  {
     "description": "bro-skills - Spec-Driven Development CLI",
     "id": "wedabro/bro-skills",
     "language": "Python",
     "name": "wedabro/bro-skills",
     "stars": 1,
-    "updated_at": "2026-06-11T16:59:39Z",
+    "updated_at": "2026-06-11T17:06:17Z",
     "url": "https://github.com/wedabro/bro-skills"
+  },
+  {
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. ",
+    "id": "K-Dense-AI/scientific-agent-skills",
+    "language": "Python",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "stars": 27962,
+    "updated_at": "2026-06-11T17:06:07Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "description": "My Claude scripts for ~/.claude",
+    "id": "nigelhorne/claude",
+    "language": "\u2014",
+    "name": "nigelhorne/claude",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:05:13Z",
+    "url": "https://github.com/nigelhorne/claude"
+  },
+  {
+    "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
+    "id": "mworldorg/markdown-memory",
+    "language": "Python",
+    "name": "mworldorg/markdown-memory",
+    "stars": 37,
+    "updated_at": "2026-06-11T17:01:04Z",
+    "url": "https://github.com/mworldorg/markdown-memory"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T17:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
@@ -18,24 +108,6 @@
     "url": "https://github.com/0xc000022070/agentic-flake"
   },
   {
-    "description": "My Claude scripts for ~/.claude",
-    "id": "nigelhorne/claude",
-    "language": "\u2014",
-    "name": "nigelhorne/claude",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:57:57Z",
-    "url": "https://github.com/nigelhorne/claude"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 9,
-    "updated_at": "2026-06-11T16:57:35Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T16:55:48Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
-    "id": "mworldorg/markdown-memory",
-    "language": "Python",
-    "name": "mworldorg/markdown-memory",
-    "stars": 37,
-    "updated_at": "2026-06-11T16:54:30Z",
-    "url": "https://github.com/mworldorg/markdown-memory"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -117,15 +180,6 @@
     "url": "https://github.com/activeloopai/hivemind"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T16:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
@@ -139,7 +193,7 @@
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 17820,
+    "stars": 17819,
     "updated_at": "2026-06-11T16:44:18Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T16:43:42Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Open library of legal AI skills (SKILL.md) for MCP-compatible agents \u2014 39 jurisdictions, 200+ plugins, Apache-2.0.",
-    "id": "ThomasMoreAI/legal-skills-open",
-    "language": "Python",
-    "name": "ThomasMoreAI/legal-skills-open",
-    "stars": 17,
-    "updated_at": "2026-06-11T16:43:36Z",
-    "url": "https://github.com/ThomasMoreAI/legal-skills-open"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 29806,
-    "updated_at": "2026-06-11T16:43:00Z",
+    "updated_at": "2026-06-11T17:11:58Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "marsmike/feinschmiede",
     "stars": 3,
-    "updated_at": "2026-06-11T16:59:58Z",
+    "updated_at": "2026-06-11T17:01:53Z",
     "url": "https://github.com/marsmike/feinschmiede"
   },
   {
@@ -214,24 +259,6 @@
     "stars": 19,
     "updated_at": "2026-06-11T16:38:44Z",
     "url": "https://github.com/armyofbear136/PHOBOS"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-11T16:37:59Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. ",
-    "id": "K-Dense-AI/scientific-agent-skills",
-    "language": "Python",
-    "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 27960,
-    "updated_at": "2026-06-11T16:37:30Z",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
     "description": "Portable agent skills (SKILL.md) for Claude Code, Copilot CLI, Codex & Cursor \u2014 reviewloop (clear every PR reviewer), ci",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "AlexShchuka/neuro-matrix",
     "stars": 3,
-    "updated_at": "2026-06-11T16:24:26Z",
+    "updated_at": "2026-06-11T17:10:04Z",
     "url": "https://github.com/AlexShchuka/neuro-matrix"
   },
   {
@@ -418,35 +445,8 @@
     "id": "AbsolutelySkilled/AbsolutelySkilled",
     "language": "MDX",
     "name": "AbsolutelySkilled/AbsolutelySkilled",
-    "stars": 180,
+    "stars": 181,
     "updated_at": "2026-06-11T15:48:44Z",
     "url": "https://github.com/AbsolutelySkilled/AbsolutelySkilled"
-  },
-  {
-    "description": "Claude Code skills for developers who code like cats \u2014 never more effort than the problem requires.",
-    "id": "albertobarnabo/lazy-cat",
-    "language": "JavaScript",
-    "name": "albertobarnabo/lazy-cat",
-    "stars": 34,
-    "updated_at": "2026-06-11T15:48:09Z",
-    "url": "https://github.com/albertobarnabo/lazy-cat"
-  },
-  {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-06-11T15:48:07Z",
-    "url": "https://github.com/easyinplay/harnessed"
-  },
-  {
-    "description": "A set of rules possibly applicable to a source code repository: ask your AI agent to configure your linter this way",
-    "id": "yegor256/purist",
-    "language": "\u2014",
-    "name": "yegor256/purist",
-    "stars": 2,
-    "updated_at": "2026-06-11T15:56:35Z",
-    "url": "https://github.com/yegor256/purist"
   }
 ]
