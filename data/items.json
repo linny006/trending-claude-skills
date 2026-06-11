@@ -1,5 +1,131 @@
 [
   {
+    "description": "A Claude Code skill for planning website structure, UI logic, and UX patterns before visual design.",
+    "id": "liberastudio-mx/skill-ui-ux-Libera",
+    "language": "Python",
+    "name": "liberastudio-mx/skill-ui-ux-Libera",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:44:56Z",
+    "url": "https://github.com/liberastudio-mx/skill-ui-ux-Libera"
+  },
+  {
+    "description": "A Claude Code skill for creating polished web and UI designs from structured website plans.",
+    "id": "liberastudio-mx/skill-web-design",
+    "language": "\u2014",
+    "name": "liberastudio-mx/skill-web-design",
+    "stars": 1,
+    "updated_at": "2026-06-11T21:43:37Z",
+    "url": "https://github.com/liberastudio-mx/skill-web-design"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 262,
+    "updated_at": "2026-06-11T21:42:24Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-11T21:41:15Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 143,
+    "updated_at": "2026-06-11T21:40:19Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:37:10Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "One brain for all your agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 1050,
+    "updated_at": "2026-06-11T21:35:18Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:33:56Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16263,
+    "updated_at": "2026-06-11T21:33:15Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Write-capable MCP server + Claude Code skills for OpenAI's ChatGPT Ads platform \u2014 campaigns, ad groups, chat_card ads, i",
+    "id": "AvyanshKatiyar/openai-ads-mcp",
+    "language": "Python",
+    "name": "AvyanshKatiyar/openai-ads-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:32:32Z",
+    "url": "https://github.com/AvyanshKatiyar/openai-ads-mcp"
+  },
+  {
+    "description": "OpenMC Python API knowledge base that helps AI write correct neutronics code",
+    "id": "itaybnv/openmc-claude-skills",
+    "language": "Python",
+    "name": "itaybnv/openmc-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:31:50Z",
+    "url": "https://github.com/itaybnv/openmc-claude-skills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 25,
+    "updated_at": "2026-06-11T21:31:49Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "A collection of Claude Agentic Skills for PDF extraction, Anki flashcard generation, and revision notes creation",
+    "id": "maaarcooo/claude-skills",
+    "language": "Python",
+    "name": "maaarcooo/claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-11T21:31:34Z",
+    "url": "https://github.com/maaarcooo/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T21:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
     "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
     "language": "JavaScript",
@@ -40,7 +166,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 81817,
+    "stars": 81818,
     "updated_at": "2026-06-11T21:29:02Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -97,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T21:27:26Z",
     "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 262,
-    "updated_at": "2026-06-11T21:29:08Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T21:23:40Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 11,
-    "updated_at": "2026-06-11T21:23:01Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-11T21:22:59Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:22:58Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Optimize your AI workflow with this open-source Electron desktop client for Claude, featuring native integration and eff",
-    "id": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "language": "JavaScript",
-    "name": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "stars": 2,
-    "updated_at": "2026-06-11T21:22:57Z",
-    "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:22:32Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-06-11T21:22:20Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "A brutally honest, sector-specific CV screener skill for Claude",
-    "id": "LoreJob/screener",
-    "language": "Shell",
-    "name": "LoreJob/screener",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:22:12Z",
-    "url": "https://github.com/LoreJob/screener"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:22:08Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:21:46Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:21:37Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:21:29Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
-  },
-  {
-    "description": "Connect Claude Managed Agents to Linear using a bridge server to automate issue management and sync responses through ag",
-    "id": "Saudiarabian-tachograph4331/claude-managed-agents-demo",
-    "language": "TypeScript",
-    "name": "Saudiarabian-tachograph4331/claude-managed-agents-demo",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:21:27Z",
-    "url": "https://github.com/Saudiarabian-tachograph4331/claude-managed-agents-demo"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:21:23Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
   }
 ]
