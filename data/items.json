@@ -1,5 +1,68 @@
 [
   {
+    "description": "Claude Code skills for developers who code like cats \u2014 never more effort than the problem requires.",
+    "id": "albertobarnabo/lazy-cat",
+    "language": "JavaScript",
+    "name": "albertobarnabo/lazy-cat",
+    "stars": 34,
+    "updated_at": "2026-06-11T15:44:18Z",
+    "url": "https://github.com/albertobarnabo/lazy-cat"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
+    "id": "kurone-kito/idd-skill",
+    "language": "JavaScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 2,
+    "updated_at": "2026-06-11T15:42:29Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-06-11T15:41:41Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 17813,
+    "updated_at": "2026-06-11T15:45:01Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "description": "Delegate tasks to DeepSeek right inside your Claude Code / Codex sessions.",
+    "id": "dazuiba/handoff",
+    "language": "Python",
+    "name": "dazuiba/handoff",
+    "stars": 3,
+    "updated_at": "2026-06-11T15:32:21Z",
+    "url": "https://github.com/dazuiba/handoff"
+  },
+  {
+    "description": "Spike First | \u5148\u6253\u9776\u518d\u9020\u67aa - \u6293\u53d6/\u96c6\u6210\u4efb\u52a1\u7684\u5f3a\u5236\u53ef\u884c\u6027\u95f8\u95e8 Agent Skill\uff1a\u5f00\u5de5\u524d 5 \u5206\u949f\u63a2\u9488\u9a8c\u8bc1\u6700\u5927\u672a\u77e5\u70b9\uff0c\u8fde\u8dd1 3-5 \u6b21\u6d4b\u6210\u529f\u7387\uff0c\u4e0d\u901a\u8fc7\u5f53\u573a\u558a\u505c",
+    "id": "AllenShi100/spike-first",
+    "language": "\u2014",
+    "name": "AllenShi100/spike-first",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:31:13Z",
+    "url": "https://github.com/AllenShi100/spike-first"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T15:30:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Offline deploy-safety skills for Claude Code. Zero credentials, zero network, zero dependencies.",
     "id": "Starr-del/deploy-preflight",
     "language": "Python",
@@ -9,6 +72,15 @@
     "url": "https://github.com/Starr-del/deploy-preflight"
   },
   {
+    "description": "Safely run OpenCode, Codex, Claude Code with full permissions.",
+    "id": "aerovato/container",
+    "language": "TypeScript",
+    "name": "aerovato/container",
+    "stars": 277,
+    "updated_at": "2026-06-11T15:29:51Z",
+    "url": "https://github.com/aerovato/container"
+  },
+  {
     "description": "Lint a Claude Skill SKILL.md file for spec compliance and triggering quality. Browser-only, single HTML file.",
     "id": "0xelitesystem/claude-skills-validator",
     "language": "HTML",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T15:28:08Z",
     "url": "https://github.com/0xelitesystem/claude-skills-validator"
-  },
-  {
-    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 17811,
-    "updated_at": "2026-06-11T15:29:40Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -58,8 +121,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61914,
-    "updated_at": "2026-06-11T15:22:57Z",
+    "stars": 61913,
+    "updated_at": "2026-06-11T15:35:42Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -72,6 +135,15 @@
     "url": "https://github.com/tmusser/ai-business-skills"
   },
   {
+    "description": "Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents integration. Supports OpenAI, Claude, Gemini, Grok, ",
+    "id": "askimo-ai/askimo",
+    "language": "Kotlin",
+    "name": "askimo-ai/askimo",
+    "stars": 138,
+    "updated_at": "2026-06-11T15:19:32Z",
+    "url": "https://github.com/askimo-ai/askimo"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -79,15 +151,6 @@
     "stars": 352,
     "updated_at": "2026-06-11T15:16:19Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T15:15:25Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open registry of community-contributed AI coding skills (SKILL.md files) \u2014 daily-synced to skills-hub.ai. Install across",
@@ -124,15 +187,6 @@
     "stars": 9,
     "updated_at": "2026-06-11T15:09:05Z",
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-06-11T15:25:50Z",
-    "url": "https://github.com/easyinplay/harnessed"
   },
   {
     "description": "Turn Claude into a Senior Design Architect \u2014 DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework co",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:54:54Z",
     "url": "https://github.com/Saudiarabian-tachograph4331/claude-managed-agents-demo"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:54:52Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:54:49Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:54:47Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:54:46Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:54:41Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:54:32Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
   }
 ]
