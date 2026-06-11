@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udcda \u7ed9\u4e2d\u56fd\u5f8b\u5e08/\u6cd5\u52a1\u7684\u4e00\u7ad9\u5f0f\u5f00\u6e90 AI \u5de5\u5177\u5730\u56fe\uff5c200+ \u4e2a gh \u6838\u9a8c\u5f00\u6e90\u4ed3\u00b7\u6309\u5de5\u4f5c\u573a\u666f\u5206\u7c7b\u00b7\u80fd\u5426\u5546\u7528\u6807\u6ce8\uff5cawesome list",
+    "id": "lilialla/awesome-legal-ai-zh",
+    "language": "Shell",
+    "name": "lilialla/awesome-legal-ai-zh",
+    "stars": 15,
+    "updated_at": "2026-06-11T02:28:57Z",
+    "url": "https://github.com/lilialla/awesome-legal-ai-zh"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Shell",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:18:03Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 sdd (spec-driven dev) and gh (GitHub workflow) plugins",
+    "id": "kborovik/pilot-skills",
+    "language": "Python",
+    "name": "kborovik/pilot-skills",
+    "stars": 4,
+    "updated_at": "2026-06-11T02:16:17Z",
+    "url": "https://github.com/kborovik/pilot-skills"
+  },
+  {
+    "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
+    "id": "jezweb/claude-skills",
+    "language": "Python",
+    "name": "jezweb/claude-skills",
+    "stars": 848,
+    "updated_at": "2026-06-11T02:15:37Z",
+    "url": "https://github.com/jezweb/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T02:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16225,
+    "updated_at": "2026-06-11T02:13:13Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
     "id": "apresmoi/jianglens",
     "language": "Jupyter Notebook",
@@ -45,15 +99,6 @@
     "url": "https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16224,
-    "updated_at": "2026-06-11T02:13:13Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T02:04:07Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T02:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skills that help YOU operate at staff-researcher level. The agent does the grunt work; you stay in the driver's seat. A ",
@@ -81,21 +117,12 @@
     "url": "https://github.com/shubham0704/claude-skills"
   },
   {
-    "description": "Claude Code plugin marketplace \u2014 sdd (spec-driven dev) and gh (GitHub workflow) plugins",
-    "id": "kborovik/pilot-skills",
-    "language": "Python",
-    "name": "kborovik/pilot-skills",
-    "stars": 4,
-    "updated_at": "2026-06-11T01:56:10Z",
-    "url": "https://github.com/kborovik/pilot-skills"
-  },
-  {
     "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
     "id": "lemur47/logic",
     "language": "Python",
     "name": "lemur47/logic",
     "stars": 0,
-    "updated_at": "2026-06-11T01:50:21Z",
+    "updated_at": "2026-06-11T02:23:11Z",
     "url": "https://github.com/lemur47/logic"
   },
   {
@@ -328,7 +355,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61843,
+    "stars": 61846,
     "updated_at": "2026-06-11T01:36:48Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -355,7 +382,7 @@
     "id": "activeloopai/hivemind",
     "language": "TypeScript",
     "name": "activeloopai/hivemind",
-    "stars": 867,
+    "stars": 869,
     "updated_at": "2026-06-11T01:35:59Z",
     "url": "https://github.com/activeloopai/hivemind"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-11T01:33:42Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:33:04Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Agent-native CLI for ASU's SOL supercomputer",
-    "id": "Shu-Wan/solx",
-    "language": "Python",
-    "name": "Shu-Wan/solx",
-    "stars": 3,
-    "updated_at": "2026-06-11T01:33:18Z",
-    "url": "https://github.com/Shu-Wan/solx"
-  },
-  {
-    "description": "Optimize your AI workflow with this open-source Electron desktop client for Claude, featuring native integration and eff",
-    "id": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "language": "JavaScript",
-    "name": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:31:25Z",
-    "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
   }
 ]
