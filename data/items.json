@@ -1,5 +1,104 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:29:40Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "A collection of utility scripts and tools that streamline my daily development workflow.",
+    "id": "FarzamMohammadi/dev-toolbox",
+    "language": "Python",
+    "name": "FarzamMohammadi/dev-toolbox",
+    "stars": 1,
+    "updated_at": "2026-06-11T18:29:39Z",
+    "url": "https://github.com/FarzamMohammadi/dev-toolbox"
+  },
+  {
+    "description": "Claude Code skill that makes Fable 5 up to 76% cheaper \u2014 routes token-heavy work to Sonnet/Haiku subagents, keeps Fable ",
+    "id": "JRO424/jro-fable",
+    "language": "Shell",
+    "name": "JRO424/jro-fable",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:28:01Z",
+    "url": "https://github.com/JRO424/jro-fable"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:25:07Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:25:00Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-11T18:25:00Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-11T18:24:46Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 17825,
+    "updated_at": "2026-06-11T18:24:32Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:23:52Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:23:05Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T18:22:32Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills + headless Python engine giving an AI coding agent full control of KiCad \u2014 edit, verify, review & fabricate",
     "id": "AvatarSD/KiSkill",
     "language": "Python",
@@ -54,21 +153,12 @@
     "url": "https://github.com/hieu5882/telos-customer-validator"
   },
   {
-    "description": "Claude Code skill that makes Fable 5 up to 76% cheaper \u2014 routes token-heavy work to Sonnet/Haiku subagents, keeps Fable ",
-    "id": "JRO424/jro-fable",
-    "language": "Shell",
-    "name": "JRO424/jro-fable",
-    "stars": 0,
-    "updated_at": "2026-06-11T18:18:15Z",
-    "url": "https://github.com/JRO424/jro-fable"
-  },
-  {
     "description": "Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents",
     "id": "AlexShchuka/neuro-matrix",
     "language": "Python",
     "name": "AlexShchuka/neuro-matrix",
     "stars": 3,
-    "updated_at": "2026-06-11T18:20:24Z",
+    "updated_at": "2026-06-11T18:27:52Z",
     "url": "https://github.com/AlexShchuka/neuro-matrix"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 7,
     "updated_at": "2026-06-11T18:15:38Z",
     "url": "https://github.com/anmolnagpal/devops-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T18:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -214,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T18:06:16Z",
     "url": "https://github.com/soulmachine/skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-11T18:06:00Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T17:49:11Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16259,
-    "updated_at": "2026-06-11T17:48:39Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "\u2b50\ufe0f Understand Anything Software Full Version v1.2 featuring Latest Build 2023, Activation Keygen, Setup Installer, Pro L",
-    "id": "NoviceMultiplexer29/Understand-Anything-Download-2026",
-    "language": "\u2014",
-    "name": "NoviceMultiplexer29/Understand-Anything-Download-2026",
-    "stars": 1,
-    "updated_at": "2026-06-11T17:38:13Z",
-    "url": "https://github.com/NoviceMultiplexer29/Understand-Anything-Download-2026"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 9,
-    "updated_at": "2026-06-11T17:36:30Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-11T18:10:53Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-11T17:35:47Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Claude Plugin for Beau",
-    "id": "beau-education/beau-plugin",
-    "language": "\u2014",
-    "name": "beau-education/beau-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-11T17:31:16Z",
-    "url": "https://github.com/beau-education/beau-plugin"
-  },
-  {
-    "description": "Open library of legal AI skills (SKILL.md) for MCP-compatible agents \u2014 39 jurisdictions, 200+ plugins, Apache-2.0.",
-    "id": "ThomasMoreAI/legal-skills-open",
-    "language": "Python",
-    "name": "ThomasMoreAI/legal-skills-open",
-    "stars": 17,
-    "updated_at": "2026-06-11T17:29:40Z",
-    "url": "https://github.com/ThomasMoreAI/legal-skills-open"
-  },
-  {
-    "description": "One brain for all your agents",
-    "id": "activeloopai/hivemind",
-    "language": "TypeScript",
-    "name": "activeloopai/hivemind",
-    "stars": 1045,
-    "updated_at": "2026-06-11T17:26:30Z",
-    "url": "https://github.com/activeloopai/hivemind"
   }
 ]
