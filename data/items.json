@@ -1,10 +1,109 @@
 [
   {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-11T11:12:30Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "\"Automated AI short-video studio: idea \u2192 published YouTube Short, $0.06/video\"",
+    "id": "dasein108/slope-studio",
+    "language": "Python",
+    "name": "dasein108/slope-studio",
+    "stars": 3,
+    "updated_at": "2026-06-11T11:11:47Z",
+    "url": "https://github.com/dasein108/slope-studio"
+  },
+  {
+    "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, ",
+    "id": "Xopoko/plug-n-skills",
+    "language": "Python",
+    "name": "Xopoko/plug-n-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T11:07:33Z",
+    "url": "https://github.com/Xopoko/plug-n-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:06:18Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "This AI Skill supports development using the Next2D Framework and Next2D Player. It assists with code generation followi",
+    "id": "Next2D/next2d-development-assistant",
+    "language": "\u2014",
+    "name": "Next2D/next2d-development-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:05:35Z",
+    "url": "https://github.com/Next2D/next2d-development-assistant"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 388,
+    "updated_at": "2026-06-11T11:03:45Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "MIT reusable AI skills for Codex and Claude Code: safe publishing, research briefs, case studies, web scraping, copy cle",
+    "id": "jqaisystems/jqai-ai-skills",
+    "language": "HTML",
+    "name": "jqaisystems/jqai-ai-skills",
+    "stars": 2,
+    "updated_at": "2026-06-11T11:03:20Z",
+    "url": "https://github.com/jqaisystems/jqai-ai-skills"
+  },
+  {
+    "description": "My assortment of Claude Code skills",
+    "id": "ivuorinen/skills",
+    "language": "Python",
+    "name": "ivuorinen/skills",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:02:53Z",
+    "url": "https://github.com/ivuorinen/skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:02:34Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:00:58Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-11T11:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61894,
+    "stars": 61895,
     "updated_at": "2026-06-11T10:59:46Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -13,8 +112,8 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 29802,
-    "updated_at": "2026-06-11T10:59:32Z",
+    "stars": 29804,
+    "updated_at": "2026-06-11T11:08:47Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -61,6 +160,15 @@
     "stars": 16246,
     "updated_at": "2026-06-11T10:54:44Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Hourly dispatch simulator for PV + battery + a hydro-cooled bitcoin miner as thermal-cascade heat source. Sized a real s",
+    "id": "davidsanz21/hashheat-dispatch",
+    "language": "Python",
+    "name": "davidsanz21/hashheat-dispatch",
+    "stars": 0,
+    "updated_at": "2026-06-11T10:54:11Z",
+    "url": "https://github.com/davidsanz21/hashheat-dispatch"
   },
   {
     "description": "Quality gates wired into the Claude Code agent lifecycle",
@@ -117,15 +225,6 @@
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 388,
-    "updated_at": "2026-06-11T10:50:10Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
     "id": "Ford-1/postgresql-mcp-connector",
     "language": "HTML",
@@ -142,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T10:49:15Z",
     "url": "https://github.com/Guohao1020/docs-cockpit"
-  },
-  {
-    "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, ",
-    "id": "Xopoko/plug-n-skills",
-    "language": "Python",
-    "name": "Xopoko/plug-n-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T10:49:06Z",
-    "url": "https://github.com/Xopoko/plug-n-skills"
   },
   {
     "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
@@ -214,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T10:45:20Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T10:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -338,7 +419,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 262,
-    "updated_at": "2026-06-11T10:43:34Z",
+    "updated_at": "2026-06-11T11:04:53Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -349,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T10:23:29Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-11T10:21:14Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Free AI agent skills for Amazon sellers\u2014  keyword research, competitor analysis, listing audit & more. Works with OpenCl",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T10:18:01Z",
     "url": "https://github.com/zydo/skills"
-  },
-  {
-    "description": "Claude skill: HTML email design intelligence - renders perfectly in Outlook, Gmail, Apple Mail. Bulletproof buttons, dar",
-    "id": "jayesh-bansal/email-pro-max",
-    "language": "HTML",
-    "name": "jayesh-bansal/email-pro-max",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:16:48Z",
-    "url": "https://github.com/jayesh-bansal/email-pro-max"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:11:02Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:10:58Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Skills for AI agents to read web analytics like a senior analyst: diagnose traffic, judge channels, read funnels, declar",
-    "id": "clamp-sh/analytics-skills",
-    "language": "\u2014",
-    "name": "clamp-sh/analytics-skills",
-    "stars": 6,
-    "updated_at": "2026-06-11T10:10:51Z",
-    "url": "https://github.com/clamp-sh/analytics-skills"
-  },
-  {
-    "description": "Outbound sales, autopiloted.",
-    "id": "aitit-inc/leadace",
-    "language": "TypeScript",
-    "name": "aitit-inc/leadace",
-    "stars": 1,
-    "updated_at": "2026-06-11T10:08:47Z",
-    "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-06-11T10:08:35Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "My personal agent skill repository, primarily focused on game development.",
-    "id": "Yuki001/game-dev-skills",
-    "language": "Python",
-    "name": "Yuki001/game-dev-skills",
-    "stars": 19,
-    "updated_at": "2026-06-11T10:06:59Z",
-    "url": "https://github.com/Yuki001/game-dev-skills"
-  },
-  {
-    "description": "A curated Claude Code plugin with skills for anything Claude can do.",
-    "id": "toolbox-playground/super-claudio",
-    "language": "\u2014",
-    "name": "toolbox-playground/super-claudio",
-    "stars": 2,
-    "updated_at": "2026-06-11T10:06:40Z",
-    "url": "https://github.com/toolbox-playground/super-claudio"
   }
 ]
