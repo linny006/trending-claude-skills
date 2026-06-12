@@ -1,5 +1,86 @@
 [
   {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 389,
+    "updated_at": "2026-06-12T18:59:37Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Export Claude and Codex sessions to portable HTML",
+    "id": "y-a-v-a/session-export",
+    "language": "JavaScript",
+    "name": "y-a-v-a/session-export",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:57:08Z",
+    "url": "https://github.com/y-a-v-a/session-export"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-12T18:57:06Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
+    "id": "Scorpio-1111/OmicsAgent-Skills",
+    "language": "HTML",
+    "name": "Scorpio-1111/OmicsAgent-Skills",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:56:43Z",
+    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
+  },
+  {
+    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
+    "id": "Mary2241/seo-skills-agent-toolbox",
+    "language": "HTML",
+    "name": "Mary2241/seo-skills-agent-toolbox",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:56:33Z",
+    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:55:57Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI altern",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 1447,
+    "updated_at": "2026-06-12T18:53:01Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 1172,
+    "updated_at": "2026-06-12T18:46:10Z",
+    "url": "https://github.com/Kaelio/ktx"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T18:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Find, vet, and install the right AI agent skill from a natural-language need.",
     "id": "a28939876-max/world-aid",
     "language": "Python",
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T18:31:26Z",
     "url": "https://github.com/wasulajr/headsup"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-12T18:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -108,13 +180,22 @@
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
-    "description": "Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI altern",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 1446,
-    "updated_at": "2026-06-12T18:40:18Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+    "description": "Platform-agnostic AI skill: transform a brand brief into a complete visual campaign \u2014 concept, brand system, style ancho",
+    "id": "torykovdya/ai-campaign-studio",
+    "language": "\u2014",
+    "name": "torykovdya/ai-campaign-studio",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:21:57Z",
+    "url": "https://github.com/torykovdya/ai-campaign-studio"
+  },
+  {
+    "description": "Platform-agnostic AI skill: transform any project idea into a complete technical blueprint \u2014 stack, schema, API, roadmap",
+    "id": "torykovdya/ai-workflow-architect",
+    "language": "\u2014",
+    "name": "torykovdya/ai-workflow-architect",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:21:51Z",
+    "url": "https://github.com/torykovdya/ai-workflow-architect"
   },
   {
     "description": "An open-source companion repo for Agentique.io: a free community hub for discovering, sharing, and reusing trusted AI ag",
@@ -176,7 +257,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 90,
-    "updated_at": "2026-06-12T18:22:17Z",
+    "updated_at": "2026-06-12T18:49:14Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-12T17:48:53Z",
     "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:48:38Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:48:35Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:48:32Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:47:20Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Project design skill for Claude Code \u2014 assembles complete planning packages for software projects",
-    "id": "Mr-RedHat-fb/project-design-skill",
-    "language": "\u2014",
-    "name": "Mr-RedHat-fb/project-design-skill",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:47:19Z",
-    "url": "https://github.com/Mr-RedHat-fb/project-design-skill"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:46:55Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Optimize your AI workflow with this open-source Electron desktop client for Claude, featuring native integration and eff",
-    "id": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "language": "JavaScript",
-    "name": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:46:55Z",
-    "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:46:34Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:46:28Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
   }
 ]
