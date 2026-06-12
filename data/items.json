@@ -1,10 +1,100 @@
 [
   {
+    "description": "Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents",
+    "id": "AlexShchuka/neuro-matrix",
+    "language": "Python",
+    "name": "AlexShchuka/neuro-matrix",
+    "stars": 3,
+    "updated_at": "2026-06-12T06:15:00Z",
+    "url": "https://github.com/AlexShchuka/neuro-matrix"
+  },
+  {
+    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
+    "id": "raelli/octowiz",
+    "language": "Python",
+    "name": "raelli/octowiz",
+    "stars": 2,
+    "updated_at": "2026-06-12T06:14:38Z",
+    "url": "https://github.com/raelli/octowiz"
+  },
+  {
+    "description": "Claude skill for Betaflight: FPV drone configuration, PID tuning, log analysis, and troubleshooting.",
+    "id": "SebGalina/betaflight-claude-skill",
+    "language": "HTML",
+    "name": "SebGalina/betaflight-claude-skill",
+    "stars": 22,
+    "updated_at": "2026-06-12T06:12:57Z",
+    "url": "https://github.com/SebGalina/betaflight-claude-skill"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 859,
+    "updated_at": "2026-06-12T06:10:03Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Production-grade Claude skills: humanizer-ru (natural Russian text without AI markers) and creativity (a non-obvious sol",
+    "id": "BislanB/claude-skills-ru",
+    "language": "\u2014",
+    "name": "BislanB/claude-skills-ru",
+    "stars": 1,
+    "updated_at": "2026-06-12T06:09:03Z",
+    "url": "https://github.com/BislanB/claude-skills-ru"
+  },
+  {
+    "description": "A family of branded-media plugins for Claude Code \u2014 decks, images & 2D, video, and audio, coupled by CLI capabilities (n",
+    "id": "marsmike/feinschmiede",
+    "language": "Python",
+    "name": "marsmike/feinschmiede",
+    "stars": 3,
+    "updated_at": "2026-06-12T06:08:25Z",
+    "url": "https://github.com/marsmike/feinschmiede"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-12T06:11:19Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "A curated, opinionated guide to Amazon Web Services \u2014 services, tools, official docs, deep-dive guides, and battle-teste",
+    "id": "palpalani/aws-open-guide",
+    "language": "Python",
+    "name": "palpalani/aws-open-guide",
+    "stars": 1,
+    "updated_at": "2026-06-12T06:09:15Z",
+    "url": "https://github.com/palpalani/aws-open-guide"
+  },
+  {
+    "description": "An open editor-in-a-skill for fiction writers. Diagnosis, structure, and memory. The author keeps the pen.",
+    "id": "HarishDvs/Grizzly",
+    "language": "PowerShell",
+    "name": "HarishDvs/Grizzly",
+    "stars": 1,
+    "updated_at": "2026-06-12T06:00:56Z",
+    "url": "https://github.com/HarishDvs/Grizzly"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T06:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 17864,
+    "stars": 17865,
     "updated_at": "2026-06-12T05:59:36Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -18,24 +108,6 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "An open editor-in-a-skill for fiction writers. Diagnosis, structure, and memory. The author keeps the pen.",
-    "id": "HarishDvs/Grizzly",
-    "language": "PowerShell",
-    "name": "HarishDvs/Grizzly",
-    "stars": 0,
-    "updated_at": "2026-06-12T05:55:58Z",
-    "url": "https://github.com/HarishDvs/Grizzly"
-  },
-  {
-    "description": "Production-grade Claude skills: humanizer-ru (natural Russian text without AI markers) and creativity (a non-obvious sol",
-    "id": "BislanB/claude-skills-ru",
-    "language": "\u2014",
-    "name": "BislanB/claude-skills-ru",
-    "stars": 0,
-    "updated_at": "2026-06-12T05:55:38Z",
-    "url": "https://github.com/BislanB/claude-skills-ru"
-  },
-  {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
     "id": "ssurmic/claude-investment-skills",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-06-12T05:52:43Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 859,
-    "updated_at": "2026-06-12T05:52:39Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
     "description": "Crevideo Reach \u2014 the TikTok Shop affiliate outreach & marketing platform, packaged as a Claude (MCP + Skills) plugin; th",
@@ -70,33 +133,6 @@
     "stars": 262,
     "updated_at": "2026-06-12T05:48:07Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-12T05:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A curated, opinionated guide to Amazon Web Services \u2014 services, tools, official docs, deep-dive guides, and battle-teste",
-    "id": "palpalani/aws-open-guide",
-    "language": "Python",
-    "name": "palpalani/aws-open-guide",
-    "stars": 1,
-    "updated_at": "2026-06-12T05:43:02Z",
-    "url": "https://github.com/palpalani/aws-open-guide"
-  },
-  {
-    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
-    "id": "raelli/octowiz",
-    "language": "Python",
-    "name": "raelli/octowiz",
-    "stars": 2,
-    "updated_at": "2026-06-12T05:54:38Z",
-    "url": "https://github.com/raelli/octowiz"
   },
   {
     "description": "a collection of AI Agent skills",
@@ -126,15 +162,6 @@
     "url": "https://github.com/air-gapped/skills"
   },
   {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-12T05:54:21Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
     "description": "Fill standard legal agreement templates and produce signable DOCX files.",
     "id": "open-agreements/open-agreements",
     "language": "TypeScript",
@@ -151,15 +178,6 @@
     "stars": 18,
     "updated_at": "2026-06-12T05:33:43Z",
     "url": "https://github.com/AIGC-Hackers/mcpx"
-  },
-  {
-    "description": "A family of branded-media plugins for Claude Code \u2014 decks, images & 2D, video, and audio, coupled by CLI capabilities (n",
-    "id": "marsmike/feinschmiede",
-    "language": "Python",
-    "name": "marsmike/feinschmiede",
-    "stars": 3,
-    "updated_at": "2026-06-12T05:33:37Z",
-    "url": "https://github.com/marsmike/feinschmiede"
   },
   {
     "description": "A portable library of reusable AI skills, prompts, workflows, schemas, and automation patterns designed for ChatGPT, Cla",
@@ -270,15 +288,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents",
-    "id": "AlexShchuka/neuro-matrix",
-    "language": "Python",
-    "name": "AlexShchuka/neuro-matrix",
-    "stars": 3,
-    "updated_at": "2026-06-12T05:57:15Z",
-    "url": "https://github.com/AlexShchuka/neuro-matrix"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -364,7 +373,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61955,
+    "stars": 61954,
     "updated_at": "2026-06-12T04:47:10Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T04:26:41Z",
     "url": "https://github.com/Modellix/modellix-skill"
-  },
-  {
-    "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
-    "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "language": "JavaScript",
-    "name": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:26:22Z",
-    "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
   }
 ]
