@@ -1,5 +1,95 @@
 [
   {
+    "description": "Open source Claude skill library for product design teams running on AI. From PRD to validated prototype in days.",
+    "id": "royvergara/design-team-os",
+    "language": "\u2014",
+    "name": "royvergara/design-team-os",
+    "stars": 1,
+    "updated_at": "2026-06-12T12:40:53Z",
+    "url": "https://github.com/royvergara/design-team-os"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:38:56Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:38:51Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16287,
+    "updated_at": "2026-06-12T12:38:06Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Single-file project dashboard (Kanban + Sprint + KPI) from YAML frontmatter. Ships as a Claude Code plugin.",
+    "id": "Guohao1020/docs-cockpit",
+    "language": "Python",
+    "name": "Guohao1020/docs-cockpit",
+    "stars": 2,
+    "updated_at": "2026-06-12T12:35:50Z",
+    "url": "https://github.com/Guohao1020/docs-cockpit"
+  },
+  {
+    "description": "A family of branded-media plugins for Claude Code \u2014 decks, images & 2D, video, and audio, coupled by CLI capabilities (n",
+    "id": "marsmike/feinschmiede",
+    "language": "Python",
+    "name": "marsmike/feinschmiede",
+    "stars": 3,
+    "updated_at": "2026-06-12T12:34:50Z",
+    "url": "https://github.com/marsmike/feinschmiede"
+  },
+  {
+    "description": "An agent skills marketplace from Narrative I/O \u2014 interactive, AI-powered slash-command workflows for the recurring work ",
+    "id": "narrative-io/narrative-skills-marketplace",
+    "language": "Go Template",
+    "name": "narrative-io/narrative-skills-marketplace",
+    "stars": 4,
+    "updated_at": "2026-06-12T12:41:51Z",
+    "url": "https://github.com/narrative-io/narrative-skills-marketplace"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-12T12:39:42Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "AI \u7f51\u6587\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u6d41\u6c34\u7ebf\uff0c12 \u4e2a skill \u5305\u3002\u914d\u5957\u7ad9\u70b9 novelcatch.com\uff1a\u756a\u8304\u6bcf\u65e5\u626b\u699c / \u62c6\u4e66 / \u60c5\u62a5\uff08\u514d\u8d39\uff09",
+    "id": "mosonlab/open-novel-fanqie",
+    "language": "TypeScript",
+    "name": "mosonlab/open-novel-fanqie",
+    "stars": 1,
+    "updated_at": "2026-06-12T12:31:23Z",
+    "url": "https://github.com/mosonlab/open-novel-fanqie"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T12:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A lightweight MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI - saving context window and t",
     "id": "rauls-kjarners/claude-to-agy",
     "language": "Python",
@@ -108,15 +198,6 @@
     "url": "https://github.com/whobat/AI-Agent-skills"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-12T12:20:40Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -149,7 +230,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 90,
-    "updated_at": "2026-06-12T12:17:37Z",
+    "updated_at": "2026-06-12T12:30:32Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -160,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T12:16:03Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-12T12:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -214,15 +286,6 @@
     "stars": 133,
     "updated_at": "2026-06-12T12:10:28Z",
     "url": "https://github.com/GetBindu/awesome-claude-code-and-skills"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16286,
-    "updated_at": "2026-06-12T12:28:56Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Open-source Claude Code skills and Codex skills for AI-first work. Audit, re-engineer, and bootstrap projects with AI-fi",
@@ -306,15 +369,6 @@
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
-    "description": "Single-file project dashboard (Kanban + Sprint + KPI) from YAML frontmatter. Ships as a Claude Code plugin.",
-    "id": "Guohao1020/docs-cockpit",
-    "language": "Python",
-    "name": "Guohao1020/docs-cockpit",
-    "stars": 2,
-    "updated_at": "2026-06-12T11:39:21Z",
-    "url": "https://github.com/Guohao1020/docs-cockpit"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -346,7 +400,7 @@
     "id": "Kaelio/ktx",
     "language": "TypeScript",
     "name": "Kaelio/ktx",
-    "stars": 1162,
+    "stars": 1164,
     "updated_at": "2026-06-12T11:37:28Z",
     "url": "https://github.com/Kaelio/ktx"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T11:27:44Z",
     "url": "https://github.com/Ishanshah09/port-killer-swiftly"
-  },
-  {
-    "description": "Miftahul Islam Efaz \u2014 Entrepreneur, Vibe-Coder & AI Orchestrator building digital products and automation systems for in",
-    "id": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
-    "language": "TypeScript",
-    "name": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:21:48Z",
-    "url": "https://github.com/Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 61987,
-    "updated_at": "2026-06-12T11:21:19Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Proactive 5h usage guard for Claude Code (macOS). Pause before extra wallet on long Fable 5 / subagent runs. /usage-guar",
-    "id": "shirley-xue-2025/usage-guard",
-    "language": "Python",
-    "name": "shirley-xue-2025/usage-guard",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:21:15Z",
-    "url": "https://github.com/shirley-xue-2025/usage-guard"
-  },
-  {
-    "description": "Remove padr\u00f5es de escrita de IA em pt-BR: \"\u00e9 importante ressaltar\", contraste bin\u00e1rio, gerundismo. Calibrada contra text",
-    "id": "ViniciusStanula/Zero-Lero",
-    "language": "\u2014",
-    "name": "ViniciusStanula/Zero-Lero",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:18:31Z",
-    "url": "https://github.com/ViniciusStanula/Zero-Lero"
-  },
-  {
-    "description": "A complete Business Analyst lifecycle skill \u2014 24 structured prompts for enterprise software delivery",
-    "id": "julijakvetna/ba-project-factory",
-    "language": "\u2014",
-    "name": "julijakvetna/ba-project-factory",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:17:13Z",
-    "url": "https://github.com/julijakvetna/ba-project-factory"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:12:07Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
