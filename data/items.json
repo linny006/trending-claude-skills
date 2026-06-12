@@ -1,5 +1,68 @@
 [
   {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-12T15:44:30Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 81,
+    "updated_at": "2026-06-12T15:43:46Z",
+    "url": "https://github.com/testdouble/han"
+  },
+  {
+    "description": " \ud83e\uddea A/B test your agent skills \u2014 find out if your SKILL.md actually helps the model or is just a placebo. Blind-graded tr",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 3,
+    "updated_at": "2026-06-12T15:41:30Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-12T15:39:09Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-12T15:32:44Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Claude Code skill \u0e2a\u0e23\u0e49\u0e32\u0e07\u0e43\u0e1a\u0e40\u0e2a\u0e19\u0e2d\u0e23\u0e32\u0e04\u0e32\u0e1c\u0e48\u0e32\u0e19\u0e1a\u0e17\u0e2a\u0e19\u0e17\u0e19\u0e32 \u0e23\u0e2d\u0e07\u0e23\u0e31\u0e1a Excel, Word, PDF \u0e1e\u0e23\u0e49\u0e2d\u0e21 VAT \u0e2a\u0e48\u0e27\u0e19\u0e25\u0e14 \u0e41\u0e25\u0e30\u0e10\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e25\u0e39\u0e01\u0e04\u0e49\u0e32 \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1f\u0e23\u0e35\u0e41\u0e25\u0e19\u0e0b\u0e4c\u0e41",
+    "id": "SigmaF001/claude-quotation-skill",
+    "language": "\u2014",
+    "name": "SigmaF001/claude-quotation-skill",
+    "stars": 0,
+    "updated_at": "2026-06-12T15:30:59Z",
+    "url": "https://github.com/SigmaF001/claude-quotation-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T15:30:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
     "id": "blisspixel/primr",
     "language": "Python",
@@ -36,15 +99,6 @@
     "url": "https://github.com/Guohao1020/docs-cockpit"
   },
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-12T15:26:37Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 354,
     "updated_at": "2026-06-12T15:24:34Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
-    "id": "testdouble/han",
-    "language": "Shell",
-    "name": "testdouble/han",
-    "stars": 81,
-    "updated_at": "2026-06-12T15:24:14Z",
-    "url": "https://github.com/testdouble/han"
   },
   {
     "description": "A collection of practical Claude Code skills \u2014 multi-LLM evaluation, domain management, planning, writing quality, and p",
@@ -79,24 +124,6 @@
     "stars": 15,
     "updated_at": "2026-06-12T15:19:22Z",
     "url": "https://github.com/mgifford/accessibility-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-12T15:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": " \ud83e\uddea A/B test your agent skills \u2014 find out if your SKILL.md actually helps the model or is just a placebo. Blind-graded tr",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 3,
-    "updated_at": "2026-06-12T15:14:42Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "A Claude skill that gives your projects persistent memory \u2014 interview-based kickoff with auto-tracked decisions and prog",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "marsmike/feinschmiede",
     "stars": 3,
-    "updated_at": "2026-06-12T15:29:04Z",
+    "updated_at": "2026-06-12T15:43:36Z",
     "url": "https://github.com/marsmike/feinschmiede"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T15:08:29Z",
     "url": "https://github.com/dkaleganov/personal-ai-systems"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-12T15:02:40Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, ",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-12T14:46:46Z",
     "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Optimize your AI workflow with this open-source Electron desktop client for Claude, featuring native integration and eff",
-    "id": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "language": "JavaScript",
-    "name": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "stars": 2,
-    "updated_at": "2026-06-12T14:46:29Z",
-    "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-06-12T14:46:26Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
   }
 ]
