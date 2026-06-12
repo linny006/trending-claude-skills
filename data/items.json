@@ -1,5 +1,50 @@
 [
   {
+    "description": "Three Claude skills for keeping long projects coherent across chat sessions: verified handovers (session-close / session",
+    "id": "Oldvictech/session-continuity",
+    "language": "\u2014",
+    "name": "Oldvictech/session-continuity",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:44:30Z",
+    "url": "https://github.com/Oldvictech/session-continuity"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-12T12:44:49Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:44:16Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:44:16Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T12:42:09Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Open source Claude skill library for product design teams running on AI. From PRD to validated prototype in days.",
     "id": "royvergara/design-team-os",
     "language": "\u2014",
@@ -25,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-06-12T12:38:51Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Claude Code skill that audits your product until it stops finding things - then proves it. 24 lenses, 2 convergence loop",
+    "id": "apoorvjain25/production-audit",
+    "language": "\u2014",
+    "name": "apoorvjain25/production-audit",
+    "stars": 0,
+    "updated_at": "2026-06-12T12:38:38Z",
+    "url": "https://github.com/apoorvjain25/production-audit"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
@@ -63,15 +117,6 @@
     "url": "https://github.com/narrative-io/narrative-skills-marketplace"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-12T12:39:42Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "AI \u7f51\u6587\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u6d41\u6c34\u7ebf\uff0c12 \u4e2a skill \u5305\u3002\u914d\u5957\u7ad9\u70b9 novelcatch.com\uff1a\u756a\u8304\u6bcf\u65e5\u626b\u699c / \u62c6\u4e66 / \u60c5\u62a5\uff08\u514d\u8d39\uff09",
     "id": "mosonlab/open-novel-fanqie",
     "language": "TypeScript",
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-12T12:31:23Z",
     "url": "https://github.com/mosonlab/open-novel-fanqie"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-12T12:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A lightweight MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI - saving context window and t",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T12:23:16Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-12T12:22:47Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "\u2b50\ufe0f Understand Anything Software Full Version v1.2 featuring Latest Build 2023, Activation Keygen, Setup Installer, Pro L",
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "glitchwerks/claude-wayfinder",
     "stars": 1,
-    "updated_at": "2026-06-12T12:25:29Z",
+    "updated_at": "2026-06-12T12:43:30Z",
     "url": "https://github.com/glitchwerks/claude-wayfinder"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T11:35:15Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:34:05Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:30:30Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Kill Ports Fast 2026 - Best Free kkp CLI Tool for Process Management",
-    "id": "Ishanshah09/port-killer-swiftly",
-    "language": "HTML",
-    "name": "Ishanshah09/port-killer-swiftly",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:27:44Z",
-    "url": "https://github.com/Ishanshah09/port-killer-swiftly"
   }
 ]
