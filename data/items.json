@@ -1,5 +1,59 @@
 [
   {
+    "description": "Find, vet, and install the right AI agent skill from a natural-language need.",
+    "id": "a28939876-max/world-aid",
+    "language": "Python",
+    "name": "a28939876-max/world-aid",
+    "stars": 2,
+    "updated_at": "2026-06-12T18:42:17Z",
+    "url": "https://github.com/a28939876-max/world-aid"
+  },
+  {
+    "description": "Production-quality Claude Code skills for context handoff, project bootstrap, and skill catalog. Evaluated against Anthr",
+    "id": "cabaynes/charles-claude-skills",
+    "language": "Shell",
+    "name": "cabaynes/charles-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:42:14Z",
+    "url": "https://github.com/cabaynes/charles-claude-skills"
+  },
+  {
+    "description": "Agent Skills that bring DataRobot platform capabilities to your coding agents",
+    "id": "datarobot-oss/datarobot-agent-skills",
+    "language": "Python",
+    "name": "datarobot-oss/datarobot-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-06-12T18:31:42Z",
+    "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
+  },
+  {
+    "description": "Glanceable Claude Code state in iTerm2 tabs \u2014 white=idle, blue=processing, orange=waiting. iTerm2 daemon + launchd watch",
+    "id": "wasulajr/headsup",
+    "language": "Shell",
+    "name": "wasulajr/headsup",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:31:26Z",
+    "url": "https://github.com/wasulajr/headsup"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T18:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 2,
+    "updated_at": "2026-06-12T18:30:54Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -36,15 +90,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Find, vet, and install the right AI agent skill from a natural-language need.",
-    "id": "a28939876-max/world-aid",
-    "language": "Python",
-    "name": "a28939876-max/world-aid",
-    "stars": 2,
-    "updated_at": "2026-06-12T18:26:47Z",
-    "url": "https://github.com/a28939876-max/world-aid"
-  },
-  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -68,17 +113,8 @@
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "stars": 1446,
-    "updated_at": "2026-06-12T18:24:46Z",
+    "updated_at": "2026-06-12T18:40:18Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 2,
-    "updated_at": "2026-06-12T18:30:09Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "An open-source companion repo for Agentique.io: a free community hub for discovering, sharing, and reusing trusted AI ag",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T18:15:25Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-12T18:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T17:46:28Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "\u53bbAI\u5473\u5199\u4f5c\u6280\u80fd \u2014 5\u7ef4\u8bc4\u5206\u4f53\u7cfb\uff0c\u68c0\u6d4b41\u79cdAI\u53cd\u6a21\u5f0f\u3002\u8ba9 Claude/Cursor/Copilot \u5199\u51fa\u4eba\u8bdd\u3002Claude Code Skill\uff0c\u652f\u6301\u4e2d\u82f1\u6587\u3002",
-    "id": "tomerose/stop-slop",
-    "language": "Python",
-    "name": "tomerose/stop-slop",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:46:22Z",
-    "url": "https://github.com/tomerose/stop-slop"
-  },
-  {
-    "description": "International Justice and tribunals",
-    "id": "jeannesulzer/international-criminal-tribunals-skills",
-    "language": "Python",
-    "name": "jeannesulzer/international-criminal-tribunals-skills",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:46:06Z",
-    "url": "https://github.com/jeannesulzer/international-criminal-tribunals-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:45:56Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
   }
 ]
