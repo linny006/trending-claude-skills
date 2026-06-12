@@ -1,5 +1,86 @@
 [
   {
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 17864,
+    "updated_at": "2026-06-12T05:59:36Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-12T05:58:12Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "An open editor-in-a-skill for fiction writers. Diagnosis, structure, and memory. The author keeps the pen.",
+    "id": "HarishDvs/Grizzly",
+    "language": "PowerShell",
+    "name": "HarishDvs/Grizzly",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:55:58Z",
+    "url": "https://github.com/HarishDvs/Grizzly"
+  },
+  {
+    "description": "Production-grade Claude skills: humanizer-ru (natural Russian text without AI markers) and creativity (a non-obvious sol",
+    "id": "BislanB/claude-skills-ru",
+    "language": "\u2014",
+    "name": "BislanB/claude-skills-ru",
+    "stars": 0,
+    "updated_at": "2026-06-12T05:55:38Z",
+    "url": "https://github.com/BislanB/claude-skills-ru"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-12T05:52:43Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 859,
+    "updated_at": "2026-06-12T05:52:39Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Crevideo Reach \u2014 the TikTok Shop affiliate outreach & marketing platform, packaged as a Claude (MCP + Skills) plugin; th",
+    "id": "crevideo/crevideo-reach",
+    "language": "\u2014",
+    "name": "crevideo/crevideo-reach",
+    "stars": 2,
+    "updated_at": "2026-06-12T05:50:00Z",
+    "url": "https://github.com/crevideo/crevideo-reach"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 262,
+    "updated_at": "2026-06-12T05:48:07Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T05:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A curated, opinionated guide to Amazon Web Services \u2014 services, tools, official docs, deep-dive guides, and battle-teste",
     "id": "palpalani/aws-open-guide",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "raelli/octowiz",
     "stars": 2,
-    "updated_at": "2026-06-12T05:39:31Z",
+    "updated_at": "2026-06-12T05:54:38Z",
     "url": "https://github.com/raelli/octowiz"
   },
   {
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-06-12T05:35:59Z",
+    "updated_at": "2026-06-12T05:54:21Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -99,24 +180,6 @@
     "url": "https://github.com/HsuanYuLee/polaris"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-12T05:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 17862,
-    "updated_at": "2026-06-12T05:36:04Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
     "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
     "id": "Mary2241/seo-skills-agent-toolbox",
     "language": "HTML",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T05:22:23Z",
     "url": "https://github.com/1marcelserrano/mscs-segundo-cerebro"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 262,
-    "updated_at": "2026-06-12T05:32:27Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
@@ -216,21 +270,12 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Crevideo Reach \u2014 the TikTok Shop affiliate outreach & marketing platform, packaged as a Claude (MCP + Skills) plugin; th",
-    "id": "crevideo/crevideo-reach",
-    "language": "\u2014",
-    "name": "crevideo/crevideo-reach",
-    "stars": 2,
-    "updated_at": "2026-06-12T05:12:54Z",
-    "url": "https://github.com/crevideo/crevideo-reach"
-  },
-  {
     "description": "Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents",
     "id": "AlexShchuka/neuro-matrix",
     "language": "Python",
     "name": "AlexShchuka/neuro-matrix",
     "stars": 3,
-    "updated_at": "2026-06-12T05:40:04Z",
+    "updated_at": "2026-06-12T05:57:15Z",
     "url": "https://github.com/AlexShchuka/neuro-matrix"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T04:26:22Z",
     "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:26:07Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
-    "id": "Daybreakbluepeter503/advise-project-approach",
-    "language": "Python",
-    "name": "Daybreakbluepeter503/advise-project-approach",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:25:54Z",
-    "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:25:51Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Generate personalized real-life side quests to build skills and foster connections with this Claude-powered quest archit",
-    "id": "Glamourous-mammalia359/quest-drop",
-    "language": "\u2014",
-    "name": "Glamourous-mammalia359/quest-drop",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:25:51Z",
-    "url": "https://github.com/Glamourous-mammalia359/quest-drop"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:25:33Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
   }
 ]
