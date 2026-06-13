@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\udda5\ufe0f Automate browser tasks effortlessly with this Claude Skill, allowing dynamic Playwright code execution tailored to yo",
+    "id": "jpulido240-svg/playwright-skill",
+    "language": "JavaScript",
+    "name": "jpulido240-svg/playwright-skill",
+    "stars": 2,
+    "updated_at": "2026-06-13T12:44:59Z",
+    "url": "https://github.com/jpulido240-svg/playwright-skill"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 1,
+    "updated_at": "2026-06-13T12:44:54Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
+    "id": "jagmarques/company-skill",
+    "language": "JavaScript",
+    "name": "jagmarques/company-skill",
+    "stars": 1,
+    "updated_at": "2026-06-13T12:44:41Z",
+    "url": "https://github.com/jagmarques/company-skill"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-13T12:43:40Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 389,
+    "updated_at": "2026-06-13T12:35:32Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Claude Code plugin with skills for removing AI-generated tells from writing. Humanize prose without losing your voice.",
+    "id": "SalZaki/antislop",
+    "language": "Python",
+    "name": "SalZaki/antislop",
+    "stars": 0,
+    "updated_at": "2026-06-13T12:30:25Z",
+    "url": "https://github.com/SalZaki/antislop"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-13T12:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "paranoid auditor for Claude Code skills",
     "id": "AntonioTimo/skillchecker",
     "language": "Python",
@@ -50,7 +113,7 @@
     "language": "Shell",
     "name": "zywkloo/wtcraft",
     "stars": 3,
-    "updated_at": "2026-06-13T12:27:16Z",
+    "updated_at": "2026-06-13T12:40:05Z",
     "url": "https://github.com/zywkloo/wtcraft"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/jojoprison/mnemo"
   },
   {
-    "description": "Claude Code plugin with skills for removing AI-generated tells from writing. Humanize prose without losing your voice.",
-    "id": "SalZaki/antislop",
-    "language": "Python",
-    "name": "SalZaki/antislop",
-    "stars": 0,
-    "updated_at": "2026-06-13T12:29:53Z",
-    "url": "https://github.com/SalZaki/antislop"
-  },
-  {
     "description": "A real-time monitoring dashboard for Claude Code",
     "id": "Arindam200/cc-lens",
     "language": "TypeScript",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T12:22:12Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-13T12:15:58Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -169,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-13T12:07:28Z",
     "url": "https://github.com/voidmatcha/e2e-skills"
-  },
-  {
-    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
-    "id": "jagmarques/company-skill",
-    "language": "JavaScript",
-    "name": "jagmarques/company-skill",
-    "stars": 1,
-    "updated_at": "2026-06-13T12:27:43Z",
-    "url": "https://github.com/jagmarques/company-skill"
   },
   {
     "description": "Fill standard legal agreement templates and produce signable DOCX files.",
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T11:49:28Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-13T11:49:22Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T11:44:20Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-06-13T11:44:12Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Curate agent skills and template libraries to build single-file HTML presentations for Claude Code, Cursor, and other AI",
-    "id": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "language": "\u2014",
-    "name": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "stars": 2,
-    "updated_at": "2026-06-13T11:44:09Z",
-    "url": "https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills"
-  },
-  {
-    "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
-    "id": "guildsocialismteamteaching487/Claude-session-smasher",
-    "language": "\u2014",
-    "name": "guildsocialismteamteaching487/Claude-session-smasher",
-    "stars": 0,
-    "updated_at": "2026-06-13T11:43:58Z",
-    "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
   }
 ]
