@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI-powered multi-agent code review. Simulates a customizable team of Engineers performing code review with built-in disc",
+    "id": "spencermarx/open-code-review",
+    "language": "TypeScript",
+    "name": "spencermarx/open-code-review",
+    "stars": 243,
+    "updated_at": "2026-06-13T08:59:30Z",
+    "url": "https://github.com/spencermarx/open-code-review"
+  },
+  {
+    "description": "Claude Skill for Scrapling \u2014 adaptive web scraping with self-healing selectors.",
+    "id": "Thanane15M/scrapling-skill",
+    "language": "\u2014",
+    "name": "Thanane15M/scrapling-skill",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:58:26Z",
+    "url": "https://github.com/Thanane15M/scrapling-skill"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62062,
+    "updated_at": "2026-06-13T08:56:18Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code skills for Magento 2 / Mage-OS development \u2014 module scaffolding, DI conventions, debugging playbooks",
+    "id": "staksoft/magento-claude-skills",
+    "language": "Python",
+    "name": "staksoft/magento-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:56:07Z",
+    "url": "https://github.com/staksoft/magento-claude-skills"
+  },
+  {
+    "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that surv",
+    "id": "OthmanAdi/planning-with-files",
+    "language": "Python",
+    "name": "OthmanAdi/planning-with-files",
+    "stars": 23174,
+    "updated_at": "2026-06-13T08:54:02Z",
+    "url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
+    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
+    "id": "jagmarques/company-skill",
+    "language": "JavaScript",
+    "name": "jagmarques/company-skill",
+    "stars": 1,
+    "updated_at": "2026-06-13T08:52:22Z",
+    "url": "https://github.com/jagmarques/company-skill"
+  },
+  {
+    "description": "Nine Claude Code skills for healthcare billing teams. Pre-submission claim risk, denial decoding, denial routing, appeal",
+    "id": "Upstream-Intelligence/upstream-skills",
+    "language": "\u2014",
+    "name": "Upstream-Intelligence/upstream-skills",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:45:33Z",
+    "url": "https://github.com/Upstream-Intelligence/upstream-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-13T08:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
     "id": "Mary2241/seo-skills-agent-toolbox",
     "language": "HTML",
@@ -36,15 +108,6 @@
     "url": "https://github.com/tonylofgren/aurora-smart-home"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62061,
-    "updated_at": "2026-06-13T08:36:19Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -63,24 +126,6 @@
     "url": "https://github.com/chenpianzhou/zhangxiaolong-skill"
   },
   {
-    "description": "Claude Code skills for Magento 2 / Mage-OS development \u2014 module scaffolding, DI conventions, debugging playbooks",
-    "id": "staksoft/magento-claude-skills",
-    "language": "Python",
-    "name": "staksoft/magento-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-13T08:32:03Z",
-    "url": "https://github.com/staksoft/magento-claude-skills"
-  },
-  {
-    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
-    "id": "jagmarques/company-skill",
-    "language": "JavaScript",
-    "name": "jagmarques/company-skill",
-    "stars": 1,
-    "updated_at": "2026-06-13T08:42:02Z",
-    "url": "https://github.com/jagmarques/company-skill"
-  },
-  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T08:30:47Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-13T08:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A real-time monitoring dashboard for Claude Code",
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T08:21:43Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Nine Claude Code skills for healthcare billing teams. Pre-submission claim risk, denial decoding, denial routing, appeal",
-    "id": "Upstream-Intelligence/upstream-skills",
-    "language": "\u2014",
-    "name": "Upstream-Intelligence/upstream-skills",
-    "stars": 0,
-    "updated_at": "2026-06-13T08:19:43Z",
-    "url": "https://github.com/Upstream-Intelligence/upstream-skills"
   },
   {
     "description": "\u957f\u7bc7\u6df1\u5ea6\u7814\u7a76\u62a5\u544a\u7684\u8c03\u7814/\u5199\u4f5c\u52a9\u624b\uff0c\u4e00\u53e5\u8bdd\u81ea\u52a8\u8dd1\u5b8c\u5b8c\u6574\u62a5\u544a\u8f93\u51fa\u9ad8\u8d28\u91cf PDF \u62a5\u544a",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T07:43:51Z",
     "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Analyze project architecture and estimate operating costs with an AI-driven workflow before you choose your technology s",
-    "id": "Daybreakbluepeter503/advise-project-approach",
-    "language": "Python",
-    "name": "Daybreakbluepeter503/advise-project-approach",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:43:50Z",
-    "url": "https://github.com/Daybreakbluepeter503/advise-project-approach"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-13T07:43:22Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Delegate tasks to DeepSeek right inside your Claude Code / Codex sessions.",
-    "id": "dazuiba/handoff",
-    "language": "Python",
-    "name": "dazuiba/handoff",
-    "stars": 27,
-    "updated_at": "2026-06-13T07:42:22Z",
-    "url": "https://github.com/dazuiba/handoff"
   }
 ]
