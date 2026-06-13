@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-13 07:57 UTC
+> ⏰ Last updated: 2026-06-13 08:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [shauryalowkeygotaura/brand-launchpad](https://github.com/shauryalowkeygotaura/brand-launchpad) | 1 | HTML | 2026-06-13 | One Claude Code skill that turns a single project into a complete brand launch — 12 files (positioning, hero line, 30-da |
-| 2 | [apresmoi/jianglens](https://github.com/apresmoi/jianglens) | 7 | Jupyter Notebook | 2026-06-13 | Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi |
-| 3 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 13843 | Python | 2026-06-13 | The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction. |
-| 4 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-06-13 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 5 | [anombyte93/prd-taskmaster](https://github.com/anombyte93/prd-taskmaster) | 508 | Python | 2026-06-13 | Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task grap |
-| 6 | [jagmarques/company-skill](https://github.com/jagmarques/company-skill) | 1 | JavaScript | 2026-06-13 | Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite |
-| 7 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-06-13 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
-| 8 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 0 | HTML | 2026-06-13 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
-| 9 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 0 | HTML | 2026-06-13 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
-| 10 | [HsuanYuLee/polaris](https://github.com/HsuanYuLee/polaris) | 4 | Shell | 2026-06-13 | A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups |
-| 11 | [zywkloo/wtcraft](https://github.com/zywkloo/wtcraft) | 3 | Shell | 2026-06-13 | Get parallel multi-agent coding on $40/month in subscriptions instead of $200/month in API tokens. |
-| 12 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 3 | Python | 2026-06-13 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 3 | Python | 2026-06-13 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [shauryalowkeygotaura/brand-launchpad](https://github.com/shauryalowkeygotaura/brand-launchpad) | 1 | HTML | 2026-06-13 | One Claude Code skill that turns a single project into a complete brand launch — 12 files (positioning, hero line, 30-da |
+| 3 | [apresmoi/jianglens](https://github.com/apresmoi/jianglens) | 7 | Jupyter Notebook | 2026-06-13 | Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi |
+| 4 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 13843 | Python | 2026-06-13 | The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction. |
+| 5 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-06-13 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 6 | [anombyte93/prd-taskmaster](https://github.com/anombyte93/prd-taskmaster) | 508 | Python | 2026-06-13 | Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task grap |
+| 7 | [jagmarques/company-skill](https://github.com/jagmarques/company-skill) | 1 | JavaScript | 2026-06-13 | Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite |
+| 8 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-06-13 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
+| 9 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 0 | HTML | 2026-06-13 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
+| 10 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 0 | HTML | 2026-06-13 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
+| 11 | [HsuanYuLee/polaris](https://github.com/HsuanYuLee/polaris) | 4 | Shell | 2026-06-13 | A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups |
+| 12 | [zywkloo/wtcraft](https://github.com/zywkloo/wtcraft) | 3 | Shell | 2026-06-13 | Get parallel multi-agent coding on $40/month in subscriptions instead of $200/month in API tokens. |
 | 13 | [whiskfernlowdensitylipoprotein154/figma-console-mcp-skills](https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills) | 0 | JavaScript | 2026-06-13 | Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you |
 | 14 | [Highlydeveloped-trowel635/context-graph-compressor](https://github.com/Highlydeveloped-trowel635/context-graph-compressor) | 0 | — | 2026-06-13 | Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session |
 | 15 | [martinambrus/haive](https://github.com/martinambrus/haive) | 0 | TypeScript | 2026-06-13 | Project orchestration and AI agentic workflow utility. |
