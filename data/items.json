@@ -1,5 +1,122 @@
 [
   {
+    "description": "\u8ba9 AI \u5199 PRD\uff0c\u4f46\u4e0d\u8bb8\u5b83\u778e\u7f16 \u2014 turn a one-line idea into a review-ready PRD",
+    "id": "chenpianzhou/requirement-to-prd-skill",
+    "language": "\u2014",
+    "name": "chenpianzhou/requirement-to-prd-skill",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:59:49Z",
+    "url": "https://github.com/chenpianzhou/requirement-to-prd-skill"
+  },
+  {
+    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
+    "id": "jagmarques/company-skill",
+    "language": "JavaScript",
+    "name": "jagmarques/company-skill",
+    "stars": 2,
+    "updated_at": "2026-06-13T15:59:47Z",
+    "url": "https://github.com/jagmarques/company-skill"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-13T15:59:16Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 7,
+    "updated_at": "2026-06-13T15:56:59Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
+  },
+  {
+    "description": "A Claude Agent Skill that humanizes AI-written marketing and long-form copy: landing pages, sales pages, e-books, case s",
+    "id": "forint573/miAI-Humanizer-Skill-Awesome",
+    "language": "Python",
+    "name": "forint573/miAI-Humanizer-Skill-Awesome",
+    "stars": 1,
+    "updated_at": "2026-06-13T15:56:40Z",
+    "url": "https://github.com/forint573/miAI-Humanizer-Skill-Awesome"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-13T15:56:10Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 3,
+    "updated_at": "2026-06-13T15:55:23Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-13T15:56:25Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:53:04Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-13T15:50:34Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI altern",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 1454,
+    "updated_at": "2026-06-13T15:50:06Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "@conversiontools agent skills",
+    "id": "conversiontools/agent-skills",
+    "language": "\u2014",
+    "name": "conversiontools/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-06-13T15:46:04Z",
+    "url": "https://github.com/conversiontools/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-13T15:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Lint a Claude Skill SKILL.md file for spec compliance and triggering quality. Browser-only, single HTML file.",
     "id": "0xelitesystem/claude-skills-validator",
     "language": "HTML",
@@ -9,13 +126,13 @@
     "url": "https://github.com/0xelitesystem/claude-skills-validator"
   },
   {
-    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
-    "id": "jagmarques/company-skill",
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+    "id": "worldwonderer/oh-story-claudecode",
     "language": "JavaScript",
-    "name": "jagmarques/company-skill",
-    "stars": 2,
-    "updated_at": "2026-06-13T15:43:46Z",
-    "url": "https://github.com/jagmarques/company-skill"
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 2394,
+    "updated_at": "2026-06-13T15:54:46Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
   {
     "description": "Always Be Cooking - Claude Code plugin that drives features from plan \u2192 tracker sub-issues \u2192 parallel shipping \u2192 review ",
@@ -23,26 +140,8 @@
     "language": "Shell",
     "name": "semanticpixel/abc",
     "stars": 0,
-    "updated_at": "2026-06-13T15:43:42Z",
+    "updated_at": "2026-06-13T15:53:51Z",
     "url": "https://github.com/semanticpixel/abc"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 1,
-    "updated_at": "2026-06-13T15:41:10Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-13T15:42:46Z",
-    "url": "https://github.com/blisspixel/primr"
   },
   {
     "description": "Claude Code plugin with skills for removing AI-generated tells from writing. Humanize prose without losing your voice.",
@@ -70,15 +169,6 @@
     "stars": 527,
     "updated_at": "2026-06-13T15:31:00Z",
     "url": "https://github.com/Arindam200/cc-lens"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-13T15:30:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -133,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T15:27:08Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 3,
-    "updated_at": "2026-06-13T15:29:34Z",
-    "url": "https://github.com/Servosity/msp-skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -248,17 +329,8 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-13T15:41:32Z",
+    "updated_at": "2026-06-13T15:52:48Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-13T15:13:00Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "LLM agent skills for software architecture analysis and review. This repository equips AI agents with reusable capabilit",
@@ -292,7 +364,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62091,
+    "stars": 62092,
     "updated_at": "2026-06-13T15:08:32Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -376,77 +448,5 @@
     "stars": 6017,
     "updated_at": "2026-06-13T14:52:55Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Task Manager with a TUI written in Python and usable by agents",
-    "id": "Zaloog/kanban-tui",
-    "language": "Python",
-    "name": "Zaloog/kanban-tui",
-    "stars": 251,
-    "updated_at": "2026-06-13T14:43:30Z",
-    "url": "https://github.com/Zaloog/kanban-tui"
-  },
-  {
-    "description": "Public agent skill for display.dev \u2014 publish HTML or Markdown behind company auth from your AI assistant. Works across C",
-    "id": "display-dev/skill",
-    "language": "Shell",
-    "name": "display-dev/skill",
-    "stars": 10,
-    "updated_at": "2026-06-13T14:43:07Z",
-    "url": "https://github.com/display-dev/skill"
-  },
-  {
-    "description": "Kill Ports Fast 2026 - Best Free kkp CLI Tool for Process Management",
-    "id": "Ishanshah09/port-killer-swiftly",
-    "language": "HTML",
-    "name": "Ishanshah09/port-killer-swiftly",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:40:08Z",
-    "url": "https://github.com/Ishanshah09/port-killer-swiftly"
-  },
-  {
-    "description": "My daily-driver Claude Code and Codex loadout",
-    "id": "kennykankush/skillpack",
-    "language": "Python",
-    "name": "kennykankush/skillpack",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:40:04Z",
-    "url": "https://github.com/kennykankush/skillpack"
-  },
-  {
-    "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
-    "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "language": "JavaScript",
-    "name": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:36:01Z",
-    "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:35:43Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:35:38Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Generate personalized real-life side quests to build skills and foster connections with this Claude-powered quest archit",
-    "id": "Glamourous-mammalia359/quest-drop",
-    "language": "\u2014",
-    "name": "Glamourous-mammalia359/quest-drop",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:35:38Z",
-    "url": "https://github.com/Glamourous-mammalia359/quest-drop"
   }
 ]
