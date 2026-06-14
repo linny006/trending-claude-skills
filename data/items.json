@@ -1,12 +1,57 @@
 [
   {
+    "description": "An open spec + reference implementation for AI-generated, template-driven documentation \u2014 structure (the IR warp) is set",
+    "id": "karuhi/ordito",
+    "language": "JavaScript",
+    "name": "karuhi/ordito",
+    "stars": 0,
+    "updated_at": "2026-06-14T07:59:57Z",
+    "url": "https://github.com/karuhi/ordito"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-14T07:44:13Z",
+    "updated_at": "2026-06-14T07:59:55Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "A practical collection of agentic practices and workflows, including reusable skills, commands, reference notes, and bas",
+    "id": "AgenticPW/AgenticPW",
+    "language": "\u2014",
+    "name": "AgenticPW/AgenticPW",
+    "stars": 0,
+    "updated_at": "2026-06-14T07:55:55Z",
+    "url": "https://github.com/AgenticPW/AgenticPW"
+  },
+  {
+    "description": "Things that silently break your Claude skill, and how to fix them.",
+    "id": "livlign/claude-skills-pitfalls",
+    "language": "Python",
+    "name": "livlign/claude-skills-pitfalls",
+    "stars": 1,
+    "updated_at": "2026-06-14T07:53:31Z",
+    "url": "https://github.com/livlign/claude-skills-pitfalls"
+  },
+  {
+    "description": "A real-time monitoring dashboard for Claude Code",
+    "id": "Arindam200/cc-lens",
+    "language": "TypeScript",
+    "name": "Arindam200/cc-lens",
+    "stars": 527,
+    "updated_at": "2026-06-14T07:49:17Z",
+    "url": "https://github.com/Arindam200/cc-lens"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-14T07:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
@@ -16,15 +61,6 @@
     "stars": 1194,
     "updated_at": "2026-06-14T07:43:08Z",
     "url": "https://github.com/Kaelio/ktx"
-  },
-  {
-    "description": "Things that silently break your Claude skill, and how to fix them.",
-    "id": "livlign/claude-skills-pitfalls",
-    "language": "Python",
-    "name": "livlign/claude-skills-pitfalls",
-    "stars": 1,
-    "updated_at": "2026-06-14T07:42:35Z",
-    "url": "https://github.com/livlign/claude-skills-pitfalls"
   },
   {
     "description": "Package manager for Claude Code skills and agents and other AI related resources",
@@ -41,7 +77,7 @@
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 3,
-    "updated_at": "2026-06-14T07:33:15Z",
+    "updated_at": "2026-06-14T07:59:26Z",
     "url": "https://github.com/jagmarques/company-skill"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 147,
-    "updated_at": "2026-06-14T07:44:56Z",
+    "updated_at": "2026-06-14T07:45:55Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 62152,
-    "updated_at": "2026-06-14T07:44:31Z",
+    "updated_at": "2026-06-14T08:00:06Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 3064,
     "updated_at": "2026-06-14T07:30:24Z",
     "url": "https://github.com/davepoon/buildwithclaude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-14T07:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Alireza Rezvani CTO and AI enthusiast - Addicted to Claude Code and Openclaw",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 458,
-    "updated_at": "2026-06-14T07:26:00Z",
+    "updated_at": "2026-06-14T07:48:52Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T07:16:37Z",
     "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-14T07:16:24Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-14T07:16:17Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Transform public expressions and interpersonal insights into a standardized modular skill set for cross-platform applica",
-    "id": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "language": "\u2014",
-    "name": "Jonnyunimpeachable9417/skill-tongjincheng",
-    "stars": 1,
-    "updated_at": "2026-06-14T07:16:03Z",
-    "url": "https://github.com/Jonnyunimpeachable9417/skill-tongjincheng"
   }
 ]
