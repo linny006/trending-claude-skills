@@ -1,12 +1,48 @@
 [
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 90,
-    "updated_at": "2026-06-14T04:25:02Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 31,
+    "updated_at": "2026-06-14T04:44:43Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62139,
+    "updated_at": "2026-06-14T04:44:00Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
+    "id": "glichtenthal/agent-skills",
+    "language": "HTML",
+    "name": "glichtenthal/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:37:04Z",
+    "url": "https://github.com/glichtenthal/agent-skills"
+  },
+  {
+    "description": "Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task grap",
+    "id": "anombyte93/prd-taskmaster",
+    "language": "Python",
+    "name": "anombyte93/prd-taskmaster",
+    "stars": 509,
+    "updated_at": "2026-06-14T04:36:06Z",
+    "url": "https://github.com/anombyte93/prd-taskmaster"
+  },
+  {
+    "description": "A curated map of judgment infrastructure for human-led AI.",
+    "id": "glichtenthal/awesome-judgment-infrastructure",
+    "language": "\u2014",
+    "name": "glichtenthal/awesome-judgment-infrastructure",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:34:19Z",
+    "url": "https://github.com/glichtenthal/awesome-judgment-infrastructure"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 3,
-    "updated_at": "2026-06-14T04:15:12Z",
+    "updated_at": "2026-06-14T04:30:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 90,
+    "updated_at": "2026-06-14T04:40:41Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
@@ -32,7 +77,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-14T04:14:30Z",
+    "updated_at": "2026-06-14T04:42:51Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -72,7 +117,7 @@
     "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
-    "description": "Reusable agent skills for any tool that supports the open agent skills standard.",
+    "description": "Project memory + a spec-driven workflow for AI coding agents ",
     "id": "ribeirogab/memex",
     "language": "Shell",
     "name": "ribeirogab/memex",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 456,
-    "updated_at": "2026-06-14T04:00:36Z",
+    "updated_at": "2026-06-14T04:34:44Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T03:56:04Z",
     "url": "https://github.com/charliechenye/SkillGate"
-  },
-  {
-    "description": "Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task grap",
-    "id": "anombyte93/prd-taskmaster",
-    "language": "Python",
-    "name": "anombyte93/prd-taskmaster",
-    "stars": 509,
-    "updated_at": "2026-06-14T03:55:40Z",
-    "url": "https://github.com/anombyte93/prd-taskmaster"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T03:35:16Z",
     "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:35:01Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
-  },
-  {
-    "description": "Connect Claude Managed Agents to Linear using a bridge server to automate issue management and sync responses through ag",
-    "id": "Saudiarabian-tachograph4331/claude-managed-agents-demo",
-    "language": "TypeScript",
-    "name": "Saudiarabian-tachograph4331/claude-managed-agents-demo",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:34:58Z",
-    "url": "https://github.com/Saudiarabian-tachograph4331/claude-managed-agents-demo"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:34:56Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:34:53Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
   }
 ]
