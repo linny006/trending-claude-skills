@@ -1,12 +1,66 @@
 [
   {
+    "description": "Security scanner for detecting malicious AI skills and instruction files",
+    "id": "thedevappsecguy/skill-scanner",
+    "language": "Python",
+    "name": "thedevappsecguy/skill-scanner",
+    "stars": 1,
+    "updated_at": "2026-06-14T18:41:42Z",
+    "url": "https://github.com/thedevappsecguy/skill-scanner"
+  },
+  {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 29850,
-    "updated_at": "2026-06-14T18:29:29Z",
+    "updated_at": "2026-06-14T18:40:52Z",
     "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "580+ security tools + 860 Claude Code skills, one command. Modular bash installer for Linux & Termux (14 profiles, 18 mo",
+    "id": "26zl/cybersec-toolkit",
+    "language": "Python",
+    "name": "26zl/cybersec-toolkit",
+    "stars": 14,
+    "updated_at": "2026-06-14T18:38:02Z",
+    "url": "https://github.com/26zl/cybersec-toolkit"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:37:21Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 264,
+    "updated_at": "2026-06-14T18:37:57Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-14T18:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udded Ask what Claude can do \u2014 and where. A cross-surface capability-router skill (Chat \u00b7 Claude Code \u00b7 Code on the web \u00b7 Co",
+    "id": "Hainrixz/claude-skill",
+    "language": "\u2014",
+    "name": "Hainrixz/claude-skill",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:29:24Z",
+    "url": "https://github.com/Hainrixz/claude-skill"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -63,15 +117,6 @@
     "url": "https://github.com/vanducng/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-14T18:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
     "id": "alexzvency-ship-it/claude-browser-automator",
     "language": "HTML",
@@ -95,7 +140,7 @@
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 3,
-    "updated_at": "2026-06-14T18:14:21Z",
+    "updated_at": "2026-06-14T18:36:01Z",
     "url": "https://github.com/jagmarques/company-skill"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-14T18:14:13Z",
+    "updated_at": "2026-06-14T18:42:22Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/Mr-RedHat-fb/project-design-skill"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:59:36Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
     "id": "Stewie-pixel/claude-with-leetcode",
     "language": "C++",
@@ -212,7 +248,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 90,
-    "updated_at": "2026-06-14T18:04:37Z",
+    "updated_at": "2026-06-14T18:44:49Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "glitchwerks/claude-wayfinder",
     "stars": 1,
-    "updated_at": "2026-06-14T17:44:42Z",
+    "updated_at": "2026-06-14T18:39:46Z",
     "url": "https://github.com/glitchwerks/claude-wayfinder"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T17:42:58Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 264,
-    "updated_at": "2026-06-14T18:24:03Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -284,7 +311,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-14T18:27:54Z",
+    "updated_at": "2026-06-14T18:44:50Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T17:12:39Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:12:37Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:10:09Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 1,
-    "updated_at": "2026-06-14T17:08:28Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   }
 ]
