@@ -1,5 +1,122 @@
 [
   {
+    "description": "Claude Code plugin: m_* toolkit (m_plan plan->execute->verify, deploy/infra commands, Playwright full-test loop, m_code ",
+    "id": "mapuamap/denys-fast-mskills",
+    "language": "Shell",
+    "name": "mapuamap/denys-fast-mskills",
+    "stars": 0,
+    "updated_at": "2026-06-14T05:12:41Z",
+    "url": "https://github.com/mapuamap/denys-fast-mskills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62143,
+    "updated_at": "2026-06-14T05:11:57Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/skills",
+    "language": "Shell",
+    "name": "yschimke/skills",
+    "stars": 1,
+    "updated_at": "2026-06-14T05:10:06Z",
+    "url": "https://github.com/yschimke/skills"
+  },
+  {
+    "description": "wtcraft is Git-native governance core for agent worktrees.",
+    "id": "zywkloo/wtcraft",
+    "language": "Shell",
+    "name": "zywkloo/wtcraft",
+    "stars": 3,
+    "updated_at": "2026-06-14T05:07:09Z",
+    "url": "https://github.com/zywkloo/wtcraft"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-14T05:06:58Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Marketing skills for AI agents \u2014 paid ads, social media, SEO, competitor research, creative generation, email, analytics",
+    "id": "hyperfx-ai/marketing-skills",
+    "language": "Shell",
+    "name": "hyperfx-ai/marketing-skills",
+    "stars": 34,
+    "updated_at": "2026-06-14T05:06:40Z",
+    "url": "https://github.com/hyperfx-ai/marketing-skills"
+  },
+  {
+    "description": "Claude Code skill: the 6-pass dispatcher for the Manuscript Editorial Suite \u2014 routes 'review my book' to the right criti",
+    "id": "dinaf2026-web/manuscript-editorial-router",
+    "language": "\u2014",
+    "name": "dinaf2026-web/manuscript-editorial-router",
+    "stars": 1,
+    "updated_at": "2026-06-14T05:05:28Z",
+    "url": "https://github.com/dinaf2026-web/manuscript-editorial-router"
+  },
+  {
+    "description": "Claude Code skill: a cinematic blocking & scene-population auditor \u2014 reads any manuscript scene like a film director (wh",
+    "id": "dinaf2026-web/manuscript-cinematic-scene-audit",
+    "language": "\u2014",
+    "name": "dinaf2026-web/manuscript-cinematic-scene-audit",
+    "stars": 1,
+    "updated_at": "2026-06-14T05:05:25Z",
+    "url": "https://github.com/dinaf2026-web/manuscript-cinematic-scene-audit"
+  },
+  {
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 147,
+    "updated_at": "2026-06-14T05:04:37Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-14T05:04:14Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-14T05:01:30Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-14T05:01:14Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-14T05:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
     "id": "0xc000022070/agentic-flake",
     "language": "Nix",
@@ -7,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T04:59:30Z",
     "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62141,
-    "updated_at": "2026-06-14T04:54:39Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
@@ -59,7 +167,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-14T04:51:21Z",
+    "updated_at": "2026-06-14T05:06:47Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -68,26 +176,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 90,
-    "updated_at": "2026-06-14T04:48:18Z",
+    "updated_at": "2026-06-14T05:04:40Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-14T04:47:04Z",
-    "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-14T04:45:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -203,7 +293,7 @@
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 456,
-    "updated_at": "2026-06-14T04:59:04Z",
+    "updated_at": "2026-06-14T05:14:08Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T03:39:41Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
-    "id": "guildsocialismteamteaching487/Claude-session-smasher",
-    "language": "\u2014",
-    "name": "guildsocialismteamteaching487/Claude-session-smasher",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:39:37Z",
-    "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:39:22Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:37:54Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Deploy 76 audit-ready robotics skills for Claude with integrated KPI dashboards, ISO standard compliance, and automated ",
-    "id": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:37:54Z",
-    "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 2,
-    "updated_at": "2026-06-14T03:37:47Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-14T03:37:33Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:37:33Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:37:30Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:37:20Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-14T03:36:31Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
   }
 ]
