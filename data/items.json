@@ -1,5 +1,104 @@
 [
   {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-14T01:27:47Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 2671,
+    "updated_at": "2026-06-14T01:27:16Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 869,
+    "updated_at": "2026-06-14T01:25:40Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Practical Claude Code Skills for Master's Students \u2014 paper-reader, science-confirmer, report-writer (Apache-2.0)",
+    "id": "OU-GC/Practical-Claude-Code-Skills-for-Masters-Students",
+    "language": "\u2014",
+    "name": "OU-GC/Practical-Claude-Code-Skills-for-Masters-Students",
+    "stars": 1,
+    "updated_at": "2026-06-14T01:22:18Z",
+    "url": "https://github.com/OU-GC/Practical-Claude-Code-Skills-for-Masters-Students"
+  },
+  {
+    "description": "\ud83d\udd0d Find real academic papers across 5 scholarly databases & deep-read any open-access PDF \u2014 grounded, never fabricated. R",
+    "id": "jy1529098645-gif/Cat_paper_search",
+    "language": "Python",
+    "name": "jy1529098645-gif/Cat_paper_search",
+    "stars": 0,
+    "updated_at": "2026-06-14T01:19:38Z",
+    "url": "https://github.com/jy1529098645-gif/Cat_paper_search"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 2403,
+    "updated_at": "2026-06-14T01:17:18Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 263,
+    "updated_at": "2026-06-14T01:26:31Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Shell",
+    "name": "netopsengineer/axiom",
+    "stars": 1,
+    "updated_at": "2026-06-14T01:26:01Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "Turn any video into a narration recap in Claude Code\uff5c\u7528 Claude Code \u628a\u4efb\u4f55\u89c6\u9891\u505a\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891",
+    "id": "worldwonderer/video-recap-skills",
+    "language": "Python",
+    "name": "worldwonderer/video-recap-skills",
+    "stars": 94,
+    "updated_at": "2026-06-14T01:16:50Z",
+    "url": "https://github.com/worldwonderer/video-recap-skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-14T01:28:24Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-14T01:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
     "id": "txw842lkj-cmd/silicon-circle-skill",
     "language": "\u2014",
@@ -18,33 +117,6 @@
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
-    "id": "worldwonderer/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "worldwonderer/oh-story-claudecode",
-    "stars": 2402,
-    "updated_at": "2026-06-14T01:11:02Z",
-    "url": "https://github.com/worldwonderer/oh-story-claudecode"
-  },
-  {
-    "description": "Practical Claude Code Skills for Master's Students \u2014 paper-reader, science-confirmer, report-writer (Apache-2.0)",
-    "id": "OU-GC/Practical-Claude-Code-Skills-for-Masters-Students",
-    "language": "\u2014",
-    "name": "OU-GC/Practical-Claude-Code-Skills-for-Masters-Students",
-    "stars": 1,
-    "updated_at": "2026-06-14T01:10:43Z",
-    "url": "https://github.com/OU-GC/Practical-Claude-Code-Skills-for-Masters-Students"
-  },
-  {
-    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
-    "id": "netopsengineer/axiom",
-    "language": "Shell",
-    "name": "netopsengineer/axiom",
-    "stars": 1,
-    "updated_at": "2026-06-14T01:14:32Z",
-    "url": "https://github.com/netopsengineer/axiom"
-  },
-  {
     "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
     "id": "yurukusa/cc-safe-setup",
     "language": "Shell",
@@ -61,33 +133,6 @@
     "stars": 76,
     "updated_at": "2026-06-14T01:08:54Z",
     "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Turn any video into a narration recap in Claude Code\uff5c\u7528 Claude Code \u628a\u4efb\u4f55\u89c6\u9891\u505a\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891",
-    "id": "worldwonderer/video-recap-skills",
-    "language": "Python",
-    "name": "worldwonderer/video-recap-skills",
-    "stars": 94,
-    "updated_at": "2026-06-14T01:08:41Z",
-    "url": "https://github.com/worldwonderer/video-recap-skills"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 2669,
-    "updated_at": "2026-06-14T01:05:20Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-06-14T01:14:25Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
@@ -160,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T01:00:34Z",
     "url": "https://github.com/Unifying-sheeptick539/revops-skills"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 263,
-    "updated_at": "2026-06-14T01:10:54Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-14T01:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T00:53:56Z",
     "url": "https://github.com/Saudiarabian-tachograph4331/claude-managed-agents-demo"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-06-14T00:53:54Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-14T00:53:50Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-14T00:53:30Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
   }
 ]
