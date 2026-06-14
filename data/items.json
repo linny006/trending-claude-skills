@@ -5,8 +5,44 @@
     "language": "C++",
     "name": "Stewie-pixel/claude-with-leetcode",
     "stars": 21,
-    "updated_at": "2026-06-14T10:44:58Z",
+    "updated_at": "2026-06-14T10:58:03Z",
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "A collection of practical Claude Code skills \u2014 multi-LLM evaluation, domain management, planning, writing quality, and p",
+    "id": "eprouveze/claude-skills",
+    "language": "Shell",
+    "name": "eprouveze/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-14T10:56:08Z",
+    "url": "https://github.com/eprouveze/claude-skills"
+  },
+  {
+    "description": "AI agent used to research trends, discovery and track of AI topics",
+    "id": "Neetx/ai-research-radar",
+    "language": "\u2014",
+    "name": "Neetx/ai-research-radar",
+    "stars": 2,
+    "updated_at": "2026-06-14T10:53:59Z",
+    "url": "https://github.com/Neetx/ai-research-radar"
+  },
+  {
+    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
+    "id": "ergrelet/windiff",
+    "language": "Rust",
+    "name": "ergrelet/windiff",
+    "stars": 387,
+    "updated_at": "2026-06-14T10:52:27Z",
+    "url": "https://github.com/ergrelet/windiff"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-14T10:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
@@ -16,6 +52,24 @@
     "stars": 7,
     "updated_at": "2026-06-14T10:44:51Z",
     "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Hivemind turns your traces into reusable skills across agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 1135,
+    "updated_at": "2026-06-14T10:44:37Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "description": "\ud83c\udf10 [Skill] Turn a research paper into a publishable project homepage \u2014 a Skill for AI agents like Codex/Claude Code that ",
+    "id": "OpenRaiser/paper-webpage-builder",
+    "language": "Python",
+    "name": "OpenRaiser/paper-webpage-builder",
+    "stars": 1,
+    "updated_at": "2026-06-14T10:43:49Z",
+    "url": "https://github.com/OpenRaiser/paper-webpage-builder"
   },
   {
     "description": "A collection of Claude Skills",
@@ -140,26 +194,8 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-14T10:35:11Z",
+    "updated_at": "2026-06-14T10:57:54Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-14T10:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "AI agent used to research trends, discovery and track of AI topics",
-    "id": "Neetx/ai-research-radar",
-    "language": "\u2014",
-    "name": "Neetx/ai-research-radar",
-    "stars": 2,
-    "updated_at": "2026-06-14T10:28:17Z",
-    "url": "https://github.com/Neetx/ai-research-radar"
   },
   {
     "description": "The official tooling for Yield.xyz AgentKit \u2014 a Claude Code plugin, standalone skills, and connection guides for the Yie",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T10:09:24Z",
     "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-06-14T10:09:22Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-14T10:08:18Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Optimize your AI workflow with this open-source Electron desktop client for Claude, featuring native integration and eff",
-    "id": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "language": "JavaScript",
-    "name": "kuldeep8740/Claude-Desktop-Pro-Client",
-    "stars": 2,
-    "updated_at": "2026-06-14T10:07:49Z",
-    "url": "https://github.com/kuldeep8740/Claude-Desktop-Pro-Client"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-06-14T10:07:47Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
   }
 ]
