@@ -1,21 +1,21 @@
 [
   {
-    "description": "Drive an interactive full-screen TUI on a remote machine over tmux/screen + SSH like a human (type-wait-screenshot-read ",
-    "id": "88plug/drive-remote-terminal",
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
     "language": "Python",
-    "name": "88plug/drive-remote-terminal",
-    "stars": 0,
-    "updated_at": "2026-06-15T17:29:21Z",
-    "url": "https://github.com/88plug/drive-remote-terminal"
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-15T17:44:03Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
   },
   {
-    "description": "Recover Claude Code sessions after an Anthropic API output-classifier false positive. JSON-aware .jsonl log surgeon: rem",
-    "id": "88plug/recover-from-false-positive",
-    "language": "Python",
-    "name": "88plug/recover-from-false-positive",
-    "stars": 0,
-    "updated_at": "2026-06-15T17:29:18Z",
-    "url": "https://github.com/88plug/recover-from-false-positive"
+    "description": "Marketing skills for AI agents \u2014 paid ads, social media, SEO, competitor research, creative generation, email, analytics",
+    "id": "hyperfx-ai/marketing-skills",
+    "language": "Shell",
+    "name": "hyperfx-ai/marketing-skills",
+    "stars": 34,
+    "updated_at": "2026-06-15T17:42:26Z",
+    "url": "https://github.com/hyperfx-ai/marketing-skills"
   },
   {
     "description": "Falsification-first investigation + invention workflow for Claude Code: hypothesis ledgers, controlled experiments, REFU",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "88plug/scientific-method",
     "stars": 0,
-    "updated_at": "2026-06-15T17:29:15Z",
+    "updated_at": "2026-06-15T17:36:00Z",
     "url": "https://github.com/88plug/scientific-method"
   },
   {
@@ -32,17 +32,26 @@
     "language": "Python",
     "name": "88plug/project-prospector",
     "stars": 0,
-    "updated_at": "2026-06-15T17:28:41Z",
+    "updated_at": "2026-06-15T17:35:59Z",
     "url": "https://github.com/88plug/project-prospector"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62324,
-    "updated_at": "2026-06-15T17:27:05Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "Drive an interactive full-screen TUI on a remote machine over tmux/screen + SSH like a human (type-wait-screenshot-read ",
+    "id": "88plug/drive-remote-terminal",
+    "language": "Python",
+    "name": "88plug/drive-remote-terminal",
+    "stars": 0,
+    "updated_at": "2026-06-15T17:35:59Z",
+    "url": "https://github.com/88plug/drive-remote-terminal"
+  },
+  {
+    "description": "Recover Claude Code sessions after an Anthropic API output-classifier false positive. JSON-aware .jsonl log surgeon: rem",
+    "id": "88plug/recover-from-false-positive",
+    "language": "Python",
+    "name": "88plug/recover-from-false-positive",
+    "stars": 0,
+    "updated_at": "2026-06-15T17:35:55Z",
+    "url": "https://github.com/88plug/recover-from-false-positive"
   },
   {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
@@ -50,8 +59,44 @@
     "language": "Shell",
     "name": "dryvist/ai-assistant-instructions",
     "stars": 9,
-    "updated_at": "2026-06-15T17:29:29Z",
+    "updated_at": "2026-06-15T17:34:25Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Free Claude Code skills. safe-multi-session-deploy: stop multiple AI agents / Claude Code sessions from clobbering work,",
+    "id": "Madwr1d/skills",
+    "language": "Shell",
+    "name": "Madwr1d/skills",
+    "stars": 0,
+    "updated_at": "2026-06-15T17:30:24Z",
+    "url": "https://github.com/Madwr1d/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-15T17:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62325,
+    "updated_at": "2026-06-15T17:27:05Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 29869,
+    "updated_at": "2026-06-15T17:26:19Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "Official Helius AI tooling repository ",
@@ -117,15 +162,6 @@
     "url": "https://github.com/oleksbard/cosmobar"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-15T17:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u4e2d\u6587 Prompt \u8d28\u91cf\u5ba1\u8ba1\u5de5\u5177 \u2014 \u50cf ESLint \u68c0\u67e5\u4ee3\u7801\u4e00\u6837\u68c0\u67e5 Prompt\u30028 \u7ef4\u5ea6\u96f7\u8fbe\u56fe\u8bc4\u5206 + 55 \u6761\u786c\u89c4\u5219\u68c0\u6d4b + AI \u6df1\u5ea6\u5206\u6790\u3002",
     "id": "RealFelixWang/prompt-lint",
     "language": "\u2014",
@@ -135,24 +171,6 @@
     "url": "https://github.com/RealFelixWang/prompt-lint"
   },
   {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 1,
-    "updated_at": "2026-06-15T17:10:48Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 29868,
-    "updated_at": "2026-06-15T17:26:19Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
     "id": "jianshuo/claude-skills",
     "language": "Python",
@@ -160,15 +178,6 @@
     "stars": 82,
     "updated_at": "2026-06-15T17:08:35Z",
     "url": "https://github.com/jianshuo/claude-skills"
-  },
-  {
-    "description": "Free Claude Code skills. safe-multi-session-deploy: stop multiple AI agents / Claude Code sessions from clobbering work,",
-    "id": "Madwr1d/skills",
-    "language": "JavaScript",
-    "name": "Madwr1d/skills",
-    "stars": 0,
-    "updated_at": "2026-06-15T17:07:31Z",
-    "url": "https://github.com/Madwr1d/skills"
   },
   {
     "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T16:43:12Z",
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-15T16:43:05Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
   }
 ]
