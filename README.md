@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-15 10:45 UTC
+> ⏰ Last updated: 2026-06-15 10:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 19 | Python | 2026-06-15 | A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py |
-| 2 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-06-15 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 3 | [ssurmic/claude-investment-skills](https://github.com/ssurmic/claude-investment-skills) | 2 | Python | 2026-06-15 | Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts |
-| 4 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 3438 | Python | 2026-06-15 | Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-d |
-| 5 | [shauryalowkeygotaura/brand-launchpad](https://github.com/shauryalowkeygotaura/brand-launchpad) | 1 | HTML | 2026-06-15 | One Claude Code skill that turns a single project into a complete brand launch — 12 files (positioning, hero line, 30-da |
-| 6 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 62287 | TypeScript | 2026-06-15 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 7 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 358 | Python | 2026-06-15 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
-| 8 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 3 | Python | 2026-06-15 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 3440 | Python | 2026-06-15 | Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-d |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 3 | Python | 2026-06-15 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 19 | Python | 2026-06-15 | A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py |
+| 4 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-06-15 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 5 | [ssurmic/claude-investment-skills](https://github.com/ssurmic/claude-investment-skills) | 2 | Python | 2026-06-15 | Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts |
+| 6 | [shauryalowkeygotaura/brand-launchpad](https://github.com/shauryalowkeygotaura/brand-launchpad) | 1 | HTML | 2026-06-15 | One Claude Code skill that turns a single project into a complete brand launch — 12 files (positioning, hero line, 30-da |
+| 7 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 62287 | TypeScript | 2026-06-15 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 8 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 358 | Python | 2026-06-15 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
 | 9 | [whobat/AI-Agent-skills](https://github.com/whobat/AI-Agent-skills) | 0 | PowerShell | 2026-06-15 | a collection of AI Agent skills |
 | 10 | [zxkane/aws-skills](https://github.com/zxkane/aws-skills) | 309 | Shell | 2026-06-15 | Claude Code plugins and agent skills for AWS development — CDK, serverless, cost ops, and Bedrock AgentCore |
 | 11 | [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) | 125 | Python | 2026-06-15 | My collection of Claude skills |
