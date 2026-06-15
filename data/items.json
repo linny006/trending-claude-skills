@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI-powered multi-agent code review. Simulates a customizable team of Engineers performing code review with built-in disc",
+    "id": "spencermarx/open-code-review",
+    "language": "TypeScript",
+    "name": "spencermarx/open-code-review",
+    "stars": 244,
+    "updated_at": "2026-06-15T14:13:10Z",
+    "url": "https://github.com/spencermarx/open-code-review"
+  },
+  {
+    "description": "Claude Code plugins and agent skills for AWS development \u2014 CDK, serverless, cost ops, and Bedrock AgentCore",
+    "id": "zxkane/aws-skills",
+    "language": "Shell",
+    "name": "zxkane/aws-skills",
+    "stars": 309,
+    "updated_at": "2026-06-15T14:13:04Z",
+    "url": "https://github.com/zxkane/aws-skills"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 21,
+    "updated_at": "2026-06-15T14:15:06Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "macOS dotfiles - Forgotten Art of Makefile",
+    "id": "kborovik/.dotfiles",
+    "language": "Shell",
+    "name": "kborovik/.dotfiles",
+    "stars": 0,
+    "updated_at": "2026-06-15T14:11:00Z",
+    "url": "https://github.com/kborovik/.dotfiles"
+  },
+  {
+    "description": "Turn any video into a narration recap with claude code skill\uff5c\u7528claude code skill\u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
+    "id": "worldwonderer/video-recap-skills",
+    "language": "Python",
+    "name": "worldwonderer/video-recap-skills",
+    "stars": 254,
+    "updated_at": "2026-06-15T14:10:02Z",
+    "url": "https://github.com/worldwonderer/video-recap-skills"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-15T14:07:44Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 148,
+    "updated_at": "2026-06-15T14:02:53Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-15T14:00:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, ",
     "id": "Xopoko/plug-n-skills",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 62313,
-    "updated_at": "2026-06-15T13:57:43Z",
+    "updated_at": "2026-06-15T14:15:07Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/davepoon/buildwithclaude"
   },
   {
-    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 148,
-    "updated_at": "2026-06-15T14:00:18Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
     "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
     "id": "LiHongwei-cn/lihongwei-cn",
     "language": "Python",
@@ -85,8 +148,8 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16461,
-    "updated_at": "2026-06-15T13:47:49Z",
+    "stars": 16462,
+    "updated_at": "2026-06-15T14:06:41Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 82,
     "updated_at": "2026-06-15T13:47:45Z",
     "url": "https://github.com/testdouble/han"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-15T13:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -124,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-06-15T13:43:01Z",
     "url": "https://github.com/XieWxx/maxhub-api-skills"
-  },
-  {
-    "description": "AI-powered multi-agent code review. Simulates a customizable team of Engineers performing code review with built-in disc",
-    "id": "spencermarx/open-code-review",
-    "language": "TypeScript",
-    "name": "spencermarx/open-code-review",
-    "stars": 243,
-    "updated_at": "2026-06-15T13:52:34Z",
-    "url": "https://github.com/spencermarx/open-code-review"
   },
   {
     "description": "A family of branded-media plugins for Claude Code \u2014 decks, images & 2D, video, and audio, coupled by CLI capabilities (n",
@@ -176,7 +221,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-15T13:56:47Z",
+    "updated_at": "2026-06-15T14:13:26Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T13:18:49Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-15T13:17:55Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Turn AI agents into team SMEs. Kluris builds a shared, human-curated knowledge brain (decisions, constraints, incidents,",
@@ -315,15 +351,6 @@
     "url": "https://github.com/oaustegard/claude-skills"
   },
   {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 21,
-    "updated_at": "2026-06-15T13:48:57Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
     "description": "Skills related to Data Engineering Work for Claude Code",
     "id": "AltimateAI/data-engineering-skills",
     "language": "\u2014",
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 29867,
-    "updated_at": "2026-06-15T13:58:36Z",
+    "updated_at": "2026-06-15T14:00:50Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T12:55:44Z",
     "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:55:35Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:54:57Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
-    "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "language": "JavaScript",
-    "name": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:54:48Z",
-    "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
   }
 ]
