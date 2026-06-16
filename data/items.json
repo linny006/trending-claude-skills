@@ -1,5 +1,68 @@
 [
   {
+    "description": "Agent skills for the Datadata analytics platform.",
+    "id": "datadata-team/datadata-skills",
+    "language": "Python",
+    "name": "datadata-team/datadata-skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T03:13:24Z",
+    "url": "https://github.com/datadata-team/datadata-skills"
+  },
+  {
+    "description": "Production-grade engineering discipline for AI coding agents \u2014 5 composable skills (plan, build, secure, operate) for Cl",
+    "id": "nhattrung0911/shipwright",
+    "language": "\u2014",
+    "name": "nhattrung0911/shipwright",
+    "stars": 0,
+    "updated_at": "2026-06-16T03:12:11Z",
+    "url": "https://github.com/nhattrung0911/shipwright"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 1,
+    "updated_at": "2026-06-16T03:08:03Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
+    "id": "Egonex-AI/Understand-Anything",
+    "language": "TypeScript",
+    "name": "Egonex-AI/Understand-Anything",
+    "stars": 60691,
+    "updated_at": "2026-06-16T03:06:54Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "description": "WOZCODE plugin for Claude Code",
+    "id": "WithWoz/wozcode-plugin",
+    "language": "JavaScript",
+    "name": "WithWoz/wozcode-plugin",
+    "stars": 189,
+    "updated_at": "2026-06-16T03:03:52Z",
+    "url": "https://github.com/WithWoz/wozcode-plugin"
+  },
+  {
+    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
+    "id": "Free-Soul/MemDreamer",
+    "language": "Python",
+    "name": "Free-Soul/MemDreamer",
+    "stars": 0,
+    "updated_at": "2026-06-16T03:03:39Z",
+    "url": "https://github.com/Free-Soul/MemDreamer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-16T03:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
     "id": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
     "language": "Shell",
@@ -22,7 +85,7 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 69,
+    "stars": 74,
     "updated_at": "2026-06-16T02:53:08Z",
     "url": "https://github.com/dongshuyan/compass-skills"
   },
@@ -81,20 +144,11 @@
     "url": "https://github.com/PaymobAccept/Paymob-Claude-Integration-Skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-16T02:45:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 2796,
+    "stars": 2797,
     "updated_at": "2026-06-16T02:41:16Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -139,7 +193,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62367,
+    "stars": 62370,
     "updated_at": "2026-06-16T02:30:49Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T02:06:03Z",
     "url": "https://github.com/varunk130/claude-code-skills"
-  },
-  {
-    "description": "Production-grade operational playbooks for AI coding agents across the full software delivery pipeline. 21 playbooks, 10",
-    "id": "varunk130/ai-workflow-playbooks",
-    "language": "\u2014",
-    "name": "varunk130/ai-workflow-playbooks",
-    "stars": 2,
-    "updated_at": "2026-06-16T02:06:00Z",
-    "url": "https://github.com/varunk130/ai-workflow-playbooks"
-  },
-  {
-    "description": "The 12-Skill AI UX Design Engine for Claude Code & GitHub Copilot \u2014 purpose-built skills for designing UX for AI product",
-    "id": "varunk130/ai-ux-skill-library",
-    "language": "Python",
-    "name": "varunk130/ai-ux-skill-library",
-    "stars": 1,
-    "updated_at": "2026-06-16T02:05:58Z",
-    "url": "https://github.com/varunk130/ai-ux-skill-library"
-  },
-  {
-    "description": "Unified suite of AI agents for product managers \u2014 a 6-agent orchestrated pipeline that turns customer feedback into stra",
-    "id": "varunk130/ai-pm-agents-suite",
-    "language": "Python",
-    "name": "varunk130/ai-pm-agents-suite",
-    "stars": 0,
-    "updated_at": "2026-06-16T02:05:56Z",
-    "url": "https://github.com/varunk130/ai-pm-agents-suite"
-  },
-  {
-    "description": "AI-powered partner ecosystem analysis for ISV intelligence and strategic insights",
-    "id": "varunk130/ai-partner-ecosystem-analysis",
-    "language": "Python",
-    "name": "varunk130/ai-partner-ecosystem-analysis",
-    "stars": 0,
-    "updated_at": "2026-06-16T02:06:57Z",
-    "url": "https://github.com/varunk130/ai-partner-ecosystem-analysis"
-  },
-  {
-    "description": "Run your marketing org as an orchestrated AI team instead of a $50K/mo tool stack and scarce specialists. 9 agents own t",
-    "id": "varunk130/ai-marketing-os",
-    "language": "TypeScript",
-    "name": "varunk130/ai-marketing-os",
-    "stars": 0,
-    "updated_at": "2026-06-16T02:05:50Z",
-    "url": "https://github.com/varunk130/ai-marketing-os"
-  },
-  {
-    "description": "Production-ready AI marketing automation skills for Claude Code, Cursor, Codex, and AI coding agents. 12 battle-tested s",
-    "id": "varunk130/ai-marketing-claude-skills",
-    "language": "Python",
-    "name": "varunk130/ai-marketing-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-16T02:05:48Z",
-    "url": "https://github.com/varunk130/ai-marketing-claude-skills"
   }
 ]
