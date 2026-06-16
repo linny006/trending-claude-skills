@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 889,
+    "updated_at": "2026-06-16T15:13:44Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Claude Cowork \ud55c\uad6d\uc5b4 \ub3c4\uba54\uc778 \uc804\ubb38\uac00 AI \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4 \u2014 21 plugins \u00b7 108 skills \u00b7 Korean B2B (business \u00b7 finance \u00b7 legal \u00b7 HR \u00b7 marketing ",
+    "id": "modu-ai/cowork-plugins",
+    "language": "HTML",
+    "name": "modu-ai/cowork-plugins",
+    "stars": 219,
+    "updated_at": "2026-06-16T15:10:17Z",
+    "url": "https://github.com/modu-ai/cowork-plugins"
+  },
+  {
+    "description": "WordPress plugin development & GitHub contribution skills for Claude Code \u2014 installable plugin + standalone marketplace ",
+    "id": "mralaminahamed/wp-dev-skills",
+    "language": "PHP",
+    "name": "mralaminahamed/wp-dev-skills",
+    "stars": 3,
+    "updated_at": "2026-06-16T15:13:25Z",
+    "url": "https://github.com/mralaminahamed/wp-dev-skills"
+  },
+  {
+    "description": "Automation harness that compiles a screen recording into a rerunnable script, with LLMs, only at decision points and sel",
+    "id": "prakhar1114/ai_mime",
+    "language": "Python",
+    "name": "prakhar1114/ai_mime",
+    "stars": 41,
+    "updated_at": "2026-06-16T15:04:02Z",
+    "url": "https://github.com/prakhar1114/ai_mime"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16513,
+    "updated_at": "2026-06-16T15:01:33Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T15:00:30Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "caezium/nib",
     "stars": 0,
-    "updated_at": "2026-06-16T14:48:39Z",
+    "updated_at": "2026-06-16T15:09:24Z",
     "url": "https://github.com/caezium/nib"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 392,
     "updated_at": "2026-06-16T14:46:55Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T14:45:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
@@ -104,7 +149,7 @@
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 4,
-    "updated_at": "2026-06-16T14:48:18Z",
+    "updated_at": "2026-06-16T15:14:00Z",
     "url": "https://github.com/jagmarques/company-skill"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Go",
     "name": "Servosity/msp-skills",
     "stars": 3,
-    "updated_at": "2026-06-16T14:36:22Z",
+    "updated_at": "2026-06-16T15:11:55Z",
     "url": "https://github.com/Servosity/msp-skills"
   },
   {
@@ -252,15 +297,6 @@
     "url": "https://github.com/kongma1891/microsoft-style-skill"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16514,
-    "updated_at": "2026-06-16T14:35:17Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
     "id": "ajayfastfooted329/claude-linkedin-post-creator",
     "language": "\u2014",
@@ -277,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-06-16T14:34:42Z",
     "url": "https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills"
-  },
-  {
-    "description": "WordPress plugin development & GitHub contribution skills for Claude Code \u2014 installable plugin + standalone marketplace ",
-    "id": "mralaminahamed/wp-dev-skills",
-    "language": "PHP",
-    "name": "mralaminahamed/wp-dev-skills",
-    "stars": 3,
-    "updated_at": "2026-06-16T14:34:32Z",
-    "url": "https://github.com/mralaminahamed/wp-dev-skills"
   },
   {
     "description": "Convert long Claude chat sessions into structured handoff notes to maintain context and save tokens when starting new co",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "danieljustus/symaira-eraseme",
     "stars": 2,
-    "updated_at": "2026-06-16T14:31:44Z",
+    "updated_at": "2026-06-16T15:10:43Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T14:30:04Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:29:34Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Monitor AI coding agent sessions, permissions, and terminal status directly from your MacBook notch.",
-    "id": "Belleplate2038/oh-my-island",
-    "language": "Swift",
-    "name": "Belleplate2038/oh-my-island",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:29:28Z",
-    "url": "https://github.com/Belleplate2038/oh-my-island"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:29:24Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
   }
 ]
