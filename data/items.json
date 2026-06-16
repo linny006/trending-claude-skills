@@ -1,5 +1,122 @@
 [
   {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-16T12:29:41Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
+    "id": "jagmarques/company-skill",
+    "language": "JavaScript",
+    "name": "jagmarques/company-skill",
+    "stars": 4,
+    "updated_at": "2026-06-16T12:29:29Z",
+    "url": "https://github.com/jagmarques/company-skill"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 264,
+    "updated_at": "2026-06-16T12:29:14Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 90,
+    "updated_at": "2026-06-16T12:26:49Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Agent skills and helper scripts for OpenDocument Format files (ODT, ODP, ODS, ODG)",
+    "id": "leiverkus/open-document-skills",
+    "language": "Python",
+    "name": "leiverkus/open-document-skills",
+    "stars": 1,
+    "updated_at": "2026-06-16T12:25:38Z",
+    "url": "https://github.com/leiverkus/open-document-skills"
+  },
+  {
+    "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
+    "id": "matejformanek/postgres-claude",
+    "language": "JavaScript",
+    "name": "matejformanek/postgres-claude",
+    "stars": 0,
+    "updated_at": "2026-06-16T12:22:54Z",
+    "url": "https://github.com/matejformanek/postgres-claude"
+  },
+  {
+    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
+    "id": "Dianel555/DSkills",
+    "language": "Python",
+    "name": "Dianel555/DSkills",
+    "stars": 63,
+    "updated_at": "2026-06-16T12:22:25Z",
+    "url": "https://github.com/Dianel555/DSkills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-16T12:21:10Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "RunDrill \u2014 courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro",
+    "id": "rundrill/rundrill",
+    "language": "\u2014",
+    "name": "rundrill/rundrill",
+    "stars": 0,
+    "updated_at": "2026-06-16T12:20:21Z",
+    "url": "https://github.com/rundrill/rundrill"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-06-16T12:20:12Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-06-16T12:19:33Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": " \ud83e\uddea A/B test your agent skills \u2014 find out if your SKILL.md actually helps the model or is just a placebo. Blind-graded tr",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 4,
+    "updated_at": "2026-06-16T12:18:53Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T12:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Cowork \ud55c\uad6d\uc5b4 \ub3c4\uba54\uc778 \uc804\ubb38\uac00 AI \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4 \u2014 21 plugins \u00b7 108 skills \u00b7 Korean B2B (business \u00b7 finance \u00b7 legal \u00b7 HR \u00b7 marketing ",
     "id": "modu-ai/cowork-plugins",
     "language": "HTML",
@@ -9,20 +126,11 @@
     "url": "https://github.com/modu-ai/cowork-plugins"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 264,
-    "updated_at": "2026-06-16T12:13:15Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Automation harness that compiles a screen recording into a rerunnable script, with LLMs, only at decision points and sel",
     "id": "prakhar1114/ai_mime",
     "language": "Python",
     "name": "prakhar1114/ai_mime",
-    "stars": 40,
+    "stars": 41,
     "updated_at": "2026-06-16T12:11:08Z",
     "url": "https://github.com/prakhar1114/ai_mime"
   },
@@ -171,15 +279,6 @@
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
   },
   {
-    "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
-    "id": "matejformanek/postgres-claude",
-    "language": "JavaScript",
-    "name": "matejformanek/postgres-claude",
-    "stars": 0,
-    "updated_at": "2026-06-16T12:00:54Z",
-    "url": "https://github.com/matejformanek/postgres-claude"
-  },
-  {
     "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
     "id": "Scorpio-1111/OmicsAgent-Skills",
     "language": "HTML",
@@ -196,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T12:00:30Z",
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T12:00:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T11:56:33Z",
     "url": "https://github.com/guildsocialismteamteaching487/Claude-session-smasher"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-06-16T11:56:20Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-16T11:56:17Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-06-16T11:54:49Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Deploy 76 audit-ready robotics skills for Claude with integrated KPI dashboards, ISO standard compliance, and automated ",
-    "id": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "Brownbettywoodsorrelfamily890/robotics-skills-suite",
-    "stars": 1,
-    "updated_at": "2026-06-16T11:54:48Z",
-    "url": "https://github.com/Brownbettywoodsorrelfamily890/robotics-skills-suite"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 2,
-    "updated_at": "2026-06-16T11:54:37Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-06-16T11:54:18Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-06-16T11:54:15Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-16T11:54:13Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T11:53:11Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-06-16T11:52:42Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
   }
 ]
