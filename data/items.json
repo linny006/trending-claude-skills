@@ -1,5 +1,140 @@
 [
   {
+    "description": "A fast, dependency-light, starship-inspired status line for Claude Code.",
+    "id": "oleksbard/cosmobar",
+    "language": "Go",
+    "name": "oleksbard/cosmobar",
+    "stars": 3,
+    "updated_at": "2026-06-16T20:29:33Z",
+    "url": "https://github.com/oleksbard/cosmobar"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 264,
+    "updated_at": "2026-06-16T20:29:34Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-16T20:28:01Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:24:57Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
+    "id": "specscore/specstudio-skills",
+    "language": "\u2014",
+    "name": "specscore/specstudio-skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:24:34Z",
+    "url": "https://github.com/specscore/specstudio-skills"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 5,
+    "updated_at": "2026-06-16T20:23:54Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "A complete, original suite of 12 Claude agent skills for SEO and growth. Runs audits, technical SEO, content, AI search ",
+    "id": "avikbal-dm/claude-seo-skills",
+    "language": "\u2014",
+    "name": "avikbal-dm/claude-seo-skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:23:24Z",
+    "url": "https://github.com/avikbal-dm/claude-seo-skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:23:20Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:21:46Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 40+ installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, ",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 3,
+    "updated_at": "2026-06-16T20:21:45Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:21:21Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-16T20:21:12Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Solo-dev Claude Code skills: brainstorm \u2192 plan \u2192 code. No ceremony, no vibes. Fusion of Matt Pocock, OpenSpec, get-shit-",
+    "id": "calneymgp/solodev",
+    "language": "Shell",
+    "name": "calneymgp/solodev",
+    "stars": 2,
+    "updated_at": "2026-06-16T20:20:13Z",
+    "url": "https://github.com/calneymgp/solodev"
+  },
+  {
+    "description": "Marketplace of plugins and skills for Claude Code",
+    "id": "RadOrigin-LLC/RAD-Claude-Skills",
+    "language": "Python",
+    "name": "RadOrigin-LLC/RAD-Claude-Skills",
+    "stars": 3,
+    "updated_at": "2026-06-16T20:16:07Z",
+    "url": "https://github.com/RadOrigin-LLC/RAD-Claude-Skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T20:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "SEO + GEO toolkit as Claude Code skills: audit, A-F score, llms.txt, AI-citation tracking, fixes. Zero-dependency.",
     "id": "OndrejKnedla/seo-geo-playbook-ok",
     "language": "Python",
@@ -9,30 +144,12 @@
     "url": "https://github.com/OndrejKnedla/seo-geo-playbook-ok"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-16T20:13:52Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 264,
-    "updated_at": "2026-06-16T20:14:42Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
     "id": "jagmarques/company-skill",
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 4,
-    "updated_at": "2026-06-16T20:13:32Z",
+    "updated_at": "2026-06-16T20:25:46Z",
     "url": "https://github.com/jagmarques/company-skill"
   },
   {
@@ -45,40 +162,13 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T20:09:47Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Claude Code plugin: skills, commands, and tooling for SpecScore-driven specification authoring (specstudio:ideate, specs",
-    "id": "specscore/specstudio-skills",
-    "language": "\u2014",
-    "name": "specscore/specstudio-skills",
-    "stars": 0,
-    "updated_at": "2026-06-16T20:08:21Z",
-    "url": "https://github.com/specscore/specstudio-skills"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16526,
+    "stars": 16527,
     "updated_at": "2026-06-16T20:07:03Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 5,
-    "updated_at": "2026-06-16T20:03:36Z",
-    "url": "https://github.com/Servosity/msp-skills"
   },
   {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
@@ -97,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T20:01:41Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T20:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -203,7 +284,7 @@
     "language": "JavaScript",
     "name": "saitarrun/sdlc-workflow",
     "stars": 0,
-    "updated_at": "2026-06-16T19:43:35Z",
+    "updated_at": "2026-06-16T20:29:56Z",
     "url": "https://github.com/saitarrun/sdlc-workflow"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-16T19:13:48Z",
     "url": "https://github.com/raelli/octowiz"
-  },
-  {
-    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
-    "id": "the-nam-shub/e5-real-skills",
-    "language": "TypeScript",
-    "name": "the-nam-shub/e5-real-skills",
-    "stars": 7,
-    "updated_at": "2026-06-16T18:41:14Z",
-    "url": "https://github.com/the-nam-shub/e5-real-skills"
-  },
-  {
-    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
-    "id": "testdouble/han",
-    "language": "Shell",
-    "name": "testdouble/han",
-    "stars": 82,
-    "updated_at": "2026-06-16T19:25:51Z",
-    "url": "https://github.com/testdouble/han"
-  },
-  {
-    "description": "A Claude Code skill that produces writing with zero em dashes, and, just as important, writing built out of sentences th",
-    "id": "exmergo/skill-no-em-dashes",
-    "language": "Python",
-    "name": "exmergo/skill-no-em-dashes",
-    "stars": 2,
-    "updated_at": "2026-06-16T18:40:37Z",
-    "url": "https://github.com/exmergo/skill-no-em-dashes"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:24:03Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
-    "id": "yusufkaraaslan/Skill_Seekers",
-    "language": "Python",
-    "name": "yusufkaraaslan/Skill_Seekers",
-    "stars": 14111,
-    "updated_at": "2026-06-16T18:23:03Z",
-    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "Python",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 28,
-    "updated_at": "2026-06-16T18:20:35Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:14:02Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:11:36Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Public Claude Code skills marketplace",
-    "id": "rvanbaalen/skills",
-    "language": "Python",
-    "name": "rvanbaalen/skills",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:10:17Z",
-    "url": "https://github.com/rvanbaalen/skills"
   }
 ]
