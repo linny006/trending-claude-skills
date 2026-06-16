@@ -1,5 +1,50 @@
 [
   {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 1,
+    "updated_at": "2026-06-16T03:27:31Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-16T03:25:02Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Production-grade engineering discipline for AI coding agents \u2014 5 composable skills (plan, build, secure, operate) for Cl",
+    "id": "nhattrung0911/shipwright",
+    "language": "HTML",
+    "name": "nhattrung0911/shipwright",
+    "stars": 0,
+    "updated_at": "2026-06-16T03:21:35Z",
+    "url": "https://github.com/nhattrung0911/shipwright"
+  },
+  {
+    "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
+    "id": "XieWxx/maxhub-api-skills",
+    "language": "\u2014",
+    "name": "XieWxx/maxhub-api-skills",
+    "stars": 6,
+    "updated_at": "2026-06-16T03:15:42Z",
+    "url": "https://github.com/XieWxx/maxhub-api-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-16T03:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills for the Datadata analytics platform.",
     "id": "datadata-team/datadata-skills",
     "language": "Python",
@@ -9,29 +54,11 @@
     "url": "https://github.com/datadata-team/datadata-skills"
   },
   {
-    "description": "Production-grade engineering discipline for AI coding agents \u2014 5 composable skills (plan, build, secure, operate) for Cl",
-    "id": "nhattrung0911/shipwright",
-    "language": "\u2014",
-    "name": "nhattrung0911/shipwright",
-    "stars": 0,
-    "updated_at": "2026-06-16T03:12:11Z",
-    "url": "https://github.com/nhattrung0911/shipwright"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 1,
-    "updated_at": "2026-06-16T03:08:03Z",
-    "url": "https://github.com/vanducng/skills"
-  },
-  {
     "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 60691,
+    "stars": 60706,
     "updated_at": "2026-06-16T03:06:54Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T03:03:39Z",
     "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-16T03:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
@@ -162,15 +180,6 @@
     "url": "https://github.com/yinjialu/ai-frontier-daily"
   },
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T02:40:21Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
     "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
     "id": "mworldorg/markdown-memory",
     "language": "Python",
@@ -193,7 +202,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62370,
+    "stars": 62371,
     "updated_at": "2026-06-16T02:30:49Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-16T02:06:31Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "A curated, categorized library of 29 production-grade Claude Code custom skills across finance, product, strategy, game ",
-    "id": "varunk130/claude-code-skills",
-    "language": "\u2014",
-    "name": "varunk130/claude-code-skills",
-    "stars": 1,
-    "updated_at": "2026-06-16T02:06:03Z",
-    "url": "https://github.com/varunk130/claude-code-skills"
   }
 ]
