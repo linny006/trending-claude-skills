@@ -1,5 +1,68 @@
 [
   {
+    "description": "Hivemind turns your traces into reusable skills across agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 1215,
+    "updated_at": "2026-06-16T09:59:20Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 48,
+    "updated_at": "2026-06-16T09:58:38Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "17 Claude Code skills for substance-first LinkedIn growth. Anti-template, anti-slop, paste-based. Includes Wikipedia-bas",
+    "id": "warpirate/linkedin-maxxing",
+    "language": "\u2014",
+    "name": "warpirate/linkedin-maxxing",
+    "stars": 0,
+    "updated_at": "2026-06-16T09:57:45Z",
+    "url": "https://github.com/warpirate/linkedin-maxxing"
+  },
+  {
+    "description": "Scriptable CLI for RenderDoc captures \u2014 built for terminal workflows, CI pipelines, and AI agents",
+    "id": "BANANASJIM/rdc-cli",
+    "language": "Python",
+    "name": "BANANASJIM/rdc-cli",
+    "stars": 142,
+    "updated_at": "2026-06-16T09:56:07Z",
+    "url": "https://github.com/BANANASJIM/rdc-cli"
+  },
+  {
+    "description": "A family of branded-media plugins for Claude Code \u2014 decks, images & 2D, video, and audio, coupled by CLI capabilities (n",
+    "id": "marsmike/feinschmiede",
+    "language": "Python",
+    "name": "marsmike/feinschmiede",
+    "stars": 3,
+    "updated_at": "2026-06-16T09:59:58Z",
+    "url": "https://github.com/marsmike/feinschmiede"
+  },
+  {
+    "description": "34 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 AI-\u0441\u043a\u0438\u043b\u043b\u0430 \u0434\u043b\u044f \u043c\u0430\u043b\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0420\u0424: \u043d\u0430\u043b\u043e\u0433\u0438 \u0423\u0421\u041d, \u0434\u0435\u043d\u044c\u0433\u0438, \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043a\u043e\u043d\u0442\u0440\u0430\u0433\u0435\u043d\u0442\u0430 \u043f\u043e \u0418\u041d\u041d. \u0427\u0438\u0441\u043b\u0430 \u0441\u0447\u0438\u0442\u0430\u044e\u0442\u0441\u044f \u043a\u043e\u0434\u043e\u043c, \u0434\u0430\u043d",
+    "id": "ilyautov/small-business-ru",
+    "language": "Python",
+    "name": "ilyautov/small-business-ru",
+    "stars": 2,
+    "updated_at": "2026-06-16T09:48:26Z",
+    "url": "https://github.com/ilyautov/small-business-ru"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T09:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
@@ -9,33 +72,6 @@
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 48,
-    "updated_at": "2026-06-16T09:44:11Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "34 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 AI-\u0441\u043a\u0438\u043b\u043b\u0430 \u0434\u043b\u044f \u043c\u0430\u043b\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0420\u0424: \u043d\u0430\u043b\u043e\u0433\u0438 \u0423\u0421\u041d, \u0434\u0435\u043d\u044c\u0433\u0438, \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043a\u043e\u043d\u0442\u0440\u0430\u0433\u0435\u043d\u0442\u0430 \u043f\u043e \u0418\u041d\u041d. \u0427\u0438\u0441\u043b\u0430 \u0441\u0447\u0438\u0442\u0430\u044e\u0442\u0441\u044f \u043a\u043e\u0434\u043e\u043c, \u0434\u0430\u043d",
-    "id": "ilyautov/small-business-ru",
-    "language": "Python",
-    "name": "ilyautov/small-business-ru",
-    "stars": 2,
-    "updated_at": "2026-06-16T09:39:22Z",
-    "url": "https://github.com/ilyautov/small-business-ru"
-  },
-  {
-    "description": "A family of branded-media plugins for Claude Code \u2014 decks, images & 2D, video, and audio, coupled by CLI capabilities (n",
-    "id": "marsmike/feinschmiede",
-    "language": "Python",
-    "name": "marsmike/feinschmiede",
-    "stars": 3,
-    "updated_at": "2026-06-16T09:39:21Z",
-    "url": "https://github.com/marsmike/feinschmiede"
-  },
-  {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
     "id": "shauryalowkeygotaura/brand-launchpad",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T09:36:09Z",
     "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
-  },
-  {
-    "description": "17 Claude Code skills for substance-first LinkedIn growth. Anti-template, anti-slop, paste-based. Includes Wikipedia-bas",
-    "id": "warpirate/linkedin-maxxing",
-    "language": "\u2014",
-    "name": "warpirate/linkedin-maxxing",
-    "stars": 0,
-    "updated_at": "2026-06-16T09:44:01Z",
-    "url": "https://github.com/warpirate/linkedin-maxxing"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -70,15 +97,6 @@
     "stars": 106,
     "updated_at": "2026-06-16T09:30:23Z",
     "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T09:30:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T08:22:50Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Product Team Skills",
-    "id": "imamirezaei/Product-Team-Claude-Skills",
-    "language": "JavaScript",
-    "name": "imamirezaei/Product-Team-Claude-Skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:26:30Z",
-    "url": "https://github.com/imamirezaei/Product-Team-Claude-Skills"
-  },
-  {
-    "description": "Curate agent skills and template libraries to build single-file HTML presentations for Claude Code, Cursor, and other AI",
-    "id": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "language": "\u2014",
-    "name": "alissonkohn01-cmyk/awesome-html-slide-skills",
-    "stars": 3,
-    "updated_at": "2026-06-16T08:22:43Z",
-    "url": "https://github.com/alissonkohn01-cmyk/awesome-html-slide-skills"
   }
 ]
