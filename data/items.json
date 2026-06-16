@@ -1,12 +1,48 @@
 [
   {
-    "description": "A fast, dependency-light, starship-inspired status line for Claude Code.",
-    "id": "oleksbard/cosmobar",
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
     "language": "Go",
-    "name": "oleksbard/cosmobar",
-    "stars": 3,
-    "updated_at": "2026-06-16T20:29:33Z",
-    "url": "https://github.com/oleksbard/cosmobar"
+    "name": "Servosity/msp-skills",
+    "stars": 5,
+    "updated_at": "2026-06-16T20:44:43Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Production-ready AI agent profiles for Claude Code, Cursor, and Codex. Search, install, and contribute ForgeCat packages",
+    "id": "nota-america/forgecat-agent-profiles",
+    "language": "TypeScript",
+    "name": "nota-america/forgecat-agent-profiles",
+    "stars": 6,
+    "updated_at": "2026-06-16T20:43:19Z",
+    "url": "https://github.com/nota-america/forgecat-agent-profiles"
+  },
+  {
+    "description": "Cross-tool AI agent skills (SKILL.md) for Claude Code, Codex, Gemini CLI, Cursor & Copilot",
+    "id": "Vingedal/bjorn-skills",
+    "language": "\u2014",
+    "name": "Vingedal/bjorn-skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:42:51Z",
+    "url": "https://github.com/Vingedal/bjorn-skills"
+  },
+  {
+    "description": "A complete, original suite of 12 Claude agent skills for SEO and growth. Runs audits, technical SEO, content, AI search ",
+    "id": "avikbal-dm/claude-seo-skills",
+    "language": "\u2014",
+    "name": "avikbal-dm/claude-seo-skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:42:42Z",
+    "url": "https://github.com/avikbal-dm/claude-seo-skills"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:41:43Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -14,8 +50,71 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-16T20:29:34Z",
+    "updated_at": "2026-06-16T20:43:48Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-16T20:40:49Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:37:50Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
+    "id": "Scorpio-1111/OmicsAgent-Skills",
+    "language": "HTML",
+    "name": "Scorpio-1111/OmicsAgent-Skills",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:37:12Z",
+    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
+  },
+  {
+    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
+    "id": "Mary2241/seo-skills-agent-toolbox",
+    "language": "HTML",
+    "name": "Mary2241/seo-skills-agent-toolbox",
+    "stars": 1,
+    "updated_at": "2026-06-16T20:34:20Z",
+    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
+  },
+  {
+    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
+    "id": "Sylad/claude-code-codex",
+    "language": "Astro",
+    "name": "Sylad/claude-code-codex",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:34:20Z",
+    "url": "https://github.com/Sylad/claude-code-codex"
+  },
+  {
+    "description": "A fast, dependency-light, starship-inspired status line for Claude Code.",
+    "id": "oleksbard/cosmobar",
+    "language": "Go",
+    "name": "oleksbard/cosmobar",
+    "stars": 3,
+    "updated_at": "2026-06-16T20:32:39Z",
+    "url": "https://github.com/oleksbard/cosmobar"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T20:30:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -43,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T20:24:34Z",
     "url": "https://github.com/specscore/specstudio-skills"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 5,
-    "updated_at": "2026-06-16T20:23:54Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
-    "description": "A complete, original suite of 12 Claude agent skills for SEO and growth. Runs audits, technical SEO, content, AI search ",
-    "id": "avikbal-dm/claude-seo-skills",
-    "language": "\u2014",
-    "name": "avikbal-dm/claude-seo-skills",
-    "stars": 0,
-    "updated_at": "2026-06-16T20:23:24Z",
-    "url": "https://github.com/avikbal-dm/claude-seo-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -99,15 +180,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-16T20:21:12Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "Solo-dev Claude Code skills: brainstorm \u2192 plan \u2192 code. No ceremony, no vibes. Fusion of Matt Pocock, OpenSpec, get-shit-",
     "id": "calneymgp/solodev",
     "language": "Shell",
@@ -126,13 +198,13 @@
     "url": "https://github.com/RadOrigin-LLC/RAD-Claude-Skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Claude Code plugin for Langfuse: instrumentation, setup, evaluation, monitoring, and self-hosting. 5 skills, 6 commands,",
+    "id": "jbaham2/claude-langfuse-plugin",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T20:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "jbaham2/claude-langfuse-plugin",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:15:35Z",
+    "url": "https://github.com/jbaham2/claude-langfuse-plugin"
   },
   {
     "description": "SEO + GEO toolkit as Claude Code skills: audit, A-F score, llms.txt, AI-citation tracking, fixes. Zero-dependency.",
@@ -149,7 +221,7 @@
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 4,
-    "updated_at": "2026-06-16T20:25:46Z",
+    "updated_at": "2026-06-16T20:40:35Z",
     "url": "https://github.com/jagmarques/company-skill"
   },
   {
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-06-16T19:47:24Z",
+    "updated_at": "2026-06-16T20:37:20Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -284,7 +356,7 @@
     "language": "JavaScript",
     "name": "saitarrun/sdlc-workflow",
     "stars": 0,
-    "updated_at": "2026-06-16T20:29:56Z",
+    "updated_at": "2026-06-16T20:31:32Z",
     "url": "https://github.com/saitarrun/sdlc-workflow"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1224,
     "updated_at": "2026-06-16T19:18:07Z",
     "url": "https://github.com/Kaelio/ktx"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:06:11Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:06:02Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:03:08Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audi",
-    "id": "SamurAIGPT/Generative-Media-Skills",
-    "language": "Shell",
-    "name": "SamurAIGPT/Generative-Media-Skills",
-    "stars": 3552,
-    "updated_at": "2026-06-16T19:00:41Z",
-    "url": "https://github.com/SamurAIGPT/Generative-Media-Skills"
-  },
-  {
-    "description": "A Claude Agent Skill that takes a research paper from idea to a published, citable preprint. Evidence grading, mechanism",
-    "id": "avikbal-dm/phd-paper-supervisor",
-    "language": "\u2014",
-    "name": "avikbal-dm/phd-paper-supervisor",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:56:11Z",
-    "url": "https://github.com/avikbal-dm/phd-paper-supervisor"
-  },
-  {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 36,
-    "updated_at": "2026-06-16T18:51:29Z",
-    "url": "https://github.com/open-agreements/open-agreements"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 21,
-    "updated_at": "2026-06-16T18:48:41Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
-    "id": "raelli/octowiz",
-    "language": "Python",
-    "name": "raelli/octowiz",
-    "stars": 2,
-    "updated_at": "2026-06-16T19:13:48Z",
-    "url": "https://github.com/raelli/octowiz"
   }
 ]
