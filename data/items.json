@@ -5,8 +5,35 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-16T09:14:50Z",
+    "updated_at": "2026-06-16T09:30:17Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 1,
+    "updated_at": "2026-06-16T09:24:44Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Multimodal LLM coaching suite for intraday trading \u2014 3 coordinated Claude Skills over a schema-versioned journal, valida",
+    "id": "solidx86/intraday-trade",
+    "language": "Python",
+    "name": "solidx86/intraday-trade",
+    "stars": 0,
+    "updated_at": "2026-06-16T09:24:41Z",
+    "url": "https://github.com/solidx86/intraday-trade"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T09:15:27Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI Skill templates and workflow scoring tools for automotive value engineering and VAVE productivity scenarios",
@@ -41,7 +68,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 91,
-    "updated_at": "2026-06-16T09:05:04Z",
+    "updated_at": "2026-06-16T09:21:29Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Rust",
     "name": "huximaxi/loci",
     "stars": 1,
-    "updated_at": "2026-06-16T09:02:57Z",
+    "updated_at": "2026-06-16T09:17:21Z",
     "url": "https://github.com/huximaxi/loci"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T09:02:18Z",
     "url": "https://github.com/solanabr/safe-ai-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T09:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A collection of skills for an AI agent that helps filing bug reports as GitHub issues",
@@ -124,15 +142,6 @@
     "stars": 42,
     "updated_at": "2026-06-16T08:55:40Z",
     "url": "https://github.com/dazuiba/handoff"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 1,
-    "updated_at": "2026-06-16T08:54:50Z",
-    "url": "https://github.com/vanducng/skills"
   },
   {
     "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-16T08:20:32Z",
     "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:20:15Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
   }
 ]
