@@ -5,7 +5,7 @@
     "language": "Go",
     "name": "Servosity/msp-skills",
     "stars": 4,
-    "updated_at": "2026-06-16T19:15:08Z",
+    "updated_at": "2026-06-16T19:22:56Z",
     "url": "https://github.com/Servosity/msp-skills"
   },
   {
@@ -14,8 +14,53 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-16T19:13:51Z",
+    "updated_at": "2026-06-16T19:23:06Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "See what your AI coding agent just did to your system's behavior, flow, and architecture. Grounded in real code, visual,",
+    "id": "mappamind/mappamind",
+    "language": "TypeScript",
+    "name": "mappamind/mappamind",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:21:44Z",
+    "url": "https://github.com/mappamind/mappamind"
+  },
+  {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 1223,
+    "updated_at": "2026-06-16T19:18:07Z",
+    "url": "https://github.com/Kaelio/ktx"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 29887,
+    "updated_at": "2026-06-16T19:15:55Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T19:15:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-16T19:17:19Z",
+    "url": "https://github.com/blisspixel/primr"
   },
   {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
@@ -61,24 +106,6 @@
     "stars": 3551,
     "updated_at": "2026-06-16T19:00:41Z",
     "url": "https://github.com/SamurAIGPT/Generative-Media-Skills"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-16T19:15:15Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T19:00:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -421,32 +448,5 @@
     "stars": 161,
     "updated_at": "2026-06-16T17:31:40Z",
     "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:29:22Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "White-box, OSWE-style security audit for Claude Code: traces source\u2192sink, chains findings to unauthenticated RCE, verifi",
-    "id": "Laucked-Security/claude-oswe",
-    "language": "JavaScript",
-    "name": "Laucked-Security/claude-oswe",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:27:24Z",
-    "url": "https://github.com/Laucked-Security/claude-oswe"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:26:43Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
