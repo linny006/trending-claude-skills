@@ -1,5 +1,68 @@
 [
   {
+    "description": "Public JoomPulse agent skills catalog",
+    "id": "joomcode/pulse-skills",
+    "language": "Shell",
+    "name": "joomcode/pulse-skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:58:28Z",
+    "url": "https://github.com/joomcode/pulse-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 264,
+    "updated_at": "2026-06-16T16:59:19Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:55:53Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-16T16:52:59Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "id": "dongshuyan/compass-skills",
+    "language": "Python",
+    "name": "dongshuyan/compass-skills",
+    "stars": 177,
+    "updated_at": "2026-06-16T16:52:40Z",
+    "url": "https://github.com/dongshuyan/compass-skills"
+  },
+  {
+    "description": "AI Skill templates and workflow scoring tools for automotive value engineering and VAVE productivity scenarios",
+    "id": "onyx679/automotive-ve-ai-skills-kit",
+    "language": "Python",
+    "name": "onyx679/automotive-ve-ai-skills-kit",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:51:18Z",
+    "url": "https://github.com/onyx679/automotive-ve-ai-skills-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T16:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Karvey \u2014 m\u00e9todo spec-driven development agn\u00f3stico de stack (Af\u00e1n, selknam). Plugin de Claude Code. \u00a9 HainTech, Apache 2.",
     "id": "MauricioQuezadaHaintech/karvey",
     "language": "Shell",
@@ -16,15 +79,6 @@
     "stars": 48,
     "updated_at": "2026-06-16T16:42:15Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 264,
-    "updated_at": "2026-06-16T16:41:28Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
@@ -81,21 +135,12 @@
     "url": "https://github.com/2362094903-ops/study-assistant-skills"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-16T16:31:58Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": " \ud83e\uddea A/B test your agent skills \u2014 find out if your SKILL.md actually helps the model or is just a placebo. Blind-graded tr",
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
     "name": "sx4im/skillcheck",
     "stars": 4,
-    "updated_at": "2026-06-16T16:31:20Z",
+    "updated_at": "2026-06-16T16:46:26Z",
     "url": "https://github.com/sx4im/skillcheck"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-06-16T16:30:34Z",
     "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T16:30:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code plugin + MCP server for ComfyUI \u2014 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing fr",
@@ -157,7 +193,7 @@
     "id": "mralaminahamed/wp-dev-skills",
     "language": "PHP",
     "name": "mralaminahamed/wp-dev-skills",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-06-16T16:11:07Z",
     "url": "https://github.com/mralaminahamed/wp-dev-skills"
   },
@@ -212,7 +248,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 90,
-    "updated_at": "2026-06-16T16:16:51Z",
+    "updated_at": "2026-06-16T16:53:20Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Shell",
     "name": "semanticpixel/abc",
     "stars": 0,
-    "updated_at": "2026-06-16T16:06:15Z",
+    "updated_at": "2026-06-16T16:58:13Z",
     "url": "https://github.com/semanticpixel/abc"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-16T16:43:45Z",
     "url": "https://github.com/jagmarques/company-skill"
-  },
-  {
-    "description": "Open registry of community-contributed AI coding skills (SKILL.md files) \u2014 daily-synced to skills-hub.ai. Install across",
-    "id": "tinh2/skills-hub-registry",
-    "language": "Python",
-    "name": "tinh2/skills-hub-registry",
-    "stars": 5,
-    "updated_at": "2026-06-16T15:16:37Z",
-    "url": "https://github.com/tinh2/skills-hub-registry"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that surv",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Python",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 23429,
-    "updated_at": "2026-06-16T15:16:19Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
-  },
-  {
-    "description": "Delegate tasks to DeepSeek right inside your Claude Code / Codex sessions.",
-    "id": "dazuiba/handoff",
-    "language": "Python",
-    "name": "dazuiba/handoff",
-    "stars": 43,
-    "updated_at": "2026-06-16T15:12:53Z",
-    "url": "https://github.com/dazuiba/handoff"
-  },
-  {
-    "description": "A collection of Claude Skills from Posit",
-    "id": "posit-dev/skills",
-    "language": "R",
-    "name": "posit-dev/skills",
-    "stars": 401,
-    "updated_at": "2026-06-16T15:11:08Z",
-    "url": "https://github.com/posit-dev/skills"
   }
 ]
