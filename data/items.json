@@ -1,12 +1,12 @@
 [
   {
-    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
-    "id": "raelli/octowiz",
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
     "language": "Python",
-    "name": "raelli/octowiz",
+    "name": "ssurmic/claude-investment-skills",
     "stars": 2,
-    "updated_at": "2026-06-16T18:44:49Z",
-    "url": "https://github.com/raelli/octowiz"
+    "updated_at": "2026-06-16T18:59:45Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -14,8 +14,80 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-16T18:44:41Z",
+    "updated_at": "2026-06-16T18:57:43Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "A Claude Agent Skill that takes a research paper from idea to a published, citable preprint. Evidence grading, mechanism",
+    "id": "avikbal-dm/phd-paper-supervisor",
+    "language": "\u2014",
+    "name": "avikbal-dm/phd-paper-supervisor",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:56:11Z",
+    "url": "https://github.com/avikbal-dm/phd-paper-supervisor"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 36,
+    "updated_at": "2026-06-16T18:51:29Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-16T18:50:16Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audi",
+    "id": "SamurAIGPT/Generative-Media-Skills",
+    "language": "Shell",
+    "name": "SamurAIGPT/Generative-Media-Skills",
+    "stars": 3550,
+    "updated_at": "2026-06-16T18:49:21Z",
+    "url": "https://github.com/SamurAIGPT/Generative-Media-Skills"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 21,
+    "updated_at": "2026-06-16T18:48:41Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 2,
+    "updated_at": "2026-06-16T18:45:46Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T18:45:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
+    "id": "raelli/octowiz",
+    "language": "Python",
+    "name": "raelli/octowiz",
+    "stars": 2,
+    "updated_at": "2026-06-16T18:44:49Z",
+    "url": "https://github.com/raelli/octowiz"
   },
   {
     "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
@@ -32,7 +104,7 @@
     "language": "Shell",
     "name": "testdouble/han",
     "stars": 82,
-    "updated_at": "2026-06-16T18:41:01Z",
+    "updated_at": "2026-06-16T18:59:28Z",
     "url": "https://github.com/testdouble/han"
   },
   {
@@ -50,35 +122,8 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-06-16T18:39:34Z",
+    "updated_at": "2026-06-16T18:49:04Z",
     "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-16T18:35:09Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T18:34:52Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T18:30:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -324,15 +369,6 @@
     "url": "https://github.com/DojoCodingLabs/code-sensei"
   },
   {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 21,
-    "updated_at": "2026-06-16T17:42:21Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
     "description": "A comprehensive Claude Code plugin that automates the complete Software Development Lifecycle with 20 role-specific agen",
     "id": "saitarrun/sdlc-workflow",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T17:24:16Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-06-16T17:22:21Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Portable SKILLs workspace for Claude Code, Codex, and Gemini \u2014 issue-driven workflows and cross-agent collaboration via ",
-    "id": "appautomaton/agent-designer",
-    "language": "Python",
-    "name": "appautomaton/agent-designer",
-    "stars": 120,
-    "updated_at": "2026-06-16T17:19:13Z",
-    "url": "https://github.com/appautomaton/agent-designer"
-  },
-  {
-    "description": "Resumable hierarchical workflow tracking for Claude Code \u2014 a Goal->Phases->Tasks tree with first-class forks that spawn ",
-    "id": "LuckyCody/workflow-builder",
-    "language": "\u2014",
-    "name": "LuckyCody/workflow-builder",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:19:12Z",
-    "url": "https://github.com/LuckyCody/workflow-builder"
-  },
-  {
-    "description": "Conecta Claude Code con Google NotebookLM y a\u00f1ade un cierre de sesi\u00f3n que guarda tu memoria a largo plazo.",
-    "id": "Carlos-Vera/BrainClaude",
-    "language": "PowerShell",
-    "name": "Carlos-Vera/BrainClaude",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:18:55Z",
-    "url": "https://github.com/Carlos-Vera/BrainClaude"
   }
 ]
