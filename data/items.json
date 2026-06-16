@@ -1,12 +1,111 @@
 [
   {
-    "description": "Marketplace-ready Agent Skill for turning business metrics into executive-ready strategy visualization specs",
+    "description": "Vantage.os \u2014 Marketing Intelligence OS. The marketing brain inside your agent. /vantage interviews you, then delivers a ",
+    "id": "macmenes/vantage",
+    "language": "HTML",
+    "name": "macmenes/vantage",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:14:27Z",
+    "url": "https://github.com/macmenes/vantage"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-16T16:14:13Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Conecta Claude Code con Google NotebookLM y a\u00f1ade un cierre de sesi\u00f3n que guarda tu memoria a largo plazo.",
+    "id": "Carlos-Vera/BrainClaude",
+    "language": "PowerShell",
+    "name": "Carlos-Vera/BrainClaude",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:11:19Z",
+    "url": "https://github.com/Carlos-Vera/BrainClaude"
+  },
+  {
+    "description": "WordPress plugin development & GitHub contribution skills for Claude Code \u2014 installable plugin + standalone marketplace ",
+    "id": "mralaminahamed/wp-dev-skills",
+    "language": "PHP",
+    "name": "mralaminahamed/wp-dev-skills",
+    "stars": 3,
+    "updated_at": "2026-06-16T16:11:07Z",
+    "url": "https://github.com/mralaminahamed/wp-dev-skills"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 88,
+    "updated_at": "2026-06-16T16:04:10Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Claude skills that deliver a daily finance status dashboard to your telegram.",
+    "id": "ya5huk/findash",
+    "language": "Python",
+    "name": "ya5huk/findash",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:03:37Z",
+    "url": "https://github.com/ya5huk/findash"
+  },
+  {
+    "description": "Claude Code skill for academic manuscript writing: IMRAD workflows, literature matrices, tables/figures, and tested util",
+    "id": "kgraph57/paper-writer-skill",
+    "language": "Python",
+    "name": "kgraph57/paper-writer-skill",
+    "stars": 30,
+    "updated_at": "2026-06-16T16:03:31Z",
+    "url": "https://github.com/kgraph57/paper-writer-skill"
+  },
+  {
+    "description": "Agent Skill that turns messy notes into rendered strategy-consulting visuals, with SVG examples and validation.",
     "id": "kgraph57/mckinsey-style-visualization-skill",
     "language": "Python",
     "name": "kgraph57/mckinsey-style-visualization-skill",
     "stars": 34,
-    "updated_at": "2026-06-16T16:00:23Z",
+    "updated_at": "2026-06-16T16:03:30Z",
     "url": "https://github.com/kgraph57/mckinsey-style-visualization-skill"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-16T16:02:19Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:00:44Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T16:00:29Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:59:57Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -18,13 +117,22 @@
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
-    "description": "Vantage.os \u2014 Marketing Intelligence OS. The marketing brain inside your agent. /vantage interviews you, then delivers a ",
-    "id": "macmenes/vantage",
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
-    "name": "macmenes/vantage",
+    "name": "hieu5882/telos-customer-validator",
     "stars": 0,
-    "updated_at": "2026-06-16T15:59:01Z",
-    "url": "https://github.com/macmenes/vantage"
+    "updated_at": "2026-06-16T15:58:50Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
+    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
+    "id": "bokyostudio/pg-practice-knowledgebase",
+    "language": "HTML",
+    "name": "bokyostudio/pg-practice-knowledgebase",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:58:39Z",
+    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   },
   {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
@@ -81,15 +189,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "WordPress plugin development & GitHub contribution skills for Claude Code \u2014 installable plugin + standalone marketplace ",
-    "id": "mralaminahamed/wp-dev-skills",
-    "language": "PHP",
-    "name": "mralaminahamed/wp-dev-skills",
-    "stars": 3,
-    "updated_at": "2026-06-16T15:54:56Z",
-    "url": "https://github.com/mralaminahamed/wp-dev-skills"
-  },
-  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -97,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:54:22Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-16T15:54:20Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T15:54:01Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -166,18 +247,9 @@
     "id": "geekjourneyx/md2wechat-skill",
     "language": "Go",
     "name": "geekjourneyx/md2wechat-skill",
-    "stars": 2860,
+    "stars": 2861,
     "updated_at": "2026-06-16T15:45:49Z",
     "url": "https://github.com/geekjourneyx/md2wechat-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T15:45:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
@@ -194,17 +266,17 @@
     "language": "Shell",
     "name": "semanticpixel/abc",
     "stars": 0,
-    "updated_at": "2026-06-16T15:45:01Z",
+    "updated_at": "2026-06-16T16:06:15Z",
     "url": "https://github.com/semanticpixel/abc"
   },
   {
-    "description": "Conecta Claude Code con Google NotebookLM y a\u00f1ade un cierre de sesi\u00f3n que guarda tu memoria a largo plazo.",
-    "id": "Carlos-Vera/BrainClaude",
-    "language": "PowerShell",
-    "name": "Carlos-Vera/BrainClaude",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:34:09Z",
-    "url": "https://github.com/Carlos-Vera/BrainClaude"
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 465,
+    "updated_at": "2026-06-16T15:43:47Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
     "description": "Multimodal LLM coaching suite for intraday trading \u2014 3 coordinated Claude Skills over a schema-versioned journal, valida",
@@ -250,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:28:12Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Claude skills that deliver a daily finance status dashboard to your telegram.",
-    "id": "ya5huk/findash",
-    "language": "Python",
-    "name": "ya5huk/findash",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:27:55Z",
-    "url": "https://github.com/ya5huk/findash"
   },
   {
     "description": "Knowledge graph extractor: Markdown (or any format) \u2192 knowledge graph with RDFS/OWL ontology",
@@ -346,7 +409,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16515,
+    "stars": 16516,
     "updated_at": "2026-06-16T15:01:33Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -355,7 +418,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62457,
+    "stars": 62458,
     "updated_at": "2026-06-16T14:53:39Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -385,68 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-16T14:42:50Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:39:49Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:39:10Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:38:47Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:38:40Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:38:25Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Automate design systems and Figma workflows with reusable MCP skills, predefined scripts, and reliable playbooks for you",
-    "id": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "language": "JavaScript",
-    "name": "whiskfernlowdensitylipoprotein154/figma-console-mcp-skills",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:38:00Z",
-    "url": "https://github.com/whiskfernlowdensitylipoprotein154/figma-console-mcp-skills"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:37:47Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
   }
 ]
