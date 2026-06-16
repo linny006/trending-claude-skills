@@ -1,21 +1,84 @@
 [
   {
-    "description": "AI Skill templates and workflow scoring tools for automotive value engineering and VAVE productivity scenarios",
-    "id": "onyx679/automotive-ve-ai-skills-kit",
-    "language": "Python",
-    "name": "onyx679/automotive-ve-ai-skills-kit",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:59:37Z",
-    "url": "https://github.com/onyx679/automotive-ve-ai-skills-kit"
-  },
-  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-16T08:59:42Z",
+    "updated_at": "2026-06-16T09:14:50Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "AI Skill templates and workflow scoring tools for automotive value engineering and VAVE productivity scenarios",
+    "id": "onyx679/automotive-ve-ai-skills-kit",
+    "language": "Python",
+    "name": "onyx679/automotive-ve-ai-skills-kit",
+    "stars": 0,
+    "updated_at": "2026-06-16T09:13:52Z",
+    "url": "https://github.com/onyx679/automotive-ve-ai-skills-kit"
+  },
+  {
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
+    "id": "serpro69/claude-toolbox",
+    "language": "Shell",
+    "name": "serpro69/claude-toolbox",
+    "stars": 146,
+    "updated_at": "2026-06-16T09:14:35Z",
+    "url": "https://github.com/serpro69/claude-toolbox"
+  },
+  {
+    "description": "A curated library of AI prompt systems \u2014 structured prompts that help you think clearly before you design, build, plan, ",
+    "id": "Kimotep/skills",
+    "language": "Python",
+    "name": "Kimotep/skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T09:09:49Z",
+    "url": "https://github.com/Kimotep/skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 91,
+    "updated_at": "2026-06-16T09:05:04Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Open source, free, private, local, generative co-intelligence scaffold",
+    "id": "huximaxi/loci",
+    "language": "Rust",
+    "name": "huximaxi/loci",
+    "stars": 1,
+    "updated_at": "2026-06-16T09:02:57Z",
+    "url": "https://github.com/huximaxi/loci"
+  },
+  {
+    "description": "Security firewall and supply-chain verifier for Claude Code / Codex / Agent skills and MCPs.",
+    "id": "solanabr/safe-ai-skill",
+    "language": "\u2014",
+    "name": "solanabr/safe-ai-skill",
+    "stars": 1,
+    "updated_at": "2026-06-16T09:02:18Z",
+    "url": "https://github.com/solanabr/safe-ai-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T09:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A collection of skills for an AI agent that helps filing bug reports as GitHub issues",
+    "id": "yegor256/bugscribe",
+    "language": "\u2014",
+    "name": "yegor256/bugscribe",
+    "stars": 1,
+    "updated_at": "2026-06-16T08:59:15Z",
+    "url": "https://github.com/yegor256/bugscribe"
   },
   {
     "description": "A set of rules possibly applicable to a source code repository: ask your AI agent to configure your linter this way",
@@ -45,21 +108,12 @@
     "url": "https://github.com/yegor256/courier"
   },
   {
-    "description": "A curated library of AI prompt systems \u2014 structured prompts that help you think clearly before you design, build, plan, ",
-    "id": "Kimotep/skills",
-    "language": "Python",
-    "name": "Kimotep/skills",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:58:24Z",
-    "url": "https://github.com/Kimotep/skills"
-  },
-  {
     "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
     "id": "OpenLatch/saferskills",
     "language": "Python",
     "name": "OpenLatch/saferskills",
     "stars": 1,
-    "updated_at": "2026-06-16T08:56:48Z",
+    "updated_at": "2026-06-16T09:09:26Z",
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T08:46:36Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T08:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T08:20:15Z",
     "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:20:12Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:20:11Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:19:22Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:19:06Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:18:41Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
   }
 ]
