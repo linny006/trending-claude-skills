@@ -1,5 +1,86 @@
 [
   {
+    "description": "Claude Code plugin marketplace: human-in-the-loop studios + deterministic design skills by Conner K. Ward.",
+    "id": "connerkward/connerkward-skills",
+    "language": "\u2014",
+    "name": "connerkward/connerkward-skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:44:52Z",
+    "url": "https://github.com/connerkward/connerkward-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16533,
+    "updated_at": "2026-06-16T22:44:52Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Autonomous supervisor \u2192 worker \u2192 critic loop for Claude Code \u2014 delegate one goal, an independent critic grades each roun",
+    "id": "wdzhwsh4067/supervise-loop",
+    "language": "Shell",
+    "name": "wdzhwsh4067/supervise-loop",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:44:03Z",
+    "url": "https://github.com/wdzhwsh4067/supervise-loop"
+  },
+  {
+    "description": "Open-source brand skills that turn an idea into a real brand \u2014 name, identity, voice & brand book \u2014 without leaving your",
+    "id": "cofoundy/brand-skills",
+    "language": "Shell",
+    "name": "cofoundy/brand-skills",
+    "stars": 1,
+    "updated_at": "2026-06-16T22:43:58Z",
+    "url": "https://github.com/cofoundy/brand-skills"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-16T22:43:13Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "ckw-design \u2014 Conner K. Ward's frontend design skill for Claude Code: direction, design system, visual philosophy.",
+    "id": "connerkward/ckw-design-skill",
+    "language": "JavaScript",
+    "name": "connerkward/ckw-design-skill",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:41:22Z",
+    "url": "https://github.com/connerkward/ckw-design-skill"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 264,
+    "updated_at": "2026-06-16T22:44:05Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Claude Code plugin for Langfuse: instrumentation, setup, evaluation, monitoring, and self-hosting. 5 skills, 6 commands,",
+    "id": "jbaham2/claude-langfuse-plugin",
+    "language": "Python",
+    "name": "jbaham2/claude-langfuse-plugin",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:33:19Z",
+    "url": "https://github.com/jbaham2/claude-langfuse-plugin"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T22:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -18,15 +99,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T22:25:58Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -34,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T22:25:05Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 264,
-    "updated_at": "2026-06-16T22:25:54Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Open-source brand skills for Claude Code & AI agents \u2014 metaphor-driven brand naming, strategy, identity, voice, position",
-    "id": "cofoundy/brand-skills",
-    "language": "Shell",
-    "name": "cofoundy/brand-skills",
-    "stars": 1,
-    "updated_at": "2026-06-16T22:24:26Z",
-    "url": "https://github.com/cofoundy/brand-skills"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -70,24 +124,6 @@
     "stars": 392,
     "updated_at": "2026-06-16T22:22:37Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "ckw-design \u2014 Conner K. Ward's frontend design skill for Claude Code: direction, design system, visual philosophy.",
-    "id": "connerkward/ckw-design-skill",
-    "language": "JavaScript",
-    "name": "connerkward/ckw-design-skill",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:19:30Z",
-    "url": "https://github.com/connerkward/ckw-design-skill"
-  },
-  {
-    "description": "Claude Code plugin marketplace: human-in-the-loop studios + deterministic design skills by Conner K. Ward.",
-    "id": "connerkward/connerkward-skills",
-    "language": "\u2014",
-    "name": "connerkward/connerkward-skills",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:16:52Z",
-    "url": "https://github.com/connerkward/connerkward-skills"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T22:15:30Z",
     "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T22:15:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
@@ -243,15 +270,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16533,
-    "updated_at": "2026-06-16T21:43:58Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "Write validated, paste-ready JSON-LD schema for any page, tuned for Google rich results and AI search. Current to 2026. ",
     "id": "avikbal-dm/seo-schema-writer",
     "language": "\u2014",
@@ -274,7 +292,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 82764,
+    "stars": 82766,
     "updated_at": "2026-06-16T21:39:43Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T21:13:02Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:12:42Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "A complete, original suite of 12 Claude agent skills for SEO and growth. Runs audits, technical SEO, content, AI search ",
-    "id": "avikbal-dm/claude-seo-skills",
-    "language": "\u2014",
-    "name": "avikbal-dm/claude-seo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-16T21:12:30Z",
-    "url": "https://github.com/avikbal-dm/claude-seo-skills"
   }
 ]
