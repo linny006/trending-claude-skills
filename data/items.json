@@ -1,21 +1,30 @@
 [
   {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T19:22:56Z",
-    "url": "https://github.com/Servosity/msp-skills"
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 90,
+    "updated_at": "2026-06-16T19:29:59Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 264,
-    "updated_at": "2026-06-16T19:23:06Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
+    "description": "DotNet Episteme Skills - a curated, manual-first .NET AI skills library rooted in systematic knowledge (episteme) and sh",
+    "id": "Metalnib/dotnet-episteme-skills",
+    "language": "C#",
+    "name": "Metalnib/dotnet-episteme-skills",
+    "stars": 11,
+    "updated_at": "2026-06-16T19:29:42Z",
+    "url": "https://github.com/Metalnib/dotnet-episteme-skills"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-16T19:28:54Z",
+    "url": "https://github.com/blisspixel/primr"
   },
   {
     "description": "See what your AI coding agent just did to your system's behavior, flow, and architecture. Grounded in real code, visual,",
@@ -23,8 +32,44 @@
     "language": "TypeScript",
     "name": "mappamind/mappamind",
     "stars": 0,
-    "updated_at": "2026-06-16T19:21:44Z",
+    "updated_at": "2026-06-16T19:26:47Z",
     "url": "https://github.com/mappamind/mappamind"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T19:26:09Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-16T19:25:48Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-16T19:23:31Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 264,
+    "updated_at": "2026-06-16T19:23:36Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
@@ -43,24 +88,6 @@
     "stars": 29887,
     "updated_at": "2026-06-16T19:15:55Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-16T19:15:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-16T19:17:19Z",
-    "url": "https://github.com/blisspixel/primr"
   },
   {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
@@ -106,15 +133,6 @@
     "stars": 3551,
     "updated_at": "2026-06-16T19:00:41Z",
     "url": "https://github.com/SamurAIGPT/Generative-Media-Skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T18:59:45Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "A Claude Agent Skill that takes a research paper from idea to a published, citable preprint. Evidence grading, mechanism",
@@ -176,7 +194,7 @@
     "language": "Shell",
     "name": "testdouble/han",
     "stars": 82,
-    "updated_at": "2026-06-16T19:08:29Z",
+    "updated_at": "2026-06-16T19:25:51Z",
     "url": "https://github.com/testdouble/han"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 12,
     "updated_at": "2026-06-16T17:42:44Z",
     "url": "https://github.com/DojoCodingLabs/code-sensei"
-  },
-  {
-    "description": "A comprehensive Claude Code plugin that automates the complete Software Development Lifecycle with 20 role-specific agen",
-    "id": "saitarrun/sdlc-workflow",
-    "language": "JavaScript",
-    "name": "saitarrun/sdlc-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:39:16Z",
-    "url": "https://github.com/saitarrun/sdlc-workflow"
-  },
-  {
-    "description": "Claude Code plugin + MCP server for ComfyUI \u2014 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing fr",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 161,
-    "updated_at": "2026-06-16T17:31:40Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   }
 ]
