@@ -1,21 +1,66 @@
 [
   {
+    "description": "Personal Claude Code plugin marketplace \u2014 portable git workflow skills (conventional commits, docs/metadata sync, change",
+    "id": "kwangsing3/claude-skills-toolkit",
+    "language": "\u2014",
+    "name": "kwangsing3/claude-skills-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:42:38Z",
+    "url": "https://github.com/kwangsing3/claude-skills-toolkit"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 48,
+    "updated_at": "2026-06-17T06:39:51Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-17T06:29:22Z",
+    "updated_at": "2026-06-17T06:44:31Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T06:35:04Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Prompt optimizer & compiler for Claude Code \u2014 intent mining, genre-aware skeletons, multi-candidate + LLM-judge eval. Te",
+    "id": "Cy4nLiang/claude-code-prompt-architect",
+    "language": "Python",
+    "name": "Cy4nLiang/claude-code-prompt-architect",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:31:02Z",
+    "url": "https://github.com/Cy4nLiang/claude-code-prompt-architect"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62510,
-    "updated_at": "2026-06-17T06:27:08Z",
+    "stars": 62512,
+    "updated_at": "2026-06-17T06:42:21Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 5,
+    "updated_at": "2026-06-17T06:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code plugin marketplace \u2014 40+ installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, ",
@@ -97,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T06:15:31Z",
     "url": "https://github.com/Ldxs001/workbuddy-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 5,
-    "updated_at": "2026-06-17T06:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -223,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T05:43:06Z",
     "url": "https://github.com/Neetx/ai-research-radar"
-  },
-  {
-    "description": "Personal Claude Code plugin marketplace \u2014 portable git workflow skills (conventional commits, docs/metadata sync, change",
-    "id": "kwangsing3/claude-skills-toolkit",
-    "language": "\u2014",
-    "name": "kwangsing3/claude-skills-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:40:43Z",
-    "url": "https://github.com/kwangsing3/claude-skills-toolkit"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -383,7 +410,7 @@
     "language": "PHP",
     "name": "mralaminahamed/wp-dev-skills",
     "stars": 17,
-    "updated_at": "2026-06-17T04:59:40Z",
+    "updated_at": "2026-06-17T06:34:57Z",
     "url": "https://github.com/mralaminahamed/wp-dev-skills"
   },
   {
@@ -405,31 +432,13 @@
     "url": "https://github.com/Edward0l1/skill-flare-discover"
   },
   {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T04:56:20Z",
-    "url": "https://github.com/vanducng/skills"
-  },
-  {
     "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 205,
+    "stars": 206,
     "updated_at": "2026-06-17T04:53:05Z",
     "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 48,
-    "updated_at": "2026-06-17T04:48:54Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T04:48:40Z",
     "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "Hivemind turns your traces into reusable skills across agents",
-    "id": "activeloopai/hivemind",
-    "language": "TypeScript",
-    "name": "activeloopai/hivemind",
-    "stars": 1244,
-    "updated_at": "2026-06-17T04:48:06Z",
-    "url": "https://github.com/activeloopai/hivemind"
   }
 ]
