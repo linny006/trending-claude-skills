@@ -1,12 +1,57 @@
 [
   {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62525,
+    "updated_at": "2026-06-17T09:29:45Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "338 AI skills across 16 domains. PM is the deepest (66 skills - discovery, execution, strategy frameworks, GTM, Jira/Lin",
+    "id": "borghei/Claude-Skills",
+    "language": "HTML",
+    "name": "borghei/Claude-Skills",
+    "stars": 273,
+    "updated_at": "2026-06-17T09:29:03Z",
+    "url": "https://github.com/borghei/Claude-Skills"
+  },
+  {
+    "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
+    "id": "jabrena/cursor-rules-java",
+    "language": "Java",
+    "name": "jabrena/cursor-rules-java",
+    "stars": 404,
+    "updated_at": "2026-06-17T09:28:30Z",
+    "url": "https://github.com/jabrena/cursor-rules-java"
+  },
+  {
     "description": "Claude skills that deliver a daily finance status dashboard to your telegram.",
     "id": "ya5huk/findash",
     "language": "Python",
     "name": "ya5huk/findash",
     "stars": 2,
-    "updated_at": "2026-06-17T09:16:45Z",
+    "updated_at": "2026-06-17T09:28:22Z",
     "url": "https://github.com/ya5huk/findash"
+  },
+  {
+    "description": "Cross-tool AI agent skills (SKILL.md) for Claude Code, Codex, Gemini CLI, Cursor & Copilot",
+    "id": "Vingedal/bjorn-skills",
+    "language": "\u2014",
+    "name": "Vingedal/bjorn-skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T09:26:56Z",
+    "url": "https://github.com/Vingedal/bjorn-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 264,
+    "updated_at": "2026-06-17T09:24:13Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 6,
-    "updated_at": "2026-06-17T09:15:15Z",
+    "updated_at": "2026-06-17T09:18:55Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -45,6 +90,15 @@
     "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
   },
   {
+    "description": "Vet a candidate skill / MCP / prompt before adopting it into Claude Code/Codex \u2014 overlap, fit, weight & safety checks, t",
+    "id": "Tingtao-code/skill-intake",
+    "language": "\u2014",
+    "name": "Tingtao-code/skill-intake",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:11:29Z",
+    "url": "https://github.com/Tingtao-code/skill-intake"
+  },
+  {
     "description": "\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u4e0e\u5ba1\u7a3f Claude Code plugin\u3002\u9898\u6750\u4e2d\u6027 \u2014 \u6821\u56ed\u9752\u6625\u3001\u60ac\u7591\u3001\u6b66\u4fa0\u3001\u79d1\u5e7b\u3001\u5386\u53f2\u3001\u90fd\u5e02\u7b49\u957f\u7bc7\u5747\u53ef\u3002\u5305\u542b 5 \u4e2a skill + 12 \u4e2a agent + 8 \u7bc7\u901a\u7528\u5199\u4f5c\u6280\u6cd5 reference\u3002",
     "id": "chaserr/novel-craft",
     "language": "\u2014",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T09:07:06Z",
     "url": "https://github.com/specscore/specstudio-skills"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62524,
-    "updated_at": "2026-06-17T09:02:47Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
@@ -198,21 +243,12 @@
     "url": "https://github.com/a-tokyo/agent-skills"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 264,
-    "updated_at": "2026-06-17T08:57:11Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
     "id": "jagmarques/company-skill",
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 4,
-    "updated_at": "2026-06-17T09:00:41Z",
+    "updated_at": "2026-06-17T09:29:15Z",
     "url": "https://github.com/jagmarques/company-skill"
   },
   {
@@ -319,7 +355,7 @@
     "id": "Kaelio/ktx",
     "language": "TypeScript",
     "name": "Kaelio/ktx",
-    "stars": 1228,
+    "stars": 1229,
     "updated_at": "2026-06-17T07:59:37Z",
     "url": "https://github.com/Kaelio/ktx"
   },
@@ -337,7 +373,7 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 235,
+    "stars": 237,
     "updated_at": "2026-06-17T07:53:33Z",
     "url": "https://github.com/dongshuyan/compass-skills"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T07:20:12Z",
     "url": "https://github.com/whykusanagi/celeste-ops"
-  },
-  {
-    "description": "Read mp.weixin.qq.com Official Account articles from Claude Code without getting blocked. PowerShell HttpWebRequest raw ",
-    "id": "DQT-bit/claude-skill-weidu",
-    "language": "\u2014",
-    "name": "DQT-bit/claude-skill-weidu",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:45:06Z",
-    "url": "https://github.com/DQT-bit/claude-skill-weidu"
-  },
-  {
-    "description": "Fusion-style multi-agent research skill for Claude Code: spawn N sub-agents in parallel, then Judge + synthesize while p",
-    "id": "DQT-bit/claude-skill-sansheng",
-    "language": "\u2014",
-    "name": "DQT-bit/claude-skill-sansheng",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:45:04Z",
-    "url": "https://github.com/DQT-bit/claude-skill-sansheng"
-  },
-  {
-    "description": "A Claude Code harness that turns a session into an agentic data engineer for SMBs \u2014 packaged as an installable plugin, b",
-    "id": "pol-cc/agentic-data-engineer",
-    "language": "Python",
-    "name": "pol-cc/agentic-data-engineer",
-    "stars": 1,
-    "updated_at": "2026-06-17T07:12:35Z",
-    "url": "https://github.com/pol-cc/agentic-data-engineer"
-  },
-  {
-    "description": "Claude Code plugin + MCP server for ComfyUI \u2014 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing fr",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 162,
-    "updated_at": "2026-06-17T07:06:33Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   }
 ]
