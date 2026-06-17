@@ -1,5 +1,104 @@
 [
   {
+    "description": "Claude skills that deliver a daily finance status dashboard to your telegram.",
+    "id": "ya5huk/findash",
+    "language": "Python",
+    "name": "ya5huk/findash",
+    "stars": 5,
+    "updated_at": "2026-06-17T13:53:27Z",
+    "url": "https://github.com/ya5huk/findash"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-17T13:53:19Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:52:41Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-17T13:51:05Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Second brain for Forward Deployed Engineers \u2014 one @fde skill, phase methods that do the work, self-writing engagement me",
+    "id": "suboss87/fde-os",
+    "language": "JavaScript",
+    "name": "suboss87/fde-os",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:46:40Z",
+    "url": "https://github.com/suboss87/fde-os"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:46:16Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 2,
+    "updated_at": "2026-06-17T13:52:57Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:45:22Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T13:45:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:44:14Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-17T13:43:50Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
     "description": "Agentic DAST orchestrator for Burp Suite",
     "id": "TyrusRC/praetor",
     "language": "Python",
@@ -27,15 +126,6 @@
     "url": "https://github.com/shamspias/customizable-gpt-chatbot"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-17T13:36:23Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "\u62df\u7a3f nigao \u2014 \u516c\u4f17\u53f7\u8349\u7a3f\u751f\u6210 skill\uff1amarkdown \u2192 \u5bcc\u6587\u672c HTML + \u5927\u5c0f\u5c01\u9762 + \u6458\u8981\uff0c\u7aef\u5230\u7aef\u7ed5\u5f00 mdnice\u3002Claude Code skill for one-shot WeChat Official Acc",
     "id": "DQT-bit/claude-skill-nigao",
     "language": "Python",
@@ -43,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T13:36:16Z",
     "url": "https://github.com/DQT-bit/claude-skill-nigao"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T13:30:27Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude SEO Skills \u2014 production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voi",
@@ -77,7 +158,7 @@
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 4,
-    "updated_at": "2026-06-17T13:44:58Z",
+    "updated_at": "2026-06-17T13:59:30Z",
     "url": "https://github.com/jagmarques/company-skill"
   },
   {
@@ -124,15 +205,6 @@
     "stars": 252,
     "updated_at": "2026-06-17T13:15:45Z",
     "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Claude skills that deliver a daily finance status dashboard to your telegram.",
-    "id": "ya5huk/findash",
-    "language": "Python",
-    "name": "ya5huk/findash",
-    "stars": 5,
-    "updated_at": "2026-06-17T13:14:44Z",
-    "url": "https://github.com/ya5huk/findash"
   },
   {
     "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
@@ -203,7 +275,7 @@
     "language": "\u2014",
     "name": "stakekit/agentkit",
     "stars": 2,
-    "updated_at": "2026-06-17T13:37:35Z",
+    "updated_at": "2026-06-17T13:49:42Z",
     "url": "https://github.com/stakekit/agentkit"
   },
   {
@@ -243,15 +315,6 @@
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 2,
-    "updated_at": "2026-06-17T13:39:53Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -265,7 +328,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16562,
+    "stars": 16563,
     "updated_at": "2026-06-17T12:55:23Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -385,68 +448,5 @@
     "stars": 60,
     "updated_at": "2026-06-17T12:35:59Z",
     "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 77,
-    "updated_at": "2026-06-17T12:29:48Z",
-    "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-17T12:29:43Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI altern",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 1485,
-    "updated_at": "2026-06-17T12:28:57Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "Knowledge graph extractor: Markdown (or any format) \u2192 knowledge graph with RDFS/OWL ontology",
-    "id": "SenolIsci/mykg",
-    "language": "Python",
-    "name": "SenolIsci/mykg",
-    "stars": 26,
-    "updated_at": "2026-06-17T12:28:03Z",
-    "url": "https://github.com/SenolIsci/mykg"
-  },
-  {
-    "description": "18 WordPress plugin development skills for Claude Code \u2014 GitHub flow, WooCommerce, testing, coding standards, CI/QA, PHP",
-    "id": "mralaminahamed/wp-dev-skills",
-    "language": "PHP",
-    "name": "mralaminahamed/wp-dev-skills",
-    "stars": 20,
-    "updated_at": "2026-06-17T12:08:12Z",
-    "url": "https://github.com/mralaminahamed/wp-dev-skills"
-  },
-  {
-    "description": "Opinionated Clean Architecture for React, React Native, and npm packages. MVVM + MobX + Inversify, with AI-ready skills ",
-    "id": "Kevinparra535/clean-architecture-stack",
-    "language": "\u2014",
-    "name": "Kevinparra535/clean-architecture-stack",
-    "stars": 2,
-    "updated_at": "2026-06-17T12:06:04Z",
-    "url": "https://github.com/Kevinparra535/clean-architecture-stack"
-  },
-  {
-    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
-    "id": "Dianel555/DSkills",
-    "language": "Python",
-    "name": "Dianel555/DSkills",
-    "stars": 63,
-    "updated_at": "2026-06-17T12:05:23Z",
-    "url": "https://github.com/Dianel555/DSkills"
   }
 ]
