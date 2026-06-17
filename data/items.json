@@ -1,5 +1,59 @@
 [
   {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 29896,
+    "updated_at": "2026-06-17T08:43:00Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "ScraperAPI's Agent Skills.",
+    "id": "scraperapi/scraperapi-skills",
+    "language": "Python",
+    "name": "scraperapi/scraperapi-skills",
+    "stars": 9,
+    "updated_at": "2026-06-17T08:41:53Z",
+    "url": "https://github.com/scraperapi/scraperapi-skills"
+  },
+  {
+    "description": "AI \u5b66\u4e60\u8f85\u5bfc \u00b7 Claude Code Skill \u5957\u4ef6\uff1a\u6839\u636e\u4e0a\u4f20\u7684\u6559\u6750/\u8bfe\u4ef6\u6309\u7ae0\u8282\u5b66\u4e60\uff0c\u9002\u7528\u4e8e\u8003\u7814\u3001\u671f\u672b\u3001\u8d44\u683c\u8003\u8bd5\u2014\u2014\u601d\u7ef4\u5bfc\u56fe / \u8bb2\u4e49 / \u771f\u9898\u98ce\u683c\u8bd5\u5377 / \u9519\u9898\u672c / \u8d39\u66fc\u68c0\u9a8c / \u638c\u63e1\u5ea6\u4eea\u8868\u76d8\uff0c\u8fdb\u5ea6\u8de8\u4f1a\u8bdd\u4fdd\u5b58",
+    "id": "2362094903-ops/study-assistant-skills",
+    "language": "Python",
+    "name": "2362094903-ops/study-assistant-skills",
+    "stars": 5,
+    "updated_at": "2026-06-17T08:40:44Z",
+    "url": "https://github.com/2362094903-ops/study-assistant-skills"
+  },
+  {
+    "description": "Professional skills for Claude AI \u2014 167 skills across 17 professions. Save 8-10 hours per week. PM stands for Profession",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "Shell",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 976,
+    "updated_at": "2026-06-17T08:43:12Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Claude Code skills for SEO, content localization, and digital PR - built for TrueProfit's ecommerce workflow",
+    "id": "khanhvo2172-dotcom/seo-skills",
+    "language": "Python",
+    "name": "khanhvo2172-dotcom/seo-skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T08:30:35Z",
+    "url": "https://github.com/khanhvo2172-dotcom/seo-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T08:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udde0 AI Agent skills for LLMs and AI Agents - Claude, Codex, Cursor etc.",
     "id": "a-tokyo/agent-skills",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "\u2014",
     "name": "specscore/specstudio-skills",
     "stars": 0,
-    "updated_at": "2026-06-17T08:29:47Z",
+    "updated_at": "2026-06-17T08:38:15Z",
     "url": "https://github.com/specscore/specstudio-skills"
   },
   {
@@ -23,17 +77,8 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-17T08:29:26Z",
+    "updated_at": "2026-06-17T08:38:59Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Claude Code skills for SEO, content localization, and digital PR - built for TrueProfit's ecommerce workflow",
-    "id": "khanhvo2172-dotcom/seo-skills",
-    "language": "Python",
-    "name": "khanhvo2172-dotcom/seo-skills",
-    "stars": 0,
-    "updated_at": "2026-06-17T08:28:13Z",
-    "url": "https://github.com/khanhvo2172-dotcom/seo-skills"
   },
   {
     "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
@@ -81,15 +126,6 @@
     "url": "https://github.com/yegor256/bugscribe"
   },
   {
-    "description": "Professional skills for Claude AI \u2014 167 skills across 17 professions. Save 8-10 hours per week. PM stands for Profession",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "Shell",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 976,
-    "updated_at": "2026-06-17T08:29:57Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -117,15 +153,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T08:15:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
     "id": "netopsengineer/axiom",
     "language": "Shell",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "prakhar1114/ai_mime",
     "stars": 41,
-    "updated_at": "2026-06-17T08:10:52Z",
+    "updated_at": "2026-06-17T08:33:35Z",
     "url": "https://github.com/prakhar1114/ai_mime"
   },
   {
@@ -189,15 +216,6 @@
     "url": "https://github.com/dongshuyan/compass-skills"
   },
   {
-    "description": "AI \u5b66\u4e60\u8f85\u5bfc \u00b7 Claude Code Skill \u5957\u4ef6\uff1a\u6839\u636e\u4e0a\u4f20\u7684\u6559\u6750/\u8bfe\u4ef6\u6309\u7ae0\u8282\u5b66\u4e60\uff0c\u9002\u7528\u4e8e\u8003\u7814\u3001\u671f\u672b\u3001\u8d44\u683c\u8003\u8bd5\u2014\u2014\u601d\u7ef4\u5bfc\u56fe / \u8bb2\u4e49 / \u771f\u9898\u98ce\u683c\u8bd5\u5377 / \u9519\u9898\u672c / \u8d39\u66fc\u68c0\u9a8c / \u638c\u63e1\u5ea6\u4eea\u8868\u76d8\uff0c\u8fdb\u5ea6\u8de8\u4f1a\u8bdd\u4fdd\u5b58",
-    "id": "2362094903-ops/study-assistant-skills",
-    "language": "Python",
-    "name": "2362094903-ops/study-assistant-skills",
-    "stars": 5,
-    "updated_at": "2026-06-17T07:51:46Z",
-    "url": "https://github.com/2362094903-ops/study-assistant-skills"
-  },
-  {
     "description": "\ud83c\udfdb\ufe0f 22\u4f4d\u5e26\u7075\u9b42\u4e0e\u8bb0\u5fc6\u7684\u5723\u4eba\u4e13\u5bb6\u73ed\u5b50\uff0c\u6309\u95ee\u9898\u91cd\u91cf\u81ea\u52a8\u964d\u7ea7\u5f00\u8bae\u4f1a\u2014\u2014\u65e5\u5e38\u95ee\u98981\u4f4d\u5723\u4eba3\u53e5\u8bdd\u88c1\u51b3\uff0c\u590d\u6742\u8bae\u9898\u624d\u5f00\u591a\u4e13\u5bb6\u52a0\u6743\u6295\u7968\u3002\u5723\u4eba\u8bb0\u5f97\u5386\u6b21\u51b3\u5b9a\uff0c\u540c\u7c7b\u95ee\u9898\u4f1a\u5f15\u7528\u4e0a\u6b21\u7ed3\u8bba\u3002Claude Code \u6280\u80fd\u3002",
     "id": "SuanFishXYY/sptler",
     "language": "Python",
@@ -220,7 +238,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62521,
+    "stars": 62522,
     "updated_at": "2026-06-17T07:33:37Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "anombyte93/prd-taskmaster",
     "stars": 514,
-    "updated_at": "2026-06-17T07:49:32Z",
+    "updated_at": "2026-06-17T08:42:31Z",
     "url": "https://github.com/anombyte93/prd-taskmaster"
   },
   {
@@ -346,7 +364,7 @@
     "id": "activeloopai/hivemind",
     "language": "TypeScript",
     "name": "activeloopai/hivemind",
-    "stars": 1245,
+    "stars": 1246,
     "updated_at": "2026-06-17T07:02:31Z",
     "url": "https://github.com/activeloopai/hivemind"
   },
@@ -364,7 +382,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1790,
+    "stars": 1791,
     "updated_at": "2026-06-17T06:59:01Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -391,7 +409,7 @@
     "id": "modu-ai/cowork-plugins",
     "language": "HTML",
     "name": "modu-ai/cowork-plugins",
-    "stars": 220,
+    "stars": 221,
     "updated_at": "2026-06-17T06:56:00Z",
     "url": "https://github.com/modu-ai/cowork-plugins"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:42:38Z",
     "url": "https://github.com/kwangsing3/claude-skills-toolkit"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 48,
-    "updated_at": "2026-06-17T06:39:51Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:35:04Z",
-    "url": "https://github.com/vanducng/skills"
   }
 ]
