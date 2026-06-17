@@ -1,12 +1,102 @@
 [
   {
-    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
-    "id": "Chili-Piper/mcp-assets",
-    "language": "\u2014",
-    "name": "Chili-Piper/mcp-assets",
-    "stars": 6,
-    "updated_at": "2026-06-17T16:44:11Z",
-    "url": "https://github.com/Chili-Piper/mcp-assets"
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:57:58Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
+    "id": "jagmarques/company-skill",
+    "language": "JavaScript",
+    "name": "jagmarques/company-skill",
+    "stars": 4,
+    "updated_at": "2026-06-17T16:57:00Z",
+    "url": "https://github.com/jagmarques/company-skill"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:56:26Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:55:41Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 2681,
+    "updated_at": "2026-06-17T16:50:29Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
+    "id": "mickzijdel/dev-hooks",
+    "language": "Python",
+    "name": "mickzijdel/dev-hooks",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:49:56Z",
+    "url": "https://github.com/mickzijdel/dev-hooks"
+  },
+  {
+    "description": "Turn any video into a narration recap with claude code skill\uff5c\u7528claude code skill\u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
+    "id": "worldwonderer/video-recap-skills",
+    "language": "Python",
+    "name": "worldwonderer/video-recap-skills",
+    "stars": 272,
+    "updated_at": "2026-06-17T16:49:43Z",
+    "url": "https://github.com/worldwonderer/video-recap-skills"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 36,
+    "updated_at": "2026-06-17T16:48:49Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
+    "id": "OpenLatch/saferskills",
+    "language": "Python",
+    "name": "OpenLatch/saferskills",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:55:41Z",
+    "url": "https://github.com/OpenLatch/saferskills"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-17T16:47:36Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Agent skills for working with Ruby on Rails 8+",
+    "id": "mickzijdel/rails-toolkit",
+    "language": "Pkl",
+    "name": "mickzijdel/rails-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:47:30Z",
+    "url": "https://github.com/mickzijdel/rails-toolkit"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +104,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 6,
-    "updated_at": "2026-06-17T16:44:03Z",
+    "updated_at": "2026-06-17T16:45:27Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
+    "id": "Chili-Piper/mcp-assets",
+    "language": "\u2014",
+    "name": "Chili-Piper/mcp-assets",
+    "stars": 6,
+    "updated_at": "2026-06-17T16:44:11Z",
+    "url": "https://github.com/Chili-Piper/mcp-assets"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -207,15 +306,6 @@
     "url": "https://github.com/songshishuang/Skills"
   },
   {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-17T16:16:31Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
     "description": "Lightweight suite of skills for managing memory on Claude Code.",
     "id": "DrFaustus-vic/memory-tools",
     "language": "Python",
@@ -288,15 +378,6 @@
     "url": "https://github.com/prakhar1114/ai_mime"
   },
   {
-    "description": "Turn any video into a narration recap with claude code skill\uff5c\u7528claude code skill\u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
-    "id": "worldwonderer/video-recap-skills",
-    "language": "Python",
-    "name": "worldwonderer/video-recap-skills",
-    "stars": 272,
-    "updated_at": "2026-06-17T15:54:00Z",
-    "url": "https://github.com/worldwonderer/video-recap-skills"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T15:42:41Z",
     "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:42:00Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:41:02Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 364,
-    "updated_at": "2026-06-17T15:39:55Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "A collection of Claude Skills",
-    "id": "GetBindu/awesome-claude-code-and-skills",
-    "language": "\u2014",
-    "name": "GetBindu/awesome-claude-code-and-skills",
-    "stars": 138,
-    "updated_at": "2026-06-17T15:38:34Z",
-    "url": "https://github.com/GetBindu/awesome-claude-code-and-skills"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
-    "id": "worldwonderer/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "worldwonderer/oh-story-claudecode",
-    "stars": 2680,
-    "updated_at": "2026-06-17T16:44:10Z",
-    "url": "https://github.com/worldwonderer/oh-story-claudecode"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:38:05Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "An agent skills marketplace from Narrative I/O \u2014 interactive, AI-powered slash-command workflows for the recurring work ",
-    "id": "narrative-io/narrative-skills-marketplace",
-    "language": "Go Template",
-    "name": "narrative-io/narrative-skills-marketplace",
-    "stars": 5,
-    "updated_at": "2026-06-17T15:37:24Z",
-    "url": "https://github.com/narrative-io/narrative-skills-marketplace"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 29899,
-    "updated_at": "2026-06-17T15:36:43Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:33:26Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   }
 ]
