@@ -1,21 +1,21 @@
 [
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-17T07:29:26Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-17T07:29:47Z",
+    "updated_at": "2026-06-17T07:45:03Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "id": "dongshuyan/compass-skills",
+    "language": "Python",
+    "name": "dongshuyan/compass-skills",
+    "stars": 223,
+    "updated_at": "2026-06-17T07:44:49Z",
+    "url": "https://github.com/dongshuyan/compass-skills"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -23,8 +23,44 @@
     "language": "Python",
     "name": "danieljustus/symaira-eraseme",
     "stars": 2,
-    "updated_at": "2026-06-17T07:26:42Z",
+    "updated_at": "2026-06-17T07:43:14Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "A Claude Code plugin that runs a full pentest engagement from inside your coding agent. Point it at a target and it work",
+    "id": "skshadan/kage",
+    "language": "Python",
+    "name": "skshadan/kage",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:36:14Z",
+    "url": "https://github.com/skshadan/kage"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62519,
+    "updated_at": "2026-06-17T07:33:37Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T07:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:29:26Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
@@ -63,15 +99,6 @@
     "url": "https://github.com/heymegabyte/claude-skills"
   },
   {
-    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "id": "dongshuyan/compass-skills",
-    "language": "Python",
-    "name": "dongshuyan/compass-skills",
-    "stars": 219,
-    "updated_at": "2026-06-17T07:21:37Z",
-    "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
     "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
     "id": "Zhonghao1995/agentic-swmm-workflow",
     "language": "Python",
@@ -86,7 +113,7 @@
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 4,
-    "updated_at": "2026-06-17T07:22:03Z",
+    "updated_at": "2026-06-17T07:44:40Z",
     "url": "https://github.com/jagmarques/company-skill"
   },
   {
@@ -108,22 +135,22 @@
     "url": "https://github.com/anombyte93/prd-taskmaster"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62518,
-    "updated_at": "2026-06-17T07:26:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "Read mp.weixin.qq.com Official Account articles from Claude Code without getting blocked. PowerShell HttpWebRequest raw ",
+    "id": "DQT-bit/claude-skill-weidu",
+    "language": "\u2014",
+    "name": "DQT-bit/claude-skill-weidu",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:45:06Z",
+    "url": "https://github.com/DQT-bit/claude-skill-weidu"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T07:15:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Fusion-style multi-agent research skill for Claude Code: spawn N sub-agents in parallel, then Judge + synthesize while p",
+    "id": "DQT-bit/claude-skill-sansheng",
+    "language": "\u2014",
+    "name": "DQT-bit/claude-skill-sansheng",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:45:04Z",
+    "url": "https://github.com/DQT-bit/claude-skill-sansheng"
   },
   {
     "description": "A Claude Code harness that turns a session into an agentic data engineer for SMBs \u2014 packaged as an installable plugin, b",
@@ -175,7 +202,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1784,
+    "stars": 1786,
     "updated_at": "2026-06-17T06:59:01Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -259,6 +286,15 @@
     "stars": 1,
     "updated_at": "2026-06-17T06:35:04Z",
     "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "17 WordPress plugin development skills for Claude Code \u2014 GitHub flow, WooCommerce, PHPUnit, PHPCS/WPCS, PHPStan stubs, i",
+    "id": "mralaminahamed/wp-dev-skills",
+    "language": "PHP",
+    "name": "mralaminahamed/wp-dev-skills",
+    "stars": 18,
+    "updated_at": "2026-06-17T06:34:57Z",
+    "url": "https://github.com/mralaminahamed/wp-dev-skills"
   },
   {
     "description": "Prompt optimizer & compiler for Claude Code \u2014 intent mining, genre-aware skeletons, multi-candidate + LLM-judge eval. Te",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T06:00:30Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:58:52Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
-    "id": "Scorpio-1111/OmicsAgent-Skills",
-    "language": "HTML",
-    "name": "Scorpio-1111/OmicsAgent-Skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T05:57:01Z",
-    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
-  },
-  {
-    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
-    "id": "Mary2241/seo-skills-agent-toolbox",
-    "language": "HTML",
-    "name": "Mary2241/seo-skills-agent-toolbox",
-    "stars": 1,
-    "updated_at": "2026-06-17T05:56:35Z",
-    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:56:06Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   }
 ]
