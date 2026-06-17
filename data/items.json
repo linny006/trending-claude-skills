@@ -1,5 +1,68 @@
 [
   {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-17T17:28:35Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "An opinionated library of reusable agent skills. Contains practical skills for writing, planning, triage, architecture, ",
+    "id": "risadams/skills",
+    "language": "Python",
+    "name": "risadams/skills",
+    "stars": 2,
+    "updated_at": "2026-06-17T17:28:15Z",
+    "url": "https://github.com/risadams/skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:28:05Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:26:41Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Niche Claude Agent Skills for nonprofit development teams in the NC Research Triangle: audit-ready CSRD/ESG impact repor",
+    "id": "ronanpinho-ipt/triangle-dev-skills",
+    "language": "Shell",
+    "name": "ronanpinho-ipt/triangle-dev-skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:20:59Z",
+    "url": "https://github.com/ronanpinho-ipt/triangle-dev-skills"
+  },
+  {
+    "description": "An open spec + reference implementation for AI-generated, template-driven documentation \u2014 structure (the IR warp) is set",
+    "id": "karuhi/ordito",
+    "language": "JavaScript",
+    "name": "karuhi/ordito",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:16:59Z",
+    "url": "https://github.com/karuhi/ordito"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T17:15:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "Python",
@@ -27,15 +90,6 @@
     "url": "https://github.com/open-agreements/open-agreements"
   },
   {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-17T17:13:51Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
     "description": "A collection of personal Claude Code skills",
     "id": "evnm/claude-skills",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T17:12:35Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "An open spec + reference implementation for AI-generated, template-driven documentation \u2014 structure (the IR warp) is set",
-    "id": "karuhi/ordito",
-    "language": "JavaScript",
-    "name": "karuhi/ordito",
-    "stars": 0,
-    "updated_at": "2026-06-17T17:11:23Z",
-    "url": "https://github.com/karuhi/ordito"
   },
   {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
@@ -117,15 +162,6 @@
     "url": "https://github.com/OpenLatch/saferskills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T17:00:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -167,7 +203,7 @@
     "language": "JavaScript",
     "name": "worldwonderer/oh-story-claudecode",
     "stars": 2681,
-    "updated_at": "2026-06-17T17:05:52Z",
+    "updated_at": "2026-06-17T17:19:35Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
   {
@@ -184,7 +220,7 @@
     "id": "worldwonderer/video-recap-skills",
     "language": "Python",
     "name": "worldwonderer/video-recap-skills",
-    "stars": 272,
+    "stars": 273,
     "updated_at": "2026-06-17T16:49:43Z",
     "url": "https://github.com/worldwonderer/video-recap-skills"
   },
@@ -360,6 +396,15 @@
     "url": "https://github.com/RashiD2801/Skills"
   },
   {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16565,
+    "updated_at": "2026-06-17T16:21:58Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
     "description": "Glanceable Claude Code state in iTerm2 tabs \u2014 white=idle, blue=processing, orange=waiting. iTerm2 daemon + launchd watch",
     "id": "wasulajr/headsup",
     "language": "Shell",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T16:07:42Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-06-17T16:06:13Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Documenting discoveries, experiments, and lessons learned while pushing the boundaries of AI-assisted software developme",
-    "id": "giljr/claude",
-    "language": "Ruby",
-    "name": "giljr/claude",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:56:35Z",
-    "url": "https://github.com/giljr/claude"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:55:11Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
-    "id": "testdouble/han",
-    "language": "Shell",
-    "name": "testdouble/han",
-    "stars": 84,
-    "updated_at": "2026-06-17T15:54:09Z",
-    "url": "https://github.com/testdouble/han"
-  },
-  {
-    "description": "Automation harness that compiles a screen recording into a rerunnable script, with LLMs, only at decision points and sel",
-    "id": "prakhar1114/ai_mime",
-    "language": "Python",
-    "name": "prakhar1114/ai_mime",
-    "stars": 41,
-    "updated_at": "2026-06-17T15:54:02Z",
-    "url": "https://github.com/prakhar1114/ai_mime"
   }
 ]
