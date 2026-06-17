@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agentic DAST orchestrator for Burp Suite",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 1,
+    "updated_at": "2026-06-17T13:40:01Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Open-source Claude skills and an MCP server for Sales and GTM teams: build Sales Navigator searches, write multichannel ",
+    "id": "LaGrowthMachine/gtm-system",
+    "language": "Python",
+    "name": "LaGrowthMachine/gtm-system",
+    "stars": 11,
+    "updated_at": "2026-06-17T13:43:30Z",
+    "url": "https://github.com/LaGrowthMachine/gtm-system"
+  },
+  {
+    "description": " Veldra \u2014 talk an agent into existence, then watch it grow. A self-hostable, local-first agent platform: describe what y",
+    "id": "shamspias/customizable-gpt-chatbot",
+    "language": "Python",
+    "name": "shamspias/customizable-gpt-chatbot",
+    "stars": 391,
+    "updated_at": "2026-06-17T13:37:08Z",
+    "url": "https://github.com/shamspias/customizable-gpt-chatbot"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-17T13:36:23Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "\u62df\u7a3f nigao \u2014 \u516c\u4f17\u53f7\u8349\u7a3f\u751f\u6210 skill\uff1amarkdown \u2192 \u5bcc\u6587\u672c HTML + \u5927\u5c0f\u5c01\u9762 + \u6458\u8981\uff0c\u7aef\u5230\u7aef\u7ed5\u5f00 mdnice\u3002Claude Code skill for one-shot WeChat Official Acc",
+    "id": "DQT-bit/claude-skill-nigao",
+    "language": "Python",
+    "name": "DQT-bit/claude-skill-nigao",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:36:16Z",
+    "url": "https://github.com/DQT-bit/claude-skill-nigao"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T13:30:27Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude SEO Skills \u2014 production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voi",
     "id": "seranking/seo-skills",
     "language": "Python",
@@ -23,17 +77,8 @@
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 4,
-    "updated_at": "2026-06-17T13:25:35Z",
+    "updated_at": "2026-06-17T13:44:58Z",
     "url": "https://github.com/jagmarques/company-skill"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-17T13:24:48Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "State-of-the-art (2026) Claude Code skills for building and auditing software \u2014 30 domain & language skills, BUILD/AUDIT",
@@ -79,15 +124,6 @@
     "stars": 252,
     "updated_at": "2026-06-17T13:15:45Z",
     "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T13:15:25Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skills that deliver a daily finance status dashboard to your telegram.",
@@ -167,7 +203,7 @@
     "language": "\u2014",
     "name": "stakekit/agentkit",
     "stars": 2,
-    "updated_at": "2026-06-17T13:05:18Z",
+    "updated_at": "2026-06-17T13:37:35Z",
     "url": "https://github.com/stakekit/agentkit"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
   },
   {
-    "description": " Veldra \u2014 talk an agent into existence, then watch it grow. A self-hostable, local-first agent platform: describe what y",
-    "id": "shamspias/customizable-gpt-chatbot",
-    "language": "Python",
-    "name": "shamspias/customizable-gpt-chatbot",
-    "stars": 391,
-    "updated_at": "2026-06-17T12:59:24Z",
-    "url": "https://github.com/shamspias/customizable-gpt-chatbot"
-  },
-  {
     "description": "Professional skills for Claude AI \u2014 167 skills across 17 professions. Save 8-10 hours per week. PM stands for Profession",
     "id": "mohitagw15856/pm-claude-skills",
     "language": "Shell",
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 2,
-    "updated_at": "2026-06-17T13:24:57Z",
+    "updated_at": "2026-06-17T13:39:53Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -238,7 +265,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16561,
+    "stars": 16562,
     "updated_at": "2026-06-17T12:55:23Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -284,7 +311,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1350,
-    "updated_at": "2026-06-17T13:28:22Z",
+    "updated_at": "2026-06-17T13:31:55Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -382,7 +409,7 @@
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 1484,
+    "stars": 1485,
     "updated_at": "2026-06-17T12:28:57Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
@@ -421,32 +448,5 @@
     "stars": 63,
     "updated_at": "2026-06-17T12:05:23Z",
     "url": "https://github.com/Dianel555/DSkills"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:00:56Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic",
-    "id": "jqueryscript/awesome-claude-code",
-    "language": "\u2014",
-    "name": "jqueryscript/awesome-claude-code",
-    "stars": 425,
-    "updated_at": "2026-06-17T11:59:34Z",
-    "url": "https://github.com/jqueryscript/awesome-claude-code"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:59:12Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
