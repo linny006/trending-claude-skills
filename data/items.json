@@ -4,9 +4,45 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62525,
-    "updated_at": "2026-06-17T09:29:45Z",
+    "stars": 62524,
+    "updated_at": "2026-06-17T09:45:00Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Vet a candidate skill / MCP / prompt before adopting it into Claude Code/Codex \u2014 overlap, fit, weight & safety checks, t",
+    "id": "Tingtao-code/skill-intake",
+    "language": "\u2014",
+    "name": "Tingtao-code/skill-intake",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:43:56Z",
+    "url": "https://github.com/Tingtao-code/skill-intake"
+  },
+  {
+    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
+    "id": "Dianel555/DSkills",
+    "language": "Python",
+    "name": "Dianel555/DSkills",
+    "stars": 63,
+    "updated_at": "2026-06-17T09:42:17Z",
+    "url": "https://github.com/Dianel555/DSkills"
+  },
+  {
+    "description": "Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 15",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 4,
+    "updated_at": "2026-06-17T09:32:38Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T09:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "338 AI skills across 16 domains. PM is the deepest (66 skills - discovery, execution, strategy frameworks, GTM, Jira/Lin",
@@ -41,7 +77,7 @@
     "language": "\u2014",
     "name": "Vingedal/bjorn-skills",
     "stars": 1,
-    "updated_at": "2026-06-17T09:26:56Z",
+    "updated_at": "2026-06-17T09:33:14Z",
     "url": "https://github.com/Vingedal/bjorn-skills"
   },
   {
@@ -50,17 +86,8 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-17T09:24:13Z",
+    "updated_at": "2026-06-17T09:44:44Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T09:18:55Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI skills for German legal practice and EU compliance. 48 plugins, 103 skills across general law, Fachanwaltschaften, re",
@@ -88,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T09:13:45Z",
     "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
-  },
-  {
-    "description": "Vet a candidate skill / MCP / prompt before adopting it into Claude Code/Codex \u2014 overlap, fit, weight & safety checks, t",
-    "id": "Tingtao-code/skill-intake",
-    "language": "\u2014",
-    "name": "Tingtao-code/skill-intake",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:11:29Z",
-    "url": "https://github.com/Tingtao-code/skill-intake"
   },
   {
     "description": "\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u4e0e\u5ba1\u7a3f Claude Code plugin\u3002\u9898\u6750\u4e2d\u6027 \u2014 \u6821\u56ed\u9752\u6625\u3001\u60ac\u7591\u3001\u6b66\u4fa0\u3001\u79d1\u5e7b\u3001\u5386\u53f2\u3001\u90fd\u5e02\u7b49\u957f\u7bc7\u5747\u53ef\u3002\u5305\u542b 5 \u4e2a skill + 12 \u4e2a agent + 8 \u7bc7\u901a\u7528\u5199\u4f5c\u6280\u6cd5 reference\u3002",
@@ -430,23 +448,5 @@
     "stars": 12,
     "updated_at": "2026-06-17T07:22:24Z",
     "url": "https://github.com/heymegabyte/claude-skills"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 12,
-    "updated_at": "2026-06-17T07:21:10Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
-  },
-  {
-    "description": "CelesteOps \u2014 local-first creator control panel: signed macOS app + MCP agent kit",
-    "id": "whykusanagi/celeste-ops",
-    "language": "JavaScript",
-    "name": "whykusanagi/celeste-ops",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:20:12Z",
-    "url": "https://github.com/whykusanagi/celeste-ops"
   }
 ]
