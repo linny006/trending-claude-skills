@@ -1,12 +1,75 @@
 [
   {
-    "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
-    "id": "jedobe/skill-evaluator",
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 264,
+    "updated_at": "2026-06-17T01:00:03Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "id": "dongshuyan/compass-skills",
     "language": "Python",
-    "name": "jedobe/skill-evaluator",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:42:37Z",
-    "url": "https://github.com/jedobe/skill-evaluator"
+    "name": "dongshuyan/compass-skills",
+    "stars": 186,
+    "updated_at": "2026-06-17T00:59:41Z",
+    "url": "https://github.com/dongshuyan/compass-skills"
+  },
+  {
+    "description": "Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 15",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 4,
+    "updated_at": "2026-06-17T00:58:18Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
+    "id": "jagmarques/company-skill",
+    "language": "JavaScript",
+    "name": "jagmarques/company-skill",
+    "stars": 4,
+    "updated_at": "2026-06-17T00:51:20Z",
+    "url": "https://github.com/jagmarques/company-skill"
+  },
+  {
+    "description": "Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI altern",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 1480,
+    "updated_at": "2026-06-17T00:50:29Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Turn any video into a narration recap with claude code skill\uff5c\u7528claude code skill\u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
+    "id": "worldwonderer/video-recap-skills",
+    "language": "Python",
+    "name": "worldwonderer/video-recap-skills",
+    "stars": 269,
+    "updated_at": "2026-06-17T00:47:17Z",
+    "url": "https://github.com/worldwonderer/video-recap-skills"
+  },
+  {
+    "description": " Ranks your installed Claude Code skills/agents for a task and routes to the best one \u2014 and learns from your ratings.",
+    "id": "RamanaNani/agent-router",
+    "language": "JavaScript",
+    "name": "RamanaNani/agent-router",
+    "stars": 1,
+    "updated_at": "2026-06-17T00:45:52Z",
+    "url": "https://github.com/RamanaNani/agent-router"
+  },
+  {
+    "description": "Claude Skills for Governance, Risk, & Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, ",
+    "id": "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
+    "language": "HTML",
+    "name": "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
+    "stars": 655,
+    "updated_at": "2026-06-17T00:45:47Z",
+    "url": "https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance"
   },
   {
     "description": "Claude Code plugin marketplace: human-in-the-loop studios + deterministic design skills by Conner K. Ward.",
@@ -14,17 +77,26 @@
     "language": "\u2014",
     "name": "connerkward/ckw-skills",
     "stars": 0,
-    "updated_at": "2026-06-17T00:41:57Z",
+    "updated_at": "2026-06-17T00:45:41Z",
     "url": "https://github.com/connerkward/ckw-skills"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 264,
-    "updated_at": "2026-06-17T00:40:45Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-17T00:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
+    "id": "jedobe/skill-evaluator",
+    "language": "Python",
+    "name": "jedobe/skill-evaluator",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:42:37Z",
+    "url": "https://github.com/jedobe/skill-evaluator"
   },
   {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
@@ -43,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:33:12Z",
     "url": "https://github.com/macmenes/vantage"
-  },
-  {
-    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
-    "id": "jagmarques/company-skill",
-    "language": "JavaScript",
-    "name": "jagmarques/company-skill",
-    "stars": 4,
-    "updated_at": "2026-06-17T00:40:24Z",
-    "url": "https://github.com/jagmarques/company-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-17T00:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agent toolkit for Korean job applications, from resume evidence to tailored cover letters and interview prep",
@@ -166,7 +220,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16534,
+    "stars": 16535,
     "updated_at": "2026-06-17T00:16:54Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -319,7 +373,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 82781,
+    "stars": 82784,
     "updated_at": "2026-06-16T23:55:52Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -394,59 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-16T23:46:43Z",
     "url": "https://github.com/nota-america/forgecat-agent-profiles"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-16T23:44:10Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "Reconstruct a full flight itinerary from unordered segments \u2014 Go/Echo REST API with Swagger, fuzzing, Newman E2E, cosign",
-    "id": "AndriyKalashnykov/flight-path",
-    "language": "Python",
-    "name": "AndriyKalashnykov/flight-path",
-    "stars": 2,
-    "updated_at": "2026-06-16T23:42:53Z",
-    "url": "https://github.com/AndriyKalashnykov/flight-path"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:41:07Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:40:31Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Obsidian daily-ritual skills for Claude Code: morning focus, end-of-day audit, plan-tomorrow, session log, inbox process",
-    "id": "slogsdon/skills-vault-rituals",
-    "language": "\u2014",
-    "name": "slogsdon/skills-vault-rituals",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:39:13Z",
-    "url": "https://github.com/slogsdon/skills-vault-rituals"
-  },
-  {
-    "description": "Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI altern",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 1480,
-    "updated_at": "2026-06-16T23:35:28Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   }
 ]
