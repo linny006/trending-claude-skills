@@ -1,12 +1,48 @@
 [
   {
+    "description": "Your AI digital clone \u2014 learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a",
+    "id": "project-nomos/nomos",
+    "language": "TypeScript",
+    "name": "project-nomos/nomos",
+    "stars": 22,
+    "updated_at": "2026-06-17T04:21:33Z",
+    "url": "https://github.com/project-nomos/nomos"
+  },
+  {
+    "description": "Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task grap",
+    "id": "anombyte93/prd-taskmaster",
+    "language": "Python",
+    "name": "anombyte93/prd-taskmaster",
+    "stars": 514,
+    "updated_at": "2026-06-17T04:16:48Z",
+    "url": "https://github.com/anombyte93/prd-taskmaster"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 5,
+    "updated_at": "2026-06-17T04:15:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code plugin + MCP server for ComfyUI \u2014 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing fr",
     "id": "artokun/comfyui-mcp",
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
     "stars": 162,
-    "updated_at": "2026-06-17T04:14:55Z",
+    "updated_at": "2026-06-17T04:21:51Z",
     "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "",
+    "id": "yuntaod/AutoVerifier",
+    "language": "\u2014",
+    "name": "yuntaod/AutoVerifier",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:13:37Z",
+    "url": "https://github.com/yuntaod/AutoVerifier"
   },
   {
     "description": "Claude Code plugin marketplace: human-in-the-loop studios + deterministic design skills by Conner K. Ward.",
@@ -16,24 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T04:11:41Z",
     "url": "https://github.com/connerkward/ckw-skills"
-  },
-  {
-    "description": "Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task grap",
-    "id": "anombyte93/prd-taskmaster",
-    "language": "Python",
-    "name": "anombyte93/prd-taskmaster",
-    "stars": 514,
-    "updated_at": "2026-06-17T04:05:26Z",
-    "url": "https://github.com/anombyte93/prd-taskmaster"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 5,
-    "updated_at": "2026-06-17T04:00:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 16540,
-    "updated_at": "2026-06-17T03:24:31Z",
+    "updated_at": "2026-06-17T04:21:51Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -220,7 +238,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62500,
+    "stars": 62502,
     "updated_at": "2026-06-17T02:56:53Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -238,7 +256,7 @@
     "id": "bitjaru/styleseed",
     "language": "TypeScript",
     "name": "bitjaru/styleseed",
-    "stars": 484,
+    "stars": 486,
     "updated_at": "2026-06-17T02:51:55Z",
     "url": "https://github.com/bitjaru/styleseed"
   },
@@ -328,7 +346,7 @@
     "id": "Astralune-ai/dunbar",
     "language": "Python",
     "name": "Astralune-ai/dunbar",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-17T02:06:12Z",
     "url": "https://github.com/Astralune-ai/dunbar"
   },
@@ -430,23 +448,5 @@
     "stars": 1480,
     "updated_at": "2026-06-17T01:06:50Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "id": "dongshuyan/compass-skills",
-    "language": "Python",
-    "name": "dongshuyan/compass-skills",
-    "stars": 193,
-    "updated_at": "2026-06-17T00:59:41Z",
-    "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Claude Skills for Governance, Risk, & Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, ",
-    "id": "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
-    "language": "HTML",
-    "name": "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
-    "stars": 655,
-    "updated_at": "2026-06-17T00:45:47Z",
-    "url": "https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance"
   }
 ]
