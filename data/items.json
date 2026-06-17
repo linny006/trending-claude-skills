@@ -1,21 +1,12 @@
 [
   {
-    "description": "Lightweight suite of skills for managing memory on Claude Code.",
-    "id": "DrFaustus-vic/memory-tools",
-    "language": "Python",
-    "name": "DrFaustus-vic/memory-tools",
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
     "stars": 0,
-    "updated_at": "2026-06-17T15:14:05Z",
-    "url": "https://github.com/DrFaustus-vic/memory-tools"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-17T15:12:15Z",
-    "url": "https://github.com/boshu2/agentops"
+    "updated_at": "2026-06-17T15:25:00Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -23,8 +14,116 @@
     "language": "Python",
     "name": "ssurmic/claude-investment-skills",
     "stars": 2,
-    "updated_at": "2026-06-17T15:04:52Z",
+    "updated_at": "2026-06-17T15:24:52Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-17T15:28:53Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Claude SEO Skills \u2014 production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voi",
+    "id": "seranking/seo-skills",
+    "language": "Python",
+    "name": "seranking/seo-skills",
+    "stars": 67,
+    "updated_at": "2026-06-17T15:23:50Z",
+    "url": "https://github.com/seranking/seo-skills"
+  },
+  {
+    "description": "Lightweight suite of skills for managing memory on Claude Code.",
+    "id": "DrFaustus-vic/memory-tools",
+    "language": "Python",
+    "name": "DrFaustus-vic/memory-tools",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:23:46Z",
+    "url": "https://github.com/DrFaustus-vic/memory-tools"
+  },
+  {
+    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
+    "id": "Chili-Piper/mcp-assets",
+    "language": "\u2014",
+    "name": "Chili-Piper/mcp-assets",
+    "stars": 6,
+    "updated_at": "2026-06-17T15:23:31Z",
+    "url": "https://github.com/Chili-Piper/mcp-assets"
+  },
+  {
+    "description": "RunDrill \u2014 courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro",
+    "id": "rundrill/rundrill",
+    "language": "\u2014",
+    "name": "rundrill/rundrill",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:20:40Z",
+    "url": "https://github.com/rundrill/rundrill"
+  },
+  {
+    "description": "Build a complete, production-grade Android feature from a single prompt \u2014 Kotlin, Compose, Hilt, MVI, offline-first. An ",
+    "id": "arslan555/claude-android-feature-skill",
+    "language": "Shell",
+    "name": "arslan555/claude-android-feature-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:19:48Z",
+    "url": "https://github.com/arslan555/claude-android-feature-skill"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 29898,
+    "updated_at": "2026-06-17T15:17:09Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-17T15:15:59Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Practical Claude Code skills \u2014 English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add.",
+    "id": "wquguru/skills",
+    "language": "Shell",
+    "name": "wquguru/skills",
+    "stars": 49,
+    "updated_at": "2026-06-17T15:15:31Z",
+    "url": "https://github.com/wquguru/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T15:15:28Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Second brain for Forward Deployed Engineers \u2014 one @fde skill, phase methods that do the work, self-writing engagement me",
+    "id": "suboss87/fde-os",
+    "language": "JavaScript",
+    "name": "suboss87/fde-os",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:30:01Z",
+    "url": "https://github.com/suboss87/fde-os"
+  },
+  {
+    "description": "Open registry of community-contributed AI coding skills (SKILL.md files) \u2014 daily-synced to skills-hub.ai. Install across",
+    "id": "tinh2/skills-hub-registry",
+    "language": "Python",
+    "name": "tinh2/skills-hub-registry",
+    "stars": 6,
+    "updated_at": "2026-06-17T15:12:30Z",
+    "url": "https://github.com/tinh2/skills-hub-registry"
   },
   {
     "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
@@ -36,20 +135,11 @@
     "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T15:00:27Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
     "id": "worldwonderer/oh-story-claudecode",
     "language": "JavaScript",
     "name": "worldwonderer/oh-story-claudecode",
-    "stars": 2677,
+    "stars": 2678,
     "updated_at": "2026-06-17T14:59:43Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
@@ -153,15 +243,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 29897,
-    "updated_at": "2026-06-17T15:14:26Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
@@ -216,6 +297,15 @@
     "url": "https://github.com/worldwonderer/video-recap-skills"
   },
   {
+    "description": "A growing library of Claude Code slash-command skills; reusable AI agents for research, analysis, development, and autom",
+    "id": "RashiD2801/Skills",
+    "language": "\u2014",
+    "name": "RashiD2801/Skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:39:52Z",
+    "url": "https://github.com/RashiD2801/Skills"
+  },
+  {
     "description": "\u62df\u7a3f nigao \u2014 \u516c\u4f17\u53f7\u8349\u7a3f\u751f\u6210 skill\uff1amarkdown \u2192 \u5bcc\u6587\u672c HTML + \u5927\u5c0f\u5c01\u9762 + \u6458\u8981\uff0c\u7aef\u5230\u7aef\u7ed5\u5f00 mdnice\u3002Claude Code skill for one-shot WeChat Official Acc",
     "id": "DQT-bit/claude-skill-nigao",
     "language": "Python",
@@ -232,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T14:35:46Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Second brain for Forward Deployed Engineers \u2014 one @fde skill, phase methods that do the work, self-writing engagement me",
-    "id": "suboss87/fde-os",
-    "language": "JavaScript",
-    "name": "suboss87/fde-os",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:12:56Z",
-    "url": "https://github.com/suboss87/fde-os"
   },
   {
     "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-17T14:05:20Z",
     "url": "https://github.com/stakekit/agentkit"
-  },
-  {
-    "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama ",
-    "id": "frontiersystempraise/Claude-Code-AI-Desktop-Workspace",
-    "language": "\u2014",
-    "name": "frontiersystempraise/Claude-Code-AI-Desktop-Workspace",
-    "stars": 52,
-    "updated_at": "2026-06-17T14:03:52Z",
-    "url": "https://github.com/frontiersystempraise/Claude-Code-AI-Desktop-Workspace"
-  },
-  {
-    "description": "Agentic DAST orchestrator for Burp Suite",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 1,
-    "updated_at": "2026-06-17T14:03:36Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
-    "description": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi fil",
-    "id": "SheikhSheave/Claude-Code-CLI-Reference",
-    "language": "\u2014",
-    "name": "SheikhSheave/Claude-Code-CLI-Reference",
-    "stars": 64,
-    "updated_at": "2026-06-17T14:03:26Z",
-    "url": "https://github.com/SheikhSheave/Claude-Code-CLI-Reference"
-  },
-  {
-    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
-    "id": "jagmarques/company-skill",
-    "language": "JavaScript",
-    "name": "jagmarques/company-skill",
-    "stars": 4,
-    "updated_at": "2026-06-17T15:09:51Z",
-    "url": "https://github.com/jagmarques/company-skill"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-17T13:58:50Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude skills that deliver a daily finance status dashboard to your telegram.",
-    "id": "ya5huk/findash",
-    "language": "Python",
-    "name": "ya5huk/findash",
-    "stars": 5,
-    "updated_at": "2026-06-17T13:53:27Z",
-    "url": "https://github.com/ya5huk/findash"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:52:41Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:46:16Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:45:22Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   }
 ]
