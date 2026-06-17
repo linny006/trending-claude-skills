@@ -1,5 +1,131 @@
 [
   {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 28,
+    "updated_at": "2026-06-17T17:15:06Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Blane's AI PM Repository",
+    "id": "enalbenerraw/blanewarrene",
+    "language": "Python",
+    "name": "enalbenerraw/blanewarrene",
+    "stars": 1,
+    "updated_at": "2026-06-17T17:14:56Z",
+    "url": "https://github.com/enalbenerraw/blanewarrene"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 36,
+    "updated_at": "2026-06-17T17:14:33Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-17T17:13:51Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "A collection of personal Claude Code skills",
+    "id": "evnm/claude-skills",
+    "language": "Python",
+    "name": "evnm/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T17:13:04Z",
+    "url": "https://github.com/evnm/claude-skills"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 5,
+    "updated_at": "2026-06-17T17:12:38Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:12:35Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "An open spec + reference implementation for AI-generated, template-driven documentation \u2014 structure (the IR warp) is set",
+    "id": "karuhi/ordito",
+    "language": "JavaScript",
+    "name": "karuhi/ordito",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:11:23Z",
+    "url": "https://github.com/karuhi/ordito"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:11:01Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-17T17:09:24Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 7,
+    "updated_at": "2026-06-17T17:09:02Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
+  },
+  {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 82,
+    "updated_at": "2026-06-17T17:07:05Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
+    "id": "OpenLatch/saferskills",
+    "language": "Python",
+    "name": "OpenLatch/saferskills",
+    "stars": 1,
+    "updated_at": "2026-06-17T17:05:25Z",
+    "url": "https://github.com/OpenLatch/saferskills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T17:00:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -41,7 +167,7 @@
     "language": "JavaScript",
     "name": "worldwonderer/oh-story-claudecode",
     "stars": 2681,
-    "updated_at": "2026-06-17T16:50:29Z",
+    "updated_at": "2026-06-17T17:05:52Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
   {
@@ -63,33 +189,6 @@
     "url": "https://github.com/worldwonderer/video-recap-skills"
   },
   {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 36,
-    "updated_at": "2026-06-17T16:48:49Z",
-    "url": "https://github.com/open-agreements/open-agreements"
-  },
-  {
-    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
-    "id": "OpenLatch/saferskills",
-    "language": "Python",
-    "name": "OpenLatch/saferskills",
-    "stars": 1,
-    "updated_at": "2026-06-17T16:55:41Z",
-    "url": "https://github.com/OpenLatch/saferskills"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-17T16:47:36Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
     "description": "Agent skills for working with Ruby on Rails 8+",
     "id": "mickzijdel/rails-toolkit",
     "language": "Pkl",
@@ -97,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T16:47:30Z",
     "url": "https://github.com/mickzijdel/rails-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T16:45:27Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
@@ -124,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T16:43:10Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-17T16:42:44Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
@@ -205,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T16:35:56Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "An open spec + reference implementation for AI-generated, template-driven documentation \u2014 structure (the IR warp) is set",
-    "id": "karuhi/ordito",
-    "language": "JavaScript",
-    "name": "karuhi/ordito",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:35:05Z",
-    "url": "https://github.com/karuhi/ordito"
   },
   {
     "description": "Claude plugin \"marketplace\"",
@@ -364,7 +436,7 @@
     "id": "testdouble/han",
     "language": "Shell",
     "name": "testdouble/han",
-    "stars": 83,
+    "stars": 84,
     "updated_at": "2026-06-17T15:54:09Z",
     "url": "https://github.com/testdouble/han"
   },
@@ -376,77 +448,5 @@
     "stars": 41,
     "updated_at": "2026-06-17T15:54:02Z",
     "url": "https://github.com/prakhar1114/ai_mime"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 91,
-    "updated_at": "2026-06-17T15:52:48Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:50:12Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Practical Claude Code skills \u2014 English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add.",
-    "id": "wquguru/skills",
-    "language": "Shell",
-    "name": "wquguru/skills",
-    "stars": 49,
-    "updated_at": "2026-06-17T15:48:24Z",
-    "url": "https://github.com/wquguru/skills"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:47:18Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:45:47Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:44:42Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "RunDrill \u2014 courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro",
-    "id": "rundrill/rundrill",
-    "language": "\u2014",
-    "name": "rundrill/rundrill",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:44:30Z",
-    "url": "https://github.com/rundrill/rundrill"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:42:41Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
   }
 ]
