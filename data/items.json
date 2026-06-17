@@ -1,12 +1,48 @@
 [
   {
+    "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
+    "id": "jedobe/skill-evaluator",
+    "language": "Python",
+    "name": "jedobe/skill-evaluator",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:42:37Z",
+    "url": "https://github.com/jedobe/skill-evaluator"
+  },
+  {
+    "description": "Claude Code plugin marketplace: human-in-the-loop studios + deterministic design skills by Conner K. Ward.",
+    "id": "connerkward/ckw-skills",
+    "language": "\u2014",
+    "name": "connerkward/ckw-skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:41:57Z",
+    "url": "https://github.com/connerkward/ckw-skills"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-17T00:30:05Z",
+    "updated_at": "2026-06-17T00:40:45Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-17T00:36:57Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Vantage.os \u2014 Marketing Intelligence OS. The marketing brain inside your agent. /vantage interviews you, then delivers a ",
+    "id": "macmenes/vantage",
+    "language": "HTML",
+    "name": "macmenes/vantage",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:33:12Z",
+    "url": "https://github.com/macmenes/vantage"
   },
   {
     "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
@@ -14,8 +50,17 @@
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 4,
-    "updated_at": "2026-06-17T00:25:56Z",
+    "updated_at": "2026-06-17T00:40:24Z",
     "url": "https://github.com/jagmarques/company-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-17T00:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agent toolkit for Korean job applications, from resume evidence to tailored cover letters and interview prep",
@@ -135,15 +180,6 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Claude Code plugin marketplace: human-in-the-loop studios + deterministic design skills by Conner K. Ward.",
-    "id": "connerkward/ckw-skills",
-    "language": "\u2014",
-    "name": "connerkward/ckw-skills",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:16:04Z",
-    "url": "https://github.com/connerkward/ckw-skills"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:16:00Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-17T00:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -292,7 +319,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 82779,
+    "stars": 82781,
     "updated_at": "2026-06-16T23:55:52Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -421,32 +448,5 @@
     "stars": 1480,
     "updated_at": "2026-06-16T23:35:28Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 36,
-    "updated_at": "2026-06-16T23:35:21Z",
-    "url": "https://github.com/open-agreements/open-agreements"
-  },
-  {
-    "description": "A Claude Code skill that guides vibecoders and beginners from raw idea to a secured, GitHub-ready project \u2014 with real se",
-    "id": "acm-rgb/tutor-buddy",
-    "language": "\u2014",
-    "name": "acm-rgb/tutor-buddy",
-    "stars": 1,
-    "updated_at": "2026-06-16T23:35:06Z",
-    "url": "https://github.com/acm-rgb/tutor-buddy"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:27:15Z",
-    "url": "https://github.com/JBSag/pm-artisan"
   }
 ]
