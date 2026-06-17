@@ -1,5 +1,113 @@
 [
   {
+    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
+    "id": "jagmarques/company-skill",
+    "language": "JavaScript",
+    "name": "jagmarques/company-skill",
+    "stars": 4,
+    "updated_at": "2026-06-17T18:58:43Z",
+    "url": "https://github.com/jagmarques/company-skill"
+  },
+  {
+    "description": "Blane's AI PM Repository",
+    "id": "enalbenerraw/blanewarrene",
+    "language": "Python",
+    "name": "enalbenerraw/blanewarrene",
+    "stars": 1,
+    "updated_at": "2026-06-17T18:54:25Z",
+    "url": "https://github.com/enalbenerraw/blanewarrene"
+  },
+  {
+    "description": "Speed is the product. 11 Claude Code skills that help AI builders move fast, decide sharp, and 10x their impact.",
+    "id": "varunk130/AI-Builder-Decision-Analyst",
+    "language": "\u2014",
+    "name": "varunk130/AI-Builder-Decision-Analyst",
+    "stars": 1,
+    "updated_at": "2026-06-17T18:50:18Z",
+    "url": "https://github.com/varunk130/AI-Builder-Decision-Analyst"
+  },
+  {
+    "description": "Curated AI agent evaluation skills from Microsoft's Eval Guide \u2014 plan, generate, run, and interpret eval suites for Copi",
+    "id": "varunk130/AI-Eval-Skills",
+    "language": "\u2014",
+    "name": "varunk130/AI-Eval-Skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T18:50:15Z",
+    "url": "https://github.com/varunk130/AI-Eval-Skills"
+  },
+  {
+    "description": "Production-ready AI marketing automation skills for Claude Code, Cursor, Codex, and AI coding agents. 12 battle-tested s",
+    "id": "varunk130/ai-marketing-claude-skills",
+    "language": "Python",
+    "name": "varunk130/ai-marketing-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T18:50:13Z",
+    "url": "https://github.com/varunk130/ai-marketing-claude-skills"
+  },
+  {
+    "description": "A curated, categorized library of 29 production-grade Claude Code custom skills across finance, product, strategy, game ",
+    "id": "varunk130/claude-code-skills",
+    "language": "\u2014",
+    "name": "varunk130/claude-code-skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T18:50:10Z",
+    "url": "https://github.com/varunk130/claude-code-skills"
+  },
+  {
+    "description": "Production-grade operational playbooks for AI coding agents across the full software delivery pipeline. 21 playbooks, 10",
+    "id": "varunk130/ai-workflow-playbooks",
+    "language": "\u2014",
+    "name": "varunk130/ai-workflow-playbooks",
+    "stars": 2,
+    "updated_at": "2026-06-17T18:50:06Z",
+    "url": "https://github.com/varunk130/ai-workflow-playbooks"
+  },
+  {
+    "description": "AI-powered partner ecosystem analysis for ISV intelligence and strategic insights",
+    "id": "varunk130/ai-partner-ecosystem-analysis",
+    "language": "Python",
+    "name": "varunk130/ai-partner-ecosystem-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-17T18:49:47Z",
+    "url": "https://github.com/varunk130/ai-partner-ecosystem-analysis"
+  },
+  {
+    "description": "OpenFate Bazi MCP server with deterministic Four Pillars calculation, True Solar Time, branch interactions, and reverse ",
+    "id": "openfate-ai/bazi-mcp",
+    "language": "TypeScript",
+    "name": "openfate-ai/bazi-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-17T18:49:17Z",
+    "url": "https://github.com/openfate-ai/bazi-mcp"
+  },
+  {
+    "description": "A collection of Claude Skills from Posit",
+    "id": "posit-dev/skills",
+    "language": "R",
+    "name": "posit-dev/skills",
+    "stars": 401,
+    "updated_at": "2026-06-17T18:48:43Z",
+    "url": "https://github.com/posit-dev/skills"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 13,
+    "updated_at": "2026-06-17T18:48:19Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T18:45:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -23,8 +131,17 @@
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "stars": 1491,
-    "updated_at": "2026-06-17T18:38:08Z",
+    "updated_at": "2026-06-17T18:47:49Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 29901,
+    "updated_at": "2026-06-17T18:49:30Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
@@ -61,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T18:34:14Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T18:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T17:43:56Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
-    "id": "Scorpio-1111/OmicsAgent-Skills",
-    "language": "HTML",
-    "name": "Scorpio-1111/OmicsAgent-Skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T17:42:19Z",
-    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
-  },
-  {
-    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
-    "id": "Mary2241/seo-skills-agent-toolbox",
-    "language": "HTML",
-    "name": "Mary2241/seo-skills-agent-toolbox",
-    "stars": 1,
-    "updated_at": "2026-06-17T17:42:09Z",
-    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T17:41:31Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
-    "id": "worldwonderer/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "worldwonderer/oh-story-claudecode",
-    "stars": 2682,
-    "updated_at": "2026-06-17T18:09:17Z",
-    "url": "https://github.com/worldwonderer/oh-story-claudecode"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-17T17:35:20Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A field-agnostic AI skill suite that automates PhD application research, outreach, and tracking via a shared, version-co",
-    "id": "bydeng01/phd-application-skill",
-    "language": "Python",
-    "name": "bydeng01/phd-application-skill",
-    "stars": 1,
-    "updated_at": "2026-06-17T17:35:04Z",
-    "url": "https://github.com/bydeng01/phd-application-skill"
-  },
-  {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-06-17T17:31:24Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-17T17:50:28Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "An opinionated library of reusable agent skills. Contains practical skills for writing, planning, triage, architecture, ",
-    "id": "risadams/skills",
-    "language": "Python",
-    "name": "risadams/skills",
-    "stars": 2,
-    "updated_at": "2026-06-17T17:28:15Z",
-    "url": "https://github.com/risadams/skills"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-06-17T17:28:05Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-06-17T17:26:41Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "An open spec + reference implementation for AI-generated, template-driven documentation \u2014 structure (the IR warp) is set",
-    "id": "karuhi/ordito",
-    "language": "JavaScript",
-    "name": "karuhi/ordito",
-    "stars": 0,
-    "updated_at": "2026-06-17T17:16:59Z",
-    "url": "https://github.com/karuhi/ordito"
   }
 ]
