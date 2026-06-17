@@ -1,11 +1,110 @@
 [
   {
+    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
+    "id": "jagmarques/company-skill",
+    "language": "JavaScript",
+    "name": "jagmarques/company-skill",
+    "stars": 4,
+    "updated_at": "2026-06-17T21:00:05Z",
+    "url": "https://github.com/jagmarques/company-skill"
+  },
+  {
+    "description": "Claude Skills de psicologia informada por evid\u00eancias (PT-BR): produ\u00e7\u00e3o e auditoria de posts, artigos cient\u00edficos, p\u00f4ster",
+    "id": "psientrementespsi-alt/psi-skills",
+    "language": "Markdown",
+    "name": "psientrementespsi-alt/psi-skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:58:12Z",
+    "url": "https://github.com/psientrementespsi-alt/psi-skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:57:20Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "A comprehensive Claude Code plugin that automates the complete Software Development Lifecycle with 20 role-specific agen",
+    "id": "saitarrun/sdlc-ai-workflow",
+    "language": "JavaScript",
+    "name": "saitarrun/sdlc-ai-workflow",
+    "stars": 1,
+    "updated_at": "2026-06-17T20:57:11Z",
+    "url": "https://github.com/saitarrun/sdlc-ai-workflow"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-17T20:55:48Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Skills p\u00fablicas da MSCREATIVE.SYSTEMS para o Claude. Ferramentas de decis\u00e3o, em PT-BR. Primeira: premortem.",
+    "id": "1marcelserrano/mscreative-skills",
+    "language": "\u2014",
+    "name": "1marcelserrano/mscreative-skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T20:53:23Z",
+    "url": "https://github.com/1marcelserrano/mscreative-skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 895,
+    "updated_at": "2026-06-17T20:53:10Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "A Claude Code skill that audits Laravel Livewire apps for security issues",
+    "id": "timgavin/livewire-audit",
+    "language": "Blade",
+    "name": "timgavin/livewire-audit",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:52:49Z",
+    "url": "https://github.com/timgavin/livewire-audit"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-17T20:51:26Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Your AI digital clone \u2014 learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a",
+    "id": "project-nomos/nomos",
+    "language": "TypeScript",
+    "name": "project-nomos/nomos",
+    "stars": 22,
+    "updated_at": "2026-06-17T20:49:38Z",
+    "url": "https://github.com/project-nomos/nomos"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T20:45:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
     "id": "raelli/octowiz",
     "language": "Python",
     "name": "raelli/octowiz",
     "stars": 2,
-    "updated_at": "2026-06-17T20:43:28Z",
+    "updated_at": "2026-06-17T20:58:01Z",
     "url": "https://github.com/raelli/octowiz"
   },
   {
@@ -16,15 +115,6 @@
     "stars": 338,
     "updated_at": "2026-06-17T20:41:54Z",
     "url": "https://github.com/Ruya-AI/cozempic"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-17T20:36:24Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -43,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T20:32:56Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-17T20:30:28Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T20:30:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A collection of mainly my own productivity plugins for Claude Code.",
@@ -85,7 +157,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 82975,
+    "stars": 82979,
     "updated_at": "2026-06-17T20:28:26Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T20:24:28Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
-    "id": "jagmarques/company-skill",
-    "language": "JavaScript",
-    "name": "jagmarques/company-skill",
-    "stars": 4,
-    "updated_at": "2026-06-17T20:35:34Z",
-    "url": "https://github.com/jagmarques/company-skill"
   },
   {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
@@ -171,15 +234,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "A comprehensive Claude Code plugin that automates the complete Software Development Lifecycle with 20 role-specific agen",
-    "id": "saitarrun/sdlc-ai-workflow",
-    "language": "JavaScript",
-    "name": "saitarrun/sdlc-ai-workflow",
-    "stars": 1,
-    "updated_at": "2026-06-17T20:05:36Z",
-    "url": "https://github.com/saitarrun/sdlc-ai-workflow"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -203,7 +257,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 265,
-    "updated_at": "2026-06-17T20:36:59Z",
+    "updated_at": "2026-06-17T20:46:04Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -310,7 +364,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 29900,
+    "stars": 29902,
     "updated_at": "2026-06-17T19:46:38Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -319,7 +373,7 @@
     "id": "activeloopai/hivemind",
     "language": "TypeScript",
     "name": "activeloopai/hivemind",
-    "stars": 1266,
+    "stars": 1267,
     "updated_at": "2026-06-17T19:40:25Z",
     "url": "https://github.com/activeloopai/hivemind"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T19:28:03Z",
     "url": "https://github.com/chris-peterson/claude-marketplace"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:27:43Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "See what your AI coding agent just did to your system's behavior, flow, and architecture. Grounded in real code, visual,",
-    "id": "mappamind/mappamind",
-    "language": "TypeScript",
-    "name": "mappamind/mappamind",
-    "stars": 3,
-    "updated_at": "2026-06-17T19:24:16Z",
-    "url": "https://github.com/mappamind/mappamind"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:23:28Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Claude Code skills marketplace for NASA PDS workflows - automated release notes, program status reports, and more",
-    "id": "NASA-PDS/pds-agent-skills",
-    "language": "JavaScript",
-    "name": "NASA-PDS/pds-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T19:25:12Z",
-    "url": "https://github.com/NASA-PDS/pds-agent-skills"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 1,
-    "updated_at": "2026-06-17T19:22:02Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-06-17T19:21:50Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   }
 ]
