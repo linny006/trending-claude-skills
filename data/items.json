@@ -1,5 +1,113 @@
 [
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 82970,
+    "updated_at": "2026-06-17T20:13:00Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "A skill to decode METAR (Meteorological Aerodrome Report) and TAF (Terminal Aerodrome Forecast) messages from airports a",
+    "id": "WPTK/metar-taf-decoder-skill",
+    "language": "\u2014",
+    "name": "WPTK/metar-taf-decoder-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:11:59Z",
+    "url": "https://github.com/WPTK/metar-taf-decoder-skill"
+  },
+  {
+    "description": "Evidence-based senior product designer skill for Claude Code \u2014 turns any UI/app build into research-driven, accessible, ",
+    "id": "sshahzaiib/senior-designer-skill",
+    "language": "\u2014",
+    "name": "sshahzaiib/senior-designer-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:09:44Z",
+    "url": "https://github.com/sshahzaiib/senior-designer-skill"
+  },
+  {
+    "description": "Context cleaning for Claude Code \u2014 prune bloated sessions, protect Agent Teams from context loss, auto-guard with tiered",
+    "id": "Ruya-AI/cozempic",
+    "language": "Python",
+    "name": "Ruya-AI/cozempic",
+    "stars": 338,
+    "updated_at": "2026-06-17T20:08:42Z",
+    "url": "https://github.com/Ruya-AI/cozempic"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:05:39Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "A comprehensive Claude Code plugin that automates the complete Software Development Lifecycle with 20 role-specific agen",
+    "id": "saitarrun/sdlc-ai-workflow",
+    "language": "JavaScript",
+    "name": "saitarrun/sdlc-ai-workflow",
+    "stars": 1,
+    "updated_at": "2026-06-17T20:05:36Z",
+    "url": "https://github.com/saitarrun/sdlc-ai-workflow"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:04:52Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:03:35Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-17T20:03:23Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:01:49Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Use Claude to decode raw ACARS/VDLM2 messages",
+    "id": "WPTK/acars-decoder-claude-skill",
+    "language": "\u2014",
+    "name": "WPTK/acars-decoder-claude-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:01:10Z",
+    "url": "https://github.com/WPTK/acars-decoder-claude-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T20:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "White-box, OSWE-style security audit for Claude Code: traces source\u2192sink, chains findings to unauthenticated RCE, verifi",
     "id": "Laucked-Security/claude-oswe",
     "language": "JavaScript",
@@ -9,13 +117,13 @@
     "url": "https://github.com/Laucked-Security/claude-oswe"
   },
   {
-    "description": "Evidence-based senior product designer skill for Claude Code \u2014 turns any UI/app build into research-driven, accessible, ",
-    "id": "sshahzaiib/senior-designer-skill",
-    "language": "\u2014",
-    "name": "sshahzaiib/senior-designer-skill",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:59:56Z",
-    "url": "https://github.com/sshahzaiib/senior-designer-skill"
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 1,
+    "updated_at": "2026-06-17T19:59:43Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -72,15 +180,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Context cleaning for Claude Code \u2014 prune bloated sessions, protect Agent Teams from context loss, auto-guard with tiered",
-    "id": "Ruya-AI/cozempic",
-    "language": "Python",
-    "name": "Ruya-AI/cozempic",
-    "stars": 338,
-    "updated_at": "2026-06-17T19:48:32Z",
-    "url": "https://github.com/Ruya-AI/cozempic"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -106,24 +205,6 @@
     "stars": 29900,
     "updated_at": "2026-06-17T19:46:38Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T19:45:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A comprehensive Claude Code plugin that automates the complete Software Development Lifecycle with 20 role-specific agen",
-    "id": "saitarrun/sdlc-ai-workflow",
-    "language": "JavaScript",
-    "name": "saitarrun/sdlc-ai-workflow",
-    "stars": 1,
-    "updated_at": "2026-06-17T19:42:05Z",
-    "url": "https://github.com/saitarrun/sdlc-ai-workflow"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -338,7 +419,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1352,
-    "updated_at": "2026-06-17T19:12:39Z",
+    "updated_at": "2026-06-17T20:14:21Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 35,
     "updated_at": "2026-06-17T19:08:34Z",
     "url": "https://github.com/DataZooDE/anofox-forecast"
-  },
-  {
-    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
-    "id": "jagmarques/company-skill",
-    "language": "JavaScript",
-    "name": "jagmarques/company-skill",
-    "stars": 4,
-    "updated_at": "2026-06-17T19:43:36Z",
-    "url": "https://github.com/jagmarques/company-skill"
-  },
-  {
-    "description": "Blane's AI PM Repository",
-    "id": "enalbenerraw/blanewarrene",
-    "language": "Python",
-    "name": "enalbenerraw/blanewarrene",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:54:25Z",
-    "url": "https://github.com/enalbenerraw/blanewarrene"
-  },
-  {
-    "description": "Speed is the product. 11 Claude Code skills that help AI builders move fast, decide sharp, and 10x their impact.",
-    "id": "varunk130/AI-Builder-Decision-Analyst",
-    "language": "\u2014",
-    "name": "varunk130/AI-Builder-Decision-Analyst",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:50:18Z",
-    "url": "https://github.com/varunk130/AI-Builder-Decision-Analyst"
-  },
-  {
-    "description": "Curated AI agent evaluation skills from Microsoft's Eval Guide \u2014 plan, generate, run, and interpret eval suites for Copi",
-    "id": "varunk130/AI-Eval-Skills",
-    "language": "\u2014",
-    "name": "varunk130/AI-Eval-Skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:50:15Z",
-    "url": "https://github.com/varunk130/AI-Eval-Skills"
-  },
-  {
-    "description": "Production-ready AI marketing automation skills for Claude Code, Cursor, Codex, and AI coding agents. 12 battle-tested s",
-    "id": "varunk130/ai-marketing-claude-skills",
-    "language": "Python",
-    "name": "varunk130/ai-marketing-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:50:13Z",
-    "url": "https://github.com/varunk130/ai-marketing-claude-skills"
-  },
-  {
-    "description": "A curated, categorized library of 29 production-grade Claude Code custom skills across finance, product, strategy, game ",
-    "id": "varunk130/claude-code-skills",
-    "language": "\u2014",
-    "name": "varunk130/claude-code-skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:50:10Z",
-    "url": "https://github.com/varunk130/claude-code-skills"
-  },
-  {
-    "description": "Production-grade operational playbooks for AI coding agents across the full software delivery pipeline. 21 playbooks, 10",
-    "id": "varunk130/ai-workflow-playbooks",
-    "language": "\u2014",
-    "name": "varunk130/ai-workflow-playbooks",
-    "stars": 2,
-    "updated_at": "2026-06-17T18:50:06Z",
-    "url": "https://github.com/varunk130/ai-workflow-playbooks"
-  },
-  {
-    "description": "AI-powered partner ecosystem analysis for ISV intelligence and strategic insights",
-    "id": "varunk130/ai-partner-ecosystem-analysis",
-    "language": "Python",
-    "name": "varunk130/ai-partner-ecosystem-analysis",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:49:47Z",
-    "url": "https://github.com/varunk130/ai-partner-ecosystem-analysis"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 13,
-    "updated_at": "2026-06-17T18:48:19Z",
-    "url": "https://github.com/travsteward/openwriter"
   }
 ]
