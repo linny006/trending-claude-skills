@@ -1,12 +1,93 @@
 [
   {
+    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
+    "id": "Wyattputrescent882/ai-code-governance-skill",
+    "language": "\u2014",
+    "name": "Wyattputrescent882/ai-code-governance-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:44:04Z",
+    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
+  },
+  {
+    "description": "Turn any video into a narration recap with claude code skill\uff5c\u7528claude code skill\u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
+    "id": "worldwonderer/video-recap-skills",
+    "language": "Python",
+    "name": "worldwonderer/video-recap-skills",
+    "stars": 271,
+    "updated_at": "2026-06-17T14:42:42Z",
+    "url": "https://github.com/worldwonderer/video-recap-skills"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-17T14:39:12Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
     "description": "Bonusly's Claude Plugin",
     "id": "bonusly/bonusly-claude-plugin",
     "language": "Shell",
     "name": "bonusly/bonusly-claude-plugin",
     "stars": 0,
-    "updated_at": "2026-06-17T14:28:03Z",
+    "updated_at": "2026-06-17T14:38:18Z",
     "url": "https://github.com/bonusly/bonusly-claude-plugin"
+  },
+  {
+    "description": "\u62df\u7a3f nigao \u2014 \u516c\u4f17\u53f7\u8349\u7a3f\u751f\u6210 skill\uff1amarkdown \u2192 \u5bcc\u6587\u672c HTML + \u5927\u5c0f\u5c01\u9762 + \u6458\u8981\uff0c\u7aef\u5230\u7aef\u7ed5\u5f00 mdnice\u3002Claude Code skill for one-shot WeChat Official Acc",
+    "id": "DQT-bit/claude-skill-nigao",
+    "language": "Python",
+    "name": "DQT-bit/claude-skill-nigao",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:36:43Z",
+    "url": "https://github.com/DQT-bit/claude-skill-nigao"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:35:46Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 83,
+    "updated_at": "2026-06-17T14:41:09Z",
+    "url": "https://github.com/testdouble/han"
+  },
+  {
+    "description": "Second brain for Forward Deployed Engineers \u2014 one @fde skill, phase methods that do the work, self-writing engagement me",
+    "id": "suboss87/fde-os",
+    "language": "JavaScript",
+    "name": "suboss87/fde-os",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:38:38Z",
+    "url": "https://github.com/suboss87/fde-os"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 2,
+    "updated_at": "2026-06-17T14:31:17Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T14:30:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source library of methodology-shaped SRE skills for AI agents (Apache 2.0)",
@@ -52,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T14:21:40Z",
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-17T14:29:58Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:19:34Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
   },
   {
     "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
@@ -135,15 +198,6 @@
     "url": "https://github.com/heymegabyte/claude-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T14:15:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skills for Claude Code and other agentskills.io-compatible agents. See https://developertoolkit.ai for more inform",
     "id": "wondelai/skills",
     "language": "Shell",
@@ -157,7 +211,7 @@
     "id": "LaGrowthMachine/gtm-system",
     "language": "Python",
     "name": "LaGrowthMachine/gtm-system",
-    "stars": 11,
+    "stars": 14,
     "updated_at": "2026-06-17T14:12:27Z",
     "url": "https://github.com/LaGrowthMachine/gtm-system"
   },
@@ -202,7 +256,7 @@
     "id": "frontiersystempraise/Claude-Code-AI-Desktop-Workspace",
     "language": "\u2014",
     "name": "frontiersystempraise/Claude-Code-AI-Desktop-Workspace",
-    "stars": 15,
+    "stars": 31,
     "updated_at": "2026-06-17T14:03:52Z",
     "url": "https://github.com/frontiersystempraise/Claude-Code-AI-Desktop-Workspace"
   },
@@ -220,7 +274,7 @@
     "id": "SheikhSheave/Claude-Code-CLI-Reference",
     "language": "\u2014",
     "name": "SheikhSheave/Claude-Code-CLI-Reference",
-    "stars": 21,
+    "stars": 42,
     "updated_at": "2026-06-17T14:03:26Z",
     "url": "https://github.com/SheikhSheave/Claude-Code-CLI-Reference"
   },
@@ -261,15 +315,6 @@
     "url": "https://github.com/Edward0l1/skill-flare-discover"
   },
   {
-    "description": "Second brain for Forward Deployed Engineers \u2014 one @fde skill, phase methods that do the work, self-writing engagement me",
-    "id": "suboss87/fde-os",
-    "language": "JavaScript",
-    "name": "suboss87/fde-os",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:28:43Z",
-    "url": "https://github.com/suboss87/fde-os"
-  },
-  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -277,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T13:46:16Z",
     "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 2,
-    "updated_at": "2026-06-17T14:30:22Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
@@ -311,7 +347,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 265,
-    "updated_at": "2026-06-17T13:43:50Z",
+    "updated_at": "2026-06-17T14:45:10Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -324,21 +360,12 @@
     "url": "https://github.com/shamspias/customizable-gpt-chatbot"
   },
   {
-    "description": "\u62df\u7a3f nigao \u2014 \u516c\u4f17\u53f7\u8349\u7a3f\u751f\u6210 skill\uff1amarkdown \u2192 \u5bcc\u6587\u672c HTML + \u5927\u5c0f\u5c01\u9762 + \u6458\u8981\uff0c\u7aef\u5230\u7aef\u7ed5\u5f00 mdnice\u3002Claude Code skill for one-shot WeChat Official Acc",
-    "id": "DQT-bit/claude-skill-nigao",
-    "language": "Python",
-    "name": "DQT-bit/claude-skill-nigao",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:36:16Z",
-    "url": "https://github.com/DQT-bit/claude-skill-nigao"
-  },
-  {
     "description": "Claude SEO Skills \u2014 production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voi",
     "id": "seranking/seo-skills",
     "language": "Python",
     "name": "seranking/seo-skills",
     "stars": 67,
-    "updated_at": "2026-06-17T14:20:10Z",
+    "updated_at": "2026-06-17T14:41:10Z",
     "url": "https://github.com/seranking/seo-skills"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T13:03:18Z",
     "url": "https://github.com/karuhi/ordito"
-  },
-  {
-    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
-    "id": "davepoon/buildwithclaude",
-    "language": "TypeScript",
-    "name": "davepoon/buildwithclaude",
-    "stars": 3081,
-    "updated_at": "2026-06-17T13:02:19Z",
-    "url": "https://github.com/davepoon/buildwithclaude"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 1,
-    "updated_at": "2026-06-17T13:00:55Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:55:29Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   }
 ]
