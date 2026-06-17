@@ -1,5 +1,104 @@
 [
   {
+    "description": "Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 15",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 4,
+    "updated_at": "2026-06-17T02:14:34Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "Installable library of AI coding agents, skills, commands, guides & tools \u2014 the copy-paste mirror of agentscamp.com",
+    "id": "imtiazrayhan/agentscamp-library",
+    "language": "\u2014",
+    "name": "imtiazrayhan/agentscamp-library",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:14:29Z",
+    "url": "https://github.com/imtiazrayhan/agentscamp-library"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:08:41Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:07:34Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:07:23Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16536,
+    "updated_at": "2026-06-17T02:06:50Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Relationship management your AI can actually use. 5 Dunbar circles, CSV-as-source-of-truth, filesystem-as-structure, AI-",
+    "id": "Astralune-ai/dunbar",
+    "language": "Python",
+    "name": "Astralune-ai/dunbar",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:06:12Z",
+    "url": "https://github.com/Astralune-ai/dunbar"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:05:37Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 264,
+    "updated_at": "2026-06-17T02:03:47Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
+    "id": "jagmarques/company-skill",
+    "language": "JavaScript",
+    "name": "jagmarques/company-skill",
+    "stars": 4,
+    "updated_at": "2026-06-17T02:01:07Z",
+    "url": "https://github.com/jagmarques/company-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-17T02:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code plugin marketplace: human-in-the-loop studios + deterministic design skills by Conner K. Ward.",
     "id": "connerkward/ckw-skills",
     "language": "\u2014",
@@ -49,18 +148,9 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1763,
+    "stars": 1764,
     "updated_at": "2026-06-17T01:50:37Z",
     "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 264,
-    "updated_at": "2026-06-17T01:49:00Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
@@ -70,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-06-17T01:48:20Z",
     "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-06-17T01:45:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T01:42:09Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16536,
-    "updated_at": "2026-06-17T01:49:34Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
@@ -178,24 +250,6 @@
     "stars": 190,
     "updated_at": "2026-06-17T00:59:41Z",
     "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 15",
-    "id": "kensaurus/cursor-kenji",
-    "language": "JavaScript",
-    "name": "kensaurus/cursor-kenji",
-    "stars": 4,
-    "updated_at": "2026-06-17T00:58:18Z",
-    "url": "https://github.com/kensaurus/cursor-kenji"
-  },
-  {
-    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
-    "id": "jagmarques/company-skill",
-    "language": "JavaScript",
-    "name": "jagmarques/company-skill",
-    "stars": 4,
-    "updated_at": "2026-06-17T01:49:49Z",
-    "url": "https://github.com/jagmarques/company-skill"
   },
   {
     "description": " Ranks your installed Claude Code skills/agents for a task and routes to the best one \u2014 and learns from your ratings.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:10:40Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
-    "id": "Scorpio-1111/OmicsAgent-Skills",
-    "language": "HTML",
-    "name": "Scorpio-1111/OmicsAgent-Skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T00:10:02Z",
-    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 1,
-    "updated_at": "2026-06-17T00:09:02Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
-    "id": "yinjialu/ai-frontier-daily",
-    "language": "HTML",
-    "name": "yinjialu/ai-frontier-daily",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:08:59Z",
-    "url": "https://github.com/yinjialu/ai-frontier-daily"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:08:15Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
-    "id": "Mary2241/seo-skills-agent-toolbox",
-    "language": "HTML",
-    "name": "Mary2241/seo-skills-agent-toolbox",
-    "stars": 1,
-    "updated_at": "2026-06-17T00:06:54Z",
-    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:06:37Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   }
 ]
