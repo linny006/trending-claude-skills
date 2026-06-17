@@ -1,30 +1,93 @@
 [
   {
-    "description": "macOS dotfiles - Forgotten Art of Makefile",
-    "id": "kborovik/.dotfiles",
-    "language": "Shell",
-    "name": "kborovik/.dotfiles",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:12:09Z",
-    "url": "https://github.com/kborovik/.dotfiles"
-  },
-  {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
     "id": "boshu2/agentops",
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 392,
-    "updated_at": "2026-06-17T16:08:31Z",
+    "updated_at": "2026-06-17T16:28:39Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:28:11Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:27:48Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "An open spec + reference implementation for AI-generated, template-driven documentation \u2014 structure (the IR warp) is set",
+    "id": "karuhi/ordito",
+    "language": "JavaScript",
+    "name": "karuhi/ordito",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:26:40Z",
+    "url": "https://github.com/karuhi/ordito"
+  },
+  {
+    "description": "AI agent testing toolkit for Playwright and Cypress: generate E2E tests from scratch, review existing specs against 24 a",
+    "id": "voidmatcha/e2e-skills",
+    "language": "Shell",
+    "name": "voidmatcha/e2e-skills",
+    "stars": 2,
+    "updated_at": "2026-06-17T16:27:30Z",
+    "url": "https://github.com/voidmatcha/e2e-skills"
+  },
+  {
+    "description": "A growing library of Claude Code slash-command skills; reusable AI agents for research, analysis, development, and autom",
+    "id": "RashiD2801/Skills",
+    "language": "\u2014",
+    "name": "RashiD2801/Skills",
     "stars": 1,
-    "updated_at": "2026-06-17T16:07:42Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+    "updated_at": "2026-06-17T16:24:28Z",
+    "url": "https://github.com/RashiD2801/Skills"
+  },
+  {
+    "description": "Glanceable Claude Code state in iTerm2 tabs \u2014 white=idle, blue=processing, orange=waiting. iTerm2 daemon + launchd watch",
+    "id": "wasulajr/headsup",
+    "language": "Shell",
+    "name": "wasulajr/headsup",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:21:23Z",
+    "url": "https://github.com/wasulajr/headsup"
+  },
+  {
+    "description": "AI \u4ea7\u54c1\u7ecf\u7406\u7684 Claude Skills \u96c6\u5408 \u00b7 PRD \u5199\u4f5c / \u9879\u76ee\u811a\u624b\u67b6 / SaaS \u67b6\u6784\u56fe / \u9ad8\u4fdd\u771f\u539f\u578b / \u5bf9\u8bdd\u5f52\u6863",
+    "id": "songshishuang/Skills",
+    "language": "HTML",
+    "name": "songshishuang/Skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:19:49Z",
+    "url": "https://github.com/songshishuang/Skills"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-17T16:16:31Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T16:15:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Lightweight suite of skills for managing memory on Claude Code.",
@@ -36,6 +99,24 @@
     "url": "https://github.com/DrFaustus-vic/memory-tools"
   },
   {
+    "description": "macOS dotfiles - Forgotten Art of Makefile",
+    "id": "kborovik/.dotfiles",
+    "language": "Shell",
+    "name": "kborovik/.dotfiles",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:12:09Z",
+    "url": "https://github.com/kborovik/.dotfiles"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 1,
+    "updated_at": "2026-06-17T16:07:42Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -43,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T16:06:13Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T16:00:25Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Documenting discoveries, experiments, and lessons learned while pushing the boundaries of AI-assisted software developme",
@@ -99,15 +171,6 @@
     "url": "https://github.com/worldwonderer/video-recap-skills"
   },
   {
-    "description": "AI \u4ea7\u54c1\u7ecf\u7406\u7684 Claude Skills \u96c6\u5408 \u00b7 PRD \u5199\u4f5c / \u9879\u76ee\u811a\u624b\u67b6 / SaaS \u67b6\u6784\u56fe / \u9ad8\u4fdd\u771f\u539f\u578b / \u5bf9\u8bdd\u5f52\u6863",
-    "id": "songshishuang/Skills",
-    "language": "HTML",
-    "name": "songshishuang/Skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T15:53:51Z",
-    "url": "https://github.com/songshishuang/Skills"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
@@ -126,21 +189,12 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-17T15:49:47Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
     "id": "ssurmic/claude-investment-skills",
     "language": "Python",
     "name": "ssurmic/claude-investment-skills",
     "stars": 2,
-    "updated_at": "2026-06-17T15:49:00Z",
+    "updated_at": "2026-06-17T16:29:56Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 49,
     "updated_at": "2026-06-17T15:48:24Z",
     "url": "https://github.com/wquguru/skills"
-  },
-  {
-    "description": "A growing library of Claude Code slash-command skills; reusable AI agents for research, analysis, development, and autom",
-    "id": "RashiD2801/Skills",
-    "language": "\u2014",
-    "name": "RashiD2801/Skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T15:48:23Z",
-    "url": "https://github.com/RashiD2801/Skills"
   },
   {
     "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
@@ -403,50 +448,5 @@
     "stars": 117,
     "updated_at": "2026-06-17T14:57:19Z",
     "url": "https://github.com/Mark393295827/third-brain-v5-skills"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:57:06Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:55:45Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Claude Code skills for software engineering.  ",
-    "id": "janmarkuslanger/skills",
-    "language": "\u2014",
-    "name": "janmarkuslanger/skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T14:53:34Z",
-    "url": "https://github.com/janmarkuslanger/skills"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:53:18Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:53:06Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
   }
 ]
