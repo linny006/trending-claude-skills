@@ -1,12 +1,84 @@
 [
   {
+    "description": "Self-healing, self-learning Claude Code setup \u2014 finds, installs, or forges the skills, hooks & MCP your project needs, i",
+    "id": "shivae372/claude-bootstrap",
+    "language": "Python",
+    "name": "shivae372/claude-bootstrap",
+    "stars": 1,
+    "updated_at": "2026-06-17T10:44:25Z",
+    "url": "https://github.com/shivae372/claude-bootstrap"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-17T10:44:17Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Best Bioinformatics & Life Science AI Agent Skills 2026 \u2013 SciAgent Skills for RNA-seq & Drug Discovery",
+    "id": "Scorpio-1111/OmicsAgent-Skills",
+    "language": "HTML",
+    "name": "Scorpio-1111/OmicsAgent-Skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T10:43:14Z",
+    "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62531,
+    "updated_at": "2026-06-17T10:40:04Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Cross-tool AI agent skills (SKILL.md) for Claude Code, Codex, Gemini CLI, Cursor & Copilot",
+    "id": "Vingedal/bjorn-skills",
+    "language": "\u2014",
+    "name": "Vingedal/bjorn-skills",
+    "stars": 1,
+    "updated_at": "2026-06-17T10:35:04Z",
+    "url": "https://github.com/Vingedal/bjorn-skills"
+  },
+  {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 48,
+    "updated_at": "2026-06-17T10:33:25Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-17T10:31:46Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 90,
-    "updated_at": "2026-06-17T10:29:55Z",
+    "updated_at": "2026-06-17T10:43:44Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T10:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skills that deliver a daily finance status dashboard to your telegram.",
@@ -25,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T10:29:06Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62529,
-    "updated_at": "2026-06-17T10:28:46Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
@@ -81,22 +144,13 @@
     "url": "https://github.com/seranking/seo-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T10:15:25Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Self-healing, self-learning Claude Code setup \u2014 finds, installs, or forges the skills, hooks & MCP your project needs, i",
-    "id": "shivae372/claude-bootstrap",
-    "language": "Python",
-    "name": "shivae372/claude-bootstrap",
-    "stars": 1,
-    "updated_at": "2026-06-17T10:13:28Z",
-    "url": "https://github.com/shivae372/claude-bootstrap"
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 29896,
+    "updated_at": "2026-06-17T10:13:04Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -149,7 +203,7 @@
     "language": "JavaScript",
     "name": "jagmarques/company-skill",
     "stars": 4,
-    "updated_at": "2026-06-17T10:13:37Z",
+    "updated_at": "2026-06-17T10:41:20Z",
     "url": "https://github.com/jagmarques/company-skill"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T09:56:03Z",
     "url": "https://github.com/lhitches/claude-seo-skills"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-17T10:24:03Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -270,15 +315,6 @@
     "url": "https://github.com/jabrena/cursor-rules-java"
   },
   {
-    "description": "Cross-tool AI agent skills (SKILL.md) for Claude Code, Codex, Gemini CLI, Cursor & Copilot",
-    "id": "Vingedal/bjorn-skills",
-    "language": "\u2014",
-    "name": "Vingedal/bjorn-skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T09:33:14Z",
-    "url": "https://github.com/Vingedal/bjorn-skills"
-  },
-  {
     "description": "AI skills for German legal practice and EU compliance. 48 plugins, 103 skills across general law, Fachanwaltschaften, re",
     "id": "borghei/AI-Skills-German-Law",
     "language": "HTML",
@@ -286,15 +322,6 @@
     "stars": 5,
     "updated_at": "2026-06-17T09:14:58Z",
     "url": "https://github.com/borghei/AI-Skills-German-Law"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-17T09:14:09Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
@@ -400,18 +427,9 @@
     "id": "anombyte93/prd-taskmaster",
     "language": "Python",
     "name": "anombyte93/prd-taskmaster",
-    "stars": 514,
+    "stars": 515,
     "updated_at": "2026-06-17T08:46:21Z",
     "url": "https://github.com/anombyte93/prd-taskmaster"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 29896,
-    "updated_at": "2026-06-17T10:13:04Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "ScraperAPI's Agent Skills.",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-17T08:40:44Z",
     "url": "https://github.com/2362094903-ops/study-assistant-skills"
-  },
-  {
-    "description": "Professional skills for Claude AI \u2014 167 skills across 17 professions. Save 8-10 hours per week. PM stands for Profession",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "Shell",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 976,
-    "updated_at": "2026-06-17T08:43:12Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "\ud83e\udde0 AI Agent skills for LLMs and AI Agents - Claude, Codex, Cursor etc.",
-    "id": "a-tokyo/agent-skills",
-    "language": "Python",
-    "name": "a-tokyo/agent-skills",
-    "stars": 12,
-    "updated_at": "2026-06-17T08:29:35Z",
-    "url": "https://github.com/a-tokyo/agent-skills"
   }
 ]
