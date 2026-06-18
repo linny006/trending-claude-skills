@@ -1,5 +1,86 @@
 [
   {
+    "description": "Official FastBound Agent Skills for AI coding assistants \u2014 integrate with FastBound's products and APIs.",
+    "id": "FastBound/skills",
+    "language": "\u2014",
+    "name": "FastBound/skills",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:29:27Z",
+    "url": "https://github.com/FastBound/skills"
+  },
+  {
+    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+    "id": "deanpeters/Product-Manager-Skills",
+    "language": "Shell",
+    "name": "deanpeters/Product-Manager-Skills",
+    "stars": 5234,
+    "updated_at": "2026-06-18T22:29:00Z",
+    "url": "https://github.com/deanpeters/Product-Manager-Skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-18T22:24:08Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "A collection of Claude skills.",
+    "id": "Fyzel/claude-skills",
+    "language": "Python",
+    "name": "Fyzel/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-18T22:22:42Z",
+    "url": "https://github.com/Fyzel/claude-skills"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-18T22:20:01Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Skills for teaching agents how to build with the Podcast API",
+    "id": "PodcastAPI/skills",
+    "language": "\u2014",
+    "name": "PodcastAPI/skills",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:19:54Z",
+    "url": "https://github.com/PodcastAPI/skills"
+  },
+  {
+    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
+    "id": "glitchwerks/claude-wayfinder",
+    "language": "Python",
+    "name": "glitchwerks/claude-wayfinder",
+    "stars": 1,
+    "updated_at": "2026-06-18T22:17:45Z",
+    "url": "https://github.com/glitchwerks/claude-wayfinder"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-18T22:16:43Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T22:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
     "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
@@ -14,7 +95,7 @@
     "language": "Rust",
     "name": "athola/skrills",
     "stars": 67,
-    "updated_at": "2026-06-18T22:14:18Z",
+    "updated_at": "2026-06-18T22:15:21Z",
     "url": "https://github.com/athola/skrills"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T22:13:08Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "A collection of Claude skills.",
-    "id": "Fyzel/claude-skills",
-    "language": "Python",
-    "name": "Fyzel/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-18T22:13:43Z",
-    "url": "https://github.com/Fyzel/claude-skills"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -108,15 +180,6 @@
     "url": "https://github.com/RainyRoot/claude-guide"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-18T22:14:01Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -144,24 +207,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T22:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-18T22:12:36Z",
-    "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T21:58:15Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T21:58:00Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T21:36:32Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Official FastBound Agent Skills for AI coding assistants \u2014 integrate with FastBound's products and APIs.",
-    "id": "FastBound/skills",
-    "language": "\u2014",
-    "name": "FastBound/skills",
-    "stars": 0,
-    "updated_at": "2026-06-18T21:35:44Z",
-    "url": "https://github.com/FastBound/skills"
   },
   {
     "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T21:05:02Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Agent systems for PM work \u2014 Claim Ledger strategy generation + LLM-as-a-Judge evaluation. AI conclusions without traceab",
-    "id": "vitalystreluk/pm-agents",
-    "language": "JavaScript",
-    "name": "vitalystreluk/pm-agents",
-    "stars": 1,
-    "updated_at": "2026-06-18T21:00:57Z",
-    "url": "https://github.com/vitalystreluk/pm-agents"
-  },
-  {
-    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
-    "id": "testdouble/han",
-    "language": "Shell",
-    "name": "testdouble/han",
-    "stars": 87,
-    "updated_at": "2026-06-18T21:00:30Z",
-    "url": "https://github.com/testdouble/han"
-  },
-  {
-    "description": "Personal collection of Claude Code skills for development workflows",
-    "id": "technicalpickles/pickled-claude-plugins",
-    "language": "Python",
-    "name": "technicalpickles/pickled-claude-plugins",
-    "stars": 10,
-    "updated_at": "2026-06-18T20:55:10Z",
-    "url": "https://github.com/technicalpickles/pickled-claude-plugins"
   }
 ]
