@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:29:51Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
+    "description": "PageTurner / \u7ffb\u4e66\u4eba\uff1aPDF \u548c\u957f\u6587\u6863\u7ffb\u8bd1\u3001\u7ed3\u6784\u5316\u89e3\u6790\u4e0e HTML \u5feb\u8bfb\u7248\u751f\u6210 Skill",
+    "id": "davidwang960707-gpu/pageturner",
+    "language": "HTML",
+    "name": "davidwang960707-gpu/pageturner",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:44:43Z",
+    "url": "https://github.com/davidwang960707-gpu/pageturner"
   },
   {
     "description": "\ud83c\udfdb\ufe0f 22\u4f4d\u5e26\u7075\u9b42\u4e0e\u8bb0\u5fc6\u7684\u5723\u4eba\u4e13\u5bb6\u73ed\u5b50\uff0c\u6309\u95ee\u9898\u91cd\u91cf\u81ea\u52a8\u964d\u7ea7\u5f00\u8bae\u4f1a\u2014\u2014\u65e5\u5e38\u95ee\u98981\u4f4d\u5723\u4eba3\u53e5\u8bdd\u88c1\u51b3\uff0c\u590d\u6742\u8bae\u9898\u624d\u5f00\u591a\u4e13\u5bb6\u52a0\u6743\u6295\u7968\u3002\u5723\u4eba\u8bb0\u5f97\u5386\u6b21\u51b3\u5b9a\uff0c\u540c\u7c7b\u95ee\u9898\u4f1a\u5f15\u7528\u4e0a\u6b21\u7ed3\u8bba\u3002Claude Code \u6280\u80fd\u3002",
@@ -14,8 +14,80 @@
     "language": "Python",
     "name": "SuanFishXYY/sptler",
     "stars": 2,
-    "updated_at": "2026-06-18T01:29:24Z",
+    "updated_at": "2026-06-18T01:44:23Z",
     "url": "https://github.com/SuanFishXYY/sptler"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-18T01:43:33Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:41:29Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:44:22Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Karvey \u2014 m\u00e9todo spec-driven development agn\u00f3stico de stack (Af\u00e1n, selknam). Plugin de Claude Code. \u00a9 HainTech, Apache 2.",
+    "id": "MauricioQuezadaHaintech/karvey",
+    "language": "Shell",
+    "name": "MauricioQuezadaHaintech/karvey",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:39:42Z",
+    "url": "https://github.com/MauricioQuezadaHaintech/karvey"
+  },
+  {
+    "description": "\ud83c\udf10 [Skill] Turn a research paper into a publishable project homepage \u2014 a Skill for AI agents like Codex/Claude Code that ",
+    "id": "OpenRaiser/paper-webpage-builder",
+    "language": "Python",
+    "name": "OpenRaiser/paper-webpage-builder",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:37:45Z",
+    "url": "https://github.com/OpenRaiser/paper-webpage-builder"
+  },
+  {
+    "description": "",
+    "id": "longbridge/skills",
+    "language": "Python",
+    "name": "longbridge/skills",
+    "stars": 25,
+    "updated_at": "2026-06-18T01:34:08Z",
+    "url": "https://github.com/longbridge/skills"
+  },
+  {
+    "description": "Free, done-for-you AI tutorials you run inside Claude. Includes Second Brain Builder: turn your Obsidian vault into your",
+    "id": "jaredrhod/jareds-ai-tutorials",
+    "language": "\u2014",
+    "name": "jaredrhod/jareds-ai-tutorials",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:32:18Z",
+    "url": "https://github.com/jaredrhod/jareds-ai-tutorials"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T01:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
@@ -54,15 +126,6 @@
     "url": "https://github.com/raelli/octowiz"
   },
   {
-    "description": "Free, done-for-you AI tutorials you run inside Claude. Includes Second Brain Builder: turn your Obsidian vault into your",
-    "id": "jaredrhod/jareds-ai-tutorials",
-    "language": "\u2014",
-    "name": "jaredrhod/jareds-ai-tutorials",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:20:22Z",
-    "url": "https://github.com/jaredrhod/jareds-ai-tutorials"
-  },
-  {
     "description": "Fill standard legal agreement templates and produce signable DOCX files.",
     "id": "open-agreements/open-agreements",
     "language": "TypeScript",
@@ -79,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T01:17:44Z",
     "url": "https://github.com/DongDuong2001/pudo-code-system"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T01:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:50:39Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "A Claude skill that tutors you until you actually understand the work \u2014 incremental teaching, quizzing, no nodding-along",
-    "id": "apxxrv/session-teacher",
-    "language": "\u2014",
-    "name": "apxxrv/session-teacher",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:46:47Z",
-    "url": "https://github.com/apxxrv/session-teacher"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:44:28Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:42:57Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:42:28Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:41:49Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:41:33Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   }
 ]
