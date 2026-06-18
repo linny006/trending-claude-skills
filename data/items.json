@@ -1,12 +1,21 @@
 [
   {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-06-18T20:14:26Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-18T20:29:24Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Hivemind turns your traces into reusable skills across agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 1284,
+    "updated_at": "2026-06-18T20:26:41Z",
+    "url": "https://github.com/activeloopai/hivemind"
   },
   {
     "description": "167 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
@@ -14,17 +23,62 @@
     "language": "JavaScript",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 981,
-    "updated_at": "2026-06-18T20:14:03Z",
+    "updated_at": "2026-06-18T20:26:02Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-18T20:15:04Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 8,
+    "updated_at": "2026-06-18T20:25:58Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Official FastBound Agent Skills for AI coding assistants \u2014 integrate with FastBound's products and APIs.",
+    "id": "FastBound/skills",
+    "language": "\u2014",
+    "name": "FastBound/skills",
+    "stars": 0,
+    "updated_at": "2026-06-18T20:21:58Z",
+    "url": "https://github.com/FastBound/skills"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-06-18T20:20:54Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "\ud83d\udcfc A declarative AI agent environment manager, written in Rust",
+    "id": "pivoshenko/kasetto",
+    "language": "Rust",
+    "name": "pivoshenko/kasetto",
+    "stars": 109,
+    "updated_at": "2026-06-18T20:18:25Z",
+    "url": "https://github.com/pivoshenko/kasetto"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T20:15:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-06-18T20:14:26Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
     "description": "Companheiro execut\u00e1vel de Deep Claude \u00b7 O Curr\u00edculo Executivo do Ecossistema Anthropic",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T20:09:11Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "\ud83d\udcfc A declarative AI agent environment manager, written in Rust",
-    "id": "pivoshenko/kasetto",
-    "language": "Rust",
-    "name": "pivoshenko/kasetto",
-    "stars": 109,
-    "updated_at": "2026-06-18T20:13:34Z",
-    "url": "https://github.com/pivoshenko/kasetto"
   },
   {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
@@ -126,15 +171,6 @@
     "url": "https://github.com/scaccogatto/okf-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T20:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
     "id": "boshu2/agentops",
     "language": "Go",
@@ -205,15 +241,6 @@
     "stars": 49,
     "updated_at": "2026-06-18T19:43:35Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 8,
-    "updated_at": "2026-06-18T19:41:24Z",
-    "url": "https://github.com/Servosity/msp-skills"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -319,7 +346,7 @@
     "id": "SenolIsci/mykg",
     "language": "Python",
     "name": "SenolIsci/mykg",
-    "stars": 26,
+    "stars": 27,
     "updated_at": "2026-06-18T19:26:57Z",
     "url": "https://github.com/SenolIsci/mykg"
   },
@@ -421,32 +448,5 @@
     "stars": 29920,
     "updated_at": "2026-06-18T19:08:37Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
-    "id": "jamditis/claude-skills-journalism",
-    "language": "HTML",
-    "name": "jamditis/claude-skills-journalism",
-    "stars": 270,
-    "updated_at": "2026-06-18T19:07:33Z",
-    "url": "https://github.com/jamditis/claude-skills-journalism"
-  },
-  {
-    "description": "Local analytics dashboard for Claude Code. No cloud, no telemetry.",
-    "id": "Arindam200/cc-lens",
-    "language": "TypeScript",
-    "name": "Arindam200/cc-lens",
-    "stars": 537,
-    "updated_at": "2026-06-18T19:06:49Z",
-    "url": "https://github.com/Arindam200/cc-lens"
-  },
-  {
-    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
-    "id": "Sylad/claude-code-codex",
-    "language": "Astro",
-    "name": "Sylad/claude-code-codex",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:01:34Z",
-    "url": "https://github.com/Sylad/claude-code-codex"
   }
 ]
