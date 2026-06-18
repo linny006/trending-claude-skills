@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
-    "id": "anbeime/skill",
+    "description": "Claude Code skills for Magento 2 / Mage-OS / Adobe Commerce - module scaffolding, DI conventions, debugging & storefront",
+    "id": "staksoft/magento-claude-skills",
     "language": "Python",
-    "name": "anbeime/skill",
-    "stars": 1840,
-    "updated_at": "2026-06-18T06:43:15Z",
-    "url": "https://github.com/anbeime/skill"
+    "name": "staksoft/magento-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-18T07:00:00Z",
+    "url": "https://github.com/staksoft/magento-claude-skills"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -14,8 +14,53 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 265,
-    "updated_at": "2026-06-18T06:44:52Z",
+    "updated_at": "2026-06-18T06:59:36Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62616,
+    "updated_at": "2026-06-18T06:55:56Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "OpenFate Bazi MCP server with deterministic Four Pillars calculation, True Solar Time, branch interactions, and reverse ",
+    "id": "openfate-ai/bazi-mcp",
+    "language": "TypeScript",
+    "name": "openfate-ai/bazi-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-18T06:55:06Z",
+    "url": "https://github.com/openfate-ai/bazi-mcp"
+  },
+  {
+    "description": "Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents integration. Supports OpenAI, Claude, Gemini, Grok, ",
+    "id": "askimo-ai/askimo",
+    "language": "Kotlin",
+    "name": "askimo-ai/askimo",
+    "stars": 147,
+    "updated_at": "2026-06-18T06:50:11Z",
+    "url": "https://github.com/askimo-ai/askimo"
+  },
+  {
+    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM",
+    "id": "konglong87/superPM",
+    "language": "JavaScript",
+    "name": "konglong87/superPM",
+    "stars": 28,
+    "updated_at": "2026-06-18T06:49:33Z",
+    "url": "https://github.com/konglong87/superPM"
+  },
+  {
+    "description": "Always Be Cooking - Claude Code plugin that drives features from plan \u2192 tracker sub-issues \u2192 parallel shipping \u2192 review ",
+    "id": "semanticpixel/abc",
+    "language": "Shell",
+    "name": "semanticpixel/abc",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:48:53Z",
+    "url": "https://github.com/semanticpixel/abc"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 6,
-    "updated_at": "2026-06-18T06:30:16Z",
+    "updated_at": "2026-06-18T06:45:12Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 1842,
+    "updated_at": "2026-06-18T06:43:15Z",
+    "url": "https://github.com/anbeime/skill"
   },
   {
     "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
@@ -43,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T06:28:52Z",
     "url": "https://github.com/dootask/skills"
-  },
-  {
-    "description": "Always Be Cooking - Claude Code plugin that drives features from plan \u2192 tracker sub-issues \u2192 parallel shipping \u2192 review ",
-    "id": "semanticpixel/abc",
-    "language": "Shell",
-    "name": "semanticpixel/abc",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:28:55Z",
-    "url": "https://github.com/semanticpixel/abc"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -76,7 +121,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 29905,
+    "stars": 29906,
     "updated_at": "2026-06-18T06:25:59Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -85,7 +130,7 @@
     "id": "worldwonderer/oh-story-claudecode",
     "language": "JavaScript",
     "name": "worldwonderer/oh-story-claudecode",
-    "stars": 2702,
+    "stars": 2703,
     "updated_at": "2026-06-18T06:22:43Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
@@ -171,15 +216,6 @@
     "url": "https://github.com/Ruya-AI/cozempic"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62612,
-    "updated_at": "2026-06-18T06:41:06Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T06:01:55Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM",
-    "id": "konglong87/superPM",
-    "language": "JavaScript",
-    "name": "konglong87/superPM",
-    "stars": 28,
-    "updated_at": "2026-06-18T06:01:46Z",
-    "url": "https://github.com/konglong87/superPM"
   },
   {
     "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
@@ -232,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T05:58:52Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "OpenFate Bazi MCP server with deterministic Four Pillars calculation, True Solar Time, branch interactions, and reverse ",
-    "id": "openfate-ai/bazi-mcp",
-    "language": "TypeScript",
-    "name": "openfate-ai/bazi-mcp",
-    "stars": 1,
-    "updated_at": "2026-06-18T05:54:12Z",
-    "url": "https://github.com/openfate-ai/bazi-mcp"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -364,7 +382,7 @@
     "id": "worldwonderer/video-recap-skills",
     "language": "Python",
     "name": "worldwonderer/video-recap-skills",
-    "stars": 277,
+    "stars": 278,
     "updated_at": "2026-06-18T05:09:11Z",
     "url": "https://github.com/worldwonderer/video-recap-skills"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T04:55:21Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-06-18T04:51:19Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-06-18T04:50:13Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
   }
 ]
