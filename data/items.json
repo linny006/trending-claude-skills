@@ -1,5 +1,77 @@
 [
   {
+    "description": "MCP server that suggests repository-specific AI agent skills.",
+    "id": "sator-imaging/suggest-skills",
+    "language": "TypeScript",
+    "name": "sator-imaging/suggest-skills",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:44:06Z",
+    "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "OpenFate Bazi MCP server with deterministic Four Pillars calculation, True Solar Time, branch interactions, and reverse ",
+    "id": "openfate-ai/bazi-mcp",
+    "language": "TypeScript",
+    "name": "openfate-ai/bazi-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-18T02:43:39Z",
+    "url": "https://github.com/openfate-ai/bazi-mcp"
+  },
+  {
+    "description": "Skill: \u628a\u5bc6\u96c6 Markdown \u91cd\u6784\u4e3a\u8ba4\u77e5\u964d\u7ef4\u7684\u5de5\u4e1a\u7ea7 HTML \u6587\u6863\uff083 \u79d2/30 \u79d2/3 \u5206\u949f\u539f\u5219 + 6 \u7c7b\u4fe1\u606f\u5206\u5c42 + 13 \u6761\u53cd\u6a21\u5f0f\uff09",
+    "id": "beihai23/cognitive-html-doc",
+    "language": "HTML",
+    "name": "beihai23/cognitive-html-doc",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:42:32Z",
+    "url": "https://github.com/beihai23/cognitive-html-doc"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-18T02:40:16Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Ray Fernando's collection of Skill files for AI coding agents. First up: running-bug-review-board, a real-user QA workfl",
+    "id": "RayFernando1337/rayfernando-skills",
+    "language": "Shell",
+    "name": "RayFernando1337/rayfernando-skills",
+    "stars": 25,
+    "updated_at": "2026-06-18T02:40:19Z",
+    "url": "https://github.com/RayFernando1337/rayfernando-skills"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 36,
+    "updated_at": "2026-06-18T02:35:18Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 2,
+    "updated_at": "2026-06-18T02:33:34Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T02:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 62591,
-    "updated_at": "2026-06-18T02:25:46Z",
+    "updated_at": "2026-06-18T02:35:12Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -41,17 +113,8 @@
     "language": "JavaScript",
     "name": "RamanaNani/agent-router",
     "stars": 1,
-    "updated_at": "2026-06-18T02:23:40Z",
+    "updated_at": "2026-06-18T02:33:01Z",
     "url": "https://github.com/RamanaNani/agent-router"
-  },
-  {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 2,
-    "updated_at": "2026-06-18T02:26:52Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -97,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T02:15:39Z",
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T02:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 36,
-    "updated_at": "2026-06-18T02:20:10Z",
-    "url": "https://github.com/open-agreements/open-agreements"
   },
   {
     "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM",
@@ -279,15 +324,6 @@
     "url": "https://github.com/jianshuo/claude-skills"
   },
   {
-    "description": "MCP server that suggests repository-specific AI agent skills.",
-    "id": "sator-imaging/suggest-skills",
-    "language": "TypeScript",
-    "name": "sator-imaging/suggest-skills",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:27:46Z",
-    "url": "https://github.com/sator-imaging/suggest-skills"
-  },
-  {
     "description": "Agent Skills and Structured Prompts for Scalable Development",
     "id": "DongDuong2001/pudo-code-system",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 144,
     "updated_at": "2026-06-18T01:57:33Z",
     "url": "https://github.com/BANANASJIM/rdc-cli"
-  },
-  {
-    "description": "Claude Code plugin + MCP server for ComfyUI \u2014 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing fr",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 164,
-    "updated_at": "2026-06-18T00:14:55Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-18T00:15:02Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:12:58Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:11:26Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   }
 ]
