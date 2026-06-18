@@ -1,12 +1,57 @@
 [
   {
+    "description": "\u4e00\u4e2a\u9762\u5411 OpenAI Codex \u7684\u6e90\u7801\u5b66\u4e60 Skill\uff1a\u4ece\u9879\u76ee\u5730\u56fe\u51fa\u53d1\uff0c\u6cbf\u771f\u5b9e\u6267\u884c\u94fe\u7406\u89e3\u4ee3\u7801\uff0c\u5e76\u901a\u8fc7\u53ef\u9a8c\u8bc1\u7684\u5b66\u4e60\u68c0\u67e5\u70b9\u638c\u63e1\u67b6\u6784\u3001\u8bbe\u8ba1\u53d6\u820d\u3001\u8c03\u8bd5\u65b9\u6cd5\u4e0e\u6269\u5c55\u65b9\u5f0f\u3002",
+    "id": "Nijika-jia/Project-Study-Coach",
+    "language": "\u2014",
+    "name": "Nijika-jia/Project-Study-Coach",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:59:45Z",
+    "url": "https://github.com/Nijika-jia/Project-Study-Coach"
+  },
+  {
+    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
+    "id": "txw842lkj-cmd/silicon-circle-skill",
+    "language": "\u2014",
+    "name": "txw842lkj-cmd/silicon-circle-skill",
+    "stars": 1,
+    "updated_at": "2026-06-18T09:58:00Z",
+    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
+  },
+  {
+    "description": "Shared skills, prompts, and tooling for Picsart's gen-ai CLI and generative-AI workflows",
+    "id": "PicsArt/gen-ai-skills",
+    "language": "Python",
+    "name": "PicsArt/gen-ai-skills",
+    "stars": 3,
+    "updated_at": "2026-06-18T09:56:28Z",
+    "url": "https://github.com/PicsArt/gen-ai-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-18T10:00:03Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
     "description": "\u4e00\u4e2a\u5305\u542bskill\u7684\u96c6\u5408\uff1a\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
     "id": "Ldxs001/workbuddy-skills",
     "language": "Python",
     "name": "Ldxs001/workbuddy-skills",
     "stars": 2,
-    "updated_at": "2026-06-18T09:54:22Z",
+    "updated_at": "2026-06-18T09:54:58Z",
     "url": "https://github.com/Ldxs001/workbuddy-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T09:54:58Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI Skills Bank is a unified, multi-tool platform designed to aggregate, manage, and route AI skills across various workf",
@@ -32,17 +77,8 @@
     "language": "Shell",
     "name": "magnusrodseth/dotfiles",
     "stars": 0,
-    "updated_at": "2026-06-18T09:50:28Z",
+    "updated_at": "2026-06-18T09:56:48Z",
     "url": "https://github.com/magnusrodseth/dotfiles"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-18T09:51:20Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -81,24 +117,6 @@
     "url": "https://github.com/vanterx/mssql-performance-skills"
   },
   {
-    "description": "\u4e00\u4e2a\u9762\u5411 OpenAI Codex \u7684\u6e90\u7801\u5b66\u4e60 Skill\uff1a\u4ece\u9879\u76ee\u5730\u56fe\u51fa\u53d1\uff0c\u6cbf\u771f\u5b9e\u6267\u884c\u94fe\u7406\u89e3\u4ee3\u7801\uff0c\u5e76\u901a\u8fc7\u53ef\u9a8c\u8bc1\u7684\u5b66\u4e60\u68c0\u67e5\u70b9\u638c\u63e1\u67b6\u6784\u3001\u8bbe\u8ba1\u53d6\u820d\u3001\u8c03\u8bd5\u65b9\u6cd5\u4e0e\u6269\u5c55\u65b9\u5f0f\u3002",
-    "id": "Nijika-jia/Project-Study-Coach",
-    "language": "\u2014",
-    "name": "Nijika-jia/Project-Study-Coach",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:46:16Z",
-    "url": "https://github.com/Nijika-jia/Project-Study-Coach"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T09:45:25Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skills we use daily in the studio \u2014 reusable, on-demand context for Claude Code, Cursor & other skills.sh-compatib",
     "id": "stealth-engine/skills",
     "language": "TypeScript",
@@ -133,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T09:38:24Z",
     "url": "https://github.com/HarishDvs/Grizzly"
-  },
-  {
-    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
-    "id": "txw842lkj-cmd/silicon-circle-skill",
-    "language": "\u2014",
-    "name": "txw842lkj-cmd/silicon-circle-skill",
-    "stars": 1,
-    "updated_at": "2026-06-18T09:38:01Z",
-    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
   },
   {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
@@ -337,7 +346,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 29911,
+    "stars": 29912,
     "updated_at": "2026-06-18T08:54:16Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T09:41:20Z",
     "url": "https://github.com/Yosei-Lab-ai/Miragoe"
-  },
-  {
-    "description": "Hivemind turns your traces into reusable skills across agents",
-    "id": "activeloopai/hivemind",
-    "language": "TypeScript",
-    "name": "activeloopai/hivemind",
-    "stars": 1279,
-    "updated_at": "2026-06-18T08:23:33Z",
-    "url": "https://github.com/activeloopai/hivemind"
   }
 ]
