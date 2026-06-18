@@ -1,21 +1,21 @@
 [
   {
-    "description": "Agent systems for PM work \u2014 Claim Ledger strategy generation + LLM-as-a-Judge evaluation. AI conclusions without traceab",
-    "id": "vitalystreluk/pm-agents",
-    "language": "JavaScript",
-    "name": "vitalystreluk/pm-agents",
-    "stars": 1,
-    "updated_at": "2026-06-18T04:44:41Z",
-    "url": "https://github.com/vitalystreluk/pm-agents"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62600,
-    "updated_at": "2026-06-18T04:43:51Z",
+    "stars": 62602,
+    "updated_at": "2026-06-18T04:59:30Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:57:11Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -23,8 +23,80 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 265,
-    "updated_at": "2026-06-18T04:43:54Z",
+    "updated_at": "2026-06-18T04:59:50Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:55:21Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "MCP server that suggests repository-specific AI agent skills.",
+    "id": "sator-imaging/suggest-skills",
+    "language": "TypeScript",
+    "name": "sator-imaging/suggest-skills",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:56:09Z",
+    "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-06-18T04:51:19Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:50:13Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and t",
+    "id": "techygarg/lattice",
+    "language": "Shell",
+    "name": "techygarg/lattice",
+    "stars": 135,
+    "updated_at": "2026-06-18T04:52:52Z",
+    "url": "https://github.com/techygarg/lattice"
+  },
+  {
+    "description": "Agent systems for PM work \u2014 Claim Ledger strategy generation + LLM-as-a-Judge evaluation. AI conclusions without traceab",
+    "id": "vitalystreluk/pm-agents",
+    "language": "JavaScript",
+    "name": "vitalystreluk/pm-agents",
+    "stars": 1,
+    "updated_at": "2026-06-18T04:45:52Z",
+    "url": "https://github.com/vitalystreluk/pm-agents"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 36,
+    "updated_at": "2026-06-18T04:45:25Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T04:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "60+ curated agent skills for Claude Cowork and Claude.ai \u2014 ready-to-use tools for non-technical users: project managemen",
@@ -59,7 +131,7 @@
     "language": "Shell",
     "name": "semanticpixel/abc",
     "stars": 0,
-    "updated_at": "2026-06-18T04:35:09Z",
+    "updated_at": "2026-06-18T04:51:01Z",
     "url": "https://github.com/semanticpixel/abc"
   },
   {
@@ -67,7 +139,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16584,
+    "stars": 16585,
     "updated_at": "2026-06-18T04:30:56Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T04:30:48Z",
     "url": "https://github.com/AlissonSantos1/brasil-legal-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T04:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
@@ -239,7 +302,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 2,
-    "updated_at": "2026-06-18T04:37:43Z",
+    "updated_at": "2026-06-18T04:52:51Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-18T03:11:23Z",
     "url": "https://github.com/michellemayes/meta-doctor"
-  },
-  {
-    "description": "Skills and agents for Claude and Gemini",
-    "id": "AnaCataVC/amiga-ia",
-    "language": "HTML",
-    "name": "AnaCataVC/amiga-ia",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:10:23Z",
-    "url": "https://github.com/AnaCataVC/amiga-ia"
-  },
-  {
-    "description": "PageTurner Skill / \u7ffb\u4e66\u4eba Skill\uff1aPDF \u548c\u957f\u6587\u6863\u7ffb\u8bd1\u3001\u7ed3\u6784\u5316\u89e3\u6790\u4e0e HTML \u5feb\u8bfb\u7248\u751f\u6210 Skill",
-    "id": "davidwang960707-gpu/pageturner",
-    "language": "HTML",
-    "name": "davidwang960707-gpu/pageturner",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:10:06Z",
-    "url": "https://github.com/davidwang960707-gpu/pageturner"
-  },
-  {
-    "description": "Agent Skills and Structured Prompts for Scalable Development",
-    "id": "DongDuong2001/pudo-code-system",
-    "language": "JavaScript",
-    "name": "DongDuong2001/pudo-code-system",
-    "stars": 2,
-    "updated_at": "2026-06-18T03:08:34Z",
-    "url": "https://github.com/DongDuong2001/pudo-code-system"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T03:10:15Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
-    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
-    "id": "Egonex-AI/Understand-Anything",
-    "language": "TypeScript",
-    "name": "Egonex-AI/Understand-Anything",
-    "stars": 62952,
-    "updated_at": "2026-06-18T03:02:13Z",
-    "url": "https://github.com/Egonex-AI/Understand-Anything"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:50:05Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Production-quality Claude Code skills for context handoff, project bootstrap, and skill catalog. Evaluated against Anthr",
-    "id": "cabaynes/charles-claude-skills",
-    "language": "Shell",
-    "name": "cabaynes/charles-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:49:26Z",
-    "url": "https://github.com/cabaynes/charles-claude-skills"
   }
 ]
