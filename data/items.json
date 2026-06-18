@@ -1,21 +1,12 @@
 [
   {
-    "description": "Go CLI for Bocha, Volcengine Ark, and Zhihu APIs with normalized table/JSON output, source status, and stable exit codes",
-    "id": "geekjourneyx/findo",
-    "language": "Go",
-    "name": "geekjourneyx/findo",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:15:02Z",
-    "url": "https://github.com/geekjourneyx/findo"
-  },
-  {
-    "description": "Most monitoring tells you something broke. A doctor opens the pull request that fixes it.",
-    "id": "michellemayes/meta-doctor",
-    "language": "\u2014",
-    "name": "michellemayes/meta-doctor",
-    "stars": 1,
-    "updated_at": "2026-06-18T03:11:23Z",
-    "url": "https://github.com/michellemayes/meta-doctor"
+    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM",
+    "id": "konglong87/superPM",
+    "language": "JavaScript",
+    "name": "konglong87/superPM",
+    "stars": 28,
+    "updated_at": "2026-06-18T03:28:20Z",
+    "url": "https://github.com/konglong87/superPM"
   },
   {
     "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
@@ -23,8 +14,98 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 2,
-    "updated_at": "2026-06-18T03:13:52Z",
+    "updated_at": "2026-06-18T03:27:23Z",
     "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:26:39Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:26:29Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 15",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 4,
+    "updated_at": "2026-06-18T03:25:59Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "Go CLI for Bocha, Volcengine Ark, and Zhihu APIs with normalized table/JSON output, source status, and stable exit codes",
+    "id": "geekjourneyx/findo",
+    "language": "Go",
+    "name": "geekjourneyx/findo",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:25:04Z",
+    "url": "https://github.com/geekjourneyx/findo"
+  },
+  {
+    "description": "Your AI digital clone \u2014 learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a",
+    "id": "project-nomos/nomos",
+    "language": "TypeScript",
+    "name": "project-nomos/nomos",
+    "stars": 22,
+    "updated_at": "2026-06-18T03:20:25Z",
+    "url": "https://github.com/project-nomos/nomos"
+  },
+  {
+    "description": "The memory harness for proactive AI agents \u2014 structured storage, intent capture, 10x token reduction.",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 13885,
+    "updated_at": "2026-06-18T03:19:27Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
+    "id": "Dianel555/DSkills",
+    "language": "Python",
+    "name": "Dianel555/DSkills",
+    "stars": 63,
+    "updated_at": "2026-06-18T03:17:16Z",
+    "url": "https://github.com/Dianel555/DSkills"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 15,
+    "updated_at": "2026-06-18T03:16:29Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T03:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Most monitoring tells you something broke. A doctor opens the pull request that fixes it.",
+    "id": "michellemayes/meta-doctor",
+    "language": "\u2014",
+    "name": "michellemayes/meta-doctor",
+    "stars": 2,
+    "updated_at": "2026-06-18T03:11:23Z",
+    "url": "https://github.com/michellemayes/meta-doctor"
   },
   {
     "description": "Skills and agents for Claude and Gemini",
@@ -54,15 +135,6 @@
     "url": "https://github.com/DongDuong2001/pudo-code-system"
   },
   {
-    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM",
-    "id": "konglong87/superPM",
-    "language": "JavaScript",
-    "name": "konglong87/superPM",
-    "stars": 28,
-    "updated_at": "2026-06-18T03:08:13Z",
-    "url": "https://github.com/konglong87/superPM"
-  },
-  {
     "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
     "id": "Servosity/msp-skills",
     "language": "Go",
@@ -86,7 +158,7 @@
     "language": "Shell",
     "name": "semanticpixel/abc",
     "stars": 0,
-    "updated_at": "2026-06-18T03:05:09Z",
+    "updated_at": "2026-06-18T03:19:29Z",
     "url": "https://github.com/semanticpixel/abc"
   },
   {
@@ -94,18 +166,9 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 62902,
+    "stars": 62912,
     "updated_at": "2026-06-18T03:02:13Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T03:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83c\udfdb\ufe0f 22\u4f4d\u5e26\u7075\u9b42\u4e0e\u8bb0\u5fc6\u7684\u5723\u4eba\u4e13\u5bb6\u73ed\u5b50\uff0c\u6309\u95ee\u9898\u91cd\u91cf\u81ea\u52a8\u964d\u7ea7\u5f00\u8bae\u4f1a\u2014\u2014\u65e5\u5e38\u95ee\u98981\u4f4d\u5723\u4eba3\u53e5\u8bdd\u88c1\u51b3\uff0c\u590d\u6742\u8bae\u9898\u624d\u5f00\u591a\u4e13\u5bb6\u52a0\u6743\u6295\u7968\u3002\u5723\u4eba\u8bb0\u5f97\u5386\u6b21\u51b3\u5b9a\uff0c\u540c\u7c7b\u95ee\u9898\u4f1a\u5f15\u7528\u4e0a\u6b21\u7ed3\u8bba\u3002Claude Code \u6280\u80fd\u3002",
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-06-18T02:47:09Z",
+    "updated_at": "2026-06-18T03:21:18Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
   },
   {
@@ -194,7 +257,7 @@
     "language": "HTML",
     "name": "beihai23/cognitive-html-doc",
     "stars": 0,
-    "updated_at": "2026-06-18T02:42:32Z",
+    "updated_at": "2026-06-18T03:24:47Z",
     "url": "https://github.com/beihai23/cognitive-html-doc"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T01:45:39Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:41:29Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Karvey \u2014 m\u00e9todo spec-driven development agn\u00f3stico de stack (Af\u00e1n, selknam). Plugin de Claude Code. \u00a9 HainTech, Apache 2.",
-    "id": "MauricioQuezadaHaintech/karvey",
-    "language": "Shell",
-    "name": "MauricioQuezadaHaintech/karvey",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:39:42Z",
-    "url": "https://github.com/MauricioQuezadaHaintech/karvey"
-  },
-  {
-    "description": "\ud83c\udf10 [Skill] Turn a research paper into a publishable project homepage \u2014 a Skill for AI agents like Codex/Claude Code that ",
-    "id": "OpenRaiser/paper-webpage-builder",
-    "language": "Python",
-    "name": "OpenRaiser/paper-webpage-builder",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:37:45Z",
-    "url": "https://github.com/OpenRaiser/paper-webpage-builder"
-  },
-  {
-    "description": "",
-    "id": "longbridge/skills",
-    "language": "Python",
-    "name": "longbridge/skills",
-    "stars": 25,
-    "updated_at": "2026-06-18T01:34:08Z",
-    "url": "https://github.com/longbridge/skills"
-  },
-  {
-    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
-    "id": "jianshuo/claude-skills",
-    "language": "Python",
-    "name": "jianshuo/claude-skills",
-    "stars": 82,
-    "updated_at": "2026-06-18T01:28:57Z",
-    "url": "https://github.com/jianshuo/claude-skills"
-  },
-  {
-    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
-    "id": "Dianel555/DSkills",
-    "language": "Python",
-    "name": "Dianel555/DSkills",
-    "stars": 63,
-    "updated_at": "2026-06-18T01:09:58Z",
-    "url": "https://github.com/Dianel555/DSkills"
-  },
-  {
-    "description": "Second brain for Forward Deployed Engineers \u2014 one @fde skill, phase methods that do the work, self-writing engagement me",
-    "id": "suboss87/fde-os",
-    "language": "JavaScript",
-    "name": "suboss87/fde-os",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:15:17Z",
-    "url": "https://github.com/suboss87/fde-os"
   }
 ]
