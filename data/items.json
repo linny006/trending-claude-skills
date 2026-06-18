@@ -1,11 +1,56 @@
 [
   {
-    "description": "PageTurner / \u7ffb\u4e66\u4eba\uff1aPDF \u548c\u957f\u6587\u6863\u7ffb\u8bd1\u3001\u7ed3\u6784\u5316\u89e3\u6790\u4e0e HTML \u5feb\u8bfb\u7248\u751f\u6210 Skill",
+    "description": "Free, done-for-you AI tutorials you run inside Claude. Includes Second Brain Builder: turn your Obsidian vault into your",
+    "id": "jaredrhod/jareds-ai-tutorials",
+    "language": "\u2014",
+    "name": "jaredrhod/jareds-ai-tutorials",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:59:41Z",
+    "url": "https://github.com/jaredrhod/jareds-ai-tutorials"
+  },
+  {
+    "description": "A Factory of Agents - for Enterprises",
+    "id": "stempeck/agentfactory",
+    "language": "Go",
+    "name": "stempeck/agentfactory",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:58:39Z",
+    "url": "https://github.com/stempeck/agentfactory"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:58:25Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "A beginner-to-expert curriculum of drop-in skills for Claude Code, Codex, and any coding agent. Copy-paste ready, tested",
+    "id": "buildmoonshot/skillpacks",
+    "language": "JavaScript",
+    "name": "buildmoonshot/skillpacks",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:57:56Z",
+    "url": "https://github.com/buildmoonshot/skillpacks"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-18T01:55:22Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "PageTurner Skill / \u7ffb\u4e66\u4eba Skill\uff1aPDF \u548c\u957f\u6587\u6863\u7ffb\u8bd1\u3001\u7ed3\u6784\u5316\u89e3\u6790\u4e0e HTML \u5feb\u8bfb\u7248\u751f\u6210 Skill",
     "id": "davidwang960707-gpu/pageturner",
     "language": "HTML",
     "name": "davidwang960707-gpu/pageturner",
     "stars": 0,
-    "updated_at": "2026-06-18T01:44:43Z",
+    "updated_at": "2026-06-18T01:51:10Z",
     "url": "https://github.com/davidwang960707-gpu/pageturner"
   },
   {
@@ -14,17 +59,35 @@
     "language": "Python",
     "name": "SuanFishXYY/sptler",
     "stars": 2,
-    "updated_at": "2026-06-18T01:44:23Z",
+    "updated_at": "2026-06-18T01:48:37Z",
     "url": "https://github.com/SuanFishXYY/sptler"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-18T01:43:33Z",
-    "url": "https://github.com/boshu2/agentops"
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "JavaScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 12,
+    "updated_at": "2026-06-18T01:46:38Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:45:39Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T01:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T01:41:29Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:44:22Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Karvey \u2014 m\u00e9todo spec-driven development agn\u00f3stico de stack (Af\u00e1n, selknam). Plugin de Claude Code. \u00a9 HainTech, Apache 2.",
@@ -70,24 +124,6 @@
     "stars": 25,
     "updated_at": "2026-06-18T01:34:08Z",
     "url": "https://github.com/longbridge/skills"
-  },
-  {
-    "description": "Free, done-for-you AI tutorials you run inside Claude. Includes Second Brain Builder: turn your Obsidian vault into your",
-    "id": "jaredrhod/jareds-ai-tutorials",
-    "language": "\u2014",
-    "name": "jaredrhod/jareds-ai-tutorials",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:32:18Z",
-    "url": "https://github.com/jaredrhod/jareds-ai-tutorials"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T01:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "BANANASJIM/rdc-cli",
     "stars": 144,
-    "updated_at": "2026-06-18T00:18:05Z",
+    "updated_at": "2026-06-18T01:57:33Z",
     "url": "https://github.com/BANANASJIM/rdc-cli"
   },
   {
@@ -265,7 +301,7 @@
     "id": "artokun/comfyui-mcp",
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
-    "stars": 163,
+    "stars": 164,
     "updated_at": "2026-06-18T00:14:55Z",
     "url": "https://github.com/artokun/comfyui-mcp"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:52:55Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Claude Code skills marketplace for NASA PDS workflows - automated release notes, program status reports, and more",
-    "id": "NASA-PDS/pds-agent-skills",
-    "language": "JavaScript",
-    "name": "NASA-PDS/pds-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T23:55:02Z",
-    "url": "https://github.com/NASA-PDS/pds-agent-skills"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 1,
-    "updated_at": "2026-06-17T23:52:25Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-06-17T23:51:24Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:50:39Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
