@@ -5,8 +5,98 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 265,
-    "updated_at": "2026-06-18T11:44:21Z",
+    "updated_at": "2026-06-18T12:00:03Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f My macOS dotfiles managed with GNU Stow \u2014 incl. Claude Code config & skills",
+    "id": "zeikar/dotfiles",
+    "language": "Shell",
+    "name": "zeikar/dotfiles",
+    "stars": 1,
+    "updated_at": "2026-06-18T11:59:06Z",
+    "url": "https://github.com/zeikar/dotfiles"
+  },
+  {
+    "description": "167 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 979,
+    "updated_at": "2026-06-18T11:58:45Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Claude Code skill: generate a structured session-resume prompt (SESSION-RESUME.md) for context handoff between sessions",
+    "id": "eUmeda/session-resume",
+    "language": "\u2014",
+    "name": "eUmeda/session-resume",
+    "stars": 0,
+    "updated_at": "2026-06-18T11:57:05Z",
+    "url": "https://github.com/eUmeda/session-resume"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 392,
+    "updated_at": "2026-06-18T11:56:09Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16600,
+    "updated_at": "2026-06-18T11:56:05Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Claude Code skills for Magento 2 / Mage-OS / Adobe Commerce - module scaffolding, DI conventions, debugging & storefront",
+    "id": "staksoft/magento-claude-skills",
+    "language": "Python",
+    "name": "staksoft/magento-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-18T11:55:09Z",
+    "url": "https://github.com/staksoft/magento-claude-skills"
+  },
+  {
+    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
+    "id": "txw842lkj-cmd/silicon-circle-skill",
+    "language": "\u2014",
+    "name": "txw842lkj-cmd/silicon-circle-skill",
+    "stars": 1,
+    "updated_at": "2026-06-18T11:55:05Z",
+    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62654,
+    "updated_at": "2026-06-18T11:46:13Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-06-18T11:46:00Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T11:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
@@ -113,7 +203,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-18T11:35:20Z",
+    "updated_at": "2026-06-18T11:59:55Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -135,33 +225,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62653,
-    "updated_at": "2026-06-18T11:32:19Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T11:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
-    "id": "txw842lkj-cmd/silicon-circle-skill",
-    "language": "\u2014",
-    "name": "txw842lkj-cmd/silicon-circle-skill",
-    "stars": 1,
-    "updated_at": "2026-06-18T11:27:36Z",
-    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
-  },
-  {
     "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
     "id": "magnusrodseth/dotfiles",
     "language": "Shell",
@@ -169,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T11:22:44Z",
     "url": "https://github.com/magnusrodseth/dotfiles"
-  },
-  {
-    "description": "Claude Code skills for Magento 2 / Mage-OS / Adobe Commerce - module scaffolding, DI conventions, debugging & storefront",
-    "id": "staksoft/magento-claude-skills",
-    "language": "Python",
-    "name": "staksoft/magento-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T11:21:41Z",
-    "url": "https://github.com/staksoft/magento-claude-skills"
   },
   {
     "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
@@ -207,15 +261,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16600,
-    "updated_at": "2026-06-18T11:07:41Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "12 AI agents in your git workflow. Catches secrets, injection flaws, N+1 queries, and bad migrations on every commit. Ge",
     "id": "mantacron/manta",
     "language": "Shell",
@@ -229,7 +274,7 @@
     "id": "Infrasity-Labs/dev-gtm-claude-skills",
     "language": "Python",
     "name": "Infrasity-Labs/dev-gtm-claude-skills",
-    "stars": 63,
+    "stars": 65,
     "updated_at": "2026-06-18T11:00:40Z",
     "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T10:11:25Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:09:53Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "The anti-humanizer: a Claude Code skill that rewrites any text into boardroom-ready corporate-speak without sounding lik",
-    "id": "giorgiozamboni/corpspeak",
-    "language": "\u2014",
-    "name": "giorgiozamboni/corpspeak",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:08:41Z",
-    "url": "https://github.com/giorgiozamboni/corpspeak"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:07:26Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 49,
-    "updated_at": "2026-06-18T10:07:24Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "A curated Claude Code plugin with skills for anything Claude can do.",
-    "id": "toolbox-playground/super-claudio",
-    "language": "\u2014",
-    "name": "toolbox-playground/super-claudio",
-    "stars": 2,
-    "updated_at": "2026-06-18T10:06:16Z",
-    "url": "https://github.com/toolbox-playground/super-claudio"
   }
 ]
