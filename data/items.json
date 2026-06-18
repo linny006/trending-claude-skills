@@ -5,8 +5,44 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 265,
-    "updated_at": "2026-06-18T18:14:53Z",
+    "updated_at": "2026-06-18T18:28:09Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "openEHR assistant AI plugin suite with Skills, commands, and MCP server configuration for clinical workflow integration",
+    "id": "Cadasto/openehr-assistant-plugin",
+    "language": "Python",
+    "name": "Cadasto/openehr-assistant-plugin",
+    "stars": 3,
+    "updated_at": "2026-06-18T18:23:15Z",
+    "url": "https://github.com/Cadasto/openehr-assistant-plugin"
+  },
+  {
+    "description": "Multi-skill umbrella for Claude Code: analytic-workbench, spec-driven-dev, splunk-platform, wise-scraper, design2spec, a",
+    "id": "bayeslearner/bayeslearner-skills",
+    "language": "HTML",
+    "name": "bayeslearner/bayeslearner-skills",
+    "stars": 0,
+    "updated_at": "2026-06-18T18:22:02Z",
+    "url": "https://github.com/bayeslearner/bayeslearner-skills"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 19 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "JavaScript",
+    "name": "chrislacey89/skills",
+    "stars": 2,
+    "updated_at": "2026-06-18T18:20:50Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 25,
+    "updated_at": "2026-06-18T18:18:18Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "ssurmic/claude-investment-skills",
     "stars": 2,
-    "updated_at": "2026-06-18T18:12:34Z",
+    "updated_at": "2026-06-18T18:16:03Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T18:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Official Helius AI tooling repository ",
@@ -104,7 +149,7 @@
     "language": "Shell",
     "name": "testdouble/han",
     "stars": 87,
-    "updated_at": "2026-06-18T18:03:33Z",
+    "updated_at": "2026-06-18T18:21:04Z",
     "url": "https://github.com/testdouble/han"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 15,
     "updated_at": "2026-06-18T18:02:03Z",
     "url": "https://github.com/ngocsangyem/MeowKit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T18:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
@@ -193,7 +229,7 @@
     "id": "boshu2/agentops",
     "language": "Go",
     "name": "boshu2/agentops",
-    "stars": 392,
+    "stars": 393,
     "updated_at": "2026-06-18T17:50:26Z",
     "url": "https://github.com/boshu2/agentops"
   },
@@ -270,6 +306,15 @@
     "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
+    "description": "An LLM-first SEO analysis skill for Antigravity, Codex, Claude with 16 specialized sub-skills, 10 specialist agents, and",
+    "id": "Bhanunamikaze/Agentic-SEO-Skill",
+    "language": "Python",
+    "name": "Bhanunamikaze/Agentic-SEO-Skill",
+    "stars": 666,
+    "updated_at": "2026-06-18T17:33:53Z",
+    "url": "https://github.com/Bhanunamikaze/Agentic-SEO-Skill"
+  },
+  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -297,15 +342,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Pipeline-first Claude Code skills pack \u2014 19 composable skills for structured feature delivery from shape to ship",
-    "id": "chrislacey89/skills",
-    "language": "JavaScript",
-    "name": "chrislacey89/skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T17:44:06Z",
-    "url": "https://github.com/chrislacey89/skills"
-  },
-  {
     "description": "Open-source AI agent skills for safer Claude, Codex and Cursor coding workflows",
     "id": "lubochka/xiigen-general-skills",
     "language": "PowerShell",
@@ -331,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T17:25:14Z",
     "url": "https://github.com/CaptCanadaMan/session-briefing"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 25,
-    "updated_at": "2026-06-18T17:24:05Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T16:57:07Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:57:05Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f \u6700\u5b9e\u7528\u7684 Claude Code Skills \u5408\u96c6 | \u7cbe\u9009 100+ | 18\u4e2a\u539f\u521b\u53ef\u5b89\u88c5\u6280\u80fd | \u6309\u573a\u666f\u5206\u7c7b | \u590d\u5236\u5373\u88c5",
-    "id": "laolaoshiren/claude-code-skills-zh",
-    "language": "Python",
-    "name": "laolaoshiren/claude-code-skills-zh",
-    "stars": 377,
-    "updated_at": "2026-06-18T16:56:05Z",
-    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:55:01Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   }
 ]
