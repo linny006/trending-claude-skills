@@ -1,12 +1,102 @@
 [
   {
+    "description": "Open source, free, private, local, generative co-intelligence scaffold",
+    "id": "huximaxi/loci",
+    "language": "Rust",
+    "name": "huximaxi/loci",
+    "stars": 0,
+    "updated_at": "2026-06-18T12:13:43Z",
+    "url": "https://github.com/huximaxi/loci"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-18T12:12:37Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 265,
-    "updated_at": "2026-06-18T12:00:03Z",
+    "updated_at": "2026-06-18T12:15:07Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-18T12:09:18Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1357,
+    "updated_at": "2026-06-18T12:08:19Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-18T12:11:22Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Comprehensive clinical pathology toolkit for Claude - skills for CAP/ICCR compliance, TNM staging, synoptic templates, S",
+    "id": "patolojiAI/pathology-skills-collection",
+    "language": "Python",
+    "name": "patolojiAI/pathology-skills-collection",
+    "stars": 0,
+    "updated_at": "2026-06-18T12:03:00Z",
+    "url": "https://github.com/patolojiAI/pathology-skills-collection"
+  },
+  {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 1278,
+    "updated_at": "2026-06-18T12:02:34Z",
+    "url": "https://github.com/Kaelio/ktx"
+  },
+  {
+    "description": "\u8bb2\u4e49\u5236\u4f5c\u5de5\u4f5c\u6d41\uff1a\u7528\u77e5\u8bc6\u70b9+\u9898\u76ee\u4e00\u952e\u751f\u6210\u5b66\u751f\u7248/\u6559\u5e08\u7248 Word \u8bb2\u4e49\uff08\u56fe\u7247\u4e0e\u516c\u5f0f\u9010\u5b57\u8282\u4fdd\u771f\uff09",
+    "id": "dhcnsa-netizen/lecture-builder",
+    "language": "Python",
+    "name": "dhcnsa-netizen/lecture-builder",
+    "stars": 0,
+    "updated_at": "2026-06-18T12:02:33Z",
+    "url": "https://github.com/dhcnsa-netizen/lecture-builder"
+  },
+  {
+    "description": "Claude Code skill: generate a structured session-resume prompt (SESSION-RESUME.md) for context handoff between sessions",
+    "id": "eUmeda/session-resume",
+    "language": "\u2014",
+    "name": "eUmeda/session-resume",
+    "stars": 0,
+    "updated_at": "2026-06-18T12:02:03Z",
+    "url": "https://github.com/eUmeda/session-resume"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T12:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\udee0\ufe0f My macOS dotfiles managed with GNU Stow \u2014 incl. Claude Code config & skills",
@@ -27,15 +117,6 @@
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
-    "description": "Claude Code skill: generate a structured session-resume prompt (SESSION-RESUME.md) for context handoff between sessions",
-    "id": "eUmeda/session-resume",
-    "language": "\u2014",
-    "name": "eUmeda/session-resume",
-    "stars": 0,
-    "updated_at": "2026-06-18T11:57:05Z",
-    "url": "https://github.com/eUmeda/session-resume"
-  },
-  {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
     "id": "boshu2/agentops",
     "language": "Go",
@@ -49,7 +130,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16600,
+    "stars": 16603,
     "updated_at": "2026-06-18T11:56:05Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -76,7 +157,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62654,
+    "stars": 62656,
     "updated_at": "2026-06-18T11:46:13Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T11:46:00Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T11:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
@@ -157,7 +229,7 @@
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 931,
+    "stars": 933,
     "updated_at": "2026-06-18T11:41:42Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
@@ -196,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T11:39:10Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-18T11:59:55Z",
-    "url": "https://github.com/apresmoi/jianglens"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -279,15 +342,6 @@
     "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
   },
   {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 1,
-    "updated_at": "2026-06-18T10:58:36Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
     "id": "HsuanYuLee/polaris",
     "language": "Shell",
@@ -304,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T10:55:14Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T10:46:41Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
@@ -403,50 +448,5 @@
     "stars": 133,
     "updated_at": "2026-06-18T10:27:43Z",
     "url": "https://github.com/ethanhq/cc-fleet"
-  },
-  {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 36,
-    "updated_at": "2026-06-18T10:17:11Z",
-    "url": "https://github.com/open-agreements/open-agreements"
-  },
-  {
-    "description": "Library of GTM skills for Claude Code, Codex, Cursor",
-    "id": "gooseworks-ai/goose-skills",
-    "language": "Python",
-    "name": "gooseworks-ai/goose-skills",
-    "stars": 739,
-    "updated_at": "2026-06-18T10:16:37Z",
-    "url": "https://github.com/gooseworks-ai/goose-skills"
-  },
-  {
-    "description": "An AI-driven research workflow for generating ideas, running experiments, and writing scientific papers.",
-    "id": "whenpoem/aiscientist",
-    "language": "Python",
-    "name": "whenpoem/aiscientist",
-    "stars": 8,
-    "updated_at": "2026-06-18T10:15:01Z",
-    "url": "https://github.com/whenpoem/aiscientist"
-  },
-  {
-    "description": "Agent skills we use daily in the studio \u2014 reusable, on-demand context for Claude Code, Cursor & other skills.sh-compatib",
-    "id": "stealth-engine/skills",
-    "language": "TypeScript",
-    "name": "stealth-engine/skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T10:14:03Z",
-    "url": "https://github.com/stealth-engine/skills"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-06-18T10:11:25Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   }
 ]
