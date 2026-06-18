@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 00:30 UTC
+> ⏰ Last updated: 2026-06-18 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [raelli/octowiz](https://github.com/raelli/octowiz) | 2 | Python | 2026-06-18 | Octowiz gives Claude Code agents memory-backed engineering doctrine — cached by role, refreshed by project state, and ro |
+| 1 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 2 | TypeScript | 2026-06-18 | 🤖 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5 |
 | 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 6 | Python | 2026-06-18 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 3 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 2 | TypeScript | 2026-06-18 | 🤖 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5 |
+| 3 | [raelli/octowiz](https://github.com/raelli/octowiz) | 2 | Python | 2026-06-18 | Octowiz gives Claude Code agents memory-backed engineering doctrine — cached by role, refreshed by project state, and ro |
 | 4 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-06-18 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
 | 5 | [JBSag/pm-artisan](https://github.com/JBSag/pm-artisan) | 0 | HTML | 2026-06-18 | 15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly |
 | 6 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-06-18 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
