@@ -1,5 +1,68 @@
 [
   {
+    "description": "Cursor .mdc rules and skills for AI-assisted coding \u2014 stay minimal, cut to the root cause, and push back when it matters",
+    "id": "jlbgit/JansCursorRules",
+    "language": "PowerShell",
+    "name": "jlbgit/JansCursorRules",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:08:11Z",
+    "url": "https://github.com/jlbgit/JansCursorRules"
+  },
+  {
+    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
+    "id": "Dianel555/DSkills",
+    "language": "Python",
+    "name": "Dianel555/DSkills",
+    "stars": 63,
+    "updated_at": "2026-06-18T13:06:44Z",
+    "url": "https://github.com/Dianel555/DSkills"
+  },
+  {
+    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
+    "id": "Infrasity-Labs/dev-gtm-claude-skills",
+    "language": "Python",
+    "name": "Infrasity-Labs/dev-gtm-claude-skills",
+    "stars": 65,
+    "updated_at": "2026-06-18T13:06:08Z",
+    "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-18T13:04:26Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "White-box, OSWE-style security audit for Claude Code: traces source\u2192sink, chains findings to unauthenticated RCE, verifi",
+    "id": "Laucked-Security/claude-oswe",
+    "language": "JavaScript",
+    "name": "Laucked-Security/claude-oswe",
+    "stars": 1,
+    "updated_at": "2026-06-18T13:03:33Z",
+    "url": "https://github.com/Laucked-Security/claude-oswe"
+  },
+  {
+    "description": "\ud83d\udcfc A declarative AI agent environment manager, written in Rust",
+    "id": "pivoshenko/kasetto",
+    "language": "Rust",
+    "name": "pivoshenko/kasetto",
+    "stars": 109,
+    "updated_at": "2026-06-18T13:03:16Z",
+    "url": "https://github.com/pivoshenko/kasetto"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T13:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Skills and agents for Claude and Gemini",
     "id": "AnaCataVC/amiga-ia",
     "language": "HTML",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T12:57:12Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T12:56:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -99,15 +153,6 @@
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
-    "description": "\ud83d\udcfc A declarative AI agent environment manager, written in Rust",
-    "id": "pivoshenko/kasetto",
-    "language": "Rust",
-    "name": "pivoshenko/kasetto",
-    "stars": 109,
-    "updated_at": "2026-06-18T12:45:46Z",
-    "url": "https://github.com/pivoshenko/kasetto"
-  },
-  {
     "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
     "id": "txw842lkj-cmd/silicon-circle-skill",
     "language": "\u2014",
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T12:43:07Z",
     "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-18T12:42:49Z",
-    "url": "https://github.com/apresmoi/jianglens"
   },
   {
     "description": "167 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
@@ -180,15 +216,6 @@
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
-    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
-    "id": "Dianel555/DSkills",
-    "language": "Python",
-    "name": "Dianel555/DSkills",
-    "stars": 63,
-    "updated_at": "2026-06-18T12:33:27Z",
-    "url": "https://github.com/Dianel555/DSkills"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T12:26:00Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
-    "id": "Infrasity-Labs/dev-gtm-claude-skills",
-    "language": "Python",
-    "name": "Infrasity-Labs/dev-gtm-claude-skills",
-    "stars": 65,
-    "updated_at": "2026-06-18T12:44:58Z",
-    "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
   },
   {
     "description": "Run your job search as a coordinated team of AI career experts \u2014 a Claude skill with truth-only document tailoring and i",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T11:46:00Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
-    "id": "jherrodthomas/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "jherrodthomas/robotics-skills-suite",
-    "stars": 286,
-    "updated_at": "2026-06-18T11:43:12Z",
-    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 50,
-    "updated_at": "2026-06-18T11:42:57Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
