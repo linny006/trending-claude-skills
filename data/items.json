@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 2,
+    "updated_at": "2026-06-18T04:00:02Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:56:33Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:55:54Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
+    "id": "matejformanek/postgres-claude",
+    "language": "JavaScript",
+    "name": "matejformanek/postgres-claude",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:53:43Z",
+    "url": "https://github.com/matejformanek/postgres-claude"
+  },
+  {
     "description": "Go CLI for Bocha, Volcengine Ark, and Zhihu APIs with normalized table/JSON output, source status, and stable exit codes",
     "id": "geekjourneyx/findo",
     "language": "Go",
     "name": "geekjourneyx/findo",
     "stars": 0,
-    "updated_at": "2026-06-18T03:42:37Z",
+    "updated_at": "2026-06-18T03:51:00Z",
     "url": "https://github.com/geekjourneyx/findo"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 4,
+    "updated_at": "2026-06-18T03:47:24Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-18T03:46:05Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T03:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Plugin de Direito Brasileiro para Claude Code: IRPF, Tribut\u00e1rio, Trabalhista, Societ\u00e1rio, CDC, LGPD, Contratos, Licita\u00e7\u00f5",
@@ -32,7 +95,7 @@
     "language": "Shell",
     "name": "semanticpixel/abc",
     "stars": 0,
-    "updated_at": "2026-06-18T03:39:49Z",
+    "updated_at": "2026-06-18T03:57:40Z",
     "url": "https://github.com/semanticpixel/abc"
   },
   {
@@ -61,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T03:33:20Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 2,
-    "updated_at": "2026-06-18T03:42:33Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T03:30:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "project-nomos/nomos",
     "stars": 22,
-    "updated_at": "2026-06-18T03:20:25Z",
+    "updated_at": "2026-06-18T03:57:49Z",
     "url": "https://github.com/project-nomos/nomos"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "NevaMind-AI/memU",
     "stars": 13885,
-    "updated_at": "2026-06-18T03:19:27Z",
+    "updated_at": "2026-06-18T03:45:20Z",
     "url": "https://github.com/NevaMind-AI/memU"
   },
   {
@@ -211,7 +256,7 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 62923,
+    "stars": 62929,
     "updated_at": "2026-06-18T03:02:13Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-06-18T03:41:23Z",
+    "updated_at": "2026-06-18T03:51:46Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
   },
   {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T02:21:10Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
     "id": "Tibsfox/gsd-skill-creator",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T02:05:11Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:04:52Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 392,
-    "updated_at": "2026-06-18T02:04:22Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:03:21Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Free, done-for-you AI tutorials you run inside Claude. Includes Second Brain Builder: turn your Obsidian vault into your",
-    "id": "jaredrhod/jareds-ai-tutorials",
-    "language": "\u2014",
-    "name": "jaredrhod/jareds-ai-tutorials",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:59:41Z",
-    "url": "https://github.com/jaredrhod/jareds-ai-tutorials"
   }
 ]
