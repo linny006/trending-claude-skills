@@ -1,12 +1,111 @@
 [
   {
+    "description": "Go CLI for Bocha, Volcengine Ark, and Zhihu APIs with normalized table/JSON output, source status, and stable exit codes",
+    "id": "geekjourneyx/findo",
+    "language": "Go",
+    "name": "geekjourneyx/findo",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:15:02Z",
+    "url": "https://github.com/geekjourneyx/findo"
+  },
+  {
+    "description": "Most monitoring tells you something broke. A doctor opens the pull request that fixes it.",
+    "id": "michellemayes/meta-doctor",
+    "language": "\u2014",
+    "name": "michellemayes/meta-doctor",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:11:23Z",
+    "url": "https://github.com/michellemayes/meta-doctor"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 2,
+    "updated_at": "2026-06-18T03:13:52Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "HTML",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:10:23Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "PageTurner Skill / \u7ffb\u4e66\u4eba Skill\uff1aPDF \u548c\u957f\u6587\u6863\u7ffb\u8bd1\u3001\u7ed3\u6784\u5316\u89e3\u6790\u4e0e HTML \u5feb\u8bfb\u7248\u751f\u6210 Skill",
+    "id": "davidwang960707-gpu/pageturner",
+    "language": "HTML",
+    "name": "davidwang960707-gpu/pageturner",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:10:06Z",
+    "url": "https://github.com/davidwang960707-gpu/pageturner"
+  },
+  {
     "description": "Agent Skills and Structured Prompts for Scalable Development",
     "id": "DongDuong2001/pudo-code-system",
     "language": "JavaScript",
     "name": "DongDuong2001/pudo-code-system",
     "stars": 2,
-    "updated_at": "2026-06-18T02:58:47Z",
+    "updated_at": "2026-06-18T03:08:34Z",
     "url": "https://github.com/DongDuong2001/pudo-code-system"
+  },
+  {
+    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM",
+    "id": "konglong87/superPM",
+    "language": "JavaScript",
+    "name": "konglong87/superPM",
+    "stars": 28,
+    "updated_at": "2026-06-18T03:08:13Z",
+    "url": "https://github.com/konglong87/superPM"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T03:10:15Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62595,
+    "updated_at": "2026-06-18T03:06:04Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Always Be Cooking - Claude Code plugin that drives features from plan \u2192 tracker sub-issues \u2192 parallel shipping \u2192 review ",
+    "id": "semanticpixel/abc",
+    "language": "Shell",
+    "name": "semanticpixel/abc",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:05:09Z",
+    "url": "https://github.com/semanticpixel/abc"
+  },
+  {
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
+    "id": "Egonex-AI/Understand-Anything",
+    "language": "TypeScript",
+    "name": "Egonex-AI/Understand-Anything",
+    "stars": 62902,
+    "updated_at": "2026-06-18T03:02:13Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T03:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83c\udfdb\ufe0f 22\u4f4d\u5e26\u7075\u9b42\u4e0e\u8bb0\u5fc6\u7684\u5723\u4eba\u4e13\u5bb6\u73ed\u5b50\uff0c\u6309\u95ee\u9898\u91cd\u91cf\u81ea\u52a8\u964d\u7ea7\u5f00\u8bae\u4f1a\u2014\u2014\u65e5\u5e38\u95ee\u98981\u4f4d\u5723\u4eba3\u53e5\u8bdd\u88c1\u51b3\uff0c\u590d\u6742\u8bae\u9898\u624d\u5f00\u591a\u4e13\u5bb6\u52a0\u6743\u6295\u7968\u3002\u5723\u4eba\u8bb0\u5f97\u5386\u6b21\u51b3\u5b9a\uff0c\u540c\u7c7b\u95ee\u9898\u4f1a\u5f15\u7528\u4e0a\u6b21\u7ed3\u8bba\u3002Claude Code \u6280\u80fd\u3002",
@@ -25,24 +124,6 @@
     "stars": 265,
     "updated_at": "2026-06-18T02:57:06Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62593,
-    "updated_at": "2026-06-18T02:54:24Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Most monitoring tells you something broke. A doctor opens the pull request that fixes it.",
-    "id": "michellemayes/meta-doctor",
-    "language": "\u2014",
-    "name": "michellemayes/meta-doctor",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:54:02Z",
-    "url": "https://github.com/michellemayes/meta-doctor"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -99,15 +180,6 @@
     "url": "https://github.com/ethanhq/cc-fleet"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T02:45:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "OpenFate Bazi MCP server with deterministic Four Pillars calculation, True Solar Time, branch interactions, and reverse ",
     "id": "openfate-ai/bazi-mcp",
     "language": "TypeScript",
@@ -153,15 +225,6 @@
     "url": "https://github.com/open-agreements/open-agreements"
   },
   {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 2,
-    "updated_at": "2026-06-18T02:58:26Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -187,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T02:21:10Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "PageTurner Skill / \u7ffb\u4e66\u4eba Skill\uff1aPDF \u548c\u957f\u6587\u6863\u7ffb\u8bd1\u3001\u7ed3\u6784\u5316\u89e3\u6790\u4e0e HTML \u5feb\u8bfb\u7248\u751f\u6210 Skill",
-    "id": "davidwang960707-gpu/pageturner",
-    "language": "HTML",
-    "name": "davidwang960707-gpu/pageturner",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:20:56Z",
-    "url": "https://github.com/davidwang960707-gpu/pageturner"
   },
   {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
@@ -225,15 +279,6 @@
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
   },
   {
-    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM",
-    "id": "konglong87/superPM",
-    "language": "JavaScript",
-    "name": "konglong87/superPM",
-    "stars": 28,
-    "updated_at": "2026-06-18T02:14:10Z",
-    "url": "https://github.com/konglong87/superPM"
-  },
-  {
     "description": "Multi-skill umbrella for Claude Code: analytic-workbench, spec-driven-dev, splunk-platform, wise-scraper, design2spec, a",
     "id": "bayeslearner/bayeslearner-skills",
     "language": "HTML",
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "raelli/octowiz",
     "stars": 2,
-    "updated_at": "2026-06-18T02:13:03Z",
+    "updated_at": "2026-06-18T03:14:06Z",
     "url": "https://github.com/raelli/octowiz"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T01:15:17Z",
     "url": "https://github.com/suboss87/fde-os"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 77,
-    "updated_at": "2026-06-18T01:07:56Z",
-    "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Open-source AI marketing plugin for agencies & in-house teams \u2014 158 skills, 25 specialist agents, 12-Part Strategy Flow,",
-    "id": "indranilbanerjee/digital-marketing-pro",
-    "language": "Python",
-    "name": "indranilbanerjee/digital-marketing-pro",
-    "stars": 147,
-    "updated_at": "2026-06-18T01:06:05Z",
-    "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
-  },
-  {
-    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
-    "id": "glitchwerks/claude-wayfinder",
-    "language": "Python",
-    "name": "glitchwerks/claude-wayfinder",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:54:21Z",
-    "url": "https://github.com/glitchwerks/claude-wayfinder"
-  },
-  {
-    "description": "Installable library of AI coding agents, skills, commands, guides & tools \u2014 the copy-paste mirror of agentscamp.com",
-    "id": "imtiazrayhan/agentscamp-library",
-    "language": "\u2014",
-    "name": "imtiazrayhan/agentscamp-library",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:49:03Z",
-    "url": "https://github.com/imtiazrayhan/agentscamp-library"
-  },
-  {
-    "description": "macOS dotfiles - Forgotten Art of Makefile",
-    "id": "kborovik/.dotfiles",
-    "language": "Shell",
-    "name": "kborovik/.dotfiles",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:48:33Z",
-    "url": "https://github.com/kborovik/.dotfiles"
   }
 ]
