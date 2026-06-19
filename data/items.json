@@ -1,5 +1,158 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:28:42Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Claude Code skills for designing mobile MVPs in Figma, generating SwiftUI from Figma, and reviewing App Store readiness.",
+    "id": "Klionskiy/claude-mobile-mvp-skills",
+    "language": "\u2014",
+    "name": "Klionskiy/claude-mobile-mvp-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:27:10Z",
+    "url": "https://github.com/Klionskiy/claude-mobile-mvp-skills"
+  },
+  {
+    "description": "Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents",
+    "id": "AlexShchuka/neuro-matrix",
+    "language": "Python",
+    "name": "AlexShchuka/neuro-matrix",
+    "stars": 3,
+    "updated_at": "2026-06-19T11:26:22Z",
+    "url": "https://github.com/AlexShchuka/neuro-matrix"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 65,
+    "updated_at": "2026-06-19T11:25:37Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-19T11:27:23Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:24:05Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:23:16Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:22:24Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
+    "id": "txw842lkj-cmd/silicon-circle-skill",
+    "language": "\u2014",
+    "name": "txw842lkj-cmd/silicon-circle-skill",
+    "stars": 1,
+    "updated_at": "2026-06-19T11:21:03Z",
+    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
+  },
+  {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "Shell",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 2,
+    "updated_at": "2026-06-19T11:21:00Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62789,
+    "updated_at": "2026-06-19T11:20:50Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-19T11:20:22Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:18:38Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 1,
+    "updated_at": "2026-06-19T11:17:16Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-06-19T11:17:12Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:15:25Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T11:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
     "id": "lobisomenhomemafeminado/skill-vault",
     "language": "HTML",
@@ -52,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T11:10:35Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Claude Code skills for designing mobile MVPs in Figma, generating SwiftUI from Figma, and reviewing App Store readiness.",
-    "id": "Klionskiy/claude-mobile-mvp-skills",
-    "language": "\u2014",
-    "name": "Klionskiy/claude-mobile-mvp-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:09:38Z",
-    "url": "https://github.com/Klionskiy/claude-mobile-mvp-skills"
   },
   {
     "description": "Glanceable Claude Code state in iTerm2 tabs \u2014 white=idle, blue=processing, orange=waiting. iTerm2 daemon + launchd watch",
@@ -117,15 +261,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62783,
-    "updated_at": "2026-06-19T11:13:20Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Delegate tasks to DeepSeek right inside your Claude Code / Codex sessions.",
     "id": "dazuiba/handoff",
     "language": "Python",
@@ -133,15 +268,6 @@
     "stars": 60,
     "updated_at": "2026-06-19T11:00:17Z",
     "url": "https://github.com/dazuiba/handoff"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T11:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -153,24 +279,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-19T11:09:02Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents",
-    "id": "AlexShchuka/neuro-matrix",
-    "language": "Python",
-    "name": "AlexShchuka/neuro-matrix",
-    "stars": 3,
-    "updated_at": "2026-06-19T10:55:55Z",
-    "url": "https://github.com/AlexShchuka/neuro-matrix"
-  },
-  {
     "description": "Free Claude skills for AI automation and FS governance \u2014 built cross-industry for automation with governance for highly ",
     "id": "mercedesperezcapilla-gif/claude-skills",
     "language": "\u2014",
@@ -178,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T10:52:37Z",
     "url": "https://github.com/mercedesperezcapilla-gif/claude-skills"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "\u2014",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 2,
-    "updated_at": "2026-06-19T10:51:29Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -214,15 +313,6 @@
     "stars": 33,
     "updated_at": "2026-06-19T10:45:48Z",
     "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
-    "id": "txw842lkj-cmd/silicon-circle-skill",
-    "language": "\u2014",
-    "name": "txw842lkj-cmd/silicon-circle-skill",
-    "stars": 1,
-    "updated_at": "2026-06-19T10:41:42Z",
-    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -259,15 +349,6 @@
     "stars": 550,
     "updated_at": "2026-06-19T10:20:33Z",
     "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-19T10:19:43Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Alexey Vorobey's experimental expert circle for Claude Code \u2014 16 distilled mental models (Eric Seufert, Andrew Chen, Ele",
@@ -324,15 +405,6 @@
     "url": "https://github.com/magnusrodseth/dotfiles"
   },
   {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 65,
-    "updated_at": "2026-06-19T09:54:43Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
     "description": "GEO \u9886\u57df AI \u5458\u5de5\u5f00\u6e90\u65b9\u6848 \u00b7 Open-source GEO AI-employee solution (MIT). GEO Skills package + curated lists of agents and office C",
     "id": "ViryaZheng/recomby-geo",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T09:47:56Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Relex plugin for Claude",
-    "id": "relexyou/relex-claude",
-    "language": "\u2014",
-    "name": "relexyou/relex-claude",
-    "stars": 0,
-    "updated_at": "2026-06-19T09:45:24Z",
-    "url": "https://github.com/relexyou/relex-claude"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
-    "id": "phariyawitjiap-aeternix/AEGIS-Team",
-    "language": "Shell",
-    "name": "phariyawitjiap-aeternix/AEGIS-Team",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:07:49Z",
-    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
-  },
-  {
-    "description": "Cross-agent skills for AI coding agents (Claude Code, Codex, Cursor, Copilot, Gemini), installable with gh skill install",
-    "id": "bitcoin21ideas/skills",
-    "language": "\u2014",
-    "name": "bitcoin21ideas/skills",
-    "stars": 1,
-    "updated_at": "2026-06-19T09:41:45Z",
-    "url": "https://github.com/bitcoin21ideas/skills"
-  },
-  {
-    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "JavaScript",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 982,
-    "updated_at": "2026-06-19T09:34:39Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 2,
-    "updated_at": "2026-06-19T09:22:48Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "\u4e00\u4e2a\u5305\u542bskill\u7684\u96c6\u5408\uff1a\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
-    "id": "Ldxs001/workbuddy-skills",
-    "language": "Python",
-    "name": "Ldxs001/workbuddy-skills",
-    "stars": 2,
-    "updated_at": "2026-06-19T09:19:46Z",
-    "url": "https://github.com/Ldxs001/workbuddy-skills"
-  },
-  {
-    "description": "Independent Claude Skills for the whole smart home: Home Assistant, ESPHome, Node-RED, custom integrations, dashboards, ",
-    "id": "tonylofgren/aurora-smart-home",
-    "language": "Python",
-    "name": "tonylofgren/aurora-smart-home",
-    "stars": 89,
-    "updated_at": "2026-06-19T09:22:16Z",
-    "url": "https://github.com/tonylofgren/aurora-smart-home"
-  },
-  {
-    "description": "Automation harness that compiles a screen recording into a rerunnable script, with LLMs, only at decision points and sel",
-    "id": "prakhar1114/ai_mime",
-    "language": "Python",
-    "name": "prakhar1114/ai_mime",
-    "stars": 43,
-    "updated_at": "2026-06-19T09:17:32Z",
-    "url": "https://github.com/prakhar1114/ai_mime"
   }
 ]
