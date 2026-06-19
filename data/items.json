@@ -1,21 +1,48 @@
 [
   {
-    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
-    "id": "mohitagw15856/pm-claude-skills",
+    "description": " Ranks your installed Claude Code skills/agents for a task and routes to the best one \u2014 and learns from your ratings.",
+    "id": "RamanaNani/agent-router",
     "language": "JavaScript",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 983,
-    "updated_at": "2026-06-19T15:44:39Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+    "name": "RamanaNani/agent-router",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:59:02Z",
+    "url": "https://github.com/RamanaNani/agent-router"
   },
   {
-    "description": "Free Claude skills for AI automation and FS governance \u2014 built cross-industry for automation with governance for highly ",
-    "id": "mercedesperezcapilla-gif/claude-skills",
-    "language": "\u2014",
-    "name": "mercedesperezcapilla-gif/claude-skills",
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 393,
+    "updated_at": "2026-06-19T15:57:51Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 153,
+    "updated_at": "2026-06-19T15:57:10Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
     "stars": 0,
-    "updated_at": "2026-06-19T15:44:04Z",
-    "url": "https://github.com/mercedesperezcapilla-gif/claude-skills"
+    "updated_at": "2026-06-19T15:56:26Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:55:57Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
     "description": "Reusable skill for running, debugging, creating, and updating multi-step HTTP API test flows across Codex, Claude, Copil",
@@ -23,8 +50,62 @@
     "language": "Shell",
     "name": "vandordev/skills-api-flow-tester",
     "stars": 0,
-    "updated_at": "2026-06-19T15:42:38Z",
+    "updated_at": "2026-06-19T15:55:10Z",
     "url": "https://github.com/vandordev/skills-api-flow-tester"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:54:28Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Alexey Vorobey's experimental expert circle for Claude Code \u2014 16 distilled mental models (Eric Seufert, Andrew Chen, Ele",
+    "id": "mooreslaws/expert-mind-skill",
+    "language": "Python",
+    "name": "mooreslaws/expert-mind-skill",
+    "stars": 4,
+    "updated_at": "2026-06-19T15:54:15Z",
+    "url": "https://github.com/mooreslaws/expert-mind-skill"
+  },
+  {
+    "description": "A PM's operating system: turn a PRD into a full SDLC by orchestrating MetaGPT, OpenHands, Promptfoo. Built by a Senior P",
+    "id": "vittobh/pm-os",
+    "language": "Shell",
+    "name": "vittobh/pm-os",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:52:51Z",
+    "url": "https://github.com/vittobh/pm-os"
+  },
+  {
+    "description": "Free Claude skills for AI automation and FS governance \u2014 built cross-industry for automation with governance for highly ",
+    "id": "mercedesperezcapilla-gif/claude-skills",
+    "language": "\u2014",
+    "name": "mercedesperezcapilla-gif/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:50:36Z",
+    "url": "https://github.com/mercedesperezcapilla-gif/claude-skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:49:27Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Claude Code plugin that delegates boring, low-risk tasks (bulk i18n, trivial style tweaks) to the Gemini CLI \u2014 a transpa",
+    "id": "BansheeTech/Borderline",
+    "language": "Shell",
+    "name": "BansheeTech/Borderline",
+    "stars": 6,
+    "updated_at": "2026-06-19T15:49:25Z",
+    "url": "https://github.com/BansheeTech/Borderline"
   },
   {
     "description": "KAppMaker CLI tool that automates mobile app setup \u2014 Firebase, App Store Connect, Adapty, signing, publishing, and AI-po",
@@ -32,8 +113,44 @@
     "language": "TypeScript",
     "name": "KAppMaker/KAppMaker-CLI",
     "stars": 3,
-    "updated_at": "2026-06-19T15:41:22Z",
+    "updated_at": "2026-06-19T15:47:05Z",
     "url": "https://github.com/KAppMaker/KAppMaker-CLI"
+  },
+  {
+    "description": "AI \u5b66\u4e60\u8f85\u5bfc \u00b7 Claude Code Skill \u5957\u4ef6\uff1a\u6839\u636e\u4e0a\u4f20\u7684\u6559\u6750/\u8bfe\u4ef6\u6309\u7ae0\u8282\u5b66\u4e60\uff0c\u9002\u7528\u4e8e\u8003\u7814\u3001\u671f\u672b\u3001\u8d44\u683c\u8003\u8bd5\u2014\u2014\u601d\u7ef4\u5bfc\u56fe / \u8bb2\u4e49 / \u771f\u9898\u98ce\u683c\u8bd5\u5377 / \u9519\u9898\u672c / \u8d39\u66fc\u68c0\u9a8c / \u638c\u63e1\u5ea6\u4eea\u8868\u76d8\uff0c\u8fdb\u5ea6\u8de8\u4f1a\u8bdd\u4fdd\u5b58",
+    "id": "2362094903-ops/study-assistant-skills",
+    "language": "Python",
+    "name": "2362094903-ops/study-assistant-skills",
+    "stars": 5,
+    "updated_at": "2026-06-19T15:46:17Z",
+    "url": "https://github.com/2362094903-ops/study-assistant-skills"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-19T15:46:16Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T15:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 983,
+    "updated_at": "2026-06-19T15:44:39Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
     "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
@@ -49,7 +166,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62841,
+    "stars": 62844,
     "updated_at": "2026-06-19T15:37:53Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -88,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T15:31:00Z",
     "url": "https://github.com/laymom/ai-prd-generator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T15:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Turn Claude into a contracts assistant: review, summarize & draft business agreements in plain English.",
@@ -207,24 +315,6 @@
     "url": "https://github.com/tinh2/skills-hub-registry"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 393,
-    "updated_at": "2026-06-19T15:08:30Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-19T15:42:42Z",
-    "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
@@ -232,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T15:06:43Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Claude Code plugin that delegates boring, low-risk tasks (bulk i18n, trivial style tweaks) to the Gemini CLI \u2014 a transpa",
-    "id": "BansheeTech/Borderline",
-    "language": "Shell",
-    "name": "BansheeTech/Borderline",
-    "stars": 6,
-    "updated_at": "2026-06-19T15:05:33Z",
-    "url": "https://github.com/BansheeTech/Borderline"
   },
   {
     "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T14:37:23Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
-    "id": "Mary2241/seo-skills-agent-toolbox",
-    "language": "HTML",
-    "name": "Mary2241/seo-skills-agent-toolbox",
-    "stars": 1,
-    "updated_at": "2026-06-19T14:37:13Z",
-    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:35:40Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Claude Code CLI statusline decorator for cat lovers \u0e05^\u2022\ufecc\u2022^\u0e05  \uace0\uc591\uc774\uac00 \ub108\ubb34 \uc88b\uc544",
-    "id": "meow-at-me/claude-kitty-statusline",
-    "language": "PowerShell",
-    "name": "meow-at-me/claude-kitty-statusline",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:34:45Z",
-    "url": "https://github.com/meow-at-me/claude-kitty-statusline"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:32:14Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:32:13Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:27:52Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:27:49Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:23:47Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Fan out 5 subagents to brainstorm in parallel, then converge with DVFN scoring. A Claude Code command that structurally ",
-    "id": "laymom/multi-agent-brainstorm",
-    "language": "\u2014",
-    "name": "laymom/multi-agent-brainstorm",
-    "stars": 1,
-    "updated_at": "2026-06-19T14:21:57Z",
-    "url": "https://github.com/laymom/multi-agent-brainstorm"
   }
 ]
