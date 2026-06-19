@@ -1,5 +1,23 @@
 [
   {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-19T02:17:03Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T02:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -23,7 +41,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-19T02:13:58Z",
+    "updated_at": "2026-06-19T02:18:16Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T02:04:20Z",
     "url": "https://github.com/yinjialu/ai-frontier-daily"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T02:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source Claude Code skills marketplace \u2014 agent-army, claude-continuation, and more. Add once, install whichever you ",
@@ -243,6 +252,15 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 1294,
+    "updated_at": "2026-06-19T01:30:06Z",
+    "url": "https://github.com/Kaelio/ktx"
+  },
+  {
     "description": "Your AI digital clone \u2014 learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a",
     "id": "project-nomos/nomos",
     "language": "TypeScript",
@@ -342,15 +360,6 @@
     "url": "https://github.com/glitchwerks/claude-wayfinder"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-19T00:49:35Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Vast.ai python and cli api client",
     "id": "vast-ai/vast-cli",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 364,
     "updated_at": "2026-06-19T00:20:38Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:19:17Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   }
 ]
