@@ -1,5 +1,86 @@
 [
   {
+    "description": "BIRDCC agent skills registry",
+    "id": "bird-chinese-community/BIRD-skills",
+    "language": "Python",
+    "name": "bird-chinese-community/BIRD-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:42:54Z",
+    "url": "https://github.com/bird-chinese-community/BIRD-skills"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-19T17:41:35Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "The pre-production system we use to ship hundreds of videos a month. Open-sourced.",
+    "id": "whystrohm/shotkit",
+    "language": "TypeScript",
+    "name": "whystrohm/shotkit",
+    "stars": 14,
+    "updated_at": "2026-06-19T17:41:13Z",
+    "url": "https://github.com/whystrohm/shotkit"
+  },
+  {
+    "description": "One diff, one thesis \u2014 a Claude Code skill that breaks a large change into a stack of small, single-thesis, refactor-fir",
+    "id": "Ishtiaqhossain/claude_stack_changes",
+    "language": "Shell",
+    "name": "Ishtiaqhossain/claude_stack_changes",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:39:13Z",
+    "url": "https://github.com/Ishtiaqhossain/claude_stack_changes"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-19T17:37:59Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "A skillet full of agent skills: repo audits with leverage-sorted backlogs, bug hunting, security sweeps, publish gates, ",
+    "id": "escoffier-labs/skillet",
+    "language": "Shell",
+    "name": "escoffier-labs/skillet",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:35:59Z",
+    "url": "https://github.com/escoffier-labs/skillet"
+  },
+  {
+    "description": "Claude Code plugin that delegates boring, low-risk tasks (bulk i18n, trivial style tweaks) to the Gemini CLI \u2014 a transpa",
+    "id": "BansheeTech/Borderline",
+    "language": "Shell",
+    "name": "BansheeTech/Borderline",
+    "stars": 6,
+    "updated_at": "2026-06-19T17:41:45Z",
+    "url": "https://github.com/BansheeTech/Borderline"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 393,
+    "updated_at": "2026-06-19T17:31:59Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T17:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
@@ -36,15 +117,6 @@
     "url": "https://github.com/Neetx/ai-research-radar"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 393,
-    "updated_at": "2026-06-19T17:24:42Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T17:24:22Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "One diff, one thesis \u2014 a Claude Code skill that breaks a large change into a stack of small, single-thesis, refactor-fir",
-    "id": "Ishtiaqhossain/claude_stack_changes",
-    "language": "JavaScript",
-    "name": "Ishtiaqhossain/claude_stack_changes",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:23:17Z",
-    "url": "https://github.com/Ishtiaqhossain/claude_stack_changes"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -77,7 +140,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-19T17:22:44Z",
+    "updated_at": "2026-06-19T17:43:29Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -99,15 +162,6 @@
     "url": "https://github.com/JBSag/pm-artisan"
   },
   {
-    "description": "A skillet full of agent skills: repo audits with leverage-sorted backlogs, bug hunting, security sweeps, publish gates, ",
-    "id": "escoffier-labs/skillet",
-    "language": "Shell",
-    "name": "escoffier-labs/skillet",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:21:34Z",
-    "url": "https://github.com/escoffier-labs/skillet"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -124,24 +178,6 @@
     "stars": 406,
     "updated_at": "2026-06-19T17:17:42Z",
     "url": "https://github.com/jabrena/cursor-rules-java"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-19T17:16:37Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T17:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
@@ -306,15 +342,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "The pre-production system we use to ship hundreds of videos a month. Open-sourced.",
-    "id": "whystrohm/shotkit",
-    "language": "TypeScript",
-    "name": "whystrohm/shotkit",
-    "stars": 14,
-    "updated_at": "2026-06-19T17:06:56Z",
-    "url": "https://github.com/whystrohm/shotkit"
-  },
-  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T16:36:37Z",
     "url": "https://github.com/Laucked-Security/claude-oswe"
-  },
-  {
-    "description": "Three Claude AI skills covering the full job search workflow - Resume optimization, job applications, and interview prep",
-    "id": "AskAboutAI/Resume-enhancer-skills",
-    "language": "JavaScript",
-    "name": "AskAboutAI/Resume-enhancer-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:36:25Z",
-    "url": "https://github.com/AskAboutAI/Resume-enhancer-skills"
-  },
-  {
-    "description": "Reusable skill for running, debugging, creating, and updating multi-step HTTP API test flows across Codex, Claude, Copil",
-    "id": "vandordev/skills-api-flow-tester",
-    "language": "Shell",
-    "name": "vandordev/skills-api-flow-tester",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:36:11Z",
-    "url": "https://github.com/vandordev/skills-api-flow-tester"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:34:06Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   }
 ]
