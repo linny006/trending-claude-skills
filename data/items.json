@@ -1,5 +1,77 @@
 [
   {
+    "description": "Your AI digital clone \u2014 learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a",
+    "id": "project-nomos/nomos",
+    "language": "TypeScript",
+    "name": "project-nomos/nomos",
+    "stars": 22,
+    "updated_at": "2026-06-19T01:27:37Z",
+    "url": "https://github.com/project-nomos/nomos"
+  },
+  {
+    "description": "Mother of all skills \u2014 scans your project, then finds, scores, and ranks the best libraries, SDKs & tools for your stack",
+    "id": "Magithar/SKILLmama",
+    "language": "\u2014",
+    "name": "Magithar/SKILLmama",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:24:44Z",
+    "url": "https://github.com/Magithar/SKILLmama"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:23:44Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 393,
+    "updated_at": "2026-06-19T01:21:36Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "MCP server that suggests repository-specific AI agent skills.",
+    "id": "sator-imaging/suggest-skills",
+    "language": "TypeScript",
+    "name": "sator-imaging/suggest-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:20:32Z",
+    "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
+    "id": "davepoon/buildwithclaude",
+    "language": "TypeScript",
+    "name": "davepoon/buildwithclaude",
+    "stars": 3084,
+    "updated_at": "2026-06-19T01:20:23Z",
+    "url": "https://github.com/davepoon/buildwithclaude"
+  },
+  {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "HTML",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:19:20Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T01:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
     "id": "YPares/rigup.nix",
     "language": "Nix",
@@ -9,21 +81,12 @@
     "url": "https://github.com/YPares/rigup.nix"
   },
   {
-    "description": "Skills and agents for Claude and Gemini",
-    "id": "AnaCataVC/amiga-ia",
-    "language": "HTML",
-    "name": "AnaCataVC/amiga-ia",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:13:56Z",
-    "url": "https://github.com/AnaCataVC/amiga-ia"
-  },
-  {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
     "id": "cody-hutson/pmo-platform",
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-19T01:13:24Z",
+    "updated_at": "2026-06-19T01:18:22Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/glitchwerks/claude-wayfinder"
   },
   {
-    "description": "Mother of all skills \u2014 scans your project, then finds, scores, and ranks the best libraries, SDKs & tools for your stack",
-    "id": "Magithar/SKILLmama",
-    "language": "\u2014",
-    "name": "Magithar/SKILLmama",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:05:38Z",
-    "url": "https://github.com/Magithar/SKILLmama"
-  },
-  {
-    "description": "MCP server that suggests repository-specific AI agent skills.",
-    "id": "sator-imaging/suggest-skills",
-    "language": "TypeScript",
-    "name": "sator-imaging/suggest-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:01:50Z",
-    "url": "https://github.com/sator-imaging/suggest-skills"
-  },
-  {
     "description": "Free Codex and Claude skills for music creators: release metadata linter, Suede Rights Passport, provenance packaging, r",
     "id": "JasonColapietro/suede-creator-skills",
     "language": "Python",
@@ -97,24 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T01:01:30Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T01:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 393,
-    "updated_at": "2026-06-19T00:58:45Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:48:49Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Persona OS by The Product Channel \u2014 drop-in operating systems for Claude Code. Product Manager OS: 40 book-grounded, bat",
-    "id": "Sidsaladi9/persona-os",
-    "language": "Shell",
-    "name": "Sidsaladi9/persona-os",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:48:39Z",
-    "url": "https://github.com/Sidsaladi9/persona-os"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:45:40Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:44:47Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
   }
 ]
