@@ -1,5 +1,86 @@
 [
   {
+    "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
+    "id": "jgsystemsconsulting/jgs-goal-spec",
+    "language": "Python",
+    "name": "jgsystemsconsulting/jgs-goal-spec",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:25:02Z",
+    "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-19T15:23:00Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "One diff, one thesis \u2014 a Claude Code skill that breaks a large change into a stack of small, single-thesis, refactor-fir",
+    "id": "Ishtiaqhossain/claude_stack_changes",
+    "language": "JavaScript",
+    "name": "Ishtiaqhossain/claude_stack_changes",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:22:49Z",
+    "url": "https://github.com/Ishtiaqhossain/claude_stack_changes"
+  },
+  {
+    "description": "White-box, OSWE-style security audit for Claude Code: traces source\u2192sink, chains findings to unauthenticated RCE, verifi",
+    "id": "Laucked-Security/claude-oswe",
+    "language": "JavaScript",
+    "name": "Laucked-Security/claude-oswe",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:22:40Z",
+    "url": "https://github.com/Laucked-Security/claude-oswe"
+  },
+  {
+    "description": "Turn Claude into a finance analyst: cash flow, invoices, budgets & forecasting skills for founders and finance teams.",
+    "id": "Uhudsavasindankacanokcu2/finance-skills-for-claude",
+    "language": "\u2014",
+    "name": "Uhudsavasindankacanokcu2/finance-skills-for-claude",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:21:48Z",
+    "url": "https://github.com/Uhudsavasindankacanokcu2/finance-skills-for-claude"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:20:04Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:18:15Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:15:23Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T15:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills for building, shipping, and growing software products",
     "id": "tenequm/skills",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "Shell",
     "name": "l4ci/hv-skills",
     "stars": 0,
-    "updated_at": "2026-06-19T15:12:34Z",
+    "updated_at": "2026-06-19T15:25:42Z",
     "url": "https://github.com/l4ci/hv-skills"
   },
   {
@@ -40,8 +121,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62836,
-    "updated_at": "2026-06-19T15:11:09Z",
+    "stars": 62837,
+    "updated_at": "2026-06-19T15:22:20Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "glitchwerks/claude-wayfinder",
     "stars": 1,
-    "updated_at": "2026-06-19T15:07:09Z",
+    "updated_at": "2026-06-19T15:20:30Z",
     "url": "https://github.com/glitchwerks/claude-wayfinder"
   },
   {
@@ -108,13 +189,13 @@
     "url": "https://github.com/lunashia/code-generation-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T15:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "A new primitive in AI. Callable expertise in the cloud \u2014 not a file you download, a function you call.",
+    "id": "Prashanth-InferX/skill-function",
+    "language": "\u2014",
+    "name": "Prashanth-InferX/skill-function",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:59:56Z",
+    "url": "https://github.com/Prashanth-InferX/skill-function"
   },
   {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T14:06:40Z",
     "url": "https://github.com/vittobh/pm-os"
-  },
-  {
-    "description": "Official agent skills for Lumbox \u2014 email infrastructure for AI agents (inboxes, OTP extraction, send/reply via REST + MC",
-    "id": "kumard3/lumbox-skills",
-    "language": "\u2014",
-    "name": "kumard3/lumbox-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:04:58Z",
-    "url": "https://github.com/kumard3/lumbox-skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-19T14:04:40Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audi",
-    "id": "SamurAIGPT/Generative-Media-Skills",
-    "language": "Shell",
-    "name": "SamurAIGPT/Generative-Media-Skills",
-    "stars": 3582,
-    "updated_at": "2026-06-19T13:53:57Z",
-    "url": "https://github.com/SamurAIGPT/Generative-Media-Skills"
-  },
-  {
-    "description": "A collection of AI Agent Skills that provide professional domain capabilities for intelligent assistants like Claude Cod",
-    "id": "YangsonHung/awesome-agent-skills",
-    "language": "Python",
-    "name": "YangsonHung/awesome-agent-skills",
-    "stars": 11,
-    "updated_at": "2026-06-19T13:52:35Z",
-    "url": "https://github.com/YangsonHung/awesome-agent-skills"
-  },
-  {
-    "description": "An (agentic) Claude/Codex/Copilot skill to aid ECRs write up preregistrations!",
-    "id": "caggursoy/biopsych-prereg-skill",
-    "language": "\u2014",
-    "name": "caggursoy/biopsych-prereg-skill",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:52:13Z",
-    "url": "https://github.com/caggursoy/biopsych-prereg-skill"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-19T13:50:18Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
-    "id": "jgsystemsconsulting/jgs-goal-spec",
-    "language": "Python",
-    "name": "jgsystemsconsulting/jgs-goal-spec",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:49:21Z",
-    "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
-  },
-  {
-    "description": "",
-    "id": "LevNas/ccmemo",
-    "language": "Python",
-    "name": "LevNas/ccmemo",
-    "stars": 3,
-    "updated_at": "2026-06-19T13:48:10Z",
-    "url": "https://github.com/LevNas/ccmemo"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 365,
-    "updated_at": "2026-06-19T13:43:06Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   }
 ]
