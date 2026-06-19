@@ -1,12 +1,30 @@
 [
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-19T00:39:34Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
+    "description": "MCP server that suggests repository-specific AI agent skills.",
+    "id": "sator-imaging/suggest-skills",
+    "language": "TypeScript",
+    "name": "sator-imaging/suggest-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:58:57Z",
+    "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 393,
+    "updated_at": "2026-06-19T00:58:45Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Claude skills for turning messy business context into clear asks, decisions, owners, updates, and follow-ups.",
+    "id": "tmusser/context-to-action-skills",
+    "language": "Python",
+    "name": "tmusser/context-to-action-skills",
+    "stars": 1,
+    "updated_at": "2026-06-19T00:58:14Z",
+    "url": "https://github.com/tmusser/context-to-action-skills"
   },
   {
     "description": "Mother of all skills \u2014 scans your project, then finds, scores, and ranks the best libraries, SDKs & tools for your stack",
@@ -14,8 +32,26 @@
     "language": "\u2014",
     "name": "Magithar/SKILLmama",
     "stars": 0,
-    "updated_at": "2026-06-19T00:31:14Z",
+    "updated_at": "2026-06-19T00:56:50Z",
     "url": "https://github.com/Magithar/SKILLmama"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-19T00:49:35Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T00:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -25,15 +61,6 @@
     "stars": 6,
     "updated_at": "2026-06-19T00:30:30Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T00:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Vast.ai python and cli api client",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T00:26:20Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 393,
-    "updated_at": "2026-06-19T00:24:26Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -169,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T00:18:10Z",
     "url": "https://github.com/Scorpio-1111/OmicsAgent-Skills"
-  },
-  {
-    "description": "Claude skills for turning messy business context into clear asks, decisions, owners, updates, and follow-ups.",
-    "id": "tmusser/context-to-action-skills",
-    "language": "Python",
-    "name": "tmusser/context-to-action-skills",
-    "stars": 1,
-    "updated_at": "2026-06-19T00:18:05Z",
-    "url": "https://github.com/tmusser/context-to-action-skills"
   },
   {
     "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:21:34Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:15:35Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
