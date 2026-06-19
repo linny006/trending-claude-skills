@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f AEGIS v15.0 \u2014 AI Agent Team Framework for Claude Code | 11 Marvel Personas \u2022 37 Skills \u2022 16 Commands \u2022 14 Hooks \u2022 60+",
+    "id": "phariyawitjiap-aeternix/AEGIS-Team",
+    "language": "Shell",
+    "name": "phariyawitjiap-aeternix/AEGIS-Team",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:26:57Z",
+    "url": "https://github.com/phariyawitjiap-aeternix/AEGIS-Team"
+  },
+  {
+    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
+    "id": "OpenLatch/saferskills",
+    "language": "Python",
+    "name": "OpenLatch/saferskills",
+    "stars": 2,
+    "updated_at": "2026-06-19T09:26:10Z",
+    "url": "https://github.com/OpenLatch/saferskills"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 2,
+    "updated_at": "2026-06-19T09:22:48Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "\u4e00\u4e2a\u5305\u542bskill\u7684\u96c6\u5408\uff1a\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
+    "id": "Ldxs001/workbuddy-skills",
+    "language": "Python",
+    "name": "Ldxs001/workbuddy-skills",
+    "stars": 2,
+    "updated_at": "2026-06-19T09:19:46Z",
+    "url": "https://github.com/Ldxs001/workbuddy-skills"
+  },
+  {
+    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 982,
+    "updated_at": "2026-06-19T09:19:07Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Independent Claude Skills for the whole smart home: Home Assistant, ESPHome, Node-RED, custom integrations, dashboards, ",
+    "id": "tonylofgren/aurora-smart-home",
+    "language": "Python",
+    "name": "tonylofgren/aurora-smart-home",
+    "stars": 89,
+    "updated_at": "2026-06-19T09:22:16Z",
+    "url": "https://github.com/tonylofgren/aurora-smart-home"
+  },
+  {
+    "description": "Automation harness that compiles a screen recording into a rerunnable script, with LLMs, only at decision points and sel",
+    "id": "prakhar1114/ai_mime",
+    "language": "Python",
+    "name": "prakhar1114/ai_mime",
+    "stars": 43,
+    "updated_at": "2026-06-19T09:17:32Z",
+    "url": "https://github.com/prakhar1114/ai_mime"
+  },
+  {
+    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
+    "id": "shauryalowkeygotaura/brand-launchpad",
+    "language": "HTML",
+    "name": "shauryalowkeygotaura/brand-launchpad",
+    "stars": 1,
+    "updated_at": "2026-06-19T09:15:16Z",
+    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T09:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
     "id": "heymegabyte/claude-skills",
     "language": "TypeScript",
@@ -16,24 +97,6 @@
     "stars": 7,
     "updated_at": "2026-06-19T09:07:54Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "\u4e00\u4e2a\u5305\u542bskill\u7684\u96c6\u5408\uff1a\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
-    "id": "Ldxs001/workbuddy-skills",
-    "language": "Python",
-    "name": "Ldxs001/workbuddy-skills",
-    "stars": 2,
-    "updated_at": "2026-06-19T09:06:11Z",
-    "url": "https://github.com/Ldxs001/workbuddy-skills"
-  },
-  {
-    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "JavaScript",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 982,
-    "updated_at": "2026-06-19T09:05:19Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T09:00:42Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T09:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -169,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T08:40:23Z",
     "url": "https://github.com/lklimek/claudius"
-  },
-  {
-    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
-    "id": "OpenLatch/saferskills",
-    "language": "Python",
-    "name": "OpenLatch/saferskills",
-    "stars": 1,
-    "updated_at": "2026-06-19T09:11:49Z",
-    "url": "https://github.com/OpenLatch/saferskills"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 2,
-    "updated_at": "2026-06-19T08:31:35Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -283,7 +319,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62762,
+    "stars": 62766,
     "updated_at": "2026-06-19T08:01:20Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -302,7 +338,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 265,
-    "updated_at": "2026-06-19T09:13:44Z",
+    "updated_at": "2026-06-19T09:30:14Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:24:13Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "A leitura de superf\u00edcie do Creative Oracle\u2122 \u2014 skill do Claude que localiza onde o seu neg\u00f3cio trava (sem prescrever).",
-    "id": "1marcelserrano/oracle-diagnostic-lite",
-    "language": "\u2014",
-    "name": "1marcelserrano/oracle-diagnostic-lite",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:24:08Z",
-    "url": "https://github.com/1marcelserrano/oracle-diagnostic-lite"
-  },
-  {
-    "description": "Skill do Claude para briefing de conte\u00fado na era-IA (GEO/AEO/LLMO): briefs que ranqueiam no Google e s\u00e3o citados por AI ",
-    "id": "1marcelserrano/geo-content-brief",
-    "language": "\u2014",
-    "name": "1marcelserrano/geo-content-brief",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:24:07Z",
-    "url": "https://github.com/1marcelserrano/geo-content-brief"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:22:42Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Skill do Claude que tira a cara de IA de textos em PT-BR \u2014 corta abertura vazia, abstra\u00e7\u00e3o e cad\u00eancia rob\u00f3tica, sem mata",
-    "id": "1marcelserrano/nem-parece-ia",
-    "language": "\u2014",
-    "name": "1marcelserrano/nem-parece-ia",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:21:25Z",
-    "url": "https://github.com/1marcelserrano/nem-parece-ia"
   }
 ]
