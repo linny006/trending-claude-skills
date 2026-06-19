@@ -1,12 +1,21 @@
 [
   {
-    "description": "Every approved Google AIP (aip.dev) bundled for AI coding agents \u2014 Claude Code, Codex, Cursor \u2014 refreshed daily by CI.",
-    "id": "ekkx/google-aip-skills",
-    "language": "Go",
-    "name": "ekkx/google-aip-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:29:59Z",
-    "url": "https://github.com/ekkx/google-aip-skills"
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-19T04:43:16Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
+    "language": "Python",
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 456,
+    "updated_at": "2026-06-19T04:40:50Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
   },
   {
     "description": "One diff, one thesis \u2014 a Claude Code skill that breaks a large change into a stack of small, single-thesis, refactor-fir",
@@ -14,8 +23,71 @@
     "language": "JavaScript",
     "name": "Ishtiaqhossain/claude_stack_changes",
     "stars": 0,
-    "updated_at": "2026-06-19T04:29:51Z",
+    "updated_at": "2026-06-19T04:40:26Z",
     "url": "https://github.com/Ishtiaqhossain/claude_stack_changes"
+  },
+  {
+    "description": "bro-skills - Spec-Driven Development CLI",
+    "id": "wedabro/bro-skills",
+    "language": "Python",
+    "name": "wedabro/bro-skills",
+    "stars": 1,
+    "updated_at": "2026-06-19T04:34:21Z",
+    "url": "https://github.com/wedabro/bro-skills"
+  },
+  {
+    "description": "Sentry instrumentation skill for system-behavior tracking",
+    "id": "tortastudios/sentry-instrumentation",
+    "language": "Shell",
+    "name": "tortastudios/sentry-instrumentation",
+    "stars": 14,
+    "updated_at": "2026-06-19T04:33:03Z",
+    "url": "https://github.com/tortastudios/sentry-instrumentation"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 364,
+    "updated_at": "2026-06-19T04:31:41Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 2726,
+    "updated_at": "2026-06-19T04:31:36Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "Official Helius AI tooling repository ",
+    "id": "helius-labs/core-ai",
+    "language": "TypeScript",
+    "name": "helius-labs/core-ai",
+    "stars": 20,
+    "updated_at": "2026-06-19T04:30:36Z",
+    "url": "https://github.com/helius-labs/core-ai"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T04:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Every approved Google AIP (aip.dev) bundled for AI coding agents \u2014 Claude Code, Codex, Cursor \u2014 refreshed daily by CI.",
+    "id": "ekkx/google-aip-skills",
+    "language": "Go",
+    "name": "ekkx/google-aip-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:29:59Z",
+    "url": "https://github.com/ekkx/google-aip-skills"
   },
   {
     "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
@@ -54,24 +126,6 @@
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
-    "description": "bro-skills - Spec-Driven Development CLI",
-    "id": "wedabro/bro-skills",
-    "language": "Python",
-    "name": "wedabro/bro-skills",
-    "stars": 1,
-    "updated_at": "2026-06-19T04:16:04Z",
-    "url": "https://github.com/wedabro/bro-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T04:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "60+ curated agent skills for Claude Cowork and Claude.ai \u2014 ready-to-use tools for non-technical users: project managemen",
     "id": "KirKruglov/claude-skills-kit",
     "language": "\u2014",
@@ -99,15 +153,6 @@
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-19T04:09:02Z",
-    "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
     "description": "",
     "id": "avidevelops/claude-architect-exam-prep",
     "language": "\u2014",
@@ -122,7 +167,7 @@
     "language": "JavaScript",
     "name": "matejformanek/postgres-claude",
     "stars": 0,
-    "updated_at": "2026-06-19T03:55:33Z",
+    "updated_at": "2026-06-19T04:42:49Z",
     "url": "https://github.com/matejformanek/postgres-claude"
   },
   {
@@ -157,7 +202,7 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 63613,
+    "stars": 63617,
     "updated_at": "2026-06-19T03:37:55Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
@@ -288,15 +333,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
-    "id": "worldwonderer/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "worldwonderer/oh-story-claudecode",
-    "stars": 2726,
-    "updated_at": "2026-06-19T04:23:41Z",
-    "url": "https://github.com/worldwonderer/oh-story-claudecode"
-  },
-  {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
     "id": "cody-hutson/pmo-platform",
     "language": "Shell",
@@ -311,7 +347,7 @@
     "language": "Kotlin",
     "name": "askimo-ai/askimo",
     "stars": 148,
-    "updated_at": "2026-06-19T03:36:31Z",
+    "updated_at": "2026-06-19T04:30:38Z",
     "url": "https://github.com/askimo-ai/askimo"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "xr843/Master-skill",
     "stars": 287,
-    "updated_at": "2026-06-19T02:10:58Z",
+    "updated_at": "2026-06-19T04:44:51Z",
     "url": "https://github.com/xr843/Master-skill"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T01:55:53Z",
     "url": "https://github.com/amjad1233/claude-skills"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:50:15Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:48:44Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:48:40Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:48:20Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   }
 ]
