@@ -1,21 +1,48 @@
 [
   {
-    "description": "Vast.ai python and cli api client",
-    "id": "vast-ai/vast-cli",
-    "language": "Python",
-    "name": "vast-ai/vast-cli",
-    "stars": 198,
-    "updated_at": "2026-06-19T00:29:13Z",
-    "url": "https://github.com/vast-ai/vast-cli"
-  },
-  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 265,
-    "updated_at": "2026-06-19T00:28:09Z",
+    "updated_at": "2026-06-19T00:39:34Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Mother of all skills \u2014 scans your project, then finds, scores, and ranks the best libraries, SDKs & tools for your stack",
+    "id": "Magithar/SKILLmama",
+    "language": "\u2014",
+    "name": "Magithar/SKILLmama",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:31:14Z",
+    "url": "https://github.com/Magithar/SKILLmama"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-19T00:30:30Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T00:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Vast.ai python and cli api client",
+    "id": "vast-ai/vast-cli",
+    "language": "Python",
+    "name": "vast-ai/vast-cli",
+    "stars": 198,
+    "updated_at": "2026-06-19T00:36:55Z",
+    "url": "https://github.com/vast-ai/vast-cli"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T00:27:21Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "AI-powered capability discovery engine for project architecture, technology selection, and skill recommendation.",
-    "id": "Magithar/SKILLmama",
-    "language": "\u2014",
-    "name": "Magithar/SKILLmama",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:27:04Z",
-    "url": "https://github.com/Magithar/SKILLmama"
   },
   {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T00:17:22Z",
     "url": "https://github.com/openfate-ai/bazi-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T00:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:15:35Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:12:07Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   }
 ]
