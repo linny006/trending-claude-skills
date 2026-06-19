@@ -1,5 +1,86 @@
 [
   {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-19T13:44:20Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 393,
+    "updated_at": "2026-06-19T13:43:36Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
+    "id": "jgsystemsconsulting/jgs-goal-spec",
+    "language": "Python",
+    "name": "jgsystemsconsulting/jgs-goal-spec",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:43:14Z",
+    "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 365,
+    "updated_at": "2026-06-19T13:43:06Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62813,
+    "updated_at": "2026-06-19T13:38:24Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:38:15Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:37:50Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:35:39Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T13:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
     "id": "glitchwerks/claude-wayfinder",
     "language": "Python",
@@ -36,24 +117,6 @@
     "url": "https://github.com/Ootto-AI/claude-content-skills"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62806,
-    "updated_at": "2026-06-19T13:25:16Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 393,
-    "updated_at": "2026-06-19T13:23:47Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "",
     "id": "LevNas/ccmemo",
     "language": "Python",
@@ -72,15 +135,6 @@
     "url": "https://github.com/Infrasity-Labs/dev-gtm-claude-skills"
   },
   {
-    "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
-    "id": "jgsystemsconsulting/jgs-goal-spec",
-    "language": "Python",
-    "name": "jgsystemsconsulting/jgs-goal-spec",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:18:58Z",
-    "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
-  },
-  {
     "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
     "id": "magnusrodseth/dotfiles",
     "language": "Shell",
@@ -90,15 +144,6 @@
     "url": "https://github.com/magnusrodseth/dotfiles"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T13:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI agent skill repo",
     "id": "srinivasa-vasu/agent-skills",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T13:14:41Z",
     "url": "https://github.com/srinivasa-vasu/agent-skills"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:10:47Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
@@ -131,7 +167,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-19T13:06:03Z",
+    "updated_at": "2026-06-19T13:42:40Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 20,
     "updated_at": "2026-06-19T13:01:03Z",
     "url": "https://github.com/helius-labs/core-ai"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-19T12:56:01Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Production-grade Claude/Cursor skills for backend, auth, database security, billing, and file uploads \u2014 stops AI coding ",
@@ -247,7 +274,7 @@
     "id": "deanpeters/Product-Manager-Skills",
     "language": "Shell",
     "name": "deanpeters/Product-Manager-Skills",
-    "stars": 5243,
+    "stars": 5244,
     "updated_at": "2026-06-19T12:32:13Z",
     "url": "https://github.com/deanpeters/Product-Manager-Skills"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T11:48:48Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Koleksi 20 Claude Skills siap pakai untuk pengembangan SaaS, web modern, dan praktik rekayasa perangkat lunak tingkat la",
-    "id": "roedyrustam/claudevibeskills",
-    "language": "\u2014",
-    "name": "roedyrustam/claudevibeskills",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:47:34Z",
-    "url": "https://github.com/roedyrustam/claudevibeskills"
-  },
-  {
-    "description": "WOZCODE plugin for Claude Code",
-    "id": "WithWoz/wozcode-plugin",
-    "language": "JavaScript",
-    "name": "WithWoz/wozcode-plugin",
-    "stars": 190,
-    "updated_at": "2026-06-19T11:44:08Z",
-    "url": "https://github.com/WithWoz/wozcode-plugin"
-  },
-  {
-    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
-    "id": "jherrodthomas/robotics-skills-suite",
-    "language": "\u2014",
-    "name": "jherrodthomas/robotics-skills-suite",
-    "stars": 268,
-    "updated_at": "2026-06-19T11:43:18Z",
-    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
   }
 ]
