@@ -1,12 +1,75 @@
 [
   {
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 88,
+    "updated_at": "2026-06-19T18:44:39Z",
+    "url": "https://github.com/testdouble/han"
+  },
+  {
     "description": "Turn any video into a narration recap with claude code skill\uff5c\u7528claude code skill\u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
     "id": "worldwonderer/video-recap-skills",
     "language": "Python",
     "name": "worldwonderer/video-recap-skills",
     "stars": 285,
-    "updated_at": "2026-06-19T18:29:04Z",
+    "updated_at": "2026-06-19T18:43:56Z",
     "url": "https://github.com/worldwonderer/video-recap-skills"
+  },
+  {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 1304,
+    "updated_at": "2026-06-19T18:42:29Z",
+    "url": "https://github.com/Kaelio/ktx"
+  },
+  {
+    "description": "Skill do Claude para escrever em portugu\u00eas brasileiro natural, sem cara de tradu\u00e7\u00e3o nem cara de IA.",
+    "id": "JoaoAreias/escrita-natural",
+    "language": "\u2014",
+    "name": "JoaoAreias/escrita-natural",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:41:43Z",
+    "url": "https://github.com/JoaoAreias/escrita-natural"
+  },
+  {
+    "description": "Your AI digital clone \u2014 learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a",
+    "id": "project-nomos/nomos",
+    "language": "TypeScript",
+    "name": "project-nomos/nomos",
+    "stars": 22,
+    "updated_at": "2026-06-19T18:36:22Z",
+    "url": "https://github.com/project-nomos/nomos"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 393,
+    "updated_at": "2026-06-19T18:35:23Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
+    "id": "raelli/octowiz",
+    "language": "Python",
+    "name": "raelli/octowiz",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:40:19Z",
+    "url": "https://github.com/raelli/octowiz"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T18:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -90,15 +153,6 @@
     "url": "https://github.com/CondoriPaulo/Learning-Skills---Claude"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 393,
-    "updated_at": "2026-06-19T18:17:48Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "Shape rough requests into evidence-backed /goal completion contracts \u2014 an Agent Skill for Claude Code and Codex",
     "id": "gotalab/goal-setter-skill",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T18:16:50Z",
     "url": "https://github.com/gotalab/goal-setter-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T18:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -167,7 +212,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-19T18:07:08Z",
+    "updated_at": "2026-06-19T18:41:51Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T18:06:29Z",
     "url": "https://github.com/bayeslearner/bayeslearner-skills"
-  },
-  {
-    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
-    "id": "raelli/octowiz",
-    "language": "Python",
-    "name": "raelli/octowiz",
-    "stars": 2,
-    "updated_at": "2026-06-19T18:09:48Z",
-    "url": "https://github.com/raelli/octowiz"
   },
   {
     "description": "Custom Claude Code skills & tooling. notebooklm-sync: keep NotebookLM (Gemini) sources in sync with a Google Drive folde",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T17:13:01Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Extract design tokens (colors, typography, spacing, border radius, shadows) from any public website. Generates JSON and ",
-    "id": "arvindrk/extract-design-system",
-    "language": "TypeScript",
-    "name": "arvindrk/extract-design-system",
-    "stars": 70,
-    "updated_at": "2026-06-19T17:12:32Z",
-    "url": "https://github.com/arvindrk/extract-design-system"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:12:11Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:10:31Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 50,
-    "updated_at": "2026-06-19T17:09:49Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
