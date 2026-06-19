@@ -1,10 +1,82 @@
 [
   {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-19T10:30:01Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-19T10:29:28Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Claude Code CLI statusline decorator for cat lovers \u0e05^\u2022\ufecc\u2022^\u0e05",
+    "id": "meow-at-me/claude-kitty-statusline",
+    "language": "PowerShell",
+    "name": "meow-at-me/claude-kitty-statusline",
+    "stars": 0,
+    "updated_at": "2026-06-19T10:21:55Z",
+    "url": "https://github.com/meow-at-me/claude-kitty-statusline"
+  },
+  {
+    "description": "A beginner-friendly guide to actually using Claude Chat, Claude Code, skills, subagents, and real project workflows.",
+    "id": "RainyRoot/claude-guide",
+    "language": "\u2014",
+    "name": "RainyRoot/claude-guide",
+    "stars": 1,
+    "updated_at": "2026-06-19T10:20:53Z",
+    "url": "https://github.com/RainyRoot/claude-guide"
+  },
+  {
+    "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
+    "id": "bitjaru/styleseed",
+    "language": "TypeScript",
+    "name": "bitjaru/styleseed",
+    "stars": 550,
+    "updated_at": "2026-06-19T10:20:33Z",
+    "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
+    "id": "txw842lkj-cmd/silicon-circle-skill",
+    "language": "\u2014",
+    "name": "txw842lkj-cmd/silicon-circle-skill",
+    "stars": 1,
+    "updated_at": "2026-06-19T10:20:23Z",
+    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-19T10:19:43Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T10:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Alexey Vorobey's experimental expert circle for Claude Code \u2014 16 distilled mental models (Eric Seufert, Andrew Chen, Ele",
     "id": "mooreslaws/expert-mind-skill",
     "language": "Python",
     "name": "mooreslaws/expert-mind-skill",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-19T10:11:51Z",
     "url": "https://github.com/mooreslaws/expert-mind-skill"
   },
@@ -16,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T10:10:39Z",
     "url": "https://github.com/toolbox-playground/super-claudio"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-19T10:08:33Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Claude Code skills marketplace: domain-search + ssr-market-research (also usable as plain skill folders in Codex/Cursor)",
@@ -45,13 +108,13 @@
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
-    "description": "A beginner-friendly guide to actually using Claude Chat, Claude Code, skills, subagents, and real project workflows.",
-    "id": "RainyRoot/claude-guide",
+    "description": "Official agent skills for Lumbox \u2014 email infrastructure for AI agents (inboxes, OTP extraction, send/reply via REST + MC",
+    "id": "kumard3/lumbox-skills",
     "language": "\u2014",
-    "name": "RainyRoot/claude-guide",
-    "stars": 1,
-    "updated_at": "2026-06-19T10:04:01Z",
-    "url": "https://github.com/RainyRoot/claude-guide"
+    "name": "kumard3/lumbox-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T10:03:53Z",
+    "url": "https://github.com/kumard3/lumbox-skills"
   },
   {
     "description": "",
@@ -61,15 +124,6 @@
     "stars": 27,
     "updated_at": "2026-06-19T10:00:43Z",
     "url": "https://github.com/longbridge/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T10:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
@@ -106,15 +160,6 @@
     "stars": 12,
     "updated_at": "2026-06-19T09:50:38Z",
     "url": "https://github.com/heymegabyte/claude-skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-19T09:50:08Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
@@ -279,24 +324,6 @@
     "url": "https://github.com/Hectelion-SA/claude-design-video-render"
   },
   {
-    "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
-    "id": "bitjaru/styleseed",
-    "language": "TypeScript",
-    "name": "bitjaru/styleseed",
-    "stars": 550,
-    "updated_at": "2026-06-19T08:54:48Z",
-    "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:53:08Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Cursor .mdc rules and skills for AI-assisted coding \u2014 stay minimal, cut to the root cause, and push back when it matters",
     "id": "jlbgit/JansCursorRules",
     "language": "PowerShell",
@@ -409,7 +436,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62779,
+    "stars": 62780,
     "updated_at": "2026-06-19T08:01:20Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -421,32 +448,5 @@
     "stars": 166,
     "updated_at": "2026-06-19T08:34:06Z",
     "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "Reconstruct a full flight itinerary from unordered segments \u2014 Go/Echo REST API with Swagger, fuzzing, Newman E2E, cosign",
-    "id": "AndriyKalashnykov/flight-path",
-    "language": "Python",
-    "name": "AndriyKalashnykov/flight-path",
-    "stars": 2,
-    "updated_at": "2026-06-19T07:54:27Z",
-    "url": "https://github.com/AndriyKalashnykov/flight-path"
-  },
-  {
-    "description": "",
-    "id": "LevNas/ccmemo",
-    "language": "Python",
-    "name": "LevNas/ccmemo",
-    "stars": 3,
-    "updated_at": "2026-06-19T07:48:33Z",
-    "url": "https://github.com/LevNas/ccmemo"
-  },
-  {
-    "description": "Agent systems for PM work \u2014 Claim Ledger strategy generation + LLM-as-a-Judge evaluation. AI conclusions without traceab",
-    "id": "vitalystreluk/pm-agents",
-    "language": "JavaScript",
-    "name": "vitalystreluk/pm-agents",
-    "stars": 1,
-    "updated_at": "2026-06-19T07:45:31Z",
-    "url": "https://github.com/vitalystreluk/pm-agents"
   }
 ]
