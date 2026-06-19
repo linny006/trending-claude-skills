@@ -1,11 +1,119 @@
 [
   {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-19T06:59:18Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "One diff, one thesis \u2014 a Claude Code skill that breaks a large change into a stack of small, single-thesis, refactor-fir",
+    "id": "Ishtiaqhossain/claude_stack_changes",
+    "language": "JavaScript",
+    "name": "Ishtiaqhossain/claude_stack_changes",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:57:46Z",
+    "url": "https://github.com/Ishtiaqhossain/claude_stack_changes"
+  },
+  {
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 1889,
+    "updated_at": "2026-06-19T06:56:35Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "TeamCity from your terminal \u2013 or your AI's. Builds, logs, agents, agent terminals, queues.",
+    "id": "JetBrains/teamcity-cli",
+    "language": "Go",
+    "name": "JetBrains/teamcity-cli",
+    "stars": 103,
+    "updated_at": "2026-06-19T06:59:10Z",
+    "url": "https://github.com/JetBrains/teamcity-cli"
+  },
+  {
+    "description": "Basano, an open critic for the Claude Skills catalog, by RampStack.",
+    "id": "rampstackco/basano",
+    "language": "TypeScript",
+    "name": "rampstackco/basano",
+    "stars": 1,
+    "updated_at": "2026-06-19T06:56:30Z",
+    "url": "https://github.com/rampstackco/basano"
+  },
+  {
+    "description": "Tholo, an open orchestrator for the Claude Skills catalog, by RampStack.",
+    "id": "rampstackco/tholo",
+    "language": "TypeScript",
+    "name": "rampstackco/tholo",
+    "stars": 1,
+    "updated_at": "2026-06-19T06:55:00Z",
+    "url": "https://github.com/rampstackco/tholo"
+  },
+  {
+    "description": "Skill do Claude que tira a cara de IA de textos em PT-BR \u2014 corta abertura vazia, abstra\u00e7\u00e3o e cad\u00eancia rob\u00f3tica, sem mata",
+    "id": "1marcelserrano/nem-parece-ia",
+    "language": "\u2014",
+    "name": "1marcelserrano/nem-parece-ia",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:54:49Z",
+    "url": "https://github.com/1marcelserrano/nem-parece-ia"
+  },
+  {
+    "description": "",
+    "id": "LevNas/ccmemo",
+    "language": "Python",
+    "name": "LevNas/ccmemo",
+    "stars": 3,
+    "updated_at": "2026-06-19T06:53:00Z",
+    "url": "https://github.com/LevNas/ccmemo"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:51:39Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-19T06:51:16Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 12,
+    "updated_at": "2026-06-19T06:51:09Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T06:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
     "id": "apresmoi/jianglens",
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-19T06:42:39Z",
+    "updated_at": "2026-06-19T07:00:00Z",
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
@@ -31,7 +139,7 @@
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 962,
+    "stars": 963,
     "updated_at": "2026-06-19T06:41:08Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
@@ -54,24 +162,6 @@
     "url": "https://github.com/vanducng/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T06:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
-    "id": "heymegabyte/claude-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/claude-skills",
-    "stars": 12,
-    "updated_at": "2026-06-19T06:29:32Z",
-    "url": "https://github.com/heymegabyte/claude-skills"
-  },
-  {
     "description": "Canonical self-hosted repository for Claude Skills CLI packages with automated sync and validation",
     "id": "newbe36524/myskills",
     "language": "Python",
@@ -88,15 +178,6 @@
     "stars": 8,
     "updated_at": "2026-06-19T06:24:24Z",
     "url": "https://github.com/whenpoem/aiscientist"
-  },
-  {
-    "description": "One diff, one thesis \u2014 a Claude Code skill that breaks a large change into a stack of small, single-thesis, refactor-fir",
-    "id": "Ishtiaqhossain/claude_stack_changes",
-    "language": "JavaScript",
-    "name": "Ishtiaqhossain/claude_stack_changes",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:22:41Z",
-    "url": "https://github.com/Ishtiaqhossain/claude_stack_changes"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -133,15 +214,6 @@
     "stars": 63,
     "updated_at": "2026-06-19T06:18:41Z",
     "url": "https://github.com/Dianel555/DSkills"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-19T06:21:23Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -238,7 +310,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62733,
+    "stars": 62735,
     "updated_at": "2026-06-19T06:07:36Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T05:30:03Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "A Claude Code Skill that helps you build web interfaces friendly to both AI agents and human users \u2014 covering semantic H",
-    "id": "ianho7/ai-friendly-web-design-skill",
-    "language": "JavaScript",
-    "name": "ianho7/ai-friendly-web-design-skill",
-    "stars": 60,
-    "updated_at": "2026-06-19T05:43:10Z",
-    "url": "https://github.com/ianho7/ai-friendly-web-design-skill"
-  },
-  {
-    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "id": "dongshuyan/compass-skills",
-    "language": "Python",
-    "name": "dongshuyan/compass-skills",
-    "stars": 307,
-    "updated_at": "2026-06-19T05:27:14Z",
-    "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "bro-skills - Spec-Driven Development CLI",
-    "id": "wedabro/bro-skills",
-    "language": "Python",
-    "name": "wedabro/bro-skills",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:27:11Z",
-    "url": "https://github.com/wedabro/bro-skills"
-  },
-  {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 65,
-    "updated_at": "2026-06-19T05:24:30Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "Claude Code plugin + MCP server for ComfyUI \u2014 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing fr",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 166,
-    "updated_at": "2026-06-19T06:27:12Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "Multi-skill umbrella for Claude Code: analytic-workbench, spec-driven-dev, splunk-platform, wise-scraper, design2spec, a",
-    "id": "bayeslearner/bayeslearner-skills",
-    "language": "Python",
-    "name": "bayeslearner/bayeslearner-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:13:23Z",
-    "url": "https://github.com/bayeslearner/bayeslearner-skills"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:12:06Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:07:41Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
   }
 ]
