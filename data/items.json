@@ -1,5 +1,68 @@
 [
   {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:05:30Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 266,
+    "updated_at": "2026-06-19T22:04:29Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-19T22:03:53Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 50,
+    "updated_at": "2026-06-19T22:03:20Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
+    "id": "Mary2241/seo-skills-agent-toolbox",
+    "language": "HTML",
+    "name": "Mary2241/seo-skills-agent-toolbox",
+    "stars": 1,
+    "updated_at": "2026-06-19T22:02:34Z",
+    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:02:21Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T22:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell \u2014 the AI short PJ Ace called \"one of the b",
     "id": "jnMetaCode/ai-shortfilm-prompts",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:48:08Z",
     "url": "https://github.com/aouellets/job-search-kit"
-  },
-  {
-    "description": "Next.js to Postgres \u2014 build and ship a modern web app end to end.",
-    "id": "aouellets/full-stack-web-dev",
-    "language": "\u2014",
-    "name": "aouellets/full-stack-web-dev",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:48:00Z",
-    "url": "https://github.com/aouellets/full-stack-web-dev"
-  },
-  {
-    "description": "Roadmaps, specs, sprints, and analytics \u2014 the PM\u2019s full operating kit.",
-    "id": "aouellets/product-manager-stack",
-    "language": "\u2014",
-    "name": "aouellets/product-manager-stack",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:47:53Z",
-    "url": "https://github.com/aouellets/product-manager-stack"
-  },
-  {
-    "description": "Ship LLM features that work \u2014 prompts, evals, agents, and MCP servers.",
-    "id": "aouellets/ai-engineer-toolkit",
-    "language": "\u2014",
-    "name": "aouellets/ai-engineer-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:47:46Z",
-    "url": "https://github.com/aouellets/ai-engineer-toolkit"
-  },
-  {
-    "description": "Build the habits, focus, and systems that compound \u2014 your life, run like a product.",
-    "id": "aouellets/personal-operating-system",
-    "language": "\u2014",
-    "name": "aouellets/personal-operating-system",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:47:38Z",
-    "url": "https://github.com/aouellets/personal-operating-system"
-  },
-  {
-    "description": "Literature reviews, systematic reviews, citations, and policy briefs.",
-    "id": "aouellets/academic-researcher",
-    "language": "\u2014",
-    "name": "aouellets/academic-researcher",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:47:31Z",
-    "url": "https://github.com/aouellets/academic-researcher"
-  },
-  {
-    "description": "Infrastructure as code, CI/CD, containers, and observability.",
-    "id": "aouellets/devops-platform-engineer",
-    "language": "\u2014",
-    "name": "aouellets/devops-platform-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:47:24Z",
-    "url": "https://github.com/aouellets/devops-platform-engineer"
-  },
-  {
-    "description": "Run a tight remote team without drowning in meetings.",
-    "id": "aouellets/remote-team-toolkit",
-    "language": "\u2014",
-    "name": "aouellets/remote-team-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:47:16Z",
-    "url": "https://github.com/aouellets/remote-team-toolkit"
   }
 ]
