@@ -1,12 +1,111 @@
 [
   {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 78,
+    "updated_at": "2026-06-19T01:14:44Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "HTML",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:13:56Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:13:24Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 15,
+    "updated_at": "2026-06-19T01:12:48Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "Claude skills for turning messy business context into clear asks, decisions, owners, updates, and follow-ups.",
+    "id": "tmusser/context-to-action-skills",
+    "language": "Python",
+    "name": "tmusser/context-to-action-skills",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:12:30Z",
+    "url": "https://github.com/tmusser/context-to-action-skills"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-19T01:10:39Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Basano, an open critic for the Claude Skills catalog, by RampStack.",
+    "id": "rampstackco/basano",
+    "language": "TypeScript",
+    "name": "rampstackco/basano",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:08:34Z",
+    "url": "https://github.com/rampstackco/basano"
+  },
+  {
+    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
+    "id": "glitchwerks/claude-wayfinder",
+    "language": "Python",
+    "name": "glitchwerks/claude-wayfinder",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:05:49Z",
+    "url": "https://github.com/glitchwerks/claude-wayfinder"
+  },
+  {
+    "description": "Mother of all skills \u2014 scans your project, then finds, scores, and ranks the best libraries, SDKs & tools for your stack",
+    "id": "Magithar/SKILLmama",
+    "language": "\u2014",
+    "name": "Magithar/SKILLmama",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:05:38Z",
+    "url": "https://github.com/Magithar/SKILLmama"
+  },
+  {
     "description": "MCP server that suggests repository-specific AI agent skills.",
     "id": "sator-imaging/suggest-skills",
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-06-19T00:58:57Z",
+    "updated_at": "2026-06-19T01:01:50Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "Free Codex and Claude skills for music creators: release metadata linter, Suede Rights Passport, provenance packaging, r",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "Python",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 2,
+    "updated_at": "2026-06-19T01:01:30Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T01:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
@@ -18,24 +117,6 @@
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "Claude skills for turning messy business context into clear asks, decisions, owners, updates, and follow-ups.",
-    "id": "tmusser/context-to-action-skills",
-    "language": "Python",
-    "name": "tmusser/context-to-action-skills",
-    "stars": 1,
-    "updated_at": "2026-06-19T00:58:14Z",
-    "url": "https://github.com/tmusser/context-to-action-skills"
-  },
-  {
-    "description": "Mother of all skills \u2014 scans your project, then finds, scores, and ranks the best libraries, SDKs & tools for your stack",
-    "id": "Magithar/SKILLmama",
-    "language": "\u2014",
-    "name": "Magithar/SKILLmama",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:56:50Z",
-    "url": "https://github.com/Magithar/SKILLmama"
-  },
-  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
@@ -43,15 +124,6 @@
     "stars": 265,
     "updated_at": "2026-06-19T00:49:35Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T00:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "vast-ai/vast-cli",
     "stars": 198,
-    "updated_at": "2026-06-19T00:36:55Z",
+    "updated_at": "2026-06-19T01:13:06Z",
     "url": "https://github.com/vast-ai/vast-cli"
   },
   {
@@ -252,15 +324,6 @@
     "url": "https://github.com/wei18/Upkeep"
   },
   {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-19T00:05:01Z",
-    "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
     "description": "AI agent testing toolkit for Playwright and Cypress: generate E2E tests from scratch, review existing specs against 24 a",
     "id": "voidmatcha/e2e-skills",
     "language": "Shell",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:44:47Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 1,
-    "updated_at": "2026-06-18T23:41:09Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Official FastBound Agent Skills for AI coding assistants \u2014 integrate with FastBound's products and APIs.",
-    "id": "FastBound/skills",
-    "language": "\u2014",
-    "name": "FastBound/skills",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:38:31Z",
-    "url": "https://github.com/FastBound/skills"
-  },
-  {
-    "description": "A template system for Claude-assisted client engagement folders. Drop a new client into a folder and every Claude surfac",
-    "id": "16wells/claude-project-setup",
-    "language": "Shell",
-    "name": "16wells/claude-project-setup",
-    "stars": 1,
-    "updated_at": "2026-06-18T23:31:33Z",
-    "url": "https://github.com/16wells/claude-project-setup"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:24:48Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Skill do Claude para escrever em portugu\u00eas brasileiro natural, sem cara de tradu\u00e7\u00e3o nem cara de IA.",
-    "id": "JoaoAreias/escrita-natural",
-    "language": "\u2014",
-    "name": "JoaoAreias/escrita-natural",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:24:35Z",
-    "url": "https://github.com/JoaoAreias/escrita-natural"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:23:17Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:21:34Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
