@@ -1,5 +1,59 @@
 [
   {
+    "description": "A library of reusable Claude Code skills (SKILL.md). Includes setup/troubleshooting guides with human-facing HTML versio",
+    "id": "GergelyKrista/my-skills",
+    "language": "HTML",
+    "name": "GergelyKrista/my-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:28:22Z",
+    "url": "https://github.com/GergelyKrista/my-skills"
+  },
+  {
+    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
+    "id": "alexgreensh/repo-forensics",
+    "language": "Python",
+    "name": "alexgreensh/repo-forensics",
+    "stars": 109,
+    "updated_at": "2026-06-19T22:26:55Z",
+    "url": "https://github.com/alexgreensh/repo-forensics"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-19T22:26:44Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Official Helius AI tooling repository ",
+    "id": "helius-labs/core-ai",
+    "language": "TypeScript",
+    "name": "helius-labs/core-ai",
+    "stars": 20,
+    "updated_at": "2026-06-19T22:18:26Z",
+    "url": "https://github.com/helius-labs/core-ai"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-19T22:15:18Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T22:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Fill standard legal agreement templates and produce signable DOCX files.",
     "id": "open-agreements/open-agreements",
     "language": "TypeScript",
@@ -108,15 +162,6 @@
     "url": "https://github.com/Artemisa1980/claude-portfolio"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T22:06:05Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
     "id": "alexzvency-ship-it/claude-browser-automator",
     "language": "HTML",
@@ -131,7 +176,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 266,
-    "updated_at": "2026-06-19T22:04:29Z",
+    "updated_at": "2026-06-19T22:24:48Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/aetox-skills/aetox-skills"
   },
   {
-    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
-    "id": "alexgreensh/repo-forensics",
-    "language": "Python",
-    "name": "alexgreensh/repo-forensics",
-    "stars": 109,
-    "updated_at": "2026-06-19T21:56:37Z",
-    "url": "https://github.com/alexgreensh/repo-forensics"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:53:40Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-19T21:52:03Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Hire, onboard, and run a team fairly \u2014 without a full HR department.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:49:47Z",
     "url": "https://github.com/aouellets/creator-studio"
-  },
-  {
-    "description": "Plan, run, and synthesize user research that actually moves product decisions.",
-    "id": "aouellets/ux-research-discovery",
-    "language": "\u2014",
-    "name": "aouellets/ux-research-discovery",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:49:40Z",
-    "url": "https://github.com/aouellets/ux-research-discovery"
-  },
-  {
-    "description": "Threat models, secure reviews, and compliance evidence \u2014 ship with confidence.",
-    "id": "aouellets/security-compliance-hardening",
-    "language": "\u2014",
-    "name": "aouellets/security-compliance-hardening",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:49:33Z",
-    "url": "https://github.com/aouellets/security-compliance-hardening"
-  },
-  {
-    "description": "Six skills to run a sharper B2B sales process from first call to closed deal.",
-    "id": "aouellets/outbound-sales-engine",
-    "language": "\u2014",
-    "name": "aouellets/outbound-sales-engine",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:49:26Z",
-    "url": "https://github.com/aouellets/outbound-sales-engine"
   }
 ]
