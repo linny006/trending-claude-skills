@@ -1,12 +1,66 @@
 [
   {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 12,
+    "updated_at": "2026-06-20T07:12:16Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
     "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
     "id": "jabrena/cursor-rules-java",
     "language": "Java",
     "name": "jabrena/cursor-rules-java",
     "stars": 407,
-    "updated_at": "2026-06-20T07:00:02Z",
+    "updated_at": "2026-06-20T07:08:57Z",
     "url": "https://github.com/jabrena/cursor-rules-java"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-20T07:06:57Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 83293,
+    "updated_at": "2026-06-20T07:05:21Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1371,
+    "updated_at": "2026-06-20T07:03:28Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 986,
+    "updated_at": "2026-06-20T07:01:12Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T07:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "SQL Server performance tuning skills for LLMs \u2014 721 checks across 21 skills covering T-SQL, execution plans, wait stats,",
@@ -43,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T06:54:18Z",
     "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
-    "id": "heymegabyte/claude-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/claude-skills",
-    "stars": 12,
-    "updated_at": "2026-06-20T06:53:08Z",
-    "url": "https://github.com/heymegabyte/claude-skills"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -106,24 +151,6 @@
     "stars": 377,
     "updated_at": "2026-06-20T06:46:16Z",
     "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T06:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-20T06:45:14Z",
-    "url": "https://github.com/apresmoi/jianglens"
   },
   {
     "description": "Semantic execution debugger for Solana. Reconstructs CPI trees, decodes failures (0x1771 \u2192 'slippage exceeded'), profile",
@@ -202,7 +229,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62974,
+    "stars": 62977,
     "updated_at": "2026-06-20T06:23:34Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -220,7 +247,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1911,
+    "stars": 1913,
     "updated_at": "2026-06-20T06:10:06Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -279,15 +306,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1370,
-    "updated_at": "2026-06-20T06:50:13Z",
-    "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
     "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama ",
     "id": "frontiersystempraise/Claude-Pro-For-Free",
     "language": "\u2014",
@@ -322,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T05:31:29Z",
     "url": "https://github.com/voidmatcha/e2e-skills"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 83290,
-    "updated_at": "2026-06-20T05:26:28Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:13:33Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:09:31Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   }
 ]
