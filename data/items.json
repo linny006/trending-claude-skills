@@ -1,5 +1,59 @@
 [
   {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 83,
+    "updated_at": "2026-06-20T03:57:55Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "Generate draw.io diagrams from natural language \u2014 6 presets, vision self-check + up to 5-round refinement, codebase-to-d",
+    "id": "Agents365-ai/drawio-skill",
+    "language": "Python",
+    "name": "Agents365-ai/drawio-skill",
+    "stars": 4188,
+    "updated_at": "2026-06-20T03:55:08Z",
+    "url": "https://github.com/Agents365-ai/drawio-skill"
+  },
+  {
+    "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
+    "id": "matejformanek/postgres-claude",
+    "language": "JavaScript",
+    "name": "matejformanek/postgres-claude",
+    "stars": 0,
+    "updated_at": "2026-06-20T03:54:41Z",
+    "url": "https://github.com/matejformanek/postgres-claude"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-20T03:47:10Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "",
+    "id": "JimLiu/baoyu-skills",
+    "language": "TypeScript",
+    "name": "JimLiu/baoyu-skills",
+    "stars": 22018,
+    "updated_at": "2026-06-20T03:45:31Z",
+    "url": "https://github.com/JimLiu/baoyu-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T03:45:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
     "id": "apresmoi/jianglens",
     "language": "Jupyter Notebook",
@@ -16,15 +70,6 @@
     "stars": 65,
     "updated_at": "2026-06-20T03:44:14Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "Generate draw.io diagrams from natural language \u2014 6 presets, vision self-check + up to 5-round refinement, codebase-to-d",
-    "id": "Agents365-ai/drawio-skill",
-    "language": "Python",
-    "name": "Agents365-ai/drawio-skill",
-    "stars": 4187,
-    "updated_at": "2026-06-20T03:42:11Z",
-    "url": "https://github.com/Agents365-ai/drawio-skill"
   },
   {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
@@ -58,18 +103,9 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62943,
+    "stars": 62945,
     "updated_at": "2026-06-20T03:32:59Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T03:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code plugin marketplace. Curated collection of publicly-shared agent skills.",
@@ -176,24 +212,15 @@
     "language": "HTML",
     "name": "glichtenthal/agent-skills",
     "stars": 0,
-    "updated_at": "2026-06-20T02:26:59Z",
+    "updated_at": "2026-06-20T03:53:54Z",
     "url": "https://github.com/glichtenthal/agent-skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-20T02:26:28Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
-    "stars": 267,
+    "stars": 268,
     "updated_at": "2026-06-20T02:17:07Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
@@ -214,15 +241,6 @@
     "stars": 16648,
     "updated_at": "2026-06-20T02:50:59Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
-    "id": "jianshuo/claude-skills",
-    "language": "Python",
-    "name": "jianshuo/claude-skills",
-    "stars": 83,
-    "updated_at": "2026-06-20T02:06:59Z",
-    "url": "https://github.com/jianshuo/claude-skills"
   },
   {
     "description": "\u7cbe\u9009\u7684 MCP\uff08Model Context Protocol\uff09\u670d\u52a1\u5668\u4e0e Claude Skills \u4e2d\u6587\u6e05\u5355 \u2014\u2014 \u6309\u573a\u666f\u5206\u7c7b\uff0c\u6bcf\u4e2a\u6761\u76ee\u9644\u4e2d\u6587\u8bf4\u660e\u3001\u5b89\u88c5\u547d\u4ee4\u4e0e\u5ba2\u6237\u7aef\u914d\u7f6e\uff0c\u53ef\u4e00\u952e\u63a5\u5165 Claude\u3001Cursor \u7b49\u3002",
@@ -311,7 +329,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-20T03:40:45Z",
+    "updated_at": "2026-06-20T03:58:13Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "project-nomos/nomos",
     "stars": 22,
-    "updated_at": "2026-06-20T03:39:03Z",
+    "updated_at": "2026-06-20T03:59:09Z",
     "url": "https://github.com/project-nomos/nomos"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 79,
     "updated_at": "2026-06-20T01:04:08Z",
     "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "PageTurner Skill / \u7ffb\u4e66\u4eba Skill\uff1aPDF \u548c\u957f\u6587\u6863\u7ffb\u8bd1\u3001\u7ed3\u6784\u5316\u89e3\u6790\u4e0e HTML \u5feb\u8bfb\u7248\u751f\u6210 Skill",
-    "id": "davidwang960707-gpu/pageturner",
-    "language": "HTML",
-    "name": "davidwang960707-gpu/pageturner",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:00:43Z",
-    "url": "https://github.com/davidwang960707-gpu/pageturner"
-  },
-  {
-    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
-    "id": "davepoon/buildwithclaude",
-    "language": "TypeScript",
-    "name": "davepoon/buildwithclaude",
-    "stars": 3087,
-    "updated_at": "2026-06-20T00:59:30Z",
-    "url": "https://github.com/davepoon/buildwithclaude"
   }
 ]
