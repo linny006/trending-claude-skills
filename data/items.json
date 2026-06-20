@@ -1,12 +1,93 @@
 [
   {
+    "description": "BIRDCC agent skills registry",
+    "id": "bird-chinese-community/BIRD.skills",
+    "language": "Python",
+    "name": "bird-chinese-community/BIRD.skills",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:44:52Z",
+    "url": "https://github.com/bird-chinese-community/BIRD.skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 268,
+    "updated_at": "2026-06-20T07:43:48Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "Python",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 2,
+    "updated_at": "2026-06-20T07:42:55Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62979,
+    "updated_at": "2026-06-20T07:39:53Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Package manager for Claude Code skills and agents and other AI related resources",
+    "id": "mensfeld/craftdesk",
+    "language": "TypeScript",
+    "name": "mensfeld/craftdesk",
+    "stars": 62,
+    "updated_at": "2026-06-20T07:38:27Z",
+    "url": "https://github.com/mensfeld/craftdesk"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 2759,
+    "updated_at": "2026-06-20T07:34:27Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "A framework for LLM research and audits. Multi-prompt, multi-session, context-disciplined.",
+    "id": "Ronkupper/PRISM",
+    "language": "Python",
+    "name": "Ronkupper/PRISM",
+    "stars": 4,
+    "updated_at": "2026-06-20T07:33:10Z",
+    "url": "https://github.com/Ronkupper/PRISM"
+  },
+  {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
     "id": "Tibsfox/gsd-skill-creator",
     "language": "TypeScript",
     "name": "Tibsfox/gsd-skill-creator",
     "stars": 65,
-    "updated_at": "2026-06-20T07:29:38Z",
+    "updated_at": "2026-06-20T07:33:06Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 12,
+    "updated_at": "2026-06-20T07:31:17Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T07:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agent used to research trends, discovery and track of AI topics",
@@ -16,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T07:17:40Z",
     "url": "https://github.com/Neetx/ai-research-radar"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T07:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
-    "id": "heymegabyte/claude-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/claude-skills",
-    "stars": 12,
-    "updated_at": "2026-06-20T07:12:16Z",
-    "url": "https://github.com/heymegabyte/claude-skills"
   },
   {
     "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
@@ -58,7 +121,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 83295,
+    "stars": 83297,
     "updated_at": "2026-06-20T07:05:21Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -207,15 +270,6 @@
     "url": "https://github.com/yegor256/bugscribe"
   },
   {
-    "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "Python",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 2,
-    "updated_at": "2026-06-20T06:34:53Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
     "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
     "id": "jianshuo/claude-skills",
     "language": "Python",
@@ -232,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T06:31:50Z",
     "url": "https://github.com/LabinatorSolutions/kroki-editorial-diagrams"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62978,
-    "updated_at": "2026-06-20T06:23:34Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:17:52Z",
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:17:48Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:16:46Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:15:19Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Installable library of AI coding agents, skills, commands, guides & tools \u2014 the copy-paste mirror of agentscamp.com",
-    "id": "imtiazrayhan/agentscamp-library",
-    "language": "\u2014",
-    "name": "imtiazrayhan/agentscamp-library",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:14:46Z",
-    "url": "https://github.com/imtiazrayhan/agentscamp-library"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:14:25Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   }
 ]
