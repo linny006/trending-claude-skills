@@ -1,5 +1,32 @@
 [
   {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62939,
+    "updated_at": "2026-06-20T03:26:07Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code plugin marketplace. Curated collection of publicly-shared agent skills.",
+    "id": "rohingosling/claude-skills",
+    "language": "Python",
+    "name": "rohingosling/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-20T03:19:16Z",
+    "url": "https://github.com/rohingosling/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T03:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "Shell",
@@ -23,17 +50,8 @@
     "language": "JavaScript",
     "name": "worldwonderer/oh-story-claudecode",
     "stars": 2750,
-    "updated_at": "2026-06-20T03:09:00Z",
+    "updated_at": "2026-06-20T03:29:30Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T03:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -220,7 +238,7 @@
     "id": "jnMetaCode/ai-shortfilm-prompts",
     "language": "Python",
     "name": "jnMetaCode/ai-shortfilm-prompts",
-    "stars": 182,
+    "stars": 183,
     "updated_at": "2026-06-20T01:52:47Z",
     "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
   },
@@ -266,7 +284,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-20T01:47:09Z",
+    "updated_at": "2026-06-20T03:28:02Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:37:07Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Claude Code plugin marketplace. Curated collection of publicly-shared agent skills.",
-    "id": "rohingosling/claude-skills",
-    "language": "Python",
-    "name": "rohingosling/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:36:00Z",
-    "url": "https://github.com/rohingosling/claude-skills"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T00:20:29Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-20T00:18:26Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   }
 ]
