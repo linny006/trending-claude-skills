@@ -1,5 +1,50 @@
 [
   {
+    "description": "Claude Code skill \u2014 delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage",
+    "id": "pcx-wave/vibe-skill",
+    "language": "Shell",
+    "name": "pcx-wave/vibe-skill",
+    "stars": 99,
+    "updated_at": "2026-06-20T06:27:43Z",
+    "url": "https://github.com/pcx-wave/vibe-skill"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62970,
+    "updated_at": "2026-06-20T06:23:34Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
+    "id": "jabrena/cursor-rules-java",
+    "language": "Java",
+    "name": "jabrena/cursor-rules-java",
+    "stars": 407,
+    "updated_at": "2026-06-20T06:20:37Z",
+    "url": "https://github.com/jabrena/cursor-rules-java"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:18:17Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T06:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
     "id": "heymegabyte/claude-skills",
     "language": "TypeScript",
@@ -13,7 +58,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1909,
+    "stars": 1910,
     "updated_at": "2026-06-20T06:10:06Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -22,18 +67,9 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 370,
+    "stars": 373,
     "updated_at": "2026-06-20T06:07:23Z",
     "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62966,
-    "updated_at": "2026-06-20T06:07:00Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -72,15 +108,6 @@
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T06:03:35Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Production ready. AI Agent Workflow System for Claude Code",
     "id": "ngocsangyem/MeowKit",
     "language": "TypeScript",
@@ -113,7 +140,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1370,
-    "updated_at": "2026-06-20T05:56:25Z",
+    "updated_at": "2026-06-20T06:17:12Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -175,7 +202,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 83284,
+    "stars": 83285,
     "updated_at": "2026-06-20T05:26:28Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -220,7 +247,7 @@
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 18571,
+    "stars": 18572,
     "updated_at": "2026-06-20T05:17:58Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T04:45:59Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Your AI digital clone \u2014 learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a",
-    "id": "project-nomos/nomos",
-    "language": "TypeScript",
-    "name": "project-nomos/nomos",
-    "stars": 22,
-    "updated_at": "2026-06-20T04:45:46Z",
-    "url": "https://github.com/project-nomos/nomos"
-  },
-  {
-    "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "Python",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 2,
-    "updated_at": "2026-06-20T04:31:43Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Production-grade Claude/Cursor skills for backend, auth, database security, billing, and file uploads \u2014 stops AI coding ",
-    "id": "alyanhaider/system-architecture",
-    "language": "JavaScript",
-    "name": "alyanhaider/system-architecture",
-    "stars": 2,
-    "updated_at": "2026-06-20T04:30:38Z",
-    "url": "https://github.com/alyanhaider/system-architecture"
   }
 ]
