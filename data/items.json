@@ -1,12 +1,84 @@
 [
   {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:29:59Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "A Factory of Agents - for Enterprises",
+    "id": "stempeck/agentfactory",
+    "language": "Go",
+    "name": "stempeck/agentfactory",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:28:41Z",
+    "url": "https://github.com/stempeck/agentfactory"
+  },
+  {
+    "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "Python",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:25:18Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
+    "id": "glitchwerks/claude-wayfinder",
+    "language": "Python",
+    "name": "glitchwerks/claude-wayfinder",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:24:13Z",
+    "url": "https://github.com/glitchwerks/claude-wayfinder"
+  },
+  {
+    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
+    "id": "raelli/octowiz",
+    "language": "Python",
+    "name": "raelli/octowiz",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:21:47Z",
+    "url": "https://github.com/raelli/octowiz"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-20T01:19:51Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 365,
-    "updated_at": "2026-06-20T01:15:12Z",
+    "updated_at": "2026-06-20T01:15:27Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 12,
+    "updated_at": "2026-06-20T01:15:25Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T01:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
@@ -14,7 +86,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-20T01:14:05Z",
+    "updated_at": "2026-06-20T01:29:27Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 83,
     "updated_at": "2026-06-20T01:13:13Z",
     "url": "https://github.com/jianshuo/claude-skills"
-  },
-  {
-    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
-    "id": "heymegabyte/claude-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/claude-skills",
-    "stars": 12,
-    "updated_at": "2026-06-20T01:11:32Z",
-    "url": "https://github.com/heymegabyte/claude-skills"
   },
   {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
@@ -81,15 +144,6 @@
     "url": "https://github.com/davidwang960707-gpu/pageturner"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T01:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
     "id": "davepoon/buildwithclaude",
     "language": "TypeScript",
@@ -97,15 +151,6 @@
     "stars": 3087,
     "updated_at": "2026-06-20T00:59:30Z",
     "url": "https://github.com/davepoon/buildwithclaude"
-  },
-  {
-    "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "Python",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 2,
-    "updated_at": "2026-06-20T00:54:08Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -124,24 +169,6 @@
     "stars": 166,
     "updated_at": "2026-06-20T00:46:31Z",
     "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
-    "id": "raelli/octowiz",
-    "language": "Python",
-    "name": "raelli/octowiz",
-    "stars": 2,
-    "updated_at": "2026-06-20T01:11:35Z",
-    "url": "https://github.com/raelli/octowiz"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-20T00:38:52Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T23:47:51Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:47:11Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:43:46Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:42:01Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   }
 ]
