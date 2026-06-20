@@ -1,12 +1,12 @@
 [
   {
-    "description": "Redefining development through cognitive automation and collaborative agent systems.",
-    "id": "fusengine/agents",
-    "language": "TypeScript",
-    "name": "fusengine/agents",
-    "stars": 15,
-    "updated_at": "2026-06-20T16:27:09Z",
-    "url": "https://github.com/fusengine/agents"
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 268,
+    "updated_at": "2026-06-20T16:43:56Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
@@ -14,8 +14,71 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-20T16:26:12Z",
+    "updated_at": "2026-06-20T16:43:26Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-20T16:41:20Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "Hivemind turns your traces into reusable skills across agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 1334,
+    "updated_at": "2026-06-20T16:38:52Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 91,
+    "updated_at": "2026-06-20T16:44:04Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
+    "id": "OpenLatch/saferskills",
+    "language": "Python",
+    "name": "OpenLatch/saferskills",
+    "stars": 2,
+    "updated_at": "2026-06-20T16:34:12Z",
+    "url": "https://github.com/OpenLatch/saferskills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16662,
+    "updated_at": "2026-06-20T16:33:17Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T16:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Redefining development through cognitive automation and collaborative agent systems.",
+    "id": "fusengine/agents",
+    "language": "TypeScript",
+    "name": "fusengine/agents",
+    "stars": 15,
+    "updated_at": "2026-06-20T16:27:09Z",
+    "url": "https://github.com/fusengine/agents"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T16:25:19Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16660,
-    "updated_at": "2026-06-20T16:24:32Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -90,15 +144,6 @@
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 268,
-    "updated_at": "2026-06-20T16:22:06Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
     "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
     "language": "HTML",
@@ -121,7 +166,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 63032,
+    "stars": 63033,
     "updated_at": "2026-06-20T16:20:21Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -180,24 +225,6 @@
     "url": "https://github.com/heymegabyte/claude-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T16:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
-    "id": "OpenLatch/saferskills",
-    "language": "Python",
-    "name": "OpenLatch/saferskills",
-    "stars": 2,
-    "updated_at": "2026-06-20T16:15:32Z",
-    "url": "https://github.com/OpenLatch/saferskills"
-  },
-  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -216,15 +243,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 91,
-    "updated_at": "2026-06-20T16:27:11Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
     "id": "the-nam-shub/e5-real-skills",
     "language": "TypeScript",
@@ -232,15 +250,6 @@
     "stars": 7,
     "updated_at": "2026-06-20T16:00:32Z",
     "url": "https://github.com/the-nam-shub/e5-real-skills"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-20T15:59:46Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "\ud83d\udea2 Run Claude Code's \u2699\ufe0f Dynamic Workflows, \ud83d\udc65 Agent Teams & \u26a1 Subagents on any third-party model \u2014 DeepSeek \u00b7 GLM \u00b7 Kimi \u00b7",
@@ -257,7 +266,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1374,
-    "updated_at": "2026-06-20T15:49:59Z",
+    "updated_at": "2026-06-20T16:33:19Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T15:21:43Z",
     "url": "https://github.com/aks-builds/quality-skills"
-  },
-  {
-    "description": "91 production-grade healthcare engineering skills for AI agents \u2014 FHIR, HL7v2, HIPAA, clinical AI, EHR integration, tele",
-    "id": "aks-builds/healthcareskills",
-    "language": "JavaScript",
-    "name": "aks-builds/healthcareskills",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:21:29Z",
-    "url": "https://github.com/aks-builds/healthcareskills"
   }
 ]
