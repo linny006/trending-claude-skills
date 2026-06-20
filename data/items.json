@@ -1,12 +1,39 @@
 [
   {
-    "description": "Shape rough requests into evidence-backed /goal completion contracts \u2014 an Agent Skill for Claude Code and Codex",
-    "id": "gotalab/goal-setter-skill",
+    "description": "A curated Claude Code plugin with skills for anything Claude can do.",
+    "id": "toolbox-playground/super-claudio",
+    "language": "\u2014",
+    "name": "toolbox-playground/super-claudio",
+    "stars": 2,
+    "updated_at": "2026-06-20T10:14:28Z",
+    "url": "https://github.com/toolbox-playground/super-claudio"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-06-20T10:13:42Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f \u6700\u5b9e\u7528\u7684 Claude Code Skills \u5408\u96c6 | \u7cbe\u9009 100+ | 18\u4e2a\u539f\u521b\u53ef\u5b89\u88c5\u6280\u80fd | \u6309\u573a\u666f\u5206\u7c7b | \u590d\u5236\u5373\u88c5",
+    "id": "laolaoshiren/claude-code-skills-zh",
     "language": "Python",
-    "name": "gotalab/goal-setter-skill",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:59:59Z",
-    "url": "https://github.com/gotalab/goal-setter-skill"
+    "name": "laolaoshiren/claude-code-skills-zh",
+    "stars": 392,
+    "updated_at": "2026-06-20T10:13:02Z",
+    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 91,
+    "updated_at": "2026-06-20T10:13:24Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -14,8 +41,71 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 268,
-    "updated_at": "2026-06-20T10:00:07Z",
+    "updated_at": "2026-06-20T10:12:54Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 12,
+    "updated_at": "2026-06-20T10:11:48Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "A tiny raccoon skill that rescues todos, ideas, plans and drafts from your AI chats into local markdown.",
+    "id": "mihkarp/trash-panda",
+    "language": "\u2014",
+    "name": "mihkarp/trash-panda",
+    "stars": 3,
+    "updated_at": "2026-06-20T10:07:49Z",
+    "url": "https://github.com/mihkarp/trash-panda"
+  },
+  {
+    "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "Python",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 2,
+    "updated_at": "2026-06-20T10:07:18Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 155,
+    "updated_at": "2026-06-20T10:06:37Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "A unified diagramming skill for Claude Code and Antigravity IDE (Gemini CLI).  It pairs multi-engine diagrammatic DSLs (",
+    "id": "LabinatorSolutions/kroki-editorial-diagrams",
+    "language": "Python",
+    "name": "LabinatorSolutions/kroki-editorial-diagrams",
+    "stars": 1,
+    "updated_at": "2026-06-20T10:01:44Z",
+    "url": "https://github.com/LabinatorSolutions/kroki-editorial-diagrams"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T10:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Shape rough requests into evidence-backed /goal completion contracts \u2014 an Agent Skill for Claude Code and Codex",
+    "id": "gotalab/goal-setter-skill",
+    "language": "Python",
+    "name": "gotalab/goal-setter-skill",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:59:59Z",
+    "url": "https://github.com/gotalab/goal-setter-skill"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -36,15 +126,6 @@
     "url": "https://github.com/Upstream-Intelligence/upstream-skills"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 91,
-    "updated_at": "2026-06-20T09:58:59Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
     "id": "jabrena/cursor-rules-java",
     "language": "Java",
@@ -54,22 +135,13 @@
     "url": "https://github.com/jabrena/cursor-rules-java"
   },
   {
-    "description": "A tiny raccoon skill that rescues todos, ideas, plans and drafts from your AI chats into local markdown.",
-    "id": "mihkarp/trash-panda",
-    "language": "\u2014",
-    "name": "mihkarp/trash-panda",
-    "stars": 3,
-    "updated_at": "2026-06-20T09:57:54Z",
-    "url": "https://github.com/mihkarp/trash-panda"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f \u6700\u5b9e\u7528\u7684 Claude Code Skills \u5408\u96c6 | \u7cbe\u9009 100+ | 18\u4e2a\u539f\u521b\u53ef\u5b89\u88c5\u6280\u80fd | \u6309\u573a\u666f\u5206\u7c7b | \u590d\u5236\u5373\u88c5",
-    "id": "laolaoshiren/claude-code-skills-zh",
-    "language": "Python",
-    "name": "laolaoshiren/claude-code-skills-zh",
-    "stars": 392,
-    "updated_at": "2026-06-20T09:56:28Z",
-    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
+    "description": "Polymarket prediction-market Agent Skills \u2014 read-only market, whale & position research plus official CLOB trading (dry-",
+    "id": "helebest/holo-polymarket",
+    "language": "Shell",
+    "name": "helebest/holo-polymarket",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:57:07Z",
+    "url": "https://github.com/helebest/holo-polymarket"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -79,15 +151,6 @@
     "stars": 50,
     "updated_at": "2026-06-20T09:56:20Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "Python",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 2,
-    "updated_at": "2026-06-20T09:56:08Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
     "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
@@ -126,13 +189,13 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
-    "id": "heymegabyte/claude-skills",
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
-    "name": "heymegabyte/claude-skills",
-    "stars": 12,
-    "updated_at": "2026-06-20T09:51:03Z",
-    "url": "https://github.com/heymegabyte/claude-skills"
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62998,
+    "updated_at": "2026-06-20T09:51:09Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T09:45:53Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T09:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Reusable Claude Code skills for test automation workflows",
@@ -205,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T09:34:19Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62997,
-    "updated_at": "2026-06-20T09:51:09Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -324,15 +369,6 @@
     "url": "https://github.com/aitit-inc/leadace"
   },
   {
-    "description": "A unified diagramming skill for Claude Code and Antigravity IDE (Gemini CLI).  It pairs multi-engine diagrammatic DSLs (",
-    "id": "LabinatorSolutions/kroki-editorial-diagrams",
-    "language": "Python",
-    "name": "LabinatorSolutions/kroki-editorial-diagrams",
-    "stars": 1,
-    "updated_at": "2026-06-20T09:13:35Z",
-    "url": "https://github.com/LabinatorSolutions/kroki-editorial-diagrams"
-  },
-  {
     "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
     "id": "dongshuyan/compass-skills",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T08:47:53Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-06-20T08:47:48Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:44:59Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:43:44Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:41:52Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   }
 ]
