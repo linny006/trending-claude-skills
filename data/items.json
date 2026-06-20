@@ -1,5 +1,50 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 91,
+    "updated_at": "2026-06-20T15:53:51Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Every AI skill, independently scanned. Public, open-source trust scoring for skills, MCP servers, hooks, and plugins acr",
+    "id": "OpenLatch/saferskills",
+    "language": "Python",
+    "name": "OpenLatch/saferskills",
+    "stars": 2,
+    "updated_at": "2026-06-20T15:53:27Z",
+    "url": "https://github.com/OpenLatch/saferskills"
+  },
+  {
+    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
+    "id": "glitchwerks/claude-wayfinder",
+    "language": "Python",
+    "name": "glitchwerks/claude-wayfinder",
+    "stars": 1,
+    "updated_at": "2026-06-20T15:48:49Z",
+    "url": "https://github.com/glitchwerks/claude-wayfinder"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 268,
+    "updated_at": "2026-06-20T15:48:30Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T15:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -54,15 +99,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 268,
-    "updated_at": "2026-06-20T15:38:26Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -85,18 +121,9 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 395,
+    "stars": 396,
     "updated_at": "2026-06-20T15:32:03Z",
     "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T15:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -270,15 +297,6 @@
     "url": "https://github.com/tinh2/skills-hub-registry"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 91,
-    "updated_at": "2026-06-20T15:43:44Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
     "id": "heymegabyte/claude-skills",
     "language": "TypeScript",
@@ -373,7 +391,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 25940,
+    "stars": 25941,
     "updated_at": "2026-06-20T15:05:05Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -385,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T15:04:41Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
-    "id": "glitchwerks/claude-wayfinder",
-    "language": "Python",
-    "name": "glitchwerks/claude-wayfinder",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:32:38Z",
-    "url": "https://github.com/glitchwerks/claude-wayfinder"
   },
   {
     "description": "Skill Canvas \u00e4r en whiteboard\u2011liknande canvas\u2011app f\u00f6r att visuellt designa AI\u2011skills med text\u2011f\u00f6rst\u2011tekniker som Markdow",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-20T15:43:12Z",
     "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
-    "description": "Claude Code Plugins, Commands, and Skills",
-    "id": "tony/ai-workflow-plugins",
-    "language": "Python",
-    "name": "tony/ai-workflow-plugins",
-    "stars": 1,
-    "updated_at": "2026-06-20T14:54:31Z",
-    "url": "https://github.com/tony/ai-workflow-plugins"
   }
 ]
