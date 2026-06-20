@@ -1,5 +1,77 @@
 [
   {
+    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
+    "id": "RemiAsselin42/claude-config",
+    "language": "Shell",
+    "name": "RemiAsselin42/claude-config",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:14:22Z",
+    "url": "https://github.com/RemiAsselin42/claude-config"
+  },
+  {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 12,
+    "updated_at": "2026-06-20T08:14:07Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "No AI prose or slop in academic science writing",
+    "id": "cbsteh/anti-ai-writing",
+    "language": "Shell",
+    "name": "cbsteh/anti-ai-writing",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:11:39Z",
+    "url": "https://github.com/cbsteh/anti-ai-writing"
+  },
+  {
+    "description": "Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.",
+    "id": "LLMQuant/awesome-trading-agents",
+    "language": "\u2014",
+    "name": "LLMQuant/awesome-trading-agents",
+    "stars": 301,
+    "updated_at": "2026-06-20T08:10:48Z",
+    "url": "https://github.com/LLMQuant/awesome-trading-agents"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-20T08:09:28Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 268,
+    "updated_at": "2026-06-20T08:02:42Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 62981,
+    "updated_at": "2026-06-20T08:02:40Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-20T08:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
     "id": "JasonColapietro/suede-creator-skills",
     "language": "Python",
@@ -27,15 +99,6 @@
     "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 62979,
-    "updated_at": "2026-06-20T07:56:53Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "MCP server that suggests repository-specific AI agent skills.",
     "id": "sator-imaging/suggest-skills",
     "language": "TypeScript",
@@ -50,17 +113,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 91,
-    "updated_at": "2026-06-20T07:56:08Z",
+    "updated_at": "2026-06-20T08:14:39Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
-    "id": "heymegabyte/claude-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/claude-skills",
-    "stars": 12,
-    "updated_at": "2026-06-20T07:52:02Z",
-    "url": "https://github.com/heymegabyte/claude-skills"
   },
   {
     "description": "A collection of Claude Skills",
@@ -81,15 +135,6 @@
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-20T07:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "BIRDCC agent skills registry",
     "id": "bird-chinese-community/BIRD.skills",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T07:44:52Z",
     "url": "https://github.com/bird-chinese-community/BIRD.skills"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 268,
-    "updated_at": "2026-06-20T07:56:15Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Package manager for Claude Code skills and agents and other AI related resources",
@@ -175,7 +211,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 83298,
+    "stars": 83299,
     "updated_at": "2026-06-20T07:05:21Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "vanterx/mssql-performance-skills",
     "stars": 2,
-    "updated_at": "2026-06-20T07:59:27Z",
+    "updated_at": "2026-06-20T08:08:04Z",
     "url": "https://github.com/vanterx/mssql-performance-skills"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:56:00Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 2,
-    "updated_at": "2026-06-20T06:54:18Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:47:10Z",
     "url": "https://github.com/gyf9712/stat-theory-skills"
-  },
-  {
-    "description": "\u4e00\u4e2a\u5305\u542bskill\u7684\u96c6\u5408\uff1a\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
-    "id": "Ldxs001/workbuddy-skills",
-    "language": "Python",
-    "name": "Ldxs001/workbuddy-skills",
-    "stars": 2,
-    "updated_at": "2026-06-20T05:40:29Z",
-    "url": "https://github.com/Ldxs001/workbuddy-skills"
-  },
-  {
-    "description": "AI agent testing toolkit for Playwright and Cypress: generate E2E tests from scratch, review existing specs against 24 a",
-    "id": "voidmatcha/e2e-skills",
-    "language": "Shell",
-    "name": "voidmatcha/e2e-skills",
-    "stars": 2,
-    "updated_at": "2026-06-20T05:31:29Z",
-    "url": "https://github.com/voidmatcha/e2e-skills"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:19:53Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
