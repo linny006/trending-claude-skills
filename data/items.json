@@ -1,5 +1,50 @@
 [
   {
+    "description": "Static security scanner for AI agent skill packages. Detects malicious SKILL.md files and bundled scripts before they ru",
+    "id": "Teycir/SkillsGuard",
+    "language": "TypeScript",
+    "name": "Teycir/SkillsGuard",
+    "stars": 9,
+    "updated_at": "2026-06-21T00:58:22Z",
+    "url": "https://github.com/Teycir/SkillsGuard"
+  },
+  {
+    "description": "Free Claude skills for real estate agents \u2014 Fair Housing compliant by default. Listing descriptions, the compliance over",
+    "id": "TheProsperityAgent/prosperity-real-estate-skills",
+    "language": "\u2014",
+    "name": "TheProsperityAgent/prosperity-real-estate-skills",
+    "stars": 5,
+    "updated_at": "2026-06-21T00:54:28Z",
+    "url": "https://github.com/TheProsperityAgent/prosperity-real-estate-skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:58:28Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 37,
+    "updated_at": "2026-06-21T00:48:54Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-21T00:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
     "id": "apresmoi/jianglens",
     "language": "Jupyter Notebook",
@@ -23,17 +68,8 @@
     "language": "HTML",
     "name": "pedroberaldo87/pedro-plugins",
     "stars": 0,
-    "updated_at": "2026-06-21T00:38:57Z",
+    "updated_at": "2026-06-21T00:59:13Z",
     "url": "https://github.com/pedroberaldo87/pedro-plugins"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-06-21T00:44:40Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "\ud83d\uded2 Skill Bazaar \u2014 an all-in-one open collection of AI Agent Skills (SKILL.md), organized by category. Part of the Mega AI",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T00:30:51Z",
     "url": "https://github.com/Drvivek34/Skill-Bazaar"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-21T00:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "8 Claude Code skills for NestJS backend development \u2014 module scaffolding, TypeORM, BullMQ queues, WebSocket gateways, JW",
@@ -202,7 +229,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 16668,
+    "stars": 16669,
     "updated_at": "2026-06-21T00:09:39Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -283,7 +310,7 @@
     "id": "mohitagw15856/pm-claude-skills",
     "language": "JavaScript",
     "name": "mohitagw15856/pm-claude-skills",
-    "stars": 996,
+    "stars": 997,
     "updated_at": "2026-06-21T00:01:20Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
@@ -304,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T00:00:35Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 37,
-    "updated_at": "2026-06-21T00:00:27Z",
-    "url": "https://github.com/open-agreements/open-agreements"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -410,7 +428,7 @@
     "language": "Kotlin",
     "name": "askimo-ai/askimo",
     "stars": 152,
-    "updated_at": "2026-06-20T23:53:36Z",
+    "updated_at": "2026-06-21T00:47:57Z",
     "url": "https://github.com/askimo-ai/askimo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-20T23:34:30Z",
     "url": "https://github.com/Wondermonger-daydreaming/claude-skills-library"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-20T23:22:01Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude Code usage governor: compact professional output, context slimming, tool-output filtering, telemetry, and drift g",
-    "id": "0xhimanshu/governor",
-    "language": "Python",
-    "name": "0xhimanshu/governor",
-    "stars": 118,
-    "updated_at": "2026-06-20T23:17:49Z",
-    "url": "https://github.com/0xhimanshu/governor"
   }
 ]
