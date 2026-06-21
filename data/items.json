@@ -1,5 +1,50 @@
 [
   {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6031,
+    "updated_at": "2026-06-21T07:43:59Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "A community-maintained, open collection of Claude skills for UX, AI, writing, and design workflows. Free for anyone to u",
+    "id": "kaustavr19/claude-skills",
+    "language": "Shell",
+    "name": "kaustavr19/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:41:14Z",
+    "url": "https://github.com/kaustavr19/claude-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 268,
+    "updated_at": "2026-06-21T07:41:27Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "A skill that raises the design quality of AI-generated UIs. Teaches Antigravity, Claude Code and Codex to build with rea",
+    "id": "Nyx-abu/awwwards-ui-skill",
+    "language": "JavaScript",
+    "name": "Nyx-abu/awwwards-ui-skill",
+    "stars": 7,
+    "updated_at": "2026-06-21T07:32:59Z",
+    "url": "https://github.com/Nyx-abu/awwwards-ui-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-21T07:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "WordPress plugin development skills for AI coding agents \u2014 Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, Copi",
     "id": "mralaminahamed/wp-dev-skills",
     "language": "PHP",
@@ -79,15 +124,6 @@
     "stars": 65,
     "updated_at": "2026-06-21T07:17:47Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-21T07:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T07:00:23Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "A skill that raises the design quality of AI-generated UIs. Teaches Antigravity, Claude Code and Codex to build with rea",
-    "id": "Nyx-abu/awwwards-ui-skill",
-    "language": "JavaScript",
-    "name": "Nyx-abu/awwwards-ui-skill",
-    "stars": 7,
-    "updated_at": "2026-06-21T06:56:01Z",
-    "url": "https://github.com/Nyx-abu/awwwards-ui-skill"
   },
   {
     "description": "Fill standard legal agreement templates and produce signable DOCX files.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T05:53:46Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 1,
-    "updated_at": "2026-06-21T05:52:26Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 50,
-    "updated_at": "2026-06-21T05:51:28Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
-    "id": "heymegabyte/claude-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/claude-skills",
-    "stars": 12,
-    "updated_at": "2026-06-21T05:50:39Z",
-    "url": "https://github.com/heymegabyte/claude-skills"
   }
 ]
