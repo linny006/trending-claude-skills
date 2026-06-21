@@ -1,5 +1,77 @@
 [
   {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 12,
+    "updated_at": "2026-06-21T01:13:32Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 37,
+    "updated_at": "2026-06-21T01:12:25Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 268,
+    "updated_at": "2026-06-21T01:12:13Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 79,
+    "updated_at": "2026-06-21T01:11:31Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-21T01:06:03Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "Python",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 2,
+    "updated_at": "2026-06-21T01:05:55Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "A collection of practical Claude Code skills \u2014 multi-LLM evaluation, domain management, planning, writing quality, and p",
+    "id": "eprouveze/claude-skills",
+    "language": "Shell",
+    "name": "eprouveze/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-21T01:05:49Z",
+    "url": "https://github.com/eprouveze/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-21T01:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Static security scanner for AI agent skill packages. Detects malicious SKILL.md files and bundled scripts before they ru",
     "id": "Teycir/SkillsGuard",
     "language": "TypeScript",
@@ -9,7 +81,7 @@
     "url": "https://github.com/Teycir/SkillsGuard"
   },
   {
-    "description": "Free Claude skills for real estate agents \u2014 Fair Housing compliant by default. Listing descriptions, the compliance over",
+    "description": "Free Fair-Housing-compliant Claude skills for real estate agents: listing copy, MLS integration with Claude Code, compli",
     "id": "TheProsperityAgent/prosperity-real-estate-skills",
     "language": "\u2014",
     "name": "TheProsperityAgent/prosperity-real-estate-skills",
@@ -27,33 +99,6 @@
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 37,
-    "updated_at": "2026-06-21T00:48:54Z",
-    "url": "https://github.com/open-agreements/open-agreements"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-21T00:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-21T00:42:49Z",
-    "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
     "id": "boshu2/agentops",
     "language": "Go",
@@ -68,7 +113,7 @@
     "language": "HTML",
     "name": "pedroberaldo87/pedro-plugins",
     "stars": 0,
-    "updated_at": "2026-06-21T00:59:13Z",
+    "updated_at": "2026-06-21T01:08:32Z",
     "url": "https://github.com/pedroberaldo87/pedro-plugins"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T23:52:02Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
-    "id": "heymegabyte/claude-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/claude-skills",
-    "stars": 12,
-    "updated_at": "2026-06-20T23:50:46Z",
-    "url": "https://github.com/heymegabyte/claude-skills"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:47:15Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents integration. Supports OpenAI, Claude, Gemini, Grok, ",
-    "id": "askimo-ai/askimo",
-    "language": "Kotlin",
-    "name": "askimo-ai/askimo",
-    "stars": 152,
-    "updated_at": "2026-06-21T00:47:57Z",
-    "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:35:49Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Modules that extend how Claude reads, writes, reasons, and plays",
-    "id": "Wondermonger-daydreaming/claude-skills-library",
-    "language": "Python",
-    "name": "Wondermonger-daydreaming/claude-skills-library",
-    "stars": 6,
-    "updated_at": "2026-06-20T23:34:30Z",
-    "url": "https://github.com/Wondermonger-daydreaming/claude-skills-library"
   }
 ]
