@@ -1,5 +1,68 @@
 [
   {
+    "description": "A filesystem-inbox spec pipeline for parallel, one-shot Claude Code sessions: think \u2192 spec \u2192 orchestrate \u2192 grade \u2192 ship.",
+    "id": "fredhead88/do-it",
+    "language": "Python",
+    "name": "fredhead88/do-it",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:28:04Z",
+    "url": "https://github.com/fredhead88/do-it"
+  },
+  {
+    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews numb",
+    "id": "gosom/google-maps-scraper",
+    "language": "Go",
+    "name": "gosom/google-maps-scraper",
+    "stars": 4457,
+    "updated_at": "2026-06-21T09:26:45Z",
+    "url": "https://github.com/gosom/google-maps-scraper"
+  },
+  {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 83,
+    "updated_at": "2026-06-21T09:23:42Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 157,
+    "updated_at": "2026-06-21T09:17:57Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Persistent memory layer for Claude Code \u2014 Obsidian vault health, connection discovery, brain dump, session notes, email ",
+    "id": "jojoprison/mnemo",
+    "language": "Python",
+    "name": "jojoprison/mnemo",
+    "stars": 5,
+    "updated_at": "2026-06-21T09:16:38Z",
+    "url": "https://github.com/jojoprison/mnemo"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 63103,
+    "updated_at": "2026-06-21T09:16:06Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-21T09:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude skills that deliver a daily finance status dashboard to your telegram.",
     "id": "ya5huk/findash",
     "language": "Python",
@@ -18,22 +81,13 @@
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 63102,
-    "updated_at": "2026-06-21T09:11:45Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Persistent memory layer for Claude Code \u2014 Obsidian vault health, connection discovery, brain dump, session notes, email ",
-    "id": "jojoprison/mnemo",
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
     "language": "Python",
-    "name": "jojoprison/mnemo",
-    "stars": 5,
-    "updated_at": "2026-06-21T09:10:47Z",
-    "url": "https://github.com/jojoprison/mnemo"
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16678,
+    "updated_at": "2026-06-21T09:09:12Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -63,15 +117,6 @@
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-21T09:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
     "id": "munexor/seo-opportunity-nexus",
     "language": "HTML",
@@ -97,33 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T08:58:41Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16677,
-    "updated_at": "2026-06-21T09:09:12Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "A filesystem-inbox spec pipeline for parallel, one-shot Claude Code sessions: think \u2192 spec \u2192 orchestrate \u2192 grade \u2192 ship.",
-    "id": "fredhead88/do-it",
-    "language": "Python",
-    "name": "fredhead88/do-it",
-    "stars": 0,
-    "updated_at": "2026-06-21T08:55:19Z",
-    "url": "https://github.com/fredhead88/do-it"
-  },
-  {
-    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 157,
-    "updated_at": "2026-06-21T09:14:25Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "Complete Claude Code enhancement system -- 14K+ lines of rules, skills, libraries, and agents context smarter, and never",
@@ -194,7 +212,7 @@
     "language": "Kotlin",
     "name": "askimo-ai/askimo",
     "stars": 152,
-    "updated_at": "2026-06-21T08:39:51Z",
+    "updated_at": "2026-06-21T09:18:21Z",
     "url": "https://github.com/askimo-ai/askimo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1006,
     "updated_at": "2026-06-21T07:08:13Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:04:19Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:03:05Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
