@@ -1,5 +1,50 @@
 [
   {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 37,
+    "updated_at": "2026-06-21T01:26:59Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "My Nix system configs!",
+    "id": "malob/nix-config",
+    "language": "Python",
+    "name": "malob/nix-config",
+    "stars": 460,
+    "updated_at": "2026-06-21T01:26:28Z",
+    "url": "https://github.com/malob/nix-config"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 1,
+    "updated_at": "2026-06-21T01:24:52Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-21T01:29:49Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-21T01:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
     "id": "heymegabyte/claude-skills",
     "language": "TypeScript",
@@ -7,15 +52,6 @@
     "stars": 12,
     "updated_at": "2026-06-21T01:13:32Z",
     "url": "https://github.com/heymegabyte/claude-skills"
-  },
-  {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 37,
-    "updated_at": "2026-06-21T01:12:25Z",
-    "url": "https://github.com/open-agreements/open-agreements"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -63,15 +99,6 @@
     "url": "https://github.com/eprouveze/claude-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-21T01:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Static security scanner for AI agent skill packages. Detects malicious SKILL.md files and bundled scripts before they ru",
     "id": "Teycir/SkillsGuard",
     "language": "TypeScript",
@@ -88,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-06-21T00:54:28Z",
     "url": "https://github.com/TheProsperityAgent/prosperity-real-estate-skills"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-06-21T00:58:28Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
@@ -355,7 +373,7 @@
     "id": "mohitagw15856/pm-claude-skills",
     "language": "JavaScript",
     "name": "mohitagw15856/pm-claude-skills",
-    "stars": 997,
+    "stars": 998,
     "updated_at": "2026-06-21T00:01:20Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T23:57:19Z",
     "url": "https://github.com/KKenny0/Lode"
-  },
-  {
-    "description": "A smaller, lighter-weight version of OpenClaw, natively multi-agent, compiles to Rust, and built on the Swarms framework",
-    "id": "The-Swarm-Corporation/ClawSwarm",
-    "language": "Python",
-    "name": "The-Swarm-Corporation/ClawSwarm",
-    "stars": 170,
-    "updated_at": "2026-06-20T23:52:51Z",
-    "url": "https://github.com/The-Swarm-Corporation/ClawSwarm"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:52:02Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
