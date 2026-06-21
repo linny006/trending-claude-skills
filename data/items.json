@@ -1,12 +1,21 @@
 [
   {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
+    "description": "A filesystem-inbox spec pipeline for parallel, one-shot Claude Code sessions: think \u2192 spec \u2192 orchestrate \u2192 grade \u2192 ship.",
+    "id": "fredhead88/do-it",
     "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6031,
-    "updated_at": "2026-06-21T07:58:41Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
+    "name": "fredhead88/do-it",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:11:58Z",
+    "url": "https://github.com/fredhead88/do-it"
+  },
+  {
+    "description": "A small library of Claude skills, built for real analytical work and validated before publishing.",
+    "id": "viktor-milev/claude-skills",
+    "language": "HTML",
+    "name": "viktor-milev/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:11:05Z",
+    "url": "https://github.com/viktor-milev/claude-skills"
   },
   {
     "description": "Open-source SkillOps / instruction-supply-chain control plane for AI-agent teams: policy packs, registry diff, evidence ",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "BambooGap/skills-orchestrator",
     "stars": 3,
-    "updated_at": "2026-06-21T07:51:51Z",
+    "updated_at": "2026-06-21T08:09:42Z",
     "url": "https://github.com/BambooGap/skills-orchestrator"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 65,
+    "updated_at": "2026-06-21T08:09:23Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6031,
+    "updated_at": "2026-06-21T08:07:53Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
   },
   {
     "description": "Persistent memory layer for Claude Code \u2014 Obsidian vault health, connection discovery, brain dump, session notes, email ",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "jojoprison/mnemo",
     "stars": 5,
-    "updated_at": "2026-06-21T07:48:03Z",
+    "updated_at": "2026-06-21T08:06:07Z",
     "url": "https://github.com/jojoprison/mnemo"
+  },
+  {
+    "description": "Battle-tested CLAUDE.md files for Next.js, React, Python, Flutter and more.",
+    "id": "sx4im/awesome-claude-md",
+    "language": "Python",
+    "name": "sx4im/awesome-claude-md",
+    "stars": 2,
+    "updated_at": "2026-06-21T08:04:25Z",
+    "url": "https://github.com/sx4im/awesome-claude-md"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 6,
-    "updated_at": "2026-06-21T07:45:14Z",
+    "updated_at": "2026-06-21T08:00:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -126,15 +162,6 @@
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 65,
-    "updated_at": "2026-06-21T07:17:47Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -220,7 +247,7 @@
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 1518,
+    "stars": 1519,
     "updated_at": "2026-06-21T07:01:07Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
@@ -274,7 +301,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 1956,
+    "stars": 1958,
     "updated_at": "2026-06-21T06:41:40Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-21T05:58:28Z",
     "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:55:27Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:55:25Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:53:46Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   }
 ]
