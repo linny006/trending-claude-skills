@@ -1,12 +1,12 @@
 [
   {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:15:02Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
+    "description": "Twenty Claude agents for acquirers, one for every job in a deal, from first teaser to IC memo. Every claim cited to its ",
+    "id": "MariusGithub13/open-deal-team",
+    "language": "\u2014",
+    "name": "MariusGithub13/open-deal-team",
+    "stars": 1,
+    "updated_at": "2026-06-21T03:29:51Z",
+    "url": "https://github.com/MariusGithub13/open-deal-team"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -14,8 +14,53 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 268,
-    "updated_at": "2026-06-21T03:14:57Z",
+    "updated_at": "2026-06-21T03:29:50Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Your AI digital clone \u2014 learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a",
+    "id": "project-nomos/nomos",
+    "language": "TypeScript",
+    "name": "project-nomos/nomos",
+    "stars": 22,
+    "updated_at": "2026-06-21T03:27:45Z",
+    "url": "https://github.com/project-nomos/nomos"
+  },
+  {
+    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
+    "id": "pedroberaldo87/pedro-plugins",
+    "language": "HTML",
+    "name": "pedroberaldo87/pedro-plugins",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:27:51Z",
+    "url": "https://github.com/pedroberaldo87/pedro-plugins"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:25:38Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Docs + release skill toolkit for Claude Code: versioned user guides, benefit-first changelogs, screenshots, logos, brand",
+    "id": "taskmasterpeace/ship-pack",
+    "language": "JavaScript",
+    "name": "taskmasterpeace/ship-pack",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:23:08Z",
+    "url": "https://github.com/taskmasterpeace/ship-pack"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 394,
+    "updated_at": "2026-06-21T03:22:00Z",
+    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -23,8 +68,26 @@
     "language": "Shell",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-06-21T03:10:32Z",
+    "updated_at": "2026-06-21T03:15:24Z",
     "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-21T03:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:20:55Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Write a resume from scratch or critique the one you have \u2014 ATS-optimized, seniority-aware, delivered as .docx.",
@@ -52,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T03:07:25Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
-    "id": "pedroberaldo87/pedro-plugins",
-    "language": "HTML",
-    "name": "pedroberaldo87/pedro-plugins",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:06:43Z",
-    "url": "https://github.com/pedroberaldo87/pedro-plugins"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
@@ -99,21 +153,12 @@
     "url": "https://github.com/jaredrhod/ai-memory-vault"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-21T03:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 91,
-    "updated_at": "2026-06-21T03:06:56Z",
+    "updated_at": "2026-06-21T03:22:45Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -225,15 +270,6 @@
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 394,
-    "updated_at": "2026-06-21T02:20:07Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T01:57:12Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Docs + release skill toolkit for Claude Code: versioned user guides, benefit-first changelogs, screenshots, logos, brand",
-    "id": "taskmasterpeace/ship-pack",
-    "language": "JavaScript",
-    "name": "taskmasterpeace/ship-pack",
-    "stars": 0,
-    "updated_at": "2026-06-21T01:52:48Z",
-    "url": "https://github.com/taskmasterpeace/ship-pack"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-21T00:54:28Z",
     "url": "https://github.com/TheProsperityAgent/prosperity-real-estate-skills"
-  },
-  {
-    "description": "\ud83d\uded2 Skill Bazaar \u2014 an all-in-one open collection of AI Agent Skills (SKILL.md), organized by category. Part of the Mega AI",
-    "id": "Drvivek34/Skill-Bazaar",
-    "language": "Python",
-    "name": "Drvivek34/Skill-Bazaar",
-    "stars": 0,
-    "updated_at": "2026-06-21T00:30:51Z",
-    "url": "https://github.com/Drvivek34/Skill-Bazaar"
-  },
-  {
-    "description": "8 Claude Code skills for NestJS backend development \u2014 module scaffolding, TypeORM, BullMQ queues, WebSocket gateways, JW",
-    "id": "DIYA73/nestjs-skills",
-    "language": "\u2014",
-    "name": "DIYA73/nestjs-skills",
-    "stars": 0,
-    "updated_at": "2026-06-21T00:26:06Z",
-    "url": "https://github.com/DIYA73/nestjs-skills"
-  },
-  {
-    "description": "agent skills",
-    "id": "Mark393295827/third-brain-v5-skills",
-    "language": "HTML",
-    "name": "Mark393295827/third-brain-v5-skills",
-    "stars": 117,
-    "updated_at": "2026-06-21T00:25:13Z",
-    "url": "https://github.com/Mark393295827/third-brain-v5-skills"
   }
 ]
