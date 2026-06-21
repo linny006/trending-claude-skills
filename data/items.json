@@ -1,5 +1,77 @@
 [
   {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 395,
+    "updated_at": "2026-06-21T06:44:22Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 83,
+    "updated_at": "2026-06-21T06:43:57Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1005,
+    "updated_at": "2026-06-21T06:43:48Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
+    "id": "open-agreements/open-agreements",
+    "language": "TypeScript",
+    "name": "open-agreements/open-agreements",
+    "stars": 37,
+    "updated_at": "2026-06-21T06:42:10Z",
+    "url": "https://github.com/open-agreements/open-agreements"
+  },
+  {
+    "description": "WordPress plugin development skills for AI coding agents \u2014 Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, Copi",
+    "id": "mralaminahamed/wp-dev-skills",
+    "language": "PHP",
+    "name": "mralaminahamed/wp-dev-skills",
+    "stars": 23,
+    "updated_at": "2026-06-21T06:41:52Z",
+    "url": "https://github.com/mralaminahamed/wp-dev-skills"
+  },
+  {
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 1952,
+    "updated_at": "2026-06-21T06:41:40Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "Production-ready Claude Code skills for cybersecurity \u2014 secret scanning, SAST, prompt-injection testing, HTTP/JWT/depend",
+    "id": "NovaCode37/claude-security-skills",
+    "language": "Python",
+    "name": "NovaCode37/claude-security-skills",
+    "stars": 8,
+    "updated_at": "2026-06-21T06:40:42Z",
+    "url": "https://github.com/NovaCode37/claude-security-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-21T06:32:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -18,15 +90,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-21T06:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
     "id": "JasonColapietro/suede-creator-skills",
     "language": "Python",
@@ -36,21 +99,12 @@
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
-    "description": "WordPress plugin development skills for AI coding agents \u2014 Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, Copi",
-    "id": "mralaminahamed/wp-dev-skills",
-    "language": "PHP",
-    "name": "mralaminahamed/wp-dev-skills",
-    "stars": 23,
-    "updated_at": "2026-06-21T06:20:42Z",
-    "url": "https://github.com/mralaminahamed/wp-dev-skills"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 91,
-    "updated_at": "2026-06-21T06:16:39Z",
+    "updated_at": "2026-06-21T06:35:29Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T06:10:15Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
-    "id": "jianshuo/claude-skills",
-    "language": "Python",
-    "name": "jianshuo/claude-skills",
-    "stars": 83,
-    "updated_at": "2026-06-21T06:09:29Z",
-    "url": "https://github.com/jianshuo/claude-skills"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T06:01:55Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Fill standard legal agreement templates and produce signable DOCX files.",
-    "id": "open-agreements/open-agreements",
-    "language": "TypeScript",
-    "name": "open-agreements/open-agreements",
-    "stars": 37,
-    "updated_at": "2026-06-21T06:01:42Z",
-    "url": "https://github.com/open-agreements/open-agreements"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -346,18 +382,9 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 83442,
+    "stars": 83444,
     "updated_at": "2026-06-21T05:14:53Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 395,
-    "updated_at": "2026-06-21T05:13:24Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Curated collection of Claude Code skills for automation, data extraction, code generation, and   productivity. Drop-in s",
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "produtoramaxvision/maxvision-utilities",
     "stars": 0,
-    "updated_at": "2026-06-21T06:13:58Z",
+    "updated_at": "2026-06-21T06:43:16Z",
     "url": "https://github.com/produtoramaxvision/maxvision-utilities"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T04:51:12Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:49:08Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Position it, message it, sequence the launch, run launch day, and equip the self-serve and sales motions \u2014 wit",
-    "id": "aouellets/gtm-launch",
-    "language": "\u2014",
-    "name": "aouellets/gtm-launch",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:46:23Z",
-    "url": "https://github.com/aouellets/gtm-launch"
-  },
-  {
-    "description": "A curated, opinionated path for shipping a Next.js app on Vercel \u2014 deploys, env, AI Gateway, rendering & cachi",
-    "id": "aouellets/vercel-platform",
-    "language": "\u2014",
-    "name": "aouellets/vercel-platform",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:46:16Z",
-    "url": "https://github.com/aouellets/vercel-platform"
   }
 ]
