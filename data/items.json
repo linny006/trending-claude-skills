@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-06-21T00:42:49Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 394,
+    "updated_at": "2026-06-21T00:39:25Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
+    "id": "pedroberaldo87/pedro-plugins",
+    "language": "HTML",
+    "name": "pedroberaldo87/pedro-plugins",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:38:57Z",
+    "url": "https://github.com/pedroberaldo87/pedro-plugins"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:44:40Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "\ud83d\uded2 Skill Bazaar \u2014 an all-in-one open collection of AI Agent Skills (SKILL.md), organized by category. Part of the Mega AI",
+    "id": "Drvivek34/Skill-Bazaar",
+    "language": "Python",
+    "name": "Drvivek34/Skill-Bazaar",
+    "stars": 0,
+    "updated_at": "2026-06-21T00:30:51Z",
+    "url": "https://github.com/Drvivek34/Skill-Bazaar"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-21T00:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "8 Claude Code skills for NestJS backend development \u2014 module scaffolding, TypeORM, BullMQ queues, WebSocket gateways, JW",
     "id": "DIYA73/nestjs-skills",
     "language": "\u2014",
@@ -27,6 +81,15 @@
     "url": "https://github.com/parkscloud/okf-author"
   },
   {
+    "description": "AI \u6bcf\u65e5\u65b0\u95fb\u7b80\u62a5 \u00b7 GitHub \u70ed\u95e8 + X \u70ed\u95e8\u6587\u7ae0 + \u884c\u60c5\u6280\u672f\u5206\u6790 \u00b7 23 \u4e2a\u6570\u636e\u6e90\u805a\u5408 + LLM \u4e2d\u6587\u6458\u8981 \u00b7 \u672c\u5730\u6216 GitHub Actions \u90e8\u7f72",
+    "id": "leiting-eric/DailyBrief",
+    "language": "TypeScript",
+    "name": "leiting-eric/DailyBrief",
+    "stars": 262,
+    "updated_at": "2026-06-21T00:22:42Z",
+    "url": "https://github.com/leiting-eric/DailyBrief"
+  },
+  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -45,15 +108,6 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-06-21T00:23:54Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T00:15:36Z",
     "url": "https://github.com/glitchwerks/claude-wayfinder"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-21T00:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Ship your app without learning DevOps. A Claude Code plugin that deploys, hosts, and gates every risky step \u2014 in plain E",
@@ -140,7 +185,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 91,
-    "updated_at": "2026-06-21T00:26:37Z",
+    "updated_at": "2026-06-21T00:34:47Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T00:04:00Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-06-21T00:03:41Z",
-    "url": "https://github.com/apresmoi/jianglens"
   },
   {
     "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
@@ -412,41 +448,5 @@
     "stars": 118,
     "updated_at": "2026-06-20T23:17:49Z",
     "url": "https://github.com/0xhimanshu/governor"
-  },
-  {
-    "description": "Curated resources for using Claude, skills, agents and MCP in a digital agency and marketing workflow.",
-    "id": "development-candavarci/awesome-claude-agency",
-    "language": "\u2014",
-    "name": "development-candavarci/awesome-claude-agency",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:17:20Z",
-    "url": "https://github.com/development-candavarci/awesome-claude-agency"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:14:10Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:14:05Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:13:27Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   }
 ]
