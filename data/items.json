@@ -1,11 +1,47 @@
 [
   {
+    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
+    "id": "pedroberaldo87/pedro-plugins",
+    "language": "HTML",
+    "name": "pedroberaldo87/pedro-plugins",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:42:59Z",
+    "url": "https://github.com/pedroberaldo87/pedro-plugins"
+  },
+  {
+    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
+    "id": "ColinVaughn/Synaptic",
+    "language": "Rust",
+    "name": "ColinVaughn/Synaptic",
+    "stars": 5,
+    "updated_at": "2026-06-21T04:44:04Z",
+    "url": "https://github.com/ColinVaughn/Synaptic"
+  },
+  {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 12,
+    "updated_at": "2026-06-21T04:30:49Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-21T04:30:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 91,
-    "updated_at": "2026-06-21T04:29:14Z",
+    "updated_at": "2026-06-21T04:42:29Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -27,15 +63,6 @@
     "url": "https://github.com/benskamps/seo-superpower"
   },
   {
-    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
-    "id": "pedroberaldo87/pedro-plugins",
-    "language": "HTML",
-    "name": "pedroberaldo87/pedro-plugins",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:24:56Z",
-    "url": "https://github.com/pedroberaldo87/pedro-plugins"
-  },
-  {
     "description": "Academic Literature Search & Review Skills for Claude Code \u2014 \u7528\u81ea\u7136\u8a9e\u8a00\u5728 Claude Code \u88e1\u641c\u5c0b\u5b78\u8853\u8ad6\u6587\u3001\u81ea\u52d5\u7522\u751f\u6587\u737b\u56de\u9867\u5831\u544a\u3002",
     "id": "billy1125/lit-review-kit",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T04:28:31Z",
     "url": "https://github.com/ravipalwe/throughline-claude-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-21T04:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude AI Skills repository",
@@ -122,7 +140,7 @@
     "language": "JavaScript",
     "name": "matejformanek/postgres-claude",
     "stars": 0,
-    "updated_at": "2026-06-21T03:55:01Z",
+    "updated_at": "2026-06-21T04:41:49Z",
     "url": "https://github.com/matejformanek/postgres-claude"
   },
   {
@@ -230,7 +248,7 @@
     "language": "TypeScript",
     "name": "project-nomos/nomos",
     "stars": 22,
-    "updated_at": "2026-06-21T04:28:43Z",
+    "updated_at": "2026-06-21T04:44:22Z",
     "url": "https://github.com/project-nomos/nomos"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T03:05:05Z",
     "url": "https://github.com/aouellets/founder-fundraising-os"
-  },
-  {
-    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
-    "id": "heymegabyte/claude-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/claude-skills",
-    "stars": 12,
-    "updated_at": "2026-06-21T02:50:47Z",
-    "url": "https://github.com/heymegabyte/claude-skills"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -437,16 +446,7 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-06-21T02:07:14Z",
+    "updated_at": "2026-06-21T04:41:58Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-06-21T01:57:12Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
