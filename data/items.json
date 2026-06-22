@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claude Code plugin: m_* toolkit (m_plan plan->execute->verify, deploy/infra commands, Playwright full-test loop, m_code ",
+    "id": "mapuamap/denys-fast-mskills",
+    "language": "Python",
+    "name": "mapuamap/denys-fast-mskills",
+    "stars": 1,
+    "updated_at": "2026-06-22T02:29:08Z",
+    "url": "https://github.com/mapuamap/denys-fast-mskills"
+  },
+  {
+    "description": "Agent Skill for turning rough PRDs and product requirements into implementation-ready specs.",
+    "id": "wair56/prd-implementation-ready-skills",
+    "language": "\u2014",
+    "name": "wair56/prd-implementation-ready-skills",
+    "stars": 0,
+    "updated_at": "2026-06-22T02:28:53Z",
+    "url": "https://github.com/wair56/prd-implementation-ready-skills"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-22T02:28:40Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f 22\u4f4d\u5e26\u7075\u9b42\u4e0e\u8bb0\u5fc6\u7684\u5723\u4eba\u4e13\u5bb6\u73ed\u5b50\uff0c\u6309\u95ee\u9898\u91cd\u91cf\u81ea\u52a8\u964d\u7ea7\u5f00\u8bae\u4f1a\u2014\u2014\u65e5\u5e38\u95ee\u98981\u4f4d\u5723\u4eba3\u53e5\u8bdd\u88c1\u51b3\uff0c\u590d\u6742\u8bae\u9898\u624d\u5f00\u591a\u4e13\u5bb6\u52a0\u6743\u6295\u7968\u3002\u5723\u4eba\u8bb0\u5f97\u5386\u6b21\u51b3\u5b9a\uff0c\u540c\u7c7b\u95ee\u9898\u4f1a\u5f15\u7528\u4e0a\u6b21\u7ed3\u8bba\u3002Claude Code \u6280\u80fd\u3002",
+    "id": "SuanFishXYY/sptler",
+    "language": "Python",
+    "name": "SuanFishXYY/sptler",
+    "stars": 2,
+    "updated_at": "2026-06-22T02:26:14Z",
+    "url": "https://github.com/SuanFishXYY/sptler"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-22T02:28:05Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Claude Code plugins for deep GTM research, competitive analysis, and more \u2014 by Raine Soriano",
+    "id": "rainearcher/quiver",
+    "language": "Shell",
+    "name": "rainearcher/quiver",
+    "stars": 0,
+    "updated_at": "2026-06-22T02:19:14Z",
+    "url": "https://github.com/rainearcher/quiver"
+  },
+  {
+    "description": "Claude Code plugin for end-to-end SEO + GEO. One command (/seo) drives everything: bootstrap, audit, find underserved ke",
+    "id": "benskamps/seo-superpower",
+    "language": "Python",
+    "name": "benskamps/seo-superpower",
+    "stars": 0,
+    "updated_at": "2026-06-22T02:17:51Z",
+    "url": "https://github.com/benskamps/seo-superpower"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-22T02:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
     "id": "DYAI2025/Plumbline",
     "language": "Shell",
@@ -63,15 +135,6 @@
     "url": "https://github.com/apresmoi/jianglens"
   },
   {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-22T02:06:08Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
@@ -81,20 +144,11 @@
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-22T02:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
     "id": "boshu2/agentops",
     "language": "Go",
     "name": "boshu2/agentops",
-    "stars": 395,
+    "stars": 396,
     "updated_at": "2026-06-22T01:59:45Z",
     "url": "https://github.com/boshu2/agentops"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T01:49:02Z",
     "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Claude Code plugin for end-to-end SEO + GEO. One command (/seo) drives everything: bootstrap, audit, find underserved ke",
-    "id": "benskamps/seo-superpower",
-    "language": "Python",
-    "name": "benskamps/seo-superpower",
-    "stars": 0,
-    "updated_at": "2026-06-22T02:09:30Z",
-    "url": "https://github.com/benskamps/seo-superpower"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-06-22T01:48:55Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-06-22T01:48:53Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Turn any video into a narration recap with claude code skill\uff5c\u7528claude code skill\u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
-    "id": "worldwonderer/video-recap-skills",
-    "language": "Python",
-    "name": "worldwonderer/video-recap-skills",
-    "stars": 293,
-    "updated_at": "2026-06-22T01:49:21Z",
-    "url": "https://github.com/worldwonderer/video-recap-skills"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T01:48:35Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-06-22T01:48:31Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
   }
 ]
