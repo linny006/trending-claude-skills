@@ -1,12 +1,84 @@
 [
   {
+    "description": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's",
+    "id": "jaredrhod/ai-memory-vault",
+    "language": "\u2014",
+    "name": "jaredrhod/ai-memory-vault",
+    "stars": 26,
+    "updated_at": "2026-06-22T05:11:42Z",
+    "url": "https://github.com/jaredrhod/ai-memory-vault"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-22T05:09:45Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6033,
+    "updated_at": "2026-06-22T05:07:12Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 63177,
-    "updated_at": "2026-06-22T04:54:28Z",
+    "stars": 63178,
+    "updated_at": "2026-06-22T05:06:57Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-06-22T05:04:43Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 396,
+    "updated_at": "2026-06-22T05:03:04Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-06-22T05:03:03Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "An agent skills marketplace from Narrative I/O \u2014 interactive, AI-powered slash-command workflows for the recurring work ",
+    "id": "narrative-io/narrative-skills-marketplace",
+    "language": "Go Template",
+    "name": "narrative-io/narrative-skills-marketplace",
+    "stars": 6,
+    "updated_at": "2026-06-22T05:01:36Z",
+    "url": "https://github.com/narrative-io/narrative-skills-marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-22T05:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
@@ -36,15 +108,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6033,
-    "updated_at": "2026-06-22T04:51:33Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
     "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
@@ -72,15 +135,6 @@
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-22T04:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents integration. Supports OpenAI, Claude, Gemini, Grok, ",
     "id": "askimo-ai/askimo",
     "language": "Kotlin",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T04:41:38Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-06-22T05:00:12Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "WordPress plugin development skills for AI coding agents \u2014 Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, Copi",
@@ -196,15 +241,6 @@
     "stars": 65,
     "updated_at": "2026-06-22T04:12:48Z",
     "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 396,
-    "updated_at": "2026-06-22T04:12:44Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T03:56:43Z",
     "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-06-22T03:56:37Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T03:56:34Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T03:56:33Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-22T03:56:29Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
   }
 ]
