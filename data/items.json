@@ -1,12 +1,39 @@
 [
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 269,
-    "updated_at": "2026-06-22T14:43:33Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 28,
+    "updated_at": "2026-06-22T15:00:00Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "The anti-humanizer: a Claude Code skill that rewrites any text into boardroom-ready corporate-speak without sounding lik",
+    "id": "giorgiozamboni/corpspeak",
+    "language": "\u2014",
+    "name": "giorgiozamboni/corpspeak",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:57:28Z",
+    "url": "https://github.com/giorgiozamboni/corpspeak"
+  },
+  {
+    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
+    "id": "txw842lkj-cmd/silicon-circle-skill",
+    "language": "\u2014",
+    "name": "txw842lkj-cmd/silicon-circle-skill",
+    "stars": 1,
+    "updated_at": "2026-06-22T14:56:55Z",
+    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
+  },
+  {
+    "description": "Open-source SkillOps / instruction-supply-chain control plane for AI-agent teams: policy packs, registry diff, evidence ",
+    "id": "BambooGap/skills-orchestrator",
+    "language": "Python",
+    "name": "BambooGap/skills-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-06-22T14:55:35Z",
+    "url": "https://github.com/BambooGap/skills-orchestrator"
   },
   {
     "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
@@ -14,8 +41,53 @@
     "language": "JavaScript",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 1010,
-    "updated_at": "2026-06-22T14:44:59Z",
+    "updated_at": "2026-06-22T14:53:24Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 396,
+    "updated_at": "2026-06-22T14:49:09Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Go CLI for Bocha, Volcengine Ark, and Zhihu APIs with normalized table/JSON output, source status, and stable exit codes",
+    "id": "geekjourneyx/tanso",
+    "language": "Go",
+    "name": "geekjourneyx/tanso",
+    "stars": 4,
+    "updated_at": "2026-06-22T14:46:31Z",
+    "url": "https://github.com/geekjourneyx/tanso"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-22T14:45:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 1,
+    "updated_at": "2026-06-22T14:45:13Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 269,
+    "updated_at": "2026-06-22T14:43:33Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
@@ -31,18 +103,9 @@
     "id": "sunj243909596-collab/analysis-to-delivery",
     "language": "Python",
     "name": "sunj243909596-collab/analysis-to-delivery",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-22T14:39:49Z",
     "url": "https://github.com/sunj243909596-collab/analysis-to-delivery"
-  },
-  {
-    "description": "Open-source SkillOps / instruction-supply-chain control plane for AI-agent teams: policy packs, registry diff, evidence ",
-    "id": "BambooGap/skills-orchestrator",
-    "language": "Python",
-    "name": "BambooGap/skills-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-06-22T14:40:37Z",
-    "url": "https://github.com/BambooGap/skills-orchestrator"
   },
   {
     "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
@@ -72,24 +135,6 @@
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-22T14:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 396,
-    "updated_at": "2026-06-22T14:45:17Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -97,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-06-22T14:27:45Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Social trend finder that searches for trending sound and hashtags from across social platforms",
+    "id": "kweeyo09/social-trend-finder",
+    "language": "Python",
+    "name": "kweeyo09/social-trend-finder",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:27:43Z",
+    "url": "https://github.com/kweeyo09/social-trend-finder"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T14:18:19Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 1,
-    "updated_at": "2026-06-22T14:45:13Z",
-    "url": "https://github.com/vanducng/skills"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -351,15 +396,6 @@
     "url": "https://github.com/iart-ai/awesome-motion-skills"
   },
   {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "Python",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 28,
-    "updated_at": "2026-06-22T13:23:57Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
     "description": "My personal agent skill repository, primarily focused on game development.",
     "id": "Yuki001/game-dev-skills",
     "language": "Python",
@@ -367,15 +403,6 @@
     "stars": 20,
     "updated_at": "2026-06-22T13:21:48Z",
     "url": "https://github.com/Yuki001/game-dev-skills"
-  },
-  {
-    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
-    "id": "txw842lkj-cmd/silicon-circle-skill",
-    "language": "\u2014",
-    "name": "txw842lkj-cmd/silicon-circle-skill",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:17:59Z",
-    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -421,32 +448,5 @@
     "stars": 116,
     "updated_at": "2026-06-22T13:11:35Z",
     "url": "https://github.com/rrezartprebreza/spring-boot-skills"
-  },
-  {
-    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "Python",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:00:33Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "White-box, OSWE-style security audit for Claude Code: traces source\u2192sink, chains findings to unauthenticated RCE, verifi",
-    "id": "Laucked-Security/claude-oswe",
-    "language": "JavaScript",
-    "name": "Laucked-Security/claude-oswe",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:59:13Z",
-    "url": "https://github.com/Laucked-Security/claude-oswe"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:55:37Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
