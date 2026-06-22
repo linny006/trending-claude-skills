@@ -1,12 +1,57 @@
 [
   {
-    "description": "\u041d\u0430\u0431\u043e\u0440 \u0441\u043a\u0438\u043b\u043b\u043e\u0432 Claude Code: \u0441\u043a\u0432\u043e\u0437\u043d\u043e\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u043f\u043e\u0440\u0442\u0444\u0435\u043b\u044f \u043e\u0431\u043b\u0438\u0433\u0430\u0446\u0438\u0439 \u0420\u0424 \u2014 \u043f\u0430\u0440\u0441\u0438\u043d\u0433 \u0431\u0440\u043e\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u043e\u0442\u0447\u0451\u0442\u043e\u0432 (\u0422\u0411\u0430\u043d\u043a/\u0410\u043b\u044c\u0444\u0430/\u0421\u0431\u0435\u0440), \u0440\u0435\u0441\u0451\u0440\u0447",
-    "id": "TimurTsedik/ru-market-analyst",
+    "description": "Agent Skill for turning rough PRDs and product requirements into implementation-ready specs.",
+    "id": "wair56/prd-implementation-ready-skills",
     "language": "\u2014",
-    "name": "TimurTsedik/ru-market-analyst",
+    "name": "wair56/prd-implementation-ready-skills",
+    "stars": 0,
+    "updated_at": "2026-06-22T09:44:37Z",
+    "url": "https://github.com/wair56/prd-implementation-ready-skills"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
     "stars": 1,
-    "updated_at": "2026-06-22T09:29:30Z",
-    "url": "https://github.com/TimurTsedik/ru-market-analyst"
+    "updated_at": "2026-06-22T09:44:19Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 1,
+    "updated_at": "2026-06-22T09:44:17Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1004,
+    "updated_at": "2026-06-22T09:43:45Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 1,
+    "updated_at": "2026-06-22T09:42:53Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-06-22T09:41:51Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -14,17 +59,62 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 0,
-    "updated_at": "2026-06-22T09:26:25Z",
+    "updated_at": "2026-06-22T09:39:19Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
-    "description": "Agent Skill for turning rough PRDs and product requirements into implementation-ready specs.",
-    "id": "wair56/prd-implementation-ready-skills",
+    "description": "My Agent Skills I've created for Claude Code and can, in principle, be used with other coding assistants",
+    "id": "WhatIfWeDigDeeper/agent-skills",
+    "language": "Python",
+    "name": "WhatIfWeDigDeeper/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-06-22T09:38:52Z",
+    "url": "https://github.com/WhatIfWeDigDeeper/agent-skills"
+  },
+  {
+    "description": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audi",
+    "id": "SamurAIGPT/Generative-Media-Skills",
+    "language": "Shell",
+    "name": "SamurAIGPT/Generative-Media-Skills",
+    "stars": 3601,
+    "updated_at": "2026-06-22T09:38:26Z",
+    "url": "https://github.com/SamurAIGPT/Generative-Media-Skills"
+  },
+  {
+    "description": "Auto harness engineering meta-repo: discuss \u2192 curate \u2192 bootstrap a context-engineered project for Claude Code, Cursor, C",
+    "id": "glowElephant/context-forge",
+    "language": "Python",
+    "name": "glowElephant/context-forge",
+    "stars": 2,
+    "updated_at": "2026-06-22T09:36:58Z",
+    "url": "https://github.com/glowElephant/context-forge"
+  },
+  {
+    "description": "\u041d\u0430\u0431\u043e\u0440 \u0441\u043a\u0438\u043b\u043b\u043e\u0432 Claude Code: \u0441\u043a\u0432\u043e\u0437\u043d\u043e\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u043f\u043e\u0440\u0442\u0444\u0435\u043b\u044f \u043e\u0431\u043b\u0438\u0433\u0430\u0446\u0438\u0439 \u0420\u0424 \u2014 \u043f\u0430\u0440\u0441\u0438\u043d\u0433 \u0431\u0440\u043e\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u043e\u0442\u0447\u0451\u0442\u043e\u0432 (\u0422\u0411\u0430\u043d\u043a/\u0410\u043b\u044c\u0444\u0430/\u0421\u0431\u0435\u0440), \u0440\u0435\u0441\u0451\u0440\u0447",
+    "id": "TimurTsedik/ru-market-analyst",
     "language": "\u2014",
-    "name": "wair56/prd-implementation-ready-skills",
-    "stars": 0,
-    "updated_at": "2026-06-22T09:23:24Z",
-    "url": "https://github.com/wair56/prd-implementation-ready-skills"
+    "name": "TimurTsedik/ru-market-analyst",
+    "stars": 1,
+    "updated_at": "2026-06-22T09:35:44Z",
+    "url": "https://github.com/TimurTsedik/ru-market-analyst"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 15,
+    "updated_at": "2026-06-22T09:41:49Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-22T09:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
@@ -54,15 +144,6 @@
     "url": "https://github.com/ya5huk/findash"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-22T09:15:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T09:13:18Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1004,
-    "updated_at": "2026-06-22T09:11:10Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
     "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, cl",
@@ -121,7 +193,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 63204,
+    "stars": 63205,
     "updated_at": "2026-06-22T09:07:45Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T08:47:21Z",
     "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:47:21Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:47:20Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:47:18Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:47:13Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:46:52Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:46:46Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:46:37Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:46:24Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
   }
 ]
