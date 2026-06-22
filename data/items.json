@@ -1,5 +1,68 @@
 [
   {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 396,
+    "updated_at": "2026-06-22T17:14:07Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "\u9488\u5bf9 mingshihuichuguo.com \u6a21\u8003\u7684 Claude Code skill \u2014\u2014 \u81ea\u52a8\u6293\u9605\u8bfb/\u542c\u529b\u9519\u9898\u6570\u636e\uff0c\u6309\"\u624b\u5199\u7248\"\u4eba\u5473\u98ce\u683c\u751f\u6210\u9519\u9898\u5206\u6790 txt \u5230\u684c\u9762\u3002\u63a8\u8350\u4f7f\u7528edge\u6d4f\u89c8\u5668\u914d\u5408claudecode\uff0cplaywrigh",
+    "id": "JiHuiYiYou/msh-skill",
+    "language": "\u2014",
+    "name": "JiHuiYiYou/msh-skill",
+    "stars": 2,
+    "updated_at": "2026-06-22T17:11:50Z",
+    "url": "https://github.com/JiHuiYiYou/msh-skill"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 19 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "JavaScript",
+    "name": "chrislacey89/skills",
+    "stars": 2,
+    "updated_at": "2026-06-22T17:08:41Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "A skill for an AI agent to help it create well documented and clean pull requests",
+    "id": "yegor256/courier",
+    "language": "\u2014",
+    "name": "yegor256/courier",
+    "stars": 1,
+    "updated_at": "2026-06-22T17:06:54Z",
+    "url": "https://github.com/yegor256/courier"
+  },
+  {
+    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
+    "id": "zerooo002/claude-artifacts-local-sync",
+    "language": "\u2014",
+    "name": "zerooo002/claude-artifacts-local-sync",
+    "stars": 0,
+    "updated_at": "2026-06-22T17:00:45Z",
+    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
+  },
+  {
+    "description": "Claude asks about what actually matters, skips the rest, and shows you exactly what it guessed when you tell it not to a",
+    "id": "ahirmaan/show-your-work",
+    "language": "\u2014",
+    "name": "ahirmaan/show-your-work",
+    "stars": 1,
+    "updated_at": "2026-06-22T17:00:24Z",
+    "url": "https://github.com/ahirmaan/show-your-work"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-22T17:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
     "id": "Free-Soul/MemDreamer",
     "language": "Python",
@@ -32,7 +95,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 269,
-    "updated_at": "2026-06-22T16:58:37Z",
+    "updated_at": "2026-06-22T17:06:24Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
   },
   {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 396,
-    "updated_at": "2026-06-22T16:53:16Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
     "id": "offensive-tarichagranulosa259/seo-data",
     "language": "Python",
@@ -184,7 +238,7 @@
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1029,
+    "stars": 1030,
     "updated_at": "2026-06-22T16:52:25Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T16:48:38Z",
     "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-06-22T16:48:36Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Build AI skills that distill any person\u2019s thinking into reusable workflows and prompts",
-    "id": "gianguardant971/nuwa-skill",
-    "language": "\u2014",
-    "name": "gianguardant971/nuwa-skill",
-    "stars": 1,
-    "updated_at": "2026-06-22T16:47:56Z",
-    "url": "https://github.com/gianguardant971/nuwa-skill"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 0,
-    "updated_at": "2026-06-22T16:47:27Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 15,
-    "updated_at": "2026-06-22T16:47:22Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-06-22T16:47:18Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
-  },
-  {
-    "description": "A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic",
-    "id": "jqueryscript/awesome-claude-code",
-    "language": "\u2014",
-    "name": "jqueryscript/awesome-claude-code",
-    "stars": 436,
-    "updated_at": "2026-06-22T16:47:04Z",
-    "url": "https://github.com/jqueryscript/awesome-claude-code"
   }
 ]
