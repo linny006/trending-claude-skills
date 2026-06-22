@@ -1,5 +1,50 @@
 [
   {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-22T20:11:14Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-22T20:03:41Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Claude asks about what actually matters, skips the rest, and shows you exactly what it guessed when you tell it not to a",
+    "id": "ahirmaan/show-your-work",
+    "language": "\u2014",
+    "name": "ahirmaan/show-your-work",
+    "stars": 1,
+    "updated_at": "2026-06-22T20:01:20Z",
+    "url": "https://github.com/ahirmaan/show-your-work"
+  },
+  {
+    "description": "Skill3 is a lightweight Java CLI that relearns a technical skill for an AI agent. It discovers documentation sources, sc",
+    "id": "PIsberg/skill3",
+    "language": "Java",
+    "name": "PIsberg/skill3",
+    "stars": 0,
+    "updated_at": "2026-06-22T20:00:39Z",
+    "url": "https://github.com/PIsberg/skill3"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-22T20:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Knowledge graph extractor: Markdown (or any format) \u2192 knowledge graph with RDFS/OWL ontology",
     "id": "SenolIsci/mykg",
     "language": "Python",
@@ -16,24 +61,6 @@
     "stars": 1010,
     "updated_at": "2026-06-22T19:57:22Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Skill3 is a lightweight Java CLI that relearns a technical skill for an AI agent. It discovers documentation sources, sc",
-    "id": "PIsberg/skill3",
-    "language": "Java",
-    "name": "PIsberg/skill3",
-    "stars": 0,
-    "updated_at": "2026-06-22T19:50:50Z",
-    "url": "https://github.com/PIsberg/skill3"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-22T19:48:36Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
@@ -90,12 +117,21 @@
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
   {
+    "description": "Skills built by the Economic Mind team. Useful if you wear a Patagucci vest unironically at work. ",
+    "id": "economicmind/skills",
+    "language": "\u2014",
+    "name": "economicmind/skills",
+    "stars": 1,
+    "updated_at": "2026-06-22T19:38:20Z",
+    "url": "https://github.com/economicmind/skills"
+  },
+  {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
     "id": "danieljustus/symaira-eraseme",
     "language": "Python",
     "name": "danieljustus/symaira-eraseme",
     "stars": 2,
-    "updated_at": "2026-06-22T19:37:38Z",
+    "updated_at": "2026-06-22T20:10:18Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T19:34:50Z",
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Claude asks about what actually matters, skips the rest, and shows you exactly what it guessed when you tell it not to a",
-    "id": "ahirmaan/show-your-work",
-    "language": "\u2014",
-    "name": "ahirmaan/show-your-work",
-    "stars": 1,
-    "updated_at": "2026-06-22T19:33:10Z",
-    "url": "https://github.com/ahirmaan/show-your-work"
   },
   {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T19:16:33Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-06-22T19:16:24Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Production-ready Claude Code skills, agents, and project templates for Craft CMS 5 development",
-    "id": "michtio/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "michtio/craftcms-claude-skills",
-    "stars": 56,
-    "updated_at": "2026-06-22T19:16:00Z",
-    "url": "https://github.com/michtio/craftcms-claude-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-22T19:15:54Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
   }
 ]
