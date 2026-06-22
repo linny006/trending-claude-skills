@@ -1,5 +1,122 @@
 [
   {
+    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
+    "id": "magnusrodseth/dotfiles",
+    "language": "Shell",
+    "name": "magnusrodseth/dotfiles",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:29:28Z",
+    "url": "https://github.com/magnusrodseth/dotfiles"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:28:03Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Claude Code skills marketplace \u2014 backend & frontend engineering conventions + step-by-step third-party integration recip",
+    "id": "kennguyen887/agent-foundation",
+    "language": "Shell",
+    "name": "kennguyen887/agent-foundation",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:28:00Z",
+    "url": "https://github.com/kennguyen887/agent-foundation"
+  },
+  {
+    "description": "A beginner-friendly guide to actually using Claude Chat, Claude Code, skills, subagents, and real project workflows.",
+    "id": "RainyRoot/claude-guide",
+    "language": "\u2014",
+    "name": "RainyRoot/claude-guide",
+    "stars": 1,
+    "updated_at": "2026-06-22T13:27:00Z",
+    "url": "https://github.com/RainyRoot/claude-guide"
+  },
+  {
+    "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
+    "id": "jgsystemsconsulting/jgs-goal-spec",
+    "language": "Python",
+    "name": "jgsystemsconsulting/jgs-goal-spec",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:27:00Z",
+    "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
+  },
+  {
+    "description": "A curated list of AI-agent skills for motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, soc",
+    "id": "iart-ai/awesome-motion-skills",
+    "language": "\u2014",
+    "name": "iart-ai/awesome-motion-skills",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:24:02Z",
+    "url": "https://github.com/iart-ai/awesome-motion-skills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 28,
+    "updated_at": "2026-06-22T13:23:57Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "My personal agent skill repository, primarily focused on game development.",
+    "id": "Yuki001/game-dev-skills",
+    "language": "Python",
+    "name": "Yuki001/game-dev-skills",
+    "stars": 20,
+    "updated_at": "2026-06-22T13:21:48Z",
+    "url": "https://github.com/Yuki001/game-dev-skills"
+  },
+  {
+    "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1010,
+    "updated_at": "2026-06-22T13:25:22Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Versionierte Heimat meiner Agent Skills f\u00fcr Claude (claude.ai, Claude Code, API).",
+    "id": "wemwi/skill-library",
+    "language": "Python",
+    "name": "wemwi/skill-library",
+    "stars": 1,
+    "updated_at": "2026-06-22T13:20:14Z",
+    "url": "https://github.com/wemwi/skill-library"
+  },
+  {
+    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
+    "id": "txw842lkj-cmd/silicon-circle-skill",
+    "language": "\u2014",
+    "name": "txw842lkj-cmd/silicon-circle-skill",
+    "stars": 1,
+    "updated_at": "2026-06-22T13:17:59Z",
+    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:17:44Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-22T13:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A Claude Code plugin: UNBUILT.md is a ledger of what a project deliberately chose NOT to build \u2014 the inverse of an ADR. ",
     "id": "GRU-953/unbuilt",
     "language": "\u2014",
@@ -27,15 +144,6 @@
     "url": "https://github.com/solidx86/intraday-trade"
   },
   {
-    "description": "Claude Code skills marketplace \u2014 backend & frontend engineering conventions + step-by-step third-party integration recip",
-    "id": "kennguyen887/agent-foundation",
-    "language": "JavaScript",
-    "name": "kennguyen887/agent-foundation",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:12:13Z",
-    "url": "https://github.com/kennguyen887/agent-foundation"
-  },
-  {
     "description": "Production-grade Claude Code skills for Spring Boot developers",
     "id": "rrezartprebreza/spring-boot-skills",
     "language": "Java",
@@ -45,15 +153,6 @@
     "url": "https://github.com/rrezartprebreza/spring-boot-skills"
   },
   {
-    "description": "A curated list of AI-agent skills for motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, soc",
-    "id": "iart-ai/awesome-motion-skills",
-    "language": "\u2014",
-    "name": "iart-ai/awesome-motion-skills",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:06:30Z",
-    "url": "https://github.com/iart-ai/awesome-motion-skills"
-  },
-  {
     "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
     "id": "fabioc-aloha/Alex_Skill_Mall",
     "language": "Python",
@@ -61,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T13:00:33Z",
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-22T13:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "White-box, OSWE-style security audit for Claude Code: traces source\u2192sink, chains findings to unauthenticated RCE, verifi",
@@ -95,7 +185,7 @@
     "language": "Shell",
     "name": "yurukusa/cc-safe-setup",
     "stars": 50,
-    "updated_at": "2026-06-22T12:55:51Z",
+    "updated_at": "2026-06-22T13:29:14Z",
     "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
@@ -198,15 +288,6 @@
     "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:47:55Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
     "id": "Wyattputrescent882/ai-code-governance-skill",
     "language": "\u2014",
@@ -247,7 +328,7 @@
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1014,
+    "stars": 1015,
     "updated_at": "2026-06-22T12:44:43Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-22T12:39:27Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-22T12:38:14Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:37:40Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-06-22T12:37:14Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:37:03Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:36:25Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:36:13Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:36:07Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:36:07Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:36:01Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
   }
 ]
