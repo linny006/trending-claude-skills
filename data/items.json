@@ -1,5 +1,59 @@
 [
   {
+    "description": "Ground-first reflex for Claude Code: the agent judges complexity from its own training, grounds before acting, and is ha",
+    "id": "88plug/trigger-my-training",
+    "language": "Python",
+    "name": "88plug/trigger-my-training",
+    "stars": 0,
+    "updated_at": "2026-06-23T15:43:27Z",
+    "url": "https://github.com/88plug/trigger-my-training"
+  },
+  {
+    "description": "Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell \u2014 the AI short PJ Ace called \"one of the b",
+    "id": "jnMetaCode/ai-shortfilm-prompts",
+    "language": "Python",
+    "name": "jnMetaCode/ai-shortfilm-prompts",
+    "stars": 202,
+    "updated_at": "2026-06-23T15:34:05Z",
+    "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 370,
+    "updated_at": "2026-06-23T15:35:04Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-23T15:32:10Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-23T15:30:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-06-23T15:30:09Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -23,7 +77,7 @@
     "language": "JavaScript",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 1014,
-    "updated_at": "2026-06-23T15:26:11Z",
+    "updated_at": "2026-06-23T15:33:13Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
@@ -288,15 +342,6 @@
     "url": "https://github.com/Ocean1346/bigquery-expert"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-23T15:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
     "id": "Kara-lynnmacroeconomic2412/paper-fetch",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T15:13:28Z",
     "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Build AI skills that distill any person\u2019s thinking into reusable workflows and prompts",
-    "id": "gianguardant971/nuwa-skill",
-    "language": "\u2014",
-    "name": "gianguardant971/nuwa-skill",
-    "stars": 1,
-    "updated_at": "2026-06-23T15:13:06Z",
-    "url": "https://github.com/gianguardant971/nuwa-skill"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 0,
-    "updated_at": "2026-06-23T15:12:42Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-06-23T15:12:31Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
-    "id": "BENZEMA216/awesome-weread",
-    "language": "JavaScript",
-    "name": "BENZEMA216/awesome-weread",
-    "stars": 35,
-    "updated_at": "2026-06-23T15:12:29Z",
-    "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "Connect LINE to Claude Code with an MCP server for DMs, group chats, media downloads, and image replies",
-    "id": "coreyunfastened552/claude-line-channel",
-    "language": "TypeScript",
-    "name": "coreyunfastened552/claude-line-channel",
-    "stars": 0,
-    "updated_at": "2026-06-23T15:12:06Z",
-    "url": "https://github.com/coreyunfastened552/claude-line-channel"
   }
 ]
