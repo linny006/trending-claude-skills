@@ -1,12 +1,39 @@
 [
   {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-23T11:28:13Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 1,
+    "updated_at": "2026-06-23T11:27:12Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-06-23T11:26:09Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Scans AI-generated Next.js + Supabase code for the 21 most common security holes (exposed secrets, broken access control",
+    "id": "edilkoke/vibeguard",
     "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 65,
-    "updated_at": "2026-06-23T11:14:52Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+    "name": "edilkoke/vibeguard",
+    "stars": 0,
+    "updated_at": "2026-06-23T11:25:57Z",
+    "url": "https://github.com/edilkoke/vibeguard"
   },
   {
     "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous m",
@@ -14,8 +41,35 @@
     "language": "JavaScript",
     "name": "zeikar/hyperclaude",
     "stars": 3,
-    "updated_at": "2026-06-23T11:14:46Z",
+    "updated_at": "2026-06-23T11:23:58Z",
     "url": "https://github.com/zeikar/hyperclaude"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 65,
+    "updated_at": "2026-06-23T11:17:48Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "An Israeli Claude Finance Plugin",
+    "id": "ya5huk/findash",
+    "language": "Python",
+    "name": "ya5huk/findash",
+    "stars": 16,
+    "updated_at": "2026-06-23T11:16:32Z",
+    "url": "https://github.com/ya5huk/findash"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-23T11:15:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
@@ -43,15 +97,6 @@
     "stars": 24,
     "updated_at": "2026-06-23T11:09:30Z",
     "url": "https://github.com/mralaminahamed/wp-dev-skills"
-  },
-  {
-    "description": "Scans AI-generated Next.js + Supabase code for the 21 most common security holes (exposed secrets, broken access control",
-    "id": "edilkoke/vibeguard",
-    "language": "TypeScript",
-    "name": "edilkoke/vibeguard",
-    "stars": 0,
-    "updated_at": "2026-06-23T11:08:55Z",
-    "url": "https://github.com/edilkoke/vibeguard"
   },
   {
     "description": "MCP server that suggests repository-specific AI agent skills.",
@@ -99,21 +144,12 @@
     "url": "https://github.com/dizhouid-lgtm/pixboom-recruiting"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-23T11:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
     "id": "a5c-ai/babysitter",
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1397,
-    "updated_at": "2026-06-23T10:55:48Z",
+    "updated_at": "2026-06-23T11:17:06Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "WhatIfWeDigDeeper/agent-skills",
     "stars": 2,
-    "updated_at": "2026-06-23T10:42:36Z",
+    "updated_at": "2026-06-23T11:15:54Z",
     "url": "https://github.com/WhatIfWeDigDeeper/agent-skills"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T10:16:36Z",
     "url": "https://github.com/vinsonconsulting/jims-filing-cabinet-of-claude-skills"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:14:47Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:14:25Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:13:26Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-06-23T10:13:15Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
   }
 ]
