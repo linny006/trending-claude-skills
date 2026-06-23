@@ -1,19 +1,109 @@
 [
   {
+    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
+    "id": "yinjialu/ai-frontier-daily",
+    "language": "Python",
+    "name": "yinjialu/ai-frontier-daily",
+    "stars": 0,
+    "updated_at": "2026-06-23T13:29:24Z",
+    "url": "https://github.com/yinjialu/ai-frontier-daily"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-23T13:28:14Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1159,
+    "updated_at": "2026-06-23T13:28:14Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Claude Code plugin + MCP server for ComfyUI \u2014 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing fr",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 174,
+    "updated_at": "2026-06-23T13:25:18Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
     "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
     "id": "boshu2/agentops",
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 397,
-    "updated_at": "2026-06-23T13:14:19Z",
+    "updated_at": "2026-06-23T13:25:01Z",
     "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Package manager for Claude Code skills and agents and other AI related resources",
+    "id": "mensfeld/craftdesk",
+    "language": "TypeScript",
+    "name": "mensfeld/craftdesk",
+    "stars": 62,
+    "updated_at": "2026-06-23T13:22:32Z",
+    "url": "https://github.com/mensfeld/craftdesk"
+  },
+  {
+    "description": "Fusion-style multi-agent research skill for Claude Code: spawn N sub-agents in parallel, then Judge + synthesize while p",
+    "id": "DQT-bit/claude-skill-sansheng",
+    "language": "\u2014",
+    "name": "DQT-bit/claude-skill-sansheng",
+    "stars": 0,
+    "updated_at": "2026-06-23T13:18:24Z",
+    "url": "https://github.com/DQT-bit/claude-skill-sansheng"
+  },
+  {
+    "description": "Agent Skill that quizzes you on its own answers \u2014 one multiple-choice question after each substantive reply, graded and ",
+    "id": "Norma-Vault/recall-quiz",
+    "language": "\u2014",
+    "name": "Norma-Vault/recall-quiz",
+    "stars": 0,
+    "updated_at": "2026-06-23T13:22:04Z",
+    "url": "https://github.com/Norma-Vault/recall-quiz"
+  },
+  {
+    "description": "Turn any idea or article into hand-drawn editorial illustrations starring your own character \u2014 free on your ChatGPT/Code",
+    "id": "caezium/nib",
+    "language": "TypeScript",
+    "name": "caezium/nib",
+    "stars": 1,
+    "updated_at": "2026-06-23T13:16:21Z",
+    "url": "https://github.com/caezium/nib"
+  },
+  {
+    "description": "\u26a1 Fast /my-skills catalog plugin for Claude Code \u2014 scan all installed skills, plugins & commands in seconds, not minutes",
+    "id": "2eeYuan/my-skills",
+    "language": "\u2014",
+    "name": "2eeYuan/my-skills",
+    "stars": 0,
+    "updated_at": "2026-06-23T13:15:31Z",
+    "url": "https://github.com/2eeYuan/my-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-23T13:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
     "id": "Kaelio/ktx",
     "language": "TypeScript",
     "name": "Kaelio/ktx",
-    "stars": 1359,
+    "stars": 1360,
     "updated_at": "2026-06-23T13:09:37Z",
     "url": "https://github.com/Kaelio/ktx"
   },
@@ -52,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T13:06:13Z",
     "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
-    "id": "yinjialu/ai-frontier-daily",
-    "language": "Python",
-    "name": "yinjialu/ai-frontier-daily",
-    "stars": 0,
-    "updated_at": "2026-06-23T13:07:07Z",
-    "url": "https://github.com/yinjialu/ai-frontier-daily"
   },
   {
     "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T13:03:52Z",
     "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "\u26a1 Fast /my-skills catalog plugin for Claude Code \u2014 scan all installed skills, plugins & commands in seconds, not minutes",
-    "id": "2eeYuan/my-skills",
-    "language": "\u2014",
-    "name": "2eeYuan/my-skills",
-    "stars": 0,
-    "updated_at": "2026-06-23T13:03:26Z",
-    "url": "https://github.com/2eeYuan/my-skills"
   },
   {
     "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
@@ -180,15 +252,6 @@
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-23T13:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
     "id": "offensive-tarichagranulosa259/seo-data",
     "language": "Python",
@@ -196,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-06-23T12:59:54Z",
     "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Turn any idea or article into hand-drawn editorial illustrations starring your own character \u2014 free on your ChatGPT/Code",
-    "id": "caezium/nib",
-    "language": "TypeScript",
-    "name": "caezium/nib",
-    "stars": 1,
-    "updated_at": "2026-06-23T12:59:52Z",
-    "url": "https://github.com/caezium/nib"
   },
   {
     "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
@@ -387,15 +441,6 @@
     "url": "https://github.com/Georgiannebedded725/zenodo-skill"
   },
   {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1159,
-    "updated_at": "2026-06-23T12:56:20Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
     "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
     "id": "allans4635/memctx",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T12:56:17Z",
     "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-06-23T12:56:17Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-06-23T12:56:16Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-06-23T12:56:01Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-06-23T12:56:00Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 1,
-    "updated_at": "2026-06-23T12:55:54Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
   }
 ]
