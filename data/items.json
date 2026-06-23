@@ -1,5 +1,23 @@
 [
   {
+    "description": "Provide and maintain a community-driven collection of standardized Agent Skills for Claude AI using the SKILL.md format",
+    "id": "Marine-softdrink524/claude-skills",
+    "language": "\u2014",
+    "name": "Marine-softdrink524/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-23T17:59:36Z",
+    "url": "https://github.com/Marine-softdrink524/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-23T17:59:32Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Build structured, causal stories using modular AI tools based on classic story frameworks for stronger premises, charact",
     "id": "Anusd6703/writers-room-story-engine",
     "language": "\u2014",
@@ -7,6 +25,24 @@
     "stars": 1,
     "updated_at": "2026-06-23T17:59:17Z",
     "url": "https://github.com/Anusd6703/writers-room-story-engine"
+  },
+  {
+    "description": "Provides tools to streamline computational chemistry and drug discovery workflows using Claude Code integration.",
+    "id": "TUKU-DEV3/ALKYL",
+    "language": "\u2014",
+    "name": "TUKU-DEV3/ALKYL",
+    "stars": 0,
+    "updated_at": "2026-06-23T17:59:14Z",
+    "url": "https://github.com/TUKU-DEV3/ALKYL"
+  },
+  {
+    "description": "Generate production-ready AI agent skills through a verified 7-step process with automated auditing, optimization, and p",
+    "id": "kographh/skillforge",
+    "language": "\u2014",
+    "name": "kographh/skillforge",
+    "stars": 0,
+    "updated_at": "2026-06-23T17:59:09Z",
+    "url": "https://github.com/kographh/skillforge"
   },
   {
     "description": "Provide AI agents with continuous identity and persistent memory across sessions and devices using a Git-native, open fr",
@@ -50,7 +86,7 @@
     "language": "Shell",
     "name": "bitcoin21ideas/skills",
     "stars": 1,
-    "updated_at": "2026-06-23T17:58:06Z",
+    "updated_at": "2026-06-23T18:00:07Z",
     "url": "https://github.com/bitcoin21ideas/skills"
   },
   {
@@ -351,15 +387,6 @@
     "url": "https://github.com/mrdenox109-nyx/skill-manager"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-23T17:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "morganmuli/metaskill",
     "language": "Shell",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-23T17:39:31Z",
     "url": "https://github.com/windows150/openclaw-adapter"
-  },
-  {
-    "description": "\ud83e\udd4b Teach yourself coding in real-time using your own projects with this free, open-source Claude Code plugin for active l",
-    "id": "wewpellex21/code-sensei",
-    "language": "Shell",
-    "name": "wewpellex21/code-sensei",
-    "stars": 3,
-    "updated_at": "2026-06-23T17:38:39Z",
-    "url": "https://github.com/wewpellex21/code-sensei"
-  },
-  {
-    "description": "\u2699\ufe0f Manage and sync AI coding assistant skills across multiple platforms to streamline development with Claude Code, Code",
-    "id": "fengaiyunzi/Skills-Manager",
-    "language": "\u2014",
-    "name": "fengaiyunzi/Skills-Manager",
-    "stars": 2,
-    "updated_at": "2026-06-23T17:38:29Z",
-    "url": "https://github.com/fengaiyunzi/Skills-Manager"
-  },
-  {
-    "description": "My Claude scripts for ~/.claude",
-    "id": "nigelhorne/claude",
-    "language": "\u2014",
-    "name": "nigelhorne/claude",
-    "stars": 0,
-    "updated_at": "2026-06-23T17:38:22Z",
-    "url": "https://github.com/nigelhorne/claude"
   }
 ]
