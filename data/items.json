@@ -1,5 +1,41 @@
 [
   {
+    "description": "Turn an idea or article into original editorial illustrations starring an avatar you own \u2014 a free agent skill (Claude Co",
+    "id": "caezium/nib",
+    "language": "TypeScript",
+    "name": "caezium/nib",
+    "stars": 0,
+    "updated_at": "2026-06-23T03:44:09Z",
+    "url": "https://github.com/caezium/nib"
+  },
+  {
+    "description": "Diagnose where a product should focus its growth efforts. A Claude Agent Skill (open SKILL.md format) that builds a driv",
+    "id": "hdham9/product-growth-skills",
+    "language": "\u2014",
+    "name": "hdham9/product-growth-skills",
+    "stars": 0,
+    "updated_at": "2026-06-23T03:40:19Z",
+    "url": "https://github.com/hdham9/product-growth-skills"
+  },
+  {
+    "description": "\u9488\u5bf9 mingshihuichuguo.com \u6a21\u8003\u7684 Claude Code skill \u2014\u2014 \u81ea\u52a8\u6293\u9605\u8bfb/\u542c\u529b\u9519\u9898\u6570\u636e\uff0c\u6309\"\u624b\u5199\u7248\"\u4eba\u5473\u98ce\u683c\u751f\u6210\u9519\u9898\u5206\u6790 txt \u5230\u684c\u9762\u3002\u63a8\u8350\u4f7f\u7528edge\u6d4f\u89c8\u5668\u914d\u5408claudecode\uff0cplaywrigh",
+    "id": "JiHuiYiYou/msh-skill",
+    "language": "\u2014",
+    "name": "JiHuiYiYou/msh-skill",
+    "stars": 2,
+    "updated_at": "2026-06-23T03:34:51Z",
+    "url": "https://github.com/JiHuiYiYou/msh-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-23T03:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
     "id": "ikaijua/Awesome-AITools",
     "language": "Python",
@@ -18,15 +54,6 @@
     "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   },
   {
-    "description": "Turn an idea or article into original editorial illustrations starring an avatar you own \u2014 a free agent skill (Claude Co",
-    "id": "caezium/nib",
-    "language": "TypeScript",
-    "name": "caezium/nib",
-    "stars": 0,
-    "updated_at": "2026-06-23T03:26:04Z",
-    "url": "https://github.com/caezium/nib"
-  },
-  {
     "description": "Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 15",
     "id": "kensaurus/cursor-kenji",
     "language": "JavaScript",
@@ -34,15 +61,6 @@
     "stars": 4,
     "updated_at": "2026-06-23T03:20:38Z",
     "url": "https://github.com/kensaurus/cursor-kenji"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-23T03:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
@@ -430,23 +448,5 @@
     "stars": 2894,
     "updated_at": "2026-06-23T02:53:14Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-06-23T02:52:58Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Build AI skills that distill any person\u2019s thinking into reusable workflows and prompts",
-    "id": "gianguardant971/nuwa-skill",
-    "language": "\u2014",
-    "name": "gianguardant971/nuwa-skill",
-    "stars": 1,
-    "updated_at": "2026-06-23T02:52:45Z",
-    "url": "https://github.com/gianguardant971/nuwa-skill"
   }
 ]
