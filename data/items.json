@@ -1,5 +1,50 @@
 [
   {
+    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
+    "id": "mickzijdel/dev-hooks",
+    "language": "Python",
+    "name": "mickzijdel/dev-hooks",
+    "stars": 0,
+    "updated_at": "2026-06-23T00:41:08Z",
+    "url": "https://github.com/mickzijdel/dev-hooks"
+  },
+  {
+    "description": "A growing library of my published Claude Code skills \u2014 drop one into ~/.claude/skills/ and go.",
+    "id": "MattModeCode/claude-skills",
+    "language": "\u2014",
+    "name": "MattModeCode/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-23T00:42:47Z",
+    "url": "https://github.com/MattModeCode/claude-skills"
+  },
+  {
+    "description": "Open-source brand skills that turn an idea into a real brand \u2014 name, identity, voice & brand book \u2014 without leaving your",
+    "id": "cofoundy/brand-skills",
+    "language": "Shell",
+    "name": "cofoundy/brand-skills",
+    "stars": 3,
+    "updated_at": "2026-06-23T00:36:39Z",
+    "url": "https://github.com/cofoundy/brand-skills"
+  },
+  {
+    "description": "White-box, OSWE-style security audit for Claude Code: traces source\u2192sink, chains findings to unauthenticated RCE, verifi",
+    "id": "Laucked-Security/claude-oswe",
+    "language": "JavaScript",
+    "name": "Laucked-Security/claude-oswe",
+    "stars": 1,
+    "updated_at": "2026-06-23T00:33:27Z",
+    "url": "https://github.com/Laucked-Security/claude-oswe"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-23T00:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\uddbe Skills for Requiems API",
     "id": "bobadilla-tech/requiems-api-skills",
     "language": "TypeScript",
@@ -7,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-06-23T00:28:59Z",
     "url": "https://github.com/bobadilla-tech/requiems-api-skills"
-  },
-  {
-    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
-    "id": "mickzijdel/dev-hooks",
-    "language": "Python",
-    "name": "mickzijdel/dev-hooks",
-    "stars": 0,
-    "updated_at": "2026-06-23T00:28:57Z",
-    "url": "https://github.com/mickzijdel/dev-hooks"
   },
   {
     "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
@@ -139,7 +175,7 @@
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1098,
+    "stars": 1099,
     "updated_at": "2026-06-23T00:17:58Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T00:16:35Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-23T00:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-23T00:12:16Z",
     "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-23T00:12:03Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-06-23T00:11:50Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-06-23T00:11:44Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
   }
 ]
