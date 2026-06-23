@@ -1,5 +1,257 @@
 [
   {
+    "description": "\ud83e\udde0 Empower Claude with memory to enhance code debugging and conversation recall, turning ephemeral chats into lasting ins",
+    "id": "2josEx/claude-brain",
+    "language": "JavaScript",
+    "name": "2josEx/claude-brain",
+    "stars": 3,
+    "updated_at": "2026-06-23T01:58:40Z",
+    "url": "https://github.com/2josEx/claude-brain"
+  },
+  {
+    "description": "\ud83e\udd16 Explore essential AI tools for building, automating, and monetizing projects across content, video, e-commerce, and mo",
+    "id": "foodman1227/awesome-ai-tools",
+    "language": "\u2014",
+    "name": "foodman1227/awesome-ai-tools",
+    "stars": 7,
+    "updated_at": "2026-06-23T01:57:42Z",
+    "url": "https://github.com/foodman1227/awesome-ai-tools"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 65,
+    "updated_at": "2026-06-23T01:57:01Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-06-23T01:54:29Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "\ud83d\udce6 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an",
+    "id": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "language": "Python",
+    "name": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:52:45Z",
+    "url": "https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Monitor your Claude Code sessions effortlessly on macOS with real-time status updates and quick access features for a ",
+    "id": "zenithpd/agent-sessions",
+    "language": "Rust",
+    "name": "zenithpd/agent-sessions",
+    "stars": 7,
+    "updated_at": "2026-06-23T01:52:17Z",
+    "url": "https://github.com/zenithpd/agent-sessions"
+  },
+  {
+    "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
+    "id": "bitjaru/styleseed",
+    "language": "TypeScript",
+    "name": "bitjaru/styleseed",
+    "stars": 574,
+    "updated_at": "2026-06-23T01:51:27Z",
+    "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "Connect Claude to your project tracker and let it draft, file, and organize the work.",
+    "id": "aouellets/project-management",
+    "language": "\u2014",
+    "name": "aouellets/project-management",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:51:23Z",
+    "url": "https://github.com/aouellets/project-management"
+  },
+  {
+    "description": "The operator stack to fill, sell, and scale a gym \u2014 12 Claude skills from skillme.dev",
+    "id": "aouellets/gym-growth-engine",
+    "language": "\u2014",
+    "name": "aouellets/gym-growth-engine",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:50:41Z",
+    "url": "https://github.com/aouellets/gym-growth-engine"
+  },
+  {
+    "description": "Hire, onboard, and run a team fairly \u2014 without a full HR department.",
+    "id": "aouellets/people-ops-recruiting",
+    "language": "\u2014",
+    "name": "aouellets/people-ops-recruiting",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:50:35Z",
+    "url": "https://github.com/aouellets/people-ops-recruiting"
+  },
+  {
+    "description": "From product page to abandoned-cart flow \u2014 copy that converts.",
+    "id": "aouellets/ecommerce-dtc-ops",
+    "language": "\u2014",
+    "name": "aouellets/ecommerce-dtc-ops",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:50:30Z",
+    "url": "https://github.com/aouellets/ecommerce-dtc-ops"
+  },
+  {
+    "description": "A month of on-brand posts, repurposed everywhere, in an afternoon.",
+    "id": "aouellets/social-media-studio",
+    "language": "\u2014",
+    "name": "aouellets/social-media-studio",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:50:24Z",
+    "url": "https://github.com/aouellets/social-media-studio"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:50:22Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Turn a keyword into ranked, AI-search-ready content \u2014 end to end.",
+    "id": "aouellets/seo-organic-growth",
+    "language": "\u2014",
+    "name": "aouellets/seo-organic-growth",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:50:18Z",
+    "url": "https://github.com/aouellets/seo-organic-growth"
+  },
+  {
+    "description": "Ship integrations that survive retries, rate limits, and breaking changes.",
+    "id": "aouellets/api-integration-engineering",
+    "language": "\u2014",
+    "name": "aouellets/api-integration-engineering",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:50:13Z",
+    "url": "https://github.com/aouellets/api-integration-engineering"
+  },
+  {
+    "description": "Build and ship native and cross-platform mobile apps with Claude.",
+    "id": "aouellets/mobile-app-engineering",
+    "language": "\u2014",
+    "name": "aouellets/mobile-app-engineering",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:50:07Z",
+    "url": "https://github.com/aouellets/mobile-app-engineering"
+  },
+  {
+    "description": "Build a test suite that actually catches bugs \u2014 and stops flaking.",
+    "id": "aouellets/qa-test-automation",
+    "language": "\u2014",
+    "name": "aouellets/qa-test-automation",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:50:01Z",
+    "url": "https://github.com/aouellets/qa-test-automation"
+  },
+  {
+    "description": "Move old code to modern stacks without a risky big-bang rewrite.",
+    "id": "aouellets/legacy-modernization",
+    "language": "\u2014",
+    "name": "aouellets/legacy-modernization",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:49:56Z",
+    "url": "https://github.com/aouellets/legacy-modernization"
+  },
+  {
+    "description": "Make slow queries fast and keep your database healthy under load.",
+    "id": "aouellets/database-performance",
+    "language": "\u2014",
+    "name": "aouellets/database-performance",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:49:50Z",
+    "url": "https://github.com/aouellets/database-performance"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:49:46Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Author, test, and curate Claude Agent Skills with confidence",
+    "id": "aouellets/skill-builder-studio",
+    "language": "\u2014",
+    "name": "aouellets/skill-builder-studio",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:49:44Z",
+    "url": "https://github.com/aouellets/skill-builder-studio"
+  },
+  {
+    "description": "Six skills for building brands that look intentional from day one.",
+    "id": "aouellets/brand-visual-identity",
+    "language": "\u2014",
+    "name": "aouellets/brand-visual-identity",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:49:39Z",
+    "url": "https://github.com/aouellets/brand-visual-identity"
+  },
+  {
+    "description": "Build a solid financial foundation \u2014 budget, pay off debt, and plan for the future.",
+    "id": "aouellets/personal-finance-mastery",
+    "language": "\u2014",
+    "name": "aouellets/personal-finance-mastery",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:49:33Z",
+    "url": "https://github.com/aouellets/personal-finance-mastery"
+  },
+  {
+    "description": "Audit, test, and scale paid channels with rigorous, data-driven playbooks.",
+    "id": "aouellets/performance-marketing",
+    "language": "\u2014",
+    "name": "aouellets/performance-marketing",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:49:28Z",
+    "url": "https://github.com/aouellets/performance-marketing"
+  },
+  {
+    "description": "Map journeys, activate users, and protect your sender reputation end to end.",
+    "id": "aouellets/lifecycle-marketing",
+    "language": "\u2014",
+    "name": "aouellets/lifecycle-marketing",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:49:22Z",
+    "url": "https://github.com/aouellets/lifecycle-marketing"
+  },
+  {
+    "description": "Evidence-informed skills for building strength, mobility, and lasting health.",
+    "id": "aouellets/health-and-longevity",
+    "language": "\u2014",
+    "name": "aouellets/health-and-longevity",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:49:16Z",
+    "url": "https://github.com/aouellets/health-and-longevity"
+  },
+  {
+    "description": "Close the books, build the forecast, and control spend with precision.",
+    "id": "aouellets/finance-accounting-ops",
+    "language": "\u2014",
+    "name": "aouellets/finance-accounting-ops",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:49:10Z",
+    "url": "https://github.com/aouellets/finance-accounting-ops"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-23T01:49:09Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Plan, assess, and differentiate \u2014 everything a teacher needs in one pack.",
     "id": "aouellets/educators-toolkit",
     "language": "\u2014",
@@ -189,15 +441,6 @@
     "url": "https://github.com/aouellets/full-stack-web-dev"
   },
   {
-    "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
-    "id": "bitjaru/styleseed",
-    "language": "TypeScript",
-    "name": "bitjaru/styleseed",
-    "stars": 573,
-    "updated_at": "2026-06-23T01:47:41Z",
-    "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
     "description": "Roadmaps, specs, sprints, and analytics \u2014 the PM\u2019s full operating kit.",
     "id": "aouellets/product-manager-stack",
     "language": "\u2014",
@@ -205,248 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T01:47:14Z",
     "url": "https://github.com/aouellets/product-manager-stack"
-  },
-  {
-    "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
-    "id": "thairns/claude-rubycritic-skill",
-    "language": "\u2014",
-    "name": "thairns/claude-rubycritic-skill",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:47:11Z",
-    "url": "https://github.com/thairns/claude-rubycritic-skill"
-  },
-  {
-    "description": "Ship LLM features that work \u2014 prompts, evals, agents, and MCP servers.",
-    "id": "aouellets/ai-engineer-toolkit",
-    "language": "\u2014",
-    "name": "aouellets/ai-engineer-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:47:09Z",
-    "url": "https://github.com/aouellets/ai-engineer-toolkit"
-  },
-  {
-    "description": "Build the habits, focus, and systems that compound \u2014 your life, run like a product.",
-    "id": "aouellets/personal-operating-system",
-    "language": "\u2014",
-    "name": "aouellets/personal-operating-system",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:47:03Z",
-    "url": "https://github.com/aouellets/personal-operating-system"
-  },
-  {
-    "description": "Literature reviews, systematic reviews, citations, and policy briefs.",
-    "id": "aouellets/academic-researcher",
-    "language": "\u2014",
-    "name": "aouellets/academic-researcher",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:57Z",
-    "url": "https://github.com/aouellets/academic-researcher"
-  },
-  {
-    "description": "Infrastructure as code, CI/CD, containers, and observability.",
-    "id": "aouellets/devops-platform-engineer",
-    "language": "\u2014",
-    "name": "aouellets/devops-platform-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:52Z",
-    "url": "https://github.com/aouellets/devops-platform-engineer"
-  },
-  {
-    "description": "Run a tight remote team without drowning in meetings.",
-    "id": "aouellets/remote-team-toolkit",
-    "language": "\u2014",
-    "name": "aouellets/remote-team-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:46Z",
-    "url": "https://github.com/aouellets/remote-team-toolkit"
-  },
-  {
-    "description": "Unique per-session agent names + iMessage routing for Claude Code and Hermes. Address sessions by name (Frank, Steven, \u2026",
-    "id": "heyfinal/callsign",
-    "language": "Python",
-    "name": "heyfinal/callsign",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:46Z",
-    "url": "https://github.com/heyfinal/callsign"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
-    "id": "Junayedahmedd/gemini_cli_skill",
-    "language": "\u2014",
-    "name": "Junayedahmedd/gemini_cli_skill",
-    "stars": 3,
-    "updated_at": "2026-06-23T01:46:44Z",
-    "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
-  },
-  {
-    "description": "Acquisition, activation, retention \u2014 the full SaaS growth toolkit.",
-    "id": "aouellets/saas-growth-stack",
-    "language": "\u2014",
-    "name": "aouellets/saas-growth-stack",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:40Z",
-    "url": "https://github.com/aouellets/saas-growth-stack"
-  },
-  {
-    "description": "From raw data to board-ready insights, every step covered.",
-    "id": "aouellets/data-analyst-toolkit",
-    "language": "\u2014",
-    "name": "aouellets/data-analyst-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:35Z",
-    "url": "https://github.com/aouellets/data-analyst-toolkit"
-  },
-  {
-    "description": "NDA triage, contract review, terms drafting \u2014 the essentials for in-house legal.",
-    "id": "aouellets/legal-team-starter",
-    "language": "\u2014",
-    "name": "aouellets/legal-team-starter",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:29Z",
-    "url": "https://github.com/aouellets/legal-team-starter"
-  },
-  {
-    "description": "The git, review, and release workflow every senior engineer already uses.",
-    "id": "aouellets/engineering-workflow",
-    "language": "\u2014",
-    "name": "aouellets/engineering-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:24Z",
-    "url": "https://github.com/aouellets/engineering-workflow"
-  },
-  {
-    "description": "LinkedIn, Twitter, blog, newsletter \u2014 one pack, every channel.",
-    "id": "aouellets/content-marketing-engine",
-    "language": "\u2014",
-    "name": "aouellets/content-marketing-engine",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:18Z",
-    "url": "https://github.com/aouellets/content-marketing-engine"
-  },
-  {
-    "description": "From tokens to components to documentation \u2014 the complete design system workflow.",
-    "id": "aouellets/design-system-builder",
-    "language": "\u2014",
-    "name": "aouellets/design-system-builder",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:13Z",
-    "url": "https://github.com/aouellets/design-system-builder"
-  },
-  {
-    "description": "Everything a solo founder needs from idea to first $10k MRR.",
-    "id": "aouellets/solo-founder-stack",
-    "language": "\u2014",
-    "name": "aouellets/solo-founder-stack",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:46:07Z",
-    "url": "https://github.com/aouellets/solo-founder-stack"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
-    "id": "Kayunangka/claude-skill",
-    "language": "\u2014",
-    "name": "Kayunangka/claude-skill",
-    "stars": 5,
-    "updated_at": "2026-06-23T01:46:04Z",
-    "url": "https://github.com/Kayunangka/claude-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-23T01:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
-    "id": "Mann1988/awesome-claude-skills",
-    "language": "Python",
-    "name": "Mann1988/awesome-claude-skills",
-    "stars": 62,
-    "updated_at": "2026-06-23T01:39:57Z",
-    "url": "https://github.com/Mann1988/awesome-claude-skills"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 8,
-    "updated_at": "2026-06-23T01:38:49Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
-    "id": "428alexander9/claude-skills-marketplace",
-    "language": "Python",
-    "name": "428alexander9/claude-skills-marketplace",
-    "stars": 1,
-    "updated_at": "2026-06-23T01:37:30Z",
-    "url": "https://github.com/428alexander9/claude-skills-marketplace"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:34:09Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:34:01Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:28:16Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:25:27Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 1,
-    "updated_at": "2026-06-23T01:25:18Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-06-23T01:24:27Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 2,
-    "updated_at": "2026-06-23T01:44:02Z",
-    "url": "https://github.com/fworks-tech/agenthood"
   }
 ]
