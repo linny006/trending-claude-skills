@@ -1,5 +1,86 @@
 [
   {
+    "description": "A collection of utility scripts and tools that streamline my daily development workflow.",
+    "id": "FarzamMohammadi/dev-toolbox",
+    "language": "Python",
+    "name": "FarzamMohammadi/dev-toolbox",
+    "stars": 1,
+    "updated_at": "2026-06-24T23:28:35Z",
+    "url": "https://github.com/FarzamMohammadi/dev-toolbox"
+  },
+  {
+    "description": "My personal Claude Code skills, open-sourced one at a time. First up: ai-audit for detecting AI slop.",
+    "id": "Ajeesh25353646/claude-skills",
+    "language": "Shell",
+    "name": "Ajeesh25353646/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:26:36Z",
+    "url": "https://github.com/Ajeesh25353646/claude-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 84125,
+    "updated_at": "2026-06-24T23:25:41Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Agent skills for Claude Code and other agentskills.io-compatible agents. See https://developertoolkit.ai for more inform",
+    "id": "wondelai/skills",
+    "language": "Shell",
+    "name": "wondelai/skills",
+    "stars": 1446,
+    "updated_at": "2026-06-24T23:22:57Z",
+    "url": "https://github.com/wondelai/skills"
+  },
+  {
+    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
+    "id": "pedroberaldo87/pedro-plugins",
+    "language": "HTML",
+    "name": "pedroberaldo87/pedro-plugins",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:20:52Z",
+    "url": "https://github.com/pedroberaldo87/pedro-plugins"
+  },
+  {
+    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
+    "id": "yinjialu/ai-frontier-daily",
+    "language": "Python",
+    "name": "yinjialu/ai-frontier-daily",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:20:43Z",
+    "url": "https://github.com/yinjialu/ai-frontier-daily"
+  },
+  {
+    "description": "Claude code skills i've seen as useful",
+    "id": "miko-kortelainen/skills",
+    "language": "\u2014",
+    "name": "miko-kortelainen/skills",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:17:01Z",
+    "url": "https://github.com/miko-kortelainen/skills"
+  },
+  {
+    "description": "Agent Skills for buying & selling APIs, data, and compute over Bitcoin Lightning, agent-to-agent \u2014 non-custodial, accoun",
+    "id": "hypawave/skills",
+    "language": "JavaScript",
+    "name": "hypawave/skills",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:16:37Z",
+    "url": "https://github.com/hypawave/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 7,
+    "updated_at": "2026-06-24T23:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -72,15 +153,6 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
-    "description": "My personal Claude Code skills, open-sourced one at a time. First up: ai-audit for detecting AI slop.",
-    "id": "Ajeesh25353646/claude-skills",
-    "language": "Shell",
-    "name": "Ajeesh25353646/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-24T23:09:00Z",
-    "url": "https://github.com/Ajeesh25353646/claude-skills"
-  },
-  {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
     "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
     "language": "HTML",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T23:07:02Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 7,
-    "updated_at": "2026-06-24T23:06:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -198,15 +261,6 @@
     "url": "https://github.com/AndriyKalashnykov/flight-path"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 84122,
-    "updated_at": "2026-06-24T22:47:17Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "Autonomous skill OS for Claude Code \u2014 1500+ skills, self-invoking, self-learning, self-healing, live Arsenal dashboard",
     "id": "mmarszalec-art/jutsu",
     "language": "Python",
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 2,
-    "updated_at": "2026-06-24T23:14:02Z",
+    "updated_at": "2026-06-24T23:29:40Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T22:10:25Z",
     "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-06-24T22:10:16Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-06-24T22:10:07Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-06-24T22:10:04Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-06-24T22:09:52Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-24T22:09:20Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-24T22:09:06Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
   }
 ]
