@@ -1,5 +1,77 @@
 [
   {
+    "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1015,
+    "updated_at": "2026-06-24T07:28:34Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 63434,
+    "updated_at": "2026-06-24T07:29:06Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
+    "id": "Tibsfox/gsd-skill-creator",
+    "language": "TypeScript",
+    "name": "Tibsfox/gsd-skill-creator",
+    "stars": 65,
+    "updated_at": "2026-06-24T07:26:35Z",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator"
+  },
+  {
+    "description": "Claude Code template for editorial HTML presentations. Brand auto-onboarding from a website URL, single standalone .html",
+    "id": "Littlpinguin/slides-agent",
+    "language": "HTML",
+    "name": "Littlpinguin/slides-agent",
+    "stars": 0,
+    "updated_at": "2026-06-24T07:26:03Z",
+    "url": "https://github.com/Littlpinguin/slides-agent"
+  },
+  {
+    "description": "\u4e0d\u6559\u4f60\u5199\u4ee3\u7801,\u6559\u4f60\u628a\"\u7528 AI \u5199\u4ee3\u7801\"\u5f7b\u5e95\u60f3\u660e\u767d \u2014 \u7ed9\u975e\u6280\u672f\u4ea7\u54c1\u4eba\u7684 vibe coding \u89c4\u5212\u5de5\u5177\u5305",
+    "id": "Junliu1066/vibe-coding-kit",
+    "language": "\u2014",
+    "name": "Junliu1066/vibe-coding-kit",
+    "stars": 96,
+    "updated_at": "2026-06-24T07:24:30Z",
+    "url": "https://github.com/Junliu1066/vibe-coding-kit"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 91,
+    "updated_at": "2026-06-24T07:19:26Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Odoo development skills for AI coding agents \u2014 a Claude Code plugin (also Codex & Gemini CLI) packaging PSDU principles ",
+    "id": "omas-odoo/odoo-superpowers",
+    "language": "Shell",
+    "name": "omas-odoo/odoo-superpowers",
+    "stars": 1,
+    "updated_at": "2026-06-24T07:15:35Z",
+    "url": "https://github.com/omas-odoo/odoo-superpowers"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-24T07:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skill + CLI for multi-agent adversarial review of plans & specs before you execute them. Runs on the Claude Code /",
     "id": "hiadrianchen/challenge-plans",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/kyoungbinkim/give-me-job"
   },
   {
-    "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "JavaScript",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1015,
-    "updated_at": "2026-06-24T07:10:52Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
     "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companie",
     "id": "Infrasity-Labs/dev-gtm-claude-skills",
     "language": "Python",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T07:09:02Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-24T07:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T06:44:54Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 63431,
-    "updated_at": "2026-06-24T07:11:23Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T06:32:08Z",
     "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-06-24T06:32:05Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:32:02Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-24T06:31:39Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-24T06:31:34Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-06-24T06:31:31Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
   }
 ]
