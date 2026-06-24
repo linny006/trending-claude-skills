@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83d\udce6 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an",
+    "id": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "language": "Python",
+    "name": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "stars": 0,
+    "updated_at": "2026-06-24T03:14:10Z",
+    "url": "https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill"
+  },
+  {
+    "description": "My personal agent skill repository, primarily focused on game development.",
+    "id": "Yuki001/game-dev-skills",
+    "language": "Python",
+    "name": "Yuki001/game-dev-skills",
+    "stars": 20,
+    "updated_at": "2026-06-24T03:14:10Z",
+    "url": "https://github.com/Yuki001/game-dev-skills"
+  },
+  {
+    "description": "\ud83d\ude80 Monitor your Claude Code sessions effortlessly on macOS with real-time status updates and quick access features for a ",
+    "id": "zenithpd/agent-sessions",
+    "language": "Rust",
+    "name": "zenithpd/agent-sessions",
+    "stars": 7,
+    "updated_at": "2026-06-24T03:13:44Z",
+    "url": "https://github.com/zenithpd/agent-sessions"
+  },
+  {
+    "description": "Agent skills we use daily in the studio \u2014 reusable, on-demand context for Claude Code, Cursor & other skills.sh-compatib",
+    "id": "stealth-engine/skills",
+    "language": "TypeScript",
+    "name": "stealth-engine/skills",
+    "stars": 2,
+    "updated_at": "2026-06-24T03:12:11Z",
+    "url": "https://github.com/stealth-engine/skills"
+  },
+  {
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
+    "id": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "language": "Python",
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "stars": 3,
+    "updated_at": "2026-06-24T03:09:03Z",
+    "url": "https://github.com/Shada01245/the-unofficial-swift-programming-language-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
+    "id": "Junayedahmedd/gemini_cli_skill",
+    "language": "\u2014",
+    "name": "Junayedahmedd/gemini_cli_skill",
+    "stars": 3,
+    "updated_at": "2026-06-24T03:08:49Z",
+    "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
+    "id": "thairns/claude-rubycritic-skill",
+    "language": "\u2014",
+    "name": "thairns/claude-rubycritic-skill",
+    "stars": 0,
+    "updated_at": "2026-06-24T03:08:32Z",
+    "url": "https://github.com/thairns/claude-rubycritic-skill"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-06-24T03:07:40Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 62,
+    "updated_at": "2026-06-24T03:01:18Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-24T03:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
     "id": "428alexander9/claude-skills-marketplace",
     "language": "Python",
@@ -13,9 +103,18 @@
     "id": "neddtu/zalo-mini-app-skills",
     "language": "\u2014",
     "name": "neddtu/zalo-mini-app-skills",
-    "stars": 0,
+    "stars": 2,
     "updated_at": "2026-06-24T02:58:52Z",
     "url": "https://github.com/neddtu/zalo-mini-app-skills"
+  },
+  {
+    "description": "\u7ed9\u300cAI \u9a71\u52a8\u5f00\u53d1\u300d\u7acb\u89c4\u77e9\u7684 Claude Code skill \u65b9\u6cd5\u8bba\u5e93\uff1a\u4e03\u5c42\u6587\u6863\u6cbb\u7406 \u00b7 \u5bf9\u6297\u8bc4\u5ba1 \u00b7 \u4efb\u52a1\u603b\u63a7\u4e09\u9a7e\u9a6c\u8f66\uff0c\u5916\u52a0\u8001\u4ee3\u7801\u8003\u53e4\u3001\u65bd\u5de5\u84dd\u56fe\u7b49\u5171 16 \u4e2a skill \u2014\u2014 \u8ba9 AI \u5199\u4ee3\u7801\u53c8\u5feb\u53c8\u4e0d\u5931\u63a7\u3002",
+    "id": "BackToCimaCoppi/Praxis",
+    "language": "Python",
+    "name": "BackToCimaCoppi/Praxis",
+    "stars": 1,
+    "updated_at": "2026-06-24T02:57:27Z",
+    "url": "https://github.com/BackToCimaCoppi/Praxis"
   },
   {
     "description": "Agent skill + CLI for multi-agent adversarial review of plans & specs before you execute them. Runs on the Claude Code /",
@@ -86,17 +185,8 @@
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-06-24T02:50:16Z",
+    "updated_at": "2026-06-24T03:11:17Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-24T02:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Scout what's trending on Instagram, learn why it works, then build a post you actually want to make.",
@@ -220,7 +310,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 63408,
+    "stars": 63407,
     "updated_at": "2026-06-24T02:07:15Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T01:41:49Z",
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-24T01:41:15Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-24T01:41:07Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-06-24T01:39:42Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-24T01:39:41Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-06-24T01:39:36Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-06-24T01:39:12Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-06-24T01:38:49Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-06-24T01:37:28Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-06-24T01:37:04Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-24T01:37:03Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
   }
 ]
