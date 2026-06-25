@@ -1,5 +1,122 @@
 [
   {
+    "description": "A living reference for the Agent Skills ecosystem",
+    "id": "dhk/skill-map",
+    "language": "HTML",
+    "name": "dhk/skill-map",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:59:00Z",
+    "url": "https://github.com/dhk/skill-map"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:58:54Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Seven Claude Code skills that apply six psychology-based storytelling levers across short-form video, YouTube, titles & ",
+    "id": "yaxeen/storytelling-skills",
+    "language": "PowerShell",
+    "name": "yaxeen/storytelling-skills",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:58:14Z",
+    "url": "https://github.com/yaxeen/storytelling-skills"
+  },
+  {
+    "description": "Converts any video file into a comprehensive AI-readable report (Markdown + JSON)  because Claude Projects don't accept ",
+    "id": "VjAlbert/video-analyzer-repo",
+    "language": "Python",
+    "name": "VjAlbert/video-analyzer-repo",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:55:15Z",
+    "url": "https://github.com/VjAlbert/video-analyzer-repo"
+  },
+  {
+    "description": "Public JoomPulse agent skills catalog",
+    "id": "joomcode/pulse-skills",
+    "language": "Shell",
+    "name": "joomcode/pulse-skills",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:54:50Z",
+    "url": "https://github.com/joomcode/pulse-skills"
+  },
+  {
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 167,
+    "updated_at": "2026-06-25T16:54:43Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Knowledge graph extractor: Markdown (or any format) \u2192 knowledge graph with RDFS/OWL ontology",
+    "id": "SenolIsci/mykg",
+    "language": "Python",
+    "name": "SenolIsci/mykg",
+    "stars": 35,
+    "updated_at": "2026-06-25T16:51:17Z",
+    "url": "https://github.com/SenolIsci/mykg"
+  },
+  {
+    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
+    "id": "mickzijdel/dev-hooks",
+    "language": "Python",
+    "name": "mickzijdel/dev-hooks",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:49:03Z",
+    "url": "https://github.com/mickzijdel/dev-hooks"
+  },
+  {
+    "description": "Agent skills for working with Ruby on Rails 8+",
+    "id": "mickzijdel/rails-toolkit",
+    "language": "Python",
+    "name": "mickzijdel/rails-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:48:20Z",
+    "url": "https://github.com/mickzijdel/rails-toolkit"
+  },
+  {
+    "description": "Agent Skills for building production-grade Express + TypeScript + Mongoose backends with Claude Code",
+    "id": "vipincode/exr-agent-skills",
+    "language": "TypeScript",
+    "name": "vipincode/exr-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:47:08Z",
+    "url": "https://github.com/vipincode/exr-agent-skills"
+  },
+  {
+    "description": "Portfolio case study generator built as a Claude Code skill. Turns messy project notes into recruiter-ready UX, product,",
+    "id": "SonwaneyY/portfolio-case-study-generator",
+    "language": "\u2014",
+    "name": "SonwaneyY/portfolio-case-study-generator",
+    "stars": 5,
+    "updated_at": "2026-06-25T16:46:34Z",
+    "url": "https://github.com/SonwaneyY/portfolio-case-study-generator"
+  },
+  {
+    "description": "A curated list of high-star Agent Skills on GitHub for coding agents and AI workflows.",
+    "id": "jqueryscript/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "jqueryscript/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-25T16:46:25Z",
+    "url": "https://github.com/jqueryscript/awesome-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-25T16:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "Python",
@@ -16,24 +133,6 @@
     "stars": 10,
     "updated_at": "2026-06-25T16:42:31Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Portfolio case study generator built as a Claude Code skill. Turns messy project notes into recruiter-ready UX, product,",
-    "id": "SonwaneyY/portfolio-case-study-generator",
-    "language": "\u2014",
-    "name": "SonwaneyY/portfolio-case-study-generator",
-    "stars": 5,
-    "updated_at": "2026-06-25T16:41:31Z",
-    "url": "https://github.com/SonwaneyY/portfolio-case-study-generator"
-  },
-  {
-    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 166,
-    "updated_at": "2026-06-25T16:42:54Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
@@ -187,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-06-25T16:30:22Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-25T16:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T16:26:03Z",
     "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-25T16:25:52Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-06-25T16:25:41Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-06-25T16:25:32Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-06-25T16:25:27Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-06-25T16:25:24Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-06-25T16:25:23Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-06-25T16:25:17Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-06-25T16:25:15Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 1,
-    "updated_at": "2026-06-25T16:25:00Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Build AI skills that distill any person\u2019s thinking into reusable workflows and prompts",
-    "id": "gianguardant971/nuwa-skill",
-    "language": "\u2014",
-    "name": "gianguardant971/nuwa-skill",
-    "stars": 1,
-    "updated_at": "2026-06-25T16:24:58Z",
-    "url": "https://github.com/gianguardant971/nuwa-skill"
   }
 ]
