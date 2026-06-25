@@ -1,5 +1,68 @@
 [
   {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 52,
+    "updated_at": "2026-06-25T09:25:22Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "A Claude Code skill that crystallizes a project-design conversation into a complete project scaffold.",
+    "id": "joseluisamado/bootstrap-project-skill",
+    "language": "Go Template",
+    "name": "joseluisamado/bootstrap-project-skill",
+    "stars": 0,
+    "updated_at": "2026-06-25T09:25:06Z",
+    "url": "https://github.com/joseluisamado/bootstrap-project-skill"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 270,
+    "updated_at": "2026-06-25T09:24:57Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
+    "id": "domengabrovsek/claude",
+    "language": "Shell",
+    "name": "domengabrovsek/claude",
+    "stars": 13,
+    "updated_at": "2026-06-25T09:23:31Z",
+    "url": "https://github.com/domengabrovsek/claude"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-25T09:20:36Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 0,
+    "updated_at": "2026-06-25T09:16:46Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-25T09:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders \u2014 the ",
     "id": "yerdaulet-damir/awesome-solo-ai",
     "language": "\u2014",
@@ -27,15 +90,6 @@
     "url": "https://github.com/stealth-engine/skills"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 270,
-    "updated_at": "2026-06-25T09:14:35Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u7b80\u5386\u7b5b\u9009\u5458 \u2014\u2014 AI \u5543\u6d77\u91cf\u7c97\u7b5b\u3001\u4f60\u505a\"\u8c01\u771f\u7684\u5bf9\"\u7684\u5224\u65ad\u3001\u6bcf\u8f6e\u53cd\u9988\u8fed\u4ee3 JD \u8d8a\u641c\u8d8a\u51c6\u3002\u57fa\u4e8e\u730e\u8058 CLI,Claude / Codex / Cursor \u7b49 AI \u5de5\u5177\u901a\u7528\u3002",
     "id": "dizhouid-lgtm/pixboom-recruiting",
     "language": "JavaScript",
@@ -43,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-25T09:01:44Z",
     "url": "https://github.com/dizhouid-lgtm/pixboom-recruiting"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-25T09:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u901a\u7528\u9700\u6c42\u5230\u5f00\u53d1\u8bbe\u8ba1\u5de5\u4f5c\u6d41 \u2014 26 \u4e2a\u72ec\u7acb\u53ef\u7ec4\u5408 skill,\u8de8\u884c\u4e1a(\u533b\u836f/SaaS/\u79fb\u52a8),3 \u4e2a\u5b8c\u6574\u793a\u4f8b,5 \u4e2a CI workflow,Mermaid/Drawio \u6d41\u7a0b\u56fe\u5de5\u5177\u94fe,VSCode \u96c6\u6210",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T08:40:05Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:39:29Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -347,7 +383,7 @@
     "language": "JavaScript",
     "name": "gaia-react/gaia",
     "stars": 17,
-    "updated_at": "2026-06-25T08:24:57Z",
+    "updated_at": "2026-06-25T09:26:49Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -391,7 +427,7 @@
     "id": "gosom/google-maps-scraper",
     "language": "Go",
     "name": "gosom/google-maps-scraper",
-    "stars": 4531,
+    "stars": 4532,
     "updated_at": "2026-06-25T08:19:23Z",
     "url": "https://github.com/gosom/google-maps-scraper"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T08:17:56Z",
     "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:17:06Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:16:54Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:16:22Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:16:11Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   }
 ]
