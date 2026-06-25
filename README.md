@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-25 01:27 UTC
+> ⏰ Last updated: 2026-06-25 01:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 2 | TypeScript | 2026-06-25 | A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits. |
-| 2 | [mralaminahamed/wp-dev-skills](https://github.com/mralaminahamed/wp-dev-skills) | 24 | PHP | 2026-06-25 | WordPress plugin development skills for AI coding agents — Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, Copi |
-| 3 | [heymegabyte/claude-skills](https://github.com/heymegabyte/claude-skills) | 12 | TypeScript | 2026-06-25 | 14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts → deployed products. |
-| 4 | [wedabro/bro-skills](https://github.com/wedabro/bro-skills) | 1 | Python | 2026-06-25 | bro-skills - Spec-Driven Development CLI |
-| 5 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 7 | Python | 2026-06-25 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [wedabro/bro-skills](https://github.com/wedabro/bro-skills) | 1 | Python | 2026-06-25 | bro-skills - Spec-Driven Development CLI |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 7 | Python | 2026-06-25 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 2 | TypeScript | 2026-06-25 | A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits. |
+| 4 | [mralaminahamed/wp-dev-skills](https://github.com/mralaminahamed/wp-dev-skills) | 24 | PHP | 2026-06-25 | WordPress plugin development skills for AI coding agents — Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, Copi |
+| 5 | [heymegabyte/claude-skills](https://github.com/heymegabyte/claude-skills) | 12 | TypeScript | 2026-06-25 | 14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts → deployed products. |
 | 6 | [mkreindel/seo-toolkit-template](https://github.com/mkreindel/seo-toolkit-template) | 0 | JavaScript | 2026-06-25 | Claude Code workspace template for running consistent SEO across a portfolio of managed websites. |
 | 7 | [FarzamMohammadi/dev-toolbox](https://github.com/FarzamMohammadi/dev-toolbox) | 1 | Python | 2026-06-25 | A collection of utility scripts and tools that streamline my daily development workflow. |
 | 8 | [YPares/rigup.nix](https://github.com/YPares/rigup.nix) | 79 | Nix | 2026-06-25 | AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion |
