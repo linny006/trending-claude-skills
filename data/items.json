@@ -1,5 +1,59 @@
 [
   {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 52,
+    "updated_at": "2026-06-25T03:43:12Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Agent skill + CLI for multi-agent adversarial review of plans & specs before you execute them. Runs on the Claude Code /",
+    "id": "hiadrianchen/challenge-plans",
+    "language": "Python",
+    "name": "hiadrianchen/challenge-plans",
+    "stars": 3,
+    "updated_at": "2026-06-25T03:41:05Z",
+    "url": "https://github.com/hiadrianchen/challenge-plans"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 0,
+    "updated_at": "2026-06-25T03:39:08Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 1,
+    "updated_at": "2026-06-25T03:35:57Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 0,
+    "updated_at": "2026-06-25T03:35:54Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 7,
+    "updated_at": "2026-06-25T03:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "My collection of Claude skills",
     "id": "oaustegard/claude-skills",
     "language": "Python",
@@ -25,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T03:16:42Z",
     "url": "https://github.com/AppFreeticket/agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 7,
-    "updated_at": "2026-06-25T03:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Agent skill + CLI for multi-agent adversarial review of plans & specs before you execute them. Runs on the Claude Code /",
-    "id": "hiadrianchen/challenge-plans",
-    "language": "Python",
-    "name": "hiadrianchen/challenge-plans",
-    "stars": 3,
-    "updated_at": "2026-06-25T03:14:01Z",
-    "url": "https://github.com/hiadrianchen/challenge-plans"
   },
   {
     "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-25T03:01:57Z",
     "url": "https://github.com/gianguardant971/nuwa-skill"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 0,
-    "updated_at": "2026-06-25T03:01:35Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-06-25T03:01:28Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-06-25T03:01:04Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Connect LINE to Claude Code with an MCP server for DMs, group chats, media downloads, and image replies",
-    "id": "coreyunfastened552/claude-line-channel",
-    "language": "TypeScript",
-    "name": "coreyunfastened552/claude-line-channel",
-    "stars": 0,
-    "updated_at": "2026-06-25T03:00:51Z",
-    "url": "https://github.com/coreyunfastened552/claude-line-channel"
   }
 ]
