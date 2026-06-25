@@ -1,5 +1,59 @@
 [
   {
+    "description": "Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders \u2014 the ",
+    "id": "yerdaulet-damir/awesome-solo-ai",
+    "language": "\u2014",
+    "name": "yerdaulet-damir/awesome-solo-ai",
+    "stars": 2,
+    "updated_at": "2026-06-25T09:14:37Z",
+    "url": "https://github.com/yerdaulet-damir/awesome-solo-ai"
+  },
+  {
+    "description": "\u4e00\u4e2a\u5305\u542bskill\u7684\u96c6\u5408\uff1a\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
+    "id": "Ldxs001/workbuddy-skills",
+    "language": "Python",
+    "name": "Ldxs001/workbuddy-skills",
+    "stars": 2,
+    "updated_at": "2026-06-25T09:10:55Z",
+    "url": "https://github.com/Ldxs001/workbuddy-skills"
+  },
+  {
+    "description": "Agent skills we use daily in the studio \u2014 reusable, on-demand context for Claude Code, Cursor & other skills.sh-compatib",
+    "id": "stealth-engine/skills",
+    "language": "TypeScript",
+    "name": "stealth-engine/skills",
+    "stars": 2,
+    "updated_at": "2026-06-25T09:06:52Z",
+    "url": "https://github.com/stealth-engine/skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 270,
+    "updated_at": "2026-06-25T09:14:35Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u7b80\u5386\u7b5b\u9009\u5458 \u2014\u2014 AI \u5543\u6d77\u91cf\u7c97\u7b5b\u3001\u4f60\u505a\"\u8c01\u771f\u7684\u5bf9\"\u7684\u5224\u65ad\u3001\u6bcf\u8f6e\u53cd\u9988\u8fed\u4ee3 JD \u8d8a\u641c\u8d8a\u51c6\u3002\u57fa\u4e8e\u730e\u8058 CLI,Claude / Codex / Cursor \u7b49 AI \u5de5\u5177\u901a\u7528\u3002",
+    "id": "dizhouid-lgtm/pixboom-recruiting",
+    "language": "JavaScript",
+    "name": "dizhouid-lgtm/pixboom-recruiting",
+    "stars": 2,
+    "updated_at": "2026-06-25T09:01:44Z",
+    "url": "https://github.com/dizhouid-lgtm/pixboom-recruiting"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-25T09:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u901a\u7528\u9700\u6c42\u5230\u5f00\u53d1\u8bbe\u8ba1\u5de5\u4f5c\u6d41 \u2014 26 \u4e2a\u72ec\u7acb\u53ef\u7ec4\u5408 skill,\u8de8\u884c\u4e1a(\u533b\u836f/SaaS/\u79fb\u52a8),3 \u4e2a\u5b8c\u6574\u793a\u4f8b,5 \u4e2a CI workflow,Mermaid/Drawio \u6d41\u7a0b\u56fe\u5de5\u5177\u94fe,VSCode \u96c6\u6210",
     "id": "BlueprintOS/analysis-to-delivery",
     "language": "Python",
@@ -45,6 +99,15 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
+    "description": "Goal-first scoping skill for Claude Code: interrogate the decision before the artifact, write a one-page charter, delive",
+    "id": "Roni-quant/goal-first",
+    "language": "\u2014",
+    "name": "Roni-quant/goal-first",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:52:18Z",
+    "url": "https://github.com/Roni-quant/goal-first"
+  },
+  {
     "description": "\u041d\u0430\u0431\u043e\u0440 \u0441\u043a\u0438\u043b\u043b\u043e\u0432 Claude Code: \u0441\u043a\u0432\u043e\u0437\u043d\u043e\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u043f\u043e\u0440\u0442\u0444\u0435\u043b\u044f \u043e\u0431\u043b\u0438\u0433\u0430\u0446\u0438\u0439 \u0420\u0424 \u2014 \u043f\u0430\u0440\u0441\u0438\u043d\u0433 \u0431\u0440\u043e\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u043e\u0442\u0447\u0451\u0442\u043e\u0432 (\u0422\u0411\u0430\u043d\u043a/\u0410\u043b\u044c\u0444\u0430/\u0421\u0431\u0435\u0440... \u0432\u0441\u0435 \u0447",
     "id": "TimurTsedik/ru-market-analyst",
     "language": "\u2014",
@@ -63,15 +126,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 270,
-    "updated_at": "2026-06-25T08:55:58Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-25T08:45:22Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-25T08:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Versionierte Heimat meiner Agent Skills f\u00fcr Claude (claude.ai, Claude Code, API).",
@@ -205,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-06-25T08:30:20Z",
     "url": "https://github.com/apoorvjain25/production-audit"
-  },
-  {
-    "description": "\u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u7b80\u5386\u7b5b\u9009\u5458 \u2014\u2014 AI \u5543\u6d77\u91cf\u7c97\u7b5b\u3001\u4f60\u505a\"\u8c01\u771f\u7684\u5bf9\"\u7684\u5224\u65ad\u3001\u6bcf\u8f6e\u53cd\u9988\u8fed\u4ee3 JD \u8d8a\u641c\u8d8a\u51c6\u3002\u57fa\u4e8e\u730e\u8058 CLI,Claude / Codex / Cursor \u7b49 AI \u5de5\u5177\u901a\u7528\u3002",
-    "id": "dizhouid-lgtm/pixboom-recruiting",
-    "language": "JavaScript",
-    "name": "dizhouid-lgtm/pixboom-recruiting",
-    "stars": 2,
-    "updated_at": "2026-06-25T08:29:35Z",
-    "url": "https://github.com/dizhouid-lgtm/pixboom-recruiting"
   },
   {
     "description": "An open-source companion repo for Agentique.io: a free community hub for discovering, sharing, and reusing trusted AI ag",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T08:16:11Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:15:50Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:15:43Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:14:19Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-06-25T08:14:16Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
   }
 ]
