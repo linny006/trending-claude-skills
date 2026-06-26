@@ -1,12 +1,48 @@
 [
   {
-    "description": "M\u00e9moire partag\u00e9e d'\u00e9quipe produit, en simples fichiers Markdown, relue \u00e0 chaque session IA. Pour Claude (Cowork et Claud",
-    "id": "clement-972/cerveau-partage",
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1191,
+    "updated_at": "2026-06-26T08:20:37Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
-    "name": "clement-972/cerveau-partage",
+    "name": "LilityV/multai-ai-agent-arsenal",
     "stars": 0,
-    "updated_at": "2026-06-26T08:14:39Z",
-    "url": "https://github.com/clement-972/cerveau-partage"
+    "updated_at": "2026-06-26T08:19:30Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 63658,
+    "updated_at": "2026-06-26T08:18:41Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 270,
+    "updated_at": "2026-06-26T08:18:35Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "Python",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 2,
+    "updated_at": "2026-06-26T08:17:46Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
     "description": "238 professional Agent Skills (PRDs, launches, postmortems, compliance & more) for Claude, ChatGPT, Gemini, Cursor & Cod",
@@ -14,8 +50,26 @@
     "language": "JavaScript",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 1028,
-    "updated_at": "2026-06-26T08:12:05Z",
+    "updated_at": "2026-06-26T08:17:45Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-26T08:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "M\u00e9moire partag\u00e9e d'\u00e9quipe produit, en simples fichiers Markdown, relue \u00e0 chaque session IA. Pour Claude (Cowork et Claud",
+    "id": "clement-972/cerveau-partage",
+    "language": "HTML",
+    "name": "clement-972/cerveau-partage",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:14:39Z",
+    "url": "https://github.com/clement-972/cerveau-partage"
   },
   {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
@@ -27,22 +81,22 @@
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1430,
+    "updated_at": "2026-06-26T08:07:37Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
     "description": "TeamCity from your terminal \u2013 or your AI's. Builds, logs, agents, agent terminals, queues.",
     "id": "JetBrains/teamcity-cli",
     "language": "Go",
     "name": "JetBrains/teamcity-cli",
     "stars": 108,
-    "updated_at": "2026-06-26T08:06:07Z",
+    "updated_at": "2026-06-26T08:20:57Z",
     "url": "https://github.com/JetBrains/teamcity-cli"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 63657,
-    "updated_at": "2026-06-26T08:06:06Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Stage-gated AI agent skill for business proposal PPT decks and presenter scripts",
@@ -63,15 +117,6 @@
     "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
   },
   {
-    "description": "Free OpenAI Codex and Claude Code skills for music creators: release metadata linter, Suede Rights Passport, provenance ",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "Python",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 2,
-    "updated_at": "2026-06-26T08:02:43Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T08:00:49Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-26T08:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skills for my agentic development workflow.",
@@ -158,7 +194,7 @@
     "language": "Java",
     "name": "jabrena/cursor-rules-java",
     "stars": 409,
-    "updated_at": "2026-06-26T08:07:06Z",
+    "updated_at": "2026-06-26T08:21:39Z",
     "url": "https://github.com/jabrena/cursor-rules-java"
   },
   {
@@ -229,7 +265,7 @@
     "id": "hoangsonww/Claude-Code-Agent-Monitor",
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 657,
+    "stars": 658,
     "updated_at": "2026-06-26T07:09:42Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T06:55:25Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1429,
-    "updated_at": "2026-06-26T08:07:37Z",
-    "url": "https://github.com/a5c-ai/babysitter"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -360,15 +387,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 270,
-    "updated_at": "2026-06-26T06:40:37Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-26T06:31:18Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-06-26T06:30:06Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 1608,
-    "updated_at": "2026-06-26T06:28:41Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   }
 ]
