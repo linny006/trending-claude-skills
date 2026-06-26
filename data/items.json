@@ -1,12 +1,48 @@
 [
   {
+    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
+    "id": "yurukusa/cc-safe-setup",
+    "language": "Shell",
+    "name": "yurukusa/cc-safe-setup",
+    "stars": 53,
+    "updated_at": "2026-06-26T07:11:15Z",
+    "url": "https://github.com/yurukusa/cc-safe-setup"
+  },
+  {
+    "description": "Skills for my agentic development workflow.",
+    "id": "FilippoDeSilva/skills",
+    "language": "JavaScript",
+    "name": "FilippoDeSilva/skills",
+    "stars": 1,
+    "updated_at": "2026-06-26T07:10:27Z",
+    "url": "https://github.com/FilippoDeSilva/skills"
+  },
+  {
+    "description": "DooTask \u63d2\u4ef6\u5f00\u53d1\u7684 Claude Code \u6280\u80fd\u96c6\uff1a\u811a\u624b\u67b6\u5efa\u63d2\u4ef6 / \u53d1\u7248\u5230\u5e94\u7528\u5546\u5e97 / \u5199\u4f18\u5316 CLAUDE.md\u3002\u5b89\u88c5\uff1a/plugin install dootask@dootask-skills",
+    "id": "dootask/skills",
+    "language": "Shell",
+    "name": "dootask/skills",
+    "stars": 1,
+    "updated_at": "2026-06-26T07:06:26Z",
+    "url": "https://github.com/dootask/skills"
+  },
+  {
     "description": "Analyst workflows as Claude skills. 14 tools spanning earnings, comps, options flow, factor research, TCA, and ops. Buil",
     "id": "rgourley/quant-garage",
     "language": "HTML",
     "name": "rgourley/quant-garage",
     "stars": 0,
-    "updated_at": "2026-06-26T06:58:05Z",
+    "updated_at": "2026-06-26T07:05:53Z",
     "url": "https://github.com/rgourley/quant-garage"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-26T07:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -18,13 +54,13 @@
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   },
   {
-    "description": "Skills for my agentic development workflow.",
-    "id": "FilippoDeSilva/skills",
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
     "language": "JavaScript",
-    "name": "FilippoDeSilva/skills",
-    "stars": 1,
-    "updated_at": "2026-06-26T06:54:37Z",
-    "url": "https://github.com/FilippoDeSilva/skills"
+    "name": "a5c-ai/babysitter",
+    "stars": 1429,
+    "updated_at": "2026-06-26T06:54:54Z",
+    "url": "https://github.com/a5c-ai/babysitter"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T06:47:18Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-26T06:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -211,8 +238,8 @@
     "id": "hoangsonww/Claude-Code-Agent-Monitor",
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 655,
-    "updated_at": "2026-06-26T06:32:18Z",
+    "stars": 656,
+    "updated_at": "2026-06-26T07:09:42Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -270,15 +297,6 @@
     "url": "https://github.com/vittobh/pm-os"
   },
   {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1428,
-    "updated_at": "2026-06-26T06:54:54Z",
-    "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -310,7 +328,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 63650,
+    "stars": 63651,
     "updated_at": "2026-06-26T06:06:15Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -328,7 +346,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 2528,
+    "stars": 2531,
     "updated_at": "2026-06-26T06:01:19Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 2,
-    "updated_at": "2026-06-26T06:58:32Z",
+    "updated_at": "2026-06-26T07:13:08Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T05:23:07Z",
     "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-06-26T05:22:54Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "",
-    "id": "naveedharri/benai-skills",
-    "language": "JavaScript",
-    "name": "naveedharri/benai-skills",
-    "stars": 35,
-    "updated_at": "2026-06-26T05:22:47Z",
-    "url": "https://github.com/naveedharri/benai-skills"
   }
 ]
