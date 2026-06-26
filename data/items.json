@@ -1,5 +1,23 @@
 [
   {
+    "description": "State-of-the-art (2026) Claude Code skills for building and auditing software \u2014 30 domain & language skills, BUILD/AUDIT",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Shell",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:40:21Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-26T19:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A scoring harness for Claude Agent Skills. Each carded skill ships a Skill Card: a SkillSpector security scan and trigge",
     "id": "vinsonconsulting/claude-skill-foundry",
     "language": "Python",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T19:20:33Z",
     "url": "https://github.com/vinsonconsulting/califa-cards"
-  },
-  {
-    "description": "State-of-the-art (2026) Claude Code skills for building and auditing software \u2014 30 domain & language skills, BUILD/AUDIT",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Shell",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T19:19:14Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T19:15:19Z",
     "url": "https://github.com/bhana1999/SpecVibe"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-26T19:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Enable AI agents to access and analyze real-time social media data from Twitter, Instagram, Reddit, and TikTok using sta",
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "rampstackco/claude-skills",
     "stars": 375,
-    "updated_at": "2026-06-26T19:04:51Z",
+    "updated_at": "2026-06-26T19:33:42Z",
     "url": "https://github.com/rampstackco/claude-skills"
   },
   {

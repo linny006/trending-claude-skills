@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-26 19:30 UTC
+> ⏰ Last updated: 2026-06-26 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vinsonconsulting/claude-skill-foundry](https://github.com/vinsonconsulting/claude-skill-foundry) | 0 | Python | 2026-06-26 | A scoring harness for Claude Agent Skills. Each carded skill ships a Skill Card: a SkillSpector security scan and trigge |
-| 2 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 0 | HTML | 2026-06-26 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
-| 3 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-06-26 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 4 | [vinsonconsulting/califa-cards](https://github.com/vinsonconsulting/califa-cards) | 0 | Python | 2026-06-26 | Califa Cards: A Comprehensive Skill Card Standard and Testing Framework |
-| 5 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 0 | Shell | 2026-06-26 | State-of-the-art (2026) Claude Code skills for building and auditing software — 30 domain & language skills, BUILD/AUDIT |
-| 6 | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 1772 | Python | 2026-06-26 | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod |
-| 7 | [fathanghani864/oh-my-openclaw](https://github.com/fathanghani864/oh-my-openclaw) | 0 | TypeScript | 2026-06-26 | Manage and switch OpenClaw AI agent presets, including personalities, toolsets, and model configurations, via a simple C |
-| 8 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-06-26 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
-| 9 | [mshadmanrahman/claude-for-designers](https://github.com/mshadmanrahman/claude-for-designers) | 3 | HTML | 2026-06-26 | A working repository for designers who use Claude as a collaborator. Skills, principles, project templates, and a career |
-| 10 | [igorrendulic/tg-customer-support-plugin](https://github.com/igorrendulic/tg-customer-support-plugin) | 1 | Python | 2026-06-26 | Local-first Telegram support agent for Codex and Claude. Index Telegram, docs, and repo evidence locally; draft replies; |
-| 11 | [DjFikie25/shipkit](https://github.com/DjFikie25/shipkit) | 1 | TypeScript | 2026-06-26 | Build full-stack Next.js and React Native apps with integrated auth, database, AI chat, and testing in a production-read |
-| 12 | [bhana1999/SpecVibe](https://github.com/bhana1999/SpecVibe) | 0 | JavaScript | 2026-06-26 | Enforce a spec-driven framework that builds, tests, and deploys AI-native applications with a structured, executable sev |
-| 13 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 8 | Python | 2026-06-26 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 0 | Shell | 2026-06-26 | State-of-the-art (2026) Claude Code skills for building and auditing software — 30 domain & language skills, BUILD/AUDIT |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 8 | Python | 2026-06-26 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [vinsonconsulting/claude-skill-foundry](https://github.com/vinsonconsulting/claude-skill-foundry) | 0 | Python | 2026-06-26 | A scoring harness for Claude Agent Skills. Each carded skill ships a Skill Card: a SkillSpector security scan and trigge |
+| 4 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 0 | HTML | 2026-06-26 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
+| 5 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-06-26 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 6 | [vinsonconsulting/califa-cards](https://github.com/vinsonconsulting/califa-cards) | 0 | Python | 2026-06-26 | Califa Cards: A Comprehensive Skill Card Standard and Testing Framework |
+| 7 | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 1772 | Python | 2026-06-26 | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod |
+| 8 | [fathanghani864/oh-my-openclaw](https://github.com/fathanghani864/oh-my-openclaw) | 0 | TypeScript | 2026-06-26 | Manage and switch OpenClaw AI agent presets, including personalities, toolsets, and model configurations, via a simple C |
+| 9 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-06-26 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
+| 10 | [mshadmanrahman/claude-for-designers](https://github.com/mshadmanrahman/claude-for-designers) | 3 | HTML | 2026-06-26 | A working repository for designers who use Claude as a collaborator. Skills, principles, project templates, and a career |
+| 11 | [igorrendulic/tg-customer-support-plugin](https://github.com/igorrendulic/tg-customer-support-plugin) | 1 | Python | 2026-06-26 | Local-first Telegram support agent for Codex and Claude. Index Telegram, docs, and repo evidence locally; draft replies; |
+| 12 | [DjFikie25/shipkit](https://github.com/DjFikie25/shipkit) | 1 | TypeScript | 2026-06-26 | Build full-stack Next.js and React Native apps with integrated auth, database, AI chat, and testing in a production-read |
+| 13 | [bhana1999/SpecVibe](https://github.com/bhana1999/SpecVibe) | 0 | JavaScript | 2026-06-26 | Enforce a spec-driven framework that builds, tests, and deploys AI-native applications with a structured, executable sev |
 | 14 | [Aditya923-c/xpoz-agent-skills](https://github.com/Aditya923-c/xpoz-agent-skills) | 3 | — | 2026-06-26 | Enable AI agents to access and analyze real-time social media data from Twitter, Instagram, Reddit, and TikTok using sta |
 | 15 | [kledidoda/skill-evolution](https://github.com/kledidoda/skill-evolution) | 2 | — | 2026-06-26 | Enable AI agents to autonomously create, evaluate, and evolve skills across any marketplace without user intervention. |
 | 16 | [mrdenox109-nyx/skill-manager](https://github.com/mrdenox109-nyx/skill-manager) | 4 | Python | 2026-06-26 | Automatically detect and disable irrelevant Claude Code skills per project to save tokens and streamline your tech workf |
