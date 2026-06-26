@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local-first Telegram support agent for Codex and Claude. Index Telegram, docs, and repo evidence locally; draft replies;",
+    "id": "igorrendulic/tg-customer-support-plugin",
+    "language": "Python",
+    "name": "igorrendulic/tg-customer-support-plugin",
+    "stars": 1,
+    "updated_at": "2026-06-26T17:50:29Z",
+    "url": "https://github.com/igorrendulic/tg-customer-support-plugin"
+  },
+  {
+    "description": "Analyst workflows as Claude skills. 14 tools spanning earnings, comps, options flow, factor research, TCA, and ops. Buil",
+    "id": "rgourley/quant-garage",
+    "language": "Python",
+    "name": "rgourley/quant-garage",
+    "stars": 0,
+    "updated_at": "2026-06-26T17:49:57Z",
+    "url": "https://github.com/rgourley/quant-garage"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-26T17:47:23Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "API gateway with managed auth. Connect your AI to Slack, HubSpot, Salesforce, Google Workspace, Shopify, and more with a",
+    "id": "maton-ai/api-gateway-skill",
+    "language": "\u2014",
+    "name": "maton-ai/api-gateway-skill",
+    "stars": 29,
+    "updated_at": "2026-06-26T17:46:03Z",
+    "url": "https://github.com/maton-ai/api-gateway-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-26T17:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Versionierte Heimat meiner Agent Skills f\u00fcr Claude (claude.ai, Claude Code, API).",
     "id": "wemwi/skill-library",
     "language": "Python",
@@ -45,15 +90,6 @@
     "url": "https://github.com/yurukusa/cc-safe-setup"
   },
   {
-    "description": "Analyst workflows as Claude skills. 14 tools spanning earnings, comps, options flow, factor research, TCA, and ops. Buil",
-    "id": "rgourley/quant-garage",
-    "language": "Python",
-    "name": "rgourley/quant-garage",
-    "stars": 0,
-    "updated_at": "2026-06-26T17:31:21Z",
-    "url": "https://github.com/rgourley/quant-garage"
-  },
-  {
     "description": "Agent skills for Claude Code and other agentskills.io-compatible agents. See https://developertoolkit.ai for more inform",
     "id": "wondelai/skills",
     "language": "Shell",
@@ -68,17 +104,8 @@
     "language": "Shell",
     "name": "testdouble/han",
     "stars": 94,
-    "updated_at": "2026-06-26T17:30:57Z",
+    "updated_at": "2026-06-26T17:49:40Z",
     "url": "https://github.com/testdouble/han"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-26T17:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 2,
-    "updated_at": "2026-06-26T17:42:16Z",
+    "updated_at": "2026-06-26T17:46:20Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -297,15 +324,6 @@
     "url": "https://github.com/open-agreements/open-agreements"
   },
   {
-    "description": "Local-first Telegram support agent for Codex and Claude. Index Telegram, docs, and repo evidence locally; draft replies;",
-    "id": "igorrendulic/tg-customer-support-plugin",
-    "language": "Python",
-    "name": "igorrendulic/tg-customer-support-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-26T16:54:37Z",
-    "url": "https://github.com/igorrendulic/tg-customer-support-plugin"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T16:17:38Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
-    "id": "jabrena/cursor-rules-java",
-    "language": "Java",
-    "name": "jabrena/cursor-rules-java",
-    "stars": 409,
-    "updated_at": "2026-06-26T16:17:07Z",
-    "url": "https://github.com/jabrena/cursor-rules-java"
-  },
-  {
-    "description": "Turn any public author into a grounded AI clone you can ask. Built from their public content into one SQLite knowledge s",
-    "id": "mrgnfndr-dr/mind-clone",
-    "language": "Python",
-    "name": "mrgnfndr-dr/mind-clone",
-    "stars": 1,
-    "updated_at": "2026-06-26T16:16:44Z",
-    "url": "https://github.com/mrgnfndr-dr/mind-clone"
   }
 ]
