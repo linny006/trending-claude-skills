@@ -1,5 +1,122 @@
 [
   {
+    "description": "A scoring harness for Claude Agent Skills. Each carded skill ships a Skill Card: a SkillSpector security scan and trigge",
+    "id": "vinsonconsulting/claude-skill-foundry",
+    "language": "Python",
+    "name": "vinsonconsulting/claude-skill-foundry",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:28:51Z",
+    "url": "https://github.com/vinsonconsulting/claude-skill-foundry"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:22:05Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-26T19:19:47Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Califa Cards: A Comprehensive Skill Card Standard and Testing Framework",
+    "id": "vinsonconsulting/califa-cards",
+    "language": "Python",
+    "name": "vinsonconsulting/califa-cards",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:20:33Z",
+    "url": "https://github.com/vinsonconsulting/califa-cards"
+  },
+  {
+    "description": "State-of-the-art (2026) Claude Code skills for building and auditing software \u2014 30 domain & language skills, BUILD/AUDIT",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Shell",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:19:14Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod",
+    "id": "timescale/pg-aiguide",
+    "language": "Python",
+    "name": "timescale/pg-aiguide",
+    "stars": 1772,
+    "updated_at": "2026-06-26T19:18:38Z",
+    "url": "https://github.com/timescale/pg-aiguide"
+  },
+  {
+    "description": "Manage and switch OpenClaw AI agent presets, including personalities, toolsets, and model configurations, via a simple C",
+    "id": "fathanghani864/oh-my-openclaw",
+    "language": "TypeScript",
+    "name": "fathanghani864/oh-my-openclaw",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:16:50Z",
+    "url": "https://github.com/fathanghani864/oh-my-openclaw"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-06-26T19:16:42Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "A working repository for designers who use Claude as a collaborator. Skills, principles, project templates, and a career",
+    "id": "mshadmanrahman/claude-for-designers",
+    "language": "HTML",
+    "name": "mshadmanrahman/claude-for-designers",
+    "stars": 3,
+    "updated_at": "2026-06-26T19:16:36Z",
+    "url": "https://github.com/mshadmanrahman/claude-for-designers"
+  },
+  {
+    "description": "Local-first Telegram support agent for Codex and Claude. Index Telegram, docs, and repo evidence locally; draft replies;",
+    "id": "igorrendulic/tg-customer-support-plugin",
+    "language": "Python",
+    "name": "igorrendulic/tg-customer-support-plugin",
+    "stars": 1,
+    "updated_at": "2026-06-26T19:16:33Z",
+    "url": "https://github.com/igorrendulic/tg-customer-support-plugin"
+  },
+  {
+    "description": "Build full-stack Next.js and React Native apps with integrated auth, database, AI chat, and testing in a production-read",
+    "id": "DjFikie25/shipkit",
+    "language": "TypeScript",
+    "name": "DjFikie25/shipkit",
+    "stars": 1,
+    "updated_at": "2026-06-26T19:15:36Z",
+    "url": "https://github.com/DjFikie25/shipkit"
+  },
+  {
+    "description": "Enforce a spec-driven framework that builds, tests, and deploys AI-native applications with a structured, executable sev",
+    "id": "bhana1999/SpecVibe",
+    "language": "JavaScript",
+    "name": "bhana1999/SpecVibe",
+    "stars": 0,
+    "updated_at": "2026-06-26T19:15:19Z",
+    "url": "https://github.com/bhana1999/SpecVibe"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-26T19:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Enable AI agents to access and analyze real-time social media data from Twitter, Instagram, Reddit, and TikTok using sta",
     "id": "Aditya923-c/xpoz-agent-skills",
     "language": "\u2014",
@@ -234,15 +351,6 @@
     "url": "https://github.com/hiteknodeposit20241/skillman"
   },
   {
-    "description": "A scoring harness for Claude Agent Skills. Each carded skill ships a Skill Card: a SkillSpector security scan and trigge",
-    "id": "vinsonconsulting/claude-skill-foundry",
-    "language": "Python",
-    "name": "vinsonconsulting/claude-skill-foundry",
-    "stars": 0,
-    "updated_at": "2026-06-26T19:02:35Z",
-    "url": "https://github.com/vinsonconsulting/claude-skill-foundry"
-  },
-  {
     "description": "Workspace memory: Turn colab file system into agent memory and cut your token cost up to 95%",
     "id": "NevaMind-AI/memU",
     "language": "Python",
@@ -261,15 +369,6 @@
     "url": "https://github.com/ALI-FAHD/dingtalk-moltbot-connector"
   },
   {
-    "description": "Califa Cards: A Comprehensive Skill Card Standard and Testing Framework",
-    "id": "vinsonconsulting/califa-cards",
-    "language": "Python",
-    "name": "vinsonconsulting/califa-cards",
-    "stars": 0,
-    "updated_at": "2026-06-26T19:12:22Z",
-    "url": "https://github.com/vinsonconsulting/califa-cards"
-  },
-  {
     "description": "\ud83d\udcb0 Optimize your Claude API usage to save 50-90% on costs with batching techniques and efficient request management.",
     "id": "Louishin/claude-api-cost-optimization",
     "language": "Python",
@@ -286,24 +385,6 @@
     "stars": 3,
     "updated_at": "2026-06-26T19:01:18Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-26T19:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod",
-    "id": "timescale/pg-aiguide",
-    "language": "Python",
-    "name": "timescale/pg-aiguide",
-    "stars": 1772,
-    "updated_at": "2026-06-26T18:58:07Z",
-    "url": "https://github.com/timescale/pg-aiguide"
   },
   {
     "description": "",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T18:55:18Z",
     "url": "https://github.com/24111999/claude-skills"
-  },
-  {
-    "description": "Custom instruction SKILL.md for MikroTik RouterOS v7",
-    "id": "tikoci/routeros-skills",
-    "language": "TypeScript",
-    "name": "tikoci/routeros-skills",
-    "stars": 27,
-    "updated_at": "2026-06-26T18:55:44Z",
-    "url": "https://github.com/tikoci/routeros-skills"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-26T18:54:51Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-06-26T18:54:06Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "\ud83e\udd16 Build custom customer support automation with Claude Code, streamlining ticket management and enhancing response effic",
-    "id": "chigyel/claude-cs",
-    "language": "\u2014",
-    "name": "chigyel/claude-cs",
-    "stars": 0,
-    "updated_at": "2026-06-26T18:53:44Z",
-    "url": "https://github.com/chigyel/claude-cs"
-  },
-  {
-    "description": "A Rails generator gem that scaffolds Claude AI skills and agents for any Rails project.",
-    "id": "Shoebtamboli/rails_claude_skills",
-    "language": "Ruby",
-    "name": "Shoebtamboli/rails_claude_skills",
-    "stars": 13,
-    "updated_at": "2026-06-26T18:53:42Z",
-    "url": "https://github.com/Shoebtamboli/rails_claude_skills"
-  },
-  {
-    "description": "\ud83e\udd16 Coordinate multi-agent tasks and enhance workflow with versatile skills for autonomous planning and execution.",
-    "id": "stotihv/skills",
-    "language": "TypeScript",
-    "name": "stotihv/skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T18:53:07Z",
-    "url": "https://github.com/stotihv/skills"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enhance Claude Code with security and utility hooks to prevent prompt injection and extend functionality through cust",
-    "id": "oliverquaye23/claude-hooks",
-    "language": "CSS",
-    "name": "oliverquaye23/claude-hooks",
-    "stars": 1,
-    "updated_at": "2026-06-26T18:52:27Z",
-    "url": "https://github.com/oliverquaye23/claude-hooks"
-  },
-  {
-    "description": "\ud83d\udd25 Discover essential Claude Code resources for better development practices and enhanced project outcomes. Join us in op",
-    "id": "eegy90/awesome-claude-code-resources",
-    "language": "SCSS",
-    "name": "eegy90/awesome-claude-code-resources",
-    "stars": 1,
-    "updated_at": "2026-06-26T18:52:26Z",
-    "url": "https://github.com/eegy90/awesome-claude-code-resources"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance AI agents with a collection of skills for improved coding assistance, enabling efficient and production-ready ",
-    "id": "Makiya1202/ai-agents-skills",
-    "language": "\u2014",
-    "name": "Makiya1202/ai-agents-skills",
-    "stars": 2,
-    "updated_at": "2026-06-26T18:52:13Z",
-    "url": "https://github.com/Makiya1202/ai-agents-skills"
   }
 ]
