@@ -1,21 +1,57 @@
 [
   {
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 94,
+    "updated_at": "2026-06-26T14:14:36Z",
+    "url": "https://github.com/testdouble/han"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-26T14:14:52Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 1,
-    "updated_at": "2026-06-26T13:58:21Z",
+    "updated_at": "2026-06-26T14:08:44Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
-    "description": "Public JoomPulse agent skills catalog",
+    "description": "Public Claude agent skills that turn JoomPulse data into Mercado Livre seller workflows: market research, competitor tra",
     "id": "joomcode/joompulse-skills",
     "language": "Shell",
     "name": "joomcode/joompulse-skills",
     "stars": 38,
-    "updated_at": "2026-06-26T13:57:16Z",
+    "updated_at": "2026-06-26T14:06:27Z",
     "url": "https://github.com/joomcode/joompulse-skills"
+  },
+  {
+    "description": "Anti-generic design skills for AI agents: fluid (motion) + design-system (identity) + a deterministic detector. Extracte",
+    "id": "Darcos-Loft/fluid",
+    "language": "JavaScript",
+    "name": "Darcos-Loft/fluid",
+    "stars": 1,
+    "updated_at": "2026-06-26T14:05:44Z",
+    "url": "https://github.com/Darcos-Loft/fluid"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-26T14:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 2,
-    "updated_at": "2026-06-26T13:57:12Z",
+    "updated_at": "2026-06-26T14:15:07Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 50,
     "updated_at": "2026-06-26T13:56:54Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-06-26T13:59:40Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "ADD . one LOOP skill \u27f3 5 Specs \u27f3 8 Growth-Steps",
@@ -117,21 +144,12 @@
     "url": "https://github.com/VjAlbert/video-analyzer-repo"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-26T13:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
     "id": "jabrena/cursor-rules-java",
     "language": "Java",
     "name": "jabrena/cursor-rules-java",
     "stars": 409,
-    "updated_at": "2026-06-26T13:41:58Z",
+    "updated_at": "2026-06-26T14:07:08Z",
     "url": "https://github.com/jabrena/cursor-rules-java"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T12:58:01Z",
     "url": "https://github.com/vipincode/exr-agent-skills"
-  },
-  {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1430,
-    "updated_at": "2026-06-26T12:56:07Z",
-    "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16864,
-    "updated_at": "2026-06-26T12:54:28Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   }
 ]
