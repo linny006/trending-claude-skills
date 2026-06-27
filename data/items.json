@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 79,
+    "updated_at": "2026-06-27T00:59:56Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "A living library of AI workflows, Patterns, Claude Skills & Custom GPTs built by Studio Brittany. ",
+    "id": "studiobrittany/studio-brittany-ai",
+    "language": "\u2014",
+    "name": "studiobrittany/studio-brittany-ai",
+    "stars": 2,
+    "updated_at": "2026-06-27T00:58:52Z",
+    "url": "https://github.com/studiobrittany/studio-brittany-ai"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 1,
+    "updated_at": "2026-06-27T00:58:33Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "My Agent Skills I've created for Claude Code and can, in principle, be used with other coding assistants",
+    "id": "WhatIfWeDigDeeper/agent-skills",
+    "language": "Python",
+    "name": "WhatIfWeDigDeeper/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-06-27T00:57:28Z",
+    "url": "https://github.com/WhatIfWeDigDeeper/agent-skills"
+  },
+  {
+    "description": "Open-source SkillOps / instruction-supply-chain control plane for AI-agent teams: policy packs, registry diff, evidence ",
+    "id": "BambooGap/skills-orchestrator",
+    "language": "Python",
+    "name": "BambooGap/skills-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-06-27T00:52:27Z",
+    "url": "https://github.com/BambooGap/skills-orchestrator"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-27T00:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills for AI coding agents: repo audits with leverage-sorted backlogs, bug hunting, security sweeps, publish gate",
     "id": "escoffier-labs/skillet",
     "language": "Shell",
@@ -43,15 +97,6 @@
     "stars": 38,
     "updated_at": "2026-06-27T00:32:16Z",
     "url": "https://github.com/open-agreements/open-agreements"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-27T00:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Analyst workflows as Claude skills. 14 tools spanning earnings, comps, options flow, factor research, TCA, and ops. Buil",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-27T00:03:28Z",
     "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-06-27T00:03:18Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-06-27T00:03:14Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-06-27T00:03:03Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-06-27T00:02:59Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-06-27T00:02:59Z",
-    "url": "https://github.com/allans4635/memctx"
   }
 ]
