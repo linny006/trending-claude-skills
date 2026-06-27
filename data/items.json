@@ -1,12 +1,66 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 376,
+    "updated_at": "2026-06-27T07:40:19Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Shell",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 0,
+    "updated_at": "2026-06-27T07:40:17Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "State-of-the-art (2026) Claude Code skills for building and auditing software \u2014 30 domain & language skills, BUILD/AUDIT",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Shell",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T07:39:44Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "A Claude Code Skill that transforms LeetCode problems into optimized interview-ready solutions with detailed explanation",
+    "id": "Zephyrex21/claude-leetcode-helper",
+    "language": "\u2014",
+    "name": "Zephyrex21/claude-leetcode-helper",
+    "stars": 1,
+    "updated_at": "2026-06-27T07:36:03Z",
+    "url": "https://github.com/Zephyrex21/claude-leetcode-helper"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-27T07:35:58Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
     "description": " AI Security Research Radar \u2014 AI for security and security for AI",
     "id": "Neetx/ai-security-research-radar",
     "language": "\u2014",
     "name": "Neetx/ai-security-research-radar",
     "stars": 1,
-    "updated_at": "2026-06-27T07:34:53Z",
+    "updated_at": "2026-06-27T07:35:49Z",
     "url": "https://github.com/Neetx/ai-security-research-radar"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-27T07:35:41Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -18,15 +72,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Shell",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:34:29Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -34,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T07:30:22Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-27T07:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "State-of-the-art (2026) Claude Code skills for building and auditing software \u2014 30 domain & language skills, BUILD/AUDIT",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Shell",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:27:22Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
@@ -207,15 +234,6 @@
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:33:49Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
     "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
     "id": "houseunlimited/hinge-auto",
     "language": "Python",
@@ -250,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-06-27T07:14:10Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 376,
-    "updated_at": "2026-06-27T07:14:00Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-27T07:09:20Z",
     "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:09:09Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
   }
 ]
