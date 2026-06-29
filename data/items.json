@@ -1,12 +1,30 @@
 [
   {
-    "description": "PyWry is a cross-platform app factory, rendering engine and UI toolkit for Python that produces native desktop, web, and",
-    "id": "deeleeramone/PyWry",
-    "language": "Python",
-    "name": "deeleeramone/PyWry",
-    "stars": 90,
-    "updated_at": "2026-06-29T19:05:15Z",
-    "url": "https://github.com/deeleeramone/PyWry"
+    "description": "339 AI skills across 17 domains. PM is the deepest (66 skills - discovery, execution, strategy frameworks, GTM, Jira/Lin",
+    "id": "borghei/Claude-Skills",
+    "language": "HTML",
+    "name": "borghei/Claude-Skills",
+    "stars": 317,
+    "updated_at": "2026-06-29T19:12:31Z",
+    "url": "https://github.com/borghei/Claude-Skills"
+  },
+  {
+    "description": "AI skills for German legal practice and EU compliance. 48 plugins, 103 skills across general law, Fachanwaltschaften, re",
+    "id": "borghei/AI-Skills-German-Law",
+    "language": "HTML",
+    "name": "borghei/AI-Skills-German-Law",
+    "stars": 10,
+    "updated_at": "2026-06-29T19:12:16Z",
+    "url": "https://github.com/borghei/AI-Skills-German-Law"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-06-29T19:10:48Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
     "description": "Agent Skills that bring DataRobot platform capabilities to your coding agents",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "datarobot-oss/datarobot-agent-skills",
     "stars": 21,
-    "updated_at": "2026-06-29T19:05:03Z",
+    "updated_at": "2026-06-29T19:09:37Z",
     "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 0,
+    "updated_at": "2026-06-29T19:06:57Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-29T19:05:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "PyWry is a cross-platform app factory, rendering engine and UI toolkit for Python that produces native desktop, web, and",
+    "id": "deeleeramone/PyWry",
+    "language": "Python",
+    "name": "deeleeramone/PyWry",
+    "stars": 90,
+    "updated_at": "2026-06-29T19:05:35Z",
+    "url": "https://github.com/deeleeramone/PyWry"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -54,15 +99,6 @@
     "url": "https://github.com/vdk888/bubble-shield-public"
   },
   {
-    "description": "339 AI skills across 17 domains. PM is the deepest (66 skills - discovery, execution, strategy frameworks, GTM, Jira/Lin",
-    "id": "borghei/Claude-Skills",
-    "language": "HTML",
-    "name": "borghei/Claude-Skills",
-    "stars": 317,
-    "updated_at": "2026-06-29T19:01:32Z",
-    "url": "https://github.com/borghei/Claude-Skills"
-  },
-  {
     "description": "A Claude Code skill that gives AI assistants instant access to the complete SCS Software Modding Wiki \u2014 Documentation mi",
     "id": "MBCustoms/scs-modding-wiki-skill",
     "language": "PowerShell",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T19:01:15Z",
     "url": "https://github.com/MBCustoms/scs-modding-wiki-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-29T19:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -142,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-06-29T18:55:38Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 413,
+    "updated_at": "2026-06-29T18:54:51Z",
+    "url": "https://github.com/jabrena/plinth"
   },
   {
     "description": "Discover CLAUDE.md best practices for project-specific AI coding guidance, with ready-to-use templates for languages, fr",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-29T18:45:14Z",
     "url": "https://github.com/extentadulthood280/spraay-payments"
-  },
-  {
-    "description": "Enable efficient bug bounty hunting across Web2 and Web3 with a tool that supports full recon to detailed reporting.",
-    "id": "Mikacr1138/claude-bug-bounty",
-    "language": "Python",
-    "name": "Mikacr1138/claude-bug-bounty",
-    "stars": 1,
-    "updated_at": "2026-06-29T18:45:13Z",
-    "url": "https://github.com/Mikacr1138/claude-bug-bounty"
-  },
-  {
-    "description": "Enhance LLM agents with practical skills for neurodivergent support, focus, and communication to improve AI coding assis",
-    "id": "Blaynelargish66/knx-skills",
-    "language": "\u2014",
-    "name": "Blaynelargish66/knx-skills",
-    "stars": 3,
-    "updated_at": "2026-06-29T18:45:12Z",
-    "url": "https://github.com/Blaynelargish66/knx-skills"
-  },
-  {
-    "description": "Provide ready-to-use Claude Code commands, subagents, hooks, skills, and configs to simplify setup and speed up developm",
-    "id": "halflength-ampleness75/claude-code-recipes",
-    "language": "Shell",
-    "name": "halflength-ampleness75/claude-code-recipes",
-    "stars": 2,
-    "updated_at": "2026-06-29T18:45:08Z",
-    "url": "https://github.com/halflength-ampleness75/claude-code-recipes"
-  },
-  {
-    "description": "Enable AI agents to retain memory across sessions using persistent storage designed for continuous context retention.",
-    "id": "unvulcanised-watercress762/mem9",
-    "language": "TypeScript",
-    "name": "unvulcanised-watercress762/mem9",
-    "stars": 3,
-    "updated_at": "2026-06-29T18:45:05Z",
-    "url": "https://github.com/unvulcanised-watercress762/mem9"
   }
 ]
