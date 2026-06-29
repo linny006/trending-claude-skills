@@ -1,5 +1,86 @@
 [
   {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 95,
+    "updated_at": "2026-06-29T06:15:11Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "Local-first Skill manager for Codex and Claude Code",
+    "id": "zhangliyuangit/skillport",
+    "language": "TypeScript",
+    "name": "zhangliyuangit/skillport",
+    "stars": 1,
+    "updated_at": "2026-06-29T06:10:24Z",
+    "url": "https://github.com/zhangliyuangit/skillport"
+  },
+  {
+    "description": "A collection of skills for an AI agent that helps writing texts",
+    "id": "yegor256/critic",
+    "language": "TeX",
+    "name": "yegor256/critic",
+    "stars": 3,
+    "updated_at": "2026-06-29T06:08:24Z",
+    "url": "https://github.com/yegor256/critic"
+  },
+  {
+    "description": "Autonomous idea generator scoring on three axes \u2014 feasibility (build), fundability (sell), ambition (frontier). LLM-firs",
+    "id": "rayketcham-lab/project-forge",
+    "language": "Python",
+    "name": "rayketcham-lab/project-forge",
+    "stars": 0,
+    "updated_at": "2026-06-29T06:07:29Z",
+    "url": "https://github.com/rayketcham-lab/project-forge"
+  },
+  {
+    "description": "Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo",
+    "id": "YurunChen/repo-docs-skills",
+    "language": "CSS",
+    "name": "YurunChen/repo-docs-skills",
+    "stars": 213,
+    "updated_at": "2026-06-29T06:06:15Z",
+    "url": "https://github.com/YurunChen/repo-docs-skills"
+  },
+  {
+    "description": "Open-source SkillOps / instruction-supply-chain control plane for AI-agent teams: policy packs, registry diff, evidence ",
+    "id": "BambooGap/skills-orchestrator",
+    "language": "Python",
+    "name": "BambooGap/skills-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-06-29T06:05:33Z",
+    "url": "https://github.com/BambooGap/skills-orchestrator"
+  },
+  {
+    "description": "Claude Code skills suite for AI-driven Odoo 17/18/19 development: read ground truth from the running instance first (fie",
+    "id": "tuanle96/odoo-ai-skills",
+    "language": "Python",
+    "name": "tuanle96/odoo-ai-skills",
+    "stars": 2,
+    "updated_at": "2026-06-29T06:04:30Z",
+    "url": "https://github.com/tuanle96/odoo-ai-skills"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-06-29T06:02:39Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-29T06:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Some useful Claude Code Skills",
     "id": "j-256/claude-code-skills",
     "language": "JavaScript",
@@ -31,7 +112,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 64015,
+    "stars": 64018,
     "updated_at": "2026-06-29T05:57:51Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -72,15 +153,6 @@
     "url": "https://github.com/ChuluuMGL/proposal-ppt-skill"
   },
   {
-    "description": "Open-source SkillOps / instruction-supply-chain control plane for AI-agent teams: policy packs, registry diff, evidence ",
-    "id": "BambooGap/skills-orchestrator",
-    "language": "Python",
-    "name": "BambooGap/skills-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-06-29T05:51:35Z",
-    "url": "https://github.com/BambooGap/skills-orchestrator"
-  },
-  {
     "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
     "id": "Neetx/ai-research-radar",
     "language": "\u2014",
@@ -103,7 +175,7 @@
     "id": "yushengxin/catch-web",
     "language": "\u2014",
     "name": "yushengxin/catch-web",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-29T05:49:26Z",
     "url": "https://github.com/yushengxin/catch-web"
   },
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 16961,
-    "updated_at": "2026-06-29T05:57:06Z",
+    "updated_at": "2026-06-29T06:11:31Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -133,24 +205,6 @@
     "stars": 4,
     "updated_at": "2026-06-29T05:45:55Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Local-first Skill manager for Codex and Claude Code",
-    "id": "zhangliyuangit/skillport",
-    "language": "TypeScript",
-    "name": "zhangliyuangit/skillport",
-    "stars": 1,
-    "updated_at": "2026-06-29T05:58:02Z",
-    "url": "https://github.com/zhangliyuangit/skillport"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-29T05:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": " AI Security Research Radar \u2014 AI for security and security for AI",
@@ -166,7 +220,7 @@
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 1662,
+    "stars": 1663,
     "updated_at": "2026-06-29T05:42:01Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
@@ -176,7 +230,7 @@
     "language": "Shell",
     "name": "V-Songbird/claude-plugins",
     "stars": 0,
-    "updated_at": "2026-06-29T05:38:22Z",
+    "updated_at": "2026-06-29T06:00:44Z",
     "url": "https://github.com/V-Songbird/claude-plugins"
   },
   {
@@ -324,15 +378,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
-    "id": "jianshuo/claude-skills",
-    "language": "Python",
-    "name": "jianshuo/claude-skills",
-    "stars": 95,
-    "updated_at": "2026-06-29T05:06:38Z",
-    "url": "https://github.com/jianshuo/claude-skills"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-29T04:50:00Z",
     "url": "https://github.com/varunk130/ai-workflow-playbooks"
-  },
-  {
-    "description": "Curated AI agent evaluation skills from Microsoft's Eval Guide \u2014 plan, generate, run, and interpret eval suites for Copi",
-    "id": "varunk130/AI-Eval-Skills",
-    "language": "\u2014",
-    "name": "varunk130/AI-Eval-Skills",
-    "stars": 1,
-    "updated_at": "2026-06-29T04:49:01Z",
-    "url": "https://github.com/varunk130/AI-Eval-Skills"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 0,
-    "updated_at": "2026-06-29T04:45:19Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 0,
-    "updated_at": "2026-06-29T04:44:02Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-06-29T04:41:17Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 0,
-    "updated_at": "2026-06-29T04:40:55Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
   }
 ]
