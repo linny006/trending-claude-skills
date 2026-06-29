@@ -1,12 +1,84 @@
 [
   {
+    "description": "A curated prompt library for PMs covering discovery, strategy, stakeholder comms, interviews, and data analysis. Built i",
+    "id": "Sanjayh1/pm-prompt-kit",
+    "language": "\u2014",
+    "name": "Sanjayh1/pm-prompt-kit",
+    "stars": 0,
+    "updated_at": "2026-06-29T04:59:15Z",
+    "url": "https://github.com/Sanjayh1/pm-prompt-kit"
+  },
+  {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 94,
+    "updated_at": "2026-06-29T04:58:51Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 0,
+    "updated_at": "2026-06-29T04:58:46Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-06-29T04:51:32Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
     "description": "Production-grade operational playbooks for AI coding agents across the full software delivery pipeline. 21 playbooks, 10",
     "id": "varunk130/ai-workflow-playbooks",
     "language": "\u2014",
     "name": "varunk130/ai-workflow-playbooks",
     "stars": 2,
-    "updated_at": "2026-06-29T04:44:56Z",
+    "updated_at": "2026-06-29T04:50:00Z",
     "url": "https://github.com/varunk130/ai-workflow-playbooks"
+  },
+  {
+    "description": "Curated AI agent evaluation skills from Microsoft's Eval Guide \u2014 plan, generate, run, and interpret eval suites for Copi",
+    "id": "varunk130/AI-Eval-Skills",
+    "language": "\u2014",
+    "name": "varunk130/AI-Eval-Skills",
+    "stars": 1,
+    "updated_at": "2026-06-29T04:49:01Z",
+    "url": "https://github.com/varunk130/AI-Eval-Skills"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-29T04:45:44Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
+    "id": "Glad-oboedacaccia408/design.md",
+    "language": "TypeScript",
+    "name": "Glad-oboedacaccia408/design.md",
+    "stars": 0,
+    "updated_at": "2026-06-29T04:45:19Z",
+    "url": "https://github.com/Glad-oboedacaccia408/design.md"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-29T04:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T04:44:02Z",
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
-    "id": "jianshuo/claude-skills",
-    "language": "Python",
-    "name": "jianshuo/claude-skills",
-    "stars": 94,
-    "updated_at": "2026-06-29T04:42:55Z",
-    "url": "https://github.com/jianshuo/claude-skills"
   },
   {
     "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
@@ -346,8 +409,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 63999,
-    "updated_at": "2026-06-29T04:31:52Z",
+    "stars": 64000,
+    "updated_at": "2026-06-29T05:00:10Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T04:31:29Z",
     "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-06-29T04:31:27Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 1,
-    "updated_at": "2026-06-29T04:31:17Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-06-29T04:30:59Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Build AI skills that distill any person\u2019s thinking into reusable workflows and prompts",
-    "id": "gianguardant971/nuwa-skill",
-    "language": "\u2014",
-    "name": "gianguardant971/nuwa-skill",
-    "stars": 1,
-    "updated_at": "2026-06-29T04:30:36Z",
-    "url": "https://github.com/gianguardant971/nuwa-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-29T04:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 0,
-    "updated_at": "2026-06-29T04:30:14Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-06-29T04:30:08Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
   }
 ]
