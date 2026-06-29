@@ -1,5 +1,77 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 379,
+    "updated_at": "2026-06-29T06:40:46Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Open-source SkillOps / instruction-supply-chain control plane for AI-agent teams: policy packs, registry diff, evidence ",
+    "id": "BambooGap/skills-orchestrator",
+    "language": "Python",
+    "name": "BambooGap/skills-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-06-29T06:39:50Z",
+    "url": "https://github.com/BambooGap/skills-orchestrator"
+  },
+  {
+    "description": "Evidence-first PRD pipeline for AI coding agents \u2014 research, spec, plan, validate, implement, review, PR",
+    "id": "rashee1997/prd-pipeline",
+    "language": "\u2014",
+    "name": "rashee1997/prd-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-29T06:39:34Z",
+    "url": "https://github.com/rashee1997/prd-pipeline"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 19,
+    "updated_at": "2026-06-29T06:43:14Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-06-29T06:39:28Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "AI agent skills for the personal operator's craft \u2014 decisions, research, second-brain, content rotation, scenario modeli",
+    "id": "coreyhaines31/makerskills",
+    "language": "\u2014",
+    "name": "coreyhaines31/makerskills",
+    "stars": 0,
+    "updated_at": "2026-06-29T06:38:03Z",
+    "url": "https://github.com/coreyhaines31/makerskills"
+  },
+  {
+    "description": "A custom marketplace of Claude Code plugins for both experienced developers and vibe coders, extending Claude Code with ",
+    "id": "V-Songbird/claude-plugins",
+    "language": "Shell",
+    "name": "V-Songbird/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-06-29T06:33:44Z",
+    "url": "https://github.com/V-Songbird/claude-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-29T06:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "punkaze's Claude Code agent skills collection (plugin marketplace). Ships the bruno skill: author/generate/run Bruno .br",
     "id": "punkaze/punkaze-skills",
     "language": "JavaScript",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-29T06:28:08Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
-    "id": "ChronoAIProject/Ornn",
-    "language": "TypeScript",
-    "name": "ChronoAIProject/Ornn",
-    "stars": 19,
-    "updated_at": "2026-06-29T06:28:04Z",
-    "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
     "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
@@ -86,7 +149,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 91,
-    "updated_at": "2026-06-29T06:23:08Z",
+    "updated_at": "2026-06-29T06:43:16Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 95,
     "updated_at": "2026-06-29T06:16:18Z",
     "url": "https://github.com/jianshuo/claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-29T06:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
@@ -148,18 +202,9 @@
     "id": "YurunChen/repo-docs-skills",
     "language": "CSS",
     "name": "YurunChen/repo-docs-skills",
-    "stars": 216,
+    "stars": 217,
     "updated_at": "2026-06-29T06:06:15Z",
     "url": "https://github.com/YurunChen/repo-docs-skills"
-  },
-  {
-    "description": "Open-source SkillOps / instruction-supply-chain control plane for AI-agent teams: policy packs, registry diff, evidence ",
-    "id": "BambooGap/skills-orchestrator",
-    "language": "Python",
-    "name": "BambooGap/skills-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-06-29T06:05:33Z",
-    "url": "https://github.com/BambooGap/skills-orchestrator"
   },
   {
     "description": "Claude Code skills suite for AI-driven Odoo 17/18/19 development: read ground truth from the running instance first (fie",
@@ -169,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-29T06:04:30Z",
     "url": "https://github.com/tuanle96/odoo-ai-skills"
-  },
-  {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 2,
-    "updated_at": "2026-06-29T06:02:39Z",
-    "url": "https://github.com/fworks-tech/agenthood"
   },
   {
     "description": "Some useful Claude Code Skills",
@@ -202,7 +238,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30026,
+    "stars": 30027,
     "updated_at": "2026-06-29T05:58:07Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -211,7 +247,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 64022,
+    "stars": 64028,
     "updated_at": "2026-06-29T05:57:51Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -301,18 +337,9 @@
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 1663,
+    "stars": 1664,
     "updated_at": "2026-06-29T05:42:01Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "A custom marketplace of Claude Code plugins for both experienced developers and vibe coders, extending Claude Code with ",
-    "id": "V-Songbird/claude-plugins",
-    "language": "Shell",
-    "name": "V-Songbird/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-06-29T06:00:44Z",
-    "url": "https://github.com/V-Songbird/claude-plugins"
   },
   {
     "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T05:19:39Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-06-29T05:09:21Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 0,
-    "updated_at": "2026-06-29T05:54:32Z",
-    "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-29T05:06:55Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   }
 ]
