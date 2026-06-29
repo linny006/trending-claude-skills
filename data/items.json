@@ -1,5 +1,68 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 91,
+    "updated_at": "2026-06-29T09:44:47Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 27,
+    "updated_at": "2026-06-29T09:44:15Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-06-29T09:42:31Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Composable Claude Code skills for building Notion CRM + Operations OS workspaces.",
+    "id": "chiragg-ds/claude-skills",
+    "language": "Python",
+    "name": "chiragg-ds/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-29T09:43:53Z",
+    "url": "https://github.com/chiragg-ds/claude-skills"
+  },
+  {
+    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
+    "id": "jianshuo/claude-skills",
+    "language": "Python",
+    "name": "jianshuo/claude-skills",
+    "stars": 95,
+    "updated_at": "2026-06-29T09:40:01Z",
+    "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "The session state protocol for AI coding. Hook-level scope enforcement, cross-session memory, contradiction detection, a",
+    "id": "aarshsharma2803-stack/optimusprime",
+    "language": "Python",
+    "name": "aarshsharma2803-stack/optimusprime",
+    "stars": 0,
+    "updated_at": "2026-06-29T09:36:01Z",
+    "url": "https://github.com/aarshsharma2803-stack/optimusprime"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-29T09:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
     "id": "chenweil/skillcaddy",
     "language": "JavaScript",
@@ -22,7 +85,7 @@
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1215,
+    "stars": 1216,
     "updated_at": "2026-06-29T09:27:30Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
@@ -45,15 +108,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "The session state protocol for AI coding. Hook-level scope enforcement, cross-session memory, contradiction detection, a",
-    "id": "aarshsharma2803-stack/optimusprime",
-    "language": "Python",
-    "name": "aarshsharma2803-stack/optimusprime",
-    "stars": 0,
-    "updated_at": "2026-06-29T09:25:22Z",
-    "url": "https://github.com/aarshsharma2803-stack/optimusprime"
-  },
-  {
     "description": "A custom marketplace of Claude Code plugins for both experienced developers and vibe coders, extending Claude Code with ",
     "id": "V-Songbird/claude-plugins",
     "language": "Shell",
@@ -72,15 +126,6 @@
     "url": "https://github.com/gitgitWi/council-flow"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-29T09:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
     "id": "heymegabyte/claude-skills",
     "language": "TypeScript",
@@ -95,17 +140,8 @@
     "language": "JavaScript",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 1062,
-    "updated_at": "2026-06-29T09:27:10Z",
+    "updated_at": "2026-06-29T09:45:02Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 91,
-    "updated_at": "2026-06-29T09:25:40Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
@@ -144,15 +180,6 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
-    "id": "jianshuo/claude-skills",
-    "language": "Python",
-    "name": "jianshuo/claude-skills",
-    "stars": 95,
-    "updated_at": "2026-06-29T09:02:50Z",
-    "url": "https://github.com/jianshuo/claude-skills"
-  },
-  {
     "description": "Open-source Claude Code skills and Codex skills for AI-first work. Audit, re-engineer, and bootstrap projects with AI-fi",
     "id": "techwolf-ai/ai-first-toolkit",
     "language": "TypeScript",
@@ -171,15 +198,6 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 27,
-    "updated_at": "2026-06-29T08:51:29Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
     "description": "\ud83d\udcda Agent skills distilled from technical books \u2014 AI Engineering, Context Engineering, Designing Data-Intensive Applicatio",
     "id": "ebarti/skills",
     "language": "Shell",
@@ -194,7 +212,7 @@
     "language": "\u2014",
     "name": "rashee1997/prd-pipeline",
     "stars": 0,
-    "updated_at": "2026-06-29T08:47:54Z",
+    "updated_at": "2026-06-29T09:38:10Z",
     "url": "https://github.com/rashee1997/prd-pipeline"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T08:37:22Z",
     "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-06-29T08:36:59Z",
-    "url": "https://github.com/blisspixel/primr"
   },
   {
     "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
@@ -418,7 +427,7 @@
     "id": "adlaiponderous700/claude-skill-cinematic-prompt",
     "language": "\u2014",
     "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-06-29T08:30:37Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T08:29:31Z",
     "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-06-29T08:29:12Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
   }
 ]
