@@ -1,5 +1,95 @@
 [
   {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 16974,
+    "updated_at": "2026-06-29T15:14:12Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "A toolkit of skills, templates, and guides for bootstrapping AI-agent-friendly projects. Started from Anthropic's Claude",
+    "id": "sneg55/agent-starter",
+    "language": "Shell",
+    "name": "sneg55/agent-starter",
+    "stars": 10,
+    "updated_at": "2026-06-29T15:11:59Z",
+    "url": "https://github.com/sneg55/agent-starter"
+  },
+  {
+    "description": "AI agent skills for resumable project control. Garelier (Garage + Atelier) organizes PM, knowledge, review, and executio",
+    "id": "aby-studio-works/garelier",
+    "language": "TypeScript",
+    "name": "aby-studio-works/garelier",
+    "stars": 0,
+    "updated_at": "2026-06-29T15:10:56Z",
+    "url": "https://github.com/aby-studio-works/garelier"
+  },
+  {
+    "description": "Loop engineering skill for AI \u2014 scaffold a 7-agent team that discovers, implements, verifies, and iterates until your go",
+    "id": "vibhasdutta/loop-engineer",
+    "language": "PowerShell",
+    "name": "vibhasdutta/loop-engineer",
+    "stars": 0,
+    "updated_at": "2026-06-29T15:08:24Z",
+    "url": "https://github.com/vibhasdutta/loop-engineer"
+  },
+  {
+    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
+    "id": "yinjialu/ai-frontier-daily",
+    "language": "Python",
+    "name": "yinjialu/ai-frontier-daily",
+    "stars": 0,
+    "updated_at": "2026-06-29T15:08:02Z",
+    "url": "https://github.com/yinjialu/ai-frontier-daily"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-06-29T15:07:16Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
+    "id": "jabrena/cursor-rules-java",
+    "language": "Java",
+    "name": "jabrena/cursor-rules-java",
+    "stars": 412,
+    "updated_at": "2026-06-29T15:06:01Z",
+    "url": "https://github.com/jabrena/cursor-rules-java"
+  },
+  {
+    "description": "Agent skills for AI coding agents: repo audits with leverage-sorted backlogs, bug hunting, security sweeps, publish gate",
+    "id": "escoffier-labs/skillet",
+    "language": "Shell",
+    "name": "escoffier-labs/skillet",
+    "stars": 0,
+    "updated_at": "2026-06-29T15:05:03Z",
+    "url": "https://github.com/escoffier-labs/skillet"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-29T15:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-29T15:00:09Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
     "id": "chenweil/skillcaddy",
     "language": "JavaScript",
@@ -58,7 +148,7 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 29584,
+    "stars": 29585,
     "updated_at": "2026-06-29T14:53:28Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
@@ -76,7 +166,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 64168,
+    "stars": 64170,
     "updated_at": "2026-06-29T14:50:53Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -106,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-29T14:45:25Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-29T14:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -158,7 +239,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 91,
-    "updated_at": "2026-06-29T14:47:31Z",
+    "updated_at": "2026-06-29T15:06:50Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -196,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T14:32:12Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Loop engineering skill for AI \u2014 scaffold a 7-agent team that discovers, implements, verifies, and iterates until your go",
-    "id": "vibhasdutta/loop-engineer",
-    "language": "PowerShell",
-    "name": "vibhasdutta/loop-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-29T14:32:07Z",
-    "url": "https://github.com/vibhasdutta/loop-engineer"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -268,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-06-29T14:19:28Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 16972,
-    "updated_at": "2026-06-29T14:52:19Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T14:03:41Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-06-29T14:32:29Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "repo for reusable plugins and skills",
-    "id": "richfrem/agent-plugins-skills",
-    "language": "Python",
-    "name": "richfrem/agent-plugins-skills",
-    "stars": 3,
-    "updated_at": "2026-06-29T14:42:12Z",
-    "url": "https://github.com/richfrem/agent-plugins-skills"
-  },
-  {
-    "description": "Knowledge graph extractor: Markdown (or any format) \u2192 knowledge graph with RDFS/OWL ontology",
-    "id": "SenolIsci/mykg",
-    "language": "Python",
-    "name": "SenolIsci/mykg",
-    "stars": 39,
-    "updated_at": "2026-06-29T13:58:17Z",
-    "url": "https://github.com/SenolIsci/mykg"
-  },
-  {
-    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
-    "id": "hoangsonww/Claude-Code-Agent-Monitor",
-    "language": "TypeScript",
-    "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 713,
-    "updated_at": "2026-06-29T13:57:41Z",
-    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
-    "description": "Production-ready skills that give Claude deep domain expertise. Install once, get senior-engineer-quality output from na",
-    "id": "mouchegmouradian/claude-code-skills",
-    "language": "Python",
-    "name": "mouchegmouradian/claude-code-skills",
-    "stars": 2,
-    "updated_at": "2026-06-29T13:57:30Z",
-    "url": "https://github.com/mouchegmouradian/claude-code-skills"
-  },
-  {
-    "description": "In Anthropic's official Claude plugin directory \u00b7 313 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "JavaScript",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1073,
-    "updated_at": "2026-06-29T13:57:30Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Nine Claude Code skills for healthcare billing teams. Pre-submission claim risk, denial decoding, denial routing, appeal",
-    "id": "Upstream-Intelligence/upstream-skills",
-    "language": "Shell",
-    "name": "Upstream-Intelligence/upstream-skills",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:54:58Z",
-    "url": "https://github.com/Upstream-Intelligence/upstream-skills"
   }
 ]
