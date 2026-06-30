@@ -1,5 +1,86 @@
 [
   {
+    "description": "Convert Markdown or Word documents into clean, Claude-style presentations in HTML or PPTX with simple, minimal design an",
+    "id": "ibadbasit/skill_doc2ppt",
+    "language": "\u2014",
+    "name": "ibadbasit/skill_doc2ppt",
+    "stars": 1,
+    "updated_at": "2026-06-30T05:59:16Z",
+    "url": "https://github.com/ibadbasit/skill_doc2ppt"
+  },
+  {
+    "description": "Serve real-time and historical Indian stock data from NSE and BSE using Model Context Protocol for easy market analysis ",
+    "id": "shamu0509/nse-bse-mcp",
+    "language": "Python",
+    "name": "shamu0509/nse-bse-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-30T05:58:54Z",
+    "url": "https://github.com/shamu0509/nse-bse-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-30T05:58:52Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Provide ready-to-use CLAUDE.md templates for major stacks to improve Claude Code outputs and streamline project setup.",
+    "id": "anns2rn/awesome-claude-md",
+    "language": "Python",
+    "name": "anns2rn/awesome-claude-md",
+    "stars": 0,
+    "updated_at": "2026-06-30T05:58:40Z",
+    "url": "https://github.com/anns2rn/awesome-claude-md"
+  },
+  {
+    "description": "Provide AI agent skills for the Symfony UX frontend stack using the Agent Skills open standard for seamless integration ",
+    "id": "BKR-57/symfony-ux-skills",
+    "language": "\u2014",
+    "name": "BKR-57/symfony-ux-skills",
+    "stars": 0,
+    "updated_at": "2026-06-30T05:56:57Z",
+    "url": "https://github.com/BKR-57/symfony-ux-skills"
+  },
+  {
+    "description": "Recruit AI agents compatible with sovereign infrastructure for human capital workflows at G42 with enterprise-ready inte",
+    "id": "GMorpheus/Agent-Jobs",
+    "language": "\u2014",
+    "name": "GMorpheus/Agent-Jobs",
+    "stars": 0,
+    "updated_at": "2026-06-30T05:56:49Z",
+    "url": "https://github.com/GMorpheus/Agent-Jobs"
+  },
+  {
+    "description": "Enable efficient AI agent orchestration with test-driven patterns that improve through knowledge compounding and cost-aw",
+    "id": "uly-yuhana/harness-kit",
+    "language": "\u2014",
+    "name": "uly-yuhana/harness-kit",
+    "stars": 0,
+    "updated_at": "2026-06-30T05:56:44Z",
+    "url": "https://github.com/uly-yuhana/harness-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-30T05:56:32Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Run AI agents on schedules with tasks, skills, and persistent memory using a single Go binary in standalone or distribut",
+    "id": "Smileyjman/ductwork",
+    "language": "Go",
+    "name": "Smileyjman/ductwork",
+    "stars": 0,
+    "updated_at": "2026-06-30T05:56:30Z",
+    "url": "https://github.com/Smileyjman/ductwork"
+  },
+  {
     "description": "Generate clear, structured research pipeline flowcharts from paper summaries using automatic TikZ code creation and comp",
     "id": "JasonYozza14/Skill-Research-Figure",
     "language": "\u2014",
@@ -40,7 +121,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 64285,
+    "stars": 64286,
     "updated_at": "2026-06-30T05:54:54Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -140,7 +221,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-30T05:52:37Z",
+    "updated_at": "2026-06-30T05:59:54Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -196,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T05:45:27Z",
     "url": "https://github.com/windows150/openclaw-adapter"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-30T05:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udd4b Teach yourself coding in real-time using your own projects with this free, open-source Claude Code plugin for active l",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T05:35:55Z",
     "url": "https://github.com/Wackodacko/agent-skills-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Automate Unity Editor tasks with AI using JSON command files for efficient scene management, GameObject handling, and ",
-    "id": "sachinrai308/Unity-Skills",
-    "language": "\u2014",
-    "name": "sachinrai308/Unity-Skills",
-    "stars": 7,
-    "updated_at": "2026-06-30T05:35:44Z",
-    "url": "https://github.com/sachinrai308/Unity-Skills"
-  },
-  {
-    "description": "\ud83d\udda5\ufe0f Discover and master essential terminal skills for Server, Kubernetes, DevOps, and Cloud Computing with this curated c",
-    "id": "ryukyagamilight/terminal-skills",
-    "language": "\u2014",
-    "name": "ryukyagamilight/terminal-skills",
-    "stars": 1,
-    "updated_at": "2026-06-30T05:35:32Z",
-    "url": "https://github.com/ryukyagamilight/terminal-skills"
-  },
-  {
-    "description": "\ud83d\ude80 Build powerful agents and configurations with the complete collection of Claude Code from an Anthropic hackathon winne",
-    "id": "arabicapp/everything-claude-code",
-    "language": "JavaScript",
-    "name": "arabicapp/everything-claude-code",
-    "stars": 143,
-    "updated_at": "2026-06-30T05:35:15Z",
-    "url": "https://github.com/arabicapp/everything-claude-code"
-  },
-  {
-    "description": "\ud83d\udcca Create and edit PowerPoint presentations effortlessly with Claude Skills using XML manipulation for streamlined conten",
-    "id": "24111999/claude-skills",
-    "language": "JavaScript",
-    "name": "24111999/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-30T05:33:23Z",
-    "url": "https://github.com/24111999/claude-skills"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-06-30T05:32:03Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
-    "id": "tobihagemann/turbo",
-    "language": "Shell",
-    "name": "tobihagemann/turbo",
-    "stars": 360,
-    "updated_at": "2026-06-30T05:32:03Z",
-    "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "\ud83e\udd16 Build custom customer support automation with Claude Code, streamlining ticket management and enhancing response effic",
-    "id": "chigyel/claude-cs",
-    "language": "\u2014",
-    "name": "chigyel/claude-cs",
-    "stars": 0,
-    "updated_at": "2026-06-30T05:32:00Z",
-    "url": "https://github.com/chigyel/claude-cs"
-  },
-  {
-    "description": "\ud83e\udd16 Coordinate multi-agent tasks and enhance workflow with versatile skills for autonomous planning and execution.",
-    "id": "stotihv/skills",
-    "language": "TypeScript",
-    "name": "stotihv/skills",
-    "stars": 0,
-    "updated_at": "2026-06-30T05:31:08Z",
-    "url": "https://github.com/stotihv/skills"
   }
 ]
