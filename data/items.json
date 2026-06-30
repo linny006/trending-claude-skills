@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 63,
+    "updated_at": "2026-06-30T13:44:01Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
+    "id": "maxritter/pilot-shell",
+    "language": "JavaScript",
+    "name": "maxritter/pilot-shell",
+    "stars": 1764,
+    "updated_at": "2026-06-30T13:43:34Z",
+    "url": "https://github.com/maxritter/pilot-shell"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 1,
+    "updated_at": "2026-06-30T13:43:21Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Production-grade agent skills for Claude Code and any SKILL.md-compatible AI agent. Each skill is mined from real corpor",
+    "id": "fralapo/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "fralapo/awesome-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-30T13:42:19Z",
+    "url": "https://github.com/fralapo/awesome-agent-skills"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 1,
+    "updated_at": "2026-06-30T13:41:34Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1450,
+    "updated_at": "2026-06-30T13:37:46Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "MarkdownGo is a lightweight, high-performance Go utility for converting various files to Markdown for use with LLMs and ",
+    "id": "MSatyam-Mishra/markdown_go",
+    "language": "Go",
+    "name": "MSatyam-Mishra/markdown_go",
+    "stars": 0,
+    "updated_at": "2026-06-30T13:36:39Z",
+    "url": "https://github.com/MSatyam-Mishra/markdown_go"
+  },
+  {
+    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
+    "id": "raelli/octowiz",
+    "language": "Python",
+    "name": "raelli/octowiz",
+    "stars": 2,
+    "updated_at": "2026-06-30T13:36:14Z",
+    "url": "https://github.com/raelli/octowiz"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 379,
+    "updated_at": "2026-06-30T13:30:26Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-30T13:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 400,
+    "updated_at": "2026-06-30T13:30:12Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
     "description": "A collection of Claude Skills from Posit",
     "id": "posit-dev/skills",
     "language": "R",
@@ -45,15 +144,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "MarkdownGo is a lightweight, high-performance Go utility for converting various files to Markdown for use with LLMs and ",
-    "id": "MSatyam-Mishra/markdown_go",
-    "language": "Go",
-    "name": "MSatyam-Mishra/markdown_go",
-    "stars": 0,
-    "updated_at": "2026-06-30T13:27:21Z",
-    "url": "https://github.com/MSatyam-Mishra/markdown_go"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -70,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T13:23:12Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 1,
-    "updated_at": "2026-06-30T13:23:14Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
-    "id": "raelli/octowiz",
-    "language": "Python",
-    "name": "raelli/octowiz",
-    "stars": 2,
-    "updated_at": "2026-06-30T13:23:01Z",
-    "url": "https://github.com/raelli/octowiz"
   },
   {
     "description": "Codex skill for extracting Douyin short-video subtitles and analyzing AI industry-chain order logic",
@@ -108,15 +180,6 @@
     "url": "https://github.com/caezium/nib"
   },
   {
-    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
-    "id": "maxritter/pilot-shell",
-    "language": "JavaScript",
-    "name": "maxritter/pilot-shell",
-    "stars": 1764,
-    "updated_at": "2026-06-30T13:18:29Z",
-    "url": "https://github.com/maxritter/pilot-shell"
-  },
-  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -130,7 +193,7 @@
     "id": "Kaelio/ktx",
     "language": "TypeScript",
     "name": "Kaelio/ktx",
-    "stars": 1435,
+    "stars": 1436,
     "updated_at": "2026-06-30T13:17:26Z",
     "url": "https://github.com/Kaelio/ktx"
   },
@@ -158,17 +221,8 @@
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
     "stars": 221,
-    "updated_at": "2026-06-30T13:16:02Z",
+    "updated_at": "2026-06-30T13:43:57Z",
     "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-30T13:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "This is WordPress and Elementor skill.md made for Claude.ai",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T12:31:45Z",
     "url": "https://github.com/vittobh/pm-os"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:31:32Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 400,
-    "updated_at": "2026-06-30T12:26:53Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "Python",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 31,
-    "updated_at": "2026-06-30T12:23:08Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Business registry data skills for AI agents - KYC/AML, credit risk, property, compliance, lead gen across 24 actors (Eur",
-    "id": "Nolpak14/getregdata",
-    "language": "\u2014",
-    "name": "Nolpak14/getregdata",
-    "stars": 4,
-    "updated_at": "2026-06-30T12:22:43Z",
-    "url": "https://github.com/Nolpak14/getregdata"
-  },
-  {
-    "description": "AI agent skills for modern product engineers",
-    "id": "peppesilletti/skills",
-    "language": "HTML",
-    "name": "peppesilletti/skills",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:21:52Z",
-    "url": "https://github.com/peppesilletti/skills"
-  },
-  {
-    "description": "Ready-to-use Claude skills for AI agents, MCP workflows, UI/UX, system prompt research, and decision making.",
-    "id": "emaddawood1991-tech/claude-ai-skills",
-    "language": "\u2014",
-    "name": "emaddawood1991-tech/claude-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:21:23Z",
-    "url": "https://github.com/emaddawood1991-tech/claude-ai-skills"
   }
 ]
