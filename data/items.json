@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-06-30T01:31:47Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "Buddhist Master-skill powered by FoJin \u2014 \u4e09\u5927\u4f20\u7edf\uff08\u6c49\u4f20/\u85cf\u4f20/\u5357\u4f20\uff09\u7956\u5e08\u5927\u5fb7 AI \u6559\u5b66\u89d2\u8272\u751f\u6210\u5668\uff0cCBETA / BDRC / SuttaCentral \u5f15\u8bc1",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 293,
+    "updated_at": "2026-06-30T01:32:22Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-30T01:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "open-agreements/open-agreements",
     "stars": 39,
-    "updated_at": "2026-06-30T01:28:11Z",
+    "updated_at": "2026-06-30T01:32:03Z",
     "url": "https://github.com/open-agreements/open-agreements"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-06-30T01:19:44Z",
     "url": "https://github.com/BambooGap/skills-orchestrator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-30T01:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Some useful Claude Code Skills",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T00:56:43Z",
     "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-06-30T00:56:37Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-06-30T00:56:32Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
   }
 ]
