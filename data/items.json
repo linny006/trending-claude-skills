@@ -1,5 +1,14 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-30T14:44:40Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Convert Markdown or Word documents into clean, Claude-style presentations in HTML or PPTX with simple, minimal design an",
     "id": "ibadbasit/skill_doc2ppt",
     "language": "\u2014",
@@ -14,8 +23,26 @@
     "language": "JavaScript",
     "name": "effythealien/plumb-line",
     "stars": 0,
-    "updated_at": "2026-06-30T14:44:21Z",
+    "updated_at": "2026-06-30T14:44:40Z",
     "url": "https://github.com/effythealien/plumb-line"
+  },
+  {
+    "description": "Serve real-time and historical Indian stock data from NSE and BSE using Model Context Protocol for easy market analysis ",
+    "id": "shamu0509/nse-bse-mcp",
+    "language": "Python",
+    "name": "shamu0509/nse-bse-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-30T14:44:00Z",
+    "url": "https://github.com/shamu0509/nse-bse-mcp"
+  },
+  {
+    "description": "The discipline and methodology for Forward Deployed Engineers. 34 skills, deterministic CLI, self-writing engagement mem",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 33,
+    "updated_at": "2026-06-30T14:43:43Z",
+    "url": "https://github.com/suboss87/FDEOps"
   },
   {
     "description": "Provide ready-to-use CLAUDE.md templates for major stacks to improve Claude Code outputs and streamline project setup.",
@@ -288,15 +315,6 @@
     "url": "https://github.com/BENZEMA216/awesome-weread"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-30T14:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83e\udde9 Integrate Eliza plugins into OpenClaw by wrapping actions, providers, and services for smooth agent ecosystem interope",
     "id": "windows150/openclaw-adapter",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-30T14:24:05Z",
     "url": "https://github.com/ALI-FAHD/dingtalk-moltbot-connector"
-  },
-  {
-    "description": "\ud83d\udcb0 Optimize your Claude API usage to save 50-90% on costs with batching techniques and efficient request management.",
-    "id": "Louishin/claude-api-cost-optimization",
-    "language": "Python",
-    "name": "Louishin/claude-api-cost-optimization",
-    "stars": 4,
-    "updated_at": "2026-06-30T14:23:49Z",
-    "url": "https://github.com/Louishin/claude-api-cost-optimization"
-  },
-  {
-    "description": "",
-    "id": "Alejandrowe-bot/claude-mcps-and-prompts",
-    "language": "\u2014",
-    "name": "Alejandrowe-bot/claude-mcps-and-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-30T14:20:07Z",
-    "url": "https://github.com/Alejandrowe-bot/claude-mcps-and-prompts"
   }
 ]
