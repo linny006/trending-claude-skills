@@ -1,5 +1,68 @@
 [
   {
+    "description": "A custom marketplace of Claude Code plugins for both experienced developers and vibe coders, extending Claude Code with ",
+    "id": "V-Songbird/claude-plugins",
+    "language": "Shell",
+    "name": "V-Songbird/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-06-30T15:55:35Z",
+    "url": "https://github.com/V-Songbird/claude-plugins"
+  },
+  {
+    "description": "Reusable Agent Skills for quantitative finance research, extracted from the Aria toolchain.",
+    "id": "artherahq/skills",
+    "language": "Python",
+    "name": "artherahq/skills",
+    "stars": 0,
+    "updated_at": "2026-06-30T15:54:25Z",
+    "url": "https://github.com/artherahq/skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 17020,
+    "updated_at": "2026-06-30T15:53:05Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Free anti-AI-slop system prompt & skill that makes ChatGPT, Claude, Gemini, Grok & Kimi write like a human. Bans AI tell",
+    "id": "haidrrrry/humanize-ai-writing",
+    "language": "JavaScript",
+    "name": "haidrrrry/humanize-ai-writing",
+    "stars": 1,
+    "updated_at": "2026-06-30T15:49:36Z",
+    "url": "https://github.com/haidrrrry/humanize-ai-writing"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30056,
+    "updated_at": "2026-06-30T15:49:16Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Griffen Fargo's Claude Code skills marketplace \u2014 add it once, install any plugin (terminal: tui-design, vhs-cli-demos).",
+    "id": "gfargo/skills",
+    "language": "Shell",
+    "name": "gfargo/skills",
+    "stars": 1,
+    "updated_at": "2026-06-30T15:45:51Z",
+    "url": "https://github.com/gfargo/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-30T15:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -27,15 +90,6 @@
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
   },
   {
-    "description": "Griffen Fargo's Claude Code skills marketplace \u2014 add it once, install any plugin (terminal: tui-design, vhs-cli-demos).",
-    "id": "gfargo/skills",
-    "language": "Shell",
-    "name": "gfargo/skills",
-    "stars": 1,
-    "updated_at": "2026-06-30T15:38:39Z",
-    "url": "https://github.com/gfargo/skills"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
@@ -45,21 +99,12 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 17020,
-    "updated_at": "2026-06-30T15:42:18Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
     "id": "cody-hutson/pmo-platform",
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-06-30T15:38:01Z",
+    "updated_at": "2026-06-30T15:55:33Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 379,
     "updated_at": "2026-06-30T15:30:45Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-30T15:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T15:16:10Z",
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-30T15:15:35Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-30T15:15:28Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-30T15:13:51Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-06-30T15:13:50Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
   }
 ]
