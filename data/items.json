@@ -1,5 +1,59 @@
 [
   {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-07-01T10:44:34Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 40,
+    "updated_at": "2026-07-01T10:43:35Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 92,
+    "updated_at": "2026-07-01T10:45:04Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 172,
+    "updated_at": "2026-07-01T10:35:56Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 21,
+    "updated_at": "2026-07-01T10:31:03Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-01T10:30:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
     "id": "easyinplay/harnessed",
     "language": "TypeScript",
@@ -70,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T10:15:20Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-01T10:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 40,
-    "updated_at": "2026-07-01T10:15:05Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T10:02:27Z",
     "url": "https://github.com/uly-yuhana/harness-kit"
-  },
-  {
-    "description": "Run AI agents on schedules with tasks, skills, and persistent memory using a single Go binary in standalone or distribut",
-    "id": "Smileyjman/ductwork",
-    "language": "Go",
-    "name": "Smileyjman/ductwork",
-    "stars": 0,
-    "updated_at": "2026-07-01T10:02:18Z",
-    "url": "https://github.com/Smileyjman/ductwork"
-  },
-  {
-    "description": "Generate clear, structured research pipeline flowcharts from paper summaries using automatic TikZ code creation and comp",
-    "id": "JasonYozza14/Skill-Research-Figure",
-    "language": "\u2014",
-    "name": "JasonYozza14/Skill-Research-Figure",
-    "stars": 0,
-    "updated_at": "2026-07-01T10:01:25Z",
-    "url": "https://github.com/JasonYozza14/Skill-Research-Figure"
-  },
-  {
-    "description": "Curated, eval-backed skills for AI agents.",
-    "id": "SylphxAI/skills",
-    "language": "HTML",
-    "name": "SylphxAI/skills",
-    "stars": 1,
-    "updated_at": "2026-07-01T10:01:24Z",
-    "url": "https://github.com/SylphxAI/skills"
-  },
-  {
-    "description": "Manage and switch OpenClaw AI agent presets, including personalities, toolsets, and model configurations, via a simple C",
-    "id": "fathanghani864/oh-my-openclaw",
-    "language": "TypeScript",
-    "name": "fathanghani864/oh-my-openclaw",
-    "stars": 0,
-    "updated_at": "2026-07-01T10:00:49Z",
-    "url": "https://github.com/fathanghani864/oh-my-openclaw"
   }
 ]
