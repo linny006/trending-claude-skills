@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-01 20:29 UTC
+> ⏰ Last updated: 2026-07-01 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 19 | JavaScript | 2026-07-01 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
-| 2 | [SylphxAI/skills](https://github.com/SylphxAI/skills) | 1 | HTML | 2026-07-01 | Curated, eval-backed skills for AI agents. |
-| 3 | [SenolIsci/mykg](https://github.com/SenolIsci/mykg) | 41 | Python | 2026-07-01 | Knowledge graph extractor: Markdown (or any format) → knowledge graph with RDFS/OWL ontology |
-| 4 | [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 27 | Python | 2026-07-01 | Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic |
-| 5 | [rodovalhofs/maestro](https://github.com/rodovalhofs/maestro) | 1 | Python | 2026-07-01 | Meta-orchestrator for AI agent skills (Cursor, Claude, Codex). BM25 routing, skill discovery via skills.sh. |
-| 6 | [appautomaton/document-SKILLs](https://github.com/appautomaton/document-SKILLs) | 126 | Python | 2026-07-01 | Claude Code and Codex SKILLs for PDF, Excel, Word, and PowerPoint manipulation — extraction, forms, formulas, tracked ch |
-| 7 | [scagogogo/cvss-skills](https://github.com/scagogogo/cvss-skills) | 0 | Go | 2026-07-01 | Professional CVSS v3.0/v3.1 toolkit — parse, score, validate, compare and build vulnerability vectors. Integrate via Ski |
-| 8 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 93 | Kotlin | 2026-07-01 | Helping the Agents Compose the Things |
-| 9 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 239 | TypeScript | 2026-07-01 | The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux |
-| 10 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 0 | HTML | 2026-07-01 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 11 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-01 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 12 | [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) | 39 | TypeScript | 2026-07-01 | Fill standard legal agreement templates and produce signable DOCX files. |
-| 13 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-01 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 14 | [inkatze/planwright](https://github.com/inkatze/planwright) | 1 | Shell | 2026-07-01 | Autopilot for spec-driven development: a standalone, opinionated Claude Code framework |
-| 15 | [chris-peterson/beacon](https://github.com/chris-peterson/beacon) | 0 | Python | 2026-07-01 | bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions — a terminal-agnostic fleet dashboard plu |
-| 16 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 8 | Python | 2026-07-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 8 | Python | 2026-07-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 19 | JavaScript | 2026-07-01 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
+| 3 | [SylphxAI/skills](https://github.com/SylphxAI/skills) | 1 | HTML | 2026-07-01 | Curated, eval-backed skills for AI agents. |
+| 4 | [SenolIsci/mykg](https://github.com/SenolIsci/mykg) | 41 | Python | 2026-07-01 | Knowledge graph extractor: Markdown (or any format) → knowledge graph with RDFS/OWL ontology |
+| 5 | [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 27 | Python | 2026-07-01 | Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic |
+| 6 | [rodovalhofs/maestro](https://github.com/rodovalhofs/maestro) | 1 | Python | 2026-07-01 | Meta-orchestrator for AI agent skills (Cursor, Claude, Codex). BM25 routing, skill discovery via skills.sh. |
+| 7 | [appautomaton/document-SKILLs](https://github.com/appautomaton/document-SKILLs) | 126 | Python | 2026-07-01 | Claude Code and Codex SKILLs for PDF, Excel, Word, and PowerPoint manipulation — extraction, forms, formulas, tracked ch |
+| 8 | [scagogogo/cvss-skills](https://github.com/scagogogo/cvss-skills) | 0 | Go | 2026-07-01 | Professional CVSS v3.0/v3.1 toolkit — parse, score, validate, compare and build vulnerability vectors. Integrate via Ski |
+| 9 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 93 | Kotlin | 2026-07-01 | Helping the Agents Compose the Things |
+| 10 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 239 | TypeScript | 2026-07-01 | The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux |
+| 11 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 0 | HTML | 2026-07-01 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 12 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-01 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 13 | [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) | 39 | TypeScript | 2026-07-01 | Fill standard legal agreement templates and produce signable DOCX files. |
+| 14 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-01 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 15 | [inkatze/planwright](https://github.com/inkatze/planwright) | 1 | Shell | 2026-07-01 | Autopilot for spec-driven development: a standalone, opinionated Claude Code framework |
+| 16 | [chris-peterson/beacon](https://github.com/chris-peterson/beacon) | 0 | Python | 2026-07-01 | bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions — a terminal-agnostic fleet dashboard plu |
 | 17 | [openfate-ai/bazi-mcp](https://github.com/openfate-ai/bazi-mcp) | 64 | TypeScript | 2026-07-01 | OpenFate Bazi MCP server with deterministic Four Pillars calculation, True Solar Time, branch interactions, and reverse  |
 | 18 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-01 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
 | 19 | [bokyostudio/pg-practice-knowledgebase](https://github.com/bokyostudio/pg-practice-knowledgebase) | 0 | HTML | 2026-07-01 | The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026 |
