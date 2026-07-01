@@ -1,12 +1,12 @@
 [
   {
-    "description": "Production-ready AI agent profiles for Claude Code, Cursor, and Codex. Search, install, and contribute ForgeCat packages",
-    "id": "nota-america/forgecat-agent-profiles",
-    "language": "TypeScript",
-    "name": "nota-america/forgecat-agent-profiles",
-    "stars": 12,
-    "updated_at": "2026-07-01T00:43:45Z",
-    "url": "https://github.com/nota-america/forgecat-agent-profiles"
+    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 401,
+    "updated_at": "2026-07-01T00:59:44Z",
+    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Stop writing better prompts \u2014 design the system that runs them. A cross-platform Agent Skill (Claude Code \u00b7 Codex \u00b7 Gemi",
@@ -14,17 +14,8 @@
     "language": "Python",
     "name": "EthanQC/SystemWright",
     "stars": 0,
-    "updated_at": "2026-07-01T00:40:56Z",
+    "updated_at": "2026-07-01T00:55:41Z",
     "url": "https://github.com/EthanQC/SystemWright"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 17032,
-    "updated_at": "2026-07-01T00:44:25Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Curated, eval-backed skills for AI agents.",
@@ -32,8 +23,53 @@
     "language": "HTML",
     "name": "SylphxAI/skills",
     "stars": 0,
-    "updated_at": "2026-07-01T00:39:52Z",
+    "updated_at": "2026-07-01T00:52:17Z",
     "url": "https://github.com/SylphxAI/skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 17032,
+    "updated_at": "2026-07-01T00:57:48Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "\u9762\u5411\u5f00\u53d1\u8005\u7684 Claude Code skills \u5957\u4ef6 | A developer-focused Claude Code skills suite",
+    "id": "Lion-1209/Lion-Skills",
+    "language": "\u2014",
+    "name": "Lion-1209/Lion-Skills",
+    "stars": 1,
+    "updated_at": "2026-07-01T00:47:43Z",
+    "url": "https://github.com/Lion-1209/Lion-Skills"
+  },
+  {
+    "description": "The Web Browser for LLMs",
+    "id": "jreiner16/surfboard",
+    "language": "Python",
+    "name": "jreiner16/surfboard",
+    "stars": 0,
+    "updated_at": "2026-07-01T00:46:35Z",
+    "url": "https://github.com/jreiner16/surfboard"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-01T00:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Production-ready AI agent profiles for Claude Code, Cursor, and Codex. Search, install, and contribute ForgeCat packages",
+    "id": "nota-america/forgecat-agent-profiles",
+    "language": "TypeScript",
+    "name": "nota-america/forgecat-agent-profiles",
+    "stars": 12,
+    "updated_at": "2026-07-01T00:43:45Z",
+    "url": "https://github.com/nota-america/forgecat-agent-profiles"
   },
   {
     "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
@@ -54,13 +90,13 @@
     "url": "https://github.com/BANANASJIM/rdc-cli"
   },
   {
-    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 401,
-    "updated_at": "2026-07-01T00:35:05Z",
-    "url": "https://github.com/boshu2/agentops"
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 724,
+    "updated_at": "2026-07-01T00:35:36Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
     "description": "MCP server that suggests repository-specific AI agent skills.",
@@ -90,20 +126,11 @@
     "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-01T00:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 64387,
+    "stars": 64388,
     "updated_at": "2026-07-01T00:30:13Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -113,7 +140,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-07-01T00:39:35Z",
+    "updated_at": "2026-07-01T00:45:36Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T23:37:21Z",
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "The game-design process for Claude \u2014 knowledge + workflow skills for designing games, tuned for headless, procedural, AI",
-    "id": "rondorkerin/gamestack",
-    "language": "\u2014",
-    "name": "rondorkerin/gamestack",
-    "stars": 8,
-    "updated_at": "2026-06-30T23:36:40Z",
-    "url": "https://github.com/rondorkerin/gamestack"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 0,
-    "updated_at": "2026-06-30T23:35:56Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Self-evolving multi-agent \"newsroom\" that turns your documents into a cross-linked knowledge wiki \u2014 writer \u2260 reviewer, l",
-    "id": "alfadur7/llm-wiki-newsroom",
-    "language": "Python",
-    "name": "alfadur7/llm-wiki-newsroom",
-    "stars": 13,
-    "updated_at": "2026-06-30T23:54:03Z",
-    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
   }
 ]
