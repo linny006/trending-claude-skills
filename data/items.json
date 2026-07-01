@@ -1,12 +1,138 @@
 [
   {
+    "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
+    "id": "bitjaru/styleseed",
+    "language": "TypeScript",
+    "name": "bitjaru/styleseed",
+    "stars": 626,
+    "updated_at": "2026-07-01T09:00:07Z",
+    "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 4,
+    "updated_at": "2026-07-01T08:58:47Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Stop writing better prompts \u2014 design the system that runs them. A cross-platform Agent Skill (Claude Code \u00b7 Codex \u00b7 Gemi",
+    "id": "EthanQC/SystemWright",
+    "language": "Python",
+    "name": "EthanQC/SystemWright",
+    "stars": 0,
+    "updated_at": "2026-07-01T08:58:39Z",
+    "url": "https://github.com/EthanQC/SystemWright"
+  },
+  {
+    "description": "Export and import full Claude.ai conversations between accounts",
+    "id": "primesentient/claude-chat-transfer",
+    "language": "JavaScript",
+    "name": "primesentient/claude-chat-transfer",
+    "stars": 1,
+    "updated_at": "2026-07-01T08:54:45Z",
+    "url": "https://github.com/primesentient/claude-chat-transfer"
+  },
+  {
+    "description": "Evidence-first PRD pipeline for AI coding agents \u2014 research, spec, plan, validate, implement, review, PR",
+    "id": "rashee1997/prd-pipeline",
+    "language": "\u2014",
+    "name": "rashee1997/prd-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-01T08:52:36Z",
+    "url": "https://github.com/rashee1997/prd-pipeline"
+  },
+  {
+    "description": "Claude Code skills for people who ship alone. 7 bilingual (EN+\u4e2d\u6587) skills for solo founders and indie devs: launch tweets",
+    "id": "rockscy/solo-skills",
+    "language": "Shell",
+    "name": "rockscy/solo-skills",
+    "stars": 3,
+    "updated_at": "2026-07-01T08:49:39Z",
+    "url": "https://github.com/rockscy/solo-skills"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 12,
+    "updated_at": "2026-07-01T08:49:27Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
+    "id": "ChronoAIProject/Ornn",
+    "language": "TypeScript",
+    "name": "ChronoAIProject/Ornn",
+    "stars": 19,
+    "updated_at": "2026-07-01T08:48:57Z",
+    "url": "https://github.com/ChronoAIProject/Ornn"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 3636,
+    "updated_at": "2026-07-01T08:47:37Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 64435,
+    "updated_at": "2026-07-01T08:47:24Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
+    "id": "chenweil/skillcaddy",
+    "language": "JavaScript",
+    "name": "chenweil/skillcaddy",
+    "stars": 7,
+    "updated_at": "2026-07-01T08:45:32Z",
+    "url": "https://github.com/chenweil/skillcaddy"
+  },
+  {
     "description": "A Claude skill that grades, builds, and pressure-tests creative briefs and social hooks against a real strategic standar",
     "id": "efesorjm/creative-brief",
     "language": "\u2014",
     "name": "efesorjm/creative-brief",
     "stars": 0,
-    "updated_at": "2026-07-01T08:45:09Z",
+    "updated_at": "2026-07-01T08:45:31Z",
     "url": "https://github.com/efesorjm/creative-brief"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-01T08:45:29Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-01T08:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 40,
+    "updated_at": "2026-07-01T08:45:03Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -27,24 +153,6 @@
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
-    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
-    "id": "ChronoAIProject/Ornn",
-    "language": "TypeScript",
-    "name": "ChronoAIProject/Ornn",
-    "stars": 19,
-    "updated_at": "2026-07-01T08:43:45Z",
-    "url": "https://github.com/ChronoAIProject/Ornn"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 64434,
-    "updated_at": "2026-07-01T08:42:22Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -54,21 +162,12 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Evidence-first PRD pipeline for AI coding agents \u2014 research, spec, plan, validate, implement, review, PR",
-    "id": "rashee1997/prd-pipeline",
-    "language": "\u2014",
-    "name": "rashee1997/prd-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-01T08:39:02Z",
-    "url": "https://github.com/rashee1997/prd-pipeline"
-  },
-  {
     "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
     "id": "jabrena/plinth",
     "language": "Java",
     "name": "jabrena/plinth",
     "stars": 412,
-    "updated_at": "2026-07-01T08:38:33Z",
+    "updated_at": "2026-07-01T08:50:37Z",
     "url": "https://github.com/jabrena/plinth"
   },
   {
@@ -97,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T08:35:28Z",
     "url": "https://github.com/vittobh/pm-os"
-  },
-  {
-    "description": "Stop writing better prompts \u2014 design the system that runs them. A cross-platform Agent Skill (Claude Code \u00b7 Codex \u00b7 Gemi",
-    "id": "EthanQC/SystemWright",
-    "language": "Python",
-    "name": "EthanQC/SystemWright",
-    "stars": 0,
-    "updated_at": "2026-07-01T08:34:30Z",
-    "url": "https://github.com/EthanQC/SystemWright"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-01T08:32:05Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
@@ -187,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T08:15:38Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 40,
-    "updated_at": "2026-07-01T08:45:03Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -274,7 +346,7 @@
     "id": "mohitagw15856/pm-claude-skills",
     "language": "JavaScript",
     "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1108,
+    "stars": 1109,
     "updated_at": "2026-07-01T08:03:46Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T07:59:07Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-07-01T07:57:40Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 3,
-    "updated_at": "2026-07-01T07:57:08Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-01T07:57:06Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-01T07:57:05Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-01T07:56:11Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-07-01T07:56:09Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-07-01T07:55:49Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-07-01T07:55:32Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
   }
 ]
