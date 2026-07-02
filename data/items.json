@@ -1,12 +1,84 @@
 [
   {
+    "description": "Exasol skills for AI agents. Optimized for Claude Code and OpenAI Codex \ud83e\udd16",
+    "id": "exasol-labs/exasol-agent-skills",
+    "language": "Shell",
+    "name": "exasol-labs/exasol-agent-skills",
+    "stars": 9,
+    "updated_at": "2026-07-02T16:41:28Z",
+    "url": "https://github.com/exasol-labs/exasol-agent-skills"
+  },
+  {
+    "description": "\u5b89\u5168\u524d\u63d0\u4e0b\u628a\u5f00\u6e90\u9879\u76ee\u8bfb\u900f\u7684 Claude \u6280\u80fd\uff1a\u67e5\u94a9\u5b50\u2192\u4fdd\u9669\u5b89\u88c5\u2192\u8bfb\u900f\u67b6\u6784\u2192\u6c99\u7bb1\u771f\u673a\u8dd1\u901a\u2192\u56fa\u5b9a\u7ed3\u6784\u7814\u7a76\u62a5\u544a | A Claude skill for safely researching open-source projects",
+    "id": "NovaKepler513/oss-research-skill",
+    "language": "\u2014",
+    "name": "NovaKepler513/oss-research-skill",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:38:16Z",
+    "url": "https://github.com/NovaKepler513/oss-research-skill"
+  },
+  {
+    "description": "Agent skills for U.S. property data via Zillapi.com. MIT-0.",
+    "id": "ZeroPointRepo/zillow-skills",
+    "language": "Python",
+    "name": "ZeroPointRepo/zillow-skills",
+    "stars": 1,
+    "updated_at": "2026-07-02T16:35:26Z",
+    "url": "https://github.com/ZeroPointRepo/zillow-skills"
+  },
+  {
     "description": "Claude Code skill for LinkedIn candidate sourcing",
     "id": "Da6ka/linkedin-sourcing-skill",
     "language": "JavaScript",
     "name": "Da6ka/linkedin-sourcing-skill",
     "stars": 1,
-    "updated_at": "2026-07-02T16:26:13Z",
+    "updated_at": "2026-07-02T16:34:01Z",
     "url": "https://github.com/Da6ka/linkedin-sourcing-skill"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 5,
+    "updated_at": "2026-07-02T16:33:58Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:39:19Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "This is a Statistical Skill for ChatGPT in Excel. the goal is to answer real business questions using statistics, Automa",
+    "id": "Ogzapatah1/statistical-analysis-skill-for-excel",
+    "language": "\u2014",
+    "name": "Ogzapatah1/statistical-analysis-skill-for-excel",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:32:29Z",
+    "url": "https://github.com/Ogzapatah1/statistical-analysis-skill-for-excel"
+  },
+  {
+    "description": "A curated collection of high impact skills for Claude Code designed to supercharge the senior full stack workflow. This ",
+    "id": "georgekhananaev/claude-skills-vault",
+    "language": "Python",
+    "name": "georgekhananaev/claude-skills-vault",
+    "stars": 25,
+    "updated_at": "2026-07-02T16:30:30Z",
+    "url": "https://github.com/georgekhananaev/claude-skills-vault"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-02T16:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "210 evaluated academic Claude/agent skills across 16 research domains \u2014 bioinformatics, cheminformatics, data science, d",
@@ -36,15 +108,6 @@
     "url": "https://github.com/martinambrus/haive"
   },
   {
-    "description": "A curated collection of high impact skills for Claude Code designed to supercharge the senior full stack workflow. This ",
-    "id": "georgekhananaev/claude-skills-vault",
-    "language": "Python",
-    "name": "georgekhananaev/claude-skills-vault",
-    "stars": 25,
-    "updated_at": "2026-07-02T16:22:14Z",
-    "url": "https://github.com/georgekhananaev/claude-skills-vault"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -61,15 +124,6 @@
     "stars": 7,
     "updated_at": "2026-07-02T16:21:07Z",
     "url": "https://github.com/the-nam-shub/e5-real-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-02T16:19:30Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Sammlung verschiedener Claude Skills",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "notque/vexjoy-agent",
     "stars": 401,
-    "updated_at": "2026-07-02T16:12:15Z",
+    "updated_at": "2026-07-02T16:42:32Z",
     "url": "https://github.com/notque/vexjoy-agent"
   },
   {
@@ -238,7 +292,7 @@
     "id": "aalzubidy/spotify-to-tidal",
     "language": "Python",
     "name": "aalzubidy/spotify-to-tidal",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-02T15:51:25Z",
     "url": "https://github.com/aalzubidy/spotify-to-tidal"
   },
@@ -355,7 +409,7 @@
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
-    "stars": 4974,
+    "stars": 4975,
     "updated_at": "2026-07-02T15:29:10Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
@@ -387,15 +441,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:39:01Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
     "description": "API platform info for agents-skills",
     "id": "api-evangelist/agents-skills",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T15:25:42Z",
     "url": "https://github.com/api-evangelist/agents-skills"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:24:08Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:23:51Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-07-02T15:23:44Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 402,
-    "updated_at": "2026-07-02T15:23:15Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-02T15:21:34Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   }
 ]
