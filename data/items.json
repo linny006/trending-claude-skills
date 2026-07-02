@@ -1,12 +1,93 @@
 [
   {
+    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 402,
+    "updated_at": "2026-07-02T03:14:56Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Ray Fernando's collection of Skill files for AI coding agents. First up: running-bug-review-board, a real-user QA workfl",
+    "id": "RayFernando1337/rayfernando-skills",
+    "language": "Shell",
+    "name": "RayFernando1337/rayfernando-skills",
+    "stars": 72,
+    "updated_at": "2026-07-02T03:14:25Z",
+    "url": "https://github.com/RayFernando1337/rayfernando-skills"
+  },
+  {
+    "description": "Never finish a task without checking if you've explored your options fully. ",
+    "id": "tobyrosen/open-horizons-skill",
+    "language": "\u2014",
+    "name": "tobyrosen/open-horizons-skill",
+    "stars": 0,
+    "updated_at": "2026-07-02T03:13:29Z",
+    "url": "https://github.com/tobyrosen/open-horizons-skill"
+  },
+  {
+    "description": "Hand scoped tasks to non-Claude models and get usable results back",
+    "id": "tobyrosen/dispatch-agent",
+    "language": "Python",
+    "name": "tobyrosen/dispatch-agent",
+    "stars": 0,
+    "updated_at": "2026-07-02T03:13:32Z",
+    "url": "https://github.com/tobyrosen/dispatch-agent"
+  },
+  {
+    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
+    "id": "yinjialu/ai-frontier-daily",
+    "language": "Python",
+    "name": "yinjialu/ai-frontier-daily",
+    "stars": 0,
+    "updated_at": "2026-07-02T03:11:24Z",
+    "url": "https://github.com/yinjialu/ai-frontier-daily"
+  },
+  {
+    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
+    "id": "apresmoi/jianglens",
+    "language": "Jupyter Notebook",
+    "name": "apresmoi/jianglens",
+    "stars": 7,
+    "updated_at": "2026-07-02T03:12:15Z",
+    "url": "https://github.com/apresmoi/jianglens"
+  },
+  {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
     "id": "cody-hutson/pmo-platform",
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-07-02T02:59:53Z",
+    "updated_at": "2026-07-02T03:13:42Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 401,
+    "updated_at": "2026-07-02T03:12:32Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Practical Claude Code skills for real-world project development - by HH",
+    "id": "hsinhan-h/hh-claude-skills",
+    "language": "\u2014",
+    "name": "hsinhan-h/hh-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-02T03:02:43Z",
+    "url": "https://github.com/hsinhan-h/hh-claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-02T03:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "My personal agent skill repository, primarily focused on game development.",
@@ -16,24 +97,6 @@
     "stars": 21,
     "updated_at": "2026-07-02T02:59:23Z",
     "url": "https://github.com/Yuki001/game-dev-skills"
-  },
-  {
-    "description": "Never finish a task without checking if you've explored your options fully. ",
-    "id": "tobyrosen/open-horizons-skill",
-    "language": "\u2014",
-    "name": "tobyrosen/open-horizons-skill",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:58:26Z",
-    "url": "https://github.com/tobyrosen/open-horizons-skill"
-  },
-  {
-    "description": "Hand scoped tasks to non-Claude models and get usable results back",
-    "id": "tobyrosen/dispatch-agent",
-    "language": "Python",
-    "name": "tobyrosen/dispatch-agent",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:58:21Z",
-    "url": "https://github.com/tobyrosen/dispatch-agent"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -90,24 +153,6 @@
     "url": "https://github.com/hushamQA/mql5-pro-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-02T02:45:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Agentic Organization Research Project - Jiang Lens is an independent research and reading project built from Jiang Xueqi",
-    "id": "apresmoi/jianglens",
-    "language": "Jupyter Notebook",
-    "name": "apresmoi/jianglens",
-    "stars": 7,
-    "updated_at": "2026-07-02T02:39:57Z",
-    "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -121,7 +166,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 64505,
+    "stars": 64506,
     "updated_at": "2026-07-02T02:36:33Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -151,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T02:33:29Z",
     "url": "https://github.com/ChuluuMGL/proposal-ppt-skill"
-  },
-  {
-    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 402,
-    "updated_at": "2026-07-02T02:31:58Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T02:11:56Z",
     "url": "https://github.com/search-atlas-group/amm-founding-circle"
-  },
-  {
-    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
-    "id": "yinjialu/ai-frontier-daily",
-    "language": "Python",
-    "name": "yinjialu/ai-frontier-daily",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:10:48Z",
-    "url": "https://github.com/yinjialu/ai-frontier-daily"
   },
   {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-02T01:45:36Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-02T01:45:34Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-02T01:44:48Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-07-02T01:44:01Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
   }
 ]
