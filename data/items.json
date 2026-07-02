@@ -5,17 +5,44 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 402,
-    "updated_at": "2026-07-02T03:14:56Z",
+    "updated_at": "2026-07-02T03:28:18Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "Ray Fernando's collection of Skill files for AI coding agents. First up: running-bug-review-board, a real-user QA workfl",
-    "id": "RayFernando1337/rayfernando-skills",
+    "description": "\ud83c\udfdb\ufe0f 22\u4f4d\u5e26\u7075\u9b42\u4e0e\u8bb0\u5fc6\u7684\u5723\u4eba\u4e13\u5bb6\u73ed\u5b50\uff0c\u6309\u95ee\u9898\u91cd\u91cf\u81ea\u52a8\u964d\u7ea7\u5f00\u8bae\u4f1a\u2014\u2014\u65e5\u5e38\u95ee\u98981\u4f4d\u5723\u4eba3\u53e5\u8bdd\u88c1\u51b3\uff0c\u590d\u6742\u8bae\u9898\u624d\u5f00\u591a\u4e13\u5bb6\u52a0\u6743\u6295\u7968\u3002\u5723\u4eba\u8bb0\u5f97\u5386\u6b21\u51b3\u5b9a\uff0c\u540c\u7c7b\u95ee\u9898\u4f1a\u5f15\u7528\u4e0a\u6b21\u7ed3\u8bba\u3002Claude Code \u6280\u80fd\u3002",
+    "id": "SuanFishXYY/sptler",
+    "language": "Python",
+    "name": "SuanFishXYY/sptler",
+    "stars": 2,
+    "updated_at": "2026-07-02T03:26:48Z",
+    "url": "https://github.com/SuanFishXYY/sptler"
+  },
+  {
+    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 401,
+    "updated_at": "2026-07-02T03:21:44Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
+    "id": "gooseworks-ai/goose-skills",
+    "language": "Python",
+    "name": "gooseworks-ai/goose-skills",
+    "stars": 918,
+    "updated_at": "2026-07-02T03:20:10Z",
+    "url": "https://github.com/gooseworks-ai/goose-skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
     "language": "Shell",
-    "name": "RayFernando1337/rayfernando-skills",
-    "stars": 72,
-    "updated_at": "2026-07-02T03:14:25Z",
-    "url": "https://github.com/RayFernando1337/rayfernando-skills"
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-02T03:19:44Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Never finish a task without checking if you've explored your options fully. ",
@@ -23,8 +50,35 @@
     "language": "\u2014",
     "name": "tobyrosen/open-horizons-skill",
     "stars": 0,
-    "updated_at": "2026-07-02T03:13:29Z",
+    "updated_at": "2026-07-02T03:15:36Z",
     "url": "https://github.com/tobyrosen/open-horizons-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-02T03:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Production-oriented template for building AI agent skills as verifiable software components \u2014 offline eval harness, sour",
+    "id": "HelloThisWorld/agent-skill-verification-template",
+    "language": "HTML",
+    "name": "HelloThisWorld/agent-skill-verification-template",
+    "stars": 1,
+    "updated_at": "2026-07-02T03:15:09Z",
+    "url": "https://github.com/HelloThisWorld/agent-skill-verification-template"
+  },
+  {
+    "description": "Ray Fernando's collection of Skill files for AI coding agents. First up: running-bug-review-board, a real-user QA workfl",
+    "id": "RayFernando1337/rayfernando-skills",
+    "language": "Shell",
+    "name": "RayFernando1337/rayfernando-skills",
+    "stars": 72,
+    "updated_at": "2026-07-02T03:21:05Z",
+    "url": "https://github.com/RayFernando1337/rayfernando-skills"
   },
   {
     "description": "Hand scoped tasks to non-Claude models and get usable results back",
@@ -50,26 +104,8 @@
     "language": "Jupyter Notebook",
     "name": "apresmoi/jianglens",
     "stars": 7,
-    "updated_at": "2026-07-02T03:12:15Z",
+    "updated_at": "2026-07-02T03:29:09Z",
     "url": "https://github.com/apresmoi/jianglens"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-07-02T03:13:42Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 401,
-    "updated_at": "2026-07-02T03:12:32Z",
-    "url": "https://github.com/notque/vexjoy-agent"
   },
   {
     "description": "Practical Claude Code skills for real-world project development - by HH",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T03:02:43Z",
     "url": "https://github.com/hsinhan-h/hh-claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-02T03:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "My personal agent skill repository, primarily focused on game development.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T01:48:06Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-07-02T01:46:14Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-02T01:45:38Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 3,
-    "updated_at": "2026-07-02T01:45:36Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
   }
 ]
