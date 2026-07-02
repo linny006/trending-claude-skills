@@ -1,11 +1,65 @@
 [
   {
+    "description": "Sammlung verschiedener Claude Skills",
+    "id": "CSWebations/claude-skills",
+    "language": "\u2014",
+    "name": "CSWebations/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:19:18Z",
+    "url": "https://github.com/CSWebations/claude-skills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 32,
+    "updated_at": "2026-07-02T16:17:57Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "\u4e00\u4e2a\u5305\u542bskill\u7684\u96c6\u5408\uff1a\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
+    "id": "Ldxs001/workbuddy-skills",
+    "language": "Python",
+    "name": "Ldxs001/workbuddy-skills",
+    "stars": 2,
+    "updated_at": "2026-07-02T16:17:45Z",
+    "url": "https://github.com/Ldxs001/workbuddy-skills"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 90,
+    "updated_at": "2026-07-02T16:17:59Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Skills SAP",
+    "id": "williamcorrea23/sap-router-skill",
+    "language": "TypeScript",
+    "name": "williamcorrea23/sap-router-skill",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:16:17Z",
+    "url": "https://github.com/williamcorrea23/sap-router-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-02T16:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 93,
-    "updated_at": "2026-07-02T16:14:47Z",
+    "updated_at": "2026-07-02T16:16:24Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Shell",
     "name": "wquguru/skills",
     "stars": 54,
-    "updated_at": "2026-07-02T16:14:21Z",
+    "updated_at": "2026-07-02T16:16:18Z",
     "url": "https://github.com/wquguru/skills"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 16,
     "updated_at": "2026-07-02T16:11:00Z",
     "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 90,
-    "updated_at": "2026-07-02T16:15:13Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "CO2 - an OPINIONATED approach to software development using AI coding agents",
@@ -85,7 +130,7 @@
     "id": "effythealien/plumb-line",
     "language": "JavaScript",
     "name": "effythealien/plumb-line",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-02T16:02:34Z",
     "url": "https://github.com/effythealien/plumb-line"
   },
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T16:02:50Z",
     "url": "https://github.com/CyrilLeMat/temper-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-02T16:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
@@ -405,15 +441,6 @@
     "url": "https://github.com/kborovik/.dotfiles"
   },
   {
-    "description": "\u4e00\u4e2a\u5305\u542bskill\u7684\u96c6\u5408\uff1a\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
-    "id": "Ldxs001/workbuddy-skills",
-    "language": "Python",
-    "name": "Ldxs001/workbuddy-skills",
-    "stars": 2,
-    "updated_at": "2026-07-02T15:19:29Z",
-    "url": "https://github.com/Ldxs001/workbuddy-skills"
-  },
-  {
     "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
     "id": "Glad-oboedacaccia408/design.md",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T15:19:01Z",
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:18:47Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-07-02T15:17:32Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM",
-    "id": "konglong87/superPM",
-    "language": "JavaScript",
-    "name": "konglong87/superPM",
-    "stars": 35,
-    "updated_at": "2026-07-02T15:16:53Z",
-    "url": "https://github.com/konglong87/superPM"
   }
 ]
