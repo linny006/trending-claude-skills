@@ -1,5 +1,95 @@
 [
   {
+    "description": "When your agent starts coding, you gotta let it cook",
+    "id": "ndisisnd/cook",
+    "language": "Python",
+    "name": "ndisisnd/cook",
+    "stars": 1,
+    "updated_at": "2026-07-02T13:27:15Z",
+    "url": "https://github.com/ndisisnd/cook"
+  },
+  {
+    "description": "Claude Code skill:\u8bba\u6587\u9605\u8bfb\u5ba4\u2014\u2014\u628a\u8bba\u6587 PDF \u7ffb\u8bd1\u603b\u7ed3\u6210\u5e26\u5bfc\u822a\u7684\u4e2d\u6587\u9605\u8bfb\u9875",
+    "id": "hyacinthhh/paper-digest-skill",
+    "language": "HTML",
+    "name": "hyacinthhh/paper-digest-skill",
+    "stars": 0,
+    "updated_at": "2026-07-02T13:25:59Z",
+    "url": "https://github.com/hyacinthhh/paper-digest-skill"
+  },
+  {
+    "description": "Claude Code skill for LinkedIn candidate sourcing",
+    "id": "Da6ka/linkedin-sourcing-skill",
+    "language": "JavaScript",
+    "name": "Da6ka/linkedin-sourcing-skill",
+    "stars": 1,
+    "updated_at": "2026-07-02T13:24:26Z",
+    "url": "https://github.com/Da6ka/linkedin-sourcing-skill"
+  },
+  {
+    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 402,
+    "updated_at": "2026-07-02T13:23:57Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 0,
+    "updated_at": "2026-07-02T13:21:07Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "CLI for migrating AI coding instruction assets between Claude skills, Cursor rules, and Copilot instructions.",
+    "id": "ZSeven-W/mcp-skill-migrator",
+    "language": "JavaScript",
+    "name": "ZSeven-W/mcp-skill-migrator",
+    "stars": 0,
+    "updated_at": "2026-07-02T13:19:37Z",
+    "url": "https://github.com/ZSeven-W/mcp-skill-migrator"
+  },
+  {
+    "description": "35 portable agent skills (Agent Skills spec) for Kiro & Claude Code: Scrum DevSecOps roles, PCI-DSS/MAS TRM compliance, ",
+    "id": "timwukp/agent-skills-best-practice",
+    "language": "Python",
+    "name": "timwukp/agent-skills-best-practice",
+    "stars": 4,
+    "updated_at": "2026-07-02T13:18:48Z",
+    "url": "https://github.com/timwukp/agent-skills-best-practice"
+  },
+  {
+    "description": "[MIRROR] My personal AI skills",
+    "id": "papanito/ai-skills",
+    "language": "Shell",
+    "name": "papanito/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-02T13:17:04Z",
+    "url": "https://github.com/papanito/ai-skills"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 90,
+    "updated_at": "2026-07-02T13:17:01Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-02T13:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free, open-source Claude Code skills for founder-led fundraising \u2014 find stage/sector-fit investors (researched live, no ",
     "id": "oncesylvia/fundraising-skills",
     "language": "\u2014",
@@ -36,15 +126,6 @@
     "url": "https://github.com/aitit-inc/leadace"
   },
   {
-    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 402,
-    "updated_at": "2026-07-02T13:12:19Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -72,22 +153,22 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 90,
-    "updated_at": "2026-07-02T13:10:04Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 17089,
+    "stars": 17090,
     "updated_at": "2026-07-02T13:07:50Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30081,
+    "updated_at": "2026-07-02T13:07:10Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
@@ -133,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-07-02T13:03:35Z",
     "url": "https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-02T13:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
@@ -196,6 +268,15 @@
     "stars": 1,
     "updated_at": "2026-07-02T12:51:47Z",
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
+  },
+  {
+    "description": "AI-powered job search assistant for matching roles, tailored resumes, and faster applications.",
+    "id": "nnawar706/job-assist",
+    "language": "TypeScript",
+    "name": "nnawar706/job-assist",
+    "stars": 0,
+    "updated_at": "2026-07-02T12:50:02Z",
+    "url": "https://github.com/nnawar706/job-assist"
   },
   {
     "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-02T12:38:00Z",
     "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:37:36Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-02T12:37:35Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 3,
-    "updated_at": "2026-07-02T12:37:32Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-02T12:36:41Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:36:22Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-07-02T12:36:05Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-02T12:35:57Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:35:37Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-02T12:35:30Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
   }
 ]
