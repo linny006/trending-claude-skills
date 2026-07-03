@@ -1,12 +1,129 @@
 [
   {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "Shell",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 4,
+    "updated_at": "2026-07-03T12:42:35Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
+    "id": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "language": "Python",
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "stars": 3,
+    "updated_at": "2026-07-03T12:42:04Z",
+    "url": "https://github.com/Shada01245/the-unofficial-swift-programming-language-skill"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:41:34Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Growth Marketing OS | Mahmoud Omar \u2014 open-source AI marketing prompts, Claude skills, agents & growth playbooks (EN + AR",
+    "id": "growthack88/growth-marketing-os",
+    "language": "\u2014",
+    "name": "growthack88/growth-marketing-os",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:41:30Z",
+    "url": "https://github.com/growthack88/growth-marketing-os"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
+    "id": "thairns/claude-rubycritic-skill",
+    "language": "\u2014",
+    "name": "thairns/claude-rubycritic-skill",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:41:29Z",
+    "url": "https://github.com/thairns/claude-rubycritic-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
+    "id": "Junayedahmedd/gemini_cli_skill",
+    "language": "\u2014",
+    "name": "Junayedahmedd/gemini_cli_skill",
+    "stars": 3,
+    "updated_at": "2026-07-03T12:41:08Z",
+    "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-07-03T12:40:27Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "Autonomous web-app QA skill for Claude Code: Playwright E2E, visual regression, axe-core a11y. LLM-generated self-healin",
+    "id": "c-c0rtex/web-qa",
+    "language": "Python",
+    "name": "c-c0rtex/web-qa",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:39:07Z",
+    "url": "https://github.com/c-c0rtex/web-qa"
+  },
+  {
     "description": "The world's most advanced AI-powered research paper creation framework \u2014 built for the top 0.0001%",
     "id": "AdilShamim8/claude-research-excellence",
     "language": "HTML",
     "name": "AdilShamim8/claude-research-excellence",
     "stars": 5,
-    "updated_at": "2026-07-03T12:29:38Z",
+    "updated_at": "2026-07-03T12:36:50Z",
     "url": "https://github.com/AdilShamim8/claude-research-excellence"
+  },
+  {
+    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
+    "id": "ColinVaughn/Synaptic",
+    "language": "Rust",
+    "name": "ColinVaughn/Synaptic",
+    "stars": 16,
+    "updated_at": "2026-07-03T12:41:24Z",
+    "url": "https://github.com/ColinVaughn/Synaptic"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 64,
+    "updated_at": "2026-07-03T12:33:21Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 1,
+    "updated_at": "2026-07-03T12:30:46Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-07-03T12:30:16Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-03T12:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -14,7 +131,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 93,
-    "updated_at": "2026-07-03T12:25:43Z",
+    "updated_at": "2026-07-03T12:37:13Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -34,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T12:23:14Z",
     "url": "https://github.com/bordumb/recurve"
-  },
-  {
-    "description": "Growth Marketing OS | Mahmoud Omar \u2014 open-source AI marketing prompts, Claude skills, agents & growth playbooks (EN + AR",
-    "id": "growthack88/growth-marketing-os",
-    "language": "\u2014",
-    "name": "growthack88/growth-marketing-os",
-    "stars": 0,
-    "updated_at": "2026-07-03T12:22:57Z",
-    "url": "https://github.com/growthack88/growth-marketing-os"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 0,
-    "updated_at": "2026-07-03T12:22:14Z",
-    "url": "https://github.com/filippolmt/skills"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -88,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-03T12:21:01Z",
     "url": "https://github.com/lklimek/claudius"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-03T12:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -216,15 +306,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Autonomous web-app QA skill for Claude Code: Playwright E2E, visual regression, axe-core a11y. LLM-generated self-healin",
-    "id": "c-c0rtex/web-qa",
-    "language": "Python",
-    "name": "c-c0rtex/web-qa",
-    "stars": 1,
-    "updated_at": "2026-07-03T12:00:41Z",
-    "url": "https://github.com/c-c0rtex/web-qa"
-  },
-  {
     "description": "Claude Code Skill\uff1a\u7ffb\u8bd1\u8154\u5c0f\u8bf4 \u2192 \u4e2d\u6587\u7f51\u6587\u98ce\u683c\uff0c\u591a\u9636\u6bb5\u5e76\u884c\u6539\u5199\u6d41\u6c34\u7ebf | Convert translated novels (JP light novels, MTL drafts) into natural Chine",
     "id": "aimerfeng/novel-to-webnovel",
     "language": "Perl",
@@ -243,15 +324,6 @@
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
   },
   {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "Shell",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 3,
-    "updated_at": "2026-07-03T11:57:00Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -268,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-03T11:54:44Z",
     "url": "https://github.com/vinsonconsulting/claude-skill-foundry"
-  },
-  {
-    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
-    "id": "ColinVaughn/Synaptic",
-    "language": "Rust",
-    "name": "ColinVaughn/Synaptic",
-    "stars": 16,
-    "updated_at": "2026-07-03T12:01:26Z",
-    "url": "https://github.com/ColinVaughn/Synaptic"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T11:37:50Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:37:47Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 1,
-    "updated_at": "2026-07-03T11:37:15Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:36:34Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:36:18Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:36:07Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Exasol skills for AI agents. Optimized for Claude Code and OpenAI Codex \ud83e\udd16",
-    "id": "exasol-labs/exasol-agent-skills",
-    "language": "Python",
-    "name": "exasol-labs/exasol-agent-skills",
-    "stars": 9,
-    "updated_at": "2026-07-03T12:23:41Z",
-    "url": "https://github.com/exasol-labs/exasol-agent-skills"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:35:43Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
   }
 ]
