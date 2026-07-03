@@ -1,12 +1,102 @@
 [
   {
-    "description": "Claude Agent Skill (SKILL.md format) to grow, maintain, harvest, and troubleshoot aromatic culinary herbs at home. Organ",
-    "id": "ebrunet001/aromatic-herb-gardening-expert",
-    "language": "\u2014",
-    "name": "ebrunet001/aromatic-herb-gardening-expert",
+    "description": "[MIRROR] My personal AI skills",
+    "id": "papanito/ai-skills",
+    "language": "Shell",
+    "name": "papanito/ai-skills",
     "stars": 0,
-    "updated_at": "2026-07-03T08:44:31Z",
-    "url": "https://github.com/ebrunet001/aromatic-herb-gardening-expert"
+    "updated_at": "2026-07-03T09:00:03Z",
+    "url": "https://github.com/papanito/ai-skills"
+  },
+  {
+    "description": "A Claude Skill that turns Claude Code into a Roblox game development assistant for Luau, Rojo, multiplayer systems, 3D a",
+    "id": "gogolumo/rbsmithy-roblox-claude-skill",
+    "language": "Luau",
+    "name": "gogolumo/rbsmithy-roblox-claude-skill",
+    "stars": 1,
+    "updated_at": "2026-07-03T08:59:38Z",
+    "url": "https://github.com/gogolumo/rbsmithy-roblox-claude-skill"
+  },
+  {
+    "description": "The session state protocol for AI coding. Hook-level scope enforcement, cross-session memory, contradiction detection, a",
+    "id": "aarshsharma2803-stack/optimusprime",
+    "language": "Python",
+    "name": "aarshsharma2803-stack/optimusprime",
+    "stars": 0,
+    "updated_at": "2026-07-03T08:58:08Z",
+    "url": "https://github.com/aarshsharma2803-stack/optimusprime"
+  },
+  {
+    "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
+    "id": "Kaelio/ktx",
+    "language": "TypeScript",
+    "name": "Kaelio/ktx",
+    "stars": 1443,
+    "updated_at": "2026-07-03T08:54:18Z",
+    "url": "https://github.com/Kaelio/ktx"
+  },
+  {
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
+    "id": "Egonex-AI/Understand-Anything",
+    "language": "TypeScript",
+    "name": "Egonex-AI/Understand-Anything",
+    "stars": 70535,
+    "updated_at": "2026-07-03T08:53:53Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 1,
+    "updated_at": "2026-07-03T08:48:51Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Learn any topic by shipping 5 tiny projects. Karpathy's expert method as a Claude Code skill, in one markdown file.",
+    "id": "reezanahamed/learn-by-building",
+    "language": "\u2014",
+    "name": "reezanahamed/learn-by-building",
+    "stars": 0,
+    "updated_at": "2026-07-03T08:48:18Z",
+    "url": "https://github.com/reezanahamed/learn-by-building"
+  },
+  {
+    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
+    "id": "sukoji/loadout",
+    "language": "JavaScript",
+    "name": "sukoji/loadout",
+    "stars": 1,
+    "updated_at": "2026-07-03T08:48:13Z",
+    "url": "https://github.com/sukoji/loadout"
+  },
+  {
+    "description": "A Claude Agent Skill that humanizes AI-written marketing and long-form copy: landing pages, sales pages, e-books, case s",
+    "id": "forint573/miAI-Humanizer-Skill-Awesome",
+    "language": "Python",
+    "name": "forint573/miAI-Humanizer-Skill-Awesome",
+    "stars": 1,
+    "updated_at": "2026-07-03T08:48:13Z",
+    "url": "https://github.com/forint573/miAI-Humanizer-Skill-Awesome"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 19,
+    "updated_at": "2026-07-03T08:48:02Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 1734,
+    "updated_at": "2026-07-03T08:46:28Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
     "description": "A Claude Code skill that saves your session before /clear",
@@ -14,8 +104,26 @@
     "language": "Shell",
     "name": "VaibhavAher100/wrap-session",
     "stars": 1,
-    "updated_at": "2026-07-03T08:43:25Z",
+    "updated_at": "2026-07-03T08:45:21Z",
     "url": "https://github.com/VaibhavAher100/wrap-session"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-03T08:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Agent Skill (SKILL.md format) to grow, maintain, harvest, and troubleshoot aromatic culinary herbs at home. Organ",
+    "id": "ebrunet001/aromatic-herb-gardening-expert",
+    "language": "\u2014",
+    "name": "ebrunet001/aromatic-herb-gardening-expert",
+    "stars": 0,
+    "updated_at": "2026-07-03T08:44:31Z",
+    "url": "https://github.com/ebrunet001/aromatic-herb-gardening-expert"
   },
   {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
@@ -36,15 +144,6 @@
     "url": "https://github.com/jajupmochi/claude-config"
   },
   {
-    "description": "Learn any topic by shipping 5 tiny projects. Karpathy's expert method as a Claude Code skill, in one markdown file.",
-    "id": "reezanahamed/learn-by-building",
-    "language": "\u2014",
-    "name": "reezanahamed/learn-by-building",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:41:41Z",
-    "url": "https://github.com/reezanahamed/learn-by-building"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -63,15 +162,6 @@
     "url": "https://github.com/Rushil1507/DSA-Visualiser-Claude-Skill"
   },
   {
-    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
-    "id": "Egonex-AI/Understand-Anything",
-    "language": "TypeScript",
-    "name": "Egonex-AI/Understand-Anything",
-    "stars": 70530,
-    "updated_at": "2026-07-03T08:39:29Z",
-    "url": "https://github.com/Egonex-AI/Understand-Anything"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -81,15 +171,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "A Claude Agent Skill that humanizes AI-written marketing and long-form copy: landing pages, sales pages, e-books, case s",
-    "id": "forint573/miAI-Humanizer-Skill-Awesome",
-    "language": "Python",
-    "name": "forint573/miAI-Humanizer-Skill-Awesome",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:38:50Z",
-    "url": "https://github.com/forint573/miAI-Humanizer-Skill-Awesome"
-  },
-  {
     "description": "The official tooling for Yield.xyz AgentKit \u2014 a Claude Code plugin, standalone skills, and connection guides for the Yie",
     "id": "stakekit/agentkit",
     "language": "\u2014",
@@ -97,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-03T08:38:07Z",
     "url": "https://github.com/stakekit/agentkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-03T08:36:54Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T08:20:51Z",
     "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-07-03T08:20:35Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:20:31Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:20:12Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:20:08Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:20:06Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:20:00Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:19:55Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:19:55Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
   }
 ]
