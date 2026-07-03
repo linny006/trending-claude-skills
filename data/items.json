@@ -1,21 +1,21 @@
 [
   {
-    "description": "[MIRROR] My personal AI skills",
-    "id": "papanito/ai-skills",
-    "language": "Shell",
-    "name": "papanito/ai-skills",
+    "description": "Linlin's curated Claude Code configuration: workflow rules, skills, hooks, plugin recommendations, tooling preferences, ",
+    "id": "jajupmochi/claude-config",
+    "language": "Python",
+    "name": "jajupmochi/claude-config",
     "stars": 0,
-    "updated_at": "2026-07-03T09:00:03Z",
-    "url": "https://github.com/papanito/ai-skills"
+    "updated_at": "2026-07-03T09:13:28Z",
+    "url": "https://github.com/jajupmochi/claude-config"
   },
   {
-    "description": "A Claude Skill that turns Claude Code into a Roblox game development assistant for Luau, Rojo, multiplayer systems, 3D a",
-    "id": "gogolumo/rbsmithy-roblox-claude-skill",
-    "language": "Luau",
-    "name": "gogolumo/rbsmithy-roblox-claude-skill",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:59:38Z",
-    "url": "https://github.com/gogolumo/rbsmithy-roblox-claude-skill"
+    "description": "Reusable Claude Code skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggre",
+    "id": "wei18/apple-dev-skills",
+    "language": "Python",
+    "name": "wei18/apple-dev-skills",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:13:03Z",
+    "url": "https://github.com/wei18/apple-dev-skills"
   },
   {
     "description": "The session state protocol for AI coding. Hook-level scope enforcement, cross-session memory, contradiction detection, a",
@@ -23,8 +23,53 @@
     "language": "Python",
     "name": "aarshsharma2803-stack/optimusprime",
     "stars": 0,
-    "updated_at": "2026-07-03T08:58:08Z",
+    "updated_at": "2026-07-03T09:07:40Z",
     "url": "https://github.com/aarshsharma2803-stack/optimusprime"
+  },
+  {
+    "description": "Six specialist prompts for turning meeting transcripts into organizational capital.",
+    "id": "Kakabhushundi/Meeting-Intelligence-Stack",
+    "language": "\u2014",
+    "name": "Kakabhushundi/Meeting-Intelligence-Stack",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:05:34Z",
+    "url": "https://github.com/Kakabhushundi/Meeting-Intelligence-Stack"
+  },
+  {
+    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
+    "id": "sukoji/loadout",
+    "language": "JavaScript",
+    "name": "sukoji/loadout",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:01:43Z",
+    "url": "https://github.com/sukoji/loadout"
+  },
+  {
+    "description": "A Claude Skill that turns Claude Code into a Roblox game development assistant for Luau, Rojo, multiplayer systems, 3D a",
+    "id": "gogolumo/rbsmithy-roblox-claude-skill",
+    "language": "Luau",
+    "name": "gogolumo/rbsmithy-roblox-claude-skill",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:00:40Z",
+    "url": "https://github.com/gogolumo/rbsmithy-roblox-claude-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-03T09:00:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "[MIRROR] My personal AI skills",
+    "id": "papanito/ai-skills",
+    "language": "Shell",
+    "name": "papanito/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:00:03Z",
+    "url": "https://github.com/papanito/ai-skills"
   },
   {
     "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
@@ -40,7 +85,7 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 70535,
+    "stars": 70545,
     "updated_at": "2026-07-03T08:53:53Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T08:48:18Z",
     "url": "https://github.com/reezanahamed/learn-by-building"
-  },
-  {
-    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
-    "id": "sukoji/loadout",
-    "language": "JavaScript",
-    "name": "sukoji/loadout",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:48:13Z",
-    "url": "https://github.com/sukoji/loadout"
   },
   {
     "description": "A Claude Agent Skill that humanizes AI-written marketing and long-form copy: landing pages, sales pages, e-books, case s",
@@ -108,15 +144,6 @@
     "url": "https://github.com/VaibhavAher100/wrap-session"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-03T08:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Agent Skill (SKILL.md format) to grow, maintain, harvest, and troubleshoot aromatic culinary herbs at home. Organ",
     "id": "ebrunet001/aromatic-herb-gardening-expert",
     "language": "\u2014",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T08:43:01Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Linlin's curated Claude Code configuration: workflow rules, skills, hooks, plugin recommendations, tooling preferences, ",
-    "id": "jajupmochi/claude-config",
-    "language": "Python",
-    "name": "jajupmochi/claude-config",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:41:46Z",
-    "url": "https://github.com/jajupmochi/claude-config"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -297,6 +315,15 @@
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
   },
   {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 64657,
+    "updated_at": "2026-07-03T08:27:03Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Like everyone else, I'm sharing my agent stuff.",
     "id": "msewell/agent-stuff",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-03T08:22:07Z",
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 3,
-    "updated_at": "2026-07-03T08:22:05Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-03T08:21:17Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:20:51Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
   }
 ]
