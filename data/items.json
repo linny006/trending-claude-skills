@@ -1,5 +1,113 @@
 [
   {
+    "description": "Measure brand visibility in AI answers by reading the rendered answer a logged-in user actually sees (agent in a real br",
+    "id": "Pupok462/open-geo",
+    "language": "Python",
+    "name": "Pupok462/open-geo",
+    "stars": 9,
+    "updated_at": "2026-07-03T14:43:40Z",
+    "url": "https://github.com/Pupok462/open-geo"
+  },
+  {
+    "description": "Plugin with opinionated set of Claude Code agents nad skills",
+    "id": "lklimek/claudius",
+    "language": "Python",
+    "name": "lklimek/claudius",
+    "stars": 1,
+    "updated_at": "2026-07-03T14:43:33Z",
+    "url": "https://github.com/lklimek/claudius"
+  },
+  {
+    "description": "A Claude Code skill written by Claude Fable 5: transfers its operating discipline to Opus, Sonnet & Haiku \u2014 do the same ",
+    "id": "uladzemer/fable-thinking",
+    "language": "\u2014",
+    "name": "uladzemer/fable-thinking",
+    "stars": 0,
+    "updated_at": "2026-07-03T14:42:17Z",
+    "url": "https://github.com/uladzemer/fable-thinking"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-03T14:40:58Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Production-oriented template for building AI agent skills as verifiable software components \u2014 offline eval harness, sour",
+    "id": "HelloThisWorld/agent-skill-verification-template",
+    "language": "HTML",
+    "name": "HelloThisWorld/agent-skill-verification-template",
+    "stars": 1,
+    "updated_at": "2026-07-03T14:40:43Z",
+    "url": "https://github.com/HelloThisWorld/agent-skill-verification-template"
+  },
+  {
+    "description": "A collection of practical Claude Code skills \u2014 multi-LLM evaluation, domain management, planning, writing quality, and p",
+    "id": "eprouveze/claude-skills",
+    "language": "JavaScript",
+    "name": "eprouveze/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-03T14:39:03Z",
+    "url": "https://github.com/eprouveze/claude-skills"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 179,
+    "updated_at": "2026-07-03T14:39:10Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Open-source security arsenal for AI coding agents: 784 cybersecurity skills, scanner integrations, and a security MCP fo",
+    "id": "Mikaru0Mystic/sectinel",
+    "language": "Python",
+    "name": "Mikaru0Mystic/sectinel",
+    "stars": 3,
+    "updated_at": "2026-07-03T14:38:37Z",
+    "url": "https://github.com/Mikaru0Mystic/sectinel"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-03T14:38:32Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-03T14:34:45Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-07-03T14:30:15Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-03T14:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A full-featured spec-driven harness for coding agents (and us, humans)",
     "id": "nevenincs/vaultspec-core",
     "language": "Python",
@@ -13,7 +121,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 17135,
+    "stars": 17137,
     "updated_at": "2026-07-03T14:26:43Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -31,7 +139,7 @@
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
-    "stars": 5012,
+    "stars": 5014,
     "updated_at": "2026-07-03T14:26:41Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
@@ -95,7 +203,7 @@
     "language": "\u2014",
     "name": "Magithar/SKILLmama",
     "stars": 4,
-    "updated_at": "2026-07-03T14:22:14Z",
+    "updated_at": "2026-07-03T14:31:16Z",
     "url": "https://github.com/Magithar/SKILLmama"
   },
   {
@@ -225,15 +333,6 @@
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-03T14:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
     "id": "offensive-tarichagranulosa259/seo-data",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T14:12:34Z",
     "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-07-03T14:12:31Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-07-03T14:12:30Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-07-03T14:12:28Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Loop engineering skill for AI \u2014 scaffold a 9-agent team that discovers, implements, verifies, and iterates until your go",
-    "id": "vibhasdutta/loop-engineer",
-    "language": "PowerShell",
-    "name": "vibhasdutta/loop-engineer",
-    "stars": 2,
-    "updated_at": "2026-07-03T14:12:24Z",
-    "url": "https://github.com/vibhasdutta/loop-engineer"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-07-03T14:12:02Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-07-03T14:11:57Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-03T14:11:50Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-07-03T14:11:36Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-07-03T14:11:33Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-07-03T14:11:27Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-07-03T14:11:24Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
   }
 ]
