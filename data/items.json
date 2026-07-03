@@ -1,12 +1,120 @@
 [
   {
+    "description": "SamDin \u0e2a\u0e32\u0e21\u0e14\u0e34\u0e19 ThreeJS modelling tool w/ claude skill",
+    "id": "mbarlow/samdin",
+    "language": "JavaScript",
+    "name": "mbarlow/samdin",
+    "stars": 0,
+    "updated_at": "2026-07-03T19:29:35Z",
+    "url": "https://github.com/mbarlow/samdin"
+  },
+  {
+    "description": "Terraform-style configuration for AI coding agents. Compile one ai-profile.yaml into safe Codex, Claude, and Tabnine con",
+    "id": "jsuvic/agent-profile",
+    "language": "TypeScript",
+    "name": "jsuvic/agent-profile",
+    "stars": 3,
+    "updated_at": "2026-07-03T19:28:58Z",
+    "url": "https://github.com/jsuvic/agent-profile"
+  },
+  {
+    "description": "Build AI-Ready Knowledge Capsule, Connect your existing systems, define governance once, reuse everywhere.",
+    "id": "AnythingGraph/AnythingGraph",
+    "language": "Rust",
+    "name": "AnythingGraph/AnythingGraph",
+    "stars": 2,
+    "updated_at": "2026-07-03T19:26:56Z",
+    "url": "https://github.com/AnythingGraph/AnythingGraph"
+  },
+  {
     "description": "A complete ecosystem for AI-assisted academic research. Features an orchestrated pipeline of 130+ ML skills, persistent ",
     "id": "jpmsilva1/ai-research-ecosystem",
     "language": "Shell",
     "name": "jpmsilva1/ai-research-ecosystem",
     "stars": 0,
-    "updated_at": "2026-07-03T19:14:19Z",
+    "updated_at": "2026-07-03T19:26:35Z",
     "url": "https://github.com/jpmsilva1/ai-research-ecosystem"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-03T19:25:58Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-03T19:25:29Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 0,
+    "updated_at": "2026-07-03T19:22:55Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
+    "id": "sukoji/loadout",
+    "language": "JavaScript",
+    "name": "sukoji/loadout",
+    "stars": 1,
+    "updated_at": "2026-07-03T19:21:59Z",
+    "url": "https://github.com/sukoji/loadout"
+  },
+  {
+    "description": "Fresco \u2014 the easy live wallpaper app for Linux. Set videos, GIFs, images, slideshows & playlists as your desktop wallpap",
+    "id": "DibbayajyotiRoy/Fresco",
+    "language": "Rust",
+    "name": "DibbayajyotiRoy/Fresco",
+    "stars": 15,
+    "updated_at": "2026-07-03T19:29:55Z",
+    "url": "https://github.com/DibbayajyotiRoy/Fresco"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-03T19:21:13Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "\u6d59\u5927MEM\u5de5\u7a0b\u7ba1\u7406\u7855\u58eb\u5b66\u4f4d\u8bba\u6587\u5168\u6d41\u7a0b\u5199\u4f5c\u6280\u80fd\u5305\uff5c21\u4e2aClaude Code+Codex\u6280\u80fd\uff1a\u5199\u4f5c\u00b7\u8303\u6587\u8bed\u4f53\u00b7\u964dAIGC\u53bbAI\u5473\u00b7\u6587\u732e\u00b7\u5ba1\u7a3f\u00b7LaTeX(zjuthesis)\u00b7Word\u00b7\u7b54\u8fa9 | MEM master thesis writ",
+    "id": "gxgeek-n/wenqu-mem",
+    "language": "Python",
+    "name": "gxgeek-n/wenqu-mem",
+    "stars": 0,
+    "updated_at": "2026-07-03T19:20:52Z",
+    "url": "https://github.com/gxgeek-n/wenqu-mem"
+  },
+  {
+    "description": "Context cleaning for Claude Code \u2014 prune bloated sessions, protect Agent Teams from context loss, auto-guard with tiered",
+    "id": "Ruya-AI/cozempic",
+    "language": "Python",
+    "name": "Ruya-AI/cozempic",
+    "stars": 345,
+    "updated_at": "2026-07-03T19:15:17Z",
+    "url": "https://github.com/Ruya-AI/cozempic"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-03T19:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -43,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-03T19:11:35Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-07-03T19:11:25Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -99,15 +198,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "SamDin \u0e2a\u0e32\u0e21\u0e14\u0e34\u0e19 ThreeJS modelling tool w/ claude skill",
-    "id": "mbarlow/samdin",
-    "language": "JavaScript",
-    "name": "mbarlow/samdin",
-    "stars": 0,
-    "updated_at": "2026-07-03T19:09:58Z",
-    "url": "https://github.com/mbarlow/samdin"
-  },
-  {
     "description": "Prompts don't compound. Skills do. The open-source AI toolkit for product managers \u2014 13 Claude Code skills + 3 red-team ",
     "id": "ramanbamba/10x-pm",
     "language": "Python",
@@ -133,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-03T19:01:36Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-03T19:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skills for building production-grade Express + TypeScript + Mongoose backends with Claude Code",
@@ -185,7 +266,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 93,
-    "updated_at": "2026-07-03T19:14:31Z",
+    "updated_at": "2026-07-03T19:15:50Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -243,15 +324,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
-    "id": "sukoji/loadout",
-    "language": "JavaScript",
-    "name": "sukoji/loadout",
-    "stars": 1,
-    "updated_at": "2026-07-03T18:51:53Z",
-    "url": "https://github.com/sukoji/loadout"
-  },
-  {
     "description": "Knowledge graph extractor: Markdown (or any format) \u2192 knowledge graph with RDFS/OWL ontology",
     "id": "SenolIsci/mykg",
     "language": "Python",
@@ -268,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-03T18:50:47Z",
     "url": "https://github.com/Darcos-Loft/fluid"
-  },
-  {
-    "description": "Context cleaning for Claude Code \u2014 prune bloated sessions, protect Agent Teams from context loss, auto-guard with tiered",
-    "id": "Ruya-AI/cozempic",
-    "language": "Python",
-    "name": "Ruya-AI/cozempic",
-    "stars": 345,
-    "updated_at": "2026-07-03T19:14:34Z",
-    "url": "https://github.com/Ruya-AI/cozempic"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -302,7 +365,7 @@
     "language": "JavaScript",
     "name": "effythealien/plumb-line",
     "stars": 2,
-    "updated_at": "2026-07-03T18:45:39Z",
+    "updated_at": "2026-07-03T19:26:27Z",
     "url": "https://github.com/effythealien/plumb-line"
   },
   {
@@ -342,15 +405,6 @@
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
-    "description": "Fresco \u2014 the easy live wallpaper app for Linux. Set videos, GIFs, images, slideshows & playlists as your desktop wallpap",
-    "id": "DibbayajyotiRoy/Fresco",
-    "language": "Rust",
-    "name": "DibbayajyotiRoy/Fresco",
-    "stars": 15,
-    "updated_at": "2026-07-03T18:51:37Z",
-    "url": "https://github.com/DibbayajyotiRoy/Fresco"
-  },
-  {
     "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
     "id": "zerooo002/claude-artifacts-local-sync",
     "language": "\u2014",
@@ -387,15 +441,6 @@
     "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
   },
   {
-    "description": "Terraform-style configuration for AI coding agents. Compile one ai-profile.yaml into safe Codex, Claude, and Tabnine con",
-    "id": "jsuvic/agent-profile",
-    "language": "TypeScript",
-    "name": "jsuvic/agent-profile",
-    "stars": 3,
-    "updated_at": "2026-07-03T19:14:22Z",
-    "url": "https://github.com/jsuvic/agent-profile"
-  },
-  {
     "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
     "id": "Wyattputrescent882/ai-code-governance-skill",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T18:39:00Z",
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-03T18:38:21Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-07-03T18:38:11Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-03T18:38:10Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-07-03T18:36:41Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-03T18:36:39Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
   }
 ]
