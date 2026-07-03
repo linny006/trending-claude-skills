@@ -1,5 +1,104 @@
 [
   {
+    "description": "The session state protocol for AI coding. Hook-level scope enforcement, cross-session memory, contradiction detection, a",
+    "id": "aarshsharma2803-stack/optimusprime",
+    "language": "Python",
+    "name": "aarshsharma2803-stack/optimusprime",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:29:06Z",
+    "url": "https://github.com/aarshsharma2803-stack/optimusprime"
+  },
+  {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "Shell",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 2,
+    "updated_at": "2026-07-03T09:28:34Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "Claude Code plugin that renders professional D2 architecture diagrams (TALA/ELK) with a self-checking render loop",
+    "id": "khollingworth/d2-diagram-skill",
+    "language": "Shell",
+    "name": "khollingworth/d2-diagram-skill",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:28:06Z",
+    "url": "https://github.com/khollingworth/d2-diagram-skill"
+  },
+  {
+    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
+    "id": "maxritter/pilot-shell",
+    "language": "JavaScript",
+    "name": "maxritter/pilot-shell",
+    "stars": 1768,
+    "updated_at": "2026-07-03T09:27:23Z",
+    "url": "https://github.com/maxritter/pilot-shell"
+  },
+  {
+    "description": "A PM's operating system: turn a PRD into a full SDLC by orchestrating MetaGPT, OpenHands, Promptfoo. Built by a Senior P",
+    "id": "vittobh/pm-os",
+    "language": "Shell",
+    "name": "vittobh/pm-os",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:24:41Z",
+    "url": "https://github.com/vittobh/pm-os"
+  },
+  {
+    "description": "A Claude Skill that turns Claude Code into a Roblox game development assistant for Luau, Rojo, multiplayer systems, 3D a",
+    "id": "gogolumo/rbsmithy-roblox-claude-skill",
+    "language": "Luau",
+    "name": "gogolumo/rbsmithy-roblox-claude-skill",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:24:34Z",
+    "url": "https://github.com/gogolumo/rbsmithy-roblox-claude-skill"
+  },
+  {
+    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
+    "id": "sukoji/loadout",
+    "language": "JavaScript",
+    "name": "sukoji/loadout",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:21:31Z",
+    "url": "https://github.com/sukoji/loadout"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 64660,
+    "updated_at": "2026-07-03T09:19:22Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "[MIRROR] My personal AI skills",
+    "id": "papanito/ai-skills",
+    "language": "Shell",
+    "name": "papanito/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:18:17Z",
+    "url": "https://github.com/papanito/ai-skills"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 4,
+    "updated_at": "2026-07-03T09:18:06Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-03T09:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Linlin's curated Claude Code configuration: workflow rules, skills, hooks, plugin recommendations, tooling preferences, ",
     "id": "jajupmochi/claude-config",
     "language": "Python",
@@ -18,15 +117,6 @@
     "url": "https://github.com/wei18/apple-dev-skills"
   },
   {
-    "description": "The session state protocol for AI coding. Hook-level scope enforcement, cross-session memory, contradiction detection, a",
-    "id": "aarshsharma2803-stack/optimusprime",
-    "language": "Python",
-    "name": "aarshsharma2803-stack/optimusprime",
-    "stars": 0,
-    "updated_at": "2026-07-03T09:07:40Z",
-    "url": "https://github.com/aarshsharma2803-stack/optimusprime"
-  },
-  {
     "description": "Six specialist prompts for turning meeting transcripts into organizational capital.",
     "id": "Kakabhushundi/Meeting-Intelligence-Stack",
     "language": "\u2014",
@@ -34,42 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T09:05:34Z",
     "url": "https://github.com/Kakabhushundi/Meeting-Intelligence-Stack"
-  },
-  {
-    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
-    "id": "sukoji/loadout",
-    "language": "JavaScript",
-    "name": "sukoji/loadout",
-    "stars": 1,
-    "updated_at": "2026-07-03T09:01:43Z",
-    "url": "https://github.com/sukoji/loadout"
-  },
-  {
-    "description": "A Claude Skill that turns Claude Code into a Roblox game development assistant for Luau, Rojo, multiplayer systems, 3D a",
-    "id": "gogolumo/rbsmithy-roblox-claude-skill",
-    "language": "Luau",
-    "name": "gogolumo/rbsmithy-roblox-claude-skill",
-    "stars": 1,
-    "updated_at": "2026-07-03T09:00:40Z",
-    "url": "https://github.com/gogolumo/rbsmithy-roblox-claude-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-03T09:00:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "[MIRROR] My personal AI skills",
-    "id": "papanito/ai-skills",
-    "language": "Shell",
-    "name": "papanito/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-07-03T09:00:03Z",
-    "url": "https://github.com/papanito/ai-skills"
   },
   {
     "description": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, or other AI agents to query",
@@ -85,7 +139,7 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 70545,
+    "stars": 70549,
     "updated_at": "2026-07-03T08:53:53Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
@@ -112,7 +166,7 @@
     "id": "forint573/miAI-Humanizer-Skill-Awesome",
     "language": "Python",
     "name": "forint573/miAI-Humanizer-Skill-Awesome",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-03T08:48:13Z",
     "url": "https://github.com/forint573/miAI-Humanizer-Skill-Awesome"
   },
@@ -252,15 +306,6 @@
     "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
   },
   {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 4,
-    "updated_at": "2026-07-03T08:29:21Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
     "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
     "id": "Free-Soul/MemDreamer",
     "language": "Python",
@@ -313,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T08:27:18Z",
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 64657,
-    "updated_at": "2026-07-03T08:27:03Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Like everyone else, I'm sharing my agent stuff.",
@@ -391,7 +427,7 @@
     "id": "Yuki001/game-dev-skills",
     "language": "Python",
     "name": "Yuki001/game-dev-skills",
-    "stars": 26,
+    "stars": 27,
     "updated_at": "2026-07-03T08:24:33Z",
     "url": "https://github.com/Yuki001/game-dev-skills"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T08:24:04Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "A Claude Code skill written by Claude Fable 5 itself: transfers Fable 5's operating discipline to Opus, Sonnet & Haiku \u2014",
-    "id": "uladzemer/fable-thinking",
-    "language": "\u2014",
-    "name": "uladzemer/fable-thinking",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:23:52Z",
-    "url": "https://github.com/uladzemer/fable-thinking"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:22:31Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:22:09Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:22:07Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
