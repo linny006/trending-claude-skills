@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-03 21:30 UTC
+> ⏰ Last updated: 2026-07-03 21:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 2 | TypeScript | 2026-07-03 | A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits. |
-| 2 | [seldonframe/seldonframe](https://github.com/seldonframe/seldonframe) | 7 | TypeScript | 2026-07-03 |  |
-| 3 | [haidrrrry/loop-engineering-skills](https://github.com/haidrrrry/loop-engineering-skills) | 1 | Shell | 2026-07-03 | The missing brain for AI coding agents — verification gates written before the code, Reflexion-style memory that learns  |
-| 4 | [88plug/recover-from-false-positive](https://github.com/88plug/recover-from-false-positive) | 0 | Python | 2026-07-03 | Recover Claude Code sessions after an Anthropic API output-classifier false positive. JSON-aware .jsonl log surgeon: rem |
-| 5 | [Kaelio/ktx](https://github.com/Kaelio/ktx) | 1450 | TypeScript | 2026-07-03 | ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agents to query |
-| 6 | [sukoji/loadout](https://github.com/sukoji/loadout) | 1 | JavaScript | 2026-07-03 | 🎯 Loadout — profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r |
-| 7 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 93 | Kotlin | 2026-07-03 | Helping the Agents Compose the Things |
-| 8 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-07-03 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 9 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-07-03 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 10 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-03 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 11 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 8 | Python | 2026-07-03 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [haidrrrry/loop-engineering-skills](https://github.com/haidrrrry/loop-engineering-skills) | 1 | Shell | 2026-07-03 | The missing brain for AI coding agents — verification gates written before the code, Reflexion-style memory that learns  |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 8 | Python | 2026-07-03 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 2 | TypeScript | 2026-07-03 | A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits. |
+| 4 | [seldonframe/seldonframe](https://github.com/seldonframe/seldonframe) | 7 | TypeScript | 2026-07-03 |  |
+| 5 | [88plug/recover-from-false-positive](https://github.com/88plug/recover-from-false-positive) | 0 | Python | 2026-07-03 | Recover Claude Code sessions after an Anthropic API output-classifier false positive. JSON-aware .jsonl log surgeon: rem |
+| 6 | [Kaelio/ktx](https://github.com/Kaelio/ktx) | 1450 | TypeScript | 2026-07-03 | ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agents to query |
+| 7 | [sukoji/loadout](https://github.com/sukoji/loadout) | 1 | JavaScript | 2026-07-03 | 🎯 Loadout — profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r |
+| 8 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 93 | Kotlin | 2026-07-03 | Helping the Agents Compose the Things |
+| 9 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-07-03 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 10 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-07-03 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 11 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-03 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
 | 12 | [tmusser/context-to-action-skills](https://github.com/tmusser/context-to-action-skills) | 2 | Python | 2026-07-03 | Claude skills for turning messy business context into clear asks, decisions, owners, updates, and follow-ups. |
 | 13 | [eugeniughelbur/doceo](https://github.com/eugeniughelbur/doceo) | 2 | — | 2026-07-03 | Claude Code skill that teaches you anything in one screen: visual lessons with memory and a feedback loop |
 | 14 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-07-03 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
