@@ -1,5 +1,23 @@
 [
   {
+    "description": "A Claude Skills package that runs a personal content editor: it evaluates sources, outlines newsletters, edits drafts, a",
+    "id": "wei-wei-hu/weiwei-content-editor-skill",
+    "language": "\u2014",
+    "name": "wei-wei-hu/weiwei-content-editor-skill",
+    "stars": 1,
+    "updated_at": "2026-07-04T19:15:17Z",
+    "url": "https://github.com/wei-wei-hu/weiwei-content-editor-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-04T19:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
     "id": "Glad-oboedacaccia408/design.md",
     "language": "TypeScript",
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-04T19:11:55Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "A Claude Skills package that runs a personal content editor: it evaluates sources, outlines newsletters, edits drafts, a",
-    "id": "wei-wei-hu/weiwei-content-editor-skill",
-    "language": "\u2014",
-    "name": "wei-wei-hu/weiwei-content-editor-skill",
-    "stars": 0,
-    "updated_at": "2026-07-04T19:11:18Z",
-    "url": "https://github.com/wei-wei-hu/weiwei-content-editor-skill"
   },
   {
     "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
@@ -329,7 +338,7 @@
     "language": "TypeScript",
     "name": "seldonframe/seldonframe",
     "stars": 7,
-    "updated_at": "2026-07-04T19:05:27Z",
+    "updated_at": "2026-07-04T19:15:39Z",
     "url": "https://github.com/seldonframe/seldonframe"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T19:00:22Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-07-04T19:00:19Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
   }
 ]
