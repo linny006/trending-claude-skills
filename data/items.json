@@ -1,5 +1,23 @@
 [
   {
+    "description": "SQL Server performance tuning skills for LLMs \u2014 829 checks across 26 skills covering T-SQL, execution plans, wait stats,",
+    "id": "vanterx/mssql-performance-skills",
+    "language": "TypeScript",
+    "name": "vanterx/mssql-performance-skills",
+    "stars": 3,
+    "updated_at": "2026-07-04T09:04:14Z",
+    "url": "https://github.com/vanterx/mssql-performance-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-04T09:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "JavaScript",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
     "stars": 1256,
-    "updated_at": "2026-07-04T08:58:13Z",
+    "updated_at": "2026-07-04T09:07:49Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
@@ -40,7 +58,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 64767,
+    "stars": 64768,
     "updated_at": "2026-07-04T08:54:29Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -70,15 +88,6 @@
     "stars": 115,
     "updated_at": "2026-07-04T08:57:54Z",
     "url": "https://github.com/tamtom/play-console-cli"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-04T08:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T07:54:51Z",
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 3,
-    "updated_at": "2026-07-04T07:54:49Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
   }
 ]
