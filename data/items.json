@@ -1,5 +1,68 @@
 [
   {
+    "description": "Claude Code skill: turn your session logs into an RPG character sheet \u2014 fixed-scale stats, class, achievements, avatar, ",
+    "id": "timoncool/ai-collab-profile",
+    "language": "Python",
+    "name": "timoncool/ai-collab-profile",
+    "stars": 0,
+    "updated_at": "2026-07-04T00:55:42Z",
+    "url": "https://github.com/timoncool/ai-collab-profile"
+  },
+  {
+    "description": "A Claude Code skill for running long, unattended, multi-goal work, the kind where a human isn't approving each step. ",
+    "id": "asiridalugoda/autonomous-loop",
+    "language": "\u2014",
+    "name": "asiridalugoda/autonomous-loop",
+    "stars": 0,
+    "updated_at": "2026-07-04T00:55:32Z",
+    "url": "https://github.com/asiridalugoda/autonomous-loop"
+  },
+  {
+    "description": "SamDin \u0e2a\u0e32\u0e21\u0e14\u0e34\u0e19 ThreeJS modelling tool w/ claude skill",
+    "id": "mbarlow/samdin",
+    "language": "JavaScript",
+    "name": "mbarlow/samdin",
+    "stars": 0,
+    "updated_at": "2026-07-04T00:55:19Z",
+    "url": "https://github.com/mbarlow/samdin"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1256,
+    "updated_at": "2026-07-04T00:55:25Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
+    "id": "sukoji/loadout",
+    "language": "JavaScript",
+    "name": "sukoji/loadout",
+    "stars": 1,
+    "updated_at": "2026-07-04T00:53:09Z",
+    "url": "https://github.com/sukoji/loadout"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-04T00:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u6d59\u5927MEM\u5de5\u7a0b\u7ba1\u7406\u7855\u58eb\u5b66\u4f4d\u8bba\u6587\u5168\u6d41\u7a0b\u5199\u4f5c\u6280\u80fd\u5305\uff5c21\u4e2aClaude Code+Codex\u6280\u80fd\uff1a\u5199\u4f5c\u00b7\u8303\u6587\u8bed\u4f53\u00b7\u964dAIGC\u53bbAI\u5473\u00b7\u6587\u732e\u00b7\u5ba1\u7a3f\u00b7LaTeX(zjuthesis)\u00b7Word\u00b7\u7b54\u8fa9 | MEM master thesis writ",
+    "id": "gxgeek-n/wenqu-mem",
+    "language": "Python",
+    "name": "gxgeek-n/wenqu-mem",
+    "stars": 0,
+    "updated_at": "2026-07-04T00:45:11Z",
+    "url": "https://github.com/gxgeek-n/wenqu-mem"
+  },
+  {
     "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
     "id": "easyinplay/harnessed",
     "language": "TypeScript",
@@ -14,7 +77,7 @@
     "language": "JavaScript",
     "name": "Da6ka/tech-sourcing-skill",
     "stars": 1,
-    "updated_at": "2026-07-04T00:42:19Z",
+    "updated_at": "2026-07-04T00:50:05Z",
     "url": "https://github.com/Da6ka/tech-sourcing-skill"
   },
   {
@@ -25,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T00:40:35Z",
     "url": "https://github.com/yinjialu/ai-frontier-daily"
-  },
-  {
-    "description": "Claude Code skill: turn your session logs into an RPG character sheet \u2014 fixed-scale stats, class, achievements, avatar, ",
-    "id": "timoncool/ai-collab-profile",
-    "language": "Python",
-    "name": "timoncool/ai-collab-profile",
-    "stars": 0,
-    "updated_at": "2026-07-04T00:38:47Z",
-    "url": "https://github.com/timoncool/ai-collab-profile"
-  },
-  {
-    "description": "A Claude Code skill for running long, unattended, multi-goal work, the kind where a human isn't approving each step. ",
-    "id": "asiridalugoda/autonomous-loop",
-    "language": "\u2014",
-    "name": "asiridalugoda/autonomous-loop",
-    "stars": 0,
-    "updated_at": "2026-07-04T00:35:24Z",
-    "url": "https://github.com/asiridalugoda/autonomous-loop"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -79,24 +124,6 @@
     "stars": 7,
     "updated_at": "2026-07-04T00:30:15Z",
     "url": "https://github.com/seldonframe/seldonframe"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-04T00:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
-    "id": "sukoji/loadout",
-    "language": "JavaScript",
-    "name": "sukoji/loadout",
-    "stars": 1,
-    "updated_at": "2026-07-04T00:22:38Z",
-    "url": "https://github.com/sukoji/loadout"
   },
   {
     "description": "Recover Claude Code sessions after an Anthropic API output-classifier false positive. JSON-aware .jsonl log surgeon: rem",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-04T00:03:58Z",
     "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-04T00:03:24Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-07-04T00:03:18Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-04T00:03:13Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
   }
 ]
