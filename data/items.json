@@ -1,5 +1,311 @@
 [
   {
+    "description": "A collection of my agentic workflows, skills, prompts, etc.",
+    "id": "ominou5/agentic-workflows",
+    "language": "\u2014",
+    "name": "ominou5/agentic-workflows",
+    "stars": 1,
+    "updated_at": "2026-07-04T21:32:02Z",
+    "url": "https://github.com/ominou5/agentic-workflows"
+  },
+  {
+    "description": "",
+    "id": "morganmuli/metaskill",
+    "language": "Shell",
+    "name": "morganmuli/metaskill",
+    "stars": 1,
+    "updated_at": "2026-07-04T21:31:55Z",
+    "url": "https://github.com/morganmuli/metaskill"
+  },
+  {
+    "description": "A curated, opinionated path for shipping a Next.js app on Vercel \u2014 deploys, env, AI Gateway, rendering & cachi",
+    "id": "SkillMedev/vercel-platform",
+    "language": "\u2014",
+    "name": "SkillMedev/vercel-platform",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:31:22Z",
+    "url": "https://github.com/SkillMedev/vercel-platform"
+  },
+  {
+    "description": "Plan, run, and synthesize user research that actually moves product decisions.",
+    "id": "SkillMedev/ux-research-discovery",
+    "language": "\u2014",
+    "name": "SkillMedev/ux-research-discovery",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:31:19Z",
+    "url": "https://github.com/SkillMedev/ux-research-discovery"
+  },
+  {
+    "description": "Docs people actually read \u2014 READMEs, guides, changelogs, and specs.",
+    "id": "SkillMedev/technical-writing-studio",
+    "language": "\u2014",
+    "name": "SkillMedev/technical-writing-studio",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:31:14Z",
+    "url": "https://github.com/SkillMedev/technical-writing-studio"
+  },
+  {
+    "description": "Find, license, fetch, and curate stock photos that don't look like stock.",
+    "id": "SkillMedev/stock-asset-sourcing",
+    "language": "\u2014",
+    "name": "SkillMedev/stock-asset-sourcing",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:31:12Z",
+    "url": "https://github.com/SkillMedev/stock-asset-sourcing"
+  },
+  {
+    "description": "From first pitch to closed round \u2014 the founder\u2019s fundraising playbook.",
+    "id": "SkillMedev/startup-fundraising",
+    "language": "\u2014",
+    "name": "SkillMedev/startup-fundraising",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:31:09Z",
+    "url": "https://github.com/SkillMedev/startup-fundraising"
+  },
+  {
+    "description": "Everything a solo founder needs from idea to first $10k MRR.",
+    "id": "SkillMedev/solo-founder-stack",
+    "language": "\u2014",
+    "name": "SkillMedev/solo-founder-stack",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:31:06Z",
+    "url": "https://github.com/SkillMedev/solo-founder-stack"
+  },
+  {
+    "description": "A month of on-brand posts, repurposed everywhere, in an afternoon.",
+    "id": "SkillMedev/social-media-studio",
+    "language": "\u2014",
+    "name": "SkillMedev/social-media-studio",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:31:03Z",
+    "url": "https://github.com/SkillMedev/social-media-studio"
+  },
+  {
+    "description": "Author, test, and curate Claude Agent Skills with confidence",
+    "id": "SkillMedev/skill-builder-studio",
+    "language": "\u2014",
+    "name": "SkillMedev/skill-builder-studio",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:31:00Z",
+    "url": "https://github.com/SkillMedev/skill-builder-studio"
+  },
+  {
+    "description": "Turn a keyword into ranked, AI-search-ready content \u2014 end to end.",
+    "id": "SkillMedev/seo-organic-growth",
+    "language": "\u2014",
+    "name": "SkillMedev/seo-organic-growth",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:58Z",
+    "url": "https://github.com/SkillMedev/seo-organic-growth"
+  },
+  {
+    "description": "Threat models, secure reviews, and compliance evidence \u2014 ship with confidence.",
+    "id": "SkillMedev/security-compliance-hardening",
+    "language": "\u2014",
+    "name": "SkillMedev/security-compliance-hardening",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:56Z",
+    "url": "https://github.com/SkillMedev/security-compliance-hardening"
+  },
+  {
+    "description": "Acquisition, activation, retention \u2014 the full SaaS growth toolkit.",
+    "id": "SkillMedev/saas-growth-stack",
+    "language": "\u2014",
+    "name": "SkillMedev/saas-growth-stack",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:53Z",
+    "url": "https://github.com/SkillMedev/saas-growth-stack"
+  },
+  {
+    "description": "Write a resume from scratch or critique the one you have \u2014 ATS-optimized, seniority-aware, delivered as .docx.",
+    "id": "SkillMedev/resume-toolkit",
+    "language": "\u2014",
+    "name": "SkillMedev/resume-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:51Z",
+    "url": "https://github.com/SkillMedev/resume-toolkit"
+  },
+  {
+    "description": "Enhance AI coding agents with structured workflows and best practices for building reliable web applications through pro",
+    "id": "LLl0k0laD/agent-skills",
+    "language": "Shell",
+    "name": "LLl0k0laD/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-07-04T21:30:50Z",
+    "url": "https://github.com/LLl0k0laD/agent-skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:49Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Turn natural language briefs into rendered MP4s using Claude Code and Remotion \u2014 covers project setup, composi",
+    "id": "SkillMedev/remotion-video-production",
+    "language": "\u2014",
+    "name": "SkillMedev/remotion-video-production",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:48Z",
+    "url": "https://github.com/SkillMedev/remotion-video-production"
+  },
+  {
+    "description": "Run a tight remote team without drowning in meetings.",
+    "id": "SkillMedev/remote-team-toolkit",
+    "language": "\u2014",
+    "name": "SkillMedev/remote-team-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:46Z",
+    "url": "https://github.com/SkillMedev/remote-team-toolkit"
+  },
+  {
+    "description": "For residential agents: listings that sell, nurture that converts, negotiations you control.",
+    "id": "SkillMedev/real-estate-agent-stack",
+    "language": "\u2014",
+    "name": "SkillMedev/real-estate-agent-stack",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:44Z",
+    "url": "https://github.com/SkillMedev/real-estate-agent-stack"
+  },
+  {
+    "description": "Build a test suite that actually catches bugs \u2014 and stops flaking.",
+    "id": "SkillMedev/qa-test-automation",
+    "language": "\u2014",
+    "name": "SkillMedev/qa-test-automation",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:41Z",
+    "url": "https://github.com/SkillMedev/qa-test-automation"
+  },
+  {
+    "description": "Connect Claude to your project tracker and let it draft, file, and organize the work.",
+    "id": "SkillMedev/project-management",
+    "language": "\u2014",
+    "name": "SkillMedev/project-management",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:39Z",
+    "url": "https://github.com/SkillMedev/project-management"
+  },
+  {
+    "description": "Roadmaps, specs, sprints, and analytics \u2014 the PM\u2019s full operating kit.",
+    "id": "SkillMedev/product-manager-stack",
+    "language": "\u2014",
+    "name": "SkillMedev/product-manager-stack",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:36Z",
+    "url": "https://github.com/SkillMedev/product-manager-stack"
+  },
+  {
+    "description": "Build the habits, focus, and systems that compound \u2014 your life, run like a product.",
+    "id": "SkillMedev/personal-operating-system",
+    "language": "\u2014",
+    "name": "SkillMedev/personal-operating-system",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:34Z",
+    "url": "https://github.com/SkillMedev/personal-operating-system"
+  },
+  {
+    "description": "Build a solid financial foundation \u2014 budget, pay off debt, and plan for the future.",
+    "id": "SkillMedev/personal-finance-mastery",
+    "language": "\u2014",
+    "name": "SkillMedev/personal-finance-mastery",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:32Z",
+    "url": "https://github.com/SkillMedev/personal-finance-mastery"
+  },
+  {
+    "description": "Audit, test, and scale paid channels with rigorous, data-driven playbooks.",
+    "id": "SkillMedev/performance-marketing",
+    "language": "\u2014",
+    "name": "SkillMedev/performance-marketing",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:29Z",
+    "url": "https://github.com/SkillMedev/performance-marketing"
+  },
+  {
+    "description": "Hire, onboard, and run a team fairly \u2014 without a full HR department.",
+    "id": "SkillMedev/people-ops-recruiting",
+    "language": "\u2014",
+    "name": "SkillMedev/people-ops-recruiting",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:27Z",
+    "url": "https://github.com/SkillMedev/people-ops-recruiting"
+  },
+  {
+    "description": "Six skills to run a sharper B2B sales process from first call to closed deal.",
+    "id": "SkillMedev/outbound-sales-engine",
+    "language": "\u2014",
+    "name": "SkillMedev/outbound-sales-engine",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:24Z",
+    "url": "https://github.com/SkillMedev/outbound-sales-engine"
+  },
+  {
+    "description": "For small-nonprofit leaders: win grants, keep donors, and run a board that engages.",
+    "id": "SkillMedev/nonprofit-grants-toolkit",
+    "language": "\u2014",
+    "name": "SkillMedev/nonprofit-grants-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:22Z",
+    "url": "https://github.com/SkillMedev/nonprofit-grants-toolkit"
+  },
+  {
+    "description": "The craft layer for software video \u2014 storyboarding, motion principles, type, color, sound, and social cutdowns",
+    "id": "SkillMedev/motion-video-direction",
+    "language": "\u2014",
+    "name": "SkillMedev/motion-video-direction",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:19Z",
+    "url": "https://github.com/SkillMedev/motion-video-direction"
+  },
+  {
+    "description": "Build and ship native and cross-platform mobile apps with Claude.",
+    "id": "SkillMedev/mobile-app-engineering",
+    "language": "\u2014",
+    "name": "SkillMedev/mobile-app-engineering",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:17Z",
+    "url": "https://github.com/SkillMedev/mobile-app-engineering"
+  },
+  {
+    "description": "For local service owners: win the map pack, the reviews, and every quote you send.",
+    "id": "SkillMedev/local-service-business-engine",
+    "language": "\u2014",
+    "name": "SkillMedev/local-service-business-engine",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:15Z",
+    "url": "https://github.com/SkillMedev/local-service-business-engine"
+  },
+  {
+    "description": "Map journeys, activate users, and protect your sender reputation end to end.",
+    "id": "SkillMedev/lifecycle-marketing",
+    "language": "\u2014",
+    "name": "SkillMedev/lifecycle-marketing",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:12Z",
+    "url": "https://github.com/SkillMedev/lifecycle-marketing"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-04T21:30:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "NDA triage, contract review, terms drafting \u2014 the essentials for in-house legal.",
+    "id": "SkillMedev/legal-team-starter",
+    "language": "\u2014",
+    "name": "SkillMedev/legal-team-starter",
+    "stars": 0,
+    "updated_at": "2026-07-04T21:30:09Z",
+    "url": "https://github.com/SkillMedev/legal-team-starter"
+  },
+  {
     "description": "Move old code to modern stacks without a risky big-bang rewrite.",
     "id": "SkillMedev/legacy-modernization",
     "language": "\u2014",
@@ -142,311 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T21:29:29Z",
     "url": "https://github.com/SkillMedev/ecommerce-dtc-ops"
-  },
-  {
-    "description": "Slide decks, reports, models, and templates \u2014 every business document, done right.",
-    "id": "SkillMedev/document-studio",
-    "language": "\u2014",
-    "name": "SkillMedev/document-studio",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:29:26Z",
-    "url": "https://github.com/SkillMedev/document-studio"
-  },
-  {
-    "description": "Infrastructure as code, CI/CD, containers, and observability.",
-    "id": "SkillMedev/devops-platform-engineer",
-    "language": "\u2014",
-    "name": "SkillMedev/devops-platform-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:29:24Z",
-    "url": "https://github.com/SkillMedev/devops-platform-engineer"
-  },
-  {
-    "description": "Precise specs, redlines, and docs that eliminate guesswork at the design-to-code boundary.",
-    "id": "SkillMedev/designer-to-dev-handoff",
-    "language": "\u2014",
-    "name": "SkillMedev/designer-to-dev-handoff",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:29:21Z",
-    "url": "https://github.com/SkillMedev/designer-to-dev-handoff"
-  },
-  {
-    "description": "From tokens to components to documentation \u2014 the complete design system workflow.",
-    "id": "SkillMedev/design-system-builder",
-    "language": "\u2014",
-    "name": "SkillMedev/design-system-builder",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:29:19Z",
-    "url": "https://github.com/SkillMedev/design-system-builder"
-  },
-  {
-    "description": "Make slow queries fast and keep your database healthy under load.",
-    "id": "SkillMedev/database-performance",
-    "language": "\u2014",
-    "name": "SkillMedev/database-performance",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:29:16Z",
-    "url": "https://github.com/SkillMedev/database-performance"
-  },
-  {
-    "description": "Rigorous skills for every stage of the ML lifecycle, from EDA to production monitoring.",
-    "id": "SkillMedev/data-science-ml",
-    "language": "\u2014",
-    "name": "SkillMedev/data-science-ml",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:29:14Z",
-    "url": "https://github.com/SkillMedev/data-science-ml"
-  },
-  {
-    "description": "\ud83c\udfa5 Generate precise video prompts for Jimeng Seedance 2.0 using structured patterns, templates, and AI agent compatibilit",
-    "id": "mightyhuman101/seedance2-skill",
-    "language": "\u2014",
-    "name": "mightyhuman101/seedance2-skill",
-    "stars": 4,
-    "updated_at": "2026-07-04T21:29:11Z",
-    "url": "https://github.com/mightyhuman101/seedance2-skill"
-  },
-  {
-    "description": "Streams, batch, and storage \u2014 production data pipelines, encoded.",
-    "id": "SkillMedev/data-engineering-pipeline",
-    "language": "\u2014",
-    "name": "SkillMedev/data-engineering-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:29:11Z",
-    "url": "https://github.com/SkillMedev/data-engineering-pipeline"
-  },
-  {
-    "description": "From raw data to board-ready insights, every step covered.",
-    "id": "SkillMedev/data-analyst-toolkit",
-    "language": "\u2014",
-    "name": "SkillMedev/data-analyst-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:29:09Z",
-    "url": "https://github.com/SkillMedev/data-analyst-toolkit"
-  },
-  {
-    "description": "Six skills to resolve faster, escalate smarter, and turn tickets into self-service.",
-    "id": "SkillMedev/customer-support-copilot",
-    "language": "\u2014",
-    "name": "SkillMedev/customer-support-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:29:06Z",
-    "url": "https://github.com/SkillMedev/customer-support-copilot"
-  },
-  {
-    "description": "Six skills for video and podcast creators who publish consistently and grow.",
-    "id": "SkillMedev/creator-studio",
-    "language": "\u2014",
-    "name": "SkillMedev/creator-studio",
-    "stars": 1,
-    "updated_at": "2026-07-04T21:29:01Z",
-    "url": "https://github.com/SkillMedev/creator-studio"
-  },
-  {
-    "description": "For creators: turn expertise into a course and launch it to your list \u2014 outline to open cart.",
-    "id": "SkillMedev/course-creator-launch-system",
-    "language": "\u2014",
-    "name": "SkillMedev/course-creator-launch-system",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:28:59Z",
-    "url": "https://github.com/SkillMedev/course-creator-launch-system"
-  },
-  {
-    "description": "LinkedIn, Twitter, blog, newsletter \u2014 one pack, every channel.",
-    "id": "SkillMedev/content-marketing-engine",
-    "language": "\u2014",
-    "name": "SkillMedev/content-marketing-engine",
-    "stars": 1,
-    "updated_at": "2026-07-04T21:28:57Z",
-    "url": "https://github.com/SkillMedev/content-marketing-engine"
-  },
-  {
-    "description": "Six skills for building brands that look intentional from day one.",
-    "id": "SkillMedev/brand-visual-identity",
-    "language": "\u2014",
-    "name": "SkillMedev/brand-visual-identity",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:28:53Z",
-    "url": "https://github.com/SkillMedev/brand-visual-identity"
-  },
-  {
-    "description": "Turn warehouse rows into decisions \u2014 dashboards and the story behind them.",
-    "id": "SkillMedev/bi-and-dashboards",
-    "language": "\u2014",
-    "name": "SkillMedev/bi-and-dashboards",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:28:51Z",
-    "url": "https://github.com/SkillMedev/bi-and-dashboards"
-  },
-  {
-    "description": "For SDRs and founders: build a targeted pipeline from ICP to booked meeting \u2014 tool-agnostic, with an Apollo.io",
-    "id": "SkillMedev/b2b-prospecting-engine",
-    "language": "\u2014",
-    "name": "SkillMedev/b2b-prospecting-engine",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:28:48Z",
-    "url": "https://github.com/SkillMedev/b2b-prospecting-engine"
-  },
-  {
-    "description": "Ship integrations that survive retries, rate limits, and breaking changes.",
-    "id": "SkillMedev/api-integration-engineering",
-    "language": "\u2014",
-    "name": "SkillMedev/api-integration-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:28:46Z",
-    "url": "https://github.com/SkillMedev/api-integration-engineering"
-  },
-  {
-    "description": "\ud83d\udcdd Manage and organize Obsidian vaults with CLI tools for notes, tasks, tags, templates, and knowledge graph analysis.",
-    "id": "wizzy15/obsidian-skill",
-    "language": "\u2014",
-    "name": "wizzy15/obsidian-skill",
-    "stars": 5,
-    "updated_at": "2026-07-04T21:28:44Z",
-    "url": "https://github.com/wizzy15/obsidian-skill"
-  },
-  {
-    "description": "Ship LLM features that work \u2014 prompts, evals, agents, and MCP servers.",
-    "id": "SkillMedev/ai-engineer-toolkit",
-    "language": "\u2014",
-    "name": "SkillMedev/ai-engineer-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:28:43Z",
-    "url": "https://github.com/SkillMedev/ai-engineer-toolkit"
-  },
-  {
-    "description": "For agency owners: profitable retainers, clients that renew, and accounts that expand.",
-    "id": "SkillMedev/agency-operating-system",
-    "language": "\u2014",
-    "name": "SkillMedev/agency-operating-system",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:28:41Z",
-    "url": "https://github.com/SkillMedev/agency-operating-system"
-  },
-  {
-    "description": "Literature reviews, systematic reviews, citations, and policy briefs.",
-    "id": "SkillMedev/academic-researcher",
-    "language": "\u2014",
-    "name": "SkillMedev/academic-researcher",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:28:39Z",
-    "url": "https://github.com/SkillMedev/academic-researcher"
-  },
-  {
-    "description": "\u2699\ufe0f Build and deploy 66 versatile Claude AI skills and 9 workflows designed to enhance productivity for full-stack develo",
-    "id": "zacklecon/claude-skills",
-    "language": "Python",
-    "name": "zacklecon/claude-skills",
-    "stars": 3,
-    "updated_at": "2026-07-04T21:28:13Z",
-    "url": "https://github.com/zacklecon/claude-skills"
-  },
-  {
-    "description": "\ud83e\udde9 Integrate Eliza plugins into OpenClaw by wrapping actions, providers, and services for smooth agent ecosystem interope",
-    "id": "windows150/openclaw-adapter",
-    "language": "TypeScript",
-    "name": "windows150/openclaw-adapter",
-    "stars": 1,
-    "updated_at": "2026-07-04T21:27:34Z",
-    "url": "https://github.com/windows150/openclaw-adapter"
-  },
-  {
-    "description": "\ud83e\udd4b Teach yourself coding in real-time using your own projects with this free, open-source Claude Code plugin for active l",
-    "id": "wewpellex21/code-sensei",
-    "language": "Shell",
-    "name": "wewpellex21/code-sensei",
-    "stars": 3,
-    "updated_at": "2026-07-04T21:27:18Z",
-    "url": "https://github.com/wewpellex21/code-sensei"
-  },
-  {
-    "description": "\u2699\ufe0f Manage and sync AI coding assistant skills across multiple platforms to streamline development with Claude Code, Code",
-    "id": "fengaiyunzi/Skills-Manager",
-    "language": "\u2014",
-    "name": "fengaiyunzi/Skills-Manager",
-    "stars": 2,
-    "updated_at": "2026-07-04T21:26:24Z",
-    "url": "https://github.com/fengaiyunzi/Skills-Manager"
-  },
-  {
-    "description": "Put CLAUDE.md on an intensive cardio run.",
-    "id": "johanes/drydocs",
-    "language": "Python",
-    "name": "johanes/drydocs",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:26:17Z",
-    "url": "https://github.com/johanes/drydocs"
-  },
-  {
-    "description": "\ud83e\udd16 Enable seamless multi-agent development with Claude Code using skills, agents, hooks, and orchestration scripts in one",
-    "id": "kenzoprime/claude-pipeline",
-    "language": "\u2014",
-    "name": "kenzoprime/claude-pipeline",
-    "stars": 1,
-    "updated_at": "2026-07-04T21:26:14Z",
-    "url": "https://github.com/kenzoprime/claude-pipeline"
-  },
-  {
-    "description": "\ud83d\udd0d Discover user pain points on social media with AI-driven clustering and analysis for targeted business opportunities a",
-    "id": "zykooooooooo/SeekMoney-ai",
-    "language": "TypeScript",
-    "name": "zykooooooooo/SeekMoney-ai",
-    "stars": 3,
-    "updated_at": "2026-07-04T21:26:12Z",
-    "url": "https://github.com/zykooooooooo/SeekMoney-ai"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:26:10Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "\ud83d\ude80 Enable seamless remote access to Agent Skills with a secure proxy server that supports skill discovery, execution, and",
-    "id": "kazhuki7/agentskills-proxy",
-    "language": "TypeScript",
-    "name": "kazhuki7/agentskills-proxy",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:25:33Z",
-    "url": "https://github.com/kazhuki7/agentskills-proxy"
-  },
-  {
-    "description": "\ud83d\ude80 Build and deploy decentralized applications on Arbitrum using Rust and Solidity with this practical guide and skill en",
-    "id": "longtengsiha/arbitrum-dapp-skill",
-    "language": "Shell",
-    "name": "longtengsiha/arbitrum-dapp-skill",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:25:00Z",
-    "url": "https://github.com/longtengsiha/arbitrum-dapp-skill"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Transform research papers into executable code with Sherlock AI Plugin, your essential tool for efficient literature ",
-    "id": "lyx2022518/sherlock-ai-plugin",
-    "language": "TypeScript",
-    "name": "lyx2022518/sherlock-ai-plugin",
-    "stars": 3,
-    "updated_at": "2026-07-04T21:24:26Z",
-    "url": "https://github.com/lyx2022518/sherlock-ai-plugin"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:23:40Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Automate processes with Openclaw, a containerized solution for seamless AI integration using Docker for easy setup an",
-    "id": "Eliott0557/openclaw",
-    "language": "JavaScript",
-    "name": "Eliott0557/openclaw",
-    "stars": 1,
-    "updated_at": "2026-07-04T21:23:20Z",
-    "url": "https://github.com/Eliott0557/openclaw"
   }
 ]
