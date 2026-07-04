@@ -1,5 +1,50 @@
 [
   {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 27,
+    "updated_at": "2026-07-04T20:25:27Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
+    "id": "sukoji/loadout",
+    "language": "JavaScript",
+    "name": "sukoji/loadout",
+    "stars": 1,
+    "updated_at": "2026-07-04T20:23:56Z",
+    "url": "https://github.com/sukoji/loadout"
+  },
+  {
+    "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle",
+    "id": "athola/claude-night-market",
+    "language": "Python",
+    "name": "athola/claude-night-market",
+    "stars": 320,
+    "updated_at": "2026-07-04T20:19:47Z",
+    "url": "https://github.com/athola/claude-night-market"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-04T20:17:25Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-04T20:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
     "id": "boshu2/agentops",
     "language": "Go",
@@ -94,8 +139,8 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 17183,
-    "updated_at": "2026-07-04T20:07:57Z",
+    "stars": 17184,
+    "updated_at": "2026-07-04T20:25:38Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-04T20:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T19:53:15Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
-    "id": "sukoji/loadout",
-    "language": "JavaScript",
-    "name": "sukoji/loadout",
-    "stars": 1,
-    "updated_at": "2026-07-04T19:54:20Z",
-    "url": "https://github.com/sukoji/loadout"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -274,7 +301,7 @@
     "id": "deanpeters/Product-Manager-Skills",
     "language": "Shell",
     "name": "deanpeters/Product-Manager-Skills",
-    "stars": 5568,
+    "stars": 5569,
     "updated_at": "2026-07-04T19:43:47Z",
     "url": "https://github.com/deanpeters/Product-Manager-Skills"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T19:20:54Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-04T19:20:03Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-07-04T19:19:29Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "A Claude Skills package that runs a personal content editor: it evaluates sources, outlines newsletters, edits drafts, a",
-    "id": "wei-wei-hu/weiwei-content-editor-skill",
-    "language": "\u2014",
-    "name": "wei-wei-hu/weiwei-content-editor-skill",
-    "stars": 1,
-    "updated_at": "2026-07-04T19:15:17Z",
-    "url": "https://github.com/wei-wei-hu/weiwei-content-editor-skill"
   }
 ]
