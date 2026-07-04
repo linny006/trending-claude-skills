@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-04 21:32 UTC
+> ⏰ Last updated: 2026-07-04 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ominou5/agentic-workflows](https://github.com/ominou5/agentic-workflows) | 1 | — | 2026-07-04 | A collection of my agentic workflows, skills, prompts, etc. |
-| 2 | [morganmuli/metaskill](https://github.com/morganmuli/metaskill) | 1 | Shell | 2026-07-04 |  |
-| 3 | [SkillMedev/vercel-platform](https://github.com/SkillMedev/vercel-platform) | 0 | — | 2026-07-04 | A curated, opinionated path for shipping a Next.js app on Vercel — deploys, env, AI Gateway, rendering & cachi |
-| 4 | [SkillMedev/ux-research-discovery](https://github.com/SkillMedev/ux-research-discovery) | 0 | — | 2026-07-04 | Plan, run, and synthesize user research that actually moves product decisions. |
-| 5 | [SkillMedev/technical-writing-studio](https://github.com/SkillMedev/technical-writing-studio) | 0 | — | 2026-07-04 | Docs people actually read — READMEs, guides, changelogs, and specs. |
-| 6 | [SkillMedev/stock-asset-sourcing](https://github.com/SkillMedev/stock-asset-sourcing) | 0 | — | 2026-07-04 | Find, license, fetch, and curate stock photos that don't look like stock. |
-| 7 | [SkillMedev/startup-fundraising](https://github.com/SkillMedev/startup-fundraising) | 0 | — | 2026-07-04 | From first pitch to closed round — the founder’s fundraising playbook. |
-| 8 | [SkillMedev/solo-founder-stack](https://github.com/SkillMedev/solo-founder-stack) | 0 | — | 2026-07-04 | Everything a solo founder needs from idea to first $10k MRR. |
-| 9 | [SkillMedev/social-media-studio](https://github.com/SkillMedev/social-media-studio) | 0 | — | 2026-07-04 | A month of on-brand posts, repurposed everywhere, in an afternoon. |
-| 10 | [SkillMedev/skill-builder-studio](https://github.com/SkillMedev/skill-builder-studio) | 0 | — | 2026-07-04 | Author, test, and curate Claude Agent Skills with confidence |
-| 11 | [SkillMedev/seo-organic-growth](https://github.com/SkillMedev/seo-organic-growth) | 0 | — | 2026-07-04 | Turn a keyword into ranked, AI-search-ready content — end to end. |
-| 12 | [SkillMedev/security-compliance-hardening](https://github.com/SkillMedev/security-compliance-hardening) | 0 | — | 2026-07-04 | Threat models, secure reviews, and compliance evidence — ship with confidence. |
-| 13 | [SkillMedev/saas-growth-stack](https://github.com/SkillMedev/saas-growth-stack) | 0 | — | 2026-07-04 | Acquisition, activation, retention — the full SaaS growth toolkit. |
-| 14 | [SkillMedev/resume-toolkit](https://github.com/SkillMedev/resume-toolkit) | 0 | — | 2026-07-04 | Write a resume from scratch or critique the one you have — ATS-optimized, seniority-aware, delivered as .docx. |
-| 15 | [LLl0k0laD/agent-skills](https://github.com/LLl0k0laD/agent-skills) | 2 | Shell | 2026-07-04 | Enhance AI coding agents with structured workflows and best practices for building reliable web applications through pro |
-| 16 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-07-04 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 17 | [SkillMedev/remotion-video-production](https://github.com/SkillMedev/remotion-video-production) | 0 | — | 2026-07-04 | Turn natural language briefs into rendered MP4s using Claude Code and Remotion — covers project setup, composi |
-| 18 | [SkillMedev/remote-team-toolkit](https://github.com/SkillMedev/remote-team-toolkit) | 0 | — | 2026-07-04 | Run a tight remote team without drowning in meetings. |
-| 19 | [SkillMedev/real-estate-agent-stack](https://github.com/SkillMedev/real-estate-agent-stack) | 0 | — | 2026-07-04 | For residential agents: listings that sell, nurture that converts, negotiations you control. |
-| 20 | [SkillMedev/qa-test-automation](https://github.com/SkillMedev/qa-test-automation) | 0 | — | 2026-07-04 | Build a test suite that actually catches bugs — and stops flaking. |
-| 21 | [SkillMedev/project-management](https://github.com/SkillMedev/project-management) | 0 | — | 2026-07-04 | Connect Claude to your project tracker and let it draft, file, and organize the work. |
-| 22 | [SkillMedev/product-manager-stack](https://github.com/SkillMedev/product-manager-stack) | 0 | — | 2026-07-04 | Roadmaps, specs, sprints, and analytics — the PM’s full operating kit. |
-| 23 | [SkillMedev/personal-operating-system](https://github.com/SkillMedev/personal-operating-system) | 0 | — | 2026-07-04 | Build the habits, focus, and systems that compound — your life, run like a product. |
-| 24 | [SkillMedev/personal-finance-mastery](https://github.com/SkillMedev/personal-finance-mastery) | 0 | — | 2026-07-04 | Build a solid financial foundation — budget, pay off debt, and plan for the future. |
-| 25 | [SkillMedev/performance-marketing](https://github.com/SkillMedev/performance-marketing) | 0 | — | 2026-07-04 | Audit, test, and scale paid channels with rigorous, data-driven playbooks. |
-| 26 | [SkillMedev/people-ops-recruiting](https://github.com/SkillMedev/people-ops-recruiting) | 0 | — | 2026-07-04 | Hire, onboard, and run a team fairly — without a full HR department. |
-| 27 | [SkillMedev/outbound-sales-engine](https://github.com/SkillMedev/outbound-sales-engine) | 0 | — | 2026-07-04 | Six skills to run a sharper B2B sales process from first call to closed deal. |
-| 28 | [SkillMedev/nonprofit-grants-toolkit](https://github.com/SkillMedev/nonprofit-grants-toolkit) | 0 | — | 2026-07-04 | For small-nonprofit leaders: win grants, keep donors, and run a board that engages. |
-| 29 | [SkillMedev/motion-video-direction](https://github.com/SkillMedev/motion-video-direction) | 0 | — | 2026-07-04 | The craft layer for software video — storyboarding, motion principles, type, color, sound, and social cutdowns |
-| 30 | [SkillMedev/mobile-app-engineering](https://github.com/SkillMedev/mobile-app-engineering) | 0 | — | 2026-07-04 | Build and ship native and cross-platform mobile apps with Claude. |
-| 31 | [SkillMedev/local-service-business-engine](https://github.com/SkillMedev/local-service-business-engine) | 0 | — | 2026-07-04 | For local service owners: win the map pack, the reviews, and every quote you send. |
-| 32 | [SkillMedev/lifecycle-marketing](https://github.com/SkillMedev/lifecycle-marketing) | 0 | — | 2026-07-04 | Map journeys, activate users, and protect your sender reputation end to end. |
-| 33 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 8 | Python | 2026-07-04 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 34 | [SkillMedev/legal-team-starter](https://github.com/SkillMedev/legal-team-starter) | 0 | — | 2026-07-04 | NDA triage, contract review, terms drafting — the essentials for in-house legal. |
-| 35 | [SkillMedev/legacy-modernization](https://github.com/SkillMedev/legacy-modernization) | 0 | — | 2026-07-04 | Move old code to modern stacks without a risky big-bang rewrite. |
-| 36 | [SkillMedev/job-search-kit](https://github.com/SkillMedev/job-search-kit) | 0 | — | 2026-07-04 | Land the offer — applications, outreach, networking, and negotiation. |
-| 37 | [SkillMedev/instagram-trend-post-builder](https://github.com/SkillMedev/instagram-trend-post-builder) | 0 | — | 2026-07-04 | Scout what's trending on Instagram, learn why it works, then build a post you actually want to make. |
-| 38 | [SkillMedev/incident-response-command](https://github.com/SkillMedev/incident-response-command) | 0 | — | 2026-07-04 | SRE skills for triage, runbooks, alerting, and SLO-driven reliability ops |
-| 39 | [SkillMedev/health-and-longevity](https://github.com/SkillMedev/health-and-longevity) | 0 | — | 2026-07-04 | Evidence-informed skills for building strength, mobility, and lasting health. |
-| 40 | [SkillMedev/gym-growth-engine](https://github.com/SkillMedev/gym-growth-engine) | 0 | — | 2026-07-04 | The operator stack to fill, sell, and scale a gym — 12 Claude skills from skillme.dev |
-| 41 | [SkillMedev/gtm-launch](https://github.com/SkillMedev/gtm-launch) | 0 | — | 2026-07-04 | Position it, message it, sequence the launch, run launch day, and equip the self-serve and sales motions — wit |
-| 42 | [SkillMedev/full-stack-web-dev](https://github.com/SkillMedev/full-stack-web-dev) | 0 | — | 2026-07-04 | Next.js to Postgres — build and ship a modern web app end to end. |
-| 43 | [SkillMedev/freelancer-consultant-os](https://github.com/SkillMedev/freelancer-consultant-os) | 0 | — | 2026-07-04 | For solo freelancers: position, productize, price, and run client work like a business. |
-| 44 | [SkillMedev/founder-fundraising-os](https://github.com/SkillMedev/founder-fundraising-os) | 0 | — | 2026-07-04 | Everything a founder needs to raise a round — from deciding the stage to wired funds. |
-| 45 | [SkillMedev/finance-accounting-ops](https://github.com/SkillMedev/finance-accounting-ops) | 0 | — | 2026-07-04 | Close the books, build the forecast, and control spend with precision. |
-| 46 | [SkillMedev/fiction-writers-room](https://github.com/SkillMedev/fiction-writers-room) | 0 | — | 2026-07-04 | Scenes, voice, and structure — the craft of long-form storytelling. |
-| 47 | [SkillMedev/engineering-workflow](https://github.com/SkillMedev/engineering-workflow) | 0 | — | 2026-07-04 | The git, review, and release workflow every senior engineer already uses. |
-| 48 | [SkillMedev/engineering-manager-toolkit](https://github.com/SkillMedev/engineering-manager-toolkit) | 0 | — | 2026-07-04 | Six skills for EMs who manage delivery, people, and stakeholders without the fluff. |
-| 49 | [SkillMedev/educators-toolkit](https://github.com/SkillMedev/educators-toolkit) | 0 | — | 2026-07-04 | Plan, assess, and differentiate — everything a teacher needs in one pack. |
-| 50 | [SkillMedev/ecommerce-dtc-ops](https://github.com/SkillMedev/ecommerce-dtc-ops) | 0 | — | 2026-07-04 | From product page to abandoned-cart flow — copy that converts. |
+| 1 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 50 | HTML | 2026-07-04 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
+| 2 | [twilareckless401/agent-soul](https://github.com/twilareckless401/agent-soul) | 2 | Python | 2026-07-04 | Provide AI agents with continuous identity and persistent memory across sessions and devices using a Git-native, open fr |
+| 3 | [Mary2241/seo-skills-agent-toolbox](https://github.com/Mary2241/seo-skills-agent-toolbox) | 1 | HTML | 2026-07-04 | ⚡ 2026 SEO Audit & Content Agent – Claude for SE Ranking MCP |
+| 4 | [gilvangonzalez/technical-founding-gtm-toolkit](https://github.com/gilvangonzalez/technical-founding-gtm-toolkit) | 0 | HTML | 2026-07-04 | The Complete AI & Technical Founder GTM Toolkit 2026 – Pricing, PLG & Enterprise Sales |
+| 5 | [dmvait8534/claude2api-deploy](https://github.com/dmvait8534/claude2api-deploy) | 2 | — | 2026-07-04 | Deploy a proxy that converts Claude.ai sessions into a standard Anthropic API with streaming, tools, and image support. |
+| 6 | [ominou5/agentic-workflows](https://github.com/ominou5/agentic-workflows) | 1 | — | 2026-07-04 | A collection of my agentic workflows, skills, prompts, etc. |
+| 7 | [cornhuskinghemophiliab653/agent-factory](https://github.com/cornhuskinghemophiliab653/agent-factory) | 2 | Python | 2026-07-04 | Provide and generate AI agent prompts with industry guides, glossaries, and multi-provider LLM support for scalable, aut |
+| 8 | [barlasa7657/claw-skills](https://github.com/barlasa7657/claw-skills) | 0 | — | 2026-07-04 | Provide a collection of OpenClaw skills for advanced data analysis and research methods to enhance multi-dimensional pro |
+| 9 | [PHOENIX1ALX/ask-search](https://github.com/PHOENIX1ALX/ask-search) | 1 | — | 2026-07-04 | Enable private, self-hosted web search for AI agents with no API key, aggregating results from 70+ sources including Goo |
+| 10 | [chris-peterson/anchor](https://github.com/chris-peterson/anchor) | 0 | Shell | 2026-07-04 | bridge.ai/anchor: skills for consistent and effective source control |
+| 11 | [square-lupus579/30x-seo](https://github.com/square-lupus579/30x-seo) | 0 | Python | 2026-07-04 | Deliver comprehensive SEO automation with 24 AI-powered skills covering audits, technical SEO, content, links, local SEO |
+| 12 | [ammar2211332-jpg/my-claude-skills](https://github.com/ammar2211332-jpg/my-claude-skills) | 1 | — | 2026-07-04 | Manage DNS records and automate VPS operations with tools supporting multiple cloud providers and streamlined server mai |
+| 13 | [patriarchal-boothose896/notebooklm-py](https://github.com/patriarchal-boothose896/notebooklm-py) | 3 | Python | 2026-07-04 | Provide full Python API access to NotebookLM features, including advanced functions beyond the web interface, via CLI an |
+| 14 | [Blaynelargish66/knx-skills](https://github.com/Blaynelargish66/knx-skills) | 3 | — | 2026-07-04 | Enhance LLM agents with practical skills for neurodivergent support, focus, and communication to improve AI coding assis |
+| 15 | [extentadulthood280/spraay-payments](https://github.com/extentadulthood280/spraay-payments) | 1 | Shell | 2026-07-04 | Enable multi-chain batch crypto payments, payroll, swaps, invoices, price feeds, and AI-powered transaction tools for Op |
+| 16 | [halflength-ampleness75/claude-code-recipes](https://github.com/halflength-ampleness75/claude-code-recipes) | 3 | Shell | 2026-07-04 | Provide ready-to-use Claude Code commands, subagents, hooks, skills, and configs to simplify setup and speed up developm |
+| 17 | [Mikacr1138/claude-bug-bounty](https://github.com/Mikacr1138/claude-bug-bounty) | 1 | Python | 2026-07-04 | Enable efficient bug bounty hunting across Web2 and Web3 with a tool that supports full recon to detailed reporting. |
+| 18 | [unvulcanised-watercress762/mem9](https://github.com/unvulcanised-watercress762/mem9) | 3 | TypeScript | 2026-07-04 | Enable AI agents to retain memory across sessions using persistent storage designed for continuous context retention. |
+| 19 | [Alfietechtime/human-skill-tree](https://github.com/Alfietechtime/human-skill-tree) | 0 | — | 2026-07-04 | Map and manage human skills with a structured system designed to track learning and development alongside AI capabilitie |
+| 20 | [viibhutisharma30/jetpack-compose-remediation-kit](https://github.com/viibhutisharma30/jetpack-compose-remediation-kit) | 0 | HTML | 2026-07-04 | Modern Jetpack Compose Fixer 2026 – Debug Errors & Boost Android UI Performance |
+| 21 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-04 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 22 | [ibadbasit/skill_doc2ppt](https://github.com/ibadbasit/skill_doc2ppt) | 1 | — | 2026-07-04 | Convert Markdown or Word documents into clean, Claude-style presentations in HTML or PPTX with simple, minimal design an |
+| 23 | [shamu0509/nse-bse-mcp](https://github.com/shamu0509/nse-bse-mcp) | 1 | Python | 2026-07-04 | Serve real-time and historical Indian stock data from NSE and BSE using Model Context Protocol for easy market analysis  |
+| 24 | [anns2rn/awesome-claude-md](https://github.com/anns2rn/awesome-claude-md) | 0 | Python | 2026-07-04 | Provide ready-to-use CLAUDE.md templates for major stacks to improve Claude Code outputs and streamline project setup. |
+| 25 | [V-Songbird/claude-plugins](https://github.com/V-Songbird/claude-plugins) | 0 | JavaScript | 2026-07-04 | A custom marketplace of Claude Code plugins for both experienced developers and vibe coders, extending Claude Code with  |
+| 26 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 0 | HTML | 2026-07-04 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
+| 27 | [BKR-57/symfony-ux-skills](https://github.com/BKR-57/symfony-ux-skills) | 0 | — | 2026-07-04 | Provide AI agent skills for the Symfony UX frontend stack using the Agent Skills open standard for seamless integration  |
+| 28 | [GMorpheus/Agent-Jobs](https://github.com/GMorpheus/Agent-Jobs) | 0 | — | 2026-07-04 | Recruit AI agents compatible with sovereign infrastructure for human capital workflows at G42 with enterprise-ready inte |
+| 29 | [uly-yuhana/harness-kit](https://github.com/uly-yuhana/harness-kit) | 0 | — | 2026-07-04 | Enable efficient AI agent orchestration with test-driven patterns that improve through knowledge compounding and cost-aw |
+| 30 | [Smileyjman/ductwork](https://github.com/Smileyjman/ductwork) | 0 | Go | 2026-07-04 | Run AI agents on schedules with tasks, skills, and persistent memory using a single Go binary in standalone or distribut |
+| 31 | [waittim/MemoryCustodian](https://github.com/waittim/MemoryCustodian) | 0 | Python | 2026-07-04 | MemoryCustodian is a local-first, pure-text project memory protocol, skill, and CLI. It lets coding agents share durable |
+| 32 | [SkillMedev/agency-operating-system](https://github.com/SkillMedev/agency-operating-system) | 0 | — | 2026-07-04 | For agency owners: profitable retainers, clients that renew, and accounts that expand. |
+| 33 | [SkillMedev/instagram-trend-post-builder](https://github.com/SkillMedev/instagram-trend-post-builder) | 0 | — | 2026-07-04 | Scout what's trending on Instagram, learn why it works, then build a post you actually want to make. |
+| 34 | [SkillMedev/project-management](https://github.com/SkillMedev/project-management) | 0 | — | 2026-07-04 | Connect Claude to your project tracker and let it draft, file, and organize the work. |
+| 35 | [SkillMedev/stock-asset-sourcing](https://github.com/SkillMedev/stock-asset-sourcing) | 0 | — | 2026-07-04 | Find, license, fetch, and curate stock photos that don't look like stock. |
+| 36 | [SkillMedev/resume-toolkit](https://github.com/SkillMedev/resume-toolkit) | 0 | — | 2026-07-04 | Write a resume from scratch or critique the one you have — ATS-optimized, seniority-aware, delivered as .docx. |
+| 37 | [SkillMedev/gtm-launch](https://github.com/SkillMedev/gtm-launch) | 0 | — | 2026-07-04 | Position it, message it, sequence the launch, run launch day, and equip the self-serve and sales motions — wit |
+| 38 | [JasonYozza14/Skill-Research-Figure](https://github.com/JasonYozza14/Skill-Research-Figure) | 0 | — | 2026-07-04 | Generate clear, structured research pipeline flowcharts from paper summaries using automatic TikZ code creation and comp |
+| 39 | [SkillMedev/vercel-platform](https://github.com/SkillMedev/vercel-platform) | 0 | — | 2026-07-04 | A curated, opinionated path for shipping a Next.js app on Vercel — deploys, env, AI Gateway, rendering & cachi |
+| 40 | [chris-peterson/tack](https://github.com/chris-peterson/tack) | 0 | TypeScript | 2026-07-04 | bridge.ai/tack: Route tracker for AI-assisted development work — pivots, deliverables, and dependencies — across session |
+| 41 | [SkillMedev/remotion-video-production](https://github.com/SkillMedev/remotion-video-production) | 0 | — | 2026-07-04 | Turn natural language briefs into rendered MP4s using Claude Code and Remotion — covers project setup, composi |
+| 42 | [SkillMedev/founder-fundraising-os](https://github.com/SkillMedev/founder-fundraising-os) | 0 | — | 2026-07-04 | Everything a founder needs to raise a round — from deciding the stage to wired funds. |
+| 43 | [SkillMedev/gym-growth-engine](https://github.com/SkillMedev/gym-growth-engine) | 0 | — | 2026-07-04 | The operator stack to fill, sell, and scale a gym — 12 Claude skills from skillme.dev |
+| 44 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-04 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 45 | [fathanghani864/oh-my-openclaw](https://github.com/fathanghani864/oh-my-openclaw) | 0 | TypeScript | 2026-07-04 | Manage and switch OpenClaw AI agent presets, including personalities, toolsets, and model configurations, via a simple C |
+| 46 | [SkillMedev/people-ops-recruiting](https://github.com/SkillMedev/people-ops-recruiting) | 0 | — | 2026-07-04 | Hire, onboard, and run a team fairly — without a full HR department. |
+| 47 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-07-04 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
+| 48 | [chris-peterson/claude-marketplace](https://github.com/chris-peterson/claude-marketplace) | 0 | Python | 2026-07-04 | Claude plugin "marketplace" |
+| 49 | [SkillMedev/ecommerce-dtc-ops](https://github.com/SkillMedev/ecommerce-dtc-ops) | 0 | — | 2026-07-04 | From product page to abandoned-cart flow — copy that converts. |
+| 50 | [SkillMedev/social-media-studio](https://github.com/SkillMedev/social-media-studio) | 0 | — | 2026-07-04 | A month of on-brand posts, repurposed everywhere, in an afternoon. |
 <!-- TRACKER_TABLE_END -->
 
 ---
