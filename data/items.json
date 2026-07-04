@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udc8b\uff5cClaude analyzes photos or chat screenshots and generates 4 flirting messages inspired by behavioral psychology, neuros",
+    "id": "erikraft/flirting-skill",
+    "language": "\u2014",
+    "name": "erikraft/flirting-skill",
+    "stars": 1,
+    "updated_at": "2026-07-04T16:44:57Z",
+    "url": "https://github.com/erikraft/flirting-skill"
+  },
+  {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "HTML",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 0,
+    "updated_at": "2026-07-04T16:44:36Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "Claude Code skill for candidate sourcing",
+    "id": "Da6ka/tech-sourcing-skill",
+    "language": "JavaScript",
+    "name": "Da6ka/tech-sourcing-skill",
+    "stars": 1,
+    "updated_at": "2026-07-04T16:44:32Z",
+    "url": "https://github.com/Da6ka/tech-sourcing-skill"
+  },
+  {
+    "description": "\ud83d\uddfc An orchestrator skill for Claude Code: describe a task in plain language \u2014 Manara picks the stage, routes to the right",
+    "id": "OmerWafaey/manara",
+    "language": "Python",
+    "name": "OmerWafaey/manara",
+    "stars": 1,
+    "updated_at": "2026-07-04T16:42:43Z",
+    "url": "https://github.com/OmerWafaey/manara"
+  },
+  {
+    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
+    "id": "zerooo002/claude-artifacts-local-sync",
+    "language": "\u2014",
+    "name": "zerooo002/claude-artifacts-local-sync",
+    "stars": 0,
+    "updated_at": "2026-07-04T16:42:41Z",
+    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-04T16:42:33Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -23,17 +77,8 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30121,
-    "updated_at": "2026-07-04T16:41:49Z",
+    "updated_at": "2026-07-04T16:45:04Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Claude analyzes photos or chat screenshots and generates 4 flirting messages inspired by behavioral psychology, neurosci",
-    "id": "erikraft/flirting-skill",
-    "language": "\u2014",
-    "name": "erikraft/flirting-skill",
-    "stars": 1,
-    "updated_at": "2026-07-04T16:41:31Z",
-    "url": "https://github.com/erikraft/flirting-skill"
   },
   {
     "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
@@ -135,15 +180,6 @@
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
   },
   {
-    "description": "Skills and agents for Claude and Gemini",
-    "id": "AnaCataVC/amiga-ia",
-    "language": "HTML",
-    "name": "AnaCataVC/amiga-ia",
-    "stars": 0,
-    "updated_at": "2026-07-04T16:36:28Z",
-    "url": "https://github.com/AnaCataVC/amiga-ia"
-  },
-  {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
     "id": "offensive-tarichagranulosa259/seo-data",
     "language": "Python",
@@ -205,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-07-04T16:34:31Z",
     "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Claude Code skill for candidate sourcing",
-    "id": "Da6ka/tech-sourcing-skill",
-    "language": "JavaScript",
-    "name": "Da6ka/tech-sourcing-skill",
-    "stars": 1,
-    "updated_at": "2026-07-04T16:41:40Z",
-    "url": "https://github.com/Da6ka/tech-sourcing-skill"
   },
   {
     "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T16:30:27Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 0,
-    "updated_at": "2026-07-04T16:30:21Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-07-04T16:30:14Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-04T16:30:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   }
 ]
