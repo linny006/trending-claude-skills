@@ -1,5 +1,50 @@
 [
   {
+    "description": "Claude Code skill: gamified analytical portrait of how you work with AI \u2014 fixed-scale metrics, fun titles, achievements,",
+    "id": "timoncool/prompt-warrior",
+    "language": "Python",
+    "name": "timoncool/prompt-warrior",
+    "stars": 0,
+    "updated_at": "2026-07-04T06:34:23Z",
+    "url": "https://github.com/timoncool/prompt-warrior"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 275,
+    "updated_at": "2026-07-04T06:32:32Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 64,
+    "updated_at": "2026-07-04T06:30:38Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "Stop Claude from winging it \u2014 7 workflow skills that route every task through two thinking modes (Philosopher = absorb /",
+    "id": "Lemonaderrrrr/flow-kit",
+    "language": "Shell",
+    "name": "Lemonaderrrrr/flow-kit",
+    "stars": 0,
+    "updated_at": "2026-07-04T06:30:30Z",
+    "url": "https://github.com/Lemonaderrrrr/flow-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-04T06:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
     "id": "428alexander9/claude-skills-marketplace",
     "language": "Python",
@@ -59,7 +104,7 @@
     "language": "C++",
     "name": "Stewie-pixel/claude-with-leetcode",
     "stars": 48,
-    "updated_at": "2026-07-04T06:26:09Z",
+    "updated_at": "2026-07-04T06:34:50Z",
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
@@ -70,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-04T06:19:43Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-04T06:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Claude Code skill: gamified analytical portrait of how you work with AI \u2014 fixed-scale metrics, fun titles, achievements,",
-    "id": "timoncool/prompt-warrior",
-    "language": "Python",
-    "name": "timoncool/prompt-warrior",
-    "stars": 0,
-    "updated_at": "2026-07-04T06:14:54Z",
-    "url": "https://github.com/timoncool/prompt-warrior"
   },
   {
     "description": "Agent skills for Claude Code and Codex: multi-agent orchestration, code review with an A-F ship grade, AI evals, CI ship",
@@ -126,15 +153,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Stop Claude from winging it \u2014 7 workflow skills that route every task through two thinking modes (Philosopher = absorb /",
-    "id": "Lemonaderrrrr/flow-kit",
-    "language": "Shell",
-    "name": "Lemonaderrrrr/flow-kit",
-    "stars": 0,
-    "updated_at": "2026-07-04T06:10:12Z",
-    "url": "https://github.com/Lemonaderrrrr/flow-kit"
-  },
-  {
     "description": "Free, private skill search for AI agents",
     "id": "skill-federation/skill-federation",
     "language": "Python",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "richfrem/agent-plugins-skills",
     "stars": 3,
-    "updated_at": "2026-07-04T05:58:38Z",
+    "updated_at": "2026-07-04T06:34:48Z",
     "url": "https://github.com/richfrem/agent-plugins-skills"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-04T05:29:14Z",
     "url": "https://github.com/qiaomiaojoe/ai-academic-workflow"
-  },
-  {
-    "description": "Practical Claude Code / Cowork plugins for sharper thinking and structured problem-solving the slow way",
-    "id": "isvlasov/rageatc-oss",
-    "language": "Shell",
-    "name": "isvlasov/rageatc-oss",
-    "stars": 8,
-    "updated_at": "2026-07-04T05:28:36Z",
-    "url": "https://github.com/isvlasov/rageatc-oss"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-04T05:28:33Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
   }
 ]
