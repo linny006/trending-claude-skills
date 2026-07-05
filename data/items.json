@@ -1,5 +1,167 @@
 [
   {
+    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 404,
+    "updated_at": "2026-07-05T03:43:23Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Agents, skills, commands, and rules for AI-powered coding tools \u2014 used daily to supercharge development productivity.",
+    "id": "Weaverse/.agents",
+    "language": "Shell",
+    "name": "Weaverse/.agents",
+    "stars": 35,
+    "updated_at": "2026-07-05T03:43:20Z",
+    "url": "https://github.com/Weaverse/.agents"
+  },
+  {
+    "description": "My Claude Skills",
+    "id": "Srltas/claude-skills",
+    "language": "Python",
+    "name": "Srltas/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-05T03:40:49Z",
+    "url": "https://github.com/Srltas/claude-skills"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 80,
+    "updated_at": "2026-07-05T03:40:32Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Skills SAP",
+    "id": "williamcorrea23/sap-router-skill",
+    "language": "TypeScript",
+    "name": "williamcorrea23/sap-router-skill",
+    "stars": 0,
+    "updated_at": "2026-07-05T03:37:03Z",
+    "url": "https://github.com/williamcorrea23/sap-router-skill"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 182,
+    "updated_at": "2026-07-05T03:35:53Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
+    "id": "Glad-oboedacaccia408/design.md",
+    "language": "TypeScript",
+    "name": "Glad-oboedacaccia408/design.md",
+    "stars": 0,
+    "updated_at": "2026-07-05T03:35:49Z",
+    "url": "https://github.com/Glad-oboedacaccia408/design.md"
+  },
+  {
+    "description": "Pure instruction-pack skill wrapping Ai2's Asta MCP server (Semantic Scholar). Intent-to-tool routing, safe defaults, mu",
+    "id": "Agents365-ai/asta-skill",
+    "language": "\u2014",
+    "name": "Agents365-ai/asta-skill",
+    "stars": 158,
+    "updated_at": "2026-07-05T03:34:41Z",
+    "url": "https://github.com/Agents365-ai/asta-skill"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 1,
+    "updated_at": "2026-07-05T03:34:40Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
+    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
+    "language": "TypeScript",
+    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
+    "stars": 1,
+    "updated_at": "2026-07-05T03:34:32Z",
+    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
+  },
+  {
+    "description": "Agent skills for Claude Code and Codex: multi-agent orchestration, code review with an A-F ship grade, AI evals, CI ship",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "Python",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 6,
+    "updated_at": "2026-07-05T03:33:56Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 381,
+    "updated_at": "2026-07-05T03:32:43Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-07-05T03:32:20Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
+    "id": "zerooo002/claude-artifacts-local-sync",
+    "language": "\u2014",
+    "name": "zerooo002/claude-artifacts-local-sync",
+    "stars": 0,
+    "updated_at": "2026-07-05T03:31:49Z",
+    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
+  },
+  {
+    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
+    "id": "Free-Soul/MemDreamer",
+    "language": "Python",
+    "name": "Free-Soul/MemDreamer",
+    "stars": 1,
+    "updated_at": "2026-07-05T03:31:22Z",
+    "url": "https://github.com/Free-Soul/MemDreamer"
+  },
+  {
+    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
+    "id": "Palmerbeetling15/Council",
+    "language": "Swift",
+    "name": "Palmerbeetling15/Council",
+    "stars": 0,
+    "updated_at": "2026-07-05T03:30:35Z",
+    "url": "https://github.com/Palmerbeetling15/Council"
+  },
+  {
+    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
+    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
+    "language": "Shell",
+    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
+    "stars": 0,
+    "updated_at": "2026-07-05T03:30:23Z",
+    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-05T03:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
     "id": "Wyattputrescent882/ai-code-governance-skill",
     "language": "\u2014",
@@ -79,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T03:26:41Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Pure instruction-pack skill wrapping Ai2's Asta MCP server (Semantic Scholar). Intent-to-tool routing, safe defaults, mu",
-    "id": "Agents365-ai/asta-skill",
-    "language": "\u2014",
-    "name": "Agents365-ai/asta-skill",
-    "stars": 158,
-    "updated_at": "2026-07-05T03:28:36Z",
-    "url": "https://github.com/Agents365-ai/asta-skill"
   },
   {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T03:22:48Z",
     "url": "https://github.com/SkillMedev/vercel-platform"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:46Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:42Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:40Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-07-05T03:22:39Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:38Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "The craft layer for software video \u2014 storyboarding, motion principles, type, color, sound, and social cutdowns",
-    "id": "SkillMedev/motion-video-direction",
-    "language": "\u2014",
-    "name": "SkillMedev/motion-video-direction",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:37Z",
-    "url": "https://github.com/SkillMedev/motion-video-direction"
-  },
-  {
-    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
-    "id": "sukoji/loadout",
-    "language": "JavaScript",
-    "name": "sukoji/loadout",
-    "stars": 1,
-    "updated_at": "2026-07-05T03:23:43Z",
-    "url": "https://github.com/sukoji/loadout"
-  },
-  {
-    "description": "Turn natural language briefs into rendered MP4s using Claude Code and Remotion \u2014 covers project setup, composi",
-    "id": "SkillMedev/remotion-video-production",
-    "language": "\u2014",
-    "name": "SkillMedev/remotion-video-production",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:32Z",
-    "url": "https://github.com/SkillMedev/remotion-video-production"
-  },
-  {
-    "description": "Everything a founder needs to raise a round \u2014 from deciding the stage to wired funds.",
-    "id": "SkillMedev/founder-fundraising-os",
-    "language": "\u2014",
-    "name": "SkillMedev/founder-fundraising-os",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:26Z",
-    "url": "https://github.com/SkillMedev/founder-fundraising-os"
-  },
-  {
-    "description": "The operator stack to fill, sell, and scale a gym \u2014 12 Claude skills from skillme.dev",
-    "id": "SkillMedev/gym-growth-engine",
-    "language": "\u2014",
-    "name": "SkillMedev/gym-growth-engine",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:20Z",
-    "url": "https://github.com/SkillMedev/gym-growth-engine"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-07-05T03:22:15Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Hire, onboard, and run a team fairly \u2014 without a full HR department.",
-    "id": "SkillMedev/people-ops-recruiting",
-    "language": "\u2014",
-    "name": "SkillMedev/people-ops-recruiting",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:15Z",
-    "url": "https://github.com/SkillMedev/people-ops-recruiting"
-  },
-  {
-    "description": "From product page to abandoned-cart flow \u2014 copy that converts.",
-    "id": "SkillMedev/ecommerce-dtc-ops",
-    "language": "\u2014",
-    "name": "SkillMedev/ecommerce-dtc-ops",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:09Z",
-    "url": "https://github.com/SkillMedev/ecommerce-dtc-ops"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:08Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "A month of on-brand posts, repurposed everywhere, in an afternoon.",
-    "id": "SkillMedev/social-media-studio",
-    "language": "\u2014",
-    "name": "SkillMedev/social-media-studio",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:22:04Z",
-    "url": "https://github.com/SkillMedev/social-media-studio"
-  },
-  {
-    "description": "Turn a keyword into ranked, AI-search-ready content \u2014 end to end.",
-    "id": "SkillMedev/seo-organic-growth",
-    "language": "\u2014",
-    "name": "SkillMedev/seo-organic-growth",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:21:58Z",
-    "url": "https://github.com/SkillMedev/seo-organic-growth"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-05T03:21:58Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
   }
 ]
