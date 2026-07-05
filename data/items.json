@@ -1,5 +1,104 @@
 [
   {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 277,
+    "updated_at": "2026-07-05T04:13:38Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "\ud83d\udc8b\uff5cClaude analyzes photos or chat screenshots and generates 4 flirting messages inspired by behavioral psychology, neuros",
+    "id": "erikraft/flirting-skill",
+    "language": "\u2014",
+    "name": "erikraft/flirting-skill",
+    "stars": 1,
+    "updated_at": "2026-07-05T04:12:52Z",
+    "url": "https://github.com/erikraft/flirting-skill"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-05T04:12:36Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-07-05T04:12:23Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Safely run OpenCode, Codex, Claude Code with full permissions.",
+    "id": "aerovato/container",
+    "language": "TypeScript",
+    "name": "aerovato/container",
+    "stars": 283,
+    "updated_at": "2026-07-05T04:11:37Z",
+    "url": "https://github.com/aerovato/container"
+  },
+  {
+    "description": "69 marketing skills + 5 commands for Claude Code & AI agents across 4 disciplines \u2014 SEO/GEO, influencer (IMPACT), paid a",
+    "id": "aaron-he-zhu/aaron-marketing-skills",
+    "language": "Python",
+    "name": "aaron-he-zhu/aaron-marketing-skills",
+    "stars": 2312,
+    "updated_at": "2026-07-05T04:07:47Z",
+    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
+  },
+  {
+    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 404,
+    "updated_at": "2026-07-05T04:06:06Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 182,
+    "updated_at": "2026-07-05T04:08:52Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "\u53bb\u9664\u4e2d\u6587MBA\u8bba\u6587AI\u5199\u4f5c\u75d5\u8ff9\u7684\u68c0\u6d4b\u4e0e\u6539\u5199\u5de5\u5177 | AI writing pattern detection and removal tool for Chinese MBA thesis",
+    "id": "stephenlzc/humanize-mba-text-skill",
+    "language": "Python",
+    "name": "stephenlzc/humanize-mba-text-skill",
+    "stars": 29,
+    "updated_at": "2026-07-05T04:03:23Z",
+    "url": "https://github.com/stephenlzc/humanize-mba-text-skill"
+  },
+  {
+    "description": "Claude Code skill: predict merge conflicts before opening a PR by checking file overlap against other open PRs/branches",
+    "id": "ritesh31/claude-pre-merge-conflict-predictor",
+    "language": "Shell",
+    "name": "ritesh31/claude-pre-merge-conflict-predictor",
+    "stars": 0,
+    "updated_at": "2026-07-05T04:03:04Z",
+    "url": "https://github.com/ritesh31/claude-pre-merge-conflict-predictor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-05T04:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
     "id": "Ford-1/postgresql-mcp-connector",
     "language": "HTML",
@@ -34,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T03:55:51Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "\u53bb\u9664\u4e2d\u6587MBA\u8bba\u6587AI\u5199\u4f5c\u75d5\u8ff9\u7684\u68c0\u6d4b\u4e0e\u6539\u5199\u5de5\u5177 | AI writing pattern detection and removal tool for Chinese MBA thesis",
-    "id": "stephenlzc/humanize-mba-text-skill",
-    "language": "Python",
-    "name": "stephenlzc/humanize-mba-text-skill",
-    "stars": 29,
-    "updated_at": "2026-07-05T03:54:50Z",
-    "url": "https://github.com/stephenlzc/humanize-mba-text-skill"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 277,
-    "updated_at": "2026-07-05T03:54:35Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
@@ -108,24 +189,6 @@
     "url": "https://github.com/Srltas/claude-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-05T03:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 404,
-    "updated_at": "2026-07-05T03:43:23Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "Agents, skills, commands, and rules for AI-powered coding tools \u2014 used daily to supercharge development productivity.",
     "id": "Weaverse/.agents",
     "language": "Shell",
@@ -151,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T03:37:03Z",
     "url": "https://github.com/williamcorrea23/sap-router-skill"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 182,
-    "updated_at": "2026-07-05T03:48:16Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T03:23:50Z",
     "url": "https://github.com/SkillMedev/nonprofit-grants-toolkit"
-  },
-  {
-    "description": "For residential agents: listings that sell, nurture that converts, negotiations you control.",
-    "id": "SkillMedev/real-estate-agent-stack",
-    "language": "\u2014",
-    "name": "SkillMedev/real-estate-agent-stack",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:23:44Z",
-    "url": "https://github.com/SkillMedev/real-estate-agent-stack"
-  },
-  {
-    "description": "For creators: turn expertise into a course and launch it to your list \u2014 outline to open cart.",
-    "id": "SkillMedev/course-creator-launch-system",
-    "language": "\u2014",
-    "name": "SkillMedev/course-creator-launch-system",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:23:38Z",
-    "url": "https://github.com/SkillMedev/course-creator-launch-system"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:23:35Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "For agency owners: profitable retainers, clients that renew, and accounts that expand.",
-    "id": "SkillMedev/agency-operating-system",
-    "language": "\u2014",
-    "name": "SkillMedev/agency-operating-system",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:23:33Z",
-    "url": "https://github.com/SkillMedev/agency-operating-system"
-  },
-  {
-    "description": "For local service owners: win the map pack, the reviews, and every quote you send.",
-    "id": "SkillMedev/local-service-business-engine",
-    "language": "\u2014",
-    "name": "SkillMedev/local-service-business-engine",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:23:27Z",
-    "url": "https://github.com/SkillMedev/local-service-business-engine"
-  },
-  {
-    "description": "For solo freelancers: position, productize, price, and run client work like a business.",
-    "id": "SkillMedev/freelancer-consultant-os",
-    "language": "\u2014",
-    "name": "SkillMedev/freelancer-consultant-os",
-    "stars": 0,
-    "updated_at": "2026-07-05T03:23:22Z",
-    "url": "https://github.com/SkillMedev/freelancer-consultant-os"
   }
 ]
