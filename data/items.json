@@ -1,5 +1,68 @@
 [
   {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 1,
+    "updated_at": "2026-07-06T07:59:33Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "An agent skills marketplace from Narrative I/O \u2014 interactive, AI-powered slash-command workflows for the recurring work ",
+    "id": "narrative-io/narrative-skills-marketplace",
+    "language": "Go Template",
+    "name": "narrative-io/narrative-skills-marketplace",
+    "stars": 7,
+    "updated_at": "2026-07-06T07:59:19Z",
+    "url": "https://github.com/narrative-io/narrative-skills-marketplace"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 184,
+    "updated_at": "2026-07-06T07:54:56Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "",
+    "id": "rjvim/ai-skills",
+    "language": "Shell",
+    "name": "rjvim/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-06T07:49:53Z",
+    "url": "https://github.com/rjvim/ai-skills"
+  },
+  {
+    "description": "Claude Code skill for the free Open-Meteo API \u2014 weather forecasts, current conditions, historical weather, and air quali",
+    "id": "NanookAI/open-meteo-api",
+    "language": "Python",
+    "name": "NanookAI/open-meteo-api",
+    "stars": 2,
+    "updated_at": "2026-07-06T07:49:07Z",
+    "url": "https://github.com/NanookAI/open-meteo-api"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 93,
+    "updated_at": "2026-07-06T07:48:51Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-06T07:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Scriptable CLI for RenderDoc captures \u2014 built for terminal workflows, CI pipelines, and AI agents",
     "id": "BANANASJIM/rdc-cli",
     "language": "Python",
@@ -27,15 +90,6 @@
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 93,
-    "updated_at": "2026-07-06T07:35:26Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
     "id": "ndisisnd/msg",
     "language": "HTML",
@@ -58,7 +112,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 64974,
+    "stars": 64975,
     "updated_at": "2026-07-06T07:30:59Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T07:30:49Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-06T07:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30133,
-    "updated_at": "2026-07-06T07:20:19Z",
+    "updated_at": "2026-07-06T07:46:31Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T07:18:02Z",
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "",
-    "id": "rjvim/ai-skills",
-    "language": "Shell",
-    "name": "rjvim/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:15:13Z",
-    "url": "https://github.com/rjvim/ai-skills"
   },
   {
     "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
@@ -265,7 +301,7 @@
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 20800,
+    "stars": 20808,
     "updated_at": "2026-07-06T07:10:24Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -283,7 +319,7 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 71174,
+    "stars": 71180,
     "updated_at": "2026-07-06T07:09:10Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T07:05:53Z",
     "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:05:52Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:05:48Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-07-06T07:05:47Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:05:44Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
   }
 ]
