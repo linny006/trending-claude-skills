@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 1,
+    "updated_at": "2026-07-06T12:29:59Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "",
+    "id": "zghanw/hackathon-skills",
+    "language": "\u2014",
+    "name": "zghanw/hackathon-skills",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:28:50Z",
+    "url": "https://github.com/zghanw/hackathon-skills"
+  },
+  {
+    "description": "AI agent skills for resumable project control. Garelier (Garage + Atelier) organizes PM, knowledge, review, and executio",
+    "id": "aby-studio-works/garelier",
+    "language": "TypeScript",
+    "name": "aby-studio-works/garelier",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:28:07Z",
+    "url": "https://github.com/aby-studio-works/garelier"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 65014,
+    "updated_at": "2026-07-06T12:25:35Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Mirror of https://cave.moxielogic.com/atgreen/secscan-skill",
+    "id": "atgreen/secscan-skill",
+    "language": "\u2014",
+    "name": "atgreen/secscan-skill",
+    "stars": 1,
+    "updated_at": "2026-07-06T12:22:09Z",
+    "url": "https://github.com/atgreen/secscan-skill"
+  },
+  {
+    "description": "Business registry data skills for AI agents - KYC/AML, credit risk, property, compliance, lead gen across 24 actors (Eur",
+    "id": "Nolpak14/getregdata",
+    "language": "JavaScript",
+    "name": "Nolpak14/getregdata",
+    "stars": 4,
+    "updated_at": "2026-07-06T12:21:10Z",
+    "url": "https://github.com/Nolpak14/getregdata"
+  },
+  {
+    "description": "AI dev infrastructure framework for Claude Code. /dotclaude:bootstrap authors CLAUDE.md + docs/ + .claude/ tuned to your",
+    "id": "vindm/dotclaude",
+    "language": "Shell",
+    "name": "vindm/dotclaude",
+    "stars": 1,
+    "updated_at": "2026-07-06T12:21:05Z",
+    "url": "https://github.com/vindm/dotclaude"
+  },
+  {
+    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "Python",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 1,
+    "updated_at": "2026-07-06T12:19:16Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "Agent skill + CLI for multi-agent adversarial review of plans & specs before you execute them. Runs on the Claude Code /",
+    "id": "hiadrianchen/challenge-plans",
+    "language": "Python",
+    "name": "hiadrianchen/challenge-plans",
+    "stars": 4,
+    "updated_at": "2026-07-06T12:18:24Z",
+    "url": "https://github.com/hiadrianchen/challenge-plans"
+  },
+  {
+    "description": "Relex plugin for Claude",
+    "id": "relexyou/relex-claude",
+    "language": "Python",
+    "name": "relexyou/relex-claude",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:16:24Z",
+    "url": "https://github.com/relexyou/relex-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-06T12:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Interactive briefing cards for Claude Code \u2014 decision options with a stated recommendation, buttons that send your choic",
+    "id": "vincent-wen789/claude-briefing-cards",
+    "language": "Shell",
+    "name": "vincent-wen789/claude-briefing-cards",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:15:13Z",
+    "url": "https://github.com/vincent-wen789/claude-briefing-cards"
+  },
+  {
     "description": "Portable SKILLs workspace for Claude Code, Codex, and Gemini \u2014 issue-driven workflows and cross-agent collaboration via ",
     "id": "appautomaton/agent-designer",
     "language": "Python",
@@ -16,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-06T12:13:58Z",
     "url": "https://github.com/WhatIfWeDigDeeper/agent-skills"
-  },
-  {
-    "description": "Mirror of https://cave.moxielogic.com/atgreen/secscan-skill",
-    "id": "atgreen/secscan-skill",
-    "language": "\u2014",
-    "name": "atgreen/secscan-skill",
-    "stars": 1,
-    "updated_at": "2026-07-06T12:12:56Z",
-    "url": "https://github.com/atgreen/secscan-skill"
   },
   {
     "description": "A small Claude Code marketplace: ado, swift-concurrency, modern-swift, go-dev, worktrees.",
@@ -49,18 +148,9 @@
     "id": "NevaMind-AI/memU",
     "language": "Python",
     "name": "NevaMind-AI/memU",
-    "stars": 13988,
+    "stars": 13989,
     "updated_at": "2026-07-06T12:09:57Z",
     "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 65012,
-    "updated_at": "2026-07-06T12:07:51Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Teach any AI agent to run your content marketing. Open-source skill for PostKing - generate posts, plan content weeks, s",
@@ -97,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T12:00:34Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-06T12:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udde0 AI Agent skills for LLMs and AI Agents - Claude, Codex, Cursor etc.",
@@ -184,7 +265,7 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 30287,
+    "stars": 30288,
     "updated_at": "2026-07-06T11:52:50Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
@@ -232,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T11:48:11Z",
     "url": "https://github.com/nickperkins/testing-skill"
-  },
-  {
-    "description": "Interactive briefing cards for Claude Code \u2014 decision options with a stated recommendation, buttons that send your choic",
-    "id": "vincent-wen789/claude-briefing-cards",
-    "language": "Shell",
-    "name": "vincent-wen789/claude-briefing-cards",
-    "stars": 0,
-    "updated_at": "2026-07-06T12:15:13Z",
-    "url": "https://github.com/vincent-wen789/claude-briefing-cards"
   },
   {
     "description": "A collection of Claude Skills",
@@ -306,15 +378,6 @@
     "url": "https://github.com/jassics/agentscanner"
   },
   {
-    "description": "Relex plugin for Claude",
-    "id": "relexyou/relex-claude",
-    "language": "Python",
-    "name": "relexyou/relex-claude",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:34:02Z",
-    "url": "https://github.com/relexyou/relex-claude"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
@@ -369,15 +432,6 @@
     "url": "https://github.com/Mann1988/awesome-claude-skills"
   },
   {
-    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
-    "id": "428alexander9/claude-skills-marketplace",
-    "language": "Python",
-    "name": "428alexander9/claude-skills-marketplace",
-    "stars": 1,
-    "updated_at": "2026-07-06T11:22:22Z",
-    "url": "https://github.com/428alexander9/claude-skills-marketplace"
-  },
-  {
     "description": "Recursive agentic software development harness, predicated on verified proof of work",
     "id": "bordumb/recurve",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 184,
     "updated_at": "2026-07-06T11:21:51Z",
     "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Save 5s of your time (maybe) by letting Claude write your commit messages",
-    "id": "ndisisnd/kermit",
-    "language": "PowerShell",
-    "name": "ndisisnd/kermit",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:21:43Z",
-    "url": "https://github.com/ndisisnd/kermit"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 50,
-    "updated_at": "2026-07-06T11:20:11Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
-    "id": "Mary2241/seo-skills-agent-toolbox",
-    "language": "HTML",
-    "name": "Mary2241/seo-skills-agent-toolbox",
-    "stars": 1,
-    "updated_at": "2026-07-06T11:19:43Z",
-    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:19:17Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "claude skill for rust design review",
-    "id": "nikhil-salgaonkar/rust-design-review",
-    "language": "\u2014",
-    "name": "nikhil-salgaonkar/rust-design-review",
-    "stars": 1,
-    "updated_at": "2026-07-06T11:16:25Z",
-    "url": "https://github.com/nikhil-salgaonkar/rust-design-review"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:15:56Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
   }
 ]
