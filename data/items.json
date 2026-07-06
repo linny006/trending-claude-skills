@@ -1,5 +1,122 @@
 [
   {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "TypeScript",
+    "name": "mr-kelly/skills",
+    "stars": 1,
+    "updated_at": "2026-07-06T16:59:57Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Open source Claude skill library for product design teams running on AI. From PRD to validated prototype in days.",
+    "id": "royvergara/design-team-os",
+    "language": "Shell",
+    "name": "royvergara/design-team-os",
+    "stars": 1,
+    "updated_at": "2026-07-06T16:59:13Z",
+    "url": "https://github.com/royvergara/design-team-os"
+  },
+  {
+    "description": "A Claude Code / Claude.ai Skill that turns any codebase into something deployable with docker compose up and shippable t",
+    "id": "sudais-khalid/vibe-ship",
+    "language": "Python",
+    "name": "sudais-khalid/vibe-ship",
+    "stars": 12,
+    "updated_at": "2026-07-06T16:57:02Z",
+    "url": "https://github.com/sudais-khalid/vibe-ship"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-07-06T16:56:30Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 0,
+    "updated_at": "2026-07-06T16:55:52Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-07-06T16:54:29Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "The Web Browser for LLMs",
+    "id": "jreiner16/surfboard",
+    "language": "Python",
+    "name": "jreiner16/surfboard",
+    "stars": 0,
+    "updated_at": "2026-07-06T16:49:34Z",
+    "url": "https://github.com/jreiner16/surfboard"
+  },
+  {
+    "description": "Build B2B sales strategies using AI agent skills that generate personas, value propositions, and buying maps from struct",
+    "id": "mousedecoration515/B2B-GTM-Suite",
+    "language": "Python",
+    "name": "mousedecoration515/B2B-GTM-Suite",
+    "stars": 0,
+    "updated_at": "2026-07-06T16:48:59Z",
+    "url": "https://github.com/mousedecoration515/B2B-GTM-Suite"
+  },
+  {
+    "description": "Production-ready Claude Code skills for Unreal Engine 5, llama.cpp, and OpenCode CLI integration. Built by maystudios.",
+    "id": "maystudios/claude-skills",
+    "language": "Python",
+    "name": "maystudios/claude-skills",
+    "stars": 11,
+    "updated_at": "2026-07-06T16:48:58Z",
+    "url": "https://github.com/maystudios/claude-skills"
+  },
+  {
+    "description": "Reusable agent skills for battle-tested engineering judgment \u2014 least code, fix the problem, don't break what works. Work",
+    "id": "sayeed1999/agent-skills",
+    "language": "\u2014",
+    "name": "sayeed1999/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-06T16:48:27Z",
+    "url": "https://github.com/sayeed1999/agent-skills"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-06T16:55:42Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Connect Google NotebookLM notebooks to any MCP-compliant AI assistant to query sources, generate reports, and create aud",
+    "id": "arsen9112/notebooklm-connector",
+    "language": "\u2014",
+    "name": "arsen9112/notebooklm-connector",
+    "stars": 0,
+    "updated_at": "2026-07-06T16:45:18Z",
+    "url": "https://github.com/arsen9112/notebooklm-connector"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-06T16:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
     "id": "mickzijdel/dev-hooks",
     "language": "Python",
@@ -22,18 +139,9 @@
     "id": "maxritter/pilot-shell",
     "language": "JavaScript",
     "name": "maxritter/pilot-shell",
-    "stars": 1777,
+    "stars": 1778,
     "updated_at": "2026-07-06T16:44:08Z",
     "url": "https://github.com/maxritter/pilot-shell"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "TypeScript",
-    "name": "mr-kelly/skills",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:44:12Z",
-    "url": "https://github.com/mr-kelly/skills"
   },
   {
     "description": "Personal collection of Claude Code skills for development workflows",
@@ -52,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T16:42:12Z",
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "Open source Claude skill library for product design teams running on AI. From PRD to validated prototype in days.",
-    "id": "royvergara/design-team-os",
-    "language": "Shell",
-    "name": "royvergara/design-team-os",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:41:46Z",
-    "url": "https://github.com/royvergara/design-team-os"
   },
   {
     "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
@@ -88,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T16:38:44Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Reusable agent skills for battle-tested engineering judgment \u2014 least code, fix the problem, don't break what works. Work",
-    "id": "sayeed1999/agent-skills",
-    "language": "\u2014",
-    "name": "sayeed1999/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:38:34Z",
-    "url": "https://github.com/sayeed1999/agent-skills"
   },
   {
     "description": "ADD - LOOP SKILL for AI Coding Agent",
@@ -160,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T16:35:35Z",
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-06T16:35:20Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
@@ -270,15 +351,6 @@
     "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-06T16:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Train video world models with diffusion-forcing using this minimalist framework.",
     "id": "Tiroleansculptor548/nano-world-model",
     "language": "\u2014",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-06T16:28:28Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:28:09Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:28:01Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:27:49Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:27:48Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:27:48Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:27:46Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:27:31Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:27:17Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
   }
 ]
