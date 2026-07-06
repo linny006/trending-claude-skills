@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-06 10:56 UTC
+> ⏰ Last updated: 2026-07-06 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1152 | JavaScript | 2026-07-06 | In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) |
-| 2 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-07-06 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
-| 3 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 2 | TypeScript | 2026-07-06 | A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits. |
-| 4 | [BENZEMA216/awesome-weread](https://github.com/BENZEMA216/awesome-weread) | 39 | JavaScript | 2026-07-06 | 基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17) |
-| 5 | [munexor/seo-opportunity-nexus](https://github.com/munexor/seo-opportunity-nexus) | 0 | HTML | 2026-07-06 | SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools |
-| 6 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-07-06 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
-| 7 | [vdk888/bubble-shield-public](https://github.com/vdk888/bubble-shield-public) | 0 | Python | 2026-07-06 | Caveau Guard — local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac |
-| 8 | [Nolpak14/getregdata](https://github.com/Nolpak14/getregdata) | 4 | JavaScript | 2026-07-06 | Business registry data skills for AI agents - KYC/AML, credit risk, property, compliance, lead gen across 24 actors (Eur |
-| 9 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 0 | HTML | 2026-07-06 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 8 | Python | 2026-07-06 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 11 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-07-06 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
-| 12 | [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | 1765 | TypeScript | 2026-07-06 | Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott |
-| 13 | [javier-garzas/ia-product-management](https://github.com/javier-garzas/ia-product-management) | 0 | — | 2026-07-06 | Skills de IA para Product Management y Spec-Driven Development, creadas por Javier Garzas (233 Academy) y compartidas co |
-| 14 | [Endika/eskills](https://github.com/Endika/eskills) | 0 | Makefile | 2026-07-06 | Lean personal Claude Code skills pack — my conventions, task flow, and quality lenses. Requires the superpowers plugin. |
-| 15 | [ndisisnd/kermit](https://github.com/ndisisnd/kermit) | 0 | PowerShell | 2026-07-06 | Save 5s of your time (maybe) by letting Claude write your commit messages |
-| 16 | [jassics/agentscanner](https://github.com/jassics/agentscanner) | 2 | Python | 2026-07-06 | Static security scanner for Claude Code configuration — settings, permissions, hooks, MCP servers, agents/subagents, ski |
-| 17 | [fideguch/bochi](https://github.com/fideguch/bochi) | 1 | Shell | 2026-07-06 | bochi — Claude Code skill for idea expansion. Transforms idea seeds into structured hypotheses via Socratic questioning, |
-| 18 | [SenolIsci/mykg](https://github.com/SenolIsci/mykg) | 43 | Python | 2026-07-06 | Knowledge graph extractor: Markdown (or any format) → knowledge graph with RDFS/OWL ontology |
-| 19 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-07-06 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
-| 20 | [ndisisnd/msg](https://github.com/ndisisnd/msg) | 1 | HTML | 2026-07-06 | End-to-end engineering harness for Claude Code — go from planning to building to reviewing in one workflow. 8 agents wit |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 8 | Python | 2026-07-06 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [ndisisnd/msg](https://github.com/ndisisnd/msg) | 1 | HTML | 2026-07-06 | End-to-end engineering harness for Claude Code — go from planning to building to reviewing in one workflow. 8 agents wit |
+| 3 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1152 | JavaScript | 2026-07-06 | In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) |
+| 4 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-07-06 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
+| 5 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 2 | TypeScript | 2026-07-06 | A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits. |
+| 6 | [BENZEMA216/awesome-weread](https://github.com/BENZEMA216/awesome-weread) | 39 | JavaScript | 2026-07-06 | 基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17) |
+| 7 | [munexor/seo-opportunity-nexus](https://github.com/munexor/seo-opportunity-nexus) | 0 | HTML | 2026-07-06 | SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools |
+| 8 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-07-06 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
+| 9 | [vdk888/bubble-shield-public](https://github.com/vdk888/bubble-shield-public) | 0 | Python | 2026-07-06 | Caveau Guard — local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac |
+| 10 | [Nolpak14/getregdata](https://github.com/Nolpak14/getregdata) | 4 | JavaScript | 2026-07-06 | Business registry data skills for AI agents - KYC/AML, credit risk, property, compliance, lead gen across 24 actors (Eur |
+| 11 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 0 | HTML | 2026-07-06 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
+| 12 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-07-06 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
+| 13 | [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | 1765 | TypeScript | 2026-07-06 | Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott |
+| 14 | [javier-garzas/ia-product-management](https://github.com/javier-garzas/ia-product-management) | 0 | — | 2026-07-06 | Skills de IA para Product Management y Spec-Driven Development, creadas por Javier Garzas (233 Academy) y compartidas co |
+| 15 | [Endika/eskills](https://github.com/Endika/eskills) | 0 | Makefile | 2026-07-06 | Lean personal Claude Code skills pack — my conventions, task flow, and quality lenses. Requires the superpowers plugin. |
+| 16 | [ndisisnd/kermit](https://github.com/ndisisnd/kermit) | 0 | PowerShell | 2026-07-06 | Save 5s of your time (maybe) by letting Claude write your commit messages |
+| 17 | [jassics/agentscanner](https://github.com/jassics/agentscanner) | 2 | Python | 2026-07-06 | Static security scanner for Claude Code configuration — settings, permissions, hooks, MCP servers, agents/subagents, ski |
+| 18 | [fideguch/bochi](https://github.com/fideguch/bochi) | 1 | Shell | 2026-07-06 | bochi — Claude Code skill for idea expansion. Transforms idea seeds into structured hypotheses via Socratic questioning, |
+| 19 | [SenolIsci/mykg](https://github.com/SenolIsci/mykg) | 43 | Python | 2026-07-06 | Knowledge graph extractor: Markdown (or any format) → knowledge graph with RDFS/OWL ontology |
+| 20 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-07-06 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
 | 21 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 1 | HTML | 2026-07-06 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
 | 22 | [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) | 969 | Python | 2026-07-06 | Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and |
 | 23 | [BANANASJIM/rdc-cli](https://github.com/BANANASJIM/rdc-cli) | 147 | Python | 2026-07-06 | Scriptable CLI for RenderDoc captures — built for terminal workflows, CI pipelines, and AI agents |
