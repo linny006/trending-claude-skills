@@ -1,5 +1,86 @@
 [
   {
+    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "id": "gagip/gagip-dev",
+    "language": "Python",
+    "name": "gagip/gagip-dev",
+    "stars": 0,
+    "updated_at": "2026-07-06T07:28:06Z",
+    "url": "https://github.com/gagip/gagip-dev"
+  },
+  {
+    "description": "You're the boss. Claude Code is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
+    "id": "johanthoren/jeff",
+    "language": "Shell",
+    "name": "johanthoren/jeff",
+    "stars": 2,
+    "updated_at": "2026-07-06T07:27:09Z",
+    "url": "https://github.com/johanthoren/jeff"
+  },
+  {
+    "description": "Claude Code skill for safe, fast Cloudflare D1 + R2 operations on Windows - REST-based, immune to PowerShell BOM/encodin",
+    "id": "hsjinde/cloudflare-use-skill",
+    "language": "JavaScript",
+    "name": "hsjinde/cloudflare-use-skill",
+    "stars": 0,
+    "updated_at": "2026-07-06T07:25:53Z",
+    "url": "https://github.com/hsjinde/cloudflare-use-skill"
+  },
+  {
+    "description": "Connect Google NotebookLM notebooks to any MCP-compliant AI assistant to query sources, generate reports, and create aud",
+    "id": "arsen9112/notebooklm-connector",
+    "language": "\u2014",
+    "name": "arsen9112/notebooklm-connector",
+    "stars": 0,
+    "updated_at": "2026-07-06T07:22:35Z",
+    "url": "https://github.com/arsen9112/notebooklm-connector"
+  },
+  {
+    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
+    "id": "Glad-oboedacaccia408/design.md",
+    "language": "TypeScript",
+    "name": "Glad-oboedacaccia408/design.md",
+    "stars": 0,
+    "updated_at": "2026-07-06T07:19:21Z",
+    "url": "https://github.com/Glad-oboedacaccia408/design.md"
+  },
+  {
+    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
+    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
+    "language": "TypeScript",
+    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
+    "stars": 1,
+    "updated_at": "2026-07-06T07:18:02Z",
+    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-06T07:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "rjvim/ai-skills",
+    "language": "Shell",
+    "name": "rjvim/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-06T07:15:13Z",
+    "url": "https://github.com/rjvim/ai-skills"
+  },
+  {
+    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
+    "id": "zerooo002/claude-artifacts-local-sync",
+    "language": "\u2014",
+    "name": "zerooo002/claude-artifacts-local-sync",
+    "stars": 0,
+    "updated_at": "2026-07-06T07:15:13Z",
+    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
+  },
+  {
     "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
     "id": "Free-Soul/MemDreamer",
     "language": "Python",
@@ -121,7 +202,7 @@
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 20783,
+    "stars": 20789,
     "updated_at": "2026-07-06T07:10:24Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -139,7 +220,7 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 71164,
+    "stars": 71170,
     "updated_at": "2026-07-06T07:09:10Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T07:04:47Z",
     "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:04:41Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:04:28Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:04:28Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 1,
-    "updated_at": "2026-07-06T07:04:18Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:03:53Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Build AI skills that distill any person\u2019s thinking into reusable workflows and prompts",
-    "id": "gianguardant971/nuwa-skill",
-    "language": "\u2014",
-    "name": "gianguardant971/nuwa-skill",
-    "stars": 1,
-    "updated_at": "2026-07-06T07:03:36Z",
-    "url": "https://github.com/gianguardant971/nuwa-skill"
-  },
-  {
-    "description": "Universal .claude AI Project OS \u2014 a reusable, safe, copy-into-any-project Claude Code operating system (agents, skills, ",
-    "id": "muxammadmamajonov/dot-claude",
-    "language": "Python",
-    "name": "muxammadmamajonov/dot-claude",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:03:28Z",
-    "url": "https://github.com/muxammadmamajonov/dot-claude"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 0,
-    "updated_at": "2026-07-06T07:03:05Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-07-06T07:02:58Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
   }
 ]
