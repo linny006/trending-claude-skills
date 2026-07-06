@@ -1,5 +1,32 @@
 [
   {
+    "description": "Reverse-engineered specification of FileMaker's undocumented field definition XML format. Covers field types, auto-enter",
+    "id": "andykear/FileMaker-XML-field-definitions",
+    "language": "\u2014",
+    "name": "andykear/FileMaker-XML-field-definitions",
+    "stars": 4,
+    "updated_at": "2026-07-06T21:14:54Z",
+    "url": "https://github.com/andykear/FileMaker-XML-field-definitions"
+  },
+  {
+    "description": "Real-time LLM cost tracking and optimization. Measures file format costs (36x), operation type variance (55x), data ware",
+    "id": "Mullassery/PyCostAudit",
+    "language": "Makefile",
+    "name": "Mullassery/PyCostAudit",
+    "stars": 0,
+    "updated_at": "2026-07-06T21:14:49Z",
+    "url": "https://github.com/Mullassery/PyCostAudit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-06T21:14:46Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\udd0d Fetch execution traces from LangSmith Studio to debug LangChain and LangGraph agents effectively with Claude Code.",
     "id": "humongus69/langsmith-fetch-skill",
     "language": "\u2014",
@@ -144,15 +171,6 @@
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
   },
   {
-    "description": "Real-time LLM cost tracking and optimization. Measures file format costs (36x), operation type variance (55x), data ware",
-    "id": "Mullassery/PyCostAudit",
-    "language": "Makefile",
-    "name": "Mullassery/PyCostAudit",
-    "stars": 0,
-    "updated_at": "2026-07-06T21:02:24Z",
-    "url": "https://github.com/Mullassery/PyCostAudit"
-  },
-  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-06T21:01:57Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-06T21:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Collection of agent skills for AI coding assistants",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T20:18:32Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-06T20:18:20Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
