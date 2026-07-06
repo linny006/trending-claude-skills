@@ -1,11 +1,74 @@
 [
   {
+    "description": "Skills de IA para Product Management y Spec-Driven Development, creadas por Javier Garzas (233 Academy) y compartidas co",
+    "id": "javier-garzas/ia-product-management",
+    "language": "\u2014",
+    "name": "javier-garzas/ia-product-management",
+    "stars": 0,
+    "updated_at": "2026-07-06T09:59:58Z",
+    "url": "https://github.com/javier-garzas/ia-product-management"
+  },
+  {
+    "description": "TeamCity from your terminal \u2013 or your AI's. Builds, logs, agents, agent terminals, queues.",
+    "id": "JetBrains/teamcity-cli",
+    "language": "Go",
+    "name": "JetBrains/teamcity-cli",
+    "stars": 114,
+    "updated_at": "2026-07-06T09:57:38Z",
+    "url": "https://github.com/JetBrains/teamcity-cli"
+  },
+  {
+    "description": "Universal .claude AI Project OS \u2014 a reusable, safe, copy-into-any-project Claude Code operating system (agents, skills, ",
+    "id": "muxammadmamajonov/dot-claude",
+    "language": "Python",
+    "name": "muxammadmamajonov/dot-claude",
+    "stars": 0,
+    "updated_at": "2026-07-06T09:57:21Z",
+    "url": "https://github.com/muxammadmamajonov/dot-claude"
+  },
+  {
+    "description": "Connect Google NotebookLM notebooks to any MCP-compliant AI assistant to query sources, generate reports, and create aud",
+    "id": "arsen9112/notebooklm-connector",
+    "language": "\u2014",
+    "name": "arsen9112/notebooklm-connector",
+    "stars": 0,
+    "updated_at": "2026-07-06T09:51:04Z",
+    "url": "https://github.com/arsen9112/notebooklm-connector"
+  },
+  {
+    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
+    "id": "Glad-oboedacaccia408/design.md",
+    "language": "TypeScript",
+    "name": "Glad-oboedacaccia408/design.md",
+    "stars": 0,
+    "updated_at": "2026-07-06T09:47:56Z",
+    "url": "https://github.com/Glad-oboedacaccia408/design.md"
+  },
+  {
+    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
+    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
+    "language": "TypeScript",
+    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
+    "stars": 1,
+    "updated_at": "2026-07-06T09:46:37Z",
+    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-06T09:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Test suites + deterministic Python for your agent skills' decision logic. Adversarial persona reviewers write the tests;",
     "id": "CyrilLeMat/temper-skills",
     "language": "Python",
     "name": "CyrilLeMat/temper-skills",
     "stars": 1,
-    "updated_at": "2026-07-06T09:44:51Z",
+    "updated_at": "2026-07-06T09:45:39Z",
     "url": "https://github.com/CyrilLeMat/temper-skills"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T09:43:44Z",
     "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Skills de IA para Product Management y Spec-Driven Development, creadas por Javier Garzas (233 Academy) y compartidas co",
-    "id": "javier-garzas/ia-product-management",
-    "language": "\u2014",
-    "name": "javier-garzas/ia-product-management",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:43:38Z",
-    "url": "https://github.com/javier-garzas/ia-product-management"
   },
   {
     "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
     "stars": 1260,
-    "updated_at": "2026-07-06T09:38:46Z",
+    "updated_at": "2026-07-06T09:47:57Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
@@ -220,7 +274,7 @@
     "id": "NevaMind-AI/memU",
     "language": "Python",
     "name": "NevaMind-AI/memU",
-    "stars": 13985,
+    "stars": 13986,
     "updated_at": "2026-07-06T09:37:27Z",
     "url": "https://github.com/NevaMind-AI/memU"
   },
@@ -295,6 +349,15 @@
     "stars": 1,
     "updated_at": "2026-07-06T09:35:02Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
+  },
+  {
+    "description": "AI agent skills that turn Claude into a guided B2B go-to-market strategist \u2014 value propositions, buyer personas, buying-",
+    "id": "ananas-agency/B2B-GTM-Suite",
+    "language": "Python",
+    "name": "ananas-agency/B2B-GTM-Suite",
+    "stars": 1,
+    "updated_at": "2026-07-06T09:35:01Z",
+    "url": "https://github.com/ananas-agency/B2B-GTM-Suite"
   },
   {
     "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T09:33:44Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:33:43Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-06T09:33:33Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:33:18Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:33:15Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-07-06T09:33:07Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:33:02Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:32:53Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
   }
 ]
