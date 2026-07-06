@@ -1,11 +1,119 @@
 [
   {
+    "description": "Portable SKILLs workspace for Claude Code, Codex, and Gemini \u2014 issue-driven workflows and cross-agent collaboration via ",
+    "id": "appautomaton/agent-designer",
+    "language": "Python",
+    "name": "appautomaton/agent-designer",
+    "stars": 126,
+    "updated_at": "2026-07-06T12:14:32Z",
+    "url": "https://github.com/appautomaton/agent-designer"
+  },
+  {
+    "description": "My Agent Skills I've created for Claude Code and can, in principle, be used with other coding assistants",
+    "id": "WhatIfWeDigDeeper/agent-skills",
+    "language": "Python",
+    "name": "WhatIfWeDigDeeper/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-07-06T12:13:58Z",
+    "url": "https://github.com/WhatIfWeDigDeeper/agent-skills"
+  },
+  {
+    "description": "Mirror of https://cave.moxielogic.com/atgreen/secscan-skill",
+    "id": "atgreen/secscan-skill",
+    "language": "\u2014",
+    "name": "atgreen/secscan-skill",
+    "stars": 1,
+    "updated_at": "2026-07-06T12:12:56Z",
+    "url": "https://github.com/atgreen/secscan-skill"
+  },
+  {
+    "description": "A small Claude Code marketplace: ado, swift-concurrency, modern-swift, go-dev, worktrees.",
+    "id": "pszypowicz/claude-skills",
+    "language": "Shell",
+    "name": "pszypowicz/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:12:34Z",
+    "url": "https://github.com/pszypowicz/claude-skills"
+  },
+  {
+    "description": "Universal .claude AI Project OS \u2014 a reusable, safe, copy-into-any-project Claude Code operating system (agents, skills, ",
+    "id": "muxammadmamajonov/dot-claude",
+    "language": "Python",
+    "name": "muxammadmamajonov/dot-claude",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:11:42Z",
+    "url": "https://github.com/muxammadmamajonov/dot-claude"
+  },
+  {
+    "description": "Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost.",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 13988,
+    "updated_at": "2026-07-06T12:09:57Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 65012,
+    "updated_at": "2026-07-06T12:07:51Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Teach any AI agent to run your content marketing. Open-source skill for PostKing - generate posts, plan content weeks, s",
+    "id": "bitsandtea/postking-skills",
+    "language": "\u2014",
+    "name": "bitsandtea/postking-skills",
+    "stars": 1,
+    "updated_at": "2026-07-06T12:04:05Z",
+    "url": "https://github.com/bitsandtea/postking-skills"
+  },
+  {
+    "description": "My personal directory of skills",
+    "id": "danielsitek/skills",
+    "language": "JavaScript",
+    "name": "danielsitek/skills",
+    "stars": 0,
+    "updated_at": "2026-07-06T12:01:46Z",
+    "url": "https://github.com/danielsitek/skills"
+  },
+  {
+    "description": "An Israeli Claude Finance Plugin",
+    "id": "ya5huk/findash",
+    "language": "Python",
+    "name": "ya5huk/findash",
+    "stars": 20,
+    "updated_at": "2026-07-06T12:01:11Z",
+    "url": "https://github.com/ya5huk/findash"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-06T12:00:34Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-06T12:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udde0 AI Agent skills for LLMs and AI Agents - Claude, Codex, Cursor etc.",
     "id": "a-tokyo/agent-skills",
     "language": "Python",
     "name": "a-tokyo/agent-skills",
     "stars": 14,
-    "updated_at": "2026-07-06T11:59:38Z",
+    "updated_at": "2026-07-06T12:04:47Z",
     "url": "https://github.com/a-tokyo/agent-skills"
   },
   {
@@ -43,15 +151,6 @@
     "stars": 382,
     "updated_at": "2026-07-06T11:56:19Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 65009,
-    "updated_at": "2026-07-06T11:56:17Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -140,17 +239,8 @@
     "language": "Shell",
     "name": "vincent-wen789/claude-briefing-cards",
     "stars": 0,
-    "updated_at": "2026-07-06T11:47:25Z",
+    "updated_at": "2026-07-06T12:15:13Z",
     "url": "https://github.com/vincent-wen789/claude-briefing-cards"
-  },
-  {
-    "description": "Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost.",
-    "id": "NevaMind-AI/memU",
-    "language": "Python",
-    "name": "NevaMind-AI/memU",
-    "stars": 13988,
-    "updated_at": "2026-07-06T11:46:25Z",
-    "url": "https://github.com/NevaMind-AI/memU"
   },
   {
     "description": "A collection of Claude Skills",
@@ -160,15 +250,6 @@
     "stars": 158,
     "updated_at": "2026-07-06T11:45:59Z",
     "url": "https://github.com/GetBindu/awesome-claude-code-and-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-06T11:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Operator-grade full-stack coder, debugger and reverse-engineering rig: smali/java/kotlin/dart/flutter/react/.so/native, ",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T11:15:56Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 54,
-    "updated_at": "2026-07-06T11:11:35Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "Agent skills for working with Ruby on Rails 8+",
-    "id": "mickzijdel/rails-toolkit",
-    "language": "Python",
-    "name": "mickzijdel/rails-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:08:42Z",
-    "url": "https://github.com/mickzijdel/rails-toolkit"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:08:28Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "AI agent skills that turn Claude into a guided B2B go-to-market strategist \u2014 value propositions, buyer personas, buying-",
-    "id": "ananas-agency/B2B-GTM-Suite",
-    "language": "Python",
-    "name": "ananas-agency/B2B-GTM-Suite",
-    "stars": 1,
-    "updated_at": "2026-07-06T11:07:27Z",
-    "url": "https://github.com/ananas-agency/B2B-GTM-Suite"
-  },
-  {
-    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
-    "id": "ndisisnd/msg",
-    "language": "HTML",
-    "name": "ndisisnd/msg",
-    "stars": 1,
-    "updated_at": "2026-07-06T11:07:19Z",
-    "url": "https://github.com/ndisisnd/msg"
-  },
-  {
-    "description": "Skills de IA para Product Management y Spec-Driven Development, creadas por Javier Garzas (233 Academy) y compartidas co",
-    "id": "javier-garzas/ia-product-management",
-    "language": "\u2014",
-    "name": "javier-garzas/ia-product-management",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:05:12Z",
-    "url": "https://github.com/javier-garzas/ia-product-management"
-  },
-  {
-    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
-    "id": "aaron-he-zhu/aaron-marketing-skills",
-    "language": "Python",
-    "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2325,
-    "updated_at": "2026-07-06T11:03:40Z",
-    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:03:17Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-06T11:01:11Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   }
 ]
