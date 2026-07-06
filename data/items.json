@@ -1,5 +1,140 @@
 [
   {
+    "description": "Real-time LLM cost tracking and optimization. Measures file format costs (36x), operation type variance (55x), data ware",
+    "id": "Mullassery/PyCostAudit",
+    "language": "Makefile",
+    "name": "Mullassery/PyCostAudit",
+    "stars": 0,
+    "updated_at": "2026-07-06T15:12:17Z",
+    "url": "https://github.com/Mullassery/PyCostAudit"
+  },
+  {
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
+    "id": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "language": "Python",
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "stars": 3,
+    "updated_at": "2026-07-06T15:11:15Z",
+    "url": "https://github.com/Shada01245/the-unofficial-swift-programming-language-skill"
+  },
+  {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 retrieva",
+    "id": "ratel-ai/ratel",
+    "language": "Python",
+    "name": "ratel-ai/ratel",
+    "stars": 177,
+    "updated_at": "2026-07-06T15:10:51Z",
+    "url": "https://github.com/ratel-ai/ratel"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
+    "id": "thairns/claude-rubycritic-skill",
+    "language": "\u2014",
+    "name": "thairns/claude-rubycritic-skill",
+    "stars": 0,
+    "updated_at": "2026-07-06T15:10:41Z",
+    "url": "https://github.com/thairns/claude-rubycritic-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
+    "id": "Junayedahmedd/gemini_cli_skill",
+    "language": "\u2014",
+    "name": "Junayedahmedd/gemini_cli_skill",
+    "stars": 3,
+    "updated_at": "2026-07-06T15:10:19Z",
+    "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-07-06T15:09:34Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 108,
+    "updated_at": "2026-07-06T15:07:53Z",
+    "url": "https://github.com/testdouble/han"
+  },
+  {
+    "description": "Incord Memory \u2014 local-first, per-user memory engine for AI. Hybrid retrieval + self-wiring graph. Free & offline, option",
+    "id": "incordai/memory",
+    "language": "Shell",
+    "name": "incordai/memory",
+    "stars": 1,
+    "updated_at": "2026-07-06T15:07:11Z",
+    "url": "https://github.com/incordai/memory"
+  },
+  {
+    "description": "lm-mem \u672c\u5730\u8bed\u4e49\u8bb0\u5fc6",
+    "id": "laomou/lm-mem",
+    "language": "Python",
+    "name": "laomou/lm-mem",
+    "stars": 0,
+    "updated_at": "2026-07-06T15:03:59Z",
+    "url": "https://github.com/laomou/lm-mem"
+  },
+  {
+    "description": "Agentic coding decision replay\uff1a\u8bb0\u5f55\u4e3a\u4ec0\u4e48\uff0c\u628a session signals \u9010\u5c42\u6536\u53e3\u6210\u53ef\u6838\u9a8c\u7684\u5468\u62a5\u3001\u6708\u62a5\u548c\u8def\u7ebf\u56fe\u3002",
+    "id": "KKenny0/Tracework",
+    "language": "Python",
+    "name": "KKenny0/Tracework",
+    "stars": 1,
+    "updated_at": "2026-07-06T15:03:30Z",
+    "url": "https://github.com/KKenny0/Tracework"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 64,
+    "updated_at": "2026-07-06T15:02:20Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "Persistent memory layer for Claude Code \u2014 Obsidian vault health, connection discovery, brain dump, session notes, email ",
+    "id": "jojoprison/mnemo",
+    "language": "Python",
+    "name": "jojoprison/mnemo",
+    "stars": 6,
+    "updated_at": "2026-07-06T15:01:35Z",
+    "url": "https://github.com/jojoprison/mnemo"
+  },
+  {
+    "description": "LEAN makes your output lean, saves your tokens, and let's you build without bloating your extension.",
+    "id": "adanjoserrojas/LEAN",
+    "language": "\u2014",
+    "name": "adanjoserrojas/LEAN",
+    "stars": 1,
+    "updated_at": "2026-07-06T15:01:06Z",
+    "url": "https://github.com/adanjoserrojas/LEAN"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-06T15:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 1,
+    "updated_at": "2026-07-06T14:59:50Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
     "description": "Adaptive AI exam prep app (Next.js + Firebase + Gemini).  First project, built in 12 days.",
     "id": "harshanand-dev074/haq-prep",
     "language": "JavaScript",
@@ -9,15 +144,6 @@
     "url": "https://github.com/harshanand-dev074/haq-prep"
   },
   {
-    "description": "Two Claude Code skills to carry work across a /clear: capture a session to a handoff file, then resume it in a fresh ses",
-    "id": "orzilca/claude-handoff-skills",
-    "language": "JavaScript",
-    "name": "orzilca/claude-handoff-skills",
-    "stars": 1,
-    "updated_at": "2026-07-06T14:58:54Z",
-    "url": "https://github.com/orzilca/claude-handoff-skills"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -25,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T14:58:40Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Incord Memory \u2014 local-first, per-user memory engine for AI. Hybrid retrieval + self-wiring graph. Free & offline, option",
-    "id": "incordai/memory",
-    "language": "Shell",
-    "name": "incordai/memory",
-    "stars": 1,
-    "updated_at": "2026-07-06T14:58:24Z",
-    "url": "https://github.com/incordai/memory"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -117,24 +234,6 @@
     "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
-    "description": "Persistent memory layer for Claude Code \u2014 Obsidian vault health, connection discovery, brain dump, session notes, email ",
-    "id": "jojoprison/mnemo",
-    "language": "Python",
-    "name": "jojoprison/mnemo",
-    "stars": 6,
-    "updated_at": "2026-07-06T14:59:21Z",
-    "url": "https://github.com/jojoprison/mnemo"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-06T14:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -211,7 +310,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 65032,
+    "stars": 65033,
     "updated_at": "2026-07-06T14:34:49Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -223,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T14:34:36Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "lm-mem \u672c\u5730\u8bed\u4e49\u8bb0\u5fc6",
-    "id": "laomou/lm-mem",
-    "language": "Python",
-    "name": "laomou/lm-mem",
-    "stars": 0,
-    "updated_at": "2026-07-06T14:34:02Z",
-    "url": "https://github.com/laomou/lm-mem"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T14:18:52Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Reusable Claude Code agents and skills, ready to drop into any project.",
-    "id": "hcussi/claude-code-toolkit",
-    "language": "Java",
-    "name": "hcussi/claude-code-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-06T14:16:01Z",
-    "url": "https://github.com/hcussi/claude-code-toolkit"
-  },
-  {
-    "description": "Connect Google NotebookLM notebooks to any MCP-compliant AI assistant to query sources, generate reports, and create aud",
-    "id": "arsen9112/notebooklm-connector",
-    "language": "\u2014",
-    "name": "arsen9112/notebooklm-connector",
-    "stars": 0,
-    "updated_at": "2026-07-06T14:11:52Z",
-    "url": "https://github.com/arsen9112/notebooklm-connector"
-  },
-  {
-    "description": "Open source Claude skill library for product design teams running on AI. From PRD to validated prototype in days.",
-    "id": "royvergara/design-team-os",
-    "language": "Shell",
-    "name": "royvergara/design-team-os",
-    "stars": 1,
-    "updated_at": "2026-07-06T14:09:04Z",
-    "url": "https://github.com/royvergara/design-team-os"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 0,
-    "updated_at": "2026-07-06T14:08:44Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-07-06T14:07:25Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 1,
-    "updated_at": "2026-07-06T14:07:08Z",
-    "url": "https://github.com/vanducng/skills"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-07-06T14:04:25Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
-    "id": "testdouble/han",
-    "language": "Shell",
-    "name": "testdouble/han",
-    "stars": 108,
-    "updated_at": "2026-07-06T14:47:57Z",
-    "url": "https://github.com/testdouble/han"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 1,
-    "updated_at": "2026-07-06T14:03:56Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-06T14:03:42Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
