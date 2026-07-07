@@ -1,5 +1,68 @@
 [
   {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 28,
+    "updated_at": "2026-07-07T15:57:19Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "A custom marketplace of Claude Code plugins for both experienced developers and vibe coders, extending Claude Code with ",
+    "id": "V-Songbird/claude-plugins",
+    "language": "JavaScript",
+    "name": "V-Songbird/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:57:14Z",
+    "url": "https://github.com/V-Songbird/claude-plugins"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 9,
+    "updated_at": "2026-07-07T15:55:38Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 1,
+    "updated_at": "2026-07-07T16:00:10Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "bridge.ai/anchor: skills for consistent and effective source control",
+    "id": "chris-peterson/anchor",
+    "language": "Shell",
+    "name": "chris-peterson/anchor",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:53:09Z",
+    "url": "https://github.com/chris-peterson/anchor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-07T15:52:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 404,
+    "updated_at": "2026-07-07T15:52:18Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
     "description": "Practical Claude Code skills \u2014 English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add.",
     "id": "wquguru/skills",
     "language": "Shell",
@@ -54,15 +117,6 @@
     "url": "https://github.com/0xc000022070/agentic-flake"
   },
   {
-    "description": "bridge.ai/anchor: skills for consistent and effective source control",
-    "id": "chris-peterson/anchor",
-    "language": "Shell",
-    "name": "chris-peterson/anchor",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:46:53Z",
-    "url": "https://github.com/chris-peterson/anchor"
-  },
-  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -90,15 +144,6 @@
     "url": "https://github.com/Edward0l1/skill-flare-discover"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-07T15:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "394 free, quality-tested Claude skills for TV producers, journalists, podcasters, YouTubers & media professionals.",
     "id": "ur-grue/autopunk-media-skills",
     "language": "Python",
@@ -115,15 +160,6 @@
     "stars": 127,
     "updated_at": "2026-07-07T15:41:32Z",
     "url": "https://github.com/oaustegard/claude-skills"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:51:30Z",
-    "url": "https://github.com/mr-kelly/skills"
   },
   {
     "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
@@ -198,15 +234,6 @@
     "url": "https://github.com/DataZooDE/anofox-forecast"
   },
   {
-    "description": "A custom marketplace of Claude Code plugins for both experienced developers and vibe coders, extending Claude Code with ",
-    "id": "V-Songbird/claude-plugins",
-    "language": "JavaScript",
-    "name": "V-Songbird/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:30:31Z",
-    "url": "https://github.com/V-Songbird/claude-plugins"
-  },
-  {
     "description": "AI Agent Team scaffold for Claude Code \u2014 19 roles collaborate through stage gates, enforced by mandatory skills + blocki",
     "id": "pcliangx/AppGenesisForge",
     "language": "Python",
@@ -223,15 +250,6 @@
     "stars": 10,
     "updated_at": "2026-07-07T15:28:49Z",
     "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 404,
-    "updated_at": "2026-07-07T15:52:18Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
@@ -378,15 +396,6 @@
     "url": "https://github.com/arsen9112/notebooklm-connector"
   },
   {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 9,
-    "updated_at": "2026-07-07T15:51:59Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "gooseworks-ai/goose-skills",
     "stars": 976,
-    "updated_at": "2026-07-07T15:13:29Z",
+    "updated_at": "2026-07-07T15:54:49Z",
     "url": "https://github.com/gooseworks-ai/goose-skills"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-07T15:10:09Z",
     "url": "https://github.com/naxoc/claude-briefs"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:09:29Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
   }
 ]
