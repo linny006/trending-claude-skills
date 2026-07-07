@@ -5,8 +5,44 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 278,
-    "updated_at": "2026-07-07T09:42:26Z",
+    "updated_at": "2026-07-07T09:59:30Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Evidence-backed Austin communication translation system: one thought process, different doorways. Change the doorway, no",
+    "id": "ahump20/Austin-Writing---Communication-Style-Archive",
+    "language": "HTML",
+    "name": "ahump20/Austin-Writing---Communication-Style-Archive",
+    "stars": 2,
+    "updated_at": "2026-07-07T09:59:27Z",
+    "url": "https://github.com/ahump20/Austin-Writing---Communication-Style-Archive"
+  },
+  {
+    "description": "\u0423\u0431\u0438\u0440\u0430\u0435\u0442 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0438 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0432 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u0442\u0435\u043a\u0441\u0442\u0435",
+    "id": "Vladimir-Human/humanizer-ru",
+    "language": "Python",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 60,
+    "updated_at": "2026-07-07T09:59:32Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
+  },
+  {
+    "description": "Scriptable CLI for RenderDoc captures \u2014 built for terminal workflows, CI pipelines, and AI agents",
+    "id": "BANANASJIM/rdc-cli",
+    "language": "Python",
+    "name": "BANANASJIM/rdc-cli",
+    "stars": 147,
+    "updated_at": "2026-07-07T09:55:45Z",
+    "url": "https://github.com/BANANASJIM/rdc-cli"
+  },
+  {
+    "description": "Agent skills for Claude Code and Codex: multi-agent orchestration, code review with an A-F ship grade, AI evals, CI ship",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "Python",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 6,
+    "updated_at": "2026-07-07T09:51:54Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
     "description": "SIMD-accelerated, single-pass codebase intelligence fabric for AI agents. Offload multi-keyword scans and AST context-pr",
@@ -14,8 +50,44 @@
     "language": "Rust",
     "name": "jamestkelly/search-mesh",
     "stars": 1,
-    "updated_at": "2026-07-07T09:41:24Z",
+    "updated_at": "2026-07-07T09:51:49Z",
     "url": "https://github.com/jamestkelly/search-mesh"
+  },
+  {
+    "description": "A custom marketplace of Claude Code plugins for both experienced developers and vibe coders, extending Claude Code with ",
+    "id": "V-Songbird/claude-plugins",
+    "language": "JavaScript",
+    "name": "V-Songbird/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-07T09:50:27Z",
+    "url": "https://github.com/V-Songbird/claude-plugins"
+  },
+  {
+    "description": "Publish HTML frontend games to the AI Game MCP platform.",
+    "id": "publisher-skill/publisher",
+    "language": "Shell",
+    "name": "publisher-skill/publisher",
+    "stars": 52,
+    "updated_at": "2026-07-07T09:48:48Z",
+    "url": "https://github.com/publisher-skill/publisher"
+  },
+  {
+    "description": "Project memory for long-running AI work across agents, models, and sessions. Keep context, decisions, progress, and next",
+    "id": "Frappucc1no/recall-loom",
+    "language": "Python",
+    "name": "Frappucc1no/recall-loom",
+    "stars": 145,
+    "updated_at": "2026-07-07T09:51:10Z",
+    "url": "https://github.com/Frappucc1no/recall-loom"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-07T09:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source thinking-framework skills that make rigorous reasoning executable for AI agents \u2014 first-principles, inversio",
@@ -50,7 +122,7 @@
     "language": "JavaScript",
     "name": "gaia-react/gaia",
     "stars": 19,
-    "updated_at": "2026-07-07T09:33:57Z",
+    "updated_at": "2026-07-07T09:52:18Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T09:30:16Z",
     "url": "https://github.com/mousedecoration515/B2B-GTM-Suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-07T09:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Connect AI agents to live market, on-chain, and social data plus trade execution through one unified API.",
@@ -360,15 +423,6 @@
     "url": "https://github.com/publisher-skill/skills"
   },
   {
-    "description": "A custom marketplace of Claude Code plugins for both experienced developers and vibe coders, extending Claude Code with ",
-    "id": "V-Songbird/claude-plugins",
-    "language": "JavaScript",
-    "name": "V-Songbird/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:14:26Z",
-    "url": "https://github.com/V-Songbird/claude-plugins"
-  },
-  {
     "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
     "id": "Analliseamicable382/bbc-skill",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T09:13:47Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:13:24Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:13:21Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:13:14Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:13:13Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:13:12Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:13:07Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
   }
 ]
