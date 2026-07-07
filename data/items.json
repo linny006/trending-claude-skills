@@ -1,12 +1,75 @@
 [
   {
+    "description": "SIMD-accelerated, single-pass codebase intelligence fabric for AI agents. Offload multi-keyword scans and AST context-pr",
+    "id": "jamestkelly/search-mesh",
+    "language": "Rust",
+    "name": "jamestkelly/search-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-07T12:59:17Z",
+    "url": "https://github.com/jamestkelly/search-mesh"
+  },
+  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 186,
-    "updated_at": "2026-07-07T12:43:05Z",
+    "updated_at": "2026-07-07T12:58:15Z",
     "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 404,
+    "updated_at": "2026-07-07T12:56:15Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 1,
+    "updated_at": "2026-07-07T12:55:48Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Official Paymob payment integration skill for Claude Code \u2014 Intention API, HMAC, mobile wallets, BNPLs, Apple Pay across",
+    "id": "PaymobAccept/Paymob-AI-Integration-Skill",
+    "language": "\u2014",
+    "name": "PaymobAccept/Paymob-AI-Integration-Skill",
+    "stars": 12,
+    "updated_at": "2026-07-07T12:51:23Z",
+    "url": "https://github.com/PaymobAccept/Paymob-AI-Integration-Skill"
+  },
+  {
+    "description": "Free, open-source skills for Claude Code and Claude Desktop \u2014 starting with a prompt-injection guard for safely ingestin",
+    "id": "kauaim/skills",
+    "language": "Python",
+    "name": "kauaim/skills",
+    "stars": 0,
+    "updated_at": "2026-07-07T12:50:14Z",
+    "url": "https://github.com/kauaim/skills"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 4,
+    "updated_at": "2026-07-07T12:48:36Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-07T12:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Connect AI agents to live market, on-chain, and social data plus trade execution through one unified API.",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T12:41:42Z",
     "url": "https://github.com/arsen9112/notebooklm-connector"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 1,
-    "updated_at": "2026-07-07T12:41:06Z",
-    "url": "https://github.com/mr-kelly/skills"
   },
   {
     "description": "A collection of custom skills for my workflows with AI-agents",
@@ -126,15 +180,6 @@
     "url": "https://github.com/timoncool/dream-skill"
   },
   {
-    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 404,
-    "updated_at": "2026-07-07T12:35:49Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "",
     "id": "seldonframe/seldonframe",
     "language": "TypeScript",
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "molefrog/moi",
     "stars": 17,
-    "updated_at": "2026-07-07T12:33:43Z",
+    "updated_at": "2026-07-07T12:47:00Z",
     "url": "https://github.com/molefrog/moi"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T12:31:25Z",
     "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-07T12:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T12:24:30Z",
     "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-07-07T12:24:05Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-07-07T12:23:57Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-07T12:23:51Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Download Instagram media (reels, carousels, photos) via Apify Actor data with instagrapi carousel enhancement",
-    "id": "CripterHack/ig-downloader-skill",
-    "language": "Python",
-    "name": "CripterHack/ig-downloader-skill",
-    "stars": 0,
-    "updated_at": "2026-07-07T12:23:46Z",
-    "url": "https://github.com/CripterHack/ig-downloader-skill"
   }
 ]
