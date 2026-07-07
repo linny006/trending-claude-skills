@@ -1,5 +1,122 @@
 [
   {
+    "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
+    "id": "matejformanek/postgres-claude",
+    "language": "Python",
+    "name": "matejformanek/postgres-claude",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:14:56Z",
+    "url": "https://github.com/matejformanek/postgres-claude"
+  },
+  {
+    "description": "",
+    "id": "sarveshtalele/aspx-analysis-skill",
+    "language": "Python",
+    "name": "sarveshtalele/aspx-analysis-skill",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:11:24Z",
+    "url": "https://github.com/sarveshtalele/aspx-analysis-skill"
+  },
+  {
+    "description": "Free Claude Skill: 8-phase unknowns discovery \u2014 surface blindspots, hidden assumptions, and risks before they become exp",
+    "id": "Onefailatatime/unknowns-discovery",
+    "language": "\u2014",
+    "name": "Onefailatatime/unknowns-discovery",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:11:24Z",
+    "url": "https://github.com/Onefailatatime/unknowns-discovery"
+  },
+  {
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
+    "id": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "language": "Python",
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "stars": 3,
+    "updated_at": "2026-07-07T11:10:20Z",
+    "url": "https://github.com/Shada01245/the-unofficial-swift-programming-language-skill"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
+    "id": "thairns/claude-rubycritic-skill",
+    "language": "\u2014",
+    "name": "thairns/claude-rubycritic-skill",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:09:37Z",
+    "url": "https://github.com/thairns/claude-rubycritic-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
+    "id": "Junayedahmedd/gemini_cli_skill",
+    "language": "\u2014",
+    "name": "Junayedahmedd/gemini_cli_skill",
+    "stars": 3,
+    "updated_at": "2026-07-07T11:09:23Z",
+    "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-07-07T11:08:40Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "Memory consolidation skills for Claude Code \u2014 read-only dream pass, checkbox/validator gate, full-auto mode, snapshot + ",
+    "id": "timoncool/dream-skill",
+    "language": "HTML",
+    "name": "timoncool/dream-skill",
+    "stars": 1,
+    "updated_at": "2026-07-07T11:07:56Z",
+    "url": "https://github.com/timoncool/dream-skill"
+  },
+  {
+    "description": "",
+    "id": "seldonframe/seldonframe",
+    "language": "TypeScript",
+    "name": "seldonframe/seldonframe",
+    "stars": 7,
+    "updated_at": "2026-07-07T11:07:15Z",
+    "url": "https://github.com/seldonframe/seldonframe"
+  },
+  {
+    "description": "SIMD-accelerated, single-pass codebase intelligence fabric for AI agents. Offload multi-keyword scans and AST context-pr",
+    "id": "jamestkelly/search-mesh",
+    "language": "Rust",
+    "name": "jamestkelly/search-mesh",
+    "stars": 1,
+    "updated_at": "2026-07-07T11:04:15Z",
+    "url": "https://github.com/jamestkelly/search-mesh"
+  },
+  {
+    "description": "Claude skills that actually work \u2014 every entry installed & tested, with scores. By SkillProof.",
+    "id": "TimVR13/awesome-tested-claude-skills",
+    "language": "\u2014",
+    "name": "TimVR13/awesome-tested-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:02:00Z",
+    "url": "https://github.com/TimVR13/awesome-tested-claude-skills"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 63,
+    "updated_at": "2026-07-07T11:01:39Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-07T11:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
     "id": "alexgreensh/repo-forensics",
     "language": "Python",
@@ -117,15 +234,6 @@
     "url": "https://github.com/FrancescoBorzi/agent-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-07T10:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -151,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-07-07T10:34:46Z",
     "url": "https://github.com/jsuvic/agent-profile"
-  },
-  {
-    "description": "Free Claude Skill: 8-phase unknowns discovery \u2014 surface blindspots, hidden assumptions, and risks before they become exp",
-    "id": "Onefailatatime/unknowns-discovery",
-    "language": "\u2014",
-    "name": "Onefailatatime/unknowns-discovery",
-    "stars": 0,
-    "updated_at": "2026-07-07T10:33:45Z",
-    "url": "https://github.com/Onefailatatime/unknowns-discovery"
   },
   {
     "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
@@ -297,15 +396,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "SIMD-accelerated, single-pass codebase intelligence fabric for AI agents. Offload multi-keyword scans and AST context-pr",
-    "id": "jamestkelly/search-mesh",
-    "language": "Rust",
-    "name": "jamestkelly/search-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-07T10:12:37Z",
-    "url": "https://github.com/jamestkelly/search-mesh"
-  },
-  {
     "description": "A curated Claude Code plugin with skills for anything Claude can do.",
     "id": "toolbox-playground/super-claudio",
     "language": "\u2014",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T10:02:39Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "SecureVibe \u2014 prevention-first security for AI-written code. Signed SKILL.md knowledge that makes AI coding assistants wr",
-    "id": "ShieldNet-360/secure-vibe",
-    "language": "Go",
-    "name": "ShieldNet-360/secure-vibe",
-    "stars": 4,
-    "updated_at": "2026-07-07T10:11:27Z",
-    "url": "https://github.com/ShieldNet-360/secure-vibe"
-  },
-  {
-    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
-    "id": "aaron-he-zhu/aaron-marketing-skills",
-    "language": "Python",
-    "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2332,
-    "updated_at": "2026-07-07T10:01:00Z",
-    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
-  },
-  {
-    "description": "Scriptable CLI for RenderDoc captures \u2014 built for terminal workflows, CI pipelines, and AI agents",
-    "id": "BANANASJIM/rdc-cli",
-    "language": "Python",
-    "name": "BANANASJIM/rdc-cli",
-    "stars": 147,
-    "updated_at": "2026-07-07T09:55:45Z",
-    "url": "https://github.com/BANANASJIM/rdc-cli"
-  },
-  {
-    "description": "Agent skills for Claude Code and Codex: multi-agent orchestration, code review with an A-F ship grade, AI evals, CI ship",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "Python",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 6,
-    "updated_at": "2026-07-07T09:51:54Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Publish HTML frontend games to the AI Game MCP platform.",
-    "id": "publisher-skill/publisher",
-    "language": "Shell",
-    "name": "publisher-skill/publisher",
-    "stars": 52,
-    "updated_at": "2026-07-07T09:48:48Z",
-    "url": "https://github.com/publisher-skill/publisher"
-  },
-  {
-    "description": "Project memory for long-running AI work across agents, models, and sessions. Keep context, decisions, progress, and next",
-    "id": "Frappucc1no/recall-loom",
-    "language": "Python",
-    "name": "Frappucc1no/recall-loom",
-    "stars": 145,
-    "updated_at": "2026-07-07T09:51:10Z",
-    "url": "https://github.com/Frappucc1no/recall-loom"
-  },
-  {
-    "description": "Open-source thinking-framework skills that make rigorous reasoning executable for AI agents \u2014 first-principles, inversio",
-    "id": "deciqAI/knowledge-skills",
-    "language": "\u2014",
-    "name": "deciqAI/knowledge-skills",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:38:34Z",
-    "url": "https://github.com/deciqAI/knowledge-skills"
-  },
-  {
-    "description": "A collection of battle-tested Claude Code skills by \u53c1\u7b19 \u00b7 \u4e00\u5957\u5b9e\u6218\u6253\u78e8\u7684 Claude Code \u6280\u80fd\u5408\u96c6",
-    "id": "sandypoli-boop/sansheng-skills",
-    "language": "HTML",
-    "name": "sandypoli-boop/sansheng-skills",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:34:14Z",
-    "url": "https://github.com/sandypoli-boop/sansheng-skills"
-  },
-  {
-    "description": "\ud83d\udc27 A native GNOME knowledge workstation that turns documents into evolving AI-assisted knowledge bases.",
-    "id": "openapi/gknowledge",
-    "language": "Python",
-    "name": "openapi/gknowledge",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:34:14Z",
-    "url": "https://github.com/openapi/gknowledge"
-  },
-  {
-    "description": "Claude Code skill that makes any model (Sonnet 5 / Opus 4.8) operate with Fable-class discipline - task-adaptive practic",
-    "id": "amanlakra-art/fable-mode",
-    "language": "\u2014",
-    "name": "amanlakra-art/fable-mode",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:31:49Z",
-    "url": "https://github.com/amanlakra-art/fable-mode"
   }
 ]
