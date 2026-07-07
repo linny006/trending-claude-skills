@@ -1,5 +1,131 @@
 [
   {
+    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
+    "id": "alexgreensh/repo-forensics",
+    "language": "Python",
+    "name": "alexgreensh/repo-forensics",
+    "stars": 137,
+    "updated_at": "2026-07-07T10:59:35Z",
+    "url": "https://github.com/alexgreensh/repo-forensics"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 1,
+    "updated_at": "2026-07-07T10:59:16Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 0,
+    "updated_at": "2026-07-07T10:57:06Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "",
+    "id": "naveedharri/benai-skills",
+    "language": "JavaScript",
+    "name": "naveedharri/benai-skills",
+    "stars": 37,
+    "updated_at": "2026-07-07T10:56:26Z",
+    "url": "https://github.com/naveedharri/benai-skills"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-07T10:55:04Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Evidence-backed Austin communication translation system: one thought process, different doorways. Change the doorway, no",
+    "id": "ahump20/Austin-Writing---Communication-Style-Archive",
+    "language": "HTML",
+    "name": "ahump20/Austin-Writing---Communication-Style-Archive",
+    "stars": 2,
+    "updated_at": "2026-07-07T10:50:38Z",
+    "url": "https://github.com/ahump20/Austin-Writing---Communication-Style-Archive"
+  },
+  {
+    "description": "When your agent starts coding, you gotta let it cook",
+    "id": "ndisisnd/cook",
+    "language": "Python",
+    "name": "ndisisnd/cook",
+    "stars": 1,
+    "updated_at": "2026-07-07T10:48:06Z",
+    "url": "https://github.com/ndisisnd/cook"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 0,
+    "updated_at": "2026-07-07T10:46:57Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "A comprehensive SEO audit command-line tool with 108 audit rules across 12 categories. Analyze any website for SEO best ",
+    "id": "seo-skills/seo-audit-skill",
+    "language": "TypeScript",
+    "name": "seo-skills/seo-audit-skill",
+    "stars": 316,
+    "updated_at": "2026-07-07T10:46:44Z",
+    "url": "https://github.com/seo-skills/seo-audit-skill"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 21,
+    "updated_at": "2026-07-07T10:46:39Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "11\u4e2a\u88c5\u4fee\u907f\u5751\u72ec\u7acbSkill\u5408\u96c6 \u2014 \u8986\u76d6\u5168\u5c4b\u5b9a\u5236\u3001\u8001\u623f\u6539\u9020\u3001\u5408\u540c\u5ba1\u6838\u3001\u62a5\u4ef7\u5ba1\u6838\u3001\u65b9\u6848\u8bca\u65ad\u3001\u73af\u4fdd\u907f\u5751\u3001\u6d41\u7a0b\u7ba1\u63a7\u3001\u7ffb\u8f66\u6025\u6551\u3001\u907f\u5751\u95ee\u7b54\u3001\u589e\u9879\u907f\u96f7\u3001\u516c\u53f8\u9009\u62e9\u7b49\u88c5\u4fee\u5168\u6d41\u7a0b",
+    "id": "zx029w/zhuangxiu-skills",
+    "language": "Python",
+    "name": "zx029w/zhuangxiu-skills",
+    "stars": 2,
+    "updated_at": "2026-07-07T10:46:18Z",
+    "url": "https://github.com/zx029w/zhuangxiu-skills"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 17,
+    "updated_at": "2026-07-07T10:46:39Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "FrancescoBorzi/agent-toolkit",
+    "language": "Shell",
+    "name": "FrancescoBorzi/agent-toolkit",
+    "stars": 18,
+    "updated_at": "2026-07-07T10:45:23Z",
+    "url": "https://github.com/FrancescoBorzi/agent-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-07T10:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -18,15 +144,6 @@
     "url": "https://github.com/ChronoAIProject/Ornn"
   },
   {
-    "description": "A comprehensive SEO audit command-line tool with 108 audit rules across 12 categories. Analyze any website for SEO best ",
-    "id": "seo-skills/seo-audit-skill",
-    "language": "TypeScript",
-    "name": "seo-skills/seo-audit-skill",
-    "stars": 316,
-    "updated_at": "2026-07-07T10:37:29Z",
-    "url": "https://github.com/seo-skills/seo-audit-skill"
-  },
-  {
     "description": "Terraform-style configuration for AI coding agents. Compile one ai-profile.yaml into safe Codex, Claude, and Tabnine con",
     "id": "jsuvic/agent-profile",
     "language": "TypeScript",
@@ -43,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T10:33:45Z",
     "url": "https://github.com/Onefailatatime/unknowns-discovery"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-07T10:32:42Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Evidence-backed Austin communication translation system: one thought process, different doorways. Change the doorway, no",
-    "id": "ahump20/Austin-Writing---Communication-Style-Archive",
-    "language": "HTML",
-    "name": "ahump20/Austin-Writing---Communication-Style-Archive",
-    "stars": 2,
-    "updated_at": "2026-07-07T10:32:33Z",
-    "url": "https://github.com/ahump20/Austin-Writing---Communication-Style-Archive"
-  },
-  {
-    "description": "",
-    "id": "naveedharri/benai-skills",
-    "language": "JavaScript",
-    "name": "naveedharri/benai-skills",
-    "stars": 37,
-    "updated_at": "2026-07-07T10:32:29Z",
-    "url": "https://github.com/naveedharri/benai-skills"
   },
   {
     "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
@@ -135,15 +225,6 @@
     "url": "https://github.com/V-Songbird/claude-plugins"
   },
   {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 21,
-    "updated_at": "2026-07-07T10:42:23Z",
-    "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
     "description": "D\u00e9p\u00f4t de skills pour agents IA, organis\u00e9s et pr\u00eats \u00e0 \u00eatre int\u00e9gr\u00e9s dans vos workflows.",
     "id": "vidjinnangni/skills-agents-ia",
     "language": "\u2014",
@@ -151,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-07-07T10:23:51Z",
     "url": "https://github.com/vidjinnangni/skills-agents-ia"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1479,
+    "updated_at": "2026-07-07T10:23:41Z",
+    "url": "https://github.com/a5c-ai/babysitter"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T09:31:49Z",
     "url": "https://github.com/amanlakra-art/fable-mode"
-  },
-  {
-    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
-    "id": "magnusrodseth/dotfiles",
-    "language": "Shell",
-    "name": "magnusrodseth/dotfiles",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:31:27Z",
-    "url": "https://github.com/magnusrodseth/dotfiles"
-  },
-  {
-    "description": "Hall of Mirrors \u2014 free Claude Skill. See how VC, angels, government, grants, accelerators & corporates each read the sam",
-    "id": "aussieOS/aussieOS",
-    "language": "HTML",
-    "name": "aussieOS/aussieOS",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:30:46Z",
-    "url": "https://github.com/aussieOS/aussieOS"
-  },
-  {
-    "description": "Build B2B sales strategies using AI agent skills that generate personas, value propositions, and buying maps from struct",
-    "id": "mousedecoration515/B2B-GTM-Suite",
-    "language": "Python",
-    "name": "mousedecoration515/B2B-GTM-Suite",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:30:16Z",
-    "url": "https://github.com/mousedecoration515/B2B-GTM-Suite"
-  },
-  {
-    "description": "Connect AI agents to live market, on-chain, and social data plus trade execution through one unified API.",
-    "id": "oliveira7015/openclawby-skills",
-    "language": "CSS",
-    "name": "oliveira7015/openclawby-skills",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:30:12Z",
-    "url": "https://github.com/oliveira7015/openclawby-skills"
-  },
-  {
-    "description": "Connect Google NotebookLM notebooks to any MCP-compliant AI assistant to query sources, generate reports, and create aud",
-    "id": "arsen9112/notebooklm-connector",
-    "language": "\u2014",
-    "name": "arsen9112/notebooklm-connector",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:29:49Z",
-    "url": "https://github.com/arsen9112/notebooklm-connector"
-  },
-  {
-    "description": "",
-    "id": "andresnator/agents-orchestrator",
-    "language": "Shell",
-    "name": "andresnator/agents-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:28:48Z",
-    "url": "https://github.com/andresnator/agents-orchestrator"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 383,
-    "updated_at": "2026-07-07T09:32:43Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:26:46Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:25:23Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:22:38Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
   }
 ]
