@@ -1,11 +1,146 @@
 [
   {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 4,
+    "updated_at": "2026-07-08T03:29:33Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "",
+    "id": "DXShelley/obsidian-cli-plugins-skill",
+    "language": "Python",
+    "name": "DXShelley/obsidian-cli-plugins-skill",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:30:09Z",
+    "url": "https://github.com/DXShelley/obsidian-cli-plugins-skill"
+  },
+  {
+    "description": "When your agent starts coding, you gotta let it cook",
+    "id": "ndisisnd/cook",
+    "language": "Python",
+    "name": "ndisisnd/cook",
+    "stars": 1,
+    "updated_at": "2026-07-08T03:28:48Z",
+    "url": "https://github.com/ndisisnd/cook"
+  },
+  {
+    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
+    "id": "TerminallyLazy/Tree-Ring-Memory",
+    "language": "Rust",
+    "name": "TerminallyLazy/Tree-Ring-Memory",
+    "stars": 4,
+    "updated_at": "2026-07-08T03:27:48Z",
+    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+  },
+  {
+    "description": "Self-hosted AI orchestration platform for persistent agents, shared knowledge, and safe automation.",
+    "id": "OBrown101/dawson-server",
+    "language": "Python",
+    "name": "OBrown101/dawson-server",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:24:25Z",
+    "url": "https://github.com/OBrown101/dawson-server"
+  },
+  {
+    "description": "Agent skills that help you publish in the AER faster \u2014 identification-first empirics, AEA-compliant replication, Keith-H",
+    "id": "brycewang-stanford/AER-Skills",
+    "language": "Python",
+    "name": "brycewang-stanford/AER-Skills",
+    "stars": 27,
+    "updated_at": "2026-07-08T03:23:18Z",
+    "url": "https://github.com/brycewang-stanford/AER-Skills"
+  },
+  {
+    "description": "Investigation on using Claude Code to automatically generate profitable YouTube videos.",
+    "id": "jperrello/C0BALT_CUT",
+    "language": "Python",
+    "name": "jperrello/C0BALT_CUT",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:22:16Z",
+    "url": "https://github.com/jperrello/C0BALT_CUT"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-08T03:22:05Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 19,
+    "updated_at": "2026-07-08T03:20:10Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": " Agent skill for Claude Code & OpenClaw \ud83e\udd9e \u2014 remove the \"Made with Gamma\" watermark from   PDF & PPTX exports. Free web v",
+    "id": "gammaremover/gamma-watermark-remover-skill",
+    "language": "\u2014",
+    "name": "gammaremover/gamma-watermark-remover-skill",
+    "stars": 4,
+    "updated_at": "2026-07-08T03:19:50Z",
+    "url": "https://github.com/gammaremover/gamma-watermark-remover-skill"
+  },
+  {
+    "description": "An Agent Skill of  Modellix documentation and capabilities reference.",
+    "id": "Modellix/modellix-skill",
+    "language": "Python",
+    "name": "Modellix/modellix-skill",
+    "stars": 1,
+    "updated_at": "2026-07-08T03:19:13Z",
+    "url": "https://github.com/Modellix/modellix-skill"
+  },
+  {
+    "description": "Adaptive AI exam prep app (Next.js + Firebase + Gemini).  First project, built in 12 days.",
+    "id": "harshanand-dev074/haq-prep",
+    "language": "JavaScript",
+    "name": "harshanand-dev074/haq-prep",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:16:22Z",
+    "url": "https://github.com/harshanand-dev074/haq-prep"
+  },
+  {
+    "description": "",
+    "id": "Doria271828-boop/critical-report-review",
+    "language": "\u2014",
+    "name": "Doria271828-boop/critical-report-review",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:15:58Z",
+    "url": "https://github.com/Doria271828-boop/critical-report-review"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-08T03:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "agent-skills,Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
+    "id": "yugef3h/leo-skills",
+    "language": "\u2014",
+    "name": "yugef3h/leo-skills",
+    "stars": 11,
+    "updated_at": "2026-07-08T03:15:10Z",
+    "url": "https://github.com/yugef3h/leo-skills"
+  },
+  {
     "description": "SecureVibe \u2014 prevention-first security for AI-written code. Signed SKILL.md knowledge that makes AI coding assistants wr",
     "id": "ShieldNet-360/secure-vibe",
     "language": "Go",
     "name": "ShieldNet-360/secure-vibe",
     "stars": 4,
-    "updated_at": "2026-07-08T03:12:26Z",
+    "updated_at": "2026-07-08T03:21:22Z",
     "url": "https://github.com/ShieldNet-360/secure-vibe"
   },
   {
@@ -18,15 +153,6 @@
     "url": "https://github.com/viitorohit/sitrep"
   },
   {
-    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
-    "id": "TerminallyLazy/Tree-Ring-Memory",
-    "language": "Rust",
-    "name": "TerminallyLazy/Tree-Ring-Memory",
-    "stars": 4,
-    "updated_at": "2026-07-08T03:12:10Z",
-    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
-  },
-  {
     "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
     "id": "archubbuck/workspace-architect",
     "language": "Python",
@@ -34,15 +160,6 @@
     "stars": 16,
     "updated_at": "2026-07-08T03:09:33Z",
     "url": "https://github.com/archubbuck/workspace-architect"
-  },
-  {
-    "description": " Agent skill for Claude Code & OpenClaw \ud83e\udd9e \u2014 remove the \"Made with Gamma\" watermark from   PDF & PPTX exports. Free web v",
-    "id": "gammaremover/gamma-watermark-remover-skill",
-    "language": "\u2014",
-    "name": "gammaremover/gamma-watermark-remover-skill",
-    "stars": 4,
-    "updated_at": "2026-07-08T03:08:52Z",
-    "url": "https://github.com/gammaremover/gamma-watermark-remover-skill"
   },
   {
     "description": "Real-time LLM cost tracking and optimization. Measures file format costs (36x), operation type variance (55x), data ware",
@@ -63,24 +180,6 @@
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "Claude Code plugins by Songbird \u2014 tools that make Claude plan better, talk less, build leaner, and stop guessing.",
-    "id": "V-Songbird/claude-plugins",
-    "language": "JavaScript",
-    "name": "V-Songbird/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-08T03:06:18Z",
-    "url": "https://github.com/V-Songbird/claude-plugins"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-08T03:00:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
     "id": "ndisisnd/msg",
     "language": "HTML",
@@ -88,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T02:57:49Z",
     "url": "https://github.com/ndisisnd/msg"
-  },
-  {
-    "description": "When your agent starts coding, you gotta let it cook",
-    "id": "ndisisnd/cook",
-    "language": "Python",
-    "name": "ndisisnd/cook",
-    "stars": 1,
-    "updated_at": "2026-07-08T02:57:44Z",
-    "url": "https://github.com/ndisisnd/cook"
   },
   {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T02:34:11Z",
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:34:09Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:32:55Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "id": "dongshuyan/compass-skills",
-    "language": "Python",
-    "name": "dongshuyan/compass-skills",
-    "stars": 534,
-    "updated_at": "2026-07-08T02:32:51Z",
-    "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:32:33Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:32:23Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-08T02:31:56Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:31:37Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-07-08T02:30:14Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
-    "id": "Dianel555/DSkills",
-    "language": "Python",
-    "name": "Dianel555/DSkills",
-    "stars": 64,
-    "updated_at": "2026-07-08T02:30:03Z",
-    "url": "https://github.com/Dianel555/DSkills"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:29:59Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
   }
 ]
