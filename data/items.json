@@ -1,5 +1,95 @@
 [
   {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-08T03:44:41Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
+    "id": "TerminallyLazy/Tree-Ring-Memory",
+    "language": "Rust",
+    "name": "TerminallyLazy/Tree-Ring-Memory",
+    "stars": 4,
+    "updated_at": "2026-07-08T03:41:50Z",
+    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1482,
+    "updated_at": "2026-07-08T03:41:42Z",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  {
+    "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
+    "id": "bitjaru/styleseed",
+    "language": "TypeScript",
+    "name": "bitjaru/styleseed",
+    "stars": 655,
+    "updated_at": "2026-07-08T03:39:39Z",
+    "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "agent-skills,Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
+    "id": "yugef3h/leo-skills",
+    "language": "\u2014",
+    "name": "yugef3h/leo-skills",
+    "stars": 11,
+    "updated_at": "2026-07-08T03:39:17Z",
+    "url": "https://github.com/yugef3h/leo-skills"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:37:19Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
+    "description": "When your agent starts coding, you gotta let it cook",
+    "id": "ndisisnd/cook",
+    "language": "Python",
+    "name": "ndisisnd/cook",
+    "stars": 1,
+    "updated_at": "2026-07-08T03:36:41Z",
+    "url": "https://github.com/ndisisnd/cook"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-07-08T03:34:13Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "SamDin \u0e2a\u0e32\u0e21\u0e14\u0e34\u0e19 ThreeJS modelling tool w/ claude skill",
+    "id": "mbarlow/samdin",
+    "language": "JavaScript",
+    "name": "mbarlow/samdin",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:33:36Z",
+    "url": "https://github.com/mbarlow/samdin"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-08T03:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
     "id": "HsuanYuLee/polaris",
     "language": "Shell",
@@ -16,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T03:30:09Z",
     "url": "https://github.com/DXShelley/obsidian-cli-plugins-skill"
-  },
-  {
-    "description": "When your agent starts coding, you gotta let it cook",
-    "id": "ndisisnd/cook",
-    "language": "Python",
-    "name": "ndisisnd/cook",
-    "stars": 1,
-    "updated_at": "2026-07-08T03:28:48Z",
-    "url": "https://github.com/ndisisnd/cook"
-  },
-  {
-    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
-    "id": "TerminallyLazy/Tree-Ring-Memory",
-    "language": "Rust",
-    "name": "TerminallyLazy/Tree-Ring-Memory",
-    "stars": 4,
-    "updated_at": "2026-07-08T03:27:48Z",
-    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
   },
   {
     "description": "Self-hosted AI orchestration platform for persistent agents, shared knowledge, and safe automation.",
@@ -117,30 +189,12 @@
     "url": "https://github.com/Doria271828-boop/critical-report-review"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-08T03:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "agent-skills,Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-    "id": "yugef3h/leo-skills",
-    "language": "\u2014",
-    "name": "yugef3h/leo-skills",
-    "stars": 11,
-    "updated_at": "2026-07-08T03:15:10Z",
-    "url": "https://github.com/yugef3h/leo-skills"
-  },
-  {
     "description": "SecureVibe \u2014 prevention-first security for AI-written code. Signed SKILL.md knowledge that makes AI coding assistants wr",
     "id": "ShieldNet-360/secure-vibe",
     "language": "Go",
     "name": "ShieldNet-360/secure-vibe",
     "stars": 4,
-    "updated_at": "2026-07-08T03:21:22Z",
+    "updated_at": "2026-07-08T03:45:01Z",
     "url": "https://github.com/ShieldNet-360/secure-vibe"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 6,
     "updated_at": "2026-07-08T03:06:02Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
-    "id": "bitjaru/styleseed",
-    "language": "TypeScript",
-    "name": "bitjaru/styleseed",
-    "stars": 655,
-    "updated_at": "2026-07-08T02:56:21Z",
-    "url": "https://github.com/bitjaru/styleseed"
   },
   {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
@@ -319,7 +364,7 @@
     "id": "artokun/comfyui-mcp",
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
-    "stars": 299,
+    "stars": 300,
     "updated_at": "2026-07-08T02:42:47Z",
     "url": "https://github.com/artokun/comfyui-mcp"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T02:35:37Z",
     "url": "https://github.com/sandypoli-boop/sansheng-distill"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:35:23Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:35:15Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "",
-    "id": "longbridge/skills",
-    "language": "Python",
-    "name": "longbridge/skills",
-    "stars": 37,
-    "updated_at": "2026-07-08T02:35:10Z",
-    "url": "https://github.com/longbridge/skills"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:34:45Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:34:11Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
   }
 ]
