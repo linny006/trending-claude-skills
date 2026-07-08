@@ -1,12 +1,12 @@
 [
   {
-    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
-    "id": "aaron-he-zhu/aaron-marketing-skills",
-    "language": "Python",
-    "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2342,
-    "updated_at": "2026-07-08T08:44:10Z",
-    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
+    "description": "Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.",
+    "id": "LLMQuant/awesome-trading-agents",
+    "language": "\u2014",
+    "name": "LLMQuant/awesome-trading-agents",
+    "stars": 339,
+    "updated_at": "2026-07-08T08:59:07Z",
+    "url": "https://github.com/LLMQuant/awesome-trading-agents"
   },
   {
     "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
@@ -14,17 +14,89 @@
     "language": "Rust",
     "name": "TerminallyLazy/Tree-Ring-Memory",
     "stars": 5,
-    "updated_at": "2026-07-08T08:42:09Z",
+    "updated_at": "2026-07-08T08:58:09Z",
     "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 4,
+    "updated_at": "2026-07-08T08:56:24Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 29,
+    "updated_at": "2026-07-08T08:55:21Z",
+    "url": "https://github.com/tenequm/skills"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 65238,
-    "updated_at": "2026-07-08T08:41:59Z",
+    "stars": 65240,
+    "updated_at": "2026-07-08T08:47:32Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "",
+    "id": "rjvim/ai-skills",
+    "language": "Shell",
+    "name": "rjvim/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-08T08:47:11Z",
+    "url": "https://github.com/rjvim/ai-skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-08T08:46:50Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 61,
+    "updated_at": "2026-07-08T08:45:55Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-08T08:45:18Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-08T08:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
+    "id": "aaron-he-zhu/aaron-marketing-skills",
+    "language": "Python",
+    "name": "aaron-he-zhu/aaron-marketing-skills",
+    "stars": 2342,
+    "updated_at": "2026-07-08T08:44:10Z",
+    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
   },
   {
     "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T08:32:00Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-08T08:30:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-08T07:57:33Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-08T07:56:47Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:56:22Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-08T07:56:10Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-07-08T07:56:08Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:56:02Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:55:38Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:55:36Z",
-    "url": "https://github.com/mr-kelly/skills"
   }
 ]
