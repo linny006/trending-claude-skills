@@ -1,5 +1,140 @@
 [
   {
+    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
+    "id": "TerminallyLazy/Tree-Ring-Memory",
+    "language": "Rust",
+    "name": "TerminallyLazy/Tree-Ring-Memory",
+    "stars": 4,
+    "updated_at": "2026-07-08T04:12:08Z",
+    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+  },
+  {
+    "description": "Curated, eval-backed skills for AI agents.",
+    "id": "SylphxAI/skills",
+    "language": "HTML",
+    "name": "SylphxAI/skills",
+    "stars": 2,
+    "updated_at": "2026-07-08T04:11:43Z",
+    "url": "https://github.com/SylphxAI/skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 65200,
+    "updated_at": "2026-07-08T04:11:32Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 19,
+    "updated_at": "2026-07-08T04:11:31Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-08T04:10:54Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "A pytest-based API testing framework for the TMDB REST API, showcasing modern SDET: end-to-end integration tests, Pact c",
+    "id": "pgundlupetvenkatesh/mdb_api_layer",
+    "language": "Python",
+    "name": "pgundlupetvenkatesh/mdb_api_layer",
+    "stars": 0,
+    "updated_at": "2026-07-08T04:11:25Z",
+    "url": "https://github.com/pgundlupetvenkatesh/mdb_api_layer"
+  },
+  {
+    "description": "SamDin \u0e2a\u0e32\u0e21\u0e14\u0e34\u0e19 ThreeJS modelling tool w/ claude skill",
+    "id": "mbarlow/samdin",
+    "language": "JavaScript",
+    "name": "mbarlow/samdin",
+    "stars": 0,
+    "updated_at": "2026-07-08T04:08:26Z",
+    "url": "https://github.com/mbarlow/samdin"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 63,
+    "updated_at": "2026-07-08T04:08:25Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "SecureVibe \u2014 prevention-first security for AI-written code. Signed SKILL.md knowledge that makes AI coding assistants wr",
+    "id": "ShieldNet-360/secure-vibe",
+    "language": "Go",
+    "name": "ShieldNet-360/secure-vibe",
+    "stars": 4,
+    "updated_at": "2026-07-08T04:06:38Z",
+    "url": "https://github.com/ShieldNet-360/secure-vibe"
+  },
+  {
+    "description": "Lossless context compression plugin for Claude Code & OpenCode.",
+    "id": "aerovato/magic-compact",
+    "language": "TypeScript",
+    "name": "aerovato/magic-compact",
+    "stars": 82,
+    "updated_at": "2026-07-08T04:06:36Z",
+    "url": "https://github.com/aerovato/magic-compact"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 1,
+    "updated_at": "2026-07-08T04:05:56Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 775,
+    "updated_at": "2026-07-08T04:05:20Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f 22\u4f4d\u5e26\u7075\u9b42\u4e0e\u8bb0\u5fc6\u7684\u5723\u4eba\u4e13\u5bb6\u73ed\u5b50\uff0c\u6309\u95ee\u9898\u91cd\u91cf\u81ea\u52a8\u964d\u7ea7\u5f00\u8bae\u4f1a\u2014\u2014\u65e5\u5e38\u95ee\u98981\u4f4d\u5723\u4eba3\u53e5\u8bdd\u88c1\u51b3\uff0c\u590d\u6742\u8bae\u9898\u624d\u5f00\u591a\u4e13\u5bb6\u52a0\u6743\u6295\u7968\u3002\u5723\u4eba\u8bb0\u5f97\u5386\u6b21\u51b3\u5b9a\uff0c\u540c\u7c7b\u95ee\u9898\u4f1a\u5f15\u7528\u4e0a\u6b21\u7ed3\u8bba\u3002Claude Code \u6280\u80fd\u3002",
+    "id": "SuanFishXYY/sptler",
+    "language": "Python",
+    "name": "SuanFishXYY/sptler",
+    "stars": 2,
+    "updated_at": "2026-07-08T04:01:59Z",
+    "url": "https://github.com/SuanFishXYY/sptler"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-08T04:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 86355,
+    "updated_at": "2026-07-08T03:56:43Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "Semantic agent skills for cloud operations \u2014 open SKILL.md packages for Claude Code, Cursor, Codex CLI. Includes huawei-",
     "id": "ontology-of-everything/SemanticSkills",
     "language": "Python",
@@ -7,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-07-08T03:56:22Z",
     "url": "https://github.com/ontology-of-everything/SemanticSkills"
-  },
-  {
-    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
-    "id": "TerminallyLazy/Tree-Ring-Memory",
-    "language": "Rust",
-    "name": "TerminallyLazy/Tree-Ring-Memory",
-    "stars": 4,
-    "updated_at": "2026-07-08T03:56:10Z",
-    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
   },
   {
     "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
@@ -90,33 +216,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "SecureVibe \u2014 prevention-first security for AI-written code. Signed SKILL.md knowledge that makes AI coding assistants wr",
-    "id": "ShieldNet-360/secure-vibe",
-    "language": "Go",
-    "name": "ShieldNet-360/secure-vibe",
-    "stars": 4,
-    "updated_at": "2026-07-08T03:47:44Z",
-    "url": "https://github.com/ShieldNet-360/secure-vibe"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-08T03:47:15Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-08T03:47:00Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -178,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T03:34:13Z",
     "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "SamDin \u0e2a\u0e32\u0e21\u0e14\u0e34\u0e19 ThreeJS modelling tool w/ claude skill",
-    "id": "mbarlow/samdin",
-    "language": "JavaScript",
-    "name": "mbarlow/samdin",
-    "stars": 0,
-    "updated_at": "2026-07-08T03:33:36Z",
-    "url": "https://github.com/mbarlow/samdin"
   },
   {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
@@ -358,95 +448,5 @@
     "stars": 82,
     "updated_at": "2026-07-08T02:55:10Z",
     "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 383,
-    "updated_at": "2026-07-08T02:54:46Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:52:03Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Bizer's open AI agent skills library \u2014 portable SKILL.md bundles backed by published research and evaluations. Works in ",
-    "id": "kelsi-bizer/bizer-ai-agent-skills",
-    "language": "\u2014",
-    "name": "kelsi-bizer/bizer-ai-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:50:46Z",
-    "url": "https://github.com/kelsi-bizer/bizer-ai-agent-skills"
-  },
-  {
-    "description": "A portable Claude Code skill that transfers Fable's operating discipline across models: the Frame \u2192 Plan \u2192 Act \u2192 Verify ",
-    "id": "huguryildiz/fable-protocol",
-    "language": "\u2014",
-    "name": "huguryildiz/fable-protocol",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:46:38Z",
-    "url": "https://github.com/huguryildiz/fable-protocol"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:45:11Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
-    "id": "konglong87/superPM",
-    "language": "JavaScript",
-    "name": "konglong87/superPM",
-    "stars": 36,
-    "updated_at": "2026-07-08T02:44:30Z",
-    "url": "https://github.com/konglong87/superPM"
-  },
-  {
-    "description": "The discipline and methodology for Forward Deployed Engineers. 34 skills, deterministic CLI, self-writing engagement mem",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 52,
-    "updated_at": "2026-07-08T02:43:57Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "An awesome, curated stack of Claude / OpenClaw agent skills for founders & CEOs \u2014 strategy, knowledge base, decks, K-12 ",
-    "id": "X-RayLuan/awesome-ceo-stack",
-    "language": "HTML",
-    "name": "X-RayLuan/awesome-ceo-stack",
-    "stars": 1,
-    "updated_at": "2026-07-08T02:43:21Z",
-    "url": "https://github.com/X-RayLuan/awesome-ceo-stack"
-  },
-  {
-    "description": "Generate draw.io diagrams from natural language \u2014 6 presets, vision self-check + up to 5-round refinement, codebase-to-d",
-    "id": "Agents365-ai/drawio-skill",
-    "language": "Python",
-    "name": "Agents365-ai/drawio-skill",
-    "stars": 5466,
-    "updated_at": "2026-07-08T02:43:18Z",
-    "url": "https://github.com/Agents365-ai/drawio-skill"
-  },
-  {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 300,
-    "updated_at": "2026-07-08T03:52:01Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   }
 ]
