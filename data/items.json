@@ -1,5 +1,104 @@
 [
   {
+    "description": "Automatically detect and disable irrelevant Claude Code skills per project to save tokens and streamline your tech workf",
+    "id": "mrdenox109-nyx/skill-manager",
+    "language": "Python",
+    "name": "mrdenox109-nyx/skill-manager",
+    "stars": 4,
+    "updated_at": "2026-07-08T13:05:44Z",
+    "url": "https://github.com/mrdenox109-nyx/skill-manager"
+  },
+  {
+    "description": "",
+    "id": "morganmuli/metaskill",
+    "language": "Shell",
+    "name": "morganmuli/metaskill",
+    "stars": 1,
+    "updated_at": "2026-07-08T13:04:17Z",
+    "url": "https://github.com/morganmuli/metaskill"
+  },
+  {
+    "description": "My daily-driver Claude Code and Codex loadout",
+    "id": "kennykankush/skillpack",
+    "language": "Python",
+    "name": "kennykankush/skillpack",
+    "stars": 0,
+    "updated_at": "2026-07-08T13:04:05Z",
+    "url": "https://github.com/kennykankush/skillpack"
+  },
+  {
+    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
+    "id": "TerminallyLazy/Tree-Ring-Memory",
+    "language": "Rust",
+    "name": "TerminallyLazy/Tree-Ring-Memory",
+    "stars": 5,
+    "updated_at": "2026-07-08T13:04:03Z",
+    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+  },
+  {
+    "description": "Explain any technical concept to an idiot \u2014 decode errors, scope work, surface risk, and make decisions faster. In your ",
+    "id": "Jsnnmsc/10000x-engineer",
+    "language": "\u2014",
+    "name": "Jsnnmsc/10000x-engineer",
+    "stars": 0,
+    "updated_at": "2026-07-08T13:03:28Z",
+    "url": "https://github.com/Jsnnmsc/10000x-engineer"
+  },
+  {
+    "description": "Enhance AI coding agents with structured workflows and best practices for building reliable web applications through pro",
+    "id": "LLl0k0laD/agent-skills",
+    "language": "Shell",
+    "name": "LLl0k0laD/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-07-08T13:03:04Z",
+    "url": "https://github.com/LLl0k0laD/agent-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-08T13:03:03Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83c\udfa5 Generate precise video prompts for Jimeng Seedance 2.0 using structured patterns, templates, and AI agent compatibilit",
+    "id": "mightyhuman101/seedance2-skill",
+    "language": "\u2014",
+    "name": "mightyhuman101/seedance2-skill",
+    "stars": 4,
+    "updated_at": "2026-07-08T13:01:20Z",
+    "url": "https://github.com/mightyhuman101/seedance2-skill"
+  },
+  {
+    "description": "\ud83d\udcdd Manage and organize Obsidian vaults with CLI tools for notes, tasks, tags, templates, and knowledge graph analysis.",
+    "id": "wizzy15/obsidian-skill",
+    "language": "\u2014",
+    "name": "wizzy15/obsidian-skill",
+    "stars": 5,
+    "updated_at": "2026-07-08T13:00:52Z",
+    "url": "https://github.com/wizzy15/obsidian-skill"
+  },
+  {
+    "description": "\u2699\ufe0f Build and deploy 66 versatile Claude AI skills and 9 workflows designed to enhance productivity for full-stack develo",
+    "id": "zacklecon/claude-skills",
+    "language": "Python",
+    "name": "zacklecon/claude-skills",
+    "stars": 3,
+    "updated_at": "2026-07-08T13:00:30Z",
+    "url": "https://github.com/zacklecon/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-08T13:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udde9 Integrate Eliza plugins into OpenClaw by wrapping actions, providers, and services for smooth agent ecosystem interope",
     "id": "windows150/openclaw-adapter",
     "language": "TypeScript",
@@ -34,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-07-08T12:58:19Z",
     "url": "https://github.com/mohamednidsaid/pinterest-skill"
+  },
+  {
+    "description": "Linlin's curated AI agent harness configuration: workflow rules, skills, hooks, plugin recommendations, tooling preferen",
+    "id": "jajupmochi/agent-harness",
+    "language": "Python",
+    "name": "jajupmochi/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-07-08T12:58:19Z",
+    "url": "https://github.com/jajupmochi/agent-harness"
   },
   {
     "description": "\ud83d\udd0d Discover user pain points on social media with AI-driven clustering and analysis for targeted business opportunities a",
@@ -72,15 +180,6 @@
     "url": "https://github.com/Srltas/claude-skills"
   },
   {
-    "description": "Linlin's curated Claude Code configuration: workflow rules, skills, hooks, plugin recommendations, tooling preferences, ",
-    "id": "jajupmochi/claude-config",
-    "language": "Python",
-    "name": "jajupmochi/claude-config",
-    "stars": 0,
-    "updated_at": "2026-07-08T12:58:19Z",
-    "url": "https://github.com/jajupmochi/claude-config"
-  },
-  {
     "description": "\ud83d\ude80 Enable seamless remote access to Agent Skills with a secure proxy server that supports skill discovery, execution, and",
     "id": "kazhuki7/agentskills-proxy",
     "language": "TypeScript",
@@ -95,7 +194,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30155,
-    "updated_at": "2026-07-08T12:57:11Z",
+    "updated_at": "2026-07-08T13:01:45Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -115,24 +214,6 @@
     "stars": 3,
     "updated_at": "2026-07-08T12:56:26Z",
     "url": "https://github.com/lyx2022518/sherlock-ai-plugin"
-  },
-  {
-    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
-    "id": "TerminallyLazy/Tree-Ring-Memory",
-    "language": "Rust",
-    "name": "TerminallyLazy/Tree-Ring-Memory",
-    "stars": 5,
-    "updated_at": "2026-07-08T12:56:24Z",
-    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
-  },
-  {
-    "description": "My daily-driver Claude Code and Codex loadout",
-    "id": "kennykankush/skillpack",
-    "language": "Python",
-    "name": "kennykankush/skillpack",
-    "stars": 0,
-    "updated_at": "2026-07-08T12:56:21Z",
-    "url": "https://github.com/kennykankush/skillpack"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -160,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T12:55:18Z",
     "url": "https://github.com/hiteknodeposit20241/skillman"
-  },
-  {
-    "description": "Explain any technical concept to an idiot \u2014 decode errors, scope work, surface risk, and make decisions faster. In your ",
-    "id": "Jsnnmsc/explain-to-an-idiot",
-    "language": "\u2014",
-    "name": "Jsnnmsc/explain-to-an-idiot",
-    "stars": 0,
-    "updated_at": "2026-07-08T12:54:49Z",
-    "url": "https://github.com/Jsnnmsc/explain-to-an-idiot"
   },
   {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
@@ -342,15 +414,6 @@
     "url": "https://github.com/chigyel/claude-cs"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-08T12:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83e\udd16 Coordinate multi-agent tasks and enhance workflow with versatile skills for autonomous planning and execution.",
     "id": "stotihv/skills",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T12:44:05Z",
     "url": "https://github.com/oliverquaye23/claude-hooks"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance AI agents with a collection of skills for improved coding assistance, enabling efficient and production-ready ",
-    "id": "Makiya1202/ai-agents-skills",
-    "language": "\u2014",
-    "name": "Makiya1202/ai-agents-skills",
-    "stars": 2,
-    "updated_at": "2026-07-08T12:43:49Z",
-    "url": "https://github.com/Makiya1202/ai-agents-skills"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Curate and enhance your coding skills with Claude Skills Vault, a collection of commands and MCP server guides for ef",
-    "id": "hackermanishackerman/claude-skills-vault",
-    "language": "Python",
-    "name": "hackermanishackerman/claude-skills-vault",
-    "stars": 2,
-    "updated_at": "2026-07-08T12:42:27Z",
-    "url": "https://github.com/hackermanishackerman/claude-skills-vault"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 188,
-    "updated_at": "2026-07-08T12:42:24Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance collaboration among AI agents with a Model Context Protocol server that shares memory and coordinates tasks ac",
-    "id": "FASFG5T5/agent-orchestration",
-    "language": "TypeScript",
-    "name": "FASFG5T5/agent-orchestration",
-    "stars": 1,
-    "updated_at": "2026-07-08T12:42:23Z",
-    "url": "https://github.com/FASFG5T5/agent-orchestration"
-  },
-  {
-    "description": "\ud83d\ude80 Access and install over 50,000 skills for AI agents with one command using the versatile agent-skills-cli tool.",
-    "id": "stbarbe/agent-skills-cli",
-    "language": "JavaScript",
-    "name": "stbarbe/agent-skills-cli",
-    "stars": 10,
-    "updated_at": "2026-07-08T12:42:22Z",
-    "url": "https://github.com/stbarbe/agent-skills-cli"
-  },
-  {
-    "description": "Knowledge graph extractor: Markdown (or any format) \u2192 knowledge graph with RDFS/OWL ontology",
-    "id": "SenolIsci/mykg",
-    "language": "Python",
-    "name": "SenolIsci/mykg",
-    "stars": 45,
-    "updated_at": "2026-07-08T12:42:06Z",
-    "url": "https://github.com/SenolIsci/mykg"
-  },
-  {
-    "description": "\ud83e\udd16 Automate trading on Polymarket with AI agents to enhance your strategies and maximize your opportunities.",
-    "id": "CeAlthubaiti/agents",
-    "language": "Python",
-    "name": "CeAlthubaiti/agents",
-    "stars": 4,
-    "updated_at": "2026-07-08T12:41:20Z",
-    "url": "https://github.com/CeAlthubaiti/agents"
   }
 ]
