@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI image generation via Alibaba Bailian, ByteDance Volcano Ark, and Tencent Hunyuan \u2014 23 models, Chinese text excellence",
+    "id": "Agents365-ai/imagenCN",
+    "language": "Python",
+    "name": "Agents365-ai/imagenCN",
+    "stars": 11,
+    "updated_at": "2026-07-08T17:13:37Z",
+    "url": "https://github.com/Agents365-ai/imagenCN"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "FrancescoBorzi/agent-toolkit",
+    "language": "Shell",
+    "name": "FrancescoBorzi/agent-toolkit",
+    "stars": 18,
+    "updated_at": "2026-07-08T17:13:05Z",
+    "url": "https://github.com/FrancescoBorzi/agent-toolkit"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 278,
+    "updated_at": "2026-07-08T17:11:18Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Claude Code skill: Chinese video model generation via Alibaba Cloud Bailian \u2014 Wan/PixVerse/Kling/Vidu/HappyHorse, t2v/i2",
+    "id": "Agents365-ai/videogenCN",
+    "language": "Python",
+    "name": "Agents365-ai/videogenCN",
+    "stars": 1,
+    "updated_at": "2026-07-08T17:10:53Z",
+    "url": "https://github.com/Agents365-ai/videogenCN"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-08T17:10:30Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 19,
+    "updated_at": "2026-07-08T17:10:29Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
     "description": "",
     "id": "Agents365-ai/assetSeeker",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-07-08T17:09:39Z",
     "url": "https://github.com/Agents365-ai/assetSeeker"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:08:45Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
     "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
@@ -18,15 +81,6 @@
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
   },
   {
-    "description": "AI image generation via Alibaba Bailian, ByteDance Volcano Ark, and Tencent Hunyuan \u2014 23 models, Chinese text excellence",
-    "id": "Agents365-ai/imagenCN",
-    "language": "Python",
-    "name": "Agents365-ai/imagenCN",
-    "stars": 11,
-    "updated_at": "2026-07-08T17:09:56Z",
-    "url": "https://github.com/Agents365-ai/imagenCN"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -36,15 +90,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
-    "id": "FrancescoBorzi/agent-toolkit",
-    "language": "Shell",
-    "name": "FrancescoBorzi/agent-toolkit",
-    "stars": 18,
-    "updated_at": "2026-07-08T17:05:49Z",
-    "url": "https://github.com/FrancescoBorzi/agent-toolkit"
-  },
-  {
     "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
     "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
     "language": "TypeScript",
@@ -52,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-07-08T17:05:37Z",
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 17402,
+    "updated_at": "2026-07-08T17:05:30Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "An opinionated, AI-native development workflow for Java Enterprise \u2014 reusable Skills, Agents, Commands, and MCP servers ",
@@ -90,15 +144,6 @@
     "url": "https://github.com/Free-Soul/MemDreamer"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 278,
-    "updated_at": "2026-07-08T17:01:29Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
     "id": "Wyattputrescent882/ai-code-governance-skill",
     "language": "\u2014",
@@ -126,15 +171,6 @@
     "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
   },
   {
-    "description": "Claude Code skill: Chinese video model generation via Alibaba Cloud Bailian \u2014 Wan/PixVerse/Kling/Vidu/HappyHorse, t2v/i2",
-    "id": "Agents365-ai/videogenCN",
-    "language": "Python",
-    "name": "Agents365-ai/videogenCN",
-    "stars": 1,
-    "updated_at": "2026-07-08T17:05:16Z",
-    "url": "https://github.com/Agents365-ai/videogenCN"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T17:00:52Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-08T17:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
@@ -169,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-07-08T16:59:52Z",
     "url": "https://github.com/Videoa7917/ClaudeSec"
+  },
+  {
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. ",
+    "id": "K-Dense-AI/scientific-agent-skills",
+    "language": "Python",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "stars": 30474,
+    "updated_at": "2026-07-08T16:59:07Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
     "description": "\u4e00\u4e2a\u5305\u542bskill\u7684\u96c6\u5408\uff1a\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T16:52:01Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:51:58Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-07-08T16:51:51Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:51:48Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:51:43Z",
-    "url": "https://github.com/allans4635/memctx"
   }
 ]
