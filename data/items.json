@@ -1,5 +1,194 @@
 [
   {
+    "description": "Claude Code skill for AI image generation using Alibaba Cloud Bailian API (\u901a\u4e49\u5343\u95ee/\u901a\u4e49\u4e07\u76f8)",
+    "id": "Agents365-ai/imagenCN",
+    "language": "Python",
+    "name": "Agents365-ai/imagenCN",
+    "stars": 10,
+    "updated_at": "2026-07-08T06:59:38Z",
+    "url": "https://github.com/Agents365-ai/imagenCN"
+  },
+  {
+    "description": "\ud83e\udd16 Automate trading on Polymarket with AI agents to enhance your strategies and maximize your opportunities.",
+    "id": "CeAlthubaiti/agents",
+    "language": "Python",
+    "name": "CeAlthubaiti/agents",
+    "stars": 4,
+    "updated_at": "2026-07-08T06:59:19Z",
+    "url": "https://github.com/CeAlthubaiti/agents"
+  },
+  {
+    "description": "",
+    "id": "jwoo0329/agents",
+    "language": "Python",
+    "name": "jwoo0329/agents",
+    "stars": 1,
+    "updated_at": "2026-07-08T06:59:18Z",
+    "url": "https://github.com/jwoo0329/agents"
+  },
+  {
+    "description": "In Anthropic's official Claude plugin directory \u00b7 400 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1162,
+    "updated_at": "2026-07-08T06:58:57Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-08T06:58:55Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Gamify your career progression with SkillForge, an RPG system that turns your professional journey into an epic adven",
+    "id": "kriid08/SkillForge",
+    "language": "JavaScript",
+    "name": "kriid08/SkillForge",
+    "stars": 1,
+    "updated_at": "2026-07-08T06:58:34Z",
+    "url": "https://github.com/kriid08/SkillForge"
+  },
+  {
+    "description": "\ud83d\udcbb Discover essential AI-driven tools, frameworks, and resources to enhance your development process and streamline your ",
+    "id": "arpita612/Awesome-AI-resources",
+    "language": "Java",
+    "name": "arpita612/Awesome-AI-resources",
+    "stars": 4,
+    "updated_at": "2026-07-08T06:58:20Z",
+    "url": "https://github.com/arpita612/Awesome-AI-resources"
+  },
+  {
+    "description": "\ud83d\ude80 Optimize agent workflows with isolated git worktrees to manage branches effortlessly, ensuring smooth and conflict-fre",
+    "id": "SEVORDW/agents",
+    "language": "\u2014",
+    "name": "SEVORDW/agents",
+    "stars": 0,
+    "updated_at": "2026-07-08T06:57:35Z",
+    "url": "https://github.com/SEVORDW/agents"
+  },
+  {
+    "description": "Clear instead of compact \u2014 two Claude Code skills: /handoff distills a session to disk, /resume reads it back into a fre",
+    "id": "MrToAster13/clear-not-compact",
+    "language": "\u2014",
+    "name": "MrToAster13/clear-not-compact",
+    "stars": 0,
+    "updated_at": "2026-07-08T06:57:13Z",
+    "url": "https://github.com/MrToAster13/clear-not-compact"
+  },
+  {
+    "description": "Root-level Claude Code skill for Tree Ring Memory: local-first recall, capture, audit, consolidation, and forgetting wor",
+    "id": "TerminallyLazy/tree-ring-memory-skill",
+    "language": "\u2014",
+    "name": "TerminallyLazy/tree-ring-memory-skill",
+    "stars": 0,
+    "updated_at": "2026-07-08T06:56:43Z",
+    "url": "https://github.com/TerminallyLazy/tree-ring-memory-skill"
+  },
+  {
+    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
+    "id": "magnusrodseth/dotfiles",
+    "language": "Shell",
+    "name": "magnusrodseth/dotfiles",
+    "stars": 1,
+    "updated_at": "2026-07-08T06:56:35Z",
+    "url": "https://github.com/magnusrodseth/dotfiles"
+  },
+  {
+    "description": "\ud83d\udd0d Fetch execution traces from LangSmith Studio to debug LangChain and LangGraph agents effectively with Claude Code.",
+    "id": "humongus69/langsmith-fetch-skill",
+    "language": "\u2014",
+    "name": "humongus69/langsmith-fetch-skill",
+    "stars": 1,
+    "updated_at": "2026-07-08T06:56:17Z",
+    "url": "https://github.com/humongus69/langsmith-fetch-skill"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Enhance programming workflows with a curated library of agent skills for tasks like code review, debugging, and plann",
+    "id": "izyanrajwani/agent-skills-library",
+    "language": "TypeScript",
+    "name": "izyanrajwani/agent-skills-library",
+    "stars": 4,
+    "updated_at": "2026-07-08T06:55:41Z",
+    "url": "https://github.com/izyanrajwani/agent-skills-library"
+  },
+  {
+    "description": "\ud83e\udde0 Empower Claude with memory to enhance code debugging and conversation recall, turning ephemeral chats into lasting ins",
+    "id": "2josEx/claude-brain",
+    "language": "JavaScript",
+    "name": "2josEx/claude-brain",
+    "stars": 3,
+    "updated_at": "2026-07-08T06:53:53Z",
+    "url": "https://github.com/2josEx/claude-brain"
+  },
+  {
+    "description": "\ud83e\udd16 Explore essential AI tools for building, automating, and monetizing projects across content, video, e-commerce, and mo",
+    "id": "foodman1227/awesome-ai-tools",
+    "language": "\u2014",
+    "name": "foodman1227/awesome-ai-tools",
+    "stars": 8,
+    "updated_at": "2026-07-08T06:52:57Z",
+    "url": "https://github.com/foodman1227/awesome-ai-tools"
+  },
+  {
+    "description": "International Justice and tribunals",
+    "id": "jeannesulzer/international-criminal-tribunals-skills",
+    "language": "Python",
+    "name": "jeannesulzer/international-criminal-tribunals-skills",
+    "stars": 3,
+    "updated_at": "2026-07-08T06:52:42Z",
+    "url": "https://github.com/jeannesulzer/international-criminal-tribunals-skills"
+  },
+  {
+    "description": "\ud83d\udce6 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an",
+    "id": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "language": "Python",
+    "name": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "stars": 0,
+    "updated_at": "2026-07-08T06:48:00Z",
+    "url": "https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Monitor your Claude Code sessions effortlessly on macOS with real-time status updates and quick access features for a ",
+    "id": "zenithpd/agent-sessions",
+    "language": "Rust",
+    "name": "zenithpd/agent-sessions",
+    "stars": 7,
+    "updated_at": "2026-07-08T06:47:07Z",
+    "url": "https://github.com/zenithpd/agent-sessions"
+  },
+  {
+    "description": "Applies Claude's prompt caching logic to design sessions: stable base, variable exploration, no rebuilding from scratch.",
+    "id": "iruhdam1/prefix-first-design",
+    "language": "\u2014",
+    "name": "iruhdam1/prefix-first-design",
+    "stars": 1,
+    "updated_at": "2026-07-08T06:46:19Z",
+    "url": "https://github.com/iruhdam1/prefix-first-design"
+  },
+  {
+    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
+    "id": "TerminallyLazy/Tree-Ring-Memory",
+    "language": "Rust",
+    "name": "TerminallyLazy/Tree-Ring-Memory",
+    "stars": 5,
+    "updated_at": "2026-07-08T06:46:09Z",
+    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-08T06:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": " Agent skill for Claude Code & OpenClaw \ud83e\udd9e \u2014 remove the \"Made with Gamma\" watermark from   PDF & PPTX exports. Free web v",
     "id": "gammaremover/gamma-watermark-remover-skill",
     "language": "\u2014",
@@ -25,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T06:43:29Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Claude Code skill for AI image generation using Alibaba Cloud Bailian API (\u901a\u4e49\u5343\u95ee/\u901a\u4e49\u4e07\u76f8)",
-    "id": "Agents365-ai/imagenCN",
-    "language": "Python",
-    "name": "Agents365-ai/imagenCN",
-    "stars": 10,
-    "updated_at": "2026-07-08T06:43:25Z",
-    "url": "https://github.com/Agents365-ai/imagenCN"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-08T06:42:11Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -79,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-07-08T06:41:35Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 21550,
+    "updated_at": "2026-07-08T06:41:33Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
     "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
@@ -198,15 +378,6 @@
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
-    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
-    "id": "TerminallyLazy/Tree-Ring-Memory",
-    "language": "Rust",
-    "name": "TerminallyLazy/Tree-Ring-Memory",
-    "stars": 5,
-    "updated_at": "2026-07-08T06:36:16Z",
-    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
-  },
-  {
     "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
     "id": "Mann1988/awesome-claude-skills",
     "language": "Python",
@@ -261,15 +432,6 @@
     "url": "https://github.com/428alexander9/claude-skills-marketplace"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-08T06:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -286,167 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-08T06:21:33Z",
     "url": "https://github.com/sherifabdlnaby/skills"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-08T06:17:25Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 19,
-    "updated_at": "2026-07-08T06:43:46Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 278,
-    "updated_at": "2026-07-08T06:16:19Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-08T06:16:08Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
-    "id": "davepoon/buildwithclaude",
-    "language": "TypeScript",
-    "name": "davepoon/buildwithclaude",
-    "stars": 3152,
-    "updated_at": "2026-07-08T06:14:15Z",
-    "url": "https://github.com/davepoon/buildwithclaude"
-  },
-  {
-    "description": "MemoryCustodian is a local-first, pure-text project memory protocol, skill, and CLI. It lets coding agents share durable",
-    "id": "waittim/MemoryCustodian",
-    "language": "Python",
-    "name": "waittim/MemoryCustodian",
-    "stars": 0,
-    "updated_at": "2026-07-08T06:09:33Z",
-    "url": "https://github.com/waittim/MemoryCustodian"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-07-08T06:04:28Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "\u7ed9 Claude Code \u4e00\u53cc\u770b\u89c6\u9891\u7684\u773c\u775b:\u6574\u6bb5\u89c6\u9891\u4ea4\u7ed9 Gemini \u539f\u751f\u591a\u6a21\u6001\u5410\u7ed3\u6784\u5316 JSON \u00b7 Real eyes for video via Gemini, by \u53c1\u7b19",
-    "id": "sandypoli-boop/sansheng-gemini-video",
-    "language": "Python",
-    "name": "sandypoli-boop/sansheng-gemini-video",
-    "stars": 1,
-    "updated_at": "2026-07-08T06:04:10Z",
-    "url": "https://github.com/sandypoli-boop/sansheng-gemini-video"
-  },
-  {
-    "description": "My personal agent skill repository, primarily focused on game development.",
-    "id": "Yuki001/game-dev-skills",
-    "language": "Python",
-    "name": "Yuki001/game-dev-skills",
-    "stars": 29,
-    "updated_at": "2026-07-08T06:02:24Z",
-    "url": "https://github.com/Yuki001/game-dev-skills"
-  },
-  {
-    "description": "AI-powered Unity game development studio for Claude Code - 49 agents, 120+ skills, and a full studio hierarchy that turn",
-    "id": "IdoCohen560/claude-unity-game-studio",
-    "language": "C#",
-    "name": "IdoCohen560/claude-unity-game-studio",
-    "stars": 7,
-    "updated_at": "2026-07-08T06:01:24Z",
-    "url": "https://github.com/IdoCohen560/claude-unity-game-studio"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 93,
-    "updated_at": "2026-07-08T06:19:03Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-08T05:57:10Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 21549,
-    "updated_at": "2026-07-08T06:41:33Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 0,
-    "updated_at": "2026-07-08T05:54:14Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-07-08T05:52:18Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-07-08T05:51:27Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Hivemind turns your traces into reusable skills across agents",
-    "id": "activeloopai/hivemind",
-    "language": "TypeScript",
-    "name": "activeloopai/hivemind",
-    "stars": 1456,
-    "updated_at": "2026-07-08T05:50:36Z",
-    "url": "https://github.com/activeloopai/hivemind"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-08T05:50:20Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   }
 ]
