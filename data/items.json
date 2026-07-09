@@ -1,11 +1,47 @@
 [
   {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 279,
+    "updated_at": "2026-07-09T06:56:21Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "A curated collection of AI-powered skills, agents, prompts, and workflows for Android, iOS, Flutter, React Native, Unity",
+    "id": "salmanashraf/mobile-agency",
+    "language": "JavaScript",
+    "name": "salmanashraf/mobile-agency",
+    "stars": 46,
+    "updated_at": "2026-07-09T06:51:48Z",
+    "url": "https://github.com/salmanashraf/mobile-agency"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-09T06:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 17443,
+    "updated_at": "2026-07-09T06:59:12Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 383,
-    "updated_at": "2026-07-09T06:43:26Z",
+    "updated_at": "2026-07-09T06:55:29Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "zgbrenner/agentcounsel",
     "stars": 13,
-    "updated_at": "2026-07-09T06:40:19Z",
+    "updated_at": "2026-07-09T06:57:33Z",
     "url": "https://github.com/zgbrenner/agentcounsel"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-09T06:39:34Z",
     "url": "https://github.com/veryCoolTimo/imagegen-skills"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 279,
-    "updated_at": "2026-07-09T06:39:04Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T06:30:52Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-09T06:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
@@ -364,7 +382,7 @@
     "id": "davepoon/buildwithclaude",
     "language": "TypeScript",
     "name": "davepoon/buildwithclaude",
-    "stars": 3155,
+    "stars": 3156,
     "updated_at": "2026-07-09T06:05:38Z",
     "url": "https://github.com/davepoon/buildwithclaude"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T06:03:14Z",
     "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-09T06:03:06Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-09T06:02:40Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
   }
 ]
