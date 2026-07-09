@@ -1,12 +1,57 @@
 [
   {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 336,
+    "updated_at": "2026-07-09T20:23:02Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 1,
+    "updated_at": "2026-07-09T20:19:26Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:19:25Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:17:13Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 279,
-    "updated_at": "2026-07-09T20:13:33Z",
+    "updated_at": "2026-07-09T20:16:38Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-09T20:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -90,15 +135,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 336,
-    "updated_at": "2026-07-09T20:13:48Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
     "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
     "id": "inkatze/planwright",
     "language": "Shell",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T20:03:31Z",
     "url": "https://github.com/LucioLiu/knock-knock"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-09T20:00:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -193,7 +220,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 86591,
+    "stars": 86590,
     "updated_at": "2026-07-09T19:48:25Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "charliechenye/SkillGate",
     "stars": 1,
-    "updated_at": "2026-07-09T20:12:45Z",
+    "updated_at": "2026-07-09T20:20:54Z",
     "url": "https://github.com/charliechenye/SkillGate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T19:11:21Z",
     "url": "https://github.com/LucioLiu/sharpen-first"
-  },
-  {
-    "description": "Sasha Marchuk's Claude Code plugins \u2014 opinionated tooling for ticket management, automation, and everyday engineering wo",
-    "id": "SashaMarchuk/claude-plugins",
-    "language": "Shell",
-    "name": "SashaMarchuk/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:10:37Z",
-    "url": "https://github.com/SashaMarchuk/claude-plugins"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:09:35Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 1,
-    "updated_at": "2026-07-09T19:06:20Z",
-    "url": "https://github.com/martinambrus/haive"
   }
 ]
