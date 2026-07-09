@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [boshu2/agentops](https://github.com/boshu2/agentops) | 407 | Go | 2026-07-09 | Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th |
-| 2 | [publisher-skill/claude-skill](https://github.com/publisher-skill/claude-skill) | 0 | Python | 2026-07-09 | claude-skill skills  |
-| 3 | [DogInfantry/claude-skill-management-consultant-B1](https://github.com/DogInfantry/claude-skill-management-consultant-B1) | 51 | HTML | 2026-07-09 | Turn Claude into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, and bo |
-| 4 | [wedabro/bro-skills](https://github.com/wedabro/bro-skills) | 1 | Python | 2026-07-09 | bro-skills - Spec-Driven Development CLI |
-| 5 | [0xc000022070/agentic-flake](https://github.com/0xc000022070/agentic-flake) | 1 | Nix | 2026-07-09 | Composable agent skills and project-scoped environments for Nix.  |
-| 6 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 9 | Python | 2026-07-09 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 9 | Python | 2026-07-09 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [boshu2/agentops](https://github.com/boshu2/agentops) | 407 | Go | 2026-07-09 | Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th |
+| 3 | [publisher-skill/claude-skill](https://github.com/publisher-skill/claude-skill) | 0 | Python | 2026-07-09 | claude-skill skills  |
+| 4 | [DogInfantry/claude-skill-management-consultant-B1](https://github.com/DogInfantry/claude-skill-management-consultant-B1) | 51 | HTML | 2026-07-09 | Turn Claude into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, and bo |
+| 5 | [wedabro/bro-skills](https://github.com/wedabro/bro-skills) | 1 | Python | 2026-07-09 | bro-skills - Spec-Driven Development CLI |
+| 6 | [0xc000022070/agentic-flake](https://github.com/0xc000022070/agentic-flake) | 1 | Nix | 2026-07-09 | Composable agent skills and project-scoped environments for Nix.  |
 | 7 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-07-09 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
 | 8 | [salmanashraf/mobile-agency](https://github.com/salmanashraf/mobile-agency) | 46 | JavaScript | 2026-07-09 | A curated collection of AI-powered skills, agents, prompts, and workflows for Android, iOS, Flutter, React Native, Unity |
 | 9 | [manastalukdar/ai-devstudio](https://github.com/manastalukdar/ai-devstudio) | 1 | Python | 2026-07-09 | Professional development studio for Claude Code CLI |
