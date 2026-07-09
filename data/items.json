@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u4e00\u6b3e LOOP \u81ea\u52a8\u5316\u7b5b\u9009\u7b80\u5386\u7684 SKILL\uff0c\u57fa\u4e8e\u730e\u8058 CLI\u3002AI \u6839\u636e\u4f60\u7684\u5224\u65ad\u548c\u8bc4\u4ef7\uff0c\u534a\u5c0f\u65f6\u52a9\u4f60\u4ece 1000 \u4efd\u7b80\u5386\u4e2d\u627e\u5230\u6700\u5bf9\u53e3\u7684\u90a3\u4e00\u4e2a\u3002",
+    "id": "dizhouid-lgtm/liepin-ai-loop-recruiting",
+    "language": "JavaScript",
+    "name": "dizhouid-lgtm/liepin-ai-loop-recruiting",
+    "stars": 2,
+    "updated_at": "2026-07-09T01:57:39Z",
+    "url": "https://github.com/dizhouid-lgtm/liepin-ai-loop-recruiting"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 301,
+    "updated_at": "2026-07-09T01:55:57Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Portable SKILLs workspace for Claude Code, Codex, and Gemini \u2014 issue-driven workflows and cross-agent collaboration via ",
+    "id": "appautomaton/agent-designer",
+    "language": "Python",
+    "name": "appautomaton/agent-designer",
+    "stars": 126,
+    "updated_at": "2026-07-09T01:53:48Z",
+    "url": "https://github.com/appautomaton/agent-designer"
+  },
+  {
+    "description": "A Claude Code skill: turns vague, open-ended technical requests into a research-first, plan-review-implement-verify work",
+    "id": "Octo-o-o-o/betterprompt",
+    "language": "\u2014",
+    "name": "Octo-o-o-o/betterprompt",
+    "stars": 0,
+    "updated_at": "2026-07-09T01:50:51Z",
+    "url": "https://github.com/Octo-o-o-o/betterprompt"
+  },
+  {
+    "description": "Vizier - the decision-making brain of an agentic-trading stack. A Claude Code skill that researches, decides, remembers ",
+    "id": "pedrobraiti/vizier-trading-skill",
+    "language": "Python",
+    "name": "pedrobraiti/vizier-trading-skill",
+    "stars": 2,
+    "updated_at": "2026-07-09T01:49:46Z",
+    "url": "https://github.com/pedrobraiti/vizier-trading-skill"
+  },
+  {
+    "description": "Personal agent operating system",
+    "id": "ryan-scheinberg/harness",
+    "language": "Shell",
+    "name": "ryan-scheinberg/harness",
+    "stars": 2,
+    "updated_at": "2026-07-09T01:48:51Z",
+    "url": "https://github.com/ryan-scheinberg/harness"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 306,
+    "updated_at": "2026-07-09T01:48:26Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Claude Code skill: Chinese video model generation via Alibaba Cloud Bailian \u2014 Wan/PixVerse/Kling/Vidu/HappyHorse, t2v/i2",
+    "id": "Agents365-ai/videogenCN",
+    "language": "Python",
+    "name": "Agents365-ai/videogenCN",
+    "stars": 1,
+    "updated_at": "2026-07-09T01:47:54Z",
+    "url": "https://github.com/Agents365-ai/videogenCN"
+  },
+  {
+    "description": "",
+    "id": "seldonframe/seldonframe",
+    "language": "TypeScript",
+    "name": "seldonframe/seldonframe",
+    "stars": 7,
+    "updated_at": "2026-07-09T01:47:47Z",
+    "url": "https://github.com/seldonframe/seldonframe"
+  },
+  {
+    "description": "Multi-platform Chinese OCR skill \u2014 PaddleOCR/Baidu/Tencent/Alibaba/EasyOCR, all work in China",
+    "id": "Agents365-ai/ocrCN",
+    "language": "Python",
+    "name": "Agents365-ai/ocrCN",
+    "stars": 0,
+    "updated_at": "2026-07-09T01:47:08Z",
+    "url": "https://github.com/Agents365-ai/ocrCN"
+  },
+  {
+    "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
+    "id": "bitjaru/styleseed",
+    "language": "TypeScript",
+    "name": "bitjaru/styleseed",
+    "stars": 658,
+    "updated_at": "2026-07-09T01:46:59Z",
+    "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-09T01:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
     "id": "wardawgmalvicious/claude-config",
     "language": "Python",
@@ -61,24 +169,6 @@
     "stars": 740,
     "updated_at": "2026-07-09T01:32:57Z",
     "url": "https://github.com/pcliangx/AppGenesisForge"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-09T01:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 301,
-    "updated_at": "2026-07-09T01:27:13Z",
-    "url": "https://github.com/xr843/Master-skill"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T00:50:34Z",
     "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-09T00:50:05Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-07-09T00:49:51Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-07-09T00:48:26Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-09T00:48:05Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-09T00:48:03Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 3,
-    "updated_at": "2026-07-09T00:47:58Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-09T00:47:14Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-09T00:47:07Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-07-09T00:46:52Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-07-09T00:46:37Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
   }
 ]
