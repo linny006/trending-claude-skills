@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-07-09T23:29:31Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang",
+    "id": "charliechenye/SkillGate",
+    "language": "Python",
+    "name": "charliechenye/SkillGate",
+    "stars": 1,
+    "updated_at": "2026-07-09T23:27:03Z",
+    "url": "https://github.com/charliechenye/SkillGate"
+  },
+  {
+    "description": "Turn any writer's collected essays into an inspiration-ranked audiobook with a local TTS model. A Claude Code skill set.",
+    "id": "annexiao/read-the-best-first",
+    "language": "Python",
+    "name": "annexiao/read-the-best-first",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:26:01Z",
+    "url": "https://github.com/annexiao/read-the-best-first"
+  },
+  {
+    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 407,
+    "updated_at": "2026-07-09T23:24:45Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "SamDin \u0e2a\u0e32\u0e21\u0e14\u0e34\u0e19 ThreeJS modelling tool w/ claude skill",
+    "id": "mbarlow/samdin",
+    "language": "JavaScript",
+    "name": "mbarlow/samdin",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:27:44Z",
+    "url": "https://github.com/mbarlow/samdin"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 63,
+    "updated_at": "2026-07-09T23:22:45Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 338,
+    "updated_at": "2026-07-09T23:23:04Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-09T23:21:47Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
     "id": "TerminallyLazy/Tree-Ring-Memory",
     "language": "Rust",
@@ -25,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T23:17:47Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-09T23:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang",
-    "id": "charliechenye/SkillGate",
-    "language": "Python",
-    "name": "charliechenye/SkillGate",
-    "stars": 1,
-    "updated_at": "2026-07-09T23:19:52Z",
-    "url": "https://github.com/charliechenye/SkillGate"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T23:09:12Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "SamDin \u0e2a\u0e32\u0e21\u0e14\u0e34\u0e19 ThreeJS modelling tool w/ claude skill",
-    "id": "mbarlow/samdin",
-    "language": "JavaScript",
-    "name": "mbarlow/samdin",
-    "stars": 0,
-    "updated_at": "2026-07-09T23:19:05Z",
-    "url": "https://github.com/mbarlow/samdin"
   },
   {
     "description": "Move beyond 'think hard' - to Better Thinking for Claude",
@@ -320,7 +365,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-09T22:51:18Z",
+    "updated_at": "2026-07-09T23:24:47Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 5,
     "updated_at": "2026-07-09T22:42:44Z",
     "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "Turn any writer's collected essays into an inspiration-ranked audiobook with a local TTS model. A Claude Code skill set.",
-    "id": "annexiao/read-the-best-first",
-    "language": "Python",
-    "name": "annexiao/read-the-best-first",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:41:46Z",
-    "url": "https://github.com/annexiao/read-the-best-first"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -387,15 +423,6 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 337,
-    "updated_at": "2026-07-09T23:20:28Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T22:31:23Z",
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:28:27Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 1,
-    "updated_at": "2026-07-09T22:28:01Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-07-09T22:27:30Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
   }
 ]
