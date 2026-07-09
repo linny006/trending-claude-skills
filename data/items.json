@@ -1,12 +1,39 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 383,
+    "updated_at": "2026-07-09T07:13:12Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "State-of-the-art (2026) Claude Code skills for building and auditing software \u2014 30 domain & language skills, BUILD/AUDIT",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Shell",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 4,
+    "updated_at": "2026-07-09T07:12:55Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 279,
-    "updated_at": "2026-07-09T06:56:21Z",
+    "updated_at": "2026-07-09T07:12:34Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 301,
+    "updated_at": "2026-07-09T07:11:48Z",
+    "url": "https://github.com/xr843/Master-skill"
   },
   {
     "description": "A curated collection of AI-powered skills, agents, prompts, and workflows for Android, iOS, Flutter, React Native, Unity",
@@ -14,8 +41,17 @@
     "language": "JavaScript",
     "name": "salmanashraf/mobile-agency",
     "stars": 46,
-    "updated_at": "2026-07-09T06:51:48Z",
+    "updated_at": "2026-07-09T07:02:42Z",
     "url": "https://github.com/salmanashraf/mobile-agency"
+  },
+  {
+    "description": "Open-source, AI-agnostic skills for the legal teams.",
+    "id": "zgbrenner/agentcounsel",
+    "language": "Python",
+    "name": "zgbrenner/agentcounsel",
+    "stars": 13,
+    "updated_at": "2026-07-09T07:07:51Z",
+    "url": "https://github.com/zgbrenner/agentcounsel"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 9,
-    "updated_at": "2026-07-09T06:45:16Z",
+    "updated_at": "2026-07-09T07:00:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -31,18 +67,18 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 17443,
-    "updated_at": "2026-07-09T06:59:12Z",
+    "stars": 17444,
+    "updated_at": "2026-07-09T07:14:05Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 383,
-    "updated_at": "2026-07-09T06:55:29Z",
-    "url": "https://github.com/aiskillstore/marketplace"
+    "description": "Ultrademo is a capture-and-render pipeline for generating demo videos of any websites, SaaS applications, etc. - execute",
+    "id": "new-xp/ultrademo",
+    "language": "JavaScript",
+    "name": "new-xp/ultrademo",
+    "stars": 0,
+    "updated_at": "2026-07-09T06:56:05Z",
+    "url": "https://github.com/new-xp/ultrademo"
   },
   {
     "description": "AI Agent Team scaffold for Claude Code \u2014 19 roles collaborate through stage gates, enforced by mandatory skills + blocki",
@@ -52,15 +88,6 @@
     "stars": 740,
     "updated_at": "2026-07-09T06:42:44Z",
     "url": "https://github.com/pcliangx/AppGenesisForge"
-  },
-  {
-    "description": "Open-source, AI-agnostic skills for the legal teams.",
-    "id": "zgbrenner/agentcounsel",
-    "language": "Python",
-    "name": "zgbrenner/agentcounsel",
-    "stars": 13,
-    "updated_at": "2026-07-09T06:57:33Z",
-    "url": "https://github.com/zgbrenner/agentcounsel"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -85,7 +112,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4312,
+    "stars": 4313,
     "updated_at": "2026-07-09T06:38:32Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T06:03:50Z",
     "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "agent-skills,Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-    "id": "yugef3h/leo-skills",
-    "language": "\u2014",
-    "name": "yugef3h/leo-skills",
-    "stars": 11,
-    "updated_at": "2026-07-09T06:03:41Z",
-    "url": "https://github.com/yugef3h/leo-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-07-09T06:03:26Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-07-09T06:03:14Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
   }
 ]
