@@ -1,5 +1,131 @@
 [
   {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 65360,
+    "updated_at": "2026-07-09T09:44:25Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 279,
+    "updated_at": "2026-07-09T09:44:01Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Ultrademo is an automated demo video generator for any websites, SaaS applications, etc. - executed conveniently through",
+    "id": "new-xp/ultrademo",
+    "language": "JavaScript",
+    "name": "new-xp/ultrademo",
+    "stars": 1,
+    "updated_at": "2026-07-09T09:43:59Z",
+    "url": "https://github.com/new-xp/ultrademo"
+  },
+  {
+    "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your",
+    "id": "AiGuangInc/suxiaoqiang-cli",
+    "language": "TypeScript",
+    "name": "AiGuangInc/suxiaoqiang-cli",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:43:39Z",
+    "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
+  },
+  {
+    "description": " The Gap Project is an open source layer that sits alongside any large language model and introduces a structured moment",
+    "id": "dragoscalin33/the-gap-project",
+    "language": "\u2014",
+    "name": "dragoscalin33/the-gap-project",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:42:14Z",
+    "url": "https://github.com/dragoscalin33/the-gap-project"
+  },
+  {
+    "description": "The trust layer between AI and your data. Turns your database schema into a governed semantic model so AI answers with c",
+    "id": "AgamiAI/agami-core",
+    "language": "Python",
+    "name": "AgamiAI/agami-core",
+    "stars": 13,
+    "updated_at": "2026-07-09T09:40:26Z",
+    "url": "https://github.com/AgamiAI/agami-core"
+  },
+  {
+    "description": "Public distribution mirror for TokenLab agent skills",
+    "id": "hedging8563/tokenlab-skills",
+    "language": "\u2014",
+    "name": "hedging8563/tokenlab-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:39:55Z",
+    "url": "https://github.com/hedging8563/tokenlab-skills"
+  },
+  {
+    "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
+    "id": "x-name15/gorrent",
+    "language": "Go",
+    "name": "x-name15/gorrent",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:38:40Z",
+    "url": "https://github.com/x-name15/gorrent"
+  },
+  {
+    "description": "",
+    "id": "askuma/workflow-generator",
+    "language": "Python",
+    "name": "askuma/workflow-generator",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:40:30Z",
+    "url": "https://github.com/askuma/workflow-generator"
+  },
+  {
+    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
+    "id": "Dianel555/DSkills",
+    "language": "Python",
+    "name": "Dianel555/DSkills",
+    "stars": 64,
+    "updated_at": "2026-07-09T09:35:10Z",
+    "url": "https://github.com/Dianel555/DSkills"
+  },
+  {
+    "description": "",
+    "id": "askuma/generate-tech-stack",
+    "language": "Python",
+    "name": "askuma/generate-tech-stack",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:40:33Z",
+    "url": "https://github.com/askuma/generate-tech-stack"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-09T09:31:27Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-09T09:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 94,
+    "updated_at": "2026-07-09T09:32:01Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
     "description": "My personal directory of skills",
     "id": "danielsitek/skills",
     "language": "JavaScript",
@@ -14,26 +140,8 @@
     "language": "JavaScript",
     "name": "gaia-react/gaia",
     "stars": 19,
-    "updated_at": "2026-07-09T09:27:24Z",
+    "updated_at": "2026-07-09T09:45:05Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 279,
-    "updated_at": "2026-07-09T09:26:32Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 65359,
-    "updated_at": "2026-07-09T09:30:06Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
@@ -43,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T09:20:32Z",
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
-    "id": "x-name15/gorrent",
-    "language": "Go",
-    "name": "x-name15/gorrent",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:20:18Z",
-    "url": "https://github.com/x-name15/gorrent"
   },
   {
     "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
@@ -67,7 +166,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 17450,
+    "stars": 17451,
     "updated_at": "2026-07-09T09:17:41Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -99,15 +198,6 @@
     "url": "https://github.com/Free-Soul/MemDreamer"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-09T09:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
     "id": "Palmerbeetling15/Council",
     "language": "Swift",
@@ -133,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T09:14:23Z",
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your",
-    "id": "AiGuangInc/suxiaoqiang-cli",
-    "language": "TypeScript",
-    "name": "AiGuangInc/suxiaoqiang-cli",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:14:21Z",
-    "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
   },
   {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
@@ -270,15 +351,6 @@
     "url": "https://github.com/Analliseamicable382/bbc-skill"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 94,
-    "updated_at": "2026-07-09T09:30:08Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
     "id": "alfonsosagacious5877/awesome-claude-design",
     "language": "\u2014",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T09:06:26Z",
     "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:06:23Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-09T09:06:16Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:06:01Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-07-09T09:05:59Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:05:52Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:05:44Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:05:40Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:05:29Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
   }
 ]
