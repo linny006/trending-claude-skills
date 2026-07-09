@@ -1,5 +1,77 @@
 [
   {
+    "description": "A toolkit of skills, templates, and guides for bootstrapping AI-agent-friendly projects. Started from Anthropic's Claude",
+    "id": "sneg55/agent-starter",
+    "language": "Shell",
+    "name": "sneg55/agent-starter",
+    "stars": 10,
+    "updated_at": "2026-07-09T13:18:34Z",
+    "url": "https://github.com/sneg55/agent-starter"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 300,
+    "updated_at": "2026-07-09T13:17:40Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 63,
+    "updated_at": "2026-07-09T13:17:33Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "A Claude Code plugin that turns issues, problem statements, and feature requests \u2192 reviewed plans \u2192 focused tasks \u2192 and ",
+    "id": "metallurgical/ogre-runner",
+    "language": "Shell",
+    "name": "metallurgical/ogre-runner",
+    "stars": 1,
+    "updated_at": "2026-07-09T13:16:29Z",
+    "url": "https://github.com/metallurgical/ogre-runner"
+  },
+  {
+    "description": "Ultrademo is an automated demo video generator for any websites, SaaS applications, etc. - executed conveniently through",
+    "id": "new-xp/ultrademo",
+    "language": "JavaScript",
+    "name": "new-xp/ultrademo",
+    "stars": 2,
+    "updated_at": "2026-07-09T13:16:23Z",
+    "url": "https://github.com/new-xp/ultrademo"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 1,
+    "updated_at": "2026-07-09T13:15:06Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
+    "id": "jamditis/claude-skills-journalism",
+    "language": "HTML",
+    "name": "jamditis/claude-skills-journalism",
+    "stars": 311,
+    "updated_at": "2026-07-09T13:13:11Z",
+    "url": "https://github.com/jamditis/claude-skills-journalism"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-09T13:09:36Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
@@ -36,21 +108,12 @@
     "url": "https://github.com/richfrem/agent-plugins-skills"
   },
   {
-    "description": "A Claude Code plugin that turns issues, problem statements, and feature requests \u2192 reviewed plans \u2192 focused tasks \u2192 and ",
-    "id": "metallurgical/ogre-runner",
-    "language": "Shell",
-    "name": "metallurgical/ogre-runner",
-    "stars": 1,
-    "updated_at": "2026-07-09T13:02:55Z",
-    "url": "https://github.com/metallurgical/ogre-runner"
-  },
-  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 383,
-    "updated_at": "2026-07-09T12:56:03Z",
+    "updated_at": "2026-07-09T13:12:45Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T12:58:07Z",
     "url": "https://github.com/wemwi/skill-library"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-09T12:53:01Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "SamDin \u0e2a\u0e32\u0e21\u0e14\u0e34\u0e19 ThreeJS modelling tool w/ claude skill",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T12:41:27Z",
     "url": "https://github.com/andresnator/agents-orchestrator"
-  },
-  {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 300,
-    "updated_at": "2026-07-09T12:42:55Z",
-    "url": "https://github.com/xr843/Master-skill"
   },
   {
     "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous m",
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T12:25:57Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Ultrademo is an automated demo video generator for any websites, SaaS applications, etc. - executed conveniently through",
-    "id": "new-xp/ultrademo",
-    "language": "JavaScript",
-    "name": "new-xp/ultrademo",
-    "stars": 2,
-    "updated_at": "2026-07-09T12:23:51Z",
-    "url": "https://github.com/new-xp/ultrademo"
   },
   {
     "description": "Your Claude Code agent that remembers across sessions \u2014 date-tagged memory, three hook-enforced memory caps, per-session",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T11:48:29Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-09T11:48:15Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 51,
-    "updated_at": "2026-07-09T11:47:54Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-07-09T11:45:55Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 2,
-    "updated_at": "2026-07-09T11:44:32Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
   }
 ]
