@@ -1,5 +1,113 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 383,
+    "updated_at": "2026-07-09T17:30:02Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-09T17:29:24Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "\ud83c\udfad Persona \u2014 role-based operating modes for Claude. Hire an expert, not a tool: each persona is a mindset, a method, a qu",
+    "id": "palusc/dotpersona",
+    "language": "Shell",
+    "name": "palusc/dotpersona",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:27:29Z",
+    "url": "https://github.com/palusc/dotpersona"
+  },
+  {
+    "description": "29 free Claude Skills for SEO and AI search. Built by Hawk Academy + StudioHawk. Drop into Claude Desktop and run.",
+    "id": "lhitches/claude-seo-skills",
+    "language": "\u2014",
+    "name": "lhitches/claude-seo-skills",
+    "stars": 2,
+    "updated_at": "2026-07-09T17:27:27Z",
+    "url": "https://github.com/lhitches/claude-seo-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 279,
+    "updated_at": "2026-07-09T17:21:19Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1278,
+    "updated_at": "2026-07-09T17:20:53Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Clip any video into a narration recap with claude code skill\uff5c\u7528claude code skill\u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
+    "id": "worldwonderer/video-recap-skills",
+    "language": "Python",
+    "name": "worldwonderer/video-recap-skills",
+    "stars": 375,
+    "updated_at": "2026-07-09T17:18:34Z",
+    "url": "https://github.com/worldwonderer/video-recap-skills"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:18:11Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 14,
+    "updated_at": "2026-07-09T17:17:37Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "The open source operating system for design teams running on AI \u2014 three gates, gate-enforcing Claude skills, a work ledg",
+    "id": "royvergara/design-team-os",
+    "language": "Shell",
+    "name": "royvergara/design-team-os",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:17:23Z",
+    "url": "https://github.com/royvergara/design-team-os"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-09T17:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:15:11Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -43,15 +151,6 @@
     "stars": 992,
     "updated_at": "2026-07-09T17:10:13Z",
     "url": "https://github.com/gooseworks-ai/goose-skills"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 279,
-    "updated_at": "2026-07-09T17:10:12Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Cognitive translation layer for Claude Code",
@@ -169,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T17:00:20Z",
     "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-09T17:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Explore 72 AI-powered skills across 6 departments for AlterLab FC training, learning, and workflow support",
@@ -333,15 +423,6 @@
     "url": "https://github.com/Fraydawarridden350/claude-code-portable"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-09T17:14:27Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
     "description": "Build AI skills, teaching materials, and real-world patterns for non-technical builders learning Claude Code, automation",
     "id": "derrickbiotypic865/pathfinder-skills",
     "language": "\u2014",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T16:56:22Z",
     "url": "https://github.com/goldiacogitative647/claude-plugin-weixin"
-  },
-  {
-    "description": "Build reusable AI agent skills for marketing and engineering tasks with on-demand, domain-specific guidance.",
-    "id": "hssh8917/cc-skills",
-    "language": "Shell",
-    "name": "hssh8917/cc-skills",
-    "stars": 2,
-    "updated_at": "2026-07-09T16:56:18Z",
-    "url": "https://github.com/hssh8917/cc-skills"
-  },
-  {
-    "description": "Discover CLAUDE.md best practices for project-specific AI coding guidance, with ready-to-use templates for languages, fr",
-    "id": "Overseastelegramaliterateperson865/awesome-claude-md",
-    "language": "\u2014",
-    "name": "Overseastelegramaliterateperson865/awesome-claude-md",
-    "stars": 2,
-    "updated_at": "2026-07-09T16:55:24Z",
-    "url": "https://github.com/Overseastelegramaliterateperson865/awesome-claude-md"
-  },
-  {
-    "description": "Automate code reviews for general code projects with modular parallel checks, config-driven scope, and clear reports.",
-    "id": "w4xqz/code-review-skill",
-    "language": "Python",
-    "name": "w4xqz/code-review-skill",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:55:16Z",
-    "url": "https://github.com/w4xqz/code-review-skill"
-  },
-  {
-    "description": "Teach AI assistants to generate correct Unity and Jahro debugging code, with skills for commands, watchers, snapshots, l",
-    "id": "Logiiiii/unity-agent-skills",
-    "language": "\u2014",
-    "name": "Logiiiii/unity-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-07-09T16:54:46Z",
-    "url": "https://github.com/Logiiiii/unity-agent-skills"
-  },
-  {
-    "description": "Store Claude Code memory in files for persistent context across sessions, projects, and devices without a database or cl",
-    "id": "Trussed-japanesecedar194/claude-cortex",
-    "language": "Shell",
-    "name": "Trussed-japanesecedar194/claude-cortex",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:54:23Z",
-    "url": "https://github.com/Trussed-japanesecedar194/claude-cortex"
-  },
-  {
-    "description": "Enhance Claude Code CLI with undo, safety hooks, session resume, effort control, MCP tools, and multilingual i18n",
-    "id": "Caseous-kerrcell366/claude",
-    "language": "Python",
-    "name": "Caseous-kerrcell366/claude",
-    "stars": 2,
-    "updated_at": "2026-07-09T16:54:22Z",
-    "url": "https://github.com/Caseous-kerrcell366/claude"
-  },
-  {
-    "description": "Multi-platform Chinese TTS skill \u2014 Edge / Doubao / CosyVoice / Azure / Tencent / Baidu / MiniMax / Xunfei. All backends ",
-    "id": "Agents365-ai/ttsCN",
-    "language": "Python",
-    "name": "Agents365-ai/ttsCN",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:53:29Z",
-    "url": "https://github.com/Agents365-ai/ttsCN"
-  },
-  {
-    "description": "Build Meshy 3D agent skills to generate, texture, rig, animate, and prep 3D models for print without an MCP server",
-    "id": "Laic-parsiism709/meshy-3d-agent",
-    "language": "\u2014",
-    "name": "Laic-parsiism709/meshy-3d-agent",
-    "stars": 3,
-    "updated_at": "2026-07-09T16:53:05Z",
-    "url": "https://github.com/Laic-parsiism709/meshy-3d-agent"
-  },
-  {
-    "description": "Learn Claude and Claude Code best practices for skills, MCP tools, and agentic workflows in one living guide",
-    "id": "Priyamo4482/claude-best-practices",
-    "language": "\u2014",
-    "name": "Priyamo4482/claude-best-practices",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:52:58Z",
-    "url": "https://github.com/Priyamo4482/claude-best-practices"
   }
 ]
