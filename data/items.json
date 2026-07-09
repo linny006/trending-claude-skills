@@ -1,12 +1,111 @@
 [
   {
+    "description": "[MIRROR] My personal AI skills",
+    "id": "papanito/ai-skills",
+    "language": "Shell",
+    "name": "papanito/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:59:15Z",
+    "url": "https://github.com/papanito/ai-skills"
+  },
+  {
+    "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
+    "id": "x-name15/gorrent",
+    "language": "Go",
+    "name": "x-name15/gorrent",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:59:13Z",
+    "url": "https://github.com/x-name15/gorrent"
+  },
+  {
+    "description": "",
+    "id": "askuma/workflow-generator",
+    "language": "Python",
+    "name": "askuma/workflow-generator",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:58:09Z",
+    "url": "https://github.com/askuma/workflow-generator"
+  },
+  {
+    "description": "",
+    "id": "askuma/generate-tech-stack",
+    "language": "Python",
+    "name": "askuma/generate-tech-stack",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:57:34Z",
+    "url": "https://github.com/askuma/generate-tech-stack"
+  },
+  {
+    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
+    "id": "aaron-he-zhu/aaron-marketing-skills",
+    "language": "Python",
+    "name": "aaron-he-zhu/aaron-marketing-skills",
+    "stars": 2349,
+    "updated_at": "2026-07-09T09:57:30Z",
+    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
+  },
+  {
+    "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your",
+    "id": "AiGuangInc/suxiaoqiang-cli",
+    "language": "TypeScript",
+    "name": "AiGuangInc/suxiaoqiang-cli",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:56:18Z",
+    "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-07-09T09:55:55Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 40,
+    "updated_at": "2026-07-09T09:54:15Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 65360,
-    "updated_at": "2026-07-09T09:44:25Z",
+    "stars": 65361,
+    "updated_at": "2026-07-09T09:53:34Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Ultrademo is an automated demo video generator for any websites, SaaS applications, etc. - executed conveniently through",
+    "id": "new-xp/ultrademo",
+    "language": "JavaScript",
+    "name": "new-xp/ultrademo",
+    "stars": 1,
+    "updated_at": "2026-07-09T09:49:23Z",
+    "url": "https://github.com/new-xp/ultrademo"
+  },
+  {
+    "description": "Plugin with opinionated set of Claude Code agents nad skills",
+    "id": "lklimek/claudius",
+    "language": "Python",
+    "name": "lklimek/claudius",
+    "stars": 1,
+    "updated_at": "2026-07-09T09:47:17Z",
+    "url": "https://github.com/lklimek/claudius"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-09T09:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -16,24 +115,6 @@
     "stars": 279,
     "updated_at": "2026-07-09T09:44:01Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Ultrademo is an automated demo video generator for any websites, SaaS applications, etc. - executed conveniently through",
-    "id": "new-xp/ultrademo",
-    "language": "JavaScript",
-    "name": "new-xp/ultrademo",
-    "stars": 1,
-    "updated_at": "2026-07-09T09:43:59Z",
-    "url": "https://github.com/new-xp/ultrademo"
-  },
-  {
-    "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your",
-    "id": "AiGuangInc/suxiaoqiang-cli",
-    "language": "TypeScript",
-    "name": "AiGuangInc/suxiaoqiang-cli",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:43:39Z",
-    "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
   },
   {
     "description": " The Gap Project is an open source layer that sits alongside any large language model and introduces a structured moment",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 13,
-    "updated_at": "2026-07-09T09:40:26Z",
+    "updated_at": "2026-07-09T09:57:03Z",
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
@@ -63,22 +144,13 @@
     "url": "https://github.com/hedging8563/tokenlab-skills"
   },
   {
-    "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
-    "id": "x-name15/gorrent",
-    "language": "Go",
-    "name": "x-name15/gorrent",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:38:40Z",
-    "url": "https://github.com/x-name15/gorrent"
-  },
-  {
-    "description": "",
-    "id": "askuma/workflow-generator",
-    "language": "Python",
-    "name": "askuma/workflow-generator",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:40:30Z",
-    "url": "https://github.com/askuma/workflow-generator"
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30168,
+    "updated_at": "2026-07-09T09:36:49Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
@@ -90,15 +162,6 @@
     "url": "https://github.com/Dianel555/DSkills"
   },
   {
-    "description": "",
-    "id": "askuma/generate-tech-stack",
-    "language": "Python",
-    "name": "askuma/generate-tech-stack",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:40:33Z",
-    "url": "https://github.com/askuma/generate-tech-stack"
-  },
-  {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
     "id": "crypdick/pynchy",
     "language": "Python",
@@ -108,21 +171,12 @@
     "url": "https://github.com/crypdick/pynchy"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 9,
-    "updated_at": "2026-07-09T09:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 94,
-    "updated_at": "2026-07-09T09:32:01Z",
+    "updated_at": "2026-07-09T09:49:08Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -140,7 +194,7 @@
     "language": "JavaScript",
     "name": "gaia-react/gaia",
     "stars": 19,
-    "updated_at": "2026-07-09T09:45:05Z",
+    "updated_at": "2026-07-09T09:48:39Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T09:06:56Z",
     "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:06:56Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:06:55Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:06:50Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-07-09T09:06:49Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "A small library of Claude skills, built for real analytical work and validated before publishing.",
-    "id": "viktor-milev/claude-skills",
-    "language": "HTML",
-    "name": "viktor-milev/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:06:35Z",
-    "url": "https://github.com/viktor-milev/claude-skills"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 2,
-    "updated_at": "2026-07-09T09:06:26Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
   }
 ]
