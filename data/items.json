@@ -1,12 +1,93 @@
 [
   {
+    "description": "Multi-platform Chinese TTS skill \u2014 Edge / Doubao / CosyVoice / Azure / Tencent / Baidu / MiniMax / Xunfei. All backends ",
+    "id": "Agents365-ai/ttsCN",
+    "language": "Python",
+    "name": "Agents365-ai/ttsCN",
+    "stars": 0,
+    "updated_at": "2026-07-09T15:14:18Z",
+    "url": "https://github.com/Agents365-ai/ttsCN"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-09T15:11:52Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 300,
+    "updated_at": "2026-07-09T15:10:20Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Turn a one-line idea into a production-grade, copy-paste-ready AI image prompt for posters, landing and UI mockups, ads,",
+    "id": "veryCoolTimo/imagegen-skills",
+    "language": "Python",
+    "name": "veryCoolTimo/imagegen-skills",
+    "stars": 2,
+    "updated_at": "2026-07-09T15:07:48Z",
+    "url": "https://github.com/veryCoolTimo/imagegen-skills"
+  },
+  {
+    "description": "Claude Code skill: Chinese video model generation via Alibaba Cloud Bailian \u2014 Wan/PixVerse/Kling/Vidu/HappyHorse, t2v/i2",
+    "id": "Agents365-ai/videogenCN",
+    "language": "Python",
+    "name": "Agents365-ai/videogenCN",
+    "stars": 3,
+    "updated_at": "2026-07-09T15:06:18Z",
+    "url": "https://github.com/Agents365-ai/videogenCN"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/cli",
+    "language": "TypeScript",
+    "name": "agents-inc/cli",
+    "stars": 2,
+    "updated_at": "2026-07-09T15:06:17Z",
+    "url": "https://github.com/agents-inc/cli"
+  },
+  {
+    "description": "Your compass for navigating economics literature",
+    "id": "mimaowang/econ-compass",
+    "language": "Python",
+    "name": "mimaowang/econ-compass",
+    "stars": 3,
+    "updated_at": "2026-07-09T15:04:14Z",
+    "url": "https://github.com/mimaowang/econ-compass"
+  },
+  {
+    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 407,
+    "updated_at": "2026-07-09T15:01:09Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
     "description": "Project memory for long-running AI work across agents, models, and sessions. Keep context, decisions, progress, and next",
     "id": "Frappucc1no/recall-loom",
     "language": "Python",
     "name": "Frappucc1no/recall-loom",
     "stars": 146,
-    "updated_at": "2026-07-09T14:59:56Z",
+    "updated_at": "2026-07-09T15:00:40Z",
     "url": "https://github.com/Frappucc1no/recall-loom"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-09T15:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Multi-platform Chinese OCR skill \u2014 PaddleOCR/Baidu/Tencent/Alibaba/EasyOCR, all work in China",
@@ -36,33 +117,6 @@
     "url": "https://github.com/new-xp/ultrademo"
   },
   {
-    "description": "Multi-platform Chinese TTS skill \u2014 Edge / Doubao / CosyVoice / Azure / Tencent / Baidu / MiniMax / Xunfei. All backends ",
-    "id": "Agents365-ai/ttsCN",
-    "language": "Python",
-    "name": "Agents365-ai/ttsCN",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:58:23Z",
-    "url": "https://github.com/Agents365-ai/ttsCN"
-  },
-  {
-    "description": "Claude Code skill: Chinese video model generation via Alibaba Cloud Bailian \u2014 Wan/PixVerse/Kling/Vidu/HappyHorse, t2v/i2",
-    "id": "Agents365-ai/videogenCN",
-    "language": "Python",
-    "name": "Agents365-ai/videogenCN",
-    "stars": 3,
-    "updated_at": "2026-07-09T14:58:03Z",
-    "url": "https://github.com/Agents365-ai/videogenCN"
-  },
-  {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 300,
-    "updated_at": "2026-07-09T14:58:02Z",
-    "url": "https://github.com/xr843/Master-skill"
-  },
-  {
     "description": "",
     "id": "seldonframe/seldonframe",
     "language": "TypeScript",
@@ -90,15 +144,6 @@
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-09T14:49:23Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
     "description": "An opinionated Laravel playbook for AI-assisted development. Architecture conventions, coding standards, and stubs for C",
     "id": "labrodev/laravel-playbook",
     "language": "\u2014",
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T14:46:13Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-09T14:45:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "SQL Server performance tuning skills for LLMs \u2014 829 checks across 26 skills covering T-SQL, execution plans, wait stats,",
@@ -193,7 +229,7 @@
     "id": "OthmanAdi/planning-with-files",
     "language": "Python",
     "name": "OthmanAdi/planning-with-files",
-    "stars": 25106,
+    "stars": 25108,
     "updated_at": "2026-07-09T14:35:26Z",
     "url": "https://github.com/OthmanAdi/planning-with-files"
   },
@@ -277,15 +313,6 @@
     "stars": 60,
     "updated_at": "2026-07-09T14:20:07Z",
     "url": "https://github.com/michtio/craftcms-claude-skills"
-  },
-  {
-    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
-    "id": "agents-inc/cli",
-    "language": "TypeScript",
-    "name": "agents-inc/cli",
-    "stars": 2,
-    "updated_at": "2026-07-09T14:19:56Z",
-    "url": "https://github.com/agents-inc/cli"
   },
   {
     "description": "Provide and generate AI agent prompts with industry guides, glossaries, and multi-provider LLM support for scalable, aut",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T14:18:04Z",
     "url": "https://github.com/Alfietechtime/human-skill-tree"
-  },
-  {
-    "description": "Convert Markdown or Word documents into clean, Claude-style presentations in HTML or PPTX with simple, minimal design an",
-    "id": "ibadbasit/skill_doc2ppt",
-    "language": "\u2014",
-    "name": "ibadbasit/skill_doc2ppt",
-    "stars": 1,
-    "updated_at": "2026-07-09T14:16:51Z",
-    "url": "https://github.com/ibadbasit/skill_doc2ppt"
-  },
-  {
-    "description": "Serve real-time and historical Indian stock data from NSE and BSE using Model Context Protocol for easy market analysis ",
-    "id": "shamu0509/nse-bse-mcp",
-    "language": "Python",
-    "name": "shamu0509/nse-bse-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-09T14:16:27Z",
-    "url": "https://github.com/shamu0509/nse-bse-mcp"
-  },
-  {
-    "description": "Provide ready-to-use CLAUDE.md templates for major stacks to improve Claude Code outputs and streamline project setup.",
-    "id": "anns2rn/awesome-claude-md",
-    "language": "Python",
-    "name": "anns2rn/awesome-claude-md",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:16:09Z",
-    "url": "https://github.com/anns2rn/awesome-claude-md"
   }
 ]
