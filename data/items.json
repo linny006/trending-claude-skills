@@ -1,5 +1,50 @@
 [
   {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 1797,
+    "updated_at": "2026-07-10T01:13:04Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "PyWry is a cross-platform app factory, rendering engine and UI toolkit for Python that produces native desktop, web, and",
+    "id": "deeleeramone/PyWry",
+    "language": "Python",
+    "name": "deeleeramone/PyWry",
+    "stars": 92,
+    "updated_at": "2026-07-10T01:14:32Z",
+    "url": "https://github.com/deeleeramone/PyWry"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-10T01:12:36Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Spring Boot skills for AI coding agents",
+    "id": "sivaprasadreddy/sivalabs-agent-skills",
+    "language": "Python",
+    "name": "sivaprasadreddy/sivalabs-agent-skills",
+    "stars": 158,
+    "updated_at": "2026-07-10T01:10:24Z",
+    "url": "https://github.com/sivaprasadreddy/sivalabs-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-10T01:10:00Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Turn a one-line idea into a production-grade, copy-paste-ready AI image prompt for posters, landing and UI mockups, ads,",
     "id": "veryCoolTimo/imagegen-skills",
     "language": "Python",
@@ -9,13 +54,13 @@
     "url": "https://github.com/veryCoolTimo/imagegen-skills"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-10T01:09:32Z",
-    "url": "https://github.com/crypdick/pynchy"
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 65416,
+    "updated_at": "2026-07-10T01:09:37Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -43,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-10T01:03:22Z",
     "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 65417,
-    "updated_at": "2026-07-10T01:09:37Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-10T01:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skills that make Claude (Fable) the conductor of AI worker fleets: many parallel OpenAI Codex workers plus O",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 2,
-    "updated_at": "2026-07-10T00:56:33Z",
+    "updated_at": "2026-07-10T01:14:25Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-10T00:52:55Z",
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "PyWry is a cross-platform app factory, rendering engine and UI toolkit for Python that produces native desktop, web, and",
-    "id": "deeleeramone/PyWry",
-    "language": "Python",
-    "name": "deeleeramone/PyWry",
-    "stars": 92,
-    "updated_at": "2026-07-10T00:54:48Z",
-    "url": "https://github.com/deeleeramone/PyWry"
   },
   {
     "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T00:40:03Z",
     "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-07-10T00:40:02Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Loop engineering skill for AI \u2014 scaffold a 9-agent team that discovers, implements, verifies, and iterates until your go",
-    "id": "vibhasdutta/loop-engineer",
-    "language": "PowerShell",
-    "name": "vibhasdutta/loop-engineer",
-    "stars": 2,
-    "updated_at": "2026-07-10T00:39:58Z",
-    "url": "https://github.com/vibhasdutta/loop-engineer"
   }
 ]
