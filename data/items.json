@@ -1,10 +1,82 @@
 [
   {
+    "description": "Semantic agent skills for cloud operations \u2014 open SKILL.md packages for Claude Code, Cursor, Codex CLI. Includes huawei-",
+    "id": "ontology-of-everything/SemanticSkills",
+    "language": "Python",
+    "name": "ontology-of-everything/SemanticSkills",
+    "stars": 6,
+    "updated_at": "2026-07-10T07:29:08Z",
+    "url": "https://github.com/ontology-of-everything/SemanticSkills"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 1,
+    "updated_at": "2026-07-10T07:28:03Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "\u4e00\u4e2a\u5305\u542bagent\u548cskill\u7684\u96c6\u5408\uff1aRAG\u3001\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
+    "id": "Ldxs001/workbuddy-skills",
+    "language": "Python",
+    "name": "Ldxs001/workbuddy-skills",
+    "stars": 2,
+    "updated_at": "2026-07-10T07:21:53Z",
+    "url": "https://github.com/Ldxs001/workbuddy-skills"
+  },
+  {
+    "description": "Open-source thinking-framework skills that make rigorous reasoning executable for AI agents \u2014 first-principles, inversio",
+    "id": "deciqAI/knowledge-skills",
+    "language": "Python",
+    "name": "deciqAI/knowledge-skills",
+    "stars": 3,
+    "updated_at": "2026-07-10T07:17:26Z",
+    "url": "https://github.com/deciqAI/knowledge-skills"
+  },
+  {
+    "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
+    "id": "SentiSenseApp/skills",
+    "language": "Python",
+    "name": "SentiSenseApp/skills",
+    "stars": 1,
+    "updated_at": "2026-07-10T07:17:13Z",
+    "url": "https://github.com/SentiSenseApp/skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 280,
+    "updated_at": "2026-07-10T07:17:11Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "",
+    "id": "sarveshtalele/reverse-engineering-skill-github-copilot",
+    "language": "Python",
+    "name": "sarveshtalele/reverse-engineering-skill-github-copilot",
+    "stars": 0,
+    "updated_at": "2026-07-10T07:16:01Z",
+    "url": "https://github.com/sarveshtalele/reverse-engineering-skill-github-copilot"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-10T07:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Generate draw.io diagrams from natural language \u2014 6 presets, vision self-check + up to 5-round refinement, codebase-to-d",
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
-    "stars": 5580,
+    "stars": 5581,
     "updated_at": "2026-07-10T07:10:12Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
@@ -40,7 +112,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 65434,
+    "stars": 65436,
     "updated_at": "2026-07-10T07:04:41Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -52,15 +124,6 @@
     "stars": 1463,
     "updated_at": "2026-07-10T07:02:17Z",
     "url": "https://github.com/activeloopai/hivemind"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-10T07:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skills by mr-kelly",
@@ -95,7 +158,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 94,
-    "updated_at": "2026-07-10T07:14:26Z",
+    "updated_at": "2026-07-10T07:27:31Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/zgbrenner/agentcounsel"
   },
   {
-    "description": "",
-    "id": "sarveshtalele/reverse-engineering-skill-github-copilot",
-    "language": "Python",
-    "name": "sarveshtalele/reverse-engineering-skill-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:56:33Z",
-    "url": "https://github.com/sarveshtalele/reverse-engineering-skill-github-copilot"
-  },
-  {
     "description": "Ultrademo is an automated demo video generator for any websites, SaaS applications, etc. - executed conveniently through",
     "id": "new-xp/ultrademo",
     "language": "JavaScript",
@@ -124,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-10T06:56:19Z",
     "url": "https://github.com/new-xp/ultrademo"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 280,
-    "updated_at": "2026-07-10T06:56:27Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "Marketplace of plugins and skills for Claude Code",
@@ -148,18 +193,9 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 72414,
+    "stars": 72415,
     "updated_at": "2026-07-10T06:52:50Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
-  },
-  {
-    "description": "Open-source thinking-framework skills that make rigorous reasoning executable for AI agents \u2014 first-principles, inversio",
-    "id": "deciqAI/knowledge-skills",
-    "language": "Python",
-    "name": "deciqAI/knowledge-skills",
-    "stars": 3,
-    "updated_at": "2026-07-10T06:51:20Z",
-    "url": "https://github.com/deciqAI/knowledge-skills"
   },
   {
     "description": "Turn any writer's collected essays into an inspiration-ranked audiobook with a local TTS model. A Claude Code skill set.",
@@ -346,18 +382,9 @@
     "id": "harshaneel/humanize",
     "language": "HTML",
     "name": "harshaneel/humanize",
-    "stars": 191,
+    "stars": 192,
     "updated_at": "2026-07-10T06:15:51Z",
     "url": "https://github.com/harshaneel/humanize"
-  },
-  {
-    "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
-    "id": "SentiSenseApp/skills",
-    "language": "Python",
-    "name": "SentiSenseApp/skills",
-    "stars": 1,
-    "updated_at": "2026-07-10T06:14:49Z",
-    "url": "https://github.com/SentiSenseApp/skills"
   },
   {
     "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T06:10:41Z",
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Claude Code skills for SEO, content localization, and digital PR - built for TrueProfit's ecommerce workflow",
-    "id": "khanhvo2172-dotcom/seo-skills",
-    "language": "Python",
-    "name": "khanhvo2172-dotcom/seo-skills",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:10:34Z",
-    "url": "https://github.com/khanhvo2172-dotcom/seo-skills"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:10:28Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:09:02Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
   }
 ]
