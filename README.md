@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-10 18:00 UTC
+> ⏰ Last updated: 2026-07-10 18:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [arjun988/blender-skills](https://github.com/arjun988/blender-skills) | 31 | TypeScript | 2026-07-10 | 94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipeline from blockout to e |
-| 2 | [tuanle96/odoo-ai-skills](https://github.com/tuanle96/odoo-ai-skills) | 4 | Python | 2026-07-10 | Claude Code skills suite for AI-driven Odoo 17/18/19 development: read ground truth from the running instance first (fie |
-| 3 | [kogakure/skills](https://github.com/kogakure/skills) | 8 | — | 2026-07-10 | Collection of AI Agent Code skills |
-| 4 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-07-10 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
-| 5 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-07-10 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
-| 6 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-10 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
-| 7 | [jovylle/build-ready](https://github.com/jovylle/build-ready) | 0 | — | 2026-07-10 | Score a spec's autonomous-build readiness before any code exists — a portable Agent Skill that red-teams your PLAN/SPEC  |
-| 8 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 280 | MDX | 2026-07-10 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
-| 9 | [ralvarezdev/ralvaskills](https://github.com/ralvarezdev/ralvaskills) | 2 | Go | 2026-07-10 | My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 10 | Python | 2026-07-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 10 | Python | 2026-07-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [arjun988/blender-skills](https://github.com/arjun988/blender-skills) | 31 | TypeScript | 2026-07-10 | 94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipeline from blockout to e |
+| 3 | [tuanle96/odoo-ai-skills](https://github.com/tuanle96/odoo-ai-skills) | 4 | Python | 2026-07-10 | Claude Code skills suite for AI-driven Odoo 17/18/19 development: read ground truth from the running instance first (fie |
+| 4 | [kogakure/skills](https://github.com/kogakure/skills) | 8 | — | 2026-07-10 | Collection of AI Agent Code skills |
+| 5 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-07-10 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
+| 6 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-07-10 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
+| 7 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-10 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
+| 8 | [jovylle/build-ready](https://github.com/jovylle/build-ready) | 0 | — | 2026-07-10 | Score a spec's autonomous-build readiness before any code exists — a portable Agent Skill that red-teams your PLAN/SPEC  |
+| 9 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 280 | MDX | 2026-07-10 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
+| 10 | [ralvarezdev/ralvaskills](https://github.com/ralvarezdev/ralvaskills) | 2 | Go | 2026-07-10 | My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p |
 | 11 | [blisspixel/primr](https://github.com/blisspixel/primr) | 3 | Python | 2026-07-10 | Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis. |
 | 12 | [martinambrus/haive](https://github.com/martinambrus/haive) | 1 | TypeScript | 2026-07-10 | Project orchestration and AI agentic workflow utility. |
 | 13 | [jabrena/plinth](https://github.com/jabrena/plinth) | 415 | Java | 2026-07-10 | Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil |
