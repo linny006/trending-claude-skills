@@ -1,11 +1,101 @@
 [
   {
+    "description": "Your own ByteDance, powered by Codex skills.",
+    "id": "elan6666/your-bytedance-skills",
+    "language": "Python",
+    "name": "elan6666/your-bytedance-skills",
+    "stars": 1,
+    "updated_at": "2026-07-10T16:08:18Z",
+    "url": "https://github.com/elan6666/your-bytedance-skills"
+  },
+  {
+    "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
+    "id": "WenyuChiou/ai-research-skills",
+    "language": "Python",
+    "name": "WenyuChiou/ai-research-skills",
+    "stars": 144,
+    "updated_at": "2026-07-10T16:05:36Z",
+    "url": "https://github.com/WenyuChiou/ai-research-skills"
+  },
+  {
+    "description": "A Claude skill to track your job applications. Automatically synchronises Gmail and Google Calendar with a Notion databa",
+    "id": "daliaabbruciati/job_applications_tracker_SKILL",
+    "language": "\u2014",
+    "name": "daliaabbruciati/job_applications_tracker_SKILL",
+    "stars": 2,
+    "updated_at": "2026-07-10T16:05:30Z",
+    "url": "https://github.com/daliaabbruciati/job_applications_tracker_SKILL"
+  },
+  {
+    "description": "Taplio LinkedIn Cloud Skills: 17 free Claude Skills to write, plan, and grow your LinkedIn presence. Post writing, hooks",
+    "id": "TaplioOfficial/taplio-linkedin-claude-skills",
+    "language": "\u2014",
+    "name": "TaplioOfficial/taplio-linkedin-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-07-10T16:03:42Z",
+    "url": "https://github.com/TaplioOfficial/taplio-linkedin-claude-skills"
+  },
+  {
+    "description": "An Agent Skill that gives your AI agent offline access to Zeal docs on Linux",
+    "id": "xr09/zeal-docs",
+    "language": "Python",
+    "name": "xr09/zeal-docs",
+    "stars": 0,
+    "updated_at": "2026-07-10T16:03:24Z",
+    "url": "https://github.com/xr09/zeal-docs"
+  },
+  {
+    "description": "\ud83d\udce6 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an",
+    "id": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "language": "Python",
+    "name": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "stars": 0,
+    "updated_at": "2026-07-10T16:03:07Z",
+    "url": "https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill"
+  },
+  {
+    "description": "A disciplined 10-stage autonomous agent pipeline (Reflexion, Tree Search, ReAct) for Claude Code and AI coding agents. L",
+    "id": "HDHNezherParking-cum-Y638-Intl-Ltd/titan",
+    "language": "\u2014",
+    "name": "HDHNezherParking-cum-Y638-Intl-Ltd/titan",
+    "stars": 0,
+    "updated_at": "2026-07-10T16:03:04Z",
+    "url": "https://github.com/HDHNezherParking-cum-Y638-Intl-Ltd/titan"
+  },
+  {
+    "description": "\ud83d\ude80 Monitor your Claude Code sessions effortlessly on macOS with real-time status updates and quick access features for a ",
+    "id": "zenithpd/agent-sessions",
+    "language": "Rust",
+    "name": "zenithpd/agent-sessions",
+    "stars": 7,
+    "updated_at": "2026-07-10T16:02:36Z",
+    "url": "https://github.com/zenithpd/agent-sessions"
+  },
+  {
+    "description": "AI Agent Team scaffold for Claude Code \u2014 19 roles collaborate through stage gates, enforced by mandatory skills + blocki",
+    "id": "pcliangx/AppGenesisForge",
+    "language": "Python",
+    "name": "pcliangx/AppGenesisForge",
+    "stars": 740,
+    "updated_at": "2026-07-10T16:01:21Z",
+    "url": "https://github.com/pcliangx/AppGenesisForge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-10T16:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Practical Claude Code skills \u2014 English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add.",
     "id": "wquguru/skills",
     "language": "HTML",
     "name": "wquguru/skills",
     "stars": 76,
-    "updated_at": "2026-07-10T15:58:20Z",
+    "updated_at": "2026-07-10T16:08:02Z",
     "url": "https://github.com/wquguru/skills"
   },
   {
@@ -34,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-07-10T15:56:22Z",
     "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
-  },
-  {
-    "description": "Your own ByteDance, powered by Codex skills.",
-    "id": "elan6666/your-bytedance-skills",
-    "language": "Python",
-    "name": "elan6666/your-bytedance-skills",
-    "stars": 1,
-    "updated_at": "2026-07-10T15:56:18Z",
-    "url": "https://github.com/elan6666/your-bytedance-skills"
   },
   {
     "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
@@ -180,15 +261,6 @@
     "url": "https://github.com/Mann1988/awesome-claude-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-10T15:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
     "id": "428alexander9/claude-skills-marketplace",
     "language": "Python",
@@ -257,7 +329,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 94,
-    "updated_at": "2026-07-10T15:55:32Z",
+    "updated_at": "2026-07-10T16:07:37Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -351,15 +423,6 @@
     "url": "https://github.com/YasuakiOmokawa/skills"
   },
   {
-    "description": "An Agent Skill that gives your AI agent offline access to Zeal docs on Linux",
-    "id": "xr09/zeal-docs",
-    "language": "Python",
-    "name": "xr09/zeal-docs",
-    "stars": 0,
-    "updated_at": "2026-07-10T15:20:30Z",
-    "url": "https://github.com/xr09/zeal-docs"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T15:15:34Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "A rejection-driven workflow for turning unstable work into stable artifacts.",
-    "id": "phykn/loopy",
-    "language": "\u2014",
-    "name": "phykn/loopy",
-    "stars": 0,
-    "updated_at": "2026-07-10T15:15:28Z",
-    "url": "https://github.com/phykn/loopy"
-  },
-  {
-    "description": "Agent skills for building, shipping, and growing software products",
-    "id": "tenequm/skills",
-    "language": "Python",
-    "name": "tenequm/skills",
-    "stars": 29,
-    "updated_at": "2026-07-10T15:15:11Z",
-    "url": "https://github.com/tenequm/skills"
-  },
-  {
-    "description": "\u4e00\u4e2a\u5305\u542bagent\u548cskill\u7684\u96c6\u5408\uff1aRAG\u3001\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
-    "id": "Ldxs001/workbuddy-skills",
-    "language": "Python",
-    "name": "Ldxs001/workbuddy-skills",
-    "stars": 2,
-    "updated_at": "2026-07-10T15:41:37Z",
-    "url": "https://github.com/Ldxs001/workbuddy-skills"
-  },
-  {
-    "description": "Official Helius AI tooling repository ",
-    "id": "helius-labs/core-ai",
-    "language": "TypeScript",
-    "name": "helius-labs/core-ai",
-    "stars": 23,
-    "updated_at": "2026-07-10T15:12:55Z",
-    "url": "https://github.com/helius-labs/core-ai"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-10T15:09:31Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Personal collection of Claude Code skills for development workflows",
-    "id": "technicalpickles/pickled-claude-plugins",
-    "language": "Python",
-    "name": "technicalpickles/pickled-claude-plugins",
-    "stars": 10,
-    "updated_at": "2026-07-10T15:08:23Z",
-    "url": "https://github.com/technicalpickles/pickled-claude-plugins"
-  },
-  {
-    "description": "",
-    "id": "rjvim/ai-skills",
-    "language": "Shell",
-    "name": "rjvim/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-07-10T15:07:00Z",
-    "url": "https://github.com/rjvim/ai-skills"
   }
 ]
