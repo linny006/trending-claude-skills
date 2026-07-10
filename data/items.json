@@ -1,5 +1,131 @@
 [
   {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "TypeScript",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 5,
+    "updated_at": "2026-07-10T10:14:27Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "Skills built and bench-tested by SkillProof \u2014 SEO-aware translation for Claude with measured token costs",
+    "id": "Skillproofdev/skillproof-skills",
+    "language": "\u2014",
+    "name": "Skillproofdev/skillproof-skills",
+    "stars": 0,
+    "updated_at": "2026-07-10T10:13:08Z",
+    "url": "https://github.com/Skillproofdev/skillproof-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 94,
+    "updated_at": "2026-07-10T10:12:13Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 63,
+    "updated_at": "2026-07-10T10:10:55Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "Knowledge graph extractor: Markdown (or any format) \u2192 knowledge graph with RDFS/OWL ontology",
+    "id": "SenolIsci/mykg",
+    "language": "Python",
+    "name": "SenolIsci/mykg",
+    "stars": 45,
+    "updated_at": "2026-07-10T10:10:36Z",
+    "url": "https://github.com/SenolIsci/mykg"
+  },
+  {
+    "description": "A curated Claude Code plugin with skills for anything Claude can do.",
+    "id": "toolbox-playground/super-claudio",
+    "language": "\u2014",
+    "name": "toolbox-playground/super-claudio",
+    "stars": 2,
+    "updated_at": "2026-07-10T10:10:33Z",
+    "url": "https://github.com/toolbox-playground/super-claudio"
+  },
+  {
+    "description": "\u4e2d\u6587\u957f\u6587\u5199\u4f5c\u5f15\u64ce \u00b7 Claude Code skill\uff1a\u9009\u9898\u2192\u5927\u7eb2\u2192\u6b63\u6587\u2192\u6539\u7a3f\u2192\u5fae\u4fe1\u6392\u7248\u2192\u914d\u56fe\u3002\u5582\u5b83\u4f60\u7684\u8bed\u6599\uff0c\u5b83\u957f\u51fa\u4f60\u7684\u58f0\u97f3\u3002",
+    "id": "sandypoli-boop/sansheng-write",
+    "language": "Python",
+    "name": "sandypoli-boop/sansheng-write",
+    "stars": 0,
+    "updated_at": "2026-07-10T10:10:08Z",
+    "url": "https://github.com/sandypoli-boop/sansheng-write"
+  },
+  {
+    "description": "Move beyond 'think hard' - to Better Thinking for Claude",
+    "id": "skyf0xx/better-thinking",
+    "language": "Python",
+    "name": "skyf0xx/better-thinking",
+    "stars": 3,
+    "updated_at": "2026-07-10T10:08:39Z",
+    "url": "https://github.com/skyf0xx/better-thinking"
+  },
+  {
+    "description": "Ultrademo is an automated demo video generator for any websites, SaaS applications, etc. - executed conveniently through",
+    "id": "new-xp/ultrademo",
+    "language": "JavaScript",
+    "name": "new-xp/ultrademo",
+    "stars": 2,
+    "updated_at": "2026-07-10T10:08:36Z",
+    "url": "https://github.com/new-xp/ultrademo"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 1,
+    "updated_at": "2026-07-10T10:08:32Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
+    "id": "x-name15/gorrent",
+    "language": "Go",
+    "name": "x-name15/gorrent",
+    "stars": 0,
+    "updated_at": "2026-07-10T10:05:52Z",
+    "url": "https://github.com/x-name15/gorrent"
+  },
+  {
+    "description": "A Claude Code plugin that turns issues, problem statements, and feature requests \u2192 reviewed plans \u2192 focused tasks \u2192 and ",
+    "id": "metallurgical/ogre-runner",
+    "language": "Shell",
+    "name": "metallurgical/ogre-runner",
+    "stars": 1,
+    "updated_at": "2026-07-10T10:02:40Z",
+    "url": "https://github.com/metallurgical/ogre-runner"
+  },
+  {
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
+    "id": "Egonex-AI/Understand-Anything",
+    "language": "TypeScript",
+    "name": "Egonex-AI/Understand-Anything",
+    "stars": 72450,
+    "updated_at": "2026-07-10T10:02:17Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-10T10:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
@@ -9,13 +135,13 @@
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
-    "description": "Ultrademo is an automated demo video generator for any websites, SaaS applications, etc. - executed conveniently through",
-    "id": "new-xp/ultrademo",
-    "language": "JavaScript",
-    "name": "new-xp/ultrademo",
-    "stars": 2,
-    "updated_at": "2026-07-10T09:59:17Z",
-    "url": "https://github.com/new-xp/ultrademo"
+    "description": "Agent skill + CLI for multi-agent adversarial review of plans & specs before you execute them. Runs on the Claude Code /",
+    "id": "hiadrianchen/challenge-plans",
+    "language": "Python",
+    "name": "hiadrianchen/challenge-plans",
+    "stars": 4,
+    "updated_at": "2026-07-10T09:59:47Z",
+    "url": "https://github.com/hiadrianchen/challenge-plans"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -54,15 +180,6 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 94,
-    "updated_at": "2026-07-10T09:56:47Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Statistical timeseries forecasting in DuckDB",
     "id": "DataZooDE/anofox-forecast",
     "language": "C++",
@@ -99,24 +216,6 @@
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-10T09:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
-    "id": "x-name15/gorrent",
-    "language": "Go",
-    "name": "x-name15/gorrent",
-    "stars": 0,
-    "updated_at": "2026-07-10T09:44:07Z",
-    "url": "https://github.com/x-name15/gorrent"
-  },
-  {
     "description": "Skill Canvas \u00e4r en whiteboard\u2011liknande canvas\u2011app f\u00f6r att visuellt designa AI\u2011skills med text\u2011f\u00f6rst\u2011tekniker som Markdow",
     "id": "yllemo/skill-canvas",
     "language": "HTML",
@@ -124,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T09:40:22Z",
     "url": "https://github.com/yllemo/skill-canvas"
-  },
-  {
-    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
-    "id": "Egonex-AI/Understand-Anything",
-    "language": "TypeScript",
-    "name": "Egonex-AI/Understand-Anything",
-    "stars": 72447,
-    "updated_at": "2026-07-10T09:36:41Z",
-    "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
   {
     "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
@@ -169,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-10T09:32:06Z",
     "url": "https://github.com/SorenKK/checkpoint-claudio"
-  },
-  {
-    "description": "Move beyond 'think hard' - to Better Thinking for Claude",
-    "id": "skyf0xx/better-thinking",
-    "language": "Python",
-    "name": "skyf0xx/better-thinking",
-    "stars": 3,
-    "updated_at": "2026-07-10T09:31:26Z",
-    "url": "https://github.com/skyf0xx/better-thinking"
   },
   {
     "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T09:07:54Z",
     "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 3,
-    "updated_at": "2026-07-10T09:07:51Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-10T09:07:50Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-10T09:07:01Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-07-10T09:06:38Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-07-10T09:06:28Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-10T09:06:20Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-10T09:05:50Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-10T09:05:41Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-07-10T09:05:38Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
   }
 ]
