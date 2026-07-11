@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 08:29 UTC
+> ⏰ Last updated: 2026-07-11 08:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [jajupmochi/agent-harness](https://github.com/jajupmochi/agent-harness) | 1 | Python | 2026-07-11 | Linlin's curated AI agent harness configuration: workflow rules, skills, hooks, plugin recommendations, tooling preferen |
-| 2 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-11 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 3 | [DogInfantry/management-consulting-forge](https://github.com/DogInfantry/management-consulting-forge) | 52 | HTML | 2026-07-11 | Turn Claude into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, and bo |
-| 4 | [rolandobenitez/the-unofficial-swift-concurrency-migration-skill](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill) | 0 | Python | 2026-07-11 | 📦 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an |
-| 5 | [zenithpd/agent-sessions](https://github.com/zenithpd/agent-sessions) | 7 | Rust | 2026-07-11 | 🚀 Monitor your Claude Code sessions effortlessly on macOS with real-time status updates and quick access features for a  |
-| 6 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-11 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 7 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-11 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 8 | [Shada01245/the-unofficial-swift-programming-language-skill](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill) | 3 | Python | 2026-07-11 | 📦 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif |
-| 9 | [thairns/claude-rubycritic-skill](https://github.com/thairns/claude-rubycritic-skill) | 0 | — | 2026-07-11 | 🔍 Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics. |
-| 10 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 94 | Kotlin | 2026-07-11 | Helping the Agents Compose the Things |
-| 11 | [Junayedahmedd/gemini_cli_skill](https://github.com/Junayedahmedd/gemini_cli_skill) | 3 | — | 2026-07-11 | 🚀 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal |
-| 12 | [Kayunangka/claude-skill](https://github.com/Kayunangka/claude-skill) | 5 | — | 2026-07-11 | 🔍 Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis. |
-| 13 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-11 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 14 | [Stoica-Mihai/claude-skills](https://github.com/Stoica-Mihai/claude-skills) | 0 | HTML | 2026-07-11 | Curated Claude Code plugin marketplace — OpenSpec extensions and autonomous development workflows |
-| 15 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 10 | Python | 2026-07-11 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 10 | Python | 2026-07-11 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [jajupmochi/agent-harness](https://github.com/jajupmochi/agent-harness) | 1 | Python | 2026-07-11 | Linlin's curated AI agent harness configuration: workflow rules, skills, hooks, plugin recommendations, tooling preferen |
+| 3 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-11 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 4 | [DogInfantry/management-consulting-forge](https://github.com/DogInfantry/management-consulting-forge) | 52 | HTML | 2026-07-11 | Turn Claude into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, and bo |
+| 5 | [rolandobenitez/the-unofficial-swift-concurrency-migration-skill](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill) | 0 | Python | 2026-07-11 | 📦 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an |
+| 6 | [zenithpd/agent-sessions](https://github.com/zenithpd/agent-sessions) | 7 | Rust | 2026-07-11 | 🚀 Monitor your Claude Code sessions effortlessly on macOS with real-time status updates and quick access features for a  |
+| 7 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-11 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 8 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-11 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 9 | [Shada01245/the-unofficial-swift-programming-language-skill](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill) | 3 | Python | 2026-07-11 | 📦 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif |
+| 10 | [thairns/claude-rubycritic-skill](https://github.com/thairns/claude-rubycritic-skill) | 0 | — | 2026-07-11 | 🔍 Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics. |
+| 11 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 94 | Kotlin | 2026-07-11 | Helping the Agents Compose the Things |
+| 12 | [Junayedahmedd/gemini_cli_skill](https://github.com/Junayedahmedd/gemini_cli_skill) | 3 | — | 2026-07-11 | 🚀 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal |
+| 13 | [Kayunangka/claude-skill](https://github.com/Kayunangka/claude-skill) | 5 | — | 2026-07-11 | 🔍 Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis. |
+| 14 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-11 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 15 | [Stoica-Mihai/claude-skills](https://github.com/Stoica-Mihai/claude-skills) | 0 | HTML | 2026-07-11 | Curated Claude Code plugin marketplace — OpenSpec extensions and autonomous development workflows |
 | 16 | [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) | 2362 | Python | 2026-07-11 | 120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines — SEO/GEO, influencer, paid ads, emai |
 | 17 | [Ldxs001/workbuddy-skills](https://github.com/Ldxs001/workbuddy-skills) | 2 | Python | 2026-07-11 | 一个包含agent和skill的集合：RAG、技能审查、周报生成、项目管理、质量监控...及技术方案/内部设计文档 |
 | 18 | [Stewie-pixel/claude-with-leetcode](https://github.com/Stewie-pixel/claude-with-leetcode) | 61 | C++ | 2026-07-11 | Daily Leetcode masterclass with Claude code DSA mentor |
