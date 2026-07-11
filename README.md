@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 04:29 UTC
+> ⏰ Last updated: 2026-07-11 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [royvergara/design-team-os](https://github.com/royvergara/design-team-os) | 1 | Shell | 2026-07-11 | The open source operating system for design teams running on AI — three gates, gate-enforcing Claude skills, a work ledg |
-| 2 | [deciqAI/knowledge-skills](https://github.com/deciqAI/knowledge-skills) | 3 | Python | 2026-07-11 | Open-source thinking-framework skills that make rigorous reasoning executable for AI agents — first-principles, inversio |
-| 3 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-11 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 4 | [cabbagecachekid/red-pen](https://github.com/cabbagecachekid/red-pen) | 1 | — | 2026-07-11 | Keep AI-assisted writing honest and yours: an AI-written check, a cringe check, and a full-review orchestrator (anti-inf |
-| 5 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 281 | MDX | 2026-07-11 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
-| 6 | [cabbagecachekid/neon-jetpack](https://github.com/cabbagecachekid/neon-jetpack) | 0 | — | 2026-07-11 | Free Claude skills that keep AI-assisted writing honest and yours: line edits, AI-tell checks, tone audits, full reviews |
-| 7 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 383 | Python | 2026-07-11 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
-| 8 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-11 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 9 | [Rushil1507/DSA-Visualiser-Claude-Skill](https://github.com/Rushil1507/DSA-Visualiser-Claude-Skill) | 5 | — | 2026-07-11 |  |
-| 10 | [unpronounceable-ordersphenisciformes466/roblox-best-practices-skill](https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill) | 0 | JavaScript | 2026-07-11 | Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts. |
-| 11 | [jesusda3699/claude-rtl-persian](https://github.com/jesusda3699/claude-rtl-persian) | 0 | JavaScript | 2026-07-11 | Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable. |
-| 12 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-11 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 13 | [Zhonghao1995/agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow) | 19 | Python | 2026-07-11 | Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin |
-| 14 | [SylphxAI/skills](https://github.com/SylphxAI/skills) | 2 | JavaScript | 2026-07-11 | Evidence-first Agent Skills lab with a small install surface, non-installable incubator, and replayable evaluation gates |
-| 15 | [Glad-oboedacaccia408/design.md](https://github.com/Glad-oboedacaccia408/design.md) | 1 | TypeScript | 2026-07-11 | Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h |
-| 16 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 0 | HTML | 2026-07-11 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
-| 17 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 10 | Python | 2026-07-11 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 10 | Python | 2026-07-11 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [royvergara/design-team-os](https://github.com/royvergara/design-team-os) | 1 | Shell | 2026-07-11 | The open source operating system for design teams running on AI — three gates, gate-enforcing Claude skills, a work ledg |
+| 3 | [deciqAI/knowledge-skills](https://github.com/deciqAI/knowledge-skills) | 3 | Python | 2026-07-11 | Open-source thinking-framework skills that make rigorous reasoning executable for AI agents — first-principles, inversio |
+| 4 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-11 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 5 | [cabbagecachekid/red-pen](https://github.com/cabbagecachekid/red-pen) | 1 | — | 2026-07-11 | Keep AI-assisted writing honest and yours: an AI-written check, a cringe check, and a full-review orchestrator (anti-inf |
+| 6 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 281 | MDX | 2026-07-11 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
+| 7 | [cabbagecachekid/neon-jetpack](https://github.com/cabbagecachekid/neon-jetpack) | 0 | — | 2026-07-11 | Free Claude skills that keep AI-assisted writing honest and yours: line edits, AI-tell checks, tone audits, full reviews |
+| 8 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 383 | Python | 2026-07-11 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
+| 9 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-11 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 10 | [Rushil1507/DSA-Visualiser-Claude-Skill](https://github.com/Rushil1507/DSA-Visualiser-Claude-Skill) | 5 | — | 2026-07-11 |  |
+| 11 | [unpronounceable-ordersphenisciformes466/roblox-best-practices-skill](https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill) | 0 | JavaScript | 2026-07-11 | Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts. |
+| 12 | [jesusda3699/claude-rtl-persian](https://github.com/jesusda3699/claude-rtl-persian) | 0 | JavaScript | 2026-07-11 | Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable. |
+| 13 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-11 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 14 | [Zhonghao1995/agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow) | 19 | Python | 2026-07-11 | Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin |
+| 15 | [SylphxAI/skills](https://github.com/SylphxAI/skills) | 2 | JavaScript | 2026-07-11 | Evidence-first Agent Skills lab with a small install surface, non-installable incubator, and replayable evaluation gates |
+| 16 | [Glad-oboedacaccia408/design.md](https://github.com/Glad-oboedacaccia408/design.md) | 1 | TypeScript | 2026-07-11 | Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h |
+| 17 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 0 | HTML | 2026-07-11 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
 | 18 | [lindneutral977/claude-mythos-ai-anthropic-desktop-app](https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app) | 3 | TypeScript | 2026-07-11 | A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux. |
 | 19 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-07-11 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
 | 20 | [bokyostudio/pg-practice-knowledgebase](https://github.com/bokyostudio/pg-practice-knowledgebase) | 0 | HTML | 2026-07-11 | The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026 |
