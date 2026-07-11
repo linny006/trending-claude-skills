@@ -1,12 +1,39 @@
 [
   {
+    "description": "Evidence-based design playbooks for Claude Code \u2014 rules synthesized from 407 real product sites: page-type playbooks wit",
+    "id": "veryCoolTimo/design-playbooks-skill",
+    "language": "Python",
+    "name": "veryCoolTimo/design-playbooks-skill",
+    "stars": 0,
+    "updated_at": "2026-07-11T05:29:57Z",
+    "url": "https://github.com/veryCoolTimo/design-playbooks-skill"
+  },
+  {
     "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
     "id": "boshu2/agentops",
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 408,
-    "updated_at": "2026-07-11T05:11:10Z",
+    "updated_at": "2026-07-11T05:22:05Z",
     "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 281,
+    "updated_at": "2026-07-11T05:21:06Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-11T05:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Vaaya MCP server \u2014 pay-per-call agent superpowers: media & video generation, product demo videos, web search & scraping,",
@@ -45,24 +72,6 @@
     "url": "https://github.com/ramboz/jig"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 281,
-    "updated_at": "2026-07-11T05:01:08Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-11T05:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -94,7 +103,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 3452,
+    "stars": 3453,
     "updated_at": "2026-07-11T04:53:38Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T04:50:10Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Evidence-based design playbooks for Claude Code \u2014 rules synthesized from 407 real product sites: page-type playbooks wit",
-    "id": "veryCoolTimo/design-playbooks-skill",
-    "language": "Python",
-    "name": "veryCoolTimo/design-playbooks-skill",
-    "stars": 0,
-    "updated_at": "2026-07-11T04:49:20Z",
-    "url": "https://github.com/veryCoolTimo/design-playbooks-skill"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
