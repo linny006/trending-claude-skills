@@ -1,5 +1,59 @@
 [
   {
+    "description": "My daily-driver Claude Code and Codex loadout",
+    "id": "kennykankush/skillpack",
+    "language": "Python",
+    "name": "kennykankush/skillpack",
+    "stars": 0,
+    "updated_at": "2026-07-11T12:26:10Z",
+    "url": "https://github.com/kennykankush/skillpack"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 94,
+    "updated_at": "2026-07-11T12:27:28Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\u4e00\u4e2a\u5305\u542bagent\u548cskill\u7684\u96c6\u5408\uff1aRAG\u3001\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
+    "id": "Ldxs001/workbuddy-skills",
+    "language": "Python",
+    "name": "Ldxs001/workbuddy-skills",
+    "stars": 2,
+    "updated_at": "2026-07-11T12:19:43Z",
+    "url": "https://github.com/Ldxs001/workbuddy-skills"
+  },
+  {
+    "description": "Evidence-first vulnerability research workspace and Skills for Claude Code and Codex.",
+    "id": "bx33661/oh-my-vul",
+    "language": "TypeScript",
+    "name": "bx33661/oh-my-vul",
+    "stars": 3,
+    "updated_at": "2026-07-11T12:20:49Z",
+    "url": "https://github.com/bx33661/oh-my-vul"
+  },
+  {
+    "description": "This is WordPress and Elementor skill.md made for Claude.ai",
+    "id": "guramzhgamadze/WordPress-Elementor-Skill",
+    "language": "\u2014",
+    "name": "guramzhgamadze/WordPress-Elementor-Skill",
+    "stars": 17,
+    "updated_at": "2026-07-11T12:17:58Z",
+    "url": "https://github.com/guramzhgamadze/WordPress-Elementor-Skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-11T12:15:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T12:14:54Z",
     "url": "https://github.com/TheaDust/lore"
-  },
-  {
-    "description": "My daily-driver Claude Code and Codex loadout",
-    "id": "kennykankush/skillpack",
-    "language": "Python",
-    "name": "kennykankush/skillpack",
-    "stars": 0,
-    "updated_at": "2026-07-11T12:14:00Z",
-    "url": "https://github.com/kennykankush/skillpack"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T12:09:29Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Evidence-first vulnerability research workspace and Skills for Claude Code and Codex.",
-    "id": "bx33661/oh-my-vul",
-    "language": "TypeScript",
-    "name": "bx33661/oh-my-vul",
-    "stars": 3,
-    "updated_at": "2026-07-11T12:09:46Z",
-    "url": "https://github.com/bx33661/oh-my-vul"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -144,24 +180,6 @@
     "url": "https://github.com/Skillproofdev/text-humanizer"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 94,
-    "updated_at": "2026-07-11T12:14:31Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-11T12:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -193,7 +211,7 @@
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 22147,
+    "stars": 22149,
     "updated_at": "2026-07-11T11:57:37Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T11:39:56Z",
     "url": "https://github.com/metallurgical/ogre-runner"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-11T11:39:11Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 17577,
-    "updated_at": "2026-07-11T11:38:10Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   }
 ]
