@@ -1,11 +1,47 @@
 [
   {
+    "description": "Turn Claude into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, and bo",
+    "id": "DogInfantry/management-consulting-forge",
+    "language": "HTML",
+    "name": "DogInfantry/management-consulting-forge",
+    "stars": 52,
+    "updated_at": "2026-07-11T08:44:58Z",
+    "url": "https://github.com/DogInfantry/management-consulting-forge"
+  },
+  {
+    "description": "\u4e00\u4e2a\u5305\u542bagent\u548cskill\u7684\u96c6\u5408\uff1aRAG\u3001\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
+    "id": "Ldxs001/workbuddy-skills",
+    "language": "Python",
+    "name": "Ldxs001/workbuddy-skills",
+    "stars": 2,
+    "updated_at": "2026-07-11T08:39:20Z",
+    "url": "https://github.com/Ldxs001/workbuddy-skills"
+  },
+  {
+    "description": "A Claude Agent Skill that humanizes AI-written marketing and long-form copy: landing pages, sales pages, e-books, case s",
+    "id": "forint573/human-copywrite",
+    "language": "Python",
+    "name": "forint573/human-copywrite",
+    "stars": 2,
+    "updated_at": "2026-07-11T08:32:47Z",
+    "url": "https://github.com/forint573/human-copywrite"
+  },
+  {
+    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 408,
+    "updated_at": "2026-07-11T08:32:20Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 10,
-    "updated_at": "2026-07-11T08:29:14Z",
+    "updated_at": "2026-07-11T08:30:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T08:27:39Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Turn Claude into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, and bo",
-    "id": "DogInfantry/management-consulting-forge",
-    "language": "HTML",
-    "name": "DogInfantry/management-consulting-forge",
-    "stars": 52,
-    "updated_at": "2026-07-11T08:27:19Z",
-    "url": "https://github.com/DogInfantry/management-consulting-forge"
   },
   {
     "description": "\ud83d\udce6 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an",
@@ -95,7 +122,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 94,
-    "updated_at": "2026-07-11T08:27:10Z",
+    "updated_at": "2026-07-11T08:44:01Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
   },
   {
-    "description": "\u4e00\u4e2a\u5305\u542bagent\u548cskill\u7684\u96c6\u5408\uff1aRAG\u3001\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
-    "id": "Ldxs001/workbuddy-skills",
-    "language": "Python",
-    "name": "Ldxs001/workbuddy-skills",
-    "stars": 2,
-    "updated_at": "2026-07-11T08:15:42Z",
-    "url": "https://github.com/Ldxs001/workbuddy-skills"
-  },
-  {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
     "id": "Stewie-pixel/claude-with-leetcode",
     "language": "C++",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 2,
-    "updated_at": "2026-07-11T08:16:18Z",
+    "updated_at": "2026-07-11T08:34:20Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -221,7 +239,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1519,
-    "updated_at": "2026-07-11T08:29:09Z",
+    "updated_at": "2026-07-11T08:37:36Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T07:57:18Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Independent verification for coding agents. A change isn't done until a different model or a real test checks it, and th",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 408,
-    "updated_at": "2026-07-11T07:56:52Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Terraform-style configuration for AI coding agents. Compile one ai-profile.yaml into safe Codex, Claude, and Tabnine con",
@@ -364,7 +373,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 65523,
+    "stars": 65522,
     "updated_at": "2026-07-11T07:30:33Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T07:19:14Z",
     "url": "https://github.com/cabbagecachekid/red-pen"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-07-11T07:18:19Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
   }
 ]
