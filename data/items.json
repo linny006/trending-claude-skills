@@ -1,5 +1,50 @@
 [
   {
+    "description": "The open source operating system for design teams running on AI \u2014 three gates, gate-enforcing Claude skills, a work ledg",
+    "id": "royvergara/design-team-os",
+    "language": "HTML",
+    "name": "royvergara/design-team-os",
+    "stars": 1,
+    "updated_at": "2026-07-12T19:51:39Z",
+    "url": "https://github.com/royvergara/design-team-os"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 366,
+    "updated_at": "2026-07-12T19:51:59Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 0,
+    "updated_at": "2026-07-12T19:49:15Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Agent MCP server + skill for managing your NixOS system ",
+    "id": "JEFF7712/nix-agent",
+    "language": "Python",
+    "name": "JEFF7712/nix-agent",
+    "stars": 14,
+    "updated_at": "2026-07-12T19:49:12Z",
+    "url": "https://github.com/JEFF7712/nix-agent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-12T19:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skill: find, verify, and prioritize B2B leads in any city \u2014 evidence quotes, adversarial verification, 21 ve",
     "id": "Claudefarid/Claudeb2b-lead-finder",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 12,
     "updated_at": "2026-07-12T19:39:50Z",
     "url": "https://github.com/proyecto26/autoresearch-ai-plugin"
-  },
-  {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 366,
-    "updated_at": "2026-07-12T19:38:51Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-12T19:31:10Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-12T19:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -230,7 +257,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 95,
-    "updated_at": "2026-07-12T19:41:41Z",
+    "updated_at": "2026-07-12T19:45:42Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-12T18:58:56Z",
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-12T18:58:30Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-07-12T18:58:11Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-12T18:56:41Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
   }
 ]
