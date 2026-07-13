@@ -1,12 +1,39 @@
 [
   {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 17660,
+    "updated_at": "2026-07-13T02:00:22Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "KiSYSTEM - measure twice, cut once. A Claude Code skill bundle that keeps AI-written code clean, modular, and human-read",
+    "id": "Pr1m4lc0d3/KiSYSTEM",
+    "language": "Python",
+    "name": "Pr1m4lc0d3/KiSYSTEM",
+    "stars": 0,
+    "updated_at": "2026-07-13T01:55:48Z",
+    "url": "https://github.com/Pr1m4lc0d3/KiSYSTEM"
+  },
+  {
     "description": "Second brain for Forward Deployed Engineers. Engagement memory + 35 skills across 6 domains, all behind one @fde... Work",
     "id": "suboss87/FDEOps",
     "language": "JavaScript",
     "name": "suboss87/FDEOps",
     "stars": 54,
-    "updated_at": "2026-07-13T01:40:21Z",
+    "updated_at": "2026-07-13T01:55:29Z",
     "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 0,
+    "updated_at": "2026-07-13T01:55:14Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
     "description": "Browse every recent Claude Code session across all your projects and jump back into any of them. Shows project path, sum",
@@ -14,35 +41,26 @@
     "language": "TypeScript",
     "name": "noluyorAbi/claude-code-recap",
     "stars": 0,
-    "updated_at": "2026-07-13T01:39:54Z",
+    "updated_at": "2026-07-13T01:52:05Z",
     "url": "https://github.com/noluyorAbi/claude-code-recap"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 17658,
-    "updated_at": "2026-07-13T01:38:47Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Prototyping Toolkit with Anthropic Skills / Subagents / Plugins, MCP components with JSON-based prompt flows for agentic",
-    "id": "clownware/product-dev",
-    "language": "Python",
-    "name": "clownware/product-dev",
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
     "stars": 1,
-    "updated_at": "2026-07-13T01:34:01Z",
-    "url": "https://github.com/clownware/product-dev"
+    "updated_at": "2026-07-13T01:49:39Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-13T01:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Slash commands for Claude Code \u2014 manage GitHub issues and pull requests, one focused workflow at a time.",
+    "id": "claude-contrib/claude-skills",
+    "language": "jq",
+    "name": "claude-contrib/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-13T01:47:21Z",
+    "url": "https://github.com/claude-contrib/claude-skills"
   },
   {
     "description": "repo for reusable plugins and skills",
@@ -50,8 +68,35 @@
     "language": "Python",
     "name": "richfrem/agent-plugins-skills",
     "stars": 4,
-    "updated_at": "2026-07-13T01:34:12Z",
+    "updated_at": "2026-07-13T01:46:26Z",
     "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-13T01:45:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 0,
+    "updated_at": "2026-07-13T01:45:17Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "AI-assisted product development, from fuzzy idea to technical spec \u2014 a Claude Code plugin of guided UX-research prompt f",
+    "id": "clownware/product-dev",
+    "language": "Python",
+    "name": "clownware/product-dev",
+    "stars": 1,
+    "updated_at": "2026-07-13T01:34:01Z",
+    "url": "https://github.com/clownware/product-dev"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -86,7 +131,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-13T01:22:54Z",
+    "updated_at": "2026-07-13T01:54:51Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 65628,
-    "updated_at": "2026-07-13T01:17:13Z",
+    "updated_at": "2026-07-13T01:56:54Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T00:22:49Z",
     "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-13T00:22:23Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-07-13T00:22:04Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-13T00:21:10Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-07-13T00:20:40Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-13T00:20:18Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
   }
 ]
