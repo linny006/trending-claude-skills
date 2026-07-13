@@ -1,5 +1,50 @@
 [
   {
+    "description": "",
+    "id": "Alejandrowe-bot/claude-mcps-and-prompts",
+    "language": "\u2014",
+    "name": "Alejandrowe-bot/claude-mcps-and-prompts",
+    "stars": 0,
+    "updated_at": "2026-07-13T19:41:57Z",
+    "url": "https://github.com/Alejandrowe-bot/claude-mcps-and-prompts"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 11,
+    "updated_at": "2026-07-13T19:41:55Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Implement skills for AI agents using a Model Context Protocol server that allows easy definition and invocation of sp",
+    "id": "Wackodacko/agent-skills-mcp",
+    "language": "JavaScript",
+    "name": "Wackodacko/agent-skills-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-13T19:41:45Z",
+    "url": "https://github.com/Wackodacko/agent-skills-mcp"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-13T19:41:32Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-07-13T19:41:28Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
     "description": "\ud83e\udd16 Automate Unity Editor tasks with AI using JSON command files for efficient scene management, GameObject handling, and ",
     "id": "sachinrai308/Unity-Skills",
     "language": "\u2014",
@@ -252,15 +297,6 @@
     "url": "https://github.com/humongus69/langsmith-fetch-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 11,
-    "updated_at": "2026-07-13T19:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Enhance programming workflows with a curated library of agent skills for tasks like code review, debugging, and plann",
     "id": "izyanrajwani/agent-skills-library",
     "language": "TypeScript",
@@ -277,6 +313,15 @@
     "stars": 3,
     "updated_at": "2026-07-13T19:28:03Z",
     "url": "https://github.com/2josEx/claude-brain"
+  },
+  {
+    "description": "claude-code-workflow",
+    "id": "contentflow-kr/claude-code-workflow",
+    "language": "Shell",
+    "name": "contentflow-kr/claude-code-workflow",
+    "stars": 1,
+    "updated_at": "2026-07-13T19:27:10Z",
+    "url": "https://github.com/contentflow-kr/claude-code-workflow"
   },
   {
     "description": "\ud83e\udd16 Explore essential AI tools for building, automating, and monetizing projects across content, video, e-commerce, and mo",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-13T19:15:37Z",
     "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
-  },
-  {
-    "description": "Curated high-quality skills for Claude Code \u2014 skill-advisor and more",
-    "id": "j4rk0r/claude-skills",
-    "language": "Shell",
-    "name": "j4rk0r/claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-13T19:15:12Z",
-    "url": "https://github.com/j4rk0r/claude-skills"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
-    "id": "Kayunangka/claude-skill",
-    "language": "\u2014",
-    "name": "Kayunangka/claude-skill",
-    "stars": 5,
-    "updated_at": "2026-07-13T19:14:52Z",
-    "url": "https://github.com/Kayunangka/claude-skill"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-13T19:13:25Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "A Claude skill to track your job applications. Automatically synchronises Gmail and Google Calendar with a Notion databa",
-    "id": "daliaabbruciati/job-application-tracker-SKILL",
-    "language": "\u2014",
-    "name": "daliaabbruciati/job-application-tracker-SKILL",
-    "stars": 2,
-    "updated_at": "2026-07-13T19:12:32Z",
-    "url": "https://github.com/daliaabbruciati/job-application-tracker-SKILL"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 281,
-    "updated_at": "2026-07-13T19:13:08Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   }
 ]
