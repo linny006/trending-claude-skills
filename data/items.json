@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83d\udd0d Fetch execution traces from LangSmith Studio to debug LangChain and LangGraph agents effectively with Claude Code.",
+    "id": "humongus69/langsmith-fetch-skill",
+    "language": "\u2014",
+    "name": "humongus69/langsmith-fetch-skill",
+    "stars": 1,
+    "updated_at": "2026-07-13T13:43:26Z",
+    "url": "https://github.com/humongus69/langsmith-fetch-skill"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Enhance programming workflows with a curated library of agent skills for tasks like code review, debugging, and plann",
+    "id": "izyanrajwani/agent-skills-library",
+    "language": "TypeScript",
+    "name": "izyanrajwani/agent-skills-library",
+    "stars": 4,
+    "updated_at": "2026-07-13T13:42:50Z",
+    "url": "https://github.com/izyanrajwani/agent-skills-library"
+  },
+  {
+    "description": "\ud83e\udde0 Empower Claude with memory to enhance code debugging and conversation recall, turning ephemeral chats into lasting ins",
+    "id": "2josEx/claude-brain",
+    "language": "JavaScript",
+    "name": "2josEx/claude-brain",
+    "stars": 3,
+    "updated_at": "2026-07-13T13:40:53Z",
+    "url": "https://github.com/2josEx/claude-brain"
+  },
+  {
+    "description": "A Claude skill that generates a detailed, structured session archive in markdown for long-term logging and cross-session",
+    "id": "thebpandey/session-detail",
+    "language": "\u2014",
+    "name": "thebpandey/session-detail",
+    "stars": 0,
+    "updated_at": "2026-07-13T13:40:08Z",
+    "url": "https://github.com/thebpandey/session-detail"
+  },
+  {
+    "description": "\ud83e\udd16 Explore essential AI tools for building, automating, and monetizing projects across content, video, e-commerce, and mo",
+    "id": "foodman1227/awesome-ai-tools",
+    "language": "\u2014",
+    "name": "foodman1227/awesome-ai-tools",
+    "stars": 8,
+    "updated_at": "2026-07-13T13:39:54Z",
+    "url": "https://github.com/foodman1227/awesome-ai-tools"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30221,
+    "updated_at": "2026-07-13T13:38:32Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-13T13:37:33Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-13T13:36:31Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "\ud83d\udce6 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an",
+    "id": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "language": "Python",
+    "name": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "stars": 0,
+    "updated_at": "2026-07-13T13:34:26Z",
+    "url": "https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Monitor your Claude Code sessions effortlessly on macOS with real-time status updates and quick access features for a ",
+    "id": "zenithpd/agent-sessions",
+    "language": "Rust",
+    "name": "zenithpd/agent-sessions",
+    "stars": 7,
+    "updated_at": "2026-07-13T13:33:49Z",
+    "url": "https://github.com/zenithpd/agent-sessions"
+  },
+  {
+    "description": "Operating loop for coding agents. A change isn't done until a different model or a real test checks it, and the verdict ",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 409,
+    "updated_at": "2026-07-13T13:32:42Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 11,
+    "updated_at": "2026-07-13T13:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-07-13T13:30:00Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
     "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
     "id": "Shada01245/the-unofficial-swift-programming-language-skill",
     "language": "Python",
@@ -104,7 +221,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 65676,
-    "updated_at": "2026-07-13T13:22:58Z",
+    "updated_at": "2026-07-13T13:35:24Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -198,15 +315,6 @@
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 11,
-    "updated_at": "2026-07-13T13:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -243,15 +351,6 @@
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30221,
-    "updated_at": "2026-07-13T13:07:50Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -284,17 +383,8 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 199,
-    "updated_at": "2026-07-13T13:21:56Z",
+    "updated_at": "2026-07-13T13:44:39Z",
     "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Operating loop for coding agents. A change isn't done until a different model or a real test checks it, and the verdict ",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 409,
-    "updated_at": "2026-07-13T12:59:19Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
@@ -329,7 +419,7 @@
     "language": "JavaScript",
     "name": "gaia-react/gaia",
     "stars": 19,
-    "updated_at": "2026-07-13T13:29:23Z",
+    "updated_at": "2026-07-13T13:44:57Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-13T12:51:56Z",
     "url": "https://github.com/ontology-of-everything/SemanticSkills"
-  },
-  {
-    "description": "Flutter UI/UX design skill for Claude Code, Cursor & AI coding agents. Material 3 theming, dark mode, animations, anti-p",
-    "id": "parasvishwa/beautify-flutter",
-    "language": "\u2014",
-    "name": "parasvishwa/beautify-flutter",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:51:03Z",
-    "url": "https://github.com/parasvishwa/beautify-flutter"
-  },
-  {
-    "description": "OPUS-ET-AGENT: An agentic workflow for cryo-ET that turns raw movies into molecular sociology",
-    "id": "alncat/opus-et-agent",
-    "language": "Python",
-    "name": "alncat/opus-et-agent",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:49:42Z",
-    "url": "https://github.com/alncat/opus-et-agent"
-  },
-  {
-    "description": "Versionierte Heimat meiner Agent Skills f\u00fcr Claude (claude.ai, Claude Code, API).",
-    "id": "wemwi/skill-library",
-    "language": "Python",
-    "name": "wemwi/skill-library",
-    "stars": 1,
-    "updated_at": "2026-07-13T12:49:05Z",
-    "url": "https://github.com/wemwi/skill-library"
-  },
-  {
-    "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
-    "id": "jamditis/claude-skills-journalism",
-    "language": "HTML",
-    "name": "jamditis/claude-skills-journalism",
-    "stars": 322,
-    "updated_at": "2026-07-13T12:47:24Z",
-    "url": "https://github.com/jamditis/claude-skills-journalism"
-  },
-  {
-    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
-    "id": "alexgreensh/repo-forensics",
-    "language": "Python",
-    "name": "alexgreensh/repo-forensics",
-    "stars": 139,
-    "updated_at": "2026-07-13T12:43:36Z",
-    "url": "https://github.com/alexgreensh/repo-forensics"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:42:18Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Open-source Claude Code skills from Bamboo DCM \u2014 AI-native private credit infrastructure platform",
-    "id": "bamboo-DCM/library",
-    "language": "Python",
-    "name": "bamboo-DCM/library",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:41:04Z",
-    "url": "https://github.com/bamboo-DCM/library"
-  },
-  {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 69,
-    "updated_at": "2026-07-13T12:37:59Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:33:54Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-13T12:30:45Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
