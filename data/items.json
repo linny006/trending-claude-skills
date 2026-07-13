@@ -1,5 +1,23 @@
 [
   {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 417,
+    "updated_at": "2026-07-13T13:03:10Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 11,
+    "updated_at": "2026-07-13T13:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
@@ -50,7 +68,7 @@
     "language": "JavaScript",
     "name": "gaia-react/gaia",
     "stars": 19,
-    "updated_at": "2026-07-13T12:56:45Z",
+    "updated_at": "2026-07-13T13:00:13Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 322,
     "updated_at": "2026-07-13T12:47:24Z",
     "url": "https://github.com/jamditis/claude-skills-journalism"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 11,
-    "updated_at": "2026-07-13T12:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
@@ -211,7 +220,7 @@
     "id": "UiPath/coder_eval",
     "language": "Python",
     "name": "UiPath/coder_eval",
-    "stars": 37,
+    "stars": 40,
     "updated_at": "2026-07-13T12:28:13Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T11:44:02Z",
     "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:43:57Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
   }
 ]
