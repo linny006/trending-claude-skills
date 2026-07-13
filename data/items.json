@@ -1,21 +1,57 @@
 [
   {
-    "description": "repo for reusable plugins and skills",
-    "id": "richfrem/agent-plugins-skills",
-    "language": "Python",
-    "name": "richfrem/agent-plugins-skills",
-    "stars": 4,
-    "updated_at": "2026-07-13T01:28:01Z",
-    "url": "https://github.com/richfrem/agent-plugins-skills"
+    "description": "Second brain for Forward Deployed Engineers. Engagement memory + 35 skills across 6 domains, all behind one @fde... Work",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 54,
+    "updated_at": "2026-07-13T01:40:21Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "Browse every recent Claude Code session across all your projects and jump back into any of them. Shows project path, sum",
+    "id": "noluyorAbi/claude-code-recap",
+    "language": "TypeScript",
+    "name": "noluyorAbi/claude-code-recap",
+    "stars": 0,
+    "updated_at": "2026-07-13T01:39:54Z",
+    "url": "https://github.com/noluyorAbi/claude-code-recap"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 17657,
-    "updated_at": "2026-07-13T01:29:43Z",
+    "stars": 17658,
+    "updated_at": "2026-07-13T01:38:47Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Prototyping Toolkit with Anthropic Skills / Subagents / Plugins, MCP components with JSON-based prompt flows for agentic",
+    "id": "clownware/product-dev",
+    "language": "Python",
+    "name": "clownware/product-dev",
+    "stars": 1,
+    "updated_at": "2026-07-13T01:34:01Z",
+    "url": "https://github.com/clownware/product-dev"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-13T01:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 4,
+    "updated_at": "2026-07-13T01:34:12Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T01:24:05Z",
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "Browse every recent Claude Code session across all your projects and jump back into any of them. Shows project path, sum",
-    "id": "noluyorAbi/claude-code-recap",
-    "language": "TypeScript",
-    "name": "noluyorAbi/claude-code-recap",
-    "stars": 0,
-    "updated_at": "2026-07-13T01:23:38Z",
-    "url": "https://github.com/noluyorAbi/claude-code-recap"
   },
   {
     "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T01:15:22Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 10,
-    "updated_at": "2026-07-13T01:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agent skills for resumable project control. Garelier (Garage + Atelier) organizes PM, knowledge, review, and executio",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T00:20:18Z",
     "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 4,
-    "updated_at": "2026-07-13T00:20:15Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-13T00:19:26Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
   }
 ]
