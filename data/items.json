@@ -1,5 +1,77 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 95,
+    "updated_at": "2026-07-13T07:14:35Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Open, MIT-licensed food & nutrition science research skills for Claude Code, Codex, and MiniMax Agent \u2014 multi-agent lite",
+    "id": "PangenomeAI/academic-skills-food-nutrition",
+    "language": "Python",
+    "name": "PangenomeAI/academic-skills-food-nutrition",
+    "stars": 8,
+    "updated_at": "2026-07-13T07:13:17Z",
+    "url": "https://github.com/PangenomeAI/academic-skills-food-nutrition"
+  },
+  {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 416,
+    "updated_at": "2026-07-13T07:10:03Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 371,
+    "updated_at": "2026-07-13T07:09:33Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "Recommend life insurance policy for users in Singapore",
+    "id": "daichupeng/life-insurance-recommender",
+    "language": "HTML",
+    "name": "daichupeng/life-insurance-recommender",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:05:31Z",
+    "url": "https://github.com/daichupeng/life-insurance-recommender"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-13T07:02:00Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Adversarial idea evaluation for Claude Code - kill bad ideas before they eat money, time, and attention. Every verdict c",
+    "id": "DepthWorks/idea-killer",
+    "language": "\u2014",
+    "name": "DepthWorks/idea-killer",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:00:27Z",
+    "url": "https://github.com/DepthWorks/idea-killer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 11,
+    "updated_at": "2026-07-13T07:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
     "id": "ikaijua/Awesome-AITools",
     "language": "Python",
@@ -14,17 +86,17 @@
     "language": "C++",
     "name": "Stewie-pixel/claude-with-leetcode",
     "stars": 62,
-    "updated_at": "2026-07-13T06:58:46Z",
+    "updated_at": "2026-07-13T07:10:15Z",
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 95,
-    "updated_at": "2026-07-13T06:58:44Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
+    "language": "Shell",
+    "name": "mimukit/skills",
+    "stars": 0,
+    "updated_at": "2026-07-13T06:58:00Z",
+    "url": "https://github.com/mimukit/skills"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -54,15 +126,6 @@
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   },
   {
-    "description": "Open, MIT-licensed food & nutrition science research skills for Claude Code, Codex, and MiniMax Agent \u2014 multi-agent lite",
-    "id": "PangenomeAI/academic-skills-food-nutrition",
-    "language": "Python",
-    "name": "PangenomeAI/academic-skills-food-nutrition",
-    "stars": 8,
-    "updated_at": "2026-07-13T06:56:41Z",
-    "url": "https://github.com/PangenomeAI/academic-skills-food-nutrition"
-  },
-  {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
     "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
     "language": "HTML",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T06:56:23Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 11,
-    "updated_at": "2026-07-13T06:55:54Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -103,7 +157,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4432,
+    "stars": 4433,
     "updated_at": "2026-07-13T06:52:46Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -144,15 +198,6 @@
     "url": "https://github.com/deciqAI/knowledge-skills"
   },
   {
-    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
-    "id": "jabrena/plinth",
-    "language": "Java",
-    "name": "jabrena/plinth",
-    "stars": 416,
-    "updated_at": "2026-07-13T06:43:22Z",
-    "url": "https://github.com/jabrena/plinth"
-  },
-  {
     "description": "Auto harness engineering meta-repo: discuss \u2192 curate \u2192 bootstrap a context-engineered project for Claude Code, Cursor, C",
     "id": "glowElephant/context-forge",
     "language": "Python",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T06:41:49Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Adversarial idea evaluation for Claude Code - kill bad ideas before they eat money, time, and attention. Every verdict c",
-    "id": "DepthWorks/idea-killer",
-    "language": "\u2014",
-    "name": "DepthWorks/idea-killer",
-    "stars": 0,
-    "updated_at": "2026-07-13T06:40:53Z",
-    "url": "https://github.com/DepthWorks/idea-killer"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -257,7 +293,7 @@
     "language": "C++",
     "name": "DataZooDE/anofox-forecast",
     "stars": 35,
-    "updated_at": "2026-07-13T06:29:12Z",
+    "updated_at": "2026-07-13T07:03:57Z",
     "url": "https://github.com/DataZooDE/anofox-forecast"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T05:59:55Z",
     "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:59:51Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-07-13T05:57:05Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 3,
-    "updated_at": "2026-07-13T05:55:45Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
-    "id": "Neetx/ai-security-research-radar",
-    "language": "\u2014",
-    "name": "Neetx/ai-security-research-radar",
-    "stars": 1,
-    "updated_at": "2026-07-13T05:53:30Z",
-    "url": "https://github.com/Neetx/ai-security-research-radar"
   }
 ]
