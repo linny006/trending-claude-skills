@@ -1,5 +1,122 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 384,
+    "updated_at": "2026-07-13T23:29:40Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "A collection of reusable skills for Claude and othe LLMs. Each skill is self-contained with its own directory, documenta",
+    "id": "DeltaCorvi/Claude-Skills-for-Smart-Crows",
+    "language": "\u2014",
+    "name": "DeltaCorvi/Claude-Skills-for-Smart-Crows",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:29:40Z",
+    "url": "https://github.com/DeltaCorvi/Claude-Skills-for-Smart-Crows"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:25:48Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Hivemind turns your traces into reusable skills across agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 1476,
+    "updated_at": "2026-07-13T23:24:32Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:24:11Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:22:57Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 1,
+    "updated_at": "2026-07-13T23:28:17Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "An agent skill that give your coding agents a project memory.",
+    "id": "waittim/MemoryCustodian",
+    "language": "Python",
+    "name": "waittim/MemoryCustodian",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:19:32Z",
+    "url": "https://github.com/waittim/MemoryCustodian"
+  },
+  {
+    "description": "Operating loop for coding agents. A change isn't done until a different model or a real test checks it, and the verdict ",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 409,
+    "updated_at": "2026-07-13T23:19:11Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "AI\uac00 \uc0dd\uc131\ud55c \ud754\uc801\uc744 \uc81c\uac70\ud558\uace0 \uc0ac\ub78c\uc774 \uc774\ud574\ud558\uae30 \uc26c\uc6b4 \ubb38\uccb4\ub85c \ubc14\uafd4\uc8fc\ub294 \uc2a4\ud0ac",
+    "id": "devjun7/LUDDITE_KR",
+    "language": "\u2014",
+    "name": "devjun7/LUDDITE_KR",
+    "stars": 1,
+    "updated_at": "2026-07-13T23:16:34Z",
+    "url": "https://github.com/devjun7/LUDDITE_KR"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 1,
+    "updated_at": "2026-07-13T23:15:43Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "A framework for evaluating AI coding agents and their skills with sandboxing, reproducibility, and data-driven analysis.",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 88,
+    "updated_at": "2026-07-13T23:15:40Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 11,
+    "updated_at": "2026-07-13T23:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Dungeons & Skills \u2014 a grounded D&D 2024 (5.5) character-builder skill pack: the AI reads a bundled rules catalogue + det",
     "id": "mlabarrere/dungeons-and-skills",
     "language": "JavaScript",
@@ -252,15 +369,6 @@
     "url": "https://github.com/kongma1891/microsoft-style-skill"
   },
   {
-    "description": "A framework for evaluating AI coding agents and their skills with sandboxing, reproducibility, and data-driven analysis.",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 88,
-    "updated_at": "2026-07-13T23:01:27Z",
-    "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
     "id": "ajayfastfooted329/claude-linkedin-post-creator",
     "language": "\u2014",
@@ -288,15 +396,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 11,
-    "updated_at": "2026-07-13T23:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -304,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T22:59:59Z",
     "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "Operating loop for coding agents. A change isn't done until a different model or a real test checks it, and the verdict ",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 409,
-    "updated_at": "2026-07-13T22:59:59Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
@@ -358,95 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-13T22:58:51Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-13T22:58:49Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-13T22:58:47Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-13T22:58:24Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-07-13T22:58:01Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-13T22:57:53Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-07-13T22:57:33Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-07-13T22:57:17Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-13T22:57:10Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-13T22:56:48Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-13T22:56:41Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
   }
 ]
