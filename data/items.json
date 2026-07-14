@@ -1,11 +1,128 @@
 [
   {
+    "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
+    "id": "nowork-studio/NotFair",
+    "language": "TypeScript",
+    "name": "nowork-studio/NotFair",
+    "stars": 3130,
+    "updated_at": "2026-07-14T16:13:35Z",
+    "url": "https://github.com/nowork-studio/NotFair"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 65783,
+    "updated_at": "2026-07-14T16:12:01Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Finds, scores, and ranks the best library, SDK, or tool for your exact stack \u2014 no Reddit threads, no outdated blogs. 5-t",
+    "id": "Magithar/SKILLmama",
+    "language": "\u2014",
+    "name": "Magithar/SKILLmama",
+    "stars": 6,
+    "updated_at": "2026-07-14T16:11:15Z",
+    "url": "https://github.com/Magithar/SKILLmama"
+  },
+  {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 798,
+    "updated_at": "2026-07-14T16:09:21Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
+    "description": "Agent skills, autonomous agents, and MCP-companions for programming",
+    "id": "DROOdotFOO/agent-skills",
+    "language": "Python",
+    "name": "DROOdotFOO/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-14T16:07:02Z",
+    "url": "https://github.com/DROOdotFOO/agent-skills"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-14T16:06:24Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Data prep toolkit for finance & ops: extract, tidy, reconcile, analyse, visualise \u2014 powered by deterministic engines for",
+    "id": "moonlight-lupin/data-toolkit",
+    "language": "Python",
+    "name": "moonlight-lupin/data-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-14T16:05:51Z",
+    "url": "https://github.com/moonlight-lupin/data-toolkit"
+  },
+  {
+    "description": "Configure Codex, Claude, and Tabnine to understand your project, follow its workflow, and respect its safety rules.",
+    "id": "jsuvic/agent-profile",
+    "language": "TypeScript",
+    "name": "jsuvic/agent-profile",
+    "stars": 3,
+    "updated_at": "2026-07-14T16:04:40Z",
+    "url": "https://github.com/jsuvic/agent-profile"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 384,
+    "updated_at": "2026-07-14T16:03:40Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-14T16:03:27Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A Claude Agent Skill that turns Claude into a rigorous medical research supervisor \u2014 search strategy, evidence synthesis",
+    "id": "mohamedhadyashry/medical-research-thesis-supervisor",
+    "language": "Shell",
+    "name": "mohamedhadyashry/medical-research-thesis-supervisor",
+    "stars": 0,
+    "updated_at": "2026-07-14T16:02:35Z",
+    "url": "https://github.com/mohamedhadyashry/medical-research-thesis-supervisor"
+  },
+  {
+    "description": "In Anthropic's official Claude plugin directory \u00b7 400 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1184,
+    "updated_at": "2026-07-14T16:01:04Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 12,
+    "updated_at": "2026-07-14T16:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 281,
-    "updated_at": "2026-07-14T15:59:07Z",
+    "updated_at": "2026-07-14T16:14:26Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -16,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-14T15:58:01Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 12,
-    "updated_at": "2026-07-14T15:57:59Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u4e00\u4e2a\u5305\u542bagent\u548cskill\u7684\u96c6\u5408\uff1aRAG\u3001\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
@@ -43,6 +151,15 @@
     "stars": 410,
     "updated_at": "2026-07-14T15:56:37Z",
     "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Agent-native skill for publishing local projects to GitHub with zero-config proxy detection",
+    "id": "zhongwentuo-creator/github-publish-skill",
+    "language": "\u2014",
+    "name": "zhongwentuo-creator/github-publish-skill",
+    "stars": 0,
+    "updated_at": "2026-07-14T15:56:16Z",
+    "url": "https://github.com/zhongwentuo-creator/github-publish-skill"
   },
   {
     "description": "Evidence-bounded agent skill for IEEE/ACM manuscript drafting and audit, with separate scientific-support, method-report",
@@ -81,15 +198,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 384,
-    "updated_at": "2026-07-14T15:50:31Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -122,7 +230,7 @@
     "language": "Python",
     "name": "Vladimir-Human/humanizer-ru",
     "stars": 70,
-    "updated_at": "2026-07-14T15:53:12Z",
+    "updated_at": "2026-07-14T16:00:57Z",
     "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
@@ -149,17 +257,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 95,
-    "updated_at": "2026-07-14T15:55:19Z",
+    "updated_at": "2026-07-14T16:06:32Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "In Anthropic's official Claude plugin directory \u00b7 400 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1184,
-    "updated_at": "2026-07-14T15:45:28Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -185,7 +284,7 @@
     "language": "Python",
     "name": "Agents365-ai/journal-abbrev",
     "stars": 3,
-    "updated_at": "2026-07-14T15:39:48Z",
+    "updated_at": "2026-07-14T16:13:55Z",
     "url": "https://github.com/Agents365-ai/journal-abbrev"
   },
   {
@@ -196,15 +295,6 @@
     "stars": 10,
     "updated_at": "2026-07-14T15:38:11Z",
     "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
-    "id": "nowork-studio/NotFair",
-    "language": "TypeScript",
-    "name": "nowork-studio/NotFair",
-    "stars": 3130,
-    "updated_at": "2026-07-14T15:52:19Z",
-    "url": "https://github.com/nowork-studio/NotFair"
   },
   {
     "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
@@ -232,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T15:37:08Z",
     "url": "https://github.com/rayketcham-lab/project-forge"
-  },
-  {
-    "description": "A Claude Agent Skill that turns Claude into a rigorous medical research supervisor \u2014 search strategy, evidence synthesis",
-    "id": "mohamedhadyashry/medical-research-thesis-supervisor",
-    "language": "Shell",
-    "name": "mohamedhadyashry/medical-research-thesis-supervisor",
-    "stars": 0,
-    "updated_at": "2026-07-14T15:42:51Z",
-    "url": "https://github.com/mohamedhadyashry/medical-research-thesis-supervisor"
   },
   {
     "description": "Local-first authenticated browser automation for Claude Code \u2014 the Tap MCP server + skills. Record a logged-in browser t",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-14T15:19:22Z",
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-07-14T15:18:42Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-14T15:18:05Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-07-14T15:18:04Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 3,
-    "updated_at": "2026-07-14T15:17:50Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Open, MIT-licensed food & nutrition science research skills for Claude Code, Codex, and MiniMax Agent \u2014 multi-agent lite",
-    "id": "PangenomeAI/academic-skills-food-nutrition",
-    "language": "Python",
-    "name": "PangenomeAI/academic-skills-food-nutrition",
-    "stars": 13,
-    "updated_at": "2026-07-14T15:17:16Z",
-    "url": "https://github.com/PangenomeAI/academic-skills-food-nutrition"
-  },
-  {
-    "description": "Built while contributing to open-chat-studio to compare LLM APIs & repeat bugs. Experimenting with AI assisted dev",
-    "id": "lisa-tarbo/LLM-integration-play",
-    "language": "Jupyter Notebook",
-    "name": "lisa-tarbo/LLM-integration-play",
-    "stars": 0,
-    "updated_at": "2026-07-14T15:17:05Z",
-    "url": "https://github.com/lisa-tarbo/LLM-integration-play"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-14T15:16:53Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 1,
-    "updated_at": "2026-07-14T15:16:11Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Put CLAUDE.md on an intensive cardio run.",
-    "id": "johanes/drydocs",
-    "language": "Python",
-    "name": "johanes/drydocs",
-    "stars": 2,
-    "updated_at": "2026-07-14T15:15:18Z",
-    "url": "https://github.com/johanes/drydocs"
   }
 ]
