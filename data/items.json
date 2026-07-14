@@ -1,12 +1,30 @@
 [
   {
     "description": "Real-time LLM cost tracking and optimization. Measures file format costs (36x), operation type variance (55x), data ware",
-    "id": "Mullassery/PyCostAudit",
+    "id": "Mullassery/PyTokenCalc-",
     "language": "Makefile",
-    "name": "Mullassery/PyCostAudit",
+    "name": "Mullassery/PyTokenCalc-",
     "stars": 0,
-    "updated_at": "2026-07-14T18:12:25Z",
-    "url": "https://github.com/Mullassery/PyCostAudit"
+    "updated_at": "2026-07-14T18:28:36Z",
+    "url": "https://github.com/Mullassery/PyTokenCalc-"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 40+ installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, ",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 3,
+    "updated_at": "2026-07-14T18:23:18Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 119,
+    "updated_at": "2026-07-14T18:25:42Z",
+    "url": "https://github.com/testdouble/han"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -14,7 +32,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 280,
-    "updated_at": "2026-07-14T18:12:07Z",
+    "updated_at": "2026-07-14T18:21:37Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -23,8 +41,35 @@
     "language": "Python",
     "name": "laolaoshiren/claude-code-skills-zh",
     "stars": 618,
-    "updated_at": "2026-07-14T18:11:04Z",
+    "updated_at": "2026-07-14T18:19:17Z",
     "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 12,
+    "updated_at": "2026-07-14T18:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 4101,
+    "updated_at": "2026-07-14T18:19:21Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 65787,
+    "updated_at": "2026-07-14T18:11:53Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "A spec-driven harness for coding agents (and, humans)",
@@ -279,15 +324,6 @@
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 12,
-    "updated_at": "2026-07-14T18:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
     "id": "Palmerbeetling15/Council",
     "language": "Swift",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-14T17:55:28Z",
     "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
-  },
-  {
-    "description": "A Claude Agent Skill that turns Claude into a rigorous medical research supervisor \u2014 search strategy, evidence synthesis",
-    "id": "mohamedhadyashry/medical-research-thesis-supervisor",
-    "language": "Shell",
-    "name": "mohamedhadyashry/medical-research-thesis-supervisor",
-    "stars": 0,
-    "updated_at": "2026-07-14T17:54:39Z",
-    "url": "https://github.com/mohamedhadyashry/medical-research-thesis-supervisor"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-07-14T17:54:37Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-14T17:54:17Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-14T17:54:15Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
   }
 ]
