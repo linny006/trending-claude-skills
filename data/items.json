@@ -1,5 +1,95 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 95,
+    "updated_at": "2026-07-15T19:52:26Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 1,
+    "updated_at": "2026-07-15T19:51:18Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:50:55Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-15T19:50:19Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Operating loop for coding agents. A change isn't done until a different model or a real test checks it, and the verdict ",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 410,
+    "updated_at": "2026-07-15T19:49:11Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:49:06Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Browse every recent Claude Code session across all your projects and jump back into any of them. Shows project path, sum",
+    "id": "noluyorAbi/claude-code-recap",
+    "language": "TypeScript",
+    "name": "noluyorAbi/claude-code-recap",
+    "stars": 9,
+    "updated_at": "2026-07-15T19:49:05Z",
+    "url": "https://github.com/noluyorAbi/claude-code-recap"
+  },
+  {
+    "description": "Some useful Claude Code Skills",
+    "id": "j-256/claude-code-skills",
+    "language": "JavaScript",
+    "name": "j-256/claude-code-skills",
+    "stars": 2,
+    "updated_at": "2026-07-15T19:45:44Z",
+    "url": "https://github.com/j-256/claude-code-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace: skills that teach Claude to drive my CLIs",
+    "id": "baileywickham/claude-plugins",
+    "language": "\u2014",
+    "name": "baileywickham/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:45:16Z",
+    "url": "https://github.com/baileywickham/claude-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 12,
+    "updated_at": "2026-07-15T19:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
@@ -45,15 +135,6 @@
     "url": "https://github.com/seldonframe/reflect"
   },
   {
-    "description": "Operating loop for coding agents. A change isn't done until a different model or a real test checks it, and the verdict ",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 410,
-    "updated_at": "2026-07-15T19:41:46Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -63,13 +144,13 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Browse every recent Claude Code session across all your projects and jump back into any of them. Shows project path, sum",
-    "id": "noluyorAbi/claude-code-recap",
-    "language": "TypeScript",
-    "name": "noluyorAbi/claude-code-recap",
-    "stars": 9,
-    "updated_at": "2026-07-15T19:39:28Z",
-    "url": "https://github.com/noluyorAbi/claude-code-recap"
+    "description": "Audit, grade, and rewrite generic AI-slop patterns in prose, social posts, UI/design, and code. Use when asked to de-slo",
+    "id": "howshannon/slop-cop",
+    "language": "Shell",
+    "name": "howshannon/slop-cop",
+    "stars": 1,
+    "updated_at": "2026-07-15T19:39:46Z",
+    "url": "https://github.com/howshannon/slop-cop"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -115,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T19:32:22Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 12,
-    "updated_at": "2026-07-15T19:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A skill that generates a skill to review PRs \u2014 mine your merged PRs into a repo-specific AI code reviewer that knows you",
@@ -279,15 +351,6 @@
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   },
   {
-    "description": "Some useful Claude Code Skills",
-    "id": "j-256/claude-code-skills",
-    "language": "JavaScript",
-    "name": "j-256/claude-code-skills",
-    "stars": 2,
-    "updated_at": "2026-07-15T19:01:14Z",
-    "url": "https://github.com/j-256/claude-code-skills"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -342,15 +405,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 1,
-    "updated_at": "2026-07-15T18:55:50Z",
-    "url": "https://github.com/inkatze/planwright"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T18:50:07Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 384,
-    "updated_at": "2026-07-15T18:48:49Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:47:01Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Every shortcut your coding agent takes, saved to your repo as it happens. Fix them when you're ready.",
-    "id": "bcanfield/agentic-tech-debt",
-    "language": "Python",
-    "name": "bcanfield/agentic-tech-debt",
-    "stars": 9,
-    "updated_at": "2026-07-15T18:46:04Z",
-    "url": "https://github.com/bcanfield/agentic-tech-debt"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:44:41Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:43:36Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-15T18:42:17Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
