@@ -1,12 +1,21 @@
 [
   {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
+    "description": "One objective in, a verified result out. An agent skill that runs a full, gated dev process with expert subagents and re",
+    "id": "cskwork/supergoal-skill",
+    "language": "JavaScript",
+    "name": "cskwork/supergoal-skill",
+    "stars": 3,
+    "updated_at": "2026-07-15T05:30:03Z",
+    "url": "https://github.com/cskwork/supergoal-skill"
+  },
+  {
+    "description": "Independent QA for AI-written code: a Claude Code skill + runbooks that put other coding models (Grok, Codex, local) on ",
+    "id": "mattferry/tribunal",
     "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 13,
-    "updated_at": "2026-07-15T05:13:48Z",
-    "url": "https://github.com/AgamiAI/agami-core"
+    "name": "mattferry/tribunal",
+    "stars": 1,
+    "updated_at": "2026-07-15T05:28:30Z",
+    "url": "https://github.com/mattferry/tribunal"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -14,8 +23,44 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 280,
-    "updated_at": "2026-07-15T05:12:30Z",
+    "updated_at": "2026-07-15T05:26:35Z",
     "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-15T05:26:18Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "In Anthropic's official Claude plugin directory \u00b7 515 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1186,
+    "updated_at": "2026-07-15T05:25:41Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 63,
+    "updated_at": "2026-07-15T05:24:09Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 384,
+    "updated_at": "2026-07-15T05:23:14Z",
+    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
@@ -23,8 +68,62 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 3,
-    "updated_at": "2026-07-15T05:15:07Z",
+    "updated_at": "2026-07-15T05:25:27Z",
     "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 380,
+    "updated_at": "2026-07-15T05:21:52Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 2,
+    "updated_at": "2026-07-15T05:21:47Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
+    "id": "AgamiAI/agami-core",
+    "language": "Python",
+    "name": "AgamiAI/agami-core",
+    "stars": 13,
+    "updated_at": "2026-07-15T05:29:28Z",
+    "url": "https://github.com/AgamiAI/agami-core"
+  },
+  {
+    "description": "bochi \u2014 Claude Code skill for idea expansion. Transforms idea seeds into structured hypotheses via Socratic questioning,",
+    "id": "fideguch/bochi",
+    "language": "Shell",
+    "name": "fideguch/bochi",
+    "stars": 1,
+    "updated_at": "2026-07-15T05:18:46Z",
+    "url": "https://github.com/fideguch/bochi"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 12,
+    "updated_at": "2026-07-15T05:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 87292,
+    "updated_at": "2026-07-15T05:09:03Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T05:02:25Z",
     "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 12,
-    "updated_at": "2026-07-15T05:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "Ap6pack/outrider-recon",
     "stars": 4,
-    "updated_at": "2026-07-15T04:59:37Z",
+    "updated_at": "2026-07-15T05:26:20Z",
     "url": "https://github.com/Ap6pack/outrider-recon"
   },
   {
@@ -225,15 +315,6 @@
     "url": "https://github.com/alikmlsipahi/youtube-to-spec"
   },
   {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 380,
-    "updated_at": "2026-07-15T04:36:42Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
     "id": "gilvangonzalez/technical-founding-gtm-toolkit",
     "language": "HTML",
@@ -283,7 +364,7 @@
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 1864,
+    "stars": 1865,
     "updated_at": "2026-07-15T04:29:13Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
@@ -304,15 +385,6 @@
     "stars": 3,
     "updated_at": "2026-07-15T04:26:58Z",
     "url": "https://github.com/deciqAI/knowledge-skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 384,
-    "updated_at": "2026-07-15T04:26:07Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "Static security scanner for MCP servers, agent skills & plugins (68 patterns). In the official MCP Registry: io.github.e",
@@ -360,15 +432,6 @@
     "url": "https://github.com/inkatze/planwright"
   },
   {
-    "description": "Independent QA for AI-written code: a Claude Code skill + runbooks that put other coding models (Grok, Codex, local) on ",
-    "id": "mattferry/tribunal",
-    "language": "Python",
-    "name": "mattferry/tribunal",
-    "stars": 1,
-    "updated_at": "2026-07-15T04:05:08Z",
-    "url": "https://github.com/mattferry/tribunal"
-  },
-  {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
     "id": "Stewie-pixel/claude-with-leetcode",
     "language": "C++",
@@ -385,68 +448,5 @@
     "stars": 8,
     "updated_at": "2026-07-15T04:11:32Z",
     "url": "https://github.com/kanfu-panda/pdlc-skills"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:56:39Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
-    "id": "matejformanek/postgres-claude",
-    "language": "Python",
-    "name": "matejformanek/postgres-claude",
-    "stars": 0,
-    "updated_at": "2026-07-15T04:44:18Z",
-    "url": "https://github.com/matejformanek/postgres-claude"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:53:19Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Track Claude Code activity with a local dashboard for monitoring session data, token spend, cache performance, and tool ",
-    "id": "krystynaacrid635/claude-lens-v2026-hub",
-    "language": "HTML",
-    "name": "krystynaacrid635/claude-lens-v2026-hub",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:53:00Z",
-    "url": "https://github.com/krystynaacrid635/claude-lens-v2026-hub"
-  },
-  {
-    "description": "Practical guides, prompts, and Python code for applying Anthropic's Claude Skills to data engineering and pipeline autom",
-    "id": "Methasit-Pun/data_engineer_claude_skills",
-    "language": "Python",
-    "name": "Methasit-Pun/data_engineer_claude_skills",
-    "stars": 1,
-    "updated_at": "2026-07-15T03:52:53Z",
-    "url": "https://github.com/Methasit-Pun/data_engineer_claude_skills"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:51:32Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:51:17Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
   }
 ]
