@@ -1,21 +1,39 @@
 [
   {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:59:57Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 280,
+    "updated_at": "2026-07-15T19:10:44Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
-    "description": "Engineering decision memory for AI-assisted coding \u2014 captures the why behind your code",
-    "id": "hozakar/project-memory",
-    "language": "TypeScript",
-    "name": "hozakar/project-memory",
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-15T19:09:25Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Claude Code skills marketplace: domain-search + ssr-market-research (also usable as plain skill folders in Codex/Cursor)",
+    "id": "thattimc/skills",
+    "language": "Python",
+    "name": "thattimc/skills",
     "stars": 0,
-    "updated_at": "2026-07-15T18:59:22Z",
-    "url": "https://github.com/hozakar/project-memory"
+    "updated_at": "2026-07-15T19:09:19Z",
+    "url": "https://github.com/thattimc/skills"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 23,
+    "updated_at": "2026-07-15T19:07:50Z",
+    "url": "https://github.com/Borda/AI-Rig"
   },
   {
     "description": "A skill that generates a skill \u2014 mine your merged PRs into a repo-specific AI code reviewer that knows your business log",
@@ -23,8 +41,89 @@
     "language": "Shell",
     "name": "paanSinghCoder/pr-review-skill-generator",
     "stars": 0,
-    "updated_at": "2026-07-15T18:58:56Z",
+    "updated_at": "2026-07-15T19:07:25Z",
     "url": "https://github.com/paanSinghCoder/pr-review-skill-generator"
+  },
+  {
+    "description": "Engineering decision memory for AI-assisted coding \u2014 captures the why behind your code",
+    "id": "hozakar/project-memory",
+    "language": "TypeScript",
+    "name": "hozakar/project-memory",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:07:13Z",
+    "url": "https://github.com/hozakar/project-memory"
+  },
+  {
+    "description": "Say 'reflect on <decision>' \u2014 your AI runs the decision process of Bezos, Munger & Farnam Street (23 compacted mental mo",
+    "id": "seldonframe/reflect",
+    "language": "\u2014",
+    "name": "seldonframe/reflect",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:06:59Z",
+    "url": "https://github.com/seldonframe/reflect"
+  },
+  {
+    "description": "Plugin with opinionated set of Claude Code agents nad skills",
+    "id": "lklimek/claudius",
+    "language": "Python",
+    "name": "lklimek/claudius",
+    "stars": 1,
+    "updated_at": "2026-07-15T19:04:59Z",
+    "url": "https://github.com/lklimek/claudius"
+  },
+  {
+    "description": "[MIRROR] My personal AI skills",
+    "id": "papanito/ai-skills",
+    "language": "Shell",
+    "name": "papanito/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:04:19Z",
+    "url": "https://github.com/papanito/ai-skills"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-07-15T19:03:25Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 1,
+    "updated_at": "2026-07-15T19:03:05Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Some useful Claude Code Skills",
+    "id": "j-256/claude-code-skills",
+    "language": "JavaScript",
+    "name": "j-256/claude-code-skills",
+    "stars": 2,
+    "updated_at": "2026-07-15T19:01:14Z",
+    "url": "https://github.com/j-256/claude-code-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 12,
+    "updated_at": "2026-07-15T19:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:59:57Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -99,24 +198,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Say 'reflect on <decision>' \u2014 your AI runs the decision process of Bezos, Munger & Farnam Street (23 compacted mental mo",
-    "id": "seldonframe/reflect",
-    "language": "\u2014",
-    "name": "seldonframe/reflect",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:52:20Z",
-    "url": "https://github.com/seldonframe/reflect"
-  },
-  {
-    "description": "Plugin with opinionated set of Claude Code agents nad skills",
-    "id": "lklimek/claudius",
-    "language": "Python",
-    "name": "lklimek/claudius",
-    "stars": 1,
-    "updated_at": "2026-07-15T18:58:58Z",
-    "url": "https://github.com/lklimek/claudius"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -124,15 +205,6 @@
     "stars": 52,
     "updated_at": "2026-07-15T18:51:34Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 280,
-    "updated_at": "2026-07-15T18:52:21Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
@@ -178,15 +250,6 @@
     "stars": 9,
     "updated_at": "2026-07-15T18:46:04Z",
     "url": "https://github.com/bcanfield/agentic-tech-debt"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 12,
-    "updated_at": "2026-07-15T18:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T18:03:15Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Zero-knowledge SSH ops CLI for Claude Code and any agent/terminal \u2014 server checks, docker/systemd control, read-only Pos",
-    "id": "Antheurus/sshepherd",
-    "language": "TypeScript",
-    "name": "Antheurus/sshepherd",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:03:09Z",
-    "url": "https://github.com/Antheurus/sshepherd"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-15T18:02:25Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "Python",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 42,
-    "updated_at": "2026-07-15T18:02:03Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1548,
-    "updated_at": "2026-07-15T18:01:42Z",
-    "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 382,
-    "updated_at": "2026-07-15T18:01:54Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:00:35Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 5,
-    "updated_at": "2026-07-15T17:58:05Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   }
 ]
