@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-15 10:28 UTC
+> ⏰ Last updated: 2026-07-15 10:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 87324 | JavaScript | 2026-07-15 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
-| 2 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 1 | TypeScript | 2026-07-15 | Outbound sales, autopiloted. |
-| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-15 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 4 | [zeikar/hyperclaude](https://github.com/zeikar/hyperclaude) | 3 | JavaScript | 2026-07-15 | Claude Code plugin: Claude builds, Codex critiques — a gated research → plan → review → ship pipeline, with autonomous m |
-| 5 | [Somezak1/research-anything](https://github.com/Somezak1/research-anything) | 2 | Python | 2026-07-15 | 🔍 All-channel research skill for Claude Code — sweeps Douyin/Xiaohongshu/Zhihu/Bilibili/YouTube/GitHub/X + web for first |
-| 6 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-15 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 7 | [vdk888/bubble-shield-public](https://github.com/vdk888/bubble-shield-public) | 0 | Python | 2026-07-15 | Caveau Guard — local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac |
-| 8 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-15 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 9 | [aei-soli/claude-skills](https://github.com/aei-soli/claude-skills) | 0 | — | 2026-07-15 | The SprintFleet Method — run a portfolio of projects across multiple AI models with Claude |
-| 10 | [masteryee-labs/Tool.Agnes-AI](https://github.com/masteryee-labs/Tool.Agnes-AI) | 0 | Rust | 2026-07-15 |  Open-source Rust desktop AI coding agent — native egui GUI alternative to Claude Code / Cursor / Aider. 22-agent zero-t |
-| 11 | [saurabhshuklagrowisto/saurabh-ai-systems](https://github.com/saurabhshuklagrowisto/saurabh-ai-systems) | 0 | Python | 2026-07-15 | AI-Powered Marketing Specialist portfolio. Production agentic systems for B2B sales and marketing: autonomous CRM enrich |
-| 12 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-07-15 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 13 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 12 | Python | 2026-07-15 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 12 | Python | 2026-07-15 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 87324 | JavaScript | 2026-07-15 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
+| 3 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 1 | TypeScript | 2026-07-15 | Outbound sales, autopiloted. |
+| 4 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-15 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 5 | [zeikar/hyperclaude](https://github.com/zeikar/hyperclaude) | 3 | JavaScript | 2026-07-15 | Claude Code plugin: Claude builds, Codex critiques — a gated research → plan → review → ship pipeline, with autonomous m |
+| 6 | [Somezak1/research-anything](https://github.com/Somezak1/research-anything) | 2 | Python | 2026-07-15 | 🔍 All-channel research skill for Claude Code — sweeps Douyin/Xiaohongshu/Zhihu/Bilibili/YouTube/GitHub/X + web for first |
+| 7 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-15 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 8 | [vdk888/bubble-shield-public](https://github.com/vdk888/bubble-shield-public) | 0 | Python | 2026-07-15 | Caveau Guard — local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac |
+| 9 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-15 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 10 | [aei-soli/claude-skills](https://github.com/aei-soli/claude-skills) | 0 | — | 2026-07-15 | The SprintFleet Method — run a portfolio of projects across multiple AI models with Claude |
+| 11 | [masteryee-labs/Tool.Agnes-AI](https://github.com/masteryee-labs/Tool.Agnes-AI) | 0 | Rust | 2026-07-15 |  Open-source Rust desktop AI coding agent — native egui GUI alternative to Claude Code / Cursor / Aider. 22-agent zero-t |
+| 12 | [saurabhshuklagrowisto/saurabh-ai-systems](https://github.com/saurabhshuklagrowisto/saurabh-ai-systems) | 0 | Python | 2026-07-15 | AI-Powered Marketing Specialist portfolio. Production agentic systems for B2B sales and marketing: autonomous CRM enrich |
+| 13 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-07-15 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
 | 14 | [toolbox-playground/super-claudio](https://github.com/toolbox-playground/super-claudio) | 2 | — | 2026-07-15 | A curated Claude Code plugin with skills for anything Claude can do. |
 | 15 | [SreeDharshan-GJ/experiment-audit](https://github.com/SreeDharshan-GJ/experiment-audit) | 1 | Python | 2026-07-15 | Scientific Research Reasoning Engine for analyzing experimental evidence, evaluating scientific claims, and generating s |
 | 16 | [ergrelet/windiff](https://github.com/ergrelet/windiff) | 387 | Rust | 2026-07-15 | Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions  |
