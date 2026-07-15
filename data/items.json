@@ -1,11 +1,236 @@
 [
   {
+    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
+    "id": "isatimur/excalidraw-skill-pack",
+    "language": "TypeScript",
+    "name": "isatimur/excalidraw-skill-pack",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:23Z",
+    "url": "https://github.com/isatimur/excalidraw-skill-pack"
+  },
+  {
+    "description": "\u5fae\u4fe1\u652f\u4ed8\u63a5\u5165\uff08JSAPI/Native/\u9000\u6b3e\uff0c\u542b\u5b89\u5168\uff09\uff1a\u5f3a\u5236\u56de\u8c03\u9a8c\u7b7e\u3001\u5e42\u7b49\u3001\u5bc6\u94a5\u9694\u79bb\u3002\u9002\u5408\u4efb\u4f55\u8981\u6536\u6b3e\u7684\u5fae\u4fe1\u5e94\u7528\u3002",
+    "id": "shuangying0001-beep/wechat-pay-integration",
+    "language": "Python",
+    "name": "shuangying0001-beep/wechat-pay-integration",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:20Z",
+    "url": "https://github.com/shuangying0001-beep/wechat-pay-integration"
+  },
+  {
+    "description": "\u5fae\u4fe1\u6d88\u606f\u901a\u77e5\u63a5\u5165\uff08\u4f01\u4e1a\u5fae\u4fe1\u673a\u5668\u4eba+\u516c\u4f17\u53f7\u6a21\u677f\uff09\uff1a5 \u5206\u949f\u63a5\u6d88\u606f\u63a8\u9001\u3002\u9002\u5408\u4efb\u4f55\u9700\u901a\u77e5\u7528\u6237\u7684\u5fae\u4fe1\u5e94\u7528\u3002",
+    "id": "shuangying0001-beep/wechat-notify",
+    "language": "Python",
+    "name": "shuangying0001-beep/wechat-notify",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:18Z",
+    "url": "https://github.com/shuangying0001-beep/wechat-notify"
+  },
+  {
+    "description": "AI \u4ea7\u51fa\u9a8c\u6536\u6e05\u5355\u751f\u6210\u5668\uff08\u56db\u7ef4\u5ea6\u67e5\u9519\uff09\uff1a\u6309\u529f\u80fd/\u63a5\u53e3/\u5b89\u5168/\u56de\u5f52\u51fa\u53ef\u52fe\u9009\u9a8c\u6536\u6e05\u5355\u3002\u9002\u5408 code review\u3001AI \u5916\u5305\u9a8c\u6536\u3002",
+    "id": "shuangying0001-beep/ai-work-acceptance",
+    "language": "Python",
+    "name": "shuangying0001-beep/ai-work-acceptance",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:17Z",
+    "url": "https://github.com/shuangying0001-beep/ai-work-acceptance"
+  },
+  {
+    "description": "\u5fae\u4fe1\u5c0f\u7a0b\u5e8f AI \u534f\u4f5c\u89c4\u8303\u751f\u6210\u5668\uff08AGENTS.md\uff09\uff1a\u751f\u6210\u5b89\u5168/\u7a33\u5b9a/\u6700\u5c0f\u6539\u52a8\u534f\u4f5c\u89c4\u8303\uff0c\u4e00\u952e\u51fa AGENTS.md\u3002\u9002\u5408\u5e26 AI \u5f00\u53d1\u5c0f\u7a0b\u5e8f\u7684\u56e2\u961f\u3002",
+    "id": "shuangying0001-beep/wechat-miniprogram-devrules",
+    "language": "Python",
+    "name": "shuangying0001-beep/wechat-miniprogram-devrules",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:15Z",
+    "url": "https://github.com/shuangying0001-beep/wechat-miniprogram-devrules"
+  },
+  {
+    "description": "\u7535\u5546/\u7269\u6d41\u89c4\u683c\u5355\u4f4d\u6362\u7b97\uff08kg\u00b7cm\u00b7V\u00b7W\uff09\uff1a\u628a5kg 30cm\u8fd9\u7c7b\u5e26\u5355\u4f4d\u6587\u672c\u89e3\u6790\u6362\u7b97\u6210\u6807\u51c6\u5355\u4f4d\u3002\u9002\u5408\u7535\u5546\u8fd0\u8425\u3001\u7269\u6d41\u62a5\u4ef7\u3001BOM \u6574\u7406\u3002",
+    "id": "shuangying0001-beep/unit-converter",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/unit-converter",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:13Z",
+    "url": "https://github.com/shuangying0001-beep/unit-converter"
+  },
+  {
+    "description": "\u8bb0\u5f55\u6570\u636e\u4e00\u952e\u5bfc\u51fa Excel/CSV\uff08\u5e26\u6837\u5f0f\uff09\uff1a\u8868\u5934\u51bb\u7ed3\u3001\u6591\u9a6c\u7eb9\u3001\u662f/\u5426\uff0c\u4e2d\u6587\u9632\u4e71\u7801\u3002\u9002\u5408\u8fd0\u8425\u62a5\u8868\u3001\u6570\u636e\u5bfc\u51fa\u3001\u65e5\u5fd7\u5f52\u6863\u3002",
+    "id": "shuangying0001-beep/tabular-exporter",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/tabular-exporter",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:11Z",
+    "url": "https://github.com/shuangying0001-beep/tabular-exporter"
+  },
+  {
+    "description": "Playwright \u53cd\u68c0\u6d4b\u73af\u5883\u914d\u7f6e\uff08\u53bb webdriver \u75d5\u8ff9\uff09\uff1a\u968f\u673a UA/\u65f6\u533a/\u8bed\u8a00\u3001\u53bb\u81ea\u52a8\u5316\u6807\u5fd7\u3001\u6a21\u62df Canvas/WebRTC \u7ed5\u5f00\u53cd\u722c\u3002\u9002\u5408\u722c\u866b\u3001\u81ea\u52a8\u5316\u6d4b\u8bd5\u3002",
+    "id": "shuangying0001-beep/playwright-stealth",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/playwright-stealth",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:09Z",
+    "url": "https://github.com/shuangying0001-beep/playwright-stealth"
+  },
+  {
+    "description": "\u63a5\u53e3\u6587\u6863\u8f6c\u5b57\u6bb5\u6620\u5c04\uff08ERP/OpenAPI \u4e00\u952e\u7ed3\u6784\u5316\uff09\uff1a\u628a API \u6587\u6863\u89e3\u6790\u6210\u5b57\u6bb5\u540d/\u7c7b\u578b/\u5fc5\u586b/\u7aef\u70b9\uff0c\u76f4\u63a5\u51fa\u6620\u5c04\u3002\u9002\u5408\u5bf9\u63a5\u7b2c\u4e09\u65b9\u3001\u4f4e\u4ee3\u7801\u642d\u5efa\u3002",
+    "id": "shuangying0001-beep/parse-api-doc",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/parse-api-doc",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:07Z",
+    "url": "https://github.com/shuangying0001-beep/parse-api-doc"
+  },
+  {
+    "description": "RPA \u62df\u4eba\u5316\u9f20\u6807\u8f68\u8ff9/\u6253\u5b57\uff08\u9632\u673a\u5668\u4eba\u8bc6\u522b\uff09\uff1a\u8d1d\u585e\u5c14\u8f68\u8ff9\u3001\u968f\u673a\u5ef6\u65f6\u3001\u72b9\u8c6b\u70b9\u51fb\u3001\u9010\u5b57\u6253\u5b57\u3002\u9002\u5408 RPA \u6d4b\u8bd5\u3001\u6279\u91cf\u64cd\u4f5c\u9632\u5c01\u3002",
+    "id": "shuangying0001-beep/human-like-automation",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/human-like-automation",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:05Z",
+    "url": "https://github.com/shuangying0001-beep/human-like-automation"
+  },
+  {
+    "description": "\u4e2d\u82f1\u6587\u5b57\u6bb5\u540d\u5bf9\u9f50\u6620\u5c04\u5de5\u5177\uff1a\u628a\u6742\u4e71\u5b57\u6bb5\u540d\uff08\u4e2d/\u82f1/\u9a7c\u5cf0/\u4e0b\u5212\u7ebf\uff09\u6620\u5c04\u5230\u89c4\u8303 key\uff0c\u652f\u6301\u522b\u540d\u4e0e\u6a21\u7cca\u5339\u914d\u3002\u9002\u5408\u5bf9\u63a5\u7b2c\u4e09\u65b9\u63a5\u53e3\u3001ERP \u5b57\u6bb5\u6574\u7406\u3001\u6570\u636e\u6e05\u6d17\u3002",
+    "id": "shuangying0001-beep/field-aligner",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/field-aligner",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:03Z",
+    "url": "https://github.com/shuangying0001-beep/field-aligner"
+  },
+  {
+    "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tastefu",
+    "id": "superdesigndev/superdesign-skill",
+    "language": "\u2014",
+    "name": "superdesigndev/superdesign-skill",
+    "stars": 338,
+    "updated_at": "2026-07-15T10:43:03Z",
+    "url": "https://github.com/superdesigndev/superdesign-skill"
+  },
+  {
+    "description": "\u591a\u73af\u5883\u914d\u7f6e\u5408\u5e76\u6821\u9a8c\u5de5\u5177\uff08\u9ed8\u8ba4/\u7cfb\u7edf/\u4efb\u52a1\u4e09\u5c42\uff09\uff1a\u6309\u4f18\u5148\u7ea7\u5408\u5e76\u6821\u9a8c\u3001\u81ea\u52a8\u4fee\u51b2\u7a81\u3001\u51fa diff\u3001\u53ef\u56de\u6eda\u3002\u9002\u5408 dev/test/prod \u591a\u73af\u5883\u7ba1\u7406\u7684\u540e\u7aef\u4e0e\u8fd0\u7ef4\u3002",
+    "id": "shuangying0001-beep/config-merge",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/config-merge",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:43:00Z",
+    "url": "https://github.com/shuangying0001-beep/config-merge"
+  },
+  {
+    "description": "\u722c\u866b/\u81ea\u52a8\u5316 \u9632\u5c01\u6307\u7eb9\u4f2a\u88c5\uff08UA+\u5206\u8fa8\u7387\u6c60\uff09\uff1a\u968f\u673a\u771f\u5b9e\u6d4f\u89c8\u5668\u6307\u7eb9\uff0888+ UA\u300187 \u5206\u8fa8\u7387\uff09\u964d\u4f4e\u98ce\u63a7\u8bc6\u522b\u3002\u9002\u5408\u722c\u866b\u5de5\u7a0b\u5e08\u3001RPA \u5f00\u53d1\u8005\u3001\u6d77\u5916\u793e\u5a92\u591a\u8d26\u53f7\u3002",
+    "id": "shuangying0001-beep/browser-fingerprint-pool",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/browser-fingerprint-pool",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:42:58Z",
+    "url": "https://github.com/shuangying0001-beep/browser-fingerprint-pool"
+  },
+  {
+    "description": "SVG \u56fe\u7eb8\u96f6\u8bef\u5dee\u8f6c Canvas\uff08A4 \u5370\u5237\u7ea7\uff09\uff1aA4 SVG \u8bbe\u8ba1\u7a3f/\u5de5\u7a0b\u56fe\u5750\u6807\u6587\u5b57\u6837\u5f0f\u96f6\u8bef\u5dee\u590d\u523b\u5230 Canvas\uff0c\u8bef\u5dee<0.001px\u3002\u9002\u5408\u5370\u5237\u6253\u6837\u3001\u8bbe\u8ba1\u7a3f\u8fd8\u539f\u3001\u62a5\u8868\u5bfc\u51fa\u3002",
+    "id": "shuangying0001-beep/svg-to-canvas-replica",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/svg-to-canvas-replica",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:42:56Z",
+    "url": "https://github.com/shuangying0001-beep/svg-to-canvas-replica"
+  },
+  {
+    "description": "\u5b57\u5e16/\u4f5c\u4e1a\u7eb8\u751f\u6210\u5668\uff08\u7c73\u5b57\u683c\u7530\u5b57\u683c13\u79cd\uff09\uff1a\u4e00\u952e\u751f\u6210\u53ef\u6253\u5370\u4e2d\u6587\u5b57\u5e16\u4e0e\u7ec3\u4e60\u7eb8\uff0c\u652f\u6301\u6c49\u5b57\u5c45\u4e2d\u3001\u62fc\u97f3\u6807\u6ce8\u3002\u9002\u5408\u4e66\u6cd5\u7ec3\u5b57\u3001\u5c0f\u5b66\u8bed\u6587\u4f5c\u4e1a\u3001\u65e9\u6559\u5b57\u5361\u3002",
+    "id": "shuangying0001-beep/canvas-grid-engine",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/canvas-grid-engine",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:42:54Z",
+    "url": "https://github.com/shuangying0001-beep/canvas-grid-engine"
+  },
+  {
+    "description": "\u5b66\u4e60\u8d44\u6599/\u62a5\u544a \u4e00\u952e\u5bfc\u51fa\u53ef\u6253\u5370PDF\uff1a\u591a\u9875\u753b\u5e03\uff08\u5b57\u5e16/\u4f5c\u4e1a\u7eb8/\u56fe\u8868/\u62a5\u544a\uff09\u4e00\u952e\u5408\u6210 A4 PDF\uff0c\u81ea\u52a8\u5206\u9875+\u9875\u7801\u3002\u9002\u5408\u8001\u5e08\u51fa\u5377\u3001\u5bb6\u957f\u6253\u5370\u7ec3\u5b57\u3001\u5f00\u53d1\u8005\u5bfc\u51fa\u53ef\u89c6\u5316\u62a5\u544a\u3002",
+    "id": "shuangying0001-beep/canvas-multipage-pdf",
+    "language": "JavaScript",
+    "name": "shuangying0001-beep/canvas-multipage-pdf",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:42:52Z",
+    "url": "https://github.com/shuangying0001-beep/canvas-multipage-pdf"
+  },
+  {
+    "description": "Official DemandIntel Agent Skills + one-hit installer for the DemandIntel MCP server.",
+    "id": "demandintel/demandintel-skills-resource",
+    "language": "Shell",
+    "name": "demandintel/demandintel-skills-resource",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:39:20Z",
+    "url": "https://github.com/demandintel/demandintel-skills-resource"
+  },
+  {
+    "description": "Augmentation-only Claude Agent Skills for fiction writers \u2014 editors, critique simulators, character work, and craft dril",
+    "id": "Calliope-Editor/writing-skills",
+    "language": "\u2014",
+    "name": "Calliope-Editor/writing-skills",
+    "stars": 1,
+    "updated_at": "2026-07-15T10:39:13Z",
+    "url": "https://github.com/Calliope-Editor/writing-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 384,
+    "updated_at": "2026-07-15T10:39:03Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "A Claude skill to track your job applications. Automatically synchronises Gmail and Google Calendar with a Notion databa",
+    "id": "daliaabbruciati/job-application-tracker-SKILL",
+    "language": "\u2014",
+    "name": "daliaabbruciati/job-application-tracker-SKILL",
+    "stars": 3,
+    "updated_at": "2026-07-15T10:38:02Z",
+    "url": "https://github.com/daliaabbruciati/job-application-tracker-SKILL"
+  },
+  {
+    "description": "Open source, free, private, local, generative co-intelligence scaffold",
+    "id": "huximaxi/loci",
+    "language": "Rust",
+    "name": "huximaxi/loci",
+    "stars": 1,
+    "updated_at": "2026-07-15T10:36:46Z",
+    "url": "https://github.com/huximaxi/loci"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:36:00Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
+    "id": "jasonm4130/claude-skills",
+    "language": "JavaScript",
+    "name": "jasonm4130/claude-skills",
+    "stars": 2,
+    "updated_at": "2026-07-15T10:34:54Z",
+    "url": "https://github.com/jasonm4130/claude-skills"
+  },
+  {
+    "description": "Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-cli",
+    "id": "Ap6pack/outrider-recon",
+    "language": "Python",
+    "name": "Ap6pack/outrider-recon",
+    "stars": 4,
+    "updated_at": "2026-07-15T10:32:48Z",
+    "url": "https://github.com/Ap6pack/outrider-recon"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 12,
-    "updated_at": "2026-07-15T10:28:38Z",
+    "updated_at": "2026-07-15T10:30:13Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -13,7 +238,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 87324,
+    "stars": 87325,
     "updated_at": "2026-07-15T10:27:36Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -223,230 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T09:57:09Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:56:43Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 62,
-    "updated_at": "2026-07-15T09:56:47Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:54:34Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:53:34Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:53:31Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Reusable AI skill kits for coding agents \u2014 Skills, Rules, Templates. DevOps: Docker, K8s, Zabbix, ELK, Grafana. Examples",
-    "id": "KhaiTrang1995/agentic-kits",
-    "language": "HTML",
-    "name": "KhaiTrang1995/agentic-kits",
-    "stars": 4,
-    "updated_at": "2026-07-15T09:52:27Z",
-    "url": "https://github.com/KhaiTrang1995/agentic-kits"
-  },
-  {
-    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
-    "id": "alexgreensh/repo-forensics",
-    "language": "Python",
-    "name": "alexgreensh/repo-forensics",
-    "stars": 139,
-    "updated_at": "2026-07-15T09:52:23Z",
-    "url": "https://github.com/alexgreensh/repo-forensics"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:51:54Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-cli",
-    "id": "Ap6pack/outrider-recon",
-    "language": "Python",
-    "name": "Ap6pack/outrider-recon",
-    "stars": 4,
-    "updated_at": "2026-07-15T09:50:43Z",
-    "url": "https://github.com/Ap6pack/outrider-recon"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:50:17Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Open-source Claude skills and an MCP server for Sales and GTM teams: build Sales Navigator searches, write multichannel ",
-    "id": "LaGrowthMachine/gtm-system",
-    "language": "Python",
-    "name": "LaGrowthMachine/gtm-system",
-    "stars": 28,
-    "updated_at": "2026-07-15T09:49:52Z",
-    "url": "https://github.com/LaGrowthMachine/gtm-system"
-  },
-  {
-    "description": "Open, MIT-licensed food & nutrition science research skills for Claude Code, Codex, and MiniMax Agent \u2014 multi-agent lite",
-    "id": "PangenomeAI/academic-skills-food-nutrition",
-    "language": "Python",
-    "name": "PangenomeAI/academic-skills-food-nutrition",
-    "stars": 13,
-    "updated_at": "2026-07-15T09:49:35Z",
-    "url": "https://github.com/PangenomeAI/academic-skills-food-nutrition"
-  },
-  {
-    "description": "bro-skills - Spec-Driven Development CLI",
-    "id": "wedabro/bro-skills",
-    "language": "Python",
-    "name": "wedabro/bro-skills",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:49:23Z",
-    "url": "https://github.com/wedabro/bro-skills"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:48:56Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-07-15T09:47:04Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
-    "id": "Mary2241/seo-skills-agent-toolbox",
-    "language": "HTML",
-    "name": "Mary2241/seo-skills-agent-toolbox",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:46:36Z",
-    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:45:59Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 3,
-    "updated_at": "2026-07-15T09:44:33Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:43:33Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 82,
-    "updated_at": "2026-07-15T09:38:32Z",
-    "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 384,
-    "updated_at": "2026-07-15T10:17:26Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "SkillForge \u2014 production-ready Claude & Claude Code skills for developers, knowledge workers, and marketers. 9 free skill",
-    "id": "moses607/skillforge",
-    "language": "Shell",
-    "name": "moses607/skillforge",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:33:52Z",
-    "url": "https://github.com/moses607/skillforge"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:32:51Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:30:21Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:30:19Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
   }
 ]
