@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-16 17:40 UTC
+> ⏰ Last updated: 2026-07-16 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [royvergara/design-team-os](https://github.com/royvergara/design-team-os) | 1 | HTML | 2026-07-16 | The open source operating system for design teams running on AI — three gates, gate-enforcing Claude skills, a work ledg |
-| 2 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 5 | Python | 2026-07-16 | State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software — 40+ domain & language skil |
-| 3 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 280 | MDX | 2026-07-16 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
-| 4 | [adaptocms/adapto-cms-agent-skills](https://github.com/adaptocms/adapto-cms-agent-skills) | 1 | JavaScript | 2026-07-16 | A pack of skills for AI coding agents (Claude Code, Cursor) that lets them operate Adapto CMS end-to-end: scaffold proje |
-| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-16 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 6 | [chenweil/skillcaddy](https://github.com/chenweil/skillcaddy) | 14 | JavaScript | 2026-07-16 | Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml |
-| 7 | [swapnil5053/algotrace-](https://github.com/swapnil5053/algotrace-) | 0 | HTML | 2026-07-16 | A Claude skill that teaches DSA by drawing every step — coach by default, never solution-dumps |
-| 8 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 13 | Python | 2026-07-16 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 13 | Python | 2026-07-16 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [royvergara/design-team-os](https://github.com/royvergara/design-team-os) | 1 | HTML | 2026-07-16 | The open source operating system for design teams running on AI — three gates, gate-enforcing Claude skills, a work ledg |
+| 3 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 5 | Python | 2026-07-16 | State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software — 40+ domain & language skil |
+| 4 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 280 | MDX | 2026-07-16 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
+| 5 | [adaptocms/adapto-cms-agent-skills](https://github.com/adaptocms/adapto-cms-agent-skills) | 1 | JavaScript | 2026-07-16 | A pack of skills for AI coding agents (Claude Code, Cursor) that lets them operate Adapto CMS end-to-end: scaffold proje |
+| 6 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-16 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 7 | [chenweil/skillcaddy](https://github.com/chenweil/skillcaddy) | 14 | JavaScript | 2026-07-16 | Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml |
+| 8 | [swapnil5053/algotrace-](https://github.com/swapnil5053/algotrace-) | 0 | HTML | 2026-07-16 | A Claude skill that teaches DSA by drawing every step — coach by default, never solution-dumps |
 | 9 | [Moliboy5000/.claude](https://github.com/Moliboy5000/.claude) | 0 | Python | 2026-07-16 | Claude dotfile containing skills, agents etc I use. |
 | 10 | [Da6ka/tech-sourcing-skill](https://github.com/Da6ka/tech-sourcing-skill) | 1 | TypeScript | 2026-07-16 | Claude Code skill for candidate sourcing |
 | 11 | [FermainPariz/blindfleck](https://github.com/FermainPariz/blindfleck) | 0 | — | 2026-07-16 | The toughest reader sees your document first, and it remembers where you're weak. Adversarial review for offers, pitches |
