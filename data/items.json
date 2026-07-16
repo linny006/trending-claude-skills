@@ -1,5 +1,32 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 386,
+    "updated_at": "2026-07-16T10:45:17Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 12,
+    "updated_at": "2026-07-16T10:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Design and analyze modular software systems with Balanced Coupling to reduce technical debt and improve architecture",
+    "id": "ardellashuddery616/modularity",
+    "language": "HTML",
+    "name": "ardellashuddery616/modularity",
+    "stars": 0,
+    "updated_at": "2026-07-16T10:44:58Z",
+    "url": "https://github.com/ardellashuddery616/modularity"
+  },
+  {
     "description": "Enforce human-like writing in AI output by blocking banned words, phrases, and patterns that trigger AI detectors",
     "id": "soothing-carport96/anti-ai-slop-writing",
     "language": "\u2014",
@@ -7,6 +34,15 @@
     "stars": 1,
     "updated_at": "2026-07-16T10:44:30Z",
     "url": "https://github.com/soothing-carport96/anti-ai-slop-writing"
+  },
+  {
+    "description": "Build a custom Home Assistant setup with automation templates, a mobile React dashboard, and Claude Code-assisted config",
+    "id": "psychological-ruble517/homeassistant-claude-kit",
+    "language": "\u2014",
+    "name": "psychological-ruble517/homeassistant-claude-kit",
+    "stars": 1,
+    "updated_at": "2026-07-16T10:44:12Z",
+    "url": "https://github.com/psychological-ruble517/homeassistant-claude-kit"
   },
   {
     "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-16T10:32:31Z",
     "url": "https://github.com/belschak/repo-audit"
-  },
-  {
-    "description": "Provides tools to streamline computational chemistry and drug discovery workflows using Claude Code integration.",
-    "id": "TUKU-DEV3/ALKYL",
-    "language": "\u2014",
-    "name": "TUKU-DEV3/ALKYL",
-    "stars": 0,
-    "updated_at": "2026-07-16T10:32:30Z",
-    "url": "https://github.com/TUKU-DEV3/ALKYL"
-  },
-  {
-    "description": "Claude Code skill that escalates blocked web fetches (WebFetch -> Jina Reader -> Firecrawl -> your browser) so primary s",
-    "id": "belschak/web-research-cascade",
-    "language": "Python",
-    "name": "belschak/web-research-cascade",
-    "stars": 1,
-    "updated_at": "2026-07-16T10:32:28Z",
-    "url": "https://github.com/belschak/web-research-cascade"
-  },
-  {
-    "description": "Build structured, causal stories using modular AI tools based on classic story frameworks for stronger premises, charact",
-    "id": "Anusd6703/writers-room-story-engine",
-    "language": "\u2014",
-    "name": "Anusd6703/writers-room-story-engine",
-    "stars": 2,
-    "updated_at": "2026-07-16T10:32:26Z",
-    "url": "https://github.com/Anusd6703/writers-room-story-engine"
-  },
-  {
-    "description": "Provide AI agents with continuous identity and persistent memory across sessions and devices using a Git-native, open fr",
-    "id": "twilareckless401/agent-soul",
-    "language": "Python",
-    "name": "twilareckless401/agent-soul",
-    "stars": 2,
-    "updated_at": "2026-07-16T10:32:09Z",
-    "url": "https://github.com/twilareckless401/agent-soul"
   }
 ]
