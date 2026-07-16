@@ -1,5 +1,50 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 387,
+    "updated_at": "2026-07-16T20:03:04Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 0,
+    "updated_at": "2026-07-16T20:00:50Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "A set of skills including RAWeb, RAM, and RAPDF coverage for AI (targeting Claude Code)",
+    "id": "geoffreycrofte/luxembourg-accessibility-skillset",
+    "language": "Shell",
+    "name": "geoffreycrofte/luxembourg-accessibility-skillset",
+    "stars": 31,
+    "updated_at": "2026-07-16T20:00:27Z",
+    "url": "https://github.com/geoffreycrofte/luxembourg-accessibility-skillset"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 0,
+    "updated_at": "2026-07-16T20:00:21Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 13,
+    "updated_at": "2026-07-16T20:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T19:46:22Z",
     "url": "https://github.com/seattle78/claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 13,
-    "updated_at": "2026-07-16T19:45:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-16T19:31:45Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Claude/agent skill: Yandex image search API with full-size image URLs and filters. Installs via npx skills add.",
-    "id": "johnisanerd/claude-skill-yandex-image-search-api",
-    "language": "\u2014",
-    "name": "johnisanerd/claude-skill-yandex-image-search-api",
-    "stars": 0,
-    "updated_at": "2026-07-16T19:31:36Z",
-    "url": "https://github.com/johnisanerd/claude-skill-yandex-image-search-api"
-  },
-  {
-    "description": "Explore Claude Code CLI source code for learning, analysis, and TypeScript Bun CLI tool design",
-    "id": "tapperisobar941/claude-code-cli",
-    "language": "\u2014",
-    "name": "tapperisobar941/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-07-16T19:31:31Z",
-    "url": "https://github.com/tapperisobar941/claude-code-cli"
-  },
-  {
-    "description": "Claude/agent skill: a Yandex search API without an official key, full SERP as JSON. Installs via npx skills add.",
-    "id": "johnisanerd/claude-skill-yandex-search-api",
-    "language": "\u2014",
-    "name": "johnisanerd/claude-skill-yandex-search-api",
-    "stars": 0,
-    "updated_at": "2026-07-16T19:31:24Z",
-    "url": "https://github.com/johnisanerd/claude-skill-yandex-search-api"
-  },
-  {
-    "description": "Claude/agent skill: turn Google Jobs into a job search API feed for apps and AI agents. Installs via npx skills add.",
-    "id": "johnisanerd/claude-skill-job-search-api",
-    "language": "\u2014",
-    "name": "johnisanerd/claude-skill-job-search-api",
-    "stars": 0,
-    "updated_at": "2026-07-16T19:31:09Z",
-    "url": "https://github.com/johnisanerd/claude-skill-job-search-api"
   }
 ]
