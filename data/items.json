@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 43,
+    "updated_at": "2026-07-16T02:57:50Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-07-16T02:56:47Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "An Agent Skill of  Modellix documentation and capabilities reference.",
+    "id": "Modellix/modellix-skill",
+    "language": "Python",
+    "name": "Modellix/modellix-skill",
+    "stars": 1,
+    "updated_at": "2026-07-16T02:56:03Z",
+    "url": "https://github.com/Modellix/modellix-skill"
+  },
+  {
+    "description": "Redesign my retro-portfolio",
+    "id": "Artemisa1980/sanbluedot-portfolio",
+    "language": "TypeScript",
+    "name": "Artemisa1980/sanbluedot-portfolio",
+    "stars": 0,
+    "updated_at": "2026-07-16T02:53:07Z",
+    "url": "https://github.com/Artemisa1980/sanbluedot-portfolio"
+  },
+  {
+    "description": "A fact-checked research MCP server \u2014 screen a topic, draft it, and verify every citation and claim against live web sour",
+    "id": "vibhorxpandey/Aurelius",
+    "language": "Python",
+    "name": "vibhorxpandey/Aurelius",
+    "stars": 0,
+    "updated_at": "2026-07-16T02:49:36Z",
+    "url": "https://github.com/vibhorxpandey/Aurelius"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 385,
+    "updated_at": "2026-07-16T02:58:24Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-16T02:48:57Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 82,
+    "updated_at": "2026-07-16T02:48:33Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 17825,
+    "updated_at": "2026-07-16T02:48:27Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "AI Research Writing Skill (AI\u8bba\u6587\u5199\u4f5c\u6280\u80fd) is an agent skill for ML / AI / CV / NLP researchers. Point your coding agent at co",
+    "id": "jin-s13/ai-research-writing-skill",
+    "language": "TeX",
+    "name": "jin-s13/ai-research-writing-skill",
+    "stars": 7,
+    "updated_at": "2026-07-16T02:47:51Z",
+    "url": "https://github.com/jin-s13/ai-research-writing-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 12,
+    "updated_at": "2026-07-16T02:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
     "id": "JSONbored/awesome-claude",
     "language": "MDX",
@@ -43,15 +142,6 @@
     "stars": 385,
     "updated_at": "2026-07-16T02:30:57Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 12,
-    "updated_at": "2026-07-16T02:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Small, disciplined AI capabilities \u2014 each with a pre-declared kill criterion and real usage numbers.",
@@ -126,6 +216,15 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
+    "description": "Slack for agents: threads, flat replies, cross-thread links, pull notifications",
+    "id": "sectersion/lattice",
+    "language": "TypeScript",
+    "name": "sectersion/lattice",
+    "stars": 0,
+    "updated_at": "2026-07-16T02:01:17Z",
+    "url": "https://github.com/sectersion/lattice"
+  },
+  {
     "description": "A universal collection of reusable Loop Engineering kits for AI coding agents\u2014not just prompts. Each kit combines Skills",
     "id": "KhaiTrang1995/agentic-awesome-kits",
     "language": "Python",
@@ -169,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T01:53:49Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 17825,
-    "updated_at": "2026-07-16T02:44:29Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
@@ -358,95 +448,5 @@
     "stars": 39,
     "updated_at": "2026-07-16T01:30:54Z",
     "url": "https://github.com/backblaze-labs/claude-skill-b2-cloud-storage"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-07-16T01:29:55Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-16T01:29:55Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-07-16T01:29:45Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-16T01:29:15Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-07-16T01:29:00Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-07-16T01:28:18Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code skill for Indian income tax & ITR filing - FY25-26 calculators + live e-filing portal verification (read-onl",
-    "id": "kumarrahul85/tax-sarathi",
-    "language": "Python",
-    "name": "kumarrahul85/tax-sarathi",
-    "stars": 0,
-    "updated_at": "2026-07-16T01:28:09Z",
-    "url": "https://github.com/kumarrahul85/tax-sarathi"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-07-16T01:27:30Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-16T01:27:13Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-16T01:27:11Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
