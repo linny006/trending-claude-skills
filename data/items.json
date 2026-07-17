@@ -1,10 +1,91 @@
 [
   {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 23,
+    "updated_at": "2026-07-17T10:54:25Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Cross-model adversarial review skill for Claude Code: Fable orchestrates, GPT (sol/terra/5.5 via codex CLI) probes, verd",
+    "id": "raichominev/concilium",
+    "language": "PowerShell",
+    "name": "raichominev/concilium",
+    "stars": 0,
+    "updated_at": "2026-07-17T10:52:23Z",
+    "url": "https://github.com/raichominev/concilium"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 65994,
+    "updated_at": "2026-07-17T10:52:07Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code skills for writing peer-review rebuttals: process + tactics (write-rebuttal) and 28 per-concern answer templ",
+    "id": "yuangao-tum/rebuttal-skills",
+    "language": "TeX",
+    "name": "yuangao-tum/rebuttal-skills",
+    "stars": 0,
+    "updated_at": "2026-07-17T10:51:40Z",
+    "url": "https://github.com/yuangao-tum/rebuttal-skills"
+  },
+  {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-17T10:51:22Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
+  },
+  {
+    "description": "Agent skill that intelligently routes and applies systematic test design techniques \u2014 including Domain, Decision Table, ",
+    "id": "phatnguyen975/functional-test-design",
+    "language": "\u2014",
+    "name": "phatnguyen975/functional-test-design",
+    "stars": 0,
+    "updated_at": "2026-07-17T10:50:13Z",
+    "url": "https://github.com/phatnguyen975/functional-test-design"
+  },
+  {
+    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
+    "id": "AgamiAI/agami-core",
+    "language": "Python",
+    "name": "AgamiAI/agami-core",
+    "stars": 19,
+    "updated_at": "2026-07-17T10:53:40Z",
+    "url": "https://github.com/AgamiAI/agami-core"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 13,
+    "updated_at": "2026-07-17T10:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot; since 2026.5",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-17T10:50:58Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
     "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 74804,
+    "stars": 74808,
     "updated_at": "2026-07-17T10:43:11Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T10:42:26Z",
     "url": "https://github.com/vdk888/bubble-shield-public"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 19,
-    "updated_at": "2026-07-17T10:42:10Z",
-    "url": "https://github.com/AgamiAI/agami-core"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -72,13 +144,13 @@
     "url": "https://github.com/isatimur/excalidraw-skill-pack"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 65994,
-    "updated_at": "2026-07-17T10:44:21Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "Turn a private Claude Skill into your own HTTP API - share access, not files. Self-hosted, deploys to any $5 VM.",
+    "id": "rokbenko/skilld",
+    "language": "Python",
+    "name": "rokbenko/skilld",
+    "stars": 0,
+    "updated_at": "2026-07-17T10:32:27Z",
+    "url": "https://github.com/rokbenko/skilld"
   },
   {
     "description": "Second brain for Forward Deployed Engineers. Engagement memory + 35 skills across 6 domains, all behind one @fde... Work",
@@ -88,15 +160,6 @@
     "stars": 58,
     "updated_at": "2026-07-17T10:30:39Z",
     "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 13,
-    "updated_at": "2026-07-17T10:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Shipkit \u2014 AI-assisted product development framework for Claude Code. Skills, agents, and workflows for shipping MVPs fas",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T10:00:23Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:59:10Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Personal collection of Claude skills - growing as I discover patterns and solve real-world problems",
-    "id": "belumume/claude-skills",
-    "language": "Python",
-    "name": "belumume/claude-skills",
-    "stars": 47,
-    "updated_at": "2026-07-17T09:52:30Z",
-    "url": "https://github.com/belumume/claude-skills"
-  },
-  {
-    "description": "Conventional Commits-style Skill for writing commits and PRs. Inbuilt changelog management. Github Workflows-compatible.",
-    "id": "ndisisnd/kermit",
-    "language": "Shell",
-    "name": "ndisisnd/kermit",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:51:02Z",
-    "url": "https://github.com/ndisisnd/kermit"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:51:00Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:50:37Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
-    "id": "ratel-ai/ratel",
-    "language": "Rust",
-    "name": "ratel-ai/ratel",
-    "stars": 208,
-    "updated_at": "2026-07-17T09:48:26Z",
-    "url": "https://github.com/ratel-ai/ratel"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-17T09:48:19Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   }
 ]
