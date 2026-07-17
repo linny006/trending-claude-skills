@@ -1,5 +1,122 @@
 [
   {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 4594,
+    "updated_at": "2026-07-17T16:44:17Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Redefining development through cognitive automation and collaborative agent systems.",
+    "id": "fusengine/agents",
+    "language": "TypeScript",
+    "name": "fusengine/agents",
+    "stars": 19,
+    "updated_at": "2026-07-17T16:43:27Z",
+    "url": "https://github.com/fusengine/agents"
+  },
+  {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 417,
+    "updated_at": "2026-07-17T16:42:23Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "Turn any article into ready-to-run thumbnail prompts \u2014 5 formats, 10 styles, your face in every image. Free Claude skill",
+    "id": "holy-templar/thumbnail-machine",
+    "language": "\u2014",
+    "name": "holy-templar/thumbnail-machine",
+    "stars": 0,
+    "updated_at": "2026-07-17T16:42:22Z",
+    "url": "https://github.com/holy-templar/thumbnail-machine"
+  },
+  {
+    "description": "Finds, scores, and ranks the best library, SDK, or tool for your exact stack \u2014 no Reddit threads, no outdated blogs. 5-t",
+    "id": "Magithar/SKILLmama",
+    "language": "\u2014",
+    "name": "Magithar/SKILLmama",
+    "stars": 6,
+    "updated_at": "2026-07-17T16:43:39Z",
+    "url": "https://github.com/Magithar/SKILLmama"
+  },
+  {
+    "description": "Rewrites your Claude Code prompts before the LLM sees them \u2014 detects code, question, or text-gen intent, strips noise, a",
+    "id": "ndisisnd/wdym",
+    "language": "Python",
+    "name": "ndisisnd/wdym",
+    "stars": 0,
+    "updated_at": "2026-07-17T16:41:19Z",
+    "url": "https://github.com/ndisisnd/wdym"
+  },
+  {
+    "description": "KiSYSTEM - measure twice, cut once. A Claude Code skill bundle that keeps AI-written code clean, modular, and human-read",
+    "id": "Pr1m4lc0d3/KiSYSTEM",
+    "language": "Python",
+    "name": "Pr1m4lc0d3/KiSYSTEM",
+    "stars": 0,
+    "updated_at": "2026-07-17T16:38:59Z",
+    "url": "https://github.com/Pr1m4lc0d3/KiSYSTEM"
+  },
+  {
+    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
+    "id": "txw842lkj-cmd/silicon-circle-skill",
+    "language": "\u2014",
+    "name": "txw842lkj-cmd/silicon-circle-skill",
+    "stars": 1,
+    "updated_at": "2026-07-17T16:37:38Z",
+    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-17T16:36:37Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "\u4e0d\u8d34\u6807\u7b7e\u7684\u4e2a\u4eba\u8fd0\u884c\u6a21\u578b skill\uff1a\u8bb2 10 \u4e2a\u771f\u5b9e\u6545\u4e8b\uff0c\u4ea7\u51fa\u5e26\u56fe\u8868\u3001\u53ef\u9a8c\u8bc1\u7684\u8fd0\u884c\u5730\u56fe\u3002A no-labels Claude Code skill that models how you decide, act & love \u2014 via 1",
+    "id": "YijiaDuan/operating-model",
+    "language": "\u2014",
+    "name": "YijiaDuan/operating-model",
+    "stars": 0,
+    "updated_at": "2026-07-17T16:33:49Z",
+    "url": "https://github.com/YijiaDuan/operating-model"
+  },
+  {
+    "description": "Take the reins of your real browser",
+    "id": "karnstack/reins",
+    "language": "TypeScript",
+    "name": "karnstack/reins",
+    "stars": 19,
+    "updated_at": "2026-07-17T16:33:25Z",
+    "url": "https://github.com/karnstack/reins"
+  },
+  {
+    "description": "67 hand-picked Thai-language Claude Skills for working professionals and students \ud83c\uddf9\ud83c\udded \u00b7 Free, open source",
+    "id": "PiNocPie/thai-claude-skills",
+    "language": "Python",
+    "name": "PiNocPie/thai-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-07-17T16:31:59Z",
+    "url": "https://github.com/PiNocPie/thai-claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 13,
+    "updated_at": "2026-07-17T16:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Writes the four files a repo needs before it goes public \u2014 README.md, LICENSE.md, SECURITY.md, llms.txt \u2014 from a scan of",
     "id": "ndisisnd/mkpub",
     "language": "Shell",
@@ -13,18 +130,9 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66010,
+    "stars": 66012,
     "updated_at": "2026-07-17T16:27:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor",
-    "id": "txw842lkj-cmd/silicon-circle-skill",
-    "language": "\u2014",
-    "name": "txw842lkj-cmd/silicon-circle-skill",
-    "stars": 1,
-    "updated_at": "2026-07-17T16:26:12Z",
-    "url": "https://github.com/txw842lkj-cmd/silicon-circle-skill"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -167,7 +275,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 95,
-    "updated_at": "2026-07-17T16:25:08Z",
+    "updated_at": "2026-07-17T16:33:14Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -207,15 +315,6 @@
     "url": "https://github.com/JonMcMillan/claude-sync-by-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 13,
-    "updated_at": "2026-07-17T16:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
     "id": "ColinVaughn/Synaptic",
     "language": "Rust",
@@ -232,15 +331,6 @@
     "stars": 812,
     "updated_at": "2026-07-17T16:13:01Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
-    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
-    "id": "jabrena/plinth",
-    "language": "Java",
-    "name": "jabrena/plinth",
-    "stars": 417,
-    "updated_at": "2026-07-17T16:12:34Z",
-    "url": "https://github.com/jabrena/plinth"
   },
   {
     "description": "The SprintFleet Method \u2014 run a portfolio of projects across multiple AI models with Claude",
@@ -286,15 +376,6 @@
     "stars": 412,
     "updated_at": "2026-07-17T16:09:05Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4594,
-    "updated_at": "2026-07-17T16:08:18Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "A curated prompt library for PMs covering discovery, strategy, stakeholder comms, interviews, and data analysis. Built i",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:59:22Z",
     "url": "https://github.com/PaperasseAI/demarches-skills"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-07-17T15:58:50Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "My real Claude Code setup \u2014 global instructions (CLAUDE.md) and the skills I build with daily",
-    "id": "cozren/claude-code-setup",
-    "language": "\u2014",
-    "name": "cozren/claude-code-setup",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:54:28Z",
-    "url": "https://github.com/cozren/claude-code-setup"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:53:56Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:53:50Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:53:12Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-17T15:50:22Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:49:53Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:49:28Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Redefining development through cognitive automation and collaborative agent systems.",
-    "id": "fusengine/agents",
-    "language": "TypeScript",
-    "name": "fusengine/agents",
-    "stars": 19,
-    "updated_at": "2026-07-17T15:53:43Z",
-    "url": "https://github.com/fusengine/agents"
   }
 ]
