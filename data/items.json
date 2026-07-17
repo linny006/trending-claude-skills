@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 63,
+    "updated_at": "2026-07-17T19:24:43Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 280,
+    "updated_at": "2026-07-17T19:24:05Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 2,
+    "updated_at": "2026-07-17T19:22:27Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "Take the reins of your real browser",
+    "id": "karnstack/reins",
+    "language": "TypeScript",
+    "name": "karnstack/reins",
+    "stars": 19,
+    "updated_at": "2026-07-17T19:22:16Z",
+    "url": "https://github.com/karnstack/reins"
+  },
+  {
+    "description": "Ground-first reflex for Claude Code: the agent judges complexity from its own training, grounds before acting, and is ha",
+    "id": "88plug/trigger-my-training",
+    "language": "Python",
+    "name": "88plug/trigger-my-training",
+    "stars": 0,
+    "updated_at": "2026-07-17T19:15:52Z",
+    "url": "https://github.com/88plug/trigger-my-training"
+  },
+  {
+    "description": "Falsification-first investigation + invention workflow for Claude Code: hypothesis ledgers, controlled experiments, REFU",
+    "id": "88plug/scientific-method",
+    "language": "Python",
+    "name": "88plug/scientific-method",
+    "stars": 0,
+    "updated_at": "2026-07-17T19:15:44Z",
+    "url": "https://github.com/88plug/scientific-method"
+  },
+  {
+    "description": "Recover Claude Code sessions after an Anthropic API output-classifier false positive. JSON-aware .jsonl log surgeon: rem",
+    "id": "88plug/recover-from-false-positive",
+    "language": "Python",
+    "name": "88plug/recover-from-false-positive",
+    "stars": 0,
+    "updated_at": "2026-07-17T19:15:42Z",
+    "url": "https://github.com/88plug/recover-from-false-positive"
+  },
+  {
+    "description": "Discover, catalog, and rank everything you've built or sketched on a machine \u2014 two-pass parallel read-only sweep, tiered",
+    "id": "88plug/project-prospector",
+    "language": "Python",
+    "name": "88plug/project-prospector",
+    "stars": 0,
+    "updated_at": "2026-07-17T19:15:38Z",
+    "url": "https://github.com/88plug/project-prospector"
+  },
+  {
+    "description": "Drive an interactive full-screen TUI on a remote machine over tmux/screen + SSH like a human (type-wait-screenshot-read ",
+    "id": "88plug/drive-remote-terminal",
+    "language": "Python",
+    "name": "88plug/drive-remote-terminal",
+    "stars": 0,
+    "updated_at": "2026-07-17T19:15:35Z",
+    "url": "https://github.com/88plug/drive-remote-terminal"
+  },
+  {
+    "description": "Detects behavioral drift from your Claude output contract and steers it back \u2014 deterministic, dependency-free, 100% accu",
+    "id": "88plug/drift-detector",
+    "language": "Python",
+    "name": "88plug/drift-detector",
+    "stars": 0,
+    "updated_at": "2026-07-17T19:15:33Z",
+    "url": "https://github.com/88plug/drift-detector"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 13,
+    "updated_at": "2026-07-17T19:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
     "id": "longsizhuo/openInvest",
     "language": "Python",
@@ -108,15 +207,6 @@
     "url": "https://github.com/DataZooDE/anofox-forecast"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 13,
-    "updated_at": "2026-07-17T19:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "Rushil1507/DSA-Visualiser-Claude-Skill",
     "language": "\u2014",
@@ -142,42 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T18:57:55Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Ground-first reflex for Claude Code: the agent judges complexity from its own training, grounds before acting, and is ha",
-    "id": "88plug/trigger-my-training",
-    "language": "Python",
-    "name": "88plug/trigger-my-training",
-    "stars": 0,
-    "updated_at": "2026-07-17T18:57:53Z",
-    "url": "https://github.com/88plug/trigger-my-training"
-  },
-  {
-    "description": "Falsification-first investigation + invention workflow for Claude Code: hypothesis ledgers, controlled experiments, REFU",
-    "id": "88plug/scientific-method",
-    "language": "Python",
-    "name": "88plug/scientific-method",
-    "stars": 0,
-    "updated_at": "2026-07-17T18:57:52Z",
-    "url": "https://github.com/88plug/scientific-method"
-  },
-  {
-    "description": "Discover, catalog, and rank everything you've built or sketched on a machine \u2014 two-pass parallel read-only sweep, tiered",
-    "id": "88plug/project-prospector",
-    "language": "Python",
-    "name": "88plug/project-prospector",
-    "stars": 0,
-    "updated_at": "2026-07-17T18:57:51Z",
-    "url": "https://github.com/88plug/project-prospector"
-  },
-  {
-    "description": "Drive an interactive full-screen TUI on a remote machine over tmux/screen + SSH like a human (type-wait-screenshot-read ",
-    "id": "88plug/drive-remote-terminal",
-    "language": "Python",
-    "name": "88plug/drive-remote-terminal",
-    "stars": 0,
-    "updated_at": "2026-07-17T18:57:49Z",
-    "url": "https://github.com/88plug/drive-remote-terminal"
   },
   {
     "description": "Collection of my personal claude skills",
@@ -216,15 +270,6 @@
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
-    "description": "Detects behavioral drift from your Claude output contract and steers it back \u2014 deterministic, dependency-free, 100% accu",
-    "id": "88plug/drift-detector",
-    "language": "Python",
-    "name": "88plug/drift-detector",
-    "stars": 0,
-    "updated_at": "2026-07-17T18:55:41Z",
-    "url": "https://github.com/88plug/drift-detector"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -239,7 +284,7 @@
     "language": "TypeScript",
     "name": "martinffx/atelier",
     "stars": 36,
-    "updated_at": "2026-07-17T19:13:55Z",
+    "updated_at": "2026-07-17T19:21:00Z",
     "url": "https://github.com/martinffx/atelier"
   },
   {
@@ -324,15 +369,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 280,
-    "updated_at": "2026-07-17T18:44:36Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T18:34:19Z",
     "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Your CTO for AI skills \u2014 paste a skill repo link, get a straight verdict: install it, cherry-pick it, or skip it. Reads ",
-    "id": "wallmage/skill-scout",
-    "language": "Python",
-    "name": "wallmage/skill-scout",
-    "stars": 1,
-    "updated_at": "2026-07-17T18:34:17Z",
-    "url": "https://github.com/wallmage/skill-scout"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "TypeScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 5,
-    "updated_at": "2026-07-17T18:34:16Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-07-17T18:32:25Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-07-17T18:32:16Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
   }
 ]
