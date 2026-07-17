@@ -1,5 +1,59 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 389,
+    "updated_at": "2026-07-17T06:44:22Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
+    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
+    "language": "TypeScript",
+    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
+    "stars": 3,
+    "updated_at": "2026-07-17T06:44:20Z",
+    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
+  },
+  {
+    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
+    "id": "zerooo002/claude-artifacts-local-sync",
+    "language": "\u2014",
+    "name": "zerooo002/claude-artifacts-local-sync",
+    "stars": 0,
+    "updated_at": "2026-07-17T06:41:31Z",
+    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
+  },
+  {
+    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
+    "id": "Free-Soul/MemDreamer",
+    "language": "Python",
+    "name": "Free-Soul/MemDreamer",
+    "stars": 2,
+    "updated_at": "2026-07-17T06:41:08Z",
+    "url": "https://github.com/Free-Soul/MemDreamer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 13,
+    "updated_at": "2026-07-17T06:40:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
+    "id": "Palmerbeetling15/Council",
+    "language": "Swift",
+    "name": "Palmerbeetling15/Council",
+    "stars": 0,
+    "updated_at": "2026-07-17T06:40:15Z",
+    "url": "https://github.com/Palmerbeetling15/Council"
+  },
+  {
     "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
     "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
     "language": "Shell",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T06:36:33Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 389,
-    "updated_at": "2026-07-17T06:35:31Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
     "stars": 22646,
-    "updated_at": "2026-07-17T06:37:58Z",
+    "updated_at": "2026-07-17T06:41:50Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 13,
-    "updated_at": "2026-07-17T06:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
     "id": "noman3271/caveman",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T06:29:16Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Connect LINE to Claude Code with an MCP server for DMs, group chats, media downloads, and image replies",
-    "id": "coreyunfastened552/claude-line-channel",
-    "language": "TypeScript",
-    "name": "coreyunfastened552/claude-line-channel",
-    "stars": 0,
-    "updated_at": "2026-07-17T06:29:08Z",
-    "url": "https://github.com/coreyunfastened552/claude-line-channel"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-17T06:29:05Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Restore and run Claude Code source with full native modules, types, and internals for local use and MCP mode",
-    "id": "aymannaim822-create/claude-code-source",
-    "language": "\u2014",
-    "name": "aymannaim822-create/claude-code-source",
-    "stars": 0,
-    "updated_at": "2026-07-17T06:29:02Z",
-    "url": "https://github.com/aymannaim822-create/claude-code-source"
-  },
-  {
-    "description": "Run Claude Code locally with TUI and Electron desktop support, plus flexible Anthropic/OpenAI-compatible API access and ",
-    "id": "briefless-orgasm922/claude-code-t8",
-    "language": "\u2014",
-    "name": "briefless-orgasm922/claude-code-t8",
-    "stars": 0,
-    "updated_at": "2026-07-17T06:28:59Z",
-    "url": "https://github.com/briefless-orgasm922/claude-code-t8"
   }
 ]
