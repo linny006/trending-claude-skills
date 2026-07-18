@@ -1,5 +1,41 @@
 [
   {
+    "description": "Configure Codex, Claude, and Tabnine to understand your project, follow its workflow, and respect its safety rules.",
+    "id": "jsuvic/agent-profile",
+    "language": "TypeScript",
+    "name": "jsuvic/agent-profile",
+    "stars": 3,
+    "updated_at": "2026-07-18T09:58:58Z",
+    "url": "https://github.com/jsuvic/agent-profile"
+  },
+  {
+    "description": "Universal, agent-agnostic skills for coding agents. Measure first, fix the real constraint, never delete without approva",
+    "id": "surendranb/loadout",
+    "language": "Python",
+    "name": "surendranb/loadout",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:58:33Z",
+    "url": "https://github.com/surendranb/loadout"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 15,
+    "updated_at": "2026-07-18T09:57:36Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 391,
+    "updated_at": "2026-07-18T09:57:34Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
@@ -22,7 +58,7 @@
     "id": "OthmanAdi/planning-with-files",
     "language": "Python",
     "name": "OthmanAdi/planning-with-files",
-    "stars": 25462,
+    "stars": 25463,
     "updated_at": "2026-07-18T09:54:16Z",
     "url": "https://github.com/OthmanAdi/planning-with-files"
   },
@@ -88,15 +124,6 @@
     "stars": 280,
     "updated_at": "2026-07-18T09:46:46Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 15,
-    "updated_at": "2026-07-18T09:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Evidence-grounded research agent for Claude Code & Codex: every claim gets a confidence rating + source-family tag, and ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-18T08:49:17Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-07-18T08:48:47Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:45:35Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:44:39Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
