@@ -1,5 +1,122 @@
 [
   {
+    "description": "Claude/agent skill: turn App Store reviews into ASO and product feedback insight. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-app-store-optimization-reviews",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-app-store-optimization-reviews",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:28:25Z",
+    "url": "https://github.com/johnisanerd/claude-skill-app-store-optimization-reviews"
+  },
+  {
+    "description": "Claude/agent skill: scrape Apple App Store reviews into structured JSON. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-app-store-reviews-scraper",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-app-store-reviews-scraper",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:27:59Z",
+    "url": "https://github.com/johnisanerd/claude-skill-app-store-reviews-scraper"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:27:26Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Claude/agent skill: track newly filed Congress trading disclosures on a schedule. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-congress-trading-tracker",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-congress-trading-tracker",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:26:53Z",
+    "url": "https://github.com/johnisanerd/claude-skill-congress-trading-tracker"
+  },
+  {
+    "description": "Claude/agent skill: US Congress stock trade disclosures as structured JSON. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-congress-stock-trades-api",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-congress-stock-trades-api",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:26:20Z",
+    "url": "https://github.com/johnisanerd/claude-skill-congress-stock-trades-api"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-18T21:25:49Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Claude/agent skill: scheduled hotel rate snapshots for rate drop alerts and competitor watching. Installs via npx skills",
+    "id": "johnisanerd/claude-skill-hotel-price-monitoring",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-hotel-price-monitoring",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:25:33Z",
+    "url": "https://github.com/johnisanerd/claude-skill-hotel-price-monitoring"
+  },
+  {
+    "description": "Claude/agent skill: scrape hotel prices from Google Hotels into structured JSON. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-scrape-hotel-prices",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-scrape-hotel-prices",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:25:17Z",
+    "url": "https://github.com/johnisanerd/claude-skill-scrape-hotel-prices"
+  },
+  {
+    "description": "Claude/agent skill: stage-filtered investor outreach lists with partner contacts and check sizes. Installs via npx skill",
+    "id": "johnisanerd/claude-skill-pre-seed-investors",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-pre-seed-investors",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:25:05Z",
+    "url": "https://github.com/johnisanerd/claude-skill-pre-seed-investors"
+  },
+  {
+    "description": "Claude/agent skill: use Google Flights as an API, structured flight results by route and date. Installs via npx skills a",
+    "id": "johnisanerd/claude-skill-google-flights-api",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-google-flights-api",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:24:02Z",
+    "url": "https://github.com/johnisanerd/claude-skill-google-flights-api"
+  },
+  {
+    "description": "\ud83e\udde0 Modular skills for autonomous AI agents. Production-ready Docker & Kubernetes tooling with built-in validators. Instal",
+    "id": "obeone/claude-skills",
+    "language": "Python",
+    "name": "obeone/claude-skills",
+    "stars": 3,
+    "updated_at": "2026-07-18T21:23:23Z",
+    "url": "https://github.com/obeone/claude-skills"
+  },
+  {
+    "description": "Agent skill that intelligently routes and applies systematic test design techniques \u2014 including Domain, Decision Table, ",
+    "id": "phatnguyen975/functional-test-design",
+    "language": "\u2014",
+    "name": "phatnguyen975/functional-test-design",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:21:05Z",
+    "url": "https://github.com/phatnguyen975/functional-test-design"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 15,
+    "updated_at": "2026-07-18T21:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -77,17 +194,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-18T21:01:38Z",
+    "updated_at": "2026-07-18T21:26:43Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 15,
-    "updated_at": "2026-07-18T21:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -261,6 +369,15 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
+    "description": "A library of agent skills for developing with Pi in mind.",
+    "id": "r3b1s/pi-dev-skills",
+    "language": "TypeScript",
+    "name": "r3b1s/pi-dev-skills",
+    "stars": 1,
+    "updated_at": "2026-07-18T20:45:51Z",
+    "url": "https://github.com/r3b1s/pi-dev-skills"
+  },
+  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -315,24 +432,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:30:58Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-18T20:29:55Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
     "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
     "id": "nowork-studio/NotFair",
     "language": "TypeScript",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T20:04:33Z",
     "url": "https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-18T20:04:00Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:03:53Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "A repository for skills that are essential to my daily work",
-    "id": "tamdogood/builder-essential-skills",
-    "language": "Python",
-    "name": "tamdogood/builder-essential-skills",
-    "stars": 1,
-    "updated_at": "2026-07-18T20:03:33Z",
-    "url": "https://github.com/tamdogood/builder-essential-skills"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-18T20:02:53Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:02:14Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 1,
-    "updated_at": "2026-07-18T20:01:56Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-07-18T20:01:54Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:01:49Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:00:29Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:00:10Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-07-18T19:59:09Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
   }
 ]
