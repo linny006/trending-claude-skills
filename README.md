@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-18 23:29 UTC
+> ⏰ Last updated: 2026-07-18 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,15 +43,15 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-18 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
-| 2 | [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) | 5 | TypeScript | 2026-07-18 | Stack-agnostic agentic-programming workflow skills + documentation scaffold |
-| 3 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 0 | HTML | 2026-07-18 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 4 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 23 | Python | 2026-07-18 | A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py |
-| 5 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | Shell | 2026-07-18 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
-| 6 | [Betor4583/Claude-Mythos-AI-Free-desktop](https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop) | 0 | — | 2026-07-18 | Access the Claude Mythos AI model through a native desktop application for coding, reasoning, and multimodal assistance. |
-| 7 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 401 | TypeScript | 2026-07-18 | The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux |
-| 8 | [sa746062/web-perf-audit](https://github.com/sa746062/web-perf-audit) | 0 | Python | 2026-07-18 | Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals. |
-| 9 | [unpronounceable-ordersphenisciformes466/roblox-best-practices-skill](https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill) | 0 | JavaScript | 2026-07-18 | Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts. |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 15 | Python | 2026-07-18 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 15 | Python | 2026-07-18 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) | 5 | TypeScript | 2026-07-18 | Stack-agnostic agentic-programming workflow skills + documentation scaffold |
+| 4 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 0 | HTML | 2026-07-18 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
+| 5 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 23 | Python | 2026-07-18 | A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py |
+| 6 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | Shell | 2026-07-18 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
+| 7 | [Betor4583/Claude-Mythos-AI-Free-desktop](https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop) | 0 | — | 2026-07-18 | Access the Claude Mythos AI model through a native desktop application for coding, reasoning, and multimodal assistance. |
+| 8 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 401 | TypeScript | 2026-07-18 | The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux |
+| 9 | [sa746062/web-perf-audit](https://github.com/sa746062/web-perf-audit) | 0 | Python | 2026-07-18 | Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals. |
+| 10 | [unpronounceable-ordersphenisciformes466/roblox-best-practices-skill](https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill) | 0 | JavaScript | 2026-07-18 | Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts. |
 | 11 | [jesusda3699/claude-rtl-persian](https://github.com/jesusda3699/claude-rtl-persian) | 0 | JavaScript | 2026-07-18 | Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable. |
 | 12 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-18 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
 | 13 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-07-18 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
