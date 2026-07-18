@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-18 21:30 UTC
+> ⏰ Last updated: 2026-07-18 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ivuorinen/skills](https://github.com/ivuorinen/skills) | 1 | Python | 2026-07-18 | My assortment of Claude Code skills |
-| 2 | [johnisanerd/claude-skill-baidu-search-api](https://github.com/johnisanerd/claude-skill-baidu-search-api) | 0 | — | 2026-07-18 | Claude/agent skill: Baidu search results as structured JSON. Installs via npx skills add. |
-| 3 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 15 | Python | 2026-07-18 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 4 | [johnisanerd/claude-skill-app-store-optimization-reviews](https://github.com/johnisanerd/claude-skill-app-store-optimization-reviews) | 0 | — | 2026-07-18 | Claude/agent skill: turn App Store reviews into ASO and product feedback insight. Installs via npx skills add. |
-| 5 | [johnisanerd/claude-skill-app-store-reviews-scraper](https://github.com/johnisanerd/claude-skill-app-store-reviews-scraper) | 0 | — | 2026-07-18 | Claude/agent skill: scrape Apple App Store reviews into structured JSON. Installs via npx skills add. |
-| 6 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-18 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 7 | [johnisanerd/claude-skill-congress-trading-tracker](https://github.com/johnisanerd/claude-skill-congress-trading-tracker) | 0 | — | 2026-07-18 | Claude/agent skill: track newly filed Congress trading disclosures on a schedule. Installs via npx skills add. |
-| 8 | [johnisanerd/claude-skill-congress-stock-trades-api](https://github.com/johnisanerd/claude-skill-congress-stock-trades-api) | 0 | — | 2026-07-18 | Claude/agent skill: US Congress stock trade disclosures as structured JSON. Installs via npx skills add. |
-| 9 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-18 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 10 | [johnisanerd/claude-skill-hotel-price-monitoring](https://github.com/johnisanerd/claude-skill-hotel-price-monitoring) | 0 | — | 2026-07-18 | Claude/agent skill: scheduled hotel rate snapshots for rate drop alerts and competitor watching. Installs via npx skills |
-| 11 | [johnisanerd/claude-skill-scrape-hotel-prices](https://github.com/johnisanerd/claude-skill-scrape-hotel-prices) | 0 | — | 2026-07-18 | Claude/agent skill: scrape hotel prices from Google Hotels into structured JSON. Installs via npx skills add. |
-| 12 | [johnisanerd/claude-skill-pre-seed-investors](https://github.com/johnisanerd/claude-skill-pre-seed-investors) | 0 | — | 2026-07-18 | Claude/agent skill: stage-filtered investor outreach lists with partner contacts and check sizes. Installs via npx skill |
-| 13 | [johnisanerd/claude-skill-google-flights-api](https://github.com/johnisanerd/claude-skill-google-flights-api) | 0 | — | 2026-07-18 | Claude/agent skill: use Google Flights as an API, structured flight results by route and date. Installs via npx skills a |
-| 14 | [obeone/claude-skills](https://github.com/obeone/claude-skills) | 3 | Python | 2026-07-18 | 🧠 Modular skills for autonomous AI agents. Production-ready Docker & Kubernetes tooling with built-in validators. Instal |
-| 15 | [phatnguyen975/functional-test-design](https://github.com/phatnguyen975/functional-test-design) | 0 | — | 2026-07-18 | Agent skill that intelligently routes and applies systematic test design techniques — including Domain, Decision Table,  |
-| 16 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-07-18 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 17 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 0 | HTML | 2026-07-18 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 18 | [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) | 646 | Python | 2026-07-18 | 面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新 |
-| 19 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-07-18 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 20 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-07-18 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 21 | [onlymuneeb38-glitch/ios-agent-skills-evaluator](https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator) | 1 | HTML | 2026-07-18 | iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models |
-| 22 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-07-18 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
-| 23 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-18 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 24 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | Shell | 2026-07-18 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
-| 25 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-07-18 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
-| 26 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-07-18 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
-| 27 | [akaieuan/collapse](https://github.com/akaieuan/collapse) | 2 | TypeScript | 2026-07-18 | Pattern → SKILL.md compiler for Claude Code. Three pluggable ingestors (MDX lessons, Jupyter notebooks, custom), one typ |
-| 28 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 0 | HTML | 2026-07-18 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
-| 29 | [JBSag/pm-artisan](https://github.com/JBSag/pm-artisan) | 0 | HTML | 2026-07-18 | 15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly |
-| 30 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-07-18 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
-| 31 | [munexor/seo-opportunity-nexus](https://github.com/munexor/seo-opportunity-nexus) | 0 | HTML | 2026-07-18 | SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools |
-| 32 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-07-18 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
-| 33 | [boshu2/agentops](https://github.com/boshu2/agentops) | 413 | Go | 2026-07-18 | The operating loop a coding agent follows — and skills to orchestrate multi-agent systems. |
-| 34 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 1 | HTML | 2026-07-18 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
-| 35 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-07-18 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
-| 36 | [bokyostudio/pg-practice-knowledgebase](https://github.com/bokyostudio/pg-practice-knowledgebase) | 0 | HTML | 2026-07-18 | The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026 |
-| 37 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-07-18 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
-| 38 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 0 | HTML | 2026-07-18 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
-| 39 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 0 | HTML | 2026-07-18 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
-| 40 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-07-18 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
-| 41 | [metallurgical/ogre-runner](https://github.com/metallurgical/ogre-runner) | 1 | Shell | 2026-07-18 | A Claude Code plugin that turns issues, problem statements, and feature requests → reviewed plans → focused tasks → and  |
-| 42 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 0 | HTML | 2026-07-18 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
-| 43 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 0 | HTML | 2026-07-18 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 44 | [r3b1s/pi-dev-skills](https://github.com/r3b1s/pi-dev-skills) | 1 | TypeScript | 2026-07-18 | A library of agent skills for developing with Pi in mind. |
-| 45 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-07-18 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
-| 46 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 53 | HTML | 2026-07-18 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
-| 47 | [Mary2241/seo-skills-agent-toolbox](https://github.com/Mary2241/seo-skills-agent-toolbox) | 2 | HTML | 2026-07-18 | ⚡ 2026 SEO Audit & Content Agent – Claude for SE Ranking MCP |
-| 48 | [gilvangonzalez/technical-founding-gtm-toolkit](https://github.com/gilvangonzalez/technical-founding-gtm-toolkit) | 1 | HTML | 2026-07-18 | The Complete AI & Technical Founder GTM Toolkit 2026 – Pricing, PLG & Enterprise Sales |
-| 49 | [ama-zingco/anti-ai-writing-skill](https://github.com/ama-zingco/anti-ai-writing-skill) | 0 | — | 2026-07-18 | A skill that removes common AI writing tells, based on published AI-detection research |
-| 50 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-18 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 1 | [magnusrodseth/dotfiles](https://github.com/magnusrodseth/dotfiles) | 2 | Shell | 2026-07-18 | ⚙️ There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a  |
+| 2 | [johnisanerd/claude-skill-ecommerce-intelligence](https://github.com/johnisanerd/claude-skill-ecommerce-intelligence) | 0 | — | 2026-07-18 | Claude/agent skill: competitor pricing and assortment intelligence from shopping results. Installs via npx skills add. |
+| 3 | [ashfaquecg806-dot/symfony-ux-insights](https://github.com/ashfaquecg806-dot/symfony-ux-insights) | 1 | HTML | 2026-07-18 | Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus |
+| 4 | [JhoseWolf/sageox-hivemind-engine](https://github.com/JhoseWolf/sageox-hivemind-engine) | 1 | HTML | 2026-07-18 | ⚡ SageOx HiveMind 2026 — Agentic Engineering Toolkit for Autonomous Workflows |
+| 5 | [johnisanerd/claude-skill-scrape-google-shopping](https://github.com/johnisanerd/claude-skill-scrape-google-shopping) | 0 | — | 2026-07-18 | Claude/agent skill: scrape Google Shopping products, prices, and sellers. Installs via npx skills add. |
+| 6 | [boshu2/agentops](https://github.com/boshu2/agentops) | 413 | Go | 2026-07-18 | The operating loop a coding agent follows — and skills to orchestrate multi-agent systems. |
+| 7 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 0 | HTML | 2026-07-18 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
+| 8 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 0 | HTML | 2026-07-18 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
+| 9 | [johnisanerd/claude-skill-news-monitoring](https://github.com/johnisanerd/claude-skill-news-monitoring) | 0 | — | 2026-07-18 | Claude/agent skill: monitor news coverage and brand mentions on a schedule. Installs via npx skills add. |
+| 10 | [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) | 2658 | Python | 2026-07-18 | Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs |
+| 11 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 0 | HTML | 2026-07-18 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
+| 12 | [johnisanerd/claude-skill-google-news-api](https://github.com/johnisanerd/claude-skill-google-news-api) | 0 | — | 2026-07-18 | Claude/agent skill: Google News articles as structured JSON. Installs via npx skills add. |
+| 13 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-07-18 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
+| 14 | [johnisanerd/claude-skill-google-events-tracking](https://github.com/johnisanerd/claude-skill-google-events-tracking) | 0 | — | 2026-07-18 | Claude/agent skill: track local events over time for a city or topic. Installs via npx skills add. |
+| 15 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 63 | Python | 2026-07-18 | 📊 Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f |
+| 16 | [abbyuraffi-netizen/maxvision-claude-forge](https://github.com/abbyuraffi-netizen/maxvision-claude-forge) | 0 | HTML | 2026-07-18 | n8n Claude Code Marketplace 2026 ⚡ Production-Grade Skills for GTM & Workflow Automation |
+| 17 | [inkatze/planwright](https://github.com/inkatze/planwright) | 1 | Shell | 2026-07-18 | Autopilot for spec-driven development: a standalone, opinionated Claude Code framework |
+| 18 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 53 | HTML | 2026-07-18 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
+| 19 | [johnisanerd/claude-skill-google-events-ai](https://github.com/johnisanerd/claude-skill-google-events-ai) | 0 | — | 2026-07-18 | Claude/agent skill: local events data for AI agents, as structured JSON. Installs via npx skills add. |
+| 20 | [Mary2241/seo-skills-agent-toolbox](https://github.com/Mary2241/seo-skills-agent-toolbox) | 2 | HTML | 2026-07-18 | ⚡ 2026 SEO Audit & Content Agent – Claude for SE Ranking MCP |
+| 21 | [gilvangonzalez/technical-founding-gtm-toolkit](https://github.com/gilvangonzalez/technical-founding-gtm-toolkit) | 1 | HTML | 2026-07-18 | The Complete AI & Technical Founder GTM Toolkit 2026 – Pricing, PLG & Enterprise Sales |
+| 22 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 98 | Kotlin | 2026-07-18 | Helping the Agents Compose the Things |
+| 23 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 0 | HTML | 2026-07-18 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 24 | [428alexander9/claude-skills-marketplace](https://github.com/428alexander9/claude-skills-marketplace) | 2 | Python | 2026-07-18 | 🛠️ Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm |
+| 25 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | Shell | 2026-07-18 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
+| 26 | [johnisanerd/claude-skill-google-ai-overview-monitoring](https://github.com/johnisanerd/claude-skill-google-ai-overview-monitoring) | 0 | — | 2026-07-18 | Claude/agent skill: track brand visibility inside Google AI Overviews. Installs via npx skills add. |
+| 27 | [viibhutisharma30/jetpack-compose-remediation-kit](https://github.com/viibhutisharma30/jetpack-compose-remediation-kit) | 0 | HTML | 2026-07-18 | Modern Jetpack Compose Fixer 2026 – Debug Errors & Boost Android UI Performance |
+| 28 | [YasuakiOmokawa/skills](https://github.com/YasuakiOmokawa/skills) | 1 | Shell | 2026-07-18 | Agent skills for improve AI prototype driven development |
+| 29 | [johnisanerd/claude-skill-google-ai-overview-api](https://github.com/johnisanerd/claude-skill-google-ai-overview-api) | 0 | — | 2026-07-18 | Claude/agent skill: capture Google AI Overview answers as structured data. Installs via npx skills add. |
+| 30 | [johnisanerd/claude-skill-gas-price-monitoring](https://github.com/johnisanerd/claude-skill-gas-price-monitoring) | 0 | — | 2026-07-18 | Claude/agent skill: scheduled fuel price snapshots for tracking changes. Installs via npx skills add. |
+| 31 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 0 | HTML | 2026-07-18 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
+| 32 | [agents-inc/cli](https://github.com/agents-inc/cli) | 5 | TypeScript | 2026-07-18 | An agent composition framework that builds stacks and compiles specialized subagents for Claude Code |
+| 33 | [johnisanerd/claude-skill-gas-prices-api](https://github.com/johnisanerd/claude-skill-gas-prices-api) | 0 | — | 2026-07-18 | Claude/agent skill: current gas and fuel prices as structured data. Installs via npx skills add. |
+| 34 | [johnisanerd/claude-skill-baidu-rank-tracker](https://github.com/johnisanerd/claude-skill-baidu-rank-tracker) | 0 | — | 2026-07-18 | Claude/agent skill: track keyword rankings on Baidu over time. Installs via npx skills add. |
+| 35 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-18 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 36 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 15 | Python | 2026-07-18 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 37 | [ivuorinen/skills](https://github.com/ivuorinen/skills) | 1 | Python | 2026-07-18 | My assortment of Claude Code skills |
+| 38 | [johnisanerd/claude-skill-baidu-search-api](https://github.com/johnisanerd/claude-skill-baidu-search-api) | 0 | — | 2026-07-18 | Claude/agent skill: Baidu search results as structured JSON. Installs via npx skills add. |
+| 39 | [johnisanerd/claude-skill-app-store-optimization-reviews](https://github.com/johnisanerd/claude-skill-app-store-optimization-reviews) | 0 | — | 2026-07-18 | Claude/agent skill: turn App Store reviews into ASO and product feedback insight. Installs via npx skills add. |
+| 40 | [johnisanerd/claude-skill-app-store-reviews-scraper](https://github.com/johnisanerd/claude-skill-app-store-reviews-scraper) | 0 | — | 2026-07-18 | Claude/agent skill: scrape Apple App Store reviews into structured JSON. Installs via npx skills add. |
+| 41 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-18 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 42 | [johnisanerd/claude-skill-congress-trading-tracker](https://github.com/johnisanerd/claude-skill-congress-trading-tracker) | 0 | — | 2026-07-18 | Claude/agent skill: track newly filed Congress trading disclosures on a schedule. Installs via npx skills add. |
+| 43 | [johnisanerd/claude-skill-congress-stock-trades-api](https://github.com/johnisanerd/claude-skill-congress-stock-trades-api) | 0 | — | 2026-07-18 | Claude/agent skill: US Congress stock trade disclosures as structured JSON. Installs via npx skills add. |
+| 44 | [johnisanerd/claude-skill-investor-database](https://github.com/johnisanerd/claude-skill-investor-database) | 0 | — | 2026-07-18 | Claude/agent skill: search a curated database of 10,469 investor firms by type, industry, stage, and country. Installs v |
+| 45 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-18 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 46 | [johnisanerd/claude-skill-hotel-price-monitoring](https://github.com/johnisanerd/claude-skill-hotel-price-monitoring) | 0 | — | 2026-07-18 | Claude/agent skill: scheduled hotel rate snapshots for rate drop alerts and competitor watching. Installs via npx skills |
+| 47 | [johnisanerd/claude-skill-scrape-hotel-prices](https://github.com/johnisanerd/claude-skill-scrape-hotel-prices) | 0 | — | 2026-07-18 | Claude/agent skill: scrape hotel prices from Google Hotels into structured JSON. Installs via npx skills add. |
+| 48 | [johnisanerd/claude-skill-pre-seed-investors](https://github.com/johnisanerd/claude-skill-pre-seed-investors) | 0 | — | 2026-07-18 | Claude/agent skill: stage-filtered investor outreach lists with partner contacts and check sizes. Installs via npx skill |
+| 49 | [johnisanerd/claude-skill-google-flights-api](https://github.com/johnisanerd/claude-skill-google-flights-api) | 0 | — | 2026-07-18 | Claude/agent skill: use Google Flights as an API, structured flight results by route and date. Installs via npx skills a |
+| 50 | [obeone/claude-skills](https://github.com/obeone/claude-skills) | 3 | Python | 2026-07-18 | 🧠 Modular skills for autonomous AI agents. Production-ready Docker & Kubernetes tooling with built-in validators. Instal |
 <!-- TRACKER_TABLE_END -->
 
 ---
