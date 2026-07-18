@@ -1,5 +1,95 @@
 [
   {
+    "description": "Evidence-grounded research agent for Claude Code & Codex: every claim gets a confidence rating + source-family tag, and ",
+    "id": "GiaSip/giasip-skills",
+    "language": "Shell",
+    "name": "GiaSip/giasip-skills",
+    "stars": 11,
+    "updated_at": "2026-07-18T09:44:36Z",
+    "url": "https://github.com/GiaSip/giasip-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 280,
+    "updated_at": "2026-07-18T09:43:36Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:41:15Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
+    "description": "The curated AI Agent skill marketplace \u2014 37K+ vetted skills, S/A/B/C ratings, deploy anywhere",
+    "id": "MARUCIE/openclaw-foundry",
+    "language": "HTML",
+    "name": "MARUCIE/openclaw-foundry",
+    "stars": 1,
+    "updated_at": "2026-07-18T09:41:05Z",
+    "url": "https://github.com/MARUCIE/openclaw-foundry"
+  },
+  {
+    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
+    "id": "bokyostudio/pg-practice-knowledgebase",
+    "language": "HTML",
+    "name": "bokyostudio/pg-practice-knowledgebase",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:40:14Z",
+    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:39:36Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:38:31Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "A framework-agnostic Roblox/Luau coding standards & best practices skill for AI agents. Features an interactive CLI inst",
+    "id": "andrian-syh/roblox-best-practices-skill",
+    "language": "JavaScript",
+    "name": "andrian-syh/roblox-best-practices-skill",
+    "stars": 1,
+    "updated_at": "2026-07-18T09:36:36Z",
+    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 98,
+    "updated_at": "2026-07-18T09:43:59Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 15,
+    "updated_at": "2026-07-18T09:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
     "id": "longsizhuo/openInvest",
     "language": "Python",
@@ -41,7 +131,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-07-18T09:27:49Z",
+    "updated_at": "2026-07-18T09:44:16Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -52,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-18T09:24:05Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "A framework-agnostic Roblox/Luau coding standards & best practices skill for AI agents. Features an interactive CLI inst",
-    "id": "andrian-syh/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "andrian-syh/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-07-18T09:22:37Z",
-    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -76,27 +157,9 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 87686,
+    "stars": 87688,
     "updated_at": "2026-07-18T09:17:10Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 15,
-    "updated_at": "2026-07-18T09:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 98,
-    "updated_at": "2026-07-18T09:28:23Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T09:11:37Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 280,
-    "updated_at": "2026-07-18T09:11:01Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T09:06:34Z",
     "url": "https://github.com/moonlight-lupin/data-toolkit"
-  },
-  {
-    "description": "Evidence-grounded research agent for Claude Code & Codex: every claim gets a confidence rating + source-family tag, and ",
-    "id": "GiaSip/giasip-skills",
-    "language": "Shell",
-    "name": "GiaSip/giasip-skills",
-    "stars": 11,
-    "updated_at": "2026-07-18T09:05:50Z",
-    "url": "https://github.com/GiaSip/giasip-skills"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -211,8 +256,8 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 17903,
-    "updated_at": "2026-07-18T08:59:00Z",
+    "stars": 17904,
+    "updated_at": "2026-07-18T09:40:43Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -229,7 +274,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66058,
+    "stars": 66059,
     "updated_at": "2026-07-18T08:58:23Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -259,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T08:54:35Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "The curated AI Agent skill marketplace \u2014 37K+ vetted skills, S/A/B/C ratings, deploy anywhere",
-    "id": "MARUCIE/openclaw-foundry",
-    "language": "HTML",
-    "name": "MARUCIE/openclaw-foundry",
-    "stars": 1,
-    "updated_at": "2026-07-18T08:53:46Z",
-    "url": "https://github.com/MARUCIE/openclaw-foundry"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-18T08:29:26Z",
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-18T08:29:09Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:26:22Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Optimized GitHub skill for coding agents: fewer tool calls, less context burned, lower cost, faster answers. One bounded",
-    "id": "AVGVSTVS96/better-github-skill",
-    "language": "JavaScript",
-    "name": "AVGVSTVS96/better-github-skill",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:26:03Z",
-    "url": "https://github.com/AVGVSTVS96/better-github-skill"
-  },
-  {
-    "description": "Claude Code skills suite for AI-driven Odoo 17/18/19 development: read ground truth from the running instance first (fie",
-    "id": "tuanle96/odoo-ai-skills",
-    "language": "Python",
-    "name": "tuanle96/odoo-ai-skills",
-    "stars": 4,
-    "updated_at": "2026-07-18T08:23:19Z",
-    "url": "https://github.com/tuanle96/odoo-ai-skills"
   }
 ]
