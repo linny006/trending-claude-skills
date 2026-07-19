@@ -1,12 +1,66 @@
 [
   {
+    "description": "Your CTO for AI skills \u2014 paste a skill repo link, get a straight verdict: install it, cherry-pick it, or skip it. Reads ",
+    "id": "wallmage/skill-scout",
+    "language": "Python",
+    "name": "wallmage/skill-scout",
+    "stars": 1,
+    "updated_at": "2026-07-19T18:44:55Z",
+    "url": "https://github.com/wallmage/skill-scout"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:41:58Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Claude Code skill for spec-faithful implementation: spec-derived tests, mandatory boundary coverage, evidence-gated done",
+    "id": "NTCHz/off-by-none",
+    "language": "Shell",
+    "name": "NTCHz/off-by-none",
+    "stars": 2,
+    "updated_at": "2026-07-19T18:41:04Z",
+    "url": "https://github.com/NTCHz/off-by-none"
+  },
+  {
     "description": "A Claude Code skill that sends you to bed the way a mom sends naughty children: lovingly, briefly, and without accepting",
     "id": "moudrkat/go-to-damn-bed",
-    "language": "\u2014",
+    "language": "Python",
     "name": "moudrkat/go-to-damn-bed",
     "stars": 0,
-    "updated_at": "2026-07-19T18:27:59Z",
+    "updated_at": "2026-07-19T18:38:25Z",
     "url": "https://github.com/moudrkat/go-to-damn-bed"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:37:20Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:36:11Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "A Claude Skill for generating UIs in the Bauhaus / Swiss International Typographic Style",
+    "id": "capsrock/bauhaus-design-skill",
+    "language": "\u2014",
+    "name": "capsrock/bauhaus-design-skill",
+    "stars": 4,
+    "updated_at": "2026-07-19T18:33:10Z",
+    "url": "https://github.com/capsrock/bauhaus-design-skill"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 16,
-    "updated_at": "2026-07-19T18:27:48Z",
+    "updated_at": "2026-07-19T18:30:17Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "skill-fix \u2014 Skill Diagnostic & Repair Tool Diagnoses and fixes quality issues in Claude Code skill definition files (SKI",
+    "id": "napoler/skill-fix",
+    "language": "Python",
+    "name": "napoler/skill-fix",
+    "stars": 1,
+    "updated_at": "2026-07-19T18:28:20Z",
+    "url": "https://github.com/napoler/skill-fix"
   },
   {
     "description": "\ud83c\uddeb\ud83c\uddf7 Agent-ready skills for French admin d\u00e9marches \u2014 sourced guides for visas, titre de s\u00e9jour, imp\u00f4ts, CAF, ANTS\u2026 Open kn",
@@ -25,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T18:26:32Z",
     "url": "https://github.com/PaperasseAI/demarches-skills"
-  },
-  {
-    "description": "Claude Code skill for spec-faithful implementation: spec-derived tests, mandatory boundary coverage, evidence-gated done",
-    "id": "NTCHz/off-by-none",
-    "language": "Shell",
-    "name": "NTCHz/off-by-none",
-    "stars": 2,
-    "updated_at": "2026-07-19T18:23:15Z",
-    "url": "https://github.com/NTCHz/off-by-none"
-  },
-  {
-    "description": "skill-fix \u2014 Skill Diagnostic & Repair Tool Diagnoses and fixes quality issues in Claude Code skill definition files (SKI",
-    "id": "napoler/skill-fix",
-    "language": "Python",
-    "name": "napoler/skill-fix",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:28:20Z",
-    "url": "https://github.com/napoler/skill-fix"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -315,15 +360,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:43:54Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -333,21 +369,12 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:41:29Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
     "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
     "id": "inkatze/planwright",
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-19T17:54:54Z",
+    "updated_at": "2026-07-19T18:44:12Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -364,7 +391,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30287,
+    "stars": 30288,
     "updated_at": "2026-07-19T17:38:24Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -385,15 +412,6 @@
     "stars": 98,
     "updated_at": "2026-07-19T18:17:18Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:34:37Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
     "description": "Personal memory across agents",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T17:31:12Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Persistent memory layer for Claude Code \u2014 Obsidian vault health, connection discovery, brain dump, session notes, email ",
-    "id": "jojoprison/mnemo",
-    "language": "Python",
-    "name": "jojoprison/mnemo",
-    "stars": 6,
-    "updated_at": "2026-07-19T18:03:22Z",
-    "url": "https://github.com/jojoprison/mnemo"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:28:40Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
