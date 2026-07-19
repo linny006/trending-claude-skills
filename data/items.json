@@ -1,5 +1,122 @@
 [
   {
+    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
+    "id": "jasonm4130/claude-skills",
+    "language": "JavaScript",
+    "name": "jasonm4130/claude-skills",
+    "stars": 2,
+    "updated_at": "2026-07-19T10:00:02Z",
+    "url": "https://github.com/jasonm4130/claude-skills"
+  },
+  {
+    "description": "Outbound sales, autopiloted.",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 1,
+    "updated_at": "2026-07-19T09:59:00Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
+    "id": "ergrelet/windiff",
+    "language": "Rust",
+    "name": "ergrelet/windiff",
+    "stars": 388,
+    "updated_at": "2026-07-19T09:58:07Z",
+    "url": "https://github.com/ergrelet/windiff"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:56:32Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:56:13Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:55:44Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 98,
+    "updated_at": "2026-07-19T10:00:03Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-07-19T09:51:24Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-19T09:49:08Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Linux Wayland computer-use MCP for Claude Code & Grok \u2014 screenshot, click, type any desktop app.",
+    "id": "88plug/screen-mcp",
+    "language": "Python",
+    "name": "88plug/screen-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-19T09:46:00Z",
+    "url": "https://github.com/88plug/screen-mcp"
+  },
+  {
+    "description": "DeepWiki indexing for Claude Code & Grok \u2014 auto-index public repos so Ask DeepWiki badges resolve.",
+    "id": "88plug/deepwiki-index",
+    "language": "Python",
+    "name": "88plug/deepwiki-index",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:45:47Z",
+    "url": "https://github.com/88plug/deepwiki-index"
+  },
+  {
+    "description": "Claude Code + Grok drift detector \u2014 scores turns vs your output contract and steers back.",
+    "id": "88plug/drift-detector",
+    "language": "Python",
+    "name": "88plug/drift-detector",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:45:19Z",
+    "url": "https://github.com/88plug/drift-detector"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 15,
+    "updated_at": "2026-07-19T09:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI code fat trim for Claude Code & Grok \u2014 measure weight, trim, verify equivalence, and benchmark.",
     "id": "88plug/addlightness",
     "language": "JavaScript",
@@ -171,15 +288,6 @@
     "url": "https://github.com/SaltGardenia/research-code-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 15,
-    "updated_at": "2026-07-19T09:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": " AI Security Research Radar \u2014 AI for security and security for AI",
     "id": "Neetx/ai-security-research-radar",
     "language": "\u2014",
@@ -252,15 +360,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Outbound sales, autopiloted.",
-    "id": "aitit-inc/leadace",
-    "language": "TypeScript",
-    "name": "aitit-inc/leadace",
-    "stars": 1,
-    "updated_at": "2026-07-19T09:17:33Z",
-    "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
     "description": "Evidence-grounded research agent for Claude Code & Codex: every claim gets a confidence rating + source-family tag, and ",
     "id": "GiaSip/giasip-skills",
     "language": "Shell",
@@ -268,15 +367,6 @@
     "stars": 11,
     "updated_at": "2026-07-19T09:25:14Z",
     "url": "https://github.com/GiaSip/giasip-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 98,
-    "updated_at": "2026-07-19T09:44:48Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T09:05:52Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 0,
-    "updated_at": "2026-07-19T09:05:02Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6091,
-    "updated_at": "2026-07-19T09:04:03Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 393,
-    "updated_at": "2026-07-19T09:02:12Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "An agent skill that gives your coding agents a project memory.",
-    "id": "waittim/MemoryCustodian",
-    "language": "Python",
-    "name": "waittim/MemoryCustodian",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:51:39Z",
-    "url": "https://github.com/waittim/MemoryCustodian"
-  },
-  {
-    "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
-    "id": "nowork-studio/NotFair",
-    "language": "TypeScript",
-    "name": "nowork-studio/NotFair",
-    "stars": 3154,
-    "updated_at": "2026-07-19T08:50:36Z",
-    "url": "https://github.com/nowork-studio/NotFair"
-  },
-  {
-    "description": "Extract a 5-bullet design brief from messy project inputs, with a gap report. A Claude Code skill.",
-    "id": "humbleteam/design-brief",
-    "language": "\u2014",
-    "name": "humbleteam/design-brief",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:47:09Z",
-    "url": "https://github.com/humbleteam/design-brief"
-  },
-  {
-    "description": "Turn a mockup into a dev-ready handoff spec: tokens, component states, accessibility notes, open questions",
-    "id": "humbleteam/design-handoff",
-    "language": "\u2014",
-    "name": "humbleteam/design-handoff",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:46:29Z",
-    "url": "https://github.com/humbleteam/design-handoff"
-  },
-  {
-    "description": "WCAG 2.2 accessibility audit skill for Claude Code - severity-ranked findings with success-criterion citations",
-    "id": "humbleteam/accessibility-audit",
-    "language": "\u2014",
-    "name": "humbleteam/accessibility-audit",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:45:43Z",
-    "url": "https://github.com/humbleteam/accessibility-audit"
-  },
-  {
-    "description": "Pre-ship design QA gate - contrast, touch targets, keyboard paths, breakpoints for any screen before it merges",
-    "id": "humbleteam/design-qa",
-    "language": "\u2014",
-    "name": "humbleteam/design-qa",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:45:07Z",
-    "url": "https://github.com/humbleteam/design-qa"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66132,
-    "updated_at": "2026-07-19T08:43:32Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   }
 ]
