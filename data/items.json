@@ -1,12 +1,174 @@
 [
   {
-    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
-    "id": "Neetx/ai-security-research-radar",
-    "language": "\u2014",
-    "name": "Neetx/ai-security-research-radar",
+    "description": "AI code fat trim for Claude Code & Grok \u2014 measure weight, trim, verify equivalence, and benchmark.",
+    "id": "88plug/addlightness",
+    "language": "JavaScript",
+    "name": "88plug/addlightness",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:44:27Z",
+    "url": "https://github.com/88plug/addlightness"
+  },
+  {
+    "description": "Linux systemd MCP for Claude Code & Grok \u2014 services, journald, D-Bus, power via structured OS interfaces.",
+    "id": "88plug/os-control-mcp",
+    "language": "Python",
+    "name": "88plug/os-control-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:44:25Z",
+    "url": "https://github.com/88plug/os-control-mcp"
+  },
+  {
+    "description": "Project discovery skill: catalog & rank your machine by idea novelty. Claude Code + Grok multi-agent sweep.",
+    "id": "88plug/project-prospector",
+    "language": "Python",
+    "name": "88plug/project-prospector",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:44:08Z",
+    "url": "https://github.com/88plug/project-prospector"
+  },
+  {
+    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:44:08Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "AI agent guardrails for Claude Code & Grok \u2014 no human-time, access-asks, or emotional labor.",
+    "id": "88plug/dehumanize",
+    "language": "Shell",
+    "name": "88plug/dehumanize",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:44:03Z",
+    "url": "https://github.com/88plug/dehumanize"
+  },
+  {
+    "description": "Agent authority guardrails for Claude Code & Grok \u2014 stop yield-back; drive reversible work yourself.",
+    "id": "88plug/be-the-whole-bitch",
+    "language": "Python",
+    "name": "88plug/be-the-whole-bitch",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:43:58Z",
+    "url": "https://github.com/88plug/be-the-whole-bitch"
+  },
+  {
+    "description": "Drive remote TUIs over SSH + tmux/screen (type-wait-screenshot). Claude Code & Grok plugin skill.",
+    "id": "88plug/drive-remote-terminal",
+    "language": "Python",
+    "name": "88plug/drive-remote-terminal",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:43:44Z",
+    "url": "https://github.com/88plug/drive-remote-terminal"
+  },
+  {
+    "description": "SearXNG search MCP for Claude Code & Grok \u2014 privacy metasearch + page extract for agents.",
+    "id": "88plug/searxng-mcp",
+    "language": "Python",
+    "name": "88plug/searxng-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:43:41Z",
+    "url": "https://github.com/88plug/searxng-mcp"
+  },
+  {
+    "description": "Falsification-first investigation & invention for Claude Code + Grok: hypothesis ledgers, REFUTE-first verification.",
+    "id": "88plug/scientific-method",
+    "language": "Python",
+    "name": "88plug/scientific-method",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:43:37Z",
+    "url": "https://github.com/88plug/scientific-method"
+  },
+  {
+    "description": "Package versions MCP for Claude Code & Grok \u2014 39 registries, 15 tools, safe upgrade pipeline.",
+    "id": "88plug/use-latest-version-mcp",
+    "language": "TypeScript",
+    "name": "88plug/use-latest-version-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:43:35Z",
+    "url": "https://github.com/88plug/use-latest-version-mcp"
+  },
+  {
+    "description": "Ground-first reflex for AI coding agents \u2014 hard-blocks irreversible steps until grounded. Claude Code & Grok.",
+    "id": "88plug/trigger-my-training",
+    "language": "Python",
+    "name": "88plug/trigger-my-training",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:43:32Z",
+    "url": "https://github.com/88plug/trigger-my-training"
+  },
+  {
+    "description": "DeepWiki MCP for Claude Code & Grok \u2014 chat any public GitHub repo docs without cloning.",
+    "id": "88plug/deepwiki",
+    "language": "Python",
+    "name": "88plug/deepwiki",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:43:31Z",
+    "url": "https://github.com/88plug/deepwiki"
+  },
+  {
+    "description": "Claude Code false-positive recovery \u2014 JSONL session repair + framing guards. Claude Code & Grok marketplace.",
+    "id": "88plug/recover-from-false-positive",
+    "language": "Python",
+    "name": "88plug/recover-from-false-positive",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:43:31Z",
+    "url": "https://github.com/88plug/recover-from-false-positive"
+  },
+  {
+    "description": "Context continuity for Claude Code & Grok \u2014 structured handoffs keep agent memory intact across compaction.",
+    "id": "88plug/amnesia",
+    "language": "Shell",
+    "name": "88plug/amnesia",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:43:03Z",
+    "url": "https://github.com/88plug/amnesia"
+  },
+  {
+    "description": "AI architect for GTM and martech. I design and ship production agentic systems for B2B sales and marketing: lead scrapin",
+    "id": "saurabhshuklagrowisto/saurabh-ai-systems",
+    "language": "Python",
+    "name": "saurabhshuklagrowisto/saurabh-ai-systems",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:41:58Z",
+    "url": "https://github.com/saurabhshuklagrowisto/saurabh-ai-systems"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 53,
+    "updated_at": "2026-07-19T09:41:53Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
+    "id": "Mary2241/seo-skills-agent-toolbox",
+    "language": "HTML",
+    "name": "Mary2241/seo-skills-agent-toolbox",
+    "stars": 2,
+    "updated_at": "2026-07-19T09:41:33Z",
+    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
     "stars": 1,
-    "updated_at": "2026-07-19T09:27:18Z",
-    "url": "https://github.com/Neetx/ai-security-research-radar"
+    "updated_at": "2026-07-19T09:40:55Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "AI coding-standard skill for ML/DL research repos \u2014 keeps a fixed architecture intact and enforces uniform structure, na",
+    "id": "SaltGardenia/research-code-skill",
+    "language": "Python",
+    "name": "SaltGardenia/research-code-skill",
+    "stars": 0,
+    "updated_at": "2026-07-19T09:32:12Z",
+    "url": "https://github.com/SaltGardenia/research-code-skill"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +176,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 15,
-    "updated_at": "2026-07-19T09:27:10Z",
+    "updated_at": "2026-07-19T09:30:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
+    "id": "Neetx/ai-security-research-radar",
+    "language": "\u2014",
+    "name": "Neetx/ai-security-research-radar",
+    "stars": 1,
+    "updated_at": "2026-07-19T09:27:18Z",
+    "url": "https://github.com/Neetx/ai-security-research-radar"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -104,7 +275,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 98,
-    "updated_at": "2026-07-19T09:16:05Z",
+    "updated_at": "2026-07-19T09:44:48Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -234,15 +405,6 @@
     "url": "https://github.com/nowork-studio/NotFair"
   },
   {
-    "description": "AI coding-standard skill for ML/DL research repos \u2014 keeps a fixed architecture intact and enforces uniform structure, na",
-    "id": "SaltGardenia/research-code-skill",
-    "language": "Python",
-    "name": "SaltGardenia/research-code-skill",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:49:10Z",
-    "url": "https://github.com/SaltGardenia/research-code-skill"
-  },
-  {
     "description": "Extract a 5-bullet design brief from messy project inputs, with a gap report. A Claude Code skill.",
     "id": "humbleteam/design-brief",
     "language": "\u2014",
@@ -286,167 +448,5 @@
     "stars": 66132,
     "updated_at": "2026-07-19T08:43:32Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "\u7cbe\u8bfb\u5e76\u62c6\u89e3\u5b66\u672f\u8bba\u6587\uff08PDF\uff09\uff0c\u6309\u7c7b\u578b\u81ea\u52a8\u9002\u914d\u6a21\u677f \u2014 Claude Code / agent skill",
-    "id": "LuoHaomin/read-paper",
-    "language": "Shell",
-    "name": "LuoHaomin/read-paper",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:40:50Z",
-    "url": "https://github.com/LuoHaomin/read-paper"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:38:09Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "AI dev infrastructure framework for Claude Code. /dotclaude:bootstrap authors CLAUDE.md + docs/ + .claude/ tuned to your",
-    "id": "vindm/dotclaude",
-    "language": "Shell",
-    "name": "vindm/dotclaude",
-    "stars": 1,
-    "updated_at": "2026-07-19T08:37:21Z",
-    "url": "https://github.com/vindm/dotclaude"
-  },
-  {
-    "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
-    "id": "bitjaru/styleseed",
-    "language": "TypeScript",
-    "name": "bitjaru/styleseed",
-    "stars": 798,
-    "updated_at": "2026-07-19T08:36:37Z",
-    "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-19T08:36:09Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:35:44Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
-    "id": "aaron-he-zhu/aaron-marketing-skills",
-    "language": "Python",
-    "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2418,
-    "updated_at": "2026-07-19T08:32:55Z",
-    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
-  },
-  {
-    "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
-    "id": "domengabrovsek/claude",
-    "language": "Shell",
-    "name": "domengabrovsek/claude",
-    "stars": 14,
-    "updated_at": "2026-07-19T08:32:11Z",
-    "url": "https://github.com/domengabrovsek/claude"
-  },
-  {
-    "description": "Agent Skill that researches, compares, and shortlists hotels with evidence-backed, like-for-like pricing \u2014 prepares the ",
-    "id": "ran-net/hotel-booking-assistant",
-    "language": "Python",
-    "name": "ran-net/hotel-booking-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:31:30Z",
-    "url": "https://github.com/ran-net/hotel-booking-assistant"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:30:44Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "\u4e3a\u957f\u7bc7\u5c0f\u8bf4\u8bbe\u8ba1\u3001\u538b\u6d4b\u5e76\u4fee\u590d\u8fde\u8d2f\u7684\u865a\u6784\u7cfb\u7edf\uff08\u4e16\u754c/\u89d2\u8272/\u4e00\u81f4\u6027\uff09\u2014 Claude Code / agent skill",
-    "id": "LuoHaomin/novel-design-studio",
-    "language": "Python",
-    "name": "LuoHaomin/novel-design-studio",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:27:54Z",
-    "url": "https://github.com/LuoHaomin/novel-design-studio"
-  },
-  {
-    "description": "\u628a PDF \u8bfe\u4ef6/\u8bb2\u4e49/\u6559\u6750\u6574\u7406\u6210\u7ed3\u6784\u5316\u590d\u4e60\u7b14\u8bb0 \u2014 Claude Code / agent skill",
-    "id": "LuoHaomin/study-notes",
-    "language": "Shell",
-    "name": "LuoHaomin/study-notes",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:27:44Z",
-    "url": "https://github.com/LuoHaomin/study-notes"
-  },
-  {
-    "description": "\u6d88\u9664\u4e2d\u6587\u5199\u4f5c\u4e2d\u7684AI\u75d5\u8ff9 \u2014 Claude Code / agent skill",
-    "id": "LuoHaomin/stop-slop-zh",
-    "language": "\u2014",
-    "name": "LuoHaomin/stop-slop-zh",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:27:40Z",
-    "url": "https://github.com/LuoHaomin/stop-slop-zh"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
-    "id": "BENZEMA216/awesome-weread",
-    "language": "JavaScript",
-    "name": "BENZEMA216/awesome-weread",
-    "stars": 46,
-    "updated_at": "2026-07-19T08:26:05Z",
-    "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "A framework-agnostic Roblox/Luau coding standards & best practices skill for AI agents. Features an interactive CLI inst",
-    "id": "andrian-syh/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "andrian-syh/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-07-19T08:26:40Z",
-    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
-  },
-  {
-    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
-    "id": "thepictishbeast/claude-tools",
-    "language": "Rust",
-    "name": "thepictishbeast/claude-tools",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:24:29Z",
-    "url": "https://github.com/thepictishbeast/claude-tools"
-  },
-  {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1561,
-    "updated_at": "2026-07-19T08:23:45Z",
-    "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "\ud83d\udcda \u7ed9\u4e2d\u56fd\u5f8b\u5e08/\u6cd5\u52a1\u7684\u4e00\u7ad9\u5f0f\u5f00\u6e90 AI \u5de5\u5177\u5730\u56fe\uff5c200+ \u4e2a gh \u6838\u9a8c\u5f00\u6e90\u4ed3\u00b7\u6309\u5de5\u4f5c\u573a\u666f\u5206\u7c7b\u00b7\u80fd\u5426\u5546\u7528\u6807\u6ce8\uff5cawesome list",
-    "id": "lilialla/awesome-legal-ai-zh",
-    "language": "Shell",
-    "name": "lilialla/awesome-legal-ai-zh",
-    "stars": 85,
-    "updated_at": "2026-07-19T08:22:34Z",
-    "url": "https://github.com/lilialla/awesome-legal-ai-zh"
   }
 ]
