@@ -1,5 +1,257 @@
 [
   {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-19T07:39:48Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14043,
+    "updated_at": "2026-07-19T07:40:07Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "Curated plugins by 88plug \u2014 install via /plugin marketplace add 88plug/claude-code-plugins",
+    "id": "88plug/claude-code-plugins",
+    "language": "Python",
+    "name": "88plug/claude-code-plugins",
+    "stars": 1,
+    "updated_at": "2026-07-19T07:38:33Z",
+    "url": "https://github.com/88plug/claude-code-plugins"
+  },
+  {
+    "description": "",
+    "id": "Matthewyin/CustomSkills",
+    "language": "TypeScript",
+    "name": "Matthewyin/CustomSkills",
+    "stars": 2,
+    "updated_at": "2026-07-19T07:37:54Z",
+    "url": "https://github.com/Matthewyin/CustomSkills"
+  },
+  {
+    "description": "Ground-first reflex for Claude Code: the agent judges complexity from its own training, grounds before acting, and is ha",
+    "id": "88plug/trigger-my-training",
+    "language": "Python",
+    "name": "88plug/trigger-my-training",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:37:16Z",
+    "url": "https://github.com/88plug/trigger-my-training"
+  },
+  {
+    "description": "Agentic loop skill for building SaaS, DaaS, and AIaaS projects \u2014 as a Senior Software Developer. you would need the cave",
+    "id": "lakreame/build-loop",
+    "language": "\u2014",
+    "name": "lakreame/build-loop",
+    "stars": 1,
+    "updated_at": "2026-07-19T07:37:16Z",
+    "url": "https://github.com/lakreame/build-loop"
+  },
+  {
+    "description": "AI Agent Team scaffold for Claude Code \u2014 19 roles collaborate through stage gates, enforced by mandatory skills + blocki",
+    "id": "pcliangx/AppGenesisForge",
+    "language": "Python",
+    "name": "pcliangx/AppGenesisForge",
+    "stars": 705,
+    "updated_at": "2026-07-19T07:39:48Z",
+    "url": "https://github.com/pcliangx/AppGenesisForge"
+  },
+  {
+    "description": "",
+    "id": "andresnator/agents-orchestrator",
+    "language": "TypeScript",
+    "name": "andresnator/agents-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:34:08Z",
+    "url": "https://github.com/andresnator/agents-orchestrator"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 87779,
+    "updated_at": "2026-07-19T07:34:01Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
+    "id": "thepictishbeast/claude-tools",
+    "language": "Rust",
+    "name": "thepictishbeast/claude-tools",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:33:42Z",
+    "url": "https://github.com/thepictishbeast/claude-tools"
+  },
+  {
+    "description": "Always-current package versions across 39 registries for AI coding assistants \u2014 15 MCP tools incl. a safe scan/optimize/",
+    "id": "88plug/use-latest-version-mcp",
+    "language": "TypeScript",
+    "name": "88plug/use-latest-version-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:32:08Z",
+    "url": "https://github.com/88plug/use-latest-version-mcp"
+  },
+  {
+    "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:32:07Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Fast, token-efficient MCP server for SearXNG with stdio, streamable-http, Docker, and rendered fetch support.",
+    "id": "88plug/searxng-mcp",
+    "language": "Python",
+    "name": "88plug/searxng-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:32:06Z",
+    "url": "https://github.com/88plug/searxng-mcp"
+  },
+  {
+    "description": "Eyes and hands on a Linux Wayland desktop: screenshot, click, type, scroll, drag, read any visible app over xdg-desktop-",
+    "id": "88plug/screen-mcp",
+    "language": "Python",
+    "name": "88plug/screen-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-19T07:32:05Z",
+    "url": "https://github.com/88plug/screen-mcp"
+  },
+  {
+    "description": "Falsification-first investigation + invention workflow for Claude Code: hypothesis ledgers, controlled experiments, REFU",
+    "id": "88plug/scientific-method",
+    "language": "Python",
+    "name": "88plug/scientific-method",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:32:04Z",
+    "url": "https://github.com/88plug/scientific-method"
+  },
+  {
+    "description": "Recover Claude Code sessions after an Anthropic API output-classifier false positive. JSON-aware .jsonl log surgeon: rem",
+    "id": "88plug/recover-from-false-positive",
+    "language": "Python",
+    "name": "88plug/recover-from-false-positive",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:32:03Z",
+    "url": "https://github.com/88plug/recover-from-false-positive"
+  },
+  {
+    "description": "Discover, catalog, and rank everything you've built or sketched on a machine \u2014 two-pass parallel read-only sweep, tiered",
+    "id": "88plug/project-prospector",
+    "language": "Python",
+    "name": "88plug/project-prospector",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:32:02Z",
+    "url": "https://github.com/88plug/project-prospector"
+  },
+  {
+    "description": "The sanctioned OS motor cortex for an agent on a Linux box: control systemd/logind/journald/D-Bus via structured interfa",
+    "id": "88plug/os-control-mcp",
+    "language": "Python",
+    "name": "88plug/os-control-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:32:01Z",
+    "url": "https://github.com/88plug/os-control-mcp"
+  },
+  {
+    "description": "Drive an interactive full-screen TUI on a remote machine over tmux/screen + SSH like a human (type-wait-screenshot-read ",
+    "id": "88plug/drive-remote-terminal",
+    "language": "Python",
+    "name": "88plug/drive-remote-terminal",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:32:00Z",
+    "url": "https://github.com/88plug/drive-remote-terminal"
+  },
+  {
+    "description": "Detects behavioral drift from your Claude output contract and steers it back \u2014 deterministic, dependency-free, 100% accu",
+    "id": "88plug/drift-detector",
+    "language": "Python",
+    "name": "88plug/drift-detector",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:31:59Z",
+    "url": "https://github.com/88plug/drift-detector"
+  },
+  {
+    "description": "Makes AI work like AI \u2014 no human time estimates, no asking for accessible data, no emotional labor.",
+    "id": "88plug/dehumanize",
+    "language": "Shell",
+    "name": "88plug/dehumanize",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:31:58Z",
+    "url": "https://github.com/88plug/dehumanize"
+  },
+  {
+    "description": "Autonomous, hands-free DeepWiki indexing for public repos \u2014 verified trigger + trusted-browser token, as a skill.",
+    "id": "88plug/deepwiki-index",
+    "language": "Python",
+    "name": "88plug/deepwiki-index",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:31:57Z",
+    "url": "https://github.com/88plug/deepwiki-index"
+  },
+  {
+    "description": "DeepWiki wrapper: one-command install for Cognition's hosted DeepWiki MCP. Chat with any GitHub repo's auto-generated do",
+    "id": "88plug/deepwiki",
+    "language": "Python",
+    "name": "88plug/deepwiki",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:31:56Z",
+    "url": "https://github.com/88plug/deepwiki"
+  },
+  {
+    "description": "Enforce full agent authority on reversible work: run commands yourself, never yield instructions back to the operator. S",
+    "id": "88plug/be-the-whole-bitch",
+    "language": "Python",
+    "name": "88plug/be-the-whole-bitch",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:31:54Z",
+    "url": "https://github.com/88plug/be-the-whole-bitch"
+  },
+  {
+    "description": "Seamless context continuity across Claude Code compaction. Captures structured handoff before each compact and re-inject",
+    "id": "88plug/amnesia",
+    "language": "Shell",
+    "name": "88plug/amnesia",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:31:53Z",
+    "url": "https://github.com/88plug/amnesia"
+  },
+  {
+    "description": "Simplify, then add lightness \u2014 a zero-dep Claude Code plugin that removes AI-generated code fat while preserving behavio",
+    "id": "88plug/addlightness",
+    "language": "JavaScript",
+    "name": "88plug/addlightness",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:31:52Z",
+    "url": "https://github.com/88plug/addlightness"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 15,
+    "updated_at": "2026-07-19T07:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:30:01Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
     "id": "Ford-1/postgresql-mcp-connector",
     "language": "HTML",
@@ -18,15 +270,6 @@
     "url": "https://github.com/munexor/seo-opportunity-nexus"
   },
   {
-    "description": "AI Agent Team scaffold for Claude Code \u2014 19 roles collaborate through stage gates, enforced by mandatory skills + blocki",
-    "id": "pcliangx/AppGenesisForge",
-    "language": "Python",
-    "name": "pcliangx/AppGenesisForge",
-    "stars": 705,
-    "updated_at": "2026-07-19T07:28:14Z",
-    "url": "https://github.com/pcliangx/AppGenesisForge"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -34,15 +277,6 @@
     "stars": 53,
     "updated_at": "2026-07-19T07:25:09Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-19T07:24:18Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
@@ -72,15 +306,6 @@
     "url": "https://github.com/askimo-ai/askimo"
   },
   {
-    "description": "Enforce full agent authority on reversible work: run commands yourself, never yield instructions back to the operator. S",
-    "id": "88plug/be-the-whole-bitch",
-    "language": "Python",
-    "name": "88plug/be-the-whole-bitch",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:19:11Z",
-    "url": "https://github.com/88plug/be-the-whole-bitch"
-  },
-  {
     "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
     "id": "inkatze/planwright",
     "language": "Shell",
@@ -88,24 +313,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T07:20:18Z",
     "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "Always-current package versions across 39 registries for AI coding assistants \u2014 15 MCP tools incl. a safe scan/optimize/",
-    "id": "88plug/use-latest-version-mcp",
-    "language": "TypeScript",
-    "name": "88plug/use-latest-version-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:17:02Z",
-    "url": "https://github.com/88plug/use-latest-version-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 15,
-    "updated_at": "2026-07-19T07:15:56Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Access the Claude Mythos AI model through a native desktop application for coding, reasoning, and multimodal assistance.",
@@ -241,212 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T07:04:07Z",
     "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:03:55Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:03:28Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:03:19Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:02:55Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:02:42Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Curated plugins by 88plug \u2014 install via /plugin marketplace add 88plug/claude-code-plugins",
-    "id": "88plug/claude-code-plugins",
-    "language": "Python",
-    "name": "88plug/claude-code-plugins",
-    "stars": 1,
-    "updated_at": "2026-07-19T07:01:40Z",
-    "url": "https://github.com/88plug/claude-code-plugins"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-19T07:01:26Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:01:17Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:01:13Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:01:07Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-19T07:00:36Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Ground-first reflex for Claude Code: the agent judges complexity from its own training, grounds before acting, and is ha",
-    "id": "88plug/trigger-my-training",
-    "language": "Python",
-    "name": "88plug/trigger-my-training",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:19Z",
-    "url": "https://github.com/88plug/trigger-my-training"
-  },
-  {
-    "description": "Cross-session, cross-CLI memory for AI coding assistants. Data-driven operator discovery from your own transcripts. 23 M",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:18Z",
-    "url": "https://github.com/88plug/total-recall"
-  },
-  {
-    "description": "Fast, token-efficient MCP server for SearXNG with stdio, streamable-http, Docker, and rendered fetch support.",
-    "id": "88plug/searxng-mcp",
-    "language": "Python",
-    "name": "88plug/searxng-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:17Z",
-    "url": "https://github.com/88plug/searxng-mcp"
-  },
-  {
-    "description": "Eyes and hands on a Linux Wayland desktop: screenshot, click, type, scroll, drag, read any visible app over xdg-desktop-",
-    "id": "88plug/screen-mcp",
-    "language": "Python",
-    "name": "88plug/screen-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-19T07:00:15Z",
-    "url": "https://github.com/88plug/screen-mcp"
-  },
-  {
-    "description": "Falsification-first investigation + invention workflow for Claude Code: hypothesis ledgers, controlled experiments, REFU",
-    "id": "88plug/scientific-method",
-    "language": "Python",
-    "name": "88plug/scientific-method",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:14Z",
-    "url": "https://github.com/88plug/scientific-method"
-  },
-  {
-    "description": "Recover Claude Code sessions after an Anthropic API output-classifier false positive. JSON-aware .jsonl log surgeon: rem",
-    "id": "88plug/recover-from-false-positive",
-    "language": "Python",
-    "name": "88plug/recover-from-false-positive",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:13Z",
-    "url": "https://github.com/88plug/recover-from-false-positive"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:13Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Discover, catalog, and rank everything you've built or sketched on a machine \u2014 two-pass parallel read-only sweep, tiered",
-    "id": "88plug/project-prospector",
-    "language": "Python",
-    "name": "88plug/project-prospector",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:12Z",
-    "url": "https://github.com/88plug/project-prospector"
-  },
-  {
-    "description": "The sanctioned OS motor cortex for an agent on a Linux box: control systemd/logind/journald/D-Bus via structured interfa",
-    "id": "88plug/os-control-mcp",
-    "language": "Python",
-    "name": "88plug/os-control-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:11Z",
-    "url": "https://github.com/88plug/os-control-mcp"
-  },
-  {
-    "description": "Drive an interactive full-screen TUI on a remote machine over tmux/screen + SSH like a human (type-wait-screenshot-read ",
-    "id": "88plug/drive-remote-terminal",
-    "language": "Python",
-    "name": "88plug/drive-remote-terminal",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:10Z",
-    "url": "https://github.com/88plug/drive-remote-terminal"
-  },
-  {
-    "description": "Detects behavioral drift from your Claude output contract and steers it back \u2014 deterministic, dependency-free, 100% accu",
-    "id": "88plug/drift-detector",
-    "language": "Python",
-    "name": "88plug/drift-detector",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:09Z",
-    "url": "https://github.com/88plug/drift-detector"
-  },
-  {
-    "description": "Makes AI work like AI \u2014 no human time estimates, no asking for accessible data, no emotional labor.",
-    "id": "88plug/dehumanize",
-    "language": "Shell",
-    "name": "88plug/dehumanize",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:00:08Z",
-    "url": "https://github.com/88plug/dehumanize"
   }
 ]
