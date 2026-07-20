@@ -1,5 +1,86 @@
 [
   {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:12:30Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 44,
+    "updated_at": "2026-07-20T01:10:53Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:13:19Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-20T01:06:34Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "AI referee report on your economics paper before a real referee sees it \u2014 an Agent Skill for Claude Code & Codex: verifi",
+    "id": "hanlulong/econ-paper-review-skill",
+    "language": "Python",
+    "name": "hanlulong/econ-paper-review-skill",
+    "stars": 4,
+    "updated_at": "2026-07-20T01:05:22Z",
+    "url": "https://github.com/hanlulong/econ-paper-review-skill"
+  },
+  {
+    "description": "Turn an economics paper into a seminar-ready LaTeX/Beamer talk \u2014 an Agent Skill for Claude Code & Codex: conference, sem",
+    "id": "hanlulong/econ-slides-skill",
+    "language": "TeX",
+    "name": "hanlulong/econ-slides-skill",
+    "stars": 3,
+    "updated_at": "2026-07-20T01:04:09Z",
+    "url": "https://github.com/hanlulong/econ-slides-skill"
+  },
+  {
+    "description": "Claude Code / agent skills for Traditional Chinese (Taiwan) writing, de-AI editing, and business docs, plus English info",
+    "id": "leoluyi/skills",
+    "language": "Python",
+    "name": "leoluyi/skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:02:26Z",
+    "url": "https://github.com/leoluyi/skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:01:55Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T01:00:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -45,15 +126,6 @@
     "url": "https://github.com/reagin/agent-skills"
   },
   {
-    "description": "AI referee report on your economics paper before a real referee sees it \u2014 an Agent Skill for Claude Code & Codex: verifi",
-    "id": "hanlulong/econ-paper-review-skill",
-    "language": "Python",
-    "name": "hanlulong/econ-paper-review-skill",
-    "stars": 4,
-    "updated_at": "2026-07-20T00:40:16Z",
-    "url": "https://github.com/hanlulong/econ-paper-review-skill"
-  },
-  {
     "description": "Personal AI job-search assistant, built as a Claude Skills package on a single GitHub repo. Guided onboarding, persisten",
     "id": "FynePool/job-hunter-template",
     "language": "Python",
@@ -63,15 +135,6 @@
     "url": "https://github.com/FynePool/job-hunter-template"
   },
   {
-    "description": "Turn an economics paper into a seminar-ready LaTeX/Beamer talk \u2014 an Agent Skill for Claude Code & Codex: conference, sem",
-    "id": "hanlulong/econ-slides-skill",
-    "language": "TeX",
-    "name": "hanlulong/econ-slides-skill",
-    "stars": 3,
-    "updated_at": "2026-07-20T00:38:17Z",
-    "url": "https://github.com/hanlulong/econ-slides-skill"
-  },
-  {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
     "id": "xr843/Master-skill",
     "language": "Python",
@@ -79,33 +142,6 @@
     "stars": 308,
     "updated_at": "2026-07-20T00:43:33Z",
     "url": "https://github.com/xr843/Master-skill"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-20T00:57:05Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T00:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 1,
-    "updated_at": "2026-07-20T00:51:50Z",
-    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T23:44:01Z",
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-19T23:43:27Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:41:05Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:38:22Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Ray Fernando's collection of Skill files for AI coding agents. First up: running-bug-review-board, a real-user QA workfl",
-    "id": "RayFernando1337/rayfernando-skills",
-    "language": "Python",
-    "name": "RayFernando1337/rayfernando-skills",
-    "stars": 113,
-    "updated_at": "2026-07-19T23:39:14Z",
-    "url": "https://github.com/RayFernando1337/rayfernando-skills"
   }
 ]
