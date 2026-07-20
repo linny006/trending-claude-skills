@@ -1,11 +1,56 @@
 [
   {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 24,
+    "updated_at": "2026-07-20T10:55:58Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14048,
+    "updated_at": "2026-07-20T10:55:41Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "Outbound sales, autopiloted.",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 1,
+    "updated_at": "2026-07-20T10:51:07Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T10:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Security-audit agent skills before installing: static scanner (~38 rules for prompt injection, exfiltration, credential ",
+    "id": "joshphoenix1/skill-security-audit",
+    "language": "Python",
+    "name": "joshphoenix1/skill-security-audit",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:44:22Z",
+    "url": "https://github.com/joshphoenix1/skill-security-audit"
+  },
+  {
     "description": "Second brain for Forward Deployed Engineers. Engagement memory + 35 skills across 6 domains, all behind one @fde... Work",
     "id": "suboss87/FDEOps",
     "language": "JavaScript",
     "name": "suboss87/FDEOps",
     "stars": 303,
-    "updated_at": "2026-07-20T10:44:10Z",
+    "updated_at": "2026-07-20T10:46:45Z",
     "url": "https://github.com/suboss87/FDEOps"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 393,
-    "updated_at": "2026-07-20T10:35:52Z",
+    "updated_at": "2026-07-20T10:52:10Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T10:31:48Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T10:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "fcakyon/claude-codex-settings",
     "stars": 780,
-    "updated_at": "2026-07-20T10:21:00Z",
+    "updated_at": "2026-07-20T10:51:38Z",
     "url": "https://github.com/fcakyon/claude-codex-settings"
   },
   {
@@ -229,7 +265,7 @@
     "id": "haroontrailblazer/ghost-font-decoder",
     "language": "Python",
     "name": "haroontrailblazer/ghost-font-decoder",
-    "stars": 7,
+    "stars": 9,
     "updated_at": "2026-07-20T09:59:02Z",
     "url": "https://github.com/haroontrailblazer/ghost-font-decoder"
   },
@@ -265,7 +301,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66223,
+    "stars": 66225,
     "updated_at": "2026-07-20T09:54:14Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -410,43 +446,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 99,
-    "updated_at": "2026-07-20T09:42:42Z",
+    "updated_at": "2026-07-20T10:49:36Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Lean personal Claude Code skills pack \u2014 my conventions, task flow, and quality lenses. Requires the superpowers plugin.",
-    "id": "Endika/eskills",
-    "language": "Makefile",
-    "name": "Endika/eskills",
-    "stars": 0,
-    "updated_at": "2026-07-20T09:24:50Z",
-    "url": "https://github.com/Endika/eskills"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
-    "id": "BENZEMA216/awesome-weread",
-    "language": "JavaScript",
-    "name": "BENZEMA216/awesome-weread",
-    "stars": 46,
-    "updated_at": "2026-07-20T09:24:20Z",
-    "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-07-20T09:17:52Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Personal memory across agents",
-    "id": "NevaMind-AI/memU",
-    "language": "Python",
-    "name": "NevaMind-AI/memU",
-    "stars": 14048,
-    "updated_at": "2026-07-20T09:17:37Z",
-    "url": "https://github.com/NevaMind-AI/memU"
   }
 ]
