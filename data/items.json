@@ -1,11 +1,128 @@
 [
   {
+    "description": "Agent Skills for EUDI Wallet and European Business Wallet integrations: credential issuance (OpenID4VCI), verification (",
+    "id": "L3-iGrant/skills",
+    "language": "TypeScript",
+    "name": "L3-iGrant/skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:59:31Z",
+    "url": "https://github.com/L3-iGrant/skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:59:13Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:57:56Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 99,
+    "updated_at": "2026-07-20T19:58:07Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:56:38Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
+    "id": "thepictishbeast/claude-tools",
+    "language": "Rust",
+    "name": "thepictishbeast/claude-tools",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:55:10Z",
+    "url": "https://github.com/thepictishbeast/claude-tools"
+  },
+  {
+    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "id": "ayghri/i-have-adhd",
+    "language": "\u2014",
+    "name": "ayghri/i-have-adhd",
+    "stars": 4857,
+    "updated_at": "2026-07-20T19:52:09Z",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 1,
+    "updated_at": "2026-07-20T19:54:37Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 393,
+    "updated_at": "2026-07-20T19:49:08Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS \u2014 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 1,
+    "updated_at": "2026-07-20T19:47:41Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
+    "id": "nowork-studio/NotFair",
+    "language": "TypeScript",
+    "name": "nowork-studio/NotFair",
+    "stars": 3166,
+    "updated_at": "2026-07-20T19:46:20Z",
+    "url": "https://github.com/nowork-studio/NotFair"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 23,
+    "updated_at": "2026-07-20T19:46:06Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T19:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
     "id": "boshu2/agentops",
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 414,
-    "updated_at": "2026-07-20T19:44:31Z",
+    "updated_at": "2026-07-20T20:00:10Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -16,42 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T19:43:46Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 393,
-    "updated_at": "2026-07-20T19:42:38Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 23,
-    "updated_at": "2026-07-20T19:42:36Z",
-    "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS \u2014 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 1,
-    "updated_at": "2026-07-20T19:41:56Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
-    "id": "nowork-studio/NotFair",
-    "language": "TypeScript",
-    "name": "nowork-studio/NotFair",
-    "stars": 3166,
-    "updated_at": "2026-07-20T19:38:53Z",
-    "url": "https://github.com/nowork-studio/NotFair"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -72,15 +153,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-    "id": "ayghri/i-have-adhd",
-    "language": "\u2014",
-    "name": "ayghri/i-have-adhd",
-    "stars": 4835,
-    "updated_at": "2026-07-20T19:44:57Z",
-    "url": "https://github.com/ayghri/i-have-adhd"
-  },
-  {
     "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
     "id": "fcakyon/claude-codex-settings",
     "language": "Python",
@@ -97,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T19:30:54Z",
     "url": "https://github.com/tkolleh/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T19:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -261,15 +324,6 @@
     "url": "https://github.com/goingli0324/muzi-going-skills"
   },
   {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 1,
-    "updated_at": "2026-07-20T19:45:13Z",
-    "url": "https://github.com/inkatze/planwright"
-  },
-  {
     "description": "Claude skill: \u7cfb\u7d71\u5316\u958b\u767c\u5de5\u4f5c\u6d41 \u2014 research \u2192 plan.md \u2192 implement \u2192 dual verify gates (security + UI/UX) \u2192 deploy, for solo devs m",
     "id": "goingli0324/agentic-dev-loop",
     "language": "\u2014",
@@ -319,18 +373,9 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 31298,
+    "stars": 31299,
     "updated_at": "2026-07-20T19:09:36Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "description": "Agent Skills for EUDI Wallet and European Business Wallet integrations: credential issuance (OpenID4VCI), verification (",
-    "id": "L3-iGrant/skills",
-    "language": "TypeScript",
-    "name": "L3-iGrant/skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T19:04:36Z",
-    "url": "https://github.com/L3-iGrant/skills"
   },
   {
     "description": "Agent skills, 15 original character cards and a calibrated AI-flavor detector for roleplay card authors. Skills run in C",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T18:54:52Z",
     "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:53:59Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:53:52Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Claude skill: AI \u89d2\u8272\u626e\u6f14\u7df4\u7fd2\u5925\u4f34 \u2014 rehearse difficult conversations with AI playing any persona, with structured feedback",
-    "id": "goingli0324/ai-roleplay-practice",
-    "language": "\u2014",
-    "name": "goingli0324/ai-roleplay-practice",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:51:14Z",
-    "url": "https://github.com/goingli0324/ai-roleplay-practice"
-  },
-  {
-    "description": "Claude skill: \u591a\u89d2\u5ea6\u7d44\u968a\u601d\u8003 \u2014 review any decision from four independent thinking angles (critical/creative/communication/inter",
-    "id": "goingli0324/multi-perspective-panel",
-    "language": "\u2014",
-    "name": "goingli0324/multi-perspective-panel",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:50:42Z",
-    "url": "https://github.com/goingli0324/multi-perspective-panel"
-  },
-  {
-    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
-    "id": "aliasunder/agent-plugins",
-    "language": "\u2014",
-    "name": "aliasunder/agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:46:00Z",
-    "url": "https://github.com/aliasunder/agent-plugins"
   }
 ]
