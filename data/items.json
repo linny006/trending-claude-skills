@@ -1,5 +1,41 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 393,
+    "updated_at": "2026-07-20T11:05:42Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
+    "id": "thepictishbeast/claude-tools",
+    "language": "Rust",
+    "name": "thepictishbeast/claude-tools",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:04:55Z",
+    "url": "https://github.com/thepictishbeast/claude-tools"
+  },
+  {
+    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
+    "id": "magnusrodseth/dotfiles",
+    "language": "JavaScript",
+    "name": "magnusrodseth/dotfiles",
+    "stars": 2,
+    "updated_at": "2026-07-20T11:01:41Z",
+    "url": "https://github.com/magnusrodseth/dotfiles"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T11:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
     "id": "eai-org/agent-toolkit",
     "language": "Shell",
@@ -27,15 +63,6 @@
     "url": "https://github.com/aitit-inc/leadace"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T10:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Security-audit agent skills before installing: static scanner (~38 rules for prompt injection, exfiltration, credential ",
     "id": "joshphoenix1/skill-security-audit",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T10:36:43Z",
     "url": "https://github.com/aby-studio-works/garelier"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 393,
-    "updated_at": "2026-07-20T10:52:10Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "\ud83e\udd16 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "fcakyon/claude-codex-settings",
     "stars": 780,
-    "updated_at": "2026-07-20T10:51:38Z",
+    "updated_at": "2026-07-20T11:13:07Z",
     "url": "https://github.com/fcakyon/claude-codex-settings"
   },
   {
@@ -301,7 +319,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66225,
+    "stars": 66228,
     "updated_at": "2026-07-20T09:54:14Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -356,7 +374,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-20T09:48:52Z",
+    "updated_at": "2026-07-20T11:11:39Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -409,7 +427,7 @@
     "id": "aaron-he-zhu/aaron-marketing-skills",
     "language": "Python",
     "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2423,
+    "stars": 2424,
     "updated_at": "2026-07-20T09:33:39Z",
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-20T09:29:05Z",
     "url": "https://github.com/stealth-engine/skills"
-  },
-  {
-    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
-    "id": "chenweil/skillcaddy",
-    "language": "JavaScript",
-    "name": "chenweil/skillcaddy",
-    "stars": 16,
-    "updated_at": "2026-07-20T09:27:18Z",
-    "url": "https://github.com/chenweil/skillcaddy"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 99,
-    "updated_at": "2026-07-20T10:49:36Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   }
 ]
