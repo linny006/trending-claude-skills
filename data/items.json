@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udde0 Curated skills for software development and automation",
+    "id": "sureshg/skills",
+    "language": "Shell",
+    "name": "sureshg/skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T02:29:50Z",
+    "url": "https://github.com/sureshg/skills"
+  },
+  {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "HTML",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 0,
+    "updated_at": "2026-07-20T02:29:57Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment\u2014not one fixe",
+    "id": "bitjaru/styleseed",
+    "language": "TypeScript",
+    "name": "bitjaru/styleseed",
+    "stars": 803,
+    "updated_at": "2026-07-20T02:26:33Z",
+    "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 1,
+    "updated_at": "2026-07-20T02:23:23Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T02:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -70,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T02:00:29Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T02:00:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI Client for chat, RAG, plans, MCP tools, and agents with multi-provider model support. ",
@@ -252,15 +288,6 @@
     "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 1,
-    "updated_at": "2026-07-20T01:48:56Z",
-    "url": "https://github.com/inkatze/planwright"
-  },
-  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -295,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T00:51:18Z",
     "url": "https://github.com/merge-api/merge-unified-skills"
-  },
-  {
-    "description": "Design engine for Claude Code, Codex & Cursor \u2014 teaches design judgment, not just data. 74 rules, 48 components, 7 brand",
-    "id": "bitjaru/styleseed",
-    "language": "TypeScript",
-    "name": "bitjaru/styleseed",
-    "stars": 803,
-    "updated_at": "2026-07-20T00:48:28Z",
-    "url": "https://github.com/bitjaru/styleseed"
   },
   {
     "description": "\ud83e\udde0 A portable home for reusable AI agent skills shared across Codex and Claude Code\u2014single-source, validation-first, and ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T00:04:27Z",
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:03:13Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:02:45Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   }
 ]
