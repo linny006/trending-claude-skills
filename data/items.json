@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claude skill: \u7cfb\u7d71\u5316\u958b\u767c\u5de5\u4f5c\u6d41 \u2014 research \u2192 plan.md \u2192 implement \u2192 dual verify gates (security + UI/UX) \u2192 deploy, for solo devs m",
+    "id": "goingli0324/agentic-dev-loop",
+    "language": "\u2014",
+    "name": "goingli0324/agentic-dev-loop",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:14:49Z",
+    "url": "https://github.com/goingli0324/agentic-dev-loop"
+  },
+  {
+    "description": "Every shortcut your coding agent takes, saved to your repo as it happens. Fix them when you're ready.",
+    "id": "bcanfield/agentic-tech-debt",
+    "language": "Python",
+    "name": "bcanfield/agentic-tech-debt",
+    "stars": 9,
+    "updated_at": "2026-07-20T19:14:41Z",
+    "url": "https://github.com/bcanfield/agentic-tech-debt"
+  },
+  {
+    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
+    "id": "fcakyon/claude-codex-settings",
+    "language": "Python",
+    "name": "fcakyon/claude-codex-settings",
+    "stars": 780,
+    "updated_at": "2026-07-20T19:14:35Z",
+    "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "description": "Claude skill: \u90e8\u7f72\u524d UI/UX \u7e3d\u9ad4\u6aa2 \u2014 pre-deploy UI/UX review against 20 principles (Nielsen heuristics + interaction laws + acc",
+    "id": "goingli0324/ui-ux-deploy-reviewer",
+    "language": "\u2014",
+    "name": "goingli0324/ui-ux-deploy-reviewer",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:14:09Z",
+    "url": "https://github.com/goingli0324/ui-ux-deploy-reviewer"
+  },
+  {
+    "description": "Claude skill: \u9023\u52d5\u7981\u5340\u9632\u8b77 \u2014 analyze a codebase for 'change A, break B' high-risk zones and write guardrails into CLAUDE.md",
+    "id": "goingli0324/project-guardrails",
+    "language": "\u2014",
+    "name": "goingli0324/project-guardrails",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:13:05Z",
+    "url": "https://github.com/goingli0324/project-guardrails"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:11:54Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. ",
+    "id": "K-Dense-AI/scientific-agent-skills",
+    "language": "Python",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "stars": 31298,
+    "updated_at": "2026-07-20T19:09:36Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T19:06:36Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills for EUDI Wallet and European Business Wallet integrations: credential issuance (OpenID4VCI), verification (",
     "id": "L3-iGrant/skills",
     "language": "TypeScript",
@@ -16,15 +88,6 @@
     "stars": 393,
     "updated_at": "2026-07-20T19:03:40Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T19:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skills, 15 original character cards and a calibrated AI-flavor detector for roleplay card authors. Skills run in C",
@@ -94,7 +157,7 @@
     "id": "askimo-ai/askimo",
     "language": "Kotlin",
     "name": "askimo-ai/askimo",
-    "stars": 229,
+    "stars": 230,
     "updated_at": "2026-07-20T18:56:04Z",
     "url": "https://github.com/askimo-ai/askimo"
   },
@@ -162,15 +225,6 @@
     "url": "https://github.com/goingli0324/multi-perspective-panel"
   },
   {
-    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
-    "id": "fcakyon/claude-codex-settings",
-    "language": "Python",
-    "name": "fcakyon/claude-codex-settings",
-    "stars": 780,
-    "updated_at": "2026-07-20T18:54:58Z",
-    "url": "https://github.com/fcakyon/claude-codex-settings"
-  },
-  {
     "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
     "id": "aliasunder/agent-plugins",
     "language": "\u2014",
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "vast-ai/vast-cli",
     "stars": 206,
-    "updated_at": "2026-07-20T18:40:36Z",
+    "updated_at": "2026-07-20T19:09:33Z",
     "url": "https://github.com/vast-ai/vast-cli"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-20T19:01:07Z",
+    "updated_at": "2026-07-20T19:15:00Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T18:09:26Z",
     "url": "https://github.com/valentil/featureboard-mcp"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:09:14Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:08:36Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-20T18:07:59Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Claude Code & Codex skills for AI reports, decks and client sharing: publish agent-made research as live tracked web rep",
-    "id": "dashaworks/report-skills",
-    "language": "\u2014",
-    "name": "dashaworks/report-skills",
-    "stars": 4,
-    "updated_at": "2026-07-20T18:07:33Z",
-    "url": "https://github.com/dashaworks/report-skills"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:05:49Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Portable Agent Skills (SKILL.md) for Claude Code, OpenAI Codex, and other AI coding agents",
-    "id": "mdorf/agent-skills",
-    "language": "Shell",
-    "name": "mdorf/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:04:02Z",
-    "url": "https://github.com/mdorf/agent-skills"
   }
 ]
