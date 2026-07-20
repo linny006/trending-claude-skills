@@ -1,5 +1,59 @@
 [
   {
+    "description": "",
+    "id": "Rushil1507/DSA-Visualiser-Claude-Skill",
+    "language": "\u2014",
+    "name": "Rushil1507/DSA-Visualiser-Claude-Skill",
+    "stars": 11,
+    "updated_at": "2026-07-20T09:11:10Z",
+    "url": "https://github.com/Rushil1507/DSA-Visualiser-Claude-Skill"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot. And, support for OpenCode is also plan",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-20T09:04:12Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/cli",
+    "language": "TypeScript",
+    "name": "agents-inc/cli",
+    "stars": 5,
+    "updated_at": "2026-07-20T09:02:52Z",
+    "url": "https://github.com/agents-inc/cli"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 393,
+    "updated_at": "2026-07-20T09:02:04Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "\ud83e\udde0 A portable home for reusable AI agent skills shared across Codex and Claude Code\u2014single-source, validation-first, and ",
+    "id": "reagin/agent-skills",
+    "language": "Python",
+    "name": "reagin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:01:06Z",
+    "url": "https://github.com/reagin/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T09:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills for improve AI prototype driven development",
     "id": "YasuakiOmokawa/skills",
     "language": "Shell",
@@ -58,7 +112,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 87916,
+    "stars": 87918,
     "updated_at": "2026-07-20T08:53:02Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -106,24 +160,6 @@
     "stars": 14,
     "updated_at": "2026-07-20T08:45:54Z",
     "url": "https://github.com/a-tokyo/agent-skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 393,
-    "updated_at": "2026-07-20T08:45:24Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T08:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -247,18 +283,9 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 75263,
+    "stars": 75268,
     "updated_at": "2026-07-20T08:26:07Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
-  },
-  {
-    "description": "\ud83e\udde0 A portable home for reusable AI agent skills shared across Codex and Claude Code\u2014single-source, validation-first, and ",
-    "id": "reagin/agent-skills",
-    "language": "Python",
-    "name": "reagin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T08:25:27Z",
-    "url": "https://github.com/reagin/agent-skills"
   },
   {
     "description": "My personal agent skill repository, primarily focused on game development.",
@@ -338,7 +365,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 99,
-    "updated_at": "2026-07-20T08:42:41Z",
+    "updated_at": "2026-07-20T09:10:03Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 806,
     "updated_at": "2026-07-20T07:50:37Z",
     "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
-    "description": "Personal memory across agents",
-    "id": "NevaMind-AI/memU",
-    "language": "Python",
-    "name": "NevaMind-AI/memU",
-    "stars": 14050,
-    "updated_at": "2026-07-20T07:48:23Z",
-    "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:47:54Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 1921,
-    "updated_at": "2026-07-20T07:47:29Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   }
 ]
