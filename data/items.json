@@ -1,12 +1,102 @@
 [
   {
+    "description": "A framework for evaluating AI coding agents and their skills with sandboxing, reproducibility, and data-driven analysis.",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 103,
+    "updated_at": "2026-07-20T17:44:05Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
     "description": "Governed Claude Agent Skills for engineering delivery maturity analysis: deterministic KPIs, rule-based pattern detectio",
     "id": "kamkate/dev-team-maturity-performance-skills",
     "language": "\u2014",
     "name": "kamkate/dev-team-maturity-performance-skills",
     "stars": 0,
-    "updated_at": "2026-07-20T17:29:07Z",
+    "updated_at": "2026-07-20T17:42:28Z",
     "url": "https://github.com/kamkate/dev-team-maturity-performance-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 280,
+    "updated_at": "2026-07-20T17:40:01Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
+    "id": "longsizhuo/openInvest",
+    "language": "Python",
+    "name": "longsizhuo/openInvest",
+    "stars": 65,
+    "updated_at": "2026-07-20T17:40:01Z",
+    "url": "https://github.com/longsizhuo/openInvest"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 24,
+    "updated_at": "2026-07-20T17:37:33Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
+    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 7,
+    "updated_at": "2026-07-20T17:32:46Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Business registry data skills for AI agents - KYC/AML, credit risk, property, compliance, lead gen across 24 actors (Eur",
+    "id": "Nolpak14/getregdata",
+    "language": "JavaScript",
+    "name": "Nolpak14/getregdata",
+    "stars": 4,
+    "updated_at": "2026-07-20T17:32:14Z",
+    "url": "https://github.com/Nolpak14/getregdata"
+  },
+  {
+    "description": "\u80fd\u505a\u5417\uff1f\u52c7\u54e5\uff5c\u62cd\u95e8\u59343\u5206\u949f\u9a82\u9192\u4f60\u3002\u9a8c\u94fa\u884c\u5211\u961f\u00b7\u529d\u9000\u5929\u82b1\u677f\u00b7\u52c7\u54e5\u8bf4\u505a\u4e0d\u4e86",
+    "id": "turnerzhan/nengzuoma-yongge",
+    "language": "Python",
+    "name": "turnerzhan/nengzuoma-yongge",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:30:44Z",
+    "url": "https://github.com/turnerzhan/nengzuoma-yongge"
+  },
+  {
+    "description": "Reconstruct a full flight itinerary from unordered segments \u2014 Go/Echo REST API with Swagger, fuzzing, Newman E2E, cosign",
+    "id": "AndriyKalashnykov/flight-path",
+    "language": "Python",
+    "name": "AndriyKalashnykov/flight-path",
+    "stars": 1,
+    "updated_at": "2026-07-20T17:30:25Z",
+    "url": "https://github.com/AndriyKalashnykov/flight-path"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T17:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:30:02Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
     "description": "ADD - LOOP SKILL for AI Coding Agent",
@@ -16,15 +106,6 @@
     "stars": 18,
     "updated_at": "2026-07-20T17:28:05Z",
     "url": "https://github.com/pilotspace/ADD"
-  },
-  {
-    "description": "\u80fd\u505a\u5417\uff1f\u52c7\u54e5\uff5c\u62cd\u95e8\u59343\u5206\u949f\u9a82\u9192\u4f60\u3002\u9a8c\u94fa\u884c\u5211\u961f\u00b7\u529d\u9000\u5929\u82b1\u677f\u00b7\u52c7\u54e5\u8bf4\u505a\u4e0d\u4e86",
-    "id": "turnerzhan/nengzuoma-yongge",
-    "language": "Python",
-    "name": "turnerzhan/nengzuoma-yongge",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:27:11Z",
-    "url": "https://github.com/turnerzhan/nengzuoma-yongge"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -90,24 +171,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "Reconstruct a full flight itinerary from unordered segments \u2014 Go/Echo REST API with Swagger, fuzzing, Newman E2E, cosign",
-    "id": "AndriyKalashnykov/flight-path",
-    "language": "Python",
-    "name": "AndriyKalashnykov/flight-path",
-    "stars": 1,
-    "updated_at": "2026-07-20T17:25:03Z",
-    "url": "https://github.com/AndriyKalashnykov/flight-path"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T17:15:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
     "id": "Mary2241/seo-skills-agent-toolbox",
     "language": "HTML",
@@ -144,15 +207,6 @@
     "url": "https://github.com/crypdick/pynchy"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 280,
-    "updated_at": "2026-07-20T17:12:53Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Give AI agents motion vision, decode hidden messages inside random-dot \u201cghost font\u201d videos.",
     "id": "haroontrailblazer/ghost-font-decoder",
     "language": "Python",
@@ -185,7 +239,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-20T17:09:34Z",
+    "updated_at": "2026-07-20T17:44:21Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -266,17 +320,8 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-20T17:14:45Z",
+    "updated_at": "2026-07-20T17:44:20Z",
     "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "Business registry data skills for AI agents - KYC/AML, credit risk, property, compliance, lead gen across 24 actors (Eur",
-    "id": "Nolpak14/getregdata",
-    "language": "JavaScript",
-    "name": "Nolpak14/getregdata",
-    "stars": 4,
-    "updated_at": "2026-07-20T16:45:25Z",
-    "url": "https://github.com/Nolpak14/getregdata"
   },
   {
     "description": "Agent Skills for EUDI Wallet and European Business Wallet integrations: credential issuance (OpenID4VCI), verification (",
@@ -364,7 +409,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 87975,
+    "stars": 87976,
     "updated_at": "2026-07-20T16:32:51Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T16:29:03Z",
     "url": "https://github.com/Idadabhai/directory-map"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:27:32Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
-    "id": "longsizhuo/openInvest",
-    "language": "Python",
-    "name": "longsizhuo/openInvest",
-    "stars": 65,
-    "updated_at": "2026-07-20T16:27:03Z",
-    "url": "https://github.com/longsizhuo/openInvest"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:26:05Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:25:55Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "The AI skill to manipulate books in fb2 format",
-    "id": "nikolaygekht/fb2-skill",
-    "language": "Python",
-    "name": "nikolaygekht/fb2-skill",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:25:29Z",
-    "url": "https://github.com/nikolaygekht/fb2-skill"
   }
 ]
