@@ -1,5 +1,104 @@
 [
   {
+    "description": "\uae34 \ubcf4\uace0\uc11c\ub97c \uc815\ucc45\ube0c\ub9ac\ud504\u00b7\uc694\uc57d\ubcf8(1~8p)\uc73c\ub85c \uc555\ucd95\ud558\ub294 Claude Code \uc2a4\ud0ac \u2014 \ub450\uad04\uc2dd\u00b7\uc790\ub9bd\uc131\u00b7\uadfc\uac70\ubcf4\uc874, 3\ucd95 \uc555\ucd95\uac80\uc218\ub85c \uc694\uc57d \ud658\uac01 \ucc28\ub2e8 | Compresses long reports into standalone",
+    "id": "parkjui92/report-to-brief",
+    "language": "\u2014",
+    "name": "parkjui92/report-to-brief",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:27:28Z",
+    "url": "https://github.com/parkjui92/report-to-brief"
+  },
+  {
+    "description": "\ud55c\uad6d\uc5b4 \ud559\uc220\ub17c\ubb38 \uad50\uc815\uad50\uc5f4 Claude Code \uc2a4\ud0ac \u2014 \uccad\ud06c \uc21c\ucc28 \uc810\uac80, 4\ucd95(\ud45c\uae30\u00b7\ubb38\uc7a5\u00b7\ub17c\ub9ac\u00b7\uc778\uc6a9), \uc11c\uc9c0 \uc2e4\uc7ac \uac80\uc99d\uc73c\ub85c \ud658\uac01 \ucd9c\ucc98 \ud50c\ub798\uadf8 | Korean academic proofreading with citat",
+    "id": "parkjui92/paper-proofread",
+    "language": "\u2014",
+    "name": "parkjui92/paper-proofread",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:27:26Z",
+    "url": "https://github.com/parkjui92/paper-proofread"
+  },
+  {
+    "description": "\uae30\uad00 \uc591\uc2dd \uc0d8\ud50c\uc744 \ub123\uc73c\uba74 \uadf8 \ud2c0\ub300\ub85c \uc0c8 \ubb38\uc11c\ub97c \ub9cc\ub4e4\uc5b4 \uc8fc\ub294 Claude Code \uc2a4\ud0ac \u2014 learn-from-sample, \ucda9\uc2e4\ub3c4 \uc810\uac80 \ub0b4\uc7a5, \ub3c5\uc810 \ud15c\ud50c\ub9bf \ubbf8\ud0d1\uc7ac | Reproduces YOUR document fo",
+    "id": "parkjui92/form-tailor",
+    "language": "\u2014",
+    "name": "parkjui92/form-tailor",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:27:25Z",
+    "url": "https://github.com/parkjui92/form-tailor"
+  },
+  {
+    "description": "AI \uc870\uc0ac \uacb0\uacfc\uc758 \ucd9c\ucc98\ub97c \ubbff\uae30 \uc804\uc5d0 \uac80\uc99d\ud558\ub294 Claude Code \uc2a4\ud0ac \u2014 4-Tier \ubd84\ub958\u00b7\uc7ac\uc778\uc6a9 \uccb4\uc778 \uac10\uc9c0\u00b7URL/DOI \uc2e4\uc874 \ud655\uc778\u00b7\ud55c\uad6d \ud559\uc220DB(KCI\u00b7RISS\u00b7NKIS) \ub300\uc751 | Source-verificat",
+    "id": "parkjui92/fact-verify",
+    "language": "\u2014",
+    "name": "parkjui92/fact-verify",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:27:23Z",
+    "url": "https://github.com/parkjui92/fact-verify"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 393,
+    "updated_at": "2026-07-20T12:26:09Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "An agent skills marketplace from Narrative I/O \u2014 interactive, AI-powered slash-command workflows for the recurring work ",
+    "id": "narrative-io/narrative-skills-marketplace",
+    "language": "Go Template",
+    "name": "narrative-io/narrative-skills-marketplace",
+    "stars": 7,
+    "updated_at": "2026-07-20T12:26:07Z",
+    "url": "https://github.com/narrative-io/narrative-skills-marketplace"
+  },
+  {
+    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
+    "id": "glitchwerks/claude-wayfinder",
+    "language": "Python",
+    "name": "glitchwerks/claude-wayfinder",
+    "stars": 2,
+    "updated_at": "2026-07-20T12:21:34Z",
+    "url": "https://github.com/glitchwerks/claude-wayfinder"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 99,
+    "updated_at": "2026-07-20T12:20:34Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-20T12:15:33Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T12:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-20T12:15:01Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -16,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T12:12:44Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-20T12:12:33Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -115,15 +205,6 @@
     "stars": 819,
     "updated_at": "2026-07-20T12:02:46Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T12:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open, MIT-licensed food & nutrition science research skills for Claude Code, Codex, and MiniMax Agent \u2014 multi-agent lite",
@@ -315,15 +396,6 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 99,
-    "updated_at": "2026-07-20T12:04:00Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -340,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T11:25:21Z",
     "url": "https://github.com/YasuakiOmokawa/skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 393,
-    "updated_at": "2026-07-20T12:00:34Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders \u2014 the ",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T11:19:30Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-20T11:19:00Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 1,
-    "updated_at": "2026-07-20T11:15:42Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-07-20T11:14:29Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-20T11:13:09Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
-    "id": "thepictishbeast/claude-tools",
-    "language": "Rust",
-    "name": "thepictishbeast/claude-tools",
-    "stars": 0,
-    "updated_at": "2026-07-20T11:04:55Z",
-    "url": "https://github.com/thepictishbeast/claude-tools"
-  },
-  {
-    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
-    "id": "magnusrodseth/dotfiles",
-    "language": "JavaScript",
-    "name": "magnusrodseth/dotfiles",
-    "stars": 2,
-    "updated_at": "2026-07-20T11:01:41Z",
-    "url": "https://github.com/magnusrodseth/dotfiles"
-  },
-  {
-    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
-    "id": "eai-org/agent-toolkit",
-    "language": "Shell",
-    "name": "eai-org/agent-toolkit",
-    "stars": 24,
-    "updated_at": "2026-07-20T10:55:58Z",
-    "url": "https://github.com/eai-org/agent-toolkit"
   }
 ]
