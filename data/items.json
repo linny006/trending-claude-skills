@@ -1,12 +1,21 @@
 [
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 393,
-    "updated_at": "2026-07-20T03:29:40Z",
-    "url": "https://github.com/aiskillstore/marketplace"
+    "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
+    "id": "valentil/featureboard-mcp",
+    "language": "JavaScript",
+    "name": "valentil/featureboard-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-20T03:42:09Z",
+    "url": "https://github.com/valentil/featureboard-mcp"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 0,
+    "updated_at": "2026-07-20T03:40:50Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
     "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
@@ -14,17 +23,89 @@
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
     "stars": 408,
-    "updated_at": "2026-07-20T03:26:44Z",
+    "updated_at": "2026-07-20T03:39:11Z",
     "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
-    "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
-    "id": "valentil/featureboard-mcp",
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14049,
+    "updated_at": "2026-07-20T03:38:08Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-20T03:37:15Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Claude Code slash commands   that force one-sentence or one-paragraph answers \u2014 brevity as a   hard constraint, not a su",
+    "id": "louixs/onebreath",
     "language": "JavaScript",
-    "name": "valentil/featureboard-mcp",
+    "name": "louixs/onebreath",
     "stars": 1,
-    "updated_at": "2026-07-20T03:25:15Z",
-    "url": "https://github.com/valentil/featureboard-mcp"
+    "updated_at": "2026-07-20T03:36:22Z",
+    "url": "https://github.com/louixs/onebreath"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-07-20T03:36:21Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "agent-skills,Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
+    "id": "yugef3h/leo-skills",
+    "language": "\u2014",
+    "name": "yugef3h/leo-skills",
+    "stars": 11,
+    "updated_at": "2026-07-20T03:34:57Z",
+    "url": "https://github.com/yugef3h/leo-skills"
+  },
+  {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-20T03:34:27Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
+  },
+  {
+    "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
+    "id": "nowork-studio/NotFair",
+    "language": "TypeScript",
+    "name": "nowork-studio/NotFair",
+    "stars": 3160,
+    "updated_at": "2026-07-20T03:32:32Z",
+    "url": "https://github.com/nowork-studio/NotFair"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-20T03:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 393,
+    "updated_at": "2026-07-20T03:29:40Z",
+    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T03:23:25Z",
     "url": "https://github.com/Alexxiang2008/awesome-skills-map"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-20T03:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
@@ -194,7 +266,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-20T03:28:11Z",
+    "updated_at": "2026-07-20T03:37:47Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -306,15 +378,6 @@
     "url": "https://github.com/johanthoren/jeff"
   },
   {
-    "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
-    "id": "nowork-studio/NotFair",
-    "language": "TypeScript",
-    "name": "nowork-studio/NotFair",
-    "stars": 3159,
-    "updated_at": "2026-07-20T01:32:42Z",
-    "url": "https://github.com/nowork-studio/NotFair"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -383,70 +446,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-20T03:26:16Z",
+    "updated_at": "2026-07-20T03:37:03Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-20T01:15:24Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-07-20T01:12:30Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "Python",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 44,
-    "updated_at": "2026-07-20T01:10:53Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-20T01:01:55Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-20T00:59:26Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Persistent memory layer for Claude Code \u2014 Obsidian vault health, connection discovery, brain dump, session notes, email ",
-    "id": "jojoprison/mnemo",
-    "language": "Python",
-    "name": "jojoprison/mnemo",
-    "stars": 6,
-    "updated_at": "2026-07-20T00:52:52Z",
-    "url": "https://github.com/jojoprison/mnemo"
-  },
-  {
-    "description": "Claude Code skills for the Merge Unified API",
-    "id": "merge-api/merge-unified-skills",
-    "language": "Shell",
-    "name": "merge-api/merge-unified-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:51:18Z",
-    "url": "https://github.com/merge-api/merge-unified-skills"
   }
 ]
