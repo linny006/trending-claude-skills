@@ -1,5 +1,104 @@
 [
   {
+    "description": "Claude Code skill that escalates blocked web fetches (WebFetch -> Jina Reader -> Firecrawl -> your browser) so primary s",
+    "id": "belschak/web-research-cascade",
+    "language": "Python",
+    "name": "belschak/web-research-cascade",
+    "stars": 1,
+    "updated_at": "2026-07-21T09:12:03Z",
+    "url": "https://github.com/belschak/web-research-cascade"
+  },
+  {
+    "description": "A Claude Code / agent skill that reads third-party code for red flags before you install it. Six-phase read-only audit, ",
+    "id": "belschak/repo-audit",
+    "language": "HTML",
+    "name": "belschak/repo-audit",
+    "stars": 1,
+    "updated_at": "2026-07-21T09:12:01Z",
+    "url": "https://github.com/belschak/repo-audit"
+  },
+  {
+    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "id": "gagip/gagip-dev",
+    "language": "Python",
+    "name": "gagip/gagip-dev",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:10:54Z",
+    "url": "https://github.com/gagip/gagip-dev"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 23,
+    "updated_at": "2026-07-21T09:09:58Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "",
+    "id": "naveedharri/benai-skills",
+    "language": "JavaScript",
+    "name": "naveedharri/benai-skills",
+    "stars": 40,
+    "updated_at": "2026-07-21T09:07:08Z",
+    "url": "https://github.com/naveedharri/benai-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:05:35Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Durable, repo-native project memory for coding agents\u2014without context bloat.",
+    "id": "waittim/MemoryCustodian",
+    "language": "Python",
+    "name": "waittim/MemoryCustodian",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:05:33Z",
+    "url": "https://github.com/waittim/MemoryCustodian"
+  },
+  {
+    "description": "Claude Code plugin that takes a Linear ticket from spec to pull request: implements, loops until lint and tests pass, as",
+    "id": "kartikmehta8/linear-to-pr",
+    "language": "Shell",
+    "name": "kartikmehta8/linear-to-pr",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:05:29Z",
+    "url": "https://github.com/kartikmehta8/linear-to-pr"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:03:43Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 17,
+    "updated_at": "2026-07-21T09:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Created to support my ADHD, probably useful for everyone. Always-on Claude Code working-mode skill that helps you stay i",
+    "id": "dlectronique/adhd-mode-marketplace",
+    "language": "\u2014",
+    "name": "dlectronique/adhd-mode-marketplace",
+    "stars": 0,
+    "updated_at": "2026-07-21T08:59:07Z",
+    "url": "https://github.com/dlectronique/adhd-mode-marketplace"
+  },
+  {
     "description": "Agent skill + spectrograph 7-layer human analysis for Grok \u00b7 Claude \u00b7 Hermes. Independent OSS toward Physical AI.",
     "id": "YangKangSung/kampff-skills",
     "language": "Python",
@@ -27,6 +126,15 @@
     "url": "https://github.com/tonylofgren/aurora-smart-home"
   },
   {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66295,
+    "updated_at": "2026-07-21T09:13:43Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "A coherent, opinionated toolkit for documentation-driven development with twin-model adversarial checks.",
     "id": "supermodo/skills",
     "language": "TypeScript",
@@ -34,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T08:50:41Z",
     "url": "https://github.com/supermodo/skills"
-  },
-  {
-    "description": "Created to support my ADHD, probably useful for everyone. Always-on Claude Code working-mode skill that helps you stay i",
-    "id": "dlectronique/adhd-mode-marketplace",
-    "language": "\u2014",
-    "name": "dlectronique/adhd-mode-marketplace",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:59:07Z",
-    "url": "https://github.com/dlectronique/adhd-mode-marketplace"
   },
   {
     "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
@@ -61,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T08:47:16Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66294,
-    "updated_at": "2026-07-21T08:53:07Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 17,
-    "updated_at": "2026-07-21T08:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -104,7 +185,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 99,
-    "updated_at": "2026-07-21T08:56:27Z",
+    "updated_at": "2026-07-21T09:14:43Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T08:43:11Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "An agent skill that gives your coding agents a project memory.",
-    "id": "waittim/MemoryCustodian",
-    "language": "Python",
-    "name": "waittim/MemoryCustodian",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:43:09Z",
-    "url": "https://github.com/waittim/MemoryCustodian"
   },
   {
     "description": "Portable personal-memory system for AI agents (Claude Code). Markdown + git. Skills for memory, lists, daily check-ins, ",
@@ -178,15 +250,6 @@
     "stars": 1200,
     "updated_at": "2026-07-21T08:41:22Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 23,
-    "updated_at": "2026-07-21T08:39:20Z",
-    "url": "https://github.com/Borda/AI-Rig"
   },
   {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -239,7 +302,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-21T08:29:57Z",
+    "updated_at": "2026-07-21T09:02:59Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T08:10:04Z",
     "url": "https://github.com/alexpilotto/splitlaunch-dev"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:09:14Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "13 agent skills distilled from Wheeler & Meyerson's Designing Brand Identity (6e) \u2014 fundamentals, the 10 ideals, brandma",
-    "id": "jpoindexter/brand-identity-skills",
-    "language": "Shell",
-    "name": "jpoindexter/brand-identity-skills",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:09:09Z",
-    "url": "https://github.com/jpoindexter/brand-identity-skills"
-  },
-  {
-    "description": "The code is not the asset anymore. Your decisions are; the code is regenerated from them. X2 puts the rules that must al",
-    "id": "teklabsdigital/x2-method",
-    "language": "C#",
-    "name": "teklabsdigital/x2-method",
-    "stars": 13,
-    "updated_at": "2026-07-21T08:07:13Z",
-    "url": "https://github.com/teklabsdigital/x2-method"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:05:42Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-21T08:05:09Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 63,
-    "updated_at": "2026-07-21T08:03:04Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-21T07:59:23Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
