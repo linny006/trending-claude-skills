@@ -1,5 +1,104 @@
 [
   {
+    "description": "Data prep toolkit for finance & ops: extract, tidy, reconcile, analyse, visualise \u2014 powered by deterministic engines for",
+    "id": "moonlight-lupin/data-toolkit",
+    "language": "Python",
+    "name": "moonlight-lupin/data-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:12:10Z",
+    "url": "https://github.com/moonlight-lupin/data-toolkit"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
+    "language": "Python",
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 493,
+    "updated_at": "2026-07-21T15:11:31Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-07-21T15:09:40Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:09:08Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:08:52Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:07:16Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 1,
+    "updated_at": "2026-07-21T15:07:03Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:06:40Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:06:22Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "The first credit line for agents. Let your agent borrow & repay credit, using Aave.",
+    "id": "aaronjmars/agent-credit",
+    "language": "Shell",
+    "name": "aaronjmars/agent-credit",
+    "stars": 25,
+    "updated_at": "2026-07-21T15:05:55Z",
+    "url": "https://github.com/aaronjmars/agent-credit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-21T15:04:44Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
     "id": "molefrog/moi",
     "language": "TypeScript",
@@ -9,13 +108,22 @@
     "url": "https://github.com/molefrog/moi"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul.",
+    "id": "aeonfun/soul.md",
+    "language": "JavaScript",
+    "name": "aeonfun/soul.md",
+    "stars": 620,
+    "updated_at": "2026-07-21T15:00:44Z",
+    "url": "https://github.com/aeonfun/soul.md"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-21T15:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 4,
+    "updated_at": "2026-07-21T15:12:24Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -113,7 +221,7 @@
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
     "stars": 1572,
-    "updated_at": "2026-07-21T14:52:00Z",
+    "updated_at": "2026-07-21T15:13:33Z",
     "url": "https://github.com/a5c-ai/babysitter"
   },
   {
@@ -162,7 +270,7 @@
     "url": "https://github.com/rider-amazon/obsidian-mindset-skill"
   },
   {
-    "description": "Task With Questions Claude Code Skill",
+    "description": "Task With Questions: Claude Code Skill",
     "id": "fabkury/twq",
     "language": "\u2014",
     "name": "fabkury/twq",
@@ -193,7 +301,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66324,
+    "stars": 66325,
     "updated_at": "2026-07-21T14:38:07Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -205,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T14:40:08Z",
     "url": "https://github.com/lisa-tarbo/LLM-integration-play"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 4,
-    "updated_at": "2026-07-21T15:00:23Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -338,7 +437,7 @@
     "language": "\u2014",
     "name": "superdesigndev/superdesign-skill",
     "stars": 352,
-    "updated_at": "2026-07-21T15:03:49Z",
+    "updated_at": "2026-07-21T15:10:08Z",
     "url": "https://github.com/superdesigndev/superdesign-skill"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T14:18:39Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
-    "id": "ratel-ai/ratel",
-    "language": "Rust",
-    "name": "ratel-ai/ratel",
-    "stars": 243,
-    "updated_at": "2026-07-21T14:54:27Z",
-    "url": "https://github.com/ratel-ai/ratel"
-  },
-  {
-    "description": "Browse every recent Claude Code session across all your projects and jump back into any of them. Shows project path, sum",
-    "id": "noluyorAbi/claude-code-recap",
-    "language": "TypeScript",
-    "name": "noluyorAbi/claude-code-recap",
-    "stars": 18,
-    "updated_at": "2026-07-21T14:15:46Z",
-    "url": "https://github.com/noluyorAbi/claude-code-recap"
-  },
-  {
-    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
-    "id": "chris-peterson/beacon",
-    "language": "Python",
-    "name": "chris-peterson/beacon",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:13:44Z",
-    "url": "https://github.com/chris-peterson/beacon"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:04:29Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:03:36Z",
-    "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:03:17Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:00:11Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 1,
-    "updated_at": "2026-07-21T13:59:22Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
-    "id": "jianshuo/claude-skills",
-    "language": "Python",
-    "name": "jianshuo/claude-skills",
-    "stars": 105,
-    "updated_at": "2026-07-21T13:58:58Z",
-    "url": "https://github.com/jianshuo/claude-skills"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:58:27Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Claude Code skills \u2014 starting with token-efficiency, a cross-cutting skill for terser reasoning, prose, and code",
-    "id": "denfry/claude-skills",
-    "language": "Python",
-    "name": "denfry/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-07-21T13:56:01Z",
-    "url": "https://github.com/denfry/claude-skills"
   }
 ]
