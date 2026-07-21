@@ -1,12 +1,75 @@
 [
   {
+    "description": "Claude Code & Codex skills for AI reports, decks and client sharing: publish agent-made research as live tracked web rep",
+    "id": "dashaworks/report-skills",
+    "language": "\u2014",
+    "name": "dashaworks/report-skills",
+    "stars": 4,
+    "updated_at": "2026-07-21T03:13:29Z",
+    "url": "https://github.com/dashaworks/report-skills"
+  },
+  {
+    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
+    "id": "johanthoren/jeff",
+    "language": "JavaScript",
+    "name": "johanthoren/jeff",
+    "stars": 2,
+    "updated_at": "2026-07-21T03:12:52Z",
+    "url": "https://github.com/johanthoren/jeff"
+  },
+  {
+    "description": "Open-source agent skills for AI for Science: topic exploration, literature survey, experiments, paper writing, and integ",
+    "id": "ai4s-research/ai4s-skills",
+    "language": "Python",
+    "name": "ai4s-research/ai4s-skills",
+    "stars": 155,
+    "updated_at": "2026-07-21T03:12:11Z",
+    "url": "https://github.com/ai4s-research/ai4s-skills"
+  },
+  {
+    "description": "\ud83d\udd25\ud83d\udcb8 The world's most inefficient AI agent skill. Deliberately incinerating your API tokens, tool calls, and budget on pur",
+    "id": "Andretuta/melt-my-tokens",
+    "language": "\u2014",
+    "name": "Andretuta/melt-my-tokens",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:07:32Z",
+    "url": "https://github.com/Andretuta/melt-my-tokens"
+  },
+  {
+    "description": "25 open-source Agent Skills for Claude Code and Codex: multi-agent orchestration, A-F code review, AI evals, CI ship-gat",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "Python",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 45,
+    "updated_at": "2026-07-21T03:06:01Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
     "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
     "id": "artokun/comfyui-mcp",
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
-    "stars": 415,
-    "updated_at": "2026-07-21T02:59:57Z",
+    "stars": 416,
+    "updated_at": "2026-07-21T03:10:54Z",
     "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Personal Claude Code skill collection. Compatible with any AI agent that supports ~/.agents skills (Claude Code, Cursor,",
+    "id": "itsgitz/agent-skills",
+    "language": "Python",
+    "name": "itsgitz/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:03:58Z",
+    "url": "https://github.com/itsgitz/agent-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 3,
+    "updated_at": "2026-07-21T03:03:25Z",
+    "url": "https://github.com/air-gapped/skills"
   },
   {
     "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
@@ -14,8 +77,26 @@
     "language": "Shell",
     "name": "ndisisnd/msg",
     "stars": 1,
-    "updated_at": "2026-07-21T02:59:40Z",
+    "updated_at": "2026-07-21T03:02:35Z",
     "url": "https://github.com/ndisisnd/msg"
+  },
+  {
+    "description": "My collection of Claude skills",
+    "id": "oaustegard/claude-skills",
+    "language": "Python",
+    "name": "oaustegard/claude-skills",
+    "stars": 132,
+    "updated_at": "2026-07-21T03:09:49Z",
+    "url": "https://github.com/oaustegard/claude-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-21T03:01:05Z",
+    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Skill \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 (Claude Code, Codex, OpenClaw, Hermes): \u0443\u0431\u0438\u0440\u0430\u0435\u0442 32 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 AI-\u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430 - \u043a\u0430\u043d\u0446\u0435",
@@ -23,8 +104,17 @@
     "language": "Python",
     "name": "smixs/humanizer-ru",
     "stars": 88,
-    "updated_at": "2026-07-21T02:55:44Z",
+    "updated_at": "2026-07-21T03:00:51Z",
     "url": "https://github.com/smixs/humanizer-ru"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-21T03:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
@@ -63,24 +153,6 @@
     "url": "https://github.com/mccarthy606/claude-operator-stack"
   },
   {
-    "description": "Personal Claude Code skill collection. Compatible with any AI agent that supports ~/.agents skills (Claude Code, Cursor,",
-    "id": "itsgitz/agent-skills",
-    "language": "Python",
-    "name": "itsgitz/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:45:45Z",
-    "url": "https://github.com/itsgitz/agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-21T02:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Self-evolving multi-agent \"newsroom\" that turns your documents into a cross-linked knowledge wiki \u2014 writer \u2260 reviewer, l",
     "id": "alfadur7/llm-wiki-newsroom",
     "language": "Python",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T02:44:17Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "25 open-source Agent Skills for Claude Code and Codex: multi-agent orchestration, A-F code review, AI evals, CI ship-gat",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "Python",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 45,
-    "updated_at": "2026-07-21T02:59:34Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
@@ -149,7 +212,7 @@
     "language": "JavaScript",
     "name": "suboss87/FDEOps",
     "stars": 303,
-    "updated_at": "2026-07-21T02:34:35Z",
+    "updated_at": "2026-07-21T03:15:13Z",
     "url": "https://github.com/suboss87/FDEOps"
   },
   {
@@ -169,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T02:28:37Z",
     "url": "https://github.com/waittim/MemoryCustodian"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
-    "id": "air-gapped/skills",
-    "language": "Python",
-    "name": "air-gapped/skills",
-    "stars": 3,
-    "updated_at": "2026-07-21T02:22:39Z",
-    "url": "https://github.com/air-gapped/skills"
   },
   {
     "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
@@ -342,15 +396,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-21T02:47:36Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "\ud83e\udd96Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 1",
     "id": "kensaurus/cursor-kenji",
     "language": "JavaScript",
@@ -378,15 +423,6 @@
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "My collection of Claude skills",
-    "id": "oaustegard/claude-skills",
-    "language": "Python",
-    "name": "oaustegard/claude-skills",
-    "stars": 132,
-    "updated_at": "2026-07-21T02:52:06Z",
-    "url": "https://github.com/oaustegard/claude-skills"
-  },
-  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 280,
     "updated_at": "2026-07-21T01:31:34Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "29 free Claude Skills for SEO and AI search. Built by Hawk Academy + StudioHawk. Drop into Claude Desktop and run.",
-    "id": "lhitches/claude-seo-skills",
-    "language": "\u2014",
-    "name": "lhitches/claude-seo-skills",
-    "stars": 4,
-    "updated_at": "2026-07-21T01:28:58Z",
-    "url": "https://github.com/lhitches/claude-seo-skills"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:28:21Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code & GitHub Copilot skill. Expensive head, cheap hands, a master decision-maker on a frontier reasoning model t",
-    "id": "rhawk117/agentmaster",
-    "language": "Python",
-    "name": "rhawk117/agentmaster",
-    "stars": 1,
-    "updated_at": "2026-07-21T02:57:42Z",
-    "url": "https://github.com/rhawk117/agentmaster"
-  },
-  {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 1,
-    "updated_at": "2026-07-21T02:34:24Z",
-    "url": "https://github.com/inkatze/planwright"
   }
 ]
