@@ -1,5 +1,77 @@
 [
   {
+    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
+    "id": "jherrodthomas/robotics-skills-suite",
+    "language": "\u2014",
+    "name": "jherrodthomas/robotics-skills-suite",
+    "stars": 255,
+    "updated_at": "2026-07-21T11:42:04Z",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
+  },
+  {
+    "description": "\u4e00\u6761\u547d\u4ee4\u53bb\u6389\u53e3\u64ad\u5f55\u97f3\u7684\u53e5\u95f4\u6c14\u53e3/\u6362\u6c14\u58f0\uff0c\u8282\u594f\u7acb\u523b\u7d27\u51d1 \u00b7 Remove breath gaps between sentences in voiceovers. ffmpeg-based, also a Claude Code skill.",
+    "id": "wcy4213/remove-breath-gaps",
+    "language": "Python",
+    "name": "wcy4213/remove-breath-gaps",
+    "stars": 0,
+    "updated_at": "2026-07-21T11:40:32Z",
+    "url": "https://github.com/wcy4213/remove-breath-gaps"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-21T11:39:08Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Personal monorepo of Agent Skills by Bing Bryan\uff5cBing Bryan \u7684\u4e2a\u4eba Agent Skills \u603b\u5e93",
+    "id": "Bing-Bryan/skills-by-bing",
+    "language": "Python",
+    "name": "Bing-Bryan/skills-by-bing",
+    "stars": 1,
+    "updated_at": "2026-07-21T11:36:09Z",
+    "url": "https://github.com/Bing-Bryan/skills-by-bing"
+  },
+  {
+    "description": "\ud83d\udcda \u7ed9\u4e2d\u56fd\u5f8b\u5e08/\u6cd5\u52a1\u7684\u4e00\u7ad9\u5f0f\u5f00\u6e90 AI \u5de5\u5177\u5730\u56fe\uff5c200+ \u4e2a gh \u6838\u9a8c\u5f00\u6e90\u4ed3\u00b7\u6309\u5de5\u4f5c\u573a\u666f\u5206\u7c7b\u00b7\u80fd\u5426\u5546\u7528\u6807\u6ce8\uff5cawesome list",
+    "id": "lilialla/awesome-legal-ai-zh",
+    "language": "Python",
+    "name": "lilialla/awesome-legal-ai-zh",
+    "stars": 91,
+    "updated_at": "2026-07-21T11:34:41Z",
+    "url": "https://github.com/lilialla/awesome-legal-ai-zh"
+  },
+  {
+    "description": "\"Automated AI short-video studio: idea \u2192 published YouTube Short, $0.06/video\"",
+    "id": "dasein108/slope-studio",
+    "language": "Python",
+    "name": "dasein108/slope-studio",
+    "stars": 3,
+    "updated_at": "2026-07-21T11:33:25Z",
+    "url": "https://github.com/dasein108/slope-studio"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66311,
+    "updated_at": "2026-07-21T11:30:16Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-21T11:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude skill to convert electronic component datasheets into KiCad symbol libraries.",
     "id": "devbisme/datasheet-to-symbol-lib",
     "language": "\u2014",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "molefrog/moi",
     "stars": 25,
-    "updated_at": "2026-07-21T11:28:46Z",
+    "updated_at": "2026-07-21T11:35:40Z",
     "url": "https://github.com/molefrog/moi"
   },
   {
@@ -34,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T11:24:11Z",
     "url": "https://github.com/rohitgehe05/mindpowers"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 17,
-    "updated_at": "2026-07-21T11:23:02Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
@@ -59,7 +122,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-21T11:20:40Z",
+    "updated_at": "2026-07-21T11:32:35Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -86,17 +149,8 @@
     "language": "Python",
     "name": "bitwize-music-studio/claude-ai-music-skills",
     "stars": 366,
-    "updated_at": "2026-07-21T11:16:26Z",
+    "updated_at": "2026-07-21T11:34:06Z",
     "url": "https://github.com/bitwize-music-studio/claude-ai-music-skills"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66310,
-    "updated_at": "2026-07-21T11:15:32Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -270,15 +324,6 @@
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
-    "description": "Personal monorepo of Agent Skills by Bing Bryan\uff5cBing Bryan \u7684\u4e2a\u4eba Agent Skills \u603b\u5e93",
-    "id": "Bing-Bryan/skills-by-bing",
-    "language": "Python",
-    "name": "Bing-Bryan/skills-by-bing",
-    "stars": 1,
-    "updated_at": "2026-07-21T10:53:32Z",
-    "url": "https://github.com/Bing-Bryan/skills-by-bing"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T10:27:58Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Plugin with opinionated set of Claude Code agents nad skills",
-    "id": "lklimek/claudius",
-    "language": "Python",
-    "name": "lklimek/claudius",
-    "stars": 1,
-    "updated_at": "2026-07-21T10:25:29Z",
-    "url": "https://github.com/lklimek/claudius"
-  },
-  {
-    "description": "Design-token skill for Oracle APEX Universal Theme 42 (Vita) \u2014 300+ CSS tokens, 45 component types, and a new Theme Styl",
-    "id": "raju-bd/Oracle-apex-ut-UI.skill",
-    "language": "CSS",
-    "name": "raju-bd/Oracle-apex-ut-UI.skill",
-    "stars": 0,
-    "updated_at": "2026-07-21T10:20:20Z",
-    "url": "https://github.com/raju-bd/Oracle-apex-ut-UI.skill"
-  },
-  {
-    "description": "A curated Claude Code plugin with skills for anything Claude can do.",
-    "id": "toolbox-playground/super-claudio",
-    "language": "\u2014",
-    "name": "toolbox-playground/super-claudio",
-    "stars": 3,
-    "updated_at": "2026-07-21T10:17:08Z",
-    "url": "https://github.com/toolbox-playground/super-claudio"
-  },
-  {
-    "description": "My assortment of Claude Code skills",
-    "id": "ivuorinen/skills",
-    "language": "Python",
-    "name": "ivuorinen/skills",
-    "stars": 1,
-    "updated_at": "2026-07-21T10:18:00Z",
-    "url": "https://github.com/ivuorinen/skills"
-  },
-  {
-    "description": "The code is not the asset anymore. Your decisions are; the code is regenerated from them. X2 puts the rules that must al",
-    "id": "teklabsdigital/x2-method",
-    "language": "C#",
-    "name": "teklabsdigital/x2-method",
-    "stars": 13,
-    "updated_at": "2026-07-21T10:16:04Z",
-    "url": "https://github.com/teklabsdigital/x2-method"
   }
 ]
