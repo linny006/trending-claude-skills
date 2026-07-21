@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Romyleads/stop-slop-multilingual](https://github.com/Romyleads/stop-slop-multilingual) | 0 | Python | 2026-07-21 | Claude skill: removes AI writing patterns from Russian, Ukrainian, Belarusian, Bulgarian & German text. Verified sources |
-| 2 | [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 807 | Python | 2026-07-21 | Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support |
-| 3 | [belumume/claude-skills](https://github.com/belumume/claude-skills) | 47 | Python | 2026-07-21 | Personal collection of Claude skills - growing as I discover patterns and solve real-world problems |
-| 4 | [blisspixel/primr](https://github.com/blisspixel/primr) | 3 | Python | 2026-07-21 | Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis. |
-| 5 | [danieljustus/symaira-eraseme](https://github.com/danieljustus/symaira-eraseme) | 4 | Python | 2026-07-21 | Automated data broker removal tool ⌫ close your accounts, erase your data. |
-| 6 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66336 | TypeScript | 2026-07-21 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 7 | [inkatze/planwright](https://github.com/inkatze/planwright) | 1 | Shell | 2026-07-21 | Autopilot for spec-driven development: a standalone, opinionated Claude Code framework |
-| 8 | [aabuhammam-dh/telc-b1-coach](https://github.com/aabuhammam-dh/telc-b1-coach) | 0 | HTML | 2026-07-21 |  |
-| 9 | [Growth-Today/claude-skills](https://github.com/Growth-Today/claude-skills) | 0 | Python | 2026-07-21 | Open Claude Skills for go-to-market teams by Growth Today. Ready-to-install skills for HubSpot, Salesforce, Clay, cold e |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 17 | Python | 2026-07-21 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 17 | Python | 2026-07-21 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [Romyleads/stop-slop-multilingual](https://github.com/Romyleads/stop-slop-multilingual) | 0 | Python | 2026-07-21 | Claude skill: removes AI writing patterns from Russian, Ukrainian, Belarusian, Bulgarian & German text. Verified sources |
+| 3 | [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 807 | Python | 2026-07-21 | Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support |
+| 4 | [belumume/claude-skills](https://github.com/belumume/claude-skills) | 47 | Python | 2026-07-21 | Personal collection of Claude skills - growing as I discover patterns and solve real-world problems |
+| 5 | [blisspixel/primr](https://github.com/blisspixel/primr) | 3 | Python | 2026-07-21 | Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis. |
+| 6 | [danieljustus/symaira-eraseme](https://github.com/danieljustus/symaira-eraseme) | 4 | Python | 2026-07-21 | Automated data broker removal tool ⌫ close your accounts, erase your data. |
+| 7 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66336 | TypeScript | 2026-07-21 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 8 | [inkatze/planwright](https://github.com/inkatze/planwright) | 1 | Shell | 2026-07-21 | Autopilot for spec-driven development: a standalone, opinionated Claude Code framework |
+| 9 | [aabuhammam-dh/telc-b1-coach](https://github.com/aabuhammam-dh/telc-b1-coach) | 0 | HTML | 2026-07-21 |  |
+| 10 | [Growth-Today/claude-skills](https://github.com/Growth-Today/claude-skills) | 0 | Python | 2026-07-21 | Open Claude Skills for go-to-market teams by Growth Today. Ready-to-install skills for HubSpot, Salesforce, Clay, cold e |
 | 11 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-21 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 12 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-21 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
 | 13 | [mlabarrere/dungeons-and-skills](https://github.com/mlabarrere/dungeons-and-skills) | 0 | JavaScript | 2026-07-21 | Dungeons & Skills — a grounded D&D 2024 (5.5) character-builder skill pack: the AI reads a bundled rules catalogue + det |
