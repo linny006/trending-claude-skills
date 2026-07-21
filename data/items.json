@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 25,
+    "updated_at": "2026-07-21T15:00:46Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-21T15:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:58:12Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:58:11Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
     "description": "A Claude skill to track your job applications. Automatically synchronises Gmail and Google Calendar with a Notion databa",
     "id": "daliaabbruciati/job-application-tracker-SKILL",
     "language": "\u2014",
@@ -25,6 +61,15 @@
     "stars": 2,
     "updated_at": "2026-07-21T14:55:02Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:54:57Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
     "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
@@ -108,15 +153,6 @@
     "url": "https://github.com/khujta/gabe-suite"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-21T14:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u4e00\u4e2a\u9762\u5411\u5b66\u4e60\u573a\u666f\u7684 AI Skill \u539f\u578b\u9879\u76ee,\u4f9d\u8d56Obsidian\u7684canvas\u53ef\u89c6\u5316\u80fd\u529b\uff0c\u5e2e\u52a9\u4f7f\u7528\u8005\u5728 Obsidian \u4e2d\u66f4\u6e05\u695a\u5730\u7406\u89e3\u6982\u5ff5\u4e4b\u95f4\u7684\u4f4d\u7f6e\u5173\u7cfb\u3002",
     "id": "rider-amazon/obsidian-mindset-skill",
     "language": "Python",
@@ -157,7 +193,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66323,
+    "stars": 66324,
     "updated_at": "2026-07-21T14:38:07Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "danieljustus/symaira-eraseme",
     "stars": 4,
-    "updated_at": "2026-07-21T14:55:15Z",
+    "updated_at": "2026-07-21T15:00:23Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -302,7 +338,7 @@
     "language": "\u2014",
     "name": "superdesigndev/superdesign-skill",
     "stars": 352,
-    "updated_at": "2026-07-21T14:19:05Z",
+    "updated_at": "2026-07-21T15:03:49Z",
     "url": "https://github.com/superdesigndev/superdesign-skill"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T13:56:01Z",
     "url": "https://github.com/denfry/claude-skills"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:55:37Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430 \u2014 37 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u043e\u0432 \u0438 38 regex-\u043c\u0430\u0440\u043a\u0435\u0440\u043e\u0432 | Russian A",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 72,
-    "updated_at": "2026-07-21T13:52:30Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
-  },
-  {
-    "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck",
-    "id": "browser-act/skills",
-    "language": "Python",
-    "name": "browser-act/skills",
-    "stars": 4583,
-    "updated_at": "2026-07-21T13:51:28Z",
-    "url": "https://github.com/browser-act/skills"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:51:28Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   }
 ]
