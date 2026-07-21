@@ -1,12 +1,12 @@
 [
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
     "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-21T16:43:25Z",
-    "url": "https://github.com/gaia-react/gaia"
+    "name": "mimukit/skills",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:56:29Z",
+    "url": "https://github.com/mimukit/skills"
   },
   {
     "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
@@ -14,8 +14,89 @@
     "language": "Python",
     "name": "fcakyon/claude-codex-settings",
     "stars": 807,
-    "updated_at": "2026-07-21T16:44:37Z",
+    "updated_at": "2026-07-21T16:52:21Z",
     "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:51:58Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:49:55Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:49:37Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Goal-driven, loop-powered marketing agents that crush your business goals 24/7",
+    "id": "nowork-studio/NotFair",
+    "language": "TypeScript",
+    "name": "nowork-studio/NotFair",
+    "stars": 3172,
+    "updated_at": "2026-07-21T16:48:34Z",
+    "url": "https://github.com/nowork-studio/NotFair"
+  },
+  {
+    "description": "Agent skill + spectrograph 7-layer human analysis for Grok \u00b7 Claude \u00b7 Hermes. Independent OSS toward Physical AI.",
+    "id": "YangKangSung/kampff-skills",
+    "language": "Python",
+    "name": "YangKangSung/kampff-skills",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:46:45Z",
+    "url": "https://github.com/YangKangSung/kampff-skills"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:46:43Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-21T16:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-07-21T16:43:26Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-21T16:51:37Z",
+    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T16:42:19Z",
     "url": "https://github.com/valentil/featureboard-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-21T16:41:47Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
@@ -67,7 +139,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66330,
+    "stars": 66332,
     "updated_at": "2026-07-21T16:38:16Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -77,7 +149,7 @@
     "language": "Shell",
     "name": "rohitgehe05/mindpowers",
     "stars": 3,
-    "updated_at": "2026-07-21T16:40:40Z",
+    "updated_at": "2026-07-21T16:56:37Z",
     "url": "https://github.com/rohitgehe05/mindpowers"
   },
   {
@@ -252,15 +324,6 @@
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
   },
   {
-    "description": "Goal-driven, loop-powered marketing agents that crush your business goals 24/7",
-    "id": "nowork-studio/NotFair",
-    "language": "TypeScript",
-    "name": "nowork-studio/NotFair",
-    "stars": 3171,
-    "updated_at": "2026-07-21T16:12:17Z",
-    "url": "https://github.com/nowork-studio/NotFair"
-  },
-  {
     "description": "[\u65b9\u6cd5\u8bba]\u667a\u80fd\u4f53skills\uff1b\u4e00\u952e\u751f\u6210\u516c\u4f17\u53f7\u6587\u7ae0\u548c\u8d34\u56fe\u3001\u4e00\u952e\u5c0f\u7ea2\u4e66\u4fe1\u606f\u56fe && \u6280\u672f\u9009\u578b\u3001\u4ea7\u54c1\u7b56\u7565\u3001\u6218\u7565\u5206\u6790\u3001MVP\u3001\u76ee\u6807\u8ffd\u8e2a\u5668\u3001\u4f7f\u547d\u5fc5\u8fbeskills",
     "id": "konglong87/methodology-skills",
     "language": "JavaScript",
@@ -338,8 +401,17 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-21T16:36:24Z",
+    "updated_at": "2026-07-21T16:45:59Z",
     "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews numb",
+    "id": "gosom/google-maps-scraper",
+    "language": "Go",
+    "name": "gosom/google-maps-scraper",
+    "stars": 5196,
+    "updated_at": "2026-07-21T16:00:49Z",
+    "url": "https://github.com/gosom/google-maps-scraper"
   },
   {
     "description": "Claude skill: removes AI writing patterns from Russian, Ukrainian, Belarusian, Bulgarian & German text. Verified sources",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T15:56:25Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:54:58Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:51:48Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Task With Questions: Claude Code Skill",
-    "id": "fabkury/twq",
-    "language": "\u2014",
-    "name": "fabkury/twq",
-    "stars": 1,
-    "updated_at": "2026-07-21T15:51:22Z",
-    "url": "https://github.com/fabkury/twq"
-  },
-  {
-    "description": "Glanceable Claude Code and Codex state in your terminal tabs: white=idle, blue=working, orange=waiting. Multi-terminal (",
-    "id": "wasulajr/headsup",
-    "language": "Shell",
-    "name": "wasulajr/headsup",
-    "stars": 1,
-    "updated_at": "2026-07-21T15:51:06Z",
-    "url": "https://github.com/wasulajr/headsup"
-  },
-  {
-    "description": "\"Automated AI short-video studio: idea \u2192 published YouTube Short, $0.06/video\"",
-    "id": "dasein108/slope-studio",
-    "language": "Python",
-    "name": "dasein108/slope-studio",
-    "stars": 3,
-    "updated_at": "2026-07-21T15:49:00Z",
-    "url": "https://github.com/dasein108/slope-studio"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 1,
-    "updated_at": "2026-07-21T15:48:39Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:48:12Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": " \ud83c\udf00 A skill for when you've fixed the bug three times and it's still broken. Forces lateral alternatives instead of anoth",
-    "id": "SunnyKTuladhar/lateralus",
-    "language": "PowerShell",
-    "name": "SunnyKTuladhar/lateralus",
-    "stars": 1,
-    "updated_at": "2026-07-21T15:54:54Z",
-    "url": "https://github.com/SunnyKTuladhar/lateralus"
   }
 ]
