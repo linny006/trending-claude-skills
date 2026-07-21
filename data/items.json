@@ -1,19 +1,64 @@
 [
   {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-21T06:13:31Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
     "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
     "id": "air-gapped/skills",
     "language": "Python",
     "name": "air-gapped/skills",
     "stars": 3,
-    "updated_at": "2026-07-21T05:59:33Z",
+    "updated_at": "2026-07-21T06:10:59Z",
     "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
+    "language": "Python",
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 493,
+    "updated_at": "2026-07-21T06:08:40Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
+  },
+  {
+    "description": "Plug-and-play skills and prompts for every AI coding agent",
+    "id": "Amey-Thakur/AI-SKILLS",
+    "language": "JavaScript",
+    "name": "Amey-Thakur/AI-SKILLS",
+    "stars": 4,
+    "updated_at": "2026-07-21T06:05:51Z",
+    "url": "https://github.com/Amey-Thakur/AI-SKILLS"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-21T06:00:22Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-21T06:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
     "id": "artokun/comfyui-mcp",
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
-    "stars": 417,
+    "stars": 418,
     "updated_at": "2026-07-21T05:59:06Z",
     "url": "https://github.com/artokun/comfyui-mcp"
   },
@@ -22,8 +67,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66279,
-    "updated_at": "2026-07-21T05:57:06Z",
+    "stars": 66280,
+    "updated_at": "2026-07-21T06:06:13Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -32,8 +77,17 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-21T05:58:36Z",
+    "updated_at": "2026-07-21T06:14:47Z",
     "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1569,
+    "updated_at": "2026-07-21T06:14:21Z",
+    "url": "https://github.com/a5c-ai/babysitter"
   },
   {
     "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
@@ -49,7 +103,7 @@
     "id": "fcakyon/claude-codex-settings",
     "language": "Python",
     "name": "fcakyon/claude-codex-settings",
-    "stars": 789,
+    "stars": 790,
     "updated_at": "2026-07-21T05:52:18Z",
     "url": "https://github.com/fcakyon/claude-codex-settings"
   },
@@ -126,15 +180,6 @@
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-21T05:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -151,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T05:44:59Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Plug-and-play skills and prompts for every AI coding agent",
-    "id": "Amey-Thakur/AI-SKILLS",
-    "language": "JavaScript",
-    "name": "Amey-Thakur/AI-SKILLS",
-    "stars": 4,
-    "updated_at": "2026-07-21T05:44:46Z",
-    "url": "https://github.com/Amey-Thakur/AI-SKILLS"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -373,7 +409,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 3957,
+    "stars": 3958,
     "updated_at": "2026-07-21T04:58:38Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T04:55:34Z",
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-21T04:55:01Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-21T04:52:59Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 0,
-    "updated_at": "2026-07-21T04:51:33Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Reconstruct a full flight itinerary from unordered segments \u2014 Go/Echo REST API with Swagger, fuzzing, Newman E2E, cosign",
-    "id": "AndriyKalashnykov/flight-path",
-    "language": "Python",
-    "name": "AndriyKalashnykov/flight-path",
-    "stars": 1,
-    "updated_at": "2026-07-21T04:50:15Z",
-    "url": "https://github.com/AndriyKalashnykov/flight-path"
   }
 ]
