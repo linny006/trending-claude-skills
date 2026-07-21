@@ -1,5 +1,95 @@
 [
   {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 415,
+    "updated_at": "2026-07-21T02:59:57Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
+    "id": "ndisisnd/msg",
+    "language": "Shell",
+    "name": "ndisisnd/msg",
+    "stars": 1,
+    "updated_at": "2026-07-21T02:59:40Z",
+    "url": "https://github.com/ndisisnd/msg"
+  },
+  {
+    "description": "Skill \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 (Claude Code, Codex, OpenClaw, Hermes): \u0443\u0431\u0438\u0440\u0430\u0435\u0442 32 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 AI-\u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430 - \u043a\u0430\u043d\u0446\u0435",
+    "id": "smixs/humanizer-ru",
+    "language": "Python",
+    "name": "smixs/humanizer-ru",
+    "stars": 88,
+    "updated_at": "2026-07-21T02:55:44Z",
+    "url": "https://github.com/smixs/humanizer-ru"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 82,
+    "updated_at": "2026-07-21T02:52:45Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Agent skill: guided discussions on the Rumsfeld Matrix \u2014 lend words for what you can't articulate, tour what you don't k",
+    "id": "Wang-Cankun/known-unknowns",
+    "language": "\u2014",
+    "name": "Wang-Cankun/known-unknowns",
+    "stars": 0,
+    "updated_at": "2026-07-21T02:50:59Z",
+    "url": "https://github.com/Wang-Cankun/known-unknowns"
+  },
+  {
+    "description": "Personal monorepo of Agent Skills by Bing Bryan\uff5cBing Bryan \u7684\u4e2a\u4eba Agent Skills \u603b\u5e93",
+    "id": "Bing-Bryan/skills-by-bing",
+    "language": "Python",
+    "name": "Bing-Bryan/skills-by-bing",
+    "stars": 1,
+    "updated_at": "2026-07-21T02:51:28Z",
+    "url": "https://github.com/Bing-Bryan/skills-by-bing"
+  },
+  {
+    "description": "Curated Claude Code stack + operator playbook for solo founders shipping multiple AI products in parallel. 4 core (Claud",
+    "id": "mccarthy606/claude-operator-stack",
+    "language": "TypeScript",
+    "name": "mccarthy606/claude-operator-stack",
+    "stars": 0,
+    "updated_at": "2026-07-21T02:48:51Z",
+    "url": "https://github.com/mccarthy606/claude-operator-stack"
+  },
+  {
+    "description": "Personal Claude Code skill collection. Compatible with any AI agent that supports ~/.agents skills (Claude Code, Cursor,",
+    "id": "itsgitz/agent-skills",
+    "language": "Python",
+    "name": "itsgitz/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-21T02:45:45Z",
+    "url": "https://github.com/itsgitz/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-21T02:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Self-evolving multi-agent \"newsroom\" that turns your documents into a cross-linked knowledge wiki \u2014 writer \u2260 reviewer, l",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 56,
+    "updated_at": "2026-07-21T02:45:08Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
     "id": "samuel85194-ux/tycana-claude-hivemind",
     "language": "HTML",
@@ -9,21 +99,12 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "Skill \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 (Claude Code, Codex, OpenClaw, Hermes): \u0443\u0431\u0438\u0440\u0430\u0435\u0442 32 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 AI-\u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430 - \u043a\u0430\u043d\u0446\u0435",
-    "id": "smixs/humanizer-ru",
-    "language": "Python",
-    "name": "smixs/humanizer-ru",
-    "stars": 88,
-    "updated_at": "2026-07-21T02:44:06Z",
-    "url": "https://github.com/smixs/humanizer-ru"
-  },
-  {
     "description": "25 open-source Agent Skills for Claude Code and Codex: multi-agent orchestration, A-F code review, AI evals, CI ship-gat",
     "id": "JasonColapietro/suede-creator-skills",
     "language": "Python",
     "name": "JasonColapietro/suede-creator-skills",
     "stars": 45,
-    "updated_at": "2026-07-21T02:44:04Z",
+    "updated_at": "2026-07-21T02:59:34Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/staruhub/ClaudeSkills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-21T02:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "An agent skill that gives your coding agents a project memory.",
     "id": "waittim/MemoryCustodian",
     "language": "Python",
@@ -121,7 +193,7 @@
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
-    "stars": 393,
+    "stars": 394,
     "updated_at": "2026-07-21T02:20:46Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
@@ -144,15 +216,6 @@
     "url": "https://github.com/aomi-labs/skills"
   },
   {
-    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
-    "id": "ndisisnd/msg",
-    "language": "Shell",
-    "name": "ndisisnd/msg",
-    "stars": 1,
-    "updated_at": "2026-07-21T02:43:27Z",
-    "url": "https://github.com/ndisisnd/msg"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -160,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T02:14:24Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Agent skill: guided discussions on the Rumsfeld Matrix \u2014 lend words for what you can't articulate, tour what you don't k",
-    "id": "Wang-Cankun/known-unknowns",
-    "language": "\u2014",
-    "name": "Wang-Cankun/known-unknowns",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:13:41Z",
-    "url": "https://github.com/Wang-Cankun/known-unknowns"
   },
   {
     "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
@@ -293,7 +347,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-21T02:35:14Z",
+    "updated_at": "2026-07-21T02:47:36Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Python",
     "name": "oaustegard/claude-skills",
     "stars": 132,
-    "updated_at": "2026-07-21T01:33:46Z",
+    "updated_at": "2026-07-21T02:52:06Z",
     "url": "https://github.com/oaustegard/claude-skills"
   },
   {
@@ -383,7 +437,7 @@
     "language": "Python",
     "name": "rhawk117/agentmaster",
     "stars": 1,
-    "updated_at": "2026-07-21T02:40:47Z",
+    "updated_at": "2026-07-21T02:57:42Z",
     "url": "https://github.com/rhawk117/agentmaster"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T02:34:24Z",
     "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-07-21T01:22:35Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Claude that speaks cycle, chart, and era language \u2014 and obeys it. Glossary-first agent modes for cracked girls.",
-    "id": "AlbionaHoti/cycle-coded",
-    "language": "JavaScript",
-    "name": "AlbionaHoti/cycle-coded",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:22:20Z",
-    "url": "https://github.com/AlbionaHoti/cycle-coded"
-  },
-  {
-    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
-    "id": "Mary2241/seo-skills-agent-toolbox",
-    "language": "HTML",
-    "name": "Mary2241/seo-skills-agent-toolbox",
-    "stars": 2,
-    "updated_at": "2026-07-21T01:20:43Z",
-    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "Unified design, motion, 3D, and video super skill for AI coding agents - eight upstream knowledge bases distilled into o",
-    "id": "leobbaroni/maestro",
-    "language": "CSS",
-    "name": "leobbaroni/maestro",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:19:24Z",
-    "url": "https://github.com/leobbaroni/maestro"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:18:56Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4679,
-    "updated_at": "2026-07-21T01:18:51Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   }
 ]
