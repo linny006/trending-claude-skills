@@ -1,5 +1,104 @@
 [
   {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 3,
+    "updated_at": "2026-07-21T06:57:41Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-07-21T06:56:40Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Goal-driven, loop-powered marketing agents that crush your business goals 24/7",
+    "id": "nowork-studio/NotFair",
+    "language": "TypeScript",
+    "name": "nowork-studio/NotFair",
+    "stars": 3167,
+    "updated_at": "2026-07-21T06:56:32Z",
+    "url": "https://github.com/nowork-studio/NotFair"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 99,
+    "updated_at": "2026-07-21T06:56:31Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 280,
+    "updated_at": "2026-07-21T06:50:19Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 418,
+    "updated_at": "2026-07-21T06:49:42Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Agent skills for social media intelligence, powered by Xpoz. Compatible with Claude Code, Codex CLI, and ChatGPT.",
+    "id": "XPOZpublic/xpoz-agent-skills",
+    "language": "\u2014",
+    "name": "XPOZpublic/xpoz-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-07-21T06:49:35Z",
+    "url": "https://github.com/XPOZpublic/xpoz-agent-skills"
+  },
+  {
+    "description": "Agent skill: guided discussions on the Rumsfeld Matrix \u2014 lend words for what you can't articulate, tour what you don't k",
+    "id": "Wang-Cankun/known-unknowns",
+    "language": "\u2014",
+    "name": "Wang-Cankun/known-unknowns",
+    "stars": 0,
+    "updated_at": "2026-07-21T06:48:29Z",
+    "url": "https://github.com/Wang-Cankun/known-unknowns"
+  },
+  {
+    "description": "Self-evolving multi-agent \"newsroom\" that turns your documents into a cross-linked knowledge wiki \u2014 writer \u2260 reviewer, l",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 56,
+    "updated_at": "2026-07-21T06:48:27Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 16,
+    "updated_at": "2026-07-21T06:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Second brain for Forward Deployed Engineers. Engagement memory + 35 skills across 6 domains, all behind one @fde... Work",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 303,
+    "updated_at": "2026-07-21T06:45:13Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -22,7 +121,7 @@
     "id": "ayghri/i-have-adhd",
     "language": "\u2014",
     "name": "ayghri/i-have-adhd",
-    "stars": 5586,
+    "stars": 5603,
     "updated_at": "2026-07-21T06:43:23Z",
     "url": "https://github.com/ayghri/i-have-adhd"
   },
@@ -36,20 +135,11 @@
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
   },
   {
-    "description": "Goal-driven, loop-powered marketing agents that crush your business goals 24/7",
-    "id": "nowork-studio/NotFair",
-    "language": "TypeScript",
-    "name": "nowork-studio/NotFair",
-    "stars": 3167,
-    "updated_at": "2026-07-21T06:43:07Z",
-    "url": "https://github.com/nowork-studio/NotFair"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66279,
+    "stars": 66281,
     "updated_at": "2026-07-21T06:42:22Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -68,7 +158,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-21T06:43:52Z",
+    "updated_at": "2026-07-21T06:58:17Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -88,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T06:41:08Z",
     "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
-  },
-  {
-    "description": "Agent skill: guided discussions on the Rumsfeld Matrix \u2014 lend words for what you can't articulate, tour what you don't k",
-    "id": "Wang-Cankun/known-unknowns",
-    "language": "\u2014",
-    "name": "Wang-Cankun/known-unknowns",
-    "stars": 0,
-    "updated_at": "2026-07-21T06:40:03Z",
-    "url": "https://github.com/Wang-Cankun/known-unknowns"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
-    "id": "air-gapped/skills",
-    "language": "Python",
-    "name": "air-gapped/skills",
-    "stars": 3,
-    "updated_at": "2026-07-21T06:39:58Z",
-    "url": "https://github.com/air-gapped/skills"
   },
   {
     "description": "Skills SAP",
@@ -135,15 +207,6 @@
     "url": "https://github.com/fcakyon/claude-codex-settings"
   },
   {
-    "description": "Second brain for Forward Deployed Engineers. Engagement memory + 35 skills across 6 domains, all behind one @fde... Work",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 303,
-    "updated_at": "2026-07-21T06:45:11Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
     "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
@@ -171,21 +234,12 @@
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 16,
-    "updated_at": "2026-07-21T06:30:32Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
     "id": "longsizhuo/openInvest",
     "language": "Python",
     "name": "longsizhuo/openInvest",
     "stars": 65,
-    "updated_at": "2026-07-21T06:30:22Z",
+    "updated_at": "2026-07-21T07:00:02Z",
     "url": "https://github.com/longsizhuo/openInvest"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T06:29:45Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 280,
-    "updated_at": "2026-07-21T06:25:14Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T06:24:32Z",
     "url": "https://github.com/itsgitz/agent-skills"
-  },
-  {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 418,
-    "updated_at": "2026-07-21T06:21:43Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
     "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T05:44:59Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 0,
-    "updated_at": "2026-07-21T05:42:49Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "25 open-source Agent Skills for Claude Code and Codex: multi-agent orchestration, A-F code review, AI evals, CI ship-gat",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "Python",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 45,
-    "updated_at": "2026-07-21T05:39:57Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-21T05:34:51Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 7,
-    "updated_at": "2026-07-21T05:36:15Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   }
 ]
