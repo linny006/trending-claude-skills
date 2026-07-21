@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [belschak/web-research-cascade](https://github.com/belschak/web-research-cascade) | 1 | Python | 2026-07-21 | Claude Code skill that escalates blocked web fetches (WebFetch -> Jina Reader -> Firecrawl -> your browser) so primary s |
-| 2 | [belschak/repo-audit](https://github.com/belschak/repo-audit) | 1 | HTML | 2026-07-21 | A Claude Code / agent skill that reads third-party code for red flags before you install it. Six-phase read-only audit,  |
-| 3 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 0 | Python | 2026-07-21 | 개발 전용 Claude Code 플러그인 |
-| 4 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 23 | Python | 2026-07-21 | A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py |
-| 5 | [naveedharri/benai-skills](https://github.com/naveedharri/benai-skills) | 40 | JavaScript | 2026-07-21 |  |
-| 6 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-21 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 7 | [waittim/MemoryCustodian](https://github.com/waittim/MemoryCustodian) | 0 | Python | 2026-07-21 | Durable, repo-native project memory for coding agents—without context bloat. |
-| 8 | [kartikmehta8/linear-to-pr](https://github.com/kartikmehta8/linear-to-pr) | 0 | Shell | 2026-07-21 | Claude Code plugin that takes a Linear ticket from spec to pull request: implements, loops until lint and tests pass, as |
-| 9 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-21 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 17 | Python | 2026-07-21 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 17 | Python | 2026-07-21 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [belschak/web-research-cascade](https://github.com/belschak/web-research-cascade) | 1 | Python | 2026-07-21 | Claude Code skill that escalates blocked web fetches (WebFetch -> Jina Reader -> Firecrawl -> your browser) so primary s |
+| 3 | [belschak/repo-audit](https://github.com/belschak/repo-audit) | 1 | HTML | 2026-07-21 | A Claude Code / agent skill that reads third-party code for red flags before you install it. Six-phase read-only audit,  |
+| 4 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 0 | Python | 2026-07-21 | 개발 전용 Claude Code 플러그인 |
+| 5 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 23 | Python | 2026-07-21 | A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py |
+| 6 | [naveedharri/benai-skills](https://github.com/naveedharri/benai-skills) | 40 | JavaScript | 2026-07-21 |  |
+| 7 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-07-21 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 8 | [waittim/MemoryCustodian](https://github.com/waittim/MemoryCustodian) | 0 | Python | 2026-07-21 | Durable, repo-native project memory for coding agents—without context bloat. |
+| 9 | [kartikmehta8/linear-to-pr](https://github.com/kartikmehta8/linear-to-pr) | 0 | Shell | 2026-07-21 | Claude Code plugin that takes a Linear ticket from spec to pull request: implements, loops until lint and tests pass, as |
+| 10 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-21 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
 | 11 | [dlectronique/adhd-mode-marketplace](https://github.com/dlectronique/adhd-mode-marketplace) | 0 | — | 2026-07-21 | Created to support my ADHD, probably useful for everyone. Always-on Claude Code working-mode skill that helps you stay i |
 | 12 | [YangKangSung/kampff-skills](https://github.com/YangKangSung/kampff-skills) | 0 | Python | 2026-07-21 | Agent skill + spectrograph 7-layer human analysis for Grok · Claude · Hermes. Independent OSS toward Physical AI. |
 | 13 | [kabirnarang39/skillci](https://github.com/kabirnarang39/skillci) | 1 | Go | 2026-07-21 | CI for Claude Skills — lint, eval, and regression-test SKILL.md files across a model matrix, with a self-growing eval lo |
