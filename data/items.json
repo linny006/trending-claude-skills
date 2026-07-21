@@ -1,5 +1,95 @@
 [
   {
+    "description": "Claude skill: removes AI writing patterns from Russian, Ukrainian, Belarusian, Bulgarian & German text. Verified sources",
+    "id": "Romyleads/stop-slop-multilingual",
+    "language": "Python",
+    "name": "Romyleads/stop-slop-multilingual",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:58:13Z",
+    "url": "https://github.com/Romyleads/stop-slop-multilingual"
+  },
+  {
+    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
+    "id": "fcakyon/claude-codex-settings",
+    "language": "Python",
+    "name": "fcakyon/claude-codex-settings",
+    "stars": 807,
+    "updated_at": "2026-07-21T17:57:40Z",
+    "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "description": "Personal collection of Claude skills - growing as I discover patterns and solve real-world problems",
+    "id": "belumume/claude-skills",
+    "language": "Python",
+    "name": "belumume/claude-skills",
+    "stars": 47,
+    "updated_at": "2026-07-21T17:56:00Z",
+    "url": "https://github.com/belumume/claude-skills"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-07-21T17:55:27Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 4,
+    "updated_at": "2026-07-21T17:54:13Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66336,
+    "updated_at": "2026-07-21T17:52:39Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:54:27Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "",
+    "id": "aabuhammam-dh/telc-b1-coach",
+    "language": "HTML",
+    "name": "aabuhammam-dh/telc-b1-coach",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:46:22Z",
+    "url": "https://github.com/aabuhammam-dh/telc-b1-coach"
+  },
+  {
+    "description": "Open Claude Skills for go-to-market teams by Growth Today. Ready-to-install skills for HubSpot, Salesforce, Clay, cold e",
+    "id": "Growth-Today/claude-skills",
+    "language": "Python",
+    "name": "Growth-Today/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:45:26Z",
+    "url": "https://github.com/Growth-Today/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 17,
+    "updated_at": "2026-07-21T17:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -63,24 +153,6 @@
     "url": "https://github.com/jperrello/C0BALT_CUT"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 17,
-    "updated_at": "2026-07-21T17:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
-    "id": "fcakyon/claude-codex-settings",
-    "language": "Python",
-    "name": "fcakyon/claude-codex-settings",
-    "stars": 807,
-    "updated_at": "2026-07-21T17:44:05Z",
-    "url": "https://github.com/fcakyon/claude-codex-settings"
-  },
-  {
     "description": "Skill plugin for Claude Code, Codex & other AI agents: small, safety-first Pingouin workflows for psychology statistics ",
     "id": "Exekiel179/pingouin-psych-stats",
     "language": "Python",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T17:23:37Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66336,
-    "updated_at": "2026-07-21T17:22:34Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -288,15 +351,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "",
-    "id": "aabuhammam-dh/telc-b1-coach",
-    "language": "HTML",
-    "name": "aabuhammam-dh/telc-b1-coach",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:03:01Z",
-    "url": "https://github.com/aabuhammam-dh/telc-b1-coach"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T16:46:43Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-07-21T16:43:26Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-21T17:37:54Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
-    "id": "valentil/featureboard-mcp",
-    "language": "JavaScript",
-    "name": "valentil/featureboard-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-21T16:42:19Z",
-    "url": "https://github.com/valentil/featureboard-mcp"
-  },
-  {
-    "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
-    "id": "wyre-technology/msp-claude-plugins",
-    "language": "Astro",
-    "name": "wyre-technology/msp-claude-plugins",
-    "stars": 35,
-    "updated_at": "2026-07-21T16:39:43Z",
-    "url": "https://github.com/wyre-technology/msp-claude-plugins"
-  },
-  {
-    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
-    "id": "ramboz/jig",
-    "language": "Python",
-    "name": "ramboz/jig",
-    "stars": 4,
-    "updated_at": "2026-07-21T16:39:01Z",
-    "url": "https://github.com/ramboz/jig"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "Python",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 44,
-    "updated_at": "2026-07-21T16:33:27Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
   }
 ]
