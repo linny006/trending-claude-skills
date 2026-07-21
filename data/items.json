@@ -1,5 +1,41 @@
 [
   {
+    "description": "Configure Codex, Claude, and Tabnine to understand your project, follow its workflow, and respect its safety rules.",
+    "id": "jsuvic/agent-profile",
+    "language": "TypeScript",
+    "name": "jsuvic/agent-profile",
+    "stars": 3,
+    "updated_at": "2026-07-21T19:50:06Z",
+    "url": "https://github.com/jsuvic/agent-profile"
+  },
+  {
+    "description": "Run an always-on SEO/AEO growth loop on your own site with Claude: pulls GA4 and Search Console signals, proposes fixes ",
+    "id": "shalintripathi/organic-os",
+    "language": "Python",
+    "name": "shalintripathi/organic-os",
+    "stars": 1,
+    "updated_at": "2026-07-21T19:49:16Z",
+    "url": "https://github.com/shalintripathi/organic-os"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 99,
+    "updated_at": "2026-07-21T19:45:37Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 17,
+    "updated_at": "2026-07-21T19:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -108,15 +144,6 @@
     "url": "https://github.com/0xc000022070/agentic-flake"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 17,
-    "updated_at": "2026-07-21T19:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
     "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
     "language": "HTML",
@@ -178,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T19:22:09Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Run an always-on SEO/AEO growth loop on your own site with Claude: pulls GA4 and Search Console signals, proposes fixes ",
-    "id": "shalintripathi/organic-os",
-    "language": "Python",
-    "name": "shalintripathi/organic-os",
-    "stars": 1,
-    "updated_at": "2026-07-21T19:21:58Z",
-    "url": "https://github.com/shalintripathi/organic-os"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 99,
-    "updated_at": "2026-07-21T19:40:36Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -320,7 +329,7 @@
     "language": "Go Template",
     "name": "narrative-io/narrative-skills-marketplace",
     "stars": 7,
-    "updated_at": "2026-07-21T19:18:21Z",
+    "updated_at": "2026-07-21T19:49:43Z",
     "url": "https://github.com/narrative-io/narrative-skills-marketplace"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 53,
     "updated_at": "2026-07-21T18:30:34Z",
     "url": "https://github.com/SenolIsci/mykg"
-  },
-  {
-    "description": "Reusable AI skills for go-to-market engineering: ICP research, brand voice, signal-driven outbound, positioning, lead sc",
-    "id": "esmefong/gtm-skills",
-    "language": "\u2014",
-    "name": "esmefong/gtm-skills",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:27:13Z",
-    "url": "https://github.com/esmefong/gtm-skills"
   }
 ]
