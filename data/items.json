@@ -1,5 +1,158 @@
 [
   {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 25,
+    "updated_at": "2026-07-22T11:14:46Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-22T11:14:27Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Skill plugin for Claude Code, Codex & other AI agents: small, safety-first Pingouin workflows for psychology statistics ",
+    "id": "Exekiel179/pingouin-psych-stats",
+    "language": "Python",
+    "name": "Exekiel179/pingouin-psych-stats",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:11:28Z",
+    "url": "https://github.com/Exekiel179/pingouin-psych-stats"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 2,
+    "updated_at": "2026-07-22T11:09:00Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:08:52Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:06:02Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:05:11Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:03:49Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:03:39Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Public release distribution for dmtool \u2014 the A12 Kernel document model-authoring CLI + Claude Code/Codex plugins with fi",
+    "id": "mbackschat/a12-dmtool-releases",
+    "language": "Shell",
+    "name": "mbackschat/a12-dmtool-releases",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:03:18Z",
+    "url": "https://github.com/mbackschat/a12-dmtool-releases"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:01:38Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "A production-grade engineering toolkit for AI-assisted software development. Contains 168 specialized skill workflows (1",
+    "id": "NafisRayan/100x-Agent-Toolkit",
+    "language": "Python",
+    "name": "NafisRayan/100x-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:01:04Z",
+    "url": "https://github.com/NafisRayan/100x-Agent-Toolkit"
+  },
+  {
+    "description": "Nuwa - a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
+    "id": "LucioLiu/nuwa",
+    "language": "Python",
+    "name": "LucioLiu/nuwa",
+    "stars": 2,
+    "updated_at": "2026-07-22T11:01:01Z",
+    "url": "https://github.com/LucioLiu/nuwa"
+  },
+  {
+    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
+    "id": "isatimur/excalidraw-skill-pack",
+    "language": "TypeScript",
+    "name": "isatimur/excalidraw-skill-pack",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:00:44Z",
+    "url": "https://github.com/isatimur/excalidraw-skill-pack"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T11:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:00:04Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:00:04Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
     "id": "UiPath/coder_eval",
     "language": "Python",
@@ -108,49 +261,22 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Skill plugin for Claude Code, Codex & other AI agents: small, safety-first Pingouin workflows for psychology statistics ",
-    "id": "Exekiel179/pingouin-psych-stats",
-    "language": "Python",
-    "name": "Exekiel179/pingouin-psych-stats",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:49:20Z",
-    "url": "https://github.com/Exekiel179/pingouin-psych-stats"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:54:33Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 420,
+    "updated_at": "2026-07-22T10:49:46Z",
+    "url": "https://github.com/jabrena/plinth"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66382,
+    "stars": 66381,
     "updated_at": "2026-07-22T10:47:34Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T10:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-22T10:59:28Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -239,7 +365,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 99,
-    "updated_at": "2026-07-22T10:55:17Z",
+    "updated_at": "2026-07-22T11:15:02Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 53,
     "updated_at": "2026-07-22T10:11:45Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
-    "id": "Mary2241/seo-skills-agent-toolbox",
-    "language": "HTML",
-    "name": "Mary2241/seo-skills-agent-toolbox",
-    "stars": 2,
-    "updated_at": "2026-07-22T10:11:20Z",
-    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
-  },
-  {
-    "description": "A curated Claude Code plugin with skills for anything Claude can do.",
-    "id": "toolbox-playground/super-claudio",
-    "language": "\u2014",
-    "name": "toolbox-playground/super-claudio",
-    "stars": 3,
-    "updated_at": "2026-07-22T10:11:16Z",
-    "url": "https://github.com/toolbox-playground/super-claudio"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 2,
-    "updated_at": "2026-07-22T10:10:31Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Honesty-first full-stack product partner skill for Claude Code: verify against reality, hunt silent failures, audit cove",
-    "id": "suprenvb/plumbline",
-    "language": "Python",
-    "name": "suprenvb/plumbline",
-    "stars": 1,
-    "updated_at": "2026-07-22T10:09:46Z",
-    "url": "https://github.com/suprenvb/plumbline"
-  },
-  {
-    "description": "Hands-on demo of the Plumbline skill: a tiny leads dashboard with 3 real bugs and a report that lies about them. Point C",
-    "id": "suprenvb/plumbline-demo",
-    "language": "Python",
-    "name": "suprenvb/plumbline-demo",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:09:02Z",
-    "url": "https://github.com/suprenvb/plumbline-demo"
-  },
-  {
-    "description": "A Flutter application for visualizing and analyzing traffic accident data from Serbian Open Data sources. The app provid",
-    "id": "rus89/saobracajke",
-    "language": "Dart",
-    "name": "rus89/saobracajke",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:08:28Z",
-    "url": "https://github.com/rus89/saobracajke"
-  },
-  {
-    "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
-    "id": "lemur47/logic",
-    "language": "Python",
-    "name": "lemur47/logic",
-    "stars": 1,
-    "updated_at": "2026-07-22T10:02:06Z",
-    "url": "https://github.com/lemur47/logic"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-22T09:57:31Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "In Anthropic's official Claude plugin directory \u00b7 515 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1203,
-    "updated_at": "2026-07-22T09:56:26Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 2,
-    "updated_at": "2026-07-22T09:55:04Z",
-    "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:54:45Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Nuwa - a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "Python",
-    "name": "LucioLiu/nuwa",
-    "stars": 2,
-    "updated_at": "2026-07-22T09:51:19Z",
-    "url": "https://github.com/LucioLiu/nuwa"
-  },
-  {
-    "description": "Sharpen the axe before cutting wood - fool-proof requirement clarification skill for AI agents (Claude Code / Cursor / a",
-    "id": "LucioLiu/sharpen-first",
-    "language": "Python",
-    "name": "LucioLiu/sharpen-first",
-    "stars": 1,
-    "updated_at": "2026-07-22T09:50:46Z",
-    "url": "https://github.com/LucioLiu/sharpen-first"
-  },
-  {
-    "description": "Route each subagent to the cheapest capable model - about 70% off execution-tier tokens in our tests (Claude Code / any ",
-    "id": "LucioLiu/token-saver",
-    "language": "\u2014",
-    "name": "LucioLiu/token-saver",
-    "stars": 1,
-    "updated_at": "2026-07-22T09:50:38Z",
-    "url": "https://github.com/LucioLiu/token-saver"
   }
 ]
