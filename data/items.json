@@ -1,5 +1,23 @@
 [
   {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-07-22T00:22:06Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T00:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
     "id": "artokun/comfyui-mcp",
     "language": "TypeScript",
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T00:10:21Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T00:10:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Cognitive translation layer for Claude Code",
@@ -122,7 +131,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-22T00:00:52Z",
+    "updated_at": "2026-07-22T00:29:41Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 20,
     "updated_at": "2026-07-21T23:27:01Z",
     "url": "https://github.com/ommakes/Skills"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:26:52Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
