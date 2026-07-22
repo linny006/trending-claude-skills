@@ -1,12 +1,93 @@
 [
   {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 45,
+    "updated_at": "2026-07-22T21:28:16Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 428,
+    "updated_at": "2026-07-22T21:29:16Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "\ud83d\udcec Write investor updates your investors actually read \u2014 a Claude Code skill template for founders, by Pitchdrive",
+    "id": "Pitchdrive/investor-update-skill",
+    "language": "\u2014",
+    "name": "Pitchdrive/investor-update-skill",
+    "stars": 0,
+    "updated_at": "2026-07-22T21:26:19Z",
+    "url": "https://github.com/Pitchdrive/investor-update-skill"
+  },
+  {
     "description": "Claude Code skills for non-technical founders, solopreneurs & one-person companies running an AI engineering team \u2014 no c",
     "id": "lightarktech/founder-coding-skills",
     "language": "\u2014",
     "name": "lightarktech/founder-coding-skills",
     "stars": 0,
-    "updated_at": "2026-07-22T21:13:52Z",
+    "updated_at": "2026-07-22T21:25:11Z",
     "url": "https://github.com/lightarktech/founder-coding-skills"
+  },
+  {
+    "description": "An action-first AI skill for work, research, life, and every tab you forgot was open.",
+    "id": "zgbrenner/i-have-adhd-and-47-tabs",
+    "language": "Python",
+    "name": "zgbrenner/i-have-adhd-and-47-tabs",
+    "stars": 6,
+    "updated_at": "2026-07-22T21:25:41Z",
+    "url": "https://github.com/zgbrenner/i-have-adhd-and-47-tabs"
+  },
+  {
+    "description": "Cognitive translation layer for Claude Code",
+    "id": "khujta/gabe-suite",
+    "language": "HTML",
+    "name": "khujta/gabe-suite",
+    "stars": 0,
+    "updated_at": "2026-07-22T21:21:13Z",
+    "url": "https://github.com/khujta/gabe-suite"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-22T21:17:30Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 0,
+    "updated_at": "2026-07-22T21:16:33Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T21:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code skill: turn a keyword into presentation-ready PNG icons \u2014 3 concepts, 1:1, transparent, recolorable",
+    "id": "ruthless-coder-ai/keyword-icons",
+    "language": "Python",
+    "name": "ruthless-coder-ai/keyword-icons",
+    "stars": 0,
+    "updated_at": "2026-07-22T21:15:09Z",
+    "url": "https://github.com/ruthless-coder-ai/keyword-icons"
   },
   {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
@@ -77,7 +158,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-07-22T21:07:02Z",
+    "updated_at": "2026-07-22T21:20:27Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -97,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T21:04:49Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 428,
-    "updated_at": "2026-07-22T21:04:47Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
     "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
@@ -144,15 +216,6 @@
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T21:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 105,
-    "updated_at": "2026-07-22T20:59:49Z",
+    "updated_at": "2026-07-22T21:27:02Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -259,15 +322,6 @@
     "stars": 337,
     "updated_at": "2026-07-22T20:42:31Z",
     "url": "https://github.com/jamditis/claude-skills-journalism"
-  },
-  {
-    "description": "Action-first AI skill for work, research, life, and every tab you forgot was open.",
-    "id": "zgbrenner/i-have-adhd-and-47-tabs",
-    "language": "Python",
-    "name": "zgbrenner/i-have-adhd-and-47-tabs",
-    "stars": 6,
-    "updated_at": "2026-07-22T20:41:44Z",
-    "url": "https://github.com/zgbrenner/i-have-adhd-and-47-tabs"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-22T20:29:09Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Claude Code skill: five-layer documentation quality standards (ASD-STE100, Google/Microsoft style, ISO 24495, AI readabi",
-    "id": "JuanMarchetto/doc-standards-skill",
-    "language": "Python",
-    "name": "JuanMarchetto/doc-standards-skill",
-    "stars": 0,
-    "updated_at": "2026-07-22T20:27:02Z",
-    "url": "https://github.com/JuanMarchetto/doc-standards-skill"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 395,
-    "updated_at": "2026-07-22T20:25:51Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 0,
-    "updated_at": "2026-07-22T20:19:49Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-07-22T20:16:39Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Claude/agent skill: fair coaching rates by role, territory, and coach seniority \u2014 ICF 2025 + CEE market anchors, with re",
-    "id": "marian-kamenistak/coaching-cost-calculator",
-    "language": "\u2014",
-    "name": "marian-kamenistak/coaching-cost-calculator",
-    "stars": 0,
-    "updated_at": "2026-07-22T20:16:34Z",
-    "url": "https://github.com/marian-kamenistak/coaching-cost-calculator"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 0,
-    "updated_at": "2026-07-22T20:16:04Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
   }
 ]
