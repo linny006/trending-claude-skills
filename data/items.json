@@ -1,5 +1,113 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 395,
+    "updated_at": "2026-07-22T11:43:00Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Agent Skills for shipping Swift/macOS apps: .icns icons, .app/DMG packaging, CI portability traps, OSS readiness audit, ",
+    "id": "chsistrying/swift-ship-skills",
+    "language": "Shell",
+    "name": "chsistrying/swift-ship-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:42:32Z",
+    "url": "https://github.com/chsistrying/swift-ship-skills"
+  },
+  {
+    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
+    "id": "jherrodthomas/robotics-skills-suite",
+    "language": "\u2014",
+    "name": "jherrodthomas/robotics-skills-suite",
+    "stars": 257,
+    "updated_at": "2026-07-22T11:41:41Z",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
+  },
+  {
+    "description": "Run an always-on SEO/AEO growth loop on your own site with Claude: pulls GA4 and Search Console signals, proposes fixes ",
+    "id": "shalintripathi/organic-os",
+    "language": "Python",
+    "name": "shalintripathi/organic-os",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:40:43Z",
+    "url": "https://github.com/shalintripathi/organic-os"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 2,
+    "updated_at": "2026-07-22T11:38:35Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
+    "id": "Andreasuar2549/resume-studio",
+    "language": "Python",
+    "name": "Andreasuar2549/resume-studio",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:37:07Z",
+    "url": "https://github.com/Andreasuar2549/resume-studio"
+  },
+  {
+    "description": "Claude Agent Skills for SEO + AEO (answer-engine optimization). Framework-agnostic audits that catch the client-renderin",
+    "id": "chsistrying/claude-seo-skills",
+    "language": "\u2014",
+    "name": "chsistrying/claude-seo-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:36:01Z",
+    "url": "https://github.com/chsistrying/claude-seo-skills"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 208,
+    "updated_at": "2026-07-22T11:35:01Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Public release distribution for dmtool \u2014 the A12 Kernel document model-authoring CLI + Claude Code/Codex plugins with fi",
+    "id": "mbackschat/a12-dmtool-releases",
+    "language": "Shell",
+    "name": "mbackschat/a12-dmtool-releases",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:40:37Z",
+    "url": "https://github.com/mbackschat/a12-dmtool-releases"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-22T11:42:09Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "[MIRROR] My personal AI skills",
+    "id": "papanito/ai-skills",
+    "language": "Shell",
+    "name": "papanito/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:30:22Z",
+    "url": "https://github.com/papanito/ai-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T11:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Public agent skill for display.dev \u2014 publish HTML or Markdown behind company auth from your AI assistant. Works across C",
     "id": "display-dev/skill",
     "language": "Shell",
@@ -36,15 +144,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T11:25:07Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
     "id": "glitchwerks/claude-wayfinder",
     "language": "Python",
@@ -52,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T11:22:41Z",
     "url": "https://github.com/glitchwerks/claude-wayfinder"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-22T11:26:42Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -79,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-07-22T11:19:27Z",
     "url": "https://github.com/aabuhammam-dh/telc-b1-coach"
+  },
+  {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
+    "id": "ratel-ai/ratel",
+    "language": "Rust",
+    "name": "ratel-ai/ratel",
+    "stars": 277,
+    "updated_at": "2026-07-22T11:18:49Z",
+    "url": "https://github.com/ratel-ai/ratel"
   },
   {
     "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
@@ -171,15 +270,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Public release distribution for dmtool \u2014 the A12 Kernel document model-authoring CLI + Claude Code/Codex plugins with fi",
-    "id": "mbackschat/a12-dmtool-releases",
-    "language": "Shell",
-    "name": "mbackschat/a12-dmtool-releases",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:24:21Z",
-    "url": "https://github.com/mbackschat/a12-dmtool-releases"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -252,15 +342,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 208,
-    "updated_at": "2026-07-22T11:27:22Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -310,7 +391,7 @@
     "id": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
     "language": "Python",
     "name": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
-    "stars": 2357,
+    "stars": 2358,
     "updated_at": "2026-07-22T10:51:14Z",
     "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T10:37:00Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "ADD - LOOP SKILL for AI Coding Agent",
-    "id": "pilotspace/ADD",
-    "language": "Python",
-    "name": "pilotspace/ADD",
-    "stars": 18,
-    "updated_at": "2026-07-22T10:35:58Z",
-    "url": "https://github.com/pilotspace/ADD"
-  },
-  {
-    "description": "An atelier for Opencode, Claude Code, and other coding agents: spec-driven workflows, deep thinking, and code quality.",
-    "id": "martinffx/atelier",
-    "language": "TypeScript",
-    "name": "martinffx/atelier",
-    "stars": 36,
-    "updated_at": "2026-07-22T10:35:55Z",
-    "url": "https://github.com/martinffx/atelier"
-  },
-  {
-    "description": "A pack of skills for AI coding agents (Claude Code, Cursor) that lets them operate Adapto CMS end-to-end: scaffold proje",
-    "id": "adaptocms/adapto-cms-agent-skills",
-    "language": "JavaScript",
-    "name": "adaptocms/adapto-cms-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-07-22T10:33:40Z",
-    "url": "https://github.com/adaptocms/adapto-cms-agent-skills"
-  },
-  {
-    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
-    "id": "ergrelet/windiff",
-    "language": "Rust",
-    "name": "ergrelet/windiff",
-    "stars": 388,
-    "updated_at": "2026-07-22T10:31:36Z",
-    "url": "https://github.com/ergrelet/windiff"
-  },
-  {
-    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
-    "id": "RemiAsselin42/claude-config",
-    "language": "Shell",
-    "name": "RemiAsselin42/claude-config",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:30:54Z",
-    "url": "https://github.com/RemiAsselin42/claude-config"
-  },
-  {
-    "description": "Claude Skills for go-to-market teams \u2014 ready-to-install HubSpot, Salesforce, LinkedIn & outbound skills. AI-native GTM e",
-    "id": "Growth-Today/claude-skills",
-    "language": "Python",
-    "name": "Growth-Today/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:30:48Z",
-    "url": "https://github.com/Growth-Today/claude-skills"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 1,
-    "updated_at": "2026-07-22T10:28:09Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:27:50Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 99,
-    "updated_at": "2026-07-22T11:28:27Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   }
 ]
