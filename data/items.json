@@ -1,11 +1,110 @@
 [
   {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-07-22T01:43:59Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "A Claude Code plugin that turns issues, problem statements, and feature requests \u2192 reviewed plans \u2192 focused tasks \u2192 and ",
+    "id": "metallurgical/ogre-runner",
+    "language": "Shell",
+    "name": "metallurgical/ogre-runner",
+    "stars": 1,
+    "updated_at": "2026-07-22T01:39:03Z",
+    "url": "https://github.com/metallurgical/ogre-runner"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 395,
+    "updated_at": "2026-07-22T01:44:34Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 424,
+    "updated_at": "2026-07-22T01:38:48Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot. And, support for OpenCode is also plan",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-22T01:40:40Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Personal plugins for Claude Code (& friends)... maybe worth sharing!",
+    "id": "emaballarin/ccplugins",
+    "language": "Python",
+    "name": "emaballarin/ccplugins",
+    "stars": 2,
+    "updated_at": "2026-07-22T01:35:05Z",
+    "url": "https://github.com/emaballarin/ccplugins"
+  },
+  {
+    "description": "22 \u7ae0\u8282 Claude Skills \u5168\u666f\u56fe + \u5b8c\u6574\u6e90\u7801",
+    "id": "Alexxiang2008/awesome-skills-map",
+    "language": "HTML",
+    "name": "Alexxiang2008/awesome-skills-map",
+    "stars": 0,
+    "updated_at": "2026-07-22T01:34:07Z",
+    "url": "https://github.com/Alexxiang2008/awesome-skills-map"
+  },
+  {
+    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
+    "id": "fcakyon/claude-codex-settings",
+    "language": "Python",
+    "name": "fcakyon/claude-codex-settings",
+    "stars": 808,
+    "updated_at": "2026-07-22T01:31:48Z",
+    "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "description": "Goal-driven, loop-powered marketing agents that crush your business goals 24/7",
+    "id": "nowork-studio/NotFair",
+    "language": "TypeScript",
+    "name": "nowork-studio/NotFair",
+    "stars": 3177,
+    "updated_at": "2026-07-22T01:31:36Z",
+    "url": "https://github.com/nowork-studio/NotFair"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-22T01:31:35Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T01:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
     "id": "UiPath/coder_eval",
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 105,
-    "updated_at": "2026-07-22T01:29:29Z",
+    "updated_at": "2026-07-22T01:39:04Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -16,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T01:27:50Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Goal-driven, loop-powered marketing agents that crush your business goals 24/7",
-    "id": "nowork-studio/NotFair",
-    "language": "TypeScript",
-    "name": "nowork-studio/NotFair",
-    "stars": 3176,
-    "updated_at": "2026-07-22T01:25:06Z",
-    "url": "https://github.com/nowork-studio/NotFair"
-  },
-  {
-    "description": "22 \u7ae0\u8282 Claude Skills \u5168\u666f\u56fe + \u5b8c\u6574\u6e90\u7801",
-    "id": "Alexxiang2008/awesome-skills-map",
-    "language": "HTML",
-    "name": "Alexxiang2008/awesome-skills-map",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:23:52Z",
-    "url": "https://github.com/Alexxiang2008/awesome-skills-map"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -72,33 +153,6 @@
     "url": "https://github.com/alfadur7/llm-wiki-newsroom"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 395,
-    "updated_at": "2026-07-22T01:15:16Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T01:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-22T01:14:15Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
     "id": "codeswithroh/tastemaker",
     "language": "Python",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 208,
-    "updated_at": "2026-07-22T01:09:27Z",
+    "updated_at": "2026-07-22T01:41:45Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T01:05:18Z",
     "url": "https://github.com/yinjialu/ai-frontier-daily"
-  },
-  {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 423,
-    "updated_at": "2026-07-22T01:04:31Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
     "description": "Give your AI coding agent (Claude Code, Cursor, Copilot, Codex, Gemini) the power to author Remotion video compositions ",
@@ -277,24 +322,6 @@
     "stars": 3,
     "updated_at": "2026-07-22T00:54:29Z",
     "url": "https://github.com/air-gapped/skills"
-  },
-  {
-    "description": "A Claude Code plugin that turns issues, problem statements, and feature requests \u2192 reviewed plans \u2192 focused tasks \u2192 and ",
-    "id": "metallurgical/ogre-runner",
-    "language": "Shell",
-    "name": "metallurgical/ogre-runner",
-    "stars": 1,
-    "updated_at": "2026-07-22T00:51:28Z",
-    "url": "https://github.com/metallurgical/ogre-runner"
-  },
-  {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot. And, support for OpenCode is also plan",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-22T01:26:00Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T00:00:31Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:59:22Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:58:29Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:58:02Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   }
 ]
