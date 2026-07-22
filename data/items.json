@@ -1,5 +1,122 @@
 [
   {
+    "description": "",
+    "id": "aabuhammam-dh/telc-b1-coach",
+    "language": "HTML",
+    "name": "aabuhammam-dh/telc-b1-coach",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:14:57Z",
+    "url": "https://github.com/aabuhammam-dh/telc-b1-coach"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 53,
+    "updated_at": "2026-07-22T10:11:45Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "A pack of skills for AI coding agents (Claude Code, Cursor) that lets them operate Adapto CMS end-to-end: scaffold proje",
+    "id": "adaptocms/adapto-cms-agent-skills",
+    "language": "JavaScript",
+    "name": "adaptocms/adapto-cms-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:14:56Z",
+    "url": "https://github.com/adaptocms/adapto-cms-agent-skills"
+  },
+  {
+    "description": "\u26a1 2026 SEO Audit & Content Agent \u2013 Claude for SE Ranking MCP",
+    "id": "Mary2241/seo-skills-agent-toolbox",
+    "language": "HTML",
+    "name": "Mary2241/seo-skills-agent-toolbox",
+    "stars": 2,
+    "updated_at": "2026-07-22T10:11:20Z",
+    "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
+  },
+  {
+    "description": "A curated Claude Code plugin with skills for anything Claude can do.",
+    "id": "toolbox-playground/super-claudio",
+    "language": "\u2014",
+    "name": "toolbox-playground/super-claudio",
+    "stars": 3,
+    "updated_at": "2026-07-22T10:11:16Z",
+    "url": "https://github.com/toolbox-playground/super-claudio"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 2,
+    "updated_at": "2026-07-22T10:10:31Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Honesty-first full-stack product partner skill for Claude Code: verify against reality, hunt silent failures, audit cove",
+    "id": "suprenvb/plumbline",
+    "language": "Python",
+    "name": "suprenvb/plumbline",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:09:46Z",
+    "url": "https://github.com/suprenvb/plumbline"
+  },
+  {
+    "description": "Hands-on demo of the Plumbline skill: a tiny leads dashboard with 3 real bugs and a report that lies about them. Point C",
+    "id": "suprenvb/plumbline-demo",
+    "language": "Python",
+    "name": "suprenvb/plumbline-demo",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:09:02Z",
+    "url": "https://github.com/suprenvb/plumbline-demo"
+  },
+  {
+    "description": "Skill plugin for Claude Code, Codex & other AI agents: small, safety-first Pingouin workflows for psychology statistics ",
+    "id": "Exekiel179/pingouin-psych-stats",
+    "language": "Python",
+    "name": "Exekiel179/pingouin-psych-stats",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:06:57Z",
+    "url": "https://github.com/Exekiel179/pingouin-psych-stats"
+  },
+  {
+    "description": "A Flutter application for visualizing and analyzing traffic accident data from Serbian Open Data sources. The app provid",
+    "id": "rus89/saobracajke",
+    "language": "Dart",
+    "name": "rus89/saobracajke",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:08:28Z",
+    "url": "https://github.com/rus89/saobracajke"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-22T10:12:13Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
+    "id": "lemur47/logic",
+    "language": "Python",
+    "name": "lemur47/logic",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:02:06Z",
+    "url": "https://github.com/lemur47/logic"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T10:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
     "id": "tobihagemann/turbo",
     "language": "Shell",
@@ -50,7 +167,7 @@
     "language": "Shell",
     "name": "mimukit/skills",
     "stars": 0,
-    "updated_at": "2026-07-22T09:51:28Z",
+    "updated_at": "2026-07-22T10:14:06Z",
     "url": "https://github.com/mimukit/skills"
   },
   {
@@ -90,15 +207,6 @@
     "url": "https://github.com/AgenticPW/AgenticPW"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-22T09:58:15Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "A plugin system for Claude Code that adds skills, agents, guidelines, repo-aware configurations, and MCP integrations to",
     "id": "sujeet-pro/agents-devkit",
     "language": "Python",
@@ -106,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T09:45:26Z",
     "url": "https://github.com/sujeet-pro/agents-devkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T09:45:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
@@ -171,15 +270,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
-    "id": "lemur47/logic",
-    "language": "Python",
-    "name": "lemur47/logic",
-    "stars": 1,
-    "updated_at": "2026-07-22T09:47:31Z",
-    "url": "https://github.com/lemur47/logic"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -205,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T09:34:34Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Honesty-first full-stack product partner skill for Claude Code: verify against reality, hunt silent failures, audit cove",
-    "id": "suprenvb/plumbline",
-    "language": "Python",
-    "name": "suprenvb/plumbline",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:34:03Z",
-    "url": "https://github.com/suprenvb/plumbline"
   },
   {
     "description": "Claude Code skills for legal scholarship: verified citation placement (Bluebook/OSCOLA/McGill), law-review docx pipeline",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T09:25:32Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Run an always-on SEO/AEO growth loop on your own site with Claude: pulls GA4 and Search Console signals, proposes fixes ",
-    "id": "shalintripathi/organic-os",
-    "language": "Python",
-    "name": "shalintripathi/organic-os",
-    "stars": 1,
-    "updated_at": "2026-07-22T09:24:23Z",
-    "url": "https://github.com/shalintripathi/organic-os"
-  },
-  {
-    "description": "Set of skills for globalizing and localizing app",
-    "id": "globalize-now/globalize-skills",
-    "language": "TypeScript",
-    "name": "globalize-now/globalize-skills",
-    "stars": 1,
-    "updated_at": "2026-07-22T09:22:34Z",
-    "url": "https://github.com/globalize-now/globalize-skills"
-  },
-  {
-    "description": "Travel industry AI tools, skills & plugins",
-    "id": "omnitravelrepo/travel-tools",
-    "language": "Python",
-    "name": "omnitravelrepo/travel-tools",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:21:15Z",
-    "url": "https://github.com/omnitravelrepo/travel-tools"
-  },
-  {
-    "description": "Unified interface for stock data, market analytics, technical analysis, batch collection, and news \u2014 covering 15+ data s",
-    "id": "hongbietcode/claude-finance-kit",
-    "language": "Python",
-    "name": "hongbietcode/claude-finance-kit",
-    "stars": 5,
-    "updated_at": "2026-07-22T09:20:57Z",
-    "url": "https://github.com/hongbietcode/claude-finance-kit"
-  },
-  {
-    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
-    "id": "gagip/gagip-dev",
-    "language": "Python",
-    "name": "gagip/gagip-dev",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:23:04Z",
-    "url": "https://github.com/gagip/gagip-dev"
-  },
-  {
-    "description": "ADD - LOOP SKILL for AI Coding Agent",
-    "id": "pilotspace/ADD",
-    "language": "Python",
-    "name": "pilotspace/ADD",
-    "stars": 18,
-    "updated_at": "2026-07-22T09:18:57Z",
-    "url": "https://github.com/pilotspace/ADD"
-  },
-  {
-    "description": "My agentic-engineering workbench \u2014 Claude Code skills, subagents, and CI workflows I reuse across projects.",
-    "id": "Rijul1204/rashedul-agentic-engineering",
-    "language": "Shell",
-    "name": "Rijul1204/rashedul-agentic-engineering",
-    "stars": 2,
-    "updated_at": "2026-07-22T09:17:18Z",
-    "url": "https://github.com/Rijul1204/rashedul-agentic-engineering"
-  },
-  {
-    "description": "Let your AI agent reach your phone via ntfy - setup, CJK encoding pitfalls, when-to-call discipline (Claude Code / any L",
-    "id": "LucioLiu/knock-knock",
-    "language": "\u2014",
-    "name": "LucioLiu/knock-knock",
-    "stars": 1,
-    "updated_at": "2026-07-22T09:15:45Z",
-    "url": "https://github.com/LucioLiu/knock-knock"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:14:52Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
