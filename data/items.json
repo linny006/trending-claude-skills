@@ -1,19 +1,145 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 99,
+    "updated_at": "2026-07-22T08:29:48Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-22T08:27:33Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
     "description": "Business registry data skills + MCP server for AI agents - KYC/AML, credit risk, property, compliance, lead gen across 3",
     "id": "Nolpak14/getregdata",
     "language": "JavaScript",
     "name": "Nolpak14/getregdata",
     "stars": 4,
-    "updated_at": "2026-07-22T08:12:24Z",
+    "updated_at": "2026-07-22T08:27:32Z",
     "url": "https://github.com/Nolpak14/getregdata"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66381,
+    "updated_at": "2026-07-22T08:24:25Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 26,
+    "updated_at": "2026-07-22T08:22:26Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-22T08:21:26Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "Claude Code skills \u2014 starting with token-efficiency, a cross-cutting skill for terser reasoning, prose, and code",
+    "id": "denfry/claude-skills",
+    "language": "Python",
+    "name": "denfry/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-07-22T08:19:56Z",
+    "url": "https://github.com/denfry/claude-skills"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot. And, support for OpenCode is also plan",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-22T08:28:59Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/skills",
+    "language": "Shell",
+    "name": "yschimke/skills",
+    "stars": 2,
+    "updated_at": "2026-07-22T08:27:44Z",
+    "url": "https://github.com/yschimke/skills"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 1,
+    "updated_at": "2026-07-22T08:19:04Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-07-22T08:18:40Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "191 attribution-first agent skills for Hermes Agent, Claude Code, Cursor \u2014 one installer, 28 categories, searchable cata",
+    "id": "kevinnft/ai-agent-skills",
+    "language": "Python",
+    "name": "kevinnft/ai-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-07-22T08:17:20Z",
+    "url": "https://github.com/kevinnft/ai-agent-skills"
+  },
+  {
+    "description": "A Claude Code plugin that turns issues, problem statements, and feature requests \u2192 reviewed plans \u2192 focused tasks \u2192 and ",
+    "id": "metallurgical/ogre-runner",
+    "language": "Shell",
+    "name": "metallurgical/ogre-runner",
+    "stars": 1,
+    "updated_at": "2026-07-22T08:17:05Z",
+    "url": "https://github.com/metallurgical/ogre-runner"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T08:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 1,
+    "updated_at": "2026-07-22T08:13:50Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
     "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
     "id": "laolaoshiren/claude-code-skills-zh",
     "language": "Python",
     "name": "laolaoshiren/claude-code-skills-zh",
-    "stars": 668,
+    "stars": 669,
     "updated_at": "2026-07-22T08:12:16Z",
     "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
   },
@@ -45,15 +171,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 99,
-    "updated_at": "2026-07-22T08:12:34Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -61,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T08:06:27Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T08:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -104,7 +212,7 @@
     "language": "Python",
     "name": "Ldxs001/workbuddy-skills",
     "stars": 2,
-    "updated_at": "2026-07-22T08:02:58Z",
+    "updated_at": "2026-07-22T08:23:11Z",
     "url": "https://github.com/Ldxs001/workbuddy-skills"
   },
   {
@@ -126,15 +234,6 @@
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot. And, support for OpenCode is also plan",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-22T08:12:45Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
     "id": "YoniChechik/claude-code-config",
     "language": "Shell",
@@ -153,15 +252,6 @@
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66380,
-    "updated_at": "2026-07-22T07:47:41Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "In Anthropic's official Claude plugin directory \u00b7 515 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
     "id": "mohitagw15856/pm-claude-skills",
     "language": "HTML",
@@ -176,7 +266,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-07-22T07:59:33Z",
+    "updated_at": "2026-07-22T08:19:03Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 428,
     "updated_at": "2026-07-22T07:15:02Z",
     "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "Know your user: a USER.md that grows. Your AI's understanding of you in a file you own \u2014 hand-written lane + agent-curat",
-    "id": "LucioLiu/user-md",
-    "language": "\u2014",
-    "name": "LucioLiu/user-md",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:14:58Z",
-    "url": "https://github.com/LucioLiu/user-md"
-  },
-  {
-    "description": "Personal memory across agents",
-    "id": "NevaMind-AI/memU",
-    "language": "Python",
-    "name": "NevaMind-AI/memU",
-    "stars": 14051,
-    "updated_at": "2026-07-22T07:14:18Z",
-    "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "A predictions ledger with forced settlement for AI agents: log every judgment as a bet, settle it against reality, disti",
-    "id": "LucioLiu/track-record",
-    "language": "\u2014",
-    "name": "LucioLiu/track-record",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:14:13Z",
-    "url": "https://github.com/LucioLiu/track-record"
-  },
-  {
-    "description": "Route each subagent to the cheapest capable model - about 70% off execution-tier tokens in our tests (Claude Code / any ",
-    "id": "LucioLiu/token-saver",
-    "language": "\u2014",
-    "name": "LucioLiu/token-saver",
-    "stars": 1,
-    "updated_at": "2026-07-22T07:13:28Z",
-    "url": "https://github.com/LucioLiu/token-saver"
-  },
-  {
-    "description": "Sharpen the axe before cutting wood - fool-proof requirement clarification skill for AI agents (Claude Code / Cursor / a",
-    "id": "LucioLiu/sharpen-first",
-    "language": "\u2014",
-    "name": "LucioLiu/sharpen-first",
-    "stars": 1,
-    "updated_at": "2026-07-22T07:12:40Z",
-    "url": "https://github.com/LucioLiu/sharpen-first"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 2,
-    "updated_at": "2026-07-22T07:12:09Z",
-    "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "Teach your AI agent to acquire capabilities on its own - find existing skills before building one (Claude Code / any LLM",
-    "id": "LucioLiu/dont-reinvent",
-    "language": "\u2014",
-    "name": "LucioLiu/dont-reinvent",
-    "stars": 1,
-    "updated_at": "2026-07-22T07:11:53Z",
-    "url": "https://github.com/LucioLiu/dont-reinvent"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:11:30Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
-    "id": "netopsengineer/axiom",
-    "language": "Python",
-    "name": "netopsengineer/axiom",
-    "stars": 3,
-    "updated_at": "2026-07-22T07:11:13Z",
-    "url": "https://github.com/netopsengineer/axiom"
-  },
-  {
-    "description": "A 4-skill pipeline for Claude Code: verify mathematical proofs \u2192 repair with literature support \u2192 sharpen the theory \u2192 w",
-    "id": "gyf9712/stat-theory-skills",
-    "language": "Python",
-    "name": "gyf9712/stat-theory-skills",
-    "stars": 4,
-    "updated_at": "2026-07-22T07:07:01Z",
-    "url": "https://github.com/gyf9712/stat-theory-skills"
   }
 ]
