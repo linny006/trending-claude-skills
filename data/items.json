@@ -1,5 +1,203 @@
 [
   {
+    "description": "A curated collection of AI-powered skills, agents, prompts, and workflows for Android, iOS, Flutter, React Native, Unity",
+    "id": "salmanashraf/mobile-ai-agents",
+    "language": "JavaScript",
+    "name": "salmanashraf/mobile-ai-agents",
+    "stars": 19,
+    "updated_at": "2026-07-22T04:14:50Z",
+    "url": "https://github.com/salmanashraf/mobile-ai-agents"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-22T04:14:29Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Structured cognitive workflows for AI \u2014 not one-line prompts, but step-by-step investigation skills with source tiering,",
+    "id": "KIRRAWA/cogniforge",
+    "language": "Shell",
+    "name": "KIRRAWA/cogniforge",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:11:26Z",
+    "url": "https://github.com/KIRRAWA/cogniforge"
+  },
+  {
+    "description": "My collection of Claude skills",
+    "id": "oaustegard/claude-skills",
+    "language": "Python",
+    "name": "oaustegard/claude-skills",
+    "stars": 132,
+    "updated_at": "2026-07-22T04:08:44Z",
+    "url": "https://github.com/oaustegard/claude-skills"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 425,
+    "updated_at": "2026-07-22T04:07:41Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Claude Code skill that catches your README lying \u2014 it follows your setup docs literally in a clean environment and repor",
+    "id": "tokyubevoxelverse/onboard",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/onboard",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:04:48Z",
+    "url": "https://github.com/tokyubevoxelverse/onboard"
+  },
+  {
+    "description": "Claude Code skill that resurrects dead repos \u2014 point it at a project that no longer builds and it fixes the deps, patche",
+    "id": "tokyubevoxelverse/necromancer",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/necromancer",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:04:46Z",
+    "url": "https://github.com/tokyubevoxelverse/necromancer"
+  },
+  {
+    "description": "A toolbox of Claude Code skills that do real work \u2014 resurrect dead repos, catch lying READMEs, hunt flaky tests, backgro",
+    "id": "tokyubevoxelverse/skills",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/skills",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:04:23Z",
+    "url": "https://github.com/tokyubevoxelverse/skills"
+  },
+  {
+    "description": "Claude Code skill that turns \"it crashes sometimes\" into the minimal script that crashes it every time \u2014 hypothesis hunt",
+    "id": "tokyubevoxelverse/repro",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/repro",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:04:17Z",
+    "url": "https://github.com/tokyubevoxelverse/repro"
+  },
+  {
+    "description": "Claude Code skill that rules whether your next release is legally a patch, minor, or major \u2014 by diffing the actual publi",
+    "id": "tokyubevoxelverse/semver-cop",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/semver-cop",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:04:11Z",
+    "url": "https://github.com/tokyubevoxelverse/semver-cop"
+  },
+  {
+    "description": "Claude Code skill that writes the end-of-session note your future self needs \u2014 what changed and why, the half-done state",
+    "id": "tokyubevoxelverse/handoff",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/handoff",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:04:05Z",
+    "url": "https://github.com/tokyubevoxelverse/handoff"
+  },
+  {
+    "description": "Claude Code skill that reconciles a years-diverged fork with upstream \u2014 sentences every fork commit (absorbed, supersede",
+    "id": "tokyubevoxelverse/unfork",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/unfork",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:04:00Z",
+    "url": "https://github.com/tokyubevoxelverse/unfork"
+  },
+  {
+    "description": "Claude Code skill that gives your repo a physical \u2014 dead doc links, stale badges, outdated deps, CI decay, docs contradi",
+    "id": "tokyubevoxelverse/checkup",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/checkup",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:03:55Z",
+    "url": "https://github.com/tokyubevoxelverse/checkup"
+  },
+  {
+    "description": "Claude Code skill that reviews PRs by trying to break them \u2014 hostile tests against every claim the diff makes, control-r",
+    "id": "tokyubevoxelverse/skeptic",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/skeptic",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:03:25Z",
+    "url": "https://github.com/tokyubevoxelverse/skeptic"
+  },
+  {
+    "description": "Claude Code skill that clears your issue backlog \u2014 dedupes by symptom, finds bugs already fixed on main, drafts the repl",
+    "id": "tokyubevoxelverse/triage",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/triage",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:03:20Z",
+    "url": "https://github.com/tokyubevoxelverse/triage"
+  },
+  {
+    "description": "Claude Code skill that preps a private repo for open-sourcing \u2014 sweeps code AND full git history for secrets and persona",
+    "id": "tokyubevoxelverse/declassify",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/declassify",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:03:14Z",
+    "url": "https://github.com/tokyubevoxelverse/declassify"
+  },
+  {
+    "description": "Claude Code skill that hunts flaky tests \u2014 separates flaky from broken, diagnoses the root cause (shared state, timing, ",
+    "id": "tokyubevoxelverse/detox",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/detox",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:03:09Z",
+    "url": "https://github.com/tokyubevoxelverse/detox"
+  },
+  {
+    "description": "Claude Code skill that investigates Chesterton's fence \u2014 point it at a weird line of code and it digs through blame, old",
+    "id": "tokyubevoxelverse/fence",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/fence",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:03:04Z",
+    "url": "https://github.com/tokyubevoxelverse/fence"
+  },
+  {
+    "description": "Claude Code skill that finds the exact commit that broke it \u2014 describe the bug in plain English and it writes the check,",
+    "id": "tokyubevoxelverse/bisect",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/bisect",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:02:58Z",
+    "url": "https://github.com/tokyubevoxelverse/bisect"
+  },
+  {
+    "description": "Claude Code skill that background-checks a dependency before you install it \u2014 maintenance pulse, real install weight, li",
+    "id": "tokyubevoxelverse/vet",
+    "language": "\u2014",
+    "name": "tokyubevoxelverse/vet",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:02:52Z",
+    "url": "https://github.com/tokyubevoxelverse/vet"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66362,
+    "updated_at": "2026-07-22T04:06:05Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T04:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
     "id": "Stewie-pixel/claude-with-leetcode",
     "language": "C++",
@@ -7,15 +205,6 @@
     "stars": 63,
     "updated_at": "2026-07-22T03:58:44Z",
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66361,
-    "updated_at": "2026-07-22T03:57:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
@@ -32,17 +221,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-07-22T03:58:11Z",
+    "updated_at": "2026-07-22T04:11:44Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "My collection of Claude skills",
-    "id": "oaustegard/claude-skills",
-    "language": "Python",
-    "name": "oaustegard/claude-skills",
-    "stars": 132,
-    "updated_at": "2026-07-22T03:55:11Z",
-    "url": "https://github.com/oaustegard/claude-skills"
   },
   {
     "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
@@ -68,26 +248,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-22T03:55:42Z",
+    "updated_at": "2026-07-22T04:14:32Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Claude Code skill that catches your README lying \u2014 it follows your setup docs literally in a clean environment and repor",
-    "id": "tokyubevoxelverse/onboard",
-    "language": "\u2014",
-    "name": "tokyubevoxelverse/onboard",
-    "stars": 1,
-    "updated_at": "2026-07-22T03:51:28Z",
-    "url": "https://github.com/tokyubevoxelverse/onboard"
-  },
-  {
-    "description": "Claude Code skill that resurrects dead repos \u2014 point it at a project that no longer builds and it fixes the deps, patche",
-    "id": "tokyubevoxelverse/necromancer",
-    "language": "\u2014",
-    "name": "tokyubevoxelverse/necromancer",
-    "stars": 1,
-    "updated_at": "2026-07-22T03:51:11Z",
-    "url": "https://github.com/tokyubevoxelverse/necromancer"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -97,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T03:51:08Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-22T03:50:06Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -126,15 +279,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T03:47:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -151,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T03:38:10Z",
     "url": "https://github.com/itsgitz/agent-skills"
-  },
-  {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 425,
-    "updated_at": "2026-07-22T03:46:31Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "A curated collection of AI-powered skills, agents, prompts, and workflows for Android, iOS, Flutter, React Native, Unity",
-    "id": "salmanashraf/mobile-agency",
-    "language": "JavaScript",
-    "name": "salmanashraf/mobile-agency",
-    "stars": 19,
-    "updated_at": "2026-07-22T03:35:26Z",
-    "url": "https://github.com/salmanashraf/mobile-agency"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -266,7 +392,7 @@
     "language": "Python",
     "name": "raelli/octowiz",
     "stars": 2,
-    "updated_at": "2026-07-22T03:26:04Z",
+    "updated_at": "2026-07-22T04:06:57Z",
     "url": "https://github.com/raelli/octowiz"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T03:15:01Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
-    "id": "valentil/featureboard-mcp",
-    "language": "JavaScript",
-    "name": "valentil/featureboard-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-22T03:09:49Z",
-    "url": "https://github.com/valentil/featureboard-mcp"
-  },
-  {
-    "description": "Agent skill + CLI for multi-agent adversarial review of plans & specs before you execute them. Runs on the Claude Code /",
-    "id": "hiadrianchen/challenge-plans",
-    "language": "Python",
-    "name": "hiadrianchen/challenge-plans",
-    "stars": 4,
-    "updated_at": "2026-07-22T03:01:00Z",
-    "url": "https://github.com/hiadrianchen/challenge-plans"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 82,
-    "updated_at": "2026-07-22T02:51:48Z",
-    "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
-    "id": "ndisisnd/msg",
-    "language": "Shell",
-    "name": "ndisisnd/msg",
-    "stars": 2,
-    "updated_at": "2026-07-22T02:50:56Z",
-    "url": "https://github.com/ndisisnd/msg"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4725,
-    "updated_at": "2026-07-22T02:46:42Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-22T02:45:25Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 1,
-    "updated_at": "2026-07-22T02:41:22Z",
-    "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 1,
-    "updated_at": "2026-07-22T02:35:15Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "A collection of custom skills for academic writing, automation, specialized workflows, and more to come.",
-    "id": "xjsongphy/skills",
-    "language": "Python",
-    "name": "xjsongphy/skills",
-    "stars": 6,
-    "updated_at": "2026-07-22T02:34:55Z",
-    "url": "https://github.com/xjsongphy/skills"
-  },
-  {
-    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
-    "id": "fcakyon/claude-codex-settings",
-    "language": "Python",
-    "name": "fcakyon/claude-codex-settings",
-    "stars": 809,
-    "updated_at": "2026-07-22T02:27:44Z",
-    "url": "https://github.com/fcakyon/claude-codex-settings"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 0,
-    "updated_at": "2026-07-22T02:27:14Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management",
-    "id": "JuneYaooo/awesome-ai-media-skills",
-    "language": "\u2014",
-    "name": "JuneYaooo/awesome-ai-media-skills",
-    "stars": 3,
-    "updated_at": "2026-07-22T02:26:02Z",
-    "url": "https://github.com/JuneYaooo/awesome-ai-media-skills"
-  },
-  {
-    "description": "Personal monorepo of Agent Skills by Bing Bryan\uff5cBing Bryan \u7684\u4e2a\u4eba Agent Skills \u603b\u5e93",
-    "id": "Bing-Bryan/skills-by-bing",
-    "language": "Python",
-    "name": "Bing-Bryan/skills-by-bing",
-    "stars": 1,
-    "updated_at": "2026-07-22T02:23:51Z",
-    "url": "https://github.com/Bing-Bryan/skills-by-bing"
-  },
-  {
-    "description": "Claude Code & GitHub Copilot skill. Expensive head, cheap hands, a master decision-maker on a frontier reasoning model t",
-    "id": "rhawk117/agentmaster",
-    "language": "Python",
-    "name": "rhawk117/agentmaster",
-    "stars": 1,
-    "updated_at": "2026-07-22T02:16:09Z",
-    "url": "https://github.com/rhawk117/agentmaster"
   }
 ]
