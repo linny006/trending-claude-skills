@@ -1,12 +1,111 @@
 [
   {
+    "description": "Claude Code skill: export STL meshes to sliceable Bambu Studio .3mf projects with print settings baked in, parts packed ",
+    "id": "m-esm/bambu-3mf-export",
+    "language": "Python",
+    "name": "m-esm/bambu-3mf-export",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:27:55Z",
+    "url": "https://github.com/m-esm/bambu-3mf-export"
+  },
+  {
+    "description": "This is WordPress and Elementor skill.md made for Claude.ai",
+    "id": "guramzhgamadze/WordPress-Elementor-Skill",
+    "language": "\u2014",
+    "name": "guramzhgamadze/WordPress-Elementor-Skill",
+    "stars": 19,
+    "updated_at": "2026-07-22T13:26:26Z",
+    "url": "https://github.com/guramzhgamadze/WordPress-Elementor-Skill"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 208,
+    "updated_at": "2026-07-22T13:26:06Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
     "description": "A production-grade engineering toolkit for AI-assisted software development. Contains 168 specialized skill workflows (1",
     "id": "NafisRayan/100x-Agent-Toolkit",
     "language": "Python",
     "name": "NafisRayan/100x-Agent-Toolkit",
     "stars": 1,
-    "updated_at": "2026-07-22T13:11:40Z",
+    "updated_at": "2026-07-22T13:20:31Z",
     "url": "https://github.com/NafisRayan/100x-Agent-Toolkit"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-22T13:19:44Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:19:24Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "Save links you'll forget; surface them when you actually need one. Two portable Agent Skills that build a searchable too",
+    "id": "Ranveersingh1113/shelf-skills",
+    "language": "\u2014",
+    "name": "Ranveersingh1113/shelf-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:18:54Z",
+    "url": "https://github.com/Ranveersingh1113/shelf-skills"
+  },
+  {
+    "description": "\u628a\u91d1\u878d\u7d1a PRD \u65b9\u6cd5\u8ad6\u5de5\u7a0b\u5316\u6210\u56db\u500b Claude Skills\uff1a\u627e\u6d1e \u2192 \u5beb\u898f\u683c \u2192 \u7522\u6e2c\u8a66\u3002\u542b\u4ea4\u6613\u6240\u63d0\u73fe\u3001\u81ea\u71df\u4ea4\u6613\u6311\u6230\u8cfd\u7684\u5b8c\u6574 PRD \u7bc4\u4f8b\u3002",
+    "id": "skinnerlee1225/enterprise-prd-toolkit",
+    "language": "\u2014",
+    "name": "skinnerlee1225/enterprise-prd-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:17:09Z",
+    "url": "https://github.com/skinnerlee1225/enterprise-prd-toolkit"
+  },
+  {
+    "description": "Claude Skills for go-to-market teams \u2014 ready-to-install HubSpot, Salesforce, LinkedIn & outbound skills. AI-native GTM e",
+    "id": "Growth-Today/claude-skills",
+    "language": "Python",
+    "name": "Growth-Today/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T13:16:44Z",
+    "url": "https://github.com/Growth-Today/claude-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 395,
+    "updated_at": "2026-07-22T13:18:34Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T13:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 7,
+    "updated_at": "2026-07-22T13:12:43Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -25,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-07-22T13:08:52Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
+    "id": "ratel-ai/ratel",
+    "language": "Rust",
+    "name": "ratel-ai/ratel",
+    "stars": 284,
+    "updated_at": "2026-07-22T13:06:49Z",
+    "url": "https://github.com/ratel-ai/ratel"
   },
   {
     "description": "Claude Code skill suite for portfolio SEO ops: audits, topical maps, link acquisition, local pack strategy, GA4 telemetr",
@@ -72,24 +180,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T13:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 208,
-    "updated_at": "2026-07-22T13:00:01Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -108,20 +198,11 @@
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
-    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 7,
-    "updated_at": "2026-07-22T13:12:43Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66386,
+    "stars": 66387,
     "updated_at": "2026-07-22T12:53:53Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -153,22 +234,13 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
-    "id": "ratel-ai/ratel",
-    "language": "Rust",
-    "name": "ratel-ai/ratel",
-    "stars": 282,
-    "updated_at": "2026-07-22T13:06:49Z",
-    "url": "https://github.com/ratel-ai/ratel"
-  },
-  {
-    "description": "Claude Skills for go-to-market teams \u2014 ready-to-install HubSpot, Salesforce, LinkedIn & outbound skills. AI-native GTM e",
-    "id": "Growth-Today/claude-skills",
+    "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
+    "id": "codeswithroh/tastemaker",
     "language": "Python",
-    "name": "Growth-Today/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-22T12:46:40Z",
-    "url": "https://github.com/Growth-Today/claude-skills"
+    "name": "codeswithroh/tastemaker",
+    "stars": 42,
+    "updated_at": "2026-07-22T12:46:02Z",
+    "url": "https://github.com/codeswithroh/tastemaker"
   },
   {
     "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
@@ -185,17 +257,8 @@
     "language": "Python",
     "name": "Bing-Bryan/skills-by-bing",
     "stars": 3,
-    "updated_at": "2026-07-22T12:44:54Z",
+    "updated_at": "2026-07-22T13:28:00Z",
     "url": "https://github.com/Bing-Bryan/skills-by-bing"
-  },
-  {
-    "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
-    "id": "codeswithroh/tastemaker",
-    "language": "Python",
-    "name": "codeswithroh/tastemaker",
-    "stars": 41,
-    "updated_at": "2026-07-22T12:46:02Z",
-    "url": "https://github.com/codeswithroh/tastemaker"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -223,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-07-22T12:41:43Z",
     "url": "https://github.com/bytesofbree/skills-lab"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-22T13:09:50Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "semantic grep",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T12:04:30Z",
     "url": "https://github.com/2000silpeed/meta-prompt-skill"
-  },
-  {
-    "description": "Know your user: a USER.md that grows. Your AI's understanding of you in a file you own \u2014 hand-written lane + agent-curat",
-    "id": "LucioLiu/user-md",
-    "language": "Python",
-    "name": "LucioLiu/user-md",
-    "stars": 0,
-    "updated_at": "2026-07-22T12:04:12Z",
-    "url": "https://github.com/LucioLiu/user-md"
-  },
-  {
-    "description": "A predictions ledger with forced settlement for AI agents: log every judgment as a bet, settle it against reality, disti",
-    "id": "LucioLiu/track-record",
-    "language": "Python",
-    "name": "LucioLiu/track-record",
-    "stars": 0,
-    "updated_at": "2026-07-22T12:04:08Z",
-    "url": "https://github.com/LucioLiu/track-record"
-  },
-  {
-    "description": "Route each subagent to the cheapest capable model - about 70% off execution-tier tokens in our tests (Claude Code / any ",
-    "id": "LucioLiu/token-saver",
-    "language": "\u2014",
-    "name": "LucioLiu/token-saver",
-    "stars": 1,
-    "updated_at": "2026-07-22T12:04:04Z",
-    "url": "https://github.com/LucioLiu/token-saver"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-07-22T12:04:01Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Sharpen the axe before cutting wood - fool-proof requirement clarification skill for AI agents (Claude Code / Cursor / a",
-    "id": "LucioLiu/sharpen-first",
-    "language": "Python",
-    "name": "LucioLiu/sharpen-first",
-    "stars": 1,
-    "updated_at": "2026-07-22T12:03:59Z",
-    "url": "https://github.com/LucioLiu/sharpen-first"
-  },
-  {
-    "description": "Let your AI agent reach your phone via ntfy - setup, CJK encoding pitfalls, when-to-call discipline (Claude Code / any L",
-    "id": "LucioLiu/knock-knock",
-    "language": "\u2014",
-    "name": "LucioLiu/knock-knock",
-    "stars": 1,
-    "updated_at": "2026-07-22T12:03:55Z",
-    "url": "https://github.com/LucioLiu/knock-knock"
   }
 ]
