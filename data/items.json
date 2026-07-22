@@ -1,5 +1,140 @@
 [
   {
+    "description": "Multi-agent collaboration and logging standard - pull rules, task handoff, flow-back, team journal (Claude Code / any LL",
+    "id": "LucioLiu/handoff-protocol",
+    "language": "\u2014",
+    "name": "LucioLiu/handoff-protocol",
+    "stars": 1,
+    "updated_at": "2026-07-22T09:14:02Z",
+    "url": "https://github.com/LucioLiu/handoff-protocol"
+  },
+  {
+    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
+    "id": "maxritter/pilot-shell",
+    "language": "JavaScript",
+    "name": "maxritter/pilot-shell",
+    "stars": 1787,
+    "updated_at": "2026-07-22T09:13:18Z",
+    "url": "https://github.com/maxritter/pilot-shell"
+  },
+  {
+    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "id": "gagip/gagip-dev",
+    "language": "Python",
+    "name": "gagip/gagip-dev",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:12:36Z",
+    "url": "https://github.com/gagip/gagip-dev"
+  },
+  {
+    "description": "Route each subagent to the cheapest capable model - about 70% off execution-tier tokens in our tests (Claude Code / any ",
+    "id": "LucioLiu/token-saver",
+    "language": "\u2014",
+    "name": "LucioLiu/token-saver",
+    "stars": 1,
+    "updated_at": "2026-07-22T09:12:21Z",
+    "url": "https://github.com/LucioLiu/token-saver"
+  },
+  {
+    "description": "A coding-agent skill for creating stunning, interactive HTML presentations \u2014 from scratch or by converting PowerPoint (`",
+    "id": "helloyxs/generate-html-ppt",
+    "language": "HTML",
+    "name": "helloyxs/generate-html-ppt",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:12:01Z",
+    "url": "https://github.com/helloyxs/generate-html-ppt"
+  },
+  {
+    "description": "A plugin system for Claude Code that adds skills, agents, guidelines, repo-aware configurations, and MCP integrations to",
+    "id": "sujeet-pro/agents-devkit",
+    "language": "Python",
+    "name": "sujeet-pro/agents-devkit",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:11:21Z",
+    "url": "https://github.com/sujeet-pro/agents-devkit"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 2,
+    "updated_at": "2026-07-22T09:10:28Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "",
+    "id": "rjvim/ai-skills",
+    "language": "Shell",
+    "name": "rjvim/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:10:20Z",
+    "url": "https://github.com/rjvim/ai-skills"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 208,
+    "updated_at": "2026-07-22T09:14:58Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Sharpen the axe before cutting wood - fool-proof requirement clarification skill for AI agents (Claude Code / Cursor / a",
+    "id": "LucioLiu/sharpen-first",
+    "language": "\u2014",
+    "name": "LucioLiu/sharpen-first",
+    "stars": 1,
+    "updated_at": "2026-07-22T09:08:42Z",
+    "url": "https://github.com/LucioLiu/sharpen-first"
+  },
+  {
+    "description": "In Anthropic's official Claude plugin directory \u00b7 515 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1203,
+    "updated_at": "2026-07-22T09:13:13Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-22T09:05:32Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Teach your AI agent to acquire capabilities on its own - find existing skills before building one (Claude Code / any LLM",
+    "id": "LucioLiu/dont-reinvent",
+    "language": "\u2014",
+    "name": "LucioLiu/dont-reinvent",
+    "stars": 1,
+    "updated_at": "2026-07-22T09:04:29Z",
+    "url": "https://github.com/LucioLiu/dont-reinvent"
+  },
+  {
+    "description": "My agentic-engineering workbench \u2014 Claude Code skills, subagents, and CI workflows I reuse across projects.",
+    "id": "Rijul1204/rashedul-agentic-engineering",
+    "language": "Shell",
+    "name": "Rijul1204/rashedul-agentic-engineering",
+    "stars": 2,
+    "updated_at": "2026-07-22T09:12:53Z",
+    "url": "https://github.com/Rijul1204/rashedul-agentic-engineering"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T09:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you l",
     "id": "ToolMonsters/handoff-skill",
     "language": "\u2014",
@@ -16,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T08:58:45Z",
     "url": "https://github.com/adaptocms/adapto-cms-agent-skills"
-  },
-  {
-    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
-    "id": "maxritter/pilot-shell",
-    "language": "JavaScript",
-    "name": "maxritter/pilot-shell",
-    "stars": 1787,
-    "updated_at": "2026-07-22T08:55:59Z",
-    "url": "https://github.com/maxritter/pilot-shell"
   },
   {
     "description": "A skill for trying to disprove theories and fixes.",
@@ -90,15 +216,6 @@
     "url": "https://github.com/jsuvic/agent-profile"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T08:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -113,7 +230,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-07-22T08:48:59Z",
+    "updated_at": "2026-07-22T09:11:44Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -162,6 +279,15 @@
     "url": "https://github.com/Ldxs001/workbuddy-skills"
   },
   {
+    "description": "Nuwa - a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
+    "id": "LucioLiu/nuwa",
+    "language": "Python",
+    "name": "LucioLiu/nuwa",
+    "stars": 2,
+    "updated_at": "2026-07-22T08:36:16Z",
+    "url": "https://github.com/LucioLiu/nuwa"
+  },
+  {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
     "id": "BENZEMA216/awesome-weread",
     "language": "JavaScript",
@@ -187,24 +313,6 @@
     "stars": 66381,
     "updated_at": "2026-07-22T08:35:36Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "A coding-agent skill for creating stunning, interactive HTML presentations \u2014 from scratch or by converting PowerPoint (`",
-    "id": "helloyxs/generate-html-ppt",
-    "language": "HTML",
-    "name": "helloyxs/generate-html-ppt",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:35:22Z",
-    "url": "https://github.com/helloyxs/generate-html-ppt"
-  },
-  {
-    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "Python",
-    "name": "LucioLiu/nuwa",
-    "stars": 2,
-    "updated_at": "2026-07-22T08:36:16Z",
-    "url": "https://github.com/LucioLiu/nuwa"
   },
   {
     "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
@@ -259,6 +367,15 @@
     "stars": 1,
     "updated_at": "2026-07-22T08:21:26Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "",
+    "id": "2000silpeed/meta-prompt-skill",
+    "language": "\u2014",
+    "name": "2000silpeed/meta-prompt-skill",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:20:10Z",
+    "url": "https://github.com/2000silpeed/meta-prompt-skill"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T08:11:52Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:11:50Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:09:28Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:06:27Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:59:18Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-07-22T07:57:39Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:53:05Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:50:33Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 280,
-    "updated_at": "2026-07-22T07:48:52Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "In Anthropic's official Claude plugin directory \u00b7 515 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1203,
-    "updated_at": "2026-07-22T08:59:46Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:19:03Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Claude Code skill: parametric FDM 3D-print modeling with a headless view-screenshot-iterate loop (trimesh/manifold3d/bui",
-    "id": "m-esm/3d-print-modeling",
-    "language": "Python",
-    "name": "m-esm/3d-print-modeling",
-    "stars": 1,
-    "updated_at": "2026-07-22T07:43:26Z",
-    "url": "https://github.com/m-esm/3d-print-modeling"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 395,
-    "updated_at": "2026-07-22T08:53:03Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Let your AI agent reach your phone via ntfy - setup, CJK encoding pitfalls, when-to-call discipline (Claude Code / any L",
-    "id": "LucioLiu/knock-knock",
-    "language": "\u2014",
-    "name": "LucioLiu/knock-knock",
-    "stars": 1,
-    "updated_at": "2026-07-22T07:39:21Z",
-    "url": "https://github.com/LucioLiu/knock-knock"
   }
 ]
