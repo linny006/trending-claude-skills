@@ -1,12 +1,93 @@
 [
   {
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:59:49Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:59:12Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 420,
+    "updated_at": "2026-07-22T19:57:17Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-22T19:57:12Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
     "description": "\ud83d\udcec Write investor updates your investors actually read \u2014 a Claude Code skill template for founders, by Pitchdrive",
     "id": "Pitchdrive/investor-update-skill",
     "language": "\u2014",
     "name": "Pitchdrive/investor-update-skill",
     "stars": 0,
-    "updated_at": "2026-07-22T19:45:00Z",
+    "updated_at": "2026-07-22T19:56:02Z",
     "url": "https://github.com/Pitchdrive/investor-update-skill"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:54:57Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Copy-paste AI skills for Claude Code, Cursor, and any AI agent: SEO, automation, CRM, and inbox triage. Paste one prompt",
+    "id": "donatassimkus/claude-ai-skills",
+    "language": "\u2014",
+    "name": "donatassimkus/claude-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T19:52:13Z",
+    "url": "https://github.com/donatassimkus/claude-ai-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-22T19:51:04Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
+    "id": "raelli/octowiz",
+    "language": "Python",
+    "name": "raelli/octowiz",
+    "stars": 2,
+    "updated_at": "2026-07-22T19:48:00Z",
+    "url": "https://github.com/raelli/octowiz"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-07-22T19:47:39Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 18,
-    "updated_at": "2026-07-22T19:43:57Z",
+    "updated_at": "2026-07-22T19:45:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -61,15 +142,6 @@
     "stars": 280,
     "updated_at": "2026-07-22T19:37:02Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 1,
-    "updated_at": "2026-07-22T19:35:29Z",
-    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "Know your user: a USER.md that grows. Your AI's understanding of you in a file you own \u2014 hand-written lane + agent-curat",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 395,
-    "updated_at": "2026-07-22T19:25:54Z",
+    "updated_at": "2026-07-22T20:00:09Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -270,15 +342,6 @@
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   },
   {
-    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
-    "id": "jabrena/plinth",
-    "language": "Java",
-    "name": "jabrena/plinth",
-    "stars": 420,
-    "updated_at": "2026-07-22T19:39:25Z",
-    "url": "https://github.com/jabrena/plinth"
-  },
-  {
     "description": "A Claude skill for senior-level PowerShell script review across Microsoft 365 and Windows endpoint management.",
     "id": "maximsmd/powershell-script-reviewer",
     "language": "PowerShell",
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-22T18:52:55Z",
     "url": "https://github.com/sergebulaev/facebook-skills"
-  },
-  {
-    "description": "Some useful Claude Code Skills",
-    "id": "j-256/claude-code-skills",
-    "language": "JavaScript",
-    "name": "j-256/claude-code-skills",
-    "stars": 2,
-    "updated_at": "2026-07-22T18:51:05Z",
-    "url": "https://github.com/j-256/claude-code-skills"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-22T18:51:02Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "The system your AI agents are missing \u2014 synced instructions, workflow skills, hardened secrets, and autonomous loops acr",
-    "id": "arndvs/ctrlshft",
-    "language": "Shell",
-    "name": "arndvs/ctrlshft",
-    "stars": 0,
-    "updated_at": "2026-07-22T18:54:52Z",
-    "url": "https://github.com/arndvs/ctrlshft"
-  },
-  {
-    "description": "An orientation protocol for LLM sessions \u2014 plus a curated Claude skills collection",
-    "id": "JustMichael-80/MasterVault",
-    "language": "Python",
-    "name": "JustMichael-80/MasterVault",
-    "stars": 7,
-    "updated_at": "2026-07-22T18:50:06Z",
-    "url": "https://github.com/JustMichael-80/MasterVault"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-22T18:49:38Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-07-22T18:46:34Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-22T18:44:15Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
