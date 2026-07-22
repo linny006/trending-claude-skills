@@ -1,21 +1,48 @@
 [
   {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 0,
-    "updated_at": "2026-07-22T17:23:53Z",
-    "url": "https://github.com/mimukit/skills"
-  },
-  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 1,
-    "updated_at": "2026-07-22T17:23:47Z",
+    "updated_at": "2026-07-22T17:39:53Z",
     "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:38:50Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:37:04Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
+    "language": "Shell",
+    "name": "mimukit/skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:31:33Z",
+    "url": "https://github.com/mimukit/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T17:30:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
@@ -106,15 +133,6 @@
     "stars": 280,
     "updated_at": "2026-07-22T17:15:44Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T17:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "12 Claude Code skills auto-extracted from real sessions: Docker/SSH/VPS ops, data/ML pipeline gotchas, 4 model prompting",
@@ -306,6 +324,15 @@
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
+    "id": "ratel-ai/ratel",
+    "language": "Rust",
+    "name": "ratel-ai/ratel",
+    "stars": 294,
+    "updated_at": "2026-07-22T16:47:32Z",
+    "url": "https://github.com/ratel-ai/ratel"
+  },
+  {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
     "id": "UiPath/coder_eval",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-22T16:33:54Z",
     "url": "https://github.com/supermodo/skills"
-  },
-  {
-    "description": "Detecta y limpia procesos hu\u00e9rfanos de herramientas de IA (Claude Code, Cursor, Codex, Aider). Funciona en Windows, macO",
-    "id": "Caarlosgg/mcp-reap",
-    "language": "JavaScript",
-    "name": "Caarlosgg/mcp-reap",
-    "stars": 0,
-    "updated_at": "2026-07-22T16:33:47Z",
-    "url": "https://github.com/Caarlosgg/mcp-reap"
-  },
-  {
-    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
-    "id": "elementalsouls/Claude-BugHunter",
-    "language": "Python",
-    "name": "elementalsouls/Claude-BugHunter",
-    "stars": 3014,
-    "updated_at": "2026-07-22T16:32:45Z",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter"
-  },
-  {
-    "description": "Plugin with opinionated set of Claude Code agents nad skills",
-    "id": "lklimek/claudius",
-    "language": "Python",
-    "name": "lklimek/claudius",
-    "stars": 1,
-    "updated_at": "2026-07-22T16:30:31Z",
-    "url": "https://github.com/lklimek/claudius"
   }
 ]
