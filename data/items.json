@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot. And, support for OpenCode is also plan",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-22T02:56:22Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
+    "description": "Octowiz gives Claude Code agents memory-backed engineering doctrine \u2014 cached by role, refreshed by project state, and ro",
+    "id": "raelli/octowiz",
+    "language": "Python",
+    "name": "raelli/octowiz",
+    "stars": 2,
+    "updated_at": "2026-07-22T03:10:58Z",
+    "url": "https://github.com/raelli/octowiz"
+  },
+  {
+    "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
+    "id": "valentil/featureboard-mcp",
+    "language": "JavaScript",
+    "name": "valentil/featureboard-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-22T03:09:49Z",
+    "url": "https://github.com/valentil/featureboard-mcp"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -14,8 +23,62 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 66359,
-    "updated_at": "2026-07-22T02:51:54Z",
+    "updated_at": "2026-07-22T03:08:02Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 425,
+    "updated_at": "2026-07-22T03:07:15Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
+    "id": "lemur47/logic",
+    "language": "Python",
+    "name": "lemur47/logic",
+    "stars": 1,
+    "updated_at": "2026-07-22T03:03:36Z",
+    "url": "https://github.com/lemur47/logic"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-22T03:11:50Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Agent skill + CLI for multi-agent adversarial review of plans & specs before you execute them. Runs on the Claude Code /",
+    "id": "hiadrianchen/challenge-plans",
+    "language": "Python",
+    "name": "hiadrianchen/challenge-plans",
+    "stars": 4,
+    "updated_at": "2026-07-22T03:01:00Z",
+    "url": "https://github.com/hiadrianchen/challenge-plans"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T03:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udd16 Issue driven development instruction template for the Claude / Codex / Copilot. And, support for OpenCode is also plan",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-22T03:12:37Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T02:45:25Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T02:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
@@ -144,24 +198,6 @@
     "url": "https://github.com/rhawk117/agentmaster"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-22T02:51:01Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
-    "id": "lemur47/logic",
-    "language": "Python",
-    "name": "lemur47/logic",
-    "stars": 1,
-    "updated_at": "2026-07-22T02:19:26Z",
-    "url": "https://github.com/lemur47/logic"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -196,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T02:07:21Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 425,
-    "updated_at": "2026-07-22T02:46:42Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-22T01:06:03Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Claude Code skill\uff1a\u4e00\u5f20\u53c2\u8003\u56fe \u2192 \u590d\u53e4\u526a\u8d34\u62a5\u98ce\u683c\u52a8\u753b\u77ed\u89c6\u9891\uff08Nano Banana \u5173\u952e\u5e27 + Kling \u56fe\u751f\u89c6\u9891\uff09\uff0c\u5185\u7f6e\u7248\u6743\u7ea2\u7ebf\u81ea\u68c0",
-    "id": "LunaAI519/motion-skill",
-    "language": "\u2014",
-    "name": "LunaAI519/motion-skill",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:05:39Z",
-    "url": "https://github.com/LunaAI519/motion-skill"
-  },
-  {
-    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
-    "id": "yinjialu/ai-frontier-daily",
-    "language": "Python",
-    "name": "yinjialu/ai-frontier-daily",
-    "stars": 1,
-    "updated_at": "2026-07-22T01:05:18Z",
-    "url": "https://github.com/yinjialu/ai-frontier-daily"
-  },
-  {
-    "description": "Give your AI coding agent (Claude Code, Cursor, Copilot, Codex, Gemini) the power to author Remotion video compositions ",
-    "id": "isatimur/remotion-skill-pack",
-    "language": "TypeScript",
-    "name": "isatimur/remotion-skill-pack",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:03:16Z",
-    "url": "https://github.com/isatimur/remotion-skill-pack"
   }
 ]
