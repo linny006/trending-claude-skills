@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 03:45 UTC
+> ⏰ Last updated: 2026-07-22 03:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-22 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 2 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-22 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
-| 3 | [itsgitz/agent-skills](https://github.com/itsgitz/agent-skills) | 0 | Python | 2026-07-22 | Personal Claude Code skill collection. Compatible with any AI agent that supports ~/.agents skills (Claude Code, Cursor, |
-| 4 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66361 | TypeScript | 2026-07-22 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 5 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 425 | TypeScript | 2026-07-22 | The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux |
-| 6 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 4 | TypeScript | 2026-07-22 | 🤖 Issue driven development instruction template for the Claude / Codex / Copilot. And, support for OpenCode is also plan |
-| 7 | [salmanashraf/mobile-agency](https://github.com/salmanashraf/mobile-agency) | 19 | JavaScript | 2026-07-22 | A curated collection of AI-powered skills, agents, prompts, and workflows for Android, iOS, Flutter, React Native, Unity |
-| 8 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-07-22 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 9 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 1 | HTML | 2026-07-22 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
-| 10 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-07-22 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
-| 11 | [lemur47/logic](https://github.com/lemur47/logic) | 1 | Python | 2026-07-22 | PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions. |
-| 12 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-07-22 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
-| 13 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 0 | HTML | 2026-07-22 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
-| 14 | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 3180 | TypeScript | 2026-07-22 | Goal-driven, loop-powered marketing agents that crush your business goals 24/7 |
-| 15 | [0xc000022070/agentic-flake](https://github.com/0xc000022070/agentic-flake) | 1 | Nix | 2026-07-22 | Composable agent skills and project-scoped environments for Nix.  |
-| 16 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-22 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-22 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-22 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 3 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-22 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
+| 4 | [itsgitz/agent-skills](https://github.com/itsgitz/agent-skills) | 0 | Python | 2026-07-22 | Personal Claude Code skill collection. Compatible with any AI agent that supports ~/.agents skills (Claude Code, Cursor, |
+| 5 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66361 | TypeScript | 2026-07-22 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 6 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 425 | TypeScript | 2026-07-22 | The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux |
+| 7 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 4 | TypeScript | 2026-07-22 | 🤖 Issue driven development instruction template for the Claude / Codex / Copilot. And, support for OpenCode is also plan |
+| 8 | [salmanashraf/mobile-agency](https://github.com/salmanashraf/mobile-agency) | 19 | JavaScript | 2026-07-22 | A curated collection of AI-powered skills, agents, prompts, and workflows for Android, iOS, Flutter, React Native, Unity |
+| 9 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-07-22 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 10 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 1 | HTML | 2026-07-22 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
+| 11 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-07-22 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
+| 12 | [lemur47/logic](https://github.com/lemur47/logic) | 1 | Python | 2026-07-22 | PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions. |
+| 13 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-07-22 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
+| 14 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 0 | HTML | 2026-07-22 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
+| 15 | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 3180 | TypeScript | 2026-07-22 | Goal-driven, loop-powered marketing agents that crush your business goals 24/7 |
+| 16 | [0xc000022070/agentic-flake](https://github.com/0xc000022070/agentic-flake) | 1 | Nix | 2026-07-22 | Composable agent skills and project-scoped environments for Nix.  |
 | 17 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-07-22 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
 | 18 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-07-22 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
 | 19 | [raelli/octowiz](https://github.com/raelli/octowiz) | 2 | Python | 2026-07-22 | Octowiz gives Claude Code agents memory-backed engineering doctrine — cached by role, refreshed by project state, and ro |
