@@ -1,5 +1,140 @@
 [
   {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction, coveri",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 4471,
+    "updated_at": "2026-07-22T16:44:51Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "Resume your Claude Code sessions warm. A small per-project wiki + generated handoff prompt to stop cross-session amnesia",
+    "id": "aksheyw/context-bridge",
+    "language": "Shell",
+    "name": "aksheyw/context-bridge",
+    "stars": 0,
+    "updated_at": "2026-07-22T16:43:21Z",
+    "url": "https://github.com/aksheyw/context-bridge"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-22T16:40:17Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-22T16:38:53Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
+    "language": "Python",
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 495,
+    "updated_at": "2026-07-22T16:38:23Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
+  },
+  {
+    "description": "Cognitive translation layer for Claude Code",
+    "id": "khujta/gabe-suite",
+    "language": "HTML",
+    "name": "khujta/gabe-suite",
+    "stars": 0,
+    "updated_at": "2026-07-22T16:38:17Z",
+    "url": "https://github.com/khujta/gabe-suite"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-22T16:38:06Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "A collection of skills for Claude Code \u2014 installable via plugin marketplace. First skill: ebay-seller (full eBay.de sell",
+    "id": "okuegow/agent-skills",
+    "language": "HTML",
+    "name": "okuegow/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-07-22T16:37:18Z",
+    "url": "https://github.com/okuegow/agent-skills"
+  },
+  {
+    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 414,
+    "updated_at": "2026-07-22T16:36:55Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 420,
+    "updated_at": "2026-07-22T16:36:33Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "A coherent, opinionated toolkit for documentation-driven development with twin-model adversarial checks.",
+    "id": "supermodo/skills",
+    "language": "TypeScript",
+    "name": "supermodo/skills",
+    "stars": 1,
+    "updated_at": "2026-07-22T16:33:54Z",
+    "url": "https://github.com/supermodo/skills"
+  },
+  {
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
+    "id": "elementalsouls/Claude-BugHunter",
+    "language": "Python",
+    "name": "elementalsouls/Claude-BugHunter",
+    "stars": 3014,
+    "updated_at": "2026-07-22T16:32:45Z",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "description": "Plugin with opinionated set of Claude Code agents nad skills",
+    "id": "lklimek/claudius",
+    "language": "Python",
+    "name": "lklimek/claudius",
+    "stars": 1,
+    "updated_at": "2026-07-22T16:30:31Z",
+    "url": "https://github.com/lklimek/claudius"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T16:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "ADD - LOOP SKILL for AI Coding Agent",
+    "id": "pilotspace/ADD",
+    "language": "Python",
+    "name": "pilotspace/ADD",
+    "stars": 18,
+    "updated_at": "2026-07-22T16:29:49Z",
+    "url": "https://github.com/pilotspace/ADD"
+  },
+  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -23,7 +158,7 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-07-22T16:23:55Z",
+    "updated_at": "2026-07-22T16:38:24Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -81,15 +216,6 @@
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   },
   {
-    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
-    "id": "jabrena/plinth",
-    "language": "Java",
-    "name": "jabrena/plinth",
-    "stars": 420,
-    "updated_at": "2026-07-22T16:21:56Z",
-    "url": "https://github.com/jabrena/plinth"
-  },
-  {
     "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
     "id": "nitinjain999/platform-skills",
     "language": "Shell",
@@ -135,15 +261,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-22T16:16:54Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
@@ -151,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-07-22T16:15:33Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T16:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -261,15 +369,6 @@
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
-    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
-    "id": "elementalsouls/Claude-BugHunter",
-    "language": "Python",
-    "name": "elementalsouls/Claude-BugHunter",
-    "stars": 3014,
-    "updated_at": "2026-07-22T15:56:21Z",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter"
-  },
-  {
     "description": "A collection of custom skills for academic writing, automation, specialized workflows, and more to come.",
     "id": "xjsongphy/skills",
     "language": "Python",
@@ -315,15 +414,6 @@
     "url": "https://github.com/Dianel555/DSkills"
   },
   {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 414,
-    "updated_at": "2026-07-22T15:50:21Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "Second brain for Forward Deployed Engineers. Engagement memory + 35 skills across 6 domains, all behind one @fde... Work",
     "id": "suboss87/FDEOps",
     "language": "JavaScript",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-22T15:45:58Z",
     "url": "https://github.com/petermcalister/shared-skills"
-  },
-  {
-    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews numb",
-    "id": "gosom/google-maps-scraper",
-    "language": "Go",
-    "name": "gosom/google-maps-scraper",
-    "stars": 5213,
-    "updated_at": "2026-07-22T15:44:12Z",
-    "url": "https://github.com/gosom/google-maps-scraper"
-  },
-  {
-    "description": "Claude Code skill that turns a mostly-done codebase into an evidence-backed release candidate \u2014 21 release gates coverin",
-    "id": "pamiray-m/product-completion-wrap",
-    "language": "\u2014",
-    "name": "pamiray-m/product-completion-wrap",
-    "stars": 1,
-    "updated_at": "2026-07-22T15:43:41Z",
-    "url": "https://github.com/pamiray-m/product-completion-wrap"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:43:04Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:42:26Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-22T15:41:29Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "A nine-stage art-directed Claude Code workflow: commit direction, generate original media, review mechanics independentl",
-    "id": "youkistudios/web-studio",
-    "language": "JavaScript",
-    "name": "youkistudios/web-studio",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:44:50Z",
-    "url": "https://github.com/youkistudios/web-studio"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-22T15:36:53Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Wondel.ai Agent Skills \u2014 Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journ",
-    "id": "wondelai/skills",
-    "language": "Shell",
-    "name": "wondelai/skills",
-    "stars": 1702,
-    "updated_at": "2026-07-22T15:34:52Z",
-    "url": "https://github.com/wondelai/skills"
-  },
-  {
-    "description": "ADD - LOOP SKILL for AI Coding Agent",
-    "id": "pilotspace/ADD",
-    "language": "Python",
-    "name": "pilotspace/ADD",
-    "stars": 18,
-    "updated_at": "2026-07-22T16:29:49Z",
-    "url": "https://github.com/pilotspace/ADD"
-  },
-  {
-    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
-    "id": "hoangsonww/Claude-Code-Agent-Monitor",
-    "language": "TypeScript",
-    "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 827,
-    "updated_at": "2026-07-22T15:31:06Z",
-    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   }
 ]
