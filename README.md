@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 12:58 UTC
+> ⏰ Last updated: 2026-07-22 13:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-22 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 2 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 0 | HTML | 2026-07-22 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 3 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 7 | Python | 2026-07-22 | State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software — 40+ domain & language skil |
-| 4 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 208 | Python | 2026-07-22 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication fi |
-| 5 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66384 | TypeScript | 2026-07-22 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 6 | [adaptocms/adapto-cms-agent-skills](https://github.com/adaptocms/adapto-cms-agent-skills) | 2 | JavaScript | 2026-07-22 | A pack of skills for AI coding agents (Claude Code, Cursor) that lets them operate Adapto CMS end-to-end: scaffold proje |
-| 7 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-22 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 8 | [oskar-makarov/pipeline-md](https://github.com/oskar-makarov/pipeline-md) | 11 | — | 2026-07-22 | A living production-readiness checklist that plugs into your AI coding agent. |
-| 9 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-07-22 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 10 | [ratel-ai/ratel](https://github.com/ratel-ai/ratel) | 282 | Rust | 2026-07-22 | Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema |
-| 11 | [Growth-Today/claude-skills](https://github.com/Growth-Today/claude-skills) | 0 | Python | 2026-07-22 | Claude Skills for go-to-market teams — ready-to-install HubSpot, Salesforce, LinkedIn & outbound skills. AI-native GTM e |
-| 12 | [akovalion/paranoid-qa](https://github.com/akovalion/paranoid-qa) | 8 | Shell | 2026-07-22 | Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen. |
-| 13 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-22 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-22 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-22 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 3 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 0 | HTML | 2026-07-22 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
+| 4 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 7 | Python | 2026-07-22 | State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software — 40+ domain & language skil |
+| 5 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 208 | Python | 2026-07-22 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication fi |
+| 6 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66384 | TypeScript | 2026-07-22 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 7 | [adaptocms/adapto-cms-agent-skills](https://github.com/adaptocms/adapto-cms-agent-skills) | 2 | JavaScript | 2026-07-22 | A pack of skills for AI coding agents (Claude Code, Cursor) that lets them operate Adapto CMS end-to-end: scaffold proje |
+| 8 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-22 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 9 | [oskar-makarov/pipeline-md](https://github.com/oskar-makarov/pipeline-md) | 11 | — | 2026-07-22 | A living production-readiness checklist that plugs into your AI coding agent. |
+| 10 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-07-22 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 11 | [ratel-ai/ratel](https://github.com/ratel-ai/ratel) | 282 | Rust | 2026-07-22 | Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema |
+| 12 | [Growth-Today/claude-skills](https://github.com/Growth-Today/claude-skills) | 0 | Python | 2026-07-22 | Claude Skills for go-to-market teams — ready-to-install HubSpot, Salesforce, LinkedIn & outbound skills. AI-native GTM e |
+| 13 | [akovalion/paranoid-qa](https://github.com/akovalion/paranoid-qa) | 8 | Shell | 2026-07-22 | Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen. |
 | 14 | [Bing-Bryan/skills-by-bing](https://github.com/Bing-Bryan/skills-by-bing) | 3 | Python | 2026-07-22 | Personal monorepo of Agent Skills by Bing Bryan｜Bing Bryan 的个人 Agent Skills 总库 |
 | 15 | [codeswithroh/tastemaker](https://github.com/codeswithroh/tastemaker) | 41 | Python | 2026-07-22 | A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile,  |
 | 16 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 0 | HTML | 2026-07-22 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
