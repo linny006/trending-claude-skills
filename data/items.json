@@ -1,12 +1,12 @@
 [
   {
-    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
-    "id": "eai-org/agent-toolkit",
-    "language": "Shell",
-    "name": "eai-org/agent-toolkit",
-    "stars": 25,
-    "updated_at": "2026-07-22T11:14:46Z",
-    "url": "https://github.com/eai-org/agent-toolkit"
+    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
+    "id": "glitchwerks/claude-wayfinder",
+    "language": "Python",
+    "name": "glitchwerks/claude-wayfinder",
+    "stars": 2,
+    "updated_at": "2026-07-22T11:22:41Z",
+    "url": "https://github.com/glitchwerks/claude-wayfinder"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -14,8 +14,62 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-07-22T11:14:27Z",
+    "updated_at": "2026-07-22T11:24:24Z",
     "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:19:34Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Strict AI coach for the telc Deutsch B1 exam \u2014 two Claude Skills for exam practice, grading, speaking, and written-lette",
+    "id": "aabuhammam-dh/telc-b1-coach",
+    "language": "HTML",
+    "name": "aabuhammam-dh/telc-b1-coach",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:19:27Z",
+    "url": "https://github.com/aabuhammam-dh/telc-b1-coach"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:17:58Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:17:56Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-22T11:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 25,
+    "updated_at": "2026-07-22T11:14:46Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
   },
   {
     "description": "Skill plugin for Claude Code, Codex & other AI agents: small, safety-first Pingouin workflows for psychology statistics ",
@@ -50,7 +104,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-07-22T11:06:02Z",
+    "updated_at": "2026-07-22T11:17:07Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -86,7 +140,7 @@
     "language": "Shell",
     "name": "mbackschat/a12-dmtool-releases",
     "stars": 0,
-    "updated_at": "2026-07-22T11:03:18Z",
+    "updated_at": "2026-07-22T11:24:21Z",
     "url": "https://github.com/mbackschat/a12-dmtool-releases"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T11:00:44Z",
     "url": "https://github.com/isatimur/excalidraw-skill-pack"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-22T11:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 208,
-    "updated_at": "2026-07-22T10:57:16Z",
+    "updated_at": "2026-07-22T11:24:28Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -225,15 +270,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Strict AI coach for the telc Deutsch B1 exam \u2014 two Claude Skills for exam practice, grading, speaking, and written-lette",
-    "id": "aabuhammam-dh/telc-b1-coach",
-    "language": "HTML",
-    "name": "aabuhammam-dh/telc-b1-coach",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:51:56Z",
-    "url": "https://github.com/aabuhammam-dh/telc-b1-coach"
-  },
-  {
     "description": "A practical Claude Code guide with clear mental models and copy-paste examples \u2014 setup, prompt engineering, slash comman",
     "id": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
     "language": "Python",
@@ -277,6 +313,15 @@
     "stars": 66381,
     "updated_at": "2026-07-22T10:47:34Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
+    "id": "codeswithroh/tastemaker",
+    "language": "Python",
+    "name": "codeswithroh/tastemaker",
+    "stars": 40,
+    "updated_at": "2026-07-22T10:38:52Z",
+    "url": "https://github.com/codeswithroh/tastemaker"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-22T10:26:25Z",
     "url": "https://github.com/KKenny0/Tracework"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 395,
-    "updated_at": "2026-07-22T10:35:53Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
-    "id": "tobihagemann/turbo",
-    "language": "Shell",
-    "name": "tobihagemann/turbo",
-    "stars": 375,
-    "updated_at": "2026-07-22T10:15:35Z",
-    "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-07-22T10:14:39Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:14:06Z",
-    "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-07-22T10:11:45Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
