@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [PangenomeAI/academic-skills-food-nutrition](https://github.com/PangenomeAI/academic-skills-food-nutrition) | 16 | Python | 2026-07-22 | Open, MIT-licensed food & nutrition science research skills for Claude Code, Codex, and MiniMax Agent — multi-agent lite |
-| 2 | [Srltas/claude-skills](https://github.com/Srltas/claude-skills) | 0 | Python | 2026-07-22 | My Claude Skills |
-| 3 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-07-22 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
-| 4 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 0 | HTML | 2026-07-22 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
-| 5 | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 3180 | TypeScript | 2026-07-22 | Goal-driven, loop-powered marketing agents that crush your business goals 24/7 |
-| 6 | [boshu2/agentops](https://github.com/boshu2/agentops) | 414 | Go | 2026-07-22 | The operating loop a coding agent follows — and skills to orchestrate multi-agent systems. |
-| 7 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 99 | Kotlin | 2026-07-22 | Helping the Agents Compose the Things |
-| 8 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-22 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 9 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-22 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-22 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [PangenomeAI/academic-skills-food-nutrition](https://github.com/PangenomeAI/academic-skills-food-nutrition) | 16 | Python | 2026-07-22 | Open, MIT-licensed food & nutrition science research skills for Claude Code, Codex, and MiniMax Agent — multi-agent lite |
+| 3 | [Srltas/claude-skills](https://github.com/Srltas/claude-skills) | 0 | Python | 2026-07-22 | My Claude Skills |
+| 4 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-07-22 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
+| 5 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 0 | HTML | 2026-07-22 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
+| 6 | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 3180 | TypeScript | 2026-07-22 | Goal-driven, loop-powered marketing agents that crush your business goals 24/7 |
+| 7 | [boshu2/agentops](https://github.com/boshu2/agentops) | 414 | Go | 2026-07-22 | The operating loop a coding agent follows — and skills to orchestrate multi-agent systems. |
+| 8 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 99 | Kotlin | 2026-07-22 | Helping the Agents Compose the Things |
+| 9 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-22 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
 | 10 | [lilialla/awesome-legal-ai-zh](https://github.com/lilialla/awesome-legal-ai-zh) | 94 | Python | 2026-07-22 | 📚 给中国律师/法务的一站式开源 AI 工具地图｜200+ 个 gh 核验开源仓·按工作场景分类·能否商用标注｜awesome list |
-| 11 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 7257 | Python | 2026-07-22 | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
+| 11 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 7258 | Python | 2026-07-22 | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
 | 12 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-22 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
 | 13 | [Punpun1643/claude-skills](https://github.com/Punpun1643/claude-skills) | 0 | — | 2026-07-22 | A collection of Claude Code Agent Skills for docs & workflow tasks |
 | 14 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-07-22 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
