@@ -1,5 +1,68 @@
 [
   {
+    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
+    "id": "ndisisnd/msg",
+    "language": "Shell",
+    "name": "ndisisnd/msg",
+    "stars": 2,
+    "updated_at": "2026-07-23T18:43:02Z",
+    "url": "https://github.com/ndisisnd/msg"
+  },
+  {
+    "description": "Free Claude plugin: the end-of-week surprise builder. The night before your weekly usage cap resets, it reads your recen",
+    "id": "keegan-dotcom/encore-lite",
+    "language": "\u2014",
+    "name": "keegan-dotcom/encore-lite",
+    "stars": 0,
+    "updated_at": "2026-07-23T18:41:21Z",
+    "url": "https://github.com/keegan-dotcom/encore-lite"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 1,
+    "updated_at": "2026-07-23T18:39:30Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
+    "id": "jamditis/claude-skills-journalism",
+    "language": "Python",
+    "name": "jamditis/claude-skills-journalism",
+    "stars": 337,
+    "updated_at": "2026-07-23T18:37:08Z",
+    "url": "https://github.com/jamditis/claude-skills-journalism"
+  },
+  {
+    "description": "Run an always-on SEO/AEO growth loop on your own site with Claude: pulls GA4 and Search Console signals, proposes fixes ",
+    "id": "shalintripathi/organic-os",
+    "language": "Python",
+    "name": "shalintripathi/organic-os",
+    "stars": 3,
+    "updated_at": "2026-07-23T18:34:50Z",
+    "url": "https://github.com/shalintripathi/organic-os"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 17,
+    "updated_at": "2026-07-23T18:33:55Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T18:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Redesign my retro-portfolio",
     "id": "Artemisa1980/sanbluedot-portfolio",
     "language": "TypeScript",
@@ -9,30 +72,12 @@
     "url": "https://github.com/Artemisa1980/sanbluedot-portfolio"
   },
   {
-    "description": "Free Claude plugin: the end-of-week surprise builder. The night before your weekly usage cap resets, it reads your recen",
-    "id": "keegan-dotcom/encore-lite",
-    "language": "\u2014",
-    "name": "keegan-dotcom/encore-lite",
-    "stars": 0,
-    "updated_at": "2026-07-23T18:27:36Z",
-    "url": "https://github.com/keegan-dotcom/encore-lite"
-  },
-  {
-    "description": "Run an always-on SEO/AEO growth loop on your own site with Claude: pulls GA4 and Search Console signals, proposes fixes ",
-    "id": "shalintripathi/organic-os",
-    "language": "Python",
-    "name": "shalintripathi/organic-os",
-    "stars": 2,
-    "updated_at": "2026-07-23T18:26:30Z",
-    "url": "https://github.com/shalintripathi/organic-os"
-  },
-  {
     "description": "A plumb line finds true vertical by gravity alone. plumb-line is a provenance library and Claude Code plugin that does t",
     "id": "slopstopper/plumb-line",
     "language": "JavaScript",
     "name": "slopstopper/plumb-line",
     "stars": 3,
-    "updated_at": "2026-07-23T18:25:12Z",
+    "updated_at": "2026-07-23T18:37:49Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 1,
-    "updated_at": "2026-07-23T18:29:20Z",
+    "updated_at": "2026-07-23T18:38:33Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:21:20Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
-    "id": "ndisisnd/msg",
-    "language": "Shell",
-    "name": "ndisisnd/msg",
-    "stars": 2,
-    "updated_at": "2026-07-23T18:20:38Z",
-    "url": "https://github.com/ndisisnd/msg"
   },
   {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:17:06Z",
     "url": "https://github.com/varunk130/ai-legal-agents-skills-os"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T18:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Run your marketing org as an orchestrated AI team instead of a $50K/mo tool stack and scarce specialists. 9 agents own t",
@@ -243,15 +270,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
-    "id": "jamditis/claude-skills-journalism",
-    "language": "Python",
-    "name": "jamditis/claude-skills-journalism",
-    "stars": 337,
-    "updated_at": "2026-07-23T18:28:47Z",
-    "url": "https://github.com/jamditis/claude-skills-journalism"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -365,7 +383,7 @@
     "language": "Shell",
     "name": "dryvist/ai-assistant-instructions",
     "stars": 9,
-    "updated_at": "2026-07-23T17:41:03Z",
+    "updated_at": "2026-07-23T18:35:53Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T17:34:46Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "A 4-skill pipeline for Claude Code: verify mathematical proofs \u2192 repair with literature support \u2192 sharpen the theory \u2192 w",
-    "id": "gyf9712/stat-theory-skills",
-    "language": "Python",
-    "name": "gyf9712/stat-theory-skills",
-    "stars": 6,
-    "updated_at": "2026-07-23T17:32:23Z",
-    "url": "https://github.com/gyf9712/stat-theory-skills"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 1,
-    "updated_at": "2026-07-23T17:31:46Z",
-    "url": "https://github.com/martinambrus/haive"
   }
 ]
