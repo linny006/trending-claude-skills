@@ -1,12 +1,102 @@
 [
   {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-23T03:43:16Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-07-23T03:41:02Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Seedance 2.0 Shot Design Skills",
+    "id": "woodfantasy/Seedance2.0-ShotDesign-Skills",
+    "language": "Python",
+    "name": "woodfantasy/Seedance2.0-ShotDesign-Skills",
+    "stars": 80,
+    "updated_at": "2026-07-23T03:40:32Z",
+    "url": "https://github.com/woodfantasy/Seedance2.0-ShotDesign-Skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 395,
+    "updated_at": "2026-07-23T03:39:40Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-07-23T03:35:26Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-23T03:34:38Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "\ud83e\udd96Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 1",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 5,
+    "updated_at": "2026-07-23T03:34:32Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
     "description": "E-commerce skills for AI agents \u2014 product research, marketing automation, supply chain optimization, and business analyt",
     "id": "nexscope-ai/eCommerce-Skills",
     "language": "Python",
     "name": "nexscope-ai/eCommerce-Skills",
     "stars": 447,
-    "updated_at": "2026-07-23T03:30:02Z",
+    "updated_at": "2026-07-23T03:34:09Z",
     "url": "https://github.com/nexscope-ai/eCommerce-Skills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 45,
+    "updated_at": "2026-07-23T03:32:04Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 414,
+    "updated_at": "2026-07-23T03:31:16Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T03:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 210,
-    "updated_at": "2026-07-23T03:27:18Z",
+    "updated_at": "2026-07-23T03:33:46Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -41,7 +131,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-23T03:25:05Z",
+    "updated_at": "2026-07-23T03:41:09Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -61,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T03:17:21Z",
     "url": "https://github.com/88plug/screen-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T03:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
@@ -212,7 +293,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-07-23T03:24:00Z",
+    "updated_at": "2026-07-23T03:32:34Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -241,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T02:44:39Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-07-23T02:49:06Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -324,15 +396,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "\ud83e\udd96Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 1",
-    "id": "kensaurus/cursor-kenji",
-    "language": "JavaScript",
-    "name": "kensaurus/cursor-kenji",
-    "stars": 5,
-    "updated_at": "2026-07-23T02:25:04Z",
-    "url": "https://github.com/kensaurus/cursor-kenji"
-  },
-  {
     "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tastefu",
     "id": "superdesigndev/superdesign-skill",
     "language": "\u2014",
@@ -360,15 +423,6 @@
     "url": "https://github.com/JustMichael-80/MasterVault"
   },
   {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 414,
-    "updated_at": "2026-07-23T03:27:41Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "bro-skills - Spec-Driven Development CLI",
     "id": "wedabro/bro-skills",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T02:03:05Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Four local-first Claude Code commands that name, checkpoint, close, and audit AI work in plain Markdown.",
-    "id": "youkistudios/session-save-system",
-    "language": "Python",
-    "name": "youkistudios/session-save-system",
-    "stars": 0,
-    "updated_at": "2026-07-23T01:57:43Z",
-    "url": "https://github.com/youkistudios/session-save-system"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-23T01:56:34Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-07-23T01:46:52Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "A coding-agent skill for creating stunning, interactive HTML presentations \u2014 from scratch or by converting PowerPoint (`",
-    "id": "helloyxs/generate-html-ppt",
-    "language": "HTML",
-    "name": "helloyxs/generate-html-ppt",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:42:54Z",
-    "url": "https://github.com/helloyxs/generate-html-ppt"
-  },
-  {
-    "description": "",
-    "id": "gomsb143/devils-advocate",
-    "language": "Python",
-    "name": "gomsb143/devils-advocate",
-    "stars": 0,
-    "updated_at": "2026-07-23T01:35:19Z",
-    "url": "https://github.com/gomsb143/devils-advocate"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-07-23T01:28:30Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
