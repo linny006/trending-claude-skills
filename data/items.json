@@ -1,5 +1,68 @@
 [
   {
+    "description": "Orchestrate Claude Code sub-agents across long-running, single- or multi-repo projects. Artifact-first state, task lifec",
+    "id": "yahor-punko/mavericks-os",
+    "language": "JavaScript",
+    "name": "yahor-punko/mavericks-os",
+    "stars": 2,
+    "updated_at": "2026-07-23T13:12:40Z",
+    "url": "https://github.com/yahor-punko/mavericks-os"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:12:10Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Plugin with opinionated set of Claude Code agents nad skills",
+    "id": "lklimek/claudius",
+    "language": "Python",
+    "name": "lklimek/claudius",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:10:52Z",
+    "url": "https://github.com/lklimek/claudius"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:06:13Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
+    "id": "yacb2/aidex",
+    "language": "Shell",
+    "name": "yacb2/aidex",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:04:56Z",
+    "url": "https://github.com/yacb2/aidex"
+  },
+  {
+    "description": "Outbound sales, autopiloted.",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:04:44Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T13:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Personal plugins for Claude Code (& friends)... maybe worth sharing!",
     "id": "emaballarin/ccplugins",
     "language": "Python",
@@ -23,7 +86,7 @@
     "language": "\u2014",
     "name": "gjoranv/claude-plan-skills",
     "stars": 3,
-    "updated_at": "2026-07-23T12:56:51Z",
+    "updated_at": "2026-07-23T13:03:01Z",
     "url": "https://github.com/gjoranv/claude-plan-skills"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "ratel-ai/ratel",
     "stars": 317,
-    "updated_at": "2026-07-23T12:53:58Z",
+    "updated_at": "2026-07-23T13:01:36Z",
     "url": "https://github.com/ratel-ai/ratel"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T12:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A spec-driven harness for coding agents (and, humans)",
     "id": "nevenincs/vaultspec-core",
     "language": "Python",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 1,
-    "updated_at": "2026-07-23T12:44:27Z",
+    "updated_at": "2026-07-23T13:14:36Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -139,7 +193,7 @@
     "id": "AviVAvi/TokenScope",
     "language": "TypeScript",
     "name": "AviVAvi/TokenScope",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-23T12:38:36Z",
     "url": "https://github.com/AviVAvi/TokenScope"
   },
@@ -223,6 +277,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T12:25:55Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
+  },
+  {
+    "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:25:18Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -346,7 +409,7 @@
     "id": "molefrog/moi",
     "language": "TypeScript",
     "name": "molefrog/moi",
-    "stars": 28,
+    "stars": 29,
     "updated_at": "2026-07-23T12:05:01Z",
     "url": "https://github.com/molefrog/moi"
   },
@@ -385,68 +448,5 @@
     "stars": 16,
     "updated_at": "2026-07-23T11:57:22Z",
     "url": "https://github.com/PangenomeAI/academic-skills-food-nutrition"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:57:08Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 1,
-    "updated_at": "2026-07-23T11:52:08Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:51:45Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Production Postgres survival skills for Claude Code \u2014 schema design, safe migrations, query performance, connection pool",
-    "id": "pumarogie/claude-postgres-skills",
-    "language": "\u2014",
-    "name": "pumarogie/claude-postgres-skills",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:50:54Z",
-    "url": "https://github.com/pumarogie/claude-postgres-skills"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 213,
-    "updated_at": "2026-07-23T11:49:40Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
-    "id": "akovalion/paranoid-qa",
-    "language": "Shell",
-    "name": "akovalion/paranoid-qa",
-    "stars": 8,
-    "updated_at": "2026-07-23T11:48:15Z",
-    "url": "https://github.com/akovalion/paranoid-qa"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 1,
-    "updated_at": "2026-07-23T11:47:13Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
