@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open SEO / GEO / AEO audit spec and Claude Code skill. Audits websites for search engine ranking and AI assistant citati",
+    "id": "jefvandegraaf/seo-geo-aeo-audit-skill",
+    "language": "\u2014",
+    "name": "jefvandegraaf/seo-geo-aeo-audit-skill",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:42:49Z",
+    "url": "https://github.com/jefvandegraaf/seo-geo-aeo-audit-skill"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 3,
+    "updated_at": "2026-07-23T10:42:28Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
+    "id": "TerminallyLazy/Tree-Ring-Memory",
+    "language": "Rust",
+    "name": "TerminallyLazy/Tree-Ring-Memory",
+    "stars": 7,
+    "updated_at": "2026-07-23T10:39:43Z",
+    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+  },
+  {
+    "description": "\ud83e\udd96Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 1",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 6,
+    "updated_at": "2026-07-23T10:39:50Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "   A Claude Skill that coaches AI-anxious professionals from anxiety to AI-native \u2014 a 6-rung literacy ladder fusing \"Ope",
+    "id": "GimboPan/ai-native-professional",
+    "language": "\u2014",
+    "name": "GimboPan/ai-native-professional",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:38:15Z",
+    "url": "https://github.com/GimboPan/ai-native-professional"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-07-23T10:36:33Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "A nine-stage art-directed Claude Code workflow: commit direction, generate original media, review mechanics independentl",
+    "id": "youkistudios/web-studio",
+    "language": "JavaScript",
+    "name": "youkistudios/web-studio",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:36:30Z",
+    "url": "https://github.com/youkistudios/web-studio"
+  },
+  {
+    "description": "AI code reviews by Elon Musk, Steve Jobs & Linus Torvalds. Three personas debate your code until consensus. Claude Code ",
+    "id": "Atypical-Consulting/claude-legends-review",
+    "language": "Python",
+    "name": "Atypical-Consulting/claude-legends-review",
+    "stars": 2,
+    "updated_at": "2026-07-23T10:35:13Z",
+    "url": "https://github.com/Atypical-Consulting/claude-legends-review"
+  },
+  {
+    "description": "Claude Code skill: Playwright scenarios as automated tests + video walkthroughs with per-step subtitles, voice narration",
+    "id": "Avatechdir/video-walkthrough-skill",
+    "language": "Python",
+    "name": "Avatechdir/video-walkthrough-skill",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:33:25Z",
+    "url": "https://github.com/Avatechdir/video-walkthrough-skill"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:30:23Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T10:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -81,15 +180,6 @@
     "url": "https://github.com/NasserAlbusaidi/ship-gate"
   },
   {
-    "description": "   A Claude Skill that coaches AI-anxious professionals from anxiety to AI-native \u2014 a 6-rung literacy ladder fusing \"Ope",
-    "id": "GimboPan/ai-native-professional",
-    "language": "\u2014",
-    "name": "GimboPan/ai-native-professional",
-    "stars": 0,
-    "updated_at": "2026-07-23T10:23:55Z",
-    "url": "https://github.com/GimboPan/ai-native-professional"
-  },
-  {
     "description": "Collection of useful skills, prompts, tools and best practices for engineers when building and working with AI Agents",
     "id": "d0hx4n2503/Agent-Skills",
     "language": "Shell",
@@ -126,22 +216,13 @@
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T10:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A nine-stage art-directed Claude Code workflow: commit direction, generate original media, review mechanics independentl",
-    "id": "youkistudios/web-studio",
-    "language": "JavaScript",
-    "name": "youkistudios/web-studio",
-    "stars": 0,
-    "updated_at": "2026-07-23T10:12:13Z",
-    "url": "https://github.com/youkistudios/web-studio"
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 25,
+    "updated_at": "2026-07-23T10:13:19Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
   },
   {
     "description": "\u628a\u98de\u4e66\u5999\u8bb0\u7684\u5168\u90e8\u5f55\u97f3\u8f6c\u5199\u62c9\u5230\u672c\u5730 Markdown(\u542b AI \u603b\u7ed3)\u2014\u2014\u4e0d\u5efa\u5e94\u7528\u3001\u4e0d\u7533\u8bf7 API \u6743\u9650\u3001\u4e0d\u7528\u7ba1\u7406\u5458\u5ba1\u6279\uff0c\u6d4f\u89c8\u5668\u767b\u5f55\u4e00\u6b21\u5373\u53ef\u3002Pull all your Feishu Minutes transcripts into loca",
@@ -176,7 +257,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 99,
-    "updated_at": "2026-07-23T10:28:19Z",
+    "updated_at": "2026-07-23T10:32:00Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -324,6 +405,15 @@
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:31:20Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-23T10:28:05Z",
     "url": "https://github.com/jsuvic/agent-profile"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 1,
-    "updated_at": "2026-07-23T09:26:21Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-23T09:25:51Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "AI code reviews by Elon Musk, Steve Jobs & Linus Torvalds. Three personas debate your code until consensus. Claude Code ",
-    "id": "Atypical-Consulting/claude-legends-review",
-    "language": "Python",
-    "name": "Atypical-Consulting/claude-legends-review",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:24:03Z",
-    "url": "https://github.com/Atypical-Consulting/claude-legends-review"
-  },
-  {
-    "description": "Pre-push quality gate for Claude Code that runs above git, so git push --no-verify can't skip it. Tests, code review, se",
-    "id": "aksheyw/claude-code-ship-gate",
-    "language": "Shell",
-    "name": "aksheyw/claude-code-ship-gate",
-    "stars": 0,
-    "updated_at": "2026-07-23T09:22:39Z",
-    "url": "https://github.com/aksheyw/claude-code-ship-gate"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 88312,
-    "updated_at": "2026-07-23T09:15:54Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66432,
-    "updated_at": "2026-07-23T09:13:58Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "KAppMaker CLI tool that automates mobile app setup \u2014 Firebase, App Store Connect, Adapty, signing, publishing, and AI-po",
-    "id": "KAppMaker/KAppMaker-CLI",
-    "language": "TypeScript",
-    "name": "KAppMaker/KAppMaker-CLI",
-    "stars": 3,
-    "updated_at": "2026-07-23T09:06:14Z",
-    "url": "https://github.com/KAppMaker/KAppMaker-CLI"
-  },
-  {
-    "description": "Template for an AI-native job-search workflow built with Claude Code (skills + hooks). Fork and personalize.",
-    "id": "aksheyw/career-command-center-template",
-    "language": "\u2014",
-    "name": "aksheyw/career-command-center-template",
-    "stars": 1,
-    "updated_at": "2026-07-23T09:01:00Z",
-    "url": "https://github.com/aksheyw/career-command-center-template"
-  },
-  {
-    "description": "Claude Code skill: Playwright scenarios as automated tests + video walkthroughs with per-step subtitles, voice narration",
-    "id": "Avatechdir/video-walkthrough-skill",
-    "language": "Python",
-    "name": "Avatechdir/video-walkthrough-skill",
-    "stars": 0,
-    "updated_at": "2026-07-23T09:00:48Z",
-    "url": "https://github.com/Avatechdir/video-walkthrough-skill"
-  },
-  {
-    "description": "Growth marketing skills for Claude Code, Cursor, and any AI agent: SEO, CRM, marketing automation, inbox triage, and pre",
-    "id": "donatassimkus/claude-ai-skills",
-    "language": "JavaScript",
-    "name": "donatassimkus/claude-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-07-23T09:00:37Z",
-    "url": "https://github.com/donatassimkus/claude-ai-skills"
   }
 ]
