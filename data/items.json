@@ -1,5 +1,77 @@
 [
   {
+    "description": "Pre-repair station for PDF text-extraction pipelines (e.g. PDF\u2192Markdown): when extraction yields garbled text, rebuild t",
+    "id": "kau10082/pdf-text-recover",
+    "language": "\u2014",
+    "name": "kau10082/pdf-text-recover",
+    "stars": 0,
+    "updated_at": "2026-07-23T02:14:00Z",
+    "url": "https://github.com/kau10082/pdf-text-recover"
+  },
+  {
+    "description": "\ud83e\udd96Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 1",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 5,
+    "updated_at": "2026-07-23T02:13:53Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "An orientation protocol for LLM sessions \u2014 plus a curated Claude skills collection",
+    "id": "JustMichael-80/MasterVault",
+    "language": "Python",
+    "name": "JustMichael-80/MasterVault",
+    "stars": 7,
+    "updated_at": "2026-07-23T02:11:03Z",
+    "url": "https://github.com/JustMichael-80/MasterVault"
+  },
+  {
+    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 414,
+    "updated_at": "2026-07-23T02:06:14Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "bro-skills - Spec-Driven Development CLI",
+    "id": "wedabro/bro-skills",
+    "language": "Python",
+    "name": "wedabro/bro-skills",
+    "stars": 2,
+    "updated_at": "2026-07-23T02:05:59Z",
+    "url": "https://github.com/wedabro/bro-skills"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-07-23T02:03:20Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-07-23T02:03:05Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T02:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Four local-first Claude Code commands that name, checkpoint, close, and audit AI work in plain Markdown.",
     "id": "youkistudios/session-save-system",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "\ud83e\udd96Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 1",
-    "id": "kensaurus/cursor-kenji",
-    "language": "JavaScript",
-    "name": "kensaurus/cursor-kenji",
-    "stars": 5,
-    "updated_at": "2026-07-23T01:51:40Z",
-    "url": "https://github.com/kensaurus/cursor-kenji"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T01:46:52Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T01:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A coding-agent skill for creating stunning, interactive HTML presentations \u2014 from scratch or by converting PowerPoint (`",
@@ -70,15 +124,6 @@
     "stars": 53,
     "updated_at": "2026-07-23T01:28:30Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Pre-repair station for PDF text-extraction pipelines (e.g. PDF\u2192Markdown): when extraction yields garbled text, rebuild t",
-    "id": "kau10082/pdf-text-recover",
-    "language": "\u2014",
-    "name": "kau10082/pdf-text-recover",
-    "stars": 0,
-    "updated_at": "2026-07-23T01:27:34Z",
-    "url": "https://github.com/kau10082/pdf-text-recover"
   },
   {
     "description": "Skill for Claude, ChatGPT, Codex, and Copilot: answer first, fewer options, and one clear next step. For work, research,",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-07-23T01:59:11Z",
+    "updated_at": "2026-07-23T02:09:25Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T00:04:06Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Package-first A/B testing MCP server for PPC and paid social landing pages. Create URL experiments for Google Ads and Me",
-    "id": "alexpilotto/splitlaunch-dev",
-    "language": "\u2014",
-    "name": "alexpilotto/splitlaunch-dev",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:04:05Z",
-    "url": "https://github.com/alexpilotto/splitlaunch-dev"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:04:00Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-23T00:03:19Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:02:38Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:02:17Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
   }
 ]
