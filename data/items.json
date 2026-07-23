@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI agent skills for Studio LXD libraries \u2014 Claude Code, Cursor, Codex/ChatGPT and generic agents (@studiolxd/scorm, @stu",
+    "id": "studiolxd/skills",
+    "language": "JavaScript",
+    "name": "studiolxd/skills",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:58:26Z",
+    "url": "https://github.com/studiolxd/skills"
+  },
+  {
+    "description": "Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders \u2014 the ",
+    "id": "yerdaulet-damir/awesome-solo-ai",
+    "language": "\u2014",
+    "name": "yerdaulet-damir/awesome-solo-ai",
+    "stars": 8,
+    "updated_at": "2026-07-23T09:58:59Z",
+    "url": "https://github.com/yerdaulet-damir/awesome-solo-ai"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:57:42Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "",
+    "id": "naveedharri/benai-skills",
+    "language": "JavaScript",
+    "name": "naveedharri/benai-skills",
+    "stars": 44,
+    "updated_at": "2026-07-23T09:51:08Z",
+    "url": "https://github.com/naveedharri/benai-skills"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 4,
+    "updated_at": "2026-07-23T09:49:57Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Executable biomedical workflows for AI assistants \u2014 literature analysis, biomarker discovery, and Mendelian randomizatio",
+    "id": "Alim430/bioresearch-agent",
+    "language": "Python",
+    "name": "Alim430/bioresearch-agent",
+    "stars": 1,
+    "updated_at": "2026-07-23T09:45:40Z",
+    "url": "https://github.com/Alim430/bioresearch-agent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T09:45:28Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 281,
+    "updated_at": "2026-07-23T09:44:09Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
     "description": "Five Claude Code skills distilled from a solo consultant's daily practice: plain-language explanations, PRD planning and",
     "id": "cobuchan/compounding-operator",
     "language": "\u2014",
@@ -81,15 +153,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T09:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Minimum process. Constant quality. A lean Superpowers replacement for coding agents.\uff5c\u6700\u5c11\u5fc5\u8981\u6d41\u7a0b\uff0c\u6052\u5b9a\u8d28\u91cf\uff1b\u9762\u5411 Codex\u3001Claude Code \u7b49\u7f16",
     "id": "blackstone2333/goldilocks",
     "language": "Python",
@@ -126,33 +189,6 @@
     "url": "https://github.com/Atypical-Consulting/claude-legends-review"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 281,
-    "updated_at": "2026-07-23T09:44:09Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 88306,
-    "updated_at": "2026-07-23T09:15:54Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66428,
-    "updated_at": "2026-07-23T09:13:58Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Pre-push quality gate for Claude Code that runs above git, so git push --no-verify can't skip it. Tests, code review, se",
     "id": "aksheyw/claude-code-ship-gate",
     "language": "Shell",
@@ -162,12 +198,30 @@
     "url": "https://github.com/aksheyw/claude-code-ship-gate"
   },
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 88309,
+    "updated_at": "2026-07-23T09:15:54Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66430,
+    "updated_at": "2026-07-23T09:13:58Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 99,
-    "updated_at": "2026-07-23T09:41:40Z",
+    "updated_at": "2026-07-23T09:48:11Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T09:00:48Z",
     "url": "https://github.com/Avatechdir/video-walkthrough-skill"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 4,
-    "updated_at": "2026-07-23T09:00:44Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
   },
   {
     "description": "Growth marketing skills for Claude Code, Cursor, and any AI agent: SEO, CRM, marketing automation, inbox triage, and pre",
@@ -279,6 +324,15 @@
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
   },
   {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 32,
+    "updated_at": "2026-07-23T08:42:17Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
     "description": "Every FileMaker 26 function and script step, compressed to ~7,000 tokens: names, signatures, return types, script step I",
     "id": "andykear/FileMaker-AI-vocabulary",
     "language": "\u2014",
@@ -286,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T08:42:08Z",
     "url": "https://github.com/andykear/FileMaker-AI-vocabulary"
-  },
-  {
-    "description": "",
-    "id": "naveedharri/benai-skills",
-    "language": "JavaScript",
-    "name": "naveedharri/benai-skills",
-    "stars": 44,
-    "updated_at": "2026-07-23T08:40:34Z",
-    "url": "https://github.com/naveedharri/benai-skills"
   },
   {
     "description": "A collection of custom skills for academic writing, automation, specialized workflows, and more to come.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T08:22:01Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Claude Code skill that explains the mental model behind any technical mechanism \u2014 who issues the token, who verifies who",
-    "id": "jyuwaaw/dianpo-skill",
-    "language": "\u2014",
-    "name": "jyuwaaw/dianpo-skill",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:20:21Z",
-    "url": "https://github.com/jyuwaaw/dianpo-skill"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:17:57Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:15:26Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:15:21Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:13:09Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   }
 ]
