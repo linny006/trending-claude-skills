@@ -1,5 +1,86 @@
 [
   {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-07-23T05:44:00Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "ADD - LOOP SKILL for AI Coding Agent",
+    "id": "pilotspace/ADD",
+    "language": "Python",
+    "name": "pilotspace/ADD",
+    "stars": 18,
+    "updated_at": "2026-07-23T05:39:51Z",
+    "url": "https://github.com/pilotspace/ADD"
+  },
+  {
+    "description": "Second brain for Forward Deployed Engineers. Engagement memory + 35 skills across 6 domains, all behind one @fde... Work",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 303,
+    "updated_at": "2026-07-23T05:38:08Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "Claude Code skill: per-round git auto-commit safety net with progress tracking (cross-platform Stop hooks)",
+    "id": "hfjddjksaj/auto-git",
+    "language": "PowerShell",
+    "name": "hfjddjksaj/auto-git",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:35:02Z",
+    "url": "https://github.com/hfjddjksaj/auto-git"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66409,
+    "updated_at": "2026-07-23T05:34:08Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Goal-driven, loop-powered marketing agents that crush your business goals 24/7",
+    "id": "nowork-studio/NotFair",
+    "language": "TypeScript",
+    "name": "nowork-studio/NotFair",
+    "stars": 3193,
+    "updated_at": "2026-07-23T05:32:15Z",
+    "url": "https://github.com/nowork-studio/NotFair"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 281,
+    "updated_at": "2026-07-23T05:31:09Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 88286,
+    "updated_at": "2026-07-23T05:30:37Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T05:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Open, MIT-licensed food & nutrition science research skills for Claude Code, Codex, and MiniMax Agent \u2014 multi-agent lite",
     "id": "PangenomeAI/academic-skills-food-nutrition",
     "language": "Python",
@@ -34,24 +115,6 @@
     "stars": 4059,
     "updated_at": "2026-07-23T05:15:44Z",
     "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66408,
-    "updated_at": "2026-07-23T05:26:05Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T05:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
@@ -180,15 +243,6 @@
     "url": "https://github.com/tejasashinde/agent-skill-kit"
   },
   {
-    "description": "Goal-driven, loop-powered marketing agents that crush your business goals 24/7",
-    "id": "nowork-studio/NotFair",
-    "language": "TypeScript",
-    "name": "nowork-studio/NotFair",
-    "stars": 3193,
-    "updated_at": "2026-07-23T04:47:49Z",
-    "url": "https://github.com/nowork-studio/NotFair"
-  },
-  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -203,7 +257,7 @@
     "language": "\u2014",
     "name": "nicmeliones/pancakes-for-protagonists",
     "stars": 0,
-    "updated_at": "2026-07-23T04:46:21Z",
+    "updated_at": "2026-07-23T05:44:17Z",
     "url": "https://github.com/nicmeliones/pancakes-for-protagonists"
   },
   {
@@ -319,7 +373,7 @@
     "id": "codeswithroh/tastemaker",
     "language": "Python",
     "name": "codeswithroh/tastemaker",
-    "stars": 46,
+    "stars": 47,
     "updated_at": "2026-07-23T04:24:32Z",
     "url": "https://github.com/codeswithroh/tastemaker"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T04:18:29Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:18:27Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-23T04:17:41Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "My personal Claude setup \u2013 11 custom skills, CLAUDE.md config and a complete prompting guide for vibe coding and multi-a",
-    "id": "DjordjeMojsilovic/Djordjes-Claude-Setup",
-    "language": "\u2014",
-    "name": "DjordjeMojsilovic/Djordjes-Claude-Setup",
-    "stars": 4,
-    "updated_at": "2026-07-23T04:17:35Z",
-    "url": "https://github.com/DjordjeMojsilovic/Djordjes-Claude-Setup"
-  },
-  {
-    "description": "AI-visibility engineering, the open way \u2014 a Claude Code GEO/AI-search audit suite, two original tools (agent-readiness-s",
-    "id": "techhorizonlabs/thl-open",
-    "language": "Python",
-    "name": "techhorizonlabs/thl-open",
-    "stars": 13,
-    "updated_at": "2026-07-23T04:16:48Z",
-    "url": "https://github.com/techhorizonlabs/thl-open"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:16:40Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Personal memory across agents",
-    "id": "NevaMind-AI/memU",
-    "language": "Python",
-    "name": "NevaMind-AI/memU",
-    "stars": 14052,
-    "updated_at": "2026-07-23T04:45:12Z",
-    "url": "https://github.com/NevaMind-AI/memU"
   }
 ]
