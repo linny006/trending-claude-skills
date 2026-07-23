@@ -1,12 +1,21 @@
 [
   {
-    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
-    "id": "yinjialu/ai-frontier-daily",
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
     "language": "Python",
-    "name": "yinjialu/ai-frontier-daily",
+    "name": "Aperivue/medsci-skills",
+    "stars": 209,
+    "updated_at": "2026-07-23T00:28:54Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-23T00:14:47Z",
-    "url": "https://github.com/yinjialu/ai-frontier-daily"
+    "updated_at": "2026-07-23T00:28:46Z",
+    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "Agent skills for intentional code: clear domain meaning, honest failures, comments that earn their place.",
@@ -14,8 +23,44 @@
     "language": "\u2014",
     "name": "yakoshiq/skills",
     "stars": 0,
-    "updated_at": "2026-07-23T00:13:59Z",
+    "updated_at": "2026-07-23T00:23:51Z",
     "url": "https://github.com/yakoshiq/skills"
+  },
+  {
+    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
+    "id": "yinjialu/ai-frontier-daily",
+    "language": "Python",
+    "name": "yinjialu/ai-frontier-daily",
+    "stars": 1,
+    "updated_at": "2026-07-23T00:26:42Z",
+    "url": "https://github.com/yinjialu/ai-frontier-daily"
+  },
+  {
+    "description": "Claude Code skill for stunning, animation-rich HTML presentations \u2014 88 layout presets + 34 bold templates. Build slides ",
+    "id": "dreamid27/frontend-slides",
+    "language": "HTML",
+    "name": "dreamid27/frontend-slides",
+    "stars": 1,
+    "updated_at": "2026-07-23T00:21:30Z",
+    "url": "https://github.com/dreamid27/frontend-slides"
+  },
+  {
+    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
+    "id": "pedroberaldo87/pedro-plugins",
+    "language": "HTML",
+    "name": "pedroberaldo87/pedro-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-23T00:20:51Z",
+    "url": "https://github.com/pedroberaldo87/pedro-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T00:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -27,21 +72,12 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
-    "id": "pedroberaldo87/pedro-plugins",
-    "language": "HTML",
-    "name": "pedroberaldo87/pedro-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:11:33Z",
-    "url": "https://github.com/pedroberaldo87/pedro-plugins"
-  },
-  {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
     "id": "cody-hutson/pmo-platform",
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-07-23T00:09:52Z",
+    "updated_at": "2026-07-23T00:30:05Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -58,8 +94,8 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 88260,
-    "updated_at": "2026-07-23T00:09:05Z",
+    "stars": 88262,
+    "updated_at": "2026-07-23T00:29:20Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T00:01:28Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T00:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
@@ -302,7 +329,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-07-22T23:44:39Z",
+    "updated_at": "2026-07-23T00:21:31Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 396,
     "updated_at": "2026-07-22T23:08:30Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-07-22T23:08:09Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-22T23:08:03Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 1,
-    "updated_at": "2026-07-22T23:07:46Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   }
 ]
