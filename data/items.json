@@ -1,5 +1,122 @@
 [
   {
+    "description": "A coding-agent skill for creating stunning, interactive HTML presentations \u2014 from scratch or by converting PowerPoint (`",
+    "id": "helloyxs/generate-html-ppt",
+    "language": "HTML",
+    "name": "helloyxs/generate-html-ppt",
+    "stars": 1,
+    "updated_at": "2026-07-23T04:59:00Z",
+    "url": "https://github.com/helloyxs/generate-html-ppt"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:58:33Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-07-23T04:57:28Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 430,
+    "updated_at": "2026-07-23T04:56:24Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "AI film director skills for Claude agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for See",
+    "id": "smixs/visual-skills",
+    "language": "\u2014",
+    "name": "smixs/visual-skills",
+    "stars": 103,
+    "updated_at": "2026-07-23T04:55:38Z",
+    "url": "https://github.com/smixs/visual-skills"
+  },
+  {
+    "description": "Agent-Skills fuer Claude Code \u2014 bijektiver Spezifikationsvergleich und mehr",
+    "id": "Xindaan/claude-skills",
+    "language": "Python",
+    "name": "Xindaan/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:52:39Z",
+    "url": "https://github.com/Xindaan/claude-skills"
+  },
+  {
+    "description": "A toolkit of reusable agentic skills for AI agent development.",
+    "id": "tejasashinde/agent-skill-kit",
+    "language": "\u2014",
+    "name": "tejasashinde/agent-skill-kit",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:50:03Z",
+    "url": "https://github.com/tejasashinde/agent-skill-kit"
+  },
+  {
+    "description": "Open, MIT-licensed food & nutrition science research skills for Claude Code, Codex, and MiniMax Agent \u2014 multi-agent lite",
+    "id": "PangenomeAI/academic-skills-food-nutrition",
+    "language": "Python",
+    "name": "PangenomeAI/academic-skills-food-nutrition",
+    "stars": 16,
+    "updated_at": "2026-07-23T04:49:36Z",
+    "url": "https://github.com/PangenomeAI/academic-skills-food-nutrition"
+  },
+  {
+    "description": "Goal-driven, loop-powered marketing agents that crush your business goals 24/7",
+    "id": "nowork-studio/NotFair",
+    "language": "TypeScript",
+    "name": "nowork-studio/NotFair",
+    "stars": 3192,
+    "updated_at": "2026-07-23T04:47:49Z",
+    "url": "https://github.com/nowork-studio/NotFair"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:46:38Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Copy-paste AI prompts (\"spells\") for high-agency builders \u2014 company-level output from a single human. Each post ships a ",
+    "id": "nicmeliones/pancakes-for-protagonists",
+    "language": "\u2014",
+    "name": "nicmeliones/pancakes-for-protagonists",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:46:21Z",
+    "url": "https://github.com/nicmeliones/pancakes-for-protagonists"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 210,
+    "updated_at": "2026-07-23T04:46:13Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T04:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skills marketplace \u2014 backend & frontend engineering conventions + step-by-step third-party integration recip",
     "id": "kennguyen887/agent-foundation",
     "language": "Shell",
@@ -54,15 +171,6 @@
     "url": "https://github.com/kensaurus/cursor-kenji"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T04:34:47Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -97,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T04:28:40Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "AI film director skills for Claude agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for See",
-    "id": "smixs/visual-skills",
-    "language": "\u2014",
-    "name": "smixs/visual-skills",
-    "stars": 103,
-    "updated_at": "2026-07-23T04:27:12Z",
-    "url": "https://github.com/smixs/visual-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -149,7 +248,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-07-23T04:21:09Z",
+    "updated_at": "2026-07-23T04:49:39Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -232,15 +331,6 @@
     "stars": 13,
     "updated_at": "2026-07-23T04:16:48Z",
     "url": "https://github.com/techhorizonlabs/thl-open"
-  },
-  {
-    "description": "Agent-Skills fuer Claude Code \u2014 bijektiver Spezifikationsvergleich und mehr",
-    "id": "Xindaan/claude-skills",
-    "language": "Python",
-    "name": "Xindaan/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:16:41Z",
-    "url": "https://github.com/Xindaan/claude-skills"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -351,15 +441,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 210,
-    "updated_at": "2026-07-23T04:41:07Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T03:43:16Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 395,
-    "updated_at": "2026-07-23T03:39:40Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-07-23T03:35:26Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-23T03:34:38Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "E-commerce skills for AI agents \u2014 product research, marketing automation, supply chain optimization, and business analyt",
-    "id": "nexscope-ai/eCommerce-Skills",
-    "language": "Python",
-    "name": "nexscope-ai/eCommerce-Skills",
-    "stars": 448,
-    "updated_at": "2026-07-23T03:34:09Z",
-    "url": "https://github.com/nexscope-ai/eCommerce-Skills"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "Python",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 45,
-    "updated_at": "2026-07-23T03:32:04Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 414,
-    "updated_at": "2026-07-23T03:31:16Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 429,
-    "updated_at": "2026-07-23T03:47:29Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "Claude Code + Grok plugin marketplace \u2014 18 curated plugins & MCP servers. One-command install.",
-    "id": "88plug/claude-code-plugins",
-    "language": "Python",
-    "name": "88plug/claude-code-plugins",
-    "stars": 1,
-    "updated_at": "2026-07-23T03:19:36Z",
-    "url": "https://github.com/88plug/claude-code-plugins"
-  },
-  {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 1,
-    "updated_at": "2026-07-23T04:30:14Z",
-    "url": "https://github.com/inkatze/planwright"
   }
 ]
