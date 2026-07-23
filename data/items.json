@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI agent skills for Studio LXD libraries \u2014 Claude Code, Cursor, Codex/ChatGPT and generic agents (@studiolxd/scorm, @stu",
-    "id": "studiolxd/skills",
-    "language": "JavaScript",
-    "name": "studiolxd/skills",
-    "stars": 0,
-    "updated_at": "2026-07-23T09:58:26Z",
-    "url": "https://github.com/studiolxd/skills"
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-23T10:00:00Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T09:59:03Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders \u2014 the ",
@@ -14,8 +23,17 @@
     "language": "\u2014",
     "name": "yerdaulet-damir/awesome-solo-ai",
     "stars": 8,
-    "updated_at": "2026-07-23T09:58:59Z",
+    "updated_at": "2026-07-23T09:59:02Z",
     "url": "https://github.com/yerdaulet-damir/awesome-solo-ai"
+  },
+  {
+    "description": "AI agent skills for Studio LXD libraries \u2014 Claude Code, Cursor, Codex/ChatGPT and generic agents (@studiolxd/scorm, @stu",
+    "id": "studiolxd/skills",
+    "language": "JavaScript",
+    "name": "studiolxd/skills",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:58:26Z",
+    "url": "https://github.com/studiolxd/skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -52,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T09:45:40Z",
     "url": "https://github.com/Alim430/bioresearch-agent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T09:45:28Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -211,7 +220,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66430,
+    "stars": 66431,
     "updated_at": "2026-07-23T09:13:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -254,7 +263,7 @@
   {
     "description": "Growth marketing skills for Claude Code, Cursor, and any AI agent: SEO, CRM, marketing automation, inbox triage, and pre",
     "id": "donatassimkus/claude-ai-skills",
-    "language": "\u2014",
+    "language": "JavaScript",
     "name": "donatassimkus/claude-ai-skills",
     "stars": 1,
     "updated_at": "2026-07-23T09:00:37Z",
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 1,
-    "updated_at": "2026-07-23T08:45:16Z",
+    "updated_at": "2026-07-23T09:59:35Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T08:28:23Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-07-23T08:22:01Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   }
 ]
