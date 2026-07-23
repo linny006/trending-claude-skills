@@ -1,5 +1,41 @@
 [
   {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 2,
+    "updated_at": "2026-07-23T13:42:00Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:39:50Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 421,
+    "updated_at": "2026-07-23T13:33:14Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T13:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A production-grade engineering toolkit for AI-assisted software development. Contains 168 specialized skill workflows (1",
     "id": "NafisRayan/100x-Agent-Toolkit",
     "language": "Python",
@@ -45,6 +81,15 @@
     "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
+    "description": "Per-project skill manager for Claude Code. Organize hundreds of skills into domain profiles, load only what each session",
+    "id": "grooverLab/stash",
+    "language": "Shell",
+    "name": "grooverLab/stash",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:27:05Z",
+    "url": "https://github.com/grooverLab/stash"
+  },
+  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T13:26:16Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 2,
-    "updated_at": "2026-07-23T13:24:49Z",
-    "url": "https://github.com/ellmos-ai/skills"
   },
   {
     "description": "\uc791\uc5c5 \uc911 \uc313\uc778 \uae30\uc220\uc801 \uacbd\ud5d8\uc744 SEO \ucd5c\uc801\ud654\ub41c \ube14\ub85c\uadf8 \uae00 \ucd08\uc548\uc73c\ub85c",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T13:21:52Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
-    "id": "jabrena/plinth",
-    "language": "Java",
-    "name": "jabrena/plinth",
-    "stars": 421,
-    "updated_at": "2026-07-23T13:26:55Z",
-    "url": "https://github.com/jabrena/plinth"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T13:16:53Z",
     "url": "https://github.com/gulmezeren2-byte/claude-skills-doctor"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T13:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI skills to operate and grow. Twenty-eight practical powers for non-technical operators.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T12:25:55Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:25:18Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:24:36Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
   }
 ]
