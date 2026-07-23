@@ -1,5 +1,131 @@
 [
   {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:57:14Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 25,
+    "updated_at": "2026-07-23T13:55:41Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
+    "description": "A production-grade engineering toolkit for AI-assisted software development. Contains 168 specialized skill workflows (1",
+    "id": "NafisRayan/100x-Agent-Toolkit",
+    "language": "Python",
+    "name": "NafisRayan/100x-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:52:08Z",
+    "url": "https://github.com/NafisRayan/100x-Agent-Toolkit"
+  },
+  {
+    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "id": "ayghri/i-have-adhd",
+    "language": "Python",
+    "name": "ayghri/i-have-adhd",
+    "stars": 9031,
+    "updated_at": "2026-07-23T13:51:41Z",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
+    "id": "ratel-ai/ratel",
+    "language": "Rust",
+    "name": "ratel-ai/ratel",
+    "stars": 318,
+    "updated_at": "2026-07-23T13:55:20Z",
+    "url": "https://github.com/ratel-ai/ratel"
+  },
+  {
+    "description": "A Claude Code skill for visual, coaching-first DSA learning.",
+    "id": "swapnil5053/algotrace",
+    "language": "HTML",
+    "name": "swapnil5053/algotrace",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:48:16Z",
+    "url": "https://github.com/swapnil5053/algotrace"
+  },
+  {
+    "description": "Skills from a working AI operating system. Five layers you own: Constitution, Memory, Skills, Tools, Focus.",
+    "id": "arete-aios/skills",
+    "language": "\u2014",
+    "name": "arete-aios/skills",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:47:50Z",
+    "url": "https://github.com/arete-aios/skills"
+  },
+  {
+    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
+    "id": "Neetx/ai-security-research-radar",
+    "language": "\u2014",
+    "name": "Neetx/ai-security-research-radar",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:46:23Z",
+    "url": "https://github.com/Neetx/ai-security-research-radar"
+  },
+  {
+    "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
+    "id": "Neetx/ai-research-radar",
+    "language": "\u2014",
+    "name": "Neetx/ai-research-radar",
+    "stars": 2,
+    "updated_at": "2026-07-23T13:46:19Z",
+    "url": "https://github.com/Neetx/ai-research-radar"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 99,
+    "updated_at": "2026-07-23T13:46:11Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Point it at any Grafana \u2192 full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act \u2014 generated, deployed, vis",
+    "id": "alebgl77/grafana-llmops-forge",
+    "language": "Python",
+    "name": "alebgl77/grafana-llmops-forge",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:45:17Z",
+    "url": "https://github.com/alebgl77/grafana-llmops-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T13:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:45:03Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:44:50Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "Python",
@@ -25,24 +151,6 @@
     "stars": 421,
     "updated_at": "2026-07-23T13:33:14Z",
     "url": "https://github.com/jabrena/plinth"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-23T13:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A production-grade engineering toolkit for AI-assisted software development. Contains 168 specialized skill workflows (1",
-    "id": "NafisRayan/100x-Agent-Toolkit",
-    "language": "Python",
-    "name": "NafisRayan/100x-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-23T13:29:19Z",
-    "url": "https://github.com/NafisRayan/100x-Agent-Toolkit"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -140,7 +248,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 66448,
-    "updated_at": "2026-07-23T13:18:28Z",
+    "updated_at": "2026-07-23T13:55:39Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -288,15 +396,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
-    "id": "ratel-ai/ratel",
-    "language": "Rust",
-    "name": "ratel-ai/ratel",
-    "stars": 317,
-    "updated_at": "2026-07-23T13:27:46Z",
-    "url": "https://github.com/ratel-ai/ratel"
-  },
-  {
     "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
     "id": "oliver-kriska/claude-elixir-phoenix",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 1577,
     "updated_at": "2026-07-23T12:42:56Z",
     "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "Agent skills for domain intelligence. Search newly registered domains, check availability, WHOIS lookup, expired domains",
-    "id": "ABTdomain/domainkits-skills",
-    "language": "\u2014",
-    "name": "ABTdomain/domainkits-skills",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:39:09Z",
-    "url": "https://github.com/ABTdomain/domainkits-skills"
-  },
-  {
-    "description": "See where your Claude Code tokens actually go. Profiles the session logs Claude Code already writes, scores each project",
-    "id": "AviVAvi/TokenScope",
-    "language": "TypeScript",
-    "name": "AviVAvi/TokenScope",
-    "stars": 3,
-    "updated_at": "2026-07-23T12:38:36Z",
-    "url": "https://github.com/AviVAvi/TokenScope"
-  },
-  {
-    "description": "Growth marketing skills for Claude Code, Cursor, and any AI agent: SEO, CRM, marketing automation, inbox triage, and pre",
-    "id": "donatassimkus/claude-ai-skills",
-    "language": "JavaScript",
-    "name": "donatassimkus/claude-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:38:26Z",
-    "url": "https://github.com/donatassimkus/claude-ai-skills"
-  },
-  {
-    "description": "Claude Skill kit that teaches AI coding agents (Claude Code, Cursor...) to build a standards-compliant blog UI - auto TO",
-    "id": "stephenpham68/citely-blog-kit",
-    "language": "HTML",
-    "name": "stephenpham68/citely-blog-kit",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:36:32Z",
-    "url": "https://github.com/stephenpham68/citely-blog-kit"
-  },
-  {
-    "description": "Persistent memory layer for Claude Code \u2014 Obsidian vault health, connection discovery, brain dump, session notes, email ",
-    "id": "jojoprison/mnemo",
-    "language": "Python",
-    "name": "jojoprison/mnemo",
-    "stars": 6,
-    "updated_at": "2026-07-23T12:34:23Z",
-    "url": "https://github.com/jojoprison/mnemo"
-  },
-  {
-    "description": "App Store \u5168\u751f\u547d\u5468\u671f\u7ba1\u7406 Claude Code plugin\uff1a\u4e0a\u67b6\u3001\u5ba1\u8ba1\u3001\u88ab\u62d2\u6062\u590d\u3001TestFlight\u3001ASO\uff08\u542b\u4e2d\u56fd\u533a ICP/\u5e7f\u544a\u6cd5\u4e13\u9879\uff09",
-    "id": "Shawn1993/ship-appstore",
-    "language": "HTML",
-    "name": "Shawn1993/ship-appstore",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:27:38Z",
-    "url": "https://github.com/Shawn1993/ship-appstore"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:26:50Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:26:07Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:26:04Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-07-23T12:26:04Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:25:55Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   }
 ]
