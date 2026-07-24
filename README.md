@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-24 07:15 UTC
+> ⏰ Last updated: 2026-07-24 07:18 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-24 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 2 | [netopsengineer/axiom](https://github.com/netopsengineer/axiom) | 3 | Python | 2026-07-24 | A curated marketplace of plugins for Claude Code, built from first principles. |
-| 3 | [Yuki001/game-dev-skills](https://github.com/Yuki001/game-dev-skills) | 40 | Python | 2026-07-24 | My personal agent skill repository, primarily focused on game development. |
-| 4 | [Wang-Cankun/cankun-skills](https://github.com/Wang-Cankun/cankun-skills) | 1 | JavaScript | 2026-07-24 | Index of my agent skills — each skill lives in its own repo |
-| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-07-24 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 6 | [sevenskytech1/claude-skills-hub](https://github.com/sevenskytech1/claude-skills-hub) | 0 | HTML | 2026-07-24 | Free open-source Claude Skills examples, templates, and guides for developers, researchers, writers, designers, and auto |
-| 7 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 214 | Python | 2026-07-24 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication fi |
-| 8 | [pilotspace/ADD](https://github.com/pilotspace/ADD) | 18 | Python | 2026-07-24 | ADD - LOOP SKILL for AI Coding Agent |
-| 9 | [escoffier-labs/skillet](https://github.com/escoffier-labs/skillet) | 2 | Shell | 2026-07-24 | A skillet full of agent skills that actually ship work. Production-tested SKILL.md workflows for audits, security, relea |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-24 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 11 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 99 | Kotlin | 2026-07-24 | Helping the Agents Compose the Things |
-| 12 | [HiroHyun/grounded-copy](https://github.com/HiroHyun/grounded-copy) | 3 | Python | 2026-07-24 | Style gate for marketing and web copy: every claim states a feature, a number, or a mechanism. Agent skill (Claude Code  |
-| 13 | [alfadur7/llm-wiki-newsroom](https://github.com/alfadur7/llm-wiki-newsroom) | 61 | Python | 2026-07-24 | Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into |
-| 14 | [jabrena/plinth](https://github.com/jabrena/plinth) | 422 | Java | 2026-07-24 | Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil |
-| 15 | [LukeRenton/explore-claude-code](https://github.com/LukeRenton/explore-claude-code) | 250 | JavaScript | 2026-07-24 | Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md a |
-| 16 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-24 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
-| 17 | [Stewie-pixel/claude-with-leetcode](https://github.com/Stewie-pixel/claude-with-leetcode) | 62 | C++ | 2026-07-24 | Daily Leetcode masterclass with Claude code DSA mentor |
-| 18 | [martinambrus/haive](https://github.com/martinambrus/haive) | 2 | TypeScript | 2026-07-24 | Project orchestration and AI agentic workflow utility. |
+| 1 | [martinambrus/haive](https://github.com/martinambrus/haive) | 2 | TypeScript | 2026-07-24 | Project orchestration and AI agentic workflow utility. |
+| 2 | [sevenskytech1/claude-skills-hub](https://github.com/sevenskytech1/claude-skills-hub) | 0 | HTML | 2026-07-24 | Free open-source Claude Skills examples, templates, and guides for developers, researchers, writers, designers, and auto |
+| 3 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-24 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 4 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-24 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 5 | [netopsengineer/axiom](https://github.com/netopsengineer/axiom) | 3 | Python | 2026-07-24 | A curated marketplace of plugins for Claude Code, built from first principles. |
+| 6 | [Yuki001/game-dev-skills](https://github.com/Yuki001/game-dev-skills) | 40 | Python | 2026-07-24 | My personal agent skill repository, primarily focused on game development. |
+| 7 | [Wang-Cankun/cankun-skills](https://github.com/Wang-Cankun/cankun-skills) | 1 | JavaScript | 2026-07-24 | Index of my agent skills — each skill lives in its own repo |
+| 8 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-07-24 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 9 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 214 | Python | 2026-07-24 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication fi |
+| 10 | [pilotspace/ADD](https://github.com/pilotspace/ADD) | 18 | Python | 2026-07-24 | ADD - LOOP SKILL for AI Coding Agent |
+| 11 | [escoffier-labs/skillet](https://github.com/escoffier-labs/skillet) | 2 | Shell | 2026-07-24 | A skillet full of agent skills that actually ship work. Production-tested SKILL.md workflows for audits, security, relea |
+| 12 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 99 | Kotlin | 2026-07-24 | Helping the Agents Compose the Things |
+| 13 | [HiroHyun/grounded-copy](https://github.com/HiroHyun/grounded-copy) | 3 | Python | 2026-07-24 | Style gate for marketing and web copy: every claim states a feature, a number, or a mechanism. Agent skill (Claude Code  |
+| 14 | [alfadur7/llm-wiki-newsroom](https://github.com/alfadur7/llm-wiki-newsroom) | 61 | Python | 2026-07-24 | Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into |
+| 15 | [jabrena/plinth](https://github.com/jabrena/plinth) | 422 | Java | 2026-07-24 | Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil |
+| 16 | [LukeRenton/explore-claude-code](https://github.com/LukeRenton/explore-claude-code) | 250 | JavaScript | 2026-07-24 | Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md a |
+| 17 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-24 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
+| 18 | [Stewie-pixel/claude-with-leetcode](https://github.com/Stewie-pixel/claude-with-leetcode) | 62 | C++ | 2026-07-24 | Daily Leetcode masterclass with Claude code DSA mentor |
 | 19 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-24 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
 | 20 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-07-24 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
 | 21 | [onlymuneeb38-glitch/ios-agent-skills-evaluator](https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator) | 1 | HTML | 2026-07-24 | iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models |
