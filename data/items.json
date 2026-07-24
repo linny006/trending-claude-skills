@@ -1,10 +1,64 @@
 [
   {
+    "description": "Deterministic python skill suite for LibreOffice designed for AI agents",
+    "id": "dfk1352/LibreOffice-skills",
+    "language": "Python",
+    "name": "dfk1352/LibreOffice-skills",
+    "stars": 6,
+    "updated_at": "2026-07-24T01:54:09Z",
+    "url": "https://github.com/dfk1352/LibreOffice-skills"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:52:03Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Project memory for long-running AI work across agents, models, and sessions. Keep context, decisions, progress, and next",
+    "id": "Frappucc1no/recall-loom",
+    "language": "Python",
+    "name": "Frappucc1no/recall-loom",
+    "stars": 149,
+    "updated_at": "2026-07-24T01:54:33Z",
+    "url": "https://github.com/Frappucc1no/recall-loom"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-07-24T01:47:14Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Per-project skill manager for Claude Code. Organize hundreds of skills into domain profiles, load only what each session",
+    "id": "grooverLab/stash",
+    "language": "Shell",
+    "name": "grooverLab/stash",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:47:09Z",
+    "url": "https://github.com/grooverLab/stash"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T01:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
     "id": "ColinVaughn/Synaptic",
     "language": "Rust",
     "name": "ColinVaughn/Synaptic",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-07-24T01:45:07Z",
     "url": "https://github.com/ColinVaughn/Synaptic"
   },
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T01:36:09Z",
     "url": "https://github.com/alikmlsipahi/youtube-to-spec"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T01:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Muzi Going \u7684 Claude skills \u5546\u5e97 \u2014 Claude Code plugin marketplace",
@@ -117,6 +162,15 @@
     "url": "https://github.com/Shawn1993/ship-appstore"
   },
   {
+    "description": "AI Client for chat, RAG, plans, MCP tools, and agents with multi-provider model support. ",
+    "id": "askimo-ai/askimo",
+    "language": "Kotlin",
+    "name": "askimo-ai/askimo",
+    "stars": 250,
+    "updated_at": "2026-07-24T01:15:12Z",
+    "url": "https://github.com/askimo-ai/askimo"
+  },
+  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -133,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T01:13:47Z",
     "url": "https://github.com/jasonm4130/claude-skills"
-  },
-  {
-    "description": "Per-project skill manager for Claude Code. Organize hundreds of skills into domain profiles, load only what each session",
-    "id": "grooverLab/stash",
-    "language": "Shell",
-    "name": "grooverLab/stash",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:12:20Z",
-    "url": "https://github.com/grooverLab/stash"
   },
   {
     "description": "The missing layer in the AI agent stack. Teach your agent how you decide. Generates a portable DECISION.md from research",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "vast-ai/vast-cli",
     "stars": 207,
-    "updated_at": "2026-07-24T01:41:58Z",
+    "updated_at": "2026-07-24T01:59:46Z",
     "url": "https://github.com/vast-ai/vast-cli"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T00:09:47Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:07:50Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:06:24Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "AI Client for chat, RAG, plans, MCP tools, and agents with multi-provider model support. ",
-    "id": "askimo-ai/askimo",
-    "language": "Kotlin",
-    "name": "askimo-ai/askimo",
-    "stars": 249,
-    "updated_at": "2026-07-24T01:15:12Z",
-    "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:04:02Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 1,
-    "updated_at": "2026-07-24T00:03:36Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   }
 ]
