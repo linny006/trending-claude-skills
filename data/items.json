@@ -1,5 +1,104 @@
 [
   {
+    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 414,
+    "updated_at": "2026-07-24T00:59:41Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 1,
+    "updated_at": "2026-07-24T00:58:47Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "My assortment of Claude Code skills",
+    "id": "ivuorinen/skills",
+    "language": "Python",
+    "name": "ivuorinen/skills",
+    "stars": 1,
+    "updated_at": "2026-07-24T00:58:30Z",
+    "url": "https://github.com/ivuorinen/skills"
+  },
+  {
+    "description": "Vast.ai python and cli api client",
+    "id": "vast-ai/vast-cli",
+    "language": "Python",
+    "name": "vast-ai/vast-cli",
+    "stars": 207,
+    "updated_at": "2026-07-24T00:59:51Z",
+    "url": "https://github.com/vast-ai/vast-cli"
+  },
+  {
+    "description": "13 Claude Code skills + 1 hook: full engineering discipline (TDD, root-cause debugging, verification) with zero narratio",
+    "id": "StarchyBomb/superlazy",
+    "language": "Python",
+    "name": "StarchyBomb/superlazy",
+    "stars": 2,
+    "updated_at": "2026-07-24T00:55:24Z",
+    "url": "https://github.com/StarchyBomb/superlazy"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-24T00:54:07Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Agency-grade full-stack website skills for coding agents \u2014 kills the default AI look. framer-motion motion, shadcn compo",
+    "id": "StarchyBomb/isekai",
+    "language": "\u2014",
+    "name": "StarchyBomb/isekai",
+    "stars": 1,
+    "updated_at": "2026-07-24T00:53:11Z",
+    "url": "https://github.com/StarchyBomb/isekai"
+  },
+  {
+    "description": "Lossless context index + on-demand retrieval for AI agents \u2014 keep a tiny index card in context, load exact original sect",
+    "id": "StarchyBomb/supercontexter",
+    "language": "Python",
+    "name": "StarchyBomb/supercontexter",
+    "stars": 1,
+    "updated_at": "2026-07-24T00:53:08Z",
+    "url": "https://github.com/StarchyBomb/supercontexter"
+  },
+  {
+    "description": "Make an AI that \"can't draw\" paint anyway \u2014 Claude hand-writes SVG + numpy, renders, critiques, and fixes until it's rea",
+    "id": "StarchyBomb/claude-davinci",
+    "language": "Python",
+    "name": "StarchyBomb/claude-davinci",
+    "stars": 2,
+    "updated_at": "2026-07-24T00:53:04Z",
+    "url": "https://github.com/StarchyBomb/claude-davinci"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-24T00:52:06Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T00:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
     "id": "ColinVaughn/Synaptic",
     "language": "Rust",
@@ -16,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-07-24T00:42:49Z",
     "url": "https://github.com/kensaurus/cursor-kenji"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:41:58Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
@@ -45,15 +135,6 @@
     "url": "https://github.com/yinjialu/ai-frontier-daily"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T00:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Orchestrate Claude Code sub-agents across long-running, single- or multi-repo projects. Artifact-first state, task lifec",
     "id": "yahor-punko/mavericks-os",
     "language": "JavaScript",
@@ -72,15 +153,6 @@
     "url": "https://github.com/MadaraUchiha-314/the-loop"
   },
   {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 414,
-    "updated_at": "2026-07-24T00:24:24Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
     "id": "88plug/total-recall",
     "language": "Python",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T00:20:39Z",
     "url": "https://github.com/88plug/total-recall"
-  },
-  {
-    "description": "Agency-grade full-stack website skills for coding agents \u2014 kills the default AI look. framer-motion motion, shadcn compo",
-    "id": "StarchyBomb/isekai",
-    "language": "\u2014",
-    "name": "StarchyBomb/isekai",
-    "stars": 1,
-    "updated_at": "2026-07-24T00:20:03Z",
-    "url": "https://github.com/StarchyBomb/isekai"
   },
   {
     "description": "Claude Code + Grok plugin marketplace \u2014 18 curated plugins & MCP servers. One-command install.",
@@ -142,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T00:13:19Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 1,
-    "updated_at": "2026-07-24T00:31:23Z",
-    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-23T23:41:21Z",
     "url": "https://github.com/air-gapped/skills"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-07-23T23:37:47Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-07-23T23:36:51Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1373,
-    "updated_at": "2026-07-23T23:36:01Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-23T23:34:00Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 213,
-    "updated_at": "2026-07-23T23:33:54Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Claude skills that make the output look and read right by default: branded Word and PowerPoint, a logic-and-slop prose r",
-    "id": "dzivkovi/claude-skills",
-    "language": "Python",
-    "name": "dzivkovi/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-23T23:33:40Z",
-    "url": "https://github.com/dzivkovi/claude-skills"
   }
 ]
