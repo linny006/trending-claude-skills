@@ -1,5 +1,77 @@
 [
   {
+    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
+    "id": "ndisisnd/msg",
+    "language": "Shell",
+    "name": "ndisisnd/msg",
+    "stars": 2,
+    "updated_at": "2026-07-24T09:13:58Z",
+    "url": "https://github.com/ndisisnd/msg"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-24T09:10:02Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "91 production-grade healthcare engineering skills for AI agents \u2014 FHIR, HL7v2, HIPAA, clinical AI, EHR integration, tele",
+    "id": "aks-builds/healthcareskills",
+    "language": "JavaScript",
+    "name": "aks-builds/healthcareskills",
+    "stars": 1,
+    "updated_at": "2026-07-24T09:09:14Z",
+    "url": "https://github.com/aks-builds/healthcareskills"
+  },
+  {
+    "description": "Two Claude Skills for natural-sounding writing (Persian & English) \u2014 catches AI-writing tells like generic praise, formu",
+    "id": "White-Wolf-dv/Natural-Writing-Skills-Claude",
+    "language": "\u2014",
+    "name": "White-Wolf-dv/Natural-Writing-Skills-Claude",
+    "stars": 0,
+    "updated_at": "2026-07-24T09:14:33Z",
+    "url": "https://github.com/White-Wolf-dv/Natural-Writing-Skills-Claude"
+  },
+  {
+    "description": "107 production-grade QA engineering skills for AI agents \u2014 frontend, API, performance, mobile, security, CI, and AI/LLM ",
+    "id": "aks-builds/quality-skills",
+    "language": "JavaScript",
+    "name": "aks-builds/quality-skills",
+    "stars": 1,
+    "updated_at": "2026-07-24T09:02:26Z",
+    "url": "https://github.com/aks-builds/quality-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-24T09:01:45Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 3,
+    "updated_at": "2026-07-24T09:00:31Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T09:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Index of my agent skills \u2014 each skill lives in its own repo",
     "id": "Wang-Cankun/cankun-skills",
     "language": "JavaScript",
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "ur-grue/autopunk-media-skills",
     "stars": 16,
-    "updated_at": "2026-07-24T08:56:32Z",
+    "updated_at": "2026-07-24T09:09:44Z",
     "url": "https://github.com/ur-grue/autopunk-media-skills"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 14058,
     "updated_at": "2026-07-24T08:56:19Z",
     "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T08:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -385,68 +448,5 @@
     "stars": 99,
     "updated_at": "2026-07-24T08:30:17Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 214,
-    "updated_at": "2026-07-24T07:53:07Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Free open-source Claude Skills examples, templates, and guides for developers, researchers, writers, designers, and auto",
-    "id": "sevenskytech1/claude-skills-hub",
-    "language": "HTML",
-    "name": "sevenskytech1/claude-skills-hub",
-    "stars": 0,
-    "updated_at": "2026-07-24T07:51:00Z",
-    "url": "https://github.com/sevenskytech1/claude-skills-hub"
-  },
-  {
-    "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through t",
-    "id": "composio-community/awesome-claude-plugins",
-    "language": "JavaScript",
-    "name": "composio-community/awesome-claude-plugins",
-    "stars": 1839,
-    "updated_at": "2026-07-24T07:50:30Z",
-    "url": "https://github.com/composio-community/awesome-claude-plugins"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-24T07:48:20Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-24T07:44:22Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-07-24T07:34:05Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 1,
-    "updated_at": "2026-07-24T07:33:53Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   }
 ]
