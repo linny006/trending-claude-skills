@@ -1,5 +1,23 @@
 [
   {
+    "description": "API gateway with managed auth. Connect your AI to Slack, HubSpot, Salesforce, Google Workspace, Shopify, and more with a",
+    "id": "maton-ai/api-gateway-skill",
+    "language": "\u2014",
+    "name": "maton-ai/api-gateway-skill",
+    "stars": 28,
+    "updated_at": "2026-07-24T19:57:49Z",
+    "url": "https://github.com/maton-ai/api-gateway-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T19:55:45Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
     "id": "ndisisnd/msg",
     "language": "Shell",
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T19:47:08Z",
     "url": "https://github.com/vinsonconsulting/claude-skill-foundry"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T19:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-24T19:08:19Z",
     "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-07-24T19:07:51Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
   }
 ]
