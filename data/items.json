@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udd96Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 1",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 6,
+    "updated_at": "2026-07-24T02:55:22Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "Muzi Going \u7684 Claude skills \u5546\u5e97 \u2014 Claude Code plugin marketplace",
+    "id": "goingli0324/muzi-going-skills",
+    "language": "\u2014",
+    "name": "goingli0324/muzi-going-skills",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:54:28Z",
+    "url": "https://github.com/goingli0324/muzi-going-skills"
+  },
+  {
+    "description": "Claude skill: \u672a\u4f86\u5b78\u7814\u7a76\u65b9\u6cd5\u5206\u6790\u5668 \u2014 turn qualitative & trend data into rigorous futures-studies analysis (Six Pillars, Delphi, CL",
+    "id": "goingli0324/futures-studies-analyst",
+    "language": "\u2014",
+    "name": "goingli0324/futures-studies-analyst",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:53:54Z",
+    "url": "https://github.com/goingli0324/futures-studies-analyst"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 82,
+    "updated_at": "2026-07-24T02:51:45Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Per-project skill manager for Claude Code. Organize hundreds of skills into domain profiles, load only what each session",
+    "id": "grooverLab/stash",
+    "language": "Shell",
+    "name": "grooverLab/stash",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:51:33Z",
+    "url": "https://github.com/grooverLab/stash"
+  },
+  {
+    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
+    "id": "ndisisnd/msg",
+    "language": "Shell",
+    "name": "ndisisnd/msg",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:47:55Z",
+    "url": "https://github.com/ndisisnd/msg"
+  },
+  {
+    "description": "\ud648\ud0dd\uc2a4 \uc138\ubb34 \uc791\uc5c5\uc744 AI\uc5d0\uac8c \ub9d0\ub85c \uc2dc\ud0a4\ub294 \ubb34\ub8cc \uc2a4\ud0ac 6\uc885 \u2014 \ubd80\uac00\uc138\u00b7\uc885\ud569\uc18c\ub4dd\uc138\u00b7\uc804\uc790\uc138\uae08\uacc4\uc0b0\uc11c (Claude/Codex/Aside)",
+    "id": "lbiz-partners/hometax-doum",
+    "language": "\u2014",
+    "name": "lbiz-partners/hometax-doum",
+    "stars": 17,
+    "updated_at": "2026-07-24T02:45:50Z",
+    "url": "https://github.com/lbiz-partners/hometax-doum"
+  },
+  {
+    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
+    "id": "fcakyon/claude-codex-settings",
+    "language": "Python",
+    "name": "fcakyon/claude-codex-settings",
+    "stars": 815,
+    "updated_at": "2026-07-24T02:45:26Z",
+    "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T02:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -40,27 +121,9 @@
     "id": "aaaxy/PrepDojo",
     "language": "Python",
     "name": "aaaxy/PrepDojo",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-24T02:31:15Z",
     "url": "https://github.com/aaaxy/PrepDojo"
-  },
-  {
-    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
-    "id": "fcakyon/claude-codex-settings",
-    "language": "Python",
-    "name": "fcakyon/claude-codex-settings",
-    "stars": 815,
-    "updated_at": "2026-07-24T02:43:53Z",
-    "url": "https://github.com/fcakyon/claude-codex-settings"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T02:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "20 power-user skills for Claude Code: session memory and consolidation, context compression, multi-agent orchestration, ",
@@ -124,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T02:21:49Z",
     "url": "https://github.com/beihai23/cognitive-html-doc"
-  },
-  {
-    "description": "Per-project skill manager for Claude Code. Organize hundreds of skills into domain profiles, load only what each session",
-    "id": "grooverLab/stash",
-    "language": "Shell",
-    "name": "grooverLab/stash",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:21:22Z",
-    "url": "https://github.com/grooverLab/stash"
-  },
-  {
-    "description": "\ud83e\udd96Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 1",
-    "id": "kensaurus/cursor-kenji",
-    "language": "JavaScript",
-    "name": "kensaurus/cursor-kenji",
-    "stars": 6,
-    "updated_at": "2026-07-24T02:18:21Z",
-    "url": "https://github.com/kensaurus/cursor-kenji"
   },
   {
     "description": "A Claude skill for writing, structuring, pitching, revising, and understanding professional magazine and newspaper featu",
@@ -229,7 +274,7 @@
     "id": "artokun/comfyui-mcp",
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
-    "stars": 441,
+    "stars": 442,
     "updated_at": "2026-07-24T01:44:25Z",
     "url": "https://github.com/artokun/comfyui-mcp"
   },
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T01:42:34Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Muzi Going \u7684 Claude skills \u5546\u5e97 \u2014 Claude Code plugin marketplace",
-    "id": "goingli0324/muzi-going-skills",
-    "language": "\u2014",
-    "name": "goingli0324/muzi-going-skills",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:30:07Z",
-    "url": "https://github.com/goingli0324/muzi-going-skills"
   },
   {
     "description": "Claude skill: PDCA \u6d41\u7a0b\u6aa2\u8996 \u2014 apply the Deming cycle to review and improve any recurring process, with honest evidence-based",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-24T01:01:28Z",
     "url": "https://github.com/88plug/claude-code-plugins"
-  },
-  {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 414,
-    "updated_at": "2026-07-24T00:59:41Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Autopilot for spec-driven development: a standalone, opinionated Claude Code framework",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 1,
-    "updated_at": "2026-07-24T02:41:18Z",
-    "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "My assortment of Claude Code skills",
-    "id": "ivuorinen/skills",
-    "language": "Python",
-    "name": "ivuorinen/skills",
-    "stars": 1,
-    "updated_at": "2026-07-24T02:13:27Z",
-    "url": "https://github.com/ivuorinen/skills"
-  },
-  {
-    "description": "Vast.ai python and cli api client",
-    "id": "vast-ai/vast-cli",
-    "language": "Python",
-    "name": "vast-ai/vast-cli",
-    "stars": 207,
-    "updated_at": "2026-07-24T01:59:46Z",
-    "url": "https://github.com/vast-ai/vast-cli"
   }
 ]
