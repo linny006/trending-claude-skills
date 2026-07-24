@@ -1,12 +1,66 @@
 [
   {
+    "description": "Orchestrate Claude Code sub-agents across long-running, single- or multi-repo projects. Artifact-first state, task lifec",
+    "id": "yahor-punko/mavericks-os",
+    "language": "JavaScript",
+    "name": "yahor-punko/mavericks-os",
+    "stars": 2,
+    "updated_at": "2026-07-24T00:29:10Z",
+    "url": "https://github.com/yahor-punko/mavericks-os"
+  },
+  {
     "description": "\ud83e\udd96Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 1",
     "id": "kensaurus/cursor-kenji",
     "language": "JavaScript",
     "name": "kensaurus/cursor-kenji",
     "stars": 6,
-    "updated_at": "2026-07-24T00:14:54Z",
+    "updated_at": "2026-07-24T00:27:46Z",
     "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 4,
+    "updated_at": "2026-07-24T00:26:06Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 414,
+    "updated_at": "2026-07-24T00:24:24Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-07-24T00:20:39Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T00:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code + Grok plugin marketplace \u2014 18 curated plugins & MCP servers. One-command install.",
+    "id": "88plug/claude-code-plugins",
+    "language": "Python",
+    "name": "88plug/claude-code-plugins",
+    "stars": 1,
+    "updated_at": "2026-07-24T00:15:11Z",
+    "url": "https://github.com/88plug/claude-code-plugins"
   },
   {
     "description": "The missing layer in the AI agent stack. Teach your agent how you decide. Generates a portable DECISION.md from research",
@@ -50,26 +104,8 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-24T00:14:31Z",
+    "updated_at": "2026-07-24T00:27:01Z",
     "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 414,
-    "updated_at": "2026-07-24T00:12:30Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:11:30Z",
-    "url": "https://github.com/88plug/total-recall"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T00:00:28Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T00:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -369,15 +396,6 @@
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 4,
-    "updated_at": "2026-07-23T23:56:11Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
     "description": "Claude skills that make the output look and read right by default: branded Word and PowerPoint, a logic-and-slop prose r",
     "id": "dzivkovi/claude-skills",
     "language": "Python",
@@ -428,25 +446,7 @@
     "language": "JavaScript",
     "name": "JayOfemi/claude-toolbox",
     "stars": 0,
-    "updated_at": "2026-07-23T23:19:27Z",
+    "updated_at": "2026-07-24T00:19:41Z",
     "url": "https://github.com/JayOfemi/claude-toolbox"
-  },
-  {
-    "description": "Claude Code Plugins, Commands, and Skills",
-    "id": "tony/ai-workflow-plugins",
-    "language": "Python",
-    "name": "tony/ai-workflow-plugins",
-    "stars": 2,
-    "updated_at": "2026-07-24T00:14:18Z",
-    "url": "https://github.com/tony/ai-workflow-plugins"
-  },
-  {
-    "description": "Finds, scores, and ranks the best library, SDK, or tool for your exact stack \u2014 no Reddit threads, no outdated blogs. 5-t",
-    "id": "Magithar/SKILLmama",
-    "language": "\u2014",
-    "name": "Magithar/SKILLmama",
-    "stars": 7,
-    "updated_at": "2026-07-23T23:13:48Z",
-    "url": "https://github.com/Magithar/SKILLmama"
   }
 ]
