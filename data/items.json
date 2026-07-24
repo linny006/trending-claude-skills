@@ -1,12 +1,12 @@
 [
   {
-    "description": "Orchestrate Claude Code sub-agents across long-running, single- or multi-repo projects. Artifact-first state, task lifec",
-    "id": "yahor-punko/mavericks-os",
-    "language": "JavaScript",
-    "name": "yahor-punko/mavericks-os",
-    "stars": 2,
-    "updated_at": "2026-07-24T00:29:10Z",
-    "url": "https://github.com/yahor-punko/mavericks-os"
+    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
+    "id": "ColinVaughn/Synaptic",
+    "language": "Rust",
+    "name": "ColinVaughn/Synaptic",
+    "stars": 19,
+    "updated_at": "2026-07-24T00:42:40Z",
+    "url": "https://github.com/ColinVaughn/Synaptic"
   },
   {
     "description": "\ud83e\udd96Curated Cursor AI agent skills, slash commands, MCP configs, subagents & rules for full-stack dev \u2014 React 19, Next.js 1",
@@ -14,8 +14,53 @@
     "language": "JavaScript",
     "name": "kensaurus/cursor-kenji",
     "stars": 6,
-    "updated_at": "2026-07-24T00:27:46Z",
+    "updated_at": "2026-07-24T00:42:49Z",
     "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-24T00:41:58Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-07-24T00:40:57Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
+    "id": "yinjialu/ai-frontier-daily",
+    "language": "Python",
+    "name": "yinjialu/ai-frontier-daily",
+    "stars": 1,
+    "updated_at": "2026-07-24T00:39:16Z",
+    "url": "https://github.com/yinjialu/ai-frontier-daily"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T00:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Orchestrate Claude Code sub-agents across long-running, single- or multi-repo projects. Artifact-first state, task lifec",
+    "id": "yahor-punko/mavericks-os",
+    "language": "JavaScript",
+    "name": "yahor-punko/mavericks-os",
+    "stars": 2,
+    "updated_at": "2026-07-24T00:29:10Z",
+    "url": "https://github.com/yahor-punko/mavericks-os"
   },
   {
     "description": "The loop for everything!",
@@ -45,13 +90,13 @@
     "url": "https://github.com/88plug/total-recall"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T00:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Agency-grade full-stack website skills for coding agents \u2014 kills the default AI look. framer-motion motion, shadcn compo",
+    "id": "StarchyBomb/isekai",
+    "language": "\u2014",
+    "name": "StarchyBomb/isekai",
+    "stars": 1,
+    "updated_at": "2026-07-24T00:20:03Z",
+    "url": "https://github.com/StarchyBomb/isekai"
   },
   {
     "description": "Claude Code + Grok plugin marketplace \u2014 18 curated plugins & MCP servers. One-command install.",
@@ -104,7 +149,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-24T00:27:01Z",
+    "updated_at": "2026-07-24T00:31:23Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T23:33:40Z",
     "url": "https://github.com/dzivkovi/claude-skills"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-23T23:33:39Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Claude Code plugin for end-to-end SEO + GEO. One command (/seo) drives everything: bootstrap, audit, find underserved ke",
-    "id": "benskamps/seo-superpower",
-    "language": "JavaScript",
-    "name": "benskamps/seo-superpower",
-    "stars": 0,
-    "updated_at": "2026-07-23T23:29:39Z",
-    "url": "https://github.com/benskamps/seo-superpower"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-23T23:25:46Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-23T23:24:47Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Open library of small, install-and-own Claude Code skills and commands, including a wording linter and a pre-public secr",
-    "id": "JayOfemi/claude-toolbox",
-    "language": "JavaScript",
-    "name": "JayOfemi/claude-toolbox",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:19:41Z",
-    "url": "https://github.com/JayOfemi/claude-toolbox"
   }
 ]
