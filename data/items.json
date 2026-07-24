@@ -1,5 +1,140 @@
 [
   {
+    "description": "Index of my agent skills \u2014 each skill lives in its own repo",
+    "id": "Wang-Cankun/cankun-skills",
+    "language": "JavaScript",
+    "name": "Wang-Cankun/cankun-skills",
+    "stars": 1,
+    "updated_at": "2026-07-24T09:00:06Z",
+    "url": "https://github.com/Wang-Cankun/cankun-skills"
+  },
+  {
+    "description": "A 4-skill pipeline for Claude Code: verify mathematical proofs \u2192 repair with literature support \u2192 sharpen the theory \u2192 w",
+    "id": "gyf9712/stat-theory-skills",
+    "language": "Python",
+    "name": "gyf9712/stat-theory-skills",
+    "stars": 7,
+    "updated_at": "2026-07-24T08:58:50Z",
+    "url": "https://github.com/gyf9712/stat-theory-skills"
+  },
+  {
+    "description": "",
+    "id": "xiaowu89/skill-compress",
+    "language": "\u2014",
+    "name": "xiaowu89/skill-compress",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:57:10Z",
+    "url": "https://github.com/xiaowu89/skill-compress"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 396,
+    "updated_at": "2026-07-24T08:56:33Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "CI for Claude Skills \u2014 lint, eval, and regression-test SKILL.md files across a model matrix, with a self-growing eval lo",
+    "id": "kabirnarang39/skillci",
+    "language": "Go",
+    "name": "kabirnarang39/skillci",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:55:21Z",
+    "url": "https://github.com/kabirnarang39/skillci"
+  },
+  {
+    "description": "Agent skills for VillageSQL - gemini-cli-extension; claude-code-plugin",
+    "id": "villagesql/villagesql-skills",
+    "language": "\u2014",
+    "name": "villagesql/villagesql-skills",
+    "stars": 5,
+    "updated_at": "2026-07-24T08:53:06Z",
+    "url": "https://github.com/villagesql/villagesql-skills"
+  },
+  {
+    "description": "Hook, skill, and CLI script for agents to take screenshots and visually check their work",
+    "id": "mickzijdel/vischeck",
+    "language": "Python",
+    "name": "mickzijdel/vischeck",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:52:28Z",
+    "url": "https://github.com/mickzijdel/vischeck"
+  },
+  {
+    "description": "Agent tools and skills to read docx/xlsx/pdfs",
+    "id": "mickzijdel/readoc",
+    "language": "Python",
+    "name": "mickzijdel/readoc",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:52:25Z",
+    "url": "https://github.com/mickzijdel/readoc"
+  },
+  {
+    "description": "Agent skills for working with Ruby on Rails 8+",
+    "id": "mickzijdel/rails-toolkit",
+    "language": "Python",
+    "name": "mickzijdel/rails-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:52:21Z",
+    "url": "https://github.com/mickzijdel/rails-toolkit"
+  },
+  {
+    "description": "Airtable Scripting agent skill and tools for schema dump, schema diff, and user check",
+    "id": "mickzijdel/airtable-utils",
+    "language": "Python",
+    "name": "mickzijdel/airtable-utils",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:52:04Z",
+    "url": "https://github.com/mickzijdel/airtable-utils"
+  },
+  {
+    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
+    "id": "mickzijdel/dev-hooks",
+    "language": "Python",
+    "name": "mickzijdel/dev-hooks",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:51:33Z",
+    "url": "https://github.com/mickzijdel/dev-hooks"
+  },
+  {
+    "description": "394 free AI skills and 6 agents for media professionals \u2014 journalists, producers, podcasters, YouTubers. Quality-tested.",
+    "id": "ur-grue/autopunk-media-skills",
+    "language": "Python",
+    "name": "ur-grue/autopunk-media-skills",
+    "stars": 16,
+    "updated_at": "2026-07-24T08:56:32Z",
+    "url": "https://github.com/ur-grue/autopunk-media-skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:48:17Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14058,
+    "updated_at": "2026-07-24T08:56:19Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T08:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "",
     "id": "xiaowu89/skill-function",
     "language": "\u2014",
@@ -7,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-07-24T08:44:32Z",
     "url": "https://github.com/xiaowu89/skill-function"
-  },
-  {
-    "description": "",
-    "id": "xiaowu89/skill-compress",
-    "language": "Python",
-    "name": "xiaowu89/skill-compress",
-    "stars": 2,
-    "updated_at": "2026-07-24T08:43:49Z",
-    "url": "https://github.com/xiaowu89/skill-compress"
   },
   {
     "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
@@ -63,42 +189,6 @@
     "url": "https://github.com/HsuanYuLee/polaris"
   },
   {
-    "description": "394 free, quality-tested Claude skills for TV producers, journalists, podcasters, YouTubers & media professionals.",
-    "id": "ur-grue/autopunk-media-skills",
-    "language": "Python",
-    "name": "ur-grue/autopunk-media-skills",
-    "stars": 16,
-    "updated_at": "2026-07-24T08:38:58Z",
-    "url": "https://github.com/ur-grue/autopunk-media-skills"
-  },
-  {
-    "description": "Hook, skill, and CLI script for agents to take screenshots and visually check their work",
-    "id": "mickzijdel/vischeck",
-    "language": "Python",
-    "name": "mickzijdel/vischeck",
-    "stars": 0,
-    "updated_at": "2026-07-24T08:34:06Z",
-    "url": "https://github.com/mickzijdel/vischeck"
-  },
-  {
-    "description": "Agent tools and skills to read docx/xlsx/pdfs",
-    "id": "mickzijdel/readoc",
-    "language": "Python",
-    "name": "mickzijdel/readoc",
-    "stars": 0,
-    "updated_at": "2026-07-24T08:34:00Z",
-    "url": "https://github.com/mickzijdel/readoc"
-  },
-  {
-    "description": "Agent skills for working with Ruby on Rails 8+",
-    "id": "mickzijdel/rails-toolkit",
-    "language": "Python",
-    "name": "mickzijdel/rails-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-24T08:33:56Z",
-    "url": "https://github.com/mickzijdel/rails-toolkit"
-  },
-  {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
     "id": "BENZEMA216/awesome-weread",
     "language": "JavaScript",
@@ -106,24 +196,6 @@
     "stars": 49,
     "updated_at": "2026-07-24T08:33:50Z",
     "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
-    "id": "mickzijdel/dev-hooks",
-    "language": "Python",
-    "name": "mickzijdel/dev-hooks",
-    "stars": 0,
-    "updated_at": "2026-07-24T08:33:37Z",
-    "url": "https://github.com/mickzijdel/dev-hooks"
-  },
-  {
-    "description": "Airtable Scripting agent skill and tools for schema dump, schema diff, and user check",
-    "id": "mickzijdel/airtable-utils",
-    "language": "Python",
-    "name": "mickzijdel/airtable-utils",
-    "stars": 0,
-    "updated_at": "2026-07-24T08:33:33Z",
-    "url": "https://github.com/mickzijdel/airtable-utils"
   },
   {
     "description": "Open-source, AI-agnostic skills for legal teams.",
@@ -144,24 +216,6 @@
     "url": "https://github.com/ingcontartese-netizen/multi-agent-system-architect-v2"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T08:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Personal memory across agents",
-    "id": "NevaMind-AI/memU",
-    "language": "Python",
-    "name": "NevaMind-AI/memU",
-    "stars": 14057,
-    "updated_at": "2026-07-24T08:27:27Z",
-    "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
     "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
     "id": "yacb2/aidex",
     "language": "Shell",
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T08:24:49Z",
     "url": "https://github.com/yacb2/aidex"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 2,
-    "updated_at": "2026-07-24T08:20:50Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-24T07:33:53Z",
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-24T07:33:41Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-24T07:33:07Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 1,
-    "updated_at": "2026-07-24T07:32:33Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-07-24T07:31:01Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-07-24T07:30:46Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   }
 ]
