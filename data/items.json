@@ -1,5 +1,86 @@
 [
   {
+    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
+    "id": "longsizhuo/openInvest",
+    "language": "Python",
+    "name": "longsizhuo/openInvest",
+    "stars": 68,
+    "updated_at": "2026-07-24T05:29:53Z",
+    "url": "https://github.com/longsizhuo/openInvest"
+  },
+  {
+    "description": "A coding-agent skill for creating stunning, interactive HTML presentations \u2014 from scratch or by converting PowerPoint (`",
+    "id": "helloyxs/generate-html-ppt",
+    "language": "HTML",
+    "name": "helloyxs/generate-html-ppt",
+    "stars": 1,
+    "updated_at": "2026-07-24T05:28:05Z",
+    "url": "https://github.com/helloyxs/generate-html-ppt"
+  },
+  {
+    "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
+    "id": "sumitake/agent-collab",
+    "language": "Python",
+    "name": "sumitake/agent-collab",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:26:19Z",
+    "url": "https://github.com/sumitake/agent-collab"
+  },
+  {
+    "description": "\u53d9\u4e8b\u65b9\u6cd5\u8bba\u5de5\u5177\u7bb1\uff1a\u6545\u4e8b\u601d\u7ef4 \u00d7 \u53d9\u4e8b\u539f\u5b50 \u00d7 \u54c1\u724c\u6545\u4e8b | 20+\u53d9\u4e8bSkill / \u6a21\u677f / \u6848\u4f8b\u5e93",
+    "id": "lj22503/diaolong-skill",
+    "language": "HTML",
+    "name": "lj22503/diaolong-skill",
+    "stars": 4,
+    "updated_at": "2026-07-24T05:25:24Z",
+    "url": "https://github.com/lj22503/diaolong-skill"
+  },
+  {
+    "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
+    "id": "SentiSenseApp/skills",
+    "language": "Python",
+    "name": "SentiSenseApp/skills",
+    "stars": 1,
+    "updated_at": "2026-07-24T05:23:48Z",
+    "url": "https://github.com/SentiSenseApp/skills"
+  },
+  {
+    "description": "\uc791\uc5c5 \uc911 \uc313\uc778 \uae30\uc220\uc801 \uacbd\ud5d8\uc744 SEO \ucd5c\uc801\ud654\ub41c \ube14\ub85c\uadf8 \uae00 \ucd08\uc548\uc73c\ub85c",
+    "id": "Choi-jae-min/tech-blog-post",
+    "language": "Shell",
+    "name": "Choi-jae-min/tech-blog-post",
+    "stars": 1,
+    "updated_at": "2026-07-24T05:23:39Z",
+    "url": "https://github.com/Choi-jae-min/tech-blog-post"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 2,
+    "updated_at": "2026-07-24T05:21:27Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 214,
+    "updated_at": "2026-07-24T05:16:30Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T05:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -40,18 +121,9 @@
     "id": "lbiz-partners/hometax-doum",
     "language": "JavaScript",
     "name": "lbiz-partners/hometax-doum",
-    "stars": 18,
+    "stars": 19,
     "updated_at": "2026-07-24T05:09:15Z",
     "url": "https://github.com/lbiz-partners/hometax-doum"
-  },
-  {
-    "description": "\uc791\uc5c5 \uc911 \uc313\uc778 \uae30\uc220\uc801 \uacbd\ud5d8\uc744 SEO \ucd5c\uc801\ud654\ub41c \ube14\ub85c\uadf8 \uae00 \ucd08\uc548\uc73c\ub85c",
-    "id": "Choi-jae-min/tech-blog-post",
-    "language": "Shell",
-    "name": "Choi-jae-min/tech-blog-post",
-    "stars": 1,
-    "updated_at": "2026-07-24T05:08:56Z",
-    "url": "https://github.com/Choi-jae-min/tech-blog-post"
   },
   {
     "description": "A spec-driven harness for coding agents (and, humans)",
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 18122,
-    "updated_at": "2026-07-24T05:06:58Z",
+    "updated_at": "2026-07-24T05:22:06Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 14057,
     "updated_at": "2026-07-24T05:00:54Z",
     "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T05:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Self-evolving multi-agent \"newsroom\" that turns your documents into a cross-linked knowledge wiki \u2014 writer \u2260 reviewer, l",
@@ -261,6 +324,15 @@
     "url": "https://github.com/raichominev/concilium"
   },
   {
+    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
+    "id": "aaron-he-zhu/aaron-marketing-skills",
+    "language": "Python",
+    "name": "aaron-he-zhu/aaron-marketing-skills",
+    "stars": 2452,
+    "updated_at": "2026-07-24T04:45:57Z",
+    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
+  },
+  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-24T04:21:53Z",
     "url": "https://github.com/Nero1688/claude-academic-skills"
-  },
-  {
-    "description": "Whine, cringe, protect \u2014 emotional feedback channels for AI agents. One finding per channel at the end of substantial wo",
-    "id": "Ansvar-Systems/agent-affect-skills",
-    "language": "\u2014",
-    "name": "Ansvar-Systems/agent-affect-skills",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:20:37Z",
-    "url": "https://github.com/Ansvar-Systems/agent-affect-skills"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:17:47Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 1,
-    "updated_at": "2026-07-24T04:16:59Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:16:56Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "App Store \u5168\u751f\u547d\u5468\u671f\u7ba1\u7406 Claude Code plugin\uff1a\u4e0a\u67b6\u3001\u5ba1\u8ba1\u3001\u88ab\u62d2\u6062\u590d\u3001TestFlight\u3001ASO\uff08\u542b\u4e2d\u56fd\u533a ICP/\u5e7f\u544a\u6cd5\u4e13\u9879\uff09",
-    "id": "Shawn1993/ship-appstore",
-    "language": "HTML",
-    "name": "Shawn1993/ship-appstore",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:16:54Z",
-    "url": "https://github.com/Shawn1993/ship-appstore"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 1,
-    "updated_at": "2026-07-24T04:15:38Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:14:23Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:13:44Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   }
 ]
