@@ -2,11 +2,74 @@
   {
     "description": "Free open-source Claude Skills examples, templates, and guides for developers, researchers, writers, designers, and auto",
     "id": "sevenskytech1/claude-skills-hub",
-    "language": "CSS",
+    "language": "HTML",
     "name": "sevenskytech1/claude-skills-hub",
     "stars": 0,
-    "updated_at": "2026-07-24T06:44:59Z",
+    "updated_at": "2026-07-24T06:58:30Z",
     "url": "https://github.com/sevenskytech1/claude-skills-hub"
+  },
+  {
+    "description": "Style gate for marketing and web copy: every claim states a feature, a number, or a mechanism. Agent skill (Claude Code ",
+    "id": "HiroHyun/grounded-copy",
+    "language": "Python",
+    "name": "HiroHyun/grounded-copy",
+    "stars": 3,
+    "updated_at": "2026-07-24T06:55:53Z",
+    "url": "https://github.com/HiroHyun/grounded-copy"
+  },
+  {
+    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 60,
+    "updated_at": "2026-07-24T06:55:30Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 99,
+    "updated_at": "2026-07-24T07:00:05Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 422,
+    "updated_at": "2026-07-24T06:52:37Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md a",
+    "id": "LukeRenton/explore-claude-code",
+    "language": "JavaScript",
+    "name": "LukeRenton/explore-claude-code",
+    "stars": 250,
+    "updated_at": "2026-07-24T06:51:59Z",
+    "url": "https://github.com/LukeRenton/explore-claude-code"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-24T06:48:02Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T06:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "NevaMind-AI/memU",
     "stars": 14057,
-    "updated_at": "2026-07-24T06:33:00Z",
+    "updated_at": "2026-07-24T06:55:23Z",
     "url": "https://github.com/NevaMind-AI/memU"
   },
   {
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 214,
-    "updated_at": "2026-07-24T06:32:36Z",
+    "updated_at": "2026-07-24T06:48:06Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -162,15 +225,6 @@
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T06:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
     "id": "munexor/seo-opportunity-nexus",
     "language": "HTML",
@@ -196,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T06:29:11Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 99,
-    "updated_at": "2026-07-24T06:44:34Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "AI writes the code now, so the code is the cheapest thing you own. The decisions are the asset. X2 compiles the rules th",
@@ -252,21 +297,12 @@
     "url": "https://github.com/AThevon/genjutsu"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-24T06:16:29Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
     "description": "ADD - LOOP SKILL for AI Coding Agent",
     "id": "pilotspace/ADD",
     "language": "Python",
     "name": "pilotspace/ADD",
     "stars": 18,
-    "updated_at": "2026-07-24T06:16:05Z",
+    "updated_at": "2026-07-24T06:54:57Z",
     "url": "https://github.com/pilotspace/ADD"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "longsizhuo/openInvest",
     "stars": 72,
-    "updated_at": "2026-07-24T05:52:38Z",
+    "updated_at": "2026-07-24T07:00:02Z",
     "url": "https://github.com/longsizhuo/openInvest"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-24T05:45:09Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
-    "id": "Neetx/ai-security-research-radar",
-    "language": "\u2014",
-    "name": "Neetx/ai-security-research-radar",
-    "stars": 1,
-    "updated_at": "2026-07-24T05:44:32Z",
-    "url": "https://github.com/Neetx/ai-security-research-radar"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 1,
-    "updated_at": "2026-07-24T05:43:15Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 4,
-    "updated_at": "2026-07-24T05:41:42Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
-    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
-    "id": "alfadur7/llm-wiki-newsroom",
-    "language": "Python",
-    "name": "alfadur7/llm-wiki-newsroom",
-    "stars": 60,
-    "updated_at": "2026-07-24T05:37:44Z",
-    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
   }
 ]
