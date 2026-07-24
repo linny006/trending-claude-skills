@@ -1,12 +1,102 @@
 [
   {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-24T07:12:28Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 3,
+    "updated_at": "2026-07-24T07:10:31Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "My personal agent skill repository, primarily focused on game development.",
+    "id": "Yuki001/game-dev-skills",
+    "language": "Python",
+    "name": "Yuki001/game-dev-skills",
+    "stars": 40,
+    "updated_at": "2026-07-24T07:09:52Z",
+    "url": "https://github.com/Yuki001/game-dev-skills"
+  },
+  {
+    "description": "Index of my agent skills \u2014 each skill lives in its own repo",
+    "id": "Wang-Cankun/cankun-skills",
+    "language": "JavaScript",
+    "name": "Wang-Cankun/cankun-skills",
+    "stars": 1,
+    "updated_at": "2026-07-24T07:07:39Z",
+    "url": "https://github.com/Wang-Cankun/cankun-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-24T07:07:38Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Free open-source Claude Skills examples, templates, and guides for developers, researchers, writers, designers, and auto",
     "id": "sevenskytech1/claude-skills-hub",
     "language": "HTML",
     "name": "sevenskytech1/claude-skills-hub",
     "stars": 0,
-    "updated_at": "2026-07-24T06:58:30Z",
+    "updated_at": "2026-07-24T07:04:52Z",
     "url": "https://github.com/sevenskytech1/claude-skills-hub"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 214,
+    "updated_at": "2026-07-24T07:04:38Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "ADD - LOOP SKILL for AI Coding Agent",
+    "id": "pilotspace/ADD",
+    "language": "Python",
+    "name": "pilotspace/ADD",
+    "stars": 18,
+    "updated_at": "2026-07-24T07:02:10Z",
+    "url": "https://github.com/pilotspace/ADD"
+  },
+  {
+    "description": "A skillet full of agent skills that actually ship work. Production-tested SKILL.md workflows for audits, security, relea",
+    "id": "escoffier-labs/skillet",
+    "language": "Shell",
+    "name": "escoffier-labs/skillet",
+    "stars": 2,
+    "updated_at": "2026-07-24T07:01:49Z",
+    "url": "https://github.com/escoffier-labs/skillet"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T07:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 99,
+    "updated_at": "2026-07-24T07:07:46Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Style gate for marketing and web copy: every claim states a feature, a number, or a mechanism. Agent skill (Claude Code ",
@@ -22,18 +112,9 @@
     "id": "alfadur7/llm-wiki-newsroom",
     "language": "Python",
     "name": "alfadur7/llm-wiki-newsroom",
-    "stars": 60,
+    "stars": 61,
     "updated_at": "2026-07-24T06:55:30Z",
     "url": "https://github.com/alfadur7/llm-wiki-newsroom"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 99,
-    "updated_at": "2026-07-24T07:00:05Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
@@ -61,15 +142,6 @@
     "stars": 10,
     "updated_at": "2026-07-24T06:48:02Z",
     "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T06:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
@@ -189,15 +261,6 @@
     "url": "https://github.com/NevaMind-AI/memU"
   },
   {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 214,
-    "updated_at": "2026-07-24T06:48:06Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
     "description": "Project memory for long-running AI work across agents, models, and sessions. Keep context, decisions, progress, and next",
     "id": "Frappucc1no/recall-loom",
     "language": "Python",
@@ -220,7 +283,7 @@
     "id": "Ford-1/postgresql-mcp-connector",
     "language": "HTML",
     "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 1,
+    "stars": 0,
     "updated_at": "2026-07-24T06:30:28Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   },
@@ -297,15 +360,6 @@
     "url": "https://github.com/AThevon/genjutsu"
   },
   {
-    "description": "ADD - LOOP SKILL for AI Coding Agent",
-    "id": "pilotspace/ADD",
-    "language": "Python",
-    "name": "pilotspace/ADD",
-    "stars": 18,
-    "updated_at": "2026-07-24T06:54:57Z",
-    "url": "https://github.com/pilotspace/ADD"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -374,7 +428,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 66491,
-    "updated_at": "2026-07-24T06:02:23Z",
+    "updated_at": "2026-07-24T07:11:39Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 72,
     "updated_at": "2026-07-24T07:00:02Z",
     "url": "https://github.com/longsizhuo/openInvest"
-  },
-  {
-    "description": "A universal collection of reusable Loop Engineering kits for AI coding agents\u2014not just prompts. Each kit combines Skills",
-    "id": "KhaiTrang1995/agentic-awesome-kits",
-    "language": "Python",
-    "name": "KhaiTrang1995/agentic-awesome-kits",
-    "stars": 7,
-    "updated_at": "2026-07-24T05:52:13Z",
-    "url": "https://github.com/KhaiTrang1995/agentic-awesome-kits"
-  },
-  {
-    "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
-    "id": "Neetx/ai-research-radar",
-    "language": "\u2014",
-    "name": "Neetx/ai-research-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T05:48:10Z",
-    "url": "https://github.com/Neetx/ai-research-radar"
-  },
-  {
-    "description": "\ud83e\udde0 A portable home for reusable AI agent skills shared across Codex and Claude Code\u2014single-source, validation-first, and ",
-    "id": "reagin/agent-skills",
-    "language": "Python",
-    "name": "reagin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-24T05:48:06Z",
-    "url": "https://github.com/reagin/agent-skills"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-24T05:46:38Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 1,
-    "updated_at": "2026-07-24T05:45:11Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-07-24T05:45:09Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   }
 ]
