@@ -1,5 +1,23 @@
 [
   {
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. ",
+    "id": "K-Dense-AI/scientific-agent-skills",
+    "language": "Python",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "stars": 31655,
+    "updated_at": "2026-07-24T16:59:56Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T16:58:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
     "id": "Optim-Agent/optim-plans",
     "language": "Python",
@@ -54,15 +72,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. ",
-    "id": "K-Dense-AI/scientific-agent-skills",
-    "language": "Python",
-    "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 31655,
-    "updated_at": "2026-07-24T16:53:33Z",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-  },
-  {
     "description": "A portable Claude skill: give it a goal, get back a reviewable design document for the harness around whatever LLM execu",
     "id": "mightykevster/mightyharness",
     "language": "\u2014",
@@ -108,7 +117,7 @@
     "url": "https://github.com/hieu5882/telos-customer-validator"
   },
   {
-    "description": "Privacy engineering suite \u2014 nine Claude Code skills plus a citation-backed regulatory taxonomy of 27 jurisdictional and ",
+    "description": "Privacy engineering suite \u2014 nine Claude Code skills plus a citation-backed regulatory taxonomy of 29 jurisdictional and ",
     "id": "fevra-dev/Subrosa",
     "language": "Python",
     "name": "fevra-dev/Subrosa",
@@ -196,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T16:45:49Z",
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-24T16:45:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
@@ -364,7 +364,7 @@
     "id": "ratel-ai/ratel",
     "language": "TypeScript",
     "name": "ratel-ai/ratel",
-    "stars": 338,
+    "stars": 339,
     "updated_at": "2026-07-24T16:38:34Z",
     "url": "https://github.com/ratel-ai/ratel"
   },
