@@ -1,11 +1,83 @@
 [
   {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 218,
+    "updated_at": "2026-07-25T04:43:49Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Reconstruct a full flight itinerary from unordered segments \u2014 Go/Echo REST API with Swagger, fuzzing, Newman E2E, cosign",
+    "id": "AndriyKalashnykov/flight-path",
+    "language": "Python",
+    "name": "AndriyKalashnykov/flight-path",
+    "stars": 1,
+    "updated_at": "2026-07-25T04:43:15Z",
+    "url": "https://github.com/AndriyKalashnykov/flight-path"
+  },
+  {
+    "description": "A complete ecosystem for AI-assisted academic research. Features an orchestrated pipeline of 130+ ML skills, persistent ",
+    "id": "jpmsilva1/ai-research-ecosystem",
+    "language": "Shell",
+    "name": "jpmsilva1/ai-research-ecosystem",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:43:00Z",
+    "url": "https://github.com/jpmsilva1/ai-research-ecosystem"
+  },
+  {
+    "description": "agent wiki",
+    "id": "Mark393295827/third-brain-v5-skills",
+    "language": "HTML",
+    "name": "Mark393295827/third-brain-v5-skills",
+    "stars": 123,
+    "updated_at": "2026-07-25T04:42:36Z",
+    "url": "https://github.com/Mark393295827/third-brain-v5-skills"
+  },
+  {
+    "description": "A native macOS menu bar app that shows your Claude session & weekly limit usage at a glance \u2014 live from your own account",
+    "id": "shanmukhkalasamudram/claude-usage-bar",
+    "language": "Swift",
+    "name": "shanmukhkalasamudram/claude-usage-bar",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:42:18Z",
+    "url": "https://github.com/shanmukhkalasamudram/claude-usage-bar"
+  },
+  {
+    "description": "Sync Claude Code configuration across machines (ccs): collect, apply, bootstrap from a GitHub payload repo",
+    "id": "DazzleML/dazzle-claude-config",
+    "language": "Python",
+    "name": "DazzleML/dazzle-claude-config",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:43:00Z",
+    "url": "https://github.com/DazzleML/dazzle-claude-config"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:38:53Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "A 4-skill pipeline for Claude Code: verify mathematical proofs \u2192 repair with literature support \u2192 sharpen the theory \u2192 w",
+    "id": "gyf9712/stat-theory-skills",
+    "language": "Python",
+    "name": "gyf9712/stat-theory-skills",
+    "stars": 7,
+    "updated_at": "2026-07-25T04:38:35Z",
+    "url": "https://github.com/gyf9712/stat-theory-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 18,
-    "updated_at": "2026-07-25T04:29:30Z",
+    "updated_at": "2026-07-25T04:30:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "oliver-kriska/claude-elixir-phoenix",
     "stars": 503,
-    "updated_at": "2026-07-25T04:29:18Z",
+    "updated_at": "2026-07-25T04:30:20Z",
     "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T04:28:51Z",
     "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "A complete ecosystem for AI-assisted academic research. Features an orchestrated pipeline of 130+ ML skills, persistent ",
-    "id": "jpmsilva1/ai-research-ecosystem",
-    "language": "Shell",
-    "name": "jpmsilva1/ai-research-ecosystem",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:28:41Z",
-    "url": "https://github.com/jpmsilva1/ai-research-ecosystem"
   },
   {
     "description": "Manage long-form AI conversations and code workflows on Windows, macOS, and Linux with this standalone desktop workspace",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "sumitake/agent-collab",
     "stars": 0,
-    "updated_at": "2026-07-25T04:23:17Z",
+    "updated_at": "2026-07-25T04:38:53Z",
     "url": "https://github.com/sumitake/agent-collab"
   },
   {
@@ -151,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T04:21:05Z",
     "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Sync Claude Code configuration across machines (ccs): collect, apply, bootstrap from a GitHub payload repo",
-    "id": "DazzleML/dazzle-claude-config",
-    "language": "Python",
-    "name": "DazzleML/dazzle-claude-config",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:19:39Z",
-    "url": "https://github.com/DazzleML/dazzle-claude-config"
   },
   {
     "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
@@ -214,24 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-25T04:16:33Z",
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native macOS menu bar app that shows your Claude session & weekly limit usage at a glance \u2014 live from your own account",
-    "id": "shanmukhkalasamudram/claude-usage-bar",
-    "language": "Swift",
-    "name": "shanmukhkalasamudram/claude-usage-bar",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:17:46Z",
-    "url": "https://github.com/shanmukhkalasamudram/claude-usage-bar"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 218,
-    "updated_at": "2026-07-25T04:15:38Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T04:07:51Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:07:37Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 1,
-    "updated_at": "2026-07-25T04:06:24Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-07-25T04:06:11Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Turn any public author into a grounded AI clone you can ask. Built from their public content into one SQLite knowledge s",
-    "id": "mrgnfndr-dr/mind-clone",
-    "language": "Python",
-    "name": "mrgnfndr-dr/mind-clone",
-    "stars": 2,
-    "updated_at": "2026-07-25T04:06:08Z",
-    "url": "https://github.com/mrgnfndr-dr/mind-clone"
   }
 ]
