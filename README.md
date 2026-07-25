@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-25 10:44 UTC
+> ⏰ Last updated: 2026-07-25 10:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ngocsangyem/MeowKit](https://github.com/ngocsangyem/MeowKit) | 15 | TypeScript | 2026-07-25 | Production ready. AI Agent Workflow System for Claude Code |
-| 2 | [88plug/screen-mcp](https://github.com/88plug/screen-mcp) | 1 | Python | 2026-07-25 | Linux Wayland computer-use MCP for Claude Code & Grok — screenshot, click, type any desktop app. |
-| 3 | [anukulgosavi1-coder/sqlitedata-extensions-playbook](https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook) | 1 | HTML | 2026-07-25 | Top Swift SQLiteData Alternatives 2026 – Best GRDB Skills Kit |
-| 4 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 100 | Kotlin | 2026-07-25 | Helping the Agents Compose the Things |
-| 5 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-25 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-25 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [ngocsangyem/MeowKit](https://github.com/ngocsangyem/MeowKit) | 15 | TypeScript | 2026-07-25 | Production ready. AI Agent Workflow System for Claude Code |
+| 3 | [88plug/screen-mcp](https://github.com/88plug/screen-mcp) | 1 | Python | 2026-07-25 | Linux Wayland computer-use MCP for Claude Code & Grok — screenshot, click, type any desktop app. |
+| 4 | [anukulgosavi1-coder/sqlitedata-extensions-playbook](https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook) | 1 | HTML | 2026-07-25 | Top Swift SQLiteData Alternatives 2026 – Best GRDB Skills Kit |
+| 5 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 100 | Kotlin | 2026-07-25 | Helping the Agents Compose the Things |
 | 6 | [blackstone2333/goldilocks](https://github.com/blackstone2333/goldilocks) | 0 | Python | 2026-07-25 | Minimum process. Constant quality. A lean Superpowers replacement for coding agents.｜最少必要流程，恒定质量；面向 Codex、Claude Code 等编 |
 | 7 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-25 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
 | 8 | [isatimur/excalidraw-skill-pack](https://github.com/isatimur/excalidraw-skill-pack) | 0 | TypeScript | 2026-07-25 | Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin |
