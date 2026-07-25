@@ -1,5 +1,86 @@
 [
   {
+    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
+    "id": "glitchwerks/claude-wayfinder",
+    "language": "Python",
+    "name": "glitchwerks/claude-wayfinder",
+    "stars": 2,
+    "updated_at": "2026-07-25T02:45:00Z",
+    "url": "https://github.com/glitchwerks/claude-wayfinder"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 63,
+    "updated_at": "2026-07-25T02:44:55Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "A native macOS menu bar app that shows your Claude session & weekly limit usage at a glance \u2014 live from your own account",
+    "id": "shanmukhkalasamudram/claude-usage-bar",
+    "language": "Swift",
+    "name": "shanmukhkalasamudram/claude-usage-bar",
+    "stars": 0,
+    "updated_at": "2026-07-25T02:43:46Z",
+    "url": "https://github.com/shanmukhkalasamudram/claude-usage-bar"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 2,
+    "updated_at": "2026-07-25T02:42:31Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 217,
+    "updated_at": "2026-07-25T02:42:29Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "SearXNG search MCP for Claude Code & Grok \u2014 privacy metasearch + page extract for agents.",
+    "id": "88plug/searxng-mcp",
+    "language": "Python",
+    "name": "88plug/searxng-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-25T02:43:50Z",
+    "url": "https://github.com/88plug/searxng-mcp"
+  },
+  {
+    "description": "Unified design, motion, 3D, and video super skill for AI coding agents - eight upstream knowledge bases distilled into o",
+    "id": "leobbaroni/maestro",
+    "language": "TypeScript",
+    "name": "leobbaroni/maestro",
+    "stars": 1,
+    "updated_at": "2026-07-25T02:35:56Z",
+    "url": "https://github.com/leobbaroni/maestro"
+  },
+  {
+    "description": "Curated collection of Claude Code skills for automation, data extraction, code generation, and   productivity. Drop-in s",
+    "id": "evgeny-trushin/claude-skills-collection",
+    "language": "Python",
+    "name": "evgeny-trushin/claude-skills-collection",
+    "stars": 0,
+    "updated_at": "2026-07-25T02:34:05Z",
+    "url": "https://github.com/evgeny-trushin/claude-skills-collection"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-25T02:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skills for non-technical founders, solopreneurs & one-person companies running an AI engineering team \u2014 no c",
     "id": "lightarktech/founder-coding-skills",
     "language": "Shell",
@@ -9,21 +90,12 @@
     "url": "https://github.com/lightarktech/founder-coding-skills"
   },
   {
-    "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
-    "id": "glitchwerks/claude-wayfinder",
-    "language": "Python",
-    "name": "glitchwerks/claude-wayfinder",
-    "stars": 2,
-    "updated_at": "2026-07-25T02:30:00Z",
-    "url": "https://github.com/glitchwerks/claude-wayfinder"
-  },
-  {
     "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
     "id": "hoangsonww/Claude-Code-Agent-Monitor",
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 843,
-    "updated_at": "2026-07-25T02:26:09Z",
+    "updated_at": "2026-07-25T02:32:25Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -43,24 +115,6 @@
     "stars": 412,
     "updated_at": "2026-07-25T02:18:25Z",
     "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-25T02:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Unified design, motion, 3D, and video super skill for AI coding agents - eight upstream knowledge bases distilled into o",
-    "id": "leobbaroni/maestro",
-    "language": "TypeScript",
-    "name": "leobbaroni/maestro",
-    "stars": 1,
-    "updated_at": "2026-07-25T02:13:38Z",
-    "url": "https://github.com/leobbaroni/maestro"
   },
   {
     "description": "A vscode extension to beautify and highlight syntax of CLAUDE.md or AGENT.md files including markdown and non canonical ",
@@ -135,15 +189,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Curated collection of Claude Code skills for automation, data extraction, code generation, and   productivity. Drop-in s",
-    "id": "evgeny-trushin/claude-skills-collection",
-    "language": "Python",
-    "name": "evgeny-trushin/claude-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-07-25T01:56:49Z",
-    "url": "https://github.com/evgeny-trushin/claude-skills-collection"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -211,7 +256,7 @@
     "id": "lbiz-partners/hometax-doum",
     "language": "JavaScript",
     "name": "lbiz-partners/hometax-doum",
-    "stars": 25,
+    "stars": 26,
     "updated_at": "2026-07-25T01:21:30Z",
     "url": "https://github.com/lbiz-partners/hometax-doum"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T00:57:37Z",
     "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-07-25T00:57:25Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 217,
-    "updated_at": "2026-07-25T02:28:10Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-07-25T00:57:02Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-07-25T00:57:02Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-25T00:56:26Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
   }
 ]
