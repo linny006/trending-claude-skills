@@ -1,12 +1,39 @@
 [
   {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
+    "description": "LLM-assisted vulnerability discovery: fuzzing, multi-agent crash triage, and binary analysis on one shared model.",
+    "id": "cpprhtn/raon",
+    "language": "Python",
+    "name": "cpprhtn/raon",
+    "stars": 1,
+    "updated_at": "2026-07-26T12:28:09Z",
+    "url": "https://github.com/cpprhtn/raon"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 100,
+    "updated_at": "2026-07-26T12:26:46Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Minimum process. Constant quality. A lean Superpowers replacement for coding agents.\uff5c\u6700\u5c11\u5fc5\u8981\u6d41\u7a0b\uff0c\u6052\u5b9a\u8d28\u91cf\uff1b\u9762\u5411 Codex\u3001Claude Code \u7b49\u7f16",
+    "id": "blackstone2333/goldilocks",
+    "language": "Python",
+    "name": "blackstone2333/goldilocks",
     "stars": 0,
-    "updated_at": "2026-07-26T12:12:36Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
+    "updated_at": "2026-07-26T12:21:36Z",
+    "url": "https://github.com/blackstone2333/goldilocks"
+  },
+  {
+    "description": "Production-ready Claude Code & Runner skills by Bhavesh Khaple. Reusable slash-command workflows for agent design, LLM p",
+    "id": "BhaveshKhaple/bhavesh-claude-skills",
+    "language": "\u2014",
+    "name": "BhaveshKhaple/bhavesh-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-26T12:20:40Z",
+    "url": "https://github.com/BhaveshKhaple/bhavesh-claude-skills"
   },
   {
     "description": "Turn any coding-agent harness into a disciplined personal knowledge-base builder \u2014 curation + transcription skills over ",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "Criss404/agent-kb-toolkit",
     "stars": 0,
-    "updated_at": "2026-07-26T12:11:17Z",
+    "updated_at": "2026-07-26T12:19:29Z",
     "url": "https://github.com/Criss404/agent-kb-toolkit"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-26T12:16:40Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-26T12:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-07-26T12:12:36Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -31,8 +85,8 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 1835,
-    "updated_at": "2026-07-26T12:10:42Z",
+    "stars": 1836,
+    "updated_at": "2026-07-26T12:23:08Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 100,
-    "updated_at": "2026-07-26T12:06:02Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -142,15 +187,6 @@
     "stars": 7,
     "updated_at": "2026-07-26T12:04:47Z",
     "url": "https://github.com/TheProsperityAgent/prosperity-real-estate-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-26T12:04:43Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: posit",
@@ -187,15 +223,6 @@
     "stars": 5,
     "updated_at": "2026-07-26T12:03:00Z",
     "url": "https://github.com/conversiontools/agent-skills"
-  },
-  {
-    "description": "LLM-assisted vulnerability discovery: fuzzing, multi-agent crash triage, and binary analysis on one shared model.",
-    "id": "cpprhtn/raon",
-    "language": "Python",
-    "name": "cpprhtn/raon",
-    "stars": 1,
-    "updated_at": "2026-07-26T12:00:48Z",
-    "url": "https://github.com/cpprhtn/raon"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T11:53:27Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-07-26T11:52:39Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-07-26T11:52:32Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-07-26T11:52:31Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
   }
 ]
