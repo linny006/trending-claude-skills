@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-26 06:44 UTC
+> ⏰ Last updated: 2026-07-26 06:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-07-26 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
-| 2 | [williamcorrea23/sap-router-skill](https://github.com/williamcorrea23/sap-router-skill) | 0 | Python | 2026-07-26 | Skills SAP |
-| 3 | [AgamiAI/agami-core](https://github.com/AgamiAI/agami-core) | 19 | Python | 2026-07-26 | The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe |
-| 4 | [ngocsangyem/MeowKit](https://github.com/ngocsangyem/MeowKit) | 15 | TypeScript | 2026-07-26 | Production ready. AI Agent Workflow System for Claude Code |
-| 5 | [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 1 | Markdown | 2026-07-26 | Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o |
-| 6 | [bokyostudio/pg-practice-knowledgebase](https://github.com/bokyostudio/pg-practice-knowledgebase) | 0 | HTML | 2026-07-26 | The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026 |
-| 7 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-07-26 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
-| 8 | [ai4s-research/ai4s-skills](https://github.com/ai4s-research/ai4s-skills) | 157 | Python | 2026-07-26 | Open-source agent skills for AI for Science: topic exploration, literature survey, experiments, paper writing, and integ |
-| 9 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 23 | Python | 2026-07-26 | A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py |
-| 10 | [selinayfilizp/decision](https://github.com/selinayfilizp/decision) | 8 | JavaScript | 2026-07-26 | The missing layer in the AI agent stack. Teach your agent how you decide. Generates a portable DECISION.md from research |
-| 11 | [wquguru/skills](https://github.com/wquguru/skills) | 84 | HTML | 2026-07-26 | Practical Agent Skills — English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add. |
-| 12 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66603 | TypeScript | 2026-07-26 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 13 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-26 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-26 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-07-26 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
+| 3 | [williamcorrea23/sap-router-skill](https://github.com/williamcorrea23/sap-router-skill) | 0 | Python | 2026-07-26 | Skills SAP |
+| 4 | [AgamiAI/agami-core](https://github.com/AgamiAI/agami-core) | 19 | Python | 2026-07-26 | The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe |
+| 5 | [ngocsangyem/MeowKit](https://github.com/ngocsangyem/MeowKit) | 15 | TypeScript | 2026-07-26 | Production ready. AI Agent Workflow System for Claude Code |
+| 6 | [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 1 | Markdown | 2026-07-26 | Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o |
+| 7 | [bokyostudio/pg-practice-knowledgebase](https://github.com/bokyostudio/pg-practice-knowledgebase) | 0 | HTML | 2026-07-26 | The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026 |
+| 8 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-07-26 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
+| 9 | [ai4s-research/ai4s-skills](https://github.com/ai4s-research/ai4s-skills) | 157 | Python | 2026-07-26 | Open-source agent skills for AI for Science: topic exploration, literature survey, experiments, paper writing, and integ |
+| 10 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 23 | Python | 2026-07-26 | A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py |
+| 11 | [selinayfilizp/decision](https://github.com/selinayfilizp/decision) | 8 | JavaScript | 2026-07-26 | The missing layer in the AI agent stack. Teach your agent how you decide. Generates a portable DECISION.md from research |
+| 12 | [wquguru/skills](https://github.com/wquguru/skills) | 84 | HTML | 2026-07-26 | Practical Agent Skills — English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add. |
+| 13 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66603 | TypeScript | 2026-07-26 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
 | 14 | [88plug/claude-code-plugins](https://github.com/88plug/claude-code-plugins) | 2 | Python | 2026-07-26 | Claude Code + Grok plugin marketplace — 18 curated plugins & MCP servers. One-command install. |
 | 15 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-07-26 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
 | 16 | [alfadur7/llm-wiki-newsroom](https://github.com/alfadur7/llm-wiki-newsroom) | 64 | Python | 2026-07-26 | Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into |
