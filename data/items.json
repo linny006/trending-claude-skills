@@ -1,5 +1,95 @@
 [
   {
+    "description": "A SKILL that turns a code diff into an evidence-backed ledger of hidden assumptions, failure modes, and falsification te",
+    "id": "Teycir/Assumptions",
+    "language": "TypeScript",
+    "name": "Teycir/Assumptions",
+    "stars": 0,
+    "updated_at": "2026-07-26T00:59:57Z",
+    "url": "https://github.com/Teycir/Assumptions"
+  },
+  {
+    "description": "Reference tools for underused public healthcare data: FDA novel drug approvals (NMEs 2021\u20132024) and U.S. nonprofit hospi",
+    "id": "cbetz/trove",
+    "language": "HTML",
+    "name": "cbetz/trove",
+    "stars": 3,
+    "updated_at": "2026-07-26T00:59:27Z",
+    "url": "https://github.com/cbetz/trove"
+  },
+  {
+    "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, ",
+    "id": "Xopoko/plug-n-skills",
+    "language": "Python",
+    "name": "Xopoko/plug-n-skills",
+    "stars": 7,
+    "updated_at": "2026-07-26T00:58:44Z",
+    "url": "https://github.com/Xopoko/plug-n-skills"
+  },
+  {
+    "description": "Frontend Gym: a frontend developer training partner skill for Coding agents",
+    "id": "BrettThurs10/frontend-gym",
+    "language": "\u2014",
+    "name": "BrettThurs10/frontend-gym",
+    "stars": 0,
+    "updated_at": "2026-07-26T00:58:16Z",
+    "url": "https://github.com/BrettThurs10/frontend-gym"
+  },
+  {
+    "description": "Agent skills for improve AI driven development",
+    "id": "YasuakiOmokawa/skills",
+    "language": "Shell",
+    "name": "YasuakiOmokawa/skills",
+    "stars": 1,
+    "updated_at": "2026-07-26T00:56:13Z",
+    "url": "https://github.com/YasuakiOmokawa/skills"
+  },
+  {
+    "description": "AI agent skills for the personal operator's craft \u2014 decisions, research, second-brain, content rotation, scenario modeli",
+    "id": "coreyhaines31/makerskills",
+    "language": "Python",
+    "name": "coreyhaines31/makerskills",
+    "stars": 222,
+    "updated_at": "2026-07-26T00:56:04Z",
+    "url": "https://github.com/coreyhaines31/makerskills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1380,
+    "updated_at": "2026-07-26T00:52:00Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Hexcore is a collection of reusable, composable modules designed to improve AI-assisted development and problem solving.",
+    "id": "nv8v/Hexcore",
+    "language": "\u2014",
+    "name": "nv8v/Hexcore",
+    "stars": 0,
+    "updated_at": "2026-07-26T00:50:34Z",
+    "url": "https://github.com/nv8v/Hexcore"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 218,
+    "updated_at": "2026-07-26T00:48:50Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-26T00:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code + Grok plugin marketplace \u2014 18 curated plugins & MCP servers. One-command install.",
     "id": "88plug/claude-code-plugins",
     "language": "Python",
@@ -36,15 +126,6 @@
     "url": "https://github.com/Optim-Agent/optim-plans"
   },
   {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 218,
-    "updated_at": "2026-07-26T00:44:15Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
     "description": "Manage long-form AI conversations and code workflows on Windows, macOS, and Linux with this standalone desktop workspace",
     "id": "Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop",
     "language": "TypeScript",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T00:32:39Z",
     "url": "https://github.com/Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop"
-  },
-  {
-    "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, ",
-    "id": "Xopoko/plug-n-skills",
-    "language": "Python",
-    "name": "Xopoko/plug-n-skills",
-    "stars": 7,
-    "updated_at": "2026-07-26T00:32:32Z",
-    "url": "https://github.com/Xopoko/plug-n-skills"
   },
   {
     "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T00:31:30Z",
     "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-26T00:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Access the Claude Mythos AI model through a native desktop application for coding, reasoning, and multimodal assistance.",
@@ -169,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-07-26T00:22:42Z",
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "A SKILL that turns a code diff into an evidence-backed ledger of hidden assumptions, failure modes, and falsification te",
-    "id": "Teycir/Assumptions",
-    "language": "TypeScript",
-    "name": "Teycir/Assumptions",
-    "stars": 0,
-    "updated_at": "2026-07-26T00:22:19Z",
-    "url": "https://github.com/Teycir/Assumptions"
   },
   {
     "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-26T00:11:52Z",
     "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-26T00:11:46Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-07-26T00:11:23Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-07-26T00:11:21Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-07-26T00:11:15Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-07-26T00:11:12Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-07-26T00:11:09Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
   }
 ]
