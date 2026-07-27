@@ -1,19 +1,73 @@
 [
   {
+    "description": "A curated list of high-star Agent Skills on GitHub for coding agents and AI workflows.",
+    "id": "jqueryscript/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "jqueryscript/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-27T16:58:56Z",
+    "url": "https://github.com/jqueryscript/awesome-agent-skills"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:57:04Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Plug-and-play skills and prompts for every AI coding agent",
+    "id": "Amey-Thakur/AI-SKILLS",
+    "language": "JavaScript",
+    "name": "Amey-Thakur/AI-SKILLS",
+    "stars": 4,
+    "updated_at": "2026-07-27T16:54:42Z",
+    "url": "https://github.com/Amey-Thakur/AI-SKILLS"
+  },
+  {
+    "description": "Agent skill for Senzing entity resolution \u2014 data mapping, SDK code generation, documentation search, error troubleshooti",
+    "id": "Senzing/senzing-mcp-skill",
+    "language": "\u2014",
+    "name": "Senzing/senzing-mcp-skill",
+    "stars": 13,
+    "updated_at": "2026-07-27T16:49:15Z",
+    "url": "https://github.com/Senzing/senzing-mcp-skill"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 26,
+    "updated_at": "2026-07-27T16:48:38Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
     "description": "Academic research workflow for Claude Code: 14 skills (paper reading, lit review, bib auditing, preregistration, replica",
     "id": "ericluo04/claude-academic-workflow",
     "language": "Lua",
     "name": "ericluo04/claude-academic-workflow",
     "stars": 5,
-    "updated_at": "2026-07-27T16:44:23Z",
+    "updated_at": "2026-07-27T16:47:35Z",
     "url": "https://github.com/ericluo04/claude-academic-workflow"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-27T16:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
     "id": "Optim-Agent/optim-plans",
     "language": "Python",
     "name": "Optim-Agent/optim-plans",
-    "stars": 52,
+    "stars": 53,
     "updated_at": "2026-07-27T16:42:41Z",
     "url": "https://github.com/Optim-Agent/optim-plans"
   },
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "molefrog/moi",
     "stars": 48,
-    "updated_at": "2026-07-27T16:43:35Z",
+    "updated_at": "2026-07-27T16:53:50Z",
     "url": "https://github.com/molefrog/moi"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T16:31:09Z",
     "url": "https://github.com/aksheyw/claude-code-ship-gate"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-27T16:30:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -283,7 +328,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66661,
+    "stars": 66660,
     "updated_at": "2026-07-27T16:01:49Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T15:46:00Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:45:36Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:45:34Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-27T15:45:07Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Two-lane confidence audit skill for Claude Code \u2014 reason it, then prove it. Premise/approach/fresh reasoning audits + a ",
-    "id": "GemSpecter/bs-check",
-    "language": "\u2014",
-    "name": "GemSpecter/bs-check",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:44:58Z",
-    "url": "https://github.com/GemSpecter/bs-check"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 1,
-    "updated_at": "2026-07-27T15:43:57Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
   }
 ]
