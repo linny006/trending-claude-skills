@@ -1,12 +1,12 @@
 [
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "My agent skills",
+    "id": "chenwei791129/agent-skills",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-27T13:59:08Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "chenwei791129/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T14:15:05Z",
+    "url": "https://github.com/chenwei791129/agent-skills"
   },
   {
     "description": "Academic research workflow for Claude Code: 14 skills (paper reading, lit review, bib auditing, preregistration, referee",
@@ -14,8 +14,89 @@
     "language": "Lua",
     "name": "ericluo04/claude-academic-workflow",
     "stars": 5,
-    "updated_at": "2026-07-27T13:59:05Z",
+    "updated_at": "2026-07-27T14:08:25Z",
     "url": "https://github.com/ericluo04/claude-academic-workflow"
+  },
+  {
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 127,
+    "updated_at": "2026-07-27T14:08:12Z",
+    "url": "https://github.com/testdouble/han"
+  },
+  {
+    "description": "Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers ",
+    "id": "imMamdouhaboammar/vibe-svgs",
+    "language": "TypeScript",
+    "name": "imMamdouhaboammar/vibe-svgs",
+    "stars": 1,
+    "updated_at": "2026-07-27T14:05:50Z",
+    "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
+  },
+  {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
+    "id": "ratel-ai/ratel",
+    "language": "TypeScript",
+    "name": "ratel-ai/ratel",
+    "stars": 359,
+    "updated_at": "2026-07-27T14:05:13Z",
+    "url": "https://github.com/ratel-ai/ratel"
+  },
+  {
+    "description": "A collection of Claude Skill to mirror https://mgifford.github.io/ACCESSIBILITY.md",
+    "id": "mgifford/accessibility-skills",
+    "language": "JavaScript",
+    "name": "mgifford/accessibility-skills",
+    "stars": 35,
+    "updated_at": "2026-07-27T14:04:57Z",
+    "url": "https://github.com/mgifford/accessibility-skills"
+  },
+  {
+    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
+    "id": "byensitmagnus/sitesmith",
+    "language": "HTML",
+    "name": "byensitmagnus/sitesmith",
+    "stars": 0,
+    "updated_at": "2026-07-27T14:03:33Z",
+    "url": "https://github.com/byensitmagnus/sitesmith"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-27T14:01:54Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-27T14:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "MCP server + AI Skill for Baby Age Calculator \u2014 exact baby age, zodiac sign, and milestone dates in Claude, Cursor, and ",
+    "id": "babyagecalculator/ai",
+    "language": "\u2014",
+    "name": "babyagecalculator/ai",
+    "stars": 0,
+    "updated_at": "2026-07-27T13:58:56Z",
+    "url": "https://github.com/babyagecalculator/ai"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-27T13:58:52Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, ",
@@ -27,6 +108,15 @@
     "url": "https://github.com/Xopoko/plug-n-skills"
   },
   {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 47,
+    "updated_at": "2026-07-27T13:57:39Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -36,6 +126,24 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-27T13:56:54Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-27T13:56:19Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -43,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T13:55:07Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers ",
-    "id": "imMamdouhaboammar/vibe-svgs",
-    "language": "TypeScript",
-    "name": "imMamdouhaboammar/vibe-svgs",
-    "stars": 1,
-    "updated_at": "2026-07-27T13:59:30Z",
-    "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
   },
   {
     "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
@@ -68,7 +167,7 @@
     "language": "\u2014",
     "name": "metrikia-io/marketing-skills",
     "stars": 0,
-    "updated_at": "2026-07-27T13:51:28Z",
+    "updated_at": "2026-07-27T14:10:37Z",
     "url": "https://github.com/metrikia-io/marketing-skills"
   },
   {
@@ -207,21 +306,12 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
-    "id": "ratel-ai/ratel",
-    "language": "TypeScript",
-    "name": "ratel-ai/ratel",
-    "stars": 357,
-    "updated_at": "2026-07-27T13:31:36Z",
-    "url": "https://github.com/ratel-ai/ratel"
-  },
-  {
     "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
     "id": "molefrog/moi",
     "language": "TypeScript",
     "name": "molefrog/moi",
     "stars": 48,
-    "updated_at": "2026-07-27T13:35:54Z",
+    "updated_at": "2026-07-27T14:07:14Z",
     "url": "https://github.com/molefrog/moi"
   },
   {
@@ -288,15 +378,6 @@
     "url": "https://github.com/Senzing/senzing-mcp-skill"
   },
   {
-    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
-    "id": "byensitmagnus/sitesmith",
-    "language": "HTML",
-    "name": "byensitmagnus/sitesmith",
-    "stars": 0,
-    "updated_at": "2026-07-27T13:05:37Z",
-    "url": "https://github.com/byensitmagnus/sitesmith"
-  },
-  {
     "description": "\u041d\u0430\u0432\u044b\u043a Claude \u0434\u043b\u044f \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432, \u043f\u0440\u043e\u0434\u0430\u0436 \u0438 \u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 \u2014 \u043e\u0442 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0437\u0432\u043e\u043d\u043a\u0430 \u0434\u043e \u0444\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0447\u0451\u0442\u0430.",
     "id": "iamursky/client-work",
     "language": "\u2014",
@@ -319,7 +400,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66658,
+    "stars": 66659,
     "updated_at": "2026-07-27T13:02:19Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T12:50:03Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-07-27T12:49:02Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-07-27T12:48:12Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Design minimal AI agent packs for Codex and Claude from project descriptions.",
-    "id": "ikonushok/agent-pack-designer",
-    "language": "Python",
-    "name": "ikonushok/agent-pack-designer",
-    "stars": 1,
-    "updated_at": "2026-07-27T12:48:06Z",
-    "url": "https://github.com/ikonushok/agent-pack-designer"
-  },
-  {
-    "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
-    "id": "codeswithroh/tastemaker",
-    "language": "Python",
-    "name": "codeswithroh/tastemaker",
-    "stars": 59,
-    "updated_at": "2026-07-27T12:48:05Z",
-    "url": "https://github.com/codeswithroh/tastemaker"
-  },
-  {
-    "description": "Agent skills for WordPress \u2014 works in Claude Code, Codex, Antigravity, Cursor, and any agent supporting Skills + MCP. Au",
-    "id": "respira-press/agent-skills-wordpress",
-    "language": "JavaScript",
-    "name": "respira-press/agent-skills-wordpress",
-    "stars": 36,
-    "updated_at": "2026-07-27T12:47:46Z",
-    "url": "https://github.com/respira-press/agent-skills-wordpress"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 2,
-    "updated_at": "2026-07-27T12:46:50Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "",
-    "id": "xiaowu89/skill-compress",
-    "language": "\u2014",
-    "name": "xiaowu89/skill-compress",
-    "stars": 2,
-    "updated_at": "2026-07-27T12:46:43Z",
-    "url": "https://github.com/xiaowu89/skill-compress"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 2,
-    "updated_at": "2026-07-27T12:46:30Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: posit",
-    "id": "AIDevGTM/gtm-cofounder",
-    "language": "\u2014",
-    "name": "AIDevGTM/gtm-cofounder",
-    "stars": 15,
-    "updated_at": "2026-07-27T12:46:22Z",
-    "url": "https://github.com/AIDevGTM/gtm-cofounder"
   }
 ]
