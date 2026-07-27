@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udde0 Empower Claude with memory to enhance code debugging and conversation recall, turning ephemeral chats into lasting ins",
+    "id": "2josEx/claude-brain",
+    "language": "JavaScript",
+    "name": "2josEx/claude-brain",
+    "stars": 3,
+    "updated_at": "2026-07-27T01:45:02Z",
+    "url": "https://github.com/2josEx/claude-brain"
+  },
+  {
+    "description": "Autonomous idea generator scoring on three axes \u2014 feasibility (build), fundability (sell), ambition (frontier). LLM-firs",
+    "id": "rayketcham-lab/project-forge",
+    "language": "Python",
+    "name": "rayketcham-lab/project-forge",
+    "stars": 2,
+    "updated_at": "2026-07-27T01:44:59Z",
+    "url": "https://github.com/rayketcham-lab/project-forge"
+  },
+  {
+    "description": "\ud83e\udd16 Explore essential AI tools for building, automating, and monetizing projects across content, video, e-commerce, and mo",
+    "id": "foodman1227/awesome-ai-tools",
+    "language": "\u2014",
+    "name": "foodman1227/awesome-ai-tools",
+    "stars": 9,
+    "updated_at": "2026-07-27T01:44:08Z",
+    "url": "https://github.com/foodman1227/awesome-ai-tools"
+  },
+  {
+    "description": "\ud83d\udce6 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an",
+    "id": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "language": "Python",
+    "name": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "stars": 1,
+    "updated_at": "2026-07-27T01:39:19Z",
+    "url": "https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Monitor your Claude Code sessions effortlessly on macOS with real-time status updates and quick access features for a ",
+    "id": "zenithpd/agent-sessions",
+    "language": "Rust",
+    "name": "zenithpd/agent-sessions",
+    "stars": 8,
+    "updated_at": "2026-07-27T01:38:45Z",
+    "url": "https://github.com/zenithpd/agent-sessions"
+  },
+  {
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
+    "id": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "language": "Python",
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "stars": 3,
+    "updated_at": "2026-07-27T01:33:57Z",
+    "url": "https://github.com/Shada01245/the-unofficial-swift-programming-language-skill"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
+    "id": "thairns/claude-rubycritic-skill",
+    "language": "\u2014",
+    "name": "thairns/claude-rubycritic-skill",
+    "stars": 1,
+    "updated_at": "2026-07-27T01:33:26Z",
+    "url": "https://github.com/thairns/claude-rubycritic-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
+    "id": "Junayedahmedd/gemini_cli_skill",
+    "language": "\u2014",
+    "name": "Junayedahmedd/gemini_cli_skill",
+    "stars": 4,
+    "updated_at": "2026-07-27T01:33:13Z",
+    "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 6,
+    "updated_at": "2026-07-27T01:32:28Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-27T01:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A collection of Claude Skill to mirror https://mgifford.github.io/ACCESSIBILITY.md",
+    "id": "mgifford/accessibility-skills",
+    "language": "JavaScript",
+    "name": "mgifford/accessibility-skills",
+    "stars": 33,
+    "updated_at": "2026-07-27T01:30:09Z",
+    "url": "https://github.com/mgifford/accessibility-skills"
+  },
+  {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
     "id": "gilvangonzalez/technical-founding-gtm-toolkit",
     "language": "HTML",
@@ -108,15 +207,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-27T01:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -139,7 +229,7 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 31849,
+    "stars": 31853,
     "updated_at": "2026-07-27T01:14:06Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
@@ -160,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T01:11:13Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "A collection of Claude Skill to mirror https://mgifford.github.io/ACCESSIBILITY.md",
-    "id": "mgifford/accessibility-skills",
-    "language": "JavaScript",
-    "name": "mgifford/accessibility-skills",
-    "stars": 33,
-    "updated_at": "2026-07-27T01:30:09Z",
-    "url": "https://github.com/mgifford/accessibility-skills"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T00:03:59Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-27T00:03:47Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 1,
-    "updated_at": "2026-07-27T00:02:21Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 1,
-    "updated_at": "2026-07-27T00:01:06Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-07-26T23:59:02Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-26T23:58:29Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 1,
-    "updated_at": "2026-07-26T23:56:21Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-07-26T23:56:17Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Opinionated Claude Code skills for engineers who write. A model writes from the context you give it, so these make you g",
-    "id": "foxontheerun/engineer-writing",
-    "language": "\u2014",
-    "name": "foxontheerun/engineer-writing",
-    "stars": 0,
-    "updated_at": "2026-07-26T23:54:57Z",
-    "url": "https://github.com/foxontheerun/engineer-writing"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 1,
-    "updated_at": "2026-07-26T23:54:31Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   }
 ]
