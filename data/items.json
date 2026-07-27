@@ -1,5 +1,86 @@
 [
   {
+    "description": "The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul.",
+    "id": "aeonfun/soul.md",
+    "language": "JavaScript",
+    "name": "aeonfun/soul.md",
+    "stars": 628,
+    "updated_at": "2026-07-27T13:24:24Z",
+    "url": "https://github.com/aeonfun/soul.md"
+  },
+  {
+    "description": "Cross-platform AI agent skill library (WorkBuddy/Codex/Hermes) - 4 verticals + 1 horizontal review layer, A-protocol com",
+    "id": "AVA-2568/MY_SKILL",
+    "language": "Python",
+    "name": "AVA-2568/MY_SKILL",
+    "stars": 0,
+    "updated_at": "2026-07-27T13:23:54Z",
+    "url": "https://github.com/AVA-2568/MY_SKILL"
+  },
+  {
+    "description": "Your agent's memory, with receipts. Mine AI agent transcripts into approved, portable skills.",
+    "id": "ahmetkumass/skilld",
+    "language": "Python",
+    "name": "ahmetkumass/skilld",
+    "stars": 0,
+    "updated_at": "2026-07-27T13:22:13Z",
+    "url": "https://github.com/ahmetkumass/skilld"
+  },
+  {
+    "description": "Claude Code plugin for Quant Data \u2014 measured market statistics for AI agents: day-type probabilities, Weis Wave volume e",
+    "id": "celineycn/quantdata-plugin",
+    "language": "\u2014",
+    "name": "celineycn/quantdata-plugin",
+    "stars": 1,
+    "updated_at": "2026-07-27T13:18:41Z",
+    "url": "https://github.com/celineycn/quantdata-plugin"
+  },
+  {
+    "description": "Personal plugins for Claude Code (& friends)... maybe worth sharing!",
+    "id": "emaballarin/ccplugins",
+    "language": "Python",
+    "name": "emaballarin/ccplugins",
+    "stars": 2,
+    "updated_at": "2026-07-27T13:29:27Z",
+    "url": "https://github.com/emaballarin/ccplugins"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-27T13:16:25Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-27T13:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
+    "id": "Optim-Agent/optim-plans",
+    "language": "Python",
+    "name": "Optim-Agent/optim-plans",
+    "stars": 49,
+    "updated_at": "2026-07-27T13:14:49Z",
+    "url": "https://github.com/Optim-Agent/optim-plans"
+  },
+  {
+    "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, ",
+    "id": "Xopoko/plug-n-skills",
+    "language": "Python",
+    "name": "Xopoko/plug-n-skills",
+    "stars": 8,
+    "updated_at": "2026-07-27T13:13:51Z",
+    "url": "https://github.com/Xopoko/plug-n-skills"
+  },
+  {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
     "id": "Stewie-pixel/claude-with-leetcode",
     "language": "C++",
@@ -25,24 +106,6 @@
     "stars": 13,
     "updated_at": "2026-07-27T13:11:03Z",
     "url": "https://github.com/Senzing/senzing-mcp-skill"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-07-27T13:12:16Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul.",
-    "id": "aeonfun/soul.md",
-    "language": "JavaScript",
-    "name": "aeonfun/soul.md",
-    "stars": 628,
-    "updated_at": "2026-07-27T13:09:36Z",
-    "url": "https://github.com/aeonfun/soul.md"
   },
   {
     "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
@@ -76,18 +139,9 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66655,
+    "stars": 66656,
     "updated_at": "2026-07-27T13:02:19Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-27T13:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skill: Yandex Direct campaign from brief to cabinet draft \u2014 semantics, negatives, ads, Metrika goals. Docs in Rus",
@@ -106,6 +160,15 @@
     "stars": 1,
     "updated_at": "2026-07-27T12:59:23Z",
     "url": "https://github.com/gulmezeren2-byte/claude-skills-doctor"
+  },
+  {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
+    "id": "ratel-ai/ratel",
+    "language": "TypeScript",
+    "name": "ratel-ai/ratel",
+    "stars": 353,
+    "updated_at": "2026-07-27T12:59:15Z",
+    "url": "https://github.com/ratel-ai/ratel"
   },
   {
     "description": "\u4e00\u4e2a\u5305\u542bagent\u548cskill\u7684\u96c6\u5408\uff1aRAG\u3001\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
@@ -225,15 +288,6 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
-    "description": "Your agent's memory, with receipts. Mine AI agent transcripts into approved, portable skills.",
-    "id": "ahmetkumass/skilld",
-    "language": "Python",
-    "name": "ahmetkumass/skilld",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:44:08Z",
-    "url": "https://github.com/ahmetkumass/skilld"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -247,7 +301,7 @@
     "id": "NevaMind-AI/memU",
     "language": "Python",
     "name": "NevaMind-AI/memU",
-    "stars": 14067,
+    "stars": 14068,
     "updated_at": "2026-07-27T12:42:28Z",
     "url": "https://github.com/NevaMind-AI/memU"
   },
@@ -295,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T12:35:42Z",
     "url": "https://github.com/nyldn/fable5-optimizer"
-  },
-  {
-    "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
-    "id": "Optim-Agent/optim-plans",
-    "language": "Python",
-    "name": "Optim-Agent/optim-plans",
-    "stars": 48,
-    "updated_at": "2026-07-27T13:14:49Z",
-    "url": "https://github.com/Optim-Agent/optim-plans"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T12:25:10Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "\ud83e\uddbe AI Skills for Requiems API",
-    "id": "bobadilla-tech/requiems-api-skills",
-    "language": "TypeScript",
-    "name": "bobadilla-tech/requiems-api-skills",
-    "stars": 2,
-    "updated_at": "2026-07-27T12:23:30Z",
-    "url": "https://github.com/bobadilla-tech/requiems-api-skills"
-  },
-  {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
-    "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 1,
-    "updated_at": "2026-07-27T12:21:15Z",
-    "url": "https://github.com/isatimur/presentation-md"
-  },
-  {
-    "description": "A Claude Skill that turns a vague software idea into a specification set an AI coding agent can build from.",
-    "id": "chowjustin/spec-interviewer",
-    "language": "\u2014",
-    "name": "chowjustin/spec-interviewer",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:20:10Z",
-    "url": "https://github.com/chowjustin/spec-interviewer"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 400,
-    "updated_at": "2026-07-27T12:16:50Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Agentic coding decision replay\uff1a\u8bb0\u5f55\u4e3a\u4ec0\u4e48\uff0c\u628a session signals \u9010\u5c42\u6536\u53e3\u6210\u53ef\u6838\u9a8c\u7684\u5468\u62a5\u3001\u6708\u62a5\u548c\u8def\u7ebf\u56fe\u3002",
-    "id": "KKenny0/Tracework",
-    "language": "Python",
-    "name": "KKenny0/Tracework",
-    "stars": 2,
-    "updated_at": "2026-07-27T12:15:27Z",
-    "url": "https://github.com/KKenny0/Tracework"
   }
 ]
