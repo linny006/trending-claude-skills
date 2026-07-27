@@ -1,5 +1,59 @@
 [
   {
+    "description": "Academic research workflow for Claude Code: 14 skills (paper reading, lit review, bib auditing, preregistration, replica",
+    "id": "ericluo04/claude-academic-workflow",
+    "language": "Lua",
+    "name": "ericluo04/claude-academic-workflow",
+    "stars": 5,
+    "updated_at": "2026-07-27T15:28:38Z",
+    "url": "https://github.com/ericluo04/claude-academic-workflow"
+  },
+  {
+    "description": "Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers ",
+    "id": "imMamdouhaboammar/vibe-svgs",
+    "language": "TypeScript",
+    "name": "imMamdouhaboammar/vibe-svgs",
+    "stars": 1,
+    "updated_at": "2026-07-27T15:26:26Z",
+    "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-27T15:19:36Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "A collection of Claude Skill to mirror https://mgifford.github.io/ACCESSIBILITY.md",
+    "id": "mgifford/accessibility-skills",
+    "language": "JavaScript",
+    "name": "mgifford/accessibility-skills",
+    "stars": 35,
+    "updated_at": "2026-07-27T15:16:18Z",
+    "url": "https://github.com/mgifford/accessibility-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-27T15:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-07-27T15:15:10Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
     "description": "Open-source Claude Code skills that bring planning, building, and verification gates to agentic coding workflows.",
     "id": "adamlinscott/claude-skills",
     "language": "TypeScript",
@@ -27,15 +81,6 @@
     "url": "https://github.com/reidworks-io/reidworks-skills"
   },
   {
-    "description": "Academic research workflow for Claude Code: 14 skills (paper reading, lit review, bib auditing, preregistration, replica",
-    "id": "ericluo04/claude-academic-workflow",
-    "language": "Lua",
-    "name": "ericluo04/claude-academic-workflow",
-    "stars": 5,
-    "updated_at": "2026-07-27T15:09:02Z",
-    "url": "https://github.com/ericluo04/claude-academic-workflow"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "Xopoko/plug-n-skills",
     "stars": 8,
-    "updated_at": "2026-07-27T15:04:28Z",
+    "updated_at": "2026-07-27T15:21:58Z",
     "url": "https://github.com/Xopoko/plug-n-skills"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T15:01:23Z",
     "url": "https://github.com/Ldxs001/workbuddy-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-27T15:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skills and agents for Claude and Gemini",
@@ -90,15 +126,6 @@
     "url": "https://github.com/ratel-ai/ratel"
   },
   {
-    "description": "Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers ",
-    "id": "imMamdouhaboammar/vibe-svgs",
-    "language": "TypeScript",
-    "name": "imMamdouhaboammar/vibe-svgs",
-    "stars": 1,
-    "updated_at": "2026-07-27T15:12:16Z",
-    "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
-  },
-  {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
     "id": "worldwonderer/oh-story-claudecode",
     "language": "JavaScript",
@@ -112,8 +139,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66660,
-    "updated_at": "2026-07-27T14:54:20Z",
+    "stars": 66661,
+    "updated_at": "2026-07-27T15:29:52Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 1,
-    "updated_at": "2026-07-27T15:11:21Z",
+    "updated_at": "2026-07-27T15:20:32Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -279,15 +306,6 @@
     "url": "https://github.com/testdouble/han"
   },
   {
-    "description": "A collection of Claude Skill to mirror https://mgifford.github.io/ACCESSIBILITY.md",
-    "id": "mgifford/accessibility-skills",
-    "language": "JavaScript",
-    "name": "mgifford/accessibility-skills",
-    "stars": 35,
-    "updated_at": "2026-07-27T14:04:57Z",
-    "url": "https://github.com/mgifford/accessibility-skills"
-  },
-  {
     "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
     "id": "byensitmagnus/sitesmith",
     "language": "HTML",
@@ -340,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T13:57:32Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-27T14:58:02Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-27T13:35:36Z",
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 1,
-    "updated_at": "2026-07-27T13:35:32Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
