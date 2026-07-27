@@ -1,12 +1,111 @@
 [
   {
+    "description": "Academic research workflow for Claude Code: 14 skills (paper reading, lit review, bib auditing, preregistration, replica",
+    "id": "ericluo04/claude-academic-workflow",
+    "language": "Lua",
+    "name": "ericluo04/claude-academic-workflow",
+    "stars": 5,
+    "updated_at": "2026-07-27T16:44:23Z",
+    "url": "https://github.com/ericluo04/claude-academic-workflow"
+  },
+  {
+    "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
+    "id": "Optim-Agent/optim-plans",
+    "language": "Python",
+    "name": "Optim-Agent/optim-plans",
+    "stars": 52,
+    "updated_at": "2026-07-27T16:42:41Z",
+    "url": "https://github.com/Optim-Agent/optim-plans"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 48,
+    "updated_at": "2026-07-27T16:43:35Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "A go-to-market operating system for founders without a marketing team. Plug in your project and get specific help - audi",
+    "id": "adaptico/adaptico-os",
+    "language": "JavaScript",
+    "name": "adaptico/adaptico-os",
+    "stars": 11,
+    "updated_at": "2026-07-27T16:39:22Z",
+    "url": "https://github.com/adaptico/adaptico-os"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:38:12Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "A 4-skill pipeline for Claude Code: verify mathematical proofs \u2192 repair with literature support \u2192 sharpen the theory \u2192 w",
+    "id": "gyf9712/stat-theory-skills",
+    "language": "Python",
+    "name": "gyf9712/stat-theory-skills",
+    "stars": 7,
+    "updated_at": "2026-07-27T16:36:03Z",
+    "url": "https://github.com/gyf9712/stat-theory-skills"
+  },
+  {
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 8,
+    "updated_at": "2026-07-27T16:31:46Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
+  },
+  {
+    "description": "Relex plugin for Claude",
+    "id": "relexyou/relex-claude",
+    "language": "Python",
+    "name": "relexyou/relex-claude",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:41:54Z",
+    "url": "https://github.com/relexyou/relex-claude"
+  },
+  {
+    "description": "Pre-push quality gate for Claude Code that runs above git, so git push --no-verify can't skip it. Tests, code review, se",
+    "id": "aksheyw/claude-code-ship-gate",
+    "language": "Shell",
+    "name": "aksheyw/claude-code-ship-gate",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:31:09Z",
+    "url": "https://github.com/aksheyw/claude-code-ship-gate"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 18,
-    "updated_at": "2026-07-27T16:28:56Z",
+    "updated_at": "2026-07-27T16:30:19Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-27T16:29:32Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-27T16:37:12Z",
+    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "An orientation protocol for LLM sessions \u2014 plus a curated Claude skills collection",
@@ -43,15 +142,6 @@
     "stars": 377,
     "updated_at": "2026-07-27T16:25:45Z",
     "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "Academic research workflow for Claude Code: 14 skills (paper reading, lit review, bib auditing, preregistration, replica",
-    "id": "ericluo04/claude-academic-workflow",
-    "language": "Lua",
-    "name": "ericluo04/claude-academic-workflow",
-    "stars": 5,
-    "updated_at": "2026-07-27T16:24:41Z",
-    "url": "https://github.com/ericluo04/claude-academic-workflow"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -180,15 +270,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "A 4-skill pipeline for Claude Code: verify mathematical proofs \u2192 repair with literature support \u2192 sharpen the theory \u2192 w",
-    "id": "gyf9712/stat-theory-skills",
-    "language": "Python",
-    "name": "gyf9712/stat-theory-skills",
-    "stars": 7,
-    "updated_at": "2026-07-27T16:07:04Z",
-    "url": "https://github.com/gyf9712/stat-theory-skills"
-  },
-  {
     "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
     "id": "jabrena/plinth",
     "language": "Java",
@@ -196,6 +277,15 @@
     "stars": 423,
     "updated_at": "2026-07-27T16:06:57Z",
     "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66661,
+    "updated_at": "2026-07-27T16:01:49Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -259,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T15:50:29Z",
     "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-27T16:29:01Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T15:43:57Z",
     "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 1,
-    "updated_at": "2026-07-27T15:42:57Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "AI agent skill files for the Lexigram framework \u2014 14 skills covering DI, async SQL, CQRS, caching, resilience, CLI code ",
-    "id": "dbtinoy-/lexigram-framework-skills",
-    "language": "Makefile",
-    "name": "dbtinoy-/lexigram-framework-skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T15:39:26Z",
-    "url": "https://github.com/dbtinoy-/lexigram-framework-skills"
-  },
-  {
-    "description": "822 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 decode a lease, write a PRD, run the AGM, pr",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1229,
-    "updated_at": "2026-07-27T15:39:13Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Claude Code skills for contributing to someone else's repo \u2014 each rule backed by a real receipt. Bring help, not noise.",
-    "id": "serhiy-bzhezytskyy/contrib-receipts",
-    "language": "Shell",
-    "name": "serhiy-bzhezytskyy/contrib-receipts",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:39:01Z",
-    "url": "https://github.com/serhiy-bzhezytskyy/contrib-receipts"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-07-27T15:36:41Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
-    "id": "ratel-ai/ratel",
-    "language": "TypeScript",
-    "name": "ratel-ai/ratel",
-    "stars": 361,
-    "updated_at": "2026-07-27T15:48:35Z",
-    "url": "https://github.com/ratel-ai/ratel"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-07-27T15:35:28Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-07-27T15:35:05Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-07-27T15:34:12Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   }
 ]
