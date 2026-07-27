@@ -1,5 +1,32 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 100,
+    "updated_at": "2026-07-27T08:00:41Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Build full-stack Next.js and React Native apps with integrated auth, database, AI chat, and testing in a production-read",
+    "id": "DjFikie25/shipkit",
+    "language": "TypeScript",
+    "name": "DjFikie25/shipkit",
+    "stars": 2,
+    "updated_at": "2026-07-27T08:00:21Z",
+    "url": "https://github.com/DjFikie25/shipkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-27T08:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Enforce a spec-driven framework that builds, tests, and deploys AI-native applications with a structured, executable sev",
     "id": "bhana1999/SpecVibe",
     "language": "JavaScript",
@@ -34,6 +61,15 @@
     "stars": 2,
     "updated_at": "2026-07-27T07:59:10Z",
     "url": "https://github.com/kledidoda/skill-evolution"
+  },
+  {
+    "description": "The Project VEGA \u2014 The tooling project for psychic and spiritual counterintelligence. Open-source tools to detect and au",
+    "id": "lemur47/si-protocols",
+    "language": "Python",
+    "name": "lemur47/si-protocols",
+    "stars": 1,
+    "updated_at": "2026-07-27T07:59:05Z",
+    "url": "https://github.com/lemur47/si-protocols"
   },
   {
     "description": "Automatically detect and disable irrelevant Claude Code skills per project to save tokens and streamline your tech workf",
@@ -106,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-07-27T07:53:02Z",
     "url": "https://github.com/mightyhuman101/seedance2-skill"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 100,
-    "updated_at": "2026-07-27T08:00:11Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "\ud83d\udcdd Manage and organize Obsidian vaults with CLI tools for notes, tasks, tags, templates, and knowledge graph analysis.",
@@ -279,15 +306,6 @@
     "url": "https://github.com/Borda/AI-Rig"
   },
   {
-    "description": "The Project VEGA \u2014 The tooling project for psychic and spiritual counterintelligence. Open-source tools to detect and au",
-    "id": "lemur47/si-protocols",
-    "language": "Python",
-    "name": "lemur47/si-protocols",
-    "stars": 1,
-    "updated_at": "2026-07-27T07:59:05Z",
-    "url": "https://github.com/lemur47/si-protocols"
-  },
-  {
     "description": "\ud83e\udd16 Connect DingTalk with OpenClaw Gateway for AI-driven chat responses and session management using a bot or DEAP Agent i",
     "id": "ALI-FAHD/dingtalk-moltbot-connector",
     "language": "TypeScript",
@@ -295,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T07:45:24Z",
     "url": "https://github.com/ALI-FAHD/dingtalk-moltbot-connector"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-27T07:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T07:35:14Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enhance Claude Code with security and utility hooks to prevent prompt injection and extend functionality through cust",
-    "id": "oliverquaye23/claude-hooks",
-    "language": "CSS",
-    "name": "oliverquaye23/claude-hooks",
-    "stars": 1,
-    "updated_at": "2026-07-27T07:34:47Z",
-    "url": "https://github.com/oliverquaye23/claude-hooks"
   }
 ]
