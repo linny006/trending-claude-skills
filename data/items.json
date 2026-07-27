@@ -1,12 +1,93 @@
 [
   {
+    "description": "",
+    "id": "xiaowu89/skill-function",
+    "language": "\u2014",
+    "name": "xiaowu89/skill-function",
+    "stars": 3,
+    "updated_at": "2026-07-27T03:41:38Z",
+    "url": "https://github.com/xiaowu89/skill-function"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66631,
+    "updated_at": "2026-07-27T03:44:38Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "31 opinionated GTM skills for Claude Code & GitHub Copilot \u2014 a complete revenue engine spanning discover, design, positi",
+    "id": "varunk130/ai-gtm-skill-library",
+    "language": "Python",
+    "name": "varunk130/ai-gtm-skill-library",
+    "stars": 3,
+    "updated_at": "2026-07-27T03:40:41Z",
+    "url": "https://github.com/varunk130/ai-gtm-skill-library"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 137,
+    "updated_at": "2026-07-27T03:39:02Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Curated skills, sub-agents, and config templates that supercharge Claude Code \u2014 research, image gen, GitHub automation &",
+    "id": "feiskyer/claude-code-settings",
+    "language": "Python",
+    "name": "feiskyer/claude-code-settings",
+    "stars": 1609,
+    "updated_at": "2026-07-27T03:38:43Z",
+    "url": "https://github.com/feiskyer/claude-code-settings"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-27T03:37:51Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 49,
+    "updated_at": "2026-07-27T03:37:24Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 1950,
+    "updated_at": "2026-07-27T03:36:23Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
     "id": "crypdick/pynchy",
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-07-27T03:29:33Z",
+    "updated_at": "2026-07-27T03:35:05Z",
     "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-27T03:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
@@ -54,15 +135,6 @@
     "url": "https://github.com/YPares/rigup.nix"
   },
   {
-    "description": "",
-    "id": "larp-coder/free-claude",
-    "language": "\u2014",
-    "name": "larp-coder/free-claude",
-    "stars": 1,
-    "updated_at": "2026-07-27T03:22:55Z",
-    "url": "https://github.com/larp-coder/free-claude"
-  },
-  {
     "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
     "id": "vanducng/skills",
     "language": "Python",
@@ -70,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T03:19:59Z",
     "url": "https://github.com/vanducng/skills"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66631,
-    "updated_at": "2026-07-27T03:25:18Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Agent Skills by mr-kelly",
@@ -99,13 +162,13 @@
     "url": "https://github.com/nateruze/ghost_ai"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. ",
+    "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-27T03:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "stars": 31863,
+    "updated_at": "2026-07-27T03:13:16Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
     "description": "AI Client for chat, RAG, plans, MCP tools, and agents with multi-provider model support. ",
@@ -117,15 +180,6 @@
     "url": "https://github.com/askimo-ai/askimo"
   },
   {
-    "description": "",
-    "id": "xiaowu89/skill-function",
-    "language": "\u2014",
-    "name": "xiaowu89/skill-function",
-    "stars": 3,
-    "updated_at": "2026-07-27T03:07:50Z",
-    "url": "https://github.com/xiaowu89/skill-function"
-  },
-  {
     "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
     "id": "maurieunoccupied182/biks-claude-tools-loader",
     "language": "\u2014",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T03:04:48Z",
     "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
-  },
-  {
-    "description": "Curated skills, sub-agents, and config templates that supercharge Claude Code \u2014 research, image gen, GitHub automation &",
-    "id": "feiskyer/claude-code-settings",
-    "language": "Python",
-    "name": "feiskyer/claude-code-settings",
-    "stars": 1609,
-    "updated_at": "2026-07-27T03:04:41Z",
-    "url": "https://github.com/feiskyer/claude-code-settings"
   },
   {
     "description": "File your Indian income tax return (ITR) from your terminal \u2014 deterministic tax engine, both regimes, AY 2026-27. Claude",
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T02:58:18Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 1944,
-    "updated_at": "2026-07-27T02:58:11Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
   {
     "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T02:45:41Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 2,
-    "updated_at": "2026-07-27T02:45:17Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Turn any topic into an expert-level AI skill \u2014 for Claude, ChatGPT, Gemini, or any LLM. A meta-skill that researches a d",
-    "id": "jacobjustin8/skill-forge",
-    "language": "\u2014",
-    "name": "jacobjustin8/skill-forge",
-    "stars": 0,
-    "updated_at": "2026-07-27T02:45:08Z",
-    "url": "https://github.com/jacobjustin8/skill-forge"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 2,
-    "updated_at": "2026-07-27T02:44:58Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-07-27T02:44:54Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
