@@ -1,5 +1,41 @@
 [
   {
+    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
+    "id": "jasonm4130/claude-skills",
+    "language": "JavaScript",
+    "name": "jasonm4130/claude-skills",
+    "stars": 2,
+    "updated_at": "2026-07-28T00:55:38Z",
+    "url": "https://github.com/jasonm4130/claude-skills"
+  },
+  {
+    "description": "\u628a\u300a\u5b59\u5b50\u5175\u6cd5\u300b\u5f53\u4f5c\u51b3\u7b56\u7eaa\u5f8b\u6765\u6267\u884c\u7684 AI Skill\uff1a\u5148\u95ee\u8be2\u540e\u8bca\u65ad\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u6218\u7565\u8bca\u65ad\u6587\u6863\u3002\u9002\u7528\u4e8e Claude Code / NewMax\u3002",
+    "id": "yangyixxxx/sunzi-strategy-advisor",
+    "language": "\u2014",
+    "name": "yangyixxxx/sunzi-strategy-advisor",
+    "stars": 0,
+    "updated_at": "2026-07-28T00:52:54Z",
+    "url": "https://github.com/yangyixxxx/sunzi-strategy-advisor"
+  },
+  {
+    "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
+    "id": "CHAOSX-SPACE/god-of-the-void",
+    "language": "Python",
+    "name": "CHAOSX-SPACE/god-of-the-void",
+    "stars": 1,
+    "updated_at": "2026-07-28T00:52:48Z",
+    "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T00:45:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Personalized Hacker News briefs in Claude Code. Learns your interests from what you click. Zero dependencies.",
     "id": "ArchitektApx/HackerNews-Brief",
     "language": "Python",
@@ -54,15 +90,6 @@
     "url": "https://github.com/ericluo04/claude-academic-workflow"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T00:30:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
     "id": "synaptiai/synapti-marketplace",
     "language": "Shell",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T00:23:09Z",
     "url": "https://github.com/justhandledlabs/skills"
-  },
-  {
-    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
-    "id": "jasonm4130/claude-skills",
-    "language": "JavaScript",
-    "name": "jasonm4130/claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-28T00:20:50Z",
-    "url": "https://github.com/jasonm4130/claude-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -216,15 +234,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
-    "id": "CHAOSX-SPACE/god-of-the-void",
-    "language": "Python",
-    "name": "CHAOSX-SPACE/god-of-the-void",
-    "stars": 1,
-    "updated_at": "2026-07-27T23:58:05Z",
-    "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -292,7 +301,7 @@
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2028,
+    "stars": 2029,
     "updated_at": "2026-07-27T23:51:42Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-27T23:28:27Z",
     "url": "https://github.com/kanfu-panda/pdlc-skills"
-  },
-  {
-    "description": "macOS dotfiles - Forgotten Art of Makefile",
-    "id": "kborovik/.dotfiles",
-    "language": "Shell",
-    "name": "kborovik/.dotfiles",
-    "stars": 0,
-    "updated_at": "2026-07-27T23:25:15Z",
-    "url": "https://github.com/kborovik/.dotfiles"
   }
 ]
