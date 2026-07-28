@@ -1,5 +1,77 @@
 [
   {
+    "description": "Plug-and-play skills and prompts for every AI coding agent",
+    "id": "Amey-Thakur/AI-SKILLS",
+    "language": "JavaScript",
+    "name": "Amey-Thakur/AI-SKILLS",
+    "stars": 4,
+    "updated_at": "2026-07-28T05:29:59Z",
+    "url": "https://github.com/Amey-Thakur/AI-SKILLS"
+  },
+  {
+    "description": "Turn any coding-agent harness into a disciplined personal knowledge-base builder \u2014 curation + transcription skills over ",
+    "id": "Criss404/agent-kb-toolkit",
+    "language": "Python",
+    "name": "Criss404/agent-kb-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-28T05:28:15Z",
+    "url": "https://github.com/Criss404/agent-kb-toolkit"
+  },
+  {
+    "description": "A collection of Claude Code Agent Skills for docs & workflow tasks",
+    "id": "Punpun1643/claude-skills",
+    "language": "\u2014",
+    "name": "Punpun1643/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-28T05:24:51Z",
+    "url": "https://github.com/Punpun1643/claude-skills"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 94,
+    "updated_at": "2026-07-28T05:22:22Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 2,
+    "updated_at": "2026-07-28T05:22:06Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
+    "id": "codeswithroh/tastemaker",
+    "language": "HTML",
+    "name": "codeswithroh/tastemaker",
+    "stars": 62,
+    "updated_at": "2026-07-28T05:30:13Z",
+    "url": "https://github.com/codeswithroh/tastemaker"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-28T05:17:02Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T05:15:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Index of my agent skills \u2014 each skill lives in its own repo",
     "id": "Wang-Cankun/cankun-skills",
     "language": "JavaScript",
@@ -7,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T05:13:14Z",
     "url": "https://github.com/Wang-Cankun/cankun-skills"
-  },
-  {
-    "description": "Plug-and-play skills and prompts for every AI coding agent",
-    "id": "Amey-Thakur/AI-SKILLS",
-    "language": "JavaScript",
-    "name": "Amey-Thakur/AI-SKILLS",
-    "stars": 4,
-    "updated_at": "2026-07-28T05:12:46Z",
-    "url": "https://github.com/Amey-Thakur/AI-SKILLS"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -27,24 +90,6 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 94,
-    "updated_at": "2026-07-28T05:05:12Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T05:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -52,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T04:58:23Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
-    "id": "codeswithroh/tastemaker",
-    "language": "HTML",
-    "name": "codeswithroh/tastemaker",
-    "stars": 62,
-    "updated_at": "2026-07-28T04:58:10Z",
-    "url": "https://github.com/codeswithroh/tastemaker"
   },
   {
     "description": "Ghost AI is an interactive system architecture builder. It's a full-stack app built using an agentic architecture-first ",
@@ -121,7 +157,7 @@
     "id": "whaojie797-design/Novera-AI-pipeline",
     "language": "Python",
     "name": "whaojie797-design/Novera-AI-pipeline",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T04:53:56Z",
     "url": "https://github.com/whaojie797-design/Novera-AI-pipeline"
   },
@@ -169,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T04:43:37Z",
     "url": "https://github.com/ramboz/jig"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 2,
-    "updated_at": "2026-07-28T05:08:00Z",
-    "url": "https://github.com/vanducng/skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -274,7 +301,7 @@
     "id": "whaojie797-design/Novera-AI-skills",
     "language": "Python",
     "name": "whaojie797-design/Novera-AI-skills",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T04:07:19Z",
     "url": "https://github.com/whaojie797-design/Novera-AI-skills"
   },
@@ -364,7 +391,7 @@
     "id": "Optim-Agent/optim-plans",
     "language": "Python",
     "name": "Optim-Agent/optim-plans",
-    "stars": 64,
+    "stars": 65,
     "updated_at": "2026-07-28T03:44:13Z",
     "url": "https://github.com/Optim-Agent/optim-plans"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-28T03:38:11Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-28T03:37:41Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Three open-source AI marketing plugins for agencies & in-house teams \u2014 DigitalMarketingPro (158 skills) + ContentForge (",
-    "id": "indranilbanerjee/neels-plugins",
-    "language": "\u2014",
-    "name": "indranilbanerjee/neels-plugins",
-    "stars": 6,
-    "updated_at": "2026-07-28T03:37:11Z",
-    "url": "https://github.com/indranilbanerjee/neels-plugins"
-  },
-  {
-    "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
-    "id": "CHAOSX-SPACE/god-of-the-void",
-    "language": "Python",
-    "name": "CHAOSX-SPACE/god-of-the-void",
-    "stars": 1,
-    "updated_at": "2026-07-28T03:37:08Z",
-    "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
   }
 ]
