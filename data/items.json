@@ -1,10 +1,82 @@
 [
   {
+    "description": "A skillet full of agent skills that actually ship work. Production-tested SKILL.md workflows for audits, security, relea",
+    "id": "escoffier-labs/skillet",
+    "language": "Shell",
+    "name": "escoffier-labs/skillet",
+    "stars": 2,
+    "updated_at": "2026-07-28T02:41:09Z",
+    "url": "https://github.com/escoffier-labs/skillet"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:40:41Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Ghost AI is an interactive system architecture builder. It's a full-stack app built using an agentic architecture-first ",
+    "id": "nateruze/ghost_ai",
+    "language": "TypeScript",
+    "name": "nateruze/ghost_ai",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:39:47Z",
+    "url": "https://github.com/nateruze/ghost_ai"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:38:46Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 2268,
+    "updated_at": "2026-07-28T02:38:34Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+    "description": "My personal agent skill repository, primarily focused on game development.",
+    "id": "Yuki001/game-dev-skills",
+    "language": "Python",
+    "name": "Yuki001/game-dev-skills",
+    "stars": 40,
+    "updated_at": "2026-07-28T02:38:26Z",
+    "url": "https://github.com/Yuki001/game-dev-skills"
+  },
+  {
+    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "id": "gagip/gagip-dev",
+    "language": "Python",
+    "name": "gagip/gagip-dev",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:31:35Z",
+    "url": "https://github.com/gagip/gagip-dev"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T02:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Personal memory across agents",
     "id": "NevaMind-AI/memU",
     "language": "Python",
     "name": "NevaMind-AI/memU",
-    "stars": 14088,
+    "stars": 14089,
     "updated_at": "2026-07-28T02:27:57Z",
     "url": "https://github.com/NevaMind-AI/memU"
   },
@@ -40,7 +112,7 @@
     "id": "ikonushok/agent-pack-designer",
     "language": "Python",
     "name": "ikonushok/agent-pack-designer",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-07-28T02:26:33Z",
     "url": "https://github.com/ikonushok/agent-pack-designer"
   },
@@ -72,24 +144,6 @@
     "url": "https://github.com/teklabsdigital/x2-method"
   },
   {
-    "description": "My personal agent skill repository, primarily focused on game development.",
-    "id": "Yuki001/game-dev-skills",
-    "language": "Python",
-    "name": "Yuki001/game-dev-skills",
-    "stars": 40,
-    "updated_at": "2026-07-28T02:17:12Z",
-    "url": "https://github.com/Yuki001/game-dev-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T02:15:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent-Skills fuer Claude Code \u2014 bijektiver Spezifikationsvergleich und mehr",
     "id": "Xindaan/claude-skills",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 3224,
     "updated_at": "2026-07-28T02:04:12Z",
     "url": "https://github.com/davepoon/buildwithclaude"
-  },
-  {
-    "description": "Ghost AI is an interactive system architecture builder. It's a full-stack app built using an agentic architecture-first ",
-    "id": "nateruze/ghost_ai",
-    "language": "TypeScript",
-    "name": "nateruze/ghost_ai",
-    "stars": 0,
-    "updated_at": "2026-07-28T02:03:30Z",
-    "url": "https://github.com/nateruze/ghost_ai"
   },
   {
     "description": "Open-source agent skills for AI for Science: topic exploration, literature survey, experiments, paper writing, and integ",
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-28T00:31:40Z",
     "url": "https://github.com/ericluo04/claude-academic-workflow"
-  },
-  {
-    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
-    "id": "synaptiai/synapti-marketplace",
-    "language": "Shell",
-    "name": "synaptiai/synapti-marketplace",
-    "stars": 6,
-    "updated_at": "2026-07-28T00:25:20Z",
-    "url": "https://github.com/synaptiai/synapti-marketplace"
-  },
-  {
-    "description": "Free agent skills for Claude Code and SKILL.md agents. Add with: /plugin marketplace add justhandledlabs/skills. Eleven ",
-    "id": "justhandledlabs/skills",
-    "language": "Python",
-    "name": "justhandledlabs/skills",
-    "stars": 0,
-    "updated_at": "2026-07-28T00:23:09Z",
-    "url": "https://github.com/justhandledlabs/skills"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-28T00:13:59Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-28T00:13:52Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-07-28T00:11:51Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   }
 ]
