@@ -1,5 +1,68 @@
 [
   {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 2,
+    "updated_at": "2026-07-28T04:00:08Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 2,
+    "updated_at": "2026-07-28T03:55:04Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 1,
+    "updated_at": "2026-07-28T03:52:33Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "A Claude Code / Claude.ai Skill that turns any codebase into something deployable with docker compose up and shippable t",
+    "id": "sudais-khalid/vibe-ship",
+    "language": "Python",
+    "name": "sudais-khalid/vibe-ship",
+    "stars": 18,
+    "updated_at": "2026-07-28T03:52:19Z",
+    "url": "https://github.com/sudais-khalid/vibe-ship"
+  },
+  {
+    "description": "Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery, ",
+    "id": "Xopoko/plug-n-skills",
+    "language": "Python",
+    "name": "Xopoko/plug-n-skills",
+    "stars": 8,
+    "updated_at": "2026-07-28T03:46:43Z",
+    "url": "https://github.com/Xopoko/plug-n-skills"
+  },
+  {
+    "description": "Ticket Takeaway - a control panel to help manage multiple agents directly via cli",
+    "id": "ytubecoder/ticket-takeaway",
+    "language": "Python",
+    "name": "ytubecoder/ticket-takeaway",
+    "stars": 1,
+    "updated_at": "2026-07-28T03:46:20Z",
+    "url": "https://github.com/ytubecoder/ticket-takeaway"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T03:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -135,15 +198,6 @@
     "url": "https://github.com/agamm/claude-code-owasp"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T03:30:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Ghost AI is an interactive system architecture builder. It's a full-stack app built using an agentic architecture-first ",
     "id": "nateruze/ghost_ai",
     "language": "TypeScript",
@@ -153,7 +207,7 @@
     "url": "https://github.com/nateruze/ghost_ai"
   },
   {
-    "description": "\u7ed9\u300cAI \u9a71\u52a8\u5f00\u53d1\u300d\u7acb\u89c4\u77e9\u7684 Claude Code skill \u65b9\u6cd5\u8bba\u5e93\uff1a\u4e03\u5c42\u6587\u6863\u6cbb\u7406 \u00b7 \u5bf9\u6297\u8bc4\u5ba1 \u00b7 \u4efb\u52a1\u603b\u63a7\u4e09\u9a7e\u9a6c\u8f66\uff0c\u5916\u52a0\u8001\u4ee3\u7801\u8003\u53e4\u3001\u65bd\u5de5\u84dd\u56fe\u7b49\u5171 16 \u4e2a skill \u2014\u2014 \u8ba9 AI \u5199\u4ee3\u7801\u53c8\u5feb\u53c8\u4e0d\u5931\u63a7\u3002",
+    "description": "\u7ed9\u300cAI \u9a71\u52a8\u5f00\u53d1\u300d\u7acb\u89c4\u77e9\u7684 Claude Code skill \u65b9\u6cd5\u8bba\u5e93\uff1a\u4e03\u5c42\u6587\u6863\u6cbb\u7406 \u00b7 \u5bf9\u6297\u8bc4\u5ba1\u95ed\u73af \u00b7 \u4efb\u52a1\u603b\u63a7\u4e09\u9a7e\u9a6c\u8f66\uff0c\u5916\u52a0 goal \u81ea\u4e3b\u6267\u884c\u5951\u7ea6\u3001\u6d4b\u8bd5\u4e09\u4ef6\u5957\u3001\u8001\u4ee3\u7801\u8003\u53e4\u7b49\u5171 23 \u4e2a skill \u2014\u2014 \u8ba9 AI \u5199\u4ee3\u7801\u53c8\u5feb\u53c8\u4e0d",
     "id": "BackToCimaCoppi/Praxis",
     "language": "Python",
     "name": "BackToCimaCoppi/Praxis",
@@ -180,15 +234,6 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "Ticket Takeaway - a control panel to help manage multiple agents directly via cli",
-    "id": "ytubecoder/ticket-takeaway",
-    "language": "Python",
-    "name": "ytubecoder/ticket-takeaway",
-    "stars": 1,
-    "updated_at": "2026-07-28T03:19:29Z",
-    "url": "https://github.com/ytubecoder/ticket-takeaway"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -211,7 +256,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4899,
+    "stars": 4902,
     "updated_at": "2026-07-28T03:16:16Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -229,7 +274,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66680,
+    "stars": 66684,
     "updated_at": "2026-07-28T03:13:52Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T02:38:46Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 2300,
-    "updated_at": "2026-07-28T02:38:34Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
-    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
-    "id": "gagip/gagip-dev",
-    "language": "Python",
-    "name": "gagip/gagip-dev",
-    "stars": 0,
-    "updated_at": "2026-07-28T02:31:35Z",
-    "url": "https://github.com/gagip/gagip-dev"
-  },
-  {
-    "description": "Personal memory across agents",
-    "id": "NevaMind-AI/memU",
-    "language": "Python",
-    "name": "NevaMind-AI/memU",
-    "stars": 14091,
-    "updated_at": "2026-07-28T02:27:57Z",
-    "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "Open-source agency-grade social media production plugin \u2014 16 skills, 25 commands, AI image (Nano Banana Pro) + AI video ",
-    "id": "indranilbanerjee/socialforge",
-    "language": "Python",
-    "name": "indranilbanerjee/socialforge",
-    "stars": 22,
-    "updated_at": "2026-07-28T02:27:21Z",
-    "url": "https://github.com/indranilbanerjee/socialforge"
-  },
-  {
-    "description": "Design minimal AI agent packs for Codex and Claude from project descriptions.",
-    "id": "ikonushok/agent-pack-designer",
-    "language": "Python",
-    "name": "ikonushok/agent-pack-designer",
-    "stars": 4,
-    "updated_at": "2026-07-28T02:26:33Z",
-    "url": "https://github.com/ikonushok/agent-pack-designer"
   }
 ]
