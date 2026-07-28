@@ -1,12 +1,111 @@
 [
   {
+    "description": "a skill that builds a website and the design system that governs it, with checks that block rather than advise.",
+    "id": "jaenicket/code-webdesign",
+    "language": "Python",
+    "name": "jaenicket/code-webdesign",
+    "stars": 1,
+    "updated_at": "2026-07-28T21:28:14Z",
+    "url": "https://github.com/jaenicket/code-webdesign"
+  },
+  {
+    "description": "Vscode plugin for creating and validating Codex, Claude and Gemini skills inside a project.",
+    "id": "spmisha134/skillOps-vscode",
+    "language": "TypeScript",
+    "name": "spmisha134/skillOps-vscode",
+    "stars": 1,
+    "updated_at": "2026-07-28T21:27:57Z",
+    "url": "https://github.com/spmisha134/skillOps-vscode"
+  },
+  {
     "description": "A prompt-based communication adapter that makes AI interactions work better for neurodivergent users. Shifts the adaptat",
     "id": "Hep2o/NeuroDivergent-Adapter-Skill",
     "language": "\u2014",
     "name": "Hep2o/NeuroDivergent-Adapter-Skill",
     "stars": 0,
-    "updated_at": "2026-07-28T21:14:50Z",
+    "updated_at": "2026-07-28T21:24:12Z",
     "url": "https://github.com/Hep2o/NeuroDivergent-Adapter-Skill"
+  },
+  {
+    "description": "Future-first skill for writing modern Svelte 5 and SvelteKit 2 code with AI agents.",
+    "id": "fifidayone/svelte-edge",
+    "language": "\u2014",
+    "name": "fifidayone/svelte-edge",
+    "stars": 0,
+    "updated_at": "2026-07-28T21:23:44Z",
+    "url": "https://github.com/fifidayone/svelte-edge"
+  },
+  {
+    "description": "20 free, MIT-licensed Claude Code skills. Each written from a real defect found in production. Install with /plugin mark",
+    "id": "sriptcollector/toolbay-skills",
+    "language": "\u2014",
+    "name": "sriptcollector/toolbay-skills",
+    "stars": 0,
+    "updated_at": "2026-07-28T21:19:08Z",
+    "url": "https://github.com/sriptcollector/toolbay-skills"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-28T21:17:48Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "A hands-on lab for learning to write CLAUDE.md files and Claude Code setups \u2014 you write the context, the agent builds th",
+    "id": "JSchOBL/agentic-ai-learning-journey",
+    "language": "\u2014",
+    "name": "JSchOBL/agentic-ai-learning-journey",
+    "stars": 1,
+    "updated_at": "2026-07-28T21:17:36Z",
+    "url": "https://github.com/JSchOBL/agentic-ai-learning-journey"
+  },
+  {
+    "description": "bridge.ai/anchor: skills for consistent and effective source control",
+    "id": "chris-peterson/anchor",
+    "language": "Shell",
+    "name": "chris-peterson/anchor",
+    "stars": 0,
+    "updated_at": "2026-07-28T21:17:08Z",
+    "url": "https://github.com/chris-peterson/anchor"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-28T21:16:56Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-28T21:15:31Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T21:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 1,
+    "updated_at": "2026-07-28T21:15:10Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -18,13 +117,22 @@
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
-    "description": "20 free, MIT-licensed Claude Code skills. Each written from a real defect found in production. Install with /plugin mark",
-    "id": "sriptcollector/toolbay-skills",
-    "language": "\u2014",
-    "name": "sriptcollector/toolbay-skills",
-    "stars": 0,
-    "updated_at": "2026-07-28T21:13:41Z",
-    "url": "https://github.com/sriptcollector/toolbay-skills"
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-07-28T21:14:06Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
+    "id": "CHAOSX-SPACE/god-of-the-void",
+    "language": "Python",
+    "name": "CHAOSX-SPACE/god-of-the-void",
+    "stars": 1,
+    "updated_at": "2026-07-28T21:13:05Z",
+    "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
   },
   {
     "description": "Open-source Claude Code Skills that replace clicking through vendor dashboards \u2014 Stripe, Cloudflare DNS, ElevenLabs, Git",
@@ -50,7 +158,7 @@
     "language": "Kotlin",
     "name": "spmisha134/skillOps-intellij",
     "stars": 1,
-    "updated_at": "2026-07-28T21:10:46Z",
+    "updated_at": "2026-07-28T21:22:44Z",
     "url": "https://github.com/spmisha134/skillOps-intellij"
   },
   {
@@ -126,15 +234,6 @@
     "url": "https://github.com/thedevappsecguy/skill-scanner"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-28T21:02:31Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -160,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T21:00:51Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T21:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -241,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T20:52:39Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "a skill that builds a website and the design system that governs it, with checks that block rather than advise.",
-    "id": "jaenicket/code-webdesign",
-    "language": "Python",
-    "name": "jaenicket/code-webdesign",
-    "stars": 1,
-    "updated_at": "2026-07-28T20:52:32Z",
-    "url": "https://github.com/jaenicket/code-webdesign"
   },
   {
     "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-28T20:35:06Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Production-ready Claude Code skills, agents, and project templates for Craft CMS 5 development",
-    "id": "michtio/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "michtio/craftcms-claude-skills",
-    "stars": 62,
-    "updated_at": "2026-07-28T20:32:31Z",
-    "url": "https://github.com/michtio/craftcms-claude-skills"
-  },
-  {
-    "description": "bridge.ai/anchor: skills for consistent and effective source control",
-    "id": "chris-peterson/anchor",
-    "language": "Shell",
-    "name": "chris-peterson/anchor",
-    "stars": 0,
-    "updated_at": "2026-07-28T20:43:04Z",
-    "url": "https://github.com/chris-peterson/anchor"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-07-28T20:31:39Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "",
-    "id": "argent-gnome/sdlc-skills",
-    "language": "JavaScript",
-    "name": "argent-gnome/sdlc-skills",
-    "stars": 0,
-    "updated_at": "2026-07-28T20:30:31Z",
-    "url": "https://github.com/argent-gnome/sdlc-skills"
-  },
-  {
-    "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
-    "id": "CHAOSX-SPACE/god-of-the-void",
-    "language": "Python",
-    "name": "CHAOSX-SPACE/god-of-the-void",
-    "stars": 1,
-    "updated_at": "2026-07-28T21:13:05Z",
-    "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 47,
-    "updated_at": "2026-07-28T20:23:53Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Future-first skill for writing modern Svelte 5 and SvelteKit 2 code with AI agents.",
-    "id": "fifidayone/svelte-edge",
-    "language": "\u2014",
-    "name": "fifidayone/svelte-edge",
-    "stars": 0,
-    "updated_at": "2026-07-28T20:21:21Z",
-    "url": "https://github.com/fifidayone/svelte-edge"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 0,
-    "updated_at": "2026-07-28T20:19:47Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 1,
-    "updated_at": "2026-07-28T20:19:21Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   }
 ]
