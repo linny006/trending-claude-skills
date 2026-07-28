@@ -1,5 +1,113 @@
 [
   {
+    "description": "Agent Skills for twitr.sh \u2014 pay-per-call X/Twitter API for AI agents. No API key, wallet pays per call in USDC.",
+    "id": "lnvestor/twitr-skills",
+    "language": "\u2014",
+    "name": "lnvestor/twitr-skills",
+    "stars": 5,
+    "updated_at": "2026-07-28T12:44:12Z",
+    "url": "https://github.com/lnvestor/twitr-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66705,
+    "updated_at": "2026-07-28T12:42:55Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 8,
+    "updated_at": "2026-07-28T12:42:46Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 49,
+    "updated_at": "2026-07-28T12:37:55Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "A nine-stage art-directed Claude Code workflow: commit direction, generate original media, review mechanics independentl",
+    "id": "youkistudios/web-studio",
+    "language": "JavaScript",
+    "name": "youkistudios/web-studio",
+    "stars": 0,
+    "updated_at": "2026-07-28T12:36:53Z",
+    "url": "https://github.com/youkistudios/web-studio"
+  },
+  {
+    "description": "Local session memory for Claude Code and Codex\u2014capture context, decisions, artifact references, and next state in Markdo",
+    "id": "youkistudios/session-save-system",
+    "language": "Shell",
+    "name": "youkistudios/session-save-system",
+    "stars": 0,
+    "updated_at": "2026-07-28T12:36:07Z",
+    "url": "https://github.com/youkistudios/session-save-system"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-07-28T12:31:54Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Lean output mode for Claude Code: minimal solution, action-first structure, zero-fat density. Fuses caveman, ponytail, a",
+    "id": "FlorianBruniaux/flow-lean",
+    "language": "Python",
+    "name": "FlorianBruniaux/flow-lean",
+    "stars": 1,
+    "updated_at": "2026-07-28T12:31:34Z",
+    "url": "https://github.com/FlorianBruniaux/flow-lean"
+  },
+  {
+    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
+    "id": "byensitmagnus/sitesmith",
+    "language": "HTML",
+    "name": "byensitmagnus/sitesmith",
+    "stars": 0,
+    "updated_at": "2026-07-28T12:31:08Z",
+    "url": "https://github.com/byensitmagnus/sitesmith"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T12:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
+    "id": "Egonex-AI/Understand-Anything",
+    "language": "TypeScript",
+    "name": "Egonex-AI/Understand-Anything",
+    "stars": 76533,
+    "updated_at": "2026-07-28T12:29:34Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
+    "id": "vdk888/bubble-shield-public",
+    "language": "Python",
+    "name": "vdk888/bubble-shield-public",
+    "stars": 0,
+    "updated_at": "2026-07-28T12:29:34Z",
+    "url": "https://github.com/vdk888/bubble-shield-public"
+  },
+  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -18,15 +126,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T12:26:56Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -41,33 +140,15 @@
     "language": "\u2014",
     "name": "kjooncho/ux-motion-skills",
     "stars": 0,
-    "updated_at": "2026-07-28T12:25:57Z",
+    "updated_at": "2026-07-28T12:43:47Z",
     "url": "https://github.com/kjooncho/ux-motion-skills"
-  },
-  {
-    "description": "Agent Skills for twitr.sh \u2014 pay-per-call X/Twitter API for AI agents. No API key, wallet pays per call in USDC.",
-    "id": "lnvestor/twitr-skills",
-    "language": "\u2014",
-    "name": "lnvestor/twitr-skills",
-    "stars": 5,
-    "updated_at": "2026-07-28T12:24:58Z",
-    "url": "https://github.com/lnvestor/twitr-skills"
-  },
-  {
-    "description": "Lean output mode for Claude Code: minimal solution, action-first structure, zero-fat density. Fuses caveman, ponytail, a",
-    "id": "FlorianBruniaux/flow-lean",
-    "language": "Python",
-    "name": "FlorianBruniaux/flow-lean",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:24:44Z",
-    "url": "https://github.com/FlorianBruniaux/flow-lean"
   },
   {
     "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
     "id": "k-vaca/prompt-engineering-skill",
     "language": "\u2014",
     "name": "k-vaca/prompt-engineering-skill",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-28T12:24:32Z",
     "url": "https://github.com/k-vaca/prompt-engineering-skill"
   },
@@ -88,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T12:23:47Z",
     "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66703,
-    "updated_at": "2026-07-28T12:26:29Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -297,24 +369,6 @@
     "url": "https://github.com/ericluo04/claude-academic-workflow"
   },
   {
-    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
-    "id": "molefrog/moi",
-    "language": "TypeScript",
-    "name": "molefrog/moi",
-    "stars": 49,
-    "updated_at": "2026-07-28T12:11:13Z",
-    "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
-    "id": "byensitmagnus/sitesmith",
-    "language": "HTML",
-    "name": "byensitmagnus/sitesmith",
-    "stars": 0,
-    "updated_at": "2026-07-28T11:54:51Z",
-    "url": "https://github.com/byensitmagnus/sitesmith"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 17,
     "updated_at": "2026-07-28T11:33:49Z",
     "url": "https://github.com/ur-grue/autopunk-media-skills"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 1,
-    "updated_at": "2026-07-28T11:31:53Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "\u9762\u5411 AI Agent \u7684\u5185\u5bb9\u521b\u4f5c\u6280\u80fd\u96c6\u5408\uff0c\u8986\u76d6\u8d44\u6599\u79ef\u7d2f\u3001\u7ed3\u6784\u8bbe\u8ba1\u3001\u6587\u7ae0\u64b0\u5199\u3001\u5ba1\u67e5\u4f18\u5316\u4e0e\u53d1\u5e03\u6d41\u7a0b\u3002",
-    "id": "gogoingai/wenqu-skills",
-    "language": "TypeScript",
-    "name": "gogoingai/wenqu-skills",
-    "stars": 4,
-    "updated_at": "2026-07-28T11:30:35Z",
-    "url": "https://github.com/gogoingai/wenqu-skills"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-28T11:30:14Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-28T11:25:42Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-28T11:25:00Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Free study guide, learning material & 6 mock exams for Anthropic's Claude Certified Architect \u2013 Foundations (CCAF / CCAR",
-    "id": "utkarsh1agarwal/claude-architect-exam-guide",
-    "language": "JavaScript",
-    "name": "utkarsh1agarwal/claude-architect-exam-guide",
-    "stars": 1,
-    "updated_at": "2026-07-28T11:23:45Z",
-    "url": "https://github.com/utkarsh1agarwal/claude-architect-exam-guide"
   }
 ]
