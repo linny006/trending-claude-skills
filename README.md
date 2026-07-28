@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-28 21:30 UTC
+> ⏰ Last updated: 2026-07-28 21:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [jaenicket/code-webdesign](https://github.com/jaenicket/code-webdesign) | 1 | Python | 2026-07-28 | a skill that builds a website and the design system that governs it, with checks that block rather than advise. |
-| 2 | [spmisha134/skillOps-vscode](https://github.com/spmisha134/skillOps-vscode) | 1 | TypeScript | 2026-07-28 | Vscode plugin for creating and validating Codex, Claude and Gemini skills inside a project. |
-| 3 | [Hep2o/NeuroDivergent-Adapter-Skill](https://github.com/Hep2o/NeuroDivergent-Adapter-Skill) | 0 | — | 2026-07-28 | A prompt-based communication adapter that makes AI interactions work better for neurodivergent users. Shifts the adaptat |
-| 4 | [fifidayone/svelte-edge](https://github.com/fifidayone/svelte-edge) | 0 | — | 2026-07-28 | Future-first skill for writing modern Svelte 5 and SvelteKit 2 code with AI agents. |
-| 5 | [sriptcollector/toolbay-skills](https://github.com/sriptcollector/toolbay-skills) | 0 | — | 2026-07-28 | 20 free, MIT-licensed Claude Code skills. Each written from a real defect found in production. Install with /plugin mark |
-| 6 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-28 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
-| 7 | [JSchOBL/agentic-ai-learning-journey](https://github.com/JSchOBL/agentic-ai-learning-journey) | 1 | — | 2026-07-28 | A hands-on lab for learning to write CLAUDE.md files and Claude Code setups — you write the context, the agent builds th |
-| 8 | [chris-peterson/anchor](https://github.com/chris-peterson/anchor) | 0 | Shell | 2026-07-28 | bridge.ai/anchor: skills for consistent and effective source control |
-| 9 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-28 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 10 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-07-28 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 11 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-28 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-28 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [jaenicket/code-webdesign](https://github.com/jaenicket/code-webdesign) | 1 | Python | 2026-07-28 | a skill that builds a website and the design system that governs it, with checks that block rather than advise. |
+| 3 | [spmisha134/skillOps-vscode](https://github.com/spmisha134/skillOps-vscode) | 1 | TypeScript | 2026-07-28 | Vscode plugin for creating and validating Codex, Claude and Gemini skills inside a project. |
+| 4 | [Hep2o/NeuroDivergent-Adapter-Skill](https://github.com/Hep2o/NeuroDivergent-Adapter-Skill) | 1 | — | 2026-07-28 | A prompt-based communication adapter that makes AI interactions work better for neurodivergent users. Shifts the adaptat |
+| 5 | [fifidayone/svelte-edge](https://github.com/fifidayone/svelte-edge) | 0 | — | 2026-07-28 | Future-first skill for writing modern Svelte 5 and SvelteKit 2 code with AI agents. |
+| 6 | [sriptcollector/toolbay-skills](https://github.com/sriptcollector/toolbay-skills) | 0 | — | 2026-07-28 | 20 free, MIT-licensed Claude Code skills. Each written from a real defect found in production. Install with /plugin mark |
+| 7 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-28 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
+| 8 | [JSchOBL/agentic-ai-learning-journey](https://github.com/JSchOBL/agentic-ai-learning-journey) | 1 | — | 2026-07-28 | A hands-on lab for learning to write CLAUDE.md files and Claude Code setups — you write the context, the agent builds th |
+| 9 | [chris-peterson/anchor](https://github.com/chris-peterson/anchor) | 0 | Shell | 2026-07-28 | bridge.ai/anchor: skills for consistent and effective source control |
+| 10 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-28 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 11 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-07-28 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 12 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 1 | HTML | 2026-07-28 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
 | 13 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 285 | MDX | 2026-07-28 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
 | 14 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-07-28 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
