@@ -1,12 +1,120 @@
 [
   {
-    "description": "",
-    "id": "BladeDancer743/Interlinear",
+    "description": "Hire a 42-employee AI company in one command: 7 departments, 42 skills, 1 CEO. For Claude Code & any AI CLI.",
+    "id": "alebgl77/claude-inc",
+    "language": "Shell",
+    "name": "alebgl77/claude-inc",
+    "stars": 5,
+    "updated_at": "2026-07-28T13:28:24Z",
+    "url": "https://github.com/alebgl77/claude-inc"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66709,
+    "updated_at": "2026-07-28T13:24:15Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-28T13:23:18Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430 \u2014 37 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u043e\u0432 \u0438 38 regex-\u043c\u0430\u0440\u043a\u0435\u0440\u043e\u0432 | Russian A",
+    "id": "Vladimir-Human/humanizer-ru",
     "language": "Python",
-    "name": "BladeDancer743/Interlinear",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 82,
+    "updated_at": "2026-07-28T13:22:20Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
+  },
+  {
+    "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
+    "id": "Optim-Agent/optim-plans",
+    "language": "Python",
+    "name": "Optim-Agent/optim-plans",
+    "stars": 72,
+    "updated_at": "2026-07-28T13:21:24Z",
+    "url": "https://github.com/Optim-Agent/optim-plans"
+  },
+  {
+    "description": "A nine-stage art-directed Claude Code workflow: commit direction, generate original media, review mechanics independentl",
+    "id": "youkistudios/web-studio",
+    "language": "JavaScript",
+    "name": "youkistudios/web-studio",
+    "stars": 0,
+    "updated_at": "2026-07-28T13:20:07Z",
+    "url": "https://github.com/youkistudios/web-studio"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-28T13:19:29Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
+    "id": "k-vaca/prompt-engineering-skill",
+    "language": "\u2014",
+    "name": "k-vaca/prompt-engineering-skill",
     "stars": 2,
-    "updated_at": "2026-07-28T13:13:39Z",
-    "url": "https://github.com/BladeDancer743/Interlinear"
+    "updated_at": "2026-07-28T13:19:07Z",
+    "url": "https://github.com/k-vaca/prompt-engineering-skill"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 47,
+    "updated_at": "2026-07-28T13:15:24Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T13:15:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 23,
+    "updated_at": "2026-07-28T13:14:40Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
+    "id": "byensitmagnus/sitesmith",
+    "language": "HTML",
+    "name": "byensitmagnus/sitesmith",
+    "stars": 0,
+    "updated_at": "2026-07-28T13:14:31Z",
+    "url": "https://github.com/byensitmagnus/sitesmith"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 1,
+    "updated_at": "2026-07-28T13:12:24Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "Agent Skills for twitr.sh \u2014 pay-per-call X/Twitter API for AI agents. No API key, wallet pays per call in USDC.",
@@ -45,24 +153,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
-    "id": "byensitmagnus/sitesmith",
-    "language": "HTML",
-    "name": "byensitmagnus/sitesmith",
-    "stars": 0,
-    "updated_at": "2026-07-28T13:14:31Z",
-    "url": "https://github.com/byensitmagnus/sitesmith"
-  },
-  {
-    "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
-    "id": "k-vaca/prompt-engineering-skill",
-    "language": "\u2014",
-    "name": "k-vaca/prompt-engineering-skill",
-    "stars": 2,
-    "updated_at": "2026-07-28T13:06:14Z",
-    "url": "https://github.com/k-vaca/prompt-engineering-skill"
-  },
-  {
     "description": "Reconstruct a full flight itinerary from unordered segments \u2014 Go/Echo REST API with Swagger, fuzzing, Newman E2E, cosign",
     "id": "AndriyKalashnykov/flight-path",
     "language": "Python",
@@ -81,39 +171,12 @@
     "url": "https://github.com/vdk888/bubble-shield-public"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66707,
-    "updated_at": "2026-07-28T13:02:09Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T13:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 47,
-    "updated_at": "2026-07-28T13:00:03Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
     "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
     "id": "synaptiai/synapti-marketplace",
     "language": "Shell",
     "name": "synaptiai/synapti-marketplace",
     "stars": 6,
-    "updated_at": "2026-07-28T12:59:22Z",
+    "updated_at": "2026-07-28T13:29:37Z",
     "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
@@ -270,15 +333,6 @@
     "url": "https://github.com/molefrog/moi"
   },
   {
-    "description": "A nine-stage art-directed Claude Code workflow: commit direction, generate original media, review mechanics independentl",
-    "id": "youkistudios/web-studio",
-    "language": "JavaScript",
-    "name": "youkistudios/web-studio",
-    "stars": 0,
-    "updated_at": "2026-07-28T12:36:53Z",
-    "url": "https://github.com/youkistudios/web-studio"
-  },
-  {
     "description": "Local session memory for Claude Code and Codex\u2014capture context, decisions, artifact references, and next state in Markdo",
     "id": "youkistudios/session-save-system",
     "language": "Shell",
@@ -310,7 +364,7 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 76536,
+    "stars": 76537,
     "updated_at": "2026-07-28T12:29:34Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
@@ -394,59 +448,5 @@
     "stars": 403,
     "updated_at": "2026-07-28T12:19:08Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:16:57Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Agent skills for building, shipping, and growing software products",
-    "id": "tenequm/skills",
-    "language": "Python",
-    "name": "tenequm/skills",
-    "stars": 31,
-    "updated_at": "2026-07-28T12:16:04Z",
-    "url": "https://github.com/tenequm/skills"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:15:45Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-07-28T12:14:55Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Claude Mastery: Real Projects, Real Results is a companion repository for a YouTube series that teaches Claude Desktop a",
-    "id": "dev-dsquaredlabs/claude-mastery-series",
-    "language": "HTML",
-    "name": "dev-dsquaredlabs/claude-mastery-series",
-    "stars": 0,
-    "updated_at": "2026-07-28T12:14:33Z",
-    "url": "https://github.com/dev-dsquaredlabs/claude-mastery-series"
-  },
-  {
-    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 with a reproducible benchmark instead of a star count. 26 skills,",
-    "id": "brycewang-stanford/many-ppt-skills",
-    "language": "Python",
-    "name": "brycewang-stanford/many-ppt-skills",
-    "stars": 0,
-    "updated_at": "2026-07-28T12:11:52Z",
-    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
   }
 ]
