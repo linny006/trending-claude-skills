@@ -1,12 +1,93 @@
 [
   {
+    "description": "Agent Skill for large-scale brand strategy and identity engagements: 10 evidence-backed research workstreams, iterative ",
+    "id": "simone-sestili/brand-agency-skill",
+    "language": "JavaScript",
+    "name": "simone-sestili/brand-agency-skill",
+    "stars": 0,
+    "updated_at": "2026-07-28T11:58:31Z",
+    "url": "https://github.com/simone-sestili/brand-agency-skill"
+  },
+  {
+    "description": "Open-source Claude Skills for marketing analytics, attribution, and ad performance, by the team at Metrikia",
+    "id": "metrikia-io/marketing-skills",
+    "language": "Python",
+    "name": "metrikia-io/marketing-skills",
+    "stars": 1,
+    "updated_at": "2026-07-28T11:58:14Z",
+    "url": "https://github.com/metrikia-io/marketing-skills"
+  },
+  {
+    "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
+    "id": "sumitake/agent-collab",
+    "language": "Python",
+    "name": "sumitake/agent-collab",
+    "stars": 0,
+    "updated_at": "2026-07-28T11:57:41Z",
+    "url": "https://github.com/sumitake/agent-collab"
+  },
+  {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 31,
+    "updated_at": "2026-07-28T11:58:12Z",
+    "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
+    "id": "k-vaca/prompt-engineering-skill",
+    "language": "\u2014",
+    "name": "k-vaca/prompt-engineering-skill",
+    "stars": 0,
+    "updated_at": "2026-07-28T11:56:40Z",
+    "url": "https://github.com/k-vaca/prompt-engineering-skill"
+  },
+  {
     "description": "Academic research workflow for Claude Code: 14 skills (paper reading, lit review, bib auditing, preregistration, replica",
     "id": "ericluo04/claude-academic-workflow",
     "language": "Lua",
     "name": "ericluo04/claude-academic-workflow",
     "stars": 5,
-    "updated_at": "2026-07-28T11:43:58Z",
+    "updated_at": "2026-07-28T11:55:41Z",
     "url": "https://github.com/ericluo04/claude-academic-workflow"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 49,
+    "updated_at": "2026-07-28T11:55:25Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
+    "id": "byensitmagnus/sitesmith",
+    "language": "HTML",
+    "name": "byensitmagnus/sitesmith",
+    "stars": 0,
+    "updated_at": "2026-07-28T11:54:51Z",
+    "url": "https://github.com/byensitmagnus/sitesmith"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-28T11:53:28Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "A Claude skill that makes cut-and-layer collage art from real, open-licensed imagery.",
+    "id": "polgarp/collage-design",
+    "language": "Python",
+    "name": "polgarp/collage-design",
+    "stars": 1,
+    "updated_at": "2026-07-28T11:50:27Z",
+    "url": "https://github.com/polgarp/collage-design"
   },
   {
     "description": "A doctor for your Claude Code agent skills \u2014 find the SKILL.md files Claude silently can't see (over the discovery-char ",
@@ -14,8 +95,35 @@
     "language": "Python",
     "name": "gulmezeren2-byte/claude-skills-doctor",
     "stars": 0,
-    "updated_at": "2026-07-28T11:43:05Z",
+    "updated_at": "2026-07-28T11:47:36Z",
     "url": "https://github.com/gulmezeren2-byte/claude-skills-doctor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T11:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Personalized Hacker News briefs in Claude Code. Learns your interests from what you click. Zero dependencies.",
+    "id": "ArchitektApx/HackerNews-Brief",
+    "language": "Python",
+    "name": "ArchitektApx/HackerNews-Brief",
+    "stars": 1,
+    "updated_at": "2026-07-28T11:45:17Z",
+    "url": "https://github.com/ArchitektApx/HackerNews-Brief"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-28T11:44:42Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
@@ -58,8 +166,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66699,
-    "updated_at": "2026-07-28T11:35:00Z",
+    "stars": 66700,
+    "updated_at": "2026-07-28T11:56:14Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -67,18 +175,9 @@
     "id": "ur-grue/autopunk-media-skills",
     "language": "Python",
     "name": "ur-grue/autopunk-media-skills",
-    "stars": 16,
+    "stars": 17,
     "updated_at": "2026-07-28T11:33:49Z",
     "url": "https://github.com/ur-grue/autopunk-media-skills"
-  },
-  {
-    "description": "Personalized Hacker News briefs in Claude Code. Learns your interests from what you click. Zero dependencies.",
-    "id": "ArchitektApx/HackerNews-Brief",
-    "language": "Python",
-    "name": "ArchitektApx/HackerNews-Brief",
-    "stars": 0,
-    "updated_at": "2026-07-28T11:33:37Z",
-    "url": "https://github.com/ArchitektApx/HackerNews-Brief"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -97,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T11:30:35Z",
     "url": "https://github.com/gogoingai/wenqu-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T11:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -248,7 +338,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 101,
-    "updated_at": "2026-07-28T11:39:46Z",
+    "updated_at": "2026-07-28T11:54:27Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -277,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T11:12:00Z",
     "url": "https://github.com/gagip/gagip-dev"
-  },
-  {
-    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
-    "id": "byensitmagnus/sitesmith",
-    "language": "HTML",
-    "name": "byensitmagnus/sitesmith",
-    "stars": 0,
-    "updated_at": "2026-07-28T11:10:44Z",
-    "url": "https://github.com/byensitmagnus/sitesmith"
   },
   {
     "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
@@ -333,15 +414,6 @@
     "url": "https://github.com/iamjosuho/memOrb"
   },
   {
-    "description": "Open-source Claude Skills for marketing analytics, attribution, and ad performance, by the team at Metrikia",
-    "id": "metrikia-io/marketing-skills",
-    "language": "Python",
-    "name": "metrikia-io/marketing-skills",
-    "stars": 1,
-    "updated_at": "2026-07-28T11:04:33Z",
-    "url": "https://github.com/metrikia-io/marketing-skills"
-  },
-  {
     "description": "\u9762\u5411\u4e2d\u6587\u7814\u7a76\u751f\u4e0e\u79d1\u7814\u5de5\u4f5c\u8005\u7684\u5b66\u672f\u8f85\u5bfc skill \u5957\u4ef6\uff08\u652f\u6301 Claude Code / Codex \u7b49\u7f16\u7a0b\u667a\u80fd\u4f53\uff09\uff1a\u9009\u9898 \u2192 \u68c0\u7d22 \u2192 \u6210\u6587 \u2192 \u8bc4\u5ba1 \u2192 \u6295\u7a3f\u5168\u94fe\u8def 25 \u4e2a\u547d\u4ee4\uff0c\u5f15\u7528\u6838\u9a8c\u4ee5\u771f\u5b9e API \u54cd\u5e94\u4e3a\u51c6\u3001\u4e0d\u51ed\u6a21\u578b\u8bb0\u5fc6\u7f16\u9020\uff0cAI",
     "id": "cabbage2000-lab/paper-tutor-skills",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 19,
     "updated_at": "2026-07-28T10:51:00Z",
     "url": "https://github.com/ali-meoo/meoo-cli"
-  },
-  {
-    "description": "A Claude Code plugin for Siemens TIA Portal engineering automation.",
-    "id": "Czarnak/totally-integrated-claude",
-    "language": "PowerShell",
-    "name": "Czarnak/totally-integrated-claude",
-    "stars": 36,
-    "updated_at": "2026-07-28T10:43:30Z",
-    "url": "https://github.com/Czarnak/totally-integrated-claude"
-  },
-  {
-    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
-    "id": "ergrelet/windiff",
-    "language": "Rust",
-    "name": "ergrelet/windiff",
-    "stars": 389,
-    "updated_at": "2026-07-28T10:41:44Z",
-    "url": "https://github.com/ergrelet/windiff"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 1,
-    "updated_at": "2026-07-28T10:39:14Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "",
-    "id": "BladeDancer743/Interlinear",
-    "language": "\u2014",
-    "name": "BladeDancer743/Interlinear",
-    "stars": 2,
-    "updated_at": "2026-07-28T10:38:29Z",
-    "url": "https://github.com/BladeDancer743/Interlinear"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 1,
-    "updated_at": "2026-07-28T10:38:13Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-07-28T10:35:31Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 0,
-    "updated_at": "2026-07-28T10:34:43Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-28T10:33:40Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   }
 ]
