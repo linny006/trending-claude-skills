@@ -1,11 +1,83 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 101,
+    "updated_at": "2026-07-28T22:41:57Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\u966a\u4f60\u628a\u7b80\u5386\u4ece\u5934\u505a\u5230\u5e95\u7684 Claude Code skill\u2014\u2014\u804a\u7d20\u6750\u3001\u5199\u6539\u7b80\u5386\u3001\u6362\u5c97\u6295\u5f71\u3001\u5bfc\u51fa A4 PDF\u3001\u751f\u6210\u62db\u8058\u5e73\u53f0\u62db\u547c\u8bed",
+    "id": "amlei/amlei-resume",
+    "language": "Python",
+    "name": "amlei/amlei-resume",
+    "stars": 0,
+    "updated_at": "2026-07-28T22:40:32Z",
+    "url": "https://github.com/amlei/amlei-resume"
+  },
+  {
+    "description": "Claude Code plugins by LKC. Rigorous engineering methods packaged for agents \u2014 proven techniques that go unused because ",
+    "id": "lkc-studio/claude-plugins",
+    "language": "Python",
+    "name": "lkc-studio/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-28T22:34:08Z",
+    "url": "https://github.com/lkc-studio/claude-plugins"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-28T22:32:13Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-07-28T22:32:09Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-07-28T22:32:27Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/ai-language",
+    "language": "HTML",
+    "name": "jposluns/ai-language",
+    "stars": 1,
+    "updated_at": "2026-07-28T22:40:02Z",
+    "url": "https://github.com/jposluns/ai-language"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T22:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 224,
-    "updated_at": "2026-07-28T22:28:39Z",
+    "updated_at": "2026-07-28T22:36:29Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T22:26:15Z",
     "url": "https://github.com/fifidayone/svelte-edge"
-  },
-  {
-    "description": "Claude Code plugins by LKC. Rigorous engineering methods packaged for agents \u2014 proven techniques that go unused because ",
-    "id": "lkc-studio/claude-plugins",
-    "language": "Python",
-    "name": "lkc-studio/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-28T22:23:24Z",
-    "url": "https://github.com/lkc-studio/claude-plugins"
   },
   {
     "description": "Claude Code + Grok plugin marketplace \u2014 18 curated plugins & MCP servers. One-command install.",
@@ -81,15 +144,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T22:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -97,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T22:13:42Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 101,
-    "updated_at": "2026-07-28T22:28:47Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/ai-language",
-    "language": "HTML",
-    "name": "jposluns/ai-language",
-    "stars": 1,
-    "updated_at": "2026-07-28T22:29:43Z",
-    "url": "https://github.com/jposluns/ai-language"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T21:44:33Z",
     "url": "https://github.com/chris-peterson/anchor"
-  },
-  {
-    "description": "Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.",
-    "id": "dembrandt/dembrandt-skills",
-    "language": "JavaScript",
-    "name": "dembrandt/dembrandt-skills",
-    "stars": 31,
-    "updated_at": "2026-07-28T21:37:52Z",
-    "url": "https://github.com/dembrandt/dembrandt-skills"
-  },
-  {
-    "description": "Reference tools for underused public healthcare data: FDA novel drug approvals (NMEs 2021\u20132024) and U.S. nonprofit hospi",
-    "id": "cbetz/trove",
-    "language": "HTML",
-    "name": "cbetz/trove",
-    "stars": 3,
-    "updated_at": "2026-07-28T21:37:22Z",
-    "url": "https://github.com/cbetz/trove"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-07-28T22:10:09Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Vscode plugin for creating and validating Codex, Claude and Gemini skills inside a project.",
-    "id": "spmisha134/skillOps-vscode",
-    "language": "TypeScript",
-    "name": "spmisha134/skillOps-vscode",
-    "stars": 1,
-    "updated_at": "2026-07-28T21:27:57Z",
-    "url": "https://github.com/spmisha134/skillOps-vscode"
   }
 ]
