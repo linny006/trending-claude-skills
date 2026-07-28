@@ -1,5 +1,32 @@
 [
   {
+    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
+    "id": "ramboz/jig",
+    "language": "Python",
+    "name": "ramboz/jig",
+    "stars": 4,
+    "updated_at": "2026-07-28T04:43:37Z",
+    "url": "https://github.com/ramboz/jig"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 2,
+    "updated_at": "2026-07-28T04:35:57Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T04:30:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -52,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T04:17:38Z",
     "url": "https://github.com/Wang-Cankun/cankun-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T04:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
@@ -142,15 +160,6 @@
     "stars": 10,
     "updated_at": "2026-07-28T04:00:18Z",
     "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 2,
-    "updated_at": "2026-07-28T04:30:13Z",
-    "url": "https://github.com/vanducng/skills"
   },
   {
     "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T02:56:40Z",
     "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 1,
-    "updated_at": "2026-07-28T02:55:09Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   }
 ]
