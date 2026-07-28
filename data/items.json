@@ -1,12 +1,120 @@
 [
   {
+    "description": "",
+    "id": "BladeDancer743/Interlinear",
+    "language": "Python",
+    "name": "BladeDancer743/Interlinear",
+    "stars": 2,
+    "updated_at": "2026-07-28T13:13:39Z",
+    "url": "https://github.com/BladeDancer743/Interlinear"
+  },
+  {
+    "description": "Agent Skills for twitr.sh \u2014 pay-per-call X/Twitter API for AI agents. No API key, wallet pays per call in USDC.",
+    "id": "lnvestor/twitr-skills",
+    "language": "\u2014",
+    "name": "lnvestor/twitr-skills",
+    "stars": 5,
+    "updated_at": "2026-07-28T13:10:24Z",
+    "url": "https://github.com/lnvestor/twitr-skills"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-28T13:09:32Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-28T13:08:50Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-28T13:07:40Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
+    "id": "byensitmagnus/sitesmith",
+    "language": "HTML",
+    "name": "byensitmagnus/sitesmith",
+    "stars": 0,
+    "updated_at": "2026-07-28T13:14:31Z",
+    "url": "https://github.com/byensitmagnus/sitesmith"
+  },
+  {
+    "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
+    "id": "k-vaca/prompt-engineering-skill",
+    "language": "\u2014",
+    "name": "k-vaca/prompt-engineering-skill",
+    "stars": 2,
+    "updated_at": "2026-07-28T13:06:14Z",
+    "url": "https://github.com/k-vaca/prompt-engineering-skill"
+  },
+  {
+    "description": "Reconstruct a full flight itinerary from unordered segments \u2014 Go/Echo REST API with Swagger, fuzzing, Newman E2E, cosign",
+    "id": "AndriyKalashnykov/flight-path",
+    "language": "Python",
+    "name": "AndriyKalashnykov/flight-path",
+    "stars": 1,
+    "updated_at": "2026-07-28T13:04:15Z",
+    "url": "https://github.com/AndriyKalashnykov/flight-path"
+  },
+  {
+    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
+    "id": "vdk888/bubble-shield-public",
+    "language": "Python",
+    "name": "vdk888/bubble-shield-public",
+    "stars": 0,
+    "updated_at": "2026-07-28T13:03:32Z",
+    "url": "https://github.com/vdk888/bubble-shield-public"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66706,
-    "updated_at": "2026-07-28T12:58:08Z",
+    "stars": 66707,
+    "updated_at": "2026-07-28T13:02:09Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T13:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 47,
+    "updated_at": "2026-07-28T13:00:03Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 6,
+    "updated_at": "2026-07-28T12:59:22Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
     "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
@@ -54,15 +162,6 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Agent Skills for twitr.sh \u2014 pay-per-call X/Twitter API for AI agents. No API key, wallet pays per call in USDC.",
-    "id": "lnvestor/twitr-skills",
-    "language": "\u2014",
-    "name": "lnvestor/twitr-skills",
-    "stars": 5,
-    "updated_at": "2026-07-28T12:52:51Z",
-    "url": "https://github.com/lnvestor/twitr-skills"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -72,15 +171,6 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
-    "id": "byensitmagnus/sitesmith",
-    "language": "HTML",
-    "name": "byensitmagnus/sitesmith",
-    "stars": 0,
-    "updated_at": "2026-07-28T12:51:19Z",
-    "url": "https://github.com/byensitmagnus/sitesmith"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -88,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T12:49:54Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
-    "id": "k-vaca/prompt-engineering-skill",
-    "language": "\u2014",
-    "name": "k-vaca/prompt-engineering-skill",
-    "stars": 2,
-    "updated_at": "2026-07-28T12:49:32Z",
-    "url": "https://github.com/k-vaca/prompt-engineering-skill"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -171,15 +252,6 @@
     "url": "https://github.com/Lx050/rubbing-to-knowledge"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T12:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Motion & design judgment skills for Claude Code \u2014 distilled from the past 11 years of production UX motion work in an 18",
     "id": "kjooncho/ux-motion-skills",
     "language": "\u2014",
@@ -229,7 +301,7 @@
     "id": "FlorianBruniaux/flow-lean",
     "language": "Python",
     "name": "FlorianBruniaux/flow-lean",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-28T12:31:34Z",
     "url": "https://github.com/FlorianBruniaux/flow-lean"
   },
@@ -241,15 +313,6 @@
     "stars": 76536,
     "updated_at": "2026-07-28T12:29:34Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
-  },
-  {
-    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
-    "id": "vdk888/bubble-shield-public",
-    "language": "Python",
-    "name": "vdk888/bubble-shield-public",
-    "stars": 0,
-    "updated_at": "2026-07-28T12:54:03Z",
-    "url": "https://github.com/vdk888/bubble-shield-public"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T12:11:52Z",
     "url": "https://github.com/brycewang-stanford/many-ppt-skills"
-  },
-  {
-    "description": "bochi \u2014 Claude Code skill for idea expansion. Transforms idea seeds into structured hypotheses via Socratic questioning,",
-    "id": "fideguch/bochi",
-    "language": "Shell",
-    "name": "fideguch/bochi",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:11:20Z",
-    "url": "https://github.com/fideguch/bochi"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:08:40Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:07:18Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "A Claude skill that makes cut-and-layer collage art from real, open-licensed imagery.",
-    "id": "polgarp/collage-design",
-    "language": "Python",
-    "name": "polgarp/collage-design",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:06:51Z",
-    "url": "https://github.com/polgarp/collage-design"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:02:41Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:02:04Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
-    "id": "gagip/gagip-dev",
-    "language": "Python",
-    "name": "gagip/gagip-dev",
-    "stars": 0,
-    "updated_at": "2026-07-28T12:00:36Z",
-    "url": "https://github.com/gagip/gagip-dev"
   }
 ]
