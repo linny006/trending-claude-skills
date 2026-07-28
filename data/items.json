@@ -1,5 +1,32 @@
 [
   {
+    "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
+    "id": "martinffx/atelier",
+    "language": "TypeScript",
+    "name": "martinffx/atelier",
+    "stars": 38,
+    "updated_at": "2026-07-28T08:04:05Z",
+    "url": "https://github.com/martinffx/atelier"
+  },
+  {
+    "description": "A curated skill collection for AI agents, including first-party skills and vendored framework/CMS best practices for use",
+    "id": "display-design-studio/skills",
+    "language": "JavaScript",
+    "name": "display-design-studio/skills",
+    "stars": 2,
+    "updated_at": "2026-07-28T08:02:20Z",
+    "url": "https://github.com/display-design-studio/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-28T08:00:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI \u89c6\u9891\u4e0e\u81ea\u5a92\u4f53\u9886\u57df\u7684 Claude Code skills\u3001Openclaw skills, MCP \u670d\u52a1\u5668\u3001AI Agent \u80fd\u529b\u7cbe\u9009\u5408\u96c6 \u2014 \u6db5\u76d6\u89c6\u9891\u751f\u6210\u3001\u591a\u5e73\u53f0\u8fd0\u8425\u3001\u5185\u5bb9\u81ea\u52a8\u5316\u7b49\u3002",
     "id": "JuneYaooo/awesome-ai-media-skills-cn",
     "language": "\u2014",
@@ -54,15 +81,6 @@
     "url": "https://github.com/byensitmagnus/sitesmith"
   },
   {
-    "description": "A curated skill collection for AI agents, including first-party skills and vendored framework/CMS best practices for use",
-    "id": "display-design-studio/skills",
-    "language": "JavaScript",
-    "name": "display-design-studio/skills",
-    "stars": 2,
-    "updated_at": "2026-07-28T07:51:11Z",
-    "url": "https://github.com/display-design-studio/skills"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
@@ -81,13 +99,13 @@
     "url": "https://github.com/Amey-Thakur/AI-SKILLS"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-28T07:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "EN: English-language Claude Code skills for 1C:Enterprise.Element (xBSL): cloud deploy via Console API and practical dev",
+    "id": "derbinen/xbsl-en-skills",
+    "language": "\u2014",
+    "name": "derbinen/xbsl-en-skills",
+    "stars": 0,
+    "updated_at": "2026-07-28T07:46:58Z",
+    "url": "https://github.com/derbinen/xbsl-en-skills"
   },
   {
     "description": "Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "sumitake/agent-collab",
     "stars": 0,
-    "updated_at": "2026-07-28T07:59:47Z",
+    "updated_at": "2026-07-28T08:05:37Z",
     "url": "https://github.com/sumitake/agent-collab"
   },
   {
@@ -310,7 +328,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 2375,
+    "stars": 2376,
     "updated_at": "2026-07-28T07:18:42Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -378,6 +396,15 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
+    "description": "Delegate tasks to DeepSeek right inside your Claude Code / Codex sessions.",
+    "id": "dazuiba/handoff",
+    "language": "Python",
+    "name": "dazuiba/handoff",
+    "stars": 76,
+    "updated_at": "2026-07-28T07:03:56Z",
+    "url": "https://github.com/dazuiba/handoff"
+  },
+  {
     "description": "AI coding-agent skills built on Jeffrey Palermo's Five Pillars framework: Clarity, Quality, Stability, Speed, and Team h",
     "id": "ClearMeasureLabs/cmstack",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T06:43:40Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 1,
-    "updated_at": "2026-07-28T06:43:19Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-07-28T06:41:36Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
-    "id": "shauryalowkeygotaura/brand-launchpad",
-    "language": "HTML",
-    "name": "shauryalowkeygotaura/brand-launchpad",
-    "stars": 2,
-    "updated_at": "2026-07-28T06:40:09Z",
-    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
   }
 ]
