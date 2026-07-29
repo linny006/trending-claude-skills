@@ -1,12 +1,21 @@
 [
   {
-    "description": "Forged Claude Skills that turn Claude into a specialist, not a summarizer. Install via claude.ai ZIP, Claude Code plugin",
-    "id": "bloodyburger/skillsmith",
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 1,
+    "updated_at": "2026-07-29T06:14:35Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "id": "gagip/gagip-dev",
     "language": "Python",
-    "name": "bloodyburger/skillsmith",
+    "name": "gagip/gagip-dev",
     "stars": 0,
-    "updated_at": "2026-07-29T06:00:16Z",
-    "url": "https://github.com/bloodyburger/skillsmith"
+    "updated_at": "2026-07-29T06:12:38Z",
+    "url": "https://github.com/gagip/gagip-dev"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -14,8 +23,53 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 101,
-    "updated_at": "2026-07-29T05:59:19Z",
+    "updated_at": "2026-07-29T06:14:06Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Design minimal AI agent packs for Codex and Claude from project descriptions.",
+    "id": "ikonushok/agent-pack-designer",
+    "language": "Python",
+    "name": "ikonushok/agent-pack-designer",
+    "stars": 5,
+    "updated_at": "2026-07-29T06:07:44Z",
+    "url": "https://github.com/ikonushok/agent-pack-designer"
+  },
+  {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-07-29T06:06:29Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 with a reproducible benchmark instead of a star count. 26 skills,",
+    "id": "brycewang-stanford/many-ppt-skills",
+    "language": "Python",
+    "name": "brycewang-stanford/many-ppt-skills",
+    "stars": 4,
+    "updated_at": "2026-07-29T06:01:24Z",
+    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T06:00:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Forged Claude Skills that turn Claude into a specialist, not a summarizer. Install via claude.ai ZIP, Claude Code plugin",
+    "id": "bloodyburger/skillsmith",
+    "language": "Python",
+    "name": "bloodyburger/skillsmith",
+    "stars": 0,
+    "updated_at": "2026-07-29T06:00:16Z",
+    "url": "https://github.com/bloodyburger/skillsmith"
   },
   {
     "description": "Server-side image compression skill with CDN output \u2014 supports batch processing and single-file mode",
@@ -49,7 +103,7 @@
     "id": "vanducng/skills",
     "language": "Python",
     "name": "vanducng/skills",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-29T05:54:04Z",
     "url": "https://github.com/vanducng/skills"
   },
@@ -58,7 +112,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66743,
+    "stars": 66742,
     "updated_at": "2026-07-29T05:50:33Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 107,
-    "updated_at": "2026-07-29T05:48:38Z",
+    "updated_at": "2026-07-29T06:03:53Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -126,21 +180,12 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T05:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-29T05:39:05Z",
+    "updated_at": "2026-07-29T06:10:17Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -151,6 +196,15 @@
     "stars": 3,
     "updated_at": "2026-07-29T05:34:22Z",
     "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
+    "id": "XiaoMaColtAI/math-modeling-skill",
+    "language": "Python",
+    "name": "XiaoMaColtAI/math-modeling-skill",
+    "stars": 531,
+    "updated_at": "2026-07-29T05:33:36Z",
+    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
   },
   {
     "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
@@ -171,15 +225,6 @@
     "url": "https://github.com/rjvim/ai-skills"
   },
   {
-    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
-    "id": "XiaoMaColtAI/math-modeling-skill",
-    "language": "Python",
-    "name": "XiaoMaColtAI/math-modeling-skill",
-    "stars": 530,
-    "updated_at": "2026-07-29T05:33:36Z",
-    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
-  },
-  {
     "description": "Two editing skills that strip AI-generated patterns from Russian and English text without draining the voice out of it. ",
     "id": "spyrae/deslop",
     "language": "\u2014",
@@ -187,24 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T05:27:12Z",
     "url": "https://github.com/spyrae/deslop"
-  },
-  {
-    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 with a reproducible benchmark instead of a star count. 26 skills,",
-    "id": "brycewang-stanford/many-ppt-skills",
-    "language": "Python",
-    "name": "brycewang-stanford/many-ppt-skills",
-    "stars": 4,
-    "updated_at": "2026-07-29T05:26:41Z",
-    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-07-29T05:44:48Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
@@ -346,7 +373,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 4374,
+    "stars": 4375,
     "updated_at": "2026-07-29T04:58:48Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T04:43:50Z",
     "url": "https://github.com/lkc-studio/claude-plugins"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:41:48Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:37:53Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
-    "id": "Optim-Agent/optim-plans",
-    "language": "Python",
-    "name": "Optim-Agent/optim-plans",
-    "stars": 90,
-    "updated_at": "2026-07-29T04:37:12Z",
-    "url": "https://github.com/Optim-Agent/optim-plans"
   }
 ]
