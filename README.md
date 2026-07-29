@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 07:30 UTC
+> ⏰ Last updated: 2026-07-29 07:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xiaowu89/skill-function](https://github.com/xiaowu89/skill-function) | 3 | — | 2026-07-29 | AI-powered image content moderation skill — detects adult, political, and violent content in images |
-| 2 | [imMamdouhaboammar/vibe-svgs](https://github.com/imMamdouhaboammar/vibe-svgs) | 1 | TypeScript | 2026-07-29 | Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers  |
-| 3 | [vanducng/skills](https://github.com/vanducng/skills) | 3 | Python | 2026-07-29 | A daily-driver collection of skills for agentic coding — a portable, agent-agnostic catalog managed with the vd CLI. |
-| 4 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-07-29 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 5 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66743 | TypeScript | 2026-07-29 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 6 | [jonaskahn/docforge](https://github.com/jonaskahn/docforge) | 0 | Python | 2026-07-29 | 🤖 Just a skill to let AI generate documents based on your source code 🔅 |
-| 7 | [garcon-drinks/garcon-ai-skills](https://github.com/garcon-drinks/garcon-ai-skills) | 0 | Python | 2026-07-29 | Twenty-five research-grounded skills for cocktail scaling, home-bar inventory, drink planning, and hosting. Portable acr |
-| 8 | [burhankhatri/e2e-testing](https://github.com/burhankhatri/e2e-testing) | 10 | Shell | 2026-07-29 | A set of 8 global skills for Claude Code that enforce disciplined, test-driven agentic development. Install once, use in |
-| 9 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 285 | MDX | 2026-07-29 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
-| 10 | [MadaraUchiha-314/the-loop](https://github.com/MadaraUchiha-314/the-loop) | 4 | Python | 2026-07-29 | The loop for everything! |
-| 11 | [chenweil/skillcaddy](https://github.com/chenweil/skillcaddy) | 17 | JavaScript | 2026-07-29 | Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml |
-| 12 | [lamemustafa/complyeaze-skills](https://github.com/lamemustafa/complyeaze-skills) | 0 | Python | 2026-07-29 | Agent skills for Indian tax and compliance work. Reconciles AIS/TIS/26AS, reads broker capital gains, validates portal u |
-| 13 | [brycewang-stanford/many-ppt-skills](https://github.com/brycewang-stanford/many-ppt-skills) | 4 | Python | 2026-07-29 | Every AI slide-deck skill worth knowing, on one page — both the HTML and native-PPTX routes, compared on what actually d |
-| 14 | [byensitmagnus/sitesmith](https://github.com/byensitmagnus/sitesmith) | 0 | HTML | 2026-07-29 | A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop,  |
-| 15 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-29 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-29 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [xiaowu89/skill-function](https://github.com/xiaowu89/skill-function) | 3 | — | 2026-07-29 | AI-powered image content moderation skill — detects adult, political, and violent content in images |
+| 3 | [imMamdouhaboammar/vibe-svgs](https://github.com/imMamdouhaboammar/vibe-svgs) | 1 | TypeScript | 2026-07-29 | Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers  |
+| 4 | [vanducng/skills](https://github.com/vanducng/skills) | 3 | Python | 2026-07-29 | A daily-driver collection of skills for agentic coding — a portable, agent-agnostic catalog managed with the vd CLI. |
+| 5 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-07-29 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 6 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66743 | TypeScript | 2026-07-29 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 7 | [jonaskahn/docforge](https://github.com/jonaskahn/docforge) | 0 | Python | 2026-07-29 | 🤖 Just a skill to let AI generate documents based on your source code 🔅 |
+| 8 | [garcon-drinks/garcon-ai-skills](https://github.com/garcon-drinks/garcon-ai-skills) | 0 | Python | 2026-07-29 | Twenty-five research-grounded skills for cocktail scaling, home-bar inventory, drink planning, and hosting. Portable acr |
+| 9 | [burhankhatri/e2e-testing](https://github.com/burhankhatri/e2e-testing) | 10 | Shell | 2026-07-29 | A set of 8 global skills for Claude Code that enforce disciplined, test-driven agentic development. Install once, use in |
+| 10 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 285 | MDX | 2026-07-29 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
+| 11 | [MadaraUchiha-314/the-loop](https://github.com/MadaraUchiha-314/the-loop) | 4 | Python | 2026-07-29 | The loop for everything! |
+| 12 | [chenweil/skillcaddy](https://github.com/chenweil/skillcaddy) | 17 | JavaScript | 2026-07-29 | Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml |
+| 13 | [lamemustafa/complyeaze-skills](https://github.com/lamemustafa/complyeaze-skills) | 0 | Python | 2026-07-29 | Agent skills for Indian tax and compliance work. Reconciles AIS/TIS/26AS, reads broker capital gains, validates portal u |
+| 14 | [brycewang-stanford/many-ppt-skills](https://github.com/brycewang-stanford/many-ppt-skills) | 4 | Python | 2026-07-29 | Every AI slide-deck skill worth knowing, on one page — both the HTML and native-PPTX routes, compared on what actually d |
+| 15 | [byensitmagnus/sitesmith](https://github.com/byensitmagnus/sitesmith) | 0 | HTML | 2026-07-29 | A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop,  |
 | 16 | [netopsengineer/axiom](https://github.com/netopsengineer/axiom) | 3 | Python | 2026-07-29 | A curated marketplace of plugins for Claude Code, built from first principles. |
 | 17 | [xiaowu89/skill-compress](https://github.com/xiaowu89/skill-compress) | 2 | — | 2026-07-29 | Server-side image compression skill with CDN output — supports batch processing and single-file mode |
 | 18 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 101 | Kotlin | 2026-07-29 | Helping the Agents Compose the Things |
