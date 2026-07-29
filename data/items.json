@@ -1,5 +1,131 @@
 [
   {
+    "description": "Small response modes for AI agents when your head is in a different state.",
+    "id": "softcane/human-state-skills",
+    "language": "\u2014",
+    "name": "softcane/human-state-skills",
+    "stars": 66,
+    "updated_at": "2026-07-29T14:14:58Z",
+    "url": "https://github.com/softcane/human-state-skills"
+  },
+  {
+    "description": "AxiomCore \u2014 a personal project & routine management agent for Claude. Enforced structure, plan\u2192approve\u2192execute disciplin",
+    "id": "protonium-labs/axiomcore-plugin",
+    "language": "\u2014",
+    "name": "protonium-labs/axiomcore-plugin",
+    "stars": 2,
+    "updated_at": "2026-07-29T14:10:19Z",
+    "url": "https://github.com/protonium-labs/axiomcore-plugin"
+  },
+  {
+    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
+    "id": "byensitmagnus/sitesmith",
+    "language": "HTML",
+    "name": "byensitmagnus/sitesmith",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:08:55Z",
+    "url": "https://github.com/byensitmagnus/sitesmith"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66769,
+    "updated_at": "2026-07-29T14:08:28Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "",
+    "id": "argent-gnome/sdlc-skills",
+    "language": "JavaScript",
+    "name": "argent-gnome/sdlc-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:08:14Z",
+    "url": "https://github.com/argent-gnome/sdlc-skills"
+  },
+  {
+    "description": "Hope looks for practical ways for human and AI to work better together.",
+    "id": "dkstm95/hope",
+    "language": "JavaScript",
+    "name": "dkstm95/hope",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:06:18Z",
+    "url": "https://github.com/dkstm95/hope"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 137,
+    "updated_at": "2026-07-29T14:11:41Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "ImagineCode - Imagine your Programming Language",
+    "id": "b1onix/ImagineCode",
+    "language": "JavaScript",
+    "name": "b1onix/ImagineCode",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:03:19Z",
+    "url": "https://github.com/b1onix/ImagineCode"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 4759,
+    "updated_at": "2026-07-29T14:02:44Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "A curated collection of production-ready AI agent skills authored with Degardis, covering software development workflows",
+    "id": "Khojasteh/degardis-skills",
+    "language": "\u2014",
+    "name": "Khojasteh/degardis-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:02:17Z",
+    "url": "https://github.com/Khojasteh/degardis-skills"
+  },
+  {
+    "description": "",
+    "id": "mrge-io/skills",
+    "language": "JavaScript",
+    "name": "mrge-io/skills",
+    "stars": 2,
+    "updated_at": "2026-07-29T14:02:04Z",
+    "url": "https://github.com/mrge-io/skills"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-29T14:00:27Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T14:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
+    "id": "RemiAsselin42/claude-config",
+    "language": "Shell",
+    "name": "RemiAsselin42/claude-config",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:00:08Z",
+    "url": "https://github.com/RemiAsselin42/claude-config"
+  },
+  {
     "description": "\u4e66\u751f\u56fd\u667a\u79d1\u63a2\u6311\u6218\u8d5b \u00b7 \u8d5b\u9053\u516d AI for Social Science \u00b7 \u53e4\u4ee3\u7891\u5e16\u4e0e\u62d3\u7247 \u2014 \u53ef\u590d\u73b0\u8bc1\u636e\u94fe\u79d1\u7814 Skill \u7cfb\u7edf:12 \u4e2a\u79bb\u7ebf\u3001\u786e\u5b9a\u6027\u3001\u7eaf\u6807\u51c6\u5e93 Skill(\u54d1\u820d\u5c0f\u5206\u961f \u00b7 \u897f\u5317\u5927\u5b66)",
     "id": "Lx050/rubbing-to-knowledge",
     "language": "Python",
@@ -9,6 +135,15 @@
     "url": "https://github.com/Lx050/rubbing-to-knowledge"
   },
   {
+    "description": "The Source for macOS Agent Workflows",
+    "id": "gaelic-ghost/socket",
+    "language": "Python",
+    "name": "gaelic-ghost/socket",
+    "stars": 6,
+    "updated_at": "2026-07-29T13:59:01Z",
+    "url": "https://github.com/gaelic-ghost/socket"
+  },
+  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -16,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-07-29T13:57:37Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:57:35Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
     "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 68 Checks \u00b7 8 ",
@@ -34,15 +178,6 @@
     "stars": 81,
     "updated_at": "2026-07-29T13:55:11Z",
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "",
-    "id": "mrge-io/skills",
-    "language": "JavaScript",
-    "name": "mrge-io/skills",
-    "stars": 2,
-    "updated_at": "2026-07-29T13:57:23Z",
-    "url": "https://github.com/mrge-io/skills"
   },
   {
     "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
@@ -90,24 +225,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "The Source for macOS Agent Workflows",
-    "id": "gaelic-ghost/socket",
-    "language": "Python",
-    "name": "gaelic-ghost/socket",
-    "stars": 6,
-    "updated_at": "2026-07-29T13:59:01Z",
-    "url": "https://github.com/gaelic-ghost/socket"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T13:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
     "id": "isatimur/presentation-md",
     "language": "HTML",
@@ -126,13 +243,13 @@
     "url": "https://github.com/martinambrus/haive"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66768,
-    "updated_at": "2026-07-29T13:36:47Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 140,
+    "updated_at": "2026-07-29T13:36:35Z",
+    "url": "https://github.com/testdouble/han"
   },
   {
     "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
@@ -153,21 +270,12 @@
     "url": "https://github.com/brycewang-stanford/many-ppt-skills"
   },
   {
-    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
-    "id": "byensitmagnus/sitesmith",
-    "language": "HTML",
-    "name": "byensitmagnus/sitesmith",
-    "stars": 0,
-    "updated_at": "2026-07-29T13:28:24Z",
-    "url": "https://github.com/byensitmagnus/sitesmith"
-  },
-  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 405,
-    "updated_at": "2026-07-29T13:27:02Z",
+    "updated_at": "2026-07-29T14:02:03Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -187,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T13:25:46Z",
     "url": "https://github.com/jposluns/ai-language"
-  },
-  {
-    "description": "Hope looks for practical ways for human and AI to work better together.",
-    "id": "dkstm95/hope",
-    "language": "JavaScript",
-    "name": "dkstm95/hope",
-    "stars": 3,
-    "updated_at": "2026-07-29T13:54:26Z",
-    "url": "https://github.com/dkstm95/hope"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -225,15 +324,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
-    "id": "RemiAsselin42/claude-config",
-    "language": "Shell",
-    "name": "RemiAsselin42/claude-config",
-    "stars": 0,
-    "updated_at": "2026-07-29T14:00:08Z",
-    "url": "https://github.com/RemiAsselin42/claude-config"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -257,7 +347,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-29T13:47:37Z",
+    "updated_at": "2026-07-29T14:06:29Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T13:03:20Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:02:56Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 0,
-    "updated_at": "2026-07-29T13:00:47Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:00:15Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 414,
-    "updated_at": "2026-07-29T13:24:46Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-29T12:59:09Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "ImagineCode - Imagine your Programming Language",
-    "id": "b1onix/ImagineCode",
-    "language": "JavaScript",
-    "name": "b1onix/ImagineCode",
-    "stars": 0,
-    "updated_at": "2026-07-29T12:57:29Z",
-    "url": "https://github.com/b1onix/ImagineCode"
-  },
-  {
-    "description": "Evidence-backed UX and AI-agent case study skills for Codex and Claude",
-    "id": "jpoindexter/design-case-study-skills",
-    "language": "Shell",
-    "name": "jpoindexter/design-case-study-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T12:56:16Z",
-    "url": "https://github.com/jpoindexter/design-case-study-skills"
-  },
-  {
-    "description": "13 agent skills distilled from Wheeler & Meyerson's Designing Brand Identity (6e) \u2014 fundamentals, the 10 ideals, brandma",
-    "id": "jpoindexter/brand-identity-skills",
-    "language": "Shell",
-    "name": "jpoindexter/brand-identity-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T12:56:15Z",
-    "url": "https://github.com/jpoindexter/brand-identity-skills"
-  },
-  {
-    "description": "Typography skills for AI coding agents \u2014 20 focused skills + a /type router, extracted from 10 canonical typography book",
-    "id": "jpoindexter/typography-skills",
-    "language": "Shell",
-    "name": "jpoindexter/typography-skills",
-    "stars": 1,
-    "updated_at": "2026-07-29T12:56:13Z",
-    "url": "https://github.com/jpoindexter/typography-skills"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-07-29T12:55:15Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   }
 ]
