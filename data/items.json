@@ -1,12 +1,21 @@
 [
   {
-    "description": "Small response modes for AI agents when your head is in a different state.",
-    "id": "softcane/human-state-skills",
-    "language": "\u2014",
-    "name": "softcane/human-state-skills",
-    "stars": 66,
-    "updated_at": "2026-07-29T14:14:58Z",
-    "url": "https://github.com/softcane/human-state-skills"
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66772,
+    "updated_at": "2026-07-29T14:30:26Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 3,
+    "updated_at": "2026-07-29T14:25:36Z",
+    "url": "https://github.com/netopsengineer/axiom"
   },
   {
     "description": "AxiomCore \u2014 a personal project & routine management agent for Claude. Enforced structure, plan\u2192approve\u2192execute disciplin",
@@ -14,26 +23,17 @@
     "language": "\u2014",
     "name": "protonium-labs/axiomcore-plugin",
     "stars": 2,
-    "updated_at": "2026-07-29T14:10:19Z",
+    "updated_at": "2026-07-29T14:24:28Z",
     "url": "https://github.com/protonium-labs/axiomcore-plugin"
   },
   {
-    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
-    "id": "byensitmagnus/sitesmith",
-    "language": "HTML",
-    "name": "byensitmagnus/sitesmith",
-    "stars": 0,
-    "updated_at": "2026-07-29T14:08:55Z",
-    "url": "https://github.com/byensitmagnus/sitesmith"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66769,
-    "updated_at": "2026-07-29T14:08:28Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 50,
+    "updated_at": "2026-07-29T14:21:11Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
   },
   {
     "description": "",
@@ -41,8 +41,62 @@
     "language": "JavaScript",
     "name": "argent-gnome/sdlc-skills",
     "stars": 0,
-    "updated_at": "2026-07-29T14:08:14Z",
+    "updated_at": "2026-07-29T14:26:25Z",
     "url": "https://github.com/argent-gnome/sdlc-skills"
+  },
+  {
+    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
+    "id": "byensitmagnus/sitesmith",
+    "language": "HTML",
+    "name": "byensitmagnus/sitesmith",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:17:47Z",
+    "url": "https://github.com/byensitmagnus/sitesmith"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:16:16Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 137,
+    "updated_at": "2026-07-29T14:30:10Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T14:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Small response modes for AI agents when your head is in a different state.",
+    "id": "softcane/human-state-skills",
+    "language": "JavaScript",
+    "name": "softcane/human-state-skills",
+    "stars": 66,
+    "updated_at": "2026-07-29T14:14:58Z",
+    "url": "https://github.com/softcane/human-state-skills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 47,
+    "updated_at": "2026-07-29T14:12:05Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
     "description": "Hope looks for practical ways for human and AI to work better together.",
@@ -52,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T14:06:18Z",
     "url": "https://github.com/dkstm95/hope"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 137,
-    "updated_at": "2026-07-29T14:11:41Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
     "description": "ImagineCode - Imagine your Programming Language",
@@ -76,7 +121,7 @@
     "id": "worldwonderer/oh-story-claudecode",
     "language": "JavaScript",
     "name": "worldwonderer/oh-story-claudecode",
-    "stars": 4759,
+    "stars": 4760,
     "updated_at": "2026-07-29T14:02:44Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
@@ -106,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T14:00:27Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T14:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
@@ -247,7 +283,7 @@
     "id": "testdouble/han",
     "language": "Shell",
     "name": "testdouble/han",
-    "stars": 140,
+    "stars": 141,
     "updated_at": "2026-07-29T13:36:35Z",
     "url": "https://github.com/testdouble/han"
   },
@@ -347,7 +383,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-29T14:06:29Z",
+    "updated_at": "2026-07-29T14:20:07Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T13:04:23Z",
     "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:03:57Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-29T13:03:29Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
-    "id": "johanthoren/jeff",
-    "language": "JavaScript",
-    "name": "johanthoren/jeff",
-    "stars": 2,
-    "updated_at": "2026-07-29T13:03:26Z",
-    "url": "https://github.com/johanthoren/jeff"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-07-29T13:03:20Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   }
 ]
