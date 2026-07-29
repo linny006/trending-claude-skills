@@ -1,11 +1,92 @@
 [
   {
+    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 with a reproducible benchmark instead of a star count. 26 skills,",
+    "id": "brycewang-stanford/many-ppt-skills",
+    "language": "Python",
+    "name": "brycewang-stanford/many-ppt-skills",
+    "stars": 2,
+    "updated_at": "2026-07-29T04:44:15Z",
+    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
+  },
+  {
+    "description": "Claude Code plugins by LKC. Rigorous engineering methods packaged for agents \u2014 proven techniques that go unused because ",
+    "id": "lkc-studio/claude-plugins",
+    "language": "Python",
+    "name": "lkc-studio/claude-plugins",
+    "stars": 1,
+    "updated_at": "2026-07-29T04:43:50Z",
+    "url": "https://github.com/lkc-studio/claude-plugins"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 81,
+    "updated_at": "2026-07-29T04:42:20Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:41:48Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:37:53Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
+    "id": "Optim-Agent/optim-plans",
+    "language": "Python",
+    "name": "Optim-Agent/optim-plans",
+    "stars": 90,
+    "updated_at": "2026-07-29T04:37:12Z",
+    "url": "https://github.com/Optim-Agent/optim-plans"
+  },
+  {
+    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 414,
+    "updated_at": "2026-07-29T04:35:12Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-29T04:33:23Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "A small collection of Claude Code skills I use and maintain.",
+    "id": "duthaho/skillhub",
+    "language": "Python",
+    "name": "duthaho/skillhub",
+    "stars": 7,
+    "updated_at": "2026-07-29T04:33:11Z",
+    "url": "https://github.com/duthaho/skillhub"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 18,
-    "updated_at": "2026-07-29T04:30:14Z",
+    "updated_at": "2026-07-29T04:32:06Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -13,8 +94,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66744,
-    "updated_at": "2026-07-29T04:31:21Z",
+    "stars": 66743,
+    "updated_at": "2026-07-29T04:37:57Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -43,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-07-29T04:25:11Z",
     "url": "https://github.com/gagip/gagip-dev"
+  },
+  {
+    "description": "Ghost AI is an interactive system architecture builder. It's a full-stack app built using an agentic architecture-first ",
+    "id": "nateruze/system_architecture_builder",
+    "language": "TypeScript",
+    "name": "nateruze/system_architecture_builder",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:33:26Z",
+    "url": "https://github.com/nateruze/system_architecture_builder"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -178,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T04:10:21Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 with a reproducible benchmark instead of a star count. 26 skills,",
-    "id": "brycewang-stanford/many-ppt-skills",
-    "language": "Python",
-    "name": "brycewang-stanford/many-ppt-skills",
-    "stars": 2,
-    "updated_at": "2026-07-29T04:01:22Z",
-    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
   },
   {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T03:28:10Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Code + Grok plugin marketplace \u2014 18 curated plugins & MCP servers. One-command install.",
-    "id": "88plug/claude-code-plugins",
-    "language": "Python",
-    "name": "88plug/claude-code-plugins",
-    "stars": 2,
-    "updated_at": "2026-07-29T03:27:40Z",
-    "url": "https://github.com/88plug/claude-code-plugins"
-  },
-  {
-    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-07-29T03:28:29Z",
-    "url": "https://github.com/88plug/total-recall"
-  },
-  {
-    "description": "Agent plugin for AI image and video generation via Modellix API/CLI.",
-    "id": "Modellix/modellix-plugin",
-    "language": "Python",
-    "name": "Modellix/modellix-plugin",
-    "stars": 1,
-    "updated_at": "2026-07-29T03:30:56Z",
-    "url": "https://github.com/Modellix/modellix-plugin"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-07-29T03:25:09Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "A pytest-based API testing framework for the TMDB REST API, showcasing modern SDET: end-to-end integration tests, Pact c",
-    "id": "pgundlupetvenkatesh/mdb_api_layer",
-    "language": "Python",
-    "name": "pgundlupetvenkatesh/mdb_api_layer",
-    "stars": 0,
-    "updated_at": "2026-07-29T03:26:22Z",
-    "url": "https://github.com/pgundlupetvenkatesh/mdb_api_layer"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 1,
-    "updated_at": "2026-07-29T03:24:25Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 285,
-    "updated_at": "2026-07-29T03:21:52Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-07-29T03:20:29Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Reusable visual style modes for Claude \u2014 invoke a /command instead of re-describing the look you want every time you ask",
-    "id": "kirti/claude-visual-modes",
-    "language": "\u2014",
-    "name": "kirti/claude-visual-modes",
-    "stars": 0,
-    "updated_at": "2026-07-29T03:07:16Z",
-    "url": "https://github.com/kirti/claude-visual-modes"
   }
 ]
