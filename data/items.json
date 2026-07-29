@@ -1,5 +1,50 @@
 [
   {
+    "description": "Hope looks for practical ways for people and AI to work better together.",
+    "id": "dkstm95/hope",
+    "language": "JavaScript",
+    "name": "dkstm95/hope",
+    "stars": 3,
+    "updated_at": "2026-07-29T03:14:11Z",
+    "url": "https://github.com/dkstm95/hope"
+  },
+  {
+    "description": "Reusable visual style modes for Claude \u2014 invoke a /command instead of re-describing the look you want every time you ask",
+    "id": "kirti/claude-visual-modes",
+    "language": "\u2014",
+    "name": "kirti/claude-visual-modes",
+    "stars": 0,
+    "updated_at": "2026-07-29T03:07:16Z",
+    "url": "https://github.com/kirti/claude-visual-modes"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66738,
+    "updated_at": "2026-07-29T03:06:31Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-29T03:06:02Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T03:00:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u4e13\u95e8\u4e0b\u8f7d \u67d0\u4e2a \u5fae\u4fe1\u516c\u4f17\u53f7\u7684\u6240\u6709\u6587\u7ae0\u7684skills\uff0c\u6279\u91cf\u4e0b\u8f7d\uff0c\u81ea\u9002\u5e94\u9650\u6d41",
     "id": "konglong87/wechat-download-skill",
     "language": "Python",
@@ -32,7 +77,7 @@
     "language": "JavaScript",
     "name": "mr-kelly/skills",
     "stars": 3,
-    "updated_at": "2026-07-29T02:53:34Z",
+    "updated_at": "2026-07-29T03:12:51Z",
     "url": "https://github.com/mr-kelly/skills"
   },
   {
@@ -72,31 +117,13 @@
     "url": "https://github.com/YPares/rigup.nix"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-29T02:47:00Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
     "stars": 88886,
-    "updated_at": "2026-07-29T02:46:00Z",
+    "updated_at": "2026-07-29T03:01:17Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T02:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A phase-driven development workflow for Claude Code, packaged as drop-in skills \u2014 plan-before-code gates, per-phase trac",
@@ -112,7 +139,7 @@
     "id": "fcakyon/claude-codex-settings",
     "language": "Python",
     "name": "fcakyon/claude-codex-settings",
-    "stars": 823,
+    "stars": 824,
     "updated_at": "2026-07-29T02:44:32Z",
     "url": "https://github.com/fcakyon/claude-codex-settings"
   },
@@ -229,7 +256,7 @@
     "id": "ralvarezdev/ralvaskills",
     "language": "Go",
     "name": "ralvarezdev/ralvaskills",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-29T02:03:22Z",
     "url": "https://github.com/ralvarezdev/ralvaskills"
   },
@@ -421,32 +448,5 @@
     "stars": 404,
     "updated_at": "2026-07-29T01:30:15Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:27:20Z",
-    "url": "https://github.com/easyinplay/harnessed"
-  },
-  {
-    "description": "My collection of Claude skills",
-    "id": "oaustegard/claude-skills",
-    "language": "Python",
-    "name": "oaustegard/claude-skills",
-    "stars": 135,
-    "updated_at": "2026-07-29T01:27:22Z",
-    "url": "https://github.com/oaustegard/claude-skills"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-07-29T01:21:57Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
