@@ -1,5 +1,95 @@
 [
   {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:29:55Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Your agent learns from its mistakes instead of repeating them. Turns each session's corrections into memory rules that a",
+    "id": "Droi-D/hindsight",
+    "language": "\u2014",
+    "name": "Droi-D/hindsight",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:25:51Z",
+    "url": "https://github.com/Droi-D/hindsight"
+  },
+  {
+    "description": "Agent skills for the Datadata analytics platform.",
+    "id": "datadata-team/datadata-skills",
+    "language": "Python",
+    "name": "datadata-team/datadata-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:25:07Z",
+    "url": "https://github.com/datadata-team/datadata-skills"
+  },
+  {
+    "description": "Three open-source AI marketing plugins for agencies & in-house teams \u2014 DigitalMarketingPro (158 skills) + ContentForge (",
+    "id": "indranilbanerjee/neels-plugins",
+    "language": "\u2014",
+    "name": "indranilbanerjee/neels-plugins",
+    "stars": 6,
+    "updated_at": "2026-07-29T09:21:58Z",
+    "url": "https://github.com/indranilbanerjee/neels-plugins"
+  },
+  {
+    "description": "Open-source agency-grade social media production plugin \u2014 16 skills, 25 commands, AI image (Nano Banana Pro) + AI video ",
+    "id": "indranilbanerjee/socialforge",
+    "language": "Python",
+    "name": "indranilbanerjee/socialforge",
+    "stars": 23,
+    "updated_at": "2026-07-29T09:21:26Z",
+    "url": "https://github.com/indranilbanerjee/socialforge"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:19:53Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Open-source enterprise content production plugin \u2014 21 skills, 13 agents, 11 quality gates, 29-pattern AI humanizer, fact",
+    "id": "indranilbanerjee/contentforge",
+    "language": "Python",
+    "name": "indranilbanerjee/contentforge",
+    "stars": 17,
+    "updated_at": "2026-07-29T09:15:22Z",
+    "url": "https://github.com/indranilbanerjee/contentforge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T09:15:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Azure apps that cost nothing when nobody's using them. A Claude Code skill pack \u2014 14 composable skills, 37+ documented g",
+    "id": "alexpizarro/azure-lean-stack-skills",
+    "language": "Shell",
+    "name": "alexpizarro/azure-lean-stack-skills",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:14:57Z",
+    "url": "https://github.com/alexpizarro/azure-lean-stack-skills"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587\u7814\u7a76\u751f\u4e0e\u79d1\u7814\u5de5\u4f5c\u8005\u7684\u5b66\u672f\u8f85\u5bfc skill \u5957\u4ef6\uff08\u652f\u6301 Claude Code / Codex \u7b49\u7f16\u7a0b\u667a\u80fd\u4f53\uff09\uff1a\u9009\u9898 \u2192 \u68c0\u7d22 \u2192 \u6210\u6587 \u2192 \u8bc4\u5ba1 \u2192 \u6295\u7a3f\u5168\u94fe\u8def 25 \u4e2a\u547d\u4ee4\uff0c\u5f15\u7528\u6838\u9a8c\u4ee5\u771f\u5b9e API \u54cd\u5e94\u4e3a\u51c6\u3001\u4e0d\u51ed\u6a21\u578b\u8bb0\u5fc6\u7f16\u9020\uff0cAI",
+    "id": "cabbage2000-lab/paper-tutor-skills",
+    "language": "Python",
+    "name": "cabbage2000-lab/paper-tutor-skills",
+    "stars": 6,
+    "updated_at": "2026-07-29T09:14:14Z",
+    "url": "https://github.com/cabbage2000-lab/paper-tutor-skills"
+  },
+  {
     "description": "Under Cliuno Tool",
     "id": "CLIuno/CLIuno-Vue-template",
     "language": "Vue",
@@ -7,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T09:14:03Z",
     "url": "https://github.com/CLIuno/CLIuno-Vue-template"
-  },
-  {
-    "description": "\u9762\u5411\u4e2d\u6587\u7814\u7a76\u751f\u4e0e\u79d1\u7814\u5de5\u4f5c\u8005\u7684\u5b66\u672f\u8f85\u5bfc skill \u5957\u4ef6\uff08\u652f\u6301 Claude Code / Codex \u7b49\u7f16\u7a0b\u667a\u80fd\u4f53\uff09\uff1a\u9009\u9898 \u2192 \u68c0\u7d22 \u2192 \u6210\u6587 \u2192 \u8bc4\u5ba1 \u2192 \u6295\u7a3f\u5168\u94fe\u8def 25 \u4e2a\u547d\u4ee4\uff0c\u5f15\u7528\u6838\u9a8c\u4ee5\u771f\u5b9e API \u54cd\u5e94\u4e3a\u51c6\u3001\u4e0d\u51ed\u6a21\u578b\u8bb0\u5fc6\u7f16\u9020\uff0cAI",
-    "id": "cabbage2000-lab/paper-tutor-skills",
-    "language": "HTML",
-    "name": "cabbage2000-lab/paper-tutor-skills",
-    "stars": 6,
-    "updated_at": "2026-07-29T09:14:14Z",
-    "url": "https://github.com/cabbage2000-lab/paper-tutor-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -41,7 +122,7 @@
     "language": "CSS",
     "name": "fusengine/agents",
     "stars": 22,
-    "updated_at": "2026-07-29T09:10:45Z",
+    "updated_at": "2026-07-29T09:16:08Z",
     "url": "https://github.com/fusengine/agents"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 101,
-    "updated_at": "2026-07-29T09:09:41Z",
+    "updated_at": "2026-07-29T09:21:55Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -94,7 +175,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66753,
+    "stars": 66754,
     "updated_at": "2026-07-29T09:06:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -115,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T09:01:43Z",
     "url": "https://github.com/vanducng/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T09:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
@@ -306,6 +378,15 @@
     "url": "https://github.com/CLIuno/CLIuno-Adonis-template"
   },
   {
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "id": "yusufkaraaslan/Skill_Seekers",
+    "language": "Python",
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "stars": 14593,
+    "updated_at": "2026-07-29T08:36:00Z",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
+  },
+  {
     "description": "Zero-trust security design for the frontier, the garage, and the lone cowboy. / SNS\u904b\u7528\u30fb\u958b\u767a\u30fb\u79d1\u5b66\u30fb\u6620\u50cf/\u7f8e\u8853\u5236\u4f5c\u3068\u3044\u3063\u305f\u8907\u6570\u8077\u80fd\u3092\u4e00\u4eba\u3067\u56de\u3059\u30ef\u30f3\u30aa\u30da\u30e9\u30dc\u7279",
     "id": "saitoomituru/pain-scouter-assessment",
     "language": "\u2014",
@@ -367,86 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-29T08:26:44Z",
     "url": "https://github.com/AnmarHani/SwarmVault"
-  },
-  {
-    "description": "My dev identity as a Claude Code plugin \u2014 a full Laravel team in a box: SDLC pipeline, task board, coding agents, and au",
-    "id": "digitaldreams/tuhin",
-    "language": "Shell",
-    "name": "digitaldreams/tuhin",
-    "stars": 0,
-    "updated_at": "2026-07-29T08:26:15Z",
-    "url": "https://github.com/digitaldreams/tuhin"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-07-29T08:25:26Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-07-29T08:25:24Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-07-29T08:22:23Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "The Project VEGA \u2014 The tooling project for psychic and spiritual counterintelligence. Open-source tools to detect and au",
-    "id": "lemur47/si-protocols",
-    "language": "Python",
-    "name": "lemur47/si-protocols",
-    "stars": 2,
-    "updated_at": "2026-07-29T08:21:45Z",
-    "url": "https://github.com/lemur47/si-protocols"
-  },
-  {
-    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
-    "id": "byensitmagnus/sitesmith",
-    "language": "HTML",
-    "name": "byensitmagnus/sitesmith",
-    "stars": 0,
-    "updated_at": "2026-07-29T08:17:36Z",
-    "url": "https://github.com/byensitmagnus/sitesmith"
-  },
-  {
-    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
-    "id": "yusufkaraaslan/Skill_Seekers",
-    "language": "Python",
-    "name": "yusufkaraaslan/Skill_Seekers",
-    "stars": 14592,
-    "updated_at": "2026-07-29T08:36:00Z",
-    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 1,
-    "updated_at": "2026-07-29T08:11:22Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Claude Skills packaging the Gauntlet Loop: build, blind critic, revise, repeat against a hard bar. Coding, writing, desi",
-    "id": "trilwu/gauntlet-loop-skills",
-    "language": "\u2014",
-    "name": "trilwu/gauntlet-loop-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T08:11:18Z",
-    "url": "https://github.com/trilwu/gauntlet-loop-skills"
   }
 ]
