@@ -1,21 +1,102 @@
 [
   {
+    "description": "Claude Code skill that keeps a grounded, self-updating knowledge base of the Hermes agent ecosystem: daily digest, clone",
+    "id": "ImNuza/hermes-harvest",
+    "language": "Shell",
+    "name": "ImNuza/hermes-harvest",
+    "stars": 0,
+    "updated_at": "2026-07-29T10:28:13Z",
+    "url": "https://github.com/ImNuza/hermes-harvest"
+  },
+  {
+    "description": "Collection of AI Agent Code skills",
+    "id": "kogakure/skills",
+    "language": "\u2014",
+    "name": "kogakure/skills",
+    "stars": 8,
+    "updated_at": "2026-07-29T10:27:49Z",
+    "url": "https://github.com/kogakure/skills"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 53,
+    "updated_at": "2026-07-29T10:26:23Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 2,
+    "updated_at": "2026-07-29T10:24:31Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Agent skills for Indian tax and compliance work. Reconciles AIS/TIS/26AS, reads broker capital gains, validates portal u",
+    "id": "lamemustafa/complyeaze-skills",
+    "language": "Python",
+    "name": "lamemustafa/complyeaze-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T10:23:56Z",
+    "url": "https://github.com/lamemustafa/complyeaze-skills"
+  },
+  {
+    "description": "Version-Explicit Retrieval & Answering - VERA answers a trial coordinator's question about what a clinical-trial protoco",
+    "id": "thebitanpaul/VERA",
+    "language": "Python",
+    "name": "thebitanpaul/VERA",
+    "stars": 0,
+    "updated_at": "2026-07-29T10:23:32Z",
+    "url": "https://github.com/thebitanpaul/VERA"
+  },
+  {
+    "description": "Claude Code skill: turn any plan into a hand-drawn dark-mode HTML diagram (Excalidraw style). Multilingual, auto RTL, pa",
+    "id": "ANC1024GO/claude-skill-plan-diagram",
+    "language": "\u2014",
+    "name": "ANC1024GO/claude-skill-plan-diagram",
+    "stars": 0,
+    "updated_at": "2026-07-29T10:21:06Z",
+    "url": "https://github.com/ANC1024GO/claude-skill-plan-diagram"
+  },
+  {
+    "description": "Flutter AI Skills and Rules for Claude, Codex, Cursor, and Other AI-Powered IDEs",
+    "id": "evanca/flutter-ai-rules",
+    "language": "Shell",
+    "name": "evanca/flutter-ai-rules",
+    "stars": 603,
+    "updated_at": "2026-07-29T10:19:08Z",
+    "url": "https://github.com/evanca/flutter-ai-rules"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-29T10:19:03Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 224,
+    "updated_at": "2026-07-29T10:20:45Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 18,
-    "updated_at": "2026-07-29T10:15:16Z",
+    "updated_at": "2026-07-29T10:17:54Z",
     "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
-    "id": "RemiAsselin42/claude-config",
-    "language": "Shell",
-    "name": "RemiAsselin42/claude-config",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:13:38Z",
-    "url": "https://github.com/RemiAsselin42/claude-config"
   },
   {
     "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
@@ -25,6 +106,33 @@
     "stars": 0,
     "updated_at": "2026-07-29T10:15:45Z",
     "url": "https://github.com/byensitmagnus/sitesmith"
+  },
+  {
+    "description": "Shared skills, prompts, and tooling for Picsart's gen-ai CLI and generative-AI workflows",
+    "id": "PicsArt/gen-ai-skills",
+    "language": "Python",
+    "name": "PicsArt/gen-ai-skills",
+    "stars": 4,
+    "updated_at": "2026-07-29T10:15:39Z",
+    "url": "https://github.com/PicsArt/gen-ai-skills"
+  },
+  {
+    "description": "Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang",
+    "id": "charliechenye/SkillGate",
+    "language": "Python",
+    "name": "charliechenye/SkillGate",
+    "stars": 1,
+    "updated_at": "2026-07-29T10:14:07Z",
+    "url": "https://github.com/charliechenye/SkillGate"
+  },
+  {
+    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
+    "id": "RemiAsselin42/claude-config",
+    "language": "Shell",
+    "name": "RemiAsselin42/claude-config",
+    "stars": 0,
+    "updated_at": "2026-07-29T10:13:38Z",
+    "url": "https://github.com/RemiAsselin42/claude-config"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -41,7 +149,7 @@
     "language": "Python",
     "name": "agnelvishal/itr-filing-skill",
     "stars": 0,
-    "updated_at": "2026-07-29T10:11:35Z",
+    "updated_at": "2026-07-29T10:28:57Z",
     "url": "https://github.com/agnelvishal/itr-filing-skill"
   },
   {
@@ -49,18 +157,9 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66755,
+    "stars": 66757,
     "updated_at": "2026-07-29T10:11:29Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang",
-    "id": "charliechenye/SkillGate",
-    "language": "Python",
-    "name": "charliechenye/SkillGate",
-    "stars": 1,
-    "updated_at": "2026-07-29T10:14:07Z",
-    "url": "https://github.com/charliechenye/SkillGate"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -149,7 +248,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 101,
-    "updated_at": "2026-07-29T10:16:54Z",
+    "updated_at": "2026-07-29T10:30:06Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -205,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T09:38:53Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:16:56Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Your agent learns from its mistakes instead of repeating them. Turns each session's corrections into memory rules that a",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T09:07:20Z",
     "url": "https://github.com/vdk888/bubble-shield-public"
-  },
-  {
-    "description": "A Claude skill that turns a folder into a collaboration knowledge base for you, your AI, and your humans",
-    "id": "idea2go2go/smartfolder-skill",
-    "language": "Python",
-    "name": "idea2go2go/smartfolder-skill",
-    "stars": 1,
-    "updated_at": "2026-07-29T09:05:09Z",
-    "url": "https://github.com/idea2go2go/smartfolder-skill"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 3,
-    "updated_at": "2026-07-29T09:01:43Z",
-    "url": "https://github.com/vanducng/skills"
-  },
-  {
-    "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
-    "id": "Optim-Agent/optim-plans",
-    "language": "Python",
-    "name": "Optim-Agent/optim-plans",
-    "stars": 96,
-    "updated_at": "2026-07-29T08:57:35Z",
-    "url": "https://github.com/Optim-Agent/optim-plans"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-29T09:52:48Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "A gated, role-based workflow, with independently reviewed plans, task-by-task delivery, and explicit approval checkpoint",
-    "id": "jameswei/plan-build-review",
-    "language": "\u2014",
-    "name": "jameswei/plan-build-review",
-    "stars": 0,
-    "updated_at": "2026-07-29T08:55:21Z",
-    "url": "https://github.com/jameswei/plan-build-review"
-  },
-  {
-    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
-    "id": "jonaskahn/docforge",
-    "language": "Python",
-    "name": "jonaskahn/docforge",
-    "stars": 0,
-    "updated_at": "2026-07-29T08:53:17Z",
-    "url": "https://github.com/jonaskahn/docforge"
-  },
-  {
-    "description": "Agent skills for Indian tax and compliance work. Reconciles AIS/TIS/26AS, reads broker capital gains, validates portal u",
-    "id": "lamemustafa/complyeaze-skills",
-    "language": "Python",
-    "name": "lamemustafa/complyeaze-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:14:48Z",
-    "url": "https://github.com/lamemustafa/complyeaze-skills"
-  },
-  {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
-    "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 2,
-    "updated_at": "2026-07-29T10:11:01Z",
-    "url": "https://github.com/isatimur/presentation-md"
-  },
-  {
-    "description": "Hope looks for practical ways for people and AI to work better together.",
-    "id": "dkstm95/hope",
-    "language": "JavaScript",
-    "name": "dkstm95/hope",
-    "stars": 3,
-    "updated_at": "2026-07-29T08:51:25Z",
-    "url": "https://github.com/dkstm95/hope"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
-    "id": "BENZEMA216/awesome-weread",
-    "language": "JavaScript",
-    "name": "BENZEMA216/awesome-weread",
-    "stars": 50,
-    "updated_at": "2026-07-29T08:47:55Z",
-    "url": "https://github.com/BENZEMA216/awesome-weread"
   }
 ]
