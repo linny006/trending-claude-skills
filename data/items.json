@@ -1,5 +1,95 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 101,
+    "updated_at": "2026-07-29T11:12:26Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Claude Code skill: turn any plan into a hand-drawn dark-mode HTML diagram (Excalidraw style). Multilingual, auto RTL, pa",
+    "id": "ANC1024GO/claude-skill-plan-diagram",
+    "language": "HTML",
+    "name": "ANC1024GO/claude-skill-plan-diagram",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:12:13Z",
+    "url": "https://github.com/ANC1024GO/claude-skill-plan-diagram"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 1,
+    "updated_at": "2026-07-29T11:10:35Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-07-29T11:08:06Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66759,
+    "updated_at": "2026-07-29T11:03:29Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
+    "id": "domengabrovsek/claude",
+    "language": "Shell",
+    "name": "domengabrovsek/claude",
+    "stars": 15,
+    "updated_at": "2026-07-29T11:02:01Z",
+    "url": "https://github.com/domengabrovsek/claude"
+  },
+  {
+    "description": "A collection of Claude Code Skills focused on PRD authoring & sync workflows with Lark/\u98de\u4e66.",
+    "id": "CookiesHaha/ash-claude-skills",
+    "language": "Python",
+    "name": "CookiesHaha/ash-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-07-29T11:01:50Z",
+    "url": "https://github.com/CookiesHaha/ash-claude-skills"
+  },
+  {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 11,
+    "updated_at": "2026-07-29T11:01:32Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:00:31Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T11:00:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Outbound sales, autopiloted.",
     "id": "aitit-inc/leadace",
     "language": "TypeScript",
@@ -9,21 +99,12 @@
     "url": "https://github.com/aitit-inc/leadace"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66759,
-    "updated_at": "2026-07-29T10:57:05Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 224,
-    "updated_at": "2026-07-29T10:54:52Z",
+    "updated_at": "2026-07-29T11:09:37Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T10:48:28Z",
     "url": "https://github.com/ServerspaceTeam/serverspace-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T10:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
@@ -117,15 +189,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "Claude Code skill: turn any plan into a hand-drawn dark-mode HTML diagram (Excalidraw style). Multilingual, auto RTL, pa",
-    "id": "ANC1024GO/claude-skill-plan-diagram",
-    "language": "HTML",
-    "name": "ANC1024GO/claude-skill-plan-diagram",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:39:00Z",
-    "url": "https://github.com/ANC1024GO/claude-skill-plan-diagram"
-  },
-  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T10:33:31Z",
     "url": "https://github.com/RemiAsselin42/claude-config"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 101,
-    "updated_at": "2026-07-29T10:55:17Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T09:48:10Z",
     "url": "https://github.com/datadata-team/datadata-skills"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-29T09:45:51Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 1,
-    "updated_at": "2026-07-29T09:43:36Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-07-29T09:42:50Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 1,
-    "updated_at": "2026-07-29T09:39:50Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-07-29T09:39:22Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 1,
-    "updated_at": "2026-07-29T09:38:53Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   }
 ]
