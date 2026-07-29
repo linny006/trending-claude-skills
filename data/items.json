@@ -1,5 +1,122 @@
 [
   {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 3,
+    "updated_at": "2026-07-29T06:58:00Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Claude Code skill for Korean official document writing standards (\ud55c\uad6d \uacf5\uc801\ubb38\uc11c \uc791\uc131 \uae30\uc900) \u2014 \uc870\ubb38 \uccb4\uacc4\u00b7\ub0a0\uc9dc\u00b7\uae08\uc561 \ud45c\uae30, \ubb38\uc7a5\ubd80\ud638, \ub744\uc5b4\uc4f0\uae30",
+    "id": "dltkddns833/ko-official-doc-style",
+    "language": "\u2014",
+    "name": "dltkddns833/ko-official-doc-style",
+    "stars": 1,
+    "updated_at": "2026-07-29T06:55:24Z",
+    "url": "https://github.com/dltkddns833/ko-official-doc-style"
+  },
+  {
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "id": "jonaskahn/docforge",
+    "language": "Python",
+    "name": "jonaskahn/docforge",
+    "stars": 0,
+    "updated_at": "2026-07-29T06:55:24Z",
+    "url": "https://github.com/jonaskahn/docforge"
+  },
+  {
+    "description": "Agent skill for Claude Code & Codex: re-render an image under new light, palette or medium with the composition intact. ",
+    "id": "sjh9714/same-frame",
+    "language": "Python",
+    "name": "sjh9714/same-frame",
+    "stars": 0,
+    "updated_at": "2026-07-29T06:55:18Z",
+    "url": "https://github.com/sjh9714/same-frame"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-29T06:54:48Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "A set of 8 global skills for Claude Code that enforce disciplined, test-driven agentic development. Install once, use in",
+    "id": "burhankhatri/e2e-testing",
+    "language": "Shell",
+    "name": "burhankhatri/e2e-testing",
+    "stars": 10,
+    "updated_at": "2026-07-29T06:51:43Z",
+    "url": "https://github.com/burhankhatri/e2e-testing"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66743,
+    "updated_at": "2026-07-29T06:50:57Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 with a reproducible benchmark instead of a star count. 26 skills,",
+    "id": "brycewang-stanford/many-ppt-skills",
+    "language": "Python",
+    "name": "brycewang-stanford/many-ppt-skills",
+    "stars": 4,
+    "updated_at": "2026-07-29T06:49:13Z",
+    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 285,
+    "updated_at": "2026-07-29T06:49:09Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 1,
+    "updated_at": "2026-07-29T06:47:28Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-07-29T06:45:51Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-29T06:45:36Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T06:45:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
     "id": "shauryalowkeygotaura/brand-launchpad",
     "language": "HTML",
@@ -14,17 +131,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 101,
-    "updated_at": "2026-07-29T06:43:38Z",
+    "updated_at": "2026-07-29T06:59:10Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66743,
-    "updated_at": "2026-07-29T06:44:29Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Claude Code skill: per-round git auto-commit safety net with progress tracking (cross-platform Stop hooks)",
@@ -72,15 +180,6 @@
     "url": "https://github.com/easyinplay/harnessed"
   },
   {
-    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 with a reproducible benchmark instead of a star count. 26 skills,",
-    "id": "brycewang-stanford/many-ppt-skills",
-    "language": "Python",
-    "name": "brycewang-stanford/many-ppt-skills",
-    "stars": 4,
-    "updated_at": "2026-07-29T06:38:26Z",
-    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
-  },
-  {
     "description": "",
     "id": "lamemustafa/complyeaze-skills",
     "language": "Python",
@@ -97,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T06:38:11Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 285,
-    "updated_at": "2026-07-29T06:37:02Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "\u4e66\u751f\u56fd\u667a\u79d1\u63a2\u6311\u6218\u8d5b \u00b7 \u8d5b\u9053\u516d AI for Social Science \u00b7 \u53e4\u4ee3\u7891\u5e16\u4e0e\u62d3\u7247 \u2014 \u53ef\u590d\u73b0\u8bc1\u636e\u94fe\u79d1\u7814 Skill \u7cfb\u7edf:12 \u4e2a\u79bb\u7ebf\u3001\u786e\u5b9a\u6027\u3001\u7eaf\u6807\u51c6\u5e93 Skill(\u54d1\u820d\u5c0f\u5206\u961f \u00b7 \u897f\u5317\u5927\u5b66)",
@@ -153,13 +243,13 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T06:30:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "AI Client for chat, RAG, plans, MCP tools, and agents with multi-provider model support. ",
+    "id": "askimo-ai/askimo",
+    "language": "Kotlin",
+    "name": "askimo-ai/askimo",
+    "stars": 268,
+    "updated_at": "2026-07-29T06:26:33Z",
+    "url": "https://github.com/askimo-ai/askimo"
   },
   {
     "description": "The Project VEGA \u2014 The tooling project for psychic and spiritual counterintelligence. Open-source tools to detect and au",
@@ -176,7 +266,7 @@
     "language": "\u2014",
     "name": "xiaowu89/skill-compress",
     "stars": 2,
-    "updated_at": "2026-07-29T06:23:56Z",
+    "updated_at": "2026-07-29T07:00:14Z",
     "url": "https://github.com/xiaowu89/skill-compress"
   },
   {
@@ -185,7 +275,7 @@
     "language": "\u2014",
     "name": "xiaowu89/skill-function",
     "stars": 3,
-    "updated_at": "2026-07-29T06:23:52Z",
+    "updated_at": "2026-07-29T07:00:09Z",
     "url": "https://github.com/xiaowu89/skill-function"
   },
   {
@@ -212,7 +302,7 @@
     "language": "Python",
     "name": "MadaraUchiha-314/the-loop",
     "stars": 4,
-    "updated_at": "2026-07-29T06:36:49Z",
+    "updated_at": "2026-07-29T06:48:42Z",
     "url": "https://github.com/MadaraUchiha-314/the-loop"
   },
   {
@@ -306,15 +396,6 @@
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   },
   {
-    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "Python",
-    "name": "vanducng/skills",
-    "stars": 3,
-    "updated_at": "2026-07-29T05:54:04Z",
-    "url": "https://github.com/vanducng/skills"
-  },
-  {
     "description": " AI Security Research Radar \u2014 AI for security and security for AI",
     "id": "Neetx/ai-security-research-radar",
     "language": "\u2014",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T05:45:56Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 3,
-    "updated_at": "2026-07-29T06:37:00Z",
-    "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
-    "id": "XiaoMaColtAI/math-modeling-skill",
-    "language": "Python",
-    "name": "XiaoMaColtAI/math-modeling-skill",
-    "stars": 532,
-    "updated_at": "2026-07-29T05:33:36Z",
-    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
-  },
-  {
-    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
-    "id": "jonaskahn/docforge",
-    "language": "Python",
-    "name": "jonaskahn/docforge",
-    "stars": 0,
-    "updated_at": "2026-07-29T05:33:26Z",
-    "url": "https://github.com/jonaskahn/docforge"
-  },
-  {
-    "description": "",
-    "id": "rjvim/ai-skills",
-    "language": "Shell",
-    "name": "rjvim/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T05:33:25Z",
-    "url": "https://github.com/rjvim/ai-skills"
-  },
-  {
-    "description": "Two editing skills that strip AI-generated patterns from Russian and English text without draining the voice out of it. ",
-    "id": "spyrae/deslop",
-    "language": "\u2014",
-    "name": "spyrae/deslop",
-    "stars": 1,
-    "updated_at": "2026-07-29T05:27:12Z",
-    "url": "https://github.com/spyrae/deslop"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 81,
-    "updated_at": "2026-07-29T05:25:29Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 1,
-    "updated_at": "2026-07-29T05:23:24Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Second brain for Forward Deployed Engineers. Engagement memory + 35 skills across 6 domains, all behind one @fde... Work",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 241,
-    "updated_at": "2026-07-29T05:15:46Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-07-29T05:15:01Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
