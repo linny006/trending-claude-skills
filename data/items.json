@@ -1,11 +1,38 @@
 [
   {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-29T14:57:54Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
+    "id": "andrian-syh/roblox-best-practices-skill",
+    "language": "JavaScript",
+    "name": "andrian-syh/roblox-best-practices-skill",
+    "stars": 1,
+    "updated_at": "2026-07-29T14:57:51Z",
+    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T14:54:29Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
     "id": "byensitmagnus/sitesmith",
     "language": "HTML",
     "name": "byensitmagnus/sitesmith",
     "stars": 0,
-    "updated_at": "2026-07-29T14:52:53Z",
+    "updated_at": "2026-07-29T14:58:58Z",
     "url": "https://github.com/byensitmagnus/sitesmith"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 66775,
     "updated_at": "2026-07-29T14:50:41Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T14:45:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -68,7 +86,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-07-29T14:31:24Z",
+    "updated_at": "2026-07-29T14:55:44Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "gaelic-ghost/socket",
     "stars": 6,
-    "updated_at": "2026-07-29T13:59:01Z",
+    "updated_at": "2026-07-29T14:56:08Z",
     "url": "https://github.com/gaelic-ghost/socket"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Shell",
     "name": "testdouble/han",
     "stars": 141,
-    "updated_at": "2026-07-29T14:43:07Z",
+    "updated_at": "2026-07-29T14:59:19Z",
     "url": "https://github.com/testdouble/han"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-29T14:48:00Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T13:15:37Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-29T13:12:24Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
