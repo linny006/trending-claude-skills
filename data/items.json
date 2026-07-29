@@ -1,21 +1,21 @@
 [
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-29T05:39:05Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "Forged Claude Skills that turn Claude into a specialist, not a summarizer. Install via claude.ai ZIP, Claude Code plugin",
     "id": "bloodyburger/skillsmith",
     "language": "Python",
     "name": "bloodyburger/skillsmith",
     "stars": 0,
-    "updated_at": "2026-07-29T05:38:48Z",
+    "updated_at": "2026-07-29T06:00:16Z",
     "url": "https://github.com/bloodyburger/skillsmith"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 101,
+    "updated_at": "2026-07-29T05:59:19Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Server-side image compression skill with CDN output \u2014 supports batch processing and single-file mode",
@@ -23,7 +23,7 @@
     "language": "\u2014",
     "name": "xiaowu89/skill-compress",
     "stars": 2,
-    "updated_at": "2026-07-29T05:38:38Z",
+    "updated_at": "2026-07-29T05:58:20Z",
     "url": "https://github.com/xiaowu89/skill-compress"
   },
   {
@@ -32,8 +32,116 @@
     "language": "\u2014",
     "name": "xiaowu89/skill-function",
     "stars": 3,
-    "updated_at": "2026-07-29T05:38:32Z",
+    "updated_at": "2026-07-29T05:58:16Z",
     "url": "https://github.com/xiaowu89/skill-function"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 1,
+    "updated_at": "2026-07-29T05:54:45Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 2,
+    "updated_at": "2026-07-29T05:54:04Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66743,
+    "updated_at": "2026-07-29T05:50:33Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
+    "id": "Neetx/ai-security-research-radar",
+    "language": "\u2014",
+    "name": "Neetx/ai-security-research-radar",
+    "stars": 2,
+    "updated_at": "2026-07-29T05:49:30Z",
+    "url": "https://github.com/Neetx/ai-security-research-radar"
+  },
+  {
+    "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandboxed YAML suites, ",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 107,
+    "updated_at": "2026-07-29T05:48:38Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
+    "id": "Neetx/ai-research-radar",
+    "language": "\u2014",
+    "name": "Neetx/ai-research-radar",
+    "stars": 2,
+    "updated_at": "2026-07-29T05:48:30Z",
+    "url": "https://github.com/Neetx/ai-research-radar"
+  },
+  {
+    "description": "",
+    "id": "lamemustafa/complyeaze-skills",
+    "language": "Python",
+    "name": "lamemustafa/complyeaze-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T05:48:00Z",
+    "url": "https://github.com/lamemustafa/complyeaze-skills"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-29T05:47:22Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 1,
+    "updated_at": "2026-07-29T05:46:06Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-07-29T05:45:56Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T05:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-29T05:39:05Z",
+    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Agent Skills by mr-kelly",
@@ -72,24 +180,6 @@
     "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T05:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "",
-    "id": "lamemustafa/complyeaze-skills",
-    "language": "Python",
-    "name": "lamemustafa/complyeaze-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T05:27:51Z",
-    "url": "https://github.com/lamemustafa/complyeaze-skills"
-  },
-  {
     "description": "Two editing skills that strip AI-generated patterns from Russian and English text without draining the voice out of it. ",
     "id": "spyrae/deslop",
     "language": "\u2014",
@@ -117,15 +207,6 @@
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66743,
-    "updated_at": "2026-07-29T05:25:21Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
     "id": "Stewie-pixel/claude-with-leetcode",
     "language": "C++",
@@ -142,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T05:23:24Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 101,
-    "updated_at": "2026-07-29T05:45:03Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Second brain for Forward Deployed Engineers. Engagement memory + 35 skills across 6 domains, all behind one @fde... Work",
@@ -274,7 +346,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 4373,
+    "stars": 4374,
     "updated_at": "2026-07-29T04:58:48Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -338,7 +410,7 @@
     "language": "JavaScript",
     "name": "XTSoftwareLabs/neatcontext-plugins",
     "stars": 0,
-    "updated_at": "2026-07-29T04:48:41Z",
+    "updated_at": "2026-07-29T05:58:59Z",
     "url": "https://github.com/XTSoftwareLabs/neatcontext-plugins"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 90,
     "updated_at": "2026-07-29T04:37:12Z",
     "url": "https://github.com/Optim-Agent/optim-plans"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-29T04:33:23Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "A small collection of Claude Code skills I use and maintain.",
-    "id": "duthaho/skillhub",
-    "language": "Python",
-    "name": "duthaho/skillhub",
-    "stars": 7,
-    "updated_at": "2026-07-29T04:33:11Z",
-    "url": "https://github.com/duthaho/skillhub"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1398,
-    "updated_at": "2026-07-29T04:27:46Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
-    "id": "gagip/gagip-dev",
-    "language": "Python",
-    "name": "gagip/gagip-dev",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:25:11Z",
-    "url": "https://github.com/gagip/gagip-dev"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:20:34Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 4,
-    "updated_at": "2026-07-29T05:33:46Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:16:44Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 1,
-    "updated_at": "2026-07-29T04:15:52Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   }
 ]
