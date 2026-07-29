@@ -1,12 +1,111 @@
 [
   {
+    "description": "\ud83e\udd16 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills",
+    "id": "CitiesSkylinesModding/agents-plugins",
+    "language": "C#",
+    "name": "CitiesSkylinesModding/agents-plugins",
+    "stars": 1,
+    "updated_at": "2026-07-29T23:42:18Z",
+    "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 3,
+    "updated_at": "2026-07-29T23:41:34Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-07-29T23:40:30Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-29T23:39:11Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Got a documentation drift, prompt degradation, or code abstraction problem? That's a Skill Issue \u2014 solved.",
+    "id": "IamOumarIbrahim/skill-issue",
+    "language": "Python",
+    "name": "IamOumarIbrahim/skill-issue",
+    "stars": 0,
+    "updated_at": "2026-07-29T23:38:24Z",
+    "url": "https://github.com/IamOumarIbrahim/skill-issue"
+  },
+  {
+    "description": "Ticket Takeaway - a control panel to help manage multiple agents directly via cli",
+    "id": "ytubecoder/ticket-takeaway",
+    "language": "Python",
+    "name": "ytubecoder/ticket-takeaway",
+    "stars": 1,
+    "updated_at": "2026-07-29T23:37:50Z",
+    "url": "https://github.com/ytubecoder/ticket-takeaway"
+  },
+  {
+    "description": "",
+    "id": "argent-gnome/sdlc-skills",
+    "language": "JavaScript",
+    "name": "argent-gnome/sdlc-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T23:36:32Z",
+    "url": "https://github.com/argent-gnome/sdlc-skills"
+  },
+  {
     "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
     "id": "anmolnagpal/devops-skills",
     "language": "Shell",
     "name": "anmolnagpal/devops-skills",
     "stars": 6,
-    "updated_at": "2026-07-29T23:30:02Z",
+    "updated_at": "2026-07-29T23:35:32Z",
     "url": "https://github.com/anmolnagpal/devops-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-29T23:34:58Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
+    "id": "pedroberaldo87/pedro-plugins",
+    "language": "HTML",
+    "name": "pedroberaldo87/pedro-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-29T23:32:45Z",
+    "url": "https://github.com/pedroberaldo87/pedro-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-29T23:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-07-29T23:30:11Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
     "description": "Rewrite a raw prompt into an assignment an agent can actually finish. Six sections plus four leak checks: unfalsifiable ",
@@ -16,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T23:28:59Z",
     "url": "https://github.com/stgomoyaa/encargo"
-  },
-  {
-    "description": "",
-    "id": "argent-gnome/sdlc-skills",
-    "language": "JavaScript",
-    "name": "argent-gnome/sdlc-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T23:28:03Z",
-    "url": "https://github.com/argent-gnome/sdlc-skills"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 3,
-    "updated_at": "2026-07-29T23:27:53Z",
-    "url": "https://github.com/ellmos-ai/skills"
   },
   {
     "description": "Ready-to-install agent skills, each wrapping a nanoodle visual AI workflow \u2014 poster, photo restyle, jingle, narrated poe",
@@ -68,7 +149,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-29T23:24:13Z",
+    "updated_at": "2026-07-29T23:35:17Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -108,15 +189,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-29T23:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T23:12:40Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
-    "id": "pedroberaldo87/pedro-plugins",
-    "language": "HTML",
-    "name": "pedroberaldo87/pedro-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-29T23:09:18Z",
-    "url": "https://github.com/pedroberaldo87/pedro-plugins"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -250,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T22:58:47Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Ticket Takeaway - a control panel to help manage multiple agents directly via cli",
-    "id": "ytubecoder/ticket-takeaway",
-    "language": "Python",
-    "name": "ytubecoder/ticket-takeaway",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:24:58Z",
-    "url": "https://github.com/ytubecoder/ticket-takeaway"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -387,24 +441,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-29T22:40:45Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-07-29T22:37:53Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
     "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
     "id": "vanducng/skills",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-29T22:41:13Z",
     "url": "https://github.com/vanducng/skills"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-29T22:31:47Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
-    "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 3,
-    "updated_at": "2026-07-29T22:30:26Z",
-    "url": "https://github.com/shortcuts/radin"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-29T23:30:11Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-29T22:25:11Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
