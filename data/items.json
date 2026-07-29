@@ -1,10 +1,118 @@
 [
   {
+    "description": "\u4e13\u95e8\u4e0b\u8f7d \u67d0\u4e2a \u5fae\u4fe1\u516c\u4f17\u53f7\u7684\u6240\u6709\u6587\u7ae0\u7684skills\uff0c\u6279\u91cf\u4e0b\u8f7d\uff0c\u81ea\u9002\u5e94\u9650\u6d41",
+    "id": "konglong87/wechat-download-skill",
+    "language": "Python",
+    "name": "konglong87/wechat-download-skill",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:56:22Z",
+    "url": "https://github.com/konglong87/wechat-download-skill"
+  },
+  {
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "id": "jonaskahn/docforge",
+    "language": "Python",
+    "name": "jonaskahn/docforge",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:56:33Z",
+    "url": "https://github.com/jonaskahn/docforge"
+  },
+  {
+    "description": "My personal agent skill repository, primarily focused on game development.",
+    "id": "Yuki001/game-dev-skills",
+    "language": "Python",
+    "name": "Yuki001/game-dev-skills",
+    "stars": 40,
+    "updated_at": "2026-07-29T02:56:00Z",
+    "url": "https://github.com/Yuki001/game-dev-skills"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:53:34Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 285,
+    "updated_at": "2026-07-29T02:53:25Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:51:04Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
+    "id": "andrian-syh/roblox-best-practices-skill",
+    "language": "JavaScript",
+    "name": "andrian-syh/roblox-best-practices-skill",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:50:35Z",
+    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 83,
+    "updated_at": "2026-07-29T02:50:14Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-29T02:47:00Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 88886,
+    "updated_at": "2026-07-29T02:46:00Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T02:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A phase-driven development workflow for Claude Code, packaged as drop-in skills \u2014 plan-before-code gates, per-phase trac",
+    "id": "awjackson2/phase-skills",
+    "language": "Python",
+    "name": "awjackson2/phase-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:45:19Z",
+    "url": "https://github.com/awjackson2/phase-skills"
+  },
+  {
     "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
     "id": "fcakyon/claude-codex-settings",
     "language": "Python",
     "name": "fcakyon/claude-codex-settings",
-    "stars": 822,
+    "stars": 823,
     "updated_at": "2026-07-29T02:44:32Z",
     "url": "https://github.com/fcakyon/claude-codex-settings"
   },
@@ -14,26 +122,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-29T02:43:28Z",
+    "updated_at": "2026-07-29T02:55:14Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "My personal agent skill repository, primarily focused on game development.",
-    "id": "Yuki001/game-dev-skills",
-    "language": "Python",
-    "name": "Yuki001/game-dev-skills",
-    "stars": 40,
-    "updated_at": "2026-07-29T02:41:26Z",
-    "url": "https://github.com/Yuki001/game-dev-skills"
-  },
-  {
-    "description": "A phase-driven development workflow for Claude Code, packaged as drop-in skills \u2014 plan-before-code gates, per-phase trac",
-    "id": "awjackson2/phase-skills",
-    "language": "Python",
-    "name": "awjackson2/phase-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T02:45:12Z",
-    "url": "https://github.com/awjackson2/phase-skills"
   },
   {
     "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
@@ -52,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T02:31:58Z",
     "url": "https://github.com/luminik-io/event-outbound-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T02:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Future-first skill for writing modern Svelte 5 and SvelteKit 2 code with AI agents.",
@@ -97,24 +178,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T02:24:35Z",
     "url": "https://github.com/xiaowu89/skill-function"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-29T02:35:38Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 88885,
-    "updated_at": "2026-07-29T02:20:52Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
@@ -385,68 +448,5 @@
     "stars": 53,
     "updated_at": "2026-07-29T01:21:57Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014includi",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18296,
-    "updated_at": "2026-07-29T01:21:47Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:18:41Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "Python",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 3,
-    "updated_at": "2026-07-29T01:15:42Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 1,
-    "updated_at": "2026-07-29T01:13:06Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-29T01:12:38Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-07-29T01:07:41Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-29T01:04:36Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
