@@ -1,5 +1,68 @@
 [
   {
+    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
+    "id": "fcakyon/claude-codex-settings",
+    "language": "Python",
+    "name": "fcakyon/claude-codex-settings",
+    "stars": 822,
+    "updated_at": "2026-07-29T02:44:32Z",
+    "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-29T02:43:28Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "My personal agent skill repository, primarily focused on game development.",
+    "id": "Yuki001/game-dev-skills",
+    "language": "Python",
+    "name": "Yuki001/game-dev-skills",
+    "stars": 40,
+    "updated_at": "2026-07-29T02:41:26Z",
+    "url": "https://github.com/Yuki001/game-dev-skills"
+  },
+  {
+    "description": "A phase-driven development workflow for Claude Code, packaged as drop-in skills \u2014 plan-before-code gates, per-phase trac",
+    "id": "awjackson2/phase-skills",
+    "language": "Python",
+    "name": "awjackson2/phase-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:45:12Z",
+    "url": "https://github.com/awjackson2/phase-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 4,
+    "updated_at": "2026-07-29T02:34:36Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "Free Claude plugin for validated B2B event outreach emails and LinkedIn sequences.",
+    "id": "luminik-io/event-outbound-skill",
+    "language": "TypeScript",
+    "name": "luminik-io/event-outbound-skill",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:31:58Z",
+    "url": "https://github.com/luminik-io/event-outbound-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T02:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Future-first skill for writing modern Svelte 5 and SvelteKit 2 code with AI agents.",
     "id": "fifidayone/svelte-edge",
     "language": "\u2014",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-07-29T02:23:18Z",
+    "updated_at": "2026-07-29T02:35:38Z",
     "url": "https://github.com/crypdick/pynchy"
   },
   {
@@ -49,18 +112,9 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 88884,
+    "stars": 88885,
     "updated_at": "2026-07-29T02:20:52Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T02:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
@@ -144,15 +198,6 @@
     "url": "https://github.com/kensaurus/cursor-kenji"
   },
   {
-    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi MiniMax and GLM API support",
-    "id": "fcakyon/claude-codex-settings",
-    "language": "Python",
-    "name": "fcakyon/claude-codex-settings",
-    "stars": 822,
-    "updated_at": "2026-07-29T01:57:05Z",
-    "url": "https://github.com/fcakyon/claude-codex-settings"
-  },
-  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -207,15 +252,6 @@
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
-    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
-    "id": "air-gapped/skills",
-    "language": "Python",
-    "name": "air-gapped/skills",
-    "stars": 4,
-    "updated_at": "2026-07-29T01:44:06Z",
-    "url": "https://github.com/air-gapped/skills"
-  },
-  {
     "description": "\u4e00\u4e2a\u7528\u6765\u62c6\u89e3\u548c\u8bfb\u61c2\u5176\u4ed6 Claude Skill \u7684 Skill\u3002\u9605\u8bfb\u6bd4\u4f7f\u7528\u66f4\u91cd\u8981\u3002A Claude skill that decodes other skills.",
     "id": "weixipro/skill-decoder",
     "language": "HTML",
@@ -239,7 +275,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-07-29T02:27:16Z",
+    "updated_at": "2026-07-29T02:30:14Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T01:04:36Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "AI Client for chat, RAG, plans, MCP tools, and agents with multi-provider model support. ",
-    "id": "askimo-ai/askimo",
-    "language": "Kotlin",
-    "name": "askimo-ai/askimo",
-    "stars": 266,
-    "updated_at": "2026-07-29T01:44:26Z",
-    "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-29T00:56:49Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "My Claude Skills",
-    "id": "Srltas/claude-skills",
-    "language": "Python",
-    "name": "Srltas/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T00:55:41Z",
-    "url": "https://github.com/Srltas/claude-skills"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-29T00:55:03Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
