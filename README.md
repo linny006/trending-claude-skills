@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [brandtam/skills](https://github.com/brandtam/skills) | 0 | JavaScript | 2026-07-29 | Agent skills that follow the open Agent Skills spec — usable by Claude Code, Codex, and any compliant agent. |
-| 2 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 0 | HTML | 2026-07-29 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 3 | [danielgwilson/luxin](https://github.com/danielgwilson/luxin) | 1 | JavaScript | 2026-07-29 | Zero-setup creative media for agents. Generate & edit images, generate video & audio, create 3D, with no API key, no OAu |
-| 4 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-07-29 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
-| 5 | [eai-org/agent-toolkit](https://github.com/eai-org/agent-toolkit) | 27 | Shell | 2026-07-29 | Minimalistic, project-agnostic skills and rules for AI coding agents |
-| 6 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 102 | Kotlin | 2026-07-29 | Helping the Agents Compose the Things |
-| 7 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-29 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 8 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-29 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 18 | Python | 2026-07-29 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [brandtam/skills](https://github.com/brandtam/skills) | 0 | JavaScript | 2026-07-29 | Agent skills that follow the open Agent Skills spec — usable by Claude Code, Codex, and any compliant agent. |
+| 3 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 0 | HTML | 2026-07-29 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
+| 4 | [danielgwilson/luxin](https://github.com/danielgwilson/luxin) | 1 | JavaScript | 2026-07-29 | Zero-setup creative media for agents. Generate & edit images, generate video & audio, create 3D, with no API key, no OAu |
+| 5 | [DYAI2025/Plumbline](https://github.com/DYAI2025/Plumbline) | 6 | Shell | 2026-07-29 | Plumbline — a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def |
+| 6 | [eai-org/agent-toolkit](https://github.com/eai-org/agent-toolkit) | 27 | Shell | 2026-07-29 | Minimalistic, project-agnostic skills and rules for AI coding agents |
+| 7 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 102 | Kotlin | 2026-07-29 | Helping the Agents Compose the Things |
+| 8 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-29 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
 | 9 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 1 | HTML | 2026-07-29 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
 | 10 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-07-29 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
 | 11 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-29 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
