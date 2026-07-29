@@ -1,12 +1,12 @@
 [
   {
-    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
-    "id": "Max-Levitskiy/skills",
-    "language": "TypeScript",
-    "name": "Max-Levitskiy/skills",
+    "description": "Version-Explicit Retrieval & Answering - VERA answers a trial coordinator's question about what a clinical-trial protoco",
+    "id": "thebitanpaul/VERA",
+    "language": "Python",
+    "name": "thebitanpaul/VERA",
     "stars": 0,
-    "updated_at": "2026-07-29T11:43:39Z",
-    "url": "https://github.com/Max-Levitskiy/skills"
+    "updated_at": "2026-07-29T11:57:44Z",
+    "url": "https://github.com/thebitanpaul/VERA"
   },
   {
     "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
@@ -14,8 +14,80 @@
     "language": "HTML",
     "name": "isatimur/presentation-md",
     "stars": 2,
-    "updated_at": "2026-07-29T11:42:50Z",
+    "updated_at": "2026-07-29T11:57:24Z",
     "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
+    "id": "byensitmagnus/sitesmith",
+    "language": "HTML",
+    "name": "byensitmagnus/sitesmith",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:56:45Z",
+    "url": "https://github.com/byensitmagnus/sitesmith"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 6,
+    "updated_at": "2026-07-29T11:57:17Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
+  },
+  {
+    "description": "Hope looks for practical ways for human and AI to work better together.",
+    "id": "dkstm95/hope",
+    "language": "JavaScript",
+    "name": "dkstm95/hope",
+    "stars": 3,
+    "updated_at": "2026-07-29T11:54:55Z",
+    "url": "https://github.com/dkstm95/hope"
+  },
+  {
+    "description": "A skill that pressure-tests your judgment without manufacturing disagreement or forcing balance.",
+    "id": "ReedLiner/critical-mirror",
+    "language": "\u2014",
+    "name": "ReedLiner/critical-mirror",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:50:43Z",
+    "url": "https://github.com/ReedLiner/critical-mirror"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:48:38Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "id": "jonaskahn/docforge",
+    "language": "Python",
+    "name": "jonaskahn/docforge",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:46:00Z",
+    "url": "https://github.com/jonaskahn/docforge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-29T11:45:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
+    "id": "Max-Levitskiy/skills",
+    "language": "TypeScript",
+    "name": "Max-Levitskiy/skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:43:39Z",
+    "url": "https://github.com/Max-Levitskiy/skills"
   },
   {
     "description": "X/Twitter API & scraper for AI agents \u2014 tweets, profiles, search, timelines, monitors, bulk exports. Pay per call in USD",
@@ -81,15 +153,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-29T11:30:25Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
     "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
     "language": "HTML",
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T11:27:45Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "A coding-agent skill for building websites that don't look AI-generated. Routes by mode, enforces a 12-step build loop, ",
-    "id": "byensitmagnus/sitesmith",
-    "language": "HTML",
-    "name": "byensitmagnus/sitesmith",
-    "stars": 0,
-    "updated_at": "2026-07-29T11:24:48Z",
-    "url": "https://github.com/byensitmagnus/sitesmith"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "glitchwerks/claude-wayfinder",
     "stars": 2,
-    "updated_at": "2026-07-29T11:19:00Z",
+    "updated_at": "2026-07-29T11:58:20Z",
     "url": "https://github.com/glitchwerks/claude-wayfinder"
   },
   {
@@ -234,6 +288,15 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
+    "description": "Privacy-first Chrome extension that transforms documents into AI-friendly representations before uploading them to Claud",
+    "id": "ridhungujja/forma",
+    "language": "JavaScript",
+    "name": "ridhungujja/forma",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:09:19Z",
+    "url": "https://github.com/ridhungujja/forma"
+  },
+  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -247,7 +310,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66758,
+    "stars": 66759,
     "updated_at": "2026-07-29T11:03:29Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T10:39:09Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-07-29T10:38:49Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Cross-platform AI agent skill library (WorkBuddy/Codex/Hermes) - 4 verticals + 1 horizontal review layer, A-protocol com",
-    "id": "AVA-2568/MY_SKILL",
-    "language": "Python",
-    "name": "AVA-2568/MY_SKILL",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:37:42Z",
-    "url": "https://github.com/AVA-2568/MY_SKILL"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-29T10:37:30Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Hermes and Claude Skill to file ITR(Indian Income tax)",
-    "id": "agnelvishal/itr-filing-skill",
-    "language": "Python",
-    "name": "agnelvishal/itr-filing-skill",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:37:08Z",
-    "url": "https://github.com/agnelvishal/itr-filing-skill"
-  },
-  {
-    "description": "Agent skills for Indian tax and compliance work. Reconciles AIS/TIS/26AS, reads broker capital gains, validates portal u",
-    "id": "lamemustafa/complyeaze-skills",
-    "language": "Python",
-    "name": "lamemustafa/complyeaze-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T11:26:58Z",
-    "url": "https://github.com/lamemustafa/complyeaze-skills"
-  },
-  {
-    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
-    "id": "jonaskahn/docforge",
-    "language": "Python",
-    "name": "jonaskahn/docforge",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:33:48Z",
-    "url": "https://github.com/jonaskahn/docforge"
-  },
-  {
-    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
-    "id": "RemiAsselin42/claude-config",
-    "language": "Shell",
-    "name": "RemiAsselin42/claude-config",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:33:31Z",
-    "url": "https://github.com/RemiAsselin42/claude-config"
   }
 ]
