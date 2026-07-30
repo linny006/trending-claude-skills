@@ -1,12 +1,84 @@
 [
   {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 4,
+    "updated_at": "2026-07-30T19:59:43Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 102,
+    "updated_at": "2026-07-30T19:59:12Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
+    "id": "pedroberaldo87/pedro-plugins",
+    "language": "HTML",
+    "name": "pedroberaldo87/pedro-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-30T19:56:38Z",
+    "url": "https://github.com/pedroberaldo87/pedro-plugins"
+  },
+  {
+    "description": "My assortment of Claude Code skills",
+    "id": "ivuorinen/skills",
+    "language": "Python",
+    "name": "ivuorinen/skills",
+    "stars": 1,
+    "updated_at": "2026-07-30T19:56:41Z",
+    "url": "https://github.com/ivuorinen/skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-30T19:51:52Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 8,
+    "updated_at": "2026-07-30T19:51:09Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
     "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
     "id": "wardawgmalvicious/claude-config",
     "language": "Python",
     "name": "wardawgmalvicious/claude-config",
     "stars": 2,
-    "updated_at": "2026-07-30T19:44:52Z",
+    "updated_at": "2026-07-30T19:45:53Z",
     "url": "https://github.com/wardawgmalvicious/claude-config"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T19:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude dotfile containing skills, agents etc I use.",
+    "id": "Moliboy5000/.claude",
+    "language": "Python",
+    "name": "Moliboy5000/.claude",
+    "stars": 0,
+    "updated_at": "2026-07-30T19:45:13Z",
+    "url": "https://github.com/Moliboy5000/.claude"
   },
   {
     "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
@@ -77,26 +149,8 @@
     "language": "Shell",
     "name": "dryvist/ai-assistant-instructions",
     "stars": 9,
-    "updated_at": "2026-07-30T19:38:42Z",
+    "updated_at": "2026-07-30T19:47:29Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 102,
-    "updated_at": "2026-07-30T19:43:27Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 8,
-    "updated_at": "2026-07-30T19:31:05Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
@@ -106,24 +160,6 @@
     "stars": 378,
     "updated_at": "2026-07-30T19:30:43Z",
     "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T19:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Claude dotfile containing skills, agents etc I use.",
-    "id": "Moliboy5000/.claude",
-    "language": "Python",
-    "name": "Moliboy5000/.claude",
-    "stars": 0,
-    "updated_at": "2026-07-30T19:30:12Z",
-    "url": "https://github.com/Moliboy5000/.claude"
   },
   {
     "description": "Goldilocks\uff1a\u7cbe\u7b80\u7684 Superpowers \u66ff\u4ee3\u65b9\u6848\uff5cv0.4.1 Direct \u5bf9\u7167 114/114 \u901a\u8fc7\uff0c\u5904\u7406 token \u221211.5%\u3001\u8017\u65f6 \u221210.9%\u3001\u5b98\u65b9\u6210\u672c \u22126.3%\u3002Lean, token-efficient A",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "ramboz/jig",
     "stars": 4,
-    "updated_at": "2026-07-30T19:39:59Z",
+    "updated_at": "2026-07-30T19:50:05Z",
     "url": "https://github.com/ramboz/jig"
   },
   {
@@ -169,6 +205,15 @@
     "stars": 1,
     "updated_at": "2026-07-30T19:24:44Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
+    "id": "testdouble/han",
+    "language": "Shell",
+    "name": "testdouble/han",
+    "stars": 146,
+    "updated_at": "2026-07-30T19:24:15Z",
+    "url": "https://github.com/testdouble/han"
   },
   {
     "description": "A Claude Skill that rewrites your prompt, runs it, and grades the result against its own success criteria \u2014 in one turn.",
@@ -239,7 +284,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 1,
-    "updated_at": "2026-07-30T19:19:31Z",
+    "updated_at": "2026-07-30T19:58:49Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T19:00:43Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-07-30T18:59:17Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "A soundtrack for your coding agent \u2014 music plays while Claude Code works and stops the moment it's your turn. Native, ze",
-    "id": "GusGaiotti/vibecode.fm",
-    "language": "Rust",
-    "name": "GusGaiotti/vibecode.fm",
-    "stars": 0,
-    "updated_at": "2026-07-30T18:55:28Z",
-    "url": "https://github.com/GusGaiotti/vibecode.fm"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-30T18:53:30Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 81,
-    "updated_at": "2026-07-30T18:52:17Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 48,
-    "updated_at": "2026-07-30T18:51:31Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
   }
 ]
