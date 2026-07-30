@@ -1,12 +1,156 @@
 [
   {
+    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
+    "id": "mickzijdel/dev-hooks",
+    "language": "Python",
+    "name": "mickzijdel/dev-hooks",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:27:53Z",
+    "url": "https://github.com/mickzijdel/dev-hooks"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-07-30T07:26:54Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "remote read-only diagnostic tool for agents",
+    "id": "splitbrain/rpeek",
+    "language": "Go",
+    "name": "splitbrain/rpeek",
+    "stars": 3,
+    "updated_at": "2026-07-30T07:26:48Z",
+    "url": "https://github.com/splitbrain/rpeek"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:26:20Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 53,
+    "updated_at": "2026-07-30T07:25:08Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 2,
+    "updated_at": "2026-07-30T07:24:51Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:22:28Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 68,
+    "updated_at": "2026-07-30T07:21:55Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
+    "description": "Generate a finished, on-brand poster in seconds \u2014 describe it in plain English, get print-ready PNG/SVG. A local studio ",
+    "id": "wyuee912-ops/sai-poster-studio",
+    "language": "JavaScript",
+    "name": "wyuee912-ops/sai-poster-studio",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:20:58Z",
+    "url": "https://github.com/wyuee912-ops/sai-poster-studio"
+  },
+  {
+    "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
+    "id": "lemur47/logic",
+    "language": "Python",
+    "name": "lemur47/logic",
+    "stars": 2,
+    "updated_at": "2026-07-30T07:22:20Z",
+    "url": "https://github.com/lemur47/logic"
+  },
+  {
+    "description": "Claude Code \ud50c\ub7ec\uadf8\uc778 \u2014 \uc554\uc0b0 \ub300\uc2e0 Python\uc73c\ub85c \uc815\ud655\ud558\uac8c \uacc4\uc0b0\ud569\ub2c8\ub2e4. \ud37c\uc13c\ud2b8/\ubd80\uac00\uc138, \ub2e8\uc704 \ud658\uc0b0(\ud3c9\u00b7\ub3c8\u00b7\uc628\ub3c4\u00b7\ub370\uc774\ud130), \ub0a0\uc9dc, \ub300\ucd9c\u00b7\ubcf5\ub9ac\u00b7CAGR, \ud1b5\uacc4, \ud070 \uc218.",
+    "id": "0seobee-seon/seon-tools",
+    "language": "Python",
+    "name": "0seobee-seon/seon-tools",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:19:34Z",
+    "url": "https://github.com/0seobee-seon/seon-tools"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:19:14Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers ",
+    "id": "imMamdouhaboammar/vibe-svgs",
+    "language": "TypeScript",
+    "name": "imMamdouhaboammar/vibe-svgs",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:18:19Z",
+    "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
+  },
+  {
+    "description": "Automated CI/CD setup for GitHub Actions \u2014 one command, tests + deploy to AWS, Vercel, or any server.",
+    "id": "khemratechconsulting/github-actions-setup",
+    "language": "Shell",
+    "name": "khemratechconsulting/github-actions-setup",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:16:22Z",
+    "url": "https://github.com/khemratechconsulting/github-actions-setup"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 19,
-    "updated_at": "2026-07-30T07:13:42Z",
+    "updated_at": "2026-07-30T07:15:23Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Travel industry AI tools, skills & plugins",
+    "id": "omnitravelrepo/travel-tools",
+    "language": "Python",
+    "name": "omnitravelrepo/travel-tools",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:15:16Z",
+    "url": "https://github.com/omnitravelrepo/travel-tools"
+  },
+  {
+    "description": "Product marketing & GTM in your terminal \u2014 45 skills for positioning, messaging, personas, pricing, battlecards, and lau",
+    "id": "buildingwithai/pmm-os",
+    "language": "Python",
+    "name": "buildingwithai/pmm-os",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:14:19Z",
+    "url": "https://github.com/buildingwithai/pmm-os"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -23,7 +167,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-30T07:13:26Z",
+    "updated_at": "2026-07-30T07:30:03Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -43,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T07:11:33Z",
     "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
-    "description": "Automated CI/CD setup for GitHub Actions \u2014 one command, tests + deploy to AWS, Vercel, or any server.",
-    "id": "khemratechconsulting/github-actions-setup",
-    "language": "Shell",
-    "name": "khemratechconsulting/github-actions-setup",
-    "stars": 1,
-    "updated_at": "2026-07-30T07:08:50Z",
-    "url": "https://github.com/khemratechconsulting/github-actions-setup"
   },
   {
     "description": "Turn a codebase or system map into editable Miro objects \u2014 AWS/GCP/Azure icons, connectors, and titled zones. Built on a",
@@ -81,15 +216,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "remote read-only diagnostic tool for agents",
-    "id": "splitbrain/rpeek",
-    "language": "Go",
-    "name": "splitbrain/rpeek",
-    "stars": 3,
-    "updated_at": "2026-07-30T07:02:39Z",
-    "url": "https://github.com/splitbrain/rpeek"
-  },
-  {
     "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
     "id": "lenamonj/jeffy-loop",
     "language": "Shell",
@@ -103,27 +229,9 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66807,
-    "updated_at": "2026-07-30T07:01:28Z",
+    "stars": 66808,
+    "updated_at": "2026-07-30T07:20:30Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Product marketing & GTM in your terminal \u2014 45 skills for positioning, messaging, personas, pricing, battlecards, and lau",
-    "id": "buildingwithai/pmm-os",
-    "language": "Python",
-    "name": "buildingwithai/pmm-os",
-    "stars": 0,
-    "updated_at": "2026-07-30T07:14:19Z",
-    "url": "https://github.com/buildingwithai/pmm-os"
-  },
-  {
-    "description": "Travel industry AI tools, skills & plugins",
-    "id": "omnitravelrepo/travel-tools",
-    "language": "Python",
-    "name": "omnitravelrepo/travel-tools",
-    "stars": 0,
-    "updated_at": "2026-07-30T07:15:16Z",
-    "url": "https://github.com/omnitravelrepo/travel-tools"
   },
   {
     "description": "A collection of Claude Code Skills focused on PRD authoring & sync workflows with Lark/\u98de\u4e66.",
@@ -252,15 +360,6 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Generate a finished, on-brand poster in seconds \u2014 describe it in plain English, get print-ready PNG/SVG. A local studio ",
-    "id": "wyuee912-ops/sai-poster-studio",
-    "language": "JavaScript",
-    "name": "wyuee912-ops/sai-poster-studio",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:25:13Z",
-    "url": "https://github.com/wyuee912-ops/sai-poster-studio"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T06:09:13Z",
     "url": "https://github.com/vbkotecha/agentservices-api"
-  },
-  {
-    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
-    "id": "johanthoren/jeff",
-    "language": "JavaScript",
-    "name": "johanthoren/jeff",
-    "stars": 2,
-    "updated_at": "2026-07-30T06:08:32Z",
-    "url": "https://github.com/johanthoren/jeff"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 47,
-    "updated_at": "2026-07-30T06:07:56Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Turn long AI conversations into reusable domain knowledge across sessions",
-    "id": "XTSoftwareLabs/neatcontext-plugins",
-    "language": "JavaScript",
-    "name": "XTSoftwareLabs/neatcontext-plugins",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:07:24Z",
-    "url": "https://github.com/XTSoftwareLabs/neatcontext-plugins"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:07:02Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "AI Client for chat, RAG, plans, MCP tools, and agents with multi-provider model support. ",
-    "id": "askimo-ai/askimo",
-    "language": "Kotlin",
-    "name": "askimo-ai/askimo",
-    "stars": 271,
-    "updated_at": "2026-07-30T06:04:08Z",
-    "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:03:45Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:01:44Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
-    "id": "Neetx/ai-research-radar",
-    "language": "\u2014",
-    "name": "Neetx/ai-research-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T05:57:26Z",
-    "url": "https://github.com/Neetx/ai-research-radar"
-  },
-  {
-    "description": "Hope looks for practical ways for human and AI to work better together.",
-    "id": "dkstm95/hope",
-    "language": "JavaScript",
-    "name": "dkstm95/hope",
-    "stars": 4,
-    "updated_at": "2026-07-30T05:53:37Z",
-    "url": "https://github.com/dkstm95/hope"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 1,
-    "updated_at": "2026-07-30T05:50:01Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-07-30T05:49:19Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
   }
 ]
