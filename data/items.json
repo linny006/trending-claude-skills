@@ -1,12 +1,66 @@
 [
   {
+    "description": "A Claude Code plugin marketplace for open-source maintainers \u2014 README heroes, README audits, and .NET test-coverage back",
+    "id": "livlign/claude-skills",
+    "language": "HTML",
+    "name": "livlign/claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-30T05:29:04Z",
+    "url": "https://github.com/livlign/claude-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 4,
+    "updated_at": "2026-07-30T05:28:50Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "\u4e00\u4e2a\u5305\u542bagent\u548cskill\u7684\u96c6\u5408\uff1aRAG\u3001\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
+    "id": "Ldxs001/workbuddy-skills",
+    "language": "Python",
+    "name": "Ldxs001/workbuddy-skills",
+    "stars": 2,
+    "updated_at": "2026-07-30T05:28:20Z",
+    "url": "https://github.com/Ldxs001/workbuddy-skills"
+  },
+  {
+    "description": "Five ready-made Claude Skills for students in disciplines that run on close reading, argument, and citation rather than ",
+    "id": "Poisoneddiety/claude-skills-for-humanities",
+    "language": "Python",
+    "name": "Poisoneddiety/claude-skills-for-humanities",
+    "stars": 0,
+    "updated_at": "2026-07-30T05:20:02Z",
+    "url": "https://github.com/Poisoneddiety/claude-skills-for-humanities"
+  },
+  {
+    "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle",
+    "id": "athola/claude-night-market",
+    "language": "Python",
+    "name": "athola/claude-night-market",
+    "stars": 323,
+    "updated_at": "2026-07-30T05:19:44Z",
+    "url": "https://github.com/athola/claude-night-market"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 19,
-    "updated_at": "2026-07-30T05:00:21Z",
+    "updated_at": "2026-07-30T05:15:13Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
+    "id": "AgamiAI/agami-core",
+    "language": "Python",
+    "name": "AgamiAI/agami-core",
+    "stars": 19,
+    "updated_at": "2026-07-30T05:15:12Z",
+    "url": "https://github.com/AgamiAI/agami-core"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -70,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T04:47:54Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "A Claude Code plugin marketplace for open-source maintainers \u2014 README heroes, README audits, and .NET test-coverage back",
-    "id": "livlign/claude-skills",
-    "language": "HTML",
-    "name": "livlign/claude-skills",
-    "stars": 18,
-    "updated_at": "2026-07-30T04:47:43Z",
-    "url": "https://github.com/livlign/claude-skills"
   },
   {
     "description": "Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment\u2014not one fixe",
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 66805,
-    "updated_at": "2026-07-30T04:43:07Z",
+    "updated_at": "2026-07-30T05:29:54Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-30T04:37:02Z",
+    "updated_at": "2026-07-30T05:17:38Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "sumitake/agent-collab",
     "stars": 0,
-    "updated_at": "2026-07-30T05:07:05Z",
+    "updated_at": "2026-07-30T05:16:04Z",
     "url": "https://github.com/sumitake/agent-collab"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T04:22:35Z",
     "url": "https://github.com/ami-bu/seo-blog-brief"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 19,
-    "updated_at": "2026-07-30T05:14:53Z",
-    "url": "https://github.com/AgamiAI/agami-core"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "ramboz/jig",
     "stars": 4,
-    "updated_at": "2026-07-30T03:56:15Z",
+    "updated_at": "2026-07-30T05:20:35Z",
     "url": "https://github.com/ramboz/jig"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T03:55:55Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "A pytest-based API testing framework for the TMDB REST API, showcasing modern SDET: end-to-end integration tests, Pact c",
-    "id": "pgundlupetvenkatesh/mdb_api_layer",
-    "language": "Python",
-    "name": "pgundlupetvenkatesh/mdb_api_layer",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:56:32Z",
-    "url": "https://github.com/pgundlupetvenkatesh/mdb_api_layer"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-30T03:53:02Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "AI-powered image and video background removal using BiRefNet GGUF model \u2014 outputs transparent PNG/MOV/WebM",
-    "id": "xiaowu89/skill-matting",
-    "language": "PowerShell",
-    "name": "xiaowu89/skill-matting",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:45:33Z",
-    "url": "https://github.com/xiaowu89/skill-matting"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-30T03:38:24Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
