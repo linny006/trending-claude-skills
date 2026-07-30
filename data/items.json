@@ -1,11 +1,155 @@
 [
   {
+    "description": "Free starter skills for Claude Code: conventional commits, code review, test writing, and README generation, plus a star",
+    "id": "claudifytech/claude-code-skills-starter",
+    "language": "\u2014",
+    "name": "claudifytech/claude-code-skills-starter",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:30:06Z",
+    "url": "https://github.com/claudifytech/claude-code-skills-starter"
+  },
+  {
+    "description": "Generate comprehension quizzes from Git branch diffs for Claude Code, OpenCode, and pull-request workflows.",
+    "id": "jamestkelly/diffler",
+    "language": "TypeScript",
+    "name": "jamestkelly/diffler",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:29:51Z",
+    "url": "https://github.com/jamestkelly/diffler"
+  },
+  {
+    "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
+    "id": "akovalion/paranoid-qa",
+    "language": "Shell",
+    "name": "akovalion/paranoid-qa",
+    "stars": 9,
+    "updated_at": "2026-07-30T13:29:40Z",
+    "url": "https://github.com/akovalion/paranoid-qa"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 3,
+    "updated_at": "2026-07-30T13:28:32Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
+    "id": "AgamiAI/agami-core",
+    "language": "Python",
+    "name": "AgamiAI/agami-core",
+    "stars": 19,
+    "updated_at": "2026-07-30T13:28:27Z",
+    "url": "https://github.com/AgamiAI/agami-core"
+  },
+  {
+    "description": "Automated SEO reporting skill for Claude Code & Codex \u2014 an AI report generator that turns your Search Console, GA4, and ",
+    "id": "dashaworks/seo-client-report-skill",
+    "language": "\u2014",
+    "name": "dashaworks/seo-client-report-skill",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:26:42Z",
+    "url": "https://github.com/dashaworks/seo-client-report-skill"
+  },
+  {
+    "description": "Claude Code & Codex skill: say \"share this as a link\" and any AI output \u2014 chat, artifact, or markdown \u2014 becomes a live p",
+    "id": "dashaworks/share-as-link-skill",
+    "language": "\u2014",
+    "name": "dashaworks/share-as-link-skill",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:26:40Z",
+    "url": "https://github.com/dashaworks/share-as-link-skill"
+  },
+  {
+    "description": "Virtual data room skill for Claude Code & Codex \u2014 build an M&A or fundraising due diligence data room from your agent se",
+    "id": "dashaworks/data-room-skill",
+    "language": "\u2014",
+    "name": "dashaworks/data-room-skill",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:26:38Z",
+    "url": "https://github.com/dashaworks/data-room-skill"
+  },
+  {
+    "description": "AI report generator skills for Claude Code & Codex \u2014 publish agent-made research, client reports, tracked proposals, and",
+    "id": "dashaworks/report-skills",
+    "language": "\u2014",
+    "name": "dashaworks/report-skills",
+    "stars": 11,
+    "updated_at": "2026-07-30T13:26:35Z",
+    "url": "https://github.com/dashaworks/report-skills"
+  },
+  {
+    "description": "Claude Code skill that prepares Indian Income Tax Returns (ITR-1/2/3/4): parses Form 16/AIS/26AS/broker statements, reco",
+    "id": "NidheeshJain/itr-prep-skill",
+    "language": "Python",
+    "name": "NidheeshJain/itr-prep-skill",
+    "stars": 24,
+    "updated_at": "2026-07-30T13:23:25Z",
+    "url": "https://github.com/NidheeshJain/itr-prep-skill"
+  },
+  {
+    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
+    "id": "aaron-he-zhu/aaron-marketing-skills",
+    "language": "Python",
+    "name": "aaron-he-zhu/aaron-marketing-skills",
+    "stars": 2478,
+    "updated_at": "2026-07-30T13:23:11Z",
+    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-30T13:30:00Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Server-side image compression skill with CDN output \u2014 supports batch processing and single-file mode",
+    "id": "xiaowu89/skill-compress",
+    "language": "JavaScript",
+    "name": "xiaowu89/skill-compress",
+    "stars": 2,
+    "updated_at": "2026-07-30T13:19:28Z",
+    "url": "https://github.com/xiaowu89/skill-compress"
+  },
+  {
+    "description": "AI-powered image content moderation skill \u2014 detects adult, political, and violent content in images",
+    "id": "xiaowu89/skill-function",
+    "language": "JavaScript",
+    "name": "xiaowu89/skill-function",
+    "stars": 3,
+    "updated_at": "2026-07-30T13:19:22Z",
+    "url": "https://github.com/xiaowu89/skill-function"
+  },
+  {
+    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
+    "id": "pedroberaldo87/pedro-plugins",
+    "language": "HTML",
+    "name": "pedroberaldo87/pedro-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:19:06Z",
+    "url": "https://github.com/pedroberaldo87/pedro-plugins"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:16:06Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 19,
-    "updated_at": "2026-07-30T13:15:17Z",
+    "updated_at": "2026-07-30T13:15:58Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -16,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-07-30T13:15:10Z",
     "url": "https://github.com/stereobooster/software-quality-skills"
+  },
+  {
+    "description": "Claude Code and Codex skill for compiler-exact .NET code search - references, callers and change impact, Razor and Blazo",
+    "id": "dbhq-uk/vela-skill",
+    "language": "C#",
+    "name": "dbhq-uk/vela-skill",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:15:03Z",
+    "url": "https://github.com/dbhq-uk/vela-skill"
   },
   {
     "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
@@ -36,24 +189,6 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "Generate comprehension quizzes from Git branch diffs for Claude Code, OpenCode, and pull-request workflows.",
-    "id": "jamestkelly/diffler",
-    "language": "TypeScript",
-    "name": "jamestkelly/diffler",
-    "stars": 1,
-    "updated_at": "2026-07-30T13:08:05Z",
-    "url": "https://github.com/jamestkelly/diffler"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-30T13:14:36Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
     "description": "Claude Skills for go-to-market teams \u2014 ready-to-install HubSpot, Salesforce, LinkedIn & outbound skills. AI-native GTM e",
     "id": "Growth-Today/claude-skills",
     "language": "Python",
@@ -70,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T13:05:16Z",
     "url": "https://github.com/zghanw/hackathon-skills"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 19,
-    "updated_at": "2026-07-30T13:04:26Z",
-    "url": "https://github.com/AgamiAI/agami-core"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -202,7 +328,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66827,
+    "stars": 66829,
     "updated_at": "2026-07-30T12:42:29Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -234,15 +360,6 @@
     "url": "https://github.com/Yash-Kavaiya/appsheet-agent-skill"
   },
   {
-    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
-    "id": "pedroberaldo87/pedro-plugins",
-    "language": "HTML",
-    "name": "pedroberaldo87/pedro-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:38:03Z",
-    "url": "https://github.com/pedroberaldo87/pedro-plugins"
-  },
-  {
     "description": "Headless GTM: the full outbound chain as Claude Code and Codex skills on raw vendor APIs.",
     "id": "Zevenue/headless-gtm",
     "language": "Python",
@@ -250,15 +367,6 @@
     "stars": 20,
     "updated_at": "2026-07-30T12:36:51Z",
     "url": "https://github.com/Zevenue/headless-gtm"
-  },
-  {
-    "description": "Claude Code skill that prepares Indian Income Tax Returns (ITR-1/2/3/4): parses Form 16/AIS/26AS/broker statements, reco",
-    "id": "NidheeshJain/itr-prep-skill",
-    "language": "Python",
-    "name": "NidheeshJain/itr-prep-skill",
-    "stars": 24,
-    "updated_at": "2026-07-30T12:36:24Z",
-    "url": "https://github.com/NidheeshJain/itr-prep-skill"
   },
   {
     "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
@@ -284,7 +392,7 @@
     "language": "TypeScript",
     "name": "jsuvic/agent-profile",
     "stars": 3,
-    "updated_at": "2026-07-30T12:27:25Z",
+    "updated_at": "2026-07-30T13:26:52Z",
     "url": "https://github.com/jsuvic/agent-profile"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T12:22:34Z",
     "url": "https://github.com/kiwissenorg-skills/claude-skills"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:22:01Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-07-30T12:21:21Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 8,
-    "updated_at": "2026-07-30T12:21:05Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 137,
-    "updated_at": "2026-07-30T12:20:40Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "A collection of skills for Rails development and consulting with an emphasis on learning, communication, and client succ",
-    "id": "thoughtbot/rails-consultant",
-    "language": "Shell",
-    "name": "thoughtbot/rails-consultant",
-    "stars": 17,
-    "updated_at": "2026-07-30T12:20:37Z",
-    "url": "https://github.com/thoughtbot/rails-consultant"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:20:19Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:20:17Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:18:30Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:16:45Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:16:40Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "AI product manager skills for Codex/Claude: brainstorming, product research, PRD workflows, requirements review, and pla",
-    "id": "PANGKAIFENG/ai-product-manager-skills",
-    "language": "Python",
-    "name": "PANGKAIFENG/ai-product-manager-skills",
-    "stars": 3,
-    "updated_at": "2026-07-30T12:15:08Z",
-    "url": "https://github.com/PANGKAIFENG/ai-product-manager-skills"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:14:40Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
   }
 ]
