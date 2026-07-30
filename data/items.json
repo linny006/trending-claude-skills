@@ -1,5 +1,68 @@
 [
   {
+    "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
+    "id": "sumitake/agent-collab",
+    "language": "Python",
+    "name": "sumitake/agent-collab",
+    "stars": 0,
+    "updated_at": "2026-07-30T05:36:14Z",
+    "url": "https://github.com/sumitake/agent-collab"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 1,
+    "updated_at": "2026-07-30T05:35:20Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-07-30T05:34:52Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Legal PPC Skill",
+    "id": "tobyrosen/legal-ppc-skill",
+    "language": "\u2014",
+    "name": "tobyrosen/legal-ppc-skill",
+    "stars": 3,
+    "updated_at": "2026-07-30T05:35:28Z",
+    "url": "https://github.com/tobyrosen/legal-ppc-skill"
+  },
+  {
+    "description": "A set of agent skills aimed primarily at Claude Code.",
+    "id": "Pyroxin/opinionated-claude-skills",
+    "language": "Shell",
+    "name": "Pyroxin/opinionated-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-07-30T05:30:45Z",
+    "url": "https://github.com/Pyroxin/opinionated-claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T05:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66805,
+    "updated_at": "2026-07-30T05:29:54Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "A Claude Code plugin marketplace for open-source maintainers \u2014 README heroes, README audits, and .NET test-coverage back",
     "id": "livlign/claude-skills",
     "language": "HTML",
@@ -45,15 +108,6 @@
     "url": "https://github.com/athola/claude-night-market"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T05:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
     "id": "AgamiAI/agami-core",
     "language": "Python",
@@ -61,6 +115,15 @@
     "stars": 19,
     "updated_at": "2026-07-30T05:15:12Z",
     "url": "https://github.com/AgamiAI/agami-core"
+  },
+  {
+    "description": "Durable, repo-native project memory for coding agents\u2014without context bloat.",
+    "id": "waittim/MemoryCustodian",
+    "language": "Python",
+    "name": "waittim/MemoryCustodian",
+    "stars": 12,
+    "updated_at": "2026-07-30T05:10:20Z",
+    "url": "https://github.com/waittim/MemoryCustodian"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -157,7 +220,7 @@
     "id": "worldwonderer/novel-to-game",
     "language": "Markdown",
     "name": "worldwonderer/novel-to-game",
-    "stars": 419,
+    "stars": 420,
     "updated_at": "2026-07-30T04:45:41Z",
     "url": "https://github.com/worldwonderer/novel-to-game"
   },
@@ -176,7 +239,7 @@
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-07-30T05:05:37Z",
+    "updated_at": "2026-07-30T05:38:32Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T04:43:10Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66805,
-    "updated_at": "2026-07-30T05:29:54Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "A complete ecosystem for AI-assisted academic research. Features an orchestrated pipeline of 130+ ML skills, persistent ",
@@ -286,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T04:28:41Z",
     "url": "https://github.com/ANC1024GO/claude-skill-plan-diagram"
-  },
-  {
-    "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
-    "id": "sumitake/agent-collab",
-    "language": "Python",
-    "name": "sumitake/agent-collab",
-    "stars": 0,
-    "updated_at": "2026-07-30T05:16:04Z",
-    "url": "https://github.com/sumitake/agent-collab"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T04:05:57Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Code & Codex skill for branded monthly SEO client reports published as live tracked pages, via the ReportRoom MCP",
-    "id": "dashaworks/seo-client-report-skill",
-    "language": "\u2014",
-    "name": "dashaworks/seo-client-report-skill",
-    "stars": 0,
-    "updated_at": "2026-07-30T04:04:02Z",
-    "url": "https://github.com/dashaworks/seo-client-report-skill"
-  },
-  {
-    "description": "Claude Code & Codex skill that turns any AI output into a live shareable URL with view analytics, via the ReportRoom MCP",
-    "id": "dashaworks/share-as-link-skill",
-    "language": "\u2014",
-    "name": "dashaworks/share-as-link-skill",
-    "stars": 0,
-    "updated_at": "2026-07-30T04:04:01Z",
-    "url": "https://github.com/dashaworks/share-as-link-skill"
-  },
-  {
-    "description": "Claude Code & Codex skill for M&A and fundraising data rooms \u2014 one live, tracked index page via the ReportRoom MCP.",
-    "id": "dashaworks/data-room-skill",
-    "language": "\u2014",
-    "name": "dashaworks/data-room-skill",
-    "stars": 0,
-    "updated_at": "2026-07-30T04:03:59Z",
-    "url": "https://github.com/dashaworks/data-room-skill"
-  },
-  {
-    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
-    "id": "ramboz/jig",
-    "language": "Python",
-    "name": "ramboz/jig",
-    "stars": 4,
-    "updated_at": "2026-07-30T05:20:35Z",
-    "url": "https://github.com/ramboz/jig"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-30T03:55:55Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
