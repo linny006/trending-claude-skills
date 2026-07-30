@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [stereobooster/software-quality-skills](https://github.com/stereobooster/software-quality-skills) | 0 | — | 2026-07-30 | Claude Code skills distilled from the Software Quality knowledge base |
-| 2 | [fabioc-aloha/Alex_Skill_Mall](https://github.com/fabioc-aloha/Alex_Skill_Mall) | 3 | Python | 2026-07-30 | 284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr |
-| 3 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | Shell | 2026-07-30 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
-| 4 | [jamestkelly/diffler](https://github.com/jamestkelly/diffler) | 1 | TypeScript | 2026-07-30 | Generate comprehension quizzes from Git branch diffs for Claude Code, OpenCode, and pull-request workflows. |
-| 5 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-30 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
-| 6 | [Growth-Today/claude-skills](https://github.com/Growth-Today/claude-skills) | 1 | Python | 2026-07-30 | Claude Skills for go-to-market teams — ready-to-install HubSpot, Salesforce, LinkedIn & outbound skills. AI-native GTM e |
-| 7 | [zghanw/hackathon-skills](https://github.com/zghanw/hackathon-skills) | 0 | — | 2026-07-30 | Claude Code skills for hackathon kickoff, build routing, and timed team pitches. |
-| 8 | [AgamiAI/agami-core](https://github.com/AgamiAI/agami-core) | 19 | Python | 2026-07-30 | The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe |
-| 9 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-07-30 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 10 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-30 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 11 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 102 | Kotlin | 2026-07-30 | Helping the Agents Compose the Things |
-| 12 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-07-30 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-07-30 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [stereobooster/software-quality-skills](https://github.com/stereobooster/software-quality-skills) | 0 | — | 2026-07-30 | Claude Code skills distilled from the Software Quality knowledge base |
+| 3 | [fabioc-aloha/Alex_Skill_Mall](https://github.com/fabioc-aloha/Alex_Skill_Mall) | 3 | Python | 2026-07-30 | 284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr |
+| 4 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | Shell | 2026-07-30 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
+| 5 | [jamestkelly/diffler](https://github.com/jamestkelly/diffler) | 1 | TypeScript | 2026-07-30 | Generate comprehension quizzes from Git branch diffs for Claude Code, OpenCode, and pull-request workflows. |
+| 6 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-30 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
+| 7 | [Growth-Today/claude-skills](https://github.com/Growth-Today/claude-skills) | 1 | Python | 2026-07-30 | Claude Skills for go-to-market teams — ready-to-install HubSpot, Salesforce, LinkedIn & outbound skills. AI-native GTM e |
+| 8 | [zghanw/hackathon-skills](https://github.com/zghanw/hackathon-skills) | 0 | — | 2026-07-30 | Claude Code skills for hackathon kickoff, build routing, and timed team pitches. |
+| 9 | [AgamiAI/agami-core](https://github.com/AgamiAI/agami-core) | 19 | Python | 2026-07-30 | The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe |
+| 10 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-07-30 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 11 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 0 | HTML | 2026-07-30 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 12 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 102 | Kotlin | 2026-07-30 | Helping the Agents Compose the Things |
 | 13 | [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 165 | Python | 2026-07-30 | 67 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI ship-gates |
 | 14 | [Lx050/rubbing-to-knowledge](https://github.com/Lx050/rubbing-to-knowledge) | 0 | Python | 2026-07-30 | 书生国智科探挑战赛 · 赛道六 AI for Social Science · 古代碑帖与拓片 — 可复现证据链科研 Skill 系统:12 个离线、确定性、纯标准库 Skill(哑舍小分队 · 西北大学) |
 | 15 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-07-30 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
