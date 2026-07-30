@@ -1,5 +1,122 @@
 [
   {
+    "description": "Small, disciplined AI capabilities \u2014 each with a pre-declared kill criterion and real usage numbers.",
+    "id": "AdityaVasireddy/agent-skills",
+    "language": "Shell",
+    "name": "AdityaVasireddy/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-07-30T01:44:54Z",
+    "url": "https://github.com/AdityaVasireddy/agent-skills"
+  },
+  {
+    "description": "Got a documentation drift, prompt degradation, or code abstraction problem? That's a Skill Issue \u2014 solved.",
+    "id": "IamOumarIbrahim/skill-issue",
+    "language": "Python",
+    "name": "IamOumarIbrahim/skill-issue",
+    "stars": 0,
+    "updated_at": "2026-07-30T01:44:44Z",
+    "url": "https://github.com/IamOumarIbrahim/skill-issue"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 1,
+    "updated_at": "2026-07-30T01:43:19Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "Claude Code skill for Ideogram AI image generation \u2014 structured JSON caption prompting, color palette control, and MCP-b",
+    "id": "devkindhq/ideogram-ai-toolkit",
+    "language": "\u2014",
+    "name": "devkindhq/ideogram-ai-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-30T01:43:14Z",
+    "url": "https://github.com/devkindhq/ideogram-ai-toolkit"
+  },
+  {
+    "description": "",
+    "id": "argent-gnome/sdlc-skills",
+    "language": "JavaScript",
+    "name": "argent-gnome/sdlc-skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T01:41:05Z",
+    "url": "https://github.com/argent-gnome/sdlc-skills"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-07-30T01:40:31Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 17,
+    "updated_at": "2026-07-30T01:38:36Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "My Claude Code plugins and skills - a plugin marketplace.",
+    "id": "mzaeemkhan/zaeem-claude-plugins",
+    "language": "JavaScript",
+    "name": "mzaeemkhan/zaeem-claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-30T01:38:35Z",
+    "url": "https://github.com/mzaeemkhan/zaeem-claude-plugins"
+  },
+  {
+    "description": "Agent Skills for the Kudosity messaging platform \u2014 send SMS, MMS, WhatsApp and RCS from Claude Code, Cursor, Copilot, Wi",
+    "id": "kudosity/skills",
+    "language": "\u2014",
+    "name": "kudosity/skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T01:33:37Z",
+    "url": "https://github.com/kudosity/skills"
+  },
+  {
+    "description": "My Claude Skills",
+    "id": "Srltas/claude-skills",
+    "language": "Shell",
+    "name": "Srltas/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T01:32:32Z",
+    "url": "https://github.com/Srltas/claude-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 405,
+    "updated_at": "2026-07-30T01:32:13Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-30T01:42:37Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T01:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Product marketing & GTM in your terminal \u2014 45 skills for positioning, messaging, personas, pricing, battlecards, and lau",
     "id": "buildingwithai/pmm-os",
     "language": "Python",
@@ -36,31 +153,13 @@
     "url": "https://github.com/worldwonderer/novel-to-game"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 405,
-    "updated_at": "2026-07-30T01:29:32Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
     "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
     "id": "anmolnagpal/devops-skills",
     "language": "Shell",
     "name": "anmolnagpal/devops-skills",
     "stars": 6,
-    "updated_at": "2026-07-30T01:19:29Z",
+    "updated_at": "2026-07-30T01:41:16Z",
     "url": "https://github.com/anmolnagpal/devops-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T01:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -70,33 +169,6 @@
     "stars": 53,
     "updated_at": "2026-07-30T01:15:09Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Agent Skills for the Kudosity messaging platform \u2014 send SMS, MMS, WhatsApp and RCS from Claude Code, Cursor, Copilot, Wi",
-    "id": "kudosity/skills",
-    "language": "\u2014",
-    "name": "kudosity/skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T01:15:06Z",
-    "url": "https://github.com/kudosity/skills"
-  },
-  {
-    "description": "Claude Code skill for Ideogram AI image generation \u2014 structured JSON caption prompting, color palette control, and MCP-b",
-    "id": "devkindhq/ideogram-ai-toolkit",
-    "language": "\u2014",
-    "name": "devkindhq/ideogram-ai-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-30T01:13:50Z",
-    "url": "https://github.com/devkindhq/ideogram-ai-toolkit"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-30T01:27:36Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
@@ -124,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T01:05:36Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "My Claude Code plugins and skills - a plugin marketplace.",
-    "id": "mzaeemkhan/zaeem-claude-plugins",
-    "language": "JavaScript",
-    "name": "mzaeemkhan/zaeem-claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-30T01:05:05Z",
-    "url": "https://github.com/mzaeemkhan/zaeem-claude-plugins"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T23:59:54Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:59:35Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:58:08Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:58:06Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:58:01Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Agent skills that follow the open Agent Skills spec \u2014 usable by Claude Code, Codex, and any compliant agent.",
-    "id": "brandtam/skills",
-    "language": "JavaScript",
-    "name": "brandtam/skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T23:56:21Z",
-    "url": "https://github.com/brandtam/skills"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:55:48Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:55:15Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
