@@ -1,5 +1,32 @@
 [
   {
+    "description": "A /export-md slash command for Claude Code \u2014 save any session as clean, readable markdown.",
+    "id": "yussufs/export-md",
+    "language": "Python",
+    "name": "yussufs/export-md",
+    "stars": 0,
+    "updated_at": "2026-07-30T22:47:47Z",
+    "url": "https://github.com/yussufs/export-md"
+  },
+  {
+    "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
+    "id": "dayvisonassis/sdd-skills",
+    "language": "\u2014",
+    "name": "dayvisonassis/sdd-skills",
+    "stars": 1,
+    "updated_at": "2026-07-30T22:45:49Z",
+    "url": "https://github.com/dayvisonassis/sdd-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T22:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
@@ -99,15 +126,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "A /export-md slash command for Claude Code \u2014 save any session as clean, readable markdown.",
-    "id": "yussufs/export-md",
-    "language": "Python",
-    "name": "yussufs/export-md",
-    "stars": 0,
-    "updated_at": "2026-07-30T22:31:28Z",
-    "url": "https://github.com/yussufs/export-md"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -124,15 +142,6 @@
     "stars": 20,
     "updated_at": "2026-07-30T22:30:37Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T22:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "ramboz/jig",
     "stars": 4,
-    "updated_at": "2026-07-30T22:10:55Z",
+    "updated_at": "2026-07-30T22:47:59Z",
     "url": "https://github.com/ramboz/jig"
   },
   {
@@ -436,17 +445,8 @@
     "id": "0xwilliamortiz/agents-council",
     "language": "JavaScript",
     "name": "0xwilliamortiz/agents-council",
-    "stars": 208,
+    "stars": 210,
     "updated_at": "2026-07-30T21:42:20Z",
     "url": "https://github.com/0xwilliamortiz/agents-council"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 137,
-    "updated_at": "2026-07-30T22:26:37Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
   }
 ]
