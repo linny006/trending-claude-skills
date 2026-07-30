@@ -1,5 +1,104 @@
 [
   {
+    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
+    "id": "ramboz/jig",
+    "language": "Python",
+    "name": "ramboz/jig",
+    "stars": 4,
+    "updated_at": "2026-07-30T18:45:09Z",
+    "url": "https://github.com/ramboz/jig"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 137,
+    "updated_at": "2026-07-30T18:44:54Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Open-source SEO and AEO agent. Ranks every finding by distance to revenue, checks the live SERP before briefing anything",
+    "id": "vcxcvii/rainmaker",
+    "language": "TypeScript",
+    "name": "vcxcvii/rainmaker",
+    "stars": 0,
+    "updated_at": "2026-07-30T18:37:11Z",
+    "url": "https://github.com/vcxcvii/rainmaker"
+  },
+  {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 4,
+    "updated_at": "2026-07-30T18:33:36Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "Hivemind turns your traces into reusable skills across agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 1517,
+    "updated_at": "2026-07-30T18:33:28Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30401,
+    "updated_at": "2026-07-30T18:33:05Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "openEHR assistant AI plugin suite with Skills, commands, and MCP server configuration for clinical workflow integration",
+    "id": "Cadasto/openehr-assistant-plugin",
+    "language": "Python",
+    "name": "Cadasto/openehr-assistant-plugin",
+    "stars": 3,
+    "updated_at": "2026-07-30T18:32:15Z",
+    "url": "https://github.com/Cadasto/openehr-assistant-plugin"
+  },
+  {
+    "description": "Set of skills for globalizing and localizing app",
+    "id": "globalize-now/globalize-skills",
+    "language": "TypeScript",
+    "name": "globalize-now/globalize-skills",
+    "stars": 3,
+    "updated_at": "2026-07-30T18:30:32Z",
+    "url": "https://github.com/globalize-now/globalize-skills"
+  },
+  {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 378,
+    "updated_at": "2026-07-30T18:30:24Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T18:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 285,
+    "updated_at": "2026-07-30T18:29:57Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
     "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
     "id": "jonaskahn/docforge",
     "language": "Python",
@@ -9,15 +108,6 @@
     "url": "https://github.com/jonaskahn/docforge"
   },
   {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30400,
-    "updated_at": "2026-07-30T18:29:02Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "A soundtrack for your coding agent \u2014 music plays while Claude Code works and stops the moment it's your turn. Native, ze",
     "id": "GusGaiotti/vibecode.fm",
     "language": "Rust",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T18:26:03Z",
     "url": "https://github.com/GusGaiotti/vibecode.fm"
-  },
-  {
-    "description": "Open-source SEO and AEO agent. Ranks every finding by distance to revenue, checks the live SERP before briefing anything",
-    "id": "vcxcvii/rainmaker",
-    "language": "TypeScript",
-    "name": "vcxcvii/rainmaker",
-    "stars": 0,
-    "updated_at": "2026-07-30T18:28:56Z",
-    "url": "https://github.com/vcxcvii/rainmaker"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -63,21 +144,12 @@
     "url": "https://github.com/Edward0l1/skill-flare-discover"
   },
   {
-    "description": "openEHR assistant AI plugin suite with Skills, commands, and MCP server configuration for clinical workflow integration",
-    "id": "Cadasto/openehr-assistant-plugin",
-    "language": "Python",
-    "name": "Cadasto/openehr-assistant-plugin",
-    "stars": 3,
-    "updated_at": "2026-07-30T18:27:16Z",
-    "url": "https://github.com/Cadasto/openehr-assistant-plugin"
-  },
-  {
     "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
     "id": "KijitoAI/kijito-claude",
     "language": "JavaScript",
     "name": "KijitoAI/kijito-claude",
     "stars": 0,
-    "updated_at": "2026-07-30T18:21:35Z",
+    "updated_at": "2026-07-30T18:43:03Z",
     "url": "https://github.com/KijitoAI/kijito-claude"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T18:15:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code plugin marketplace for Portka Tools & Standards.  Includes video-bug-analyzer, repo-bootstrap, app-website-e",
     "id": "cportka/claude-plugins",
     "language": "Shell",
@@ -178,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T18:14:06Z",
     "url": "https://github.com/ndisisnd/msg"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 285,
-    "updated_at": "2026-07-30T18:29:57Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
     "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
@@ -324,15 +378,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 4,
-    "updated_at": "2026-07-30T18:01:37Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
     "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "malkreide/mcp-audit-skill",
     "stars": 1,
-    "updated_at": "2026-07-30T18:06:52Z",
+    "updated_at": "2026-07-30T18:40:48Z",
     "url": "https://github.com/malkreide/mcp-audit-skill"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T17:31:46Z",
     "url": "https://github.com/awjackson2/phase-skills"
-  },
-  {
-    "description": "My main list of vendor-agnostic agent skills and harness configs",
-    "id": "anton-winter-arch/dotagents",
-    "language": "Python",
-    "name": "anton-winter-arch/dotagents",
-    "stars": 0,
-    "updated_at": "2026-07-30T17:29:23Z",
-    "url": "https://github.com/anton-winter-arch/dotagents"
-  },
-  {
-    "description": "The go-to-market operating system for early-stage software products. AI marketing skills for Claude Code - scored audits",
-    "id": "adaptico/adaptico-os",
-    "language": "JavaScript",
-    "name": "adaptico/adaptico-os",
-    "stars": 11,
-    "updated_at": "2026-07-30T17:29:10Z",
-    "url": "https://github.com/adaptico/adaptico-os"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-30T17:26:15Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "All the projects used in unownedself.com blog",
-    "id": "gopal-iosdev/UnOwnedSelf_Projects",
-    "language": "Swift",
-    "name": "gopal-iosdev/UnOwnedSelf_Projects",
-    "stars": 0,
-    "updated_at": "2026-07-30T17:28:39Z",
-    "url": "https://github.com/gopal-iosdev/UnOwnedSelf_Projects"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 1,
-    "updated_at": "2026-07-30T17:22:16Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
