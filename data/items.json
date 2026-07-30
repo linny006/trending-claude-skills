@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agent Skills for software distribution \u2014 apt-setup (Debian/Ubuntu) and choco-setup (Windows), SKILL.md standard",
+    "id": "punkscience/agent-skills",
+    "language": "Shell",
+    "name": "punkscience/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T15:31:52Z",
+    "url": "https://github.com/punkscience/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T15:30:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "",
     "id": "andresnator/agents-orchestrator",
     "language": "TypeScript",
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 416,
-    "updated_at": "2026-07-30T15:27:29Z",
+    "updated_at": "2026-07-30T15:30:54Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -34,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-07-30T15:29:46Z",
     "url": "https://github.com/ndisisnd/wdym"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 3,
+    "updated_at": "2026-07-30T15:24:35Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "Open registry of community-contributed AI coding skills (SKILL.md files) \u2014 daily-synced to skills-hub.ai. Install across",
@@ -151,15 +178,6 @@
     "stars": 620,
     "updated_at": "2026-07-30T15:16:24Z",
     "url": "https://github.com/bawadou/claude-engineer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T15:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code plugin for Quant Data \u2014 measured market statistics for AI agents: day-type probabilities, Weis Wave volume e",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T14:48:40Z",
     "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
-  },
-  {
-    "description": "Reusable Claude Code skills for branch/worktree-based PR workflow, design docs, acceptance tests, and doc maintenance.",
-    "id": "kompiro/hane",
-    "language": "Shell",
-    "name": "kompiro/hane",
-    "stars": 0,
-    "updated_at": "2026-07-30T14:47:49Z",
-    "url": "https://github.com/kompiro/hane"
-  },
-  {
-    "description": "Your CTO for open-source tools \u2014 point it at any repo, project site, or package page and get a straight verdict: install",
-    "id": "wallmage/repo-scout",
-    "language": "Python",
-    "name": "wallmage/repo-scout",
-    "stars": 1,
-    "updated_at": "2026-07-30T14:45:58Z",
-    "url": "https://github.com/wallmage/repo-scout"
   }
 ]
