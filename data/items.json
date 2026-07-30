@@ -1,5 +1,50 @@
 [
   {
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
+    "id": "isatimur/presentation-md",
+    "language": "HTML",
+    "name": "isatimur/presentation-md",
+    "stars": 2,
+    "updated_at": "2026-07-30T23:30:06Z",
+    "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 416,
+    "updated_at": "2026-07-30T23:29:13Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 3,
+    "updated_at": "2026-07-30T23:21:24Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "Production-grade, universal AI Agent skills and behavioral execution policies for Antigravity, Claude Code, Cursor, Wind",
+    "id": "AxelS27/liem-skills",
+    "language": "\u2014",
+    "name": "AxelS27/liem-skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T23:17:46Z",
+    "url": "https://github.com/AxelS27/liem-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T23:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
@@ -16,24 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T23:13:09Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 3,
-    "updated_at": "2026-07-30T23:13:10Z",
-    "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
-    "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 2,
-    "updated_at": "2026-07-30T23:13:26Z",
-    "url": "https://github.com/isatimur/presentation-md"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -108,15 +135,6 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "Production-grade, universal AI Agent skills and behavioral execution policies for Antigravity, Claude Code, Cursor, Wind",
-    "id": "AxelS27/liem-skills",
-    "language": "\u2014",
-    "name": "AxelS27/liem-skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T23:03:08Z",
-    "url": "https://github.com/AxelS27/liem-skills"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -133,15 +151,6 @@
     "stars": 24,
     "updated_at": "2026-07-30T23:00:54Z",
     "url": "https://github.com/helius-labs/core-ai"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T23:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -196,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T22:54:10Z",
     "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 416,
-    "updated_at": "2026-07-30T23:08:39Z",
-    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -392,7 +392,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-30T23:07:24Z",
+    "updated_at": "2026-07-30T23:21:42Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
