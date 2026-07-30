@@ -1,5 +1,68 @@
 [
   {
+    "description": "Rewrite a raw prompt into an assignment an agent can actually finish. Six sections plus four leak checks: unfalsifiable ",
+    "id": "stgomoyaa/encargo",
+    "language": "\u2014",
+    "name": "stgomoyaa/encargo",
+    "stars": 0,
+    "updated_at": "2026-07-30T00:22:28Z",
+    "url": "https://github.com/stgomoyaa/encargo"
+  },
+  {
+    "description": "Skill de diseno anti-slop para agentes de codigo, hecha para quienes shippean en espanol. Gate de voseo, honestidad como",
+    "id": "stgomoyaa/firma",
+    "language": "JavaScript",
+    "name": "stgomoyaa/firma",
+    "stars": 0,
+    "updated_at": "2026-07-30T00:22:26Z",
+    "url": "https://github.com/stgomoyaa/firma"
+  },
+  {
+    "description": "Claude Code and Codex skills for LinkedIn growth: write human-sounding posts, craft comments that get noticed, analyze y",
+    "id": "sergebulaev/linkedin-skills",
+    "language": "Python",
+    "name": "sergebulaev/linkedin-skills",
+    "stars": 458,
+    "updated_at": "2026-07-30T00:18:36Z",
+    "url": "https://github.com/sergebulaev/linkedin-skills"
+  },
+  {
+    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
+    "id": "KijitoAI/kijito-claude",
+    "language": "Shell",
+    "name": "KijitoAI/kijito-claude",
+    "stars": 0,
+    "updated_at": "2026-07-30T00:16:00Z",
+    "url": "https://github.com/KijitoAI/kijito-claude"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-30T00:15:50Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-07-30T00:15:46Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T00:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T00:12:26Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Skill de diseno anti-slop para agentes de codigo, hecha para quienes shippean en espanol. Gate de voseo, honestidad como",
-    "id": "stgomoyaa/firma",
-    "language": "JavaScript",
-    "name": "stgomoyaa/firma",
-    "stars": 0,
-    "updated_at": "2026-07-30T00:11:46Z",
-    "url": "https://github.com/stgomoyaa/firma"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -106,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T00:01:20Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T00:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -257,7 +302,7 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 414,
-    "updated_at": "2026-07-30T00:11:15Z",
+    "updated_at": "2026-07-30T00:26:33Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T23:49:48Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Rewrite a raw prompt into an assignment an agent can actually finish. Six sections plus four leak checks: unfalsifiable ",
-    "id": "stgomoyaa/encargo",
-    "language": "\u2014",
-    "name": "stgomoyaa/encargo",
-    "stars": 0,
-    "updated_at": "2026-07-29T23:48:40Z",
-    "url": "https://github.com/stgomoyaa/encargo"
   },
   {
     "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
@@ -412,41 +448,5 @@
     "stars": 225,
     "updated_at": "2026-07-29T23:24:18Z",
     "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 102,
-    "updated_at": "2026-07-30T00:11:42Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Computer-Use SDK for E2E QA Testing",
-    "id": "testdriverai/testdriverai",
-    "language": "JavaScript",
-    "name": "testdriverai/testdriverai",
-    "stars": 236,
-    "updated_at": "2026-07-29T23:23:16Z",
-    "url": "https://github.com/testdriverai/testdriverai"
-  },
-  {
-    "description": "curated collection of reusable building blocks for AI agents",
-    "id": "mdeuerlein/ai-loomkit",
-    "language": "JavaScript",
-    "name": "mdeuerlein/ai-loomkit",
-    "stars": 0,
-    "updated_at": "2026-07-29T23:22:18Z",
-    "url": "https://github.com/mdeuerlein/ai-loomkit"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-29T23:17:32Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   }
 ]
