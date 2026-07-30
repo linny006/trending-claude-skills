@@ -1,5 +1,104 @@
 [
   {
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
+    "id": "isatimur/presentation-md",
+    "language": "HTML",
+    "name": "isatimur/presentation-md",
+    "stars": 2,
+    "updated_at": "2026-07-30T21:29:50Z",
+    "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:29:44Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 3,
+    "updated_at": "2026-07-30T21:29:16Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
+    "id": "Chili-Piper/mcp-assets",
+    "language": "\u2014",
+    "name": "Chili-Piper/mcp-assets",
+    "stars": 7,
+    "updated_at": "2026-07-30T21:27:49Z",
+    "url": "https://github.com/Chili-Piper/mcp-assets"
+  },
+  {
+    "description": "16 marketing skills that turn Claude into a SaaS growth marketer \u2014 SEO, ads, copywriting, onboarding, analytics.",
+    "id": "jonbishop1/saas-marketing-skills",
+    "language": "\u2014",
+    "name": "jonbishop1/saas-marketing-skills",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:27:45Z",
+    "url": "https://github.com/jonbishop1/saas-marketing-skills"
+  },
+  {
+    "description": "A skillet full of agent skills that actually ship work. Production-tested SKILL.md workflows for audits, security, relea",
+    "id": "escoffier-labs/skillet",
+    "language": "Shell",
+    "name": "escoffier-labs/skillet",
+    "stars": 3,
+    "updated_at": "2026-07-30T21:21:48Z",
+    "url": "https://github.com/escoffier-labs/skillet"
+  },
+  {
+    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
+    "id": "ramboz/jig",
+    "language": "Python",
+    "name": "ramboz/jig",
+    "stars": 4,
+    "updated_at": "2026-07-30T21:26:57Z",
+    "url": "https://github.com/ramboz/jig"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:19:33Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 13,
+    "updated_at": "2026-07-30T21:19:06Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "Turn long AI conversations into reusable domain knowledge across sessions",
+    "id": "XTSoftwareLabs/neatcontext-plugins",
+    "language": "JavaScript",
+    "name": "XTSoftwareLabs/neatcontext-plugins",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:15:21Z",
+    "url": "https://github.com/XTSoftwareLabs/neatcontext-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T21:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
     "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
@@ -22,7 +121,7 @@
     "id": "AThevon/genjutsu",
     "language": "Python",
     "name": "AThevon/genjutsu",
-    "stars": 149,
+    "stars": 150,
     "updated_at": "2026-07-30T21:13:21Z",
     "url": "https://github.com/AThevon/genjutsu"
   },
@@ -32,7 +131,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-30T21:13:02Z",
+    "updated_at": "2026-07-30T21:24:15Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T21:12:46Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
-    "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 2,
-    "updated_at": "2026-07-30T21:12:17Z",
-    "url": "https://github.com/isatimur/presentation-md"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -135,15 +225,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T21:00:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Lossless context compression plugin for Claude Code & OpenCode.",
     "id": "aerovato/magic-compact",
     "language": "TypeScript",
@@ -153,12 +234,12 @@
     "url": "https://github.com/aerovato/magic-compact"
   },
   {
-    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 8,
-    "updated_at": "2026-07-30T21:00:04Z",
+    "updated_at": "2026-07-30T21:29:41Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -223,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T20:54:09Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-07-30T20:54:14Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -320,7 +392,7 @@
     "language": "TypeScript",
     "name": "gtrabanco/agentic-workflow",
     "stars": 19,
-    "updated_at": "2026-07-30T20:37:04Z",
+    "updated_at": "2026-07-30T21:26:26Z",
     "url": "https://github.com/gtrabanco/agentic-workflow"
   },
   {
@@ -331,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T20:37:00Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Turn long AI conversations into reusable domain knowledge across sessions",
-    "id": "XTSoftwareLabs/neatcontext-plugins",
-    "language": "JavaScript",
-    "name": "XTSoftwareLabs/neatcontext-plugins",
-    "stars": 1,
-    "updated_at": "2026-07-30T21:12:08Z",
-    "url": "https://github.com/XTSoftwareLabs/neatcontext-plugins"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T20:27:20Z",
     "url": "https://github.com/metallurgical/ogre-runner"
-  },
-  {
-    "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 3,
-    "updated_at": "2026-07-30T20:27:05Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-30T20:21:09Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-30T20:20:29Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-30T20:19:57Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-07-30T20:19:26Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
-    "id": "KijitoAI/kijito-claude",
-    "language": "JavaScript",
-    "name": "KijitoAI/kijito-claude",
-    "stars": 0,
-    "updated_at": "2026-07-30T20:43:47Z",
-    "url": "https://github.com/KijitoAI/kijito-claude"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 0,
-    "updated_at": "2026-07-30T20:18:53Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
   }
 ]
