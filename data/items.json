@@ -1,5 +1,86 @@
 [
   {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 81,
+    "updated_at": "2026-07-30T13:44:09Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "Unified design, motion, 3D, and video super skill for AI coding agents - eight upstream knowledge bases distilled into o",
+    "id": "leobbaroni/maestro",
+    "language": "TypeScript",
+    "name": "leobbaroni/maestro",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:41:32Z",
+    "url": "https://github.com/leobbaroni/maestro"
+  },
+  {
+    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
+    "id": "konglong87/superPM",
+    "language": "JavaScript",
+    "name": "konglong87/superPM",
+    "stars": 41,
+    "updated_at": "2026-07-30T13:39:08Z",
+    "url": "https://github.com/konglong87/superPM"
+  },
+  {
+    "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
+    "id": "anmolnagpal/devops-skills",
+    "language": "Shell",
+    "name": "anmolnagpal/devops-skills",
+    "stars": 6,
+    "updated_at": "2026-07-30T13:38:00Z",
+    "url": "https://github.com/anmolnagpal/devops-skills"
+  },
+  {
+    "description": "Clearfront OSINT: free, open-source AI OSINT agent that maps your digital footprint across 3,400+ public data sources. R",
+    "id": "scottmartinanderson/clearfront",
+    "language": "Python",
+    "name": "scottmartinanderson/clearfront",
+    "stars": 14,
+    "updated_at": "2026-07-30T13:35:41Z",
+    "url": "https://github.com/scottmartinanderson/clearfront"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:33:43Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Claude Code skill that prepares Indian Income Tax Returns (ITR-1/2/3/4): parses Form 16/AIS/26AS/broker statements, reco",
+    "id": "NidheeshJain/itr-prep-skill",
+    "language": "Python",
+    "name": "NidheeshJain/itr-prep-skill",
+    "stars": 24,
+    "updated_at": "2026-07-30T13:33:03Z",
+    "url": "https://github.com/NidheeshJain/itr-prep-skill"
+  },
+  {
+    "description": "Validate Claude Code skills against the agentskills specification (Free tier)",
+    "id": "olgasafonova/SkillCheck-Free",
+    "language": "\u2014",
+    "name": "olgasafonova/SkillCheck-Free",
+    "stars": 36,
+    "updated_at": "2026-07-30T13:31:52Z",
+    "url": "https://github.com/olgasafonova/SkillCheck-Free"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T13:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free starter skills for Claude Code: conventional commits, code review, test writing, and README generation, plus a star",
     "id": "claudifytech/claude-code-skills-starter",
     "language": "\u2014",
@@ -9,18 +90,27 @@
     "url": "https://github.com/claudifytech/claude-code-skills-starter"
   },
   {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-30T13:44:37Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
     "description": "Generate comprehension quizzes from Git branch diffs for Claude Code, OpenCode, and pull-request workflows.",
     "id": "jamestkelly/diffler",
     "language": "TypeScript",
     "name": "jamestkelly/diffler",
     "stars": 1,
-    "updated_at": "2026-07-30T13:29:51Z",
+    "updated_at": "2026-07-30T13:39:45Z",
     "url": "https://github.com/jamestkelly/diffler"
   },
   {
     "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
     "id": "akovalion/paranoid-qa",
-    "language": "Shell",
+    "language": "Python",
     "name": "akovalion/paranoid-qa",
     "stars": 9,
     "updated_at": "2026-07-30T13:29:40Z",
@@ -81,15 +171,6 @@
     "url": "https://github.com/dashaworks/report-skills"
   },
   {
-    "description": "Claude Code skill that prepares Indian Income Tax Returns (ITR-1/2/3/4): parses Form 16/AIS/26AS/broker statements, reco",
-    "id": "NidheeshJain/itr-prep-skill",
-    "language": "Python",
-    "name": "NidheeshJain/itr-prep-skill",
-    "stars": 24,
-    "updated_at": "2026-07-30T13:23:25Z",
-    "url": "https://github.com/NidheeshJain/itr-prep-skill"
-  },
-  {
     "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
     "id": "aaron-he-zhu/aaron-marketing-skills",
     "language": "Python",
@@ -97,15 +178,6 @@
     "stars": 2478,
     "updated_at": "2026-07-30T13:23:11Z",
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-30T13:30:00Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "Server-side image compression skill with CDN output \u2014 supports batch processing and single-file mode",
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T13:16:06Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T13:15:58Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skills distilled from the Software Quality knowledge base",
@@ -230,7 +293,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-30T13:14:52Z",
+    "updated_at": "2026-07-30T13:43:45Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -369,15 +432,6 @@
     "url": "https://github.com/Zevenue/headless-gtm"
   },
   {
-    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
-    "id": "konglong87/superPM",
-    "language": "JavaScript",
-    "name": "konglong87/superPM",
-    "stars": 41,
-    "updated_at": "2026-07-30T12:28:53Z",
-    "url": "https://github.com/konglong87/superPM"
-  },
-  {
     "description": "Skill instalable para Claude Code que mide si tu agente cumple las reglas establecidas. Lee el historial de sesiones de ",
     "id": "jleonceo/skill-adherencia-reglas",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T13:26:52Z",
     "url": "https://github.com/jsuvic/agent-profile"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:25:30Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:24:51Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:24:48Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:23:39Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:23:13Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Fertige, deutschsprachige Claude Skills von KI-Wissen.org zum kostenlosen Download.",
-    "id": "kiwissenorg-skills/claude-skills",
-    "language": "\u2014",
-    "name": "kiwissenorg-skills/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:22:34Z",
-    "url": "https://github.com/kiwissenorg-skills/claude-skills"
   }
 ]
