@@ -1,5 +1,86 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 405,
+    "updated_at": "2026-07-30T07:56:39Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Claude Code skill for candidate sourcing",
+    "id": "Da6ka/tech-sourcing-skill",
+    "language": "TypeScript",
+    "name": "Da6ka/tech-sourcing-skill",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:56:38Z",
+    "url": "https://github.com/Da6ka/tech-sourcing-skill"
+  },
+  {
+    "description": "Automated CI/CD setup for GitHub Actions \u2014 one command, tests + deploy to AWS, Vercel, or any server.",
+    "id": "khemratechconsulting/github-actions-setup",
+    "language": "Shell",
+    "name": "khemratechconsulting/github-actions-setup",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:58:24Z",
+    "url": "https://github.com/khemratechconsulting/github-actions-setup"
+  },
+  {
+    "description": "Claude Skills for go-to-market teams \u2014 ready-to-install HubSpot, Salesforce, LinkedIn & outbound skills. AI-native GTM e",
+    "id": "Growth-Today/claude-skills",
+    "language": "Python",
+    "name": "Growth-Today/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-07-30T07:52:47Z",
+    "url": "https://github.com/Growth-Today/claude-skills"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-30T08:00:06Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66808,
+    "updated_at": "2026-07-30T07:46:34Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A doctor for your Claude Code agent skills \u2014 find the SKILL.md files Claude silently can't see (over the discovery-char ",
+    "id": "gulmezeren2-byte/claude-skills-doctor",
+    "language": "Python",
+    "name": "gulmezeren2-byte/claude-skills-doctor",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:46:22Z",
+    "url": "https://github.com/gulmezeren2-byte/claude-skills-doctor"
+  },
+  {
+    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
+    "id": "davepoon/buildwithclaude",
+    "language": "TypeScript",
+    "name": "davepoon/buildwithclaude",
+    "stars": 3233,
+    "updated_at": "2026-07-30T07:45:52Z",
+    "url": "https://github.com/davepoon/buildwithclaude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-30T07:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udd16 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills",
     "id": "CitiesSkylinesModding/agents-plugins",
     "language": "C#",
@@ -7,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-07-30T07:45:10Z",
     "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 3,
+    "updated_at": "2026-07-30T07:45:00Z",
+    "url": "https://github.com/netopsengineer/axiom"
   },
   {
     "description": "Structured expert interviews that compile tacit judgment, workflows, exceptions, and acceptance criteria into portable A",
@@ -90,21 +180,12 @@
     "url": "https://github.com/mickzijdel/dev-hooks"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-30T07:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-30T07:43:42Z",
+    "updated_at": "2026-07-30T07:54:03Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -133,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T07:28:05Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-30T07:42:30Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -216,15 +288,6 @@
     "url": "https://github.com/wyuee912-ops/sai-poster-studio"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66807,
-    "updated_at": "2026-07-30T07:20:30Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
     "id": "lemur47/logic",
     "language": "Python",
@@ -261,15 +324,6 @@
     "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
   },
   {
-    "description": "Automated CI/CD setup for GitHub Actions \u2014 one command, tests + deploy to AWS, Vercel, or any server.",
-    "id": "khemratechconsulting/github-actions-setup",
-    "language": "Shell",
-    "name": "khemratechconsulting/github-actions-setup",
-    "stars": 1,
-    "updated_at": "2026-07-30T07:42:10Z",
-    "url": "https://github.com/khemratechconsulting/github-actions-setup"
-  },
-  {
     "description": "Travel industry AI tools, skills & plugins",
     "id": "omnitravelrepo/travel-tools",
     "language": "Python",
@@ -295,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T07:13:11Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
-    "id": "netopsengineer/axiom",
-    "language": "Python",
-    "name": "netopsengineer/axiom",
-    "stars": 3,
-    "updated_at": "2026-07-30T07:45:00Z",
-    "url": "https://github.com/netopsengineer/axiom"
   },
   {
     "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T06:42:31Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:41:09Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
-    "id": "shauryalowkeygotaura/brand-launchpad",
-    "language": "HTML",
-    "name": "shauryalowkeygotaura/brand-launchpad",
-    "stars": 2,
-    "updated_at": "2026-07-30T06:40:56Z",
-    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
-  },
-  {
-    "description": "Fertige, deutschsprachige Claude Skills von KI-Wissen.org zum kostenlosen Download.",
-    "id": "kiwissenorg-skills/claude-skills",
-    "language": "\u2014",
-    "name": "kiwissenorg-skills/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:39:45Z",
-    "url": "https://github.com/kiwissenorg-skills/claude-skills"
-  },
-  {
-    "description": "My personal agent skill repository, primarily focused on game development.",
-    "id": "Yuki001/game-dev-skills",
-    "language": "Python",
-    "name": "Yuki001/game-dev-skills",
-    "stars": 40,
-    "updated_at": "2026-07-30T06:39:40Z",
-    "url": "https://github.com/Yuki001/game-dev-skills"
-  },
-  {
-    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
-    "id": "magnusrodseth/dotfiles",
-    "language": "JavaScript",
-    "name": "magnusrodseth/dotfiles",
-    "stars": 2,
-    "updated_at": "2026-07-30T06:39:27Z",
-    "url": "https://github.com/magnusrodseth/dotfiles"
   }
 ]
