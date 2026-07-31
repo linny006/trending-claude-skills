@@ -1,12 +1,48 @@
 [
   {
-    "description": "Every skill your company knows. On every machine. A self-hosted home for Claude Code skills: propose, review, publish \u2014 ",
-    "id": "ydbondt/shkills",
+    "description": "a public marketplace of all solana-related skills for agents to learn from!",
+    "id": "sendaifun/skills",
     "language": "TypeScript",
-    "name": "ydbondt/shkills",
+    "name": "sendaifun/skills",
+    "stars": 122,
+    "updated_at": "2026-07-31T14:59:21Z",
+    "url": "https://github.com/sendaifun/skills"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
     "stars": 0,
-    "updated_at": "2026-07-31T14:45:07Z",
-    "url": "https://github.com/ydbondt/shkills"
+    "updated_at": "2026-07-31T14:57:47Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 3,
+    "updated_at": "2026-07-31T14:53:48Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-31T14:58:47Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 48,
+    "updated_at": "2026-07-31T14:52:38Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
     "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
@@ -14,8 +50,44 @@
     "language": "HTML",
     "name": "isatimur/presentation-md",
     "stars": 2,
-    "updated_at": "2026-07-31T14:40:37Z",
+    "updated_at": "2026-07-31T14:59:39Z",
     "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Every skill your company knows. On every machine. A self-hosted home for Claude Code skills: propose, review, publish \u2014 ",
+    "id": "ydbondt/shkills",
+    "language": "TypeScript",
+    "name": "ydbondt/shkills",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:51:09Z",
+    "url": "https://github.com/ydbondt/shkills"
+  },
+  {
+    "description": "A doctor for your Claude Code agent skills \u2014 find the SKILL.md files Claude silently can't see (over the discovery-char ",
+    "id": "gulmezeren2-byte/claude-skills-doctor",
+    "language": "Python",
+    "name": "gulmezeren2-byte/claude-skills-doctor",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:54:02Z",
+    "url": "https://github.com/gulmezeren2-byte/claude-skills-doctor"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-31T14:58:07Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T14:45:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Configure Codex, Claude, and Tabnine to understand your project, follow its workflow, and respect its safety rules.",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "jsuvic/agent-profile",
     "stars": 3,
-    "updated_at": "2026-07-31T14:40:59Z",
+    "updated_at": "2026-07-31T14:57:15Z",
     "url": "https://github.com/jsuvic/agent-profile"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/khujta/gabe-suite"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T14:35:51Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -77,7 +140,7 @@
     "language": "C#",
     "name": "dbhq-uk/vela-skill",
     "stars": 0,
-    "updated_at": "2026-07-31T14:40:39Z",
+    "updated_at": "2026-07-31T14:59:42Z",
     "url": "https://github.com/dbhq-uk/vela-skill"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 84,
     "updated_at": "2026-07-31T14:33:00Z",
     "url": "https://github.com/wquguru/skills"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-31T14:42:33Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -113,8 +167,17 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-31T14:39:53Z",
+    "updated_at": "2026-07-31T14:45:42Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "A comprehensive suite of Claude Code ultracode multi-agent workflow scripts, along with a workflow-authoring skill, a li",
+    "id": "hesreallyhim/ultracode-workflows",
+    "language": "JavaScript",
+    "name": "hesreallyhim/ultracode-workflows",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:27:22Z",
+    "url": "https://github.com/hesreallyhim/ultracode-workflows"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -160,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T14:24:53Z",
     "url": "https://github.com/BradPerbs/cloudterm"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 48,
-    "updated_at": "2026-07-31T14:23:17Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
     "description": "Hub de Skills Thiago Feral",
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-07-31T14:39:52Z",
+    "updated_at": "2026-07-31T14:59:48Z",
     "url": "https://github.com/crypdick/pynchy"
   },
   {
@@ -295,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T14:07:56Z",
     "url": "https://github.com/xiaoliangliang/seedance-2.5-prompt-skill"
-  },
-  {
-    "description": "A doctor for your Claude Code agent skills \u2014 find the SKILL.md files Claude silently can't see (over the discovery-char ",
-    "id": "gulmezeren2-byte/claude-skills-doctor",
-    "language": "Python",
-    "name": "gulmezeren2-byte/claude-skills-doctor",
-    "stars": 1,
-    "updated_at": "2026-07-31T14:07:26Z",
-    "url": "https://github.com/gulmezeren2-byte/claude-skills-doctor"
   },
   {
     "description": "",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T13:45:43Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:42:54Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
-    "id": "vdk888/bubble-shield-public",
-    "language": "Python",
-    "name": "vdk888/bubble-shield-public",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:39:43Z",
-    "url": "https://github.com/vdk888/bubble-shield-public"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:39:33Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
-    "id": "akovalion/paranoid-qa",
-    "language": "Python",
-    "name": "akovalion/paranoid-qa",
-    "stars": 9,
-    "updated_at": "2026-07-31T13:31:56Z",
-    "url": "https://github.com/akovalion/paranoid-qa"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "TypeScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 19,
-    "updated_at": "2026-07-31T14:00:15Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
   }
 ]
