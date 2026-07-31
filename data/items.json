@@ -1,5 +1,14 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T22:15:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
     "id": "Optim-Agent/optim-plans",
     "language": "Python",
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T22:00:22Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T22:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude dotfile containing skills, agents etc I use.",
@@ -253,12 +253,12 @@
   },
   {
     "description": "Build Claude skills, and find out whether they actually help. A rewritten derivative of Anthropic's skill-creator, with ",
-    "id": "OpenCnid/claude-code-skill-creator",
+    "id": "OpenCnid/better-skill-creator",
     "language": "Python",
-    "name": "OpenCnid/claude-code-skill-creator",
+    "name": "OpenCnid/better-skill-creator",
     "stars": 1,
     "updated_at": "2026-07-31T21:43:26Z",
-    "url": "https://github.com/OpenCnid/claude-code-skill-creator"
+    "url": "https://github.com/OpenCnid/better-skill-creator"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",

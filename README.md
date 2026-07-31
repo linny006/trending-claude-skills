@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Optim-Agent/optim-plans](https://github.com/Optim-Agent/optim-plans) | 176 | Python | 2026-07-31 | Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor |
-| 2 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-07-31 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
-| 3 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-07-31 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
-| 4 | [JhoseWolf/sageox-hivemind-engine](https://github.com/JhoseWolf/sageox-hivemind-engine) | 1 | HTML | 2026-07-31 | ⚡ SageOx HiveMind 2026 — Agentic Engineering Toolkit for Autonomous Workflows |
-| 5 | [ashfaquecg806-dot/symfony-ux-insights](https://github.com/ashfaquecg806-dot/symfony-ux-insights) | 1 | HTML | 2026-07-31 | Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus |
-| 6 | [gwolf2025/SkillBridge](https://github.com/gwolf2025/SkillBridge) | 0 | TypeScript | 2026-07-31 | Vendor-neutral conversion, compatibility, and testing for reusable AI agent skills. |
-| 7 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 1 | HTML | 2026-07-31 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
-| 8 | [m4vic/socratic](https://github.com/m4vic/socratic) | 36 | — | 2026-07-31 | skill of 697 questions a senior engineer asks before writing code - packaged as a Claude/Codex skill and a portable prom |
-| 9 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 1 | HTML | 2026-07-31 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
-| 10 | [anukulgosavi1-coder/sqlitedata-extensions-playbook](https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook) | 1 | HTML | 2026-07-31 | Top Swift SQLiteData Alternatives 2026 – Best GRDB Skills Kit |
-| 11 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-07-31 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-07-31 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [Optim-Agent/optim-plans](https://github.com/Optim-Agent/optim-plans) | 176 | Python | 2026-07-31 | Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor |
+| 3 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-07-31 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
+| 4 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-07-31 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
+| 5 | [JhoseWolf/sageox-hivemind-engine](https://github.com/JhoseWolf/sageox-hivemind-engine) | 1 | HTML | 2026-07-31 | ⚡ SageOx HiveMind 2026 — Agentic Engineering Toolkit for Autonomous Workflows |
+| 6 | [ashfaquecg806-dot/symfony-ux-insights](https://github.com/ashfaquecg806-dot/symfony-ux-insights) | 1 | HTML | 2026-07-31 | Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus |
+| 7 | [gwolf2025/SkillBridge](https://github.com/gwolf2025/SkillBridge) | 0 | TypeScript | 2026-07-31 | Vendor-neutral conversion, compatibility, and testing for reusable AI agent skills. |
+| 8 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 1 | HTML | 2026-07-31 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
+| 9 | [m4vic/socratic](https://github.com/m4vic/socratic) | 36 | — | 2026-07-31 | skill of 697 questions a senior engineer asks before writing code - packaged as a Claude/Codex skill and a portable prom |
+| 10 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 1 | HTML | 2026-07-31 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
+| 11 | [anukulgosavi1-coder/sqlitedata-extensions-playbook](https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook) | 1 | HTML | 2026-07-31 | Top Swift SQLiteData Alternatives 2026 – Best GRDB Skills Kit |
 | 12 | [Moliboy5000/.claude](https://github.com/Moliboy5000/.claude) | 0 | Python | 2026-07-31 | Claude dotfile containing skills, agents etc I use. |
 | 13 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 1 | HTML | 2026-07-31 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
 | 14 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 1 | HTML | 2026-07-31 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
@@ -70,7 +70,7 @@ expired items removed — so you can rely on what you see being current.
 | 26 | [viibhutisharma30/jetpack-compose-remediation-kit](https://github.com/viibhutisharma30/jetpack-compose-remediation-kit) | 0 | HTML | 2026-07-31 | Modern Jetpack Compose Fixer 2026 – Debug Errors & Boost Android UI Performance |
 | 27 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-07-31 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
 | 28 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 1 | HTML | 2026-07-31 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
-| 29 | [OpenCnid/claude-code-skill-creator](https://github.com/OpenCnid/claude-code-skill-creator) | 1 | Python | 2026-07-31 | Build Claude skills, and find out whether they actually help. A rewritten derivative of Anthropic's skill-creator, with  |
+| 29 | [OpenCnid/better-skill-creator](https://github.com/OpenCnid/better-skill-creator) | 1 | Python | 2026-07-31 | Build Claude skills, and find out whether they actually help. A rewritten derivative of Anthropic's skill-creator, with  |
 | 30 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-31 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
 | 31 | [worldwonderer/novel-to-game](https://github.com/worldwonderer/novel-to-game) | 458 | Markdown | 2026-07-31 | Open-source Agent Skills that turn novels into source-grounded, fully playable web games for Claude Code, Codex, and Kim |
 | 32 | [mshadmanrahman/claude-for-designers](https://github.com/mshadmanrahman/claude-for-designers) | 20 | HTML | 2026-07-31 | A working repository for designers who use Claude as a collaborator. Skills, principles, project templates, and a career |
