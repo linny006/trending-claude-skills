@@ -1,12 +1,57 @@
 [
   {
+    "description": "Claude Code and Codex skill for compiler-exact .NET code search - references, callers and change impact, Razor and Blazo",
+    "id": "dbhq-uk/vela-skill",
+    "language": "C#",
+    "name": "dbhq-uk/vela-skill",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:33:57Z",
+    "url": "https://github.com/dbhq-uk/vela-skill"
+  },
+  {
+    "description": "Practical Agent Skills \u2014 English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add.",
+    "id": "wquguru/skills",
+    "language": "HTML",
+    "name": "wquguru/skills",
+    "stars": 84,
+    "updated_at": "2026-07-31T14:33:00Z",
+    "url": "https://github.com/wquguru/skills"
+  },
+  {
     "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
     "id": "isatimur/presentation-md",
     "language": "HTML",
     "name": "isatimur/presentation-md",
     "stars": 2,
-    "updated_at": "2026-07-31T14:29:37Z",
+    "updated_at": "2026-07-31T14:33:25Z",
     "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-31T14:30:29Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T14:30:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:29:56Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -14,7 +59,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-31T14:28:27Z",
+    "updated_at": "2026-07-31T14:35:22Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "jsuvic/agent-profile",
     "stars": 3,
-    "updated_at": "2026-07-31T14:18:10Z",
+    "updated_at": "2026-07-31T14:34:58Z",
     "url": "https://github.com/jsuvic/agent-profile"
   },
   {
@@ -153,15 +198,6 @@
     "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T14:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u041f\u0435\u0440\u0435\u0433\u043e\u043d\u044f\u0435\u0442 \u043a\u043d\u0438\u0433\u0443, \u043a\u0443\u0440\u0441 \u0438\u043b\u0438 \u043f\u043e\u0434\u043a\u0430\u0441\u0442 \u0432 \u043d\u0430\u0431\u043e\u0440 \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u043c\u044b\u0445 Claude Code \u0441\u043a\u0438\u043b\u043b\u043e\u0432. \u0420\u0443\u0441\u0441\u043a\u0430\u044f \u043b\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f cangjie-skill \u0441 \u0442\u0440\u043e\u0439\u043d\u043e\u0439 \u043f",
     "id": "ilia-pluzhnikov/book-distill",
     "language": "Python",
@@ -185,7 +221,7 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 416,
-    "updated_at": "2026-07-31T14:11:30Z",
+    "updated_at": "2026-07-31T14:30:58Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-07-31T14:29:15Z",
+    "updated_at": "2026-07-31T14:32:46Z",
     "url": "https://github.com/crypdick/pynchy"
   },
   {
@@ -261,15 +297,6 @@
     "url": "https://github.com/Choi-jae-min/tech-blog-post"
   },
   {
-    "description": "Practical Agent Skills \u2014 English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add.",
-    "id": "wquguru/skills",
-    "language": "HTML",
-    "name": "wquguru/skills",
-    "stars": 84,
-    "updated_at": "2026-07-31T14:01:06Z",
-    "url": "https://github.com/wquguru/skills"
-  },
-  {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
@@ -304,15 +331,6 @@
     "stars": 2482,
     "updated_at": "2026-07-31T13:51:54Z",
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
-  },
-  {
-    "description": "Claude Code and Codex skill for compiler-exact .NET code search - references, callers and change impact, Razor and Blazo",
-    "id": "dbhq-uk/vela-skill",
-    "language": "C#",
-    "name": "dbhq-uk/vela-skill",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:14:08Z",
-    "url": "https://github.com/dbhq-uk/vela-skill"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -378,15 +396,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-31T14:28:20Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
     "id": "akovalion/paranoid-qa",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T13:20:07Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Should you actually install that? A plain-English fit check for any repo, package, API or MCP server, with sources.",
-    "id": "bhaor/toolcheck",
-    "language": "Python",
-    "name": "bhaor/toolcheck",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:19:58Z",
-    "url": "https://github.com/bhaor/toolcheck"
   }
 ]
