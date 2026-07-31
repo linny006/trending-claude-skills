@@ -1,11 +1,83 @@
 [
   {
+    "description": "Every skill your company knows. On every machine. A self-hosted home for Claude Code skills: propose, review, publish \u2014 ",
+    "id": "ydbondt/shkills",
+    "language": "TypeScript",
+    "name": "ydbondt/shkills",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:45:07Z",
+    "url": "https://github.com/ydbondt/shkills"
+  },
+  {
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
+    "id": "isatimur/presentation-md",
+    "language": "HTML",
+    "name": "isatimur/presentation-md",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:40:37Z",
+    "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Configure Codex, Claude, and Tabnine to understand your project, follow its workflow, and respect its safety rules.",
+    "id": "jsuvic/agent-profile",
+    "language": "TypeScript",
+    "name": "jsuvic/agent-profile",
+    "stars": 3,
+    "updated_at": "2026-07-31T14:40:59Z",
+    "url": "https://github.com/jsuvic/agent-profile"
+  },
+  {
+    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
+    "id": "johanthoren/jeff",
+    "language": "JavaScript",
+    "name": "johanthoren/jeff",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:43:04Z",
+    "url": "https://github.com/johanthoren/jeff"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:38:27Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Cognitive translation layer for Claude Code",
+    "id": "khujta/gabe-suite",
+    "language": "HTML",
+    "name": "khujta/gabe-suite",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:37:13Z",
+    "url": "https://github.com/khujta/gabe-suite"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T14:35:51Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:35:07Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "Claude Code and Codex skill for compiler-exact .NET code search - references, callers and change impact, Razor and Blazo",
     "id": "dbhq-uk/vela-skill",
     "language": "C#",
     "name": "dbhq-uk/vela-skill",
     "stars": 0,
-    "updated_at": "2026-07-31T14:33:57Z",
+    "updated_at": "2026-07-31T14:40:39Z",
     "url": "https://github.com/dbhq-uk/vela-skill"
   },
   {
@@ -18,31 +90,13 @@
     "url": "https://github.com/wquguru/skills"
   },
   {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
-    "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:33:25Z",
-    "url": "https://github.com/isatimur/presentation-md"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-07-31T14:30:29Z",
+    "updated_at": "2026-07-31T14:42:33Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T14:30:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -59,7 +113,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-31T14:35:22Z",
+    "updated_at": "2026-07-31T14:39:53Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -103,7 +157,7 @@
     "id": "BradPerbs/cloudterm",
     "language": "JavaScript",
     "name": "BradPerbs/cloudterm",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-31T14:24:53Z",
     "url": "https://github.com/BradPerbs/cloudterm"
   },
@@ -162,15 +216,6 @@
     "url": "https://github.com/samikshapattanaik-cmyk/ga4-analytics-data-quality-suite"
   },
   {
-    "description": "Configure Codex, Claude, and Tabnine to understand your project, follow its workflow, and respect its safety rules.",
-    "id": "jsuvic/agent-profile",
-    "language": "TypeScript",
-    "name": "jsuvic/agent-profile",
-    "stars": 3,
-    "updated_at": "2026-07-31T14:34:58Z",
-    "url": "https://github.com/jsuvic/agent-profile"
-  },
-  {
     "description": " Skills I use for my agentic engineering workflow.",
     "id": "ananthanandanan/skills",
     "language": "HTML",
@@ -211,7 +256,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66916,
+    "stars": 66918,
     "updated_at": "2026-07-31T14:13:37Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -225,21 +270,12 @@
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "Cognitive translation layer for Claude Code",
-    "id": "khujta/gabe-suite",
-    "language": "HTML",
-    "name": "khujta/gabe-suite",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:10:02Z",
-    "url": "https://github.com/khujta/gabe-suite"
-  },
-  {
     "description": "Free, private skill search for AI agents",
     "id": "skill-federation/skill-federation",
     "language": "Python",
     "name": "skill-federation/skill-federation",
     "stars": 10,
-    "updated_at": "2026-07-31T14:08:31Z",
+    "updated_at": "2026-07-31T14:35:49Z",
     "url": "https://github.com/skill-federation/skill-federation"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-07-31T14:32:46Z",
+    "updated_at": "2026-07-31T14:39:52Z",
     "url": "https://github.com/crypdick/pynchy"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 19,
     "updated_at": "2026-07-31T14:00:15Z",
     "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-07-31T13:29:47Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-07-31T13:26:37Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:24:14Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:20:07Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
