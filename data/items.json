@@ -1,12 +1,30 @@
 [
   {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 228,
-    "updated_at": "2026-07-31T00:42:53Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
+    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
+    "id": "pedroberaldo87/pedro-plugins",
+    "language": "HTML",
+    "name": "pedroberaldo87/pedro-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-31T00:59:37Z",
+    "url": "https://github.com/pedroberaldo87/pedro-plugins"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-07-31T00:59:19Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "\u9762\u5411 AI Agent \u7684\u5185\u5bb9\u521b\u4f5c\u6280\u80fd\u96c6\u5408\uff0c\u8986\u76d6\u8d44\u6599\u79ef\u7d2f\u3001\u7ed3\u6784\u8bbe\u8ba1\u3001\u6587\u7ae0\u64b0\u5199\u3001\u5ba1\u67e5\u4f18\u5316\u4e0e\u53d1\u5e03\u6d41\u7a0b\u3002",
+    "id": "gogoingai/wenqu-skills",
+    "language": "TypeScript",
+    "name": "gogoingai/wenqu-skills",
+    "stars": 3,
+    "updated_at": "2026-07-31T00:58:24Z",
+    "url": "https://github.com/gogoingai/wenqu-skills"
   },
   {
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -14,8 +32,26 @@
     "language": "JavaScript",
     "name": "0xwilliamortiz/ponytail-improved",
     "stars": 564,
-    "updated_at": "2026-07-31T00:40:47Z",
+    "updated_at": "2026-07-31T00:58:21Z",
     "url": "https://github.com/0xwilliamortiz/ponytail-improved"
+  },
+  {
+    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
+    "id": "chris-peterson/beacon",
+    "language": "Python",
+    "name": "chris-peterson/beacon",
+    "stars": 0,
+    "updated_at": "2026-07-31T01:00:04Z",
+    "url": "https://github.com/chris-peterson/beacon"
+  },
+  {
+    "description": "Skill de auditoria estrat\u00e9gica pr\u00e9-redacional para advogados brasileiros. Protocolo antialucinat\u00f3rio, matriz probat\u00f3ria,",
+    "id": "pizaniadv/auditor-estrategico-juridico",
+    "language": "\u2014",
+    "name": "pizaniadv/auditor-estrategico-juridico",
+    "stars": 5,
+    "updated_at": "2026-07-31T00:53:58Z",
+    "url": "https://github.com/pizaniadv/auditor-estrategico-juridico"
   },
   {
     "description": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the rout",
@@ -23,8 +59,26 @@
     "language": "Python",
     "name": "glitchwerks/claude-wayfinder",
     "stars": 2,
-    "updated_at": "2026-07-31T00:37:36Z",
+    "updated_at": "2026-07-31T00:48:43Z",
     "url": "https://github.com/glitchwerks/claude-wayfinder"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T00:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 228,
+    "updated_at": "2026-07-31T00:42:53Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
@@ -54,30 +108,12 @@
     "url": "https://github.com/BriarDevv/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T00:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
-    "id": "pedroberaldo87/pedro-plugins",
-    "language": "HTML",
-    "name": "pedroberaldo87/pedro-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-31T00:27:39Z",
-    "url": "https://github.com/pedroberaldo87/pedro-plugins"
-  },
-  {
     "description": "lm-mem \u672c\u5730\u8bed\u4e49\u8bb0\u5fc6",
     "id": "laomou/lm-mem",
     "language": "Python",
     "name": "laomou/lm-mem",
     "stars": 0,
-    "updated_at": "2026-07-31T00:40:54Z",
+    "updated_at": "2026-07-31T00:47:52Z",
     "url": "https://github.com/laomou/lm-mem"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "trevhud/rote",
     "stars": 3,
-    "updated_at": "2026-07-31T00:33:25Z",
+    "updated_at": "2026-07-31T00:54:30Z",
     "url": "https://github.com/trevhud/rote"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T23:42:45Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-30T23:41:47Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-07-30T23:40:54Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-07-30T23:38:24Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-30T23:37:54Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   }
 ]
