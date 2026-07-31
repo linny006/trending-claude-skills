@@ -1,5 +1,95 @@
 [
   {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-07-31T17:11:17Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandboxed YAML suites, ",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 107,
+    "updated_at": "2026-07-31T17:08:20Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-31T17:08:02Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Open-source Agent Skills that turn novels into source-grounded, fully playable web games for Claude Code, Codex, and Kim",
+    "id": "worldwonderer/novel-to-game",
+    "language": "Markdown",
+    "name": "worldwonderer/novel-to-game",
+    "stars": 457,
+    "updated_at": "2026-07-31T17:14:27Z",
+    "url": "https://github.com/worldwonderer/novel-to-game"
+  },
+  {
+    "description": "Read Korean company filings, profiles, and financials from OpenDART (\uc804\uc790\uacf5\uc2dc).",
+    "id": "seokhoonj/opendart-client",
+    "language": "Python",
+    "name": "seokhoonj/opendart-client",
+    "stars": 0,
+    "updated_at": "2026-07-31T17:12:03Z",
+    "url": "https://github.com/seokhoonj/opendart-client"
+  },
+  {
+    "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall",
+    "id": "SELAT-AI/selat-plugins",
+    "language": "Shell",
+    "name": "SELAT-AI/selat-plugins",
+    "stars": 1,
+    "updated_at": "2026-07-31T17:00:59Z",
+    "url": "https://github.com/SELAT-AI/selat-plugins"
+  },
+  {
+    "description": "Plugin with opinionated set of Claude Code agents nad skills",
+    "id": "lklimek/claudius",
+    "language": "Python",
+    "name": "lklimek/claudius",
+    "stars": 1,
+    "updated_at": "2026-07-31T17:00:48Z",
+    "url": "https://github.com/lklimek/claudius"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:00:45Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T17:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 102,
+    "updated_at": "2026-07-31T17:00:01Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
     "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
     "id": "jonaskahn/docforge",
     "language": "Python",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "malkreide/mcp-audit-skill",
     "stars": 1,
-    "updated_at": "2026-07-31T16:56:03Z",
+    "updated_at": "2026-07-31T17:06:13Z",
     "url": "https://github.com/malkreide/mcp-audit-skill"
   },
   {
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-07-31T16:59:10Z",
+    "updated_at": "2026-07-31T17:14:49Z",
     "url": "https://github.com/crypdick/pynchy"
   },
   {
@@ -124,15 +214,6 @@
     "stars": 4,
     "updated_at": "2026-07-31T16:49:15Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T16:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -202,7 +283,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66922,
+    "stars": 66923,
     "updated_at": "2026-07-31T16:26:14Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -288,15 +369,6 @@
     "url": "https://github.com/gulmezeren2-byte/claude-skills-doctor"
   },
   {
-    "description": "Read Korean company filings, profiles, and financials from OpenDART (\uc804\uc790\uacf5\uc2dc).",
-    "id": "seokhoonj/opendart-client",
-    "language": "Python",
-    "name": "seokhoonj/opendart-client",
-    "stars": 0,
-    "updated_at": "2026-07-31T16:07:32Z",
-    "url": "https://github.com/seokhoonj/opendart-client"
-  },
-  {
     "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
     "id": "dongshuyan/compass-skills",
     "language": "Python",
@@ -331,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T16:04:14Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 102,
-    "updated_at": "2026-07-31T17:00:01Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Claude Code Plugins, Commands, and Skills",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T15:57:35Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-07-31T15:56:45Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-31T15:56:34Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:55:20Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:54:06Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "\u041f\u0435\u0440\u0435\u0433\u043e\u043d\u044f\u0435\u0442 \u043a\u043d\u0438\u0433\u0443, \u043a\u0443\u0440\u0441 \u0438\u043b\u0438 \u043f\u043e\u0434\u043a\u0430\u0441\u0442 \u0432 \u043d\u0430\u0431\u043e\u0440 \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u043c\u044b\u0445 Claude Code \u0441\u043a\u0438\u043b\u043b\u043e\u0432. \u0420\u0443\u0441\u0441\u043a\u0430\u044f \u043b\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f cangjie-skill \u0441 \u0442\u0440\u043e\u0439\u043d\u043e\u0439 \u043f",
-    "id": "ilia-pluzhnikov/book-distill",
-    "language": "Python",
-    "name": "ilia-pluzhnikov/book-distill",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:53:56Z",
-    "url": "https://github.com/ilia-pluzhnikov/book-distill"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-07-31T15:52:55Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Agent skills that follow the open Agent Skills spec \u2014 usable by Claude Code, Codex, and any compliant agent.",
-    "id": "brandtam/skills",
-    "language": "JavaScript",
-    "name": "brandtam/skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:52:47Z",
-    "url": "https://github.com/brandtam/skills"
   }
 ]
