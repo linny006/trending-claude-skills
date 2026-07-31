@@ -1,5 +1,113 @@
 [
   {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-31T04:14:13Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "MCP server that suggests repository-specific AI agent skills.",
+    "id": "sator-imaging/suggest-skills",
+    "language": "TypeScript",
+    "name": "sator-imaging/suggest-skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T04:13:13Z",
+    "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "A gated, role-based workflow, with independently reviewed plans, task-by-task delivery, and explicit approval checkpoint",
+    "id": "jameswei/plan-build-review",
+    "language": "\u2014",
+    "name": "jameswei/plan-build-review",
+    "stars": 0,
+    "updated_at": "2026-07-31T04:12:45Z",
+    "url": "https://github.com/jameswei/plan-build-review"
+  },
+  {
+    "description": "lm-mem \u672c\u5730\u8bed\u4e49\u8bb0\u5fc6",
+    "id": "laomou/lm-mem",
+    "language": "Python",
+    "name": "laomou/lm-mem",
+    "stars": 0,
+    "updated_at": "2026-07-31T04:12:21Z",
+    "url": "https://github.com/laomou/lm-mem"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 228,
+    "updated_at": "2026-07-31T04:11:12Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 858,
+    "updated_at": "2026-07-31T04:10:52Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66879,
+    "updated_at": "2026-07-31T04:06:03Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 4973,
+    "updated_at": "2026-07-31T04:05:24Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Server-side image compression skill with CDN output \u2014 supports batch processing and single-file mode",
+    "id": "xiaowu89/skill-compress",
+    "language": "JavaScript",
+    "name": "xiaowu89/skill-compress",
+    "stars": 2,
+    "updated_at": "2026-07-31T04:05:22Z",
+    "url": "https://github.com/xiaowu89/skill-compress"
+  },
+  {
+    "description": "AI-powered image content moderation skill \u2014 detects adult, political, and violent content in images",
+    "id": "xiaowu89/skill-function",
+    "language": "JavaScript",
+    "name": "xiaowu89/skill-function",
+    "stars": 3,
+    "updated_at": "2026-07-31T04:05:17Z",
+    "url": "https://github.com/xiaowu89/skill-function"
+  },
+  {
+    "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 3,
+    "updated_at": "2026-07-31T04:01:44Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T04:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
     "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
     "language": "HTML",
@@ -36,24 +144,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-31T03:59:12Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T03:51:00Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Personal Agent Skills library for Claude Code: eval-first methodology skills, junction-installed globally and built on t",
     "id": "BriarDevv/skills",
     "language": "\u2014",
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T03:43:11Z",
     "url": "https://github.com/BriarDevv/skills"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66877,
-    "updated_at": "2026-07-31T03:41:38Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
@@ -95,7 +176,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-07-31T03:44:38Z",
+    "updated_at": "2026-07-31T04:14:35Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -292,18 +373,9 @@
     "id": "NevaMind-AI/memU",
     "language": "Python",
     "name": "NevaMind-AI/memU",
-    "stars": 14174,
+    "stars": 14173,
     "updated_at": "2026-07-31T02:50:53Z",
     "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "lm-mem \u672c\u5730\u8bed\u4e49\u8bb0\u5fc6",
-    "id": "laomou/lm-mem",
-    "language": "Python",
-    "name": "laomou/lm-mem",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:35:51Z",
-    "url": "https://github.com/laomou/lm-mem"
   },
   {
     "description": "",
@@ -313,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T02:48:00Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 228,
-    "updated_at": "2026-07-31T02:47:07Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-31T02:34:47Z",
     "url": "https://github.com/lj22503/diaolong-skill"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 1,
-    "updated_at": "2026-07-31T02:34:42Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management",
-    "id": "JuneYaooo/awesome-ai-media-skills",
-    "language": "\u2014",
-    "name": "JuneYaooo/awesome-ai-media-skills",
-    "stars": 4,
-    "updated_at": "2026-07-31T02:28:12Z",
-    "url": "https://github.com/JuneYaooo/awesome-ai-media-skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 406,
-    "updated_at": "2026-07-31T02:26:31Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Skills SAP",
-    "id": "williamcorrea23/sap-router-skill",
-    "language": "Python",
-    "name": "williamcorrea23/sap-router-skill",
-    "stars": 0,
-    "updated_at": "2026-07-31T02:26:29Z",
-    "url": "https://github.com/williamcorrea23/sap-router-skill"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-31T02:25:59Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-31T03:04:45Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 3,
-    "updated_at": "2026-07-31T02:15:00Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
   }
 ]
