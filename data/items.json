@@ -1,5 +1,104 @@
 [
   {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:59:04Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-07-31T18:58:03Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
+    "id": "isatimur/presentation-md",
+    "language": "HTML",
+    "name": "isatimur/presentation-md",
+    "stars": 2,
+    "updated_at": "2026-07-31T18:55:39Z",
+    "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Open-source Agent Skills that turn novels into source-grounded, fully playable web games for Claude Code, Codex, and Kim",
+    "id": "worldwonderer/novel-to-game",
+    "language": "Markdown",
+    "name": "worldwonderer/novel-to-game",
+    "stars": 458,
+    "updated_at": "2026-07-31T18:54:38Z",
+    "url": "https://github.com/worldwonderer/novel-to-game"
+  },
+  {
+    "description": "Your app doesn't get in until it's ready. A Claude Agent Skill that works the door for prototype and AI-built apps - 13 ",
+    "id": "punitsnaik/Bouncer",
+    "language": "Shell",
+    "name": "punitsnaik/Bouncer",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:53:51Z",
+    "url": "https://github.com/punitsnaik/Bouncer"
+  },
+  {
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "id": "jonaskahn/docforge",
+    "language": "Python",
+    "name": "jonaskahn/docforge",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:50:36Z",
+    "url": "https://github.com/jonaskahn/docforge"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 83,
+    "updated_at": "2026-07-31T18:49:11Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "Verify test-count claims in commit messages against real pytest output, as a pre-commit hook, a Claude Code hook, or a s",
+    "id": "bhumik154/claim-check",
+    "language": "Python",
+    "name": "bhumik154/claim-check",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:48:52Z",
+    "url": "https://github.com/bhumik154/claim-check"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-31T18:58:24Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
+    "id": "anmolnagpal/devops-skills",
+    "language": "Shell",
+    "name": "anmolnagpal/devops-skills",
+    "stars": 7,
+    "updated_at": "2026-07-31T18:45:44Z",
+    "url": "https://github.com/anmolnagpal/devops-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T18:45:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u041f\u0435\u0440\u0435\u0433\u043e\u043d\u044f\u0435\u0442 \u043a\u043d\u0438\u0433\u0443, \u043a\u0443\u0440\u0441 \u0438\u043b\u0438 \u043f\u043e\u0434\u043a\u0430\u0441\u0442 \u0432 \u043d\u0430\u0431\u043e\u0440 \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u043c\u044b\u0445 Claude Code \u0441\u043a\u0438\u043b\u043b\u043e\u0432. \u0420\u0443\u0441\u0441\u043a\u0430\u044f \u043b\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f cangjie-skill \u0441 \u0442\u0440\u043e\u0439\u043d\u043e\u0439 \u043f",
     "id": "ilia-pluzhnikov/book-distill",
     "language": "Python",
@@ -18,15 +117,6 @@
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "Open-source Agent Skills that turn novels into source-grounded, fully playable web games for Claude Code, Codex, and Kim",
-    "id": "worldwonderer/novel-to-game",
-    "language": "Markdown",
-    "name": "worldwonderer/novel-to-game",
-    "stars": 458,
-    "updated_at": "2026-07-31T18:44:23Z",
-    "url": "https://github.com/worldwonderer/novel-to-game"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -34,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T18:43:04Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
-    "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 2,
-    "updated_at": "2026-07-31T18:41:39Z",
-    "url": "https://github.com/isatimur/presentation-md"
   },
   {
     "description": "Skill instalable para Claude Code que mide si tu agente cumple las reglas establecidas. Lee el historial de sesiones de ",
@@ -72,13 +153,13 @@
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T18:30:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66929,
+    "updated_at": "2026-07-31T18:32:08Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Agent skills for Claude Code & skills.sh-compatible agents.",
@@ -166,7 +247,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 89164,
+    "stars": 89165,
     "updated_at": "2026-07-31T18:21:11Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -261,15 +342,6 @@
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-31T18:44:46Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -319,7 +391,7 @@
     "id": "0xwilliamortiz/ratchet",
     "language": "JavaScript",
     "name": "0xwilliamortiz/ratchet",
-    "stars": 2,
+    "stars": 16,
     "updated_at": "2026-07-31T17:56:04Z",
     "url": "https://github.com/0xwilliamortiz/ratchet"
   },
@@ -374,79 +446,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 137,
-    "updated_at": "2026-07-31T18:34:21Z",
+    "updated_at": "2026-07-31T18:56:14Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:51:40Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Autonomous audit-fix-verify loop for Claude Code. Run against 17 open source projects in 8 languages, 15 converged, 2 fi",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 4,
-    "updated_at": "2026-07-31T17:50:44Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
-    "id": "Chili-Piper/mcp-assets",
-    "language": "\u2014",
-    "name": "Chili-Piper/mcp-assets",
-    "stars": 7,
-    "updated_at": "2026-07-31T17:46:30Z",
-    "url": "https://github.com/Chili-Piper/mcp-assets"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:44:57Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:44:28Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:43:54Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:43:42Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-31T17:43:09Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   }
 ]
