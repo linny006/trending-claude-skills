@@ -1,5 +1,95 @@
 [
   {
+    "description": "Personal Agent Skills library for Claude Code: eval-first methodology skills, junction-installed globally and built on t",
+    "id": "BriarDevv/skills",
+    "language": "\u2014",
+    "name": "BriarDevv/skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:43:11Z",
+    "url": "https://github.com/BriarDevv/skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66877,
+    "updated_at": "2026-07-31T03:41:38Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-07-31T03:40:26Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment\u2014not one fixe",
+    "id": "bitjaru/styleseed",
+    "language": "TypeScript",
+    "name": "bitjaru/styleseed",
+    "stars": 858,
+    "updated_at": "2026-07-31T03:38:25Z",
+    "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-31T03:44:38Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-07-31T03:45:05Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 3,
+    "updated_at": "2026-07-31T03:36:31Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "A working repository for designers who use Claude as a collaborator. Skills, principles, project templates, and a career",
+    "id": "mshadmanrahman/claude-for-designers",
+    "language": "HTML",
+    "name": "mshadmanrahman/claude-for-designers",
+    "stars": 20,
+    "updated_at": "2026-07-31T03:34:35Z",
+    "url": "https://github.com/mshadmanrahman/claude-for-designers"
+  },
+  {
+    "description": "ShellBrain. Long-term memory for AI.",
+    "id": "cucupac/shellbrain",
+    "language": "Python",
+    "name": "cucupac/shellbrain",
+    "stars": 12,
+    "updated_at": "2026-07-31T03:33:08Z",
+    "url": "https://github.com/cucupac/shellbrain"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T03:30:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
     "id": "dayvisonassis/sdd-skills",
     "language": "\u2014",
@@ -36,21 +126,12 @@
     "url": "https://github.com/dT-Tb-labs/babel-orchestration"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-07-31T03:23:12Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
     "description": "Claude Code skills for filing Indian income-tax returns (ITR-1 & ITR-2): AIS/TIS/26AS reconciliation, Schedule AL, Sched",
     "id": "ankitkr/india-itr-skills",
     "language": "\u2014",
     "name": "ankitkr/india-itr-skills",
     "stars": 0,
-    "updated_at": "2026-07-31T03:22:01Z",
+    "updated_at": "2026-07-31T03:31:21Z",
     "url": "https://github.com/ankitkr/india-itr-skills"
   },
   {
@@ -108,24 +189,6 @@
     "url": "https://github.com/YPares/rigup.nix"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T03:15:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A working repository for designers who use Claude as a collaborator. Skills, principles, project templates, and a career",
-    "id": "mshadmanrahman/claude-for-designers",
-    "language": "HTML",
-    "name": "mshadmanrahman/claude-for-designers",
-    "stars": 20,
-    "updated_at": "2026-07-31T03:15:12Z",
-    "url": "https://github.com/mshadmanrahman/claude-for-designers"
-  },
-  {
     "description": "Skill de auditoria estrat\u00e9gica pr\u00e9-redacional para advogados brasileiros. Protocolo antialucinat\u00f3rio, matriz probat\u00f3ria,",
     "id": "pizaniadv/auditor-estrategico-juridico",
     "language": "\u2014",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T03:10:07Z",
     "url": "https://github.com/jpmsilva1/ai-research-ecosystem"
-  },
-  {
-    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 3,
-    "updated_at": "2026-07-31T03:09:01Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
   },
   {
     "description": "A Claude Skill that automates Agile Sprint Planning ent-to-end using live Jira data",
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "laomou/lm-mem",
     "stars": 0,
-    "updated_at": "2026-07-31T03:04:05Z",
+    "updated_at": "2026-07-31T03:35:51Z",
     "url": "https://github.com/laomou/lm-mem"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T02:48:00Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Personal Agent Skills library for Claude Code: eval-first methodology skills, junction-installed globally and built on t",
-    "id": "BriarDevv/skills",
-    "language": "\u2014",
-    "name": "BriarDevv/skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T02:47:37Z",
-    "url": "https://github.com/BriarDevv/skills"
   },
   {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-31T02:11:51Z",
     "url": "https://github.com/jamestkelly/diffler"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T02:11:33Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-31T02:10:40Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-07-31T02:10:36Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "id": "ayghri/i-have-adhd",
-    "language": "Python",
-    "name": "ayghri/i-have-adhd",
-    "stars": 14295,
-    "updated_at": "2026-07-31T02:10:31Z",
-    "url": "https://github.com/ayghri/i-have-adhd"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-07-31T02:09:26Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   }
 ]
