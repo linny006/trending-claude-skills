@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-31 06:45 UTC
+> ⏰ Last updated: 2026-07-31 06:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [AgamiAI/agami-core](https://github.com/AgamiAI/agami-core) | 20 | Python | 2026-07-31 | The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe |
-| 2 | [ndisisnd/msg](https://github.com/ndisisnd/msg) | 2 | Python | 2026-07-31 | End-to-end engineering harness for Claude Code — go from planning to building to reviewing in one workflow. 8 agents wit |
-| 3 | [sefatanam/ng-skills](https://github.com/sefatanam/ng-skills) | 1 | HTML | 2026-07-31 | Claude Code skills for modern Angular — an agent-friendly, queryable layer over Angular Material + CDK (signals, native  |
-| 4 | [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 2 | Markdown | 2026-07-31 | Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o |
-| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-07-31 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 6 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66885 | TypeScript | 2026-07-31 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 7 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-31 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
-| 8 | [lemur47/logic](https://github.com/lemur47/logic) | 1 | Python | 2026-07-31 | PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions. |
-| 9 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-07-31 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-07-31 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [AgamiAI/agami-core](https://github.com/AgamiAI/agami-core) | 20 | Python | 2026-07-31 | The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe |
+| 3 | [ndisisnd/msg](https://github.com/ndisisnd/msg) | 2 | Python | 2026-07-31 | End-to-end engineering harness for Claude Code — go from planning to building to reviewing in one workflow. 8 agents wit |
+| 4 | [sefatanam/ng-skills](https://github.com/sefatanam/ng-skills) | 1 | HTML | 2026-07-31 | Claude Code skills for modern Angular — an agent-friendly, queryable layer over Angular Material + CDK (signals, native  |
+| 5 | [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 2 | Markdown | 2026-07-31 | Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o |
+| 6 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-07-31 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 7 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 66885 | TypeScript | 2026-07-31 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 8 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-07-31 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
+| 9 | [lemur47/logic](https://github.com/lemur47/logic) | 1 | Python | 2026-07-31 | PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions. |
 | 10 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 102 | Kotlin | 2026-07-31 | Helping the Agents Compose the Things |
 | 11 | [phariyawitjiap-aeternix/AEGIS-Team](https://github.com/phariyawitjiap-aeternix/AEGIS-Team) | 0 | Shell | 2026-07-31 | 🛡️ AEGIS v15.0 — AI Agent Team Framework for Claude Code \| 11 Marvel Personas • 37 Skills • 16 Commands • 14 Hooks • 60+ |
 | 12 | [AThevon/genjutsu](https://github.com/AThevon/genjutsu) | 152 | Python | 2026-07-31 | Creative coding skills for Claude: animations, 3D, design systems, motion principles |
