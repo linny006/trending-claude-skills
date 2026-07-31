@@ -1,5 +1,77 @@
 [
   {
+    "description": "Enterprise GA4 tracking plan auditor & UTM taxonomy enforcer built with custom Claude Agent Skills and Python. Catches s",
+    "id": "samikshapattanaik-cmyk/ga4-analytics-data-quality-suite",
+    "language": "Python",
+    "name": "samikshapattanaik-cmyk/ga4-analytics-data-quality-suite",
+    "stars": 0,
+    "updated_at": "2026-07-31T13:43:56Z",
+    "url": "https://github.com/samikshapattanaik-cmyk/ga4-analytics-data-quality-suite"
+  },
+  {
+    "description": "SSH, SFTP, Telnet and Windows RDP, all in one terminal powered by AI",
+    "id": "BradPerbs/cloudterm",
+    "language": "JavaScript",
+    "name": "BradPerbs/cloudterm",
+    "stars": 2,
+    "updated_at": "2026-07-31T13:40:58Z",
+    "url": "https://github.com/BradPerbs/cloudterm"
+  },
+  {
+    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
+    "id": "vdk888/bubble-shield-public",
+    "language": "Python",
+    "name": "vdk888/bubble-shield-public",
+    "stars": 0,
+    "updated_at": "2026-07-31T13:39:43Z",
+    "url": "https://github.com/vdk888/bubble-shield-public"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-07-31T13:39:33Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-31T13:37:05Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
+    "id": "isatimur/presentation-md",
+    "language": "HTML",
+    "name": "isatimur/presentation-md",
+    "stars": 2,
+    "updated_at": "2026-07-31T13:32:57Z",
+    "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
+    "id": "akovalion/paranoid-qa",
+    "language": "Python",
+    "name": "akovalion/paranoid-qa",
+    "stars": 9,
+    "updated_at": "2026-07-31T13:31:56Z",
+    "url": "https://github.com/akovalion/paranoid-qa"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T13:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
     "id": "gtrabanco/agentic-workflow",
     "language": "TypeScript",
@@ -9,13 +81,22 @@
     "url": "https://github.com/gtrabanco/agentic-workflow"
   },
   {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
+    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 87 Checks \u00b7 11",
+    "id": "malkreide/mcp-audit-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-audit-skill",
+    "stars": 1,
+    "updated_at": "2026-07-31T13:40:52Z",
+    "url": "https://github.com/malkreide/mcp-audit-skill"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:28:47Z",
-    "url": "https://github.com/isatimur/presentation-md"
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 1,
+    "updated_at": "2026-07-31T13:29:47Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -27,15 +108,6 @@
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   },
   {
-    "description": "SSH, SFTP, Telnet and Windows RDP, all in one terminal powered by AI",
-    "id": "BradPerbs/cloudterm",
-    "language": "JavaScript",
-    "name": "BradPerbs/cloudterm",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:24:21Z",
-    "url": "https://github.com/BradPerbs/cloudterm"
-  },
-  {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
     "id": "gilvangonzalez/technical-founding-gtm-toolkit",
     "language": "HTML",
@@ -43,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T13:24:14Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-31T13:27:09Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Enterprise GA4 tracking plan auditor & UTM taxonomy enforcer built with custom Claude Agent Skills and Python. Catches s",
-    "id": "samikshapattanaik-cmyk/ga4-analytics-data-quality-suite",
-    "language": "Python",
-    "name": "samikshapattanaik-cmyk/ga4-analytics-data-quality-suite",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:22:30Z",
-    "url": "https://github.com/samikshapattanaik-cmyk/ga4-analytics-data-quality-suite"
   },
   {
     "description": "\uc791\uc5c5 \uc911 \uc313\uc778 \uae30\uc220\uc801 \uacbd\ud5d8\uc744 SEO \ucd5c\uc801\ud654\ub41c \ube14\ub85c\uadf8 \uae00 \ucd08\uc548\uc73c\ub85c",
@@ -133,24 +187,6 @@
     "stars": 66910,
     "updated_at": "2026-07-31T13:16:40Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
-    "id": "vdk888/bubble-shield-public",
-    "language": "Python",
-    "name": "vdk888/bubble-shield-public",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:29:28Z",
-    "url": "https://github.com/vdk888/bubble-shield-public"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T13:15:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83c\uddeb\ud83c\uddf7 Agent-ready skills for French admin d\u00e9marches \u2014 sourced guides for visas, titre de s\u00e9jour, imp\u00f4ts, CAF, ANTS\u2026 Open kn",
@@ -284,7 +320,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-31T13:29:09Z",
+    "updated_at": "2026-07-31T13:33:09Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T12:15:22Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:13:23Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "AI-powered design review, UX analysis, SEO audit, content generation, DevOps & testing toolkit for Claude Code. 12 skill",
-    "id": "oyusypenko/creo",
-    "language": "Python",
-    "name": "oyusypenko/creo",
-    "stars": 3,
-    "updated_at": "2026-07-31T12:10:21Z",
-    "url": "https://github.com/oyusypenko/creo"
-  },
-  {
-    "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 3,
-    "updated_at": "2026-07-31T12:09:10Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:07:35Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
   }
 ]
