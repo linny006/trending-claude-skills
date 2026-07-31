@@ -1,5 +1,77 @@
 [
   {
+    "description": "MCP server that suggests repository-specific AI agent skills.",
+    "id": "sator-imaging/suggest-skills",
+    "language": "TypeScript",
+    "name": "sator-imaging/suggest-skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T05:14:37Z",
+    "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "Multi-model orchestration skill for Claude Code (babel + cdx-sol + agy): 5-model debate/build-debug/acceptance-gate pipe",
+    "id": "dT-Tb-labs/babel-orchestration",
+    "language": "Shell",
+    "name": "dT-Tb-labs/babel-orchestration",
+    "stars": 0,
+    "updated_at": "2026-07-31T05:07:03Z",
+    "url": "https://github.com/dT-Tb-labs/babel-orchestration"
+  },
+  {
+    "description": "\u4e00\u4e2a\u5305\u542bagent\u548cskill\u7684\u96c6\u5408\uff1aRAG\u3001\u6280\u80fd\u5ba1\u67e5\u3001\u5468\u62a5\u751f\u6210\u3001\u9879\u76ee\u7ba1\u7406\u3001\u8d28\u91cf\u76d1\u63a7...\u53ca\u6280\u672f\u65b9\u6848/\u5185\u90e8\u8bbe\u8ba1\u6587\u6863",
+    "id": "Ldxs001/workbuddy-skills",
+    "language": "Python",
+    "name": "Ldxs001/workbuddy-skills",
+    "stars": 2,
+    "updated_at": "2026-07-31T05:05:34Z",
+    "url": "https://github.com/Ldxs001/workbuddy-skills"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-07-31T05:05:34Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 378,
+    "updated_at": "2026-07-31T05:04:42Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "The snack, grocery, delivery, meal planning plugin / skill / tool / agent",
+    "id": "moorage/fullwell",
+    "language": "TypeScript",
+    "name": "moorage/fullwell",
+    "stars": 0,
+    "updated_at": "2026-07-31T05:02:22Z",
+    "url": "https://github.com/moorage/fullwell"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T05:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
+    "id": "AgamiAI/agami-core",
+    "language": "Python",
+    "name": "AgamiAI/agami-core",
+    "stars": 20,
+    "updated_at": "2026-07-31T05:00:00Z",
+    "url": "https://github.com/AgamiAI/agami-core"
+  },
+  {
     "description": "The loop for everything!",
     "id": "MadaraUchiha-314/the-loop",
     "language": "Python",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-07-31T04:58:51Z",
+    "updated_at": "2026-07-31T05:12:16Z",
     "url": "https://github.com/crypdick/pynchy"
   },
   {
@@ -90,6 +162,15 @@
     "url": "https://github.com/laomou/lm-mem"
   },
   {
+    "description": "\u7528 Astro \u5efa\u7ad9\u4e0a\u7dda GitHub Pages \u7684 Claude Code skill\uff0c\u9644\u5169\u9053\u6703\u64cb build \u7684 CI \u5b88\u9580\uff1a\u8a2d\u8a08 token \u5b88\u9580\u8207\u4e2d\u6587\u53bb AI \u5473\u5b88\u9580",
+    "id": "yao-care/astro-pages-kit",
+    "language": "JavaScript",
+    "name": "yao-care/astro-pages-kit",
+    "stars": 0,
+    "updated_at": "2026-07-31T04:46:44Z",
+    "url": "https://github.com/yao-care/astro-pages-kit"
+  },
+  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T04:45:52Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T04:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -270,15 +342,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "MCP server that suggests repository-specific AI agent skills.",
-    "id": "sator-imaging/suggest-skills",
-    "language": "TypeScript",
-    "name": "sator-imaging/suggest-skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T04:59:46Z",
-    "url": "https://github.com/sator-imaging/suggest-skills"
-  },
-  {
     "description": "A gated, role-based workflow, with independently reviewed plans, task-by-task delivery, and explicit approval checkpoint",
     "id": "jameswei/plan-build-review",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T03:43:11Z",
     "url": "https://github.com/BriarDevv/skills"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-07-31T03:40:26Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment\u2014not one fixe",
-    "id": "bitjaru/styleseed",
-    "language": "TypeScript",
-    "name": "bitjaru/styleseed",
-    "stars": 858,
-    "updated_at": "2026-07-31T03:57:57Z",
-    "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-07-31T04:14:35Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 3,
-    "updated_at": "2026-07-31T03:36:31Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "A working repository for designers who use Claude as a collaborator. Skills, principles, project templates, and a career",
-    "id": "mshadmanrahman/claude-for-designers",
-    "language": "HTML",
-    "name": "mshadmanrahman/claude-for-designers",
-    "stars": 20,
-    "updated_at": "2026-07-31T03:34:35Z",
-    "url": "https://github.com/mshadmanrahman/claude-for-designers"
-  },
-  {
-    "description": "ShellBrain. Long-term memory for AI.",
-    "id": "cucupac/shellbrain",
-    "language": "Python",
-    "name": "cucupac/shellbrain",
-    "stars": 12,
-    "updated_at": "2026-07-31T03:33:08Z",
-    "url": "https://github.com/cucupac/shellbrain"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
-    "id": "BENZEMA216/awesome-weread",
-    "language": "JavaScript",
-    "name": "BENZEMA216/awesome-weread",
-    "stars": 50,
-    "updated_at": "2026-07-31T03:28:14Z",
-    "url": "https://github.com/BENZEMA216/awesome-weread"
   }
 ]
