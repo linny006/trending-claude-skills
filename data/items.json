@@ -1,12 +1,30 @@
 [
   {
-    "description": "Agent Skills RenooLab : 10 workflows et 29 intentions pour r\u00e9novation, artisans et entreprises BTP, reli\u00e9s au MCP RenooL",
-    "id": "mehdimicra/renoolab-agent-skills",
-    "language": "JavaScript",
-    "name": "mehdimicra/renoolab-agent-skills",
-    "stars": 3,
-    "updated_at": "2026-07-31T09:29:09Z",
-    "url": "https://github.com/mehdimicra/renoolab-agent-skills"
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "id": "jonaskahn/docforge",
+    "language": "Python",
+    "name": "jonaskahn/docforge",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:40:41Z",
+    "url": "https://github.com/jonaskahn/docforge"
+  },
+  {
+    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 86 Checks \u00b7 11",
+    "id": "malkreide/mcp-audit-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-audit-skill",
+    "stars": 1,
+    "updated_at": "2026-07-31T09:40:19Z",
+    "url": "https://github.com/malkreide/mcp-audit-skill"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-31T09:40:04Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   },
   {
     "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
@@ -14,8 +32,89 @@
     "language": "HTML",
     "name": "isatimur/presentation-md",
     "stars": 2,
-    "updated_at": "2026-07-31T09:29:09Z",
+    "updated_at": "2026-07-31T09:39:42Z",
     "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Knowledge graph extractor: Markdown (or any format) to knowledge graph with RDFS/OWL ontology",
+    "id": "SenolIsci/mykg",
+    "language": "Python",
+    "name": "SenolIsci/mykg",
+    "stars": 61,
+    "updated_at": "2026-07-31T09:38:54Z",
+    "url": "https://github.com/SenolIsci/mykg"
+  },
+  {
+    "description": "A PM's operating system: turn a PRD into a full SDLC by orchestrating MetaGPT, OpenHands, Promptfoo. Built by a Senior P",
+    "id": "vignesh-s7/product-management",
+    "language": "TypeScript",
+    "name": "vignesh-s7/product-management",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:37:52Z",
+    "url": "https://github.com/vignesh-s7/product-management"
+  },
+  {
+    "description": "Creative coding skills for Claude: animations, 3D, design systems, motion principles",
+    "id": "AThevon/genjutsu",
+    "language": "Python",
+    "name": "AThevon/genjutsu",
+    "stars": 152,
+    "updated_at": "2026-07-31T09:37:15Z",
+    "url": "https://github.com/AThevon/genjutsu"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 4,
+    "updated_at": "2026-07-31T09:35:13Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Agent Skills RenooLab : 10 workflows et 29 intentions pour r\u00e9novation, artisans et entreprises BTP, reli\u00e9s au MCP RenooL",
+    "id": "mehdimicra/renoolab-agent-skills",
+    "language": "JavaScript",
+    "name": "mehdimicra/renoolab-agent-skills",
+    "stars": 3,
+    "updated_at": "2026-07-31T09:40:58Z",
+    "url": "https://github.com/mehdimicra/renoolab-agent-skills"
+  },
+  {
+    "description": "Structured expert interviews that compile tacit judgment, workflows, exceptions, and acceptance criteria into portable A",
+    "id": "eritowu/skill-interviewer-repo",
+    "language": "Python",
+    "name": "eritowu/skill-interviewer-repo",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:31:23Z",
+    "url": "https://github.com/eritowu/skill-interviewer-repo"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-07-31T09:30:49Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T09:30:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Shows status.claude.com in your Claude Code statusline, so you know if it's you or them.",
+    "id": "stefanoamorelli/claude-status-statusline",
+    "language": "JavaScript",
+    "name": "stefanoamorelli/claude-status-statusline",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:28:44Z",
+    "url": "https://github.com/stefanoamorelli/claude-status-statusline"
   },
   {
     "description": "AI agent skills for Meshy AI 3D generation platform",
@@ -49,8 +148,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66892,
-    "updated_at": "2026-07-31T09:25:46Z",
+    "stars": 66893,
+    "updated_at": "2026-07-31T09:44:53Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -95,7 +194,7 @@
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-07-31T09:28:54Z",
+    "updated_at": "2026-07-31T09:43:56Z",
     "url": "https://github.com/crypdick/pynchy"
   },
   {
@@ -108,21 +207,12 @@
     "url": "https://github.com/shortcuts/radin"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T09:15:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A skill to ensure Claude/ChatGPT/Codex/Copilot answers first, gives fewer options, and provides one clear next step. For",
     "id": "zgbrenner/adhd-and-47-tabs",
     "language": "Python",
     "name": "zgbrenner/adhd-and-47-tabs",
     "stars": 20,
-    "updated_at": "2026-07-31T09:28:37Z",
+    "updated_at": "2026-07-31T09:42:17Z",
     "url": "https://github.com/zgbrenner/adhd-and-47-tabs"
   },
   {
@@ -133,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:08:07Z",
     "url": "https://github.com/vdk888/bubble-shield-public"
-  },
-  {
-    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 86 Checks \u00b7 11",
-    "id": "malkreide/mcp-audit-skill",
-    "language": "Python",
-    "name": "malkreide/mcp-audit-skill",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:07:52Z",
-    "url": "https://github.com/malkreide/mcp-audit-skill"
   },
   {
     "description": "\ud83c\uddeb\ud83c\uddf7 Agent-ready skills for French admin d\u00e9marches \u2014 sourced guides for visas, titre de s\u00e9jour, imp\u00f4ts, CAF, ANTS\u2026 Open kn",
@@ -160,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:02:21Z",
     "url": "https://github.com/FreeAutomation-Tech/claude-seo-kit"
-  },
-  {
-    "description": "Creative coding skills for Claude: animations, 3D, design systems, motion principles",
-    "id": "AThevon/genjutsu",
-    "language": "Python",
-    "name": "AThevon/genjutsu",
-    "stars": 152,
-    "updated_at": "2026-07-31T09:01:50Z",
-    "url": "https://github.com/AThevon/genjutsu"
   },
   {
     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
@@ -239,7 +311,7 @@
     "language": "C#",
     "name": "dbhq-uk/vela-skill",
     "stars": 0,
-    "updated_at": "2026-07-31T08:55:58Z",
+    "updated_at": "2026-07-31T09:42:46Z",
     "url": "https://github.com/dbhq-uk/vela-skill"
   },
   {
@@ -257,17 +329,8 @@
     "language": "Python",
     "name": "Sean190828/crun-agent-skills",
     "stars": 0,
-    "updated_at": "2026-07-31T08:53:21Z",
+    "updated_at": "2026-07-31T09:34:24Z",
     "url": "https://github.com/Sean190828/crun-agent-skills"
-  },
-  {
-    "description": "Knowledge graph extractor: Markdown (or any format) to knowledge graph with RDFS/OWL ontology",
-    "id": "SenolIsci/mykg",
-    "language": "Python",
-    "name": "SenolIsci/mykg",
-    "stars": 61,
-    "updated_at": "2026-07-31T08:51:21Z",
-    "url": "https://github.com/SenolIsci/mykg"
   },
   {
     "description": "",
@@ -311,7 +374,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 102,
-    "updated_at": "2026-07-31T09:27:30Z",
+    "updated_at": "2026-07-31T09:39:47Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 53,
     "updated_at": "2026-07-31T08:29:27Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Open-source Claude Code skills from Bamboo DCM \u2014 AI-native private credit infrastructure platform",
-    "id": "bamboo-DCM/library",
-    "language": "Python",
-    "name": "bamboo-DCM/library",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:28:34Z",
-    "url": "https://github.com/bamboo-DCM/library"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:27:17Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
-    "id": "magnusrodseth/dotfiles",
-    "language": "JavaScript",
-    "name": "magnusrodseth/dotfiles",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:22:57Z",
-    "url": "https://github.com/magnusrodseth/dotfiles"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:22:18Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
-    "id": "anbeime/skill",
-    "language": "Python",
-    "name": "anbeime/skill",
-    "stars": 4511,
-    "updated_at": "2026-07-31T08:20:22Z",
-    "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-07-31T08:19:46Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:14:09Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
