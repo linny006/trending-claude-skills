@@ -1,5 +1,77 @@
 [
   {
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
+    "id": "isatimur/presentation-md",
+    "language": "HTML",
+    "name": "isatimur/presentation-md",
+    "stars": 2,
+    "updated_at": "2026-07-31T12:44:53Z",
+    "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Enterprise GA4 tracking plan auditor & UTM taxonomy enforcer built with custom Claude Agent Skills and Python. Catches s",
+    "id": "samikshapattanaik-cmyk/ga4-analytics-data-quality-suite",
+    "language": "Python",
+    "name": "samikshapattanaik-cmyk/ga4-analytics-data-quality-suite",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:45:02Z",
+    "url": "https://github.com/samikshapattanaik-cmyk/ga4-analytics-data-quality-suite"
+  },
+  {
+    "description": "Should you actually install that? A plain-English fit check for any repo, package, API or MCP server, with sources.",
+    "id": "bhaor/toolcheck",
+    "language": "\u2014",
+    "name": "bhaor/toolcheck",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:40:03Z",
+    "url": "https://github.com/bhaor/toolcheck"
+  },
+  {
+    "description": "Local semantic memory MCP server for AI agents \u2014 cross-session, vector search (ChromaDB)",
+    "id": "laomou/lm-mem",
+    "language": "Python",
+    "name": "laomou/lm-mem",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:40:02Z",
+    "url": "https://github.com/laomou/lm-mem"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 66905,
+    "updated_at": "2026-07-31T12:44:00Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
+    "id": "VoltAgent/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "VoltAgent/awesome-agent-skills",
+    "stars": 29316,
+    "updated_at": "2026-07-31T12:33:46Z",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-07-31T12:43:44Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T12:30:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -16,24 +88,6 @@
     "stars": 102,
     "updated_at": "2026-07-31T12:28:26Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
-    "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 2,
-    "updated_at": "2026-07-31T12:26:57Z",
-    "url": "https://github.com/isatimur/presentation-md"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66904,
-    "updated_at": "2026-07-31T12:29:52Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T12:15:22Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T12:15:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -261,15 +306,6 @@
     "url": "https://github.com/oreaui/orea-skill"
   },
   {
-    "description": "Enterprise GA4 tracking plan auditor & UTM taxonomy enforcer built with custom Claude Agent Skills and Python. Catches s",
-    "id": "samikshapattanaik-cmyk/ga4-analytics-data-quality-suite",
-    "language": "Python",
-    "name": "samikshapattanaik-cmyk/ga4-analytics-data-quality-suite",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:46:45Z",
-    "url": "https://github.com/samikshapattanaik-cmyk/ga4-analytics-data-quality-suite"
-  },
-  {
     "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
     "id": "jherrodthomas/robotics-skills-suite",
     "language": "\u2014",
@@ -320,7 +356,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-07-31T12:14:54Z",
+    "updated_at": "2026-07-31T12:40:09Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "vdk888/bubble-shield-public",
     "stars": 0,
-    "updated_at": "2026-07-31T11:27:05Z",
+    "updated_at": "2026-07-31T12:30:31Z",
     "url": "https://github.com/vdk888/bubble-shield-public"
   },
   {
@@ -338,7 +374,7 @@
     "language": "C#",
     "name": "dbhq-uk/vela-skill",
     "stars": 0,
-    "updated_at": "2026-07-31T11:25:19Z",
+    "updated_at": "2026-07-31T12:36:57Z",
     "url": "https://github.com/dbhq-uk/vela-skill"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T11:19:13Z",
     "url": "https://github.com/punitsnaik/Bouncer"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:18:02Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-07-31T11:15:23Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:14:21Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Skill for Claude Code & Codex: describe your system architecture in text \u2192 get an editable PowerPoint diagram (native sh",
-    "id": "Andy1314Chen/architecture-drawer",
-    "language": "Python",
-    "name": "Andy1314Chen/architecture-drawer",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:13:42Z",
-    "url": "https://github.com/Andy1314Chen/architecture-drawer"
   }
 ]
