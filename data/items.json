@@ -1,5 +1,77 @@
 [
   {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-31T16:44:34Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Autonomous audit-fix-verify loop for Claude Code. Run against 17 open source projects in 8 languages, 15 converged, 2 fi",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 4,
+    "updated_at": "2026-07-31T16:41:49Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 90 Checks \u00b7 11",
+    "id": "malkreide/mcp-audit-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-audit-skill",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:39:05Z",
+    "url": "https://github.com/malkreide/mcp-audit-skill"
+  },
+  {
+    "description": "A comprehensive suite of Claude Code ultracode multi-agent workflow scripts, along with a workflow-authoring skill, a li",
+    "id": "hesreallyhim/ultracode-workflows",
+    "language": "JavaScript",
+    "name": "hesreallyhim/ultracode-workflows",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:38:00Z",
+    "url": "https://github.com/hesreallyhim/ultracode-workflows"
+  },
+  {
+    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
+    "id": "vdk888/bubble-shield-public",
+    "language": "Python",
+    "name": "vdk888/bubble-shield-public",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:37:52Z",
+    "url": "https://github.com/vdk888/bubble-shield-public"
+  },
+  {
+    "description": "The ultimate free, open-source guide and searchable library of the best Claude Skills. Compare, discover, and browse the",
+    "id": "AlijeeWrites/best-claude-skills",
+    "language": "HTML",
+    "name": "AlijeeWrites/best-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:37:29Z",
+    "url": "https://github.com/AlijeeWrites/best-claude-skills"
+  },
+  {
+    "description": "Deep Critique - Skill phan bien 10 vong san diem mu cho Claude | 10-round adversarial critique skill for Claude (Vietnam",
+    "id": "elisehanhnguyenus-cloud/purrlight-skills",
+    "language": "\u2014",
+    "name": "elisehanhnguyenus-cloud/purrlight-skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:33:44Z",
+    "url": "https://github.com/elisehanhnguyenus-cloud/purrlight-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T16:30:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -18,24 +90,6 @@
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
-    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 87 Checks \u00b7 11",
-    "id": "malkreide/mcp-audit-skill",
-    "language": "Python",
-    "name": "malkreide/mcp-audit-skill",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:29:03Z",
-    "url": "https://github.com/malkreide/mcp-audit-skill"
-  },
-  {
-    "description": "The ultimate free, open-source guide and searchable library of the best Claude Skills. Compare, discover, and browse the",
-    "id": "AlijeeWrites/best-claude-skills",
-    "language": "HTML",
-    "name": "AlijeeWrites/best-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T16:28:19Z",
-    "url": "https://github.com/AlijeeWrites/best-claude-skills"
-  },
-  {
     "description": "AI agent skills for Meshy AI 3D generation platform",
     "id": "meshy-dev/meshy-3d-agent",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 66922,
     "updated_at": "2026-07-31T16:26:14Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T16:24:28Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T16:15:51Z",
     "url": "https://github.com/ydbondt/shkills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-31T16:28:59Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -342,15 +378,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Autonomous audit-fix-verify loop for Claude Code. Run against 17 open source projects in 8 languages, 15 converged, 2 fi",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 4,
-    "updated_at": "2026-07-31T15:49:20Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
     "description": "A spec-driven harness for coding agents (and, humans)",
     "id": "nevenincs/vaultspec-core",
     "language": "Python",
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "vignesh-s7/product-management",
     "stars": 0,
-    "updated_at": "2026-07-31T16:24:25Z",
+    "updated_at": "2026-07-31T16:44:14Z",
     "url": "https://github.com/vignesh-s7/product-management"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 122,
     "updated_at": "2026-07-31T15:41:32Z",
     "url": "https://github.com/sendaifun/skills"
-  },
-  {
-    "description": "16 agent skills for Claude Code and Codex \u2014 code review, test writing, docs, planning, codebase onboarding, repo evaluat",
-    "id": "wilbeibi/wilbeibi-skills",
-    "language": "Python",
-    "name": "wilbeibi/wilbeibi-skills",
-    "stars": 1,
-    "updated_at": "2026-07-31T15:41:20Z",
-    "url": "https://github.com/wilbeibi/wilbeibi-skills"
-  },
-  {
-    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
-    "id": "vdk888/bubble-shield-public",
-    "language": "Python",
-    "name": "vdk888/bubble-shield-public",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:37:38Z",
-    "url": "https://github.com/vdk888/bubble-shield-public"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:35:10Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
