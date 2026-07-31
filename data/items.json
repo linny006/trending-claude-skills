@@ -1,5 +1,77 @@
 [
   {
+    "description": "A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management",
+    "id": "JuneYaooo/awesome-ai-media-skills",
+    "language": "\u2014",
+    "name": "JuneYaooo/awesome-ai-media-skills",
+    "stars": 4,
+    "updated_at": "2026-07-31T02:28:12Z",
+    "url": "https://github.com/JuneYaooo/awesome-ai-media-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 406,
+    "updated_at": "2026-07-31T02:26:31Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Skills SAP",
+    "id": "williamcorrea23/sap-router-skill",
+    "language": "Python",
+    "name": "williamcorrea23/sap-router-skill",
+    "stars": 0,
+    "updated_at": "2026-07-31T02:26:29Z",
+    "url": "https://github.com/williamcorrea23/sap-router-skill"
+  },
+  {
+    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
+    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "language": "HTML",
+    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-31T02:25:59Z",
+    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-07-31T02:24:32Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14171,
+    "updated_at": "2026-07-31T02:24:23Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 228,
+    "updated_at": "2026-07-31T02:20:28Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T02:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "An autonomous improvement loop for Claude Code: audit, fix, verify, converge - one verified task per iteration, checkpoi",
     "id": "lenamonj/jeffy-loop",
     "language": "Shell",
@@ -85,7 +157,7 @@
     "id": "ayghri/i-have-adhd",
     "language": "Python",
     "name": "ayghri/i-have-adhd",
-    "stars": 14257,
+    "stars": 14264,
     "updated_at": "2026-07-31T02:10:31Z",
     "url": "https://github.com/ayghri/i-have-adhd"
   },
@@ -112,7 +184,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66869,
+    "stars": 66872,
     "updated_at": "2026-07-31T02:06:20Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T02:01:12Z",
     "url": "https://github.com/IamOumarIbrahim/SkillDeck"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-07-31T02:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
@@ -216,15 +279,6 @@
     "url": "https://github.com/shresthasudip52/sprint-planning-generator"
   },
   {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 228,
-    "updated_at": "2026-07-31T02:11:04Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
     "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
     "id": "pedroberaldo87/pedro-plugins",
     "language": "HTML",
@@ -259,15 +313,6 @@
     "stars": 53,
     "updated_at": "2026-07-31T01:29:15Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 406,
-    "updated_at": "2026-07-31T01:28:41Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "Context engineering standard for Claude Code: distilled Anthropic guidance, a replicable repo skeleton, and the skills t",
@@ -351,15 +396,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-07-31T02:13:26Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-31T01:09:40Z",
     "url": "https://github.com/gogoingai/wenqu-skills"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-07-31T01:09:26Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Agent Skills for the Kudosity messaging platform \u2014 send SMS, MMS, WhatsApp and RCS from Claude Code, Cursor, Copilot, Wi",
-    "id": "kudosity/skills",
-    "language": "\u2014",
-    "name": "kudosity/skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T01:08:48Z",
-    "url": "https://github.com/kudosity/skills"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-07-31T01:08:45Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Rewrite a raw prompt into an assignment an agent can actually finish. Six sections plus four leak checks: unfalsifiable ",
-    "id": "stgomoyaa/encargo",
-    "language": "\u2014",
-    "name": "stgomoyaa/encargo",
-    "stars": 2,
-    "updated_at": "2026-07-31T01:03:47Z",
-    "url": "https://github.com/stgomoyaa/encargo"
   }
 ]
