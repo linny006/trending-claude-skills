@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 03:00 UTC
+> ⏰ Last updated: 2026-08-01 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fernandox2/portafolio-docente-chile](https://github.com/fernandox2/portafolio-docente-chile) | 0 | Python | 2026-08-01 | Skills de Claude para docentes de Chile que elaboran su Portafolio de la Evaluación Docente (Docentemás/CPEIP). Entrevis |
+| 1 | [KijitoAI/kijito-claude](https://github.com/KijitoAI/kijito-claude) | 0 | JavaScript | 2026-08-01 | Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca |
 | 2 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 4 | TypeScript | 2026-08-01 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
-| 3 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 1 | HTML | 2026-08-01 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
-| 4 | [KijitoAI/kijito-claude](https://github.com/KijitoAI/kijito-claude) | 0 | JavaScript | 2026-08-01 | Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca |
-| 5 | [CHAOSX-SPACE/god-of-the-void](https://github.com/CHAOSX-SPACE/god-of-the-void) | 1 | Python | 2026-08-01 | A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes  |
-| 6 | [skill-federation/skill-federation](https://github.com/skill-federation/skill-federation) | 10 | JavaScript | 2026-08-01 | Free, private skill search for AI agents |
-| 7 | [huiyonghkw/hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) | 1 | Python | 2026-08-01 | Agent Skill（SKILL.md）体检器：评 description 触发质量 / 篇幅 / 渐进披露 / 脚本外置 / 可移植性 / 安全（无硬编码密钥），出评分卡 + 修复建议。零依赖，claude-md-doctor 的姊妹工 |
-| 8 | [rvanbaalen/skills](https://github.com/rvanbaalen/skills) | 0 | TypeScript | 2026-08-01 | Public Claude Code skills marketplace |
-| 9 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-08-01 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
-| 10 | [ndisisnd/msg](https://github.com/ndisisnd/msg) | 2 | Python | 2026-08-01 | End-to-end engineering harness for Claude Code — go from planning to building to reviewing in one workflow. 8 agents wit |
-| 11 | [askimo-ai/askimo](https://github.com/askimo-ai/askimo) | 277 | Kotlin | 2026-08-01 | AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia  |
-| 12 | [ashfaquecg806-dot/symfony-ux-insights](https://github.com/ashfaquecg806-dot/symfony-ux-insights) | 1 | HTML | 2026-08-01 | Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus |
-| 13 | [JhoseWolf/sageox-hivemind-engine](https://github.com/JhoseWolf/sageox-hivemind-engine) | 1 | HTML | 2026-08-01 | ⚡ SageOx HiveMind 2026 — Agentic Engineering Toolkit for Autonomous Workflows |
-| 14 | [SELAT-AI/selat-skills](https://github.com/SELAT-AI/selat-skills) | 2 | JavaScript | 2026-08-01 |  |
-| 15 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 0 | HTML | 2026-08-01 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
-| 16 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-08-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [fernandox2/portafolio-docente-chile](https://github.com/fernandox2/portafolio-docente-chile) | 0 | Python | 2026-08-01 | Skills de Claude para docentes de Chile que elaboran su Portafolio de la Evaluación Docente (Docentemás/CPEIP). Entrevis |
+| 4 | [skill-federation/skill-federation](https://github.com/skill-federation/skill-federation) | 10 | JavaScript | 2026-08-01 | Free, private skill search for AI agents |
+| 5 | [ndisisnd/msg](https://github.com/ndisisnd/msg) | 2 | Python | 2026-08-01 | End-to-end engineering harness for Claude Code — go from planning to building to reviewing in one workflow. 8 agents wit |
+| 6 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-08-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 7 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 1 | HTML | 2026-08-01 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
+| 8 | [CHAOSX-SPACE/god-of-the-void](https://github.com/CHAOSX-SPACE/god-of-the-void) | 1 | Python | 2026-08-01 | A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes  |
+| 9 | [huiyonghkw/hekouwang-claude-skill-doctor-skill](https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill) | 1 | Python | 2026-08-01 | Agent Skill（SKILL.md）体检器：评 description 触发质量 / 篇幅 / 渐进披露 / 脚本外置 / 可移植性 / 安全（无硬编码密钥），出评分卡 + 修复建议。零依赖，claude-md-doctor 的姊妹工 |
+| 10 | [rvanbaalen/skills](https://github.com/rvanbaalen/skills) | 0 | TypeScript | 2026-08-01 | Public Claude Code skills marketplace |
+| 11 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 0 | HTML | 2026-08-01 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
+| 12 | [askimo-ai/askimo](https://github.com/askimo-ai/askimo) | 277 | Kotlin | 2026-08-01 | AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia  |
+| 13 | [ashfaquecg806-dot/symfony-ux-insights](https://github.com/ashfaquecg806-dot/symfony-ux-insights) | 1 | HTML | 2026-08-01 | Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus |
+| 14 | [JhoseWolf/sageox-hivemind-engine](https://github.com/JhoseWolf/sageox-hivemind-engine) | 1 | HTML | 2026-08-01 | ⚡ SageOx HiveMind 2026 — Agentic Engineering Toolkit for Autonomous Workflows |
+| 15 | [SELAT-AI/selat-skills](https://github.com/SELAT-AI/selat-skills) | 2 | JavaScript | 2026-08-01 |  |
+| 16 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 0 | HTML | 2026-08-01 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
 | 17 | [jovesun-lab/arcgram](https://github.com/jovesun-lab/arcgram) | 7 | HTML | 2026-08-01 | Arcgram — an interactive diagram engine for human–AI collaboration: an AI agent draws its reasoning as an auditable node |
 | 18 | [agents-inc/cli](https://github.com/agents-inc/cli) | 5 | TypeScript | 2026-08-01 | An agent composition framework that builds stacks and compiles specialized subagents for Claude Code |
 | 19 | [search-atlas-group/amm-founding-circle](https://github.com/search-atlas-group/amm-founding-circle) | 0 | Python | 2026-08-01 | The AMM founding-circle home base: 36 Claude skills (AEO/SEO + agentic engineering + security), the agentic ladder, play |

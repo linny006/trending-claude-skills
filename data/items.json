@@ -1,12 +1,12 @@
 [
   {
-    "description": "Skills de Claude para docentes de Chile que elaboran su Portafolio de la Evaluaci\u00f3n Docente (Docentem\u00e1s/CPEIP). Entrevis",
-    "id": "fernandox2/portafolio-docente-chile",
-    "language": "Python",
-    "name": "fernandox2/portafolio-docente-chile",
+    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
+    "id": "KijitoAI/kijito-claude",
+    "language": "JavaScript",
+    "name": "KijitoAI/kijito-claude",
     "stars": 0,
-    "updated_at": "2026-08-01T02:59:26Z",
-    "url": "https://github.com/fernandox2/portafolio-docente-chile"
+    "updated_at": "2026-08-01T03:12:49Z",
+    "url": "https://github.com/KijitoAI/kijito-claude"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -14,8 +14,44 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-08-01T02:58:12Z",
+    "updated_at": "2026-08-01T03:15:04Z",
     "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Skills de Claude para docentes de Chile que elaboran su Portafolio de la Evaluaci\u00f3n Docente (Docentem\u00e1s/CPEIP). Entrevis",
+    "id": "fernandox2/portafolio-docente-chile",
+    "language": "Python",
+    "name": "fernandox2/portafolio-docente-chile",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:04:32Z",
+    "url": "https://github.com/fernandox2/portafolio-docente-chile"
+  },
+  {
+    "description": "Free, private skill search for AI agents",
+    "id": "skill-federation/skill-federation",
+    "language": "JavaScript",
+    "name": "skill-federation/skill-federation",
+    "stars": 10,
+    "updated_at": "2026-08-01T03:04:08Z",
+    "url": "https://github.com/skill-federation/skill-federation"
+  },
+  {
+    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
+    "id": "ndisisnd/msg",
+    "language": "Python",
+    "name": "ndisisnd/msg",
+    "stars": 2,
+    "updated_at": "2026-08-01T03:01:26Z",
+    "url": "https://github.com/ndisisnd/msg"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-01T03:00:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -27,15 +63,6 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
-    "id": "KijitoAI/kijito-claude",
-    "language": "JavaScript",
-    "name": "KijitoAI/kijito-claude",
-    "stars": 0,
-    "updated_at": "2026-08-01T02:57:17Z",
-    "url": "https://github.com/KijitoAI/kijito-claude"
-  },
-  {
     "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
     "id": "CHAOSX-SPACE/god-of-the-void",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T02:56:14Z",
     "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
-  },
-  {
-    "description": "Free, private skill search for AI agents",
-    "id": "skill-federation/skill-federation",
-    "language": "JavaScript",
-    "name": "skill-federation/skill-federation",
-    "stars": 10,
-    "updated_at": "2026-08-01T02:56:05Z",
-    "url": "https://github.com/skill-federation/skill-federation"
   },
   {
     "description": "Agent Skill\uff08SKILL.md\uff09\u4f53\u68c0\u5668\uff1a\u8bc4 description \u89e6\u53d1\u8d28\u91cf / \u7bc7\u5e45 / \u6e10\u8fdb\u62ab\u9732 / \u811a\u672c\u5916\u7f6e / \u53ef\u79fb\u690d\u6027 / \u5b89\u5168\uff08\u65e0\u786c\u7f16\u7801\u5bc6\u94a5\uff09\uff0c\u51fa\u8bc4\u5206\u5361 + \u4fee\u590d\u5efa\u8bae\u3002\u96f6\u4f9d\u8d56\uff0cclaude-md-doctor \u7684\u59ca\u59b9\u5de5",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T02:50:34Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
-    "id": "ndisisnd/msg",
-    "language": "Python",
-    "name": "ndisisnd/msg",
-    "stars": 2,
-    "updated_at": "2026-08-01T02:51:38Z",
-    "url": "https://github.com/ndisisnd/msg"
   },
   {
     "description": "AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia ",
@@ -135,21 +144,12 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-01T02:45:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Arcgram \u2014 an interactive diagram engine for human\u2013AI collaboration: an AI agent draws its reasoning as an auditable node",
     "id": "jovesun-lab/arcgram",
     "language": "HTML",
     "name": "jovesun-lab/arcgram",
     "stars": 7,
-    "updated_at": "2026-08-01T02:42:56Z",
+    "updated_at": "2026-08-01T03:08:11Z",
     "url": "https://github.com/jovesun-lab/arcgram"
   },
   {
