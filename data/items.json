@@ -1,12 +1,12 @@
 [
   {
-    "description": "Claude Skill: verification-first Indian real estate advisor \u2014 RERA, title, price sanity, rent-vs-buy, investor screening",
-    "id": "abhishek-geek/india-property-guide",
-    "language": "\u2014",
-    "name": "abhishek-geek/india-property-guide",
-    "stars": 2,
-    "updated_at": "2026-08-01T08:28:13Z",
-    "url": "https://github.com/abhishek-geek/india-property-guide"
+    "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
+    "id": "martinffx/atelier",
+    "language": "TypeScript",
+    "name": "martinffx/atelier",
+    "stars": 38,
+    "updated_at": "2026-08-01T08:44:16Z",
+    "url": "https://github.com/martinffx/atelier"
   },
   {
     "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
@@ -14,8 +14,98 @@
     "language": "HTML",
     "name": "isatimur/presentation-md",
     "stars": 2,
-    "updated_at": "2026-08-01T08:30:15Z",
+    "updated_at": "2026-08-01T08:43:16Z",
     "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Eleven general-purpose Salesforce admin & developer skills for Claude (Apex, Flow, SOQL/Data, LWC, Metadata, Permissions",
+    "id": "kugamon/salesforce-core-skills",
+    "language": "Python",
+    "name": "kugamon/salesforce-core-skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:42:24Z",
+    "url": "https://github.com/kugamon/salesforce-core-skills"
+  },
+  {
+    "description": "Generate comprehension quizzes from Git branch diffs for Claude Code, OpenCode, and pull-request workflows.",
+    "id": "jamestkelly/diffler",
+    "language": "TypeScript",
+    "name": "jamestkelly/diffler",
+    "stars": 3,
+    "updated_at": "2026-08-01T08:41:29Z",
+    "url": "https://github.com/jamestkelly/diffler"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-01T08:43:52Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Configure Codex, Claude, and Tabnine to understand your project, follow its workflow, and respect its safety rules.",
+    "id": "jsuvic/agent-profile",
+    "language": "TypeScript",
+    "name": "jsuvic/agent-profile",
+    "stars": 3,
+    "updated_at": "2026-08-01T08:37:35Z",
+    "url": "https://github.com/jsuvic/agent-profile"
+  },
+  {
+    "description": "\u9762\u5411 AI Agent \u7684\u5185\u5bb9\u521b\u4f5c\u6280\u80fd\u96c6\u5408\uff0c\u8986\u76d6\u8d44\u6599\u79ef\u7d2f\u3001\u7ed3\u6784\u8bbe\u8ba1\u3001\u6587\u7ae0\u64b0\u5199\u3001\u5ba1\u67e5\u4f18\u5316\u4e0e\u53d1\u5e03\u6d41\u7a0b\u3002",
+    "id": "gogoingai/wenqu-skills",
+    "language": "TypeScript",
+    "name": "gogoingai/wenqu-skills",
+    "stars": 3,
+    "updated_at": "2026-08-01T08:44:16Z",
+    "url": "https://github.com/gogoingai/wenqu-skills"
+  },
+  {
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "id": "jonaskahn/docforge",
+    "language": "Python",
+    "name": "jonaskahn/docforge",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:32:52Z",
+    "url": "https://github.com/jonaskahn/docforge"
+  },
+  {
+    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
+    "id": "vdk888/bubble-shield-public",
+    "language": "Python",
+    "name": "vdk888/bubble-shield-public",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:32:12Z",
+    "url": "https://github.com/vdk888/bubble-shield-public"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-08-01T08:41:38Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-01T08:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Skill: verification-first Indian real estate advisor \u2014 RERA, title, price sanity, rent-vs-buy, investor screening",
+    "id": "abhishek-geek/india-property-guide",
+    "language": "\u2014",
+    "name": "abhishek-geek/india-property-guide",
+    "stars": 2,
+    "updated_at": "2026-08-01T08:28:13Z",
+    "url": "https://github.com/abhishek-geek/india-property-guide"
   },
   {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -54,15 +144,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-01T08:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
     "id": "aaron-he-zhu/aaron-marketing-skills",
     "language": "Python",
@@ -77,7 +158,7 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-08-01T08:13:51Z",
+    "updated_at": "2026-08-01T08:30:30Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -97,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T08:11:50Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
-    "id": "jonaskahn/docforge",
-    "language": "Python",
-    "name": "jonaskahn/docforge",
-    "stars": 0,
-    "updated_at": "2026-08-01T08:09:00Z",
-    "url": "https://github.com/jonaskahn/docforge"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -133,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T08:07:09Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 103,
-    "updated_at": "2026-08-01T08:26:06Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -232,15 +295,6 @@
     "stars": 50,
     "updated_at": "2026-08-01T07:48:32Z",
     "url": "https://github.com/m4vic/socratic"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-08-01T08:29:12Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -364,7 +418,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 66969,
+    "stars": 66967,
     "updated_at": "2026-08-01T07:20:41Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -376,15 +430,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T07:20:37Z",
     "url": "https://github.com/Price-Win/pricewin-skills-hub"
-  },
-  {
-    "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
-    "id": "martinffx/atelier",
-    "language": "TypeScript",
-    "name": "martinffx/atelier",
-    "stars": 38,
-    "updated_at": "2026-08-01T07:19:59Z",
-    "url": "https://github.com/martinffx/atelier"
   },
   {
     "description": "One objective in, a verified result out. An agent skill that runs a full, gated dev process with expert subagents and re",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T07:17:13Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Claude Skills for PM workflows: insight synthesis, problem clarity checks, and RICE prioritization.",
-    "id": "pruthivim/claude-pm-skills",
-    "language": "\u2014",
-    "name": "pruthivim/claude-pm-skills",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:15:21Z",
-    "url": "https://github.com/pruthivim/claude-pm-skills"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:13:02Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:12:44Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers ",
-    "id": "imMamdouhaboammar/vibe-svgs",
-    "language": "TypeScript",
-    "name": "imMamdouhaboammar/vibe-svgs",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:11:11Z",
-    "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
-  },
-  {
-    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
-    "id": "netopsengineer/axiom",
-    "language": "Python",
-    "name": "netopsengineer/axiom",
-    "stars": 3,
-    "updated_at": "2026-08-01T07:08:04Z",
-    "url": "https://github.com/netopsengineer/axiom"
   }
 ]
