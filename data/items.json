@@ -1,12 +1,111 @@
 [
   {
+    "description": "Multi-dimensional code review skill for AI coding agents (Claude Code, Cursor, Codex, Gemini CLI). Parallel security, pe",
+    "id": "artificialguybr/code-review-skill",
+    "language": "\u2014",
+    "name": "artificialguybr/code-review-skill",
+    "stars": 1,
+    "updated_at": "2026-08-01T12:45:12Z",
+    "url": "https://github.com/artificialguybr/code-review-skill"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-01T12:43:15Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "id": "jonaskahn/docforge",
+    "language": "Python",
+    "name": "jonaskahn/docforge",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:43:01Z",
+    "url": "https://github.com/jonaskahn/docforge"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:41:32Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:40:38Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Turn complex AI workflows into reusable agent skills",
+    "id": "zseta/skill-writer",
+    "language": "Python",
+    "name": "zseta/skill-writer",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:39:44Z",
+    "url": "https://github.com/zseta/skill-writer"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-08-01T12:39:35Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Based on Anthropic's skill-creator \u2014 with bug fixes, working Cowork support, and official best practices baked in. Claud",
+    "id": "yaniv-golan/skill-creator-plus",
+    "language": "Python",
+    "name": "yaniv-golan/skill-creator-plus",
+    "stars": 3,
+    "updated_at": "2026-08-01T12:37:33Z",
+    "url": "https://github.com/yaniv-golan/skill-creator-plus"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-08-01T12:39:27Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
     "description": "Human-governed research protocol for coding agents: resources \u2192 ideas \u2192 human gates \u2192 bounded experiments \u2192 audited clai",
     "id": "zhangyiCristino/researchhelm",
     "language": "Python",
     "name": "zhangyiCristino/researchhelm",
     "stars": 1,
-    "updated_at": "2026-08-01T12:29:39Z",
+    "updated_at": "2026-08-01T12:33:19Z",
     "url": "https://github.com/zhangyiCristino/researchhelm"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-01T12:43:13Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-01T12:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
@@ -50,7 +149,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-01T12:23:31Z",
+    "updated_at": "2026-08-01T12:36:22Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -99,24 +198,6 @@
     "url": "https://github.com/PIsberg/skill3"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-08-01T12:28:47Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-01T12:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -160,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T12:05:29Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 103,
-    "updated_at": "2026-08-01T12:26:47Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -279,15 +351,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-01T11:50:45Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
     "description": "\ud83d\udcfc A declarative AI agent environment manager, written in Rust",
     "id": "pivoshenko/kasetto",
     "language": "Rust",
@@ -315,40 +378,13 @@
     "url": "https://github.com/m4vic/socratic"
   },
   {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-01T11:48:21Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-01T11:47:24Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
     "description": "Open-source SEO and AEO agent. Ranks every finding by distance to revenue, checks the live SERP before briefing anything",
     "id": "vcxcvii/rainmaker",
     "language": "TypeScript",
     "name": "vcxcvii/rainmaker",
     "stars": 0,
-    "updated_at": "2026-08-01T11:47:14Z",
+    "updated_at": "2026-08-01T12:39:28Z",
     "url": "https://github.com/vcxcvii/rainmaker"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-08-01T11:46:35Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
     "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T11:35:14Z",
     "url": "https://github.com/Max-Levitskiy/skills"
-  },
-  {
-    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
-    "id": "jonaskahn/docforge",
-    "language": "Python",
-    "name": "jonaskahn/docforge",
-    "stars": 0,
-    "updated_at": "2026-08-01T11:34:40Z",
-    "url": "https://github.com/jonaskahn/docforge"
-  },
-  {
-    "description": " \ud83c\udf00The Lateral Thinking skill, for when you need to turn you coding agent to brainstorm, solve issues or to overthink and",
-    "id": "SunnyKTuladhar/lateralus",
-    "language": "PowerShell",
-    "name": "SunnyKTuladhar/lateralus",
-    "stars": 2,
-    "updated_at": "2026-08-01T11:39:50Z",
-    "url": "https://github.com/SunnyKTuladhar/lateralus"
-  },
-  {
-    "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
-    "id": "domengabrovsek/claude",
-    "language": "Shell",
-    "name": "domengabrovsek/claude",
-    "stars": 15,
-    "updated_at": "2026-08-01T11:28:59Z",
-    "url": "https://github.com/domengabrovsek/claude"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-08-01T11:24:17Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   }
 ]
