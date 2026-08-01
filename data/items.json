@@ -1,5 +1,113 @@
 [
   {
+    "description": "Index of my agent skills \u2014 each skill lives in its own repo",
+    "id": "Wang-Cankun/cankun-skills",
+    "language": "JavaScript",
+    "name": "Wang-Cankun/cankun-skills",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:44:42Z",
+    "url": "https://github.com/Wang-Cankun/cankun-skills"
+  },
+  {
+    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
+    "id": "KijitoAI/kijito-claude",
+    "language": "JavaScript",
+    "name": "KijitoAI/kijito-claude",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:40:44Z",
+    "url": "https://github.com/KijitoAI/kijito-claude"
+  },
+  {
+    "description": "Three open-source AI marketing plugins for agencies & in-house teams \u2014 DigitalMarketingPro (158 skills) + ContentForge (",
+    "id": "indranilbanerjee/neels-plugins",
+    "language": "\u2014",
+    "name": "indranilbanerjee/neels-plugins",
+    "stars": 6,
+    "updated_at": "2026-08-01T01:40:01Z",
+    "url": "https://github.com/indranilbanerjee/neels-plugins"
+  },
+  {
+    "description": "Open-source agency-grade social media production plugin \u2014 16 skills, 25 commands, AI image (Nano Banana Pro) + AI video ",
+    "id": "indranilbanerjee/socialforge",
+    "language": "Python",
+    "name": "indranilbanerjee/socialforge",
+    "stars": 23,
+    "updated_at": "2026-08-01T01:39:45Z",
+    "url": "https://github.com/indranilbanerjee/socialforge"
+  },
+  {
+    "description": "Open-source enterprise content production plugin \u2014 21 skills, 13 agents, 11 quality gates, 29-pattern AI humanizer, fact",
+    "id": "indranilbanerjee/contentforge",
+    "language": "Python",
+    "name": "indranilbanerjee/contentforge",
+    "stars": 18,
+    "updated_at": "2026-08-01T01:39:41Z",
+    "url": "https://github.com/indranilbanerjee/contentforge"
+  },
+  {
+    "description": "Open-source AI marketing plugin for agencies & in-house teams \u2014 158 skills, 25 specialist agents, 12-Part Strategy Flow,",
+    "id": "indranilbanerjee/digital-marketing-pro",
+    "language": "Python",
+    "name": "indranilbanerjee/digital-marketing-pro",
+    "stars": 671,
+    "updated_at": "2026-08-01T01:39:37Z",
+    "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-08-01T01:44:35Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/cli",
+    "language": "TypeScript",
+    "name": "agents-inc/cli",
+    "stars": 5,
+    "updated_at": "2026-08-01T01:37:52Z",
+    "url": "https://github.com/agents-inc/cli"
+  },
+  {
+    "description": "Surgical AI-tell removal for prose: strip the durable structural patterns, keep the author's voice, and ship an honest a",
+    "id": "youkistudios/de-slop",
+    "language": "\u2014",
+    "name": "youkistudios/de-slop",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:35:06Z",
+    "url": "https://github.com/youkistudios/de-slop"
+  },
+  {
+    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
+    "id": "worldwonderer/novel-to-game",
+    "language": "Markdown",
+    "name": "worldwonderer/novel-to-game",
+    "stars": 459,
+    "updated_at": "2026-08-01T01:34:44Z",
+    "url": "https://github.com/worldwonderer/novel-to-game"
+  },
+  {
+    "description": "Planning-time deletion gate: questions every requirement's owner, then cuts the plan before work begins.",
+    "id": "youkistudios/subtract",
+    "language": "\u2014",
+    "name": "youkistudios/subtract",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:34:03Z",
+    "url": "https://github.com/youkistudios/subtract"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-01T01:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -32,7 +140,7 @@
     "language": "TypeScript",
     "name": "produtoramaxvision/maxvision-utilities",
     "stars": 0,
-    "updated_at": "2026-08-01T01:24:03Z",
+    "updated_at": "2026-08-01T01:44:19Z",
     "url": "https://github.com/produtoramaxvision/maxvision-utilities"
   },
   {
@@ -54,21 +162,12 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-01T01:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
     "id": "AgamiAI/agami-core",
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 20,
-    "updated_at": "2026-08-01T01:15:10Z",
+    "updated_at": "2026-08-01T01:35:19Z",
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
@@ -88,15 +187,6 @@
     "stars": 406,
     "updated_at": "2026-08-01T01:13:47Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-08-01T01:28:29Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -176,26 +266,8 @@
     "language": "TypeScript",
     "name": "sator-imaging/suggest-skills",
     "stars": 0,
-    "updated_at": "2026-08-01T01:05:25Z",
+    "updated_at": "2026-08-01T01:40:00Z",
     "url": "https://github.com/sator-imaging/suggest-skills"
-  },
-  {
-    "description": "Three open-source AI marketing plugins for agencies & in-house teams \u2014 DigitalMarketingPro (158 skills) + ContentForge (",
-    "id": "indranilbanerjee/neels-plugins",
-    "language": "\u2014",
-    "name": "indranilbanerjee/neels-plugins",
-    "stars": 6,
-    "updated_at": "2026-08-01T01:04:34Z",
-    "url": "https://github.com/indranilbanerjee/neels-plugins"
-  },
-  {
-    "description": "Open-source enterprise content production plugin \u2014 21 skills, 13 agents, 11 quality gates, 29-pattern AI humanizer, fact",
-    "id": "indranilbanerjee/contentforge",
-    "language": "Python",
-    "name": "indranilbanerjee/contentforge",
-    "stars": 17,
-    "updated_at": "2026-08-01T01:04:31Z",
-    "url": "https://github.com/indranilbanerjee/contentforge"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -232,15 +304,6 @@
     "stars": 4,
     "updated_at": "2026-08-01T00:36:55Z",
     "url": "https://github.com/XTSoftwareLabs/neatcontext-plugins"
-  },
-  {
-    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
-    "id": "worldwonderer/novel-to-game",
-    "language": "Markdown",
-    "name": "worldwonderer/novel-to-game",
-    "stars": 459,
-    "updated_at": "2026-08-01T00:18:34Z",
-    "url": "https://github.com/worldwonderer/novel-to-game"
   },
   {
     "description": "Multi-model orchestration skill for Claude Code (babel + cdx-sol + agy): 5-model debate/build-debug/acceptance-gate pipe",
@@ -295,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T00:05:47Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
-    "id": "KijitoAI/kijito-claude",
-    "language": "JavaScript",
-    "name": "KijitoAI/kijito-claude",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:09:37Z",
-    "url": "https://github.com/KijitoAI/kijito-claude"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T23:52:16Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 3,
-    "updated_at": "2026-07-31T23:51:44Z",
-    "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
-    "id": "agents-inc/cli",
-    "language": "TypeScript",
-    "name": "agents-inc/cli",
-    "stars": 5,
-    "updated_at": "2026-07-31T23:50:34Z",
-    "url": "https://github.com/agents-inc/cli"
-  },
-  {
-    "description": "Claude dotfile containing skills, agents etc I use.",
-    "id": "Moliboy5000/.claude",
-    "language": "Python",
-    "name": "Moliboy5000/.claude",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:30:10Z",
-    "url": "https://github.com/Moliboy5000/.claude"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:26:53Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Vendor-neutral conversion, compatibility, and testing for reusable AI agent skills.",
-    "id": "gwolf2025/SkillBridge",
-    "language": "TypeScript",
-    "name": "gwolf2025/SkillBridge",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:19:03Z",
-    "url": "https://github.com/gwolf2025/SkillBridge"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 89187,
-    "updated_at": "2026-07-31T23:17:58Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   }
 ]
