@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "id": "jonaskahn/docforge",
+    "language": "Python",
+    "name": "jonaskahn/docforge",
+    "stars": 0,
+    "updated_at": "2026-08-01T17:44:49Z",
+    "url": "https://github.com/jonaskahn/docforge"
+  },
+  {
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
+    "language": "Shell",
+    "name": "mimukit/skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T17:43:49Z",
+    "url": "https://github.com/mimukit/skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-08-01T17:45:09Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-08-01T17:41:31Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-01T17:40:36Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-01T17:34:14Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "The snack, grocery, delivery, meal planning plugin / skill / tool / agent",
+    "id": "moorage/fullwell",
+    "language": "TypeScript",
+    "name": "moorage/fullwell",
+    "stars": 0,
+    "updated_at": "2026-08-01T17:32:30Z",
+    "url": "https://github.com/moorage/fullwell"
+  },
+  {
+    "description": "Local-first authenticated browser automation for Claude Code \u2014 the Tap MCP server + skills. Record a logged-in browser t",
+    "id": "LeonTing1010/taprun",
+    "language": "JavaScript",
+    "name": "LeonTing1010/taprun",
+    "stars": 0,
+    "updated_at": "2026-08-01T17:30:24Z",
+    "url": "https://github.com/LeonTing1010/taprun"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-01T17:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -61,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-08-01T17:21:10Z",
     "url": "https://github.com/gaelic-ghost/socket"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-01T17:17:51Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -139,7 +211,7 @@
     "id": "HM-Li/graph-engineering",
     "language": "\u2014",
     "name": "HM-Li/graph-engineering",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-01T17:10:43Z",
     "url": "https://github.com/HM-Li/graph-engineering"
   },
@@ -360,15 +432,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
-    "id": "jonaskahn/docforge",
-    "language": "Python",
-    "name": "jonaskahn/docforge",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:48:39Z",
-    "url": "https://github.com/jonaskahn/docforge"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 53,
     "updated_at": "2026-08-01T16:44:28Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 3,
-    "updated_at": "2026-08-01T16:43:32Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:41:47Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-01T16:37:46Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-08-01T16:36:15Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6119,
-    "updated_at": "2026-08-01T16:35:49Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 90 Checks \u00b7 11",
-    "id": "malkreide/mcp-audit-skill",
-    "language": "Python",
-    "name": "malkreide/mcp-audit-skill",
-    "stars": 1,
-    "updated_at": "2026-08-01T16:46:52Z",
-    "url": "https://github.com/malkreide/mcp-audit-skill"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:31:14Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   }
 ]
