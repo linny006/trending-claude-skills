@@ -1,12 +1,48 @@
 [
   {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
+    "description": "Practical Claude Code skills as installable plugins \u2014 research & teardowns, web build/deploy, image search, repo audit, ",
+    "id": "adamjali/claude-skills",
+    "language": "Python",
+    "name": "adamjali/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-08-01T03:44:47Z",
+    "url": "https://github.com/adamjali/claude-skills"
+  },
+  {
+    "description": "Free, private skill search for AI agents",
+    "id": "skill-federation/skill-federation",
+    "language": "JavaScript",
+    "name": "skill-federation/skill-federation",
+    "stars": 10,
+    "updated_at": "2026-08-01T03:44:35Z",
+    "url": "https://github.com/skill-federation/skill-federation"
+  },
+  {
+    "description": "A gated, role-based workflow, with independently reviewed plans, task-by-task delivery, and explicit approval checkpoint",
+    "id": "jameswei/plan-build-review",
+    "language": "\u2014",
+    "name": "jameswei/plan-build-review",
     "stars": 0,
-    "updated_at": "2026-08-01T03:29:11Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+    "updated_at": "2026-08-01T03:44:00Z",
+    "url": "https://github.com/jameswei/plan-build-review"
+  },
+  {
+    "description": "One objective in, a verified result out. An agent skill that runs a full, gated dev process with expert subagents and re",
+    "id": "cskwork/supergoal-skill",
+    "language": "JavaScript",
+    "name": "cskwork/supergoal-skill",
+    "stars": 4,
+    "updated_at": "2026-08-01T03:43:16Z",
+    "url": "https://github.com/cskwork/supergoal-skill"
+  },
+  {
+    "description": "Claude Code plugin that applies The Economist style guide - clarity, precision, brevity. Unofficial.",
+    "id": "TAJD/economist-style-guide-plugin",
+    "language": "\u2014",
+    "name": "TAJD/economist-style-guide-plugin",
+    "stars": 79,
+    "updated_at": "2026-08-01T03:42:55Z",
+    "url": "https://github.com/TAJD/economist-style-guide-plugin"
   },
   {
     "description": "Skills de Claude para docentes de Chile que elaboran su Portafolio de la Evaluaci\u00f3n Docente (Docentem\u00e1s/CPEIP). Entrevis",
@@ -14,8 +50,62 @@
     "language": "Python",
     "name": "fernandox2/portafolio-docente-chile",
     "stars": 0,
-    "updated_at": "2026-08-01T03:27:58Z",
+    "updated_at": "2026-08-01T03:40:24Z",
     "url": "https://github.com/fernandox2/portafolio-docente-chile"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-08-01T03:39:51Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Claude skills for evaluating folder architecture and running staged AI workflows, built on the ICM five-layer context hi",
+    "id": "mcmespinaa/folder-structure-protocol",
+    "language": "HTML",
+    "name": "mcmespinaa/folder-structure-protocol",
+    "stars": 4,
+    "updated_at": "2026-08-01T03:36:15Z",
+    "url": "https://github.com/mcmespinaa/folder-structure-protocol"
+  },
+  {
+    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
+    "id": "KijitoAI/kijito-claude",
+    "language": "JavaScript",
+    "name": "KijitoAI/kijito-claude",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:31:06Z",
+    "url": "https://github.com/KijitoAI/kijito-claude"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:30:47Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-01T03:30:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:29:11Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   },
   {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
@@ -27,15 +117,6 @@
     "url": "https://github.com/munexor/seo-opportunity-nexus"
   },
   {
-    "description": "Free, private skill search for AI agents",
-    "id": "skill-federation/skill-federation",
-    "language": "JavaScript",
-    "name": "skill-federation/skill-federation",
-    "stars": 10,
-    "updated_at": "2026-08-01T03:26:48Z",
-    "url": "https://github.com/skill-federation/skill-federation"
-  },
-  {
     "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
     "id": "arnoldalberto007-sys/Swift-UIKit-Components",
     "language": "HTML",
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:26:03Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
-    "id": "KijitoAI/kijito-claude",
-    "language": "JavaScript",
-    "name": "KijitoAI/kijito-claude",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:25:53Z",
-    "url": "https://github.com/KijitoAI/kijito-claude"
   },
   {
     "description": "Public Claude Code skills marketplace",
@@ -79,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T03:23:38Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Claude skills for evaluating folder architecture and running staged AI workflows, built on the ICM five-layer context hi",
-    "id": "mcmespinaa/folder-structure-protocol",
-    "language": "HTML",
-    "name": "mcmespinaa/folder-structure-protocol",
-    "stars": 4,
-    "updated_at": "2026-08-01T03:21:45Z",
-    "url": "https://github.com/mcmespinaa/folder-structure-protocol"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:15:27Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-01T03:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -275,7 +329,7 @@
     "language": "Shell",
     "name": "harleensahni/copy-to-clipboard-plugin",
     "stars": 0,
-    "updated_at": "2026-08-01T02:33:04Z",
+    "updated_at": "2026-08-01T03:45:17Z",
     "url": "https://github.com/harleensahni/copy-to-clipboard-plugin"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T01:46:21Z",
     "url": "https://github.com/produtoramaxvision/maxvision-utilities"
-  },
-  {
-    "description": "Three open-source AI marketing plugins for agencies & in-house teams \u2014 DigitalMarketingPro (158 skills) + ContentForge (",
-    "id": "indranilbanerjee/neels-plugins",
-    "language": "\u2014",
-    "name": "indranilbanerjee/neels-plugins",
-    "stars": 6,
-    "updated_at": "2026-08-01T01:40:01Z",
-    "url": "https://github.com/indranilbanerjee/neels-plugins"
-  },
-  {
-    "description": "Open-source agency-grade social media production plugin \u2014 16 skills, 25 commands, AI image (Nano Banana Pro) + AI video ",
-    "id": "indranilbanerjee/socialforge",
-    "language": "Python",
-    "name": "indranilbanerjee/socialforge",
-    "stars": 23,
-    "updated_at": "2026-08-01T01:39:45Z",
-    "url": "https://github.com/indranilbanerjee/socialforge"
-  },
-  {
-    "description": "Open-source enterprise content production plugin \u2014 21 skills, 13 agents, 11 quality gates, 29-pattern AI humanizer, fact",
-    "id": "indranilbanerjee/contentforge",
-    "language": "Python",
-    "name": "indranilbanerjee/contentforge",
-    "stars": 18,
-    "updated_at": "2026-08-01T01:39:41Z",
-    "url": "https://github.com/indranilbanerjee/contentforge"
-  },
-  {
-    "description": "Open-source AI marketing plugin for agencies & in-house teams \u2014 158 skills, 25 specialist agents, 12-Part Strategy Flow,",
-    "id": "indranilbanerjee/digital-marketing-pro",
-    "language": "Python",
-    "name": "indranilbanerjee/digital-marketing-pro",
-    "stars": 671,
-    "updated_at": "2026-08-01T01:39:37Z",
-    "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
-  },
-  {
-    "description": "Surgical AI-tell removal for prose: strip the durable structural patterns, keep the author's voice, and ship an honest a",
-    "id": "youkistudios/de-slop",
-    "language": "\u2014",
-    "name": "youkistudios/de-slop",
-    "stars": 0,
-    "updated_at": "2026-08-01T01:35:06Z",
-    "url": "https://github.com/youkistudios/de-slop"
-  },
-  {
-    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
-    "id": "worldwonderer/novel-to-game",
-    "language": "Markdown",
-    "name": "worldwonderer/novel-to-game",
-    "stars": 465,
-    "updated_at": "2026-08-01T01:34:44Z",
-    "url": "https://github.com/worldwonderer/novel-to-game"
   }
 ]
