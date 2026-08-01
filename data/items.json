@@ -1,12 +1,48 @@
 [
   {
-    "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
-    "id": "martinffx/atelier",
-    "language": "TypeScript",
-    "name": "martinffx/atelier",
-    "stars": 38,
-    "updated_at": "2026-08-01T08:44:16Z",
-    "url": "https://github.com/martinffx/atelier"
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "id": "jonaskahn/docforge",
+    "language": "Python",
+    "name": "jonaskahn/docforge",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:59:15Z",
+    "url": "https://github.com/jonaskahn/docforge"
+  },
+  {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 378,
+    "updated_at": "2026-08-01T08:54:34Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 4,
+    "updated_at": "2026-08-01T08:52:53Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
+    "id": "maxritter/pilot-shell",
+    "language": "JavaScript",
+    "name": "maxritter/pilot-shell",
+    "stars": 1796,
+    "updated_at": "2026-08-01T08:51:25Z",
+    "url": "https://github.com/maxritter/pilot-shell"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-01T09:00:07Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
@@ -14,8 +50,26 @@
     "language": "HTML",
     "name": "isatimur/presentation-md",
     "stars": 2,
-    "updated_at": "2026-08-01T08:43:16Z",
+    "updated_at": "2026-08-01T08:46:28Z",
     "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-01T08:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
+    "id": "martinffx/atelier",
+    "language": "TypeScript",
+    "name": "martinffx/atelier",
+    "stars": 38,
+    "updated_at": "2026-08-01T08:44:16Z",
+    "url": "https://github.com/martinffx/atelier"
   },
   {
     "description": "Eleven general-purpose Salesforce admin & developer skills for Claude (Apex, Flow, SOQL/Data, LWC, Metadata, Permissions",
@@ -36,21 +90,12 @@
     "url": "https://github.com/jamestkelly/diffler"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 103,
-    "updated_at": "2026-08-01T08:43:52Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Configure Codex, Claude, and Tabnine to understand your project, follow its workflow, and respect its safety rules.",
     "id": "jsuvic/agent-profile",
     "language": "TypeScript",
     "name": "jsuvic/agent-profile",
     "stars": 3,
-    "updated_at": "2026-08-01T08:37:35Z",
+    "updated_at": "2026-08-01T08:45:51Z",
     "url": "https://github.com/jsuvic/agent-profile"
   },
   {
@@ -59,17 +104,8 @@
     "language": "TypeScript",
     "name": "gogoingai/wenqu-skills",
     "stars": 3,
-    "updated_at": "2026-08-01T08:44:16Z",
+    "updated_at": "2026-08-01T08:59:52Z",
     "url": "https://github.com/gogoingai/wenqu-skills"
-  },
-  {
-    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
-    "id": "jonaskahn/docforge",
-    "language": "Python",
-    "name": "jonaskahn/docforge",
-    "stars": 0,
-    "updated_at": "2026-08-01T08:32:52Z",
-    "url": "https://github.com/jonaskahn/docforge"
   },
   {
     "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
@@ -86,17 +122,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-08-01T08:41:38Z",
+    "updated_at": "2026-08-01T08:54:03Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-01T08:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Skill: verification-first Indian real estate advisor \u2014 RERA, title, price sanity, rent-vs-buy, investor screening",
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 66967,
-    "updated_at": "2026-08-01T07:20:41Z",
+    "updated_at": "2026-08-01T08:48:23Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Agent skills for hotel search & OTA price comparison (Agoda \u00b7 Booking \u00b7 Google Hotels \u00b7 OpenTravel) \u2014 SKILL.md for OpenC",
-    "id": "Price-Win/pricewin-skills-hub",
-    "language": "JavaScript",
-    "name": "Price-Win/pricewin-skills-hub",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:20:37Z",
-    "url": "https://github.com/Price-Win/pricewin-skills-hub"
-  },
-  {
-    "description": "One objective in, a verified result out. An agent skill that runs a full, gated dev process with expert subagents and re",
-    "id": "cskwork/supergoal-skill",
-    "language": "JavaScript",
-    "name": "cskwork/supergoal-skill",
-    "stars": 4,
-    "updated_at": "2026-08-01T07:18:57Z",
-    "url": "https://github.com/cskwork/supergoal-skill"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:17:13Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   }
 ]
