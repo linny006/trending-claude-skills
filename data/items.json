@@ -1,12 +1,39 @@
 [
   {
+    "description": "A daily-driver collection of skills for agentic coding \u2014 a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 4,
+    "updated_at": "2026-08-01T09:45:08Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 406,
+    "updated_at": "2026-08-01T09:42:17Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
     "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 90 Checks \u00b7 11",
     "id": "malkreide/mcp-audit-skill",
     "language": "Python",
     "name": "malkreide/mcp-audit-skill",
     "stars": 1,
-    "updated_at": "2026-08-01T09:31:46Z",
+    "updated_at": "2026-08-01T09:40:22Z",
     "url": "https://github.com/malkreide/mcp-audit-skill"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-08-01T09:33:24Z",
+    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -14,8 +41,26 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-01T09:32:25Z",
+    "updated_at": "2026-08-01T09:42:37Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-01T09:32:36Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-01T09:44:23Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
@@ -25,15 +70,6 @@
     "stars": 1796,
     "updated_at": "2026-08-01T09:30:59Z",
     "url": "https://github.com/maxritter/pilot-shell"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-01T09:30:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Semantic agent skills for cloud operations \u2014 open SKILL.md packages for Claude Code, Cursor, Codex CLI. Includes huawei-",
@@ -76,7 +112,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4994,
+    "stars": 4996,
     "updated_at": "2026-08-01T09:26:51Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "martinffx/atelier",
     "stars": 38,
-    "updated_at": "2026-08-01T08:44:16Z",
+    "updated_at": "2026-08-01T09:43:22Z",
     "url": "https://github.com/martinffx/atelier"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T08:21:30Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
-    "id": "aaron-he-zhu/aaron-marketing-skills",
-    "language": "Python",
-    "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2484,
-    "updated_at": "2026-08-01T09:15:35Z",
-    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-08-01T08:30:30Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-01T08:11:51Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 1,
-    "updated_at": "2026-08-01T08:11:50Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
