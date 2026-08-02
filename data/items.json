@@ -1,21 +1,66 @@
 [
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-08-02T01:30:05Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Future-first skill for writing modern Svelte 5 and SvelteKit 2 code with AI agents.",
     "id": "fifidayone/svelte-edge",
     "language": "\u2014",
     "name": "fifidayone/svelte-edge",
     "stars": 0,
-    "updated_at": "2026-08-02T01:29:12Z",
+    "updated_at": "2026-08-02T01:45:09Z",
     "url": "https://github.com/fifidayone/svelte-edge"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 1,
+    "updated_at": "2026-08-02T01:44:38Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio",
+    "id": "handcraftedbygod/Skill-Sentinel",
+    "language": "Python",
+    "name": "handcraftedbygod/Skill-Sentinel",
+    "stars": 1,
+    "updated_at": "2026-08-02T01:42:21Z",
+    "url": "https://github.com/handcraftedbygod/Skill-Sentinel"
+  },
+  {
+    "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
+    "id": "mworldorg/markdown-memory",
+    "language": "Python",
+    "name": "mworldorg/markdown-memory",
+    "stars": 23,
+    "updated_at": "2026-08-02T01:39:37Z",
+    "url": "https://github.com/mworldorg/markdown-memory"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 48,
+    "updated_at": "2026-08-02T01:32:58Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-08-02T01:30:51Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-02T01:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -88,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T01:17:09Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-02T01:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "38 slash commands that turn Claude Code into a real PDLC workflow \u2014 PRD \u2192 TDD \u2192 implement \u2192 review \u2192 ship. Hard contract",
@@ -216,15 +252,6 @@
     "url": "https://github.com/juemin4-source/writing-pro-max"
   },
   {
-    "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
-    "id": "mworldorg/markdown-memory",
-    "language": "Python",
-    "name": "mworldorg/markdown-memory",
-    "stars": 23,
-    "updated_at": "2026-08-02T00:50:49Z",
-    "url": "https://github.com/mworldorg/markdown-memory"
-  },
-  {
     "description": "Tell whether an interface looks AI-built, and say exactly why. Zero dependencies, one file to run.",
     "id": "Kerrywang64/kiln",
     "language": "JavaScript",
@@ -268,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T00:23:04Z",
     "url": "https://github.com/KKenny0/Tracework"
-  },
-  {
-    "description": "Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio",
-    "id": "handcraftedbygod/Skill-Sentinel",
-    "language": "Python",
-    "name": "handcraftedbygod/Skill-Sentinel",
-    "stars": 1,
-    "updated_at": "2026-08-02T00:22:16Z",
-    "url": "https://github.com/handcraftedbygod/Skill-Sentinel"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T00:00:15Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-02T00:00:05Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-08-01T23:59:56Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   }
 ]
