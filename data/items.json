@@ -1,12 +1,48 @@
 [
   {
-    "description": "\ud83e\udd16 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills",
-    "id": "CitiesSkylinesModding/agents-plugins",
-    "language": "C#",
-    "name": "CitiesSkylinesModding/agents-plugins",
+    "description": "Open-source Claude Code skills from Bamboo DCM \u2014 AI-native private credit infrastructure platform",
+    "id": "bamboo-DCM/library",
+    "language": "Python",
+    "name": "bamboo-DCM/library",
+    "stars": 0,
+    "updated_at": "2026-08-02T17:44:38Z",
+    "url": "https://github.com/bamboo-DCM/library"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 1,
-    "updated_at": "2026-08-02T17:29:44Z",
-    "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
+    "updated_at": "2026-08-02T17:43:53Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-08-02T17:43:29Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 0,
+    "updated_at": "2026-08-02T17:42:45Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-02T17:42:22Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -14,8 +50,71 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-02T17:29:27Z",
+    "updated_at": "2026-08-02T17:41:21Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Blazing-fast WSL2 to Windows file search bridge for AI Agents via MCP",
+    "id": "Sarakael78/Bridge-Search",
+    "language": "Python",
+    "name": "Sarakael78/Bridge-Search",
+    "stars": 1,
+    "updated_at": "2026-08-02T17:38:19Z",
+    "url": "https://github.com/Sarakael78/Bridge-Search"
+  },
+  {
+    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-08-02T17:36:49Z",
+    "url": "https://github.com/ayukyo/icode-skill"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-02T17:35:49Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-02T17:32:10Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 0,
+    "updated_at": "2026-08-02T17:30:20Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-02T17:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udd16 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills",
+    "id": "CitiesSkylinesModding/agents-plugins",
+    "language": "C#",
+    "name": "CitiesSkylinesModding/agents-plugins",
+    "stars": 1,
+    "updated_at": "2026-08-02T17:30:34Z",
+    "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -59,26 +158,8 @@
     "language": "Kotlin",
     "name": "askimo-ai/askimo",
     "stars": 281,
-    "updated_at": "2026-08-02T17:19:41Z",
+    "updated_at": "2026-08-02T17:44:08Z",
     "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 0,
-    "updated_at": "2026-08-02T17:19:07Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-02T17:18:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -103,7 +184,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 89318,
+    "stars": 89320,
     "updated_at": "2026-08-02T17:15:20Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -149,7 +230,7 @@
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 20,
-    "updated_at": "2026-08-02T17:08:00Z",
+    "updated_at": "2026-08-02T17:38:08Z",
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
@@ -342,15 +423,6 @@
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   },
   {
-    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-08-02T16:43:25Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
     "id": "gilvangonzalez/technical-founding-gtm-toolkit",
     "language": "HTML",
@@ -369,15 +441,6 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-02T16:40:07Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "A suite of skills to build better skills \u2014 from creation through install, audit, release, regression testing, and sedime",
     "id": "Songhonglei/build-better-skills",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T16:38:38Z",
     "url": "https://github.com/Songhonglei/build-better-skills"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:38:23Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-08-02T16:35:54Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
-    "id": "worldwonderer/novel-to-game",
-    "language": "Markdown",
-    "name": "worldwonderer/novel-to-game",
-    "stars": 516,
-    "updated_at": "2026-08-02T16:35:25Z",
-    "url": "https://github.com/worldwonderer/novel-to-game"
-  },
-  {
-    "description": "A visual interface for building software with Claude Code.",
-    "id": "Cavalry-Collective/visual-stack",
-    "language": "HTML",
-    "name": "Cavalry-Collective/visual-stack",
-    "stars": 1,
-    "updated_at": "2026-08-02T16:31:19Z",
-    "url": "https://github.com/Cavalry-Collective/visual-stack"
-  },
-  {
-    "description": "Lossless context compression plugin for Claude Code & OpenCode.",
-    "id": "aerovato/magic-compact",
-    "language": "TypeScript",
-    "name": "aerovato/magic-compact",
-    "stars": 129,
-    "updated_at": "2026-08-02T16:30:41Z",
-    "url": "https://github.com/aerovato/magic-compact"
-  },
-  {
-    "description": "One skill with internal modular reasoning for Claude. Work in progress It uses the Dewey Decimal System t tag files in a",
-    "id": "TABARC-Code/Deweygraph-file-organizer",
-    "language": "\u2014",
-    "name": "TABARC-Code/Deweygraph-file-organizer",
-    "stars": 1,
-    "updated_at": "2026-08-02T16:30:03Z",
-    "url": "https://github.com/TABARC-Code/Deweygraph-file-organizer"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-02T16:28:49Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
