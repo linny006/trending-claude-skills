@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 230,
+    "updated_at": "2026-08-02T10:45:29Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 3,
+    "updated_at": "2026-08-02T10:45:53Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-02T10:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills for Claude Code \u2014 practical, reusable workflows. Includes an AMC generator that turns an interview into a b",
     "id": "brajkishore/daily-skills",
     "language": "HTML",
@@ -88,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T10:35:20Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-02T10:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
@@ -320,7 +338,7 @@
     "language": "Java",
     "name": "jabrena/plinth",
     "stars": 423,
-    "updated_at": "2026-08-02T10:41:56Z",
+    "updated_at": "2026-08-02T10:46:20Z",
     "url": "https://github.com/jabrena/plinth"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-02T09:36:28Z",
     "url": "https://github.com/aksheyw/claude-code-deep-review"
-  },
-  {
-    "description": "5 Claude Code skills for UGC creators: hooks, scripts, brand voice, repurposing, and captions. Built by a creator-develo",
-    "id": "ImTaegan/claude-ugc-skills",
-    "language": "\u2014",
-    "name": "ImTaegan/claude-ugc-skills",
-    "stars": 1,
-    "updated_at": "2026-08-02T09:36:09Z",
-    "url": "https://github.com/ImTaegan/claude-ugc-skills"
-  },
-  {
-    "description": "8 production-tested Claude Code skills for Linear \u2192 GitHub \u2192 Vercel SaaS workflows. Quick-start backlog items, auto-link",
-    "id": "ImTaegan/claude-saas-flow",
-    "language": "\u2014",
-    "name": "ImTaegan/claude-saas-flow",
-    "stars": 1,
-    "updated_at": "2026-08-02T09:36:06Z",
-    "url": "https://github.com/ImTaegan/claude-saas-flow"
   }
 ]
