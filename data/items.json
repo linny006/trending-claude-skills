@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u5199\u4f5c\u7406\u8bba\u6280\u80fd\u96c6\uff1a\u6539\u7f16\u6d41/\u539f\u521b\u5267\u672c\u6d41/\u5c0f\u8bf4\u7406\u8bba\u8bc4\u5ba1/\u8868\u6f14\u5c42\u63d0\u793a\u8bcd\u2014\u2014\u7528\u4e00\u5957\u5199\u4f5c\u7406\u8bba\u628a\u6545\u4e8b\u53d8\u6210\u4f5c\u54c1",
+    "id": "juemin4-source/writing-pro-max",
+    "language": "JavaScript",
+    "name": "juemin4-source/writing-pro-max",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:54:53Z",
+    "url": "https://github.com/juemin4-source/writing-pro-max"
+  },
+  {
+    "description": "Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field ",
+    "id": "ericluo04/claude-academic-workflow",
+    "language": "Lua",
+    "name": "ericluo04/claude-academic-workflow",
+    "stars": 6,
+    "updated_at": "2026-08-02T00:52:41Z",
+    "url": "https://github.com/ericluo04/claude-academic-workflow"
+  },
+  {
+    "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
+    "id": "mworldorg/markdown-memory",
+    "language": "Python",
+    "name": "mworldorg/markdown-memory",
+    "stars": 23,
+    "updated_at": "2026-08-02T00:50:49Z",
+    "url": "https://github.com/mworldorg/markdown-memory"
+  },
+  {
+    "description": "Tell whether an interface looks AI-built, and say exactly why. Zero dependencies, one file to run.",
+    "id": "Kerrywang64/kiln",
+    "language": "JavaScript",
+    "name": "Kerrywang64/kiln",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:48:43Z",
+    "url": "https://github.com/Kerrywang64/kiln"
+  },
+  {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 34,
+    "updated_at": "2026-08-02T00:47:15Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-02T00:45:52Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
@@ -18,24 +72,6 @@
     "url": "https://github.com/jamditis/claude-skills-journalism"
   },
   {
-    "description": "\u5199\u4f5c\u7406\u8bba\u6280\u80fd\u96c6\uff1a\u6539\u7f16\u6d41/\u539f\u521b\u5267\u672c\u6d41/\u5c0f\u8bf4\u7406\u8bba\u8bc4\u5ba1/\u8868\u6f14\u5c42\u63d0\u793a\u8bcd\u2014\u2014\u7528\u4e00\u5957\u5199\u4f5c\u7406\u8bba\u628a\u6545\u4e8b\u53d8\u6210\u4f5c\u54c1",
-    "id": "juemin4-source/writing-pro-max",
-    "language": "JavaScript",
-    "name": "juemin4-source/writing-pro-max",
-    "stars": 0,
-    "updated_at": "2026-08-02T00:40:16Z",
-    "url": "https://github.com/juemin4-source/writing-pro-max"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-02T00:31:42Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Deterministic readiness checker for the MCP 2026-07-28 specification break - a graded web probe and an agent skill over ",
     "id": "AlpayC/mcp-migration-check",
     "language": "TypeScript",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T00:31:40Z",
     "url": "https://github.com/AlpayC/mcp-migration-check"
-  },
-  {
-    "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
-    "id": "mworldorg/markdown-memory",
-    "language": "Python",
-    "name": "mworldorg/markdown-memory",
-    "stars": 23,
-    "updated_at": "2026-08-02T00:24:04Z",
-    "url": "https://github.com/mworldorg/markdown-memory"
   },
   {
     "description": "Agentic coding decision replay\uff1a\u8bb0\u5f55\u4e3a\u4ec0\u4e48\uff0c\u628a session signals \u9010\u5c42\u6536\u53e3\u6210\u53ef\u6838\u9a8c\u7684\u5468\u62a5\u3001\u6708\u62a5\u548c\u8def\u7ebf\u56fe\u3002",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T23:39:55Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 34,
-    "updated_at": "2026-08-01T23:37:16Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-01T23:35:43Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:35:12Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   }
 ]
