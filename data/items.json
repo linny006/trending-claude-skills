@@ -1,6 +1,51 @@
 [
   {
-    "description": "Claude Skills for PM workflows: insight synthesis, problem clarity checks, and RICE prioritization.",
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 386,
+    "updated_at": "2026-08-02T06:44:50Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-08-02T06:44:05Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1412,
+    "updated_at": "2026-08-02T06:43:48Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 2,
+    "updated_at": "2026-08-02T06:42:04Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-02T06:38:36Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Skills for PM workflows: insight synthesis, problem clarity checks, PRD critic and RICE prioritization.",
     "id": "pruthivim/claude-pm-skills",
     "language": "\u2014",
     "name": "pruthivim/claude-pm-skills",
@@ -16,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T06:37:16Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-08-02T06:37:06Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -54,6 +90,15 @@
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   },
   {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 67017,
+    "updated_at": "2026-08-02T06:42:42Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
     "id": "mworldorg/markdown-memory",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 23,
     "updated_at": "2026-08-02T06:34:45Z",
     "url": "https://github.com/mworldorg/markdown-memory"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67015,
-    "updated_at": "2026-08-02T06:34:51Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T06:31:33Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-02T06:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
@@ -248,7 +275,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-08-02T06:32:30Z",
+    "updated_at": "2026-08-02T06:38:51Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-08-02T05:41:52Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 2,
-    "updated_at": "2026-08-02T05:41:43Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
     "description": "Delegate tasks to DeepSeek right inside your Claude Code / Codex sessions.",
@@ -360,15 +378,6 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
-    "id": "tobihagemann/turbo",
-    "language": "Shell",
-    "name": "tobihagemann/turbo",
-    "stars": 386,
-    "updated_at": "2026-08-02T05:07:50Z",
-    "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
     "description": "Turn long AI conversations into reusable domain knowledge across sessions",
     "id": "XTSoftwareLabs/neatcontext-plugins",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T04:43:21Z",
     "url": "https://github.com/chris-peterson/claude-marketplace"
-  },
-  {
-    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
-    "id": "worldwonderer/novel-to-game",
-    "language": "Markdown",
-    "name": "worldwonderer/novel-to-game",
-    "stars": 494,
-    "updated_at": "2026-08-02T04:43:13Z",
-    "url": "https://github.com/worldwonderer/novel-to-game"
   }
 ]
