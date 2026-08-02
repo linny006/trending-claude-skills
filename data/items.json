@@ -1,5 +1,77 @@
 [
   {
+    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
+    "id": "ColinVaughn/Synaptic",
+    "language": "Rust",
+    "name": "ColinVaughn/Synaptic",
+    "stars": 20,
+    "updated_at": "2026-08-02T04:14:39Z",
+    "url": "https://github.com/ColinVaughn/Synaptic"
+  },
+  {
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "id": "yusufkaraaslan/Skill_Seekers",
+    "language": "Python",
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "stars": 14676,
+    "updated_at": "2026-08-02T04:13:23Z",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
+  },
+  {
+    "description": "Run your marketing org as an orchestrated AI team instead of a $50K/mo tool stack and scarce specialists. 9 agents own t",
+    "id": "varunk130/ai-marketing-os",
+    "language": "TypeScript",
+    "name": "varunk130/ai-marketing-os",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:10:21Z",
+    "url": "https://github.com/varunk130/ai-marketing-os"
+  },
+  {
+    "description": "Unified suite of AI agents for product managers \u2014 a 6-agent orchestrated pipeline that turns customer feedback into stra",
+    "id": "varunk130/ai-pm-agents-suite",
+    "language": "Python",
+    "name": "varunk130/ai-pm-agents-suite",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:10:12Z",
+    "url": "https://github.com/varunk130/ai-pm-agents-suite"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-08-02T04:10:30Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
+    "id": "mworldorg/markdown-memory",
+    "language": "Python",
+    "name": "mworldorg/markdown-memory",
+    "stars": 23,
+    "updated_at": "2026-08-02T04:04:34Z",
+    "url": "https://github.com/mworldorg/markdown-memory"
+  },
+  {
+    "description": "Claude plugin \"marketplace\"",
+    "id": "chris-peterson/claude-marketplace",
+    "language": "Python",
+    "name": "chris-peterson/claude-marketplace",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:04:27Z",
+    "url": "https://github.com/chris-peterson/claude-marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-02T04:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
     "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
     "language": "HTML",
@@ -36,24 +108,6 @@
     "url": "https://github.com/chenweil/skillcaddy"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-08-02T03:57:05Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-02T03:56:28Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -81,15 +135,6 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "Run your marketing org as an orchestrated AI team instead of a $50K/mo tool stack and scarce specialists. 9 agents own t",
-    "id": "varunk130/ai-marketing-os",
-    "language": "TypeScript",
-    "name": "varunk130/ai-marketing-os",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:54:37Z",
-    "url": "https://github.com/varunk130/ai-marketing-os"
-  },
-  {
     "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
     "id": "valentil/featureboard-mcp",
     "language": "JavaScript",
@@ -106,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-08-02T03:53:11Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
-    "id": "mworldorg/markdown-memory",
-    "language": "Python",
-    "name": "mworldorg/markdown-memory",
-    "stars": 23,
-    "updated_at": "2026-08-02T03:52:34Z",
-    "url": "https://github.com/mworldorg/markdown-memory"
   },
   {
     "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
@@ -243,20 +279,11 @@
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
-    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
-    "id": "ColinVaughn/Synaptic",
-    "language": "Rust",
-    "name": "ColinVaughn/Synaptic",
-    "stars": 20,
-    "updated_at": "2026-08-02T03:36:45Z",
-    "url": "https://github.com/ColinVaughn/Synaptic"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 89271,
+    "stars": 89272,
     "updated_at": "2026-08-02T03:25:43Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -270,13 +297,13 @@
     "url": "https://github.com/Midstall/claude-for-hardware"
   },
   {
-    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
-    "id": "yusufkaraaslan/Skill_Seekers",
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
     "language": "Python",
-    "name": "yusufkaraaslan/Skill_Seekers",
-    "stars": 14676,
-    "updated_at": "2026-08-02T04:00:13Z",
-    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18405,
+    "updated_at": "2026-08-02T04:14:07Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T02:13:27Z",
     "url": "https://github.com/JunbaoLiang/audit-with-plans"
-  },
-  {
-    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
-    "id": "aaron-he-zhu/aaron-marketing-skills",
-    "language": "Python",
-    "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2489,
-    "updated_at": "2026-08-02T02:13:25Z",
-    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-02T02:13:20Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67008,
-    "updated_at": "2026-08-02T02:10:19Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   }
 ]
