@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 08:59 UTC
+> ⏰ Last updated: 2026-08-02 09:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [roshaw/claude-translation-agency](https://github.com/roshaw/claude-translation-agency) | 0 | — | 2026-08-02 | Portable Claude Code skills + agent panel that translate any project or files into any language — codebase i18n, WordPre |
-| 2 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67022 | TypeScript | 2026-08-02 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 3 | [molefrog/moi](https://github.com/molefrog/moi) | 49 | TypeScript | 2026-08-02 | 💾 MOI: agent-agnostic generative UI workspace |
-| 4 | [seokhoonj/finyahoo](https://github.com/seokhoonj/finyahoo) | 0 | Python | 2026-08-02 | Read prices, fundamentals, quotes, options, and news from Yahoo Finance. |
-| 5 | [shaunmarsden/skill-author](https://github.com/shaunmarsden/skill-author) | 0 | — | 2026-08-02 | Turn a repeated task into a proper, bounded AI skill with real guardrails and stop conditions, not a one-off prompt. Fre |
-| 6 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-08-02 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-08-02 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [roshaw/claude-translation-agency](https://github.com/roshaw/claude-translation-agency) | 0 | — | 2026-08-02 | Portable Claude Code skills + agent panel that translate any project or files into any language — codebase i18n, WordPre |
+| 3 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67022 | TypeScript | 2026-08-02 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 4 | [molefrog/moi](https://github.com/molefrog/moi) | 49 | TypeScript | 2026-08-02 | 💾 MOI: agent-agnostic generative UI workspace |
+| 5 | [seokhoonj/finyahoo](https://github.com/seokhoonj/finyahoo) | 0 | Python | 2026-08-02 | Read prices, fundamentals, quotes, options, and news from Yahoo Finance. |
+| 6 | [shaunmarsden/skill-author](https://github.com/shaunmarsden/skill-author) | 0 | — | 2026-08-02 | Turn a repeated task into a proper, bounded AI skill with real guardrails and stop conditions, not a one-off prompt. Fre |
 | 7 | [alfadur7/llm-wiki-newsroom](https://github.com/alfadur7/llm-wiki-newsroom) | 69 | Python | 2026-08-02 | Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into |
 | 8 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-02 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
 | 9 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-02 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
