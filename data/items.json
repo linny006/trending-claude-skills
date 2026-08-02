@@ -1,5 +1,95 @@
 [
   {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 423,
+    "updated_at": "2026-08-02T09:59:54Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:57:12Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "My assortment of Claude Code skills",
+    "id": "ivuorinen/skills",
+    "language": "Python",
+    "name": "ivuorinen/skills",
+    "stars": 1,
+    "updated_at": "2026-08-02T09:56:11Z",
+    "url": "https://github.com/ivuorinen/skills"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:55:43Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "Agent skill that reads a Reddit post and its full comment thread as markdown \u2014 for Claude Code, Codex, and other agents ",
+    "id": "marinsokol5/reddit-read",
+    "language": "Python",
+    "name": "marinsokol5/reddit-read",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:55:38Z",
+    "url": "https://github.com/marinsokol5/reddit-read"
+  },
+  {
+    "description": "Read prices, fundamentals, quotes, options, and news from Yahoo Finance.",
+    "id": "seokhoonj/finyahoo",
+    "language": "Python",
+    "name": "seokhoonj/finyahoo",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:55:27Z",
+    "url": "https://github.com/seokhoonj/finyahoo"
+  },
+  {
+    "description": "\ud83e\uddf0 Jay's Claude Code toolbox \u2014 hooks, commands, skills & agents",
+    "id": "jyh4358/jay-plugin",
+    "language": "Python",
+    "name": "jyh4358/jay-plugin",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:53:19Z",
+    "url": "https://github.com/jyh4358/jay-plugin"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 3,
+    "updated_at": "2026-08-02T09:53:05Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "A Claude Code skill that redesigns a Google Slides deck against branding you point it at, then renders every slide it to",
+    "id": "eranw2000/google-slides-skill",
+    "language": "Python",
+    "name": "eranw2000/google-slides-skill",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:46:31Z",
+    "url": "https://github.com/eranw2000/google-slides-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-02T09:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
     "id": "Max-Levitskiy/skills",
     "language": "TypeScript",
@@ -106,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T09:30:22Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-02T09:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
@@ -301,18 +382,9 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67022,
+    "stars": 67023,
     "updated_at": "2026-08-02T08:53:22Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Read prices, fundamentals, quotes, options, and news from Yahoo Finance.",
-    "id": "seokhoonj/finyahoo",
-    "language": "Python",
-    "name": "seokhoonj/finyahoo",
-    "stars": 0,
-    "updated_at": "2026-08-02T08:49:40Z",
-    "url": "https://github.com/seokhoonj/finyahoo"
   },
   {
     "description": "Turn a repeated task into a proper, bounded AI skill with real guardrails and stop conditions, not a one-off prompt. Fre",
@@ -376,77 +448,5 @@
     "stars": 14678,
     "updated_at": "2026-08-02T08:26:31Z",
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
-  },
-  {
-    "description": "Turn a book you already own into a Claude skill: a short index plus one file per chapter, loaded only when needed. Free,",
-    "id": "shaunmarsden/book-to-skill",
-    "language": "\u2014",
-    "name": "shaunmarsden/book-to-skill",
-    "stars": 0,
-    "updated_at": "2026-08-02T08:25:06Z",
-    "url": "https://github.com/shaunmarsden/book-to-skill"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-08-02T08:24:59Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
-    "id": "eai-org/agent-toolkit",
-    "language": "Shell",
-    "name": "eai-org/agent-toolkit",
-    "stars": 28,
-    "updated_at": "2026-08-02T08:24:38Z",
-    "url": "https://github.com/eai-org/agent-toolkit"
-  },
-  {
-    "description": "A cross-platform, file-based persistent memory and prompt bridge for Claude Code, claude.ai, and Antigravity IDE. Synchr",
-    "id": "mworldorg/markdown-memory",
-    "language": "Python",
-    "name": "mworldorg/markdown-memory",
-    "stars": 23,
-    "updated_at": "2026-08-02T08:16:08Z",
-    "url": "https://github.com/mworldorg/markdown-memory"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-02T08:15:27Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
-    "id": "aaron-he-zhu/aaron-marketing-skills",
-    "language": "Python",
-    "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2490,
-    "updated_at": "2026-08-02T08:13:22Z",
-    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 1,
-    "updated_at": "2026-08-02T08:13:06Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-02T08:12:54Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   }
 ]
