@@ -1,5 +1,68 @@
 [
   {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 393,
+    "updated_at": "2026-08-02T18:28:40Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio",
+    "id": "handcraftedbygod/Skill-Sentinel",
+    "language": "Python",
+    "name": "handcraftedbygod/Skill-Sentinel",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:28:22Z",
+    "url": "https://github.com/handcraftedbygod/Skill-Sentinel"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/cli",
+    "language": "TypeScript",
+    "name": "agents-inc/cli",
+    "stars": 5,
+    "updated_at": "2026-08-02T18:28:01Z",
+    "url": "https://github.com/agents-inc/cli"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-02T18:25:57Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Claude skill that turns a single request into a narrated mythic short film in a layered cut-paper diorama style \u2014 three-",
+    "id": "sadekxD/cardstock-diorama-myth",
+    "language": "\u2014",
+    "name": "sadekxD/cardstock-diorama-myth",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:18:36Z",
+    "url": "https://github.com/sadekxD/cardstock-diorama-myth"
+  },
+  {
+    "description": "Battle-tested Claude skills: Notion GTD sessions, book print pipeline, PrusaSlicer profiles, language tutor",
+    "id": "makukhin-ie/ai-toolbox",
+    "language": "Python",
+    "name": "makukhin-ie/ai-toolbox",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:17:36Z",
+    "url": "https://github.com/makukhin-ie/ai-toolbox"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-02T18:15:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "jonaskahn/docforge",
     "stars": 0,
-    "updated_at": "2026-08-02T18:11:14Z",
+    "updated_at": "2026-08-02T18:21:40Z",
     "url": "https://github.com/jonaskahn/docforge"
   },
   {
@@ -133,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T18:01:59Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 103,
-    "updated_at": "2026-08-02T18:13:58Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-02T18:00:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T17:25:43Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Scale Your Website From Zero to Millions of Users",
-    "id": "Rudra-narayan-muduli-001/Scale-to-Millions",
-    "language": "\u2014",
-    "name": "Rudra-narayan-muduli-001/Scale-to-Millions",
-    "stars": 0,
-    "updated_at": "2026-08-02T17:24:40Z",
-    "url": "https://github.com/Rudra-narayan-muduli-001/Scale-to-Millions"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 89325,
-    "updated_at": "2026-08-02T17:15:20Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Portable Claude Code skills + agent panel that translate any project or files into any language \u2014 codebase i18n, WordPre",
-    "id": "roshaw/claude-translation-agency",
-    "language": "\u2014",
-    "name": "roshaw/claude-translation-agency",
-    "stars": 0,
-    "updated_at": "2026-08-02T17:11:25Z",
-    "url": "https://github.com/roshaw/claude-translation-agency"
-  },
-  {
-    "description": "Agent Skill that turns messy notes into rendered strategy-consulting visuals, with SVG examples and validation.",
-    "id": "kgraph57/mckinsey-style-visualization-skill",
-    "language": "Python",
-    "name": "kgraph57/mckinsey-style-visualization-skill",
-    "stars": 57,
-    "updated_at": "2026-08-02T17:09:01Z",
-    "url": "https://github.com/kgraph57/mckinsey-style-visualization-skill"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-02T17:08:36Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   }
 ]
