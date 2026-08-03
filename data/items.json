@@ -1,12 +1,111 @@
 [
   {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 9,
+    "updated_at": "2026-08-03T06:59:09Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
+    "id": "natthasath/natthasath-marketplace",
+    "language": "HTML",
+    "name": "natthasath/natthasath-marketplace",
+    "stars": 0,
+    "updated_at": "2026-08-03T06:58:15Z",
+    "url": "https://github.com/natthasath/natthasath-marketplace"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 28,
+    "updated_at": "2026-08-03T06:56:52Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
     "description": "Get in the know with Anthropic resources. From API development guides to enterprise deployment best practices, the acade",
     "id": "SiddhuShkya/Anthropic-Academy",
-    "language": "\u2014",
+    "language": "Jupyter Notebook",
     "name": "SiddhuShkya/Anthropic-Academy",
     "stars": 0,
-    "updated_at": "2026-08-03T06:42:32Z",
+    "updated_at": "2026-08-03T06:55:00Z",
     "url": "https://github.com/SiddhuShkya/Anthropic-Academy"
+  },
+  {
+    "description": "Style gate for prose: every claim states a feature, a number, or a mechanism. Agent skill plus a deterministic Python li",
+    "id": "HiroHyun/grounded-copy",
+    "language": "Python",
+    "name": "HiroHyun/grounded-copy",
+    "stars": 10,
+    "updated_at": "2026-08-03T06:53:35Z",
+    "url": "https://github.com/HiroHyun/grounded-copy"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 3,
+    "updated_at": "2026-08-03T06:52:42Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 93 Checks \u00b7 12",
+    "id": "malkreide/mcp-audit-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-audit-skill",
+    "stars": 1,
+    "updated_at": "2026-08-03T06:52:06Z",
+    "url": "https://github.com/malkreide/mcp-audit-skill"
+  },
+  {
+    "description": "Auto harness engineering meta-repo: discuss \u2192 curate \u2192 bootstrap a context-engineered project for Claude Code, Cursor, C",
+    "id": "glowElephant/context-forge",
+    "language": "Python",
+    "name": "glowElephant/context-forge",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:50:51Z",
+    "url": "https://github.com/glowElephant/context-forge"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 67085,
+    "updated_at": "2026-08-03T06:49:58Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-03T06:47:25Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18425,
+    "updated_at": "2026-08-03T06:46:05Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-03T06:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
@@ -23,7 +122,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-03T06:44:14Z",
+    "updated_at": "2026-08-03T06:56:46Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -99,24 +198,6 @@
     "url": "https://github.com/khanhvo2172-dotcom/seo-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-03T06:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18424,
-    "updated_at": "2026-08-03T06:34:49Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
     "id": "ayukyo/icode-skill",
     "language": "Python",
@@ -189,15 +270,6 @@
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
-    "description": "Style gate for prose: every claim states a feature, a number, or a mechanism. Agent skill plus a deterministic Python li",
-    "id": "HiroHyun/grounded-copy",
-    "language": "Python",
-    "name": "HiroHyun/grounded-copy",
-    "stars": 10,
-    "updated_at": "2026-08-03T06:14:12Z",
-    "url": "https://github.com/HiroHyun/grounded-copy"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -229,7 +301,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30409,
+    "stars": 30408,
     "updated_at": "2026-08-03T06:07:00Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -301,18 +373,9 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 4623,
+    "stars": 4625,
     "updated_at": "2026-08-03T05:31:23Z",
     "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67082,
-    "updated_at": "2026-08-03T06:38:23Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T05:00:52Z",
     "url": "https://github.com/THEROCKSSS/vpn-egress"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:58:48Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Your app doesn't get in until it's ready. A Claude Agent Skill that works the door for prototype and AI-built apps - 13 ",
-    "id": "punitsnaik/Bouncer",
-    "language": "Shell",
-    "name": "punitsnaik/Bouncer",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:58:00Z",
-    "url": "https://github.com/punitsnaik/Bouncer"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 1,
-    "updated_at": "2026-08-03T05:20:11Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "OmniRank -- SEO / AEO / GEO / SMM growth engine for Claude Code and Cursor. v0.1.0 ships two skills: audit (score SEO, A",
-    "id": "bemoshiur/OmniRank",
-    "language": "Python",
-    "name": "bemoshiur/OmniRank",
-    "stars": 1,
-    "updated_at": "2026-08-03T04:56:41Z",
-    "url": "https://github.com/bemoshiur/OmniRank"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:52:45Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-03T04:50:31Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
-    "id": "yusufkaraaslan/Skill_Seekers",
-    "language": "Python",
-    "name": "yusufkaraaslan/Skill_Seekers",
-    "stars": 14680,
-    "updated_at": "2026-08-03T04:47:27Z",
-    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
   }
 ]
