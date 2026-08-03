@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 03:59 UTC
+> ⏰ Last updated: 2026-08-03 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-08-03 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
-| 2 | [artherahq/skills](https://github.com/artherahq/skills) | 2 | Python | 2026-08-03 | Reusable Agent Skills for quantitative finance research, extracted from the Aria toolchain. |
-| 3 | [kgraph57/mckinsey-style-visualization-skill](https://github.com/kgraph57/mckinsey-style-visualization-skill) | 57 | Python | 2026-08-03 | Agent Skill that turns messy notes into rendered strategy-consulting visuals, with SVG examples and validation. |
-| 4 | [vanducng/skills](https://github.com/vanducng/skills) | 4 | Python | 2026-08-03 | A daily-driver collection of skills for agentic coding — a portable, agent-agnostic catalog managed with the vd CLI. |
-| 5 | [SentiSenseApp/skills](https://github.com/SentiSenseApp/skills) | 1 | Python | 2026-08-03 | The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co |
-| 6 | [Cavalry-Collective/visual-stack](https://github.com/Cavalry-Collective/visual-stack) | 1 | HTML | 2026-08-03 | A visual interface for building software with Claude Code. |
-| 7 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-03 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 8 | [deepaksinghcs14/deadeye-cc](https://github.com/deepaksinghcs14/deadeye-cc) | 0 | Go | 2026-08-03 | Claude Code plugin that fits the model, effort, and context to each task — fewer tokens, same quality. Deterministic pol |
-| 9 | [Carlos-Padilla-Bravo/llm-council-cc](https://github.com/Carlos-Padilla-Bravo/llm-council-cc) | 0 | HTML | 2026-08-03 | Five advisors analyze your decision independently, peer-review each other blind with a forced ranking, and a chairman de |
-| 10 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67069 | TypeScript | 2026-08-03 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 11 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 5020 | Python | 2026-08-03 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
-| 12 | [askimo-ai/askimo](https://github.com/askimo-ai/askimo) | 282 | Kotlin | 2026-08-03 | AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia  |
-| 13 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 1 | HTML | 2026-08-03 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
-| 14 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-08-03 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 19 | Python | 2026-08-03 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-08-03 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
+| 3 | [artherahq/skills](https://github.com/artherahq/skills) | 2 | Python | 2026-08-03 | Reusable Agent Skills for quantitative finance research, extracted from the Aria toolchain. |
+| 4 | [kgraph57/mckinsey-style-visualization-skill](https://github.com/kgraph57/mckinsey-style-visualization-skill) | 57 | Python | 2026-08-03 | Agent Skill that turns messy notes into rendered strategy-consulting visuals, with SVG examples and validation. |
+| 5 | [vanducng/skills](https://github.com/vanducng/skills) | 4 | Python | 2026-08-03 | A daily-driver collection of skills for agentic coding — a portable, agent-agnostic catalog managed with the vd CLI. |
+| 6 | [SentiSenseApp/skills](https://github.com/SentiSenseApp/skills) | 1 | Python | 2026-08-03 | The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co |
+| 7 | [Cavalry-Collective/visual-stack](https://github.com/Cavalry-Collective/visual-stack) | 1 | HTML | 2026-08-03 | A visual interface for building software with Claude Code. |
+| 8 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-03 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 9 | [deepaksinghcs14/deadeye-cc](https://github.com/deepaksinghcs14/deadeye-cc) | 0 | Go | 2026-08-03 | Claude Code plugin that fits the model, effort, and context to each task — fewer tokens, same quality. Deterministic pol |
+| 10 | [Carlos-Padilla-Bravo/llm-council-cc](https://github.com/Carlos-Padilla-Bravo/llm-council-cc) | 0 | HTML | 2026-08-03 | Five advisors analyze your decision independently, peer-review each other blind with a forced ranking, and a chairman de |
+| 11 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67069 | TypeScript | 2026-08-03 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 12 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 5020 | Python | 2026-08-03 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
+| 13 | [askimo-ai/askimo](https://github.com/askimo-ai/askimo) | 282 | Kotlin | 2026-08-03 | AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia  |
+| 14 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 1 | HTML | 2026-08-03 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
 | 15 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 1 | HTML | 2026-08-03 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
 | 16 | [0xc000022070/agentic-flake](https://github.com/0xc000022070/agentic-flake) | 1 | Nix | 2026-08-03 | Composable agent skills and project-scoped environments for Nix.  |
 | 17 | [mr-kelly/skills](https://github.com/mr-kelly/skills) | 3 | JavaScript | 2026-08-03 | Agent Skills by mr-kelly |
