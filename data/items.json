@@ -1,5 +1,68 @@
 [
   {
+    "description": "Claude Code skill: predict merge conflicts before opening a PR by checking file overlap against other open PRs/branches",
+    "id": "ritesh31/claude-pre-merge-conflict-predictor",
+    "language": "Shell",
+    "name": "ritesh31/claude-pre-merge-conflict-predictor",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:10:07Z",
+    "url": "https://github.com/ritesh31/claude-pre-merge-conflict-predictor"
+  },
+  {
+    "description": "A lean agentic-development workflow around Markdown issues, tickets, specs, and ADRs, packaged as an installable skill.",
+    "id": "elucidata/spectrum",
+    "language": "JavaScript",
+    "name": "elucidata/spectrum",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:09:20Z",
+    "url": "https://github.com/elucidata/spectrum"
+  },
+  {
+    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 both the HTML and native-PPTX routes, compared on what actually d",
+    "id": "brycewang-stanford/many-ppt-skills",
+    "language": "Python",
+    "name": "brycewang-stanford/many-ppt-skills",
+    "stars": 8,
+    "updated_at": "2026-08-03T15:06:25Z",
+    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 21,
+    "updated_at": "2026-08-03T15:05:44Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Should you actually install that? A plain-English fit check for any repo, package, API or MCP server, with sources.",
+    "id": "bhaor/toolcheck",
+    "language": "Python",
+    "name": "bhaor/toolcheck",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:05:16Z",
+    "url": "https://github.com/bhaor/toolcheck"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-03T15:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 404,
+    "updated_at": "2026-08-03T14:59:32Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
     "description": "Drop-in Jakarta Faces knowledge base for Claude Code",
     "id": "omnifaces/claude-faces-expert",
     "language": "Shell",
@@ -90,24 +153,6 @@
     "url": "https://github.com/isatimur/presentation-md"
   },
   {
-    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 both the HTML and native-PPTX routes, compared on what actually d",
-    "id": "brycewang-stanford/many-ppt-skills",
-    "language": "Python",
-    "name": "brycewang-stanford/many-ppt-skills",
-    "stars": 8,
-    "updated_at": "2026-08-03T14:46:54Z",
-    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-03T14:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
     "id": "k-vaca/prompt-engineering-skill",
     "language": "\u2014",
@@ -144,15 +189,6 @@
     "url": "https://github.com/moonlight-lupin/data-toolkit"
   },
   {
-    "description": "A lean agentic-development workflow around Markdown issues, tickets, specs, and ADRs, packaged as an installable skill.",
-    "id": "elucidata/spectrum",
-    "language": "JavaScript",
-    "name": "elucidata/spectrum",
-    "stars": 0,
-    "updated_at": "2026-08-03T14:37:42Z",
-    "url": "https://github.com/elucidata/spectrum"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -167,7 +203,7 @@
     "language": "Shell",
     "name": "synaptiai/synapti-marketplace",
     "stars": 6,
-    "updated_at": "2026-08-03T14:36:39Z",
+    "updated_at": "2026-08-03T15:04:45Z",
     "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-03T14:58:19Z",
+    "updated_at": "2026-08-03T15:08:11Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 85,
     "updated_at": "2026-08-03T13:42:33Z",
     "url": "https://github.com/wquguru/skills"
-  },
-  {
-    "description": "13 curated Agent Skills for research, product decisions, decks, publishing, audits, and more \u2014 portable across skills-co",
-    "id": "staruhub/ClaudeSkills",
-    "language": "Python",
-    "name": "staruhub/ClaudeSkills",
-    "stars": 658,
-    "updated_at": "2026-08-03T13:41:09Z",
-    "url": "https://github.com/staruhub/ClaudeSkills"
-  },
-  {
-    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
-    "id": "maxritter/pilot-shell",
-    "language": "JavaScript",
-    "name": "maxritter/pilot-shell",
-    "stars": 1797,
-    "updated_at": "2026-08-03T13:41:01Z",
-    "url": "https://github.com/maxritter/pilot-shell"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 2,
-    "updated_at": "2026-08-03T13:39:46Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-03T13:37:20Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   }
 ]
