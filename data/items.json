@@ -1,12 +1,57 @@
 [
   {
-    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
-    "id": "ayukyo/icode-skill",
+    "description": "Get in the know with Anthropic resources. From API development guides to enterprise deployment best practices, the acade",
+    "id": "SiddhuShkya/Anthropic-Academy",
+    "language": "\u2014",
+    "name": "SiddhuShkya/Anthropic-Academy",
+    "stars": 0,
+    "updated_at": "2026-08-03T06:42:32Z",
+    "url": "https://github.com/SiddhuShkya/Anthropic-Academy"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:39:03Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-03T06:44:14Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Agent skill: your AI coding logs as a gamified character sheet \u2014 Claude Code, Codex, OpenCode, Gemini, Copilot. 74 achie",
+    "id": "timoncool/prompt-warrior",
     "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-08-03T06:27:17Z",
-    "url": "https://github.com/ayukyo/icode-skill"
+    "name": "timoncool/prompt-warrior",
+    "stars": 21,
+    "updated_at": "2026-08-03T06:36:57Z",
+    "url": "https://github.com/timoncool/prompt-warrior"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 230,
+    "updated_at": "2026-08-03T06:34:35Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Memory consolidation skills for Claude Code \u2014 read-only dream pass, checkbox/validator gate, full-auto mode, snapshot + ",
+    "id": "timoncool/dream-skill",
+    "language": "HTML",
+    "name": "timoncool/dream-skill",
+    "stars": 1,
+    "updated_at": "2026-08-03T06:34:07Z",
+    "url": "https://github.com/timoncool/dream-skill"
   },
   {
     "description": "SSH, SFTP, Telnet and Windows RDP, all in one terminal powered by AI",
@@ -14,8 +59,17 @@
     "language": "JavaScript",
     "name": "BradPerbs/cloudterm",
     "stars": 8,
-    "updated_at": "2026-08-03T06:26:07Z",
+    "updated_at": "2026-08-03T06:34:06Z",
     "url": "https://github.com/BradPerbs/cloudterm"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-08-03T06:33:05Z",
+    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "A visual interface for building software with Claude Code.",
@@ -23,7 +77,7 @@
     "language": "HTML",
     "name": "Cavalry-Collective/visual-stack",
     "stars": 1,
-    "updated_at": "2026-08-03T06:25:32Z",
+    "updated_at": "2026-08-03T06:31:40Z",
     "url": "https://github.com/Cavalry-Collective/visual-stack"
   },
   {
@@ -32,8 +86,44 @@
     "language": "Python",
     "name": "ndisisnd/msg",
     "stars": 2,
-    "updated_at": "2026-08-03T06:23:32Z",
+    "updated_at": "2026-08-03T06:30:47Z",
     "url": "https://github.com/ndisisnd/msg"
+  },
+  {
+    "description": "Claude Code skills for SEO, content localization, and digital PR - built for TrueProfit's ecommerce workflow",
+    "id": "khanhvo2172-dotcom/seo-skills",
+    "language": "Python",
+    "name": "khanhvo2172-dotcom/seo-skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T06:30:18Z",
+    "url": "https://github.com/khanhvo2172-dotcom/seo-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-03T06:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18424,
+    "updated_at": "2026-08-03T06:34:49Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-08-03T06:27:17Z",
+    "url": "https://github.com/ayukyo/icode-skill"
   },
   {
     "description": "Self-contained design arsenal skill for Claude Code \u2014 20 curated sources vendored into grep-able local indexes: componen",
@@ -90,15 +180,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-03T06:15:26Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
     "id": "Stewie-pixel/claude-with-leetcode",
     "language": "C++",
@@ -144,13 +225,13 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-08-03T06:23:30Z",
-    "url": "https://github.com/gaia-react/gaia"
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30409,
+    "updated_at": "2026-08-03T06:07:00Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": " AI Security Research Radar \u2014 AI for security and security for AI",
@@ -187,15 +268,6 @@
     "stars": 57,
     "updated_at": "2026-08-03T05:50:10Z",
     "url": "https://github.com/kgraph57/mckinsey-style-visualization-skill"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:40:31Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -238,8 +310,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67081,
-    "updated_at": "2026-08-03T05:30:38Z",
+    "stars": 67082,
+    "updated_at": "2026-08-03T06:38:23Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 14680,
     "updated_at": "2026-08-03T04:47:27Z",
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
-  },
-  {
-    "description": "Claude skills that make the output look and read right by default: branded Word and PowerPoint, a logic-and-slop prose r",
-    "id": "dzivkovi/claude-skills",
-    "language": "Python",
-    "name": "dzivkovi/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:46:13Z",
-    "url": "https://github.com/dzivkovi/claude-skills"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:45:18Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 5021,
-    "updated_at": "2026-08-03T04:44:00Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Scale Your Website From Zero to Millions of Users",
-    "id": "Rudra-narayan-muduli-001/Scale-to-Millions",
-    "language": "\u2014",
-    "name": "Rudra-narayan-muduli-001/Scale-to-Millions",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:43:38Z",
-    "url": "https://github.com/Rudra-narayan-muduli-001/Scale-to-Millions"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-03T04:42:13Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Interactive briefing cards for Claude Code \u2014 decision options with a stated recommendation, buttons that send your choic",
-    "id": "vincent-wen789/claude-briefing-cards",
-    "language": "Shell",
-    "name": "vincent-wen789/claude-briefing-cards",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:37:40Z",
-    "url": "https://github.com/vincent-wen789/claude-briefing-cards"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:36:45Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:36:10Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
   }
 ]
