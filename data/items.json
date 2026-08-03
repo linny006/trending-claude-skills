@@ -1,12 +1,120 @@
 [
   {
+    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
+    "id": "jonaskahn/docforge",
+    "language": "Python",
+    "name": "jonaskahn/docforge",
+    "stars": 1,
+    "updated_at": "2026-08-03T12:12:16Z",
+    "url": "https://github.com/jonaskahn/docforge"
+  },
+  {
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
+    "language": "Shell",
+    "name": "mimukit/skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T12:10:40Z",
+    "url": "https://github.com/mimukit/skills"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-08-03T12:09:17Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Claude skill that shrink noisy log/output 60-90% before read \u2014 filter, group, dedupe, truncate. Cut token, cut cost, kee",
+    "id": "Da-ya7/claude-token-reducer-skill",
+    "language": "Python",
+    "name": "Da-ya7/claude-token-reducer-skill",
+    "stars": 0,
+    "updated_at": "2026-08-03T12:08:13Z",
+    "url": "https://github.com/Da-ya7/claude-token-reducer-skill"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 21,
+    "updated_at": "2026-08-03T12:07:26Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 3,
+    "updated_at": "2026-08-03T12:06:37Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "Claude skills for Shopify \u2014 open-source Claude Code plugin that turns Claude into your daily store operator: morning bri",
+    "id": "storehand/storehand",
+    "language": "JavaScript",
+    "name": "storehand/storehand",
+    "stars": 1,
+    "updated_at": "2026-08-03T12:03:19Z",
+    "url": "https://github.com/storehand/storehand"
+  },
+  {
     "description": "Open-source AI agent skills for AgentHouse and compatible SKILL.md-based platforms.",
     "id": "AgentHouse-org/skills",
     "language": "\u2014",
     "name": "AgentHouse-org/skills",
     "stars": 0,
-    "updated_at": "2026-08-03T11:59:28Z",
+    "updated_at": "2026-08-03T12:02:56Z",
     "url": "https://github.com/AgentHouse-org/skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 67111,
+    "updated_at": "2026-08-03T12:01:57Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 97 Checks \u00b7 12",
+    "id": "malkreide/mcp-audit-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-audit-skill",
+    "stars": 1,
+    "updated_at": "2026-08-03T12:12:32Z",
+    "url": "https://github.com/malkreide/mcp-audit-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-03T12:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18429,
+    "updated_at": "2026-08-03T12:10:59Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Open-source SEO and AEO agent. Ranks every finding by distance to revenue, checks the live SERP before briefing anything",
+    "id": "vcxcvii/rainmaker",
+    "language": "TypeScript",
+    "name": "vcxcvii/rainmaker",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:59:31Z",
+    "url": "https://github.com/vcxcvii/rainmaker"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -23,7 +131,7 @@
     "language": "\u2014",
     "name": "rudrathegreat/Astronomy-AI-Toolkit",
     "stars": 2,
-    "updated_at": "2026-08-03T11:56:39Z",
+    "updated_at": "2026-08-03T12:05:26Z",
     "url": "https://github.com/rudrathegreat/Astronomy-AI-Toolkit"
   },
   {
@@ -52,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T11:54:32Z",
     "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18428,
-    "updated_at": "2026-08-03T12:00:06Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -108,15 +207,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-03T11:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -124,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-08-03T11:44:02Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
+    "id": "a5c-ai/babysitter",
+    "language": "JavaScript",
+    "name": "a5c-ai/babysitter",
+    "stars": 1638,
+    "updated_at": "2026-08-03T11:43:24Z",
+    "url": "https://github.com/a5c-ai/babysitter"
   },
   {
     "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
@@ -142,15 +241,6 @@
     "stars": 8,
     "updated_at": "2026-08-03T11:41:56Z",
     "url": "https://github.com/ontology-of-everything/SemanticSkills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 21,
-    "updated_at": "2026-08-03T11:56:55Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Humanize Spanish text in Claude Code: a skill that removes AI writing patterns, with country packs (Bolivia, Mexico, neu",
@@ -185,7 +275,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-03T11:59:54Z",
+    "updated_at": "2026-08-03T12:15:07Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-03T11:00:47Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-03T10:58:56Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "A collection of Claude skills organized by how I think, decide, research and build.",
-    "id": "kju4q/q-claude-skills",
-    "language": "Python",
-    "name": "kju4q/q-claude-skills",
-    "stars": 17,
-    "updated_at": "2026-08-03T10:57:23Z",
-    "url": "https://github.com/kju4q/q-claude-skills"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 138,
-    "updated_at": "2026-08-03T10:54:23Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "A collection of custom skills for academic writing, automation, specialized workflows, and more to come.",
-    "id": "xjsongphy/skills",
-    "language": "Python",
-    "name": "xjsongphy/skills",
-    "stars": 6,
-    "updated_at": "2026-08-03T10:51:11Z",
-    "url": "https://github.com/xjsongphy/skills"
-  },
-  {
-    "description": "13 curated Claude Code agent skills \u2014 decks, deep research, PRDs, articles, audits. Tested like software.",
-    "id": "staruhub/ClaudeSkills",
-    "language": "Python",
-    "name": "staruhub/ClaudeSkills",
-    "stars": 658,
-    "updated_at": "2026-08-03T10:47:38Z",
-    "url": "https://github.com/staruhub/ClaudeSkills"
-  },
-  {
-    "description": "11 Claude Code skills for commercial real estate due diligence, lease and loan review, title and survey analysis, and ma",
-    "id": "cre-ai-skills/CRE-AI-Skills",
-    "language": "\u2014",
-    "name": "cre-ai-skills/CRE-AI-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T10:44:06Z",
-    "url": "https://github.com/cre-ai-skills/CRE-AI-Skills"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 3,
-    "updated_at": "2026-08-03T10:40:06Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-03T10:38:22Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Agent skills for correct Arabic/RTL output in PDF, Word and PowerPoint \u2014 with PNG preview for visual verification",
-    "id": "asadeisa/arabic-office-skills",
-    "language": "Python",
-    "name": "asadeisa/arabic-office-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T10:37:22Z",
-    "url": "https://github.com/asadeisa/arabic-office-skills"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-03T10:37:11Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
