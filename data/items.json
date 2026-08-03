@@ -1,8 +1,53 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-03T13:27:36Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:22:45Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
+    "id": "maxritter/pilot-shell",
+    "language": "JavaScript",
+    "name": "maxritter/pilot-shell",
+    "stars": 1797,
+    "updated_at": "2026-08-03T13:20:54Z",
+    "url": "https://github.com/maxritter/pilot-shell"
+  },
+  {
+    "description": "AI skill for write ansible roles",
+    "id": "bzdvdn/ansible-writer-ai-skill",
+    "language": "Python",
+    "name": "bzdvdn/ansible-writer-ai-skill",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:16:09Z",
+    "url": "https://github.com/bzdvdn/ansible-writer-ai-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-03T13:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u0421\u043a\u0438\u043b\u043b \u00ab\u041f\u043e\u043d\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u00bb: \u0447\u0435\u0440\u043d\u043e\u0432\u0438\u043a \u043e\u0431\u044a\u044f\u0441\u043d\u044f\u044e\u0449\u0435\u0439 \u0441\u0442\u0430\u0442\u044c\u0438 \u2192 \u0442\u0435\u043a\u0441\u0442, \u043f\u043e\u043d\u044f\u0442\u043d\u044b\u0439 \u043d\u043e\u0432\u0438\u0447\u043a\u0443. 41 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430, 7 \u0444\u0430\u0437, \u0433\u0435\u0439\u0442 \u0432\u044b\u0434\u0430\u0447\u0438. \u0427\u0430\u0441\u0442\u044c \u0441\u0438\u0441\u0442\u0435\u043c",
     "id": "morf3uzzz/ponyatnost",
-    "language": "\u2014",
+    "language": "Python",
     "name": "morf3uzzz/ponyatnost",
     "stars": 0,
     "updated_at": "2026-08-03T13:15:00Z",
@@ -16,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-08-03T13:14:25Z",
     "url": "https://github.com/fevziegeyurtsevenler/llm-security-skills"
+  },
+  {
+    "description": "\u9762\u5411 AI Agent \u7684\u5185\u5bb9\u521b\u4f5c\u6280\u80fd\u96c6\u5408\uff0c\u8986\u76d6\u8d44\u6599\u79ef\u7d2f\u3001\u7ed3\u6784\u8bbe\u8ba1\u3001\u6587\u7ae0\u64b0\u5199\u3001\u5ba1\u67e5\u4f18\u5316\u4e0e\u53d1\u5e03\u6d41\u7a0b\u3002",
+    "id": "gogoingai/wenqu-skills",
+    "language": "\u2014",
+    "name": "gogoingai/wenqu-skills",
+    "stars": 5,
+    "updated_at": "2026-08-03T13:12:18Z",
+    "url": "https://github.com/gogoingai/wenqu-skills"
   },
   {
     "description": "Claude skills for Shopify \u2014 open-source Claude Code plugin that turns Claude into your daily store operator: morning bri",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 18431,
-    "updated_at": "2026-08-03T13:09:16Z",
+    "updated_at": "2026-08-03T13:16:54Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/shaunmarsden/book-to-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-03T13:00:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Open-source AI agent skills for AgentHouse and compatible SKILL.md-based platforms.",
     "id": "AgentHouse-org/skills",
     "language": "\u2014",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T12:59:42Z",
     "url": "https://github.com/AgentHouse-org/skills"
-  },
-  {
-    "description": "\u9762\u5411 AI Agent \u7684\u5185\u5bb9\u521b\u4f5c\u6280\u80fd\u96c6\u5408\uff0c\u8986\u76d6\u8d44\u6599\u79ef\u7d2f\u3001\u7ed3\u6784\u8bbe\u8ba1\u3001\u6587\u7ae0\u64b0\u5199\u3001\u5ba1\u67e5\u4f18\u5316\u4e0e\u53d1\u5e03\u6d41\u7a0b\u3002",
-    "id": "gogoingai/wenqu-skills",
-    "language": "\u2014",
-    "name": "gogoingai/wenqu-skills",
-    "stars": 5,
-    "updated_at": "2026-08-03T13:12:18Z",
-    "url": "https://github.com/gogoingai/wenqu-skills"
   },
   {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
@@ -133,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T12:53:11Z",
     "url": "https://github.com/bobadilla-tech/requiems-api-skills"
-  },
-  {
-    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
-    "id": "maxritter/pilot-shell",
-    "language": "JavaScript",
-    "name": "maxritter/pilot-shell",
-    "stars": 1797,
-    "updated_at": "2026-08-03T12:52:00Z",
-    "url": "https://github.com/maxritter/pilot-shell"
   },
   {
     "description": "\u9762\u5411 AI Agent \u7684\u8bba\u6587 PDF \u7ffb\u8bd1 Skill\uff1a\u91cd\u5efa\u53ef\u8bfb\u3001\u53ef\u641c\u7d22\u3001\u53ef\u9010\u9875\u9a8c\u6536\u7684\u591a\u8bed\u8a00 PDF\uff0c\u652f\u6301\u590d\u6742\u8868\u683c\u3001\u56fe\u8868\u4e0e Zotero \u6536\u5c3e\u3002",
@@ -421,32 +448,5 @@
     "stars": 53,
     "updated_at": "2026-08-03T12:15:02Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
-    "id": "isatimur/excalidraw-skill-pack",
-    "language": "TypeScript",
-    "name": "isatimur/excalidraw-skill-pack",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:14:37Z",
-    "url": "https://github.com/isatimur/excalidraw-skill-pack"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:10:40Z",
-    "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-03T12:09:17Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   }
 ]
