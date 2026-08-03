@@ -1,12 +1,57 @@
 [
   {
-    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
-    "id": "ndisisnd/msg",
-    "language": "Python",
-    "name": "ndisisnd/msg",
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 50,
+    "updated_at": "2026-08-03T03:28:49Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-03T03:28:41Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-08-03T03:27:50Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "Multi-agent orchestration CLI for Claude Code \u2014 declarative TOML workflows, autonomous agents, context-compression recov",
+    "id": "stempeck/agentfactory",
+    "language": "Go",
+    "name": "stempeck/agentfactory",
     "stars": 2,
-    "updated_at": "2026-08-03T03:13:04Z",
-    "url": "https://github.com/ndisisnd/msg"
+    "updated_at": "2026-08-03T03:27:46Z",
+    "url": "https://github.com/stempeck/agentfactory"
+  },
+  {
+    "description": "AI skills for writers who don't want AI writing their novels for them...",
+    "id": "design1online/author-it",
+    "language": "\u2014",
+    "name": "design1online/author-it",
+    "stars": 1,
+    "updated_at": "2026-08-03T03:21:21Z",
+    "url": "https://github.com/design1online/author-it"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 83,
+    "updated_at": "2026-08-03T03:18:01Z",
+    "url": "https://github.com/YPares/rigup.nix"
   },
   {
     "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
@@ -14,8 +59,26 @@
     "language": "Go",
     "name": "deepaksinghcs14/deadeye-cc",
     "stars": 0,
-    "updated_at": "2026-08-03T03:12:40Z",
+    "updated_at": "2026-08-03T03:16:52Z",
     "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-03T03:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
+    "id": "ndisisnd/msg",
+    "language": "Python",
+    "name": "ndisisnd/msg",
+    "stars": 2,
+    "updated_at": "2026-08-03T03:13:04Z",
+    "url": "https://github.com/ndisisnd/msg"
   },
   {
     "description": "\ud83c\udf63 Hand-rolled AI Skills distilled from my everyday experience. Git & Mise (...and others).",
@@ -45,6 +108,24 @@
     "url": "https://github.com/ComPDFKit/compdf-skills"
   },
   {
+    "description": "AI \u8d44\u8baf\u65e5\u62a5 Claude Code Skill - \u6bcf\u5929\u81ea\u52a8\u83b7\u53d6\u3001\u5206\u6790\u3001\u5f52\u7c7b AI \u524d\u6cbf\u8d44\u8baf",
+    "id": "geekjourneyx/ai-daily-skill",
+    "language": "Python",
+    "name": "geekjourneyx/ai-daily-skill",
+    "stars": 230,
+    "updated_at": "2026-08-03T03:04:08Z",
+    "url": "https://github.com/geekjourneyx/ai-daily-skill"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30411,
+    "updated_at": "2026-08-03T03:03:32Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
     "description": "AI media generation skills for AI agents \u2014 route, estimate, create & retrieve image, video, speech and   music tasks acr",
     "id": "Sean190828/crun-agent-skills",
     "language": "Python",
@@ -63,15 +144,6 @@
     "url": "https://github.com/mrspot-dev/claude-settings-editor"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-03T03:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Growth-operations skills for local service businesses, agencies and B2B. 20 skills plus industry playbooks for Claude Co",
     "id": "On-mission96/janaabg-operations",
     "language": "\u2014",
@@ -85,7 +157,7 @@
     "id": "tamdogood/builder-essential-skills",
     "language": "Python",
     "name": "tamdogood/builder-essential-skills",
-    "stars": 78,
+    "stars": 79,
     "updated_at": "2026-08-03T02:55:41Z",
     "url": "https://github.com/tamdogood/builder-essential-skills"
   },
@@ -94,7 +166,7 @@
     "id": "konglong87/superPM",
     "language": "JavaScript",
     "name": "konglong87/superPM",
-    "stars": 43,
+    "stars": 44,
     "updated_at": "2026-08-03T02:47:47Z",
     "url": "https://github.com/konglong87/superPM"
   },
@@ -153,15 +225,6 @@
     "url": "https://github.com/seokhoonj/mailmail"
   },
   {
-    "description": "AI skills for writers who don't want AI writing their novels for them...",
-    "id": "design1online/author-it",
-    "language": "\u2014",
-    "name": "design1online/author-it",
-    "stars": 1,
-    "updated_at": "2026-08-03T02:26:47Z",
-    "url": "https://github.com/design1online/author-it"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T02:25:33Z",
     "url": "https://github.com/meticulosity/hubspot-license-fit"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30412,
-    "updated_at": "2026-08-03T03:03:32Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "Skill de c\u00f3digo abierto para analizar campa\u00f1as negativas en discurso pol\u00edtico. Basada en Matamoros y Soto (2025), U. Cen",
@@ -394,59 +448,5 @@
     "stars": 53,
     "updated_at": "2026-08-03T01:28:05Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "My collection of Claude skills",
-    "id": "oaustegard/claude-skills",
-    "language": "Python",
-    "name": "oaustegard/claude-skills",
-    "stars": 136,
-    "updated_at": "2026-08-03T01:27:14Z",
-    "url": "https://github.com/oaustegard/claude-skills"
-  },
-  {
-    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
-    "id": "jasonm4130/claude-skills",
-    "language": "JavaScript",
-    "name": "jasonm4130/claude-skills",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:26:00Z",
-    "url": "https://github.com/jasonm4130/claude-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 20,
-    "updated_at": "2026-08-03T03:01:53Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 3,
-    "updated_at": "2026-08-03T01:24:10Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "",
-    "id": "XmasWu1225/Football-Match-Preview-Analysis-Skill",
-    "language": "JavaScript",
-    "name": "XmasWu1225/Football-Match-Preview-Analysis-Skill",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:22:20Z",
-    "url": "https://github.com/XmasWu1225/Football-Match-Preview-Analysis-Skill"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:18:06Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
