@@ -1,21 +1,84 @@
 [
   {
-    "description": "A pytest-based API testing framework for the TMDB REST API, showcasing modern SDET: end-to-end integration tests, Pact c",
-    "id": "pgundlupetvenkatesh/mdb_api_layer",
-    "language": "Python",
-    "name": "pgundlupetvenkatesh/mdb_api_layer",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:42:58Z",
-    "url": "https://github.com/pgundlupetvenkatesh/mdb_api_layer"
-  },
-  {
     "description": "Claude Code skill that turns a coding session into a report a non-technical stakeholder can act on \u2014 full engineering re",
     "id": "delpicorp/dev-report",
     "language": "\u2014",
     "name": "delpicorp/dev-report",
     "stars": 0,
-    "updated_at": "2026-08-03T16:42:16Z",
+    "updated_at": "2026-08-03T16:58:43Z",
     "url": "https://github.com/delpicorp/dev-report"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:59:18Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Claude skill: Yandex Direct campaign from brief to cabinet draft \u2014 semantics, negatives, ads, Metrika goals. Docs in Rus",
+    "id": "ai-hub-open/yandex-direct-manager",
+    "language": "Python",
+    "name": "ai-hub-open/yandex-direct-manager",
+    "stars": 5,
+    "updated_at": "2026-08-03T16:53:07Z",
+    "url": "https://github.com/ai-hub-open/yandex-direct-manager"
+  },
+  {
+    "description": "Sasha Marchuk's Claude Code plugins \u2014 opinionated tooling for ticket management, automation, and everyday engineering wo",
+    "id": "SashaMarchuk/claude-plugins",
+    "language": "Shell",
+    "name": "SashaMarchuk/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:52:52Z",
+    "url": "https://github.com/SashaMarchuk/claude-plugins"
+  },
+  {
+    "description": "My Claude Code configuration \u2014 instructions, standards and skills, symlinked into ~/.claude on every machine.",
+    "id": "stamat/claude",
+    "language": "Shell",
+    "name": "stamat/claude",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:49:14Z",
+    "url": "https://github.com/stamat/claude"
+  },
+  {
+    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 specialized agents (leader/convener/architect",
+    "id": "dxkjuanjuan/juanjuan-team",
+    "language": "Shell",
+    "name": "dxkjuanjuan/juanjuan-team",
+    "stars": 1,
+    "updated_at": "2026-08-03T16:45:38Z",
+    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-03T16:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude dotfile containing skills, agents etc I use.",
+    "id": "Moliboy5000/.claude",
+    "language": "Python",
+    "name": "Moliboy5000/.claude",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:00:12Z",
+    "url": "https://github.com/Moliboy5000/.claude"
+  },
+  {
+    "description": "Outbound sales, autopiloted.",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 1,
+    "updated_at": "2026-08-03T16:44:18Z",
+    "url": "https://github.com/aitit-inc/leadace"
   },
   {
     "description": "Every AI slide-deck skill worth knowing, on one page \u2014 both the HTML and native-PPTX routes, compared on what actually d",
@@ -25,15 +88,6 @@
     "stars": 8,
     "updated_at": "2026-08-03T16:41:06Z",
     "url": "https://github.com/brycewang-stanford/many-ppt-skills"
-  },
-  {
-    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 specialized agents (leader/convener/architect",
-    "id": "dxkjuanjuan/juanjuan-team",
-    "language": "Shell",
-    "name": "dxkjuanjuan/juanjuan-team",
-    "stars": 1,
-    "updated_at": "2026-08-03T16:40:56Z",
-    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
   },
   {
     "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
@@ -108,15 +162,6 @@
     "url": "https://github.com/crypdick/pynchy"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-03T16:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -151,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T16:22:06Z",
     "url": "https://github.com/zseta/skill-writer"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:40:50Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -250,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T16:16:14Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "My Claude Code configuration \u2014 instructions, standards and skills, symlinked into ~/.claude on every machine.",
-    "id": "stamat/claude",
-    "language": "Shell",
-    "name": "stamat/claude",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:15:37Z",
-    "url": "https://github.com/stamat/claude"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T15:48:40Z",
     "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:48:10Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 103,
-    "updated_at": "2026-08-03T16:36:30Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-03T15:47:38Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
   }
 ]
