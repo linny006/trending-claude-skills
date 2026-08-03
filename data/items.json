@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 1,
+    "updated_at": "2026-08-03T04:29:36Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 83,
+    "updated_at": "2026-08-03T04:27:13Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "A skill that builds agent skills \u2014 and doesn't rot. Spec-current frontmatter plus a validator that fails on drift.",
+    "id": "conorbronsdon/agent-skill-builder",
+    "language": "Python",
+    "name": "conorbronsdon/agent-skill-builder",
+    "stars": 2,
+    "updated_at": "2026-08-03T04:24:33Z",
+    "url": "https://github.com/conorbronsdon/agent-skill-builder"
+  },
+  {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
     "id": "patrickserrano/lacquer",
     "language": "Go",
     "name": "patrickserrano/lacquer",
     "stars": 1,
-    "updated_at": "2026-08-03T04:14:10Z",
+    "updated_at": "2026-08-03T04:24:32Z",
     "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "SEO & GEO skills for Claude Code, built with Claude Mythos 5. Rank in Google AND in LLMs (ChatGPT, Perplexity, Gemini): ",
+    "id": "Thibaultbm/claude-seo-geo",
+    "language": "Python",
+    "name": "Thibaultbm/claude-seo-geo",
+    "stars": 12,
+    "updated_at": "2026-08-03T04:23:21Z",
+    "url": "https://github.com/Thibaultbm/claude-seo-geo"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 20,
+    "updated_at": "2026-08-03T04:17:09Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-03T04:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "yusufkaraaslan/Skill_Seekers",
     "stars": 14681,
-    "updated_at": "2026-08-03T04:11:10Z",
+    "updated_at": "2026-08-03T04:25:05Z",
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T04:02:02Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-03T04:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -148,7 +193,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67069,
+    "stars": 67072,
     "updated_at": "2026-08-03T03:46:37Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -328,7 +373,7 @@
     "id": "geekjourneyx/ai-daily-skill",
     "language": "Python",
     "name": "geekjourneyx/ai-daily-skill",
-    "stars": 230,
+    "stars": 231,
     "updated_at": "2026-08-03T03:04:08Z",
     "url": "https://github.com/geekjourneyx/ai-daily-skill"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-03T02:45:08Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Claude skills to run ads: advertising & marketing strategy, campaign structure, targeting, creative, and budgets for Goo",
-    "id": "adkit/ads-skills",
-    "language": "\u2014",
-    "name": "adkit/ads-skills",
-    "stars": 17,
-    "updated_at": "2026-08-03T02:43:25Z",
-    "url": "https://github.com/adkit/ads-skills"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "worldwonderer/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "worldwonderer/oh-story-claudecode",
-    "stars": 4927,
-    "updated_at": "2026-08-03T02:39:45Z",
-    "url": "https://github.com/worldwonderer/oh-story-claudecode"
-  },
-  {
-    "description": "Send mail through Gmail or Naver SMTP from Python.",
-    "id": "seokhoonj/mailmail",
-    "language": "Python",
-    "name": "seokhoonj/mailmail",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:33:47Z",
-    "url": "https://github.com/seokhoonj/mailmail"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-03T02:26:31Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": " Which HubSpot tier does this portal actually need? Reads a portal read-only and reports the floor its usage sets, namin",
-    "id": "meticulosity/hubspot-license-fit",
-    "language": "Python",
-    "name": "meticulosity/hubspot-license-fit",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:25:33Z",
-    "url": "https://github.com/meticulosity/hubspot-license-fit"
   }
 ]
