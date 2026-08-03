@@ -1,5 +1,149 @@
 [
   {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18433,
+    "updated_at": "2026-08-03T16:14:27Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "skill of 697 questions a senior engineer asks before writing code - packaged as a Claude/Codex skill and a portable prom",
+    "id": "m4vic/socratic",
+    "language": "\u2014",
+    "name": "m4vic/socratic",
+    "stars": 76,
+    "updated_at": "2026-08-03T16:15:13Z",
+    "url": "https://github.com/m4vic/socratic"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 21,
+    "updated_at": "2026-08-03T16:12:50Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and ",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 867,
+    "updated_at": "2026-08-03T16:11:55Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
+    "description": "Collection of Claude Code skills \u2014 starting with writer (anti-neuroslop prose editor for RU/EN, 23 categories, structura",
+    "id": "Mikefluff/skills",
+    "language": "Python",
+    "name": "Mikefluff/skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:10:55Z",
+    "url": "https://github.com/Mikefluff/skills"
+  },
+  {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "HTML",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:10:06Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
+    "id": "k-vaca/prompt-engineering-skill",
+    "language": "\u2014",
+    "name": "k-vaca/prompt-engineering-skill",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:10:01Z",
+    "url": "https://github.com/k-vaca/prompt-engineering-skill"
+  },
+  {
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
+    "id": "isatimur/presentation-md",
+    "language": "HTML",
+    "name": "isatimur/presentation-md",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:08:17Z",
+    "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Self-contained design arsenal skill for Claude Code \u2014 20 curated sources vendored into grep-able local indexes: componen",
+    "id": "worldofhacks/alex-style",
+    "language": "HTML",
+    "name": "worldofhacks/alex-style",
+    "stars": 1,
+    "updated_at": "2026-08-03T16:07:38Z",
+    "url": "https://github.com/worldofhacks/alex-style"
+  },
+  {
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14240,
+    "updated_at": "2026-08-03T16:06:53Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 specialized agents (leader/convener/architect",
+    "id": "dxkjuanjuan/juanjuan-team",
+    "language": "Shell",
+    "name": "dxkjuanjuan/juanjuan-team",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:05:40Z",
+    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
+    "id": "Max-Levitskiy/skills",
+    "language": "TypeScript",
+    "name": "Max-Levitskiy/skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:01:50Z",
+    "url": "https://github.com/Max-Levitskiy/skills"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 5029,
+    "updated_at": "2026-08-03T16:01:46Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "My Claude Code configuration \u2014 instructions, standards and skills, symlinked into ~/.claude on every machine.",
+    "id": "stamat/claude",
+    "language": "Shell",
+    "name": "stamat/claude",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:01:19Z",
+    "url": "https://github.com/stamat/claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-03T16:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 1,
+    "updated_at": "2026-08-03T16:00:01Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -9,22 +153,22 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 specialized agents (leader/convener/architect",
-    "id": "dxkjuanjuan/juanjuan-team",
-    "language": "Shell",
-    "name": "dxkjuanjuan/juanjuan-team",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:57:07Z",
-    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 1,
+    "updated_at": "2026-08-03T16:14:21Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
   },
   {
-    "description": "Skills and agents for Claude and Gemini",
-    "id": "AnaCataVC/amiga-ia",
-    "language": "HTML",
-    "name": "AnaCataVC/amiga-ia",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:57:02Z",
-    "url": "https://github.com/AnaCataVC/amiga-ia"
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 4,
+    "updated_at": "2026-08-03T15:57:05Z",
+    "url": "https://github.com/mr-kelly/skills"
   },
   {
     "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
@@ -43,33 +187,6 @@
     "stars": 5,
     "updated_at": "2026-08-03T15:54:58Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
-    "id": "k-vaca/prompt-engineering-skill",
-    "language": "\u2014",
-    "name": "k-vaca/prompt-engineering-skill",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:52:26Z",
-    "url": "https://github.com/k-vaca/prompt-engineering-skill"
-  },
-  {
-    "description": "Collection of Claude Code skills \u2014 starting with writer (anti-neuroslop prose editor for RU/EN, 23 categories, structura",
-    "id": "Mikefluff/skills",
-    "language": "Python",
-    "name": "Mikefluff/skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:51:31Z",
-    "url": "https://github.com/Mikefluff/skills"
-  },
-  {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
-    "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:48:51Z",
-    "url": "https://github.com/isatimur/presentation-md"
   },
   {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
@@ -115,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T15:46:16Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-03T15:45:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -180,21 +288,12 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "My Claude Code configuration \u2014 instructions, standards and skills, symlinked into ~/.claude on every machine.",
-    "id": "stamat/claude",
-    "language": "Shell",
-    "name": "stamat/claude",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:42:35Z",
-    "url": "https://github.com/stamat/claude"
-  },
-  {
     "description": "One marketplace for everything I have built for Claude Code: plugins, skills, commands, and agents, organized by categor",
     "id": "smk-labs/claude-plugins",
     "language": "JavaScript",
     "name": "smk-labs/claude-plugins",
     "stars": 8,
-    "updated_at": "2026-08-03T15:40:41Z",
+    "updated_at": "2026-08-03T16:15:12Z",
     "url": "https://github.com/smk-labs/claude-plugins"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T15:21:39Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:20:15Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:18:13Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 1,
-    "updated_at": "2026-08-03T15:57:34Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
-  },
-  {
-    "description": "Claude Code skill: predict merge conflicts before opening a PR by checking file overlap against other open PRs/branches",
-    "id": "ritesh31/claude-pre-merge-conflict-predictor",
-    "language": "Shell",
-    "name": "ritesh31/claude-pre-merge-conflict-predictor",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:10:07Z",
-    "url": "https://github.com/ritesh31/claude-pre-merge-conflict-predictor"
-  },
-  {
-    "description": "A lean agentic-development workflow around Markdown issues, tickets, specs, and ADRs, packaged as an installable skill.",
-    "id": "elucidata/spectrum",
-    "language": "JavaScript",
-    "name": "elucidata/spectrum",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:09:20Z",
-    "url": "https://github.com/elucidata/spectrum"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-03T15:09:18Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 both the HTML and native-PPTX routes, compared on what actually d",
-    "id": "brycewang-stanford/many-ppt-skills",
-    "language": "Python",
-    "name": "brycewang-stanford/many-ppt-skills",
-    "stars": 8,
-    "updated_at": "2026-08-03T15:06:25Z",
-    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 21,
-    "updated_at": "2026-08-03T16:00:13Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Should you actually install that? A plain-English fit check for any repo, package, API or MCP server, with sources.",
-    "id": "bhaor/toolcheck",
-    "language": "Python",
-    "name": "bhaor/toolcheck",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:05:16Z",
-    "url": "https://github.com/bhaor/toolcheck"
-  },
-  {
-    "description": "Two for one - An actual capability, feature and syntax matrix of Mikrotik RouterOS releases over time and an agent skill",
-    "id": "JoshFinlayAU/mikrotik-drift",
-    "language": "Python",
-    "name": "JoshFinlayAU/mikrotik-drift",
-    "stars": 1,
-    "updated_at": "2026-08-03T15:01:09Z",
-    "url": "https://github.com/JoshFinlayAU/mikrotik-drift"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 404,
-    "updated_at": "2026-08-03T14:59:32Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   }
 ]
