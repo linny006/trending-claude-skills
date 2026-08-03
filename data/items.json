@@ -1,5 +1,104 @@
 [
   {
+    "description": "Turn a codebase or system map into editable Miro objects \u2014 AWS/GCP/Azure icons, connectors, and titled zones. Built on a",
+    "id": "songstack/sysmap-to-miro",
+    "language": "JavaScript",
+    "name": "songstack/sysmap-to-miro",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:58:40Z",
+    "url": "https://github.com/songstack/sysmap-to-miro"
+  },
+  {
+    "description": "Skill de c\u00f3digo abierto para analizar campa\u00f1as negativas en discurso pol\u00edtico. Basada en Matamoros y Soto (2025), U. Cen",
+    "id": "rizomaai/negative-campaign-monitor",
+    "language": "\u2014",
+    "name": "rizomaai/negative-campaign-monitor",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:58:32Z",
+    "url": "https://github.com/rizomaai/negative-campaign-monitor"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:57:27Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "GUI-based editor for Claude Code settings.json \u2014 standalone HTML with Alpine.js + Tailwind CSS",
+    "id": "mrspot-dev/claude-settings-editor",
+    "language": "HTML",
+    "name": "mrspot-dev/claude-settings-editor",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:54:21Z",
+    "url": "https://github.com/mrspot-dev/claude-settings-editor"
+  },
+  {
+    "description": "AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia ",
+    "id": "askimo-ai/askimo",
+    "language": "Kotlin",
+    "name": "askimo-ai/askimo",
+    "stars": 282,
+    "updated_at": "2026-08-03T01:52:52Z",
+    "url": "https://github.com/askimo-ai/askimo"
+  },
+  {
+    "description": "\ud83c\udf63 Hand-rolled AI Skills distilled from my everyday experience. Git & Mise (...and others).",
+    "id": "sherifabdlnaby/skills",
+    "language": "Python",
+    "name": "sherifabdlnaby/skills",
+    "stars": 7,
+    "updated_at": "2026-08-03T01:52:10Z",
+    "url": "https://github.com/sherifabdlnaby/skills"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:51:40Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Public release distribution for dmtool \u2014 the A12 Kernel document model-authoring CLI + Claude Code/Codex plugins with fi",
+    "id": "mbackschat/a12-dmtool-releases",
+    "language": "Shell",
+    "name": "mbackschat/a12-dmtool-releases",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:51:27Z",
+    "url": "https://github.com/mbackschat/a12-dmtool-releases"
+  },
+  {
+    "description": "Slash commands for Claude Code \u2014 manage GitHub issues and pull requests, one focused workflow at a time.",
+    "id": "claude-contrib/claude-skills",
+    "language": "jq",
+    "name": "claude-contrib/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:49:21Z",
+    "url": "https://github.com/claude-contrib/claude-skills"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:47:00Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-03T01:45:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
     "id": "synaptiai/synapti-marketplace",
     "language": "Shell",
@@ -25,24 +124,6 @@
     "stars": 2104,
     "updated_at": "2026-08-03T01:37:23Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "GUI-based editor for Claude Code settings.json \u2014 standalone HTML with Alpine.js + Tailwind CSS",
-    "id": "mrspot-dev/claude-settings-editor",
-    "language": "HTML",
-    "name": "mrspot-dev/claude-settings-editor",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:32:11Z",
-    "url": "https://github.com/mrspot-dev/claude-settings-editor"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-03T01:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T00:04:15Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:03:38Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Growth-operations skills for local service businesses, agencies and B2B. 20 skills plus industry playbooks for Claude Co",
-    "id": "On-mission96/janaabg-operations",
-    "language": "\u2014",
-    "name": "On-mission96/janaabg-operations",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:00:46Z",
-    "url": "https://github.com/On-mission96/janaabg-operations"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:00:39Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "A repository for skills that are essential to my daily work",
-    "id": "tamdogood/builder-essential-skills",
-    "language": "Python",
-    "name": "tamdogood/builder-essential-skills",
-    "stars": 76,
-    "updated_at": "2026-08-03T00:00:30Z",
-    "url": "https://github.com/tamdogood/builder-essential-skills"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:00:30Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:00:19Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:59:08Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:58:56Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:54:54Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   }
 ]
