@@ -1,5 +1,77 @@
 [
   {
+    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
+    "id": "ndisisnd/msg",
+    "language": "Python",
+    "name": "ndisisnd/msg",
+    "stars": 2,
+    "updated_at": "2026-08-03T03:13:04Z",
+    "url": "https://github.com/ndisisnd/msg"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 0,
+    "updated_at": "2026-08-03T03:12:40Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "\ud83c\udf63 Hand-rolled AI Skills distilled from my everyday experience. Git & Mise (...and others).",
+    "id": "sherifabdlnaby/skills",
+    "language": "Python",
+    "name": "sherifabdlnaby/skills",
+    "stars": 7,
+    "updated_at": "2026-08-03T03:11:20Z",
+    "url": "https://github.com/sherifabdlnaby/skills"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 95,
+    "updated_at": "2026-08-03T03:09:54Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "ComPDF Skills are AI-agent-ready PDF processing skills for Claude Code, Cursor, Copilot, OpenCode, and 39+ coding agents",
+    "id": "ComPDFKit/compdf-skills",
+    "language": "Python",
+    "name": "ComPDFKit/compdf-skills",
+    "stars": 102,
+    "updated_at": "2026-08-03T03:07:35Z",
+    "url": "https://github.com/ComPDFKit/compdf-skills"
+  },
+  {
+    "description": "AI media generation skills for AI agents \u2014 route, estimate, create & retrieve image, video, speech and   music tasks acr",
+    "id": "Sean190828/crun-agent-skills",
+    "language": "Python",
+    "name": "Sean190828/crun-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T03:03:13Z",
+    "url": "https://github.com/Sean190828/crun-agent-skills"
+  },
+  {
+    "description": "GUI-based editor for Claude Code settings.json \u2014 standalone HTML with Alpine.js + Tailwind CSS",
+    "id": "mrspot-dev/claude-settings-editor",
+    "language": "HTML",
+    "name": "mrspot-dev/claude-settings-editor",
+    "stars": 1,
+    "updated_at": "2026-08-03T03:01:55Z",
+    "url": "https://github.com/mrspot-dev/claude-settings-editor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-08-03T03:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Growth-operations skills for local service businesses, agencies and B2B. 20 skills plus industry playbooks for Claude Co",
     "id": "On-mission96/janaabg-operations",
     "language": "\u2014",
@@ -36,24 +108,6 @@
     "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
-    "description": "GUI-based editor for Claude Code settings.json \u2014 standalone HTML with Alpine.js + Tailwind CSS",
-    "id": "mrspot-dev/claude-settings-editor",
-    "language": "HTML",
-    "name": "mrspot-dev/claude-settings-editor",
-    "stars": 1,
-    "updated_at": "2026-08-03T02:45:20Z",
-    "url": "https://github.com/mrspot-dev/claude-settings-editor"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 19,
-    "updated_at": "2026-08-03T02:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -76,7 +130,7 @@
     "id": "worldwonderer/oh-story-claudecode",
     "language": "JavaScript",
     "name": "worldwonderer/oh-story-claudecode",
-    "stars": 4924,
+    "stars": 4925,
     "updated_at": "2026-08-03T02:39:45Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30412,
-    "updated_at": "2026-08-03T02:24:29Z",
+    "updated_at": "2026-08-03T03:03:32Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T02:07:37Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "\ud83c\udf63 Hand-rolled AI Skills distilled from my everyday experience. Git & Mise (...and others).",
-    "id": "sherifabdlnaby/skills",
-    "language": "Python",
-    "name": "sherifabdlnaby/skills",
-    "stars": 7,
-    "updated_at": "2026-08-03T02:05:15Z",
-    "url": "https://github.com/sherifabdlnaby/skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -374,7 +419,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 20,
-    "updated_at": "2026-08-03T02:56:19Z",
+    "updated_at": "2026-08-03T03:01:53Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T01:18:06Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:16:49Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:15:48Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:14:22Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 405,
-    "updated_at": "2026-08-03T01:13:10Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:10:17Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   }
 ]
