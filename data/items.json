@@ -1,21 +1,57 @@
 [
   {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 1,
+    "updated_at": "2026-08-03T18:44:06Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-08-03T18:43:57Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": " Small terminal utilities for your ~/.claude setup. No dependencies, one file each.",
+    "id": "agus778/dotclaude",
+    "language": "Python",
+    "name": "agus778/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-08-03T18:35:19Z",
+    "url": "https://github.com/agus778/dotclaude"
+  },
+  {
+    "description": "metahub is building the missing infrastructure for AI tools, in the open \u2014 a registry that installs skills, MCP servers,",
+    "id": "metahub-ai/metahub-docs",
+    "language": "\u2014",
+    "name": "metahub-ai/metahub-docs",
+    "stars": 0,
+    "updated_at": "2026-08-03T18:44:45Z",
+    "url": "https://github.com/metahub-ai/metahub-docs"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-03T18:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-03T18:29:41Z",
+    "updated_at": "2026-08-03T18:41:41Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Documentation for metahub \u2014 the app store for AI skills, MCP servers, agents, and plugins. Install once, run in Claude C",
-    "id": "metahub-ai/metahub-docs",
-    "language": "\u2014",
-    "name": "metahub-ai/metahub-docs",
-    "stars": 0,
-    "updated_at": "2026-08-03T18:25:10Z",
-    "url": "https://github.com/metahub-ai/metahub-docs"
   },
   {
     "description": "Every AI slide-deck skill worth knowing, on one page \u2014 both the HTML and native-PPTX routes, compared on what actually d",
@@ -54,15 +90,6 @@
     "url": "https://github.com/huguryildiz/ieee-acm-paper-writing"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-03T18:18:30Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -70,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-08-03T18:16:55Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18436,
+    "updated_at": "2026-08-03T18:16:36Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Small, disciplined AI capabilities \u2014 each with a pre-declared kill criterion and real usage numbers.",
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T17:57:34Z",
     "url": "https://github.com/DROOdotFOO/agent-skills"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18435,
-    "updated_at": "2026-08-03T18:16:36Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "ramboz/jig",
     "stars": 4,
-    "updated_at": "2026-08-03T17:36:11Z",
+    "updated_at": "2026-08-03T18:40:27Z",
     "url": "https://github.com/ramboz/jig"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T17:12:20Z",
     "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:12:02Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:11:40Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:11:20Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   }
 ]
