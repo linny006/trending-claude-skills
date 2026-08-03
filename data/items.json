@@ -1,12 +1,120 @@
 [
   {
+    "description": "Open-source SEO and AEO agent. Ranks every finding by distance to revenue, checks the live SERP before briefing anything",
+    "id": "vcxcvii/rainmaker",
+    "language": "TypeScript",
+    "name": "vcxcvii/rainmaker",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:14:26Z",
+    "url": "https://github.com/vcxcvii/rainmaker"
+  },
+  {
+    "description": "Claude Code skills marketplace \u2014 backend & frontend engineering conventions + step-by-step third-party integration recip",
+    "id": "kennguyen887/agent-foundation",
+    "language": "Shell",
+    "name": "kennguyen887/agent-foundation",
+    "stars": 1,
+    "updated_at": "2026-08-03T10:10:03Z",
+    "url": "https://github.com/kennguyen887/agent-foundation"
+  },
+  {
+    "description": "A small, verified, security-aware directory of Agent Skills (SKILL.md format).",
+    "id": "royalpinto007/awesome-agent-skills",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:09:04Z",
+    "url": "https://github.com/royalpinto007/awesome-agent-skills"
+  },
+  {
+    "description": "ComPDF Skills are AI-agent-ready PDF processing skills for Claude Code, Cursor, Copilot, OpenCode, and 39+ coding agents",
+    "id": "ComPDFKit/compdf-skills",
+    "language": "Python",
+    "name": "ComPDFKit/compdf-skills",
+    "stars": 103,
+    "updated_at": "2026-08-03T10:09:03Z",
+    "url": "https://github.com/ComPDFKit/compdf-skills"
+  },
+  {
+    "description": "Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment\u2014not one fixe",
+    "id": "bitjaru/styleseed",
+    "language": "TypeScript",
+    "name": "bitjaru/styleseed",
+    "stars": 863,
+    "updated_at": "2026-08-03T10:08:24Z",
+    "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "Claude Code skill: navigator protocol for building code or proofs together, where you drive and Claude guides you to do ",
+    "id": "homeowmorphism/pair-programming",
+    "language": "\u2014",
+    "name": "homeowmorphism/pair-programming",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:04:21Z",
+    "url": "https://github.com/homeowmorphism/pair-programming"
+  },
+  {
     "description": "OmniRank -- SEO / AEO / GEO / SMM growth engine for Claude Code and Cursor. v0.1.0 ships two skills: audit (score SEO, A",
     "id": "bemoshiur/OmniRank",
     "language": "Python",
     "name": "bemoshiur/OmniRank",
     "stars": 3,
-    "updated_at": "2026-08-03T09:58:09Z",
+    "updated_at": "2026-08-03T10:05:35Z",
     "url": "https://github.com/bemoshiur/OmniRank"
+  },
+  {
+    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 96 Checks \u00b7 12",
+    "id": "malkreide/mcp-audit-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-audit-skill",
+    "stars": 1,
+    "updated_at": "2026-08-03T10:06:49Z",
+    "url": "https://github.com/malkreide/mcp-audit-skill"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 21,
+    "updated_at": "2026-08-03T10:01:30Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Agent skills for correct Arabic/RTL output in PDF, Word and PowerPoint \u2014 with PNG preview for visual verification",
+    "id": "asadeisa/arabic-office-skills",
+    "language": "Python",
+    "name": "asadeisa/arabic-office-skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T10:00:18Z",
+    "url": "https://github.com/asadeisa/arabic-office-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-03T10:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "  Automated daily job search pipeline \u2014 aggregates company tracking, sends styled HTML email digests, tailors resumes wi",
+    "id": "Mahashwetha/Job-search-email-system-claude",
+    "language": "Python",
+    "name": "Mahashwetha/Job-search-email-system-claude",
+    "stars": 8,
+    "updated_at": "2026-08-03T10:00:14Z",
+    "url": "https://github.com/Mahashwetha/Job-search-email-system-claude"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-03T10:10:25Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -31,7 +139,7 @@
     "id": "HiroHyun/grounded-copy",
     "language": "Python",
     "name": "HiroHyun/grounded-copy",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-08-03T09:51:31Z",
     "url": "https://github.com/HiroHyun/grounded-copy"
   },
@@ -90,15 +198,6 @@
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-03T09:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "SELAT-AI/selat-skills",
     "language": "JavaScript",
@@ -106,6 +205,15 @@
     "stars": 2,
     "updated_at": "2026-08-03T09:44:37Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30412,
+    "updated_at": "2026-08-03T09:44:33Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "Unofficial Filament admin-panel design system for Claude Design \u2014 78 React components, design tokens, and a full click-t",
@@ -124,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-08-03T09:43:19Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 21,
-    "updated_at": "2026-08-03T09:51:37Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
@@ -180,15 +279,6 @@
     "url": "https://github.com/zseta/skill-writer"
   },
   {
-    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 96 Checks \u00b7 12",
-    "id": "malkreide/mcp-audit-skill",
-    "language": "Python",
-    "name": "malkreide/mcp-audit-skill",
-    "stars": 1,
-    "updated_at": "2026-08-03T09:51:03Z",
-    "url": "https://github.com/malkreide/mcp-audit-skill"
-  },
-  {
     "description": "A visual interface for building software with Claude Code.",
     "id": "Cavalry-Collective/visual-stack",
     "language": "HTML",
@@ -205,6 +295,15 @@
     "stars": 25942,
     "updated_at": "2026-08-03T09:28:24Z",
     "url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14236,
+    "updated_at": "2026-08-03T09:27:49Z",
+    "url": "https://github.com/NevaMind-AI/memU"
   },
   {
     "description": "Respeak - an editing method for prose that has to sound like a person wrote it. Skill for Claude Code and Codex: humaniz",
@@ -306,15 +405,6 @@
     "url": "https://github.com/sukoji/loadout"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 103,
-    "updated_at": "2026-08-03T10:00:11Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
     "id": "ContextJet-ai/awesome-llm-observability",
     "language": "Python",
@@ -356,97 +446,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 18426,
-    "updated_at": "2026-08-03T08:57:53Z",
+    "updated_at": "2026-08-03T10:12:11Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 34,
-    "updated_at": "2026-08-03T08:53:23Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:52:29Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
-    "id": "natthasath/natthasath-marketplace",
-    "language": "HTML",
-    "name": "natthasath/natthasath-marketplace",
-    "stars": 1,
-    "updated_at": "2026-08-03T08:51:49Z",
-    "url": "https://github.com/natthasath/natthasath-marketplace"
-  },
-  {
-    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
-    "id": "gagip/gagip-dev",
-    "language": "Python",
-    "name": "gagip/gagip-dev",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:51:13Z",
-    "url": "https://github.com/gagip/gagip-dev"
-  },
-  {
-    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
-    "id": "tobihagemann/turbo",
-    "language": "Shell",
-    "name": "tobihagemann/turbo",
-    "stars": 396,
-    "updated_at": "2026-08-03T08:51:00Z",
-    "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-03T08:50:22Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 1,
-    "updated_at": "2026-08-03T08:45:56Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:35:27Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-03T08:34:44Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-03T08:32:27Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   }
 ]
