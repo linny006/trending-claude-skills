@@ -1,5 +1,77 @@
 [
   {
+    "description": "25 production-tested defensive security skills for Claude Code - WordPress, VPS, Cloudflare, Next.js hardening, AI agent",
+    "id": "GoldenWing-360/claude-security-skills",
+    "language": "Python",
+    "name": "GoldenWing-360/claude-security-skills",
+    "stars": 14,
+    "updated_at": "2026-08-03T11:29:46Z",
+    "url": "https://github.com/GoldenWing-360/claude-security-skills"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-08-03T11:25:22Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:25:20Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 6,
+    "updated_at": "2026-08-03T11:24:52Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-03T11:21:17Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "A visual interface for building software with Claude Code.",
+    "id": "Cavalry-Collective/visual-stack",
+    "language": "HTML",
+    "name": "Cavalry-Collective/visual-stack",
+    "stars": 2,
+    "updated_at": "2026-08-03T11:17:51Z",
+    "url": "https://github.com/Cavalry-Collective/visual-stack"
+  },
+  {
+    "description": "Respeak - an editing method for prose that has to sound like a person wrote it. Skill for Claude Code and Codex: humaniz",
+    "id": "quietmill/respeak",
+    "language": "\u2014",
+    "name": "quietmill/respeak",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:17:23Z",
+    "url": "https://github.com/quietmill/respeak"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-03T11:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Launch Your Dream Performance Marketing Campaign in 2 Hours Using The Power Of A.I.",
     "id": "highnitin/claude-workshop",
     "language": "HTML",
@@ -7,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-03T11:14:46Z",
     "url": "https://github.com/highnitin/claude-workshop"
+  },
+  {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 34,
+    "updated_at": "2026-08-03T11:13:52Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
@@ -54,15 +135,6 @@
     "url": "https://github.com/martinambrus/haive"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-03T11:00:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -70,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-08-03T10:58:56Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18427,
+    "updated_at": "2026-08-03T11:29:19Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "A collection of Claude skills organized by how I think, decide, research and build.",
@@ -95,7 +176,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-03T11:04:55Z",
+    "updated_at": "2026-08-03T11:16:55Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -270,15 +351,6 @@
     "url": "https://github.com/shaunmarsden/book-to-skill"
   },
   {
-    "description": "A visual interface for building software with Claude Code.",
-    "id": "Cavalry-Collective/visual-stack",
-    "language": "HTML",
-    "name": "Cavalry-Collective/visual-stack",
-    "stars": 2,
-    "updated_at": "2026-08-03T10:18:41Z",
-    "url": "https://github.com/Cavalry-Collective/visual-stack"
-  },
-  {
     "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 97 Checks \u00b7 12",
     "id": "malkreide/mcp-audit-skill",
     "language": "Python",
@@ -347,7 +419,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 21,
-    "updated_at": "2026-08-03T11:09:55Z",
+    "updated_at": "2026-08-03T11:28:19Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 50,
     "updated_at": "2026-08-03T09:55:16Z",
     "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "Turn a repeated task into a proper, bounded AI skill with real guardrails and stop conditions, not a one-off prompt. Fre",
-    "id": "shaunmarsden/skill-author",
-    "language": "\u2014",
-    "name": "shaunmarsden/skill-author",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:53:49Z",
-    "url": "https://github.com/shaunmarsden/skill-author"
-  },
-  {
-    "description": "Style gate for prose: every claim states a feature, a number, or a mechanism. Agent skill plus a deterministic Python li",
-    "id": "HiroHyun/grounded-copy",
-    "language": "Python",
-    "name": "HiroHyun/grounded-copy",
-    "stars": 11,
-    "updated_at": "2026-08-03T09:51:31Z",
-    "url": "https://github.com/HiroHyun/grounded-copy"
-  },
-  {
-    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
-    "id": "jonaskahn/docforge",
-    "language": "Python",
-    "name": "jonaskahn/docforge",
-    "stars": 1,
-    "updated_at": "2026-08-03T09:49:48Z",
-    "url": "https://github.com/jonaskahn/docforge"
-  },
-  {
-    "description": "Read Korean company filings, profiles, and financials from OpenDART (\uc804\uc790\uacf5\uc2dc).",
-    "id": "seokhoonj/opendart-client",
-    "language": "Python",
-    "name": "seokhoonj/opendart-client",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:47:27Z",
-    "url": "https://github.com/seokhoonj/opendart-client"
-  },
-  {
-    "description": "Claude Code skills for SEO, content localization, and digital PR - built for TrueProfit's ecommerce workflow",
-    "id": "khanhvo2172-dotcom/seo-skills",
-    "language": "Python",
-    "name": "khanhvo2172-dotcom/seo-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:47:12Z",
-    "url": "https://github.com/khanhvo2172-dotcom/seo-skills"
-  },
-  {
-    "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
-    "id": "k-vaca/prompt-engineering-skill",
-    "language": "\u2014",
-    "name": "k-vaca/prompt-engineering-skill",
-    "stars": 2,
-    "updated_at": "2026-08-03T09:45:42Z",
-    "url": "https://github.com/k-vaca/prompt-engineering-skill"
-  },
-  {
-    "description": "In Anthropic's official Claude plugin directory \u00b7 832 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1248,
-    "updated_at": "2026-08-03T10:41:23Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-08-03T09:44:37Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
   }
 ]
