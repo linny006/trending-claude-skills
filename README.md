@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 02:44 UTC
+> ⏰ Last updated: 2026-08-04 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 3 | Markdown | 2026-08-04 | Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o |
-| 2 | [chris-peterson/beacon](https://github.com/chris-peterson/beacon) | 1 | Python | 2026-08-04 | bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions — a terminal-agnostic fleet dashboard plu |
-| 3 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 2 | HTML | 2026-08-04 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
-| 4 | [atifgul99/craftsman-marketplace](https://github.com/atifgul99/craftsman-marketplace) | 1 | JavaScript | 2026-08-04 | The engineering review you'd get from the technical co-founder you don't have. Audits vibe-coded apps for production-rea |
-| 5 | [liarjsdev/liarjs-skills](https://github.com/liarjsdev/liarjs-skills) | 1 | — | 2026-08-04 | Agent Skills for browser fingerprint testing: run liarjs from Claude Code, Codex, Cursor or Copilot to score a browser a |
-| 6 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-04 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 7 | [patrickserrano/lacquer](https://github.com/patrickserrano/lacquer) | 3 | Go | 2026-08-04 | Go CLI + profile templates that standardize how Claude Code works across every project |
-| 8 | [jasonm4130/claude-skills](https://github.com/jasonm4130/claude-skills) | 3 | JavaScript | 2026-08-04 | Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research |
-| 9 | [thrixel/goal-to-game](https://github.com/thrixel/goal-to-game) | 9 | JavaScript | 2026-08-04 | Build beautiful games with high-quality 3D assets using Thrixel and Claude Code. |
-| 10 | [smixs/visual-skills](https://github.com/smixs/visual-skills) | 118 | — | 2026-08-04 | AI film director skills for Claude agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for See |
-| 11 | [phillipalcock/code-clipping](https://github.com/phillipalcock/code-clipping) | 0 | — | 2026-08-04 | A Claude Code skill that inspects a source video clip, proposes short-form edit ideas, and exports finished vertical cli |
-| 12 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 1 | HTML | 2026-08-04 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
-| 13 | [vinsonconsulting/califa-cards](https://github.com/vinsonconsulting/califa-cards) | 1 | Python | 2026-08-04 | Califa Cards: A Comprehensive Skill Card Standard and Testing Framework |
-| 14 | [jackspace/ClaudeSkillz](https://github.com/jackspace/ClaudeSkillz) | 17 | Python | 2026-08-04 | ClaudeSkillz: For when you need skills, but lazier |
-| 15 | [44-pixels/handover-mcp](https://github.com/44-pixels/handover-mcp) | 0 | JavaScript | 2026-08-04 | MCP server, CLI, and Agent Skills for shared, versioned context across Claude Code, Codex, Cursor, Gemini CLI, humans, a |
-| 16 | [Cavalry-Collective/visual-stack](https://github.com/Cavalry-Collective/visual-stack) | 2 | HTML | 2026-08-04 | A visual interface for building software with Claude Code. |
-| 17 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 22 | Python | 2026-08-04 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 22 | Python | 2026-08-04 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 3 | Markdown | 2026-08-04 | Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o |
+| 3 | [chris-peterson/beacon](https://github.com/chris-peterson/beacon) | 1 | Python | 2026-08-04 | bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions — a terminal-agnostic fleet dashboard plu |
+| 4 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 2 | HTML | 2026-08-04 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
+| 5 | [atifgul99/craftsman-marketplace](https://github.com/atifgul99/craftsman-marketplace) | 1 | JavaScript | 2026-08-04 | The engineering review you'd get from the technical co-founder you don't have. Audits vibe-coded apps for production-rea |
+| 6 | [liarjsdev/liarjs-skills](https://github.com/liarjsdev/liarjs-skills) | 1 | — | 2026-08-04 | Agent Skills for browser fingerprint testing: run liarjs from Claude Code, Codex, Cursor or Copilot to score a browser a |
+| 7 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-04 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 8 | [patrickserrano/lacquer](https://github.com/patrickserrano/lacquer) | 3 | Go | 2026-08-04 | Go CLI + profile templates that standardize how Claude Code works across every project |
+| 9 | [jasonm4130/claude-skills](https://github.com/jasonm4130/claude-skills) | 3 | JavaScript | 2026-08-04 | Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research |
+| 10 | [thrixel/goal-to-game](https://github.com/thrixel/goal-to-game) | 9 | JavaScript | 2026-08-04 | Build beautiful games with high-quality 3D assets using Thrixel and Claude Code. |
+| 11 | [smixs/visual-skills](https://github.com/smixs/visual-skills) | 118 | — | 2026-08-04 | AI film director skills for Claude agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for See |
+| 12 | [phillipalcock/code-clipping](https://github.com/phillipalcock/code-clipping) | 0 | — | 2026-08-04 | A Claude Code skill that inspects a source video clip, proposes short-form edit ideas, and exports finished vertical cli |
+| 13 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 1 | HTML | 2026-08-04 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
+| 14 | [vinsonconsulting/califa-cards](https://github.com/vinsonconsulting/califa-cards) | 1 | Python | 2026-08-04 | Califa Cards: A Comprehensive Skill Card Standard and Testing Framework |
+| 15 | [jackspace/ClaudeSkillz](https://github.com/jackspace/ClaudeSkillz) | 17 | Python | 2026-08-04 | ClaudeSkillz: For when you need skills, but lazier |
+| 16 | [44-pixels/handover-mcp](https://github.com/44-pixels/handover-mcp) | 0 | JavaScript | 2026-08-04 | MCP server, CLI, and Agent Skills for shared, versioned context across Claude Code, Codex, Cursor, Gemini CLI, humans, a |
+| 17 | [Cavalry-Collective/visual-stack](https://github.com/Cavalry-Collective/visual-stack) | 2 | HTML | 2026-08-04 | A visual interface for building software with Claude Code. |
 | 18 | [SELAT-AI/selat-skills](https://github.com/SELAT-AI/selat-skills) | 2 | JavaScript | 2026-08-04 |  |
 | 19 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67160 | TypeScript | 2026-08-04 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
 | 20 | [ramboz/jig](https://github.com/ramboz/jig) | 4 | Python | 2026-08-04 | A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable  |
