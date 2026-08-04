@@ -1,12 +1,21 @@
 [
   {
-    "description": "A visual interface for building software with Claude Code/Codex.",
-    "id": "Cavalry-Collective/visual-stack",
-    "language": "HTML",
-    "name": "Cavalry-Collective/visual-stack",
-    "stars": 2,
-    "updated_at": "2026-08-04T05:33:04Z",
-    "url": "https://github.com/Cavalry-Collective/visual-stack"
+    "description": "\ud83d\uded2 Skill Bazaar \u2014 an all-in-one open collection of AI Agent Skills (SKILL.md), organized by category. Part of the Mega AI",
+    "id": "Drvivek34/Skill-Bazaar",
+    "language": "Python",
+    "name": "Drvivek34/Skill-Bazaar",
+    "stars": 0,
+    "updated_at": "2026-08-04T05:43:33Z",
+    "url": "https://github.com/Drvivek34/Skill-Bazaar"
+  },
+  {
+    "description": "Flutter AI Skills and Rules for Claude, Codex, Cursor, and Other AI-Powered IDEs",
+    "id": "evanca/flutter-ai-rules",
+    "language": "Shell",
+    "name": "evanca/flutter-ai-rules",
+    "stars": 604,
+    "updated_at": "2026-08-04T05:42:23Z",
+    "url": "https://github.com/evanca/flutter-ai-rules"
   },
   {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
@@ -14,8 +23,62 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 95,
-    "updated_at": "2026-08-04T05:31:24Z",
+    "updated_at": "2026-08-04T05:41:40Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "13 curated Agent Skills for research, product decisions, decks, publishing, audits, and more \u2014 portable across skills-co",
+    "id": "staruhub/ClaudeSkills",
+    "language": "Python",
+    "name": "staruhub/ClaudeSkills",
+    "stars": 658,
+    "updated_at": "2026-08-04T05:41:05Z",
+    "url": "https://github.com/staruhub/ClaudeSkills"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "Python",
+    "name": "vanducng/skills",
+    "stars": 5,
+    "updated_at": "2026-08-04T05:39:03Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 53,
+    "updated_at": "2026-08-04T05:36:22Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "A skill that shrink noisy log/output 60-90% before read \u2014 filter, group, dedupe, truncate. Cut token, cut cost, keep sig",
+    "id": "Da-ya7/PromptCompressor-skill",
+    "language": "Python",
+    "name": "Da-ya7/PromptCompressor-skill",
+    "stars": 0,
+    "updated_at": "2026-08-04T05:36:12Z",
+    "url": "https://github.com/Da-ya7/PromptCompressor-skill"
+  },
+  {
+    "description": "Practical Claude Code skills for real-world project development - by HH",
+    "id": "hsinhan-h/hh-claude-skills",
+    "language": "PowerShell",
+    "name": "hsinhan-h/hh-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T05:36:10Z",
+    "url": "https://github.com/hsinhan-h/hh-claude-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 21,
+    "updated_at": "2026-08-04T05:35:31Z",
+    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -23,8 +86,26 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 22,
-    "updated_at": "2026-08-04T05:30:15Z",
+    "updated_at": "2026-08-04T05:34:30Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-04T05:33:55Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "A visual interface for building software with Claude Code/Codex.",
+    "id": "Cavalry-Collective/visual-stack",
+    "language": "HTML",
+    "name": "Cavalry-Collective/visual-stack",
+    "stars": 2,
+    "updated_at": "2026-08-04T05:33:04Z",
+    "url": "https://github.com/Cavalry-Collective/visual-stack"
   },
   {
     "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
@@ -86,7 +167,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 104,
-    "updated_at": "2026-08-04T05:31:50Z",
+    "updated_at": "2026-08-04T05:44:23Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T05:08:50Z",
     "url": "https://github.com/jyh4358/jay-plugin"
-  },
-  {
-    "description": "13 curated Agent Skills for research, product decisions, decks, publishing, audits, and more \u2014 portable across skills-co",
-    "id": "staruhub/ClaudeSkills",
-    "language": "Python",
-    "name": "staruhub/ClaudeSkills",
-    "stars": 658,
-    "updated_at": "2026-08-04T05:07:27Z",
-    "url": "https://github.com/staruhub/ClaudeSkills"
   },
   {
     "description": "OmniRank -- SEO / AEO / GEO / SMM growth engine for Claude Code and Cursor. v0.1.0 ships two skills: audit (score SEO, A",
@@ -284,7 +356,7 @@
     "language": "JavaScript",
     "name": "XTSoftwareLabs/neatcontext-plugins",
     "stars": 8,
-    "updated_at": "2026-08-04T04:30:08Z",
+    "updated_at": "2026-08-04T05:44:42Z",
     "url": "https://github.com/XTSoftwareLabs/neatcontext-plugins"
   },
   {
@@ -313,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T04:22:10Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 21,
-    "updated_at": "2026-08-04T05:25:06Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T04:08:19Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-04T04:08:05Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "AI \u6bcf\u65e5\u65b0\u95fb\u7b80\u62a5 \u00b7 GitHub \u70ed\u95e8 + X \u70ed\u95e8\u6587\u7ae0 + \u884c\u60c5\u6280\u672f\u5206\u6790 \u00b7 23 \u4e2a\u6570\u636e\u6e90\u805a\u5408 + LLM \u4e2d\u6587\u6458\u8981 \u00b7 \u672c\u5730\u6216 GitHub Actions \u90e8\u7f72",
-    "id": "leiting-eric/DailyBrief",
-    "language": "TypeScript",
-    "name": "leiting-eric/DailyBrief",
-    "stars": 310,
-    "updated_at": "2026-08-04T04:03:59Z",
-    "url": "https://github.com/leiting-eric/DailyBrief"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30423,
-    "updated_at": "2026-08-04T05:32:46Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 2,
-    "updated_at": "2026-08-04T03:59:18Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 0,
-    "updated_at": "2026-08-04T03:58:07Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-08-04T03:57:22Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-04T03:56:32Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   }
 ]
