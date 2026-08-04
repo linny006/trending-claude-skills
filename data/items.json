@@ -1,12 +1,66 @@
 [
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 104,
-    "updated_at": "2026-08-04T06:44:55Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
+    "description": "Claude skills, scripts and configs for everyday use",
+    "id": "sakydev/claude",
+    "language": "Shell",
+    "name": "sakydev/claude",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:56:39Z",
+    "url": "https://github.com/sakydev/claude"
+  },
+  {
+    "description": "Reusable Codex skills for WebGL and SDF liquid-glass UI materials",
+    "id": "woodfishhhh/glass-material-skills",
+    "language": "TypeScript",
+    "name": "woodfishhhh/glass-material-skills",
+    "stars": 1,
+    "updated_at": "2026-08-04T06:56:39Z",
+    "url": "https://github.com/woodfishhhh/glass-material-skills"
+  },
+  {
+    "description": "A repository for skills that are essential to my daily work",
+    "id": "tamdogood/builder-essential-skills",
+    "language": "Python",
+    "name": "tamdogood/builder-essential-skills",
+    "stars": 87,
+    "updated_at": "2026-08-04T06:54:30Z",
+    "url": "https://github.com/tamdogood/builder-essential-skills"
+  },
+  {
+    "description": "Claude Code skill that makes Claude report back the way an engineer reports to the person who decides \u2014 what was done, w",
+    "id": "delpicorp/dev-report",
+    "language": "\u2014",
+    "name": "delpicorp/dev-report",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:54:03Z",
+    "url": "https://github.com/delpicorp/dev-report"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 83,
+    "updated_at": "2026-08-04T06:53:51Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "Vibe Coding Framework - Full SaaS Development Team from A-Z with Brain, Self Improvement, Auto Development",
+    "id": "tody-agent/codymaster",
+    "language": "Python",
+    "name": "tody-agent/codymaster",
+    "stars": 48,
+    "updated_at": "2026-08-04T06:53:33Z",
+    "url": "https://github.com/tody-agent/codymaster"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:48:26Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
   },
   {
     "description": "Write the rules for your AI agent once, in plain English. Deterministic code checks every tool call, and a Claude Code h",
@@ -14,8 +68,35 @@
     "language": "TypeScript",
     "name": "rmanish2000-del/warrant-mcp",
     "stars": 0,
-    "updated_at": "2026-08-04T06:44:31Z",
+    "updated_at": "2026-08-04T06:47:51Z",
     "url": "https://github.com/rmanish2000-del/warrant-mcp"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 104,
+    "updated_at": "2026-08-04T07:00:05Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-04T06:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:44:59Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -54,15 +135,6 @@
     "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
   },
   {
-    "description": "Claude Code skill that turns a coding session into a report a non-technical stakeholder can act on \u2014 full engineering re",
-    "id": "delpicorp/dev-report",
-    "language": "\u2014",
-    "name": "delpicorp/dev-report",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:38:58Z",
-    "url": "https://github.com/delpicorp/dev-report"
-  },
-  {
     "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
     "id": "sumitake/agent-collab",
     "language": "Python",
@@ -77,7 +149,7 @@
     "language": "Rust",
     "name": "crabbuild/compass",
     "stars": 89,
-    "updated_at": "2026-08-04T06:38:41Z",
+    "updated_at": "2026-08-04T06:59:59Z",
     "url": "https://github.com/crabbuild/compass"
   },
   {
@@ -144,24 +216,6 @@
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 83,
-    "updated_at": "2026-08-04T06:30:35Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-04T06:30:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The loop for everything!",
     "id": "MadaraUchiha-314/the-loop",
     "language": "Python",
@@ -214,24 +268,6 @@
     "stars": 67174,
     "updated_at": "2026-08-04T06:19:56Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Vibe Coding Framework - Full SaaS Development Team from A-Z with Brain, Self Improvement, Auto Development",
-    "id": "tody-agent/codymaster",
-    "language": "Python",
-    "name": "tody-agent/codymaster",
-    "stars": 48,
-    "updated_at": "2026-08-04T06:18:39Z",
-    "url": "https://github.com/tody-agent/codymaster"
-  },
-  {
-    "description": "A repository for skills that are essential to my daily work",
-    "id": "tamdogood/builder-essential-skills",
-    "language": "Python",
-    "name": "tamdogood/builder-essential-skills",
-    "stars": 87,
-    "updated_at": "2026-08-04T06:06:41Z",
-    "url": "https://github.com/tamdogood/builder-essential-skills"
   },
   {
     "description": "Evidence-bounded skill for drafting, rewriting, humanizing, and auditing IEEE/ACM engineering manuscripts.",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "bemoshiur/OmniRank",
     "stars": 3,
-    "updated_at": "2026-08-04T06:40:00Z",
+    "updated_at": "2026-08-04T06:58:38Z",
     "url": "https://github.com/bemoshiur/OmniRank"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 53,
     "updated_at": "2026-08-04T05:36:22Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "A skill that shrink noisy log/output 60-90% before read \u2014 filter, group, dedupe, truncate. Cut token, cut cost, keep sig",
-    "id": "Da-ya7/PromptCompressor-skill",
-    "language": "Python",
-    "name": "Da-ya7/PromptCompressor-skill",
-    "stars": 0,
-    "updated_at": "2026-08-04T05:36:12Z",
-    "url": "https://github.com/Da-ya7/PromptCompressor-skill"
-  },
-  {
-    "description": "Practical Claude Code skills for real-world project development - by HH",
-    "id": "hsinhan-h/hh-claude-skills",
-    "language": "PowerShell",
-    "name": "hsinhan-h/hh-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T05:36:10Z",
-    "url": "https://github.com/hsinhan-h/hh-claude-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 21,
-    "updated_at": "2026-08-04T06:33:01Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-04T05:33:55Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   }
 ]
