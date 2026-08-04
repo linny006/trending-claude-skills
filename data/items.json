@@ -1,12 +1,102 @@
 [
   {
+    "description": "A curated collection of Claude Code skills for AI image production, AI music production, instructional design, and workf",
+    "id": "phillipalcock/skills-collection",
+    "language": "\u2014",
+    "name": "phillipalcock/skills-collection",
+    "stars": 0,
+    "updated_at": "2026-08-04T03:14:17Z",
+    "url": "https://github.com/phillipalcock/skills-collection"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-08-04T03:13:59Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "A Claude Code skill that turns recordings and transcripts into ranked, scored short-form clips for Reels, TikTok, and Yo",
+    "id": "phillipalcock/viral-clip-finder",
+    "language": "\u2014",
+    "name": "phillipalcock/viral-clip-finder",
+    "stars": 0,
+    "updated_at": "2026-08-04T03:13:34Z",
+    "url": "https://github.com/phillipalcock/viral-clip-finder"
+  },
+  {
+    "description": "A Claude Code skill that inspects a source video clip, proposes short-form edit ideas, and exports finished vertical cli",
+    "id": "phillipalcock/code-clipping",
+    "language": "\u2014",
+    "name": "phillipalcock/code-clipping",
+    "stars": 0,
+    "updated_at": "2026-08-04T03:12:39Z",
+    "url": "https://github.com/phillipalcock/code-clipping"
+  },
+  {
+    "description": "My personal agent skill repository, primarily focused on game development.",
+    "id": "Yuki001/game-dev-skills",
+    "language": "Python",
+    "name": "Yuki001/game-dev-skills",
+    "stars": 50,
+    "updated_at": "2026-08-04T03:11:21Z",
+    "url": "https://github.com/Yuki001/game-dev-skills"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-08-04T03:09:33Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 67161,
+    "updated_at": "2026-08-04T03:08:52Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 4,
+    "updated_at": "2026-08-04T03:06:56Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 4,
+    "updated_at": "2026-08-04T03:04:12Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
     "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
     "id": "AgamiAI/agami-core",
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 20,
-    "updated_at": "2026-08-04T02:58:46Z",
+    "updated_at": "2026-08-04T03:04:05Z",
     "url": "https://github.com/AgamiAI/agami-core"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-04T03:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -52,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T02:56:07Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 4,
-    "updated_at": "2026-08-04T02:55:32Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -117,15 +198,6 @@
     "url": "https://github.com/YPares/rigup.nix"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-04T02:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -171,15 +243,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-08-04T02:39:58Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
     "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
     "id": "jasonm4130/claude-skills",
     "language": "JavaScript",
@@ -205,15 +268,6 @@
     "stars": 119,
     "updated_at": "2026-08-04T02:36:06Z",
     "url": "https://github.com/smixs/visual-skills"
-  },
-  {
-    "description": "A Claude Code skill that inspects a source video clip, proposes short-form edit ideas, and exports finished vertical cli",
-    "id": "phillipalcock/code-clipping",
-    "language": "\u2014",
-    "name": "phillipalcock/code-clipping",
-    "stars": 0,
-    "updated_at": "2026-08-04T02:34:26Z",
-    "url": "https://github.com/phillipalcock/code-clipping"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -261,15 +315,6 @@
     "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67160,
-    "updated_at": "2026-08-04T02:53:48Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
     "id": "ramboz/jig",
     "language": "Python",
@@ -284,35 +329,17 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 21,
-    "updated_at": "2026-08-04T02:17:45Z",
+    "updated_at": "2026-08-04T03:05:43Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "A curated collection of Claude Code skills for AI image production, AI music production, instructional design, and workf",
-    "id": "phillipalcock/skills-collection",
-    "language": "\u2014",
-    "name": "phillipalcock/skills-collection",
-    "stars": 0,
-    "updated_at": "2026-08-04T02:14:19Z",
-    "url": "https://github.com/phillipalcock/skills-collection"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 5039,
+    "stars": 5040,
     "updated_at": "2026-08-04T02:14:16Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "A Claude Code skill that turns recordings and transcripts into ranked, scored short-form clips for Reels, TikTok, and Yo",
-    "id": "phillipalcock/viral-clip-finder",
-    "language": "\u2014",
-    "name": "phillipalcock/viral-clip-finder",
-    "stars": 0,
-    "updated_at": "2026-08-04T02:10:34Z",
-    "url": "https://github.com/phillipalcock/viral-clip-finder"
   },
   {
     "description": "Agent skills, autonomous agents, and MCP-companions for programming",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T01:38:52Z",
     "url": "https://github.com/CrunTeam/crun-agent-skills"
-  },
-  {
-    "description": "Skills para o Claude Code: auditoria, testes, documenta\u00e7\u00e3o e checagem pr\u00e9-deploy direto no terminal.",
-    "id": "Dom1ng0s/Claude-Skills",
-    "language": "Python",
-    "name": "Dom1ng0s/Claude-Skills",
-    "stars": 1,
-    "updated_at": "2026-08-04T01:28:10Z",
-    "url": "https://github.com/Dom1ng0s/Claude-Skills"
-  },
-  {
-    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 4,
-    "updated_at": "2026-08-04T01:25:17Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "bridge.ai/anchor: Consistency across the code-change lifecycle: issue, change request, review, release",
-    "id": "chris-peterson/anchor",
-    "language": "Shell",
-    "name": "chris-peterson/anchor",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:24:33Z",
-    "url": "https://github.com/chris-peterson/anchor"
   }
 ]
