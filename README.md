@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 21:58 UTC
+> ⏰ Last updated: 2026-08-04 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [AnaCataVC/amiga-ia](https://github.com/AnaCataVC/amiga-ia) | 0 | HTML | 2026-08-04 | Skills and agents for Claude and Gemini |
-| 2 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 103 | Kotlin | 2026-08-04 | Helping the Agents Compose the Things |
-| 3 | [robertgorsuch/AI-JasperReports-Generator](https://github.com/robertgorsuch/AI-JasperReports-Generator) | 1 | PowerShell | 2026-08-04 | Demos and artifacts for BI pipeline automation using Jaspersoft and Claude Code Desktop |
-| 4 | [maxbuildog/skills](https://github.com/maxbuildog/skills) | 0 | JavaScript | 2026-08-04 | Agent skills that measure instead of guessing. Deterministic checks with prevalence from real scans, not intuition. Shop |
-| 5 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-04 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 6 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-04 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 7 | [benman1/wiggum](https://github.com/benman1/wiggum) | 1 | Shell | 2026-08-04 | Self-driving agent loop for Claude Code. It turns an issue into a planned, verified, committed change, and lets you run, |
-| 8 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 18455 | Python | 2026-08-04 | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—in |
-| 9 | [agents-inc/agents-inc](https://github.com/agents-inc/agents-inc) | 5 | TypeScript | 2026-08-04 | An agent composition framework that builds stacks and compiles specialized subagents for Claude Code |
-| 10 | [khujta/gabe-suite](https://github.com/khujta/gabe-suite) | 0 | HTML | 2026-08-04 | Cognitive translation layer for Claude Code |
-| 11 | [bhumik154/claim-check](https://github.com/bhumik154/claim-check) | 0 | Python | 2026-08-04 | Verify test-count claims in commit messages against real pytest output, as a pre-commit hook, a Claude Code hook, or a s |
-| 12 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 21 | Python | 2026-08-04 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 103 | Kotlin | 2026-08-04 | Helping the Agents Compose the Things |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 21 | Python | 2026-08-04 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [AnaCataVC/amiga-ia](https://github.com/AnaCataVC/amiga-ia) | 0 | HTML | 2026-08-04 | Skills and agents for Claude and Gemini |
+| 4 | [robertgorsuch/AI-JasperReports-Generator](https://github.com/robertgorsuch/AI-JasperReports-Generator) | 1 | PowerShell | 2026-08-04 | Demos and artifacts for BI pipeline automation using Jaspersoft and Claude Code Desktop |
+| 5 | [maxbuildog/skills](https://github.com/maxbuildog/skills) | 0 | JavaScript | 2026-08-04 | Agent skills that measure instead of guessing. Deterministic checks with prevalence from real scans, not intuition. Shop |
+| 6 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-04 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 7 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-04 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 8 | [benman1/wiggum](https://github.com/benman1/wiggum) | 1 | Shell | 2026-08-04 | Self-driving agent loop for Claude Code. It turns an issue into a planned, verified, committed change, and lets you run, |
+| 9 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 18455 | Python | 2026-08-04 | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—in |
+| 10 | [agents-inc/agents-inc](https://github.com/agents-inc/agents-inc) | 5 | TypeScript | 2026-08-04 | An agent composition framework that builds stacks and compiles specialized subagents for Claude Code |
+| 11 | [khujta/gabe-suite](https://github.com/khujta/gabe-suite) | 0 | HTML | 2026-08-04 | Cognitive translation layer for Claude Code |
+| 12 | [bhumik154/claim-check](https://github.com/bhumik154/claim-check) | 0 | Python | 2026-08-04 | Verify test-count claims in commit messages against real pytest output, as a pre-commit hook, a Claude Code hook, or a s |
 | 13 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-04 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
 | 14 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-04 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
 | 15 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-04 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
