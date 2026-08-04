@@ -1,12 +1,84 @@
 [
   {
-    "description": "Write the rules for your AI agent once, in plain English. Deterministic code checks every tool call, and a Claude Code h",
-    "id": "rmanish2000-del/warrant-mcp",
-    "language": "TypeScript",
-    "name": "rmanish2000-del/warrant-mcp",
+    "description": "Claude Code skills and sync tooling for Asana-based studio project management.",
+    "id": "markbaindesign/bain-studio",
+    "language": "Python",
+    "name": "markbaindesign/bain-studio",
     "stars": 0,
-    "updated_at": "2026-08-04T07:44:37Z",
-    "url": "https://github.com/rmanish2000-del/warrant-mcp"
+    "updated_at": "2026-08-04T07:59:31Z",
+    "url": "https://github.com/markbaindesign/bain-studio"
+  },
+  {
+    "description": "Optimized GitHub skill for coding agents: fewer tool calls, less context burned, lower cost, faster answers. One bounded",
+    "id": "AVGVSTVS96/better-github-skill",
+    "language": "JavaScript",
+    "name": "AVGVSTVS96/better-github-skill",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:59:04Z",
+    "url": "https://github.com/AVGVSTVS96/better-github-skill"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 104,
+    "updated_at": "2026-08-04T07:58:28Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "MCP server, CLI, and Agent Skills for shared, versioned context across Claude Code, Codex, Cursor, Gemini CLI, humans, a",
+    "id": "44-pixels/handover-mcp",
+    "language": "JavaScript",
+    "name": "44-pixels/handover-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:58:27Z",
+    "url": "https://github.com/44-pixels/handover-mcp"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30424,
+    "updated_at": "2026-08-04T07:57:55Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Teach any AI agent to read live crypto whale flow like a trader. No API key required.",
+    "id": "CoinLobster/agent-skills",
+    "language": "JavaScript",
+    "name": "CoinLobster/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:56:25Z",
+    "url": "https://github.com/CoinLobster/agent-skills"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 3473,
+    "updated_at": "2026-08-04T07:54:57Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+    "description": "Turn a repeated task into a proper, bounded AI skill with real guardrails and stop conditions, not a one-off prompt. Fre",
+    "id": "shaunmarsden/skill-author",
+    "language": "\u2014",
+    "name": "shaunmarsden/skill-author",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:53:01Z",
+    "url": "https://github.com/shaunmarsden/skill-author"
+  },
+  {
+    "description": "Find design token drift in a codebase: raw hex colors, off-scale spacing, near-duplicate values",
+    "id": "humbleteam/audit-design-tokens",
+    "language": "\u2014",
+    "name": "humbleteam/audit-design-tokens",
+    "stars": 0,
+    "updated_at": "2026-08-04T07:49:13Z",
+    "url": "https://github.com/humbleteam/audit-design-tokens"
   },
   {
     "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 specialized agents (leader/convener/architect",
@@ -14,7 +86,7 @@
     "language": "Shell",
     "name": "dxkjuanjuan/juanjuan-team",
     "stars": 1,
-    "updated_at": "2026-08-04T07:42:44Z",
+    "updated_at": "2026-08-04T07:48:28Z",
     "url": "https://github.com/dxkjuanjuan/juanjuan-team"
   },
   {
@@ -23,17 +95,26 @@
     "language": "HTML",
     "name": "khujta/gabe-suite",
     "stars": 0,
-    "updated_at": "2026-08-04T07:41:23Z",
+    "updated_at": "2026-08-04T07:47:30Z",
     "url": "https://github.com/khujta/gabe-suite"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 104,
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-04T07:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Write the rules for your AI agent once, in plain English. Deterministic code checks every tool call, and a Claude Code h",
+    "id": "rmanish2000-del/warrant-mcp",
+    "language": "TypeScript",
+    "name": "rmanish2000-del/warrant-mcp",
+    "stars": 0,
     "updated_at": "2026-08-04T07:44:37Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
+    "url": "https://github.com/rmanish2000-del/warrant-mcp"
   },
   {
     "description": "Future-first skill for writing modern Svelte 5 and SvelteKit 2 code with AI agents.",
@@ -117,15 +198,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-04T07:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
     "id": "AnotherSava/claude-code-common",
     "language": "Shell",
@@ -160,33 +232,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T07:28:32Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 3471,
-    "updated_at": "2026-08-04T07:28:27Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
-    "description": "MCP server, CLI, and Agent Skills for shared, versioned context across Claude Code, Codex, Cursor, Gemini CLI, humans, a",
-    "id": "44-pixels/handover-mcp",
-    "language": "JavaScript",
-    "name": "44-pixels/handover-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:28:22Z",
-    "url": "https://github.com/44-pixels/handover-mcp"
-  },
-  {
-    "description": "Premium agent skill packs from City Funk Entertainment \u2014 extracted from a live AI business operation. Verified monetizat",
-    "id": "Nate3point0/city-funk-skills",
-    "language": "Shell",
-    "name": "Nate3point0/city-funk-skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:40:08Z",
-    "url": "https://github.com/Nate3point0/city-funk-skills"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -265,7 +310,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67179,
+    "stars": 67180,
     "updated_at": "2026-08-04T07:14:45Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -275,8 +320,17 @@
     "language": "JavaScript",
     "name": "storehand/storehand",
     "stars": 1,
-    "updated_at": "2026-08-04T07:26:16Z",
+    "updated_at": "2026-08-04T07:54:55Z",
     "url": "https://github.com/storehand/storehand"
+  },
+  {
+    "description": "Claude skill for production-hardening practices whenever you're designing, writing, or reviewing your backend code. Feat",
+    "id": "AllanOps/Clean-Backend",
+    "language": "JavaScript",
+    "name": "AllanOps/Clean-Backend",
+    "stars": 4,
+    "updated_at": "2026-08-04T07:13:02Z",
+    "url": "https://github.com/AllanOps/Clean-Backend"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T06:59:29Z",
     "url": "https://github.com/vbkotecha/agentservices-api"
-  },
-  {
-    "description": "Claude skills, scripts and configs for everyday use",
-    "id": "sakydev/claude",
-    "language": "Shell",
-    "name": "sakydev/claude",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:56:39Z",
-    "url": "https://github.com/sakydev/claude"
-  },
-  {
-    "description": "Reusable Codex skills for WebGL and SDF liquid-glass UI materials",
-    "id": "woodfishhhh/glass-material-skills",
-    "language": "TypeScript",
-    "name": "woodfishhhh/glass-material-skills",
-    "stars": 1,
-    "updated_at": "2026-08-04T06:56:39Z",
-    "url": "https://github.com/woodfishhhh/glass-material-skills"
-  },
-  {
-    "description": "A repository for skills that are essential to my daily work",
-    "id": "tamdogood/builder-essential-skills",
-    "language": "Python",
-    "name": "tamdogood/builder-essential-skills",
-    "stars": 88,
-    "updated_at": "2026-08-04T06:54:30Z",
-    "url": "https://github.com/tamdogood/builder-essential-skills"
-  },
-  {
-    "description": "Claude Code skill that makes Claude report back the way an engineer reports to the person who decides \u2014 what was done, w",
-    "id": "delpicorp/dev-report",
-    "language": "\u2014",
-    "name": "delpicorp/dev-report",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:54:03Z",
-    "url": "https://github.com/delpicorp/dev-report"
-  },
-  {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 3,
-    "updated_at": "2026-08-04T06:48:26Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:44:59Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
