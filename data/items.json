@@ -1,5 +1,86 @@
 [
   {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18452,
+    "updated_at": "2026-08-04T16:43:17Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Skills to augment LLM thinking process, integrated with InfraNodus insight generation tool",
+    "id": "infranodus/skills",
+    "language": "Python",
+    "name": "infranodus/skills",
+    "stars": 107,
+    "updated_at": "2026-08-04T16:39:28Z",
+    "url": "https://github.com/infranodus/skills"
+  },
+  {
+    "description": "Bring DataRobot platform capabilities to your coding agents",
+    "id": "datarobot-oss/datarobot-agent-skills",
+    "language": "Python",
+    "name": "datarobot-oss/datarobot-agent-skills",
+    "stars": 23,
+    "updated_at": "2026-08-04T16:39:07Z",
+    "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 3,
+    "updated_at": "2026-08-04T16:36:37Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
+    "id": "Arindaag760/humanizer-cli",
+    "language": "JavaScript",
+    "name": "Arindaag760/humanizer-cli",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:35:52Z",
+    "url": "https://github.com/Arindaag760/humanizer-cli"
+  },
+  {
+    "description": "Write the rules for your AI agent once, in plain English. Deterministic code checks every tool call, and a Claude Code h",
+    "id": "rmanish2000-del/warrant-mcp",
+    "language": "TypeScript",
+    "name": "rmanish2000-del/warrant-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-04T16:33:56Z",
+    "url": "https://github.com/rmanish2000-del/warrant-mcp"
+  },
+  {
+    "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
+    "id": "wyre-technology/msp-claude-plugins",
+    "language": "Astro",
+    "name": "wyre-technology/msp-claude-plugins",
+    "stars": 39,
+    "updated_at": "2026-08-04T16:32:52Z",
+    "url": "https://github.com/wyre-technology/msp-claude-plugins"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 90,
+    "updated_at": "2026-08-04T16:31:50Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-04T16:30:24Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -25,15 +106,6 @@
     "stars": 8,
     "updated_at": "2026-08-04T16:26:47Z",
     "url": "https://github.com/the-nam-shub/e5-real-skills"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18452,
-    "updated_at": "2026-08-04T16:25:33Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Engineering quality focused skills for AI coding agents that keep humans in the loop.",
@@ -90,15 +162,6 @@
     "url": "https://github.com/huguryildiz/ieee-acm-paper-writing"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-04T16:15:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83d\udcfc A declarative AI agent environment manager, written in Rust",
     "id": "pivoshenko/kasetto",
     "language": "Rust",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-08-04T16:19:37Z",
+    "updated_at": "2026-08-04T16:41:59Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -157,7 +220,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 89523,
+    "stars": 89524,
     "updated_at": "2026-08-04T16:11:34Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -169,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T16:11:07Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 3,
-    "updated_at": "2026-08-04T16:29:14Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "This is an AI coding agent Skill that provides framework-agnostic project memory, enabling agents to preserve architectu",
@@ -229,7 +283,7 @@
     "id": "fcakyon/claude-codex-settings",
     "language": "Python",
     "name": "fcakyon/claude-codex-settings",
-    "stars": 967,
+    "stars": 969,
     "updated_at": "2026-08-04T16:01:35Z",
     "url": "https://github.com/fcakyon/claude-codex-settings"
   },
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-08-04T16:19:37Z",
+    "updated_at": "2026-08-04T16:41:02Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 48,
     "updated_at": "2026-08-04T15:35:26Z",
     "url": "https://github.com/Yuki001/game-dev-skills"
-  },
-  {
-    "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandboxed YAML suites, ",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 108,
-    "updated_at": "2026-08-04T15:34:03Z",
-    "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-08-04T15:29:50Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:29:21Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-04T15:28:49Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-08-04T15:27:01Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "Battle-tested Agent Skills for Claude Code \u2014 ship \u2192 babysit pipeline and friends. Distributed via positronick.com",
-    "id": "nsollazzo/skills",
-    "language": "\u2014",
-    "name": "nsollazzo/skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:26:50Z",
-    "url": "https://github.com/nsollazzo/skills"
   }
 ]
