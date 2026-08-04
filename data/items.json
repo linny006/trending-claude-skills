@@ -1,11 +1,164 @@
 [
   {
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent \u2014 export editable PowerPoint/Keynote/Googl",
+    "id": "isatimur/presentation-md",
+    "language": "HTML",
+    "name": "isatimur/presentation-md",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:29:56Z",
+    "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 1,
+    "updated_at": "2026-08-04T18:27:04Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:26:53Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Agent skills for WordPress \u2014 works in Claude Code, Codex, Antigravity, Cursor, and any agent supporting Skills + MCP. Au",
+    "id": "respira-press/agent-skills-wordpress",
+    "language": "JavaScript",
+    "name": "respira-press/agent-skills-wordpress",
+    "stars": 40,
+    "updated_at": "2026-08-04T18:26:43Z",
+    "url": "https://github.com/respira-press/agent-skills-wordpress"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-04T18:26:19Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 90,
+    "updated_at": "2026-08-04T18:25:49Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:24:29Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Export UniFi network topologies as zoomable vector diagrams and editable draw.io files using real device data.",
+    "id": "Josiecontrolling326/unifi-map",
+    "language": "Python",
+    "name": "Josiecontrolling326/unifi-map",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:23:19Z",
+    "url": "https://github.com/Josiecontrolling326/unifi-map"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:22:56Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Claude skills for Shopify \u2014 open-source Claude Code plugin that turns Claude into your daily store operator: morning bri",
+    "id": "storehand/storehand",
+    "language": "JavaScript",
+    "name": "storehand/storehand",
+    "stars": 1,
+    "updated_at": "2026-08-04T18:29:00Z",
+    "url": "https://github.com/storehand/storehand"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:22:12Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 19 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "JavaScript",
+    "name": "chrislacey89/skills",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:21:20Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 53,
+    "updated_at": "2026-08-04T18:20:47Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
+    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
+    "language": "TypeScript",
+    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:19:30Z",
+    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 3,
+    "updated_at": "2026-08-04T18:18:49Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "DBHQ's Claude Code plugin marketplace - six free, open-source skills for Claude Code and Codex. Add with: /plugin market",
+    "id": "dbhq-uk/marketplace",
+    "language": "\u2014",
+    "name": "dbhq-uk/marketplace",
+    "stars": 1,
+    "updated_at": "2026-08-04T18:17:10Z",
+    "url": "https://github.com/dbhq-uk/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-04T18:15:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-04T18:12:10Z",
+    "updated_at": "2026-08-04T18:25:12Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -36,12 +189,12 @@
     "url": "https://github.com/7abushahla/ieee-paper-skills"
   },
   {
-    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 98 Checks \u00b7 12",
+    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 112 Checks \u00b7 1",
     "id": "malkreide/mcp-audit-skill",
     "language": "Python",
     "name": "malkreide/mcp-audit-skill",
     "stars": 1,
-    "updated_at": "2026-08-04T18:10:45Z",
+    "updated_at": "2026-08-04T18:23:57Z",
     "url": "https://github.com/malkreide/mcp-audit-skill"
   },
   {
@@ -90,20 +243,11 @@
     "url": "https://github.com/nota-america/forgecat-agent-profiles"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-04T18:00:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previ",
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 3502,
+    "stars": 3503,
     "updated_at": "2026-08-04T17:59:45Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -194,7 +338,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 18453,
-    "updated_at": "2026-08-04T17:47:22Z",
+    "updated_at": "2026-08-04T18:20:36Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T17:27:48Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 2,
-    "updated_at": "2026-08-04T17:26:55Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-04T17:26:30Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:24:09Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:20:34Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 90,
-    "updated_at": "2026-08-04T18:14:06Z",
-    "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 404,
-    "updated_at": "2026-08-04T17:19:14Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-04T17:19:14Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
-    "id": "l4ci/hv-skills",
-    "language": "Shell",
-    "name": "l4ci/hv-skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:33:00Z",
-    "url": "https://github.com/l4ci/hv-skills"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-04T17:18:26Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:17:07Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 20,
-    "updated_at": "2026-08-04T17:45:28Z",
-    "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
-    "id": "blisspixel/primr",
-    "language": "Python",
-    "name": "blisspixel/primr",
-    "stars": 3,
-    "updated_at": "2026-08-04T18:13:37Z",
-    "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-04T17:11:36Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 1,
-    "updated_at": "2026-08-04T17:10:22Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-04T17:08:59Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "The go-to-market operating system for early-stage software products. AI marketing skills for Claude Code - scored audits",
-    "id": "adaptico/adaptico-os",
-    "language": "JavaScript",
-    "name": "adaptico/adaptico-os",
-    "stars": 11,
-    "updated_at": "2026-08-04T17:07:46Z",
-    "url": "https://github.com/adaptico/adaptico-os"
   }
 ]
