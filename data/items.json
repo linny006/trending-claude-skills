@@ -1,12 +1,165 @@
 [
   {
-    "description": "Claude Code skill: parametric FDM 3D-print modeling with a headless view-screenshot-iterate loop (trimesh/manifold3d/bui",
-    "id": "m-esm/3d-print-modeling",
-    "language": "Python",
-    "name": "m-esm/3d-print-modeling",
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:28:36Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
     "stars": 1,
-    "updated_at": "2026-08-04T09:12:59Z",
-    "url": "https://github.com/m-esm/3d-print-modeling"
+    "updated_at": "2026-08-04T09:28:26Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 104,
+    "updated_at": "2026-08-04T09:28:12Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Write the rules for your AI agent once, in plain English. Deterministic code checks every tool call, and a Claude Code h",
+    "id": "rmanish2000-del/warrant-mcp",
+    "language": "TypeScript",
+    "name": "rmanish2000-del/warrant-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:28:06Z",
+    "url": "https://github.com/rmanish2000-del/warrant-mcp"
+  },
+  {
+    "description": "Claude Code skill: interface microcopy rules plus an AI-tell strip pass for buttons and errors",
+    "id": "humbleteam/ux-writing",
+    "language": "\u2014",
+    "name": "humbleteam/ux-writing",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:28:04Z",
+    "url": "https://github.com/humbleteam/ux-writing"
+  },
+  {
+    "description": "Digital product design and AI-engineering studio. Our open-source Claude Code skills for design teams live here.",
+    "id": "humbleteam/humbleteam",
+    "language": "\u2014",
+    "name": "humbleteam/humbleteam",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:27:52Z",
+    "url": "https://github.com/humbleteam/humbleteam"
+  },
+  {
+    "description": "Pixel-faithful HTML mockups from a reference screenshot - census first, then render",
+    "id": "humbleteam/html-mockup",
+    "language": "\u2014",
+    "name": "humbleteam/html-mockup",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:27:39Z",
+    "url": "https://github.com/humbleteam/html-mockup"
+  },
+  {
+    "description": "MCP server, CLI, and Agent Skills for shared, versioned context across Claude Code, Codex, Cursor, Gemini CLI, humans, a",
+    "id": "44-pixels/handover-mcp",
+    "language": "JavaScript",
+    "name": "44-pixels/handover-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:27:32Z",
+    "url": "https://github.com/44-pixels/handover-mcp"
+  },
+  {
+    "description": "Extract design tokens - colors, type, spacing, shadows - from a URL, screenshot, or CSS into CSS variables and JSON.",
+    "id": "humbleteam/extract-design-tokens",
+    "language": "\u2014",
+    "name": "humbleteam/extract-design-tokens",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:27:26Z",
+    "url": "https://github.com/humbleteam/extract-design-tokens"
+  },
+  {
+    "description": "Claude Code skill: scored UX critique with Before/After/Why fixes and Nielsen/WCAG citations",
+    "id": "humbleteam/design-review",
+    "language": "\u2014",
+    "name": "humbleteam/design-review",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:27:13Z",
+    "url": "https://github.com/humbleteam/design-review"
+  },
+  {
+    "description": "Pre-ship design QA gate - contrast, touch targets, keyboard paths, breakpoints for any screen before it merges",
+    "id": "humbleteam/design-qa",
+    "language": "\u2014",
+    "name": "humbleteam/design-qa",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:26:59Z",
+    "url": "https://github.com/humbleteam/design-qa"
+  },
+  {
+    "description": "Turn a mockup into a dev-ready handoff spec: tokens, component states, accessibility notes, open questions",
+    "id": "humbleteam/design-handoff",
+    "language": "\u2014",
+    "name": "humbleteam/design-handoff",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:26:42Z",
+    "url": "https://github.com/humbleteam/design-handoff"
+  },
+  {
+    "description": "Extract a 5-bullet design brief from messy project inputs, with a gap report. A Claude Code skill.",
+    "id": "humbleteam/design-brief",
+    "language": "\u2014",
+    "name": "humbleteam/design-brief",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:26:28Z",
+    "url": "https://github.com/humbleteam/design-brief"
+  },
+  {
+    "description": "Find design token drift in a codebase: raw hex colors, off-scale spacing, near-duplicate values",
+    "id": "humbleteam/audit-design-tokens",
+    "language": "\u2014",
+    "name": "humbleteam/audit-design-tokens",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:26:14Z",
+    "url": "https://github.com/humbleteam/audit-design-tokens"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 4,
+    "updated_at": "2026-08-04T09:26:04Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "ASCII wireframes: sketch 3 layout hypotheses before Figma or HTML. A Claude Code skill for design teams.",
+    "id": "humbleteam/ascii-wireframes",
+    "language": "\u2014",
+    "name": "humbleteam/ascii-wireframes",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:26:03Z",
+    "url": "https://github.com/humbleteam/ascii-wireframes"
+  },
+  {
+    "description": "WCAG 2.2 accessibility audit skill for Claude Code - severity-ranked findings with success-criterion citations",
+    "id": "humbleteam/accessibility-audit",
+    "language": "\u2014",
+    "name": "humbleteam/accessibility-audit",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:25:45Z",
+    "url": "https://github.com/humbleteam/accessibility-audit"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 3,
+    "updated_at": "2026-08-04T09:25:37Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
   },
   {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
@@ -14,8 +167,71 @@
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-08-04T09:12:45Z",
+    "updated_at": "2026-08-04T09:23:42Z",
     "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "ComPDF Skills are AI-agent-ready PDF processing skills for Claude Code, Cursor, Copilot, OpenCode, and 39+ coding agents",
+    "id": "ComPDFKit/compdf-skills",
+    "language": "Python",
+    "name": "ComPDFKit/compdf-skills",
+    "stars": 104,
+    "updated_at": "2026-08-04T09:23:06Z",
+    "url": "https://github.com/ComPDFKit/compdf-skills"
+  },
+  {
+    "description": "\ud83e\uddf0 Jay's Claude Code toolbox \u2014 hooks, commands, skills & agents",
+    "id": "jyh4358/jay-plugin",
+    "language": "Python",
+    "name": "jyh4358/jay-plugin",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:20:57Z",
+    "url": "https://github.com/jyh4358/jay-plugin"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18446,
+    "updated_at": "2026-08-04T09:18:36Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 50,
+    "updated_at": "2026-08-04T09:17:07Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-08-04T09:16:21Z",
+    "url": "https://github.com/ayukyo/icode-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-04T09:15:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code skill: parametric FDM 3D-print modeling with a headless view-screenshot-iterate loop (trimesh/manifold3d/bui",
+    "id": "m-esm/3d-print-modeling",
+    "language": "Python",
+    "name": "m-esm/3d-print-modeling",
+    "stars": 1,
+    "updated_at": "2026-08-04T09:12:59Z",
+    "url": "https://github.com/m-esm/3d-print-modeling"
   },
   {
     "description": "Claude skills for Shopify \u2014 open-source Claude Code plugin that turns Claude into your daily store operator: morning bri",
@@ -27,24 +243,6 @@
     "url": "https://github.com/storehand/storehand"
   },
   {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 3,
-    "updated_at": "2026-08-04T09:05:13Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
-  },
-  {
-    "description": "MCP server, CLI, and Agent Skills for shared, versioned context across Claude Code, Codex, Cursor, Gemini CLI, humans, a",
-    "id": "44-pixels/handover-mcp",
-    "language": "JavaScript",
-    "name": "44-pixels/handover-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-04T09:03:52Z",
-    "url": "https://github.com/44-pixels/handover-mcp"
-  },
-  {
     "description": "A plumb line finds true vertical by gravity alone. plumb-line is a provenance library and Claude Code plugin that does t",
     "id": "slopstopper/plumb-line",
     "language": "JavaScript",
@@ -52,24 +250,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T09:03:37Z",
     "url": "https://github.com/slopstopper/plumb-line"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 104,
-    "updated_at": "2026-08-04T09:12:57Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "\ud83e\uddf0 Jay's Claude Code toolbox \u2014 hooks, commands, skills & agents",
-    "id": "jyh4358/jay-plugin",
-    "language": "Python",
-    "name": "jyh4358/jay-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-04T09:02:54Z",
-    "url": "https://github.com/jyh4358/jay-plugin"
   },
   {
     "description": "OmniRank -- SEO / AEO / GEO / SMM growth engine for Claude Code and Cursor. v0.1.0 ships two skills: audit (score SEO, A",
@@ -81,24 +261,6 @@
     "url": "https://github.com/bemoshiur/OmniRank"
   },
   {
-    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace",
-    "id": "molefrog/moi",
-    "language": "TypeScript",
-    "name": "molefrog/moi",
-    "stars": 50,
-    "updated_at": "2026-08-04T09:02:03Z",
-    "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-04T09:00:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Vibe Coding Framework - Full SaaS Development Team from A-Z with Brain, Self Improvement, Auto Development",
     "id": "tody-agent/codymaster",
     "language": "Python",
@@ -106,15 +268,6 @@
     "stars": 48,
     "updated_at": "2026-08-04T08:55:30Z",
     "url": "https://github.com/tody-agent/codymaster"
-  },
-  {
-    "description": "Write the rules for your AI agent once, in plain English. Deterministic code checks every tool call, and a Claude Code h",
-    "id": "rmanish2000-del/warrant-mcp",
-    "language": "TypeScript",
-    "name": "rmanish2000-del/warrant-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:53:45Z",
-    "url": "https://github.com/rmanish2000-del/warrant-mcp"
   },
   {
     "description": "Conduct multiple rounds of review and revision of the design and planning documents until all issues are resolved and cl",
@@ -265,7 +418,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67180,
+    "stars": 67183,
     "updated_at": "2026-08-04T08:32:39Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -274,7 +427,7 @@
     "id": "aaron-he-zhu/aaron-marketing-skills",
     "language": "Python",
     "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2502,
+    "stars": 2503,
     "updated_at": "2026-08-04T08:28:54Z",
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
   },
@@ -295,158 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-04T08:25:01Z",
     "url": "https://github.com/sorensensig/ai-corner-store"
-  },
-  {
-    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
-    "id": "Neetx/ai-security-research-radar",
-    "language": "\u2014",
-    "name": "Neetx/ai-security-research-radar",
-    "stars": 4,
-    "updated_at": "2026-08-04T08:24:42Z",
-    "url": "https://github.com/Neetx/ai-security-research-radar"
-  },
-  {
-    "description": "\ud83d\udcfc A declarative AI agent environment manager, written in Rust",
-    "id": "pivoshenko/kasetto",
-    "language": "Rust",
-    "name": "pivoshenko/kasetto",
-    "stars": 119,
-    "updated_at": "2026-08-04T08:23:22Z",
-    "url": "https://github.com/pivoshenko/kasetto"
-  },
-  {
-    "description": "Turn a repeated task into a proper, bounded AI skill with real guardrails and stop conditions, not a one-off prompt. Fre",
-    "id": "shaunmarsden/skill-author",
-    "language": "\u2014",
-    "name": "shaunmarsden/skill-author",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:22:18Z",
-    "url": "https://github.com/shaunmarsden/skill-author"
-  },
-  {
-    "description": "Turn a book you already own into a Claude skill: a short index plus one file per chapter, loaded only when needed. Free,",
-    "id": "shaunmarsden/book-to-skill",
-    "language": "\u2014",
-    "name": "shaunmarsden/book-to-skill",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:22:18Z",
-    "url": "https://github.com/shaunmarsden/book-to-skill"
-  },
-  {
-    "description": "Explains what Claude Code changed, why it chose that approach, what's still unfinished, and what you should do next.",
-    "id": "delpicorp/dev-report",
-    "language": "\u2014",
-    "name": "delpicorp/dev-report",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:14:26Z",
-    "url": "https://github.com/delpicorp/dev-report"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-08-04T08:13:49Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Claude Code skills and sync tooling for Asana-based studio project management.",
-    "id": "markbaindesign/bain-studio",
-    "language": "Python",
-    "name": "markbaindesign/bain-studio",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:14:33Z",
-    "url": "https://github.com/markbaindesign/bain-studio"
-  },
-  {
-    "description": "Claude Code skill: interface microcopy rules plus an AI-tell strip pass for buttons and errors",
-    "id": "humbleteam/ux-writing",
-    "language": "\u2014",
-    "name": "humbleteam/ux-writing",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:09:36Z",
-    "url": "https://github.com/humbleteam/ux-writing"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-04T08:06:42Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Fifteen Claude Code skills that run a quantitative UX/CX/market-research study end to end \u2014 robust statistics in R, inte",
-    "id": "JSerek/quant-skills",
-    "language": "Python",
-    "name": "JSerek/quant-skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T08:03:41Z",
-    "url": "https://github.com/JSerek/quant-skills"
-  },
-  {
-    "description": "Optimized GitHub skill for coding agents: fewer tool calls, less context burned, lower cost, faster answers. One bounded",
-    "id": "AVGVSTVS96/better-github-skill",
-    "language": "JavaScript",
-    "name": "AVGVSTVS96/better-github-skill",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:59:04Z",
-    "url": "https://github.com/AVGVSTVS96/better-github-skill"
-  },
-  {
-    "description": "Teach any AI agent to read live crypto whale flow like a trader. No API key required.",
-    "id": "CoinLobster/agent-skills",
-    "language": "JavaScript",
-    "name": "CoinLobster/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:56:25Z",
-    "url": "https://github.com/CoinLobster/agent-skills"
-  },
-  {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 3479,
-    "updated_at": "2026-08-04T07:54:57Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
-    "description": "Find design token drift in a codebase: raw hex colors, off-scale spacing, near-duplicate values",
-    "id": "humbleteam/audit-design-tokens",
-    "language": "\u2014",
-    "name": "humbleteam/audit-design-tokens",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:49:13Z",
-    "url": "https://github.com/humbleteam/audit-design-tokens"
-  },
-  {
-    "description": "Cognitive translation layer for Claude Code",
-    "id": "khujta/gabe-suite",
-    "language": "HTML",
-    "name": "khujta/gabe-suite",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:47:30Z",
-    "url": "https://github.com/khujta/gabe-suite"
-  },
-  {
-    "description": "Future-first skill for writing modern Svelte 5 and SvelteKit 2 code with AI agents.",
-    "id": "fifidayone/svelte-edge",
-    "language": "\u2014",
-    "name": "fifidayone/svelte-edge",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:40:26Z",
-    "url": "https://github.com/fifidayone/svelte-edge"
-  },
-  {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1641,
-    "updated_at": "2026-08-04T07:40:05Z",
-    "url": "https://github.com/a5c-ai/babysitter"
   }
 ]
