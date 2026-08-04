@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 20:43 UTC
+> ⏰ Last updated: 2026-08-04 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-04 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 2 | [Anchras/terminalbox-tools](https://github.com/Anchras/terminalbox-tools) | 0 | — | 2026-08-04 | Free, trust-first Claude Code workflow-fit tools from Terminalbox. |
-| 3 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 103 | Kotlin | 2026-08-04 | Helping the Agents Compose the Things |
-| 4 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-04 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 5 | [munexor/seo-opportunity-nexus](https://github.com/munexor/seo-opportunity-nexus) | 0 | HTML | 2026-08-04 | SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools |
-| 6 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-08-04 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
-| 7 | [RiskAverseTech/createa-meme-skill](https://github.com/RiskAverseTech/createa-meme-skill) | 0 | — | 2026-08-04 | Make a meme from one sentence — in Claude Code, Cursor, or any MCP agent. Powered by Create a Meme. |
-| 8 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 1 | HTML | 2026-08-04 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
-| 9 | [HarishDvs/Grizzly](https://github.com/HarishDvs/Grizzly) | 1 | PowerShell | 2026-08-04 | An open editor-in-a-skill for fiction writers. Diagnosis, structure, and memory. The author keeps the pen. |
-| 10 | [agents-inc/agents-inc](https://github.com/agents-inc/agents-inc) | 5 | TypeScript | 2026-08-04 | An agent composition framework that builds stacks and compiles specialized subagents for Claude Code |
-| 11 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 21 | Python | 2026-08-04 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 21 | Python | 2026-08-04 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [Anchras/terminalbox-tools](https://github.com/Anchras/terminalbox-tools) | 0 | — | 2026-08-04 | Free, trust-first repository fit audits for GitHub Copilot and Claude Code. |
+| 3 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-04 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 4 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 103 | Kotlin | 2026-08-04 | Helping the Agents Compose the Things |
+| 5 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-04 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 6 | [munexor/seo-opportunity-nexus](https://github.com/munexor/seo-opportunity-nexus) | 0 | HTML | 2026-08-04 | SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools |
+| 7 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-08-04 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
+| 8 | [RiskAverseTech/createa-meme-skill](https://github.com/RiskAverseTech/createa-meme-skill) | 0 | — | 2026-08-04 | Make a meme from one sentence — in Claude Code, Cursor, or any MCP agent. Powered by Create a Meme. |
+| 9 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 1 | HTML | 2026-08-04 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
+| 10 | [HarishDvs/Grizzly](https://github.com/HarishDvs/Grizzly) | 1 | PowerShell | 2026-08-04 | An open editor-in-a-skill for fiction writers. Diagnosis, structure, and memory. The author keeps the pen. |
+| 11 | [agents-inc/agents-inc](https://github.com/agents-inc/agents-inc) | 5 | TypeScript | 2026-08-04 | An agent composition framework that builds stacks and compiles specialized subagents for Claude Code |
 | 12 | [helius-labs/core-ai](https://github.com/helius-labs/core-ai) | 24 | TypeScript | 2026-08-04 | Official Helius AI tooling repository  |
 | 13 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-08-04 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
 | 14 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-08-04 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
