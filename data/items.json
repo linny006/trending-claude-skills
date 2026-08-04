@@ -1,5 +1,86 @@
 [
   {
+    "description": "A client-ready CSV onboarding assistant that profiles messy data, detects quality issues, explains findings in plain lan",
+    "id": "JuanBap/keyrus_data",
+    "language": "TypeScript",
+    "name": "JuanBap/keyrus_data",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:58:32Z",
+    "url": "https://github.com/JuanBap/keyrus_data"
+  },
+  {
+    "description": "Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio",
+    "id": "handcraftedbygod/SkillTrace",
+    "language": "Python",
+    "name": "handcraftedbygod/SkillTrace",
+    "stars": 1,
+    "updated_at": "2026-08-04T15:56:50Z",
+    "url": "https://github.com/handcraftedbygod/SkillTrace"
+  },
+  {
+    "description": "Evidence-bounded skill for drafting, rewriting, humanizing, and auditing IEEE/ACM engineering manuscripts.",
+    "id": "huguryildiz/ieee-acm-paper-writing",
+    "language": "HTML",
+    "name": "huguryildiz/ieee-acm-paper-writing",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:55:08Z",
+    "url": "https://github.com/huguryildiz/ieee-acm-paper-writing"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:54:30Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
+    "id": "worldwonderer/novel-to-game",
+    "language": "Markdown",
+    "name": "worldwonderer/novel-to-game",
+    "stars": 556,
+    "updated_at": "2026-08-04T15:53:33Z",
+    "url": "https://github.com/worldwonderer/novel-to-game"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 3,
+    "updated_at": "2026-08-04T15:52:15Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 30,
+    "updated_at": "2026-08-04T15:48:34Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
+    "description": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: posit",
+    "id": "AIDevGTM/gtm-cofounder",
+    "language": "\u2014",
+    "name": "AIDevGTM/gtm-cofounder",
+    "stars": 47,
+    "updated_at": "2026-08-04T15:48:21Z",
+    "url": "https://github.com/AIDevGTM/gtm-cofounder"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-04T15:45:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -14,8 +95,17 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 18451,
-    "updated_at": "2026-08-04T15:42:03Z",
+    "updated_at": "2026-08-04T15:58:41Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 5025,
+    "updated_at": "2026-08-04T15:58:55Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -31,18 +121,9 @@
     "id": "dxkjuanjuan/juanjuan-team",
     "language": "Shell",
     "name": "dxkjuanjuan/juanjuan-team",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-04T15:40:14Z",
     "url": "https://github.com/dxkjuanjuan/juanjuan-team"
-  },
-  {
-    "description": "Evidence-bounded skill for drafting, rewriting, humanizing, and auditing IEEE/ACM engineering manuscripts.",
-    "id": "huguryildiz/ieee-acm-paper-writing",
-    "language": "HTML",
-    "name": "huguryildiz/ieee-acm-paper-writing",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:39:05Z",
-    "url": "https://github.com/huguryildiz/ieee-acm-paper-writing"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -70,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T15:36:21Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-04T15:35:32Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "My personal agent skill repository, primarily focused on game development.",
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "fcakyon/claude-codex-settings",
     "stars": 967,
-    "updated_at": "2026-08-04T15:43:36Z",
+    "updated_at": "2026-08-04T15:46:19Z",
     "url": "https://github.com/fcakyon/claude-codex-settings"
   },
   {
@@ -223,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T15:22:53Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: posit",
-    "id": "AIDevGTM/gtm-cofounder",
-    "language": "\u2014",
-    "name": "AIDevGTM/gtm-cofounder",
-    "stars": 47,
-    "updated_at": "2026-08-04T15:22:10Z",
-    "url": "https://github.com/AIDevGTM/gtm-cofounder"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T14:55:03Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 90,
-    "updated_at": "2026-08-04T14:44:56Z",
-    "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "Read interest rates, exchange rates, prices, GDP, and other economic statistics from the Bank of Korea's ECOS (\uacbd\uc81c\ud1b5\uacc4\uc2dc\uc2a4\ud15c).",
-    "id": "seokhoonj/pyecos",
-    "language": "Python",
-    "name": "seokhoonj/pyecos",
-    "stars": 0,
-    "updated_at": "2026-08-04T14:47:31Z",
-    "url": "https://github.com/seokhoonj/pyecos"
-  },
-  {
-    "description": "AI product manager skills for Codex/Claude: brainstorming, product research, PRD workflows, requirements review, and pla",
-    "id": "PANGKAIFENG/ai-product-manager-skills",
-    "language": "Python",
-    "name": "PANGKAIFENG/ai-product-manager-skills",
-    "stars": 4,
-    "updated_at": "2026-08-04T14:41:53Z",
-    "url": "https://github.com/PANGKAIFENG/ai-product-manager-skills"
-  },
-  {
-    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-08-04T14:40:06Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "Bring DataRobot platform capabilities to your coding agents",
-    "id": "datarobot-oss/datarobot-agent-skills",
-    "language": "Python",
-    "name": "datarobot-oss/datarobot-agent-skills",
-    "stars": 23,
-    "updated_at": "2026-08-04T14:56:25Z",
-    "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-04T14:34:59Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Your agent reads the rules. This checks whether it followed them.",
-    "id": "0xwilliamortiz/ratchet",
-    "language": "JavaScript",
-    "name": "0xwilliamortiz/ratchet",
-    "stars": 429,
-    "updated_at": "2026-08-04T14:33:51Z",
-    "url": "https://github.com/0xwilliamortiz/ratchet"
   }
 ]
