@@ -1,5 +1,32 @@
 [
   {
+    "description": "A visual interface for building software with Claude Code/Codex.",
+    "id": "Cavalry-Collective/visual-stack",
+    "language": "HTML",
+    "name": "Cavalry-Collective/visual-stack",
+    "stars": 2,
+    "updated_at": "2026-08-04T05:33:04Z",
+    "url": "https://github.com/Cavalry-Collective/visual-stack"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 95,
+    "updated_at": "2026-08-04T05:31:24Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-04T05:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
     "id": "sumitake/agent-collab",
     "language": "Python",
@@ -45,29 +72,11 @@
     "url": "https://github.com/deepaksinghcs14/deadeye-cc"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 95,
-    "updated_at": "2026-08-04T05:27:21Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-04T05:15:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67173,
+    "stars": 67174,
     "updated_at": "2026-08-04T05:12:22Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -77,7 +86,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 104,
-    "updated_at": "2026-08-04T05:29:54Z",
+    "updated_at": "2026-08-04T05:31:50Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "tody-agent/codymaster",
     "stars": 48,
-    "updated_at": "2026-08-04T05:01:42Z",
+    "updated_at": "2026-08-04T05:31:31Z",
     "url": "https://github.com/tody-agent/codymaster"
   },
   {
@@ -324,15 +333,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "A visual interface for building software with Claude Code/Codex.",
-    "id": "Cavalry-Collective/visual-stack",
-    "language": "HTML",
-    "name": "Cavalry-Collective/visual-stack",
-    "stars": 2,
-    "updated_at": "2026-08-04T04:19:51Z",
-    "url": "https://github.com/Cavalry-Collective/visual-stack"
-  },
-  {
     "description": "Evidence-bounded skill for drafting, rewriting, humanizing, and auditing IEEE/ACM engineering manuscripts.",
     "id": "huguryildiz/ieee-acm-paper-writing",
     "language": "HTML",
@@ -410,7 +410,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30423,
-    "updated_at": "2026-08-04T05:24:42Z",
+    "updated_at": "2026-08-04T05:32:46Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
