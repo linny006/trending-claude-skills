@@ -1,5 +1,86 @@
 [
   {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 4,
+    "updated_at": "2026-08-05T05:12:13Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2123,
+    "updated_at": "2026-08-05T05:11:21Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 95,
+    "updated_at": "2026-08-05T05:12:13Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 17,
+    "updated_at": "2026-08-05T05:09:55Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 21,
+    "updated_at": "2026-08-05T05:08:28Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
+    "id": "ndisisnd/msg",
+    "language": "Shell",
+    "name": "ndisisnd/msg",
+    "stars": 5,
+    "updated_at": "2026-08-05T05:04:35Z",
+    "url": "https://github.com/ndisisnd/msg"
+  },
+  {
+    "description": "A repository for skills that are essential to my daily work",
+    "id": "tamdogood/builder-essential-skills",
+    "language": "Python",
+    "name": "tamdogood/builder-essential-skills",
+    "stars": 92,
+    "updated_at": "2026-08-05T05:04:23Z",
+    "url": "https://github.com/tamdogood/builder-essential-skills"
+  },
+  {
+    "description": "Like everyone else, I'm sharing my agent stuff.",
+    "id": "msewell/agent-stuff",
+    "language": "TypeScript",
+    "name": "msewell/agent-stuff",
+    "stars": 0,
+    "updated_at": "2026-08-05T05:02:00Z",
+    "url": "https://github.com/msewell/agent-stuff"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T05:00:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
     "id": "filippolmt/skills",
     "language": "JavaScript",
@@ -14,7 +95,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-05T04:59:21Z",
+    "updated_at": "2026-08-05T05:12:03Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -49,7 +130,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 4746,
+    "stars": 4748,
     "updated_at": "2026-08-05T04:54:56Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -77,7 +158,7 @@
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 20,
-    "updated_at": "2026-08-05T04:48:17Z",
+    "updated_at": "2026-08-05T05:11:01Z",
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
@@ -90,21 +171,12 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-05T04:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
     "id": "arbiterForge/codeArbiter",
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 138,
-    "updated_at": "2026-08-05T04:45:03Z",
+    "updated_at": "2026-08-05T05:02:55Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -122,7 +194,7 @@
     "language": "JavaScript",
     "name": "johanthoren/jeff",
     "stars": 2,
-    "updated_at": "2026-08-05T04:42:19Z",
+    "updated_at": "2026-08-05T05:13:50Z",
     "url": "https://github.com/johanthoren/jeff"
   },
   {
@@ -130,7 +202,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 3554,
+    "stars": 3555,
     "updated_at": "2026-08-05T04:39:33Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -169,15 +241,6 @@
     "stars": 91,
     "updated_at": "2026-08-05T04:32:03Z",
     "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
-    "id": "ndisisnd/msg",
-    "language": "Shell",
-    "name": "ndisisnd/msg",
-    "stars": 5,
-    "updated_at": "2026-08-05T04:30:23Z",
-    "url": "https://github.com/ndisisnd/msg"
   },
   {
     "description": "Build Claude skills, and find out whether they actually help. A rewritten derivative of Anthropic's skill-creator, with ",
@@ -385,68 +448,5 @@
     "stars": 41,
     "updated_at": "2026-08-05T04:03:40Z",
     "url": "https://github.com/markifact/markifact-mcp"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 4,
-    "updated_at": "2026-08-05T04:06:33Z",
-    "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 416,
-    "updated_at": "2026-08-05T04:11:43Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:58:36Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
-    "id": "ramboz/jig",
-    "language": "Python",
-    "name": "ramboz/jig",
-    "stars": 4,
-    "updated_at": "2026-08-05T03:58:19Z",
-    "url": "https://github.com/ramboz/jig"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-05T03:56:50Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 4,
-    "updated_at": "2026-08-05T04:56:32Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-05T03:55:40Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
