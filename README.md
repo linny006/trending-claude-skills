@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 11:29 UTC
+> ⏰ Last updated: 2026-08-05 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-05 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 2 | [shortcuts/radin](https://github.com/shortcuts/radin) | 4 | Shell | 2026-08-05 | 🐀 the agentic stack for those who have to save tokens |
-| 3 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67274 | TypeScript | 2026-08-05 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 4 | [JBSag/pm-artisan](https://github.com/JBSag/pm-artisan) | 1 | HTML | 2026-08-05 | 15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly |
-| 5 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 30438 | TypeScript | 2026-08-05 | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco |
-| 6 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-08-05 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
-| 7 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 103 | Kotlin | 2026-08-05 | Helping the Agents Compose the Things |
-| 8 | [mimukit/skills](https://github.com/mimukit/skills) | 0 | Shell | 2026-08-05 | My personal collection of AI agent skills; the *kit family. Portable, one install away. |
-| 9 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 5068 | Python | 2026-08-05 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
-| 10 | [alexgreensh/repo-forensics](https://github.com/alexgreensh/repo-forensics) | 146 | Python | 2026-08-05 | Offline security scanner for AI-agent repos, skills, plugins, and MCP servers. |
-| 11 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 21 | Python | 2026-08-05 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 21 | Python | 2026-08-05 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-05 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 3 | [shortcuts/radin](https://github.com/shortcuts/radin) | 4 | Shell | 2026-08-05 | 🐀 the agentic stack for those who have to save tokens |
+| 4 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67274 | TypeScript | 2026-08-05 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 5 | [JBSag/pm-artisan](https://github.com/JBSag/pm-artisan) | 1 | HTML | 2026-08-05 | 15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly |
+| 6 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 30438 | TypeScript | 2026-08-05 | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco |
+| 7 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-08-05 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
+| 8 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 103 | Kotlin | 2026-08-05 | Helping the Agents Compose the Things |
+| 9 | [mimukit/skills](https://github.com/mimukit/skills) | 0 | Shell | 2026-08-05 | My personal collection of AI agent skills; the *kit family. Portable, one install away. |
+| 10 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 5068 | Python | 2026-08-05 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
+| 11 | [alexgreensh/repo-forensics](https://github.com/alexgreensh/repo-forensics) | 146 | Python | 2026-08-05 | Offline security scanner for AI-agent repos, skills, plugins, and MCP servers. |
 | 12 | [kiraak-h/adsense-compliance-auditor](https://github.com/kiraak-h/adsense-compliance-auditor) | 0 | JavaScript | 2026-08-05 | Dynamic Claude AI skill engine for web and mobile app monetization auditing. Automates layout safety analysis, ads.txt v |
 | 13 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 2 | HTML | 2026-08-05 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
 | 14 | [isatimur/excalidraw-skill-pack](https://github.com/isatimur/excalidraw-skill-pack) | 0 | TypeScript | 2026-08-05 | Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin |
