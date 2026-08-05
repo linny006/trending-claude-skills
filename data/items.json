@@ -1,5 +1,95 @@
 [
   {
+    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
+    "id": "natthasath/natthasath-marketplace",
+    "language": "HTML",
+    "name": "natthasath/natthasath-marketplace",
+    "stars": 1,
+    "updated_at": "2026-08-05T08:43:28Z",
+    "url": "https://github.com/natthasath/natthasath-marketplace"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 51,
+    "updated_at": "2026-08-05T08:43:27Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "This is an AI coding agent Skill that provides framework-agnostic project memory, enabling agents to preserve architectu",
+    "id": "TheaDust/lore",
+    "language": "Python",
+    "name": "TheaDust/lore",
+    "stars": 1,
+    "updated_at": "2026-08-05T08:41:44Z",
+    "url": "https://github.com/TheaDust/lore"
+  },
+  {
+    "description": "A powerful plugin for Claude Cowork Desktop, designed specifically for Swiss legal professionals. 20 agents,  14 skills,",
+    "id": "fedec65/bettercallclaude",
+    "language": "JavaScript",
+    "name": "fedec65/bettercallclaude",
+    "stars": 35,
+    "updated_at": "2026-08-05T08:41:29Z",
+    "url": "https://github.com/fedec65/bettercallclaude"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-05T08:40:53Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:36:33Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 4,
+    "updated_at": "2026-08-05T08:33:46Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "An extensible, flat AI Skills Registry for Claude Code, OpenCode, Codex, and Copilot. Pre-configured for Magento 2 and G",
+    "id": "ddtcorex/dev-skills-hub",
+    "language": "Shell",
+    "name": "ddtcorex/dev-skills-hub",
+    "stars": 2,
+    "updated_at": "2026-08-05T08:33:46Z",
+    "url": "https://github.com/ddtcorex/dev-skills-hub"
+  },
+  {
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
+    "language": "Shell",
+    "name": "mimukit/skills",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:31:10Z",
+    "url": "https://github.com/mimukit/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T08:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
     "id": "aaron-he-zhu/aaron-marketing-skills",
     "language": "Python",
@@ -63,15 +153,6 @@
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 103,
-    "updated_at": "2026-08-05T08:29:36Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Dynamic Claude AI skill engine for web and mobile app monetization auditing. Automates layout safety analysis, ads.txt v",
     "id": "kiraak-h/adsense-compliance-auditor",
     "language": "HTML",
@@ -90,22 +171,13 @@
     "url": "https://github.com/davejj1530/planflow-greenlight"
   },
   {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 4,
-    "updated_at": "2026-08-05T08:17:59Z",
-    "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 0,
-    "updated_at": "2026-08-05T08:16:42Z",
-    "url": "https://github.com/mimukit/skills"
+    "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 23844,
+    "updated_at": "2026-08-05T08:17:17Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -115,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-08-05T08:15:55Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-05T08:15:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
@@ -144,24 +207,6 @@
     "url": "https://github.com/amyheritage/indigenous-cultural-alignment"
   },
   {
-    "description": "An extensible, flat AI Skills Registry for Claude Code, OpenCode, Codex, and Copilot. Pre-configured for Magento 2 and G",
-    "id": "ddtcorex/dev-skills-hub",
-    "language": "Shell",
-    "name": "ddtcorex/dev-skills-hub",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:09:05Z",
-    "url": "https://github.com/ddtcorex/dev-skills-hub"
-  },
-  {
-    "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 23842,
-    "updated_at": "2026-08-05T08:17:17Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
     "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
     "id": "jonaskahn/docforge",
     "language": "Python",
@@ -171,13 +216,13 @@
     "url": "https://github.com/jonaskahn/docforge"
   },
   {
-    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
-    "id": "natthasath/natthasath-marketplace",
-    "language": "HTML",
-    "name": "natthasath/natthasath-marketplace",
-    "stars": 1,
-    "updated_at": "2026-08-05T08:29:41Z",
-    "url": "https://github.com/natthasath/natthasath-marketplace"
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 95,
+    "updated_at": "2026-08-05T08:03:59Z",
+    "url": "https://github.com/crabbuild/compass"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -252,6 +297,15 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18470,
+    "updated_at": "2026-08-05T07:55:28Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
     "description": "",
     "id": "naveedharri/benai-skills",
     "language": "JavaScript",
@@ -261,21 +315,12 @@
     "url": "https://github.com/naveedharri/benai-skills"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18469,
-    "updated_at": "2026-08-05T07:55:28Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "Claude skills for Shopify \u2014 open-source Claude Code plugin that turns Claude into your daily store operator: morning bri",
     "id": "storehand/storehand",
     "language": "JavaScript",
     "name": "storehand/storehand",
     "stars": 1,
-    "updated_at": "2026-08-05T07:46:26Z",
+    "updated_at": "2026-08-05T08:43:40Z",
     "url": "https://github.com/storehand/storehand"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/bemoshiur/OmniRank"
   },
   {
-    "description": "This is an AI coding agent Skill that provides framework-agnostic project memory, enabling agents to preserve architectu",
-    "id": "TheaDust/lore",
-    "language": "Python",
-    "name": "TheaDust/lore",
-    "stars": 1,
-    "updated_at": "2026-08-05T07:40:58Z",
-    "url": "https://github.com/TheaDust/lore"
-  },
-  {
     "description": "AI Corner Store \ud83c\udfea \u2014 a small, curated shop of AI skills, plugins, and bundles for Claude. One folder per release, each in",
     "id": "sorensensig/ai-corner-store",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-05T07:38:44Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-08-05T07:38:21Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
-    "id": "konglong87/superPM",
-    "language": "JavaScript",
-    "name": "konglong87/superPM",
-    "stars": 46,
-    "updated_at": "2026-08-05T07:38:09Z",
-    "url": "https://github.com/konglong87/superPM"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-05T07:37:21Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "GTM, pricing & persona skill pack for Claude Code \u2014 ship what you build to the people who need it. Extends gstack.",
-    "id": "Yosei-Lab-ai/Miraiji",
-    "language": "Shell",
-    "name": "Yosei-Lab-ai/Miraiji",
-    "stars": 0,
-    "updated_at": "2026-08-05T07:35:27Z",
-    "url": "https://github.com/Yosei-Lab-ai/Miraiji"
   }
 ]
