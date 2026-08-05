@@ -1,5 +1,77 @@
 [
   {
+    "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
+    "id": "wyre-technology/msp-claude-plugins",
+    "language": "Astro",
+    "name": "wyre-technology/msp-claude-plugins",
+    "stars": 39,
+    "updated_at": "2026-08-05T14:29:28Z",
+    "url": "https://github.com/wyre-technology/msp-claude-plugins"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 3,
+    "updated_at": "2026-08-05T14:25:40Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 1,
+    "updated_at": "2026-08-05T14:21:53Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 3594,
+    "updated_at": "2026-08-05T14:21:44Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-08-05T14:21:19Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 51,
+    "updated_at": "2026-08-05T14:20:25Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-08-05T14:16:13Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T14:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
     "id": "ikaijua/Awesome-AITools",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-08-05T14:06:48Z",
+    "updated_at": "2026-08-05T14:27:38Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -54,21 +126,12 @@
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-05T14:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
     "id": "worldwonderer/oh-story-claudecode",
     "language": "JavaScript",
     "name": "worldwonderer/oh-story-claudecode",
     "stars": 5087,
-    "updated_at": "2026-08-05T14:06:50Z",
+    "updated_at": "2026-08-05T14:15:29Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
   },
   {
@@ -77,7 +140,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-05T13:58:03Z",
+    "updated_at": "2026-08-05T14:24:17Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -184,7 +247,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 18475,
+    "stars": 18476,
     "updated_at": "2026-08-05T13:44:33Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -257,7 +320,7 @@
     "language": "Python",
     "name": "sorensensig/ai-corner-store",
     "stars": 9,
-    "updated_at": "2026-08-05T13:19:40Z",
+    "updated_at": "2026-08-05T14:21:46Z",
     "url": "https://github.com/sorensensig/ai-corner-store"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T13:00:41Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "This skill creates other skills that follow the same standard and conventions.",
-    "id": "zseta/skill-writer",
-    "language": "Python",
-    "name": "zseta/skill-writer",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:59:26Z",
-    "url": "https://github.com/zseta/skill-writer"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 237,
-    "updated_at": "2026-08-05T13:00:41Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 113 Checks \u00b7 1",
-    "id": "malkreide/mcp-audit-skill",
-    "language": "Python",
-    "name": "malkreide/mcp-audit-skill",
-    "stars": 1,
-    "updated_at": "2026-08-05T13:39:28Z",
-    "url": "https://github.com/malkreide/mcp-audit-skill"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:57:37Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:57:28Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-05T12:57:10Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:55:53Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
   }
 ]
