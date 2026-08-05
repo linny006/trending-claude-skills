@@ -1,5 +1,32 @@
 [
   {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 3,
+    "updated_at": "2026-08-05T09:07:32Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
+    "id": "natthasath/natthasath-marketplace",
+    "language": "HTML",
+    "name": "natthasath/natthasath-marketplace",
+    "stars": 1,
+    "updated_at": "2026-08-05T09:01:37Z",
+    "url": "https://github.com/natthasath/natthasath-marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T09:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Find out what your coding agents already know. Docmancer indexes the memory, rules, and instructions Claude Code, Codex,",
     "id": "docmancer/docmancer",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "\u2014",
     "name": "Kianibound/nestjs-playbook-skill",
     "stars": 0,
-    "updated_at": "2026-08-05T08:55:43Z",
+    "updated_at": "2026-08-05T09:04:08Z",
     "url": "https://github.com/Kianibound/nestjs-playbook-skill"
   },
   {
@@ -34,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T08:55:04Z",
     "url": "https://github.com/humbleteam/audit-design-tokens"
-  },
-  {
-    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
-    "id": "natthasath/natthasath-marketplace",
-    "language": "HTML",
-    "name": "natthasath/natthasath-marketplace",
-    "stars": 1,
-    "updated_at": "2026-08-05T08:54:53Z",
-    "url": "https://github.com/natthasath/natthasath-marketplace"
   },
   {
     "description": "Pre-ship design QA gate - contrast, touch targets, keyboard paths, breakpoints for any screen before it merges",
@@ -90,13 +108,13 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-05T08:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 96,
+    "updated_at": "2026-08-05T08:45:59Z",
+    "url": "https://github.com/crabbuild/compass"
   },
   {
     "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tastefu",
@@ -158,7 +176,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-05T08:51:37Z",
+    "updated_at": "2026-08-05T09:00:50Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-08-05T08:50:01Z",
+    "updated_at": "2026-08-05T09:03:37Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -313,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T08:05:53Z",
     "url": "https://github.com/jonaskahn/docforge"
-  },
-  {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 95,
-    "updated_at": "2026-08-05T08:45:59Z",
-    "url": "https://github.com/crabbuild/compass"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T07:43:34Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-08-05T07:43:21Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   }
 ]
