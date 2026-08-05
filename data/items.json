@@ -1,11 +1,119 @@
 [
   {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 4,
+    "updated_at": "2026-08-05T02:59:13Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 1,
+    "updated_at": "2026-08-05T02:56:06Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "Make a meme from one sentence \u2014 in Claude Code, Cursor, or any MCP agent. Powered by Create a Meme.",
+    "id": "RiskAverseTech/createa-meme-skill",
+    "language": "\u2014",
+    "name": "RiskAverseTech/createa-meme-skill",
+    "stars": 0,
+    "updated_at": "2026-08-05T02:55:32Z",
+    "url": "https://github.com/RiskAverseTech/createa-meme-skill"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-08-05T02:54:39Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "Skill \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 (Claude Code, Codex, OpenClaw, Hermes): \u0443\u0431\u0438\u0440\u0430\u0435\u0442 37 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u043e\u0432 AI-\u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430 \u0438 \u043f\u0440\u043e\u0432",
+    "id": "smixs/humanizer-ru",
+    "language": "Python",
+    "name": "smixs/humanizer-ru",
+    "stars": 122,
+    "updated_at": "2026-08-05T02:53:17Z",
+    "url": "https://github.com/smixs/humanizer-ru"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-05T02:52:44Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 agents + 11 phases + Hook enforcement + 9 sig",
+    "id": "dxkjuanjuan/juanjuan-team",
+    "language": "Shell",
+    "name": "dxkjuanjuan/juanjuan-team",
+    "stars": 3,
+    "updated_at": "2026-08-05T02:52:08Z",
+    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
+  },
+  {
+    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 416,
+    "updated_at": "2026-08-05T02:50:11Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tastefu",
+    "id": "superdesigndev/superdesign-skill",
+    "language": "\u2014",
+    "name": "superdesigndev/superdesign-skill",
+    "stars": 381,
+    "updated_at": "2026-08-05T02:49:20Z",
+    "url": "https://github.com/superdesigndev/superdesign-skill"
+  },
+  {
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "id": "ayghri/i-have-adhd",
+    "language": "Python",
+    "name": "ayghri/i-have-adhd",
+    "stars": 16825,
+    "updated_at": "2026-08-05T02:46:10Z",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "description": "Run local projects on real *.test domains",
+    "id": "mindantic/localrun",
+    "language": "TypeScript",
+    "name": "mindantic/localrun",
+    "stars": 1,
+    "updated_at": "2026-08-05T02:46:48Z",
+    "url": "https://github.com/mindantic/localrun"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T02:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-08-05T02:44:48Z",
+    "updated_at": "2026-08-05T02:51:56Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -16,15 +124,6 @@
     "stars": 48,
     "updated_at": "2026-08-05T02:43:43Z",
     "url": "https://github.com/Yuki001/game-dev-skills"
-  },
-  {
-    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 agents + 11 phases + Hook enforcement + 9 sig",
-    "id": "dxkjuanjuan/juanjuan-team",
-    "language": "Shell",
-    "name": "dxkjuanjuan/juanjuan-team",
-    "stars": 3,
-    "updated_at": "2026-08-05T02:43:01Z",
-    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
   },
   {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
@@ -45,13 +144,13 @@
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 416,
-    "updated_at": "2026-08-05T02:44:34Z",
-    "url": "https://github.com/boshu2/agentops"
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18461,
+    "updated_at": "2026-08-05T02:55:52Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "AI \u89c6\u9891\u4e0e\u81ea\u5a92\u4f53\u9886\u57df\u7684 Claude Code skills\u3001Openclaw skills, MCP \u670d\u52a1\u5668\u3001AI Agent \u80fd\u529b\u7cbe\u9009\u5408\u96c6 \u2014 \u6db5\u76d6\u89c6\u9891\u751f\u6210\u3001\u591a\u5e73\u53f0\u8fd0\u8425\u3001\u5185\u5bb9\u81ea\u52a8\u5316\u7b49\u3002",
@@ -79,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T02:31:52Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-05T02:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -124,15 +214,6 @@
     "stars": 20,
     "updated_at": "2026-08-05T02:20:25Z",
     "url": "https://github.com/ColinVaughn/Synaptic"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-05T02:17:46Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -216,15 +297,6 @@
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18460,
-    "updated_at": "2026-08-05T02:36:13Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "MCP server, CLI, and Agent Skills for shared, versioned context across Claude Code, Codex, Cursor, Gemini CLI, humans, a",
     "id": "44-pixels/handover-mcp",
     "language": "JavaScript",
@@ -238,7 +310,7 @@
     "id": "worldwonderer/novel-to-game",
     "language": "Markdown",
     "name": "worldwonderer/novel-to-game",
-    "stars": 561,
+    "stars": 562,
     "updated_at": "2026-08-05T01:52:40Z",
     "url": "https://github.com/worldwonderer/novel-to-game"
   },
@@ -351,15 +423,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 4,
-    "updated_at": "2026-08-05T02:31:02Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
     "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
     "id": "fabioc-aloha/Alex_Skill_Mall",
     "language": "JavaScript",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-05T01:03:29Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-05T01:03:19Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-05T00:59:12Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:59:04Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "A Claude skill that turns a folder into a collaboration knowledge base for you, your AI, and your humans",
-    "id": "idea2go2go/smartfolder-skill",
-    "language": "Python",
-    "name": "idea2go2go/smartfolder-skill",
-    "stars": 3,
-    "updated_at": "2026-08-05T00:57:20Z",
-    "url": "https://github.com/idea2go2go/smartfolder-skill"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 1,
-    "updated_at": "2026-08-05T00:52:28Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-05T00:51:00Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Autonomous audit-fix-verify loop for Claude Code. Run against 17 open source projects in 8 languages, 16 converged, 3 fi",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 5,
-    "updated_at": "2026-08-05T00:47:52Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
   }
 ]
