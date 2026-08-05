@@ -1,12 +1,39 @@
 [
   {
-    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
-    "id": "RemiAsselin42/claude-config",
-    "language": "Shell",
-    "name": "RemiAsselin42/claude-config",
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18473,
+    "updated_at": "2026-08-05T12:43:57Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Unofficial Filament admin-panel design system for Claude Design \u2014 78 React components, design tokens, and a full click-t",
+    "id": "Hussam3bd/filamentphp-claude-design-system",
+    "language": "JavaScript",
+    "name": "Hussam3bd/filamentphp-claude-design-system",
     "stars": 0,
-    "updated_at": "2026-08-05T12:27:44Z",
-    "url": "https://github.com/RemiAsselin42/claude-config"
+    "updated_at": "2026-08-05T12:43:22Z",
+    "url": "https://github.com/Hussam3bd/filamentphp-claude-design-system"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 406,
+    "updated_at": "2026-08-05T12:42:04Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tastefu",
+    "id": "superdesigndev/superdesign-skill",
+    "language": "\u2014",
+    "name": "superdesigndev/superdesign-skill",
+    "stars": 383,
+    "updated_at": "2026-08-05T12:39:30Z",
+    "url": "https://github.com/superdesigndev/superdesign-skill"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -14,8 +41,53 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-05T12:29:24Z",
+    "updated_at": "2026-08-05T12:42:17Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enfor",
+    "id": "Optim-Agent/optim-plans",
+    "language": "Python",
+    "name": "Optim-Agent/optim-plans",
+    "stars": 315,
+    "updated_at": "2026-08-05T12:35:57Z",
+    "url": "https://github.com/Optim-Agent/optim-plans"
+  },
+  {
+    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 113 Checks \u00b7 1",
+    "id": "malkreide/mcp-audit-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-audit-skill",
+    "stars": 1,
+    "updated_at": "2026-08-05T12:35:38Z",
+    "url": "https://github.com/malkreide/mcp-audit-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T12:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-08-05T12:30:03Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
+    "id": "RemiAsselin42/claude-config",
+    "language": "Shell",
+    "name": "RemiAsselin42/claude-config",
+    "stars": 0,
+    "updated_at": "2026-08-05T12:27:44Z",
+    "url": "https://github.com/RemiAsselin42/claude-config"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -43,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T12:26:09Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 112 Checks \u00b7 1",
-    "id": "malkreide/mcp-audit-skill",
-    "language": "Python",
-    "name": "malkreide/mcp-audit-skill",
-    "stars": 1,
-    "updated_at": "2026-08-05T12:25:52Z",
-    "url": "https://github.com/malkreide/mcp-audit-skill"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -115,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T12:18:02Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-05T12:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
@@ -243,20 +297,11 @@
     "url": "https://github.com/mr-kelly/skills"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18473,
-    "updated_at": "2026-08-05T11:53:02Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67277,
+    "stars": 67278,
     "updated_at": "2026-08-05T11:49:54Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T11:24:09Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 5068,
-    "updated_at": "2026-08-05T11:16:58Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
-    "id": "alexgreensh/repo-forensics",
-    "language": "Python",
-    "name": "alexgreensh/repo-forensics",
-    "stars": 146,
-    "updated_at": "2026-08-05T11:17:17Z",
-    "url": "https://github.com/alexgreensh/repo-forensics"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:13:50Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
-    "id": "isatimur/excalidraw-skill-pack",
-    "language": "TypeScript",
-    "name": "isatimur/excalidraw-skill-pack",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:13:33Z",
-    "url": "https://github.com/isatimur/excalidraw-skill-pack"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:13:04Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
