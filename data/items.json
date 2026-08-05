@@ -1,11 +1,101 @@
 [
   {
+    "description": "Neo Skills \u662f\u5c08\u70ba\u73fe\u4ee3 AI Agent \u8a2d\u8a08\u7684\u5168\u65b9\u4f4d\u80fd\u529b\u64f4\u5145\u5957\u4ef6\u3002\u672c\u5c08\u6848\u900f\u904e\u6a19\u6e96\u5316\u7684\u901a\u8a0a\u67b6\u69cb\uff0c\u70ba AI \u4ee3\u7406\u5b89\u88dd\u53ef\u63d2\u62d4\u7684\u300c\u6280\u80fd\u6a21\u7d44 (Skills)\u300d\uff0c\u4f7f\u5176\u4e0d\u50c5\u50c5\u662f\u4e00\u500b\u804a\u5929\u6a5f\u5668\u4eba\uff0c\u800c\u662f\u80fd\u8f49\u5316\u70ba\u5177\u5099\u300c\u611f\u77e5-\u63a8\u7406-\u884c\u52d5\u300d\u80fd\u529b\u7684\u591a\u9818\u57df",
+    "id": "Benknightdark/neo-skills",
+    "language": "Python",
+    "name": "Benknightdark/neo-skills",
+    "stars": 7,
+    "updated_at": "2026-08-05T00:43:27Z",
+    "url": "https://github.com/Benknightdark/neo-skills"
+  },
+  {
+    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 70,
+    "updated_at": "2026-08-05T00:44:54Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
+    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
+    "id": "johanthoren/jeff",
+    "language": "JavaScript",
+    "name": "johanthoren/jeff",
+    "stars": 2,
+    "updated_at": "2026-08-05T00:41:22Z",
+    "url": "https://github.com/johanthoren/jeff"
+  },
+  {
+    "description": "Autonomous audit-fix-verify loop for Claude Code. Run against 17 open source projects in 8 languages, 16 converged, 3 fi",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 5,
+    "updated_at": "2026-08-05T00:36:34Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Agent Skill that reviews your work with a panel of independent experts and commits to a verdict. Isolated seats, quarant",
+    "id": "k-vaca/critical-council-review",
+    "language": "Python",
+    "name": "k-vaca/critical-council-review",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:35:43Z",
+    "url": "https://github.com/k-vaca/critical-council-review"
+  },
+  {
+    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 3,
+    "updated_at": "2026-08-05T00:35:34Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "\ud83e\udd16 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills",
+    "id": "CitiesSkylinesModding/agents-plugins",
+    "language": "C#",
+    "name": "CitiesSkylinesModding/agents-plugins",
+    "stars": 1,
+    "updated_at": "2026-08-05T00:36:20Z",
+    "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-08-05T00:33:05Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "my plugins and skills :) ",
+    "id": "pehcastro/harness",
+    "language": "Shell",
+    "name": "pehcastro/harness",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:31:26Z",
+    "url": "https://github.com/pehcastro/harness"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T00:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
     "id": "cody-hutson/pmo-platform",
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-05T00:29:57Z",
+    "updated_at": "2026-08-05T00:38:08Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -14,17 +104,8 @@
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 20,
-    "updated_at": "2026-08-05T00:29:47Z",
+    "updated_at": "2026-08-05T00:41:22Z",
     "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "Agent Skill that reviews your work with a panel of independent experts and commits to a verdict. Isolated seats, quarant",
-    "id": "k-vaca/critical-council-review",
-    "language": "Python",
-    "name": "k-vaca/critical-council-review",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:28:35Z",
-    "url": "https://github.com/k-vaca/critical-council-review"
   },
   {
     "description": "bridge.ai/tack: Route tracker for AI-assisted development work \u2014 pivots, deliverables, and dependencies \u2014 across session",
@@ -63,24 +144,6 @@
     "url": "https://github.com/suboss87/FDEOps"
   },
   {
-    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 3,
-    "updated_at": "2026-08-05T00:22:03Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Autonomous audit-fix-verify loop for Claude Code. Run against 17 open source projects in 8 languages, 16 converged, 3 fi",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 5,
-    "updated_at": "2026-08-05T00:20:26Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
     "description": "Practical Agent Skills \u2014 English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add.",
     "id": "wquguru/skills",
     "language": "HTML",
@@ -108,15 +171,6 @@
     "url": "https://github.com/agents-inc/agents-inc"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-05T00:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 18457,
-    "updated_at": "2026-08-05T00:23:46Z",
+    "updated_at": "2026-08-05T00:34:22Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "MadaraUchiha-314/the-loop",
     "stars": 4,
-    "updated_at": "2026-08-05T00:24:47Z",
+    "updated_at": "2026-08-05T00:42:16Z",
     "url": "https://github.com/MadaraUchiha-314/the-loop"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-04T23:51:05Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
-    "id": "alinafe82/cognitive-deadlift",
-    "language": "Python",
-    "name": "alinafe82/cognitive-deadlift",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:50:26Z",
-    "url": "https://github.com/alinafe82/cognitive-deadlift"
-  },
-  {
-    "description": "Turn long AI conversations into reusable domain knowledge across sessions",
-    "id": "XTSoftwareLabs/neatcontext-plugins",
-    "language": "JavaScript",
-    "name": "XTSoftwareLabs/neatcontext-plugins",
-    "stars": 9,
-    "updated_at": "2026-08-04T23:49:34Z",
-    "url": "https://github.com/XTSoftwareLabs/neatcontext-plugins"
-  },
-  {
-    "description": "Production-ready AI agent profiles for Claude Code, Cursor, and Codex. Search, install, and contribute ForgeCat packages",
-    "id": "nota-america/forgecat-agent-profiles",
-    "language": "TypeScript",
-    "name": "nota-america/forgecat-agent-profiles",
-    "stars": 38,
-    "updated_at": "2026-08-04T23:54:34Z",
-    "url": "https://github.com/nota-america/forgecat-agent-profiles"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:48:57Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-04T23:48:07Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Claude Code skill for Spark Bitcoin L2 wallet capabilities including L402 for AI agents",
-    "id": "echennells/sparkbtcbot",
-    "language": "JavaScript",
-    "name": "echennells/sparkbtcbot",
-    "stars": 4,
-    "updated_at": "2026-08-05T00:17:18Z",
-    "url": "https://github.com/echennells/sparkbtcbot"
   }
 ]
