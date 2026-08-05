@@ -1,5 +1,131 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-05T05:44:52Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "70 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI gates, des",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 165,
+    "updated_at": "2026-08-05T05:43:15Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Dynamic Claude AI skill engine for web and mobile app monetization auditing. Automates layout safety analysis, ads.txt v",
+    "id": "kiraak-h/adsense-compliance-auditor",
+    "language": "HTML",
+    "name": "kiraak-h/adsense-compliance-auditor",
+    "stars": 0,
+    "updated_at": "2026-08-05T05:39:57Z",
+    "url": "https://github.com/kiraak-h/adsense-compliance-auditor"
+  },
+  {
+    "description": "\ud83c\udfaf The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivit",
+    "id": "karanb192/awesome-claude-skills",
+    "language": "\u2014",
+    "name": "karanb192/awesome-claude-skills",
+    "stars": 452,
+    "updated_at": "2026-08-05T05:39:52Z",
+    "url": "https://github.com/karanb192/awesome-claude-skills"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 83,
+    "updated_at": "2026-08-05T05:40:48Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 2,
+    "updated_at": "2026-08-05T05:39:42Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-08-05T05:38:18Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 1,
+    "updated_at": "2026-08-05T05:38:13Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "Fertige, deutschsprachige Claude Skills von KI-Wissen.org zum kostenlosen Download.",
+    "id": "kiwissenorg-skills/claude-skills",
+    "language": "\u2014",
+    "name": "kiwissenorg-skills/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-05T05:36:49Z",
+    "url": "https://github.com/kiwissenorg-skills/claude-skills"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 1,
+    "updated_at": "2026-08-05T05:35:44Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "MCP server, CLI, and Agent Skills for shared, versioned context across Claude Code, Codex, Cursor, Gemini CLI, humans, a",
+    "id": "44-pixels/handover-mcp",
+    "language": "JavaScript",
+    "name": "44-pixels/handover-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-05T05:34:37Z",
+    "url": "https://github.com/44-pixels/handover-mcp"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 95,
+    "updated_at": "2026-08-05T05:43:27Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "One marketplace for everything I have built for Claude Code: plugins, skills, commands, and agents, organized by categor",
+    "id": "smk-labs/claude-plugins",
+    "language": "JavaScript",
+    "name": "smk-labs/claude-plugins",
+    "stars": 8,
+    "updated_at": "2026-08-05T05:33:05Z",
+    "url": "https://github.com/smk-labs/claude-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T05:30:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
@@ -7,15 +133,6 @@
     "stars": 21,
     "updated_at": "2026-08-05T05:29:39Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 103,
-    "updated_at": "2026-08-05T05:29:11Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
@@ -36,21 +153,12 @@
     "url": "https://github.com/ndisisnd/msg"
   },
   {
-    "description": "Fertige, deutschsprachige Claude Skills von KI-Wissen.org zum kostenlosen Download.",
-    "id": "kiwissenorg-skills/claude-skills",
-    "language": "\u2014",
-    "name": "kiwissenorg-skills/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:27:27Z",
-    "url": "https://github.com/kiwissenorg-skills/claude-skills"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-08-05T05:27:30Z",
+    "updated_at": "2026-08-05T05:35:56Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -72,15 +180,6 @@
     "url": "https://github.com/jonaskahn/docforge"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 95,
-    "updated_at": "2026-08-05T05:27:16Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
     "id": "arbiterForge/codeArbiter",
     "language": "Python",
@@ -88,15 +187,6 @@
     "stars": 138,
     "updated_at": "2026-08-05T05:16:32Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-05T05:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The loop for everything!",
@@ -247,7 +337,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 3556,
+    "stars": 3557,
     "updated_at": "2026-08-05T04:39:33Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T04:13:57Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "An end-to-end research workflow skill for turning ideas into evidence-backed, citation-supported manuscript drafts",
-    "id": "mmTheBest/Research-Architect",
-    "language": "Python",
-    "name": "mmTheBest/Research-Architect",
-    "stars": 67,
-    "updated_at": "2026-08-05T04:58:37Z",
-    "url": "https://github.com/mmTheBest/Research-Architect"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-08-05T04:12:46Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-08-05T04:12:44Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-08-05T04:12:13Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Decision frameworks and artifact skills for product management, as portable markdown skills.",
-    "id": "ianklassen/pm-skills",
-    "language": "\u2014",
-    "name": "ianklassen/pm-skills",
-    "stars": 1,
-    "updated_at": "2026-08-05T04:11:27Z",
-    "url": "https://github.com/ianklassen/pm-skills"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-08-05T04:11:03Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 1,
-    "updated_at": "2026-08-05T04:09:42Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-08-05T04:09:01Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 50,
-    "updated_at": "2026-08-05T04:08:58Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Prompt suite for reviewing professional work against Indigenous cultural frameworks, legislation, and community authorit",
-    "id": "amyheritage/indigenous-cultural-alignment",
-    "language": "TypeScript",
-    "name": "amyheritage/indigenous-cultural-alignment",
-    "stars": 0,
-    "updated_at": "2026-08-05T04:08:45Z",
-    "url": "https://github.com/amyheritage/indigenous-cultural-alignment"
   }
 ]
