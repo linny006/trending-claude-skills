@@ -1,11 +1,137 @@
 [
   {
+    "description": "Dynamic Claude AI skill engine for web and mobile app monetization auditing. Automates layout safety analysis, ads.txt v",
+    "id": "kiraak-h/adsense-compliance-auditor",
+    "language": "JavaScript",
+    "name": "kiraak-h/adsense-compliance-auditor",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:13:29Z",
+    "url": "https://github.com/kiraak-h/adsense-compliance-auditor"
+  },
+  {
+    "description": "Self-hosted MCP server that runs multi-step Claude agent pipelines - build knowledge bases, generate documents, and auto",
+    "id": "LikeMindsCommunity/agentic-workflow-backend",
+    "language": "Python",
+    "name": "LikeMindsCommunity/agentic-workflow-backend",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:12:10Z",
+    "url": "https://github.com/LikeMindsCommunity/agentic-workflow-backend"
+  },
+  {
+    "description": "Agent skills for consistent AI-generated illustrations (hao-visual)",
+    "id": "a596116/hao-skills",
+    "language": "Python",
+    "name": "a596116/hao-skills",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:11:26Z",
+    "url": "https://github.com/a596116/hao-skills"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:09:29Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:09:10Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:08:31Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:06:59Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 24,
+    "updated_at": "2026-08-05T13:04:39Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 13,
+    "updated_at": "2026-08-05T13:13:45Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 416,
+    "updated_at": "2026-08-05T13:01:22Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:00:41Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T13:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18474,
+    "updated_at": "2026-08-05T12:59:53Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "This skill creates other skills that follow the same standard and conventions.",
+    "id": "zseta/skill-writer",
+    "language": "Python",
+    "name": "zseta/skill-writer",
+    "stars": 0,
+    "updated_at": "2026-08-05T12:59:26Z",
+    "url": "https://github.com/zseta/skill-writer"
+  },
+  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 237,
-    "updated_at": "2026-08-05T13:00:03Z",
+    "updated_at": "2026-08-05T13:00:41Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -43,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T12:57:10Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "This skill creates other skills that follow the same standard and conventions.",
-    "id": "zseta/skill-writer",
-    "language": "Python",
-    "name": "zseta/skill-writer",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:59:26Z",
-    "url": "https://github.com/zseta/skill-writer"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -184,7 +301,7 @@
     "id": "Optim-Agent/optim-plans",
     "language": "Python",
     "name": "Optim-Agent/optim-plans",
-    "stars": 315,
+    "stars": 316,
     "updated_at": "2026-08-05T12:47:10Z",
     "url": "https://github.com/Optim-Agent/optim-plans"
   },
@@ -214,24 +331,6 @@
     "stars": 53,
     "updated_at": "2026-08-05T12:45:15Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 21,
-    "updated_at": "2026-08-05T12:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18473,
-    "updated_at": "2026-08-05T12:59:53Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Unofficial Filament admin-panel design system for Claude Design \u2014 78 React components, design tokens, and a full click-t",
@@ -266,7 +365,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-05T12:55:28Z",
+    "updated_at": "2026-08-05T13:01:21Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -324,15 +423,6 @@
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
-    "description": "A collection of mainly my own productivity plugins for Claude Code.",
-    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
-    "language": "Shell",
-    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
-    "stars": 13,
-    "updated_at": "2026-08-05T12:21:29Z",
-    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
-  },
-  {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
     "id": "arbiterForge/codeArbiter",
     "language": "Python",
@@ -340,15 +430,6 @@
     "stars": 138,
     "updated_at": "2026-08-05T12:20:45Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Dynamic Claude AI skill engine for web and mobile app monetization auditing. Automates layout safety analysis, ads.txt v",
-    "id": "kiraak-h/adsense-compliance-auditor",
-    "language": "JavaScript",
-    "name": "kiraak-h/adsense-compliance-auditor",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:19:42Z",
-    "url": "https://github.com/kiraak-h/adsense-compliance-auditor"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-05T12:18:52Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-05T12:18:02Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
-    "id": "vbkotecha/agentservices-api",
-    "language": "Python",
-    "name": "vbkotecha/agentservices-api",
-    "stars": 1,
-    "updated_at": "2026-08-05T12:14:26Z",
-    "url": "https://github.com/vbkotecha/agentservices-api"
-  },
-  {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 3,
-    "updated_at": "2026-08-05T12:09:55Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
-  },
-  {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:08:08Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
-    "description": "Generate comprehension quizzes from Git branch diffs for Claude Code, OpenCode, and pull-request workflows.",
-    "id": "jamestkelly/diffler",
-    "language": "TypeScript",
-    "name": "jamestkelly/diffler",
-    "stars": 3,
-    "updated_at": "2026-08-05T12:10:09Z",
-    "url": "https://github.com/jamestkelly/diffler"
-  },
-  {
-    "description": "my plugins and skills :) ",
-    "id": "pehcastro/harness",
-    "language": "Shell",
-    "name": "pehcastro/harness",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:04:53Z",
-    "url": "https://github.com/pehcastro/harness"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:04:29Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-05T12:03:42Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:55:55Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   }
 ]
