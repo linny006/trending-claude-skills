@@ -1,12 +1,147 @@
 [
   {
+    "description": "Claude/agent skill: bing rank tracking. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-bing-rank-tracking",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-bing-rank-tracking",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:28:43Z",
+    "url": "https://github.com/johnisanerd/claude-skill-bing-rank-tracking"
+  },
+  {
+    "description": "Claude/agent skill: bing scraper. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-bing-scraper",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-bing-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:28:38Z",
+    "url": "https://github.com/johnisanerd/claude-skill-bing-scraper"
+  },
+  {
+    "description": "Claude/agent skill: play store rankings. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-play-store-rankings",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-play-store-rankings",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:28:34Z",
+    "url": "https://github.com/johnisanerd/claude-skill-play-store-rankings"
+  },
+  {
+    "description": "Claude/agent skill: google play scraper. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-google-play-scraper",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-google-play-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:28:30Z",
+    "url": "https://github.com/johnisanerd/claude-skill-google-play-scraper"
+  },
+  {
+    "description": "Claude/agent skill: walmart price tracking. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-walmart-price-tracking",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-walmart-price-tracking",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:28:25Z",
+    "url": "https://github.com/johnisanerd/claude-skill-walmart-price-tracking"
+  },
+  {
+    "description": "Claude/agent skill: walmart scraper. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-walmart-scraper",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-walmart-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:28:20Z",
+    "url": "https://github.com/johnisanerd/claude-skill-walmart-scraper"
+  },
+  {
+    "description": "Claude/agent skill: image attribution. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-image-attribution-checker",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-image-attribution-checker",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:28:16Z",
+    "url": "https://github.com/johnisanerd/claude-skill-image-attribution-checker"
+  },
+  {
+    "description": "Claude/agent skill: google lens api. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-google-lens-api",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-google-lens-api",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:28:11Z",
+    "url": "https://github.com/johnisanerd/claude-skill-google-lens-api"
+  },
+  {
+    "description": "Claude/agent skill: hotel reviews. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-tripadvisor-hotel-reviews",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-tripadvisor-hotel-reviews",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:28:06Z",
+    "url": "https://github.com/johnisanerd/claude-skill-tripadvisor-hotel-reviews"
+  },
+  {
+    "description": "Claude/agent skill: tripadvisor scraper. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-tripadvisor-scraper",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-tripadvisor-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:28:01Z",
+    "url": "https://github.com/johnisanerd/claude-skill-tripadvisor-scraper"
+  },
+  {
+    "description": "71 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI gates, des",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 148,
+    "updated_at": "2026-08-06T02:27:16Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Tsubaiso Intelligence Skill \u2014 PSA/IMA\uff08Salesforce\uff09\u696d\u52d9\u306e\u53c2\u7167\u30fb\u30c7\u30fc\u30bf\u6295\u5165\u30fb\u30e1\u30bf\u30c7\u30fc\u30bf\u69cb\u6210\u30fb\u5e33\u7968\u30fb\u4ed5\u69d8\u53ef\u8996\u5316\u30fb\u66f4\u65b0\u652f\u63f4\u30fb\u30ed\u30fc\u30ab\u30eb API \u64cd\u4f5c\u3068\u3001\u5c0e\u5165\uff0f\u30ed\u30fc\u30eb\u30a2\u30a6\u30c8\uff0fPoC\uff0f\u958b\u767a\u904b\u7528\u30e9\u30a4\u30d5\u30b5\u30a4\u30af",
+    "id": "tsubaiso/tsubaiso-intelligence",
+    "language": "Python",
+    "name": "tsubaiso/tsubaiso-intelligence",
+    "stars": 0,
+    "updated_at": "2026-08-06T02:26:35Z",
+    "url": "https://github.com/tsubaiso/tsubaiso-intelligence"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 5107,
+    "updated_at": "2026-08-06T02:29:06Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 21,
+    "updated_at": "2026-08-06T02:25:49Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
     "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
     "id": "wyre-technology/msp-claude-plugins",
     "language": "Astro",
     "name": "wyre-technology/msp-claude-plugins",
     "stars": 39,
-    "updated_at": "2026-08-06T02:15:02Z",
+    "updated_at": "2026-08-06T02:17:55Z",
     "url": "https://github.com/wyre-technology/msp-claude-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-06T02:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Autonomous audit-fix-verify loop for Claude Code. Run against 17 open source projects in 8 languages, 16 converged, 3 fi",
@@ -54,15 +189,6 @@
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
   },
   {
-    "description": "71 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI gates, des",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 148,
-    "updated_at": "2026-08-06T02:02:50Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
     "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
     "id": "triune-contemplation240/biks-claude-loader-update",
     "language": "HTML",
@@ -97,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T02:01:04Z",
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-06T02:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T01:52:20Z",
     "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 0,
-    "updated_at": "2026-08-06T01:52:09Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "The operating loop a coding agent follows \u2014 and skills to orchestrate multi-agent systems.",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 416,
-    "updated_at": "2026-08-06T01:52:02Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-08-06T01:51:59Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 1,
-    "updated_at": "2026-08-06T01:51:48Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
-  },
-  {
-    "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
-    "id": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "language": "Shell",
-    "name": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "stars": 0,
-    "updated_at": "2026-08-06T01:51:36Z",
-    "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
-  },
-  {
-    "description": "Explore 72 AI-powered skills across 6 departments for AlterLab FC training, learning, and workflow support",
-    "id": "prone-dc302/AlterLab-FC-Skills",
-    "language": "JavaScript",
-    "name": "prone-dc302/AlterLab-FC-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-06T01:51:17Z",
-    "url": "https://github.com/prone-dc302/AlterLab-FC-Skills"
-  },
-  {
-    "description": "Install 154+ Claude Code skills for SEO, code review, marketing, and AI agent tasks with one command",
-    "id": "eastindian-wallpepper214/claude-skills",
-    "language": "\u2014",
-    "name": "eastindian-wallpepper214/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-08-06T01:51:09Z",
-    "url": "https://github.com/eastindian-wallpepper214/claude-skills"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-06T01:51:07Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-06T01:51:05Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Manage and extend Claude Code with plugins for social, browser, and Hive workflows.",
-    "id": "ninnettesudanese653/claude-plugins",
-    "language": "Shell",
-    "name": "ninnettesudanese653/claude-plugins",
-    "stars": 1,
-    "updated_at": "2026-08-06T01:50:50Z",
-    "url": "https://github.com/ninnettesudanese653/claude-plugins"
-  },
-  {
-    "description": "Explore production-tested MCP servers for Claude Code to connect tools, APIs, and data sources",
-    "id": "keenanunequivocal81/claude-code-mcps",
-    "language": "\u2014",
-    "name": "keenanunequivocal81/claude-code-mcps",
-    "stars": 0,
-    "updated_at": "2026-08-06T01:50:43Z",
-    "url": "https://github.com/keenanunequivocal81/claude-code-mcps"
-  },
-  {
-    "description": "Build AI coding principles for Claude Code, with discipline rules and system design guides to improve code quality and r",
-    "id": "satbirbhbc-ux/ai-coding-principles",
-    "language": "\u2014",
-    "name": "satbirbhbc-ux/ai-coding-principles",
-    "stars": 3,
-    "updated_at": "2026-08-06T01:50:42Z",
-    "url": "https://github.com/satbirbhbc-ux/ai-coding-principles"
-  },
-  {
-    "description": "Discover CLAUDE.md best practices for project-specific AI coding guidance, with ready-to-use templates for languages, fr",
-    "id": "Overseastelegramaliterateperson865/awesome-claude-md",
-    "language": "\u2014",
-    "name": "Overseastelegramaliterateperson865/awesome-claude-md",
-    "stars": 2,
-    "updated_at": "2026-08-06T01:49:53Z",
-    "url": "https://github.com/Overseastelegramaliterateperson865/awesome-claude-md"
   }
 ]
