@@ -1,12 +1,30 @@
 [
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
     "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 7,
-    "updated_at": "2026-08-06T00:15:01Z",
-    "url": "https://github.com/curie-eng/curie"
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-08-06T00:29:20Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-08-06T00:22:57Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Engineering-readiness audits for AI-built apps. A Claude Code and Codex plugin that finds production risks across ten do",
+    "id": "atifgul99/craftsman-marketplace",
+    "language": "JavaScript",
+    "name": "atifgul99/craftsman-marketplace",
+    "stars": 0,
+    "updated_at": "2026-08-06T00:19:24Z",
+    "url": "https://github.com/atifgul99/craftsman-marketplace"
   },
   {
     "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "vanducng/skills",
     "stars": 5,
-    "updated_at": "2026-08-06T00:15:00Z",
+    "updated_at": "2026-08-06T00:15:44Z",
     "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-06T00:15:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 7,
+    "updated_at": "2026-08-06T00:28:40Z",
+    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T00:10:24Z",
     "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-06T00:10:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-06T00:01:08Z",
     "url": "https://github.com/satbirbhbc-ux/ai-coding-principles"
-  },
-  {
-    "description": "Discover CLAUDE.md best practices for project-specific AI coding guidance, with ready-to-use templates for languages, fr",
-    "id": "Overseastelegramaliterateperson865/awesome-claude-md",
-    "language": "\u2014",
-    "name": "Overseastelegramaliterateperson865/awesome-claude-md",
-    "stars": 2,
-    "updated_at": "2026-08-06T00:00:40Z",
-    "url": "https://github.com/Overseastelegramaliterateperson865/awesome-claude-md"
-  },
-  {
-    "description": "Automate code reviews for general code projects with modular parallel checks, config-driven scope, and clear reports.",
-    "id": "w4xqz/code-review-skill",
-    "language": "Python",
-    "name": "w4xqz/code-review-skill",
-    "stars": 1,
-    "updated_at": "2026-08-06T00:00:33Z",
-    "url": "https://github.com/w4xqz/code-review-skill"
-  },
-  {
-    "description": "Store Claude Code memory in files for persistent context across sessions, projects, and devices without a database or cl",
-    "id": "Trussed-japanesecedar194/claude-cortex",
-    "language": "Shell",
-    "name": "Trussed-japanesecedar194/claude-cortex",
-    "stars": 0,
-    "updated_at": "2026-08-06T00:00:19Z",
-    "url": "https://github.com/Trussed-japanesecedar194/claude-cortex"
   }
 ]
