@@ -1,5 +1,131 @@
 [
   {
+    "description": "A Claude Code skill that helps you design and generate event-sourced domain code for Laravel using Spatie event sourcing",
+    "id": "albertoarena/claude-laravel-event-sourcing",
+    "language": "Shell",
+    "name": "albertoarena/claude-laravel-event-sourcing",
+    "stars": 5,
+    "updated_at": "2026-08-06T06:59:50Z",
+    "url": "https://github.com/albertoarena/claude-laravel-event-sourcing"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-08-06T06:59:46Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 104,
+    "updated_at": "2026-08-06T07:00:01Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 84,
+    "updated_at": "2026-08-06T06:56:03Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "Agent Skills for browser fingerprint testing: run liarjs from Claude Code, Codex, Cursor or Copilot to score a browser a",
+    "id": "liarjsdev/liarjs-skills",
+    "language": "\u2014",
+    "name": "liarjsdev/liarjs-skills",
+    "stars": 1,
+    "updated_at": "2026-08-06T06:55:38Z",
+    "url": "https://github.com/liarjsdev/liarjs-skills"
+  },
+  {
+    "description": "\u628a\u6570\u636e\u6587\u4ef6\uff08CSV/Excel/JSON/TSV\uff09\u53d8\u6210\u4f1a\u8bb2\u6545\u4e8b\u7684\u5206\u6790\u62a5\u544a\u7684 skill\uff08\u652f\u6301 Claude Code / Codex / WorkBuddy \u4e09\u5bb6\u7f16\u7a0b\u667a\u80fd\u4f53\uff09\uff1a\u5148\u8ddf\u4f60\u786e\u8ba4\u884c\u4e1a\u4e0e\u62a5\u544a\u53d7\u4f17\uff0c\u518d\u6e05\u6d17\u5206\u6790\uff0c\u4ea7\u51fa\u5355\u6587\u4ef6 HTML \u4ea4\u4e92",
+    "id": "cabbage2000-lab/data-analysis-skills",
+    "language": "HTML",
+    "name": "cabbage2000-lab/data-analysis-skills",
+    "stars": 4,
+    "updated_at": "2026-08-06T06:55:23Z",
+    "url": "https://github.com/cabbage2000-lab/data-analysis-skills"
+  },
+  {
+    "description": "Relationship management your AI can actually use. 5 Dunbar circles, CSV-as-source-of-truth, filesystem-as-structure, AI-",
+    "id": "Astralune-ai/dunbar",
+    "language": "Python",
+    "name": "Astralune-ai/dunbar",
+    "stars": 1,
+    "updated_at": "2026-08-06T06:55:05Z",
+    "url": "https://github.com/Astralune-ai/dunbar"
+  },
+  {
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
+    "language": "Shell",
+    "name": "mimukit/skills",
+    "stars": 0,
+    "updated_at": "2026-08-06T06:51:57Z",
+    "url": "https://github.com/mimukit/skills"
+  },
+  {
+    "description": "Bring DataRobot platform capabilities to your coding agents",
+    "id": "datarobot-oss/datarobot-agent-skills",
+    "language": "Python",
+    "name": "datarobot-oss/datarobot-agent-skills",
+    "stars": 24,
+    "updated_at": "2026-08-06T06:49:39Z",
+    "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-08-06T06:46:55Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "T\u00dcB\u0130TAK TEYDEB/ARDEB \u00e7a\u011fr\u0131 takibi, proje \u00f6nerisi \u00f6n de\u011ferlendirme, patent \u00f6n ara\u015ft\u0131rma ve 5746 mevzuat uyumu i\u00e7in Claude",
+    "id": "ibrahim-isikli/arge-tesvik-skills",
+    "language": "\u2014",
+    "name": "ibrahim-isikli/arge-tesvik-skills",
+    "stars": 0,
+    "updated_at": "2026-08-06T06:52:45Z",
+    "url": "https://github.com/ibrahim-isikli/arge-tesvik-skills"
+  },
+  {
+    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
+    "id": "shauryalowkeygotaura/brand-launchpad",
+    "language": "HTML",
+    "name": "shauryalowkeygotaura/brand-launchpad",
+    "stars": 1,
+    "updated_at": "2026-08-06T06:45:33Z",
+    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-06T06:45:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A curated bundle of 32 Claude Skills for quantitative, qualitative & experimental research in business, finance & social",
+    "id": "Nero1688/claude-academic-skills",
+    "language": "Python",
+    "name": "Nero1688/claude-academic-skills",
+    "stars": 2,
+    "updated_at": "2026-08-06T06:44:09Z",
+    "url": "https://github.com/Nero1688/claude-academic-skills"
+  },
+  {
     "description": "",
     "id": "naveedharri/benai-skills",
     "language": "JavaScript",
@@ -86,17 +212,8 @@
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-08-06T06:38:09Z",
+    "updated_at": "2026-08-06T06:50:31Z",
     "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 104,
-    "updated_at": "2026-08-06T06:43:42Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
@@ -106,24 +223,6 @@
     "stars": 109,
     "updated_at": "2026-08-06T06:32:06Z",
     "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "T\u00dcB\u0130TAK TEYDEB/ARDEB \u00e7a\u011fr\u0131 takibi, proje \u00f6nerisi \u00f6n de\u011ferlendirme, patent \u00f6n ara\u015ft\u0131rma ve 5746 mevzuat uyumu i\u00e7in Claude",
-    "id": "ibrahim-isikli/arge-tesvik-skills",
-    "language": "\u2014",
-    "name": "ibrahim-isikli/arge-tesvik-skills",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:43:34Z",
-    "url": "https://github.com/ibrahim-isikli/arge-tesvik-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-06T06:30:27Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -178,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T06:27:21Z",
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "A curated bundle of 32 Claude Skills for quantitative, qualitative & experimental research in business, finance & social",
-    "id": "Nero1688/claude-academic-skills",
-    "language": "Python",
-    "name": "Nero1688/claude-academic-skills",
-    "stars": 2,
-    "updated_at": "2026-08-06T06:44:09Z",
-    "url": "https://github.com/Nero1688/claude-academic-skills"
   },
   {
     "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T06:19:43Z",
     "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
-    "id": "natthasath/natthasath-marketplace",
-    "language": "HTML",
-    "name": "natthasath/natthasath-marketplace",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:19:20Z",
-    "url": "https://github.com/natthasath/natthasath-marketplace"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:19:01Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:18:50Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:18:18Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:18:11Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:18:10Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:18:05Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-08-06T06:18:03Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:17:57Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:17:42Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
   }
 ]
