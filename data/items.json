@@ -1,5 +1,77 @@
 [
   {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-06T07:27:12Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Agent skills for independent restaurant marketing \u2014 review replies, review analysis, and menu copy. From the team behind",
+    "id": "semperi/restaurant-marketing-skills",
+    "language": "JavaScript",
+    "name": "semperi/restaurant-marketing-skills",
+    "stars": 1,
+    "updated_at": "2026-08-06T07:29:01Z",
+    "url": "https://github.com/semperi/restaurant-marketing-skills"
+  },
+  {
+    "description": "Matt Pocock Skills \u7e41\u9ad4\u4e2d\u6587\u7248 \u2014 35 \u500b\u4ee3\u7406\u6280\u80fd\u5168\u91cf\u4e2d\u6587\u5316\uff0c\u4fdd\u7559\u5b89\u88dd\u8207\u904b\u884c\u884c\u70ba\u3002\u5167\u5efa GitHub Pages \u4e2d\u82f1\u5c0d\u7167\u95b1\u8b80\u7ad9\uff1a\u6280\u80fd\u5168\u666f\u5716\u3001\u5b78\u7fd2\u8def\u7dda\u3001OpenCode/TRAE \u5b89\u88dd\u6307\u5357\u3002",
+    "id": "shumingyang-opencode/mattpocock-skills-zh-tw",
+    "language": "HTML",
+    "name": "shumingyang-opencode/mattpocock-skills-zh-tw",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:28:50Z",
+    "url": "https://github.com/shumingyang-opencode/mattpocock-skills-zh-tw"
+  },
+  {
+    "description": "A curated bundle of 32 Claude Skills for quantitative, qualitative & experimental research in business, finance & social",
+    "id": "Nero1688/claude-academic-skills",
+    "language": "Python",
+    "name": "Nero1688/claude-academic-skills",
+    "stars": 2,
+    "updated_at": "2026-08-06T07:22:30Z",
+    "url": "https://github.com/Nero1688/claude-academic-skills"
+  },
+  {
+    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
+    "id": "chenweil/skillcaddy",
+    "language": "JavaScript",
+    "name": "chenweil/skillcaddy",
+    "stars": 20,
+    "updated_at": "2026-08-06T07:22:00Z",
+    "url": "https://github.com/chenweil/skillcaddy"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-06T07:21:19Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "AI powered SSH, SFTP, telnet and Windows RDP in a single window, with integrations for Claude Code, Codex and OpenCode a",
+    "id": "BradPerbs/cloudterm",
+    "language": "JavaScript",
+    "name": "BradPerbs/cloudterm",
+    "stars": 34,
+    "updated_at": "2026-08-06T07:15:42Z",
+    "url": "https://github.com/BradPerbs/cloudterm"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-06T07:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
     "id": "Stewie-pixel/claude-with-leetcode",
     "language": "C++",
@@ -68,7 +140,7 @@
     "language": "\u2014",
     "name": "ibrahim-isikli/arge-tesvik-skills",
     "stars": 0,
-    "updated_at": "2026-08-06T07:07:22Z",
+    "updated_at": "2026-08-06T07:26:53Z",
     "url": "https://github.com/ibrahim-isikli/arge-tesvik-skills"
   },
   {
@@ -117,24 +189,6 @@
     "url": "https://github.com/brycewang-stanford/many-ppt-skills"
   },
   {
-    "description": "Agent skills for independent restaurant marketing \u2014 review replies, review analysis, and menu copy. From the team behind",
-    "id": "semperi/restaurant-marketing-skills",
-    "language": "JavaScript",
-    "name": "semperi/restaurant-marketing-skills",
-    "stars": 1,
-    "updated_at": "2026-08-06T07:02:41Z",
-    "url": "https://github.com/semperi/restaurant-marketing-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-06T07:00:26Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A Claude Code skill that helps you design and generate event-sourced domain code for Laravel using Spatie event sourcing",
     "id": "albertoarena/claude-laravel-event-sourcing",
     "language": "Shell",
@@ -158,7 +212,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 104,
-    "updated_at": "2026-08-06T07:11:01Z",
+    "updated_at": "2026-08-06T07:26:51Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -216,15 +270,6 @@
     "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
   },
   {
-    "description": "A curated bundle of 32 Claude Skills for quantitative, qualitative & experimental research in business, finance & social",
-    "id": "Nero1688/claude-academic-skills",
-    "language": "Python",
-    "name": "Nero1688/claude-academic-skills",
-    "stars": 2,
-    "updated_at": "2026-08-06T06:44:09Z",
-    "url": "https://github.com/Nero1688/claude-academic-skills"
-  },
-  {
     "description": "",
     "id": "naveedharri/benai-skills",
     "language": "JavaScript",
@@ -250,15 +295,6 @@
     "stars": 50,
     "updated_at": "2026-08-06T06:42:24Z",
     "url": "https://github.com/Yuki001/game-dev-skills"
-  },
-  {
-    "description": "AI powered SSH, SFTP, telnet and Windows RDP in a single window, with integrations for Claude Code, Codex and OpenCode a",
-    "id": "BradPerbs/cloudterm",
-    "language": "JavaScript",
-    "name": "BradPerbs/cloudterm",
-    "stars": 34,
-    "updated_at": "2026-08-06T06:41:05Z",
-    "url": "https://github.com/BradPerbs/cloudterm"
   },
   {
     "description": "Portable, configurable agent skills for reliable everyday work.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T06:22:34Z",
     "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:21:40Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:21:39Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Give your AI agents persistent memory and session continuity in your Obsidian vault \u2014 a conversational interview scaffol",
-    "id": "aliasunder/vault-onboarding",
-    "language": "TypeScript",
-    "name": "aliasunder/vault-onboarding",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:21:31Z",
-    "url": "https://github.com/aliasunder/vault-onboarding"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:21:24Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
   }
 ]
