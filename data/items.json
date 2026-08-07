@@ -1,5 +1,77 @@
 [
   {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 2,
+    "updated_at": "2026-08-07T01:15:10Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Agent skill: launch polished GitHub READMEs for any repository",
+    "id": "thatdudealso/read-me-launcher",
+    "language": "Shell",
+    "name": "thatdudealso/read-me-launcher",
+    "stars": 0,
+    "updated_at": "2026-08-07T01:13:22Z",
+    "url": "https://github.com/thatdudealso/read-me-launcher"
+  },
+  {
+    "description": "Agent skill: name files/projects by surveying local repo structure",
+    "id": "thatdudealso/consistent-naming",
+    "language": "Shell",
+    "name": "thatdudealso/consistent-naming",
+    "stars": 0,
+    "updated_at": "2026-08-07T01:13:17Z",
+    "url": "https://github.com/thatdudealso/consistent-naming"
+  },
+  {
+    "description": "A quasi-autonomous development workflow built on Claude Code: a convention and configuration layer over native primitive",
+    "id": "sbnet/flux",
+    "language": "Shell",
+    "name": "sbnet/flux",
+    "stars": 0,
+    "updated_at": "2026-08-07T01:08:27Z",
+    "url": "https://github.com/sbnet/flux"
+  },
+  {
+    "description": "Andrej Karpathy \u7de8\u78bc\u6307\u5357 \u2014 \u7e41\u9ad4\u4e2d\u6587\u7ffb\u8b6f\u7248\uff1a\u56db\u500b\u539f\u5247\uff08\u7de8\u78bc\u524d\u601d\u8003\u3001\u7c21\u6f54\u512a\u5148\u3001\u7cbe\u6e96\u4fee\u6539\u3001\u76ee\u6a19\u9a45\u52d5\u57f7\u884c\uff09\u6e1b\u5c11 LLM \u5e38\u898b\u7de8\u78bc\u932f\u8aa4\uff0c\u542b AGENTS.md \u8207 karpathy-guidelines \u6280\u80fd",
+    "id": "shumingyang-opencode/andrej-karpathy-skills-zh-tw",
+    "language": "\u2014",
+    "name": "shumingyang-opencode/andrej-karpathy-skills-zh-tw",
+    "stars": 0,
+    "updated_at": "2026-08-07T01:07:43Z",
+    "url": "https://github.com/shumingyang-opencode/andrej-karpathy-skills-zh-tw"
+  },
+  {
+    "description": "\u6bcf\u65e5 AI \u5927\u5382\u52a8\u6001\u5361\u7247\uff1a\u6293\u53d6 Anthropic \u7b49\u5b98\u65b9\u52a8\u6001\u2192\u4e2d\u6587\u7b56\u5c55\u2192\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7\u5361\u7247\u2192GitHub Pages \u5ba1\u6838\u9875\u3002\u5185\u542b\u53ef\u5b89\u88c5 Agent Skill ai-daily-digest\u3002",
+    "id": "yinjialu/ai-frontier-daily",
+    "language": "Python",
+    "name": "yinjialu/ai-frontier-daily",
+    "stars": 5,
+    "updated_at": "2026-08-07T01:06:59Z",
+    "url": "https://github.com/yinjialu/ai-frontier-daily"
+  },
+  {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 883,
+    "updated_at": "2026-08-07T01:03:10Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-07T01:00:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
@@ -25,15 +97,6 @@
     "stars": 294,
     "updated_at": "2026-08-07T00:54:44Z",
     "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "A quasi-autonomous development workflow built on Claude Code: a convention and configuration layer over native primitive",
-    "id": "sbnet/flux",
-    "language": "Shell",
-    "name": "sbnet/flux",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:54:12Z",
-    "url": "https://github.com/sbnet/flux"
   },
   {
     "description": "A collection of mainly my own productivity plugins for Claude Code.",
@@ -99,15 +162,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
-    "id": "hoangsonww/Claude-Code-Agent-Monitor",
-    "language": "TypeScript",
-    "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 883,
-    "updated_at": "2026-08-07T00:48:25Z",
-    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
     "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
     "id": "Glad-oboedacaccia408/design.md",
     "language": "TypeScript",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T00:45:30Z",
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-07T00:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T00:41:28Z",
     "url": "https://github.com/stuffinesslamedh281/claude-code-snapshot-backup"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:41:11Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Coordinate agent brainstorming to generate research proposals and manage future experiment and review workflows",
-    "id": "Daisybastioned440/lite-research-agents",
-    "language": "Python",
-    "name": "Daisybastioned440/lite-research-agents",
-    "stars": 2,
-    "updated_at": "2026-08-07T00:41:05Z",
-    "url": "https://github.com/Daisybastioned440/lite-research-agents"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-08-07T00:40:51Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Build modular project blueprints for Claude Code, Obsidian, and Figma teams from solo MVPs to multi-agent systems",
-    "id": "maduwanthasathsara0-hub/claude-proj-blueprint",
-    "language": "Shell",
-    "name": "maduwanthasathsara0-hub/claude-proj-blueprint",
-    "stars": 1,
-    "updated_at": "2026-08-07T00:39:57Z",
-    "url": "https://github.com/maduwanthasathsara0-hub/claude-proj-blueprint"
-  },
-  {
-    "description": "Extract, structure, and apply visual design identity as machine-readable Design DNA across tokens, style, and effects",
-    "id": "Tricholomaaurantiumknottiness355/design-dna",
-    "language": "\u2014",
-    "name": "Tricholomaaurantiumknottiness355/design-dna",
-    "stars": 2,
-    "updated_at": "2026-08-07T00:39:49Z",
-    "url": "https://github.com/Tricholomaaurantiumknottiness355/design-dna"
   }
 ]
