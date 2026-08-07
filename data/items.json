@@ -1,12 +1,66 @@
 [
   {
+    "description": "Statistical timeseries forecasting in DuckDB",
+    "id": "DataZooDE/anofox-forecast",
+    "language": "C++",
+    "name": "DataZooDE/anofox-forecast",
+    "stars": 36,
+    "updated_at": "2026-08-07T13:48:24Z",
+    "url": "https://github.com/DataZooDE/anofox-forecast"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 53,
+    "updated_at": "2026-08-07T13:48:00Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
+    "id": "worldwonderer/novel-to-game",
+    "language": "Markdown",
+    "name": "worldwonderer/novel-to-game",
+    "stars": 591,
+    "updated_at": "2026-08-07T13:47:18Z",
+    "url": "https://github.com/worldwonderer/novel-to-game"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-08-07T13:46:41Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
     "description": "git-versioned institutional memory for coding agents: schema-enforced findings, learnings and decisions, written by agen",
     "id": "simonpokorny/knowledgebase",
     "language": "Shell",
     "name": "simonpokorny/knowledgebase",
     "stars": 0,
-    "updated_at": "2026-08-07T13:45:05Z",
+    "updated_at": "2026-08-07T13:45:18Z",
     "url": "https://github.com/simonpokorny/knowledgebase"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-07T13:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A belt of unrelated Claude Code plugins: guided branch review, context hygiene, and session status in the terminal tab o",
+    "id": "Malo-T/claude-toolbelt",
+    "language": "Shell",
+    "name": "Malo-T/claude-toolbelt",
+    "stars": 2,
+    "updated_at": "2026-08-07T13:44:34Z",
+    "url": "https://github.com/Malo-T/claude-toolbelt"
   },
   {
     "description": "Some useful Claude Code Skills",
@@ -18,13 +72,13 @@
     "url": "https://github.com/j-256/claude-code-skills"
   },
   {
-    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
-    "id": "molefrog/moi",
-    "language": "TypeScript",
-    "name": "molefrog/moi",
-    "stars": 53,
-    "updated_at": "2026-08-07T13:43:39Z",
-    "url": "https://github.com/molefrog/moi"
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-07T13:43:35Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T13:33:55Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-07T13:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
@@ -180,15 +225,6 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "A belt of unrelated Claude Code plugins: guided branch review, context hygiene, and session status in the terminal tab o",
-    "id": "Malo-T/claude-toolbelt",
-    "language": "Shell",
-    "name": "Malo-T/claude-toolbelt",
-    "stars": 2,
-    "updated_at": "2026-08-07T13:44:34Z",
-    "url": "https://github.com/Malo-T/claude-toolbelt"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -266,7 +302,7 @@
     "language": "TypeScript",
     "name": "seldonframe/seldonframe",
     "stars": 23,
-    "updated_at": "2026-08-07T13:12:37Z",
+    "updated_at": "2026-08-07T13:52:02Z",
     "url": "https://github.com/seldonframe/seldonframe"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T12:53:26Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "My assortment of Claude Code skills",
-    "id": "ivuorinen/skills",
-    "language": "Python",
-    "name": "ivuorinen/skills",
-    "stars": 1,
-    "updated_at": "2026-08-07T12:57:09Z",
-    "url": "https://github.com/ivuorinen/skills"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-07T12:51:32Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
-    "id": "aaron-he-zhu/aaron-marketing-skills",
-    "language": "Python",
-    "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2525,
-    "updated_at": "2026-08-07T12:51:30Z",
-    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-07T12:51:22Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   }
 ]
