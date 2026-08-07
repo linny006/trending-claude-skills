@@ -1,21 +1,75 @@
 [
   {
+    "description": "Agent skill that launches stunning, secret-safe GitHub READMEs with real visual craft",
+    "id": "thatdudealso/read-me-launcher",
+    "language": "Shell",
+    "name": "thatdudealso/read-me-launcher",
+    "stars": 0,
+    "updated_at": "2026-08-07T01:25:42Z",
+    "url": "https://github.com/thatdudealso/read-me-launcher"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "worldwonderer/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "worldwonderer/oh-story-claudecode",
+    "stars": 5155,
+    "updated_at": "2026-08-07T01:27:23Z",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
     "id": "patrickserrano/lacquer",
     "language": "Go",
     "name": "patrickserrano/lacquer",
     "stars": 2,
-    "updated_at": "2026-08-07T01:15:10Z",
+    "updated_at": "2026-08-07T01:21:53Z",
     "url": "https://github.com/patrickserrano/lacquer"
   },
   {
-    "description": "Agent skill: launch polished GitHub READMEs for any repository",
-    "id": "thatdudealso/read-me-launcher",
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
     "language": "Shell",
-    "name": "thatdudealso/read-me-launcher",
+    "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-07T01:13:22Z",
-    "url": "https://github.com/thatdudealso/read-me-launcher"
+    "updated_at": "2026-08-07T01:27:58Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-08-07T01:17:37Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "JavaScript",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 0,
+    "updated_at": "2026-08-07T01:15:56Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "Curated, continuously verified index of Claude Code and Agent Skills tooling. Every entry re-checked daily; anything arc",
+    "id": "pjdurden/claude-skills-live",
+    "language": "TypeScript",
+    "name": "pjdurden/claude-skills-live",
+    "stars": 1,
+    "updated_at": "2026-08-07T01:15:49Z",
+    "url": "https://github.com/pjdurden/claude-skills-live"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-07T01:15:24Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skill: name files/projects by surveying local repo structure",
@@ -59,17 +113,8 @@
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 883,
-    "updated_at": "2026-08-07T01:03:10Z",
+    "updated_at": "2026-08-07T01:15:32Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-07T01:00:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 9,
-    "updated_at": "2026-08-07T00:59:14Z",
+    "updated_at": "2026-08-07T01:25:39Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -94,7 +139,7 @@
     "id": "askimo-ai/askimo",
     "language": "Kotlin",
     "name": "askimo-ai/askimo",
-    "stars": 294,
+    "stars": 293,
     "updated_at": "2026-08-07T00:54:44Z",
     "url": "https://github.com/askimo-ai/askimo"
   },
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "danieljustus/symaira-eraseme",
     "stars": 4,
-    "updated_at": "2026-08-07T00:46:01Z",
+    "updated_at": "2026-08-07T01:29:40Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T00:41:45Z",
     "url": "https://github.com/deadgirlbad-source/claude-code-reverse"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:41:43Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Recover and reset Claude Code in Python with a faithful CLI port that preserves core logic and removes the UI layer",
-    "id": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "language": "\u2014",
-    "name": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "stars": 1,
-    "updated_at": "2026-08-07T00:41:38Z",
-    "url": "https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset"
-  },
-  {
-    "description": "Recover Claude Code source for TypeScript and React UI analysis and reuse",
-    "id": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "language": "\u2014",
-    "name": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "stars": 2,
-    "updated_at": "2026-08-07T00:41:31Z",
-    "url": "https://github.com/cacodaemonic-impulseexplosive956/claude_code_src"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:41:29Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Preserve a TypeScript Claude Code source snapshot for security research, supply-chain analysis, and archival reference",
-    "id": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "language": "\u2014",
-    "name": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:41:28Z",
-    "url": "https://github.com/stuffinesslamedh281/claude-code-snapshot-backup"
   }
 ]
