@@ -1,21 +1,30 @@
 [
   {
-    "description": "Agent skill that launches stunning, secret-safe GitHub READMEs with real visual craft",
-    "id": "thatdudealso/read-me-launcher",
-    "language": "Shell",
-    "name": "thatdudealso/read-me-launcher",
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "JavaScript",
+    "name": "AnaCataVC/amiga-ia",
     "stars": 0,
-    "updated_at": "2026-08-07T01:25:42Z",
-    "url": "https://github.com/thatdudealso/read-me-launcher"
+    "updated_at": "2026-08-07T01:44:25Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
   },
   {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
     "id": "worldwonderer/oh-story-claudecode",
     "language": "JavaScript",
     "name": "worldwonderer/oh-story-claudecode",
-    "stars": 5155,
-    "updated_at": "2026-08-07T01:27:23Z",
+    "stars": 5157,
+    "updated_at": "2026-08-07T01:44:01Z",
     "url": "https://github.com/worldwonderer/oh-story-claudecode"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 13,
+    "updated_at": "2026-08-07T01:42:11Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
   },
   {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
@@ -23,8 +32,62 @@
     "language": "Go",
     "name": "patrickserrano/lacquer",
     "stars": 2,
-    "updated_at": "2026-08-07T01:21:53Z",
+    "updated_at": "2026-08-07T01:41:49Z",
     "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 4,
+    "updated_at": "2026-08-07T01:39:15Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Agent skill that launches stunning, secret-safe GitHub READMEs with real visual craft",
+    "id": "thatdudealso/read-me-launcher",
+    "language": "Shell",
+    "name": "thatdudealso/read-me-launcher",
+    "stars": 0,
+    "updated_at": "2026-08-07T01:39:48Z",
+    "url": "https://github.com/thatdudealso/read-me-launcher"
+  },
+  {
+    "description": "Curated, continuously verified index of Claude Code and Agent Skills tooling. Every entry re-checked daily; anything arc",
+    "id": "pjdurden/claude-skills-live",
+    "language": "TypeScript",
+    "name": "pjdurden/claude-skills-live",
+    "stars": 1,
+    "updated_at": "2026-08-07T01:36:28Z",
+    "url": "https://github.com/pjdurden/claude-skills-live"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-07T01:36:06Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 9,
+    "updated_at": "2026-08-07T01:43:17Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-07T01:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
@@ -32,7 +95,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-07T01:27:58Z",
+    "updated_at": "2026-08-07T01:44:25Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -43,33 +106,6 @@
     "stars": 50,
     "updated_at": "2026-08-07T01:17:37Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Skills and agents for Claude and Gemini",
-    "id": "AnaCataVC/amiga-ia",
-    "language": "JavaScript",
-    "name": "AnaCataVC/amiga-ia",
-    "stars": 0,
-    "updated_at": "2026-08-07T01:15:56Z",
-    "url": "https://github.com/AnaCataVC/amiga-ia"
-  },
-  {
-    "description": "Curated, continuously verified index of Claude Code and Agent Skills tooling. Every entry re-checked daily; anything arc",
-    "id": "pjdurden/claude-skills-live",
-    "language": "TypeScript",
-    "name": "pjdurden/claude-skills-live",
-    "stars": 1,
-    "updated_at": "2026-08-07T01:15:49Z",
-    "url": "https://github.com/pjdurden/claude-skills-live"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-07T01:15:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skill: name files/projects by surveying local repo structure",
@@ -117,15 +153,6 @@
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 9,
-    "updated_at": "2026-08-07T01:25:39Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
     "id": "crypdick/pynchy",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 293,
     "updated_at": "2026-08-07T00:54:44Z",
     "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "A collection of mainly my own productivity plugins for Claude Code.",
-    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
-    "language": "Shell",
-    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
-    "stars": 13,
-    "updated_at": "2026-08-07T00:52:58Z",
-    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
   },
   {
     "description": "Search and manage AI coding sessions locally with full-text search across 7 tools.",
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T00:46:04Z",
     "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 4,
-    "updated_at": "2026-08-07T01:29:40Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T00:41:55Z",
     "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
-  },
-  {
-    "description": "Reverse-engineer Claude Code CLI in Bun for a fast, local command-line tool with clear source structure and telemetry co",
-    "id": "deadgirlbad-source/claude-code-reverse",
-    "language": "\u2014",
-    "name": "deadgirlbad-source/claude-code-reverse",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:41:45Z",
-    "url": "https://github.com/deadgirlbad-source/claude-code-reverse"
   }
 ]
