@@ -1,5 +1,59 @@
 [
   {
+    "description": "Get a bigger model to check your smaller model daily runs and improve it on a daily basis",
+    "id": "pcx-wave/glean",
+    "language": "Python",
+    "name": "pcx-wave/glean",
+    "stars": 2,
+    "updated_at": "2026-08-07T13:59:36Z",
+    "url": "https://github.com/pcx-wave/glean"
+  },
+  {
+    "description": "Blane's AI PM Repository",
+    "id": "enalbenerraw/blanewarrene",
+    "language": "Python",
+    "name": "enalbenerraw/blanewarrene",
+    "stars": 1,
+    "updated_at": "2026-08-07T13:59:25Z",
+    "url": "https://github.com/enalbenerraw/blanewarrene"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/claude-config",
+    "language": "Python",
+    "name": "wardawgmalvicious/claude-config",
+    "stars": 2,
+    "updated_at": "2026-08-07T13:58:32Z",
+    "url": "https://github.com/wardawgmalvicious/claude-config"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-07T13:57:57Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 104,
+    "updated_at": "2026-08-07T13:58:14Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-07T13:52:10Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Statistical timeseries forecasting in DuckDB",
     "id": "DataZooDE/anofox-forecast",
     "language": "C++",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T13:45:18Z",
     "url": "https://github.com/simonpokorny/knowledgebase"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-07T13:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A belt of unrelated Claude Code plugins: guided branch review, context hygiene, and session status in the terminal tab o",
@@ -112,7 +157,7 @@
     "id": "testdouble/han",
     "language": "Shell",
     "name": "testdouble/han",
-    "stars": 189,
+    "stars": 190,
     "updated_at": "2026-08-07T13:39:43Z",
     "url": "https://github.com/testdouble/han"
   },
@@ -360,15 +405,6 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 104,
-    "updated_at": "2026-08-07T13:39:48Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T13:00:55Z",
     "url": "https://github.com/NafisRayan/100x-Agent-Toolkit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-07T13:00:41Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "IntelliJ plugin for creating and validating Codex, Claude and Gemini skills inside a project.",
-    "id": "spmisha134/skillOps-intellij",
-    "language": "Kotlin",
-    "name": "spmisha134/skillOps-intellij",
-    "stars": 1,
-    "updated_at": "2026-08-07T13:01:49Z",
-    "url": "https://github.com/spmisha134/skillOps-intellij"
-  },
-  {
-    "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
-    "id": "akovalion/paranoid-qa",
-    "language": "Python",
-    "name": "akovalion/paranoid-qa",
-    "stars": 9,
-    "updated_at": "2026-08-07T12:54:51Z",
-    "url": "https://github.com/akovalion/paranoid-qa"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-07T12:53:26Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
   }
 ]
