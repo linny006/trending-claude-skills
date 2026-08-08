@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 116 Checks \u00b7 1",
+    "id": "malkreide/mcp-audit-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-audit-skill",
+    "stars": 1,
+    "updated_at": "2026-08-08T08:13:57Z",
+    "url": "https://github.com/malkreide/mcp-audit-skill"
+  },
+  {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 399,
+    "updated_at": "2026-08-08T08:13:06Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "Test suites + deterministic Python for your agent skills' decision logic. Adversarial persona reviewers write the tests;",
+    "id": "CyrilLeMat/temper-skills",
+    "language": "Python",
+    "name": "CyrilLeMat/temper-skills",
+    "stars": 2,
+    "updated_at": "2026-08-08T08:10:42Z",
+    "url": "https://github.com/CyrilLeMat/temper-skills"
+  },
+  {
+    "description": "\u6df1\u5ea6\u7ed3\u6784\u5206\u6790\u2014\u2014\u9762\u5411\u590d\u6742\u793e\u4f1a\u3001\u54f2\u5b66\u4e0e\u7cfb\u7edf\u6027\u95ee\u9898\u7684\u591a\u5b66\u79d1\u7ed3\u6784\u5206\u6790\u6280\u80fd\u300216 \u900f\u955c\u300110 \u7ed3\u6784\u5de5\u5177\u3001\u653b\u51fb\u5faa\u73af\u534f\u8bae\u5bf9\u6297\u5206\u6790\u5148\u9a8c\u3002\u57fa\u4e8e\u5b9e\u6218\u884c\u4e3a\u9a8c\u8bc1\u3002MIT\u8bb8\u53ef\u3002 Deep Structural Analysis \u2014 a multi-perspect",
+    "id": "tetckx/deep-structural-analysis-skill",
+    "language": "\u2014",
+    "name": "tetckx/deep-structural-analysis-skill",
+    "stars": 1,
+    "updated_at": "2026-08-08T08:09:15Z",
+    "url": "https://github.com/tetckx/deep-structural-analysis-skill"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-08T08:09:03Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Agent Skills von LOGIN zur freien Nutzung - SKILL.md-Format fuer Claude Code, Claude-App und API",
+    "id": "LOGIN-TB/claude-skills",
+    "language": "\u2014",
+    "name": "LOGIN-TB/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T08:08:58Z",
+    "url": "https://github.com/LOGIN-TB/claude-skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-08T08:07:05Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-08T08:06:41Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -7,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T08:05:45Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "\u6df1\u5ea6\u7ed3\u6784\u5206\u6790\u2014\u2014\u9762\u5411\u590d\u6742\u793e\u4f1a\u3001\u54f2\u5b66\u4e0e\u7cfb\u7edf\u6027\u95ee\u9898\u7684\u591a\u5b66\u79d1\u7ed3\u6784\u5206\u6790\u6280\u80fd\u300216 \u900f\u955c\u300110 \u7ed3\u6784\u5de5\u5177\u3001\u653b\u51fb\u5faa\u73af\u534f\u8bae\u5bf9\u6297\u5206\u6790\u5148\u9a8c\u3002\u57fa\u4e8e\u5b9e\u6218\u884c\u4e3a\u9a8c\u8bc1\u3002MIT\u8bb8\u53ef\u3002 Deep Structural Analysis \u2014 a multi-perspect",
-    "id": "tetckx/deep-structural-analysis",
-    "language": "\u2014",
-    "name": "tetckx/deep-structural-analysis",
-    "stars": 1,
-    "updated_at": "2026-08-08T08:05:44Z",
-    "url": "https://github.com/tetckx/deep-structural-analysis"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -36,6 +99,15 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 890,
+    "updated_at": "2026-08-08T08:01:49Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -43,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T08:00:53Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-08T08:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Test suites + deterministic Python for your agent skills' decision logic. Adversarial persona reviewers write the tests;",
-    "id": "CyrilLeMat/temper-skills",
-    "language": "Python",
-    "name": "CyrilLeMat/temper-skills",
-    "stars": 2,
-    "updated_at": "2026-08-08T07:59:19Z",
-    "url": "https://github.com/CyrilLeMat/temper-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T07:53:28Z",
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 116 Checks \u00b7 1",
-    "id": "malkreide/mcp-audit-skill",
-    "language": "Python",
-    "name": "malkreide/mcp-audit-skill",
-    "stars": 1,
-    "updated_at": "2026-08-08T07:52:50Z",
-    "url": "https://github.com/malkreide/mcp-audit-skill"
   },
   {
     "description": "A rigor router for AI coding agents: FAST lane for low-risk one-shots, HEAVY lane with full review gates for correctness",
@@ -333,24 +378,6 @@
     "url": "https://github.com/Kerrywang64/wildtrace-atlas"
   },
   {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-08T07:31:22Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-08T07:28:47Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T07:13:30Z",
     "url": "https://github.com/NickGeorge99/fal-skill"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430 \u2014 37 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u043e\u0432, 38 regex-\u043c\u0430\u0440\u043a\u0435\u0440\u043e\u0432, \u0440",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 94,
-    "updated_at": "2026-08-08T07:06:38Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67477,
-    "updated_at": "2026-08-08T07:05:33Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-08T07:04:26Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
   }
 ]
