@@ -1,12 +1,129 @@
 [
   {
+    "description": "Capa de jurisdicci\u00f3n LATAM para Claude. Skills neutrales + packs de datos legales por pa\u00eds, con fuente oficial y fecha e",
+    "id": "Danielmc09/jurisdiction-latam",
+    "language": "\u2014",
+    "name": "Danielmc09/jurisdiction-latam",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:49:28Z",
+    "url": "https://github.com/Danielmc09/jurisdiction-latam"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 116,
+    "updated_at": "2026-08-08T14:48:06Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "Autonomous audit-fix-verify loop for Claude Code. Run against 17 open source projects in 8 languages, 16 converged, 2 fi",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 5,
+    "updated_at": "2026-08-08T14:47:01Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Read Korea's national statistics \u2014 population, prices, employment, housing, and more \u2014 from Statistics Korea's KOSIS (\uad6d\uac00",
+    "id": "seokhoonj/pykosis",
+    "language": "Python",
+    "name": "seokhoonj/pykosis",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:46:23Z",
+    "url": "https://github.com/seokhoonj/pykosis"
+  },
+  {
+    "description": "Read Korean company filings, profiles, and financials from OpenDART (\uc804\uc790\uacf5\uc2dc).",
+    "id": "seokhoonj/opendart-client",
+    "language": "Python",
+    "name": "seokhoonj/opendart-client",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:46:22Z",
+    "url": "https://github.com/seokhoonj/opendart-client"
+  },
+  {
+    "description": "Read the Korea Exchange (KRX) Open API: indices, stocks, ETP, bonds, derivatives, commodities, ESG",
+    "id": "seokhoonj/krx-openapi",
+    "language": "Python",
+    "name": "seokhoonj/krx-openapi",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:46:20Z",
+    "url": "https://github.com/seokhoonj/krx-openapi"
+  },
+  {
+    "description": "Read interest rates, exchange rates, prices, GDP, and other economic statistics from the Bank of Korea's ECOS (\uacbd\uc81c\ud1b5\uacc4\uc2dc\uc2a4\ud15c).",
+    "id": "seokhoonj/pyecos",
+    "language": "Python",
+    "name": "seokhoonj/pyecos",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:46:19Z",
+    "url": "https://github.com/seokhoonj/pyecos"
+  },
+  {
+    "description": "Collect new posts from watched X (Twitter) accounts via the official API v2.",
+    "id": "seokhoonj/xwatch",
+    "language": "Python",
+    "name": "seokhoonj/xwatch",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:46:17Z",
+    "url": "https://github.com/seokhoonj/xwatch"
+  },
+  {
+    "description": "Read prices, fundamentals, quotes, options, and news from Yahoo Finance.",
+    "id": "seokhoonj/finyahoo",
+    "language": "Python",
+    "name": "seokhoonj/finyahoo",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:46:15Z",
+    "url": "https://github.com/seokhoonj/finyahoo"
+  },
+  {
+    "description": "Send mail through Gmail or Naver SMTP from Python.",
+    "id": "seokhoonj/mailmail",
+    "language": "Python",
+    "name": "seokhoonj/mailmail",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:46:14Z",
+    "url": "https://github.com/seokhoonj/mailmail"
+  },
+  {
+    "description": "Send messages to Telegram, Slack, or Discord from Python.",
+    "id": "seokhoonj/pushpush",
+    "language": "Python",
+    "name": "seokhoonj/pushpush",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:46:12Z",
+    "url": "https://github.com/seokhoonj/pushpush"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-08T14:46:08Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 405,
-    "updated_at": "2026-08-08T14:44:54Z",
+    "updated_at": "2026-08-08T14:45:55Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-08T14:45:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
@@ -41,7 +158,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 105,
-    "updated_at": "2026-08-08T14:42:12Z",
+    "updated_at": "2026-08-08T14:49:43Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -50,7 +167,7 @@
     "language": "Python",
     "name": "santoshkanthety/databricks-agent",
     "stars": 1,
-    "updated_at": "2026-08-08T14:41:32Z",
+    "updated_at": "2026-08-08T14:48:45Z",
     "url": "https://github.com/santoshkanthety/databricks-agent"
   },
   {
@@ -59,7 +176,7 @@
     "language": "Python",
     "name": "santoshkanthety/powerbi-agent",
     "stars": 2,
-    "updated_at": "2026-08-08T14:41:30Z",
+    "updated_at": "2026-08-08T14:48:12Z",
     "url": "https://github.com/santoshkanthety/powerbi-agent"
   },
   {
@@ -243,15 +360,6 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-08T14:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
     "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
     "language": "HTML",
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-08T14:22:33Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "42 Claude Code skills for making content that doesn't read like a machine made it \u2014 prose editing with an offline linter",
-    "id": "Mikefluff/skills",
-    "language": "Python",
-    "name": "Mikefluff/skills",
-    "stars": 16,
-    "updated_at": "2026-08-08T14:22:31Z",
-    "url": "https://github.com/Mikefluff/skills"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-08T14:21:35Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-08-08T14:21:13Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-08T14:20:21Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6126,
-    "updated_at": "2026-08-08T14:19:52Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-08T14:18:42Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-08T14:18:24Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-08T14:16:14Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "This is an AI coding agent Skill that provides framework-agnostic project memory, enabling agents to preserve architectu",
-    "id": "TheaDust/lore",
-    "language": "Python",
-    "name": "TheaDust/lore",
-    "stars": 11,
-    "updated_at": "2026-08-08T14:15:54Z",
-    "url": "https://github.com/TheaDust/lore"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-08T14:15:13Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Agent Skills \u2014 skill collection for AI agents (Sisyphus, opencode): github-repo-hygiene, test-graphics, reddit-karma, pr",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-08T14:13:16Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
-    "description": "Turn a photo of an Israeli bagrut level geometry problem into a fully justified Hebrew proof table, with every step bein",
-    "id": "StivoMix/bagrut-geometry-skill",
-    "language": "Python",
-    "name": "StivoMix/bagrut-geometry-skill",
-    "stars": 0,
-    "updated_at": "2026-08-08T14:12:52Z",
-    "url": "https://github.com/StivoMix/bagrut-geometry-skill"
   }
 ]
