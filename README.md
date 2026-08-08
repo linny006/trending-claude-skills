@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 07:15 UTC
+> ⏰ Last updated: 2026-08-08 07:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [isamubas/coffee_price_predictor](https://github.com/isamubas/coffee_price_predictor) | 0 | HTML | 2026-08-08 | This model predicts the prices of coffee in Uganda depending on anything influencing them |
-| 2 | [netopsengineer/axiom](https://github.com/netopsengineer/axiom) | 3 | Python | 2026-08-08 | A curated marketplace of plugins for Claude Code, built from first principles. |
-| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-08 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 4 | [Kerrywang64/wildtrace-atlas](https://github.com/Kerrywang64/wildtrace-atlas) | 0 | Python | 2026-08-08 | An executable data-to-editorial-visualization compiler with 120 methods, auditable specs, prompt compilation, repair wor |
-| 5 | [NickGeorge99/fal-skill](https://github.com/NickGeorge99/fal-skill) | 0 | Shell | 2026-08-08 | Agent Skill for fal.ai — images, video, TTS, music, lipsync avatars, 3D, and full video pipelines from Claude Code. Live |
-| 6 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-08 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 7 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-08 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 8 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-08 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 9 | [Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) | 94 | Python | 2026-08-08 | Скилл для ИИ-агентов: находит и убирает следы машинной генерации из русского текста — 37 паттернов, 38 regex-маркеров, р |
-| 10 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67473 | TypeScript | 2026-08-08 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 11 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-08-08 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
-| 12 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-08-08 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
-| 13 | [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills) | 519 | Python | 2026-08-08 | Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and res |
-| 14 | [JBSag/pm-artisan](https://github.com/JBSag/pm-artisan) | 1 | HTML | 2026-08-08 | 15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly |
-| 15 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-08-08 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
-| 16 | [BENZEMA216/awesome-weread](https://github.com/BENZEMA216/awesome-weread) | 52 | JavaScript | 2026-08-08 | 基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17) |
-| 17 | [munexor/seo-opportunity-nexus](https://github.com/munexor/seo-opportunity-nexus) | 0 | HTML | 2026-08-08 | SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools |
-| 18 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-08-08 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
-| 19 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 22 | Python | 2026-08-08 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 20 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 1 | HTML | 2026-08-08 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
-| 21 | [muzalee/claude-atelier](https://github.com/muzalee/claude-atelier) | 0 | — | 2026-08-08 | Claude Code plugin marketplace — atelier (design → build → review pipeline + writing craft) and atelier-typescript (Fast |
-| 22 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-08-08 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
-| 23 | [QAIA-Project/QAIA](https://github.com/QAIA-Project/QAIA) | 0 | Gherkin | 2026-08-08 | Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 22 | Python | 2026-08-08 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [QAIA-Project/QAIA](https://github.com/QAIA-Project/QAIA) | 0 | Gherkin | 2026-08-08 | Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M |
+| 3 | [isamubas/coffee_price_predictor](https://github.com/isamubas/coffee_price_predictor) | 0 | HTML | 2026-08-08 | This model predicts the prices of coffee in Uganda depending on anything influencing them |
+| 4 | [netopsengineer/axiom](https://github.com/netopsengineer/axiom) | 3 | Python | 2026-08-08 | A curated marketplace of plugins for Claude Code, built from first principles. |
+| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-08 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 6 | [Kerrywang64/wildtrace-atlas](https://github.com/Kerrywang64/wildtrace-atlas) | 0 | Python | 2026-08-08 | An executable data-to-editorial-visualization compiler with 120 methods, auditable specs, prompt compilation, repair wor |
+| 7 | [NickGeorge99/fal-skill](https://github.com/NickGeorge99/fal-skill) | 0 | Shell | 2026-08-08 | Agent Skill for fal.ai — images, video, TTS, music, lipsync avatars, 3D, and full video pipelines from Claude Code. Live |
+| 8 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-08 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 9 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-08 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 10 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-08 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 11 | [Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) | 94 | Python | 2026-08-08 | Скилл для ИИ-агентов: находит и убирает следы машинной генерации из русского текста — 37 паттернов, 38 regex-маркеров, р |
+| 12 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67473 | TypeScript | 2026-08-08 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 13 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-08-08 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
+| 14 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-08-08 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
+| 15 | [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills) | 519 | Python | 2026-08-08 | Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and res |
+| 16 | [JBSag/pm-artisan](https://github.com/JBSag/pm-artisan) | 1 | HTML | 2026-08-08 | 15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly |
+| 17 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-08-08 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
+| 18 | [BENZEMA216/awesome-weread](https://github.com/BENZEMA216/awesome-weread) | 52 | JavaScript | 2026-08-08 | 基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17) |
+| 19 | [munexor/seo-opportunity-nexus](https://github.com/munexor/seo-opportunity-nexus) | 0 | HTML | 2026-08-08 | SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools |
+| 20 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-08-08 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
+| 21 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 1 | HTML | 2026-08-08 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
+| 22 | [muzalee/claude-atelier](https://github.com/muzalee/claude-atelier) | 0 | — | 2026-08-08 | Claude Code plugin marketplace — atelier (design → build → review pipeline + writing craft) and atelier-typescript (Fast |
+| 23 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-08-08 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
 | 24 | [bokyostudio/pg-practice-knowledgebase](https://github.com/bokyostudio/pg-practice-knowledgebase) | 0 | HTML | 2026-08-08 | The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026 |
 | 25 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-08-08 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
 | 26 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 2 | HTML | 2026-08-08 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
