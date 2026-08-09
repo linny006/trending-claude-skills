@@ -1,5 +1,23 @@
 [
   {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-09T20:45:02Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 23,
+    "updated_at": "2026-08-09T20:44:27Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udd4b A daily-practice dojo for Obsidian: log interview prep and job applications with one click, import your LeetCode solve",
     "id": "aaaxy/PrepDojo",
     "language": "Python",
@@ -279,15 +297,6 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 23,
-    "updated_at": "2026-08-09T20:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
     "id": "Highlydeveloped-trowel635/context-graph-compressor",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T20:26:56Z",
     "url": "https://github.com/coreyunfastened552/claude-line-channel"
-  },
-  {
-    "description": "51 portable AI-agent skills for the deliverables knowledge workers ship \u2014 ADRs, design docs, PRDs, runbooks, decks, thre",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 5,
-    "updated_at": "2026-08-09T20:27:34Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
   }
 ]
