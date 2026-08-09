@@ -1,12 +1,39 @@
 [
   {
+    "description": "A brand system encoded as a Claude Skill \u2014 design tokens, a voice guide, and real sanitised reference outputs. Built at ",
+    "id": "aamirqutub/claude-skills",
+    "language": "HTML",
+    "name": "aamirqutub/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-09T03:13:36Z",
+    "url": "https://github.com/aamirqutub/claude-skills"
+  },
+  {
+    "description": "Staged long-task processing skill for AI agents with cross-session resume and chat auto-archive.",
+    "id": "minioutman/relay-chat-and-work",
+    "language": "Python",
+    "name": "minioutman/relay-chat-and-work",
+    "stars": 1,
+    "updated_at": "2026-08-09T03:12:09Z",
+    "url": "https://github.com/minioutman/relay-chat-and-work"
+  },
+  {
     "description": "Zero-setup creative media for agents. Generate & edit images, generate video & audio, create 3D, with no API key, no OAu",
     "id": "danielgwilson/luxin",
     "language": "JavaScript",
     "name": "danielgwilson/luxin",
     "stars": 1,
-    "updated_at": "2026-08-09T02:59:17Z",
+    "updated_at": "2026-08-09T03:11:19Z",
     "url": "https://github.com/danielgwilson/luxin"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 23,
+    "updated_at": "2026-08-09T03:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -86,7 +113,7 @@
     "language": "Shell",
     "name": "lenamonj/jeffy-loop",
     "stars": 5,
-    "updated_at": "2026-08-09T02:49:40Z",
+    "updated_at": "2026-08-09T03:02:11Z",
     "url": "https://github.com/lenamonj/jeffy-loop"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 405,
     "updated_at": "2026-08-09T02:47:58Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 23,
-    "updated_at": "2026-08-09T02:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "obra/superpowers \u5168\u91cf\u7e41\u9ad4\u4e2d\u6587\u7ffb\u8b6f\u6559\u5b78\u7ad9\uff08Traditional Chinese\uff09\u00b7 14 \u500b coding-agent \u6280\u80fd + GitHub Pages \u4e2d\u82f1\u9010\u6bb5\u5c0d\u7167\u95b1\u8b80\u7ad9",
@@ -214,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T02:21:39Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Staged long-task processing skill for AI agents with cross-session resume and chat auto-archive.",
-    "id": "minioutman/relay-chat-and-work",
-    "language": "Python",
-    "name": "minioutman/relay-chat-and-work",
-    "stars": 1,
-    "updated_at": "2026-08-09T02:20:59Z",
-    "url": "https://github.com/minioutman/relay-chat-and-work"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T01:46:14Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-08-09T01:44:08Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   }
 ]
