@@ -1,12 +1,30 @@
 [
   {
-    "description": "Source of truth for shared Claude Code skills",
-    "id": "Facilitra/skills",
-    "language": "HTML",
-    "name": "Facilitra/skills",
+    "description": "Claude Code skills and commands for spec-driven development through GitHub issues and pull requests, mirrored to Cursor,",
+    "id": "petar-djukic/coding-skills",
+    "language": "Python",
+    "name": "petar-djukic/coding-skills",
     "stars": 0,
-    "updated_at": "2026-08-09T19:15:05Z",
-    "url": "https://github.com/Facilitra/skills"
+    "updated_at": "2026-08-09T19:20:23Z",
+    "url": "https://github.com/petar-djukic/coding-skills"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-09T19:18:45Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Skill de faxina de codebase para Claude Code: remove c\u00f3digo morto, detecta arquivos e fun\u00e7\u00f5es duplicadas, consolida m\u00f3du",
+    "id": "CRangelP/codebase-cleanup",
+    "language": "Shell",
+    "name": "CRangelP/codebase-cleanup",
+    "stars": 0,
+    "updated_at": "2026-08-09T19:16:55Z",
+    "url": "https://github.com/CRangelP/codebase-cleanup"
   },
   {
     "description": "Agent Skills - 29 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "bestdeejay-design/agent-skills",
     "stars": 5,
-    "updated_at": "2026-08-09T19:14:08Z",
+    "updated_at": "2026-08-09T19:16:54Z",
     "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-09T19:16:41Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "A Claude Code plugin that turns issues, problem statements, and feature requests \u2192 reviewed plans \u2192 focused tasks \u2192 and ",
+    "id": "metallurgical/ogre-runner",
+    "language": "Shell",
+    "name": "metallurgical/ogre-runner",
+    "stars": 1,
+    "updated_at": "2026-08-09T19:15:35Z",
+    "url": "https://github.com/metallurgical/ogre-runner"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 21,
+    "updated_at": "2026-08-09T19:15:15Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 23,
+    "updated_at": "2026-08-09T19:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Source of truth for shared Claude Code skills",
+    "id": "Facilitra/skills",
+    "language": "PowerShell",
+    "name": "Facilitra/skills",
+    "stars": 0,
+    "updated_at": "2026-08-09T19:15:05Z",
+    "url": "https://github.com/Facilitra/skills"
   },
   {
     "description": "Working agent-orchestration skills from The Spire Library. Build pipeline plugin: design-swarm \u2192 run-list \u2192 conductor wi",
@@ -81,15 +144,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "Skill de faxina de codebase para Claude Code: remove c\u00f3digo morto, detecta arquivos e fun\u00e7\u00f5es duplicadas, consolida m\u00f3du",
-    "id": "CRangelP/codebase-cleanup",
-    "language": "Shell",
-    "name": "CRangelP/codebase-cleanup",
-    "stars": 0,
-    "updated_at": "2026-08-09T19:06:17Z",
-    "url": "https://github.com/CRangelP/codebase-cleanup"
-  },
-  {
     "description": "Contains python scripts that pull from BLS and EIA (energy) data to calculate economic changes.",
     "id": "sguri003/US_Labor_CPI",
     "language": "Python",
@@ -144,15 +198,6 @@
     "url": "https://github.com/pjdurden/claude-skills-live"
   },
   {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-09T19:03:10Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -196,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-08-09T19:00:31Z",
     "url": "https://github.com/shalintripathi/organic-os"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 23,
-    "updated_at": "2026-08-09T19:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skill for React Bits (reactbits.dev) \u2014 fetches real component source from the live registry instead of recal",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-09T18:38:34Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Search and manage AI coding sessions locally with full-text search across 7 tools.",
-    "id": "Unstable-ascendingartery75/ai-session-search",
-    "language": "TypeScript",
-    "name": "Unstable-ascendingartery75/ai-session-search",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:38:00Z",
-    "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
-  },
-  {
-    "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
-    "id": "Arindaag760/humanizer-cli",
-    "language": "JavaScript",
-    "name": "Arindaag760/humanizer-cli",
-    "stars": 1,
-    "updated_at": "2026-08-09T18:37:29Z",
-    "url": "https://github.com/Arindaag760/humanizer-cli"
-  },
-  {
-    "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
-    "id": "maurieunoccupied182/biks-claude-tools-loader",
-    "language": "\u2014",
-    "name": "maurieunoccupied182/biks-claude-tools-loader",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:36:30Z",
-    "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
-  },
-  {
-    "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
-    "id": "Scoundrelwildness456/i-have-adhd",
-    "language": "Python",
-    "name": "Scoundrelwildness456/i-have-adhd",
-    "stars": 3,
-    "updated_at": "2026-08-09T18:36:02Z",
-    "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
   }
 ]
