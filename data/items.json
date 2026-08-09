@@ -1,5 +1,41 @@
 [
   {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6126,
+    "updated_at": "2026-08-09T07:16:25Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 3,
+    "updated_at": "2026-08-09T07:15:46Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
+    "language": "Shell",
+    "name": "mimukit/skills",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:15:40Z",
+    "url": "https://github.com/mimukit/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 23,
+    "updated_at": "2026-08-09T07:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
     "id": "HsuanYuLee/polaris",
     "language": "Shell",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Zhonghao1995/agentic-swmm-workflow",
     "stars": 21,
-    "updated_at": "2026-08-09T07:12:15Z",
+    "updated_at": "2026-08-09T07:15:50Z",
     "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T07:07:11Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6126,
-    "updated_at": "2026-08-09T07:14:01Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -232,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T07:00:14Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 23,
-    "updated_at": "2026-08-09T07:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T06:51:08Z",
     "url": "https://github.com/SELAT-AI/selat-plugins"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-09T06:36:25Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-08-09T06:34:33Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
