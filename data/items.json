@@ -1,5 +1,23 @@
 [
   {
+    "description": "Trello skill pack for Claude Code and Codex - boards, lists and cards, board digests and a due-date radar. A free tool b",
+    "id": "dbhq-uk/trello-skill",
+    "language": "Shell",
+    "name": "dbhq-uk/trello-skill",
+    "stars": 2,
+    "updated_at": "2026-08-09T17:14:59Z",
+    "url": "https://github.com/dbhq-uk/trello-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 23,
+    "updated_at": "2026-08-09T17:14:53Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio",
     "id": "handcraftedbygod/SkillTrace",
     "language": "Python",
@@ -187,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T17:00:56Z",
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 23,
-    "updated_at": "2026-08-09T17:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-09T16:54:05Z",
     "url": "https://github.com/Tricholomaaurantiumknottiness355/design-dna"
-  },
-  {
-    "description": "Build AI-friendly web interfaces with semantic HTML, ARIA, stable locators, and form best practices for better automatio",
-    "id": "avilaok8647/ai-friendly-web-design-skill",
-    "language": "JavaScript",
-    "name": "avilaok8647/ai-friendly-web-design-skill",
-    "stars": 1,
-    "updated_at": "2026-08-09T16:53:58Z",
-    "url": "https://github.com/avilaok8647/ai-friendly-web-design-skill"
   }
 ]
