@@ -1,12 +1,48 @@
 [
   {
-    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
-    "id": "oliver-kriska/claude-elixir-phoenix",
+    "description": "Awesome Claude Code And Agent Tools",
+    "id": "cooler333/cool-claude-code",
     "language": "Python",
-    "name": "oliver-kriska/claude-elixir-phoenix",
-    "stars": 517,
-    "updated_at": "2026-08-10T07:59:27Z",
-    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
+    "name": "cooler333/cool-claude-code",
+    "stars": 7,
+    "updated_at": "2026-08-10T08:14:19Z",
+    "url": "https://github.com/cooler333/cool-claude-code"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b Claude Code: \u0437\u043e\u0432\u0451\u0442 OpenAI Codex CLI \u0437\u0430 \u0432\u0442\u043e\u0440\u044b\u043c \u043c\u043d\u0435\u043d\u0438\u0435\u043c \u043f\u043e \u043a\u043e\u0434\u0443, \u0432\u043e\u043f\u0440\u043e\u0441\u043e\u043c \u0438\u043b\u0438 \u0437\u0430\u0434\u0430\u0447\u0435\u0439",
+    "id": "warodan/hey-codex",
+    "language": "Shell",
+    "name": "warodan/hey-codex",
+    "stars": 0,
+    "updated_at": "2026-08-10T08:13:48Z",
+    "url": "https://github.com/warodan/hey-codex"
+  },
+  {
+    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-08-10T08:10:25Z",
+    "url": "https://github.com/ayukyo/icode-skill"
+  },
+  {
+    "description": "A small, verified, security-aware directory of Agent Skills (SKILL.md format).",
+    "id": "royalpinto007/awesome-agent-skills",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-10T08:08:38Z",
+    "url": "https://github.com/royalpinto007/awesome-agent-skills"
+  },
+  {
+    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
+    "id": "XiaoMaColtAI/math-modeling-skill",
+    "language": "Python",
+    "name": "XiaoMaColtAI/math-modeling-skill",
+    "stars": 658,
+    "updated_at": "2026-08-10T08:06:03Z",
+    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
   },
   {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
@@ -14,8 +50,62 @@
     "language": "C++",
     "name": "Stewie-pixel/claude-with-leetcode",
     "stars": 83,
-    "updated_at": "2026-08-10T07:58:06Z",
+    "updated_at": "2026-08-10T08:04:56Z",
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-08-10T08:04:07Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 3,
+    "updated_at": "2026-08-10T08:04:00Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 75,
+    "updated_at": "2026-08-10T08:03:37Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
+    "language": "Python",
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 517,
+    "updated_at": "2026-08-10T08:03:17Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18597,
+    "updated_at": "2026-08-10T08:03:14Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-10T08:00:32Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Package manager for AI agent assets (skills / CLIs / MCPs / loops) across Codex, Claude Code, Cursor and Kiro.",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T07:57:41Z",
     "url": "https://github.com/seed-forge/harness-ai-kit"
-  },
-  {
-    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
-    "id": "XiaoMaColtAI/math-modeling-skill",
-    "language": "Python",
-    "name": "XiaoMaColtAI/math-modeling-skill",
-    "stars": 658,
-    "updated_at": "2026-08-10T07:55:26Z",
-    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
   },
   {
     "description": "Production-oriented compliance, tax, legal, and operational domain-intelligence infrastructure for AI agents operating i",
@@ -81,15 +162,6 @@
     "url": "https://github.com/Videoa7917/ClaudeSec"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18597,
-    "updated_at": "2026-08-10T07:45:56Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
     "id": "kierstenicy452/anti-ai-writing",
     "language": "\u2014",
@@ -106,15 +178,6 @@
     "stars": 406,
     "updated_at": "2026-08-10T07:49:27Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-10T07:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
@@ -169,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T07:44:29Z",
     "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b Claude Code: \u0437\u043e\u0432\u0451\u0442 OpenAI Codex CLI \u0437\u0430 \u0432\u0442\u043e\u0440\u044b\u043c \u043c\u043d\u0435\u043d\u0438\u0435\u043c \u043f\u043e \u043a\u043e\u0434\u0443, \u0432\u043e\u043f\u0440\u043e\u0441\u043e\u043c \u0438\u043b\u0438 \u0437\u0430\u0434\u0430\u0447\u0435\u0439",
-    "id": "warodan/hey-codex",
-    "language": "Shell",
-    "name": "warodan/hey-codex",
-    "stars": 0,
-    "updated_at": "2026-08-10T07:44:27Z",
-    "url": "https://github.com/warodan/hey-codex"
   },
   {
     "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-10T07:40:57Z",
     "url": "https://github.com/renalpelvisdeinocheirus70/ozor-skills"
-  },
-  {
-    "description": "Build pragmatic Go apps with an idiomatic, flat project layout guide for clean code, clear flow, and maintainable APIs",
-    "id": "chafingdishposition355/go-skills",
-    "language": "\u2014",
-    "name": "chafingdishposition355/go-skills",
-    "stars": 1,
-    "updated_at": "2026-08-10T07:40:53Z",
-    "url": "https://github.com/chafingdishposition355/go-skills"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-08-10T07:40:44Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Run Claude Code from any folder or USB drive with no install on Windows, macOS, and Linux",
-    "id": "Fraydawarridden350/claude-code-portable",
-    "language": "\u2014",
-    "name": "Fraydawarridden350/claude-code-portable",
-    "stars": 0,
-    "updated_at": "2026-08-10T07:40:38Z",
-    "url": "https://github.com/Fraydawarridden350/claude-code-portable"
-  },
-  {
-    "description": "Build AI skills, teaching materials, and real-world patterns for non-technical builders learning Claude Code, automation",
-    "id": "derrickbiotypic865/pathfinder-skills",
-    "language": "\u2014",
-    "name": "derrickbiotypic865/pathfinder-skills",
-    "stars": 0,
-    "updated_at": "2026-08-10T07:40:33Z",
-    "url": "https://github.com/derrickbiotypic865/pathfinder-skills"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67593,
-    "updated_at": "2026-08-10T07:57:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 4,
-    "updated_at": "2026-08-10T07:54:46Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
   }
 ]
