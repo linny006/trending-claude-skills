@@ -1,11 +1,173 @@
 [
   {
+    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M",
+    "id": "QAIA-Project/QAIA",
+    "language": "Gherkin",
+    "name": "QAIA-Project/QAIA",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:13:32Z",
+    "url": "https://github.com/QAIA-Project/QAIA"
+  },
+  {
+    "description": "Claude Code skill \u2014 generate cross-client HTML email with MJML. Outlook-safe, Gmail-optimized, WCAG 2.1 AA accessible.",
+    "id": "framix-team/skill-email-html-mjml",
+    "language": "\u2014",
+    "name": "framix-team/skill-email-html-mjml",
+    "stars": 62,
+    "updated_at": "2026-08-10T20:13:29Z",
+    "url": "https://github.com/framix-team/skill-email-html-mjml"
+  },
+  {
+    "description": "62 portable AI-agent skills for the deliverables you actually ship \u2014 ADRs, design docs, PRDs, runbooks, decks, threat mo",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 5,
+    "updated_at": "2026-08-10T20:09:55Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:09:21Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "I kept adding skills to my Claude Code setup and never removing any, so I started testing them instead. Nine that surviv",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:08:37Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:08:15Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
+    "id": "smartwatermelon/personify",
+    "language": "TypeScript",
+    "name": "smartwatermelon/personify",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:06:32Z",
+    "url": "https://github.com/smartwatermelon/personify"
+  },
+  {
+    "description": "Experimental Claude Code skill that auto-resumes a session after it hits the 5-hour usage limit",
+    "id": "ruben-sj/respawn-skill",
+    "language": "\u2014",
+    "name": "ruben-sj/respawn-skill",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:05:28Z",
+    "url": "https://github.com/ruben-sj/respawn-skill"
+  },
+  {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 898,
+    "updated_at": "2026-08-10T20:03:24Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
+    "description": "Youth-slang skills for Claude Code: rewrite text into teen-speak, decode slang you don't understand, and calibrate exact",
+    "id": "ChulioZ/fountain-of-youth",
+    "language": "Python",
+    "name": "ChulioZ/fountain-of-youth",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:02:32Z",
+    "url": "https://github.com/ChulioZ/fountain-of-youth"
+  },
+  {
+    "description": "This is WordPress and Elementor skill.md made for Claude.ai",
+    "id": "guramzhgamadze/WordPress-Elementor-Skill",
+    "language": "\u2014",
+    "name": "guramzhgamadze/WordPress-Elementor-Skill",
+    "stars": 21,
+    "updated_at": "2026-08-10T20:02:23Z",
+    "url": "https://github.com/guramzhgamadze/WordPress-Elementor-Skill"
+  },
+  {
+    "description": "Aplica\u00e7\u00e3o que usa o poder da LLM para gerar contexto para qualquer demanda sem precisar que voc\u00ea pense e tenha ide\u00edas, a",
+    "id": "AirtonLira/boostprompt",
+    "language": "Python",
+    "name": "AirtonLira/boostprompt",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:02:00Z",
+    "url": "https://github.com/AirtonLira/boostprompt"
+  },
+  {
+    "description": "Drive a phased implementation plan from a Claude Code session, including from your phone. Plan in markdown, one PR per p",
+    "id": "sixoverground/claude-phases",
+    "language": "Shell",
+    "name": "sixoverground/claude-phases",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:02:07Z",
+    "url": "https://github.com/sixoverground/claude-phases"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:01:05Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:00:20Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Self-hosted AI coding factory \u2014 sandboxed agents deliver tickets to merged code, gated by a human in a dashboard. Local-",
+    "id": "tmj-90/gaffer",
+    "language": "TypeScript",
+    "name": "tmj-90/gaffer",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:00:20Z",
+    "url": "https://github.com/tmj-90/gaffer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-10T20:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:00:05Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
     "description": "Scaffolding skill + always-on conventions (CLAUDE.md/AGENTS.md) for Quarkus + LangChain4j agentic AI apps: AI services, ",
     "id": "eldermoraes/quarkus-agentic-scaffolding",
     "language": "Shell",
     "name": "eldermoraes/quarkus-agentic-scaffolding",
     "stars": 0,
-    "updated_at": "2026-08-10T19:58:51Z",
+    "updated_at": "2026-08-10T20:01:49Z",
     "url": "https://github.com/eldermoraes/quarkus-agentic-scaffolding"
   },
   {
@@ -23,7 +185,7 @@
     "language": "Python",
     "name": "gidde032/agentic-workflow",
     "stars": 0,
-    "updated_at": "2026-08-10T19:58:17Z",
+    "updated_at": "2026-08-10T20:09:45Z",
     "url": "https://github.com/gidde032/agentic-workflow"
   },
   {
@@ -79,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T19:53:50Z",
     "url": "https://github.com/CRangelP/codebase-cleanup"
-  },
-  {
-    "description": "62 portable AI-agent skills for the deliverables you actually ship \u2014 ADRs, design docs, PRDs, runbooks, decks, threat mo",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 5,
-    "updated_at": "2026-08-10T19:53:57Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
     "description": "Claude Code skill for spec-faithful implementation: spec-derived tests, mandatory boundary coverage, evidence-gated done",
@@ -225,15 +378,6 @@
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-10T19:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
     "id": "gilvangonzalez/technical-founding-gtm-toolkit",
     "language": "HTML",
@@ -250,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T19:43:52Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Drive a phased implementation plan from a Claude Code session, including from your phone. Plan in markdown, one PR per p",
-    "id": "sixoverground/claude-phases",
-    "language": "Go Template",
-    "name": "sixoverground/claude-phases",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:54:46Z",
-    "url": "https://github.com/sixoverground/claude-phases"
   },
   {
     "description": "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and res",
@@ -313,140 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-10T19:36:04Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be ",
-    "id": "trevor-ryan-burkholder/dare-to-be-stupid",
-    "language": "JavaScript",
-    "name": "trevor-ryan-burkholder/dare-to-be-stupid",
-    "stars": 0,
-    "updated_at": "2026-08-10T19:34:02Z",
-    "url": "https://github.com/trevor-ryan-burkholder/dare-to-be-stupid"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:28:21Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-08-10T19:28:09Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Optimizes the description frontmatter of a Claude Code / Agent Skill - the text that decides whether Claude invokes the ",
-    "id": "netopsengineer/agent-skill-description-optimizer",
-    "language": "Python",
-    "name": "netopsengineer/agent-skill-description-optimizer",
-    "stars": 2,
-    "updated_at": "2026-08-10T19:28:04Z",
-    "url": "https://github.com/netopsengineer/agent-skill-description-optimizer"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 4,
-    "updated_at": "2026-08-10T19:27:26Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:25:45Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-08-10T19:24:17Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Agent Skills - 29 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 6,
-    "updated_at": "2026-08-10T19:24:07Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
-    "description": "Keep Claude Code's always-loaded MEMORY.md from silently truncating: budget guard, orphan coverage, verbatim domain fold",
-    "id": "tonydzi/claude-memory-tidy",
-    "language": "Python",
-    "name": "tonydzi/claude-memory-tidy",
-    "stars": 0,
-    "updated_at": "2026-08-10T19:21:54Z",
-    "url": "https://github.com/tonydzi/claude-memory-tidy"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-10T19:18:07Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Evidence-first SEO, AEO, GEO and AI-search workflows for Codex and Claude Code \u2014 one router, 27 focused skills.",
-    "id": "oegeyilmaz9/seo-aeo-geo-ultimate",
-    "language": "Python",
-    "name": "oegeyilmaz9/seo-aeo-geo-ultimate",
-    "stars": 2,
-    "updated_at": "2026-08-10T19:16:56Z",
-    "url": "https://github.com/oegeyilmaz9/seo-aeo-geo-ultimate"
-  },
-  {
-    "description": "A quasi-autonomous development workflow built on Claude Code: a convention and configuration layer over native primitive",
-    "id": "sbnet/flux",
-    "language": "Shell",
-    "name": "sbnet/flux",
-    "stars": 0,
-    "updated_at": "2026-08-10T19:16:27Z",
-    "url": "https://github.com/sbnet/flux"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-10T19:12:43Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:12:39Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude Code skills to generate AI video ads, UGC ads, and image ads. The official Novoads skill pack (REST API + MCP).",
-    "id": "novoads/claude-code-ads",
-    "language": "Python",
-    "name": "novoads/claude-code-ads",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:12:16Z",
-    "url": "https://github.com/novoads/claude-code-ads"
   }
 ]
