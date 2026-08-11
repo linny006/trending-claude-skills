@@ -1,11 +1,137 @@
 [
   {
+    "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall",
+    "id": "SELAT-AI/selat-plugins",
+    "language": "Shell",
+    "name": "SELAT-AI/selat-plugins",
+    "stars": 1,
+    "updated_at": "2026-08-11T04:29:10Z",
+    "url": "https://github.com/SELAT-AI/selat-plugins"
+  },
+  {
+    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 120 Checks \u00b7 1",
+    "id": "malkreide/mcp-audit-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-audit-skill",
+    "stars": 1,
+    "updated_at": "2026-08-11T04:27:46Z",
+    "url": "https://github.com/malkreide/mcp-audit-skill"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 2,
+    "updated_at": "2026-08-11T04:27:36Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "turn rough requirements docs into structured Jira stories + a diagrammed HTML portal (architecture, UI flow, customer jo",
+    "id": "kirti/jira-ticket-builder-skill",
+    "language": "HTML",
+    "name": "kirti/jira-ticket-builder-skill",
+    "stars": 1,
+    "updated_at": "2026-08-11T04:27:05Z",
+    "url": "https://github.com/kirti/jira-ticket-builder-skill"
+  },
+  {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 4,
+    "updated_at": "2026-08-11T04:26:23Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-08-11T04:25:49Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-08-11T04:25:03Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 1,
+    "updated_at": "2026-08-11T04:23:50Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "Remove common AI slop writing indicators.",
+    "id": "nickali/remove-ai-writing-indicators",
+    "language": "Python",
+    "name": "nickali/remove-ai-writing-indicators",
+    "stars": 0,
+    "updated_at": "2026-08-11T04:23:45Z",
+    "url": "https://github.com/nickali/remove-ai-writing-indicators"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-08-11T04:23:19Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-08-11T04:23:16Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-11T04:23:06Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-11T04:22:36Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T04:20:47Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
     "id": "andrian-syh/roblox-best-practices-skill",
     "language": "JavaScript",
     "name": "andrian-syh/roblox-best-practices-skill",
     "stars": 1,
-    "updated_at": "2026-08-11T04:19:22Z",
+    "updated_at": "2026-08-11T04:22:57Z",
     "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
   },
   {
@@ -16,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T04:15:21Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-11T04:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -70,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T04:09:38Z",
     "url": "https://github.com/LikeMindsCommunity/agentic-workflow-backend"
-  },
-  {
-    "description": "Remove common AI slop writing indicators.",
-    "id": "nickali/remove-ai-writing-indicators",
-    "language": "Python",
-    "name": "nickali/remove-ai-writing-indicators",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:09:01Z",
-    "url": "https://github.com/nickali/remove-ai-writing-indicators"
   },
   {
     "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
@@ -144,15 +252,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Claude-Skill f\u00fcr systematische MCP-Server-Audits gegen einen kuratierten Best-Practice-Standards-Korpus \u00b7 120 Checks \u00b7 1",
-    "id": "malkreide/mcp-audit-skill",
-    "language": "Python",
-    "name": "malkreide/mcp-audit-skill",
-    "stars": 1,
-    "updated_at": "2026-08-11T04:19:13Z",
-    "url": "https://github.com/malkreide/mcp-audit-skill"
-  },
-  {
     "description": "Portable, configurable agent skills for reliable everyday work.",
     "id": "Misoto22/skills",
     "language": "Python",
@@ -160,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T03:57:31Z",
     "url": "https://github.com/Misoto22/skills"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 2,
-    "updated_at": "2026-08-11T03:53:29Z",
-    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -234,6 +324,15 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
+    "description": "Turn PhD weekly notes, papers, results, and figures into evidence-grounded lab meeting reports, with Feishu, Notion, and",
+    "id": "LikC1606/lab-meeting-report-skill",
+    "language": "Python",
+    "name": "LikC1606/lab-meeting-report-skill",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:43:20Z",
+    "url": "https://github.com/LikC1606/lab-meeting-report-skill"
+  },
+  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -241,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T03:42:32Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Evidence-grounded lab meeting and research progress reports from experiment notes, papers, and Feishu/Lark sources.",
-    "id": "LikC1606/lab-meeting-report-skill",
-    "language": "Python",
-    "name": "LikC1606/lab-meeting-report-skill",
-    "stars": 0,
-    "updated_at": "2026-08-11T03:43:20Z",
-    "url": "https://github.com/LikC1606/lab-meeting-report-skill"
   },
   {
     "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-11T03:27:48Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-08-11T03:26:29Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
-    "id": "anbeime/skill",
-    "language": "Python",
-    "name": "anbeime/skill",
-    "stars": 5069,
-    "updated_at": "2026-08-11T03:25:41Z",
-    "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "File your Indian income tax return (ITR) from your terminal. Deterministic tax engine, both regimes, AY 2026-27. Claude ",
-    "id": "karanb192/itr-wala",
-    "language": "Python",
-    "name": "karanb192/itr-wala",
-    "stars": 476,
-    "updated_at": "2026-08-11T03:25:17Z",
-    "url": "https://github.com/karanb192/itr-wala"
-  },
-  {
-    "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
-    "id": "x-name15/gorrent",
-    "language": "Go",
-    "name": "x-name15/gorrent",
-    "stars": 1,
-    "updated_at": "2026-08-11T03:22:32Z",
-    "url": "https://github.com/x-name15/gorrent"
-  },
-  {
-    "description": "A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design ",
-    "id": "Turki-Sh/Foreman",
-    "language": "HTML",
-    "name": "Turki-Sh/Foreman",
-    "stars": 3,
-    "updated_at": "2026-08-11T03:18:24Z",
-    "url": "https://github.com/Turki-Sh/Foreman"
-  },
-  {
-    "description": "\u4e2d\u6587 AI Skills \u5e93\uff1a156 \u4e2a\u6280\u80fd\u5305\uff0863 \u4e2d\u6587 / 12 \u4e2a\u672c\u7ad9\u81ea\u5199\uff09\uff0c\u542b PPT \u6f14\u793a 18 \u4e2a\u3001Three.js\u00b73D 6 \u4e2a\u3001\u6e38\u620f 5 \u4e2a | \u6bcf\u5929\u81ea\u52a8\u590d\u68c0\u4ed3\u5e93\u5b58\u6d3b",
-    "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
-    "language": "HTML",
-    "name": "sanhuang520-ship-it/awesome-chinese-ai-tools",
-    "stars": 7,
-    "updated_at": "2026-08-11T03:11:51Z",
-    "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-11T03:09:28Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "One-command setup for a full VS Code Copilot Chat agent-skills stack on Windows - 144 skills, 18 CLIs, 11 MCP servers, 3",
-    "id": "JZKK720/cubecloud-skilldbundle-setup",
-    "language": "PowerShell",
-    "name": "JZKK720/cubecloud-skilldbundle-setup",
-    "stars": 3,
-    "updated_at": "2026-08-11T03:09:03Z",
-    "url": "https://github.com/JZKK720/cubecloud-skilldbundle-setup"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 407,
-    "updated_at": "2026-08-11T03:07:10Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-11T03:01:36Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   }
 ]
