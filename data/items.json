@@ -1,11 +1,92 @@
 [
   {
+    "description": "A plumb line finds true vertical by gravity alone. plumb-line is a provenance library and Claude Code plugin that does t",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-08-11T21:29:56Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-11T21:27:42Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 51,
+    "updated_at": "2026-08-11T21:25:18Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "",
+    "id": "fn-jakubkarp/crocthejob",
+    "language": "TypeScript",
+    "name": "fn-jakubkarp/crocthejob",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:24:02Z",
+    "url": "https://github.com/fn-jakubkarp/crocthejob"
+  },
+  {
+    "description": "Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be ",
+    "id": "trevor-ryan-burkholder/dare-to-be-stupid",
+    "language": "JavaScript",
+    "name": "trevor-ryan-burkholder/dare-to-be-stupid",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:21:40Z",
+    "url": "https://github.com/trevor-ryan-burkholder/dare-to-be-stupid"
+  },
+  {
+    "description": "AI agent security posture and policy audit \u2014 static analysis with source-linked evidence for LangGraph, AutoGen, CrewAI,",
+    "id": "ali-ulu/Pulse",
+    "language": "JavaScript",
+    "name": "ali-ulu/Pulse",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:17:44Z",
+    "url": "https://github.com/ali-ulu/Pulse"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-11T21:21:03Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 246,
+    "updated_at": "2026-08-11T21:16:45Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T21:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Open-source Claude Code skills that bring planning, building, and verification gates to agentic coding workflows.",
     "id": "adamlinscott/claude-skills",
     "language": "TypeScript",
     "name": "adamlinscott/claude-skills",
     "stars": 3,
-    "updated_at": "2026-08-11T21:13:05Z",
+    "updated_at": "2026-08-11T21:27:27Z",
     "url": "https://github.com/adamlinscott/claude-skills"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/crabbuild/compass"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-11T21:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -205,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T20:55:19Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be ",
-    "id": "trevor-ryan-burkholder/dare-to-be-stupid",
-    "language": "JavaScript",
-    "name": "trevor-ryan-burkholder/dare-to-be-stupid",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:54:54Z",
-    "url": "https://github.com/trevor-ryan-burkholder/dare-to-be-stupid"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -306,6 +369,15 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
+    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
+    "id": "mykpono/ultimate-seo-geo",
+    "language": "Python",
+    "name": "mykpono/ultimate-seo-geo",
+    "stars": 65,
+    "updated_at": "2026-08-11T20:46:05Z",
+    "url": "https://github.com/mykpono/ultimate-seo-geo"
+  },
+  {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
     "id": "ashfaquecg806-dot/symfony-ux-insights",
     "language": "HTML",
@@ -338,7 +410,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 12,
-    "updated_at": "2026-08-11T20:45:04Z",
+    "updated_at": "2026-08-11T21:22:43Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
-    "id": "mykpono/ultimate-seo-geo",
-    "language": "Python",
-    "name": "mykpono/ultimate-seo-geo",
-    "stars": 64,
-    "updated_at": "2026-08-11T20:46:05Z",
-    "url": "https://github.com/mykpono/ultimate-seo-geo"
-  },
-  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-11T20:42:30Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Cognitive translation layer for Claude Code",
-    "id": "khujta/gabe-suite",
-    "language": "HTML",
-    "name": "khujta/gabe-suite",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:42:00Z",
-    "url": "https://github.com/khujta/gabe-suite"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67703,
-    "updated_at": "2026-08-11T20:41:56Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-11T20:41:19Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:40:21Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:40:10Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "Manage long-form AI conversations and code workflows on Windows, macOS, and Linux with this standalone desktop workspace",
-    "id": "Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop",
-    "language": "TypeScript",
-    "name": "Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:39:09Z",
-    "url": "https://github.com/Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop"
-  },
-  {
-    "description": "Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation.",
-    "id": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "language": "Python",
-    "name": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:39:07Z",
-    "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
   }
 ]
