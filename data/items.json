@@ -1,10 +1,37 @@
 [
   {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18629,
+    "updated_at": "2026-08-11T14:31:36Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T14:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M",
+    "id": "QAIA-Project/QAIA",
+    "language": "Gherkin",
+    "name": "QAIA-Project/QAIA",
+    "stars": 0,
+    "updated_at": "2026-08-11T14:29:43Z",
+    "url": "https://github.com/QAIA-Project/QAIA"
+  },
+  {
     "description": "Curated collection of modular agent skills for LLM-based agents",
     "id": "oliverb-io1902e8/agent-skills-collection",
     "language": "Python",
     "name": "oliverb-io1902e8/agent-skills-collection",
-    "stars": 134,
+    "stars": 156,
     "updated_at": "2026-08-11T14:29:30Z",
     "url": "https://github.com/oliverb-io1902e8/agent-skills-collection"
   },
@@ -45,6 +72,15 @@
     "url": "https://github.com/OKHP3/skillz"
   },
   {
+    "description": "OSADO educated clankers",
+    "id": "mpagot/os-autoinst-distri-opensuse-skills",
+    "language": "Perl",
+    "name": "mpagot/os-autoinst-distri-opensuse-skills",
+    "stars": 4,
+    "updated_at": "2026-08-11T14:26:14Z",
+    "url": "https://github.com/mpagot/os-autoinst-distri-opensuse-skills"
+  },
+  {
     "description": "Skill de faxina de codebase para Claude Code: remove c\u00f3digo morto, detecta arquivos e fun\u00e7\u00f5es duplicadas, consolida m\u00f3du",
     "id": "CRangelP/codebase-cleanup",
     "language": "Shell",
@@ -52,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-11T14:25:09Z",
     "url": "https://github.com/CRangelP/codebase-cleanup"
+  },
+  {
+    "description": "My .claude folder that contains important configuration for Claude Code",
+    "id": "mostwise/dot-claude",
+    "language": "JavaScript",
+    "name": "mostwise/dot-claude",
+    "stars": 0,
+    "updated_at": "2026-08-11T14:23:52Z",
+    "url": "https://github.com/mostwise/dot-claude"
   },
   {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
@@ -86,7 +131,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 4,
-    "updated_at": "2026-08-11T14:19:00Z",
+    "updated_at": "2026-08-11T14:36:06Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 121,
     "updated_at": "2026-08-11T14:16:07Z",
     "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-11T14:15:28Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 246,
-    "updated_at": "2026-08-11T14:11:28Z",
+    "updated_at": "2026-08-11T14:34:32Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/tahirzlone/untangle"
   },
   {
-    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M",
-    "id": "QAIA-Project/QAIA",
-    "language": "Gherkin",
-    "name": "QAIA-Project/QAIA",
-    "stars": 0,
-    "updated_at": "2026-08-11T14:29:43Z",
-    "url": "https://github.com/QAIA-Project/QAIA"
-  },
-  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -365,7 +392,7 @@
     "language": "JavaScript",
     "name": "ali-ulu/Pulse",
     "stars": 0,
-    "updated_at": "2026-08-11T14:29:45Z",
+    "updated_at": "2026-08-11T14:34:47Z",
     "url": "https://github.com/ali-ulu/Pulse"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Rust",
     "name": "ratel-ai/ratel",
     "stars": 419,
-    "updated_at": "2026-08-11T13:58:30Z",
+    "updated_at": "2026-08-11T14:32:58Z",
     "url": "https://github.com/ratel-ai/ratel"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-11T13:50:40Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Shared skills, prompts, and tooling for Picsart's gen-ai CLI and generative-AI workflows",
-    "id": "PicsArt/gen-ai-skills",
-    "language": "Python",
-    "name": "PicsArt/gen-ai-skills",
-    "stars": 4,
-    "updated_at": "2026-08-11T13:50:31Z",
-    "url": "https://github.com/PicsArt/gen-ai-skills"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 15,
-    "updated_at": "2026-08-11T14:16:25Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:49:01Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
   }
 ]
