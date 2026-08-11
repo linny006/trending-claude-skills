@@ -1,5 +1,104 @@
 [
   {
+    "description": "Autonomous audit-fix-verify loop for Claude Code. Run against 22 open source projects in 10 languages, 21 converged, 2 f",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 5,
+    "updated_at": "2026-08-11T21:50:20Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-08-11T21:50:17Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-11T21:50:03Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Claude Code plugin and agent skills that validate a startup idea \u2014 testable hypothesis, red-team, market sizing, custome",
+    "id": "heyparsadev/claude-idea-validator",
+    "language": "\u2014",
+    "name": "heyparsadev/claude-idea-validator",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:49:00Z",
+    "url": "https://github.com/heyparsadev/claude-idea-validator"
+  },
+  {
+    "description": "Claude Code plugin and agent skills for founders \u2014 market research, competitor analysis, customer discovery, product-mar",
+    "id": "heyparsadev/claude-venture-plugin",
+    "language": "\u2014",
+    "name": "heyparsadev/claude-venture-plugin",
+    "stars": 4,
+    "updated_at": "2026-08-11T21:48:57Z",
+    "url": "https://github.com/heyparsadev/claude-venture-plugin"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 three plugins for startup validation, business strategy, and iOS 26 SwiftUI design. Ins",
+    "id": "heyparsadev/claude-plugins",
+    "language": "\u2014",
+    "name": "heyparsadev/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:48:54Z",
+    "url": "https://github.com/heyparsadev/claude-plugins"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-08-11T21:47:49Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 12,
+    "updated_at": "2026-08-11T21:47:17Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-08-11T21:46:33Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:46:13Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T21:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -23,7 +122,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-11T21:42:50Z",
+    "updated_at": "2026-08-11T21:45:25Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -207,15 +306,6 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-11T21:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A plumb line finds true vertical by gravity alone. plumb-line is a provenance library and Claude Code plugin that does t",
     "id": "slopstopper/plumb-line",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T21:05:09Z",
     "url": "https://github.com/fifidayone/svelte-edge"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-11T21:05:04Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "The nifi-and-ai Claude skill \u2014 build, deploy, and debug Apache NiFi 2.x / MiNiFi / EFM data flows",
-    "id": "cldr-steven-matison/NiFiandAi",
-    "language": "\u2014",
-    "name": "cldr-steven-matison/NiFiandAi",
-    "stars": 0,
-    "updated_at": "2026-08-11T21:04:13Z",
-    "url": "https://github.com/cldr-steven-matison/NiFiandAi"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 three plugins for startup validation, business strategy, and iOS 26 SwiftUI design. Ins",
-    "id": "heyparsadev/claude-plugins",
-    "language": "\u2014",
-    "name": "heyparsadev/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-08-11T21:03:48Z",
-    "url": "https://github.com/heyparsadev/claude-plugins"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-11T21:03:45Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 121,
-    "updated_at": "2026-08-11T21:41:52Z",
-    "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "Claude Code skill for iOS 26 Liquid Glass SwiftUI design \u2014 glassEffect API reference, HIG principles, design tokens, mot",
-    "id": "heyparsadev/liquid-glass-skill",
-    "language": "Swift",
-    "name": "heyparsadev/liquid-glass-skill",
-    "stars": 0,
-    "updated_at": "2026-08-11T21:02:19Z",
-    "url": "https://github.com/heyparsadev/liquid-glass-skill"
-  },
-  {
-    "description": "Claude Code plugin and agent skills that validate a startup idea \u2014 testable hypothesis, red-team, market sizing, custome",
-    "id": "heyparsadev/idea-validator",
-    "language": "\u2014",
-    "name": "heyparsadev/idea-validator",
-    "stars": 0,
-    "updated_at": "2026-08-11T21:02:14Z",
-    "url": "https://github.com/heyparsadev/idea-validator"
-  },
-  {
-    "description": "Claude Code plugin and agent skills for founders \u2014 market research, competitor analysis, customer discovery, product-mar",
-    "id": "heyparsadev/claude-venture-plugin",
-    "language": "\u2014",
-    "name": "heyparsadev/claude-venture-plugin",
-    "stars": 4,
-    "updated_at": "2026-08-11T21:02:11Z",
-    "url": "https://github.com/heyparsadev/claude-venture-plugin"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:59:57Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-11T20:58:48Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
