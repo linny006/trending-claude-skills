@@ -1,11 +1,119 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-11T08:29:50Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b Claude Code: \u0437\u043e\u0432\u0451\u0442 OpenAI Codex CLI \u0437\u0430 \u0432\u0442\u043e\u0440\u044b\u043c \u043c\u043d\u0435\u043d\u0438\u0435\u043c, \u0437\u0430\u0434\u0430\u0447\u0435\u0439, \u0440\u0430\u0437\u0431\u043e\u0440\u043e\u043c \u0438\u043b\u0438 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0438",
+    "id": "warodan/hey-codex",
+    "language": "Shell",
+    "name": "warodan/hey-codex",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:28:40Z",
+    "url": "https://github.com/warodan/hey-codex"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:27:53Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Turn PhD weekly notes, papers, results, and figures into evidence-grounded lab meeting reports, with Feishu, Notion, and",
+    "id": "LikC1606/lab-meeting-report-skill",
+    "language": "Python",
+    "name": "LikC1606/lab-meeting-report-skill",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:27:45Z",
+    "url": "https://github.com/LikC1606/lab-meeting-report-skill"
+  },
+  {
+    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
+    "id": "magnusrodseth/dotfiles",
+    "language": "JavaScript",
+    "name": "magnusrodseth/dotfiles",
+    "stars": 2,
+    "updated_at": "2026-08-11T08:24:43Z",
+    "url": "https://github.com/magnusrodseth/dotfiles"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 67663,
+    "updated_at": "2026-08-11T08:23:15Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code skill that checks writing and interfaces for AI slop, then applies your voice and runs a final review. Inclu",
+    "id": "Rlegaspi562/no-slop",
+    "language": "JavaScript",
+    "name": "Rlegaspi562/no-slop",
+    "stars": 1,
+    "updated_at": "2026-08-11T08:23:15Z",
+    "url": "https://github.com/Rlegaspi562/no-slop"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 83,
+    "updated_at": "2026-08-11T08:18:35Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:16:24Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M",
+    "id": "QAIA-Project/QAIA",
+    "language": "Gherkin",
+    "name": "QAIA-Project/QAIA",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:16:10Z",
+    "url": "https://github.com/QAIA-Project/QAIA"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T08:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Bridge context across AI coding sessions \u2014 generate handoff docs for Claude Code and Codex",
+    "id": "FanYilang/session-handoff",
+    "language": "\u2014",
+    "name": "FanYilang/session-handoff",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:13:10Z",
+    "url": "https://github.com/FanYilang/session-handoff"
+  },
+  {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
     "id": "crypdick/pynchy",
     "language": "Python",
     "name": "crypdick/pynchy",
     "stars": 10,
-    "updated_at": "2026-08-11T08:13:09Z",
+    "updated_at": "2026-08-11T08:17:16Z",
     "url": "https://github.com/crypdick/pynchy"
   },
   {
@@ -117,15 +225,6 @@
     "url": "https://github.com/tmj-90/gaffer"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67664,
-    "updated_at": "2026-08-11T08:04:01Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -171,24 +270,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
-    "id": "magnusrodseth/dotfiles",
-    "language": "JavaScript",
-    "name": "magnusrodseth/dotfiles",
-    "stars": 2,
-    "updated_at": "2026-08-11T08:02:04Z",
-    "url": "https://github.com/magnusrodseth/dotfiles"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-11T08:14:09Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "ADD - LOOP SKILL for AI Coding Agent",
     "id": "pilotspace/ADD",
     "language": "Python",
@@ -225,15 +306,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-11T08:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
     "id": "isatimur/excalidraw-skill-pack",
     "language": "TypeScript",
@@ -259,15 +331,6 @@
     "stars": 1271,
     "updated_at": "2026-08-11T07:56:30Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M",
-    "id": "QAIA-Project/QAIA",
-    "language": "Gherkin",
-    "name": "QAIA-Project/QAIA",
-    "stars": 0,
-    "updated_at": "2026-08-11T07:55:43Z",
-    "url": "https://github.com/QAIA-Project/QAIA"
   },
   {
     "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Claude Code / Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\u3002\u9996\u53d1 3 \u4e2a\u901a\u7528\u578b\uff1anew-convo-handoff\uff08\u957f\u9879\u76ee\u4ea4\u63a5\uff09\u3001first-principles\uff08\u7b2c\u4e00\u6027\u539f\u7406\uff09\u3001clarify-u",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-11T07:40:42Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-11T07:38:40Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-11T07:38:05Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-08-11T07:37:02Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
-    "id": "isamubas/coffee_price_predictor",
-    "language": "HTML",
-    "name": "isamubas/coffee_price_predictor",
-    "stars": 0,
-    "updated_at": "2026-08-11T07:36:59Z",
-    "url": "https://github.com/isamubas/coffee_price_predictor"
-  },
-  {
-    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
-    "id": "netopsengineer/axiom",
-    "language": "Python",
-    "name": "netopsengineer/axiom",
-    "stars": 3,
-    "updated_at": "2026-08-11T07:36:52Z",
-    "url": "https://github.com/netopsengineer/axiom"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-11T07:34:41Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
-    "id": "worldwonderer/novel-to-game",
-    "language": "Markdown",
-    "name": "worldwonderer/novel-to-game",
-    "stars": 626,
-    "updated_at": "2026-08-11T07:34:25Z",
-    "url": "https://github.com/worldwonderer/novel-to-game"
   }
 ]
