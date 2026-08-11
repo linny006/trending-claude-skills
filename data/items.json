@@ -1,12 +1,12 @@
 [
   {
-    "description": "A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design ",
-    "id": "Turki-Sh/Foreman",
-    "language": "HTML",
-    "name": "Turki-Sh/Foreman",
+    "description": "When your agent starts coding, you gotta let it cook",
+    "id": "ndisisnd/cook",
+    "language": "Python",
+    "name": "ndisisnd/cook",
     "stars": 2,
-    "updated_at": "2026-08-11T02:41:56Z",
-    "url": "https://github.com/Turki-Sh/Foreman"
+    "updated_at": "2026-08-11T02:51:53Z",
+    "url": "https://github.com/ndisisnd/cook"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -14,8 +14,80 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 407,
-    "updated_at": "2026-08-11T02:43:44Z",
+    "updated_at": "2026-08-11T02:51:48Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
+    "id": "natthasath/natthasath-marketplace",
+    "language": "HTML",
+    "name": "natthasath/natthasath-marketplace",
+    "stars": 1,
+    "updated_at": "2026-08-11T02:50:58Z",
+    "url": "https://github.com/natthasath/natthasath-marketplace"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-11T02:50:56Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-11T02:50:42Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-11T02:48:58Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-11T02:48:49Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 4,
+    "updated_at": "2026-08-11T02:47:40Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T02:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design ",
+    "id": "Turki-Sh/Foreman",
+    "language": "HTML",
+    "name": "Turki-Sh/Foreman",
+    "stars": 2,
+    "updated_at": "2026-08-11T02:41:56Z",
+    "url": "https://github.com/Turki-Sh/Foreman"
   },
   {
     "description": "One-command setup for a full VS Code Copilot Chat agent-skills stack on Windows \u2014 145 skills, 16 CLIs, 11 MCP servers, a",
@@ -34,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T02:40:53Z",
     "url": "https://github.com/fongzhizhi/claude-skill-lab"
-  },
-  {
-    "description": "When your agent starts coding, you gotta let it cook",
-    "id": "ndisisnd/cook",
-    "language": "Python",
-    "name": "ndisisnd/cook",
-    "stars": 2,
-    "updated_at": "2026-08-11T02:40:22Z",
-    "url": "https://github.com/ndisisnd/cook"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -124,24 +187,6 @@
     "stars": 3,
     "updated_at": "2026-08-11T02:30:19Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-11T02:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
-    "id": "natthasath/natthasath-marketplace",
-    "language": "HTML",
-    "name": "natthasath/natthasath-marketplace",
-    "stars": 1,
-    "updated_at": "2026-08-11T02:29:58Z",
-    "url": "https://github.com/natthasath/natthasath-marketplace"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-11T01:46:25Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-08-11T01:43:49Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-08-11T01:43:17Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "71 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI gates, des",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 152,
-    "updated_at": "2026-08-11T02:40:26Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-11T01:40:33Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Agent MCP server + skill for managing your NixOS system ",
-    "id": "JEFF7712/nix-agent",
-    "language": "Python",
-    "name": "JEFF7712/nix-agent",
-    "stars": 16,
-    "updated_at": "2026-08-11T01:39:55Z",
-    "url": "https://github.com/JEFF7712/nix-agent"
   }
 ]
