@@ -1,5 +1,77 @@
 [
   {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6127,
+    "updated_at": "2026-08-11T00:13:35Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "AI agent security posture and policy audit \u2014 static analysis with source-linked evidence for LangGraph, AutoGen, CrewAI,",
+    "id": "ali-ulu/Pulse",
+    "language": "JavaScript",
+    "name": "ali-ulu/Pulse",
+    "stars": 0,
+    "updated_at": "2026-08-11T00:12:48Z",
+    "url": "https://github.com/ali-ulu/Pulse"
+  },
+  {
+    "description": "Skill de faxina de codebase para Claude Code: remove c\u00f3digo morto, detecta arquivos e fun\u00e7\u00f5es duplicadas, consolida m\u00f3du",
+    "id": "CRangelP/codebase-cleanup",
+    "language": "Shell",
+    "name": "CRangelP/codebase-cleanup",
+    "stars": 0,
+    "updated_at": "2026-08-11T00:09:33Z",
+    "url": "https://github.com/CRangelP/codebase-cleanup"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-11T00:05:24Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Autonomous technical registry and configuration workstation for the Claude Code CLI state indicator mechanism.",
+    "id": "Amey-Thakur/CLAUDE-SPINNER-WORDS",
+    "language": "Shell",
+    "name": "Amey-Thakur/CLAUDE-SPINNER-WORDS",
+    "stars": 4,
+    "updated_at": "2026-08-11T00:04:39Z",
+    "url": "https://github.com/Amey-Thakur/CLAUDE-SPINNER-WORDS"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-11T00:01:45Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 21,
+    "updated_at": "2026-08-11T00:00:44Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T00:00:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -99,15 +171,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Skill de faxina de codebase para Claude Code: remove c\u00f3digo morto, detecta arquivos e fun\u00e7\u00f5es duplicadas, consolida m\u00f3du",
-    "id": "CRangelP/codebase-cleanup",
-    "language": "Shell",
-    "name": "CRangelP/codebase-cleanup",
-    "stars": 0,
-    "updated_at": "2026-08-10T23:50:21Z",
-    "url": "https://github.com/CRangelP/codebase-cleanup"
-  },
-  {
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. ",
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T23:45:33Z",
     "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-10T23:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -252,15 +306,6 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 21,
-    "updated_at": "2026-08-10T23:53:10Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
     "id": "samuel85194-ux/tycana-claude-hivemind",
     "language": "HTML",
@@ -302,7 +347,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-10T23:54:33Z",
+    "updated_at": "2026-08-11T00:05:00Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -322,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T23:30:39Z",
     "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "AI agent security posture and policy audit \u2014 static analysis with source-linked evidence for LangGraph, AutoGen, CrewAI,",
-    "id": "ali-ulu/Pulse",
-    "language": "JavaScript",
-    "name": "ali-ulu/Pulse",
-    "stars": 0,
-    "updated_at": "2026-08-10T23:57:52Z",
-    "url": "https://github.com/ali-ulu/Pulse"
   },
   {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
@@ -387,15 +423,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-10T23:25:34Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 53,
     "updated_at": "2026-08-10T23:23:26Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-10T23:22:36Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-10T23:20:00Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Production-oriented compliance, tax, legal, and operational domain-intelligence infrastructure for AI agents operating i",
-    "id": "adamriofc/indonesian-business-agent-skills",
-    "language": "JavaScript",
-    "name": "adamriofc/indonesian-business-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-08-10T23:18:06Z",
-    "url": "https://github.com/adamriofc/indonesian-business-agent-skills"
   }
 ]
