@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 22:45 UTC
+> ⏰ Last updated: 2026-08-12 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bokyostudio/pg-practice-knowledgebase](https://github.com/bokyostudio/pg-practice-knowledgebase) | 0 | HTML | 2026-08-12 | The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026 |
-| 2 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-08-12 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
-| 3 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-08-12 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
-| 4 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 2 | HTML | 2026-08-12 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
-| 5 | [ali-ulu/Pulse](https://github.com/ali-ulu/Pulse) | 0 | JavaScript | 2026-08-12 | AI agent security posture and policy audit — static analysis with source-linked evidence for LangGraph, AutoGen, CrewAI, |
-| 6 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 2 | HTML | 2026-08-12 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
-| 7 | [KijitoAI/kijito-claude](https://github.com/KijitoAI/kijito-claude) | 0 | JavaScript | 2026-08-12 | Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca |
-| 8 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-12 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 9 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 2 | HTML | 2026-08-12 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
-| 10 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 2 | HTML | 2026-08-12 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
-| 11 | [Maxmedawar/tandem](https://github.com/Maxmedawar/tandem) | 25 | TypeScript | 2026-08-12 | Tandem lets you connect and control any coding agent—including Claude, Codex, or Hermes—across different devices. It all |
-| 12 | [getcargohq/cargo-skills](https://github.com/getcargohq/cargo-skills) | 15 | TypeScript | 2026-08-12 | GTM engineering skills for AI coding agents — build lead lists, find & verify emails, waterfall enrichment, lead scoring |
-| 13 | [anukulgosavi1-coder/sqlitedata-extensions-playbook](https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook) | 1 | HTML | 2026-08-12 | Top Swift SQLiteData Alternatives 2026 – Best GRDB Skills Kit |
-| 14 | [sananthanarayan/skilldrop](https://github.com/sananthanarayan/skilldrop) | 2 | Python | 2026-08-12 | 56 portable AI-agent skills for the deliverables knowledge work actually ships — ADRs, design docs, PRDs, runbooks, deck |
-| 15 | [ashfaquecg806-dot/symfony-ux-insights](https://github.com/ashfaquecg806-dot/symfony-ux-insights) | 1 | HTML | 2026-08-12 | Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus |
-| 16 | [JhoseWolf/sageox-hivemind-engine](https://github.com/JhoseWolf/sageox-hivemind-engine) | 2 | HTML | 2026-08-12 | ⚡ SageOx HiveMind 2026 — Agentic Engineering Toolkit for Autonomous Workflows |
-| 17 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 3 | HTML | 2026-08-12 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
-| 18 | [Unstable-ascendingartery75/ai-session-search](https://github.com/Unstable-ascendingartery75/ai-session-search) | 0 | TypeScript | 2026-08-12 | Search and manage AI coding sessions locally with full-text search across 7 tools. |
-| 19 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 1 | HTML | 2026-08-12 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
-| 20 | [IslamBaraka90/Fintech-Algorithms-Library](https://github.com/IslamBaraka90/Fintech-Algorithms-Library) | 0 | TypeScript | 2026-08-12 | 471 provider-agnostic, zero-dependency TypeScript implementations of the algorithms behind market data, statistical and  |
-| 21 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-12 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 22 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 2 | HTML | 2026-08-12 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
-| 23 | [Arindaag760/humanizer-cli](https://github.com/Arindaag760/humanizer-cli) | 1 | JavaScript | 2026-08-12 | Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies. |
-| 24 | [maurieunoccupied182/biks-claude-tools-loader](https://github.com/maurieunoccupied182/biks-claude-tools-loader) | 0 | — | 2026-08-12 | Discover and install plugins for Claude Code through a release-oriented marketplace. |
-| 25 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-08-12 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
-| 26 | [Scoundrelwildness456/i-have-adhd](https://github.com/Scoundrelwildness456/i-have-adhd) | 3 | Python | 2026-08-12 | Format text outputs into ADHD-friendly styles to improve focus and readability for any user. |
-| 27 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 25 | Python | 2026-08-12 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 28 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-08-12 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
-| 29 | [abbyuraffi-netizen/maxvision-claude-forge](https://github.com/abbyuraffi-netizen/maxvision-claude-forge) | 1 | HTML | 2026-08-12 | n8n Claude Code Marketplace 2026 ⚡ Production-Grade Skills for GTM & Workflow Automation |
-| 30 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 7 | TypeScript | 2026-08-12 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
-| 31 | [Glad-oboedacaccia408/design.md](https://github.com/Glad-oboedacaccia408/design.md) | 1 | TypeScript | 2026-08-12 | Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h |
-| 32 | [lindneutral977/claude-mythos-ai-anthropic-desktop-app](https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app) | 2 | TypeScript | 2026-08-12 | A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux. |
-| 33 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 52 | HTML | 2026-08-12 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
-| 34 | [gilvangonzalez/technical-founding-gtm-toolkit](https://github.com/gilvangonzalez/technical-founding-gtm-toolkit) | 4 | HTML | 2026-08-12 | The Complete AI & Technical Founder GTM Toolkit 2026 – Pricing, PLG & Enterprise Sales |
-| 35 | [zerooo002/claude-artifacts-local-sync](https://github.com/zerooo002/claude-artifacts-local-sync) | 0 | — | 2026-08-12 | Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you |
-| 36 | [Palmerbeetling15/Council](https://github.com/Palmerbeetling15/Council) | 0 | Swift | 2026-08-12 | Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find |
-| 37 | [houseunlimited/hinge-auto](https://github.com/houseunlimited/hinge-auto) | 1 | Python | 2026-08-12 | Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management. |
-| 38 | [nullphase-net/enfurbish](https://github.com/nullphase-net/enfurbish) | 1 | TypeScript | 2026-08-12 | Claude Code Plugins |
-| 39 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 22 | Shell | 2026-08-12 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
-| 40 | [Highlydeveloped-trowel635/context-graph-compressor](https://github.com/Highlydeveloped-trowel635/context-graph-compressor) | 0 | — | 2026-08-12 | Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session |
-| 41 | [viibhutisharma30/jetpack-compose-remediation-kit](https://github.com/viibhutisharma30/jetpack-compose-remediation-kit) | 0 | HTML | 2026-08-12 | Modern Jetpack Compose Fixer 2026 – Debug Errors & Boost Android UI Performance |
-| 42 | [batterfried-philosophy172/Agent-Startup-Skills](https://github.com/batterfried-philosophy172/Agent-Startup-Skills) | 2 | JavaScript | 2026-08-12 | Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C |
-| 43 | [Hampto7114/detect-skill](https://github.com/Hampto7114/detect-skill) | 0 | — | 2026-08-12 | Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform. |
-| 44 | [martellevaliant19/grant-thinking-cn-biology](https://github.com/martellevaliant19/grant-thinking-cn-biology) | 0 | — | 2026-08-12 | Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug |
-| 45 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 2 | HTML | 2026-08-12 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
-| 46 | [texteditorscorpius2015/jinguyuan-dumpling-skill](https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill) | 1 | Python | 2026-08-12 | Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m |
-| 47 | [Georgiannebedded725/zenodo-skill](https://github.com/Georgiannebedded725/zenodo-skill) | 1 | — | 2026-08-12 | Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi |
-| 48 | [Einherjar99/bggg-skill-taotie](https://github.com/Einherjar99/bggg-skill-taotie) | 0 | — | 2026-08-12 | Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent  |
-| 49 | [allans4635/memctx](https://github.com/allans4635/memctx) | 0 | TypeScript | 2026-08-12 | Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks. |
-| 50 | [anitagraviti-sys/swarmvault](https://github.com/anitagraviti-sys/swarmvault) | 2 | TypeScript | 2026-08-12 | Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping. |
+| 1 | [KijitoAI/kijito-claude](https://github.com/KijitoAI/kijito-claude) | 0 | JavaScript | 2026-08-12 | Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca |
+| 2 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-12 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 3 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-12 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 4 | [khujta/gabe-suite](https://github.com/khujta/gabe-suite) | 0 | HTML | 2026-08-12 | Cognitive translation layer for Claude Code |
+| 5 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-08-12 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
+| 6 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-12 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 7 | [crabbuild/compass](https://github.com/crabbuild/compass) | 122 | Rust | 2026-08-12 | Native, local-first knowledge graph engine for code and project artifacts—inspired by Graphify, built in Rust, and evolv |
+| 8 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-08-12 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
+| 9 | [JBSag/pm-artisan](https://github.com/JBSag/pm-artisan) | 1 | HTML | 2026-08-12 | 15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly |
+| 10 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-08-12 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
+| 11 | [zywkloo/wtcraft](https://github.com/zywkloo/wtcraft) | 3 | Shell | 2026-08-12 | Git-native agent governance core — task contracts and deterministic scope/verification checks that keep coding agents in |
+| 12 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-08-12 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
+| 13 | [munexor/seo-opportunity-nexus](https://github.com/munexor/seo-opportunity-nexus) | 0 | HTML | 2026-08-12 | SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools |
+| 14 | [yngbrll/vb-winforms-toolkit](https://github.com/yngbrll/vb-winforms-toolkit) | 1 | HTML | 2026-08-12 | Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026 |
+| 15 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 7 | TypeScript | 2026-08-12 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
+| 16 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 25 | Python | 2026-08-12 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 17 | [bokyostudio/pg-practice-knowledgebase](https://github.com/bokyostudio/pg-practice-knowledgebase) | 0 | HTML | 2026-08-12 | The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026 |
+| 18 | [hieu5882/telos-customer-validator](https://github.com/hieu5882/telos-customer-validator) | 0 | HTML | 2026-08-12 | The Art of Customer Validation: 2026’s Overlooked Startup Growth Filter |
+| 19 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-08-12 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
+| 20 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 2 | HTML | 2026-08-12 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
+| 21 | [ali-ulu/Pulse](https://github.com/ali-ulu/Pulse) | 0 | JavaScript | 2026-08-12 | AI agent security posture and policy audit — static analysis with source-linked evidence for LangGraph, AutoGen, CrewAI, |
+| 22 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 2 | HTML | 2026-08-12 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
+| 23 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-12 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 24 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 2 | HTML | 2026-08-12 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
+| 25 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 2 | HTML | 2026-08-12 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
+| 26 | [Maxmedawar/tandem](https://github.com/Maxmedawar/tandem) | 25 | TypeScript | 2026-08-12 | Tandem lets you connect and control any coding agent—including Claude, Codex, or Hermes—across different devices. It all |
+| 27 | [getcargohq/cargo-skills](https://github.com/getcargohq/cargo-skills) | 15 | TypeScript | 2026-08-12 | GTM engineering skills for AI coding agents — build lead lists, find & verify emails, waterfall enrichment, lead scoring |
+| 28 | [anukulgosavi1-coder/sqlitedata-extensions-playbook](https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook) | 1 | HTML | 2026-08-12 | Top Swift SQLiteData Alternatives 2026 – Best GRDB Skills Kit |
+| 29 | [sananthanarayan/skilldrop](https://github.com/sananthanarayan/skilldrop) | 2 | Python | 2026-08-12 | 56 portable AI-agent skills for the deliverables knowledge work actually ships — ADRs, design docs, PRDs, runbooks, deck |
+| 30 | [ashfaquecg806-dot/symfony-ux-insights](https://github.com/ashfaquecg806-dot/symfony-ux-insights) | 1 | HTML | 2026-08-12 | Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus |
+| 31 | [JhoseWolf/sageox-hivemind-engine](https://github.com/JhoseWolf/sageox-hivemind-engine) | 2 | HTML | 2026-08-12 | ⚡ SageOx HiveMind 2026 — Agentic Engineering Toolkit for Autonomous Workflows |
+| 32 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 3 | HTML | 2026-08-12 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
+| 33 | [Unstable-ascendingartery75/ai-session-search](https://github.com/Unstable-ascendingartery75/ai-session-search) | 0 | TypeScript | 2026-08-12 | Search and manage AI coding sessions locally with full-text search across 7 tools. |
+| 34 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 1 | HTML | 2026-08-12 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
+| 35 | [IslamBaraka90/Fintech-Algorithms-Library](https://github.com/IslamBaraka90/Fintech-Algorithms-Library) | 0 | TypeScript | 2026-08-12 | 471 provider-agnostic, zero-dependency TypeScript implementations of the algorithms behind market data, statistical and  |
+| 36 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-12 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 37 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 2 | HTML | 2026-08-12 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
+| 38 | [Arindaag760/humanizer-cli](https://github.com/Arindaag760/humanizer-cli) | 1 | JavaScript | 2026-08-12 | Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies. |
+| 39 | [maurieunoccupied182/biks-claude-tools-loader](https://github.com/maurieunoccupied182/biks-claude-tools-loader) | 0 | — | 2026-08-12 | Discover and install plugins for Claude Code through a release-oriented marketplace. |
+| 40 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-08-12 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
+| 41 | [Scoundrelwildness456/i-have-adhd](https://github.com/Scoundrelwildness456/i-have-adhd) | 3 | Python | 2026-08-12 | Format text outputs into ADHD-friendly styles to improve focus and readability for any user. |
+| 42 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-08-12 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
+| 43 | [abbyuraffi-netizen/maxvision-claude-forge](https://github.com/abbyuraffi-netizen/maxvision-claude-forge) | 1 | HTML | 2026-08-12 | n8n Claude Code Marketplace 2026 ⚡ Production-Grade Skills for GTM & Workflow Automation |
+| 44 | [Glad-oboedacaccia408/design.md](https://github.com/Glad-oboedacaccia408/design.md) | 1 | TypeScript | 2026-08-12 | Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h |
+| 45 | [lindneutral977/claude-mythos-ai-anthropic-desktop-app](https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app) | 2 | TypeScript | 2026-08-12 | A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux. |
+| 46 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 52 | HTML | 2026-08-12 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
+| 47 | [gilvangonzalez/technical-founding-gtm-toolkit](https://github.com/gilvangonzalez/technical-founding-gtm-toolkit) | 4 | HTML | 2026-08-12 | The Complete AI & Technical Founder GTM Toolkit 2026 – Pricing, PLG & Enterprise Sales |
+| 48 | [zerooo002/claude-artifacts-local-sync](https://github.com/zerooo002/claude-artifacts-local-sync) | 0 | — | 2026-08-12 | Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you |
+| 49 | [Palmerbeetling15/Council](https://github.com/Palmerbeetling15/Council) | 0 | Swift | 2026-08-12 | Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find |
+| 50 | [houseunlimited/hinge-auto](https://github.com/houseunlimited/hinge-auto) | 2 | Python | 2026-08-12 | Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management. |
 <!-- TRACKER_TABLE_END -->
 
 ---
