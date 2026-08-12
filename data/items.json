@@ -1,65 +1,11 @@
 [
   {
-    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
-    "id": "Neetx/ai-security-research-radar",
-    "language": "\u2014",
-    "name": "Neetx/ai-security-research-radar",
-    "stars": 4,
-    "updated_at": "2026-08-12T05:45:07Z",
-    "url": "https://github.com/Neetx/ai-security-research-radar"
-  },
-  {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 122,
-    "updated_at": "2026-08-12T05:43:24Z",
-    "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "Production-oriented compliance, tax, legal, and operational domain-intelligence infrastructure for AI agents operating i",
-    "id": "adamriofc/indonesian-business-agent-skills",
-    "language": "JavaScript",
-    "name": "adamriofc/indonesian-business-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:42:21Z",
-    "url": "https://github.com/adamriofc/indonesian-business-agent-skills"
-  },
-  {
-    "description": "Curated, continuously verified index of Claude Code and Agent Skills tooling. Every entry re-checked daily; anything arc",
-    "id": "pjdurden/claude-skills-live",
-    "language": "TypeScript",
-    "name": "pjdurden/claude-skills-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T05:40:34Z",
-    "url": "https://github.com/pjdurden/claude-skills-live"
-  },
-  {
-    "description": "A curated collection of high impact skills for Claude Code designed to supercharge the senior full stack workflow. This ",
-    "id": "georgekhananaev/claude-skills-vault",
-    "language": "Python",
-    "name": "georgekhananaev/claude-skills-vault",
-    "stars": 27,
-    "updated_at": "2026-08-12T05:40:13Z",
-    "url": "https://github.com/georgekhananaev/claude-skills-vault"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-12T05:39:58Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
     "description": "The installation hub for Neel's open-source marketing systems: Digital Marketing Pro, ContentForge, and SocialForge - po",
     "id": "indranilbanerjee/neels-plugins",
     "language": "Python",
     "name": "indranilbanerjee/neels-plugins",
     "stars": 6,
-    "updated_at": "2026-08-12T05:38:31Z",
+    "updated_at": "2026-08-12T06:00:11Z",
     "url": "https://github.com/indranilbanerjee/neels-plugins"
   },
   {
@@ -68,385 +14,439 @@
     "language": "Python",
     "name": "indranilbanerjee/digital-marketing-pro",
     "stars": 732,
-    "updated_at": "2026-08-12T05:38:03Z",
+    "updated_at": "2026-08-12T05:59:50Z",
     "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
   },
   {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:37:26Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-12T05:37:24Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Goldilocks\uff1a\u7cbe\u7b80\u7684 Superpowers \u66ff\u4ee3\u65b9\u6848\uff5cv0.4.1 Direct \u5bf9\u7167 114/114 \u901a\u8fc7\uff0c\u5904\u7406 token \u221211.5%\u3001\u8017\u65f6 \u221210.9%\u3001\u5b98\u65b9\u6210\u672c \u22126.3%\u3002Lean, token-efficient A",
-    "id": "blackstone2333/goldilocks",
-    "language": "Python",
-    "name": "blackstone2333/goldilocks",
+    "description": "RunAPI Kimi API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/kimi",
+    "language": "\u2014",
+    "name": "runapi-ai/kimi",
     "stars": 0,
-    "updated_at": "2026-08-12T05:36:55Z",
-    "url": "https://github.com/blackstone2333/goldilocks"
+    "updated_at": "2026-08-12T05:59:50Z",
+    "url": "https://github.com/runapi-ai/kimi"
   },
   {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-12T05:32:36Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
+    "description": "RunAPI Gemini TTS skill for multi-speaker speech workflows in Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/gemini-tts",
+    "language": "\u2014",
+    "name": "runapi-ai/gemini-tts",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:59:48Z",
+    "url": "https://github.com/runapi-ai/gemini-tts"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-12T05:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall",
-    "id": "SELAT-AI/selat-plugins",
-    "language": "Shell",
-    "name": "SELAT-AI/selat-plugins",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:29:56Z",
-    "url": "https://github.com/SELAT-AI/selat-plugins"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
+    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
+    "id": "KijitoAI/kijito-claude",
     "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 90473,
-    "updated_at": "2026-08-12T05:29:33Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Make prose pull a reader in and hold them there. A Claude Code skill built on classical rhetoric and the studies that co",
-    "id": "Pr1m4lc0d3/peitho",
-    "language": "Python",
-    "name": "Pr1m4lc0d3/peitho",
+    "name": "KijitoAI/kijito-claude",
     "stars": 0,
-    "updated_at": "2026-08-12T05:29:54Z",
-    "url": "https://github.com/Pr1m4lc0d3/peitho"
+    "updated_at": "2026-08-12T05:59:47Z",
+    "url": "https://github.com/KijitoAI/kijito-claude"
   },
   {
-    "description": "Autonomous audit-fix-verify loop for Claude Code. Run against 22 open source projects in 10 languages, 21 converged, 2 f",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 5,
-    "updated_at": "2026-08-12T05:27:43Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
+    "description": "RunAPI DeepSeek API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/deepseek",
+    "language": "\u2014",
+    "name": "runapi-ai/deepseek",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:59:10Z",
+    "url": "https://github.com/runapi-ai/deepseek"
   },
   {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "description": "RunAPI Grok API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/grok",
+    "language": "\u2014",
+    "name": "runapi-ai/grok",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:58:59Z",
+    "url": "https://github.com/runapi-ai/grok"
+  },
+  {
+    "description": "RunAPI GLM API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/glm",
+    "language": "\u2014",
+    "name": "runapi-ai/glm",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:58:56Z",
+    "url": "https://github.com/runapi-ai/glm"
+  },
+  {
+    "description": "RunAPI SDK routing skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/sdk-skill",
+    "language": "\u2014",
+    "name": "runapi-ai/sdk-skill",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:58:50Z",
+    "url": "https://github.com/runapi-ai/sdk-skill"
+  },
+  {
+    "description": "RunAPI Volcengine Lip Sync skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/volcengine-lip-sync",
+    "language": "\u2014",
+    "name": "runapi-ai/volcengine-lip-sync",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:58:07Z",
+    "url": "https://github.com/runapi-ai/volcengine-lip-sync"
+  },
+  {
+    "description": "Turn a mockup into a dev-ready handoff spec: tokens, component states, accessibility notes, open questions",
+    "id": "humbleteam/design-handoff",
+    "language": "\u2014",
+    "name": "humbleteam/design-handoff",
     "stars": 1,
-    "updated_at": "2026-08-12T05:27:30Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+    "updated_at": "2026-08-12T05:57:49Z",
+    "url": "https://github.com/humbleteam/design-handoff"
   },
   {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
+    "description": "RunAPI Topaz skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/topaz",
+    "language": "\u2014",
+    "name": "runapi-ai/topaz",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:57:36Z",
+    "url": "https://github.com/runapi-ai/topaz"
+  },
+  {
+    "description": "WCAG 2.2 accessibility audit skill for Claude Code - severity-ranked findings with success-criterion citations",
+    "id": "humbleteam/accessibility-audit",
+    "language": "\u2014",
+    "name": "humbleteam/accessibility-audit",
     "stars": 1,
-    "updated_at": "2026-08-12T05:27:15Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+    "updated_at": "2026-08-12T05:57:34Z",
+    "url": "https://github.com/humbleteam/accessibility-audit"
   },
   {
-    "description": "Open-source skills that empower any AI agent (Claude, Cursor, Hermes, etc.) to generate end-to-end marketing campaigns -",
-    "id": "SupercmoHQ/superCMO-skills",
+    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "id": "gagip/gagip-dev",
     "language": "Python",
-    "name": "SupercmoHQ/superCMO-skills",
-    "stars": 11,
-    "updated_at": "2026-08-12T05:27:35Z",
-    "url": "https://github.com/SupercmoHQ/superCMO-skills"
+    "name": "gagip/gagip-dev",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:57:33Z",
+    "url": "https://github.com/gagip/gagip-dev"
   },
   {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
+    "description": "RunAPI Suno skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/suno",
+    "language": "\u2014",
+    "name": "runapi-ai/suno",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:56:56Z",
+    "url": "https://github.com/runapi-ai/suno"
+  },
+  {
+    "description": "RunAPI MiniMax API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/minimax",
+    "language": "\u2014",
+    "name": "runapi-ai/minimax",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:56:54Z",
+    "url": "https://github.com/runapi-ai/minimax"
+  },
+  {
+    "description": "RunAPI MiMo API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/mimo",
+    "language": "\u2014",
+    "name": "runapi-ai/mimo",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:56:51Z",
+    "url": "https://github.com/runapi-ai/mimo"
+  },
+  {
+    "description": "RunAPI Qwen Image skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/qwen-image",
+    "language": "\u2014",
+    "name": "runapi-ai/qwen-image",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:56:22Z",
+    "url": "https://github.com/runapi-ai/qwen-image"
+  },
+  {
+    "description": "RunAPI Gemini API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/gemini",
+    "language": "\u2014",
+    "name": "runapi-ai/gemini",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:56:15Z",
+    "url": "https://github.com/runapi-ai/gemini"
+  },
+  {
+    "description": "RunAPI GPT API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/gpt",
+    "language": "\u2014",
+    "name": "runapi-ai/gpt",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:55:47Z",
+    "url": "https://github.com/runapi-ai/gpt"
+  },
+  {
+    "description": "RunAPI CLI skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/cli-skill",
+    "language": "\u2014",
+    "name": "runapi-ai/cli-skill",
+    "stars": 2,
+    "updated_at": "2026-08-12T05:55:36Z",
+    "url": "https://github.com/runapi-ai/cli-skill"
+  },
+  {
+    "description": "RunAPI Claude API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/claude",
+    "language": "\u2014",
+    "name": "runapi-ai/claude",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:55:35Z",
+    "url": "https://github.com/runapi-ai/claude"
+  },
+  {
+    "description": "RunAPI Wan skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/wan",
+    "language": "\u2014",
+    "name": "runapi-ai/wan",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:55:30Z",
+    "url": "https://github.com/runapi-ai/wan"
+  },
+  {
+    "description": "Turn YouTube videos into traceable software requirement specs with two decoupled Claude Code skills: lossless metadata/t",
+    "id": "alikmlsipahi/youtube-to-spec",
     "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-08-12T05:26:06Z",
-    "url": "https://github.com/crypdick/pynchy"
+    "name": "alikmlsipahi/youtube-to-spec",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:55:28Z",
+    "url": "https://github.com/alikmlsipahi/youtube-to-spec"
+  },
+  {
+    "description": "RunAPI Z-Image skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/z-image",
+    "language": "\u2014",
+    "name": "runapi-ai/z-image",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:55:25Z",
+    "url": "https://github.com/runapi-ai/z-image"
+  },
+  {
+    "description": "RunAPI Seedream skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/seedream",
+    "language": "\u2014",
+    "name": "runapi-ai/seedream",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:55:01Z",
+    "url": "https://github.com/runapi-ai/seedream"
+  },
+  {
+    "description": "RunAPI Runway Aleph skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/runway-aleph",
+    "language": "\u2014",
+    "name": "runapi-ai/runway-aleph",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:54:53Z",
+    "url": "https://github.com/runapi-ai/runway-aleph"
+  },
+  {
+    "description": "RunAPI Seedance skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/seedance",
+    "language": "\u2014",
+    "name": "runapi-ai/seedance",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:54:50Z",
+    "url": "https://github.com/runapi-ai/seedance"
+  },
+  {
+    "description": "RunAPI OpenAI Transcription skill for audio transcription workflows",
+    "id": "runapi-ai/openai-transcription",
+    "language": "\u2014",
+    "name": "runapi-ai/openai-transcription",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:54:26Z",
+    "url": "https://github.com/runapi-ai/openai-transcription"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67724,
-    "updated_at": "2026-08-12T05:44:57Z",
+    "stars": 67727,
+    "updated_at": "2026-08-12T05:54:21Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-08-12T05:23:55Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Claude Code skills to generate AI video ads, UGC ads, and image ads. The official Novoads skill pack (REST API + MCP).",
-    "id": "novoads/claude-code-ads",
-    "language": "Python",
-    "name": "novoads/claude-code-ads",
-    "stars": 6,
-    "updated_at": "2026-08-12T05:23:14Z",
-    "url": "https://github.com/novoads/claude-code-ads"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-12T05:21:39Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-12T05:21:03Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 22,
-    "updated_at": "2026-08-12T05:21:18Z",
-    "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "Neo Skills \u662f\u5c08\u70ba\u73fe\u4ee3 AI Agent \u8a2d\u8a08\u7684\u5168\u65b9\u4f4d\u80fd\u529b\u64f4\u5145\u5957\u4ef6\u3002\u672c\u5c08\u6848\u900f\u904e\u6a19\u6e96\u5316\u7684\u901a\u8a0a\u67b6\u69cb\uff0c\u70ba AI \u4ee3\u7406\u5b89\u88dd\u53ef\u63d2\u62d4\u7684\u300c\u6280\u80fd\u6a21\u7d44 (Skills)\u300d\uff0c\u4f7f\u5176\u4e0d\u50c5\u50c5\u662f\u4e00\u500b\u804a\u5929\u6a5f\u5668\u4eba\uff0c\u800c\u662f\u80fd\u8f49\u5316\u70ba\u5177\u5099\u300c\u611f\u77e5-\u63a8\u7406-\u884c\u52d5\u300d\u80fd\u529b\u7684\u591a\u9818\u57df",
-    "id": "Benknightdark/neo-skills",
-    "language": "Python",
-    "name": "Benknightdark/neo-skills",
-    "stars": 7,
-    "updated_at": "2026-08-12T05:20:12Z",
-    "url": "https://github.com/Benknightdark/neo-skills"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-12T05:19:22Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:19:15Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-12T05:17:45Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:16:04Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 2,
-    "updated_at": "2026-08-12T05:12:52Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-08-12T05:11:56Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-12T05:43:56Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:09:33Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-08-12T05:08:12Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2193,
-    "updated_at": "2026-08-12T05:06:13Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
-    "id": "vbkotecha/agentservices-api",
-    "language": "Python",
-    "name": "vbkotecha/agentservices-api",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:05:33Z",
-    "url": "https://github.com/vbkotecha/agentservices-api"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-12T05:04:22Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 407,
-    "updated_at": "2026-08-12T05:02:21Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "CS/AI \u9886\u57df\u8bba\u6587\u4e13\u5c5e\u6df1\u5ea6\u8c03\u7814 skill\u30028-agent \u6d41\u6c34\u7ebf\u4ea7\u51fa survey \u7ea7\u6587\u732e\u7efc\u8ff0(\u5bf9\u6bd4\u8868 + SOTA \u8868),arXiv \u4f18\u5148\u68c0\u7d22\u3001\u9010\u6761\u5f15\u7528\u9a8c\u8bc1\u3001\u4e03\u9053\u8d28\u91cf\u95e8",
-    "id": "Yang-Shihui/deep-research-cs",
+    "description": "RunAPI Recraft skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/recraft",
     "language": "\u2014",
-    "name": "Yang-Shihui/deep-research-cs",
+    "name": "runapi-ai/recraft",
     "stars": 0,
-    "updated_at": "2026-08-12T05:01:51Z",
-    "url": "https://github.com/Yang-Shihui/deep-research-cs"
+    "updated_at": "2026-08-12T05:54:20Z",
+    "url": "https://github.com/runapi-ai/recraft"
   },
   {
-    "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
-    "id": "lemur47/logic",
+    "description": "RunAPI Runway skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/runway",
+    "language": "\u2014",
+    "name": "runapi-ai/runway",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:54:18Z",
+    "url": "https://github.com/runapi-ai/runway"
+  },
+  {
+    "description": "RunAPI Nano Banana skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/nano-banana",
+    "language": "\u2014",
+    "name": "runapi-ai/nano-banana",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:54:18Z",
+    "url": "https://github.com/runapi-ai/nano-banana"
+  },
+  {
+    "description": "RunAPI Midjourney skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/midjourney",
+    "language": "\u2014",
+    "name": "runapi-ai/midjourney",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:54:16Z",
+    "url": "https://github.com/runapi-ai/midjourney"
+  },
+  {
+    "description": "RunAPI Qwen 2 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/qwen-2",
+    "language": "\u2014",
+    "name": "runapi-ai/qwen-2",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:54:16Z",
+    "url": "https://github.com/runapi-ai/qwen-2"
+  },
+  {
+    "description": "RunAPI Gemini Omni skill for audio, character, and video workflows in Claude Code, Codex, Gemini CLI, Cursor, and 50+ ag",
+    "id": "runapi-ai/gemini-omni",
+    "language": "\u2014",
+    "name": "runapi-ai/gemini-omni",
+    "stars": 1,
+    "updated_at": "2026-08-12T05:54:03Z",
+    "url": "https://github.com/runapi-ai/gemini-omni"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:54:00Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "RunAPI Luma skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/luma",
+    "language": "\u2014",
+    "name": "runapi-ai/luma",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:54:00Z",
+    "url": "https://github.com/runapi-ai/luma"
+  },
+  {
+    "description": "RunAPI Producer skill for FUZZ exact-lyrics and instrumental music generation",
+    "id": "runapi-ai/producer",
+    "language": "\u2014",
+    "name": "runapi-ai/producer",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:53:27Z",
+    "url": "https://github.com/runapi-ai/producer"
+  },
+  {
+    "description": "RunAPI OmniHuman skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/omnihuman",
+    "language": "\u2014",
+    "name": "runapi-ai/omnihuman",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:53:21Z",
+    "url": "https://github.com/runapi-ai/omnihuman"
+  },
+  {
+    "description": "RunAPI Grok Imagine image and video skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/grok-imagine",
+    "language": "\u2014",
+    "name": "runapi-ai/grok-imagine",
+    "stars": 1,
+    "updated_at": "2026-08-12T05:53:21Z",
+    "url": "https://github.com/runapi-ai/grok-imagine"
+  },
+  {
+    "description": "A local sandbox for your AI agents",
+    "id": "instavm/coderunner",
     "language": "Python",
-    "name": "lemur47/logic",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:03:56Z",
-    "url": "https://github.com/lemur47/logic"
+    "name": "instavm/coderunner",
+    "stars": 882,
+    "updated_at": "2026-08-12T05:53:18Z",
+    "url": "https://github.com/instavm/coderunner"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:01:13Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
+    "description": "RunAPI Ideogram V3 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/ideogram-v3",
+    "language": "\u2014",
+    "name": "runapi-ai/ideogram-v3",
     "stars": 0,
-    "updated_at": "2026-08-12T04:57:53Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+    "updated_at": "2026-08-12T05:53:13Z",
+    "url": "https://github.com/runapi-ai/ideogram-v3"
   },
   {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
+    "description": "RunAPI Kling skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/kling",
+    "language": "\u2014",
+    "name": "runapi-ai/kling",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:51:47Z",
+    "url": "https://github.com/runapi-ai/kling"
+  },
+  {
+    "description": "RunAPI Fish Audio skill for speech generation across coding agents",
+    "id": "runapi-ai/fish-audio",
+    "language": "\u2014",
+    "name": "runapi-ai/fish-audio",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:51:44Z",
+    "url": "https://github.com/runapi-ai/fish-audio"
+  },
+  {
+    "description": "\uad34\uc0c1\ud55c \ud574\uc694\uccb4\ub294 \uc774\uc81c \uadf8\ub9cc...!!",
+    "id": "JellyBrick/korean-prose-skill",
     "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 4702,
-    "updated_at": "2026-08-12T04:55:56Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+    "name": "JellyBrick/korean-prose-skill",
+    "stars": 3,
+    "updated_at": "2026-08-12T05:51:43Z",
+    "url": "https://github.com/JellyBrick/korean-prose-skill"
   },
   {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 4,
+    "updated_at": "2026-08-12T05:51:19Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
-    "name": "reem-plus/quiver-compass",
+    "name": "Rick-254/moodle-quizsmith",
     "stars": 0,
-    "updated_at": "2026-08-12T04:53:57Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
+    "updated_at": "2026-08-12T05:51:16Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-12T04:53:09Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-08-12T04:51:32Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
+    "description": "RunAPI Flux 2 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/flux-2",
+    "language": "\u2014",
+    "name": "runapi-ai/flux-2",
     "stars": 0,
-    "updated_at": "2026-08-12T04:51:32Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+    "updated_at": "2026-08-12T05:50:32Z",
+    "url": "https://github.com/runapi-ai/flux-2"
+  },
+  {
+    "description": "RunAPI MiniMax H3 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+    "id": "runapi-ai/minimax-h3",
+    "language": "\u2014",
+    "name": "runapi-ai/minimax-h3",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:50:31Z",
+    "url": "https://github.com/runapi-ai/minimax-h3"
   }
 ]

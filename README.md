@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 05:45 UTC
+> ⏰ Last updated: 2026-08-12 06:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Neetx/ai-security-research-radar](https://github.com/Neetx/ai-security-research-radar) | 4 | — | 2026-08-12 |  AI Security Research Radar — AI for security and security for AI |
-| 2 | [crabbuild/compass](https://github.com/crabbuild/compass) | 122 | Rust | 2026-08-12 | Native, local-first knowledge graph engine for code and project artifacts—inspired by Graphify, built in Rust, and evolv |
-| 3 | [adamriofc/indonesian-business-agent-skills](https://github.com/adamriofc/indonesian-business-agent-skills) | 1 | JavaScript | 2026-08-12 | Production-oriented compliance, tax, legal, and operational domain-intelligence infrastructure for AI agents operating i |
-| 4 | [pjdurden/claude-skills-live](https://github.com/pjdurden/claude-skills-live) | 2 | TypeScript | 2026-08-12 | Curated, continuously verified index of Claude Code and Agent Skills tooling. Every entry re-checked daily; anything arc |
-| 5 | [georgekhananaev/claude-skills-vault](https://github.com/georgekhananaev/claude-skills-vault) | 27 | Python | 2026-08-12 | A curated collection of high impact skills for Claude Code designed to supercharge the senior full stack workflow. This  |
-| 6 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 3 | HTML | 2026-08-12 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
-| 7 | [indranilbanerjee/neels-plugins](https://github.com/indranilbanerjee/neels-plugins) | 6 | Python | 2026-08-12 | The installation hub for Neel's open-source marketing systems: Digital Marketing Pro, ContentForge, and SocialForge - po |
-| 8 | [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) | 732 | Python | 2026-08-12 | An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - groun |
-| 9 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 1 | HTML | 2026-08-12 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
-| 10 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 2 | HTML | 2026-08-12 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
-| 11 | [blackstone2333/goldilocks](https://github.com/blackstone2333/goldilocks) | 0 | Python | 2026-08-12 | Goldilocks：精简的 Superpowers 替代方案｜v0.4.1 Direct 对照 114/114 通过，处理 token −11.5%、耗时 −10.9%、官方成本 −6.3%。Lean, token-efficient A |
-| 12 | [HsuanYuLee/polaris](https://github.com/HsuanYuLee/polaris) | 5 | Shell | 2026-08-12 | A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups |
-| 13 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 25 | Python | 2026-08-12 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 14 | [SELAT-AI/selat-plugins](https://github.com/SELAT-AI/selat-plugins) | 1 | Shell | 2026-08-12 | Official SELAT plugins — discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall |
-| 15 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 90473 | JavaScript | 2026-08-12 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
-| 16 | [Pr1m4lc0d3/peitho](https://github.com/Pr1m4lc0d3/peitho) | 0 | Python | 2026-08-12 | Make prose pull a reader in and hold them there. A Claude Code skill built on classical rhetoric and the studies that co |
-| 17 | [lenamonj/jeffy-loop](https://github.com/lenamonj/jeffy-loop) | 5 | Shell | 2026-08-12 | Autonomous audit-fix-verify loop for Claude Code. Run against 22 open source projects in 10 languages, 21 converged, 2 f |
-| 18 | [abbyuraffi-netizen/maxvision-claude-forge](https://github.com/abbyuraffi-netizen/maxvision-claude-forge) | 1 | HTML | 2026-08-12 | n8n Claude Code Marketplace 2026 ⚡ Production-Grade Skills for GTM & Workflow Automation |
-| 19 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-08-12 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
-| 20 | [SupercmoHQ/superCMO-skills](https://github.com/SupercmoHQ/superCMO-skills) | 11 | Python | 2026-08-12 | Open-source skills that empower any AI agent (Claude, Cursor, Hermes, etc.) to generate end-to-end marketing campaigns - |
-| 21 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-08-12 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
-| 22 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67724 | TypeScript | 2026-08-12 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 23 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-08-12 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
-| 24 | [novoads/claude-code-ads](https://github.com/novoads/claude-code-ads) | 6 | Python | 2026-08-12 | Claude Code skills to generate AI video ads, UGC ads, and image ads. The official Novoads skill pack (REST API + MCP). |
-| 25 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 52 | HTML | 2026-08-12 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
-| 26 | [gilvangonzalez/technical-founding-gtm-toolkit](https://github.com/gilvangonzalez/technical-founding-gtm-toolkit) | 4 | HTML | 2026-08-12 | The Complete AI & Technical Founder GTM Toolkit 2026 – Pricing, PLG & Enterprise Sales |
-| 27 | [AgamiAI/agami-core](https://github.com/AgamiAI/agami-core) | 22 | Python | 2026-08-12 | The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe |
-| 28 | [Benknightdark/neo-skills](https://github.com/Benknightdark/neo-skills) | 7 | Python | 2026-08-12 | Neo Skills 是專為現代 AI Agent 設計的全方位能力擴充套件。本專案透過標準化的通訊架構，為 AI 代理安裝可插拔的「技能模組 (Skills)」，使其不僅僅是一個聊天機器人，而是能轉化為具備「感知-推理-行動」能力的多領域 |
-| 29 | [viibhutisharma30/jetpack-compose-remediation-kit](https://github.com/viibhutisharma30/jetpack-compose-remediation-kit) | 0 | HTML | 2026-08-12 | Modern Jetpack Compose Fixer 2026 – Debug Errors & Boost Android UI Performance |
-| 30 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-12 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 31 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 2 | HTML | 2026-08-12 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
-| 32 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-12 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 33 | [patrickserrano/lacquer](https://github.com/patrickserrano/lacquer) | 2 | Go | 2026-08-12 | Go CLI + profile templates that standardize how Claude Code works across every project |
-| 34 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-12 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 35 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 108 | Kotlin | 2026-08-12 | Helping the Agents Compose the Things |
-| 36 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-12 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 37 | [onlymuneeb38-glitch/ios-agent-skills-evaluator](https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator) | 3 | HTML | 2026-08-12 | iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models |
-| 38 | [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | 2193 | TypeScript | 2026-08-12 | Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott |
-| 39 | [vbkotecha/agentservices-api](https://github.com/vbkotecha/agentservices-api) | 1 | Python | 2026-08-12 | AgentServices — Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments  |
-| 40 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-08-12 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
-| 41 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 407 | Python | 2026-08-12 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
-| 42 | [Yang-Shihui/deep-research-cs](https://github.com/Yang-Shihui/deep-research-cs) | 0 | — | 2026-08-12 | CS/AI 领域论文专属深度调研 skill。8-agent 流水线产出 survey 级文献综述(对比表 + SOTA 表),arXiv 优先检索、逐条引用验证、七道质量门 |
-| 43 | [lemur47/logic](https://github.com/lemur47/logic) | 1 | Python | 2026-08-12 | PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions. |
-| 44 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-12 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 45 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-12 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 46 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 4702 | TypeScript | 2026-08-12 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ |
-| 47 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-08-12 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
-| 48 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-08-12 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
-| 49 | [JBSag/pm-artisan](https://github.com/JBSag/pm-artisan) | 1 | HTML | 2026-08-12 | 15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly |
-| 50 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-08-12 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
+| 1 | [indranilbanerjee/neels-plugins](https://github.com/indranilbanerjee/neels-plugins) | 6 | Python | 2026-08-12 | The installation hub for Neel's open-source marketing systems: Digital Marketing Pro, ContentForge, and SocialForge - po |
+| 2 | [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) | 732 | Python | 2026-08-12 | An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - groun |
+| 3 | [runapi-ai/kimi](https://github.com/runapi-ai/kimi) | 0 | — | 2026-08-12 | RunAPI Kimi API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 4 | [runapi-ai/gemini-tts](https://github.com/runapi-ai/gemini-tts) | 0 | — | 2026-08-12 | RunAPI Gemini TTS skill for multi-speaker speech workflows in Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 5 | [KijitoAI/kijito-claude](https://github.com/KijitoAI/kijito-claude) | 0 | JavaScript | 2026-08-12 | Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca |
+| 6 | [runapi-ai/deepseek](https://github.com/runapi-ai/deepseek) | 0 | — | 2026-08-12 | RunAPI DeepSeek API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 7 | [runapi-ai/grok](https://github.com/runapi-ai/grok) | 0 | — | 2026-08-12 | RunAPI Grok API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 8 | [runapi-ai/glm](https://github.com/runapi-ai/glm) | 0 | — | 2026-08-12 | RunAPI GLM API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 9 | [runapi-ai/sdk-skill](https://github.com/runapi-ai/sdk-skill) | 0 | — | 2026-08-12 | RunAPI SDK routing skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 10 | [runapi-ai/volcengine-lip-sync](https://github.com/runapi-ai/volcengine-lip-sync) | 0 | — | 2026-08-12 | RunAPI Volcengine Lip Sync skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 11 | [humbleteam/design-handoff](https://github.com/humbleteam/design-handoff) | 1 | — | 2026-08-12 | Turn a mockup into a dev-ready handoff spec: tokens, component states, accessibility notes, open questions |
+| 12 | [runapi-ai/topaz](https://github.com/runapi-ai/topaz) | 0 | — | 2026-08-12 | RunAPI Topaz skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 13 | [humbleteam/accessibility-audit](https://github.com/humbleteam/accessibility-audit) | 1 | — | 2026-08-12 | WCAG 2.2 accessibility audit skill for Claude Code - severity-ranked findings with success-criterion citations |
+| 14 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 0 | Python | 2026-08-12 | 개발 전용 Claude Code 플러그인 |
+| 15 | [runapi-ai/suno](https://github.com/runapi-ai/suno) | 0 | — | 2026-08-12 | RunAPI Suno skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 16 | [runapi-ai/minimax](https://github.com/runapi-ai/minimax) | 0 | — | 2026-08-12 | RunAPI MiniMax API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 17 | [runapi-ai/mimo](https://github.com/runapi-ai/mimo) | 0 | — | 2026-08-12 | RunAPI MiMo API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 18 | [runapi-ai/qwen-image](https://github.com/runapi-ai/qwen-image) | 0 | — | 2026-08-12 | RunAPI Qwen Image skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 19 | [runapi-ai/gemini](https://github.com/runapi-ai/gemini) | 0 | — | 2026-08-12 | RunAPI Gemini API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 20 | [runapi-ai/gpt](https://github.com/runapi-ai/gpt) | 0 | — | 2026-08-12 | RunAPI GPT API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 21 | [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) | 2 | — | 2026-08-12 | RunAPI CLI skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 22 | [runapi-ai/claude](https://github.com/runapi-ai/claude) | 0 | — | 2026-08-12 | RunAPI Claude API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 23 | [runapi-ai/wan](https://github.com/runapi-ai/wan) | 0 | — | 2026-08-12 | RunAPI Wan skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 24 | [alikmlsipahi/youtube-to-spec](https://github.com/alikmlsipahi/youtube-to-spec) | 0 | Python | 2026-08-12 | Turn YouTube videos into traceable software requirement specs with two decoupled Claude Code skills: lossless metadata/t |
+| 25 | [runapi-ai/z-image](https://github.com/runapi-ai/z-image) | 0 | — | 2026-08-12 | RunAPI Z-Image skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 26 | [runapi-ai/seedream](https://github.com/runapi-ai/seedream) | 0 | — | 2026-08-12 | RunAPI Seedream skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 27 | [runapi-ai/runway-aleph](https://github.com/runapi-ai/runway-aleph) | 0 | — | 2026-08-12 | RunAPI Runway Aleph skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 28 | [runapi-ai/seedance](https://github.com/runapi-ai/seedance) | 0 | — | 2026-08-12 | RunAPI Seedance skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 29 | [runapi-ai/openai-transcription](https://github.com/runapi-ai/openai-transcription) | 0 | — | 2026-08-12 | RunAPI OpenAI Transcription skill for audio transcription workflows |
+| 30 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 67727 | TypeScript | 2026-08-12 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 31 | [runapi-ai/recraft](https://github.com/runapi-ai/recraft) | 0 | — | 2026-08-12 | RunAPI Recraft skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 32 | [runapi-ai/runway](https://github.com/runapi-ai/runway) | 0 | — | 2026-08-12 | RunAPI Runway skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 33 | [runapi-ai/nano-banana](https://github.com/runapi-ai/nano-banana) | 0 | — | 2026-08-12 | RunAPI Nano Banana skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 34 | [runapi-ai/midjourney](https://github.com/runapi-ai/midjourney) | 0 | — | 2026-08-12 | RunAPI Midjourney skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 35 | [runapi-ai/qwen-2](https://github.com/runapi-ai/qwen-2) | 0 | — | 2026-08-12 | RunAPI Qwen 2 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 36 | [runapi-ai/gemini-omni](https://github.com/runapi-ai/gemini-omni) | 1 | — | 2026-08-12 | RunAPI Gemini Omni skill for audio, character, and video workflows in Claude Code, Codex, Gemini CLI, Cursor, and 50+ ag |
+| 37 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-12 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 38 | [runapi-ai/luma](https://github.com/runapi-ai/luma) | 0 | — | 2026-08-12 | RunAPI Luma skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 39 | [runapi-ai/producer](https://github.com/runapi-ai/producer) | 0 | — | 2026-08-12 | RunAPI Producer skill for FUZZ exact-lyrics and instrumental music generation |
+| 40 | [runapi-ai/omnihuman](https://github.com/runapi-ai/omnihuman) | 0 | — | 2026-08-12 | RunAPI OmniHuman skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 41 | [runapi-ai/grok-imagine](https://github.com/runapi-ai/grok-imagine) | 1 | — | 2026-08-12 | RunAPI Grok Imagine image and video skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 42 | [instavm/coderunner](https://github.com/instavm/coderunner) | 882 | Python | 2026-08-12 | A local sandbox for your AI agents |
+| 43 | [runapi-ai/ideogram-v3](https://github.com/runapi-ai/ideogram-v3) | 0 | — | 2026-08-12 | RunAPI Ideogram V3 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 44 | [runapi-ai/kling](https://github.com/runapi-ai/kling) | 0 | — | 2026-08-12 | RunAPI Kling skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 45 | [runapi-ai/fish-audio](https://github.com/runapi-ai/fish-audio) | 0 | — | 2026-08-12 | RunAPI Fish Audio skill for speech generation across coding agents |
+| 46 | [JellyBrick/korean-prose-skill](https://github.com/JellyBrick/korean-prose-skill) | 3 | TypeScript | 2026-08-12 | 괴상한 해요체는 이제 그만...!! |
+| 47 | [mr-kelly/skills](https://github.com/mr-kelly/skills) | 4 | JavaScript | 2026-08-12 | Agent Skills by mr-kelly |
+| 48 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-12 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 49 | [runapi-ai/flux-2](https://github.com/runapi-ai/flux-2) | 0 | — | 2026-08-12 | RunAPI Flux 2 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
+| 50 | [runapi-ai/minimax-h3](https://github.com/runapi-ai/minimax-h3) | 0 | — | 2026-08-12 | RunAPI MiniMax H3 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents |
 <!-- TRACKER_TABLE_END -->
 
 ---
