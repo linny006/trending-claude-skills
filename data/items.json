@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u4e2d\u56fd\u4f20\u7edf\u7384\u5b66skills\u6280\u80fd\u5305\u3002\u7b97\u547d\u8fd0\u3001\u770b\u98ce\u6c34\u3001\u770b\u624b\u76f8\u3001\u5a5a\u59fb\u60c5\u611f\u3001\u4e8b\u4e1a\u8d22\u8fd0",
+    "id": "konglong87/xuanxue-skills",
+    "language": "JavaScript",
+    "name": "konglong87/xuanxue-skills",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:29:18Z",
+    "url": "https://github.com/konglong87/xuanxue-skills"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 4,
+    "updated_at": "2026-08-12T09:28:30Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tastefu",
+    "id": "superdesigndev/superdesign-skill",
+    "language": "\u2014",
+    "name": "superdesigndev/superdesign-skill",
+    "stars": 402,
+    "updated_at": "2026-08-12T09:20:25Z",
+    "url": "https://github.com/superdesigndev/superdesign-skill"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-12T09:19:58Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "An agents skill for auditing Ruby on Rails applications, identifying security issues, code quality problems, and common ",
+    "id": "rubyroidlabs/rails-audit-skill",
+    "language": "\u2014",
+    "name": "rubyroidlabs/rails-audit-skill",
+    "stars": 1,
+    "updated_at": "2026-08-12T09:19:35Z",
+    "url": "https://github.com/rubyroidlabs/rails-audit-skill"
+  },
+  {
+    "description": "184 \u4e2a\u53ef\u5b89\u88c5 Agent Skills\uff1a68 \u4e2a\u4e2d\u6587\u9879\u76ee\u300113 \u4e2a\u672c\u7ad9\u539f\u521b\uff0c\u9002\u914d Codex / Claude Code / Cursor\uff1b\u6bcf\u65e5\u81ea\u52a8\u590d\u68c0",
+    "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "language": "HTML",
+    "name": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "stars": 7,
+    "updated_at": "2026-08-12T09:19:35Z",
+    "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-12T09:19:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
     "id": "ergrelet/windiff",
     "language": "Rust",
@@ -34,15 +97,6 @@
     "stars": 105,
     "updated_at": "2026-08-12T09:16:14Z",
     "url": "https://github.com/ComPDFKit/compdf-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-12T09:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Real-time collaborative system design workspace",
@@ -86,7 +140,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-12T09:15:40Z",
+    "updated_at": "2026-08-12T09:28:55Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 14289,
     "updated_at": "2026-08-12T09:01:53Z",
     "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tastefu",
-    "id": "superdesigndev/superdesign-skill",
-    "language": "\u2014",
-    "name": "superdesigndev/superdesign-skill",
-    "stars": 402,
-    "updated_at": "2026-08-12T09:17:15Z",
-    "url": "https://github.com/superdesigndev/superdesign-skill"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -261,15 +306,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "184 \u4e2a\u53ef\u5b89\u88c5 Agent Skills\uff1a68 \u4e2a\u4e2d\u6587\u9879\u76ee\u300113 \u4e2a\u672c\u7ad9\u539f\u521b\uff0c\u9002\u914d Codex / Claude Code / Cursor\uff1b\u6bcf\u65e5\u81ea\u52a8\u590d\u68c0",
-    "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
-    "language": "HTML",
-    "name": "sanhuang520-ship-it/awesome-chinese-ai-tools",
-    "stars": 7,
-    "updated_at": "2026-08-12T08:45:14Z",
-    "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
-  },
-  {
     "description": "Production-oriented AI domain-intelligence infrastructure for Indonesian legal, tax, HR, finance, marketing, and strateg",
     "id": "adamriofc/indonesian-business-agent-skills",
     "language": "JavaScript",
@@ -304,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T08:43:04Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 4,
-    "updated_at": "2026-08-12T09:02:39Z",
-    "url": "https://github.com/mr-kelly/skills"
   },
   {
     "description": "Prestashop Developer Skills",
@@ -355,7 +382,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67738,
+    "stars": 67737,
     "updated_at": "2026-08-12T08:34:34Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T08:23:40Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-08-12T08:22:05Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-08-12T08:21:52Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-12T08:21:30Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
