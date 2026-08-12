@@ -1,5 +1,95 @@
 [
   {
+    "description": "\uad34\uc0c1\ud55c \ud574\uc694\uccb4\ub294 \uc774\uc81c \uadf8\ub9cc...!! \ud55c\uad6d\uc5b4 \uc791\uc131 \ubc0f \uad50\uc815 \uc2a4\ud0ac",
+    "id": "JellyBrick/korean-prose-skill",
+    "language": "TypeScript",
+    "name": "JellyBrick/korean-prose-skill",
+    "stars": 7,
+    "updated_at": "2026-08-12T07:45:00Z",
+    "url": "https://github.com/JellyBrick/korean-prose-skill"
+  },
+  {
+    "description": "ADD - LOOP SKILL for AI Coding Agent",
+    "id": "pilotspace/ADD",
+    "language": "Python",
+    "name": "pilotspace/ADD",
+    "stars": 18,
+    "updated_at": "2026-08-12T07:44:22Z",
+    "url": "https://github.com/pilotspace/ADD"
+  },
+  {
+    "description": "Package manager for AI agent assets (skills / CLIs / MCPs / loops) across Codex, Claude Code, Cursor and Kiro.",
+    "id": "seed-forge/harness-ai-kit",
+    "language": "Python",
+    "name": "seed-forge/harness-ai-kit",
+    "stars": 5,
+    "updated_at": "2026-08-12T07:43:38Z",
+    "url": "https://github.com/seed-forge/harness-ai-kit"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-12T07:44:02Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Production-oriented compliance, tax, legal, and operational domain-intelligence infrastructure for AI agents operating i",
+    "id": "adamriofc/indonesian-business-agent-skills",
+    "language": "JavaScript",
+    "name": "adamriofc/indonesian-business-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-12T07:43:01Z",
+    "url": "https://github.com/adamriofc/indonesian-business-agent-skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 15,
+    "updated_at": "2026-08-12T07:42:50Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "id": "gagip/gagip-dev",
+    "language": "Python",
+    "name": "gagip/gagip-dev",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:41:21Z",
+    "url": "https://github.com/gagip/gagip-dev"
+  },
+  {
+    "description": "\u4e2d\u6587 AI Skills \u5e93\uff1a163 \u4e2a\u6280\u80fd\u5305\uff0863 \u4e2d\u6587 / 12 \u4e2a\u672c\u7ad9\u81ea\u5199\uff09\uff0c\u8986\u76d6 PPT 18\u3001Agent \u8c03\u7814 3\u30013D 6\u3001\u6e38\u620f 5 | \u6bcf\u5929\u81ea\u52a8\u590d\u68c0\uff0c\u8fd0\u884c\u8bb0\u5f55\u516c\u5f00",
+    "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "language": "HTML",
+    "name": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "stars": 7,
+    "updated_at": "2026-08-12T07:40:33Z",
+    "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-12T07:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Autonomous code improvement CLI powered by Claude Code",
+    "id": "bokiko/KyZN",
+    "language": "Shell",
+    "name": "bokiko/KyZN",
+    "stars": 3,
+    "updated_at": "2026-08-12T07:30:16Z",
+    "url": "https://github.com/bokiko/KyZN"
+  },
+  {
     "description": "Agent plugin for AI image and video generation via Modellix API/CLI.",
     "id": "Modellix/modellix-plugin",
     "language": "Python",
@@ -18,15 +108,6 @@
     "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
-    "description": "Autonomous code improvement CLI powered by Claude Code",
-    "id": "bokiko/KyZN",
-    "language": "Shell",
-    "name": "bokiko/KyZN",
-    "stars": 3,
-    "updated_at": "2026-08-12T07:30:09Z",
-    "url": "https://github.com/bokiko/KyZN"
-  },
-  {
     "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
     "id": "crabbuild/compass",
     "language": "Rust",
@@ -43,15 +124,6 @@
     "stars": 2559,
     "updated_at": "2026-08-12T07:16:34Z",
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-12T07:15:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -81,21 +153,12 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Package manager for AI agent assets (skills / CLIs / MCPs / loops) across Codex, Claude Code, Cursor and Kiro.",
-    "id": "seed-forge/harness-ai-kit",
-    "language": "Python",
-    "name": "seed-forge/harness-ai-kit",
-    "stars": 5,
-    "updated_at": "2026-08-12T07:11:52Z",
-    "url": "https://github.com/seed-forge/harness-ai-kit"
-  },
-  {
     "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "stars": 2195,
-    "updated_at": "2026-08-12T07:20:26Z",
+    "updated_at": "2026-08-12T07:35:37Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
@@ -160,15 +223,6 @@
     "stars": 63,
     "updated_at": "2026-08-12T07:04:13Z",
     "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-12T07:29:58Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
@@ -257,7 +311,7 @@
     "language": "Shell",
     "name": "yschimke/skills",
     "stars": 2,
-    "updated_at": "2026-08-12T06:59:18Z",
+    "updated_at": "2026-08-12T07:41:55Z",
     "url": "https://github.com/yschimke/skills"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Production-oriented compliance, tax, legal, and operational domain-intelligence infrastructure for AI agents operating i",
-    "id": "adamriofc/indonesian-business-agent-skills",
-    "language": "JavaScript",
-    "name": "adamriofc/indonesian-business-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-12T06:43:38Z",
-    "url": "https://github.com/adamriofc/indonesian-business-agent-skills"
-  },
-  {
     "description": "Open-source skills that empower any AI agent (Claude, Cursor, Hermes, etc.) to generate end-to-end marketing campaigns -",
     "id": "SupercmoHQ/superCMO-skills",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 51,
     "updated_at": "2026-08-12T06:35:40Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Free-data Australian unit/apartment CMA skill for Claude Code \u2014 buyer's-agent methodology, open-sourced by Avocado Wealt",
-    "id": "theshuailuo/unit-cma-lite",
-    "language": "\u2014",
-    "name": "theshuailuo/unit-cma-lite",
-    "stars": 0,
-    "updated_at": "2026-08-12T06:34:54Z",
-    "url": "https://github.com/theshuailuo/unit-cma-lite"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-12T06:34:05Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-08-12T06:56:34Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "CS/AI \u9886\u57df\u8bba\u6587\u4e13\u5c5e\u6df1\u5ea6\u8c03\u7814 skill\u30028-agent \u6d41\u6c34\u7ebf\u4ea7\u51fa survey \u7ea7\u6587\u732e\u7efc\u8ff0(\u5bf9\u6bd4\u8868 + SOTA \u8868),arXiv \u4f18\u5148\u68c0\u7d22\u3001\u9010\u6761\u5f15\u7528\u9a8c\u8bc1\u3001\u4e03\u9053\u8d28\u91cf\u95e8",
-    "id": "Yang-Shihui/deep-research-cs",
-    "language": "\u2014",
-    "name": "Yang-Shihui/deep-research-cs",
-    "stars": 0,
-    "updated_at": "2026-08-12T06:28:45Z",
-    "url": "https://github.com/Yang-Shihui/deep-research-cs"
-  },
-  {
-    "description": "Goldilocks \u2014 AI Agent Project Orchestrator. A lighter, adaptive Superpowers alternative for Codex, Claude Code, and stru",
-    "id": "blackstone2333/goldilocks",
-    "language": "Python",
-    "name": "blackstone2333/goldilocks",
-    "stars": 1,
-    "updated_at": "2026-08-12T06:27:57Z",
-    "url": "https://github.com/blackstone2333/goldilocks"
   }
 ]
