@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 13:59 UTC
+> ⏰ Last updated: 2026-08-13 14:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) | 5507 | JavaScript | 2026-08-13 | 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 \| An all-in-one skill pack for long- and short-form web fiction. |
-| 2 | [handcraftedbygod/SkillTrace](https://github.com/handcraftedbygod/SkillTrace) | 1 | Python | 2026-08-13 | Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio |
-| 3 | [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) | 6132 | Python | 2026-08-13 | Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests |
-| 4 | [nevenincs/vaultspec-core](https://github.com/nevenincs/vaultspec-core) | 1 | Python | 2026-08-13 | A spec-driven harness for coding agents (and, humans) |
-| 5 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-13 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 6 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 408 | Python | 2026-08-13 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
-| 7 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-13 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 8 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-13 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 9 | [onlymuneeb38-glitch/ios-agent-skills-evaluator](https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator) | 3 | HTML | 2026-08-13 | iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models |
-| 10 | [tsubaiso/tsubaiso-intelligence](https://github.com/tsubaiso/tsubaiso-intelligence) | 0 | Python | 2026-08-13 | Tsubaiso Intelligence Skill — PSA/IMA（Salesforce）業務の参照・データ投入・メタデータ構成・帳票・仕様可視化・更新支援・ローカル API 操作と、導入／ロールアウト／PoC／開発運用ライフサイク |
-| 11 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-08-13 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
-| 12 | [uyuni0217sh-design/hamlog-ai-drama-pipeline](https://github.com/uyuni0217sh-design/hamlog-ai-drama-pipeline) | 0 | Python | 2026-08-13 | 🎬 AI 숏드라마 제작 파이프라인 — 각본→컷 프롬프트→영상→QC/조립까지 Claude Code 스킬 4종 (햄로그 마켓플레이스) |
-| 13 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 25 | Python | 2026-08-13 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 25 | Python | 2026-08-13 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) | 5507 | JavaScript | 2026-08-13 | 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 \| An all-in-one skill pack for long- and short-form web fiction. |
+| 3 | [handcraftedbygod/SkillTrace](https://github.com/handcraftedbygod/SkillTrace) | 1 | Python | 2026-08-13 | Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio |
+| 4 | [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) | 6132 | Python | 2026-08-13 | Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests |
+| 5 | [nevenincs/vaultspec-core](https://github.com/nevenincs/vaultspec-core) | 1 | Python | 2026-08-13 | A spec-driven harness for coding agents (and, humans) |
+| 6 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-13 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 7 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 408 | Python | 2026-08-13 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
+| 8 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-13 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
+| 9 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-13 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 10 | [onlymuneeb38-glitch/ios-agent-skills-evaluator](https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator) | 3 | HTML | 2026-08-13 | iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models |
+| 11 | [tsubaiso/tsubaiso-intelligence](https://github.com/tsubaiso/tsubaiso-intelligence) | 0 | Python | 2026-08-13 | Tsubaiso Intelligence Skill — PSA/IMA（Salesforce）業務の参照・データ投入・メタデータ構成・帳票・仕様可視化・更新支援・ローカル API 操作と、導入／ロールアウト／PoC／開発運用ライフサイク |
+| 12 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-08-13 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
+| 13 | [uyuni0217sh-design/hamlog-ai-drama-pipeline](https://github.com/uyuni0217sh-design/hamlog-ai-drama-pipeline) | 0 | Python | 2026-08-13 | 🎬 AI 숏드라마 제작 파이프라인 — 각본→컷 프롬프트→영상→QC/조립까지 Claude Code 스킬 4종 (햄로그 마켓플레이스) |
 | 14 | [Ootto-AI/claude-content-skills](https://github.com/Ootto-AI/claude-content-skills) | 20 | Python | 2026-08-13 | Free, copy-paste Claude skills that run your content growth factory — turn ideas + your NotebookLM memory into scroll-st |
 | 15 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 30502 | TypeScript | 2026-08-13 | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco |
 | 16 | [Xopoko/plug-n-skills](https://github.com/Xopoko/plug-n-skills) | 10 | Python | 2026-08-13 | Ready-to-install skills and plugins for Codex, Claude Code, and AI coding agents: practical workflows for app delivery,  |
@@ -72,7 +72,7 @@ expired items removed — so you can rely on what you see being current.
 | 28 | [ya5huk/findash](https://github.com/ya5huk/findash) | 19 | Python | 2026-08-13 | An Israeli Claude Finance Plugin |
 | 29 | [The-LukeZ/discord-intent-application](https://github.com/The-LukeZ/discord-intent-application) | 0 | Python | 2026-08-13 | Skill for Claude to help writing a good Discord intent application |
 | 30 | [fn-jakubkarp/crocthejob](https://github.com/fn-jakubkarp/crocthejob) | 0 | TypeScript | 2026-08-13 | Interactive kanban board for job search, with AI-assisted fit scoring, CV tailoring, and application tracking. |
-| 31 | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) | 57 | Python | 2026-08-13 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| 31 | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) | 59 | Python | 2026-08-13 | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
 | 32 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 22 | Shell | 2026-08-13 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
 | 33 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 108 | Kotlin | 2026-08-13 | Helping the Agents Compose the Things |
 | 34 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-08-13 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
