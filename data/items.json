@@ -1,12 +1,39 @@
 [
   {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-13T07:43:52Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
     "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-08-13T07:27:13Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 54,
+    "updated_at": "2026-08-13T07:41:18Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:39:50Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 67790,
+    "updated_at": "2026-08-13T07:43:32Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
@@ -14,17 +41,17 @@
     "language": "\u2014",
     "name": "Appllama/appllama-skills",
     "stars": 0,
-    "updated_at": "2026-08-13T07:25:28Z",
+    "updated_at": "2026-08-13T07:37:39Z",
     "url": "https://github.com/Appllama/appllama-skills"
   },
   {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-13T07:25:10Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
+    "description": "Production-oriented AI domain-intelligence infrastructure for Indonesian legal, tax, HR, finance, marketing, and strateg",
+    "id": "adamriofc/indonesian-business-agent-skills",
+    "language": "JavaScript",
+    "name": "adamriofc/indonesian-business-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-13T07:36:34Z",
+    "url": "https://github.com/adamriofc/indonesian-business-agent-skills"
   },
   {
     "description": "bro-skills - Spec-Driven Development CLI",
@@ -32,8 +59,53 @@
     "language": "Python",
     "name": "wedabro/bro-skills",
     "stars": 2,
-    "updated_at": "2026-08-13T07:22:56Z",
+    "updated_at": "2026-08-13T07:36:04Z",
     "url": "https://github.com/wedabro/bro-skills"
+  },
+  {
+    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-08-13T07:34:48Z",
+    "url": "https://github.com/ayukyo/icode-skill"
+  },
+  {
+    "description": "Skills that make your agent behave like a traditional mexican mom",
+    "id": "mcasillas17/mexican-mom",
+    "language": "JavaScript",
+    "name": "mcasillas17/mexican-mom",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:39:54Z",
+    "url": "https://github.com/mcasillas17/mexican-mom"
+  },
+  {
+    "description": "A curated open-source library of reusable SKILL.md files for Claude. Learn, use, and build powerful AI skills for writin",
+    "id": "shubhranshu03/claude-skills-library",
+    "language": "\u2014",
+    "name": "shubhranshu03/claude-skills-library",
+    "stars": 1,
+    "updated_at": "2026-08-13T07:33:02Z",
+    "url": "https://github.com/shubhranshu03/claude-skills-library"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-13T07:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-08-13T07:27:13Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
     "description": "Claude Code skills for prod-local agent development: query real traces and logs from your local stack, plan before you b",
@@ -90,24 +162,6 @@
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
   },
   {
-    "description": "Production-oriented AI domain-intelligence infrastructure for Indonesian legal, tax, HR, finance, marketing, and strateg",
-    "id": "adamriofc/indonesian-business-agent-skills",
-    "language": "JavaScript",
-    "name": "adamriofc/indonesian-business-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-13T07:21:49Z",
-    "url": "https://github.com/adamriofc/indonesian-business-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-13T07:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -115,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T07:12:04Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Skills that make your agent behave like a traditional mexican mom",
-    "id": "mcasillas17/mexican-mom",
-    "language": "JavaScript",
-    "name": "mcasillas17/mexican-mom",
-    "stars": 0,
-    "updated_at": "2026-08-13T07:10:44Z",
-    "url": "https://github.com/mcasillas17/mexican-mom"
   },
   {
     "description": "Open Claude Code, GitHub Copilot CLI, and Codex plugins for safe remote agent workflows.",
@@ -293,7 +338,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-13T07:10:57Z",
+    "updated_at": "2026-08-13T07:36:50Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 236,
     "updated_at": "2026-08-13T06:43:29Z",
     "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67789,
-    "updated_at": "2026-08-13T07:30:04Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Official Agent skills of Oxylabs products",
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-13T06:21:19Z",
     "url": "https://github.com/Romandredan/1c-quality-gate"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:20:01Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:19:49Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:19:48Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Agent Skills that take you from \"I want to contribute to open source\" to a submitted pull request \u2014 and measure whether ",
-    "id": "chjnett/open_contribute",
-    "language": "Python",
-    "name": "chjnett/open_contribute",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:18:49Z",
-    "url": "https://github.com/chjnett/open_contribute"
   }
 ]
