@@ -1,12 +1,48 @@
 [
   {
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
+    "id": "VoltAgent/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "VoltAgent/awesome-agent-skills",
+    "stars": 30176,
+    "updated_at": "2026-08-13T09:28:41Z",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "description": "Seven Claude Skills that do senior-media-buyer work on your Google and Meta ad accounts. Works with a connected account ",
+    "id": "riz1k9/claude-ad-skills",
+    "language": "\u2014",
+    "name": "riz1k9/claude-ad-skills",
+    "stars": 0,
+    "updated_at": "2026-08-13T09:20:25Z",
+    "url": "https://github.com/riz1k9/claude-ad-skills"
+  },
+  {
+    "description": "iOS application development skills including develop, ASO etc",
+    "id": "flaqai/ios-application-development-skills",
+    "language": "\u2014",
+    "name": "flaqai/ios-application-development-skills",
+    "stars": 1,
+    "updated_at": "2026-08-13T09:16:52Z",
+    "url": "https://github.com/flaqai/ios-application-development-skills"
+  },
+  {
     "description": "Production-oriented AI domain-intelligence infrastructure for Indonesian legal, tax, HR, finance, marketing, and strateg",
     "id": "adamriofc/indonesian-business-agent-skills",
     "language": "JavaScript",
     "name": "adamriofc/indonesian-business-agent-skills",
     "stars": 1,
-    "updated_at": "2026-08-13T09:14:29Z",
+    "updated_at": "2026-08-13T09:15:55Z",
     "url": "https://github.com/adamriofc/indonesian-business-agent-skills"
+  },
+  {
+    "description": "A belt of unrelated Claude Code plugins: guided branch review, context hygiene, and session status in the terminal tab o",
+    "id": "Malo-T/claude-toolbelt",
+    "language": "Shell",
+    "name": "Malo-T/claude-toolbelt",
+    "stars": 2,
+    "updated_at": "2026-08-13T09:15:55Z",
+    "url": "https://github.com/Malo-T/claude-toolbelt"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 25,
-    "updated_at": "2026-08-13T09:14:24Z",
+    "updated_at": "2026-08-13T09:15:12Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -34,6 +70,15 @@
     "stars": 5,
     "updated_at": "2026-08-13T09:13:58Z",
     "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Claude Code skill that tailors a resume to any job description \u2014 recruiter-grade positioning, evidence scoring, and a on",
+    "id": "sakshi-gupta-1/resume-tailor-skill",
+    "language": "Python",
+    "name": "sakshi-gupta-1/resume-tailor-skill",
+    "stars": 0,
+    "updated_at": "2026-08-13T09:13:42Z",
+    "url": "https://github.com/sakshi-gupta-1/resume-tailor-skill"
   },
   {
     "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
@@ -68,7 +113,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-13T09:08:19Z",
+    "updated_at": "2026-08-13T09:29:50Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -79,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-08-13T09:13:13Z",
     "url": "https://github.com/PBNZ/pbnz-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 8,
+    "updated_at": "2026-08-13T09:27:53Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Context engineering standard for Claude Code: distilled Anthropic guidance, a replicable repo skeleton, and the skills t",
@@ -112,7 +166,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67797,
+    "stars": 67798,
     "updated_at": "2026-08-13T09:05:35Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -196,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-08-13T08:53:31Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "\u2702\ufe0f The core of AI skill management is \"lean and focused,\" not \"more is better.\" Systematically scan, audit, and optimize",
+    "id": "helloyxs/skill-subtraction",
+    "language": "Python",
+    "name": "helloyxs/skill-subtraction",
+    "stars": 1,
+    "updated_at": "2026-08-13T08:53:02Z",
+    "url": "https://github.com/helloyxs/skill-subtraction"
   },
   {
     "description": "Open-source medical citation verifier: catches fabricated DOI/PMID/NCT references with CLI, MCP, and Claude Code skill.",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-13T08:34:23Z",
     "url": "https://github.com/lemur47/si-protocols"
-  },
-  {
-    "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
-    "id": "lemur47/logic",
-    "language": "Python",
-    "name": "lemur47/logic",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:29:15Z",
-    "url": "https://github.com/lemur47/logic"
-  },
-  {
-    "description": "An AI Founder Operating System with CEO, CTO, CMO, COO, CFO, DPO, Compliance, CA, Legal, Investor & Pitch evaluators. Dy",
-    "id": "sundhar0304/founder-executive-team",
-    "language": "\u2014",
-    "name": "sundhar0304/founder-executive-team",
-    "stars": 0,
-    "updated_at": "2026-08-13T08:28:14Z",
-    "url": "https://github.com/sundhar0304/founder-executive-team"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-13T08:26:26Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:25:50Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:24:56Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-08-13T08:24:35Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-13T08:24:29Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
