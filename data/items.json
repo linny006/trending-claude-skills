@@ -1,12 +1,75 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 407,
+    "updated_at": "2026-08-13T00:27:27Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Cursor rule + Claude Code skill for U.CASH Pay integrations (checkout, webhook, embed, HTTP-402, token-gating).",
+    "id": "UdotCASH/ucash-skills",
+    "language": "\u2014",
+    "name": "UdotCASH/ucash-skills",
+    "stars": 0,
+    "updated_at": "2026-08-13T00:27:22Z",
+    "url": "https://github.com/UdotCASH/ucash-skills"
+  },
+  {
+    "description": "An extensible, flat AI Skills Registry for Claude Code, OpenCode, Codex, and Copilot. Pre-configured for Magento 2 and G",
+    "id": "ddtcorex/dev-skills-hub",
+    "language": "Shell",
+    "name": "ddtcorex/dev-skills-hub",
+    "stars": 2,
+    "updated_at": "2026-08-13T00:27:22Z",
+    "url": "https://github.com/ddtcorex/dev-skills-hub"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 51,
+    "updated_at": "2026-08-13T00:26:08Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "AI agent security posture and policy audit \u2014 static analysis with source-linked evidence for LangGraph, AutoGen, CrewAI,",
+    "id": "ali-ulu/Pulse",
+    "language": "JavaScript",
+    "name": "ali-ulu/Pulse",
+    "stars": 0,
+    "updated_at": "2026-08-13T00:29:08Z",
+    "url": "https://github.com/ali-ulu/Pulse"
+  },
+  {
+    "description": "daozhu - Tao philosophy AI orchestrator",
+    "id": "ddg94360-code/daozhu",
+    "language": "Python",
+    "name": "ddg94360-code/daozhu",
+    "stars": 0,
+    "updated_at": "2026-08-13T00:19:11Z",
+    "url": "https://github.com/ddg94360-code/daozhu"
+  },
+  {
     "description": "Git-native agent governance core \u2014 task contracts and deterministic scope/verification checks that keep coding agents in",
     "id": "zywkloo/wtcraft",
     "language": "Shell",
     "name": "zywkloo/wtcraft",
     "stars": 3,
-    "updated_at": "2026-08-13T00:14:18Z",
+    "updated_at": "2026-08-13T00:15:40Z",
     "url": "https://github.com/zywkloo/wtcraft"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-13T00:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "GTM engineering skills for AI coding agents \u2014 build lead lists, find & verify emails, waterfall enrichment, lead scoring",
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "getcargohq/cargo-skills",
     "stars": 15,
-    "updated_at": "2026-08-13T00:10:57Z",
+    "updated_at": "2026-08-13T00:24:58Z",
     "url": "https://github.com/getcargohq/cargo-skills"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 22,
     "updated_at": "2026-08-13T00:06:14Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "AI agent security posture and policy audit \u2014 static analysis with source-linked evidence for LangGraph, AutoGen, CrewAI,",
-    "id": "ali-ulu/Pulse",
-    "language": "JavaScript",
-    "name": "ali-ulu/Pulse",
-    "stars": 0,
-    "updated_at": "2026-08-13T00:13:16Z",
-    "url": "https://github.com/ali-ulu/Pulse"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "petar-djukic/writing-skills",
     "stars": 1,
-    "updated_at": "2026-08-13T00:02:04Z",
+    "updated_at": "2026-08-13T00:22:17Z",
     "url": "https://github.com/petar-djukic/writing-skills"
   },
   {
@@ -113,17 +167,8 @@
     "language": "Kotlin",
     "name": "askimo-ai/askimo",
     "stars": 316,
-    "updated_at": "2026-08-13T00:01:35Z",
+    "updated_at": "2026-08-13T00:30:15Z",
     "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-13T00:01:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -401,52 +446,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 7,
-    "updated_at": "2026-08-13T00:08:21Z",
+    "updated_at": "2026-08-13T00:26:09Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-12T23:33:40Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-12T23:32:23Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-12T23:32:19Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-08-12T23:30:44Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-08-12T23:29:27Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   }
 ]
