@@ -1,5 +1,95 @@
 [
   {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:43:47Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "45 engineering skills for Claude Code across the SDLC \u2014 shared principles injected at session start. Works with Codex, C",
+    "id": "int2t05/engineering-skills",
+    "language": "Python",
+    "name": "int2t05/engineering-skills",
+    "stars": 3,
+    "updated_at": "2026-08-14T09:43:01Z",
+    "url": "https://github.com/int2t05/engineering-skills"
+  },
+  {
+    "description": "Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be ",
+    "id": "trevor-ryan-burkholder/dare-to-be-stupid",
+    "language": "JavaScript",
+    "name": "trevor-ryan-burkholder/dare-to-be-stupid",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:39:41Z",
+    "url": "https://github.com/trevor-ryan-burkholder/dare-to-be-stupid"
+  },
+  {
+    "description": "A coding-agent skill for creating stunning, interactive HTML presentations \u2014 from scratch or by converting PowerPoint (`",
+    "id": "helloyxs/generate-html-ppt",
+    "language": "HTML",
+    "name": "helloyxs/generate-html-ppt",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:39:25Z",
+    "url": "https://github.com/helloyxs/generate-html-ppt"
+  },
+  {
+    "description": "Claude Code as a second brain: all 101 skills, a working CRM engine, vault templates and the handover map. Method, not d",
+    "id": "tonydzi/second-brain-starter-kit",
+    "language": "Python",
+    "name": "tonydzi/second-brain-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:38:17Z",
+    "url": "https://github.com/tonydzi/second-brain-starter-kit"
+  },
+  {
+    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
+    "id": "liustack/modlens",
+    "language": "TypeScript",
+    "name": "liustack/modlens",
+    "stars": 1040,
+    "updated_at": "2026-08-14T09:37:19Z",
+    "url": "https://github.com/liustack/modlens"
+  },
+  {
+    "description": "DeepSeek Harness (DSH) \u751f\u6001\u6280\u80fd\u5305\uff1aparallel-dispatch \u5e76\u884c\u8c03\u5ea6\u89c4\u5219 + archmap \u67b6\u6784\u6d4b\u7ed8 Agent\uff08\u96f6LLM\u786e\u5b9a\u6027diff\u5f71\u54cd\u9762\uff0c\u8282\u7ea6tokens\uff09\u3002Reusable skills for ",
+    "id": "xu-jin-cs/dsh-skills",
+    "language": "Python",
+    "name": "xu-jin-cs/dsh-skills",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:37:03Z",
+    "url": "https://github.com/xu-jin-cs/dsh-skills"
+  },
+  {
+    "description": "Turn any content into a visual explanation: whiteboard, infographic, presentation, diagram, mind map, or UI mockup. Inst",
+    "id": "dapih/visualkan",
+    "language": "JavaScript",
+    "name": "dapih/visualkan",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:36:49Z",
+    "url": "https://github.com/dapih/visualkan"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587 Java/Spring \u751f\u6001\u7684 Agent Skills \u5957\u88c5\uff1a\u7f16\u7801\u89c4\u8303\u3001\u8d28\u91cf\u95e8\u7981\u3001\u5355\u5143\u6d4b\u8bd5\u3001Sa-Token/MyBatis-Plus \u6846\u67b6\u3001\u654f\u6377\u6d41\u7a0b\u3002\u652f\u6301 Claude Code \u63d2\u4ef6\u4e0e npx skills \u4e00\u952e\u5b89\u88c5\u3002",
+    "id": "BaixuanZhu/skills",
+    "language": "Java",
+    "name": "BaixuanZhu/skills",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:32:04Z",
+    "url": "https://github.com/BaixuanZhu/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-14T09:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A coach for TryHackMe, powered by Claude Code. A consistent methodology (classify \u2192 enumerate \u2192 foothold \u2192 privesc), roo",
     "id": "pashki975/thm-claude-kit",
     "language": "Shell",
@@ -14,26 +104,17 @@
     "language": "Python",
     "name": "lemur47/si-protocols",
     "stars": 2,
-    "updated_at": "2026-08-14T09:29:18Z",
+    "updated_at": "2026-08-14T09:34:44Z",
     "url": "https://github.com/lemur47/si-protocols"
   },
   {
-    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
-    "id": "liustack/modlens",
-    "language": "TypeScript",
-    "name": "liustack/modlens",
-    "stars": 1030,
-    "updated_at": "2026-08-14T09:28:53Z",
-    "url": "https://github.com/liustack/modlens"
-  },
-  {
-    "description": "45 engineering skills for Claude Code across the SDLC \u2014 shared principles injected at session start. Works with Codex, C",
-    "id": "int2t05/engineering-skills",
-    "language": "Python",
-    "name": "int2t05/engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-08-14T09:28:14Z",
-    "url": "https://github.com/int2t05/engineering-skills"
+    "description": "AI Skill for Android single-module project development",
+    "id": "ivanshchitov/android-dev-skill",
+    "language": "\u2014",
+    "name": "ivanshchitov/android-dev-skill",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:27:52Z",
+    "url": "https://github.com/ivanshchitov/android-dev-skill"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -45,15 +126,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Claude Code as a second brain: all 101 skills, a working CRM engine, vault templates and the handover map. Method, not d",
-    "id": "tonydzi/second-brain-starter-kit",
-    "language": "Python",
-    "name": "tonydzi/second-brain-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-14T09:27:37Z",
-    "url": "https://github.com/tonydzi/second-brain-starter-kit"
-  },
-  {
     "description": "The web plugin for DeepSeek Harness, and the search bridge for every model without native web access. Ask the web or X, ",
     "id": "liustack/modsearch",
     "language": "TypeScript",
@@ -63,15 +135,6 @@
     "url": "https://github.com/liustack/modsearch"
   },
   {
-    "description": "Turn any content into a visual explanation: whiteboard, infographic, presentation, diagram, mind map, or UI mockup. Inst",
-    "id": "dapih/visualkan",
-    "language": "JavaScript",
-    "name": "dapih/visualkan",
-    "stars": 0,
-    "updated_at": "2026-08-14T09:25:18Z",
-    "url": "https://github.com/dapih/visualkan"
-  },
-  {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
     "id": "HsuanYuLee/polaris",
     "language": "Shell",
@@ -79,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-08-14T09:19:53Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be ",
-    "id": "trevor-ryan-burkholder/dare-to-be-stupid",
-    "language": "JavaScript",
-    "name": "trevor-ryan-burkholder/dare-to-be-stupid",
-    "stars": 0,
-    "updated_at": "2026-08-14T09:18:45Z",
-    "url": "https://github.com/trevor-ryan-burkholder/dare-to-be-stupid"
   },
   {
     "description": "Human-in-the-loop skill for AI agents \u2014 create tasks for humans to review, approve, or complete. REST API + MCP.",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T09:15:35Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-14T09:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Versionierte Heimat meiner Agent Skills f\u00fcr Claude (claude.ai, Claude Code, API).",
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 10,
-    "updated_at": "2026-08-14T09:29:42Z",
+    "updated_at": "2026-08-14T09:40:47Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-14T09:30:06Z",
+    "updated_at": "2026-08-14T09:41:58Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -301,7 +346,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30512,
+    "stars": 30511,
     "updated_at": "2026-08-14T08:54:26Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -378,15 +423,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-14T08:47:26Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T08:41:04Z",
     "url": "https://github.com/ChinweiLiu-Alice/prd-to-prototype-for-product-design"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-14T08:40:40Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-08-14T08:39:16Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-14T08:38:09Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
-    "id": "TerminallyLazy/Tree-Ring-Memory",
-    "language": "Rust",
-    "name": "TerminallyLazy/Tree-Ring-Memory",
-    "stars": 12,
-    "updated_at": "2026-08-14T08:35:00Z",
-    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
   }
 ]
