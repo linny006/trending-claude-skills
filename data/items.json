@@ -1,5 +1,68 @@
 [
   {
+    "description": "A collection of Claude Code skills for better software development.",
+    "id": "WahyuS002/skills",
+    "language": "Shell",
+    "name": "WahyuS002/skills",
+    "stars": 4,
+    "updated_at": "2026-08-14T01:45:00Z",
+    "url": "https://github.com/WahyuS002/skills"
+  },
+  {
+    "description": "A curated collection of Claude Code skills \u2014 code-review loop, local chat-history search, session end/resume, Gemini ima",
+    "id": "BryceEWatson/claude-global-skills",
+    "language": "Python",
+    "name": "BryceEWatson/claude-global-skills",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:44:56Z",
+    "url": "https://github.com/BryceEWatson/claude-global-skills"
+  },
+  {
+    "description": "Claude Skills for Perl SDET & Architecture",
+    "id": "nigelhorne/claude",
+    "language": "\u2014",
+    "name": "nigelhorne/claude",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:42:28Z",
+    "url": "https://github.com/nigelhorne/claude"
+  },
+  {
+    "description": "Planning skill and terminal interface to create versioned plans, compare diffs, leave inline feedback, edit directly, an",
+    "id": "thisisnsh/planx",
+    "language": "TypeScript",
+    "name": "thisisnsh/planx",
+    "stars": 3,
+    "updated_at": "2026-08-14T01:41:06Z",
+    "url": "https://github.com/thisisnsh/planx"
+  },
+  {
+    "description": "A browser that runs directly inside your existing terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "Rust",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 979,
+    "updated_at": "2026-08-14T01:42:40Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18689,
+    "updated_at": "2026-08-14T01:38:50Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-14T01:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
     "id": "aaron-he-zhu/aaron-marketing-skills",
     "language": "Python",
@@ -40,7 +103,7 @@
     "id": "tanchunzhuo/ultimate-viral-writer",
     "language": "Shell",
     "name": "tanchunzhuo/ultimate-viral-writer",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-14T01:23:10Z",
     "url": "https://github.com/tanchunzhuo/ultimate-viral-writer"
   },
@@ -104,7 +167,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-14T01:18:54Z",
+    "updated_at": "2026-08-14T01:40:38Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -124,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T01:15:16Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-14T01:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -167,7 +221,7 @@
     "language": "JavaScript",
     "name": "mr-kelly/skills",
     "stars": 5,
-    "updated_at": "2026-08-14T01:21:32Z",
+    "updated_at": "2026-08-14T01:38:51Z",
     "url": "https://github.com/mr-kelly/skills"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T01:09:22Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18689,
-    "updated_at": "2026-08-14T01:26:14Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -279,15 +324,6 @@
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
-    "description": "Planning skill and terminal interface to create versioned plans, compare diffs, leave inline feedback, edit directly, an",
-    "id": "thisisnsh/planx",
-    "language": "TypeScript",
-    "name": "thisisnsh/planx",
-    "stars": 3,
-    "updated_at": "2026-08-14T00:49:59Z",
-    "url": "https://github.com/thisisnsh/planx"
-  },
-  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -356,7 +392,7 @@
     "language": "JavaScript",
     "name": "powersync-ja/agent-skills",
     "stars": 18,
-    "updated_at": "2026-08-14T00:37:15Z",
+    "updated_at": "2026-08-14T01:35:17Z",
     "url": "https://github.com/powersync-ja/agent-skills"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T00:16:52Z",
     "url": "https://github.com/trevormchaffie/claude-skills-realestate"
-  },
-  {
-    "description": "Upkeep \u2014 an AI audit crew for your repo. Catches docs/spec/asset drift with evidence; output-only. Claude Code plugin/sk",
-    "id": "wei18/Upkeep",
-    "language": "TypeScript",
-    "name": "wei18/Upkeep",
-    "stars": 12,
-    "updated_at": "2026-08-14T00:10:18Z",
-    "url": "https://github.com/wei18/Upkeep"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-14T00:09:34Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-14T00:08:32Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-08-14T00:05:48Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
