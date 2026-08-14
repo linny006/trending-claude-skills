@@ -1,12 +1,21 @@
 [
   {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
+    "description": "Web research for agents with smart and safe tooling + knowledge store",
+    "id": "Lincoln504/pi-research",
     "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
+    "name": "Lincoln504/pi-research",
+    "stars": 26,
+    "updated_at": "2026-08-14T03:44:32Z",
+    "url": "https://github.com/Lincoln504/pi-research"
+  },
+  {
+    "description": "\u8b93 AI \u7528\u53f0\u7063\u4eba\u7684\u7e41\u9ad4\u4e2d\u6587\u8b1b\u8a71\uff0c\u4e26\u628a\u5df2\u5beb\u597d\u7684\u6587\u5b57\u6e05\u6389 AI \u5473\u3002Claude Code\u3001claude.ai\u3001ChatGPT Codex \u8207\u4e00\u822c\u804a\u5929\u90fd\u80fd\u7528\u3002",
+    "id": "chang416/im-human",
+    "language": "Python",
+    "name": "chang416/im-human",
     "stars": 2,
-    "updated_at": "2026-08-14T03:29:51Z",
-    "url": "https://github.com/fworks-tech/agenthood"
+    "updated_at": "2026-08-14T03:43:00Z",
+    "url": "https://github.com/chang416/im-human"
   },
   {
     "description": "AI agents that think before they speak. Three-seat deliberation engine stops repeated mistakes for Claude, Cursor, Winds",
@@ -14,8 +23,62 @@
     "language": "Python",
     "name": "Sumedh1599/chess-theory",
     "stars": 0,
-    "updated_at": "2026-08-14T03:25:05Z",
+    "updated_at": "2026-08-14T03:35:38Z",
     "url": "https://github.com/Sumedh1599/chess-theory"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 127,
+    "updated_at": "2026-08-14T03:34:27Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-08-14T03:32:03Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-14T03:31:39Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-14T03:31:32Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "\u4e2d\u6587 Agent Skills \u5408\u96c6\uff1a184 \u4e2a\u6761\u76ee\u300113 \u4e2a\u672c\u7ad9\u539f\u521b\uff1bCodex 13/13 \u81ea\u52a8\u89e6\u53d1\u5b9e\u6d4b\uff0cClaude Code / Cursor \u5f85\u6d4b\uff1b\u6bcf\u65e5\u81ea\u52a8\u590d\u68c0",
+    "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "language": "HTML",
+    "name": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "stars": 7,
+    "updated_at": "2026-08-14T03:30:54Z",
+    "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-14T03:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
@@ -81,15 +144,6 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-14T03:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -112,7 +166,7 @@
     "id": "liustack/modlens",
     "language": "TypeScript",
     "name": "liustack/modlens",
-    "stars": 832,
+    "stars": 840,
     "updated_at": "2026-08-14T03:11:56Z",
     "url": "https://github.com/liustack/modlens"
   },
@@ -157,8 +211,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67843,
-    "updated_at": "2026-08-14T03:02:48Z",
+    "stars": 67844,
+    "updated_at": "2026-08-14T03:39:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -202,7 +256,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 4948,
+    "stars": 4951,
     "updated_at": "2026-08-14T02:58:07Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -238,7 +292,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 90669,
+    "stars": 90672,
     "updated_at": "2026-08-14T02:52:05Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -324,15 +378,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 126,
-    "updated_at": "2026-08-14T02:39:51Z",
-    "url": "https://github.com/crabbuild/compass"
-  },
-  {
     "description": "A curated bundle of 32 Claude Skills for quantitative, qualitative & experimental research in business, finance & social",
     "id": "Nero1688/claude-academic-skills",
     "language": "Python",
@@ -347,17 +392,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-14T02:37:09Z",
+    "updated_at": "2026-08-14T03:39:58Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Web research for pi with smart and safe tooling + agent system",
-    "id": "Lincoln504/pi-research",
-    "language": "TypeScript",
-    "name": "Lincoln504/pi-research",
-    "stars": 26,
-    "updated_at": "2026-08-14T02:36:37Z",
-    "url": "https://github.com/Lincoln504/pi-research"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T02:29:27Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
-    "id": "Leutenegger/book-to-skill",
-    "language": "Python",
-    "name": "Leutenegger/book-to-skill",
-    "stars": 1034,
-    "updated_at": "2026-08-14T02:28:22Z",
-    "url": "https://github.com/Leutenegger/book-to-skill"
-  },
-  {
-    "description": "A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management",
-    "id": "JuneYaooo/awesome-ai-media-skills",
-    "language": "\u2014",
-    "name": "JuneYaooo/awesome-ai-media-skills",
-    "stars": 4,
-    "updated_at": "2026-08-14T02:27:14Z",
-    "url": "https://github.com/JuneYaooo/awesome-ai-media-skills"
-  },
-  {
-    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
-    "id": "JanYork/llm-wiki-cli",
-    "language": "Rust",
-    "name": "JanYork/llm-wiki-cli",
-    "stars": 31,
-    "updated_at": "2026-08-14T02:25:29Z",
-    "url": "https://github.com/JanYork/llm-wiki-cli"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:24:22Z",
-    "url": "https://github.com/JBSag/pm-artisan"
   }
 ]
