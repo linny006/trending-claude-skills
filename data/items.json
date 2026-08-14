@@ -1,5 +1,113 @@
 [
   {
+    "description": "The installation hub for Neel's open-source marketing systems: Digital Marketing Pro, ContentForge, and SocialForge - po",
+    "id": "indranilbanerjee/neels-plugins",
+    "language": "Python",
+    "name": "indranilbanerjee/neels-plugins",
+    "stars": 6,
+    "updated_at": "2026-08-14T09:07:54Z",
+    "url": "https://github.com/indranilbanerjee/neels-plugins"
+  },
+  {
+    "description": "Claude Code as a second brain: all 101 skills, a working CRM engine, vault templates and the handover map. Method, not d",
+    "id": "tonydzi/second-brain-starter-kit",
+    "language": "Python",
+    "name": "tonydzi/second-brain-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:07:05Z",
+    "url": "https://github.com/tonydzi/second-brain-starter-kit"
+  },
+  {
+    "description": "An open-source social media production system that turns a content calendar into on-brand copy, images, video, and clien",
+    "id": "indranilbanerjee/socialforge",
+    "language": "Python",
+    "name": "indranilbanerjee/socialforge",
+    "stars": 30,
+    "updated_at": "2026-08-14T09:06:45Z",
+    "url": "https://github.com/indranilbanerjee/socialforge"
+  },
+  {
+    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
+    "id": "liustack/modlens",
+    "language": "TypeScript",
+    "name": "liustack/modlens",
+    "stars": 1021,
+    "updated_at": "2026-08-14T09:04:50Z",
+    "url": "https://github.com/liustack/modlens"
+  },
+  {
+    "description": "Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be ",
+    "id": "trevor-ryan-burkholder/dare-to-be-stupid",
+    "language": "JavaScript",
+    "name": "trevor-ryan-burkholder/dare-to-be-stupid",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:03:38Z",
+    "url": "https://github.com/trevor-ryan-burkholder/dare-to-be-stupid"
+  },
+  {
+    "description": "The web plugin for DeepSeek Harness, and the search bridge for every text-only coding agent. Ask the web or X, get struc",
+    "id": "liustack/modsearch",
+    "language": "TypeScript",
+    "name": "liustack/modsearch",
+    "stars": 77,
+    "updated_at": "2026-08-14T09:03:17Z",
+    "url": "https://github.com/liustack/modsearch"
+  },
+  {
+    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
+    "id": "natthasath/natthasath-marketplace",
+    "language": "HTML",
+    "name": "natthasath/natthasath-marketplace",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:02:50Z",
+    "url": "https://github.com/natthasath/natthasath-marketplace"
+  },
+  {
+    "description": "A coach for TryHackMe, powered by Claude Code. A consistent methodology (classify \u2192 enumerate \u2192 foothold \u2192 privesc), roo",
+    "id": "pashki975/thm-claude-kit",
+    "language": "Shell",
+    "name": "pashki975/thm-claude-kit",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:02:27Z",
+    "url": "https://github.com/pashki975/thm-claude-kit"
+  },
+  {
+    "description": "An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - groun",
+    "id": "indranilbanerjee/digital-marketing-pro",
+    "language": "Python",
+    "name": "indranilbanerjee/digital-marketing-pro",
+    "stars": 736,
+    "updated_at": "2026-08-14T09:02:07Z",
+    "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:00:25Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:00:24Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-14T09:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Trello skill pack for Claude Code and Codex - boards, lists and cards, board digests and a due-date radar. A free tool b",
     "id": "dbhq-uk/trello-skill",
     "language": "Shell",
@@ -22,7 +130,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67854,
+    "stars": 67853,
     "updated_at": "2026-08-14T08:57:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -68,7 +176,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-14T08:59:44Z",
+    "updated_at": "2026-08-14T09:08:35Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -76,7 +184,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30513,
+    "stars": 30512,
     "updated_at": "2026-08-14T08:54:26Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -126,15 +234,6 @@
     "url": "https://github.com/lbb00/ai-rules-sync"
   },
   {
-    "description": "A coach for TryHackMe, powered by Claude Code. A consistent methodology (classify \u2192 enumerate \u2192 foothold \u2192 privesc), roo",
-    "id": "pashki975/thm-claude-kit",
-    "language": "Shell",
-    "name": "pashki975/thm-claude-kit",
-    "stars": 2,
-    "updated_at": "2026-08-14T08:51:28Z",
-    "url": "https://github.com/pashki975/thm-claude-kit"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -151,15 +250,6 @@
     "stars": 21,
     "updated_at": "2026-08-14T08:50:01Z",
     "url": "https://github.com/indranilbanerjee/contentforge"
-  },
-  {
-    "description": "Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be ",
-    "id": "trevor-ryan-burkholder/dare-to-be-stupid",
-    "language": "JavaScript",
-    "name": "trevor-ryan-burkholder/dare-to-be-stupid",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:48:28Z",
-    "url": "https://github.com/trevor-ryan-burkholder/dare-to-be-stupid"
   },
   {
     "description": "iOS application development skills including develop, ASO etc",
@@ -189,15 +279,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
-    "id": "natthasath/natthasath-marketplace",
-    "language": "HTML",
-    "name": "natthasath/natthasath-marketplace",
-    "stars": 1,
-    "updated_at": "2026-08-14T08:46:37Z",
-    "url": "https://github.com/natthasath/natthasath-marketplace"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
@@ -205,24 +286,6 @@
     "stars": 10,
     "updated_at": "2026-08-14T08:56:20Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-14T08:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Claude Code as a second brain: all 101 skills, a working CRM engine, vault templates and the handover map. Method, not d",
-    "id": "tonydzi/second-brain-starter-kit",
-    "language": "Python",
-    "name": "tonydzi/second-brain-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-14T08:44:23Z",
-    "url": "https://github.com/tonydzi/second-brain-starter-kit"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -324,15 +387,6 @@
     "url": "https://github.com/IcyCreamDAS/shidi-skill"
   },
   {
-    "description": "The web plugin for DeepSeek Harness, and the search bridge for every text-only coding agent. Ask the web or X, get struc",
-    "id": "liustack/modsearch",
-    "language": "TypeScript",
-    "name": "liustack/modsearch",
-    "stars": 77,
-    "updated_at": "2026-08-14T08:22:25Z",
-    "url": "https://github.com/liustack/modsearch"
-  },
-  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T08:19:32Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Stability auditor for Claude Skills \u2014 finds why your skill drifts, skips steps, or fakes success. \u4e2d\u6587\u6587\u6863\u89c1 README.zh-CN.md",
-    "id": "jameswu881102/skill-auditor",
-    "language": "Python",
-    "name": "jameswu881102/skill-auditor",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:18:55Z",
-    "url": "https://github.com/jameswu881102/skill-auditor"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-14T08:18:49Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Agent Skills - 29 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 6,
-    "updated_at": "2026-08-14T08:18:11Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:18:07Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:18:04Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
-    "id": "liustack/modlens",
-    "language": "TypeScript",
-    "name": "liustack/modlens",
-    "stars": 1015,
-    "updated_at": "2026-08-14T08:18:00Z",
-    "url": "https://github.com/liustack/modlens"
   }
 ]
