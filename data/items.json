@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI agents that think before they speak. Three-seat deliberation engine stops repeated mistakes for Claude, Cursor, Winds",
+    "id": "Sumedh1599/chess-theory",
+    "language": "Python",
+    "name": "Sumedh1599/chess-theory",
+    "stars": 0,
+    "updated_at": "2026-08-14T12:15:01Z",
+    "url": "https://github.com/Sumedh1599/chess-theory"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-14T12:14:19Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Turn any content into a visual explanation: whiteboard, infographic, presentation, diagram, mind map, or UI mockup. Inst",
+    "id": "dapih/visualkan",
+    "language": "JavaScript",
+    "name": "dapih/visualkan",
+    "stars": 0,
+    "updated_at": "2026-08-14T12:11:54Z",
+    "url": "https://github.com/dapih/visualkan"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-14T12:10:42Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-14T12:09:00Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "C++",
     "name": "Stewie-pixel/claude-with-leetcode",
     "stars": 83,
-    "updated_at": "2026-08-14T12:07:09Z",
+    "updated_at": "2026-08-14T12:12:54Z",
     "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
   },
   {
@@ -63,15 +108,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Claude Code configuration bundle \u2014 10 MCP servers, skill bundles and custom slash commands. One command from a fresh mac",
-    "id": "CreatingValueFirst/hi-claude-config",
-    "language": "Shell",
-    "name": "CreatingValueFirst/hi-claude-config",
-    "stars": 0,
-    "updated_at": "2026-08-14T12:04:24Z",
-    "url": "https://github.com/CreatingValueFirst/hi-claude-config"
-  },
-  {
     "description": "Synchronize, manage, and share your ai rules, skills, commands, subagents (Cursor, Claude Code, Copilot, OpenCode, Trae ",
     "id": "lbb00/ai-rules-sync",
     "language": "TypeScript",
@@ -79,15 +115,6 @@
     "stars": 35,
     "updated_at": "2026-08-14T12:03:34Z",
     "url": "https://github.com/lbb00/ai-rules-sync"
-  },
-  {
-    "description": "AI agents that think before they speak. Three-seat deliberation engine stops repeated mistakes for Claude, Cursor, Winds",
-    "id": "Sumedh1599/chess-theory",
-    "language": "Python",
-    "name": "Sumedh1599/chess-theory",
-    "stars": 0,
-    "updated_at": "2026-08-14T12:02:59Z",
-    "url": "https://github.com/Sumedh1599/chess-theory"
   },
   {
     "description": "Per-tool-call resource measurement for AI coding agents, built on Claude Code hooks. A pytest run and a git status stop ",
@@ -106,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T12:02:09Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-14T12:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T11:35:41Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-14T11:34:50Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-14T11:34:15Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   }
 ]
