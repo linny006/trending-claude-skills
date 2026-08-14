@@ -1,12 +1,21 @@
 [
   {
-    "description": "A complete ecosystem for AI-assisted academic research. Features an orchestrated pipeline of 130+ ML skills, persistent ",
-    "id": "jpmsilva1/ai-research-ecosystem",
-    "language": "Shell",
-    "name": "jpmsilva1/ai-research-ecosystem",
+    "description": "A curated collection of Claude Code skills \u2014 code-review loop, local chat-history search, session end/resume, Gemini ima",
+    "id": "BryceEWatson/claude-global-skills",
+    "language": "Python",
+    "name": "BryceEWatson/claude-global-skills",
     "stars": 0,
-    "updated_at": "2026-08-14T02:44:53Z",
-    "url": "https://github.com/jpmsilva1/ai-research-ecosystem"
+    "updated_at": "2026-08-14T02:59:23Z",
+    "url": "https://github.com/BryceEWatson/claude-global-skills"
+  },
+  {
+    "description": "Run against 32 open source projects in 12 languages, 24 converged, 2 fixes merged upstream and a third fixed by its main",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 5,
+    "updated_at": "2026-08-14T02:56:14Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
   },
   {
     "description": "AI agents that think before they speak. Three-seat deliberation engine stops repeated mistakes for Claude, Cursor, Winds",
@@ -14,8 +23,98 @@
     "language": "Python",
     "name": "Sumedh1599/chess-theory",
     "stars": 0,
-    "updated_at": "2026-08-14T02:44:26Z",
+    "updated_at": "2026-08-14T02:55:48Z",
     "url": "https://github.com/Sumedh1599/chess-theory"
+  },
+  {
+    "description": "SecureVibe \u2014 prevention-first security for AI-written code. Signed SKILL.md knowledge that makes AI coding assistants wr",
+    "id": "ShieldNet-360/secure-vibe",
+    "language": "Go",
+    "name": "ShieldNet-360/secure-vibe",
+    "stars": 15,
+    "updated_at": "2026-08-14T02:55:57Z",
+    "url": "https://github.com/ShieldNet-360/secure-vibe"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-08-14T02:54:12Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "",
+    "id": "btmoriarty/moriarty-skills",
+    "language": "\u2014",
+    "name": "btmoriarty/moriarty-skills",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:52:49Z",
+    "url": "https://github.com/btmoriarty/moriarty-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 90668,
+    "updated_at": "2026-08-14T02:52:05Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be ",
+    "id": "trevor-ryan-burkholder/dare-to-be-stupid",
+    "language": "JavaScript",
+    "name": "trevor-ryan-burkholder/dare-to-be-stupid",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:51:59Z",
+    "url": "https://github.com/trevor-ryan-burkholder/dare-to-be-stupid"
+  },
+  {
+    "description": "Plain-language mode for Claude Code. For non-developers who ship real products by vibe coding.",
+    "id": "mkt-henry/plainspeak",
+    "language": "JavaScript",
+    "name": "mkt-henry/plainspeak",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:49:20Z",
+    "url": "https://github.com/mkt-henry/plainspeak"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-08-14T02:47:03Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "Pass a note from your AI to someone\u2019s phone. No account.",
+    "id": "sudo5zzb/slip-skill",
+    "language": "Shell",
+    "name": "sudo5zzb/slip-skill",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:46:57Z",
+    "url": "https://github.com/sudo5zzb/slip-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-14T02:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A complete ecosystem for AI-assisted academic research. Features an orchestrated pipeline of 130+ ML skills, persistent ",
+    "id": "jpmsilva1/ai-research-ecosystem",
+    "language": "Shell",
+    "name": "jpmsilva1/ai-research-ecosystem",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:48:13Z",
+    "url": "https://github.com/jpmsilva1/ai-research-ecosystem"
   },
   {
     "description": "Claude Code skills for churches and ministries",
@@ -25,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T02:44:18Z",
     "url": "https://github.com/threefold-solutions/church-skills"
-  },
-  {
-    "description": "Plain-language mode for Claude Code. For non-developers who ship real products by vibe coding.",
-    "id": "mkt-henry/plainspeak",
-    "language": "JavaScript",
-    "name": "mkt-henry/plainspeak",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:43:46Z",
-    "url": "https://github.com/mkt-henry/plainspeak"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -81,24 +171,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 2,
-    "updated_at": "2026-08-14T02:43:28Z",
-    "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
-    "description": "Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be ",
-    "id": "trevor-ryan-burkholder/dare-to-be-stupid",
-    "language": "JavaScript",
-    "name": "trevor-ryan-burkholder/dare-to-be-stupid",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:39:34Z",
-    "url": "https://github.com/trevor-ryan-burkholder/dare-to-be-stupid"
-  },
-  {
     "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
     "id": "crabbuild/compass",
     "language": "Rust",
@@ -117,15 +189,6 @@
     "url": "https://github.com/Nero1688/claude-academic-skills"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 90667,
-    "updated_at": "2026-08-14T02:41:25Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
@@ -142,15 +205,6 @@
     "stars": 25,
     "updated_at": "2026-08-14T02:36:37Z",
     "url": "https://github.com/Lincoln504/pi-research"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-14T02:36:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -220,7 +274,7 @@
     "id": "Leutenegger/book-to-skill",
     "language": "Python",
     "name": "Leutenegger/book-to-skill",
-    "stars": 1030,
+    "stars": 1031,
     "updated_at": "2026-08-14T02:28:22Z",
     "url": "https://github.com/Leutenegger/book-to-skill"
   },
@@ -238,7 +292,7 @@
     "id": "JanYork/llm-wiki-cli",
     "language": "Rust",
     "name": "JanYork/llm-wiki-cli",
-    "stars": 30,
+    "stars": 31,
     "updated_at": "2026-08-14T02:25:29Z",
     "url": "https://github.com/JanYork/llm-wiki-cli"
   },
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-14T02:17:51Z",
     "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:17:17Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:16:25Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:15:21Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:15:15Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:15:14Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:15:10Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
   }
 ]
