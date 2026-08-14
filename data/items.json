@@ -1,5 +1,149 @@
 [
   {
+    "description": "Zero-setup creative media for agents. Generate & edit images, generate video & audio, create 3D, with no API key, no OAu",
+    "id": "danielgwilson/luxin",
+    "language": "JavaScript",
+    "name": "danielgwilson/luxin",
+    "stars": 1,
+    "updated_at": "2026-08-14T22:24:39Z",
+    "url": "https://github.com/danielgwilson/luxin"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-08-14T22:24:20Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
+    "id": "ratel-ai/ratel",
+    "language": "TypeScript",
+    "name": "ratel-ai/ratel",
+    "stars": 422,
+    "updated_at": "2026-08-14T22:23:47Z",
+    "url": "https://github.com/ratel-ai/ratel"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-08-14T22:22:45Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Shell",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:22:13Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-08-14T22:22:06Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-14T22:21:06Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
+    "id": "smartwatermelon/personify",
+    "language": "TypeScript",
+    "name": "smartwatermelon/personify",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:20:48Z",
+    "url": "https://github.com/smartwatermelon/personify"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:20:25Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Catalog & docs site for IncredAgents \u2014 production AI agent skills (SKILL.md) for Claude Code and compatible agents. Ever",
+    "id": "MyAiFreedomSystems/incredagents-site",
+    "language": "HTML",
+    "name": "MyAiFreedomSystems/incredagents-site",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:19:46Z",
+    "url": "https://github.com/MyAiFreedomSystems/incredagents-site"
+  },
+  {
+    "description": "\ud83d\udca6 Claude Unmarking Machine.",
+    "id": "wiseaidotdev/cum",
+    "language": "Rust",
+    "name": "wiseaidotdev/cum",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:19:41Z",
+    "url": "https://github.com/wiseaidotdev/cum"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:18:05Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-14T22:20:15Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 2,
+    "updated_at": "2026-08-14T22:16:36Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-08-14T22:16:25Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 26,
+    "updated_at": "2026-08-14T22:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -9,6 +153,15 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-08-14T22:14:55Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -16,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T22:14:01Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "\ud83d\udca6 Claude Unmarking Machine.",
-    "id": "wiseaidotdev/cum",
-    "language": "Rust",
-    "name": "wiseaidotdev/cum",
-    "stars": 0,
-    "updated_at": "2026-08-14T22:15:04Z",
-    "url": "https://github.com/wiseaidotdev/cum"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -108,21 +252,12 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-14T22:15:04Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "A plumb line finds true vertical by gravity alone. plumb-line is a provenance library and Claude Code plugin that does t",
     "id": "slopstopper/plumb-line",
     "language": "Python",
     "name": "slopstopper/plumb-line",
     "stars": 4,
-    "updated_at": "2026-08-14T22:07:50Z",
+    "updated_at": "2026-08-14T22:22:23Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -133,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T22:07:27Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Zero-setup creative media for agents. Generate & edit images, generate video & audio, create 3D, with no API key, no OAu",
-    "id": "danielgwilson/luxin",
-    "language": "JavaScript",
-    "name": "danielgwilson/luxin",
-    "stars": 1,
-    "updated_at": "2026-08-14T22:07:19Z",
-    "url": "https://github.com/danielgwilson/luxin"
   },
   {
     "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
@@ -198,15 +324,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 26,
-    "updated_at": "2026-08-14T22:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Give your AI agents persistent memory and session continuity in your Obsidian vault \u2014 a conversational interview scaffol",
     "id": "aliasunder/vault-onboarding",
     "language": "TypeScript",
@@ -216,15 +333,6 @@
     "url": "https://github.com/aliasunder/vault-onboarding"
   },
   {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:58:28Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -232,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T21:57:53Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:56:37Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-14T21:38:02Z",
     "url": "https://github.com/liustack/pptfast"
-  },
-  {
-    "description": "Human + AI music production workflow for Suno - skills, templates, and tools",
-    "id": "bitwize-music-studio/claude-ai-music-skills",
-    "language": "Python",
-    "name": "bitwize-music-studio/claude-ai-music-skills",
-    "stars": 423,
-    "updated_at": "2026-08-14T21:35:33Z",
-    "url": "https://github.com/bitwize-music-studio/claude-ai-music-skills"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:31:38Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-14T21:31:10Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "ADHD-friendly AI responses: answer first, zero fluff. Output-style plugin for Claude Code, Codex and Cursor. \ud83d\udc3f\ufe0f",
-    "id": "thgMatajs/squirrel-mode",
-    "language": "Shell",
-    "name": "thgMatajs/squirrel-mode",
-    "stars": 1,
-    "updated_at": "2026-08-14T21:30:35Z",
-    "url": "https://github.com/thgMatajs/squirrel-mode"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 17,
-    "updated_at": "2026-08-14T22:15:11Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-08-14T21:29:29Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:29:20Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:29:01Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:28:39Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-14T21:28:17Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:27:49Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
   }
 ]
