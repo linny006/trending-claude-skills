@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 13:43 UTC
+> ⏰ Last updated: 2026-08-14 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ohugonnot/claude-skills](https://github.com/ohugonnot/claude-skills) | 0 | Shell | 2026-08-14 | Battle-tested Claude Code skills by Odilon Hugonnot: quality-gated feature delivery, senior review, issue/MR workflow, b |
-| 2 | [j-256/claude-code-skills](https://github.com/j-256/claude-code-skills) | 2 | JavaScript | 2026-08-14 | Some useful Claude Code Skills |
-| 3 | [j-256/stream-eval](https://github.com/j-256/stream-eval) | 0 | Python | 2026-08-14 | Deterministic assertion harness for claude -p stream-json transcripts |
-| 4 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-14 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 5 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 5222 | Python | 2026-08-14 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
-| 6 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-14 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 7 | [liustack/modlens](https://github.com/liustack/modlens) | 1148 | TypeScript | 2026-08-14 | The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge |
-| 8 | [Swellshinider/janitor](https://github.com/Swellshinider/janitor) | 0 | Python | 2026-08-14 | Behavior-preserving codebase cleanup: removes dead code, splits oversized files and classes, and merges duplicated logic |
-| 9 | [curie-eng/curie](https://github.com/curie-eng/curie) | 17 | Python | 2026-08-14 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
-| 10 | [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 24 | Go | 2026-08-14 | Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n |
-| 11 | [OrinVoss/dsh-math-team](https://github.com/OrinVoss/dsh-math-team) | 0 | — | 2026-08-14 | DSH Math Modeling Team Plugin Pack: 2 role agent presets (modeling-coding / paper) for DeepSeek Harness, multi-folder Gi |
-| 12 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 255 | Python | 2026-08-14 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication fi |
-| 13 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-14 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 14 | [mplind/second-reader](https://github.com/mplind/second-reader) | 1 | Python | 2026-08-14 | Build a vault that can teach and advise you from your sources as if you'd carefully read and distilled them yourself. |
-| 15 | [trevor-ryan-burkholder/dare-to-be-stupid](https://github.com/trevor-ryan-burkholder/dare-to-be-stupid) | 0 | JavaScript | 2026-08-14 | Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be  |
-| 16 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 25 | Python | 2026-08-14 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 25 | Python | 2026-08-14 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [ohugonnot/claude-skills](https://github.com/ohugonnot/claude-skills) | 0 | Shell | 2026-08-14 | Battle-tested Claude Code skills by Odilon Hugonnot: quality-gated feature delivery, senior review, issue/MR workflow, b |
+| 3 | [j-256/claude-code-skills](https://github.com/j-256/claude-code-skills) | 2 | JavaScript | 2026-08-14 | Some useful Claude Code Skills |
+| 4 | [j-256/stream-eval](https://github.com/j-256/stream-eval) | 0 | Python | 2026-08-14 | Deterministic assertion harness for claude -p stream-json transcripts |
+| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-14 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 6 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 5222 | Python | 2026-08-14 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
+| 7 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-14 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 8 | [liustack/modlens](https://github.com/liustack/modlens) | 1148 | TypeScript | 2026-08-14 | The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge |
+| 9 | [Swellshinider/janitor](https://github.com/Swellshinider/janitor) | 0 | Python | 2026-08-14 | Behavior-preserving codebase cleanup: removes dead code, splits oversized files and classes, and merges duplicated logic |
+| 10 | [curie-eng/curie](https://github.com/curie-eng/curie) | 17 | Python | 2026-08-14 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
+| 11 | [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 24 | Go | 2026-08-14 | Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n |
+| 12 | [OrinVoss/dsh-math-team](https://github.com/OrinVoss/dsh-math-team) | 0 | — | 2026-08-14 | DSH Math Modeling Team Plugin Pack: 2 role agent presets (modeling-coding / paper) for DeepSeek Harness, multi-folder Gi |
+| 13 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 255 | Python | 2026-08-14 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication fi |
+| 14 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-14 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 15 | [mplind/second-reader](https://github.com/mplind/second-reader) | 1 | Python | 2026-08-14 | Build a vault that can teach and advise you from your sources as if you'd carefully read and distilled them yourself. |
+| 16 | [trevor-ryan-burkholder/dare-to-be-stupid](https://github.com/trevor-ryan-burkholder/dare-to-be-stupid) | 0 | JavaScript | 2026-08-14 | Act now! Claude Code does EVERYTHING autonomously - batteries not included, warranty void, prod not invited. Dare to be  |
 | 17 | [dapih/visualkan](https://github.com/dapih/visualkan) | 1 | JavaScript | 2026-08-14 | Turn any content into a visual explanation: whiteboard, infographic, presentation, diagram, mind map, or UI mockup. Inst |
 | 18 | [playcanvas/skills](https://github.com/playcanvas/skills) | 5 | JavaScript | 2026-08-14 | Reusable skills for AI coding agents working with PlayCanvas products |
 | 19 | [chengzhi-c/natural-talk](https://github.com/chengzhi-c/natural-talk) | 3 | Python | 2026-08-14 | 让 AI 像人说话的完整规则集。去除 AI 腔、讲义腔、协作痕迹。适用于 Claude、ChatGPT 等所有对话 AI。   EN：: Complete ruleset to make AI talk like humans. Remov |
