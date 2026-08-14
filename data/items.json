@@ -1,5 +1,122 @@
 [
   {
+    "description": "Claude Code as a second brain: all 101 skills, a working CRM engine, vault templates and the handover map. Method, not d",
+    "id": "tonydzi/second-brain-starter-kit",
+    "language": "Python",
+    "name": "tonydzi/second-brain-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-08-14T07:44:09Z",
+    "url": "https://github.com/tonydzi/second-brain-starter-kit"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-08-14T07:43:57Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
+    "id": "liustack/modlens",
+    "language": "TypeScript",
+    "name": "liustack/modlens",
+    "stars": 966,
+    "updated_at": "2026-08-14T07:43:53Z",
+    "url": "https://github.com/liustack/modlens"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-14T07:42:43Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A plumb line finds true vertical by gravity alone. plumb-line is a provenance library and Claude Code plugin that does t",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-08-14T07:42:01Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "Claude Code skills for querying Coinpaprika and DexPaprika crypto market data (CEX prices, DEX pools, tokens, OHLCV).",
+    "id": "coinpaprika/skills",
+    "language": "\u2014",
+    "name": "coinpaprika/skills",
+    "stars": 7,
+    "updated_at": "2026-08-14T07:39:54Z",
+    "url": "https://github.com/coinpaprika/skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-14T07:44:58Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Executable biomedical workflows for AI assistants \u2014 literature analysis, biomarker discovery, and Mendelian randomizatio",
+    "id": "Alim430/bioresearch-agent",
+    "language": "Python",
+    "name": "Alim430/bioresearch-agent",
+    "stars": 1,
+    "updated_at": "2026-08-14T07:36:11Z",
+    "url": "https://github.com/Alim430/bioresearch-agent"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 9,
+    "updated_at": "2026-08-14T07:32:08Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 67852,
+    "updated_at": "2026-08-14T07:31:05Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-14T07:30:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI agents that think before they speak. Three-seat deliberation engine stops repeated mistakes for Claude, Cursor, Winds",
+    "id": "Sumedh1599/chess-theory",
+    "language": "Python",
+    "name": "Sumedh1599/chess-theory",
+    "stars": 0,
+    "updated_at": "2026-08-14T07:30:11Z",
+    "url": "https://github.com/Sumedh1599/chess-theory"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-08-14T07:30:09Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
     "description": "A working Claude Code config from a solo builder who ships \u2014 156 skills, 6 hooks, conductor routing pattern, auto-dedupe",
     "id": "bertbertov/claude-stack",
     "language": "Python",
@@ -18,24 +135,6 @@
     "url": "https://github.com/Borda/AI-Rig"
   },
   {
-    "description": "Claude Code as a second brain: all 101 skills, a working CRM engine, vault templates and the handover map. Method, not d",
-    "id": "tonydzi/second-brain-starter-kit",
-    "language": "Python",
-    "name": "tonydzi/second-brain-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-14T07:29:10Z",
-    "url": "https://github.com/tonydzi/second-brain-starter-kit"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 8,
-    "updated_at": "2026-08-14T07:28:08Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "PSYINT \u2014 The tooling project for psychic and spiritual counterintelligence. Open-source tools to detect and audit disinf",
     "id": "lemur47/si-protocols",
     "language": "Python",
@@ -43,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T07:26:21Z",
     "url": "https://github.com/lemur47/si-protocols"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-14T07:27:41Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "",
@@ -81,40 +171,22 @@
     "url": "https://github.com/YuliaMelekhova/analyst-toolkit"
   },
   {
-    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
-    "id": "liustack/modlens",
-    "language": "TypeScript",
-    "name": "liustack/modlens",
-    "stars": 952,
-    "updated_at": "2026-08-14T07:19:40Z",
-    "url": "https://github.com/liustack/modlens"
-  },
-  {
     "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
     "id": "aaron-he-zhu/aaron-marketing-skills",
     "language": "Python",
     "name": "aaron-he-zhu/aaron-marketing-skills",
-    "stars": 2582,
+    "stars": 2583,
     "updated_at": "2026-08-14T07:16:39Z",
     "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67851,
-    "updated_at": "2026-08-14T07:15:29Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 25,
-    "updated_at": "2026-08-14T07:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "A Claude Skill that turns vague music requests into specific, production-ready prompts for AI music generation \u2014 Suno, U",
+    "id": "musegen/music-prompt-skill",
+    "language": "\u2014",
+    "name": "musegen/music-prompt-skill",
+    "stars": 0,
+    "updated_at": "2026-08-14T07:15:31Z",
+    "url": "https://github.com/musegen/music-prompt-skill"
   },
   {
     "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall",
@@ -185,7 +257,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-14T07:28:15Z",
+    "updated_at": "2026-08-14T07:33:11Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -324,6 +396,15 @@
     "url": "https://github.com/nowork-studio/notfair-plugin"
   },
   {
+    "description": "A curated, copy-pasteable prompt library for AI music generation \u2014 96 annotated prompts across genre, mood, vocal, tempo",
+    "id": "musegen/awesome-music-prompts",
+    "language": "\u2014",
+    "name": "musegen/awesome-music-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:48:05Z",
+    "url": "https://github.com/musegen/awesome-music-prompts"
+  },
+  {
     "description": "Per-tool-call resource measurement for AI coding agents, built on Claude Code hooks. A pytest run and a git status stop ",
     "id": "uncoalesced/cordon",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-14T06:43:52Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-14T06:42:33Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 13,
-    "updated_at": "2026-08-14T06:42:25Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 5,
-    "updated_at": "2026-08-14T06:41:47Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "The mod pack for AI coding agents. 12 battle-tested skills. One install. Seven platforms.",
-    "id": "MyAiFreedomSystems/incredagents",
-    "language": "HTML",
-    "name": "MyAiFreedomSystems/incredagents",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:39:45Z",
-    "url": "https://github.com/MyAiFreedomSystems/incredagents"
-  },
-  {
-    "description": "\u82f9\u679c MCP \u5de5\u5177 \u2705",
-    "id": "celados/mcpx",
-    "language": "TypeScript",
-    "name": "celados/mcpx",
-    "stars": 18,
-    "updated_at": "2026-08-14T06:38:06Z",
-    "url": "https://github.com/celados/mcpx"
-  },
-  {
-    "description": "Conduct multiple rounds of review and revision of the design and planning documents until all issues are resolved and cl",
-    "id": "MarkAsir/design-plan-skill",
-    "language": "\u2014",
-    "name": "MarkAsir/design-plan-skill",
-    "stars": 1,
-    "updated_at": "2026-08-14T06:36:21Z",
-    "url": "https://github.com/MarkAsir/design-plan-skill"
-  },
-  {
-    "description": "AI agents that think before they speak. Three-seat deliberation engine stops repeated mistakes for Claude, Cursor, Winds",
-    "id": "Sumedh1599/chess-theory",
-    "language": "Python",
-    "name": "Sumedh1599/chess-theory",
-    "stars": 0,
-    "updated_at": "2026-08-14T07:30:11Z",
-    "url": "https://github.com/Sumedh1599/chess-theory"
-  },
-  {
-    "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
-    "id": "yacb2/aidex",
-    "language": "Shell",
-    "name": "yacb2/aidex",
-    "stars": 2,
-    "updated_at": "2026-08-14T06:32:01Z",
-    "url": "https://github.com/yacb2/aidex"
-  },
-  {
-    "description": "Official agent skills for PowerSync",
-    "id": "powersync-ja/agent-skills",
-    "language": "JavaScript",
-    "name": "powersync-ja/agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-14T06:25:23Z",
-    "url": "https://github.com/powersync-ja/agent-skills"
   }
 ]
