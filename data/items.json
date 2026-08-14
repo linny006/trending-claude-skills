@@ -1,12 +1,57 @@
 [
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-08-14T04:45:00Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
+    "id": "liustack/modlens",
+    "language": "TypeScript",
+    "name": "liustack/modlens",
+    "stars": 874,
+    "updated_at": "2026-08-14T04:39:47Z",
+    "url": "https://github.com/liustack/modlens"
+  },
+  {
+    "description": "CLI-first vision sidecar for text-only coding agents. Analyze screenshots, diagrams, charts, UI diffs, and videos with O",
+    "id": "ZhuXinAI/sidesight",
+    "language": "TypeScript",
+    "name": "ZhuXinAI/sidesight",
     "stars": 1,
-    "updated_at": "2026-08-14T04:29:34Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+    "updated_at": "2026-08-14T04:38:35Z",
+    "url": "https://github.com/ZhuXinAI/sidesight"
+  },
+  {
+    "description": "Agent Skills for MapleStory Universe \u2014 a SKILL.md catalog for MSU builders. Works with Claude Code, Codex CLI, Gemini CL",
+    "id": "NEXPACE-Limited/msu-skills",
+    "language": "JavaScript",
+    "name": "NEXPACE-Limited/msu-skills",
+    "stars": 5,
+    "updated_at": "2026-08-14T04:43:10Z",
+    "url": "https://github.com/NEXPACE-Limited/msu-skills"
+  },
+  {
+    "description": "A collection of Claude Code skills for better software development.",
+    "id": "WahyuS002/skills",
+    "language": "Shell",
+    "name": "WahyuS002/skills",
+    "stars": 4,
+    "updated_at": "2026-08-14T04:35:55Z",
+    "url": "https://github.com/WahyuS002/skills"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 254,
+    "updated_at": "2026-08-14T04:44:35Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 13,
-    "updated_at": "2026-08-14T04:29:23Z",
+    "updated_at": "2026-08-14T04:33:26Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-14T04:32:54Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
+    "id": "Stewie-pixel/claude-with-leetcode",
+    "language": "C++",
+    "name": "Stewie-pixel/claude-with-leetcode",
+    "stars": 83,
+    "updated_at": "2026-08-14T04:32:04Z",
+    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 422,
+    "updated_at": "2026-08-14T04:31:24Z",
+    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -23,8 +95,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 25,
-    "updated_at": "2026-08-14T04:28:38Z",
+    "updated_at": "2026-08-14T04:30:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-14T04:29:34Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -43,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-08-14T04:25:29Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 67848,
+    "updated_at": "2026-08-14T04:25:29Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Some useful Claude Code Skills",
@@ -126,15 +216,6 @@
     "url": "https://github.com/natthasath/natthasath-marketplace"
   },
   {
-    "description": "CLI-first vision sidecar for text-only coding agents. Analyze screenshots, diagrams, charts, UI diffs, and videos with O",
-    "id": "ZhuXinAI/sidesight",
-    "language": "TypeScript",
-    "name": "ZhuXinAI/sidesight",
-    "stars": 1,
-    "updated_at": "2026-08-14T04:12:43Z",
-    "url": "https://github.com/ZhuXinAI/sidesight"
-  },
-  {
     "description": "SecureVibe \u2014 prevention-first security for AI-written code. Signed SKILL.md knowledge that makes AI coding assistants wr",
     "id": "ShieldNet-360/secure-vibe",
     "language": "Go",
@@ -205,15 +286,6 @@
     "stars": 6,
     "updated_at": "2026-08-14T04:11:40Z",
     "url": "https://github.com/rgourley/financial-ui-suite"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 254,
-    "updated_at": "2026-08-14T04:25:23Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
@@ -288,15 +360,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "A collection of Claude Code skills for better software development.",
-    "id": "WahyuS002/skills",
-    "language": "Shell",
-    "name": "WahyuS002/skills",
-    "stars": 4,
-    "updated_at": "2026-08-14T03:56:12Z",
-    "url": "https://github.com/WahyuS002/skills"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -304,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T03:55:14Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 22,
-    "updated_at": "2026-08-14T04:26:19Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
@@ -331,15 +385,6 @@
     "stars": 51,
     "updated_at": "2026-08-14T03:52:29Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
-    "id": "liustack/modlens",
-    "language": "TypeScript",
-    "name": "liustack/modlens",
-    "stars": 859,
-    "updated_at": "2026-08-14T03:52:28Z",
-    "url": "https://github.com/liustack/modlens"
   },
   {
     "description": "42 engineering skills for Claude Code across the SDLC \u2014 shared principles injected at session start. Works with Codex, C",
@@ -373,27 +418,9 @@
     "id": "chang416/im-human",
     "language": "Python",
     "name": "chang416/im-human",
-    "stars": 6,
+    "stars": 8,
     "updated_at": "2026-08-14T03:43:00Z",
     "url": "https://github.com/chang416/im-human"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67846,
-    "updated_at": "2026-08-14T04:25:29Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 2,
-    "updated_at": "2026-08-14T04:28:22Z",
-    "url": "https://github.com/fworks-tech/agenthood"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-14T03:30:54Z",
     "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 83,
-    "updated_at": "2026-08-14T03:21:25Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 18693,
-    "updated_at": "2026-08-14T03:19:06Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-14T03:18:44Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
