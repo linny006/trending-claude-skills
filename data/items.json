@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
+    "id": "thefilesareinthecomputer/dotagents",
+    "language": "Python",
+    "name": "thefilesareinthecomputer/dotagents",
+    "stars": 0,
+    "updated_at": "2026-08-15T02:31:46Z",
+    "url": "https://github.com/thefilesareinthecomputer/dotagents"
+  },
+  {
+    "description": "My main list of vendor-agnostic agent skills and harness configs",
+    "id": "anton-winter-arch/dotagents",
+    "language": "Python",
+    "name": "anton-winter-arch/dotagents",
+    "stars": 1,
+    "updated_at": "2026-08-15T02:31:45Z",
+    "url": "https://github.com/anton-winter-arch/dotagents"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 26,
+    "updated_at": "2026-08-15T02:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-15T02:30:11Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -70,42 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T02:21:27Z",
     "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
-    "id": "thefilesareinthecomputer/dotagents",
-    "language": "Python",
-    "name": "thefilesareinthecomputer/dotagents",
-    "stars": 0,
-    "updated_at": "2026-08-15T02:16:07Z",
-    "url": "https://github.com/thefilesareinthecomputer/dotagents"
-  },
-  {
-    "description": "My main list of vendor-agnostic agent skills and harness configs",
-    "id": "anton-winter-arch/dotagents",
-    "language": "Python",
-    "name": "anton-winter-arch/dotagents",
-    "stars": 1,
-    "updated_at": "2026-08-15T02:16:05Z",
-    "url": "https://github.com/anton-winter-arch/dotagents"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 26,
-    "updated_at": "2026-08-15T02:15:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-15T02:30:09Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-15 02:30 UTC
+> ⏰ Last updated: 2026-08-15 02:33 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-15 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 2 | [nordicnode/skillpack](https://github.com/nordicnode/skillpack) | 2 | Rust | 2026-08-15 | Generate, verify, and maintain AI agent guidance for your OSS project — skills, plugins, and AGENTS.md for Claude Code,  |
-| 3 | [testdriverai/testdriverai](https://github.com/testdriverai/testdriverai) | 238 | JavaScript | 2026-08-15 | Computer-Use SDK for E2E QA Testing |
-| 4 | [trevor-ryan-burkholder/meeseeks](https://github.com/trevor-ryan-burkholder/meeseeks) | 0 | JavaScript | 2026-08-15 | Meeseeks is a Claude Code plugin. One command hands a specification to an autonomous loop that designs, builds, gates, a |
-| 5 | [tetckx/deep-structural-analysis-skill](https://github.com/tetckx/deep-structural-analysis-skill) | 1 | — | 2026-08-15 | Deep Structural Analysis — a multi-perspective structural analysis skill for complex social, economic, philosophical, an |
-| 6 | [sanhuang520-ship-it/awesome-chinese-ai-tools](https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools) | 7 | HTML | 2026-08-15 | 中文 Agent Skills 合集：184 个条目、13 个本站原创；Codex 13/13 自动触发实测，Claude Code / Cursor 待测；每日自动复检 |
-| 7 | [mdorf/agent-skills](https://github.com/mdorf/agent-skills) | 0 | Shell | 2026-08-15 | Portable Agent Skills (SKILL.md) for Claude Code, OpenAI Codex, and other AI coding agents |
-| 8 | [patrickserrano/lacquer](https://github.com/patrickserrano/lacquer) | 2 | Go | 2026-08-15 | Go CLI + profile templates that standardize how Claude Code works across every project |
-| 9 | [thefilesareinthecomputer/dotagents](https://github.com/thefilesareinthecomputer/dotagents) | 0 | Python | 2026-08-15 | AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses. |
-| 10 | [anton-winter-arch/dotagents](https://github.com/anton-winter-arch/dotagents) | 1 | Python | 2026-08-15 | My main list of vendor-agnostic agent skills and harness configs |
-| 11 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 26 | Python | 2026-08-15 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 12 | [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 0 | Shell | 2026-08-15 | A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe |
+| 1 | [thefilesareinthecomputer/dotagents](https://github.com/thefilesareinthecomputer/dotagents) | 0 | Python | 2026-08-15 | AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses. |
+| 2 | [anton-winter-arch/dotagents](https://github.com/anton-winter-arch/dotagents) | 1 | Python | 2026-08-15 | My main list of vendor-agnostic agent skills and harness configs |
+| 3 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 26 | Python | 2026-08-15 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 4 | [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 0 | Shell | 2026-08-15 | A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe |
+| 5 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-15 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 6 | [nordicnode/skillpack](https://github.com/nordicnode/skillpack) | 2 | Rust | 2026-08-15 | Generate, verify, and maintain AI agent guidance for your OSS project — skills, plugins, and AGENTS.md for Claude Code,  |
+| 7 | [testdriverai/testdriverai](https://github.com/testdriverai/testdriverai) | 238 | JavaScript | 2026-08-15 | Computer-Use SDK for E2E QA Testing |
+| 8 | [trevor-ryan-burkholder/meeseeks](https://github.com/trevor-ryan-burkholder/meeseeks) | 0 | JavaScript | 2026-08-15 | Meeseeks is a Claude Code plugin. One command hands a specification to an autonomous loop that designs, builds, gates, a |
+| 9 | [tetckx/deep-structural-analysis-skill](https://github.com/tetckx/deep-structural-analysis-skill) | 1 | — | 2026-08-15 | Deep Structural Analysis — a multi-perspective structural analysis skill for complex social, economic, philosophical, an |
+| 10 | [sanhuang520-ship-it/awesome-chinese-ai-tools](https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools) | 7 | HTML | 2026-08-15 | 中文 Agent Skills 合集：184 个条目、13 个本站原创；Codex 13/13 自动触发实测，Claude Code / Cursor 待测；每日自动复检 |
+| 11 | [mdorf/agent-skills](https://github.com/mdorf/agent-skills) | 0 | Shell | 2026-08-15 | Portable Agent Skills (SKILL.md) for Claude Code, OpenAI Codex, and other AI coding agents |
+| 12 | [patrickserrano/lacquer](https://github.com/patrickserrano/lacquer) | 2 | Go | 2026-08-15 | Go CLI + profile templates that standardize how Claude Code works across every project |
 | 13 | [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 256 | Python | 2026-08-15 | Agent Skills for medical research — literature search, reporting-guideline & citation checks, statistics, publication fi |
 | 14 | [JhoseWolf/sageox-hivemind-engine](https://github.com/JhoseWolf/sageox-hivemind-engine) | 2 | HTML | 2026-08-15 | ⚡ SageOx HiveMind 2026 — Agentic Engineering Toolkit for Autonomous Workflows |
 | 15 | [ashfaquecg806-dot/symfony-ux-insights](https://github.com/ashfaquecg806-dot/symfony-ux-insights) | 1 | HTML | 2026-08-15 | Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus |
