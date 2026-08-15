@@ -1,5 +1,77 @@
 [
   {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:23:12Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-08-15T22:22:55Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Agent memory as a Markdown wiki: one shared, verified knowledge base that Claude Code, Codex and GPT read and write. Les",
+    "id": "Mace-Enterprise/Agent-Knowledge-Memory-Wiki",
+    "language": "JavaScript",
+    "name": "Mace-Enterprise/Agent-Knowledge-Memory-Wiki",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:22:34Z",
+    "url": "https://github.com/Mace-Enterprise/Agent-Knowledge-Memory-Wiki"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-08-15T22:21:23Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-08-15T22:20:25Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-15T22:19:40Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-15T22:17:54Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-15T22:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30511,
-    "updated_at": "2026-08-15T22:13:17Z",
+    "updated_at": "2026-08-15T22:21:41Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Shared, verified memory for AI coding agents. One Markdown wiki that Claude Code, Codex and GPT all read and write: less",
-    "id": "Mace-Enterprise/Agent-Knowledge-Memory-Wiki",
-    "language": "JavaScript",
-    "name": "Mace-Enterprise/Agent-Knowledge-Memory-Wiki",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:11:19Z",
-    "url": "https://github.com/Mace-Enterprise/Agent-Knowledge-Memory-Wiki"
-  },
-  {
     "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
     "id": "jamditis/claude-skills-journalism",
     "language": "Python",
@@ -106,6 +169,15 @@
     "stars": 2,
     "updated_at": "2026-08-15T22:09:56Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 911,
+    "updated_at": "2026-08-15T22:09:35Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
@@ -158,17 +230,8 @@
     "language": "Python",
     "name": "Lancetnik/slop-writer",
     "stars": 6,
-    "updated_at": "2026-08-15T22:10:49Z",
+    "updated_at": "2026-08-15T22:17:23Z",
     "url": "https://github.com/Lancetnik/slop-writer"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:06:04Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T22:00:17Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-15T22:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -261,21 +315,12 @@
     "url": "https://github.com/maogouste/skills-rssi-fr"
   },
   {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-15T21:52:20Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
     "description": "Generate, verify, and maintain AI agent guidance for your OSS project \u2014 skills, plugins, and AGENTS.md for Claude Code, ",
     "id": "nordicnode/skillpack",
     "language": "Rust",
     "name": "nordicnode/skillpack",
     "stars": 2,
-    "updated_at": "2026-08-15T21:49:53Z",
+    "updated_at": "2026-08-15T22:18:38Z",
     "url": "https://github.com/nordicnode/skillpack"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-15T22:14:16Z",
+    "updated_at": "2026-08-15T22:20:23Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -365,7 +410,7 @@
     "language": "Go",
     "name": "Servosity/msp-skills",
     "stars": 25,
-    "updated_at": "2026-08-15T22:11:45Z",
+    "updated_at": "2026-08-15T22:21:58Z",
     "url": "https://github.com/Servosity/msp-skills"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-15T21:38:12Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Open agent skill: full-page screenshots of a website at several viewport widths, with a horizontal-overflow report",
-    "id": "mad-coders/fullpage-screenshot-ai-skill",
-    "language": "JavaScript",
-    "name": "mad-coders/fullpage-screenshot-ai-skill",
-    "stars": 1,
-    "updated_at": "2026-08-15T21:37:39Z",
-    "url": "https://github.com/mad-coders/fullpage-screenshot-ai-skill"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-08-15T21:35:50Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-15T21:35:43Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 2,
-    "updated_at": "2026-08-15T21:35:19Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-08-15T21:34:19Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
   }
 ]
