@@ -5,8 +5,71 @@
     "language": "Shell",
     "name": "mdorf/agent-skills",
     "stars": 0,
-    "updated_at": "2026-08-14T23:58:52Z",
+    "updated_at": "2026-08-15T00:13:57Z",
     "url": "https://github.com/mdorf/agent-skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 17,
+    "updated_at": "2026-08-15T00:13:42Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Practical Skills",
+    "id": "zzxCoding/skills",
+    "language": "Python",
+    "name": "zzxCoding/skills",
+    "stars": 1,
+    "updated_at": "2026-08-15T00:11:52Z",
+    "url": "https://github.com/zzxCoding/skills"
+  },
+  {
+    "description": "Generate, verify, and maintain AI agent guidance for your OSS project \u2014 skills, plugins, and AGENTS.md for Claude Code, ",
+    "id": "nordicnode/skillpack",
+    "language": "Rust",
+    "name": "nordicnode/skillpack",
+    "stars": 2,
+    "updated_at": "2026-08-15T00:08:19Z",
+    "url": "https://github.com/nordicnode/skillpack"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 130,
+    "updated_at": "2026-08-15T00:05:53Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "Meeseeks is a Claude Code plugin. One command hands a specification to an autonomous loop that designs, builds, gates, a",
+    "id": "trevor-ryan-burkholder/meeseeks",
+    "language": "JavaScript",
+    "name": "trevor-ryan-burkholder/meeseeks",
+    "stars": 0,
+    "updated_at": "2026-08-15T00:04:48Z",
+    "url": "https://github.com/trevor-ryan-burkholder/meeseeks"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-08-15T00:02:04Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 26,
+    "updated_at": "2026-08-15T00:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -90,33 +153,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 130,
-    "updated_at": "2026-08-14T23:49:11Z",
-    "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 26,
-    "updated_at": "2026-08-14T23:48:51Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Meeseeks is a Claude Code plugin. One command hands a specification to an autonomous loop that designs, builds, gates, a",
-    "id": "trevor-ryan-burkholder/meeseeks",
-    "language": "JavaScript",
-    "name": "trevor-ryan-burkholder/meeseeks",
-    "stars": 0,
-    "updated_at": "2026-08-14T23:47:27Z",
-    "url": "https://github.com/trevor-ryan-burkholder/meeseeks"
-  },
-  {
     "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
     "id": "jabrena/plinth",
     "language": "Java",
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 113,
-    "updated_at": "2026-08-14T23:49:09Z",
+    "updated_at": "2026-08-15T00:06:16Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 17,
-    "updated_at": "2026-08-14T23:53:14Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Human-in-the-loop skill for AI agents \u2014 create tasks for humans to review, approve, or complete. REST API + MCP.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T23:14:39Z",
     "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
-    "id": "Poetic-squamouscell685/aahl-web-scraper",
-    "language": "HTML",
-    "name": "Poetic-squamouscell685/aahl-web-scraper",
-    "stars": 0,
-    "updated_at": "2026-08-14T23:14:38Z",
-    "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-14T23:14:18Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-14T23:14:09Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
