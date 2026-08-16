@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 410,
-    "updated_at": "2026-08-16T01:14:18Z",
+    "updated_at": "2026-08-16T01:26:14Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 86,
+    "updated_at": "2026-08-16T01:26:12Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-08-16T01:24:18Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Production-oriented AI domain-intelligence infrastructure for Indonesian legal, tax, HR, finance, marketing, and strateg",
+    "id": "adamriofc/indonesian-business-agent-skills",
+    "language": "JavaScript",
+    "name": "adamriofc/indonesian-business-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-16T01:22:59Z",
+    "url": "https://github.com/adamriofc/indonesian-business-agent-skills"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-08-16T01:19:00Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-08-16T01:17:27Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 3,
+    "updated_at": "2026-08-16T01:17:00Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-08-16T01:16:45Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-16T01:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -36,15 +108,6 @@
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
   },
   {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 3,
-    "updated_at": "2026-08-16T01:09:28Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
     "description": "ADHD-friendly AI responses: answer first, zero fluff. Output-style plugin for Claude Code, Codex and Cursor. \ud83d\udc3f\ufe0f",
     "id": "thgMatajs/squirrel-mode",
     "language": "Shell",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "makidav/clinical-assistant",
     "stars": 1,
-    "updated_at": "2026-08-16T01:05:41Z",
+    "updated_at": "2026-08-16T01:20:53Z",
     "url": "https://github.com/makidav/clinical-assistant"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T01:05:26Z",
     "url": "https://github.com/chgagne/claude-skills-research"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-16T01:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A governance constitution and working method for multi-agent and solo-agent workflows.",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-15T23:37:26Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "NestJS backend for a platform connecting installed doctors with replacement doctors in France, cutting administrative fr",
-    "id": "lellis-medical-group/kineo-nest-backend",
-    "language": "TypeScript",
-    "name": "lellis-medical-group/kineo-nest-backend",
-    "stars": 0,
-    "updated_at": "2026-08-16T00:54:30Z",
-    "url": "https://github.com/lellis-medical-group/kineo-nest-backend"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-15T23:35:54Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "73 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI gates, des",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 151,
-    "updated_at": "2026-08-16T00:01:23Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "The Prompt Boot skill. An AI-native installer skill for applications.",
-    "id": "pkozanian/promptboot",
-    "language": "\u2014",
-    "name": "pkozanian/promptboot",
-    "stars": 1,
-    "updated_at": "2026-08-15T23:32:19Z",
-    "url": "https://github.com/pkozanian/promptboot"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-15T23:26:55Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-15T23:25:55Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
   }
 ]
