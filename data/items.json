@@ -1,5 +1,50 @@
 [
   {
+    "description": "DeepSeek Harness (DSH) \u751f\u6001\u6280\u80fd\u5305\uff1aparallel-dispatch \u5e76\u884c\u8c03\u5ea6\u89c4\u5219 + archmap \u67b6\u6784\u6d4b\u7ed8 Agent\uff08\u96f6LLM\u786e\u5b9a\u6027diff\u5f71\u54cd\u9762\uff0c\u8282\u7ea6tokens\uff09\u3002Reusable skills for ",
+    "id": "xu-jin-cs/dsh-skills",
+    "language": "Python",
+    "name": "xu-jin-cs/dsh-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:01:51Z",
+    "url": "https://github.com/xu-jin-cs/dsh-skills"
+  },
+  {
+    "description": "Official Riffkit skill \u2014 riff a winning TikTok into your own short video from your AI agent (Claude Code, Cursor) or the",
+    "id": "riffkit/skill",
+    "language": "\u2014",
+    "name": "riffkit/skill",
+    "stars": 3,
+    "updated_at": "2026-08-16T07:01:16Z",
+    "url": "https://github.com/riffkit/skill"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-08-16T07:00:27Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design ",
+    "id": "Turki-Sh/Foreman",
+    "language": "HTML",
+    "name": "Turki-Sh/Foreman",
+    "stars": 21,
+    "updated_at": "2026-08-16T07:00:26Z",
+    "url": "https://github.com/Turki-Sh/Foreman"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-16T07:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -135,15 +180,6 @@
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-16T06:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
@@ -194,7 +230,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-16T06:56:44Z",
+    "updated_at": "2026-08-16T07:01:06Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-16T06:18:08Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Agent skill that discovers and catalogs 150+ scraping/collection tools on GitHub, then progressively recommends the righ",
-    "id": "Yuuqq/collection-skill",
-    "language": "Python",
-    "name": "Yuuqq/collection-skill",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:20:26Z",
-    "url": "https://github.com/Yuuqq/collection-skill"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-16T06:16:19Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:14:16Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
-    "id": "Machai-Kydoimos/dependabot-audit",
-    "language": "Python",
-    "name": "Machai-Kydoimos/dependabot-audit",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:06:37Z",
-    "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
   }
 ]
