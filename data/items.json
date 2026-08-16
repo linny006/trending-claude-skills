@@ -1,5 +1,86 @@
 [
   {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 2,
+    "updated_at": "2026-08-16T02:44:02Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "Python",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 4,
+    "updated_at": "2026-08-16T02:43:39Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-08-16T02:42:20Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-16T02:38:24Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-16T02:37:43Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Claude Skills for ServiceNow professionals \u2014 structured analysis tools for user stories, script review, and security aud",
+    "id": "JXRLABS/servicenow-forge-skills",
+    "language": "\u2014",
+    "name": "JXRLABS/servicenow-forge-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T02:36:46Z",
+    "url": "https://github.com/JXRLABS/servicenow-forge-skills"
+  },
+  {
+    "description": "\u4e2d\u6587 Agent Skills \u5408\u96c6\uff1a184 \u4e2a\u6761\u76ee\u300113 \u4e2a\u672c\u7ad9\u539f\u521b\uff1bCodex 13/13 \u81ea\u52a8\u89e6\u53d1\u5b9e\u6d4b\uff0cClaude Code / Cursor \u5f85\u6d4b\uff1b\u6bcf\u65e5\u81ea\u52a8\u590d\u68c0",
+    "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "language": "HTML",
+    "name": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "stars": 7,
+    "updated_at": "2026-08-16T02:35:46Z",
+    "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-16T02:34:26Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-16T02:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Zero-setup creative media for agents. Generate & edit images, generate video & audio, create 3D, with no API key, no OAu",
     "id": "danielgwilson/luxin",
     "language": "JavaScript",
@@ -99,15 +180,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-16T02:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -149,7 +221,7 @@
     "language": "Rust",
     "name": "crabbuild/compass",
     "stars": 131,
-    "updated_at": "2026-08-16T02:12:58Z",
+    "updated_at": "2026-08-16T02:41:55Z",
     "url": "https://github.com/crabbuild/compass"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T01:34:02Z",
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "Python",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 4,
-    "updated_at": "2026-08-16T01:33:07Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Claude Agent Skill for clinical reasoning: differential diagnosis, GRADE evidence appraisal, a 13-perspective clinical b",
-    "id": "makidav/clinical-assistant",
-    "language": "Python",
-    "name": "makidav/clinical-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-16T01:41:46Z",
-    "url": "https://github.com/makidav/clinical-assistant"
-  },
-  {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 2,
-    "updated_at": "2026-08-16T02:29:08Z",
-    "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 410,
-    "updated_at": "2026-08-16T01:27:50Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Connect Claude Desktop to your ServiceNow PDI. Query records, inspect Business Rules, review ACLs, and troubleshoot agai",
-    "id": "JXRLABS/pdi-bridge-for-claude",
-    "language": "\u2014",
-    "name": "JXRLABS/pdi-bridge-for-claude",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:27:29Z",
-    "url": "https://github.com/JXRLABS/pdi-bridge-for-claude"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:27:00Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:26:23Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 86,
-    "updated_at": "2026-08-16T01:26:12Z",
-    "url": "https://github.com/YPares/rigup.nix"
   }
 ]
