@@ -1,12 +1,75 @@
 [
   {
+    "description": "Software adoption engineering tools for Claude Code. Audit whether your API, SDK, and docs are usable by developers and ",
+    "id": "agentrel/skills",
+    "language": "Python",
+    "name": "agentrel/skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:49:18Z",
+    "url": "https://github.com/agentrel/skills"
+  },
+  {
+    "description": "Agent Skills that take you from \"I want to contribute to open source\" to a submitted pull request \u2014 and measure whether ",
+    "id": "chjnett/open_contribute",
+    "language": "Python",
+    "name": "chjnett/open_contribute",
+    "stars": 1,
+    "updated_at": "2026-08-16T11:49:10Z",
+    "url": "https://github.com/chjnett/open_contribute"
+  },
+  {
+    "description": "\u300c\u79c1\u4eba\u8a02\u8cfc\u9801\u300d\uff1a\u9650\u5b9a\u9810\u8cfc\u7db2\u7ad9\u7522\u751f\u5668\u3002\u52d5\u614b\u5bc6\u78bc\u9598\u9580\u3001\u540d\u7247\u9a57\u8eab\u4efd\u81ea\u52d5\u5207\u6298\u6263\u50f9\u3001\u8a02\u91d1\u5c3e\u6b3e\u5206\u968e\u6bb5\uff0c\u8dd1\u5728 Cloudflare + Google \u4e0a\uff0c\u7dad\u8b77\u6210\u672c 0 \u5143\u3002",
+    "id": "clouluo/private-order-page",
+    "language": "HTML",
+    "name": "clouluo/private-order-page",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:47:23Z",
+    "url": "https://github.com/clouluo/private-order-page"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:46:55Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:46:41Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-16T11:43:45Z",
+    "updated_at": "2026-08-16T11:49:48Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:45:26Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-16T11:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\uace0\uac1d\uc0ac \uc548\uc5d0 \ub4e4\uc5b4\uac00 \ubcf4\uae30 \uc804\uc5d0, \uacf5\uac1c \uc2e0\ud638\ub9cc\uc73c\ub85c \uadf8 \ud68c\uc0ac\ub97c \uc77d\ub294 AI \ub3c4\uad6c \ubaa8\uc74c. FDE\u00b7\ud504\ub9ac\uc138\uc77c\uc988\u00b7\ucee8\uc124\ud134\ud2b8\uc6a9. / Read a company from the outside before you get inside. ",
@@ -27,21 +90,12 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:44:15Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
     "description": "IntelliJ plugin for creating and validating Codex, Claude and Gemini skills inside a project.",
     "id": "spmisha134/skillOps-intellij",
     "language": "Kotlin",
     "name": "spmisha134/skillOps-intellij",
     "stars": 1,
-    "updated_at": "2026-08-16T11:43:03Z",
+    "updated_at": "2026-08-16T11:46:04Z",
     "url": "https://github.com/spmisha134/skillOps-intellij"
   },
   {
@@ -144,15 +198,6 @@
     "url": "https://github.com/indranilbanerjee/contentforge"
   },
   {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "Python",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:37:10Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
     "description": "A collection of mainly my own productivity plugins for Claude Code.",
     "id": "Marcel-Bich/marcel-bich-claude-marketplace",
     "language": "Shell",
@@ -214,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T11:30:46Z",
     "url": "https://github.com/policeakshithreddy/antiwatermark"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:30:31Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-16T11:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T11:19:02Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Software adoption engineering tools for Claude Code. Audit whether your API, SDK, and docs are usable by developers and ",
-    "id": "agentrel/skills",
-    "language": "Python",
-    "name": "agentrel/skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:18:34Z",
-    "url": "https://github.com/agentrel/skills"
-  },
-  {
-    "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
-    "id": "vbkotecha/agentservices-api",
-    "language": "Python",
-    "name": "vbkotecha/agentservices-api",
-    "stars": 1,
-    "updated_at": "2026-08-16T11:17:32Z",
-    "url": "https://github.com/vbkotecha/agentservices-api"
-  },
-  {
-    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
-    "id": "VoltAgent/awesome-agent-skills",
-    "language": "\u2014",
-    "name": "VoltAgent/awesome-agent-skills",
-    "stars": 30375,
-    "updated_at": "2026-08-16T11:16:40Z",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills"
   }
 ]
