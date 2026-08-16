@@ -1,12 +1,183 @@
 [
   {
+    "description": "DeepSeek Harness (DSH) \u751f\u6001\u6280\u80fd\u5305\uff1aparallel-dispatch \u5e76\u884c\u8c03\u5ea6\u89c4\u5219 + archmap \u67b6\u6784\u6d4b\u7ed8 Agent\uff08\u96f6LLM\u786e\u5b9a\u6027diff\u5f71\u54cd\u9762\uff0c\u8282\u7ea6tokens\uff09\u3002Reusable skills for ",
+    "id": "xu-jin-cs/dsh-skills",
+    "language": "Python",
+    "name": "xu-jin-cs/dsh-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:59:18Z",
+    "url": "https://github.com/xu-jin-cs/dsh-skills"
+  },
+  {
+    "description": "\uace0\uac1d\uc0ac \uc548\uc5d0 \ub4e4\uc5b4\uac00 \ubcf4\uae30 \uc804\uc5d0, \uacf5\uac1c \uc2e0\ud638\ub9cc\uc73c\ub85c \uadf8 \ud68c\uc0ac\ub97c \uc77d\ub294 AI \ub3c4\uad6c \ubaa8\uc74c. FDE\u00b7\ud504\ub9ac\uc138\uc77c\uc988\u00b7\ucee8\uc124\ud134\ud2b8\uc6a9. / Read a company from the outside before you get inside. ",
+    "id": "Kdreamtomaster/ax-commons",
+    "language": "Python",
+    "name": "Kdreamtomaster/ax-commons",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:58:15Z",
+    "url": "https://github.com/Kdreamtomaster/ax-commons"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:57:54Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-16T10:57:50Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-16T10:44:54Z",
+    "updated_at": "2026-08-16T10:57:40Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:54:53Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:52:50Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-16T10:52:27Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:52:26Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "MIT\u300a\u8ba1\u7b97\u673a\u6559\u80b2\u4e2d\u7f3a\u5931\u7684\u4e00\u5b66\u671f\u300b2026 \u5168\u4e5d\u8bb2\u84b8\u998f\u6210\u7684 29 \u4e2a\u53ef\u590d\u7528 agent skills\uff0c\u4e00\u952e\u5b89\u88c5\u5230 Claude Code / dsh / OpenCode / Codex \u00b7 29 reusable agent skills",
+    "id": "AntheaLaffy/the-missing-semester-skills",
+    "language": "Shell",
+    "name": "AntheaLaffy/the-missing-semester-skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:52:18Z",
+    "url": "https://github.com/AntheaLaffy/the-missing-semester-skills"
+  },
+  {
+    "description": "Turn a booklist into a mentor-guided daily reading plan, delivered on schedule \uff5c \u628a\u4e66\u5355\u53d8\u6210\u6709\u5bfc\u5e08\u966a\u8bfb\u7684\u6bcf\u65e5\u9605\u8bfb\u8ba1\u5212",
+    "id": "haorantang97/reading-plan-mentor",
+    "language": "\u2014",
+    "name": "haorantang97/reading-plan-mentor",
+    "stars": 1,
+    "updated_at": "2026-08-16T10:52:01Z",
+    "url": "https://github.com/haorantang97/reading-plan-mentor"
+  },
+  {
+    "description": "The installation hub for Neel's open-source marketing systems: Digital Marketing Pro, ContentForge, and SocialForge - po",
+    "id": "indranilbanerjee/neels-plugins",
+    "language": "Python",
+    "name": "indranilbanerjee/neels-plugins",
+    "stars": 6,
+    "updated_at": "2026-08-16T10:49:54Z",
+    "url": "https://github.com/indranilbanerjee/neels-plugins"
+  },
+  {
+    "description": "An open-source social media production system that turns a content calendar into on-brand copy, images, video, and clien",
+    "id": "indranilbanerjee/socialforge",
+    "language": "Python",
+    "name": "indranilbanerjee/socialforge",
+    "stars": 30,
+    "updated_at": "2026-08-16T10:49:36Z",
+    "url": "https://github.com/indranilbanerjee/socialforge"
+  },
+  {
+    "description": "An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - groun",
+    "id": "indranilbanerjee/digital-marketing-pro",
+    "language": "Python",
+    "name": "indranilbanerjee/digital-marketing-pro",
+    "stars": 743,
+    "updated_at": "2026-08-16T10:49:32Z",
+    "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
+  },
+  {
+    "description": "An open-source editorial production system that researches, verifies, drafts, and delivers publication-ready long-form c",
+    "id": "indranilbanerjee/contentforge",
+    "language": "Python",
+    "name": "indranilbanerjee/contentforge",
+    "stars": 21,
+    "updated_at": "2026-08-16T10:49:29Z",
+    "url": "https://github.com/indranilbanerjee/contentforge"
+  },
+  {
+    "description": "Pass your project, not your context.",
+    "id": "kakadeka/Baton",
+    "language": "JavaScript",
+    "name": "kakadeka/Baton",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:49:28Z",
+    "url": "https://github.com/kakadeka/Baton"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:46:20Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Package manager for AI agent assets (skills / CLIs / MCPs / loops) across Codex, Claude Code, Cursor and Kiro.",
+    "id": "seed-forge/harness-ai-kit",
+    "language": "Python",
+    "name": "seed-forge/harness-ai-kit",
+    "stars": 6,
+    "updated_at": "2026-08-16T10:45:21Z",
+    "url": "https://github.com/seed-forge/harness-ai-kit"
+  },
+  {
+    "description": "Stop publishing writing that sounds like AI. This skill checks every AI draft, rewrites the slop, and never touches a se",
+    "id": "pallavkaushish/zero-ai-slop",
+    "language": "\u2014",
+    "name": "pallavkaushish/zero-ai-slop",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:45:20Z",
+    "url": "https://github.com/pallavkaushish/zero-ai-slop"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-16T10:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -36,15 +207,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "The installation hub for Neel's open-source marketing systems: Digital Marketing Pro, ContentForge, and SocialForge - po",
-    "id": "indranilbanerjee/neels-plugins",
-    "language": "Python",
-    "name": "indranilbanerjee/neels-plugins",
-    "stars": 6,
-    "updated_at": "2026-08-16T10:41:36Z",
-    "url": "https://github.com/indranilbanerjee/neels-plugins"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -54,24 +216,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "An open-source social media production system that turns a content calendar into on-brand copy, images, video, and clien",
-    "id": "indranilbanerjee/socialforge",
-    "language": "Python",
-    "name": "indranilbanerjee/socialforge",
-    "stars": 30,
-    "updated_at": "2026-08-16T10:41:13Z",
-    "url": "https://github.com/indranilbanerjee/socialforge"
-  },
-  {
-    "description": "An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - groun",
-    "id": "indranilbanerjee/digital-marketing-pro",
-    "language": "Python",
-    "name": "indranilbanerjee/digital-marketing-pro",
-    "stars": 743,
-    "updated_at": "2026-08-16T10:41:09Z",
-    "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
-  },
-  {
     "description": "Persistent memory for Claude Code. Bring your own database.",
     "id": "Avijit07x/claude-db",
     "language": "TypeScript",
@@ -79,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T10:41:48Z",
     "url": "https://github.com/Avijit07x/claude-db"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:40:45Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-16T10:40:37Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
@@ -122,53 +248,8 @@
     "language": "HTML",
     "name": "Frun1753/claude-codecraft-toolkit",
     "stars": 1,
-    "updated_at": "2026-08-16T10:38:55Z",
+    "updated_at": "2026-08-16T10:59:42Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:36:14Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:35:37Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:35:09Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "\uace0\uac1d\uc0ac \uc548\uc5d0 \ub4e4\uc5b4\uac00 \ubcf4\uae30 \uc804\uc5d0, \uacf5\uac1c \uc2e0\ud638\ub9cc\uc73c\ub85c \uadf8 \ud68c\uc0ac\ub97c \uc77d\ub294 AI \ub3c4\uad6c \ubaa8\uc74c. FDE\u00b7\ud504\ub9ac\uc138\uc77c\uc988\u00b7\ucee8\uc124\ud134\ud2b8\uc6a9. / Read a company from the outside before you get inside. ",
-    "id": "Kdreamtomaster/ax-commons",
-    "language": "Python",
-    "name": "Kdreamtomaster/ax-commons",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:32:34Z",
-    "url": "https://github.com/Kdreamtomaster/ax-commons"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:31:48Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "AI Agent skills for Okapi \u2014 a modern, minimalist HTTP web framework for Go inspired by FastAPI.",
@@ -198,21 +279,12 @@
     "url": "https://github.com/Edward0l1/skill-flare-discover"
   },
   {
-    "description": "MIT\u300a\u8ba1\u7b97\u673a\u6559\u80b2\u4e2d\u7f3a\u5931\u7684\u4e00\u5b66\u671f\u300b2026 \u5168\u4e5d\u8bb2\u84b8\u998f\u6210\u7684 28 \u4e2a\u53ef\u590d\u7528 agent skills\uff0c\u4e00\u952e\u5b89\u88c5\u5230 Claude Code / dsh / OpenCode / Codex \u00b7 28 reusable agent skills",
-    "id": "AntheaLaffy/the-missing-semester-skills",
-    "language": "Shell",
-    "name": "AntheaLaffy/the-missing-semester-skills",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:29:06Z",
-    "url": "https://github.com/AntheaLaffy/the-missing-semester-skills"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 67936,
-    "updated_at": "2026-08-16T10:44:56Z",
+    "updated_at": "2026-08-16T10:58:09Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -241,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T10:27:53Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "An open-source editorial production system that researches, verifies, drafts, and delivers publication-ready long-form c",
-    "id": "indranilbanerjee/contentforge",
-    "language": "Python",
-    "name": "indranilbanerjee/contentforge",
-    "stars": 21,
-    "updated_at": "2026-08-16T10:27:29Z",
-    "url": "https://github.com/indranilbanerjee/contentforge"
   },
   {
     "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
@@ -342,15 +405,6 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "Pass your project, not your context.",
-    "id": "kakadeka/Baton",
-    "language": "JavaScript",
-    "name": "kakadeka/Baton",
-    "stars": 2,
-    "updated_at": "2026-08-16T10:18:42Z",
-    "url": "https://github.com/kakadeka/Baton"
-  },
-  {
     "description": "Versionierte Heimat meiner Agent Skills f\u00fcr Claude (claude.ai, Claude Code, API).",
     "id": "wemwi/skill-library",
     "language": "HTML",
@@ -387,15 +441,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Package manager for AI agent assets (skills / CLIs / MCPs / loops) across Codex, Claude Code, Cursor and Kiro.",
-    "id": "seed-forge/harness-ai-kit",
-    "language": "Python",
-    "name": "seed-forge/harness-ai-kit",
-    "stars": 6,
-    "updated_at": "2026-08-16T10:15:43Z",
-    "url": "https://github.com/seed-forge/harness-ai-kit"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-16T10:15:14Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:15:10Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-16T10:15:08Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:14:34Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-08-16T10:13:18Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-08-16T10:12:44Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   }
 ]
