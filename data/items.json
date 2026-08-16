@@ -1,12 +1,174 @@
 [
   {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
+    "description": "Agent memory as a Markdown wiki: one shared, verified knowledge base that Claude Code, Codex and GPT read and write. Les",
+    "id": "Mace-Enterprise/Agent-Knowledge-Memory-Wiki",
+    "language": "Python",
+    "name": "Mace-Enterprise/Agent-Knowledge-Memory-Wiki",
+    "stars": 0,
+    "updated_at": "2026-08-16T02:59:47Z",
+    "url": "https://github.com/Mace-Enterprise/Agent-Knowledge-Memory-Wiki"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
     "stars": 2,
-    "updated_at": "2026-08-16T02:44:41Z",
-    "url": "https://github.com/patrickserrano/lacquer"
+    "updated_at": "2026-08-16T02:59:32Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-16T02:58:26Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "These are not the Claude Code Skills you're looking for. Skills charge you every turn. Have you ever asked what you're g",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-08-16T02:58:24Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Practical Skills",
+    "id": "zzxCoding/skills",
+    "language": "Python",
+    "name": "zzxCoding/skills",
+    "stars": 1,
+    "updated_at": "2026-08-16T02:58:04Z",
+    "url": "https://github.com/zzxCoding/skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-16T02:56:02Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Skills + MCP server for Claude Code, Codex, Hermes, or OpenClaw - headless MIKE+ automated modelling and analysis (inspe",
+    "id": "Zhonghao1995/Agentic-MIKE-Plus",
+    "language": "Python",
+    "name": "Zhonghao1995/Agentic-MIKE-Plus",
+    "stars": 7,
+    "updated_at": "2026-08-16T02:56:00Z",
+    "url": "https://github.com/Zhonghao1995/Agentic-MIKE-Plus"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 21,
+    "updated_at": "2026-08-16T02:55:30Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-08-16T03:00:01Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 72 \u4e2a\u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 5326,
+    "updated_at": "2026-08-16T02:55:03Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "Meeseeks is a Claude Code plugin. One command hands a specification to an autonomous loop that designs, builds, gates, a",
+    "id": "trevor-ryan-burkholder/meeseeks",
+    "language": "JavaScript",
+    "name": "trevor-ryan-burkholder/meeseeks",
+    "stars": 1,
+    "updated_at": "2026-08-16T02:54:15Z",
+    "url": "https://github.com/trevor-ryan-burkholder/meeseeks"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
+    "id": "laolaoshiren/claude-code-skills-zh",
+    "language": "Python",
+    "name": "laolaoshiren/claude-code-skills-zh",
+    "stars": 765,
+    "updated_at": "2026-08-16T02:53:05Z",
+    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 131,
+    "updated_at": "2026-08-16T02:51:58Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "JavaScript",
+    "name": "chrislacey89/skills",
+    "stars": 2,
+    "updated_at": "2026-08-16T02:51:47Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "A router for people who installed too many agent skills. Returns an ordered chain and the arbitration already settled, i",
+    "id": "whichskill/whichskill",
+    "language": "Python",
+    "name": "whichskill/whichskill",
+    "stars": 0,
+    "updated_at": "2026-08-16T02:51:21Z",
+    "url": "https://github.com/whichskill/whichskill"
+  },
+  {
+    "description": "Searching, installing, deleting, and syncing skills",
+    "id": "emlog/skill-lake",
+    "language": "Dart",
+    "name": "emlog/skill-lake",
+    "stars": 2,
+    "updated_at": "2026-08-16T02:49:14Z",
+    "url": "https://github.com/emlog/skill-lake"
+  },
+  {
+    "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle",
+    "id": "athola/claude-night-market",
+    "language": "Python",
+    "name": "athola/claude-night-market",
+    "stars": 328,
+    "updated_at": "2026-08-16T02:52:37Z",
+    "url": "https://github.com/athola/claude-night-market"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-16T02:46:10Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-16T02:45:31Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +176,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 29,
-    "updated_at": "2026-08-16T02:44:27Z",
+    "updated_at": "2026-08-16T02:45:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 2,
+    "updated_at": "2026-08-16T02:44:41Z",
+    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
@@ -34,15 +205,6 @@
     "stars": 5,
     "updated_at": "2026-08-16T02:42:20Z",
     "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 22,
-    "updated_at": "2026-08-16T02:38:24Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -117,15 +279,6 @@
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   },
   {
-    "description": "A router for people who installed too many agent skills. Returns an ordered chain and the arbitration already settled, i",
-    "id": "whichskill/whichskill",
-    "language": "Python",
-    "name": "whichskill/whichskill",
-    "stars": 0,
-    "updated_at": "2026-08-16T02:20:45Z",
-    "url": "https://github.com/whichskill/whichskill"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -189,15 +342,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
-    "id": "chrislacey89/skills",
-    "language": "JavaScript",
-    "name": "chrislacey89/skills",
-    "stars": 2,
-    "updated_at": "2026-08-16T02:14:13Z",
-    "url": "https://github.com/chrislacey89/skills"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -214,15 +358,6 @@
     "stars": 4,
     "updated_at": "2026-08-16T02:13:06Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 131,
-    "updated_at": "2026-08-16T02:41:55Z",
-    "url": "https://github.com/crabbuild/compass"
   },
   {
     "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
@@ -313,140 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T01:52:47Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "My Nix system configs!",
-    "id": "malob/nix-config",
-    "language": "Python",
-    "name": "malob/nix-config",
-    "stars": 461,
-    "updated_at": "2026-08-16T01:51:43Z",
-    "url": "https://github.com/malob/nix-config"
-  },
-  {
-    "description": "Turn any PDF, EPUB, DOCX, or slide deck into an agent skill. A CLI + skill that reads whole books and docs, then writes ",
-    "id": "asale-ai/anything-to-skill",
-    "language": "Rust",
-    "name": "asale-ai/anything-to-skill",
-    "stars": 3,
-    "updated_at": "2026-08-16T01:50:30Z",
-    "url": "https://github.com/asale-ai/anything-to-skill"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-08-16T01:50:05Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:48:52Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-16T01:46:48Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-08-16T01:42:47Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:41:17Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:40:31Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:40:18Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
-    "id": "BENZEMA216/awesome-weread",
-    "language": "JavaScript",
-    "name": "BENZEMA216/awesome-weread",
-    "stars": 56,
-    "updated_at": "2026-08-16T01:40:10Z",
-    "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:39:37Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-16T01:38:04Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:36:41Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:34:52Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-08-16T01:34:02Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   }
 ]
