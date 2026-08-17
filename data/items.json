@@ -1,12 +1,111 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 410,
+    "updated_at": "2026-08-17T12:10:45Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Memory for Claude Code that survives the session boundary \u2014 install the plugin into any repo: a hot cache injected every",
+    "id": "awrshift/claude-memory-kit",
+    "language": "Python",
+    "name": "awrshift/claude-memory-kit",
+    "stars": 29,
+    "updated_at": "2026-08-17T12:09:57Z",
+    "url": "https://github.com/awrshift/claude-memory-kit"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous audit-and-fix loop for Claude Code. A shell Stop hook re-feeds the agent its own plan, backl",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 5,
+    "updated_at": "2026-08-17T12:09:49Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 67994,
+    "updated_at": "2026-08-17T12:13:52Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Agent Skills - 44 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-08-17T12:08:31Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-17T12:14:43Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "/party \u2014 the skill that lets your agent sessions talk to each other. Claude Code, Cursor, Codex or any other agent: an o",
+    "id": "1gr14/agents-party",
+    "language": "TypeScript",
+    "name": "1gr14/agents-party",
+    "stars": 8,
+    "updated_at": "2026-08-17T12:03:49Z",
+    "url": "https://github.com/1gr14/agents-party"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-08-17T12:02:19Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Personalized Hacker News briefs in Claude Code. Learns your interests from what you click. Zero dependencies.",
+    "id": "ArchitektApx/HackerNews-Brief",
+    "language": "Python",
+    "name": "ArchitektApx/HackerNews-Brief",
+    "stars": 1,
+    "updated_at": "2026-08-17T12:02:04Z",
+    "url": "https://github.com/ArchitektApx/HackerNews-Brief"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 29,
-    "updated_at": "2026-08-17T11:59:46Z",
+    "updated_at": "2026-08-17T12:00:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 10,
+    "updated_at": "2026-08-17T12:00:08Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
+    "id": "liustack/modlens",
+    "language": "TypeScript",
+    "name": "liustack/modlens",
+    "stars": 2694,
+    "updated_at": "2026-08-17T12:00:01Z",
+    "url": "https://github.com/liustack/modlens"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -36,15 +135,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Memory for Claude Code that survives the session boundary \u2014 install the plugin into any repo: a hot cache injected every",
-    "id": "awrshift/claude-memory-kit",
-    "language": "Python",
-    "name": "awrshift/claude-memory-kit",
-    "stars": 29,
-    "updated_at": "2026-08-17T12:00:04Z",
-    "url": "https://github.com/awrshift/claude-memory-kit"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
@@ -72,15 +162,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 410,
-    "updated_at": "2026-08-17T11:59:23Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
     "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
     "id": "shortcuts/radin",
     "language": "Shell",
@@ -90,15 +171,6 @@
     "url": "https://github.com/shortcuts/radin"
   },
   {
-    "description": "Personalized Hacker News briefs in Claude Code. Learns your interests from what you click. Zero dependencies.",
-    "id": "ArchitektApx/HackerNews-Brief",
-    "language": "Python",
-    "name": "ArchitektApx/HackerNews-Brief",
-    "stars": 1,
-    "updated_at": "2026-08-17T11:57:07Z",
-    "url": "https://github.com/ArchitektApx/HackerNews-Brief"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T11:56:07Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-08-17T11:55:17Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -144,22 +207,13 @@
     "url": "https://github.com/f8wco/prompt-atlas"
   },
   {
-    "description": "/party \u2014 the skill that lets your agent sessions talk to each other. Claude Code, Cursor, Codex or any other agent: an o",
-    "id": "1gr14/agents-party",
-    "language": "TypeScript",
-    "name": "1gr14/agents-party",
-    "stars": 8,
-    "updated_at": "2026-08-17T11:52:19Z",
-    "url": "https://github.com/1gr14/agents-party"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 10,
-    "updated_at": "2026-08-17T12:00:08Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
+    "description": "Claude-skill die content beoordeelt op information gain volgens Google-patent US11354342B2 en de Search Central-document",
+    "id": "chapter42/information-gain-check",
+    "language": "\u2014",
+    "name": "chapter42/information-gain-check",
+    "stars": 0,
+    "updated_at": "2026-08-17T11:51:01Z",
+    "url": "https://github.com/chapter42/information-gain-check"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T11:47:14Z",
     "url": "https://github.com/0ss/ship"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 67994,
-    "updated_at": "2026-08-17T11:51:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -284,7 +329,7 @@
     "language": "TypeScript",
     "name": "molefrog/moi",
     "stars": 66,
-    "updated_at": "2026-08-17T11:46:40Z",
+    "updated_at": "2026-08-17T12:08:30Z",
     "url": "https://github.com/molefrog/moi"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
-    "id": "liustack/modlens",
-    "language": "TypeScript",
-    "name": "liustack/modlens",
-    "stars": 2691,
-    "updated_at": "2026-08-17T12:00:01Z",
-    "url": "https://github.com/liustack/modlens"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -338,7 +374,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-17T11:57:52Z",
+    "updated_at": "2026-08-17T12:14:43Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T11:28:16Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Agent Skills that take you from \"I want to contribute to open source\" to a submitted pull request \u2014 and measure whether ",
-    "id": "chjnett/open_contribute",
-    "language": "Python",
-    "name": "chjnett/open_contribute",
-    "stars": 1,
-    "updated_at": "2026-08-17T11:27:40Z",
-    "url": "https://github.com/chjnett/open_contribute"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-08-17T11:27:37Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-08-17T11:25:53Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Claude-skill die content beoordeelt op effort volgens Google's Search Quality Rater Guidelines.  Checklist, scores per M",
-    "id": "chapter42/sqrg-effort-check",
-    "language": "\u2014",
-    "name": "chapter42/sqrg-effort-check",
-    "stars": 0,
-    "updated_at": "2026-08-17T11:25:31Z",
-    "url": "https://github.com/chapter42/sqrg-effort-check"
   }
 ]
