@@ -1,12 +1,111 @@
 [
   {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-08-17T20:44:57Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "Publish docs from your AI agent \u2014 connect Claude Code, Codex & Cursor to Basalt over MCP and turn markdown into a govern",
+    "id": "cofoundy/basalt-plugin",
+    "language": "Shell",
+    "name": "cofoundy/basalt-plugin",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:43:15Z",
+    "url": "https://github.com/cofoundy/basalt-plugin"
+  },
+  {
     "description": "Research Hound \u2014 the extended research skill for Claude: six-stage scientific workflow with 26 verification scripts (cit",
     "id": "AlveeeRahman/research-hound",
     "language": "Python",
     "name": "AlveeeRahman/research-hound",
     "stars": 0,
-    "updated_at": "2026-08-17T20:35:07Z",
+    "updated_at": "2026-08-17T20:42:59Z",
     "url": "https://github.com/AlveeeRahman/research-hound"
+  },
+  {
+    "description": "PCM stack's official collection of agent skills",
+    "id": "PCMStack/agent-skills",
+    "language": "Shell",
+    "name": "PCMStack/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:42:40Z",
+    "url": "https://github.com/PCMStack/agent-skills"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous audit-and-fix loop for Claude Code. A shell Stop hook re-feeds the agent its own plan, backl",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 5,
+    "updated_at": "2026-08-17T20:42:25Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 17,
+    "updated_at": "2026-08-17T20:40:51Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio",
+    "id": "handcraftedbygod/SkillTrace",
+    "language": "Python",
+    "name": "handcraftedbygod/SkillTrace",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:40:24Z",
+    "url": "https://github.com/handcraftedbygod/SkillTrace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-17T20:36:57Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 53,
+    "updated_at": "2026-08-17T20:36:44Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:36:13Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:35:02Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:34:47Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "bridge.ai/tack: Route tracker for AI-assisted development work \u2014 pivots, deliverables, and dependencies \u2014 across session",
@@ -79,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T20:31:07Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-17T20:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-17T20:21:04Z",
     "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:21:00Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-08-17T20:20:52Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-08-17T20:20:39Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:20:31Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:20:30Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:19:40Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-17T20:19:28Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-08-17T20:19:28Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:19:26Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:19:25Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   }
 ]
