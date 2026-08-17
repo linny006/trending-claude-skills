@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent skill aggregator \u2014 index and retrieve SKILL.md from pluggable sources",
+    "id": "cjohnhanson/almanac",
+    "language": "Rust",
+    "name": "cjohnhanson/almanac",
+    "stars": 0,
+    "updated_at": "2026-08-17T02:44:44Z",
+    "url": "https://github.com/cjohnhanson/almanac"
+  },
+  {
+    "description": "Your AI marketing team for B2B SaaS: 69 specialist marketing agents and 18 installable Claude Code skills \u2014 SEO/AEO/GEO,",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 5,
+    "updated_at": "2026-08-17T02:42:51Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-17T02:42:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
     "id": "Dianel555/DSkills",
     "language": "Python",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T02:33:12Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-17T02:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T02:13:19Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Agent skill aggregator \u2014 index and retrieve SKILL.md from pluggable sources",
-    "id": "cjohnhanson/almanac",
-    "language": "Rust",
-    "name": "cjohnhanson/almanac",
-    "stars": 0,
-    "updated_at": "2026-08-17T02:13:31Z",
-    "url": "https://github.com/cjohnhanson/almanac"
   },
   {
     "description": "A working Claude Code config from a solo builder who ships \u2014 156 skills, 6 hooks, conductor routing pattern, auto-dedupe",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T01:39:26Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-17T01:38:25Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
