@@ -1,21 +1,174 @@
 [
   {
+    "description": "\u4e00\u5957\u5c06 PDF/LaTeX \u81ea\u52a8\u8f6c\u5316\u4e3a Obsidian \u7ed3\u6784\u5316 Markdown \u77e5\u8bc6\u56fe\u8c31\u7684 AI \u667a\u80fd\u4f53\u6280\u80fd\u3002",
+    "id": "Misaka16384/magi",
+    "language": "Python",
+    "name": "Misaka16384/magi",
+    "stars": 4,
+    "updated_at": "2026-08-18T14:27:28Z",
+    "url": "https://github.com/Misaka16384/magi"
+  },
+  {
+    "description": "Skill Vision \u2014 the QA skill for Claude skills: see inside your Agent Skills before they ship (spec conformance, script t",
+    "id": "AlveeeRahman/skill-vision",
+    "language": "Python",
+    "name": "AlveeeRahman/skill-vision",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:26:41Z",
+    "url": "https://github.com/AlveeeRahman/skill-vision"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68031,
+    "updated_at": "2026-08-18T14:23:26Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Universal AI Agent Development Skills Hub & Cordis Plugin for Govard, Magento 2, Laravel. Works with Claude Code, Codex ",
+    "id": "ddtcorex/agent-dev-skills",
+    "language": "Shell",
+    "name": "ddtcorex/agent-dev-skills",
+    "stars": 2,
+    "updated_at": "2026-08-18T14:21:49Z",
+    "url": "https://github.com/ddtcorex/agent-dev-skills"
+  },
+  {
+    "description": "A Claude Skill that stops silent corner-cutting: plan before acting, no placeholder code passed off as finished, verify ",
+    "id": "olimxonuz0-lab/rigor",
+    "language": "\u2014",
+    "name": "olimxonuz0-lab/rigor",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:20:56Z",
+    "url": "https://github.com/olimxonuz0-lab/rigor"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-08-18T14:20:39Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-08-18T14:19:47Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:18:57Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:18:47Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Skills for Claude to work with UK planning applications \u2014 retrieve documents from council portals, triage the grounds, a",
+    "id": "SeagullTwo/uk-planning-skills",
+    "language": "\u2014",
+    "name": "SeagullTwo/uk-planning-skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:17:48Z",
+    "url": "https://github.com/SeagullTwo/uk-planning-skills"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:17:29Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-18T14:15:37Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-18T14:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Garmin Connect health and fitness data for Claude Code and Codex - Body Battery, HRV, sleep, activities, VO2 max and tra",
+    "id": "dbhq-uk/garmin-skill",
+    "language": "Python",
+    "name": "dbhq-uk/garmin-skill",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:14:56Z",
+    "url": "https://github.com/dbhq-uk/garmin-skill"
+  },
+  {
     "description": "Generate and edit images with OpenAI's GPT Image 2, from Claude Code and Codex - 21 style presets, platform sizing, caro",
     "id": "dbhq-uk/gpt-image-2-skill",
-    "language": "\u2014",
+    "language": "Python",
     "name": "dbhq-uk/gpt-image-2-skill",
     "stars": 0,
     "updated_at": "2026-08-18T14:13:10Z",
     "url": "https://github.com/dbhq-uk/gpt-image-2-skill"
   },
   {
-    "description": "Garmin Connect health and fitness data for Claude Code and Codex - Body Battery, HRV, sleep, activities, VO2 max and tra",
-    "id": "dbhq-uk/garmin-skill",
-    "language": "\u2014",
-    "name": "dbhq-uk/garmin-skill",
+    "description": "Building an AI digital twin in public with Claude Code - English diary, longreads & reusable artifacts. RU version: Tele",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 12,
+    "updated_at": "2026-08-18T14:12:09Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
+    "id": "vbkotecha/agentservices-api",
+    "language": "Python",
+    "name": "vbkotecha/agentservices-api",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:10:01Z",
+    "url": "https://github.com/vbkotecha/agentservices-api"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-18T14:08:41Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
     "stars": 0,
-    "updated_at": "2026-08-18T14:14:56Z",
-    "url": "https://github.com/dbhq-uk/garmin-skill"
+    "updated_at": "2026-08-18T14:08:23Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -41,7 +194,7 @@
     "language": "TypeScript",
     "name": "molefrog/moi",
     "stars": 69,
-    "updated_at": "2026-08-18T14:10:12Z",
+    "updated_at": "2026-08-18T14:15:33Z",
     "url": "https://github.com/molefrog/moi"
   },
   {
@@ -81,15 +234,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-18T14:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
     "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
     "language": "HTML",
@@ -99,15 +243,6 @@
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68030,
-    "updated_at": "2026-08-18T14:11:51Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -115,24 +250,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T13:57:56Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:54:17Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:53:15Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -320,7 +437,7 @@
     "language": "HTML",
     "name": "JhoseWolf/sageox-hivemind-engine",
     "stars": 2,
-    "updated_at": "2026-08-18T13:37:51Z",
+    "updated_at": "2026-08-18T14:27:15Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   },
   {
@@ -329,124 +446,7 @@
     "language": "HTML",
     "name": "ashfaquecg806-dot/symfony-ux-insights",
     "stars": 1,
-    "updated_at": "2026-08-18T13:37:51Z",
+    "updated_at": "2026-08-18T14:27:15Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Build beautiful games with high-quality 3D assets using Thrixel and Claude Code.",
-    "id": "thrixel/goal-to-game",
-    "language": "JavaScript",
-    "name": "thrixel/goal-to-game",
-    "stars": 45,
-    "updated_at": "2026-08-18T13:37:26Z",
-    "url": "https://github.com/thrixel/goal-to-game"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-18T13:36:15Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-18T13:36:13Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:36:13Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:35:11Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-08-18T13:34:47Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Claude Skills for small business SEO blogging: research and score topics, draft in the owner's voice, log to Airtable an",
-    "id": "RuralAI/rural-hospitality-seo-blog",
-    "language": "JavaScript",
-    "name": "RuralAI/rural-hospitality-seo-blog",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:34:33Z",
-    "url": "https://github.com/RuralAI/rural-hospitality-seo-blog"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:34:03Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "\u61d2\u9b3c\u7d20\u6750\u5e93 \ud83e\udda5 Free commercial-use asset selector skill for AI agents \u2014 photos, illustrations, icons, textures with license-saf",
-    "id": "Songzhi-lab/sloth-assets",
-    "language": "\u2014",
-    "name": "Songzhi-lab/sloth-assets",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:33:43Z",
-    "url": "https://github.com/Songzhi-lab/sloth-assets"
-  },
-  {
-    "description": "High-reliability prompt engineering skill for Manus AI engineering and release workflows.",
-    "id": "JesseRaber/manus-prompt-engineering-skill",
-    "language": "PowerShell",
-    "name": "JesseRaber/manus-prompt-engineering-skill",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:33:33Z",
-    "url": "https://github.com/JesseRaber/manus-prompt-engineering-skill"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-18T13:33:24Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-18T13:33:14Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "AutoCAD DWG \u53cc\u7248\u672c\u56fe\u5757\u5bf9\u6bd4\u4e0e\u5206\u8272\u6807\u8bb0(\u65b0\u589e/\u79fb\u4f4d/\u4e00\u81f4/\u5220\u9664),\u5929\u6b63\u56fe\u7eb8\u53ef\u7528 | Compare & color-mark block differences between two DWG revisions, Python ",
-    "id": "hwdemtv/dwg-block-compare",
-    "language": "Python",
-    "name": "hwdemtv/dwg-block-compare",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:32:01Z",
-    "url": "https://github.com/hwdemtv/dwg-block-compare"
   }
 ]
