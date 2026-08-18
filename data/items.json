@@ -1,12 +1,39 @@
 [
   {
+    "description": "A Claude Code skill that crystallizes a project-design conversation into a complete project scaffold.",
+    "id": "joseluisamado/bootstrap-project-skill",
+    "language": "Go Template",
+    "name": "joseluisamado/bootstrap-project-skill",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:46:18Z",
+    "url": "https://github.com/joseluisamado/bootstrap-project-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-18T15:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Steve Polito's Agent Skills",
     "id": "stevepolitodesign/skills",
     "language": "HTML",
     "name": "stevepolitodesign/skills",
     "stars": 0,
-    "updated_at": "2026-08-18T15:42:17Z",
+    "updated_at": "2026-08-18T15:47:08Z",
     "url": "https://github.com/stevepolitodesign/skills"
+  },
+  {
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and the Google An",
+    "id": "wshobson/agents",
+    "language": "Python",
+    "name": "wshobson/agents",
+    "stars": 38889,
+    "updated_at": "2026-08-18T15:43:12Z",
+    "url": "https://github.com/wshobson/agents"
   },
   {
     "description": "Working Claude workflows for service businesses. One skill per trade, every prompt included, plus an honest list of what",
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-08-18T15:39:39Z",
+    "updated_at": "2026-08-18T15:46:55Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -36,6 +63,24 @@
     "url": "https://github.com/martinambrus/haive"
   },
   {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:38:15Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-08-18T15:37:53Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
     "description": "Claude/agent skill: track new iCIMS job postings with change detection. Installs via npx skills add.",
     "id": "johnisanerd/claude-skill-icims-job-monitor",
     "language": "\u2014",
@@ -43,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T15:37:19Z",
     "url": "https://github.com/johnisanerd/claude-skill-icims-job-monitor"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/claude-config",
+    "language": "Python",
+    "name": "wardawgmalvicious/claude-config",
+    "stars": 2,
+    "updated_at": "2026-08-18T15:37:10Z",
+    "url": "https://github.com/wardawgmalvicious/claude-config"
   },
   {
     "description": "Claude/agent skill: iCIMS job postings API. Installs via npx skills add.",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "GuillaumeLessard/qector-claude-skills",
     "stars": 0,
-    "updated_at": "2026-08-18T15:36:17Z",
+    "updated_at": "2026-08-18T15:47:28Z",
     "url": "https://github.com/GuillaumeLessard/qector-claude-skills"
   },
   {
@@ -86,8 +140,17 @@
     "language": "Python",
     "name": "GuillaumeLessard/qector-claude-plugin",
     "stars": 0,
-    "updated_at": "2026-08-18T15:36:09Z",
+    "updated_at": "2026-08-18T15:47:20Z",
     "url": "https://github.com/GuillaumeLessard/qector-claude-plugin"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:36:06Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   },
   {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
@@ -207,15 +270,6 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-18T15:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -238,7 +292,7 @@
     "id": "liustack/modlens",
     "language": "TypeScript",
     "name": "liustack/modlens",
-    "stars": 3066,
+    "stars": 3067,
     "updated_at": "2026-08-18T15:28:49Z",
     "url": "https://github.com/liustack/modlens"
   },
@@ -286,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T15:25:28Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
-    "id": "wardawgmalvicious/claude-config",
-    "language": "Python",
-    "name": "wardawgmalvicious/claude-config",
-    "stars": 2,
-    "updated_at": "2026-08-18T15:37:10Z",
-    "url": "https://github.com/wardawgmalvicious/claude-config"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -403,50 +448,5 @@
     "stars": 52,
     "updated_at": "2026-08-18T15:18:56Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-18T15:17:08Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 51,
-    "updated_at": "2026-08-18T15:16:31Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-18T15:15:52Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-18T15:15:40Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-18T15:15:03Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
