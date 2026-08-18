@@ -1,12 +1,12 @@
 [
   {
-    "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
-    "id": "CHAOSX-SPACE/god-of-the-void",
+    "description": "\u4e00\u5957\u5c06 PDF/LaTeX \u81ea\u52a8\u8f6c\u5316\u4e3a Obsidian \u7ed3\u6784\u5316 Markdown \u77e5\u8bc6\u56fe\u8c31\u7684 AI \u667a\u80fd\u4f53\u6280\u80fd\u3002",
+    "id": "Misaka16384/magi",
     "language": "Python",
-    "name": "CHAOSX-SPACE/god-of-the-void",
-    "stars": 1,
-    "updated_at": "2026-08-18T06:01:56Z",
-    "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
+    "name": "Misaka16384/magi",
+    "stars": 4,
+    "updated_at": "2026-08-18T06:13:13Z",
+    "url": "https://github.com/Misaka16384/magi"
   },
   {
     "description": "Official Claude Code plugin and claude.ai skill bundle for QECTOR: local quantum error correction decoding with qector-d",
@@ -14,8 +14,71 @@
     "language": "Python",
     "name": "GuillaumeLessard/qector-claude-plugin",
     "stars": 0,
-    "updated_at": "2026-08-18T06:01:02Z",
+    "updated_at": "2026-08-18T06:13:46Z",
     "url": "https://github.com/GuillaumeLessard/qector-claude-plugin"
+  },
+  {
+    "description": "Self-hosted MCP server that runs multi-step Claude agent pipelines - build knowledge bases, generate documents, and auto",
+    "id": "LikeMindsCommunity/agentic-workflow-backend",
+    "language": "Python",
+    "name": "LikeMindsCommunity/agentic-workflow-backend",
+    "stars": 0,
+    "updated_at": "2026-08-18T06:10:46Z",
+    "url": "https://github.com/LikeMindsCommunity/agentic-workflow-backend"
+  },
+  {
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14315,
+    "updated_at": "2026-08-18T06:09:18Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "DeepSeek Harness \u6269\u5c55\u5f00\u53d1\u811a\u624b\u67b6\uff1adshdev CLI\uff08agent preset / \u63d2\u4ef6 bundle / MCP \u4e00\u952e\u751f\u6210\u4e0e\u6821\u9a8c\uff09+ Claude Code \u4e2d\u6587\u5bfc\u822a Skill\u3002Complements official",
+    "id": "Qidianyan/dsh-dev",
+    "language": "Python",
+    "name": "Qidianyan/dsh-dev",
+    "stars": 0,
+    "updated_at": "2026-08-18T06:08:54Z",
+    "url": "https://github.com/Qidianyan/dsh-dev"
+  },
+  {
+    "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
+    "id": "CHAOSX-SPACE/god-of-the-void",
+    "language": "Python",
+    "name": "CHAOSX-SPACE/god-of-the-void",
+    "stars": 1,
+    "updated_at": "2026-08-18T06:03:46Z",
+    "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
+  },
+  {
+    "description": "EPLAN Electric P8 2026  + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. EEC PR",
+    "id": "covagashi/eplan-rag-mcp",
+    "language": "Python",
+    "name": "covagashi/eplan-rag-mcp",
+    "stars": 72,
+    "updated_at": "2026-08-18T06:03:17Z",
+    "url": "https://github.com/covagashi/eplan-rag-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-18T06:02:31Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-18T06:01:48Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -25,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T06:00:20Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-18T06:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -113,7 +167,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-18T05:51:41Z",
+    "updated_at": "2026-08-18T06:10:45Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T05:47:21Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "DeepSeek Harness \u6269\u5c55\u5f00\u53d1\u811a\u624b\u67b6\uff1adshdev CLI\uff08agent preset / \u63d2\u4ef6 bundle / MCP \u4e00\u952e\u751f\u6210\u4e0e\u6821\u9a8c\uff09+ Claude Code \u4e2d\u6587\u5bfc\u822a Skill\u3002Complements official",
-    "id": "Qidianyan/dsh-dev",
-    "language": "Python",
-    "name": "Qidianyan/dsh-dev",
-    "stars": 0,
-    "updated_at": "2026-08-18T05:46:44Z",
-    "url": "https://github.com/Qidianyan/dsh-dev"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T05:44:18Z",
     "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-18T06:01:48Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-18T05:25:30Z",
     "url": "https://github.com/helloyxs/generate-html-ppt"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-18T05:23:15Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-18T05:23:10Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Daily Leetcode masterclass with Claude code DSA mentor",
-    "id": "Stewie-pixel/claude-with-leetcode",
-    "language": "C++",
-    "name": "Stewie-pixel/claude-with-leetcode",
-    "stars": 83,
-    "updated_at": "2026-08-18T05:22:43Z",
-    "url": "https://github.com/Stewie-pixel/claude-with-leetcode"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-18T05:21:38Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   }
 ]
