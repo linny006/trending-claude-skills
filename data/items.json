@@ -1,5 +1,50 @@
 [
   {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-08-18T07:04:10Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
+  },
+  {
+    "description": "\u91cd\u5927\u51b3\u7b56\u62ff\u4e0d\u51c6\uff1f\u9009\u62e9\u56f0\u96be\u75c7\uff1f\u9700\u8981\u591a\u89d2\u5ea6\u3001\u591a\u7ef4\u5ea6\u51b3\u7b56\u53c2\u8003\uff1f\u53ec\u5524 65 \u4f4d\u8de8\u8d8a\u4e24\u5343\u5e74\u7684\u5386\u53f2\u8c0b\u58eb\uff08\u8bf8\u845b\u4eae/\u5b54\u5b50/\u5fb7\u9c81\u514b\u2026\uff09\u4e3a\u4f60\u8fa9\u8bba\u3001\u6311\u523a\u3001\u8f93\u51fa\u7532/\u4e59\u65b9\u6848\u3002\u57fa\u4e8e Claude Code \u7684 AI \u667a\u56ca\u56e2\u51b3\u7b56\u6846\u67b6\u3002 | AI multi-agent ",
+    "id": "77cinc/ai-decision-council",
+    "language": "JavaScript",
+    "name": "77cinc/ai-decision-council",
+    "stars": 0,
+    "updated_at": "2026-08-18T07:03:53Z",
+    "url": "https://github.com/77cinc/ai-decision-council"
+  },
+  {
+    "description": "\u4e00\u5957\u5c06 PDF/LaTeX \u81ea\u52a8\u8f6c\u5316\u4e3a Obsidian \u7ed3\u6784\u5316 Markdown \u77e5\u8bc6\u56fe\u8c31\u7684 AI \u667a\u80fd\u4f53\u6280\u80fd\u3002",
+    "id": "Misaka16384/magi",
+    "language": "Python",
+    "name": "Misaka16384/magi",
+    "stars": 4,
+    "updated_at": "2026-08-18T07:04:42Z",
+    "url": "https://github.com/Misaka16384/magi"
+  },
+  {
+    "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
+    "id": "lemur47/logic",
+    "language": "Python",
+    "name": "lemur47/logic",
+    "stars": 1,
+    "updated_at": "2026-08-18T07:01:41Z",
+    "url": "https://github.com/lemur47/logic"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-18T07:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
     "id": "xr843/Master-skill",
     "language": "Python",
@@ -198,15 +243,6 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-18T06:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Your AI marketing team for B2B SaaS: 70 specialist marketing agents and 19 installable Claude Code skills \u2014 SEO/AEO/GEO,",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -304,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T06:33:35Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "\u4e00\u5957\u5c06 PDF/LaTeX \u81ea\u52a8\u8f6c\u5316\u4e3a Obsidian \u7ed3\u6784\u5316 Markdown \u77e5\u8bc6\u56fe\u8c31\u7684 AI \u667a\u80fd\u4f53\u6280\u80fd\u3002",
-    "id": "Misaka16384/magi",
-    "language": "Python",
-    "name": "Misaka16384/magi",
-    "stars": 4,
-    "updated_at": "2026-08-18T06:32:50Z",
-    "url": "https://github.com/Misaka16384/magi"
   },
   {
     "description": "Official Claude Code plugin and claude.ai skill bundle for QECTOR: local quantum error correction decoding with qector-d",
@@ -421,32 +448,5 @@
     "stars": 52,
     "updated_at": "2026-08-18T06:21:14Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-18T06:20:28Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-08-18T06:19:57Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "\u9762\u5411\u7535\u5546\u89c6\u89c9\u751f\u4ea7\u7684 Agent \u6280\u80fd\u5e93\uff1a19 \u4e2a\u53ef\u7ec4\u5408\u7684 skill.md\uff0c\u8986\u76d6\u5e73\u94fa\u56fe \u2192 \u6a21\u7279\u4e0a\u8eab \u2192 \u6362\u6a21\u7279\u6362\u80cc\u666f \u2192 \u88c2\u53d8\u5957\u56fe \u2192 \u8be6\u60c5\u9875 \u2192 \u6295\u524d\u68c0\u6d4b\uff0c\u7edf\u4e00\u901a\u8fc7 dLazy CLI \u8c03\u7528\u56fe\u50cf/\u6587\u672c\u6a21\u578b\uff0c\u4e0d\u7528\u6444\u5f71\u68da\u3001\u4e0d\u7ea6\u6a21\u7279\u3002",
-    "id": "dlazyai/ecommerce-skills",
-    "language": "JavaScript",
-    "name": "dlazyai/ecommerce-skills",
-    "stars": 2,
-    "updated_at": "2026-08-18T06:19:27Z",
-    "url": "https://github.com/dlazyai/ecommerce-skills"
   }
 ]
