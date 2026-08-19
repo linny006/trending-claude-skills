@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 17:59 UTC
+> ⏰ Last updated: 2026-08-19 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-19 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 2 | [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 25 | Go | 2026-08-19 | Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n |
-| 3 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 2 | HTML | 2026-08-19 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
-| 4 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-19 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 5 | [swaylq/danshari-skill](https://github.com/swaylq/danshari-skill) | 1 | Python | 2026-08-19 | 🧹 断舍离.skill / danshari.skill — 第一个劝你删 skill 的 skill：审计并移除你的 agent 不再需要的 skill（模型已会的 / harness 已自带的 / MCP 已接管的）。The first |
-| 6 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-19 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 7 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-19 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 8 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 116 | Python | 2026-08-19 | Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites,  |
-| 9 | [helius-labs/core-ai](https://github.com/helius-labs/core-ai) | 24 | TypeScript | 2026-08-19 | Official Helius AI tooling repository  |
-| 10 | [alexeyshishin/as-skill](https://github.com/alexeyshishin/as-skill) | 4 | Go | 2026-08-19 | Domain Driven Harness for Claude Code. |
-| 11 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 91250 | JavaScript | 2026-08-19 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
-| 12 | [petar-djukic/writing-skills](https://github.com/petar-djukic/writing-skills) | 1 | Python | 2026-08-19 | Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri |
-| 13 | [mimukit/skills](https://github.com/mimukit/skills) | 1 | Shell | 2026-08-19 | My personal collection of AI agent skills; the *kit family. Portable, one install away. |
-| 14 | [NovusEdge/curt](https://github.com/NovusEdge/curt) | 1 | JavaScript | 2026-08-19 | Enforce clear technical prose. Remove AI slop. |
-| 15 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-19 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 16 | [curie-eng/curie](https://github.com/curie-eng/curie) | 23 | Python | 2026-08-19 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
-| 17 | [uncoalesced/cordon](https://github.com/uncoalesced/cordon) | 2 | Python | 2026-08-19 | Tool-call-granularity CPU/memory characterization and control for AI coding agents, built on cgroup v2 and eBPF. |
-| 18 | [xu-jin-cs/dsh-skills](https://github.com/xu-jin-cs/dsh-skills) | 0 | Python | 2026-08-19 | DeepSeek Harness (DSH) 生态技能包：parallel-dispatch 并行调度规则 + archmap 架构测绘 Agent（零LLM确定性diff影响面，节约tokens）。Reusable skills for  |
-| 19 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-08-19 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
-| 20 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-19 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 21 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-19 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 22 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-19 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 23 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 30 | Python | 2026-08-19 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 30 | Python | 2026-08-19 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-19 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 3 | [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 25 | Go | 2026-08-19 | Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n |
+| 4 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 2 | HTML | 2026-08-19 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
+| 5 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-19 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 6 | [swaylq/danshari-skill](https://github.com/swaylq/danshari-skill) | 1 | Python | 2026-08-19 | 🧹 断舍离.skill / danshari.skill — 第一个劝你删 skill 的 skill：审计并移除你的 agent 不再需要的 skill（模型已会的 / harness 已自带的 / MCP 已接管的）。The first |
+| 7 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-19 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 8 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-19 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 9 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 116 | Python | 2026-08-19 | Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites,  |
+| 10 | [helius-labs/core-ai](https://github.com/helius-labs/core-ai) | 24 | TypeScript | 2026-08-19 | Official Helius AI tooling repository  |
+| 11 | [alexeyshishin/as-skill](https://github.com/alexeyshishin/as-skill) | 4 | Go | 2026-08-19 | Domain Driven Harness for Claude Code. |
+| 12 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 91250 | JavaScript | 2026-08-19 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
+| 13 | [petar-djukic/writing-skills](https://github.com/petar-djukic/writing-skills) | 1 | Python | 2026-08-19 | Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri |
+| 14 | [mimukit/skills](https://github.com/mimukit/skills) | 1 | Shell | 2026-08-19 | My personal collection of AI agent skills; the *kit family. Portable, one install away. |
+| 15 | [NovusEdge/curt](https://github.com/NovusEdge/curt) | 1 | JavaScript | 2026-08-19 | Enforce clear technical prose. Remove AI slop. |
+| 16 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-19 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
+| 17 | [curie-eng/curie](https://github.com/curie-eng/curie) | 23 | Python | 2026-08-19 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
+| 18 | [uncoalesced/cordon](https://github.com/uncoalesced/cordon) | 2 | Python | 2026-08-19 | Tool-call-granularity CPU/memory characterization and control for AI coding agents, built on cgroup v2 and eBPF. |
+| 19 | [xu-jin-cs/dsh-skills](https://github.com/xu-jin-cs/dsh-skills) | 0 | Python | 2026-08-19 | DeepSeek Harness (DSH) 生态技能包：parallel-dispatch 并行调度规则 + archmap 架构测绘 Agent（零LLM确定性diff影响面，节约tokens）。Reusable skills for  |
+| 20 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | Python | 2026-08-19 | OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled  |
+| 21 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-19 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 22 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-19 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 23 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-19 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
 | 24 | [onlymuneeb38-glitch/ios-agent-skills-evaluator](https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator) | 3 | HTML | 2026-08-19 | iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models |
 | 25 | [cucupac/shellbrain](https://github.com/cucupac/shellbrain) | 13 | Python | 2026-08-19 | ShellBrain. Long-term memory for AI. |
 | 26 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-08-19 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
