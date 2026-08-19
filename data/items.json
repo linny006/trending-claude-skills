@@ -1,5 +1,95 @@
 [
   {
+    "description": "",
+    "id": "WaveSpeedAI/wavespeed-cli",
+    "language": "TypeScript",
+    "name": "WaveSpeedAI/wavespeed-cli",
+    "stars": 18,
+    "updated_at": "2026-08-19T02:28:38Z",
+    "url": "https://github.com/WaveSpeedAI/wavespeed-cli"
+  },
+  {
+    "description": "A browser that runs directly inside your existing terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "Rust",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 1040,
+    "updated_at": "2026-08-19T02:27:42Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
+  },
+  {
+    "description": "A scientific research workflow for Claude Code: five stages and 21 runnable scripts for citation verification, claim aud",
+    "id": "AlveeeRahman/research-hound",
+    "language": "Python",
+    "name": "AlveeeRahman/research-hound",
+    "stars": 0,
+    "updated_at": "2026-08-19T02:27:00Z",
+    "url": "https://github.com/AlveeeRahman/research-hound"
+  },
+  {
+    "description": "An AI agent orchestration design skill for Claude Code: decide agent count, topology, loop bounds, and harness controls ",
+    "id": "AlveeeRahman/agent-oracle",
+    "language": "Python",
+    "name": "AlveeeRahman/agent-oracle",
+    "stars": 0,
+    "updated_at": "2026-08-19T02:26:59Z",
+    "url": "https://github.com/AlveeeRahman/agent-oracle"
+  },
+  {
+    "description": "A Claude Agent Skill validator for Claude Code: spec conformance, script testing, quality and security scoring, a Mermai",
+    "id": "AlveeeRahman/skill-vision",
+    "language": "Python",
+    "name": "AlveeeRahman/skill-vision",
+    "stars": 0,
+    "updated_at": "2026-08-19T02:26:58Z",
+    "url": "https://github.com/AlveeeRahman/skill-vision"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-08-19T02:25:36Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-19T02:21:09Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 2,
+    "updated_at": "2026-08-19T02:16:49Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-08-19T02:16:24Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-19T02:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -115,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T02:03:20Z",
     "url": "https://github.com/wxxzy/Claude-Code-Software-Studios"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-19T02:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skills by mr-kelly",
@@ -247,8 +328,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68043,
-    "updated_at": "2026-08-19T01:50:57Z",
+    "stars": 68044,
+    "updated_at": "2026-08-19T02:28:47Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -268,15 +349,6 @@
     "stars": 22,
     "updated_at": "2026-08-19T01:47:19Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "A Claude Agent Skill validator for Claude Code: spec conformance, script testing, quality and security scoring, a Mermai",
-    "id": "AlveeeRahman/skill-vision",
-    "language": "Python",
-    "name": "AlveeeRahman/skill-vision",
-    "stars": 0,
-    "updated_at": "2026-08-19T01:46:50Z",
-    "url": "https://github.com/AlveeeRahman/skill-vision"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -304,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T01:43:39Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "",
-    "id": "WaveSpeedAI/wavespeed-cli",
-    "language": "TypeScript",
-    "name": "WaveSpeedAI/wavespeed-cli",
-    "stars": 18,
-    "updated_at": "2026-08-19T01:43:16Z",
-    "url": "https://github.com/WaveSpeedAI/wavespeed-cli"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T01:34:32Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/skills",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/skills",
-    "stars": 2,
-    "updated_at": "2026-08-19T01:33:45Z",
-    "url": "https://github.com/ooooooooooooooooooop/skills"
-  },
-  {
-    "description": "Skills Claude Code pour relier la biodiversite vegetale a la chimie : resolution de noms WCVP, chimie decrite (LOTUS), e",
-    "id": "Oshinsu/plant-chemistry-skills",
-    "language": "Python",
-    "name": "Oshinsu/plant-chemistry-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T01:32:20Z",
-    "url": "https://github.com/Oshinsu/plant-chemistry-skills"
-  },
-  {
-    "description": "MCP server that suggests repository-specific AI agent skills.",
-    "id": "sator-imaging/suggest-skills",
-    "language": "TypeScript",
-    "name": "sator-imaging/suggest-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T01:30:52Z",
-    "url": "https://github.com/sator-imaging/suggest-skills"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-19T01:27:35Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Claude Code \uc2a4\ud0ac 3\uc885 \u2014 \ud300\uc6d0\uc774 \uc77d\ub294 PR\u00b7\uc774\uc288\u00b7\ucee4\ubc0b \uae00\uc4f0\uae30, \ud300\uc6d0 PR \ub9ac\ubdf0 \uc808\ucc28, AI\uac00 \uc9e0 \ucf54\ub4dc\uc5d0 \ub300\ud55c \uc774\ud574 \ubd80\ucc44 \uc810\uac80",
-    "id": "iceberggymnast/skills",
-    "language": "PowerShell",
-    "name": "iceberggymnast/skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T01:27:14Z",
-    "url": "https://github.com/iceberggymnast/skills"
-  },
-  {
-    "description": "An AI agent orchestration design skill for Claude Code: decide agent count, topology, loop bounds, and harness controls ",
-    "id": "AlveeeRahman/agent-oracle",
-    "language": "Python",
-    "name": "AlveeeRahman/agent-oracle",
-    "stars": 0,
-    "updated_at": "2026-08-19T01:27:05Z",
-    "url": "https://github.com/AlveeeRahman/agent-oracle"
-  },
-  {
-    "description": "A scientific research workflow for Claude Code: five stages and 21 runnable scripts for citation verification, claim aud",
-    "id": "AlveeeRahman/research-hound",
-    "language": "Python",
-    "name": "AlveeeRahman/research-hound",
-    "stars": 0,
-    "updated_at": "2026-08-19T01:26:29Z",
-    "url": "https://github.com/AlveeeRahman/research-hound"
   }
 ]
