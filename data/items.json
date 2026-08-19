@@ -1,5 +1,185 @@
 [
   {
+    "description": "Build, validate, secure, and maintain Claude Skills \u2014 a plugin superseding Anthropic's shipped skill-creator with spec-c",
+    "id": "EONRaider/SkillArtisan",
+    "language": "Python",
+    "name": "EONRaider/SkillArtisan",
+    "stars": 0,
+    "updated_at": "2026-08-19T00:58:58Z",
+    "url": "https://github.com/EONRaider/SkillArtisan"
+  },
+  {
+    "description": "GTM engineering skills for AI coding agents \u2014 build lead lists, find & verify emails, waterfall enrichment, lead scoring",
+    "id": "getcargohq/cargo-skills",
+    "language": "TypeScript",
+    "name": "getcargohq/cargo-skills",
+    "stars": 15,
+    "updated_at": "2026-08-19T00:57:27Z",
+    "url": "https://github.com/getcargohq/cargo-skills"
+  },
+  {
+    "description": "GTM, pricing & persona skill pack for Claude Code \u2014 ship what you build to the people who need it. Extends gstack.",
+    "id": "Yosei-Lab-ai/Miraiji",
+    "language": "Shell",
+    "name": "Yosei-Lab-ai/Miraiji",
+    "stars": 0,
+    "updated_at": "2026-08-19T00:57:13Z",
+    "url": "https://github.com/Yosei-Lab-ai/Miraiji"
+  },
+  {
+    "description": "Identity-first self-actualization skill pack for Claude Code \u2014 declare who you are, then act in alignment.",
+    "id": "Yosei-Lab-ai/Miragoe",
+    "language": "Shell",
+    "name": "Yosei-Lab-ai/Miragoe",
+    "stars": 0,
+    "updated_at": "2026-08-19T00:57:08Z",
+    "url": "https://github.com/Yosei-Lab-ai/Miragoe"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 2,
+    "updated_at": "2026-08-19T00:56:17Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Meeseeks is a Claude Code plugin. One command hands a specification to an autonomous loop that designs, builds, gates, a",
+    "id": "trevor-ryan-burkholder/meeseeks",
+    "language": "JavaScript",
+    "name": "trevor-ryan-burkholder/meeseeks",
+    "stars": 1,
+    "updated_at": "2026-08-19T00:56:04Z",
+    "url": "https://github.com/trevor-ryan-burkholder/meeseeks"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-08-19T00:56:00Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-08-19T00:58:07Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "120 marketing skills + 8 commands for Claude Code & AI agents across 7 disciplines \u2014 SEO/GEO, influencer, paid ads, emai",
+    "id": "aaron-he-zhu/aaron-marketing-skills",
+    "language": "Python",
+    "name": "aaron-he-zhu/aaron-marketing-skills",
+    "stars": 2606,
+    "updated_at": "2026-08-19T00:55:56Z",
+    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/skills",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/skills",
+    "stars": 2,
+    "updated_at": "2026-08-19T00:55:45Z",
+    "url": "https://github.com/ooooooooooooooooooop/skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-19T00:55:44Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 31,
+    "updated_at": "2026-08-19T00:55:29Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-08-19T00:50:29Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Claude Code skill: polished 60fps ScreenStudio-style demo videos of any web app via Playwright + Pillow + ffmpeg (no scr",
+    "id": "surajshetty3416/demo-video-skill",
+    "language": "JavaScript",
+    "name": "surajshetty3416/demo-video-skill",
+    "stars": 2,
+    "updated_at": "2026-08-19T00:49:43Z",
+    "url": "https://github.com/surajshetty3416/demo-video-skill"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-19T00:49:15Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 1,
+    "updated_at": "2026-08-19T00:46:49Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-08-19T00:46:31Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "ShellBrain. Long-term memory for AI.",
+    "id": "cucupac/shellbrain",
+    "language": "Python",
+    "name": "cucupac/shellbrain",
+    "stars": 13,
+    "updated_at": "2026-08-19T00:46:20Z",
+    "url": "https://github.com/cucupac/shellbrain"
+  },
+  {
+    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
+    "id": "ashfulcra/fulcra-tools",
+    "language": "Python",
+    "name": "ashfulcra/fulcra-tools",
+    "stars": 8,
+    "updated_at": "2026-08-19T00:58:55Z",
+    "url": "https://github.com/ashfulcra/fulcra-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-19T00:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
     "id": "boshu2/agentops",
     "language": "Go",
@@ -16,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T00:42:19Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-08-19T00:44:40Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "The Prompt Boot skill. An AI-native installer skill for applications.",
@@ -50,7 +221,7 @@
     "language": "Python",
     "name": "AlveeeRahman/agent-oracle",
     "stars": 0,
-    "updated_at": "2026-08-19T00:39:28Z",
+    "updated_at": "2026-08-19T00:55:15Z",
     "url": "https://github.com/AlveeeRahman/agent-oracle"
   },
   {
@@ -59,7 +230,7 @@
     "language": "Python",
     "name": "AlveeeRahman/skill-vision",
     "stars": 0,
-    "updated_at": "2026-08-19T00:39:24Z",
+    "updated_at": "2026-08-19T00:55:34Z",
     "url": "https://github.com/AlveeeRahman/skill-vision"
   },
   {
@@ -68,7 +239,7 @@
     "language": "Python",
     "name": "AlveeeRahman/research-hound",
     "stars": 0,
-    "updated_at": "2026-08-19T00:39:16Z",
+    "updated_at": "2026-08-19T00:55:00Z",
     "url": "https://github.com/AlveeeRahman/research-hound"
   },
   {
@@ -180,15 +351,6 @@
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-19T00:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
     "id": "zerooo002/claude-artifacts-local-sync",
     "language": "\u2014",
@@ -286,167 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T00:26:22Z",
     "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:26:22Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:26:17Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-08-19T00:26:16Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:26:08Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Build AI skills that distill any person\u2019s thinking into reusable workflows and prompts",
-    "id": "gianguardant971/nuwa-skill",
-    "language": "\u2014",
-    "name": "gianguardant971/nuwa-skill",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:26:05Z",
-    "url": "https://github.com/gianguardant971/nuwa-skill"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:25:54Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
-  },
-  {
-    "description": "Connect LINE to Claude Code with an MCP server for DMs, group chats, media downloads, and image replies",
-    "id": "coreyunfastened552/claude-line-channel",
-    "language": "TypeScript",
-    "name": "coreyunfastened552/claude-line-channel",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:25:39Z",
-    "url": "https://github.com/coreyunfastened552/claude-line-channel"
-  },
-  {
-    "description": "Build production patterns for AI coding agents from Claude Code source analysis and harness engineering practice.",
-    "id": "dinho-afsn/agentic-harness-patterns-skill",
-    "language": "\u2014",
-    "name": "dinho-afsn/agentic-harness-patterns-skill",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:25:26Z",
-    "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
-  },
-  {
-    "description": "Reverse-engineer Claude Code CLI in Bun for a fast, local command-line tool with clear source structure and telemetry co",
-    "id": "deadgirlbad-source/claude-code-reverse",
-    "language": "\u2014",
-    "name": "deadgirlbad-source/claude-code-reverse",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:25:19Z",
-    "url": "https://github.com/deadgirlbad-source/claude-code-reverse"
-  },
-  {
-    "description": "Recover and reset Claude Code in Python with a faithful CLI port that preserves core logic and removes the UI layer",
-    "id": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "language": "\u2014",
-    "name": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:25:08Z",
-    "url": "https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset"
-  },
-  {
-    "description": "Preserve a TypeScript Claude Code source snapshot for security research, supply-chain analysis, and archival reference",
-    "id": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "language": "\u2014",
-    "name": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:25:07Z",
-    "url": "https://github.com/stuffinesslamedh281/claude-code-snapshot-backup"
-  },
-  {
-    "description": "Recover Claude Code source for TypeScript and React UI analysis and reuse",
-    "id": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "language": "\u2014",
-    "name": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "stars": 2,
-    "updated_at": "2026-08-19T00:25:01Z",
-    "url": "https://github.com/cacodaemonic-impulseexplosive956/claude_code_src"
-  },
-  {
-    "description": "Coordinate agent brainstorming to generate research proposals and manage future experiment and review workflows",
-    "id": "Daisybastioned440/lite-research-agents",
-    "language": "Python",
-    "name": "Daisybastioned440/lite-research-agents",
-    "stars": 2,
-    "updated_at": "2026-08-19T00:24:41Z",
-    "url": "https://github.com/Daisybastioned440/lite-research-agents"
-  },
-  {
-    "description": "Claude Code skill: polished 60fps ScreenStudio-style demo videos of any web app via Playwright + Pillow + ffmpeg (no scr",
-    "id": "surajshetty3416/demo-video-skill",
-    "language": "JavaScript",
-    "name": "surajshetty3416/demo-video-skill",
-    "stars": 2,
-    "updated_at": "2026-08-19T00:24:29Z",
-    "url": "https://github.com/surajshetty3416/demo-video-skill"
-  },
-  {
-    "description": "Meeseeks is a Claude Code plugin. One command hands a specification to an autonomous loop that designs, builds, gates, a",
-    "id": "trevor-ryan-burkholder/meeseeks",
-    "language": "JavaScript",
-    "name": "trevor-ryan-burkholder/meeseeks",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:24:14Z",
-    "url": "https://github.com/trevor-ryan-burkholder/meeseeks"
-  },
-  {
-    "description": "Build modular project blueprints for Claude Code, Obsidian, and Figma teams from solo MVPs to multi-agent systems",
-    "id": "maduwanthasathsara0-hub/claude-proj-blueprint",
-    "language": "Shell",
-    "name": "maduwanthasathsara0-hub/claude-proj-blueprint",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:23:30Z",
-    "url": "https://github.com/maduwanthasathsara0-hub/claude-proj-blueprint"
-  },
-  {
-    "description": "Extract, structure, and apply visual design identity as machine-readable Design DNA across tokens, style, and effects",
-    "id": "Tricholomaaurantiumknottiness355/design-dna",
-    "language": "\u2014",
-    "name": "Tricholomaaurantiumknottiness355/design-dna",
-    "stars": 3,
-    "updated_at": "2026-08-19T00:23:23Z",
-    "url": "https://github.com/Tricholomaaurantiumknottiness355/design-dna"
-  },
-  {
-    "description": "Build AI-friendly web interfaces with semantic HTML, ARIA, stable locators, and form best practices for better automatio",
-    "id": "avilaok8647/ai-friendly-web-design-skill",
-    "language": "JavaScript",
-    "name": "avilaok8647/ai-friendly-web-design-skill",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:23:19Z",
-    "url": "https://github.com/avilaok8647/ai-friendly-web-design-skill"
   }
 ]
