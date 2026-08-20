@@ -1,5 +1,68 @@
 [
   {
+    "description": "Read Korean government open-data services from the data.go.kr portal",
+    "id": "seokhoonj/pydatagokr",
+    "language": "Python",
+    "name": "seokhoonj/pydatagokr",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:03:17Z",
+    "url": "https://github.com/seokhoonj/pydatagokr"
+  },
+  {
+    "description": "Turn Plaud voice recordings \u2014 client meetings and brainstorms \u2014 into repo-aware briefs and conventional GitHub issues",
+    "id": "brett-buskirk/debrief",
+    "language": "Shell",
+    "name": "brett-buskirk/debrief",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:02:11Z",
+    "url": "https://github.com/brett-buskirk/debrief"
+  },
+  {
+    "description": "Anthropic Agent Skills for stock traders, powered by Haruspex.",
+    "id": "Haruspex-guru/haruspex-skills",
+    "language": "JavaScript",
+    "name": "Haruspex-guru/haruspex-skills",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:01:13Z",
+    "url": "https://github.com/Haruspex-guru/haruspex-skills"
+  },
+  {
+    "description": "A planning skill for Claude that asks before it plans. Three versions: claude.ai, engineers, and read-only for people wi",
+    "id": "marcosathanasoulis/prompt-it",
+    "language": "\u2014",
+    "name": "marcosathanasoulis/prompt-it",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:00:59Z",
+    "url": "https://github.com/marcosathanasoulis/prompt-it"
+  },
+  {
+    "description": "A curated list of high-star Agent Skills on GitHub for coding agents and AI workflows.",
+    "id": "jqueryscript/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "jqueryscript/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:00:26Z",
+    "url": "https://github.com/jqueryscript/awesome-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-20T16:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-08-20T15:58:58Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
     "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
     "id": "ArcticFox2029/chamnan",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-08-20T15:57:45Z",
     "url": "https://github.com/ArcticFox2029/chamnan"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-08-20T15:57:01Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
     "description": "\u4e00\u5957\u5c06 PDF/LaTeX \u81ea\u52a8\u8f6c\u5316\u4e3a Obsidian \u7ed3\u6784\u5316 Markdown \u77e5\u8bc6\u56fe\u8c31\u7684 AI \u667a\u80fd\u4f53\u6280\u80fd\u3002",
@@ -31,7 +103,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30567,
+    "stars": 30568,
     "updated_at": "2026-08-20T15:55:18Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -43,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-08-20T15:54:06Z",
     "url": "https://github.com/hwdemtv/dwg-block-compare"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:53:19Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -95,7 +176,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-20T15:58:55Z",
+    "updated_at": "2026-08-20T16:04:51Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -108,13 +189,13 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Turn Plaud voice recordings \u2014 client meetings and brainstorms \u2014 into repo-aware briefs and conventional GitHub issues",
-    "id": "brett-buskirk/debrief",
-    "language": "Shell",
-    "name": "brett-buskirk/debrief",
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
     "stars": 0,
-    "updated_at": "2026-08-20T15:58:13Z",
-    "url": "https://github.com/brett-buskirk/debrief"
+    "updated_at": "2026-08-20T15:48:56Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "Cross-model adversarial review skill for Claude Code: Fable orchestrates, GPT (sol/terra/5.5 via codex CLI) probes, verd",
@@ -135,24 +216,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-20T15:45:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Anthropic Agent Skills for stock traders, powered by Haruspex.",
-    "id": "Haruspex-guru/haruspex-skills",
-    "language": "JavaScript",
-    "name": "Haruspex-guru/haruspex-skills",
-    "stars": 1,
-    "updated_at": "2026-08-20T15:45:12Z",
-    "url": "https://github.com/Haruspex-guru/haruspex-skills"
-  },
-  {
     "description": "Claude Code \uc2a4\ud0ac 3\uc885 \u2014 \ud300\uc6d0\uc774 \uc77d\ub294 PR\u00b7\uc774\uc288\u00b7\ucee4\ubc0b \uae00\uc4f0\uae30, \ud300\uc6d0 PR \ub9ac\ubdf0 \uc808\ucc28, AI\uac00 \uc9e0 \ucf54\ub4dc\uc5d0 \ub300\ud55c \uc774\ud574 \ubd80\ucc44 \uc810\uac80",
     "id": "iceberggymnast/skills",
     "language": "PowerShell",
@@ -167,7 +230,7 @@
     "language": "HTML",
     "name": "LilityV/multai-ai-agent-arsenal",
     "stars": 0,
-    "updated_at": "2026-08-20T15:44:27Z",
+    "updated_at": "2026-08-20T16:03:55Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
@@ -214,15 +277,6 @@
     "stars": 6,
     "updated_at": "2026-08-20T15:41:43Z",
     "url": "https://github.com/liustack/pptfast"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-08-20T15:58:58Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -392,61 +446,7 @@
     "language": "TypeScript",
     "name": "aitit-inc/leadace",
     "stars": 1,
-    "updated_at": "2026-08-20T15:30:48Z",
+    "updated_at": "2026-08-20T16:04:47Z",
     "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
-    "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 72,
-    "updated_at": "2026-08-20T15:30:38Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Official Helius AI tooling repository ",
-    "id": "helius-labs/core-ai",
-    "language": "TypeScript",
-    "name": "helius-labs/core-ai",
-    "stars": 25,
-    "updated_at": "2026-08-20T15:30:05Z",
-    "url": "https://github.com/helius-labs/core-ai"
-  },
-  {
-    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
-    "id": "molefrog/moi",
-    "language": "TypeScript",
-    "name": "molefrog/moi",
-    "stars": 116,
-    "updated_at": "2026-08-20T15:28:35Z",
-    "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-20T15:27:39Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-20T15:27:33Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-20T15:26:00Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   }
 ]
