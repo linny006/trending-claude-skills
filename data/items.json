@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "seokhoonj/pydatagokr",
     "stars": 0,
-    "updated_at": "2026-08-20T14:52:07Z",
+    "updated_at": "2026-08-20T14:58:37Z",
     "url": "https://github.com/seokhoonj/pydatagokr"
+  },
+  {
+    "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
+    "id": "thrixel/build-world",
+    "language": "JavaScript",
+    "name": "thrixel/build-world",
+    "stars": 59,
+    "updated_at": "2026-08-20T14:58:25Z",
+    "url": "https://github.com/thrixel/build-world"
+  },
+  {
+    "description": "Build, validate, secure, and maintain Claude Skills \u2014 a plugin superseding Anthropic's shipped skill-creator with spec-c",
+    "id": "EONRaider/SkillArtisan",
+    "language": "Python",
+    "name": "EONRaider/SkillArtisan",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:55:50Z",
+    "url": "https://github.com/EONRaider/SkillArtisan"
+  },
+  {
+    "description": "Safe agent-led setup for QuipBot on WordPress.",
+    "id": "Norml-Studio/quip-skill",
+    "language": "\u2014",
+    "name": "Norml-Studio/quip-skill",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:55:41Z",
+    "url": "https://github.com/Norml-Studio/quip-skill"
+  },
+  {
+    "description": "Cut the chatter. Keep the work. A measured communication policy for coding agents: \u221232% output tokens, zero lost facts.",
+    "id": "Maksim-Burtsev/simple-man",
+    "language": "Python",
+    "name": "Maksim-Burtsev/simple-man",
+    "stars": 4,
+    "updated_at": "2026-08-20T14:55:41Z",
+    "url": "https://github.com/Maksim-Burtsev/simple-man"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-20T14:55:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Hypermemory marketplace and plugins for Claude desktop and Claude code adding long-term persistant memory across all AI ",
+    "id": "hypermemory-ai/hm-plugins-claude",
+    "language": "Shell",
+    "name": "hypermemory-ai/hm-plugins-claude",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:53:22Z",
+    "url": "https://github.com/hypermemory-ai/hm-plugins-claude"
   },
   {
     "description": "Enterprise-grade agent skill for synthesizing meeting transcripts into executive summaries, detailed technical records w",
@@ -18,13 +72,13 @@
     "url": "https://github.com/terravic/meeting-transcript-summary-skill"
   },
   {
-    "description": "Build, validate, secure, and maintain Claude Skills \u2014 a plugin superseding Anthropic's shipped skill-creator with spec-c",
-    "id": "EONRaider/SkillArtisan",
-    "language": "Python",
-    "name": "EONRaider/SkillArtisan",
-    "stars": 0,
-    "updated_at": "2026-08-20T14:47:52Z",
-    "url": "https://github.com/EONRaider/SkillArtisan"
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 8,
+    "updated_at": "2026-08-20T14:48:20Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
   },
   {
     "description": "Agent skill that designs your GitHub social preview (og:image) as one self-contained HTML file. Five moods, CJK-first, d",
@@ -50,17 +104,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-20T14:45:23Z",
+    "updated_at": "2026-08-20T14:58:50Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-20T14:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Building an AI digital twin in public with Claude Code - English diary, longreads & reusable artifacts. RU version: Tele",
@@ -68,8 +113,17 @@
     "language": "Python",
     "name": "tonydzi/clawrush",
     "stars": 12,
-    "updated_at": "2026-08-20T14:43:55Z",
+    "updated_at": "2026-08-20T14:59:48Z",
     "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:42:51Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
     "description": "Claude Code \uc2a4\ud0ac 3\uc885 \u2014 \ud300\uc6d0\uc774 \uc77d\ub294 PR\u00b7\uc774\uc288\u00b7\ucee4\ubc0b \uae00\uc4f0\uae30, \ud300\uc6d0 PR \ub9ac\ubdf0 \uc808\ucc28, AI\uac00 \uc9e0 \ucf54\ub4dc\uc5d0 \ub300\ud55c \uc774\ud574 \ubd80\ucc44 \uc810\uac80",
@@ -302,7 +356,7 @@
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "stars": 2302,
-    "updated_at": "2026-08-20T14:27:53Z",
+    "updated_at": "2026-08-20T14:57:14Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
@@ -329,7 +383,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30566,
-    "updated_at": "2026-08-20T14:54:02Z",
+    "updated_at": "2026-08-20T14:57:52Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 52,
     "updated_at": "2026-08-20T14:23:39Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-20T14:22:56Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
-    "id": "thrixel/build-world",
-    "language": "JavaScript",
-    "name": "thrixel/build-world",
-    "stars": 59,
-    "updated_at": "2026-08-20T14:22:52Z",
-    "url": "https://github.com/thrixel/build-world"
-  },
-  {
-    "description": "\u5e7b\u94f6\u91cf\u5316A\u80a1\u963f\u6cd5\u72d7AlphaHYQi\uff0c100%\u7531ai\u81ea\u4e3b\u9a71\u52a8\u7684\u5b9e\u76d8\u4ea4\u6613\u673a\u5668\u3002\u63a5\u5165\u81ea\u4ea7\u9f99\u867eiClaw\uff0c\u624b\u673a\u7aef\u4e00\u53e5\u8bdd\u63a7\u5236\u56db\u5927\u6a21\u578b\u540c\u65f6\u5e72\u6d3b\u3002\u83b7\u53d6\u65b9\u6cd5\uff1a\u524d\u5f80https://hyqibot.com/card-shop.html \u8d2d\u670d\u52a1\u5361\u5373\u53ef\u83b7\u5f97\u8f6f\u4ef6\uff0c",
-    "id": "hyqibot/A-share-Ai",
-    "language": "\u2014",
-    "name": "hyqibot/A-share-Ai",
-    "stars": 128,
-    "updated_at": "2026-08-20T14:22:18Z",
-    "url": "https://github.com/hyqibot/A-share-Ai"
-  },
-  {
-    "description": "Stable, editable PPTX generation for AI agents \u2014 semantic IR in, native DrawingML out. DSH plugin + Claude Code plugin +",
-    "id": "liustack/pptfast",
-    "language": "TypeScript",
-    "name": "liustack/pptfast",
-    "stars": 6,
-    "updated_at": "2026-08-20T14:22:14Z",
-    "url": "https://github.com/liustack/pptfast"
-  },
-  {
-    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
-    "id": "ArcticFox2029/chamnan",
-    "language": "Python",
-    "name": "ArcticFox2029/chamnan",
-    "stars": 2,
-    "updated_at": "2026-08-20T14:22:07Z",
-    "url": "https://github.com/ArcticFox2029/chamnan"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-20T14:21:53Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
