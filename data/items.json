@@ -1,12 +1,39 @@
 [
   {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "description": "Give Claude Code eyes \ud83d\udc41\ufe0f \u2014 a camera skill so it can SEE real hardware, displays and wiring: verify a rendered panel, che",
+    "id": "fcavalcantirj/claude-code-eyes",
+    "language": "Shell",
+    "name": "fcavalcantirj/claude-code-eyes",
+    "stars": 43,
+    "updated_at": "2026-08-20T02:44:44Z",
+    "url": "https://github.com/fcavalcantirj/claude-code-eyes"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-20T02:43:30Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-20T02:44:44Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Planning skill and terminal interface to create versioned plans, compare diffs, leave inline feedback, edit directly, an",
+    "id": "thisisnsh/planx",
+    "language": "TypeScript",
+    "name": "thisisnsh/planx",
+    "stars": 4,
+    "updated_at": "2026-08-20T02:44:22Z",
+    "url": "https://github.com/thisisnsh/planx"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-20T02:43:45Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "DeepSeek Harness (DSH) \u751f\u6001\u6280\u80fd\u5305\uff1aparallel-dispatch \u5e76\u884c\u8c03\u5ea6\u89c4\u5219 + archmap \u67b6\u6784\u6d4b\u7ed8 Agent\uff08\u96f6LLM\u786e\u5b9a\u6027diff\u5f71\u54cd\u9762\uff0c\u8282\u7ea6tokens\uff09\u3002Reusable skills for ",
@@ -16,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-20T02:43:40Z",
     "url": "https://github.com/xu-jin-cs/dsh-skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-20T02:43:30Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T02:38:36Z",
     "url": "https://github.com/Sidsaladi9/persona-os"
-  },
-  {
-    "description": "Give Claude Code eyes \ud83d\udc41\ufe0f \u2014 a camera skill so it can SEE real hardware, displays and wiring: verify a rendered panel, che",
-    "id": "fcavalcantirj/claude-code-eyes",
-    "language": "Shell",
-    "name": "fcavalcantirj/claude-code-eyes",
-    "stars": 43,
-    "updated_at": "2026-08-20T02:36:50Z",
-    "url": "https://github.com/fcavalcantirj/claude-code-eyes"
   },
   {
     "description": "AI \u5b66\u4e60\u52a9\u6559\u6280\u80fd\u5305\uff1a\u9519\u9898\u8bb2\u89e3\u3001\u77e5\u8bc6\u70b9\u89e3\u6790\u3001\u5b66\u4e60\u8ba1\u5212\u3001\u6d4b\u9a8c\u3001\u9519\u9898\u672c\u4e0e\u9057\u5fd8\u66f2\u7ebf\u590d\u4e60\u95ed\u73af",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T02:31:52Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-20T02:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Claude Code / Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\u3002\u9996\u53d1 3 \u4e2a\u901a\u7528\u578b\uff1anew-convo-handoff\uff08\u957f\u9879\u76ee\u4ea4\u63a5\uff09\u3001first-principles\uff08\u7b2c\u4e00\u6027\u539f\u7406\uff09\u3001clarify-u",
@@ -414,15 +432,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-20T01:45:53Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
     "id": "0xc000022070/agentic-flake",
     "language": "Nix",
@@ -439,14 +448,5 @@
     "stars": 53,
     "updated_at": "2026-08-20T01:42:44Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-20T01:42:12Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
   }
 ]
