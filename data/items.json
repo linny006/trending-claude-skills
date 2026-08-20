@@ -1,11 +1,38 @@
 [
   {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30567,
+    "updated_at": "2026-08-20T15:30:53Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-20T15:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Stable, editable PPTX generation for AI agents \u2014 semantic IR in, native DrawingML out. DSH plugin + Claude Code plugin +",
+    "id": "liustack/pptfast",
+    "language": "TypeScript",
+    "name": "liustack/pptfast",
+    "stars": 6,
+    "updated_at": "2026-08-20T15:28:44Z",
+    "url": "https://github.com/liustack/pptfast"
+  },
+  {
     "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
     "id": "TyrusRC/praetor",
     "language": "Python",
     "name": "TyrusRC/praetor",
     "stars": 4,
-    "updated_at": "2026-08-20T15:28:39Z",
+    "updated_at": "2026-08-20T15:35:40Z",
     "url": "https://github.com/TyrusRC/praetor"
   },
   {
@@ -18,13 +45,40 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Stable, editable PPTX generation for AI agents \u2014 semantic IR in, native DrawingML out. DSH plugin + Claude Code plugin +",
-    "id": "liustack/pptfast",
-    "language": "TypeScript",
-    "name": "liustack/pptfast",
-    "stars": 6,
-    "updated_at": "2026-08-20T15:28:44Z",
-    "url": "https://github.com/liustack/pptfast"
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-08-20T15:26:00Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Exact drinks, ice, food and supplies for any party \u2014 bartender-standard consumption math",
+    "id": "voronindenis5/party-provisioner",
+    "language": "Python",
+    "name": "voronindenis5/party-provisioner",
+    "stars": 0,
+    "updated_at": "2026-08-20T15:25:57Z",
+    "url": "https://github.com/voronindenis5/party-provisioner"
+  },
+  {
+    "description": "Decode care symbols, plan safe mixed loads, evidence-based stain removal protocols",
+    "id": "voronindenis5/laundry-decoder",
+    "language": "Python",
+    "name": "voronindenis5/laundry-decoder",
+    "stars": 0,
+    "updated_at": "2026-08-20T15:25:55Z",
+    "url": "https://github.com/voronindenis5/laundry-decoder"
+  },
+  {
+    "description": "Split group expenses fairly and settle up with the minimum number of transfers",
+    "id": "voronindenis5/group-expense-settler",
+    "language": "Python",
+    "name": "voronindenis5/group-expense-settler",
+    "stars": 0,
+    "updated_at": "2026-08-20T15:25:53Z",
+    "url": "https://github.com/voronindenis5/group-expense-settler"
   },
   {
     "description": "Will it fit? Doorway/hall/corner/stairs clearance geometry + room layout + ASCII floorplan",
@@ -34,6 +88,33 @@
     "stars": 0,
     "updated_at": "2026-08-20T15:25:50Z",
     "url": "https://github.com/voronindenis5/furniture-fit-checker"
+  },
+  {
+    "description": "Avalanche vs snowball payoff comparison with real amortization math \u2014 exact debt-free dates, interest saved",
+    "id": "voronindenis5/debt-blitz-planner",
+    "language": "Python",
+    "name": "voronindenis5/debt-blitz-planner",
+    "stars": 0,
+    "updated_at": "2026-08-20T15:25:49Z",
+    "url": "https://github.com/voronindenis5/debt-blitz-planner"
+  },
+  {
+    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
+    "id": "johanthoren/jeff",
+    "language": "JavaScript",
+    "name": "johanthoren/jeff",
+    "stars": 3,
+    "updated_at": "2026-08-20T15:24:31Z",
+    "url": "https://github.com/johanthoren/jeff"
+  },
+  {
+    "description": "Cross-model adversarial review skill for Claude Code: Fable orchestrates, GPT (sol/terra/5.5 via codex CLI) probes, verd",
+    "id": "raichominev/concilium",
+    "language": "Shell",
+    "name": "raichominev/concilium",
+    "stars": 2,
+    "updated_at": "2026-08-20T15:24:24Z",
+    "url": "https://github.com/raichominev/concilium"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -113,7 +194,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-20T15:22:02Z",
+    "updated_at": "2026-08-20T15:32:51Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -135,15 +216,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-20T15:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
@@ -160,42 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T15:14:54Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Exact drinks, ice, food and supplies for any party \u2014 bartender-standard consumption math",
-    "id": "voronindenis5/party-provisioner",
-    "language": "Python",
-    "name": "voronindenis5/party-provisioner",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:25:57Z",
-    "url": "https://github.com/voronindenis5/party-provisioner"
-  },
-  {
-    "description": "Decode care symbols, plan safe mixed loads, evidence-based stain removal protocols",
-    "id": "voronindenis5/laundry-decoder",
-    "language": "Python",
-    "name": "voronindenis5/laundry-decoder",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:25:55Z",
-    "url": "https://github.com/voronindenis5/laundry-decoder"
-  },
-  {
-    "description": "Split group expenses fairly and settle up with the minimum number of transfers",
-    "id": "voronindenis5/group-expense-settler",
-    "language": "Python",
-    "name": "voronindenis5/group-expense-settler",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:25:53Z",
-    "url": "https://github.com/voronindenis5/group-expense-settler"
-  },
-  {
-    "description": "Avalanche vs snowball payoff comparison with real amortization math \u2014 exact debt-free dates, interest saved",
-    "id": "voronindenis5/debt-blitz-planner",
-    "language": "Python",
-    "name": "voronindenis5/debt-blitz-planner",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:25:49Z",
-    "url": "https://github.com/voronindenis5/debt-blitz-planner"
   },
   {
     "description": "Read Korean government open-data services from the data.go.kr portal",
@@ -248,7 +284,7 @@
     "language": "HTML",
     "name": "simota/agent-skills",
     "stars": 72,
-    "updated_at": "2026-08-20T15:06:30Z",
+    "updated_at": "2026-08-20T15:30:38Z",
     "url": "https://github.com/simota/agent-skills"
   },
   {
@@ -322,15 +358,6 @@
     "stars": 59,
     "updated_at": "2026-08-20T14:58:25Z",
     "url": "https://github.com/thrixel/build-world"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30567,
-    "updated_at": "2026-08-20T15:26:33Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T15:21:12Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 22,
-    "updated_at": "2026-08-20T14:52:14Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Enterprise-grade agent skill for synthesizing meeting transcripts into executive summaries, detailed technical records w",
-    "id": "terravic/meeting-transcript-summary-skill",
-    "language": "Python",
-    "name": "terravic/meeting-transcript-summary-skill",
-    "stars": 0,
-    "updated_at": "2026-08-20T14:49:06Z",
-    "url": "https://github.com/terravic/meeting-transcript-summary-skill"
-  },
-  {
-    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
-    "id": "the-nam-shub/e5-real-skills",
-    "language": "TypeScript",
-    "name": "the-nam-shub/e5-real-skills",
-    "stars": 8,
-    "updated_at": "2026-08-20T14:48:20Z",
-    "url": "https://github.com/the-nam-shub/e5-real-skills"
   }
 ]
