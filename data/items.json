@@ -1,5 +1,77 @@
 [
   {
+    "description": "A planning skill and terminal interface for creating versioned plans, comparing changes, leaving inline feedback, and ed",
+    "id": "thisisnsh/planx",
+    "language": "TypeScript",
+    "name": "thisisnsh/planx",
+    "stars": 4,
+    "updated_at": "2026-08-21T02:58:36Z",
+    "url": "https://github.com/thisisnsh/planx"
+  },
+  {
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills \u5546\u5e97\uff0c\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u7b49\u591a\u4e2a\u9886\u57df\u7684 416 \u7cbe\u9009\u6280\u80fd\u5305\u3002\u6240\u6709\u6280\u80fd\u5df2\u6253\u5305\u5b8c\u6210\uff0c\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01 \u8be5\u5546\u5e97\u4e2d\u81ea\u52a8\u6293\u53d6\u4e86 Github \u4e0a\u7684\u6240\u6709\u7684 Skills \u9879\u76ee\uff0c\u5e76",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 5575,
+    "updated_at": "2026-08-21T02:57:47Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "",
+    "id": "Lucas-Belucci-Bellini/Veritas",
+    "language": "JavaScript",
+    "name": "Lucas-Belucci-Bellini/Veritas",
+    "stars": 0,
+    "updated_at": "2026-08-21T02:56:06Z",
+    "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
+  },
+  {
+    "description": "Persona Auditor \u2014 audit AI-generated code from a real user's perspective. Digital personas exhaustively traverse every u",
+    "id": "kevinshi3200/persona-auditor",
+    "language": "\u2014",
+    "name": "kevinshi3200/persona-auditor",
+    "stars": 1,
+    "updated_at": "2026-08-21T02:54:16Z",
+    "url": "https://github.com/kevinshi3200/persona-auditor"
+  },
+  {
+    "description": "QECTOR Quantum Error Correction: High-performance, mathematically verified local QEC engineering environment for Claude ",
+    "id": "GuillaumeLessard/qector-claude-plugin",
+    "language": "Python",
+    "name": "GuillaumeLessard/qector-claude-plugin",
+    "stars": 1,
+    "updated_at": "2026-08-21T02:53:52Z",
+    "url": "https://github.com/GuillaumeLessard/qector-claude-plugin"
+  },
+  {
+    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
+    "id": "ColinVaughn/Synaptic",
+    "language": "Rust",
+    "name": "ColinVaughn/Synaptic",
+    "stars": 21,
+    "updated_at": "2026-08-21T02:51:29Z",
+    "url": "https://github.com/ColinVaughn/Synaptic"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 5,
+    "updated_at": "2026-08-21T02:51:23Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-21T02:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Your AI marketing team for B2B SaaS: 71 specialist marketing agents and 19 installable Claude Code skills \u2014 SEO/AEO/GEO,",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -9,38 +81,11 @@
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
-    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
-    "id": "ColinVaughn/Synaptic",
-    "language": "Rust",
-    "name": "ColinVaughn/Synaptic",
-    "stars": 21,
-    "updated_at": "2026-08-21T02:43:35Z",
-    "url": "https://github.com/ColinVaughn/Synaptic"
-  },
-  {
-    "description": "Persona Auditor \u2014 audit AI-generated code from a real user's perspective. Digital personas exhaustively traverse every u",
-    "id": "kevinshi3200/persona-auditor",
-    "language": "\u2014",
-    "name": "kevinshi3200/persona-auditor",
-    "stars": 1,
-    "updated_at": "2026-08-21T02:42:13Z",
-    "url": "https://github.com/kevinshi3200/persona-auditor"
-  },
-  {
-    "description": "Planning skill and terminal interface to create versioned plans, compare diffs, leave inline feedback, edit directly, an",
-    "id": "thisisnsh/planx",
-    "language": "TypeScript",
-    "name": "thisisnsh/planx",
-    "stars": 4,
-    "updated_at": "2026-08-21T02:41:46Z",
-    "url": "https://github.com/thisisnsh/planx"
-  },
-  {
     "description": "A browser that runs directly inside your existing terminal",
     "id": "zenbu-labs/terminal-browser",
     "language": "Rust",
     "name": "zenbu-labs/terminal-browser",
-    "stars": 1735,
+    "stars": 1736,
     "updated_at": "2026-08-21T02:38:59Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
   },
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T02:38:33Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "",
-    "id": "Lucas-Belucci-Bellini/Veritas",
-    "language": "JavaScript",
-    "name": "Lucas-Belucci-Bellini/Veritas",
-    "stars": 0,
-    "updated_at": "2026-08-21T02:37:45Z",
-    "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T02:31:22Z",
     "url": "https://github.com/hsuan1012/Dataviz-Coding-Agent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-21T02:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skill that turns a one-line brief into a battle-tested /goal completion contract for unattended multi-hour r",
@@ -401,7 +428,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-21T02:38:08Z",
+    "updated_at": "2026-08-21T02:48:25Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-21T02:00:06Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-21T01:58:28Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-21T01:53:41Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Persistent memory layer for Claude Code and Codex \u2014 your Obsidian vault on autopilot. Seven skills: recall, save, sessio",
-    "id": "jojoprison/mnemo",
-    "language": "Python",
-    "name": "jojoprison/mnemo",
-    "stars": 6,
-    "updated_at": "2026-08-21T01:52:55Z",
-    "url": "https://github.com/jojoprison/mnemo"
   }
 ]
