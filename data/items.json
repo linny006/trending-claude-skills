@@ -1,12 +1,75 @@
 [
   {
+    "description": "Google NotebookLM over MCP + a local HTTP REST API. Citation-backed Q&A, audio/video/content generation, multi-account r",
+    "id": "roomi-fields/notebooklm-mcp",
+    "language": "TypeScript",
+    "name": "roomi-fields/notebooklm-mcp",
+    "stars": 161,
+    "updated_at": "2026-08-21T06:13:54Z",
+    "url": "https://github.com/roomi-fields/notebooklm-mcp"
+  },
+  {
+    "description": "A Claude Code skill that plays bouncer at the door of production: audits AI-built apps (Lovable, Bolt, v0, Cursor) acros",
+    "id": "Wunderlandmedia/launchworthy",
+    "language": "Python",
+    "name": "Wunderlandmedia/launchworthy",
+    "stars": 94,
+    "updated_at": "2026-08-21T06:12:03Z",
+    "url": "https://github.com/Wunderlandmedia/launchworthy"
+  },
+  {
+    "description": "",
+    "id": "Lucas-Belucci-Bellini/Veritas",
+    "language": "JavaScript",
+    "name": "Lucas-Belucci-Bellini/Veritas",
+    "stars": 0,
+    "updated_at": "2026-08-21T06:14:46Z",
+    "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 15,
+    "updated_at": "2026-08-21T06:10:27Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68180,
-    "updated_at": "2026-08-21T06:03:57Z",
+    "stars": 68179,
+    "updated_at": "2026-08-21T06:08:14Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Run multiple Claude Code agents in parallel on one repo without collisions. A merge-train method for agentic coding: git",
+    "id": "phaddad90/train-conductor",
+    "language": "HTML",
+    "name": "phaddad90/train-conductor",
+    "stars": 0,
+    "updated_at": "2026-08-21T06:06:58Z",
+    "url": "https://github.com/phaddad90/train-conductor"
+  },
+  {
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
+    "id": "VoltAgent/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "VoltAgent/awesome-agent-skills",
+    "stars": 30642,
+    "updated_at": "2026-08-21T06:04:59Z",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-21T06:04:47Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -50,7 +113,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-21T06:04:17Z",
+    "updated_at": "2026-08-21T06:15:06Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-21T06:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u300c\u5feb\u70b9\u4e0b\u73ed\u300d\u5de5\u4f5c\u7cfb\u7edf\u2014\u2014\u9762\u5411\u8111\u529b\u5de5\u4f5c\u8005\u7684 35 \u4e2a\u804c\u573a Agent Skills\uff08\u6c9f\u901a\u6c47\u62a5\u3001\u4f1a\u8bae\u3001\u804c\u4e1a\u9009\u62e9\uff1b\u975e\u6e38\u620f/\u9b54\u517d\uff09\u3002Workplace skills for Claude Code / Codex / ZCode / Kimi-CL",
     "id": "dennydkt/xbskill",
     "language": "Python",
@@ -81,29 +135,11 @@
     "url": "https://github.com/dennydkt/xbskill"
   },
   {
-    "description": "",
-    "id": "Lucas-Belucci-Bellini/Veritas",
-    "language": "JavaScript",
-    "name": "Lucas-Belucci-Bellini/Veritas",
-    "stars": 0,
-    "updated_at": "2026-08-21T06:04:33Z",
-    "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
-  },
-  {
-    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
-    "id": "VoltAgent/awesome-agent-skills",
-    "language": "\u2014",
-    "name": "VoltAgent/awesome-agent-skills",
-    "stars": 30640,
-    "updated_at": "2026-08-21T05:58:35Z",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills"
-  },
-  {
     "description": "A browser inside your terminal",
     "id": "zenbu-labs/terminal-browser",
     "language": "Rust",
     "name": "zenbu-labs/terminal-browser",
-    "stars": 1766,
+    "stars": 1767,
     "updated_at": "2026-08-21T05:56:41Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
   },
@@ -207,15 +243,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 15,
-    "updated_at": "2026-08-21T05:49:10Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -292,7 +319,7 @@
     "id": "LeeHueeng/store-screenshots",
     "language": "\u2014",
     "name": "LeeHueeng/store-screenshots",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-21T05:41:57Z",
     "url": "https://github.com/LeeHueeng/store-screenshots"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T05:33:25Z",
     "url": "https://github.com/by-carlos/daikenja"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-08-21T05:32:35Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Personal memory across agents",
-    "id": "NevaMind-AI/memU",
-    "language": "Python",
-    "name": "NevaMind-AI/memU",
-    "stars": 14326,
-    "updated_at": "2026-08-21T05:32:30Z",
-    "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Shell",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 26262,
-    "updated_at": "2026-08-21T05:32:25Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
   }
 ]
