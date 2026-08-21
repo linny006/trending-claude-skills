@@ -1,5 +1,113 @@
 [
   {
+    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
+    "id": "by-carlos/daikenja",
+    "language": "Python",
+    "name": "by-carlos/daikenja",
+    "stars": 0,
+    "updated_at": "2026-08-21T05:15:02Z",
+    "url": "https://github.com/by-carlos/daikenja"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/skills",
+    "language": "Shell",
+    "name": "yschimke/skills",
+    "stars": 2,
+    "updated_at": "2026-08-21T05:11:52Z",
+    "url": "https://github.com/yschimke/skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-21T05:10:59Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Anthropic Agent Skills for stock traders, powered by Haruspex.",
+    "id": "Haruspex-guru/haruspex-skills",
+    "language": "JavaScript",
+    "name": "Haruspex-guru/haruspex-skills",
+    "stars": 1,
+    "updated_at": "2026-08-21T05:10:31Z",
+    "url": "https://github.com/Haruspex-guru/haruspex-skills"
+  },
+  {
+    "description": "Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers ",
+    "id": "imMamdouhaboammar/vibe-svgs",
+    "language": "TypeScript",
+    "name": "imMamdouhaboammar/vibe-svgs",
+    "stars": 3,
+    "updated_at": "2026-08-21T05:08:32Z",
+    "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
+  },
+  {
+    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
+    "id": "Machai-Kydoimos/dependabot-audit",
+    "language": "Python",
+    "name": "Machai-Kydoimos/dependabot-audit",
+    "stars": 0,
+    "updated_at": "2026-08-21T05:06:56Z",
+    "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30581,
+    "updated_at": "2026-08-21T05:03:28Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-21T05:02:51Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 99,
+    "updated_at": "2026-08-21T05:02:28Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-08-21T05:02:11Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 140,
+    "updated_at": "2026-08-21T05:01:11Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 31,
+    "updated_at": "2026-08-21T05:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -32,7 +140,7 @@
     "language": "JavaScript",
     "name": "superdesigndev/superdesign-skill",
     "stars": 436,
-    "updated_at": "2026-08-21T04:58:03Z",
+    "updated_at": "2026-08-21T05:10:54Z",
     "url": "https://github.com/superdesigndev/superdesign-skill"
   },
   {
@@ -70,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T04:55:05Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 31,
-    "updated_at": "2026-08-21T04:54:54Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
-    "id": "Machai-Kydoimos/dependabot-audit",
-    "language": "Python",
-    "name": "Machai-Kydoimos/dependabot-audit",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:54:09Z",
-    "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
   },
   {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
@@ -153,15 +243,6 @@
     "url": "https://github.com/mohanraj005-dot/clauderig"
   },
   {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 139,
-    "updated_at": "2026-08-21T04:54:08Z",
-    "url": "https://github.com/crabbuild/compass"
-  },
-  {
     "description": "\u300c\u5feb\u70b9\u4e0b\u73ed\u300d\u5de5\u4f5c\u7cfb\u7edf\u2014\u2014\u9762\u5411\u8111\u529b\u5de5\u4f5c\u8005\u7684 35 \u4e2a\u804c\u573a Agent Skills\uff08\u6c9f\u901a\u6c47\u62a5\u3001\u4f1a\u8bae\u3001\u804c\u4e1a\u9009\u62e9\uff1b\u975e\u6e38\u620f/\u9b54\u517d\uff09\u3002Workplace skills for Claude Code / Codex / ZCode / Kimi-CL",
     "id": "dennydkt/xbskill",
     "language": "Python",
@@ -212,17 +293,8 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68181,
-    "updated_at": "2026-08-21T04:56:09Z",
+    "updated_at": "2026-08-21T05:09:20Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-21T04:46:25Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
   },
   {
     "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
@@ -333,11 +405,11 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "A browser that runs directly inside your existing terminal",
+    "description": "A browser inside your terminal",
     "id": "zenbu-labs/terminal-browser",
     "language": "Rust",
     "name": "zenbu-labs/terminal-browser",
-    "stars": 1751,
+    "stars": 1755,
     "updated_at": "2026-08-21T04:39:36Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
   },
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-21T04:37:15Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-21T04:36:38Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall",
-    "id": "SELAT-AI/selat-plugins",
-    "language": "Shell",
-    "name": "SELAT-AI/selat-plugins",
-    "stars": 1,
-    "updated_at": "2026-08-21T04:36:23Z",
-    "url": "https://github.com/SELAT-AI/selat-plugins"
-  },
-  {
-    "description": "44 Claude Code agent skills as an installable plugin marketplace \u2014 engineering, content, SEO, productivity, planning, tr",
-    "id": "rohitguta2432/agentic-os-skills",
-    "language": "Python",
-    "name": "rohitguta2432/agentic-os-skills",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:35:39Z",
-    "url": "https://github.com/rohitguta2432/agentic-os-skills"
-  },
-  {
-    "description": "Agent Skills published by CloudPress for building integrations against the CloudPress managed WordPress hosting platform",
-    "id": "cloud-press/skills",
-    "language": "JavaScript",
-    "name": "cloud-press/skills",
-    "stars": 1,
-    "updated_at": "2026-08-21T04:33:50Z",
-    "url": "https://github.com/cloud-press/skills"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-21T04:31:52Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-21T04:31:46Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The Source for macOS Agent Workflows",
-    "id": "gaelic-ghost/socket",
-    "language": "F#",
-    "name": "gaelic-ghost/socket",
-    "stars": 6,
-    "updated_at": "2026-08-21T04:30:54Z",
-    "url": "https://github.com/gaelic-ghost/socket"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-21T04:30:31Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   }
 ]
