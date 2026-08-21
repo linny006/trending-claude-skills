@@ -1,5 +1,113 @@
 [
   {
+    "description": "CharmOS / C(H+A)RM \u2014 open-source framework to manage humans AND AI agents as first-class relationships, on a personal se",
+    "id": "tonydzi/charm-os",
+    "language": "Python",
+    "name": "tonydzi/charm-os",
+    "stars": 2,
+    "updated_at": "2026-08-21T17:11:20Z",
+    "url": "https://github.com/tonydzi/charm-os"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-21T17:08:04Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "44 Claude Code agent skills as an installable plugin marketplace \u2014 engineering, content, SEO, productivity, planning, tr",
+    "id": "rohitguta2432/agentic-os-skills",
+    "language": "Python",
+    "name": "rohitguta2432/agentic-os-skills",
+    "stars": 0,
+    "updated_at": "2026-08-21T17:07:55Z",
+    "url": "https://github.com/rohitguta2432/agentic-os-skills"
+  },
+  {
+    "description": "A Claude skill that checks whether a draft still sounds like you. Builds a personal voice profile, flags documented AI t",
+    "id": "btmoriarty/pherkad",
+    "language": "Python",
+    "name": "btmoriarty/pherkad",
+    "stars": 0,
+    "updated_at": "2026-08-21T17:06:51Z",
+    "url": "https://github.com/btmoriarty/pherkad"
+  },
+  {
+    "description": "Diamond graph, sprint harness for multi-agent fan out building. ",
+    "id": "Curious-Keeper/sprint-harness",
+    "language": "Shell",
+    "name": "Curious-Keeper/sprint-harness",
+    "stars": 0,
+    "updated_at": "2026-08-21T17:10:22Z",
+    "url": "https://github.com/Curious-Keeper/sprint-harness"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-21T17:05:08Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 328,
+    "updated_at": "2026-08-21T17:09:27Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-21T17:03:02Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
+    "id": "liustack/modlens",
+    "language": "TypeScript",
+    "name": "liustack/modlens",
+    "stars": 3496,
+    "updated_at": "2026-08-21T17:02:47Z",
+    "url": "https://github.com/liustack/modlens"
+  },
+  {
+    "description": "Official Helius AI tooling repository ",
+    "id": "helius-labs/core-ai",
+    "language": "TypeScript",
+    "name": "helius-labs/core-ai",
+    "stars": 25,
+    "updated_at": "2026-08-21T17:02:04Z",
+    "url": "https://github.com/helius-labs/core-ai"
+  },
+  {
+    "description": "The structurally-verified context layer for AI coding agents. Cut 50-90% of your agent's token spend.",
+    "id": "rynald0cst0ltziam/Warden-AI",
+    "language": "TypeScript",
+    "name": "rynald0cst0ltziam/Warden-AI",
+    "stars": 7,
+    "updated_at": "2026-08-21T17:00:29Z",
+    "url": "https://github.com/rynald0cst0ltziam/Warden-AI"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-21T17:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -25,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-08-21T16:56:14Z",
     "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 13,
+    "updated_at": "2026-08-21T16:55:37Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -54,12 +171,21 @@
     "url": "https://github.com/crypdick/pynchy"
   },
   {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-21T16:54:26Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
     "description": "Skill Heaven -- for real software engineers. Agent Plugin that treats your skills like RAM, not Storage. Summon skills w",
     "id": "gaia-research/gaia-skill-heaven",
     "language": "JavaScript",
     "name": "gaia-research/gaia-skill-heaven",
     "stars": 4,
-    "updated_at": "2026-08-21T16:53:32Z",
+    "updated_at": "2026-08-21T17:03:44Z",
     "url": "https://github.com/gaia-research/gaia-skill-heaven"
   },
   {
@@ -115,15 +241,6 @@
     "stars": 8,
     "updated_at": "2026-08-21T16:55:41Z",
     "url": "https://github.com/ashfulcra/fulcra-tools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-21T16:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -297,15 +414,6 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-08-21T16:35:42Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "claude-devkit - an agentic coding framework",
     "id": "backspace-shmackspace/claude-devkit",
     "language": "Shell",
@@ -333,15 +441,6 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-21T16:33:27Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-21T16:32:32Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "One command turns any GitHub repo into three designed social preview cards. Codex or Cursor writes them and local Chrome",
-    "id": "sjh9714/cover-my-repo",
-    "language": "JavaScript",
-    "name": "sjh9714/cover-my-repo",
-    "stars": 5,
-    "updated_at": "2026-08-21T16:32:22Z",
-    "url": "https://github.com/sjh9714/cover-my-repo"
-  },
-  {
-    "description": "Context-aware marketing skills for Claude Code, with B2B, industrial, regulated, and consumer playbooks.",
-    "id": "marcus-at-localhost/market-context-kit",
-    "language": "Python",
-    "name": "marcus-at-localhost/market-context-kit",
-    "stars": 0,
-    "updated_at": "2026-08-21T16:32:16Z",
-    "url": "https://github.com/marcus-at-localhost/market-context-kit"
-  },
-  {
-    "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
-    "id": "SentiSenseApp/skills",
-    "language": "Python",
-    "name": "SentiSenseApp/skills",
-    "stars": 1,
-    "updated_at": "2026-08-21T16:29:43Z",
-    "url": "https://github.com/SentiSenseApp/skills"
-  },
-  {
-    "description": "Claude Code skill: answers as ASCII status boards, flow chains, and case matrices instead of prose walls.",
-    "id": "faridjaff/show-dont-tell",
-    "language": "\u2014",
-    "name": "faridjaff/show-dont-tell",
-    "stars": 4,
-    "updated_at": "2026-08-21T16:29:29Z",
-    "url": "https://github.com/faridjaff/show-dont-tell"
-  },
-  {
-    "description": "Gets AI past generic brainstorming. It generates 30+ ideas, argues against them, discards the weak ones, and gives you t",
-    "id": "pestalytix/innovate-or-die",
-    "language": "Python",
-    "name": "pestalytix/innovate-or-die",
-    "stars": 1,
-    "updated_at": "2026-08-21T16:28:34Z",
-    "url": "https://github.com/pestalytix/innovate-or-die"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 328,
-    "updated_at": "2026-08-21T16:27:40Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-21T16:25:47Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-21T16:25:39Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "worldwonderer/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "worldwonderer/oh-story-claudecode",
-    "stars": 5894,
-    "updated_at": "2026-08-21T16:56:05Z",
-    "url": "https://github.com/worldwonderer/oh-story-claudecode"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-21T16:23:34Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-21T16:22:41Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
