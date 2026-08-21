@@ -1,5 +1,50 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-21T15:49:42Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 13,
+    "updated_at": "2026-08-21T15:48:08Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandboxed YAML suites, ",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 116,
+    "updated_at": "2026-08-21T15:47:01Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-21T15:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A planning skill for Claude Code and Codex, plus a terminal interface for reviewing an AI agent's plans: versions, diffs",
+    "id": "thisisnsh/planx",
+    "language": "TypeScript",
+    "name": "thisisnsh/planx",
+    "stars": 4,
+    "updated_at": "2026-08-21T15:45:15Z",
+    "url": "https://github.com/thisisnsh/planx"
+  },
+  {
     "description": "A coding-agent skill for creating stunning, interactive HTML presentations \u2014 from scratch or by converting PowerPoint (`",
     "id": "helloyxs/generate-html-ppt",
     "language": "HTML",
@@ -16,6 +61,15 @@
     "stars": 119,
     "updated_at": "2026-08-21T15:43:42Z",
     "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
+    "id": "johanthoren/jeff",
+    "language": "JavaScript",
+    "name": "johanthoren/jeff",
+    "stars": 3,
+    "updated_at": "2026-08-21T15:43:40Z",
+    "url": "https://github.com/johanthoren/jeff"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T15:38:11Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-08-21T15:37:58Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
@@ -261,15 +306,6 @@
     "url": "https://github.com/ingoclaro/claude-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-21T15:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -301,7 +337,7 @@
     "id": "liustack/modlens",
     "language": "TypeScript",
     "name": "liustack/modlens",
-    "stars": 3497,
+    "stars": 3496,
     "updated_at": "2026-08-21T15:25:37Z",
     "url": "https://github.com/liustack/modlens"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T15:20:21Z",
     "url": "https://github.com/marcus-at-localhost/market-context-kit"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 3,
-    "updated_at": "2026-08-21T15:20:06Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Claude Code plugins by Houssem Djeghri.",
-    "id": "HoussemDjeghri/plugins",
-    "language": "\u2014",
-    "name": "HoussemDjeghri/plugins",
-    "stars": 2,
-    "updated_at": "2026-08-21T15:19:30Z",
-    "url": "https://github.com/HoussemDjeghri/plugins"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-21T15:18:50Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Your session hits the usage limit at 2am. carry-on resumes it when the window resets.  Hook-native. No daemon. No pollin",
-    "id": "HoussemDjeghri/carry-on",
-    "language": "Shell",
-    "name": "HoussemDjeghri/carry-on",
-    "stars": 1,
-    "updated_at": "2026-08-21T15:18:19Z",
-    "url": "https://github.com/HoussemDjeghri/carry-on"
   }
 ]
