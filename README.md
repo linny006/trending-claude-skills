@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-21 00:00 UTC
+> ⏰ Last updated: 2026-08-21 00:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-20 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 2 | [faishalwahiduddin/unpad-wifi-skills](https://github.com/faishalwahiduddin/unpad-wifi-skills) | 0 | PowerShell | 2026-08-20 | Agent Skills for connecting Windows and Android devices to Universitas Padjadjaran's UnpadAccess campus Wi-Fi (WPA2-Ente |
-| 3 | [ArcticFox2029/chamnan](https://github.com/ArcticFox2029/chamnan) | 2 | Python | 2026-08-20 | Preserves a long-lived repository's engineering context — an architecture index, an impact map, session records, and the |
-| 4 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 2 | HTML | 2026-08-20 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
-| 5 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-20 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 6 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-20 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 7 | [marianif/ozempskills](https://github.com/marianif/ozempskills) | 0 | — | 2026-08-20 | Token-compressing meta-skill for Claude Code: hashes and caches a safe, license-checked compression of any skill's instr |
-| 8 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-20 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 9 | [arcjet/skills](https://github.com/arcjet/skills) | 1 | Python | 2026-08-20 | Skills to make your AI coding agent an Arcjet security expert. |
-| 10 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68175 | TypeScript | 2026-08-20 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 11 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-20 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 12 | [chris-peterson/beacon](https://github.com/chris-peterson/beacon) | 1 | Python | 2026-08-20 | bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions — a terminal-agnostic fleet dashboard plu |
-| 13 | [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 34 | Python | 2026-08-20 | Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic |
-| 14 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-20 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 15 | [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 1695 | Rust | 2026-08-20 | A browser that runs directly inside your existing terminal |
-| 16 | [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 6 | Python | 2026-08-20 | The Source for macOS Agent Workflows |
-| 17 | [simota/agent-skills](https://github.com/simota/agent-skills) | 72 | HTML | 2026-08-20 | 90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen |
-| 18 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 31 | Python | 2026-08-20 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 31 | Python | 2026-08-21 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-20 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 3 | [faishalwahiduddin/unpad-wifi-skills](https://github.com/faishalwahiduddin/unpad-wifi-skills) | 0 | PowerShell | 2026-08-20 | Agent Skills for connecting Windows and Android devices to Universitas Padjadjaran's UnpadAccess campus Wi-Fi (WPA2-Ente |
+| 4 | [ArcticFox2029/chamnan](https://github.com/ArcticFox2029/chamnan) | 2 | Python | 2026-08-20 | Preserves a long-lived repository's engineering context — an architecture index, an impact map, session records, and the |
+| 5 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 2 | HTML | 2026-08-20 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
+| 6 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-08-20 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 7 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-20 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 8 | [marianif/ozempskills](https://github.com/marianif/ozempskills) | 0 | — | 2026-08-20 | Token-compressing meta-skill for Claude Code: hashes and caches a safe, license-checked compression of any skill's instr |
+| 9 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-20 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 10 | [arcjet/skills](https://github.com/arcjet/skills) | 1 | Python | 2026-08-20 | Skills to make your AI coding agent an Arcjet security expert. |
+| 11 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68175 | TypeScript | 2026-08-20 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 12 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-20 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 13 | [chris-peterson/beacon](https://github.com/chris-peterson/beacon) | 1 | Python | 2026-08-20 | bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions — a terminal-agnostic fleet dashboard plu |
+| 14 | [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 34 | Python | 2026-08-20 | Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic |
+| 15 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-20 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
+| 16 | [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 1696 | Rust | 2026-08-20 | A browser that runs directly inside your existing terminal |
+| 17 | [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 6 | Python | 2026-08-20 | The Source for macOS Agent Workflows |
+| 18 | [simota/agent-skills](https://github.com/simota/agent-skills) | 72 | HTML | 2026-08-20 | 90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen |
 | 19 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-20 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
 | 20 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-20 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
 | 21 | [onlymuneeb38-glitch/ios-agent-skills-evaluator](https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator) | 3 | HTML | 2026-08-20 | iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models |
