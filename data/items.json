@@ -1,12 +1,75 @@
 [
   {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-22T02:28:47Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Gamify your career progression with SkillForge, an RPG system that turns your professional journey into an epic adven",
+    "id": "kriid08/SkillForge",
+    "language": "JavaScript",
+    "name": "kriid08/SkillForge",
+    "stars": 1,
+    "updated_at": "2026-08-22T02:27:25Z",
+    "url": "https://github.com/kriid08/SkillForge"
+  },
+  {
+    "description": "\u5bf9\u8bdd\u5f0f\u5b66\u4e60\u6559\u7ec3\u6280\u80fd\uff1a\u628a\u4e00\u9053\u9898\u80cc\u540e\u7684\u516c\u5f0f\u4ece\u672c\u8d28\u8bb2\u900f\uff0c\u5199\u6210\u53ef\u4ee5\u5728\u6d4f\u89c8\u5668\u91cc\u8bfb\u7684 HTML\uff0c\u6bcf\u4e2a\u7b49\u53f7\u5355\u72ec\u4e00\u884c\u5e76\u5199\u51fa\u8fd9\u4e00\u884c\u51ed\u4ec0\u4e48\u6210\u7acb\u3002",
+    "id": "jinshanbaihai/dialogue-tutor",
+    "language": "\u2014",
+    "name": "jinshanbaihai/dialogue-tutor",
+    "stars": 0,
+    "updated_at": "2026-08-22T02:23:19Z",
+    "url": "https://github.com/jinshanbaihai/dialogue-tutor"
+  },
+  {
+    "description": "\u4e00\u5957\u5c06 PDF/LaTeX \u81ea\u52a8\u8f6c\u5316\u4e3a Obsidian \u7ed3\u6784\u5316 Markdown \u77e5\u8bc6\u56fe\u8c31\u7684 AI \u667a\u80fd\u4f53\u6280\u80fd\u3002",
+    "id": "Misaka16384/magi",
+    "language": "Python",
+    "name": "Misaka16384/magi",
+    "stars": 7,
+    "updated_at": "2026-08-22T02:22:18Z",
+    "url": "https://github.com/Misaka16384/magi"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-08-22T02:17:42Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
     "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
     "id": "by-carlos/daikenja",
     "language": "Python",
     "name": "by-carlos/daikenja",
     "stars": 0,
-    "updated_at": "2026-08-22T02:13:58Z",
+    "updated_at": "2026-08-22T02:17:14Z",
     "url": "https://github.com/by-carlos/daikenja"
+  },
+  {
+    "description": "Claude skill that kills AI slop: strips AI tells (em dashes, 'delve', rule-of-three) then fits the text to its channel \u2014",
+    "id": "msdanyg/humanize-pro",
+    "language": "\u2014",
+    "name": "msdanyg/humanize-pro",
+    "stars": 0,
+    "updated_at": "2026-08-22T02:15:53Z",
+    "url": "https://github.com/msdanyg/humanize-pro"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-22T02:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -133,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T02:02:15Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-22T02:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Nyann (\u1004\u103c\u1019\u103a\u1038) is Burmese for scaffolding. Nyann is a Claude Code plugin that sets up and maintains project governance.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T01:21:01Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 86,
-    "updated_at": "2026-08-22T01:20:25Z",
-    "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "An AI skill for Claude, Codex, and ChatGPT that scans your email for class action settlements, matches your purchases to",
-    "id": "yingying-chu/class-action-finder",
-    "language": "Shell",
-    "name": "yingying-chu/class-action-finder",
-    "stars": 2,
-    "updated_at": "2026-08-22T01:19:53Z",
-    "url": "https://github.com/yingying-chu/class-action-finder"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-08-22T01:18:27Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-22T01:15:09Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-08-22T01:14:27Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-08-22T01:13:55Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   }
 ]
