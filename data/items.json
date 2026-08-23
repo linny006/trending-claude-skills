@@ -1,5 +1,32 @@
 [
   {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-23T01:13:43Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 2,
+    "updated_at": "2026-08-23T01:00:28Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T01:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
     "id": "ashfaquecg806-dot/symfony-ux-insights",
     "language": "HTML",
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 334,
-    "updated_at": "2026-08-23T00:57:21Z",
+    "updated_at": "2026-08-23T01:04:59Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "petar-djukic/writing-skills",
     "stars": 1,
-    "updated_at": "2026-08-23T00:56:33Z",
+    "updated_at": "2026-08-23T01:02:28Z",
     "url": "https://github.com/petar-djukic/writing-skills"
   },
   {
@@ -184,18 +211,9 @@
     "id": "shanmukhaditya/agent-skills",
     "language": "\u2014",
     "name": "shanmukhaditya/agent-skills",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-23T00:45:31Z",
     "url": "https://github.com/shanmukhaditya/agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-23T00:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T00:36:20Z",
     "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-08-23T00:36:13Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
-  },
-  {
-    "description": "Add self-learning voice notifications for Claude Code with edge-tts, phrase pools, priority queues, and anti-repeat hand",
-    "id": "Secondvisitation783/claude-voice-system",
-    "language": "\u2014",
-    "name": "Secondvisitation783/claude-voice-system",
-    "stars": 1,
-    "updated_at": "2026-08-23T00:36:11Z",
-    "url": "https://github.com/Secondvisitation783/claude-voice-system"
   }
 ]
