@@ -1,12 +1,57 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-23T12:58:33Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "JavaScript",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 0,
+    "updated_at": "2026-08-23T12:57:29Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
+    "id": "by-carlos/daikenja",
+    "language": "Python",
+    "name": "by-carlos/daikenja",
+    "stars": 0,
+    "updated_at": "2026-08-23T12:57:19Z",
+    "url": "https://github.com/by-carlos/daikenja"
+  },
+  {
     "description": "Portable, configurable agent skills for reliable everyday work.",
     "id": "Misoto22/skills",
     "language": "Python",
     "name": "Misoto22/skills",
     "stars": 0,
-    "updated_at": "2026-08-23T12:55:00Z",
+    "updated_at": "2026-08-23T12:56:34Z",
     "url": "https://github.com/Misoto22/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T12:55:37Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Stable, editable PPTX generation for AI agents \u2014 semantic IR in, native DrawingML out. DSH plugin + Claude Code plugin +",
+    "id": "liustack/pptpress",
+    "language": "TypeScript",
+    "name": "liustack/pptpress",
+    "stars": 7,
+    "updated_at": "2026-08-23T12:55:31Z",
+    "url": "https://github.com/liustack/pptpress"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -34,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T12:52:45Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Skills and agents for Claude and Gemini",
-    "id": "AnaCataVC/amiga-ia",
-    "language": "JavaScript",
-    "name": "AnaCataVC/amiga-ia",
-    "stars": 0,
-    "updated_at": "2026-08-23T12:52:11Z",
-    "url": "https://github.com/AnaCataVC/amiga-ia"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T12:45:25Z",
     "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-23T12:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
@@ -266,17 +293,8 @@
     "language": "Python",
     "name": "1102tools-dev/federal-contracting-skills",
     "stars": 25,
-    "updated_at": "2026-08-23T12:34:56Z",
+    "updated_at": "2026-08-23T12:57:19Z",
     "url": "https://github.com/1102tools-dev/federal-contracting-skills"
-  },
-  {
-    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
-    "id": "by-carlos/daikenja",
-    "language": "Python",
-    "name": "by-carlos/daikenja",
-    "stars": 0,
-    "updated_at": "2026-08-23T12:53:24Z",
-    "url": "https://github.com/by-carlos/daikenja"
   },
   {
     "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP & C",
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 1,
-    "updated_at": "2026-08-23T12:25:47Z",
+    "updated_at": "2026-08-23T12:59:43Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-23T12:18:39Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-23T12:16:51Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
-    "id": "yacb2/aidex",
-    "language": "Shell",
-    "name": "yacb2/aidex",
-    "stars": 2,
-    "updated_at": "2026-08-23T12:16:22Z",
-    "url": "https://github.com/yacb2/aidex"
   }
 ]
