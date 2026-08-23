@@ -1,12 +1,156 @@
 [
   {
+    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
+    "id": "petar-djukic/writing-skills",
+    "language": "Python",
+    "name": "petar-djukic/writing-skills",
+    "stars": 2,
+    "updated_at": "2026-08-23T11:57:26Z",
+    "url": "https://github.com/petar-djukic/writing-skills"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-23T11:56:47Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-23T11:56:42Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-23T11:55:46Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:54:35Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "\ud83d\uddbc\ufe0f AI agent skill for Claude Code & Codex \u2014 turns raw app screenshots into store-ready App Store & Google Play marketing",
+    "id": "LeeHueeng/store-screenshots",
+    "language": "\u2014",
+    "name": "LeeHueeng/store-screenshots",
+    "stars": 30,
+    "updated_at": "2026-08-23T11:53:57Z",
+    "url": "https://github.com/LeeHueeng/store-screenshots"
+  },
+  {
+    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
+    "id": "JanYork/llm-wiki-cli",
+    "language": "Rust",
+    "name": "JanYork/llm-wiki-cli",
+    "stars": 47,
+    "updated_at": "2026-08-23T11:53:35Z",
+    "url": "https://github.com/JanYork/llm-wiki-cli"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-23T11:52:37Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-23T11:52:37Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-23T11:52:02Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
+    "id": "by-carlos/daikenja",
+    "language": "Python",
+    "name": "by-carlos/daikenja",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:51:24Z",
+    "url": "https://github.com/by-carlos/daikenja"
+  },
+  {
+    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
+    "id": "worldwonderer/novel-to-game",
+    "language": "Markdown",
+    "name": "worldwonderer/novel-to-game",
+    "stars": 693,
+    "updated_at": "2026-08-23T11:57:06Z",
+    "url": "https://github.com/worldwonderer/novel-to-game"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:47:39Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
     "description": "DeepSeek Harness (DSH) \u751f\u6001\u6280\u80fd\u5305\uff1aparallel-dispatch \u5e76\u884c\u8c03\u5ea6\u89c4\u5219 + archmap \u67b6\u6784\u6d4b\u7ed8 Agent\uff08\u96f6LLM\u786e\u5b9a\u6027diff\u5f71\u54cd\u9762\uff0c\u8282\u7ea6tokens\uff09\u3002Reusable skills for ",
     "id": "xu-jin-cs/dsh-skills",
     "language": "Python",
     "name": "xu-jin-cs/dsh-skills",
     "stars": 1,
-    "updated_at": "2026-08-23T11:45:10Z",
+    "updated_at": "2026-08-23T11:47:36Z",
     "url": "https://github.com/xu-jin-cs/dsh-skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:46:40Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T11:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Personal skills for hacking in the original sense: creative building and the craft of making things elegant. A Claude Co",
+    "id": "atgreen/hackinator",
+    "language": "Shell",
+    "name": "atgreen/hackinator",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:43:53Z",
+    "url": "https://github.com/atgreen/hackinator"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -16,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T11:43:26Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Personal skills for hacking in the original sense: creative building and the craft of making things elegant. A Claude Co",
-    "id": "atgreen/hackinator",
-    "language": "\u2014",
-    "name": "atgreen/hackinator",
-    "stars": 0,
-    "updated_at": "2026-08-23T11:43:53Z",
-    "url": "https://github.com/atgreen/hackinator"
   },
   {
     "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
@@ -45,24 +180,6 @@
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-23T11:40:35Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-23T11:40:29Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -70,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T11:40:23Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-23T11:39:14Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -135,33 +243,6 @@
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-23T11:34:33Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-23T11:30:37Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-23T11:30:33Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
     "description": "Trello skill pack for Claude Code and Codex - boards, lists and cards, board digests and a due-date radar. A free tool b",
     "id": "dbhq-uk/trello-skill",
     "language": "Shell",
@@ -169,24 +250,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T11:30:16Z",
     "url": "https://github.com/dbhq-uk/trello-skill"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-23T11:29:30Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-23T11:28:13Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -385,68 +448,5 @@
     "stars": 335,
     "updated_at": "2026-08-23T11:29:02Z",
     "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-23T11:14:24Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Nine portable, host-neutral federal acquisition workflow skills with deterministic validators.",
-    "id": "1102tools-dev/federal-contracting-skills",
-    "language": "Python",
-    "name": "1102tools-dev/federal-contracting-skills",
-    "stars": 25,
-    "updated_at": "2026-08-23T11:13:58Z",
-    "url": "https://github.com/1102tools-dev/federal-contracting-skills"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-23T11:13:41Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-23T11:13:31Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-08-23T11:12:27Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 3,
-    "updated_at": "2026-08-23T11:12:13Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-23T11:11:00Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   }
 ]
