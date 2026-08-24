@@ -1,10 +1,91 @@
 [
   {
+    "description": "Skills that started with problems I encountered.",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:29:37Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "claude-devkit - an agentic coding framework",
+    "id": "backspace-shmackspace/claude-devkit",
+    "language": "Shell",
+    "name": "backspace-shmackspace/claude-devkit",
+    "stars": 15,
+    "updated_at": "2026-08-24T01:28:41Z",
+    "url": "https://github.com/backspace-shmackspace/claude-devkit"
+  },
+  {
+    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
+    "id": "bokyostudio/pg-practice-knowledgebase",
+    "language": "HTML",
+    "name": "bokyostudio/pg-practice-knowledgebase",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:27:22Z",
+    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
+  },
+  {
+    "description": "An AI skill for Claude, Codex, and ChatGPT that scans your email for class action settlements, matches your purchases to",
+    "id": "yingying-chu/class-action-finder",
+    "language": "Shell",
+    "name": "yingying-chu/class-action-finder",
+    "stars": 2,
+    "updated_at": "2026-08-24T01:27:14Z",
+    "url": "https://github.com/yingying-chu/class-action-finder"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:26:22Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 414,
+    "updated_at": "2026-08-24T01:26:07Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 86,
+    "updated_at": "2026-08-24T01:25:55Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-24T01:25:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Open-source AI front-office factory for agencies serving local businesses: website, booking, intake, CRM, and agents in ",
+    "id": "seldonframe/seldonframe",
+    "language": "TypeScript",
+    "name": "seldonframe/seldonframe",
+    "stars": 31,
+    "updated_at": "2026-08-24T01:25:10Z",
+    "url": "https://github.com/seldonframe/seldonframe"
+  },
+  {
     "description": "Free Claude Code skill + the certified-BI doctrine from kymira.ai: business intelligence where every number reconciles t",
     "id": "dylnbaker15/claude-skills-for-business-intelligence",
     "language": "\u2014",
     "name": "dylnbaker15/claude-skills-for-business-intelligence",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-24T01:23:42Z",
     "url": "https://github.com/dylnbaker15/claude-skills-for-business-intelligence"
   },
@@ -63,24 +144,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 414,
-    "updated_at": "2026-08-24T01:24:41Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Open-source AI front-office factory for agencies serving local businesses: website, booking, intake, CRM, and agents in ",
-    "id": "seldonframe/seldonframe",
-    "language": "TypeScript",
-    "name": "seldonframe/seldonframe",
-    "stars": 31,
-    "updated_at": "2026-08-24T01:25:10Z",
-    "url": "https://github.com/seldonframe/seldonframe"
-  },
-  {
     "description": "",
     "id": "SELAT-AI/selat-skills",
     "language": "JavaScript",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T01:15:18Z",
     "url": "https://github.com/svy04/rutter"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-24T01:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -230,7 +284,7 @@
     "language": "Rust",
     "name": "crabbuild/compass",
     "stars": 142,
-    "updated_at": "2026-08-24T00:56:23Z",
+    "updated_at": "2026-08-24T01:26:10Z",
     "url": "https://github.com/crabbuild/compass"
   },
   {
@@ -268,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-08-24T00:48:44Z",
     "url": "https://github.com/fa-ina-tic/memvid-rag"
-  },
-  {
-    "description": "Skills that started with problems I encountered.",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 0,
-    "updated_at": "2026-08-24T01:14:42Z",
-    "url": "https://github.com/MrBinnacle/skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-24T00:11:36Z",
     "url": "https://github.com/liustack/pptwise"
-  },
-  {
-    "description": "Portable, configurable agent skills for reliable everyday work.",
-    "id": "Misoto22/skills",
-    "language": "Python",
-    "name": "Misoto22/skills",
-    "stars": 0,
-    "updated_at": "2026-08-24T00:07:14Z",
-    "url": "https://github.com/Misoto22/skills"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 19,
-    "updated_at": "2026-08-24T00:59:34Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-24T00:05:12Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Generate UAE government and official Arabic documents that render correctly \u2014 with an automated gate that refuses to shi",
-    "id": "habib-alqalam/uae-arabic-documents",
-    "language": "Python",
-    "name": "habib-alqalam/uae-arabic-documents",
-    "stars": 0,
-    "updated_at": "2026-08-24T00:03:43Z",
-    "url": "https://github.com/habib-alqalam/uae-arabic-documents"
-  },
-  {
-    "description": "Nine Claude Code skills for developer workflow \u2014 each declares when it should stay quiet, not just when it should fire.",
-    "id": "Contexory/skills",
-    "language": "Python",
-    "name": "Contexory/skills",
-    "stars": 0,
-    "updated_at": "2026-08-24T00:03:07Z",
-    "url": "https://github.com/Contexory/skills"
   }
 ]
