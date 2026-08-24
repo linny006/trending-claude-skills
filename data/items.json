@@ -1,5 +1,41 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 33,
+    "updated_at": "2026-08-24T17:58:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "DeepSeek Harness \u4e13\u5c5e\u5de5\u7a0b\u6cbb\u7406\u63d2\u4ef6\uff5c\u539f\u521b\u4e09\u5c42\u95f8\u63a7\u4f53\u7cfb\u3001\u5e76\u884c\u5206\u8eab\u5bc4\u751f\u5de2\u3001\u53cc\u95f8\u68c0\u7d22\u524d\u7f6e\u300117\u6001\u6d41\u7a0b\u72b6\u6001\u673a\uff5cSource-Available \u6e90\u7801\u53ef\u89c1\uff0c\u7981\u6b62\u79c1\u81ea Fork \u5546\u7528",
+    "id": "xu-jin-cs/dsh-skills",
+    "language": "Python",
+    "name": "xu-jin-cs/dsh-skills",
+    "stars": 1,
+    "updated_at": "2026-08-24T17:57:18Z",
+    "url": "https://github.com/xu-jin-cs/dsh-skills"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 29,
+    "updated_at": "2026-08-24T17:56:40Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Give your AI agents persistent memory and session continuity in your Obsidian vault \u2014 a conversational interview scaffol",
+    "id": "aliasunder/vault-onboarding",
+    "language": "TypeScript",
+    "name": "aliasunder/vault-onboarding",
+    "stars": 1,
+    "updated_at": "2026-08-24T17:54:19Z",
+    "url": "https://github.com/aliasunder/vault-onboarding"
+  },
+  {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
     "id": "Stewie-pixel/claude-with-leetcode",
     "language": "C++",
@@ -126,15 +162,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 33,
-    "updated_at": "2026-08-24T17:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -169,15 +196,6 @@
     "stars": 108,
     "updated_at": "2026-08-24T17:56:11Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "DeepSeek Harness \u4e13\u5c5e\u5de5\u7a0b\u6cbb\u7406\u63d2\u4ef6\uff5c\u539f\u521b\u4e09\u5c42\u95f8\u63a7\u4f53\u7cfb\u3001\u5e76\u884c\u5206\u8eab\u5bc4\u751f\u5de2\u3001\u53cc\u95f8\u68c0\u7d22\u524d\u7f6e\u300117\u6001\u6d41\u7a0b\u72b6\u6001\u673a\uff5cSource-Available \u6e90\u7801\u53ef\u89c1\uff0c\u7981\u6b62\u79c1\u81ea Fork \u5546\u7528",
-    "id": "xu-jin-cs/dsh-skills",
-    "language": "Python",
-    "name": "xu-jin-cs/dsh-skills",
-    "stars": 1,
-    "updated_at": "2026-08-24T17:57:18Z",
-    "url": "https://github.com/xu-jin-cs/dsh-skills"
   },
   {
     "description": "Structured Claude Code skills encoding a full dev cycle (analysis, planning, implementation, review, git), plus five ref",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T17:25:17Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-24T17:24:29Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-24T17:23:31Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
