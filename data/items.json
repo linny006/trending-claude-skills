@@ -1,12 +1,48 @@
 [
   {
-    "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
-    "id": "SentiSenseApp/skills",
+    "description": "Guardrailed vibe coding for interactive data visualization: a Claude Skill that turns raw data into verified interactive",
+    "id": "hsuan1012/Dataviz-Coding-Agent",
+    "language": "TypeScript",
+    "name": "hsuan1012/Dataviz-Coding-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:14:44Z",
+    "url": "https://github.com/hsuan1012/Dataviz-Coding-Agent"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
-    "name": "SentiSenseApp/skills",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-24T01:13:20Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "A planning skill for Claude Code, Codex and other AI coding agents, plus a terminal interface for reviewing plans with v",
+    "id": "thisisnsh/planx",
+    "language": "TypeScript",
+    "name": "thisisnsh/planx",
+    "stars": 4,
+    "updated_at": "2026-08-24T01:13:04Z",
+    "url": "https://github.com/thisisnsh/planx"
+  },
+  {
+    "description": "Claude skill: Excel transaction report -> one interactive HTML briefing for leadership",
+    "id": "Felixx1502/sheet-show",
+    "language": "Python",
+    "name": "Felixx1502/sheet-show",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:11:49Z",
+    "url": "https://github.com/Felixx1502/sheet-show"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 1,
-    "updated_at": "2026-08-24T00:59:36Z",
-    "url": "https://github.com/SentiSenseApp/skills"
+    "updated_at": "2026-08-24T01:11:26Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Claude Code skills for prod-local agent development: query real traces and logs from your local stack, plan before you b",
@@ -14,8 +50,26 @@
     "language": "Shell",
     "name": "LunarCommand/claude-skills",
     "stars": 1,
-    "updated_at": "2026-08-24T01:00:11Z",
+    "updated_at": "2026-08-24T01:07:21Z",
     "url": "https://github.com/LunarCommand/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-24T01:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
+    "id": "SentiSenseApp/skills",
+    "language": "HTML",
+    "name": "SentiSenseApp/skills",
+    "stars": 1,
+    "updated_at": "2026-08-24T00:59:36Z",
+    "url": "https://github.com/SentiSenseApp/skills"
   },
   {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
@@ -86,17 +140,8 @@
     "language": "Python",
     "name": "MrBinnacle/skills",
     "stars": 0,
-    "updated_at": "2026-08-24T00:57:43Z",
+    "updated_at": "2026-08-24T01:14:42Z",
     "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-24T00:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -122,7 +167,7 @@
     "language": "Kotlin",
     "name": "askimo-ai/askimo",
     "stars": 358,
-    "updated_at": "2026-08-24T00:49:10Z",
+    "updated_at": "2026-08-24T01:14:34Z",
     "url": "https://github.com/askimo-ai/askimo"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-23T23:55:47Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "wshobson/agents",
     "stars": 39052,
-    "updated_at": "2026-08-23T23:41:31Z",
+    "updated_at": "2026-08-24T01:08:10Z",
     "url": "https://github.com/wshobson/agents"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T23:27:25Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-23T23:27:06Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "\ud83e\udde0 Curated skills for software development and automation",
-    "id": "sureshg/skills",
-    "language": "Shell",
-    "name": "sureshg/skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:26:16Z",
-    "url": "https://github.com/sureshg/skills"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:25:45Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:25:38Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
