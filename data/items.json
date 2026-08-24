@@ -1,5 +1,23 @@
 [
   {
+    "description": "Guardrailed vibe coding for interactive data visualization: a Claude Skill that turns raw data into verified interactive",
+    "id": "hsuan1012/Dataviz-Coding-Agent",
+    "language": "TypeScript",
+    "name": "hsuan1012/Dataviz-Coding-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:45:28Z",
+    "url": "https://github.com/hsuan1012/Dataviz-Coding-Agent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-24T02:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Jeffy Loop is an autonomous audit-and-fix loop for Claude Code. A shell Stop hook re-feeds the agent its own plan, backl",
     "id": "lenamonj/jeffy-loop",
     "language": "Shell",
@@ -16,15 +34,6 @@
     "stars": 4,
     "updated_at": "2026-08-24T02:43:01Z",
     "url": "https://github.com/escoffier-labs/skillet"
-  },
-  {
-    "description": "Guardrailed vibe coding for interactive data visualization: a Claude Skill that turns raw data into verified interactive",
-    "id": "hsuan1012/Dataviz-Coding-Agent",
-    "language": "TypeScript",
-    "name": "hsuan1012/Dataviz-Coding-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-24T02:40:54Z",
-    "url": "https://github.com/hsuan1012/Dataviz-Coding-Agent"
   },
   {
     "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
@@ -106,15 +115,6 @@
     "stars": 11,
     "updated_at": "2026-08-24T02:43:43Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-24T02:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "An AI skill for Claude, Codex, and ChatGPT that scans your email for class action settlements, matches your purchases to",
