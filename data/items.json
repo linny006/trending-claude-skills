@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Enhance programming workflows with a curated library of agent skills for tasks like code review, debugging, and plann",
+    "id": "izyanrajwani/agent-skills-library",
+    "language": "TypeScript",
+    "name": "izyanrajwani/agent-skills-library",
+    "stars": 4,
+    "updated_at": "2026-08-24T04:48:46Z",
+    "url": "https://github.com/izyanrajwani/agent-skills-library"
+  },
+  {
+    "description": "GTM engineering skills for AI coding agents \u2014 build lead lists, find & verify emails, waterfall enrichment, lead scoring",
+    "id": "getcargohq/cargo-skills",
+    "language": "TypeScript",
+    "name": "getcargohq/cargo-skills",
+    "stars": 15,
+    "updated_at": "2026-08-24T04:47:30Z",
+    "url": "https://github.com/getcargohq/cargo-skills"
+  },
+  {
+    "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple gr",
+    "id": "bitjaru/styleseed",
+    "language": "TypeScript",
+    "name": "bitjaru/styleseed",
+    "stars": 914,
+    "updated_at": "2026-08-24T04:46:58Z",
+    "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-08-24T04:46:36Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
+    "id": "TerminallyLazy/Tree-Ring-Memory",
+    "language": "Rust",
+    "name": "TerminallyLazy/Tree-Ring-Memory",
+    "stars": 13,
+    "updated_at": "2026-08-24T04:46:36Z",
+    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-24T04:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Jeffy Loop is an autonomous audit-and-fix loop for Claude Code. A shell Stop hook re-feeds the agent its own plan, backl",
     "id": "lenamonj/jeffy-loop",
     "language": "Shell",
@@ -40,7 +94,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6283,
+    "stars": 6284,
     "updated_at": "2026-08-24T04:43:18Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -86,7 +140,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-24T04:40:49Z",
+    "updated_at": "2026-08-24T04:46:03Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -207,15 +261,6 @@
     "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
   },
   {
-    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
-    "id": "TerminallyLazy/Tree-Ring-Memory",
-    "language": "Rust",
-    "name": "TerminallyLazy/Tree-Ring-Memory",
-    "stars": 13,
-    "updated_at": "2026-08-24T04:44:27Z",
-    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
-  },
-  {
     "description": "\u30ca\u30ec\u30fc\u30b7\u30e7\u30f3\u4ed8\u304d\u6559\u80b2\u30fb\u7814\u4fee\u52d5\u753b\u3068\u914d\u5e03PDF\u3001\u7814\u4fee\u30d7\u30ed\u30b0\u30e9\u30e0\u5168\u4f53\u3092\u8a2d\u8a08\u30fb\u5236\u4f5c\u3059\u308bClaude Skill\u7fa4",
     "id": "daito-dot/education-video-skills",
     "language": "Python",
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T04:30:43Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-24T04:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T04:05:57Z",
     "url": "https://github.com/kevin9327/patent-intel"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 266,
-    "updated_at": "2026-08-24T04:05:51Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Memory consolidation skills for Claude Code \u2014 read-only dream pass, checkbox/validator gate, full-auto mode, snapshot + ",
-    "id": "timoncool/dream-skill",
-    "language": "HTML",
-    "name": "timoncool/dream-skill",
-    "stars": 3,
-    "updated_at": "2026-08-24T04:04:52Z",
-    "url": "https://github.com/timoncool/dream-skill"
-  },
-  {
-    "description": "Public Claude Code skills and standalone utilities: tts (turns a document into spoken-word audio) and explain-yourself (",
-    "id": "ArunskiOrg/BenArunskiUtils",
-    "language": "Python",
-    "name": "ArunskiOrg/BenArunskiUtils",
-    "stars": 1,
-    "updated_at": "2026-08-24T04:04:41Z",
-    "url": "https://github.com/ArunskiOrg/BenArunskiUtils"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-24T04:03:10Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
   }
 ]
