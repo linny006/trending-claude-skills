@@ -1,5 +1,68 @@
 [
   {
+    "description": "Claude Code skills for pharma brand management \u2014 Rx and CHC/OTC personas for RU and UA markets, with task checklists, do",
+    "id": "mznaevskaya-dotcom/pharma-brand-manager-skills",
+    "language": "\u2014",
+    "name": "mznaevskaya-dotcom/pharma-brand-manager-skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:28:04Z",
+    "url": "https://github.com/mznaevskaya-dotcom/pharma-brand-manager-skills"
+  },
+  {
+    "description": "Agent skills that route a presentation from source to stage-ready through an 8-gate pipeline. Extracted from open-slide.",
+    "id": "samulee003/agentic-ppt-skills",
+    "language": "HTML",
+    "name": "samulee003/agentic-ppt-skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:27:01Z",
+    "url": "https://github.com/samulee003/agentic-ppt-skills"
+  },
+  {
+    "description": "Cross-model adversarial review and idea generation for Claude Code. A Claude session orchestrates and ratifies; OpenAI (",
+    "id": "raichominev/concilium",
+    "language": "Shell",
+    "name": "raichominev/concilium",
+    "stars": 2,
+    "updated_at": "2026-08-24T14:25:50Z",
+    "url": "https://github.com/raichominev/concilium"
+  },
+  {
+    "description": "Agent-native research workspace. A deterministic CLI that ingests arXiv / PDF / LaTeX / Zotero papers into an Obsidian-c",
+    "id": "Misaka16384/magi",
+    "language": "Python",
+    "name": "Misaka16384/magi",
+    "stars": 7,
+    "updated_at": "2026-08-24T14:24:02Z",
+    "url": "https://github.com/Misaka16384/magi"
+  },
+  {
+    "description": "tia-cli - Drive Siemens TIA Portal from the command line via Openness. 99 verbs, dry-run by default. A Claude Code / AI ",
+    "id": "Codyte/Tia-Portal-CLI",
+    "language": "C#",
+    "name": "Codyte/Tia-Portal-CLI",
+    "stars": 2,
+    "updated_at": "2026-08-24T14:23:56Z",
+    "url": "https://github.com/Codyte/Tia-Portal-CLI"
+  },
+  {
+    "description": "Skills that started with problems I encountered.",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:29:35Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 33,
+    "updated_at": "2026-08-24T14:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Daily Leetcode masterclass with Claude code DSA mentor",
     "id": "Stewie-pixel/claude-with-leetcode",
     "language": "C++",
@@ -16,6 +79,33 @@
     "stars": 3762,
     "updated_at": "2026-08-24T14:13:30Z",
     "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68312,
+    "updated_at": "2026-08-24T14:12:40Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:10:57Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-08-24T14:10:54Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -36,6 +126,15 @@
     "url": "https://github.com/ravencloak-org/LocalRouter"
   },
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-24T14:05:22Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
     "id": "aitit-inc/leadace",
     "language": "TypeScript",
@@ -45,22 +144,22 @@
     "url": "https://github.com/aitit-inc/leadace"
   },
   {
-    "description": "tia-cli - Drive Siemens TIA Portal from the command line via Openness. 99 verbs, dry-run by default. A Claude Code / AI ",
-    "id": "Codyte/Tia-Portal-CLI",
-    "language": "C#",
-    "name": "Codyte/Tia-Portal-CLI",
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
     "stars": 2,
-    "updated_at": "2026-08-24T14:04:52Z",
-    "url": "https://github.com/Codyte/Tia-Portal-CLI"
+    "updated_at": "2026-08-24T14:04:53Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M",
+    "id": "QAIA-Project/QAIA",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 33,
-    "updated_at": "2026-08-24T14:04:37Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "QAIA-Project/QAIA",
+    "stars": 1,
+    "updated_at": "2026-08-24T14:04:36Z",
+    "url": "https://github.com/QAIA-Project/QAIA"
   },
   {
     "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u5168\u751f\u547d\u5468\u671f QA Agent Skills \u6846\u67b6\u2014\u2014\u65b9\u6cd5\u8bba + 10 Skills + \u53ef\u590d\u73b0 Benchmark\uff08Claude Code \u7b49 Agent \u53ef\u7528\uff09",
@@ -122,7 +221,7 @@
     "language": "Python",
     "name": "jovelove7/facet",
     "stars": 0,
-    "updated_at": "2026-08-24T13:59:33Z",
+    "updated_at": "2026-08-24T14:29:51Z",
     "url": "https://github.com/jovelove7/facet"
   },
   {
@@ -180,15 +279,6 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
-    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M",
-    "id": "QAIA-Project/QAIA",
-    "language": "Python",
-    "name": "QAIA-Project/QAIA",
-    "stars": 1,
-    "updated_at": "2026-08-24T14:04:36Z",
-    "url": "https://github.com/QAIA-Project/QAIA"
-  },
-  {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
     "id": "0xc000022070/agentic-flake",
     "language": "Nix",
@@ -239,7 +329,7 @@
     "language": "HTML",
     "name": "M1LL4r3S-Droid/notion-sync-nexus",
     "stars": 0,
-    "updated_at": "2026-08-24T13:51:52Z",
+    "updated_at": "2026-08-24T14:27:45Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
@@ -259,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T13:50:37Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68312,
-    "updated_at": "2026-08-24T14:12:40Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-24T13:41:29Z",
     "url": "https://github.com/sectersion/lattice"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-24T13:41:17Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Self-driving agent loop for Claude Code. It turns an issue into a planned, verified, committed change, and lets you run,",
-    "id": "benman1/wiggum",
-    "language": "Shell",
-    "name": "benman1/wiggum",
-    "stars": 1,
-    "updated_at": "2026-08-24T13:41:01Z",
-    "url": "https://github.com/benman1/wiggum"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-24T13:40:39Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
-    "id": "JanYork/llm-wiki-cli",
-    "language": "Rust",
-    "name": "JanYork/llm-wiki-cli",
-    "stars": 47,
-    "updated_at": "2026-08-24T13:46:57Z",
-    "url": "https://github.com/JanYork/llm-wiki-cli"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-24T13:39:35Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Personal AI job-search assistant, built as a Claude Skills package on a single GitHub repo. Guided onboarding, persisten",
-    "id": "FynePool/job-hunter-template",
-    "language": "Python",
-    "name": "FynePool/job-hunter-template",
-    "stars": 3,
-    "updated_at": "2026-08-24T13:39:07Z",
-    "url": "https://github.com/FynePool/job-hunter-template"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-24T13:38:22Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-24T13:36:10Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "A set of agent skills aimed primarily at Claude Code.",
-    "id": "Pyroxin/opinionated-claude-skills",
-    "language": "Shell",
-    "name": "Pyroxin/opinionated-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-08-24T13:33:30Z",
-    "url": "https://github.com/Pyroxin/opinionated-claude-skills"
   }
 ]
