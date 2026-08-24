@@ -1,5 +1,86 @@
 [
   {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 7,
+    "updated_at": "2026-08-24T06:13:59Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
+    "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
+    "id": "seed-forge/harness-ai-kit",
+    "language": "Python",
+    "name": "seed-forge/harness-ai-kit",
+    "stars": 16,
+    "updated_at": "2026-08-24T06:13:42Z",
+    "url": "https://github.com/seed-forge/harness-ai-kit"
+  },
+  {
+    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
+    "id": "TerminallyLazy/Tree-Ring-Memory",
+    "language": "Rust",
+    "name": "TerminallyLazy/Tree-Ring-Memory",
+    "stars": 13,
+    "updated_at": "2026-08-24T06:07:02Z",
+    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-24T06:06:37Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Portable, configurable agent skills for reliable everyday work.",
+    "id": "Misoto22/skills",
+    "language": "Python",
+    "name": "Misoto22/skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T06:03:48Z",
+    "url": "https://github.com/Misoto22/skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-24T06:02:34Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-08-24T06:01:05Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 5,
+    "updated_at": "2026-08-24T06:00:28Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 33,
+    "updated_at": "2026-08-24T06:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -54,15 +135,6 @@
     "url": "https://github.com/Codyte/Tia-Portal-CLI"
   },
   {
-    "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
-    "id": "seed-forge/harness-ai-kit",
-    "language": "Python",
-    "name": "seed-forge/harness-ai-kit",
-    "stars": 16,
-    "updated_at": "2026-08-24T05:51:06Z",
-    "url": "https://github.com/seed-forge/harness-ai-kit"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -108,6 +180,15 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
+    "description": "Personal curated Claude Code skills library",
+    "id": "shreyT19/claude-skills",
+    "language": "Shell",
+    "name": "shreyT19/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T05:47:29Z",
+    "url": "https://github.com/shreyT19/claude-skills"
+  },
+  {
     "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
     "id": "Neetx/ai-research-radar",
     "language": "\u2014",
@@ -115,24 +196,6 @@
     "stars": 3,
     "updated_at": "2026-08-24T05:46:53Z",
     "url": "https://github.com/Neetx/ai-research-radar"
-  },
-  {
-    "description": "repo for reusable plugins and skills",
-    "id": "richfrem/agent-plugins-skills",
-    "language": "Python",
-    "name": "richfrem/agent-plugins-skills",
-    "stars": 5,
-    "updated_at": "2026-08-24T05:59:58Z",
-    "url": "https://github.com/richfrem/agent-plugins-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 33,
-    "updated_at": "2026-08-24T05:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -297,15 +360,6 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:37:03Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 142,
     "updated_at": "2026-08-24T05:27:51Z",
     "url": "https://github.com/aerovato/magic-compact"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:27:50Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-24T05:27:50Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-24T05:27:11Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:25:42Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Low-cost evidence-backed project context governance for AI coding agents",
-    "id": "Ghost011118/project-context-governor",
-    "language": "Python",
-    "name": "Ghost011118/project-context-governor",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:24:31Z",
-    "url": "https://github.com/Ghost011118/project-context-governor"
-  },
-  {
-    "description": "Evidence-backed durable project state for AI coding agents across sessions, branches, reviews, and research.",
-    "id": "Ghost011118/project-state-governor",
-    "language": "\u2014",
-    "name": "Ghost011118/project-state-governor",
-    "stars": 1,
-    "updated_at": "2026-08-24T05:24:31Z",
-    "url": "https://github.com/Ghost011118/project-state-governor"
   }
 ]
