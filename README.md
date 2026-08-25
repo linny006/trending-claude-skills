@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anbeime/skill](https://github.com/anbeime/skill) | 5731 | Python | 2026-08-25 | 收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家 |
-| 2 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 414 | Python | 2026-08-25 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
-| 3 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 2 | HTML | 2026-08-25 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
-| 4 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 2 | HTML | 2026-08-25 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
-| 5 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 2 | HTML | 2026-08-25 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
-| 6 | [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 0 | Python | 2026-08-25 | Skills that started with problems I encountered. |
-| 7 | [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) | 6150 | Python | 2026-08-25 | Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests |
-| 8 | [Turki-Sh/Foreman](https://github.com/Turki-Sh/Foreman) | 23 | HTML | 2026-08-25 | A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design  |
-| 9 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-25 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 10 | [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) | 791 | Python | 2026-08-25 | 面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新 |
-| 11 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-25 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 12 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-25 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 13 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 33 | Python | 2026-08-25 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 33 | Python | 2026-08-25 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [anbeime/skill](https://github.com/anbeime/skill) | 5731 | Python | 2026-08-25 | 收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家 |
+| 3 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 414 | Python | 2026-08-25 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
+| 4 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 2 | HTML | 2026-08-25 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
+| 5 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 2 | HTML | 2026-08-25 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
+| 6 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 2 | HTML | 2026-08-25 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
+| 7 | [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 0 | Python | 2026-08-25 | Skills that started with problems I encountered. |
+| 8 | [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) | 6150 | Python | 2026-08-25 | Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests |
+| 9 | [Turki-Sh/Foreman](https://github.com/Turki-Sh/Foreman) | 23 | HTML | 2026-08-25 | A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design  |
+| 10 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-25 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 11 | [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) | 791 | Python | 2026-08-25 | 面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新 |
+| 12 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-25 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 13 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-25 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 14 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-25 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
 | 15 | [shimo4228/claude-harness](https://github.com/shimo4228/claude-harness) | 2 | Python | 2026-08-25 | Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness — open Agent Skills standard, not Claude- |
 | 16 | [sumitake/agent-collab](https://github.com/sumitake/agent-collab) | 0 | Python | 2026-08-25 | Unified dynamic-host agent collaboration policy and signed-runtime client |
