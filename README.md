@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 20:00 UTC
+> ⏰ Last updated: 2026-08-25 20:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-25 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 2 | [jposluns/cleanlanguage](https://github.com/jposluns/cleanlanguage) | 2 | HTML | 2026-08-25 | A free cross-platform editorial standard for AI writing. |
-| 3 | [andresnator/agents-orchestrator](https://github.com/andresnator/agents-orchestrator) | 0 | Shell | 2026-08-25 |  |
-| 4 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 24958 | Python | 2026-08-25 | 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references,  |
-| 5 | [jahidashok714-svg/fenjing-storyboard](https://github.com/jahidashok714-svg/fenjing-storyboard) | 0 | — | 2026-08-25 | 剧本/小说 → 专业分镜表（镜号·景别·运镜·台词·素材映射），一键导出即梦 Seedance / 可灵 Kling / Sora / Veo 提示词。Once storyboard, everywhere. |
-| 6 | [kotobuki09/instructree](https://github.com/kotobuki09/instructree) | 0 | JavaScript | 2026-08-25 | Map and lint AGENTS.md, CLAUDE.md, Copilot instructions, Agent Skills, and imports—with zero dependencies. |
-| 7 | [Romandredan/1c-quality-gate](https://github.com/Romandredan/1c-quality-gate) | 17 | JavaScript | 2026-08-25 | Контроль качества 1С-разработки для Claude Code: стандарты, принципы ООП и паттерны, XML метаданных, блокирующие гейты и |
-| 8 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-25 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 9 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-25 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 10 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-25 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 11 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-25 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 12 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-25 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 13 | [theAnirudhKumar/meeting-design](https://github.com/theAnirudhKumar/meeting-design) | 0 | — | 2026-08-25 | Design the meeting before you run it. An AI skill that names the decision, picks the decision rule, cuts the room, and p |
-| 14 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 31 | — | 2026-08-25 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
-| 15 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-25 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 16 | [onlymuneeb38-glitch/ios-agent-skills-evaluator](https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator) | 3 | HTML | 2026-08-25 | iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models |
-| 17 | [rlx/uplevel](https://github.com/rlx/uplevel) | 3 | Shell | 2026-08-25 | A Claude Code skill that finds the engineering controls your repository does not have — CI that never runs on pull reque |
-| 18 | [CSPulse/cs-skills](https://github.com/CSPulse/cs-skills) | 1 | — | 2026-08-25 | AI skills for customer success teams — renewal risk, business reviews, onboarding plans, post-call follow-ups and email  |
-| 19 | [theAnirudhKumar/skills](https://github.com/theAnirudhKumar/skills) | 0 | — | 2026-08-25 | AI skills for customer-facing work and long working sessions — post-call follow-ups, email critique, chat handoffs, toke |
-| 20 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-08-25 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
-| 21 | [chris-peterson/beacon](https://github.com/chris-peterson/beacon) | 1 | Python | 2026-08-25 | bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions — a terminal-agnostic fleet dashboard plu |
-| 22 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 33 | Python | 2026-08-25 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 33 | Python | 2026-08-25 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-25 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 3 | [jposluns/cleanlanguage](https://github.com/jposluns/cleanlanguage) | 2 | HTML | 2026-08-25 | A free cross-platform editorial standard for AI writing. |
+| 4 | [andresnator/agents-orchestrator](https://github.com/andresnator/agents-orchestrator) | 0 | Shell | 2026-08-25 |  |
+| 5 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 24958 | Python | 2026-08-25 | 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references,  |
+| 6 | [jahidashok714-svg/fenjing-storyboard](https://github.com/jahidashok714-svg/fenjing-storyboard) | 0 | — | 2026-08-25 | 剧本/小说 → 专业分镜表（镜号·景别·运镜·台词·素材映射），一键导出即梦 Seedance / 可灵 Kling / Sora / Veo 提示词。Once storyboard, everywhere. |
+| 7 | [kotobuki09/instructree](https://github.com/kotobuki09/instructree) | 0 | JavaScript | 2026-08-25 | Map and lint AGENTS.md, CLAUDE.md, Copilot instructions, Agent Skills, and imports—with zero dependencies. |
+| 8 | [Romandredan/1c-quality-gate](https://github.com/Romandredan/1c-quality-gate) | 17 | JavaScript | 2026-08-25 | Контроль качества 1С-разработки для Claude Code: стандарты, принципы ООП и паттерны, XML метаданных, блокирующие гейты и |
+| 9 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-25 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 10 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-25 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
+| 11 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-25 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 12 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-25 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 13 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-25 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 14 | [theAnirudhKumar/meeting-design](https://github.com/theAnirudhKumar/meeting-design) | 0 | — | 2026-08-25 | Design the meeting before you run it. An AI skill that names the decision, picks the decision rule, cuts the room, and p |
+| 15 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 31 | — | 2026-08-25 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
+| 16 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-25 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 17 | [onlymuneeb38-glitch/ios-agent-skills-evaluator](https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator) | 3 | HTML | 2026-08-25 | iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models |
+| 18 | [rlx/uplevel](https://github.com/rlx/uplevel) | 3 | Shell | 2026-08-25 | A Claude Code skill that finds the engineering controls your repository does not have — CI that never runs on pull reque |
+| 19 | [CSPulse/cs-skills](https://github.com/CSPulse/cs-skills) | 1 | — | 2026-08-25 | AI skills for customer success teams — renewal risk, business reviews, onboarding plans, post-call follow-ups and email  |
+| 20 | [theAnirudhKumar/skills](https://github.com/theAnirudhKumar/skills) | 0 | — | 2026-08-25 | AI skills for customer-facing work and long working sessions — post-call follow-ups, email critique, chat handoffs, toke |
+| 21 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-08-25 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
+| 22 | [chris-peterson/beacon](https://github.com/chris-peterson/beacon) | 1 | Python | 2026-08-25 | bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions — a terminal-agnostic fleet dashboard plu |
 | 23 | [ergrelet/windiff](https://github.com/ergrelet/windiff) | 390 | Rust | 2026-08-25 | Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions  |
 | 24 | [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 2223 | Rust | 2026-08-25 | A browser inside your terminal |
 | 25 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-25 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
