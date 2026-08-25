@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claude Code skills for Clean Code (Python, TypeScript, Java), idiomatic Go, and Gang of Four design patterns.",
+    "id": "CasLubbers/code-design-skills",
+    "language": "\u2014",
+    "name": "CasLubbers/code-design-skills",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:37:06Z",
+    "url": "https://github.com/CasLubbers/code-design-skills"
+  },
+  {
+    "description": "Build landing pages that don't read as templates: one authored moment derived from the page's own argument, a mechanical",
+    "id": "MartinOlivero/landing-moment",
+    "language": "\u2014",
+    "name": "MartinOlivero/landing-moment",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:35:49Z",
+    "url": "https://github.com/MartinOlivero/landing-moment"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68349,
+    "updated_at": "2026-08-25T14:32:31Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1501,
+    "updated_at": "2026-08-25T14:31:36Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "A Skill and CLI tool for Codex and Claude Code that converts images, PDFs, image-based PPTX files, and mixed PPTX files ",
+    "id": "DSY-Xueai/image2editable",
+    "language": "Python",
+    "name": "DSY-Xueai/image2editable",
+    "stars": 10,
+    "updated_at": "2026-08-25T14:30:38Z",
+    "url": "https://github.com/DSY-Xueai/image2editable"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 33,
+    "updated_at": "2026-08-25T14:30:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:24:27Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "An autonomous email triage and reply system built with Claude Code and Google Workspace CLI (gws).",
+    "id": "marian-kamenistak/claude-email-assistant",
+    "language": "Shell",
+    "name": "marian-kamenistak/claude-email-assistant",
+    "stars": 2,
+    "updated_at": "2026-08-25T14:24:19Z",
+    "url": "https://github.com/marian-kamenistak/claude-email-assistant"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -7,6 +79,24 @@
     "stars": 1,
     "updated_at": "2026-08-25T14:24:18Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Claude skill: is sponsoring an engineering community worth it? Build and price a partnership with Engineering Leaders Co",
+    "id": "marian-kamenistak/community-partnership-builder",
+    "language": "\u2014",
+    "name": "marian-kamenistak/community-partnership-builder",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:23:27Z",
+    "url": "https://github.com/marian-kamenistak/community-partnership-builder"
+  },
+  {
+    "description": "Language-agnostic AI workflow plugins for Claude Code and Codex. Every workflow is a skill.",
+    "id": "tony/skills",
+    "language": "Python",
+    "name": "tony/skills",
+    "stars": 2,
+    "updated_at": "2026-08-25T14:22:33Z",
+    "url": "https://github.com/tony/skills"
   },
   {
     "description": "AI Corner Store \ud83c\udfea \u2014 a small, curated shop of AI skills, plugins, and bundles for Claude. One folder per release, each in",
@@ -32,17 +122,17 @@
     "language": "TypeScript",
     "name": "INo-xious/stockbit-mcp",
     "stars": 6,
-    "updated_at": "2026-08-25T14:17:35Z",
+    "updated_at": "2026-08-25T14:43:04Z",
     "url": "https://github.com/INo-xious/stockbit-mcp"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 33,
-    "updated_at": "2026-08-25T14:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "Shell",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 1,
+    "updated_at": "2026-08-25T14:14:34Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -61,6 +151,15 @@
     "stars": 33,
     "updated_at": "2026-08-25T14:11:20Z",
     "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
+    "id": "johanthoren/jeff",
+    "language": "JavaScript",
+    "name": "johanthoren/jeff",
+    "stars": 3,
+    "updated_at": "2026-08-25T14:10:20Z",
+    "url": "https://github.com/johanthoren/jeff"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -149,7 +248,7 @@
     "language": "HTML",
     "name": "Rick-254/moodle-quizsmith",
     "stars": 0,
-    "updated_at": "2026-08-25T13:56:17Z",
+    "updated_at": "2026-08-25T14:36:30Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
@@ -275,7 +374,7 @@
     "language": "HTML",
     "name": "samuel85194-ux/tycana-claude-hivemind",
     "stars": 2,
-    "updated_at": "2026-08-25T13:50:35Z",
+    "updated_at": "2026-08-25T14:44:52Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
@@ -293,7 +392,7 @@
     "language": "HTML",
     "name": "AllyJuma1/easel-js-cpu-render-kit",
     "stars": 2,
-    "updated_at": "2026-08-25T13:49:52Z",
+    "updated_at": "2026-08-25T14:44:07Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
@@ -302,17 +401,8 @@
     "language": "HTML",
     "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "stars": 2,
-    "updated_at": "2026-08-25T13:49:01Z",
+    "updated_at": "2026-08-25T14:42:47Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
-    "id": "johanthoren/jeff",
-    "language": "JavaScript",
-    "name": "johanthoren/jeff",
-    "stars": 3,
-    "updated_at": "2026-08-25T14:10:20Z",
-    "url": "https://github.com/johanthoren/jeff"
   },
   {
     "description": "DeepSeek Harness \u4e13\u5c5e\u5de5\u7a0b\u6cbb\u7406\u63d2\u4ef6\uff5c\u539f\u521b\u4e09\u5c42\u95f8\u63a7\u4f53\u7cfb\u3001\u5e76\u884c\u5206\u8eab\u5bc4\u751f\u5de2\u3001\u53cc\u95f8\u68c0\u7d22\u524d\u7f6e\u300117\u6001\u6d41\u7a0b\u72b6\u6001\u673a\uff5cSource-Available \u6e90\u7801\u53ef\u89c1\uff0c\u7981\u6b62\u79c1\u81ea Fork \u5546\u7528",
@@ -347,7 +437,7 @@
     "language": "HTML",
     "name": "JhoseWolf/sageox-hivemind-engine",
     "stars": 2,
-    "updated_at": "2026-08-25T13:43:40Z",
+    "updated_at": "2026-08-25T14:38:59Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   },
   {
@@ -356,97 +446,7 @@
     "language": "HTML",
     "name": "ashfaquecg806-dot/symfony-ux-insights",
     "stars": 1,
-    "updated_at": "2026-08-25T13:43:27Z",
+    "updated_at": "2026-08-25T14:38:40Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-25T13:42:09Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-25T13:41:39Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-25T13:41:33Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-08-25T13:41:03Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-08-25T13:39:56Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-25T13:39:35Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-25T13:38:50Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-25T13:38:20Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 2,
-    "updated_at": "2026-08-25T13:38:08Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:29:25Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
