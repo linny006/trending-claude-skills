@@ -1,12 +1,30 @@
 [
   {
-    "description": "tia-cli - Drive Siemens TIA Portal from the command line via Openness. 99 verbs, dry-run by default. A Claude Code / AI ",
-    "id": "Codyte/Tia-Portal-CLI",
-    "language": "C#",
-    "name": "Codyte/Tia-Portal-CLI",
-    "stars": 2,
-    "updated_at": "2026-08-25T15:04:00Z",
-    "url": "https://github.com/Codyte/Tia-Portal-CLI"
+    "description": "Open-source AI agent skills for tai chi sword (\u592a\u6781\u5251) \u2014 selection, safety, technique, legal travel/ownership, health benef",
+    "id": "Jackxu1978/tai-chi-sword-skills",
+    "language": "\u2014",
+    "name": "Jackxu1978/tai-chi-sword-skills",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:07:06Z",
+    "url": "https://github.com/Jackxu1978/tai-chi-sword-skills"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 6325,
+    "updated_at": "2026-08-25T15:06:16Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30617,
+    "updated_at": "2026-08-25T15:14:26Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 33,
-    "updated_at": "2026-08-25T15:00:19Z",
+    "updated_at": "2026-08-25T15:05:42Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "tia-cli - Drive Siemens TIA Portal from the command line via Openness. 99 verbs, dry-run by default. A Claude Code / AI ",
+    "id": "Codyte/Tia-Portal-CLI",
+    "language": "C#",
+    "name": "Codyte/Tia-Portal-CLI",
+    "stars": 2,
+    "updated_at": "2026-08-25T15:10:05Z",
+    "url": "https://github.com/Codyte/Tia-Portal-CLI"
   },
   {
     "description": "Interface intelligence for agents that design, engineer, critique, and ship exceptional interfaces. Eleven Claude Code s",
@@ -25,6 +52,24 @@
     "stars": 0,
     "updated_at": "2026-08-25T15:02:20Z",
     "url": "https://github.com/Dragoon0x/10x-interface"
+  },
+  {
+    "description": "Interactive docs from plain text. Bio/chem visualizations, charts, and diagrams \u2014 anywhere Markdown works.",
+    "id": "vilas-gannaram/basemark",
+    "language": "TypeScript",
+    "name": "vilas-gannaram/basemark",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:01:32Z",
+    "url": "https://github.com/vilas-gannaram/basemark"
+  },
+  {
+    "description": "Claude Code skills for M5Stack firmware development \u2014 board pinouts, peripherals, and ESP32 chip capability references",
+    "id": "iot-forge/m5stack-skills",
+    "language": "Python",
+    "name": "iot-forge/m5stack-skills",
+    "stars": 1,
+    "updated_at": "2026-08-25T14:59:32Z",
+    "url": "https://github.com/iot-forge/m5stack-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -54,6 +99,15 @@
     "url": "https://github.com/CasLubbers/code-design-skills"
   },
   {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:52:45Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
     "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
     "id": "molefrog/moi",
     "language": "TypeScript",
@@ -63,6 +117,15 @@
     "url": "https://github.com/molefrog/moi"
   },
   {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 1,
+    "updated_at": "2026-08-25T14:52:05Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
     "id": "Ford-1/postgresql-mcp-connector",
     "language": "HTML",
@@ -70,6 +133,24 @@
     "stars": 0,
     "updated_at": "2026-08-25T14:51:18Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:51:05Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:51:00Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -135,6 +216,15 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-08-25T15:13:39Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
     "id": "samuel85194-ux/tycana-claude-hivemind",
     "language": "HTML",
@@ -176,7 +266,7 @@
     "language": "TypeScript",
     "name": "INo-xious/stockbit-mcp",
     "stars": 6,
-    "updated_at": "2026-08-25T14:43:04Z",
+    "updated_at": "2026-08-25T15:13:16Z",
     "url": "https://github.com/INo-xious/stockbit-mcp"
   },
   {
@@ -187,6 +277,24 @@
     "stars": 2,
     "updated_at": "2026-08-25T14:42:47Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 2,
+    "updated_at": "2026-08-25T14:38:59Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-08-25T14:38:40Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -315,15 +423,6 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6324,
-    "updated_at": "2026-08-25T14:26:42Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -347,106 +446,7 @@
     "language": "HTML",
     "name": "M1LL4r3S-Droid/notion-sync-nexus",
     "stars": 0,
-    "updated_at": "2026-08-25T14:24:27Z",
+    "updated_at": "2026-08-25T15:12:23Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "An autonomous email triage and reply system built with Claude Code and Google Workspace CLI (gws).",
-    "id": "marian-kamenistak/claude-email-assistant",
-    "language": "Shell",
-    "name": "marian-kamenistak/claude-email-assistant",
-    "stars": 2,
-    "updated_at": "2026-08-25T14:24:19Z",
-    "url": "https://github.com/marian-kamenistak/claude-email-assistant"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-25T14:24:18Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:23:35Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Claude skill: is sponsoring an engineering community worth it? Build and price a partnership with Engineering Leaders Co",
-    "id": "marian-kamenistak/community-partnership-builder",
-    "language": "\u2014",
-    "name": "marian-kamenistak/community-partnership-builder",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:49:58Z",
-    "url": "https://github.com/marian-kamenistak/community-partnership-builder"
-  },
-  {
-    "description": "Language-agnostic AI workflow plugins for Claude Code and Codex. Every workflow is a skill.",
-    "id": "tony/skills",
-    "language": "Python",
-    "name": "tony/skills",
-    "stars": 2,
-    "updated_at": "2026-08-25T14:46:50Z",
-    "url": "https://github.com/tony/skills"
-  },
-  {
-    "description": "AI Corner Store \ud83c\udfea \u2014 a small, curated shop of AI skills, plugins, and bundles for Claude. One folder per release, each in",
-    "id": "sorensensig/ai-corner-store",
-    "language": "Python",
-    "name": "sorensensig/ai-corner-store",
-    "stars": 9,
-    "updated_at": "2026-08-25T14:21:04Z",
-    "url": "https://github.com/sorensensig/ai-corner-store"
-  },
-  {
-    "description": "Jeffy Loop is an autonomous audit-and-fix loop for Claude Code. A shell Stop hook re-feeds the agent its own plan, backl",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 5,
-    "updated_at": "2026-08-25T14:18:12Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "Shell",
-    "name": "SteveKinzey/claude-code-tools-installer",
-    "stars": 1,
-    "updated_at": "2026-08-25T15:02:20Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-08-25T14:11:56Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 33,
-    "updated_at": "2026-08-25T14:11:20Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
-    "id": "johanthoren/jeff",
-    "language": "JavaScript",
-    "name": "johanthoren/jeff",
-    "stars": 3,
-    "updated_at": "2026-08-25T15:02:59Z",
-    "url": "https://github.com/johanthoren/jeff"
   }
 ]
