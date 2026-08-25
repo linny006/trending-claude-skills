@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 10:12 UTC
+> ⏰ Last updated: 2026-08-25 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1308 | HTML | 2026-08-25 | 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a di |
-| 2 | [SearchCans/searchcans-skills-zh](https://github.com/SearchCans/searchcans-skills-zh) | 3 | Python | 2026-08-25 | 官方简体中文 Agent Skills for SearchCans SERP API、Reader API 与 Account API：深度研究、SEO/GEO 内容差距分析与网页提取审计。 |
-| 3 | [SearchCans/searchcans-skills](https://github.com/SearchCans/searchcans-skills) | 3 | Python | 2026-08-25 | Official SearchCans Agent Skills for deep research, SERP intelligence, and web-to-Markdown workflows. |
-| 4 | [dtsola/xiaoyaoclaw-workspace-initializer](https://github.com/dtsola/xiaoyaoclaw-workspace-initializer) | 3 | — | 2026-08-25 | 给每个 OpenClaw agent 一个「家」：标准目录结构 + WORKSPACE.md 规范 + 多 agent 配置安全。 OpenClaw workspace initialization & standardization —  |
-| 5 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 2 | HTML | 2026-08-25 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
-| 6 | [CitiesSkylinesModding/agents-plugins](https://github.com/CitiesSkylinesModding/agents-plugins) | 5 | C# | 2026-08-25 | 🤖 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills |
-| 7 | [ayukyo/icode-skill](https://github.com/ayukyo/icode-skill) | 3 | Python | 2026-08-25 | A 6-step coding workflow for Claude Code — Plan → Review → Finalize → Code → Deep Check → Audit. Run all at once or step |
-| 8 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68341 | TypeScript | 2026-08-25 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 9 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-25 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 10 | [tms-tungnguyen3/daily_working](https://github.com/tms-tungnguyen3/daily_working) | 5 | — | 2026-08-25 | End-to-end pipeline |
-| 11 | [liustack/pptwise](https://github.com/liustack/pptwise) | 8 | TypeScript | 2026-08-25 | A real PowerPoint file. Not a picture of one. Tell your AI what to cover and pptwise builds an editable deck on your own |
-| 12 | [christopherswarup/portfolio](https://github.com/christopherswarup/portfolio) | 0 | — | 2026-08-25 | Revenue Systems, GTM Operations, Applied AI — plus a public GTM Skills library for Claude (demand classification, target |
-| 13 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 33 | Python | 2026-08-25 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 33 | Python | 2026-08-25 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1308 | HTML | 2026-08-25 | 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a di |
+| 3 | [SearchCans/searchcans-skills-zh](https://github.com/SearchCans/searchcans-skills-zh) | 3 | Python | 2026-08-25 | 官方简体中文 Agent Skills for SearchCans SERP API、Reader API 与 Account API：深度研究、SEO/GEO 内容差距分析与网页提取审计。 |
+| 4 | [SearchCans/searchcans-skills](https://github.com/SearchCans/searchcans-skills) | 3 | Python | 2026-08-25 | Official SearchCans Agent Skills for deep research, SERP intelligence, and web-to-Markdown workflows. |
+| 5 | [dtsola/xiaoyaoclaw-workspace-initializer](https://github.com/dtsola/xiaoyaoclaw-workspace-initializer) | 3 | — | 2026-08-25 | 给每个 OpenClaw agent 一个「家」：标准目录结构 + WORKSPACE.md 规范 + 多 agent 配置安全。 OpenClaw workspace initialization & standardization —  |
+| 6 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 2 | HTML | 2026-08-25 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
+| 7 | [CitiesSkylinesModding/agents-plugins](https://github.com/CitiesSkylinesModding/agents-plugins) | 5 | C# | 2026-08-25 | 🤖 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills |
+| 8 | [ayukyo/icode-skill](https://github.com/ayukyo/icode-skill) | 3 | Python | 2026-08-25 | A 6-step coding workflow for Claude Code — Plan → Review → Finalize → Code → Deep Check → Audit. Run all at once or step |
+| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68341 | TypeScript | 2026-08-25 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 10 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-25 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 11 | [tms-tungnguyen3/daily_working](https://github.com/tms-tungnguyen3/daily_working) | 5 | — | 2026-08-25 | End-to-end pipeline |
+| 12 | [liustack/pptwise](https://github.com/liustack/pptwise) | 8 | TypeScript | 2026-08-25 | A real PowerPoint file. Not a picture of one. Tell your AI what to cover and pptwise builds an editable deck on your own |
+| 13 | [christopherswarup/portfolio](https://github.com/christopherswarup/portfolio) | 0 | — | 2026-08-25 | Revenue Systems, GTM Operations, Applied AI — plus a public GTM Skills library for Claude (demand classification, target |
 | 14 | [Stewie-pixel/claude-with-leetcode](https://github.com/Stewie-pixel/claude-with-leetcode) | 84 | C++ | 2026-08-25 | Daily Leetcode masterclass with Claude code DSA mentor |
 | 15 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-25 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
 | 16 | [0x-man/mindmap-skill](https://github.com/0x-man/mindmap-skill) | 12 | — | 2026-08-25 | Generate interactive mind maps in Claude — with a knowledge atlas, Markmap export, and Claude Code plugin |
