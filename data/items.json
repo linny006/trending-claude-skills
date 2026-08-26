@@ -1,5 +1,59 @@
 [
   {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 31,
+    "updated_at": "2026-08-26T15:00:14Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Advanced Vedic Astrology AI prompts for ChatGPT, Claude, Gemini, Grok, DeepSeek and other LLMs. Analyze Kundli, Parashar",
+    "id": "Vedic-Astrology-Space/vedic-astrology-ai-prompts",
+    "language": "\u2014",
+    "name": "Vedic-Astrology-Space/vedic-astrology-ai-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:55:57Z",
+    "url": "https://github.com/Vedic-Astrology-Space/vedic-astrology-ai-prompts"
+  },
+  {
+    "description": "Build landing pages that don't read as templates: one authored moment derived from the page's own argument, a mechanical",
+    "id": "MartinOlivero/landing-moment",
+    "language": "JavaScript",
+    "name": "MartinOlivero/landing-moment",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:55:52Z",
+    "url": "https://github.com/MartinOlivero/landing-moment"
+  },
+  {
+    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 25010,
+    "updated_at": "2026-08-26T14:52:41Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 33,
+    "updated_at": "2026-08-26T14:52:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "zenstory-ai/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "zenstory-ai/oh-story-claudecode",
+    "stars": 6108,
+    "updated_at": "2026-08-26T14:52:05Z",
+    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
+  },
+  {
     "description": "Claude Code plugin: 3D asset pipeline from text brief to production GLB \u2014 Blender MCP, Hunyuan3D, texturing, batch mode",
     "id": "elithril/blender-kiln",
     "language": "Python",
@@ -9,6 +63,15 @@
     "url": "https://github.com/elithril/blender-kiln"
   },
   {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:49:05Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
     "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
     "id": "andrian-syh/roblox-best-practices-skill",
     "language": "JavaScript",
@@ -16,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-08-26T14:48:18Z",
     "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 33,
-    "updated_at": "2026-08-26T14:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "This is an AI coding agent Skill that provides framework-agnostic project memory, enabling agents to preserve architectu",
@@ -54,6 +108,15 @@
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   },
   {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-08-26T14:38:33Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
     "description": "Stop your AI agent from lying about tests. Hierarchical engineering loops with machine-checkable proof gates.",
     "id": "winterbim/wincreator",
     "language": "Python",
@@ -74,7 +137,7 @@
   {
     "description": "PowerShell library, Claude skills and a pitfalls catalogue for the Pennylane Company API v2 (multi-company)",
     "id": "Xileades/pennylane-api-toolkit",
-    "language": "\u2014",
+    "language": "PowerShell",
     "name": "Xileades/pennylane-api-toolkit",
     "stars": 0,
     "updated_at": "2026-08-26T14:36:35Z",
@@ -88,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T14:36:04Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-08-26T14:36:00Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
     "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
@@ -113,8 +185,26 @@
     "language": "Python",
     "name": "ooooooooooooooooooop/agent-tools",
     "stars": 2,
-    "updated_at": "2026-08-26T14:34:56Z",
+    "updated_at": "2026-08-26T14:53:19Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-08-26T14:32:51Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 53,
+    "updated_at": "2026-08-26T14:32:44Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
     "description": "taxue \u7684\u4e13\u4e1a\u6295\u8d44\u5206\u6790 skill",
@@ -144,13 +234,13 @@
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
-    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 25008,
-    "updated_at": "2026-08-26T14:41:34Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:29:05Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -184,7 +274,7 @@
     "id": "reticlehq/reticle",
     "language": "TypeScript",
     "name": "reticlehq/reticle",
-    "stars": 352,
+    "stars": 353,
     "updated_at": "2026-08-26T14:24:37Z",
     "url": "https://github.com/reticlehq/reticle"
   },
@@ -205,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T14:24:12Z",
     "url": "https://github.com/suyukun/dsh-plugin-publish"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 31,
-    "updated_at": "2026-08-26T14:23:46Z",
-    "url": "https://github.com/Servosity/msp-skills"
   },
   {
     "description": "A spec-driven harness for coding agents (and, humans)",
@@ -320,7 +401,7 @@
     "language": "HTML",
     "name": "Darkmalan-1987/sparring-reason",
     "stars": 1,
-    "updated_at": "2026-08-26T14:09:25Z",
+    "updated_at": "2026-08-26T14:59:20Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T14:05:51Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-08-26T14:03:16Z",
-    "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "Claude Code skill that triages Dependabot vulnerability alerts before a fix PR exists, checking real exploitability in y",
-    "id": "iamravenous/dependabot-alert-review-skill",
-    "language": "Python",
-    "name": "iamravenous/dependabot-alert-review-skill",
-    "stars": 1,
-    "updated_at": "2026-08-26T14:03:01Z",
-    "url": "https://github.com/iamravenous/dependabot-alert-review-skill"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-26T14:02:11Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-26T14:45:24Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
-    "id": "gagip/gagip-dev",
-    "language": "Python",
-    "name": "gagip/gagip-dev",
-    "stars": 0,
-    "updated_at": "2026-08-26T14:01:55Z",
-    "url": "https://github.com/gagip/gagip-dev"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68392,
-    "updated_at": "2026-08-26T14:00:38Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:59:34Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:58:51Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:58:42Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   }
 ]
