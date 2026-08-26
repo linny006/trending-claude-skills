@@ -1,11 +1,29 @@
 [
   {
+    "description": "Provenance at the value level for Python and JS: mock-taint and confidence propagate through derived results and can't b",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-08-26T22:40:27Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-26T22:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Reusable procedures that make your AI handle recurring work the same good way every time. Paste one prompt; it recommend",
     "id": "TechNickAI/hermes-skills",
     "language": "Python",
     "name": "TechNickAI/hermes-skills",
     "stars": 0,
-    "updated_at": "2026-08-26T22:27:15Z",
+    "updated_at": "2026-08-26T22:39:24Z",
     "url": "https://github.com/TechNickAI/hermes-skills"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 33,
     "updated_at": "2026-08-26T22:23:34Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-26T22:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
@@ -45,6 +54,15 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
+    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
+    "id": "galleonlabs/hypergrok-trading-desk",
+    "language": "Python",
+    "name": "galleonlabs/hypergrok-trading-desk",
+    "stars": 13,
+    "updated_at": "2026-08-26T22:11:34Z",
+    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
+  },
+  {
     "description": "Claude Code slash commands for rigorous Socratic analysis of documents",
     "id": "ds1/probe",
     "language": "PowerShell",
@@ -52,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T22:11:19Z",
     "url": "https://github.com/ds1/probe"
-  },
-  {
-    "description": "Provenance at the value level for Python and JS: mock-taint and confidence propagate through derived results and can't b",
-    "id": "slopstopper/plumb-line",
-    "language": "Python",
-    "name": "slopstopper/plumb-line",
-    "stars": 4,
-    "updated_at": "2026-08-26T22:10:15Z",
-    "url": "https://github.com/slopstopper/plumb-line"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -122,7 +131,7 @@
     "language": "JavaScript",
     "name": "fedec65/bettercallclaude",
     "stars": 36,
-    "updated_at": "2026-08-26T21:50:53Z",
+    "updated_at": "2026-08-26T22:40:31Z",
     "url": "https://github.com/fedec65/bettercallclaude"
   },
   {
@@ -234,6 +243,15 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-08-26T21:27:30Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
     "description": "Das KI-Mitarbeiter Starter-Kit: 23 deutsche Claude Skills f\u00fcr Selbst\u00e4ndige und kleine Unternehmen (Claude Plugin)",
     "id": "fabio-baumgartner/unternehmer-skills",
     "language": "\u2014",
@@ -320,7 +338,7 @@
     "language": "Go",
     "name": "Servosity/msp-skills",
     "stars": 32,
-    "updated_at": "2026-08-26T22:16:43Z",
+    "updated_at": "2026-08-26T22:41:34Z",
     "url": "https://github.com/Servosity/msp-skills"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 429,
-    "updated_at": "2026-08-26T22:25:46Z",
+    "updated_at": "2026-08-26T22:39:34Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T20:35:15Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 355,
-    "updated_at": "2026-08-26T20:34:07Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-08-26T20:30:38Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   }
 ]
