@@ -1,5 +1,32 @@
 [
   {
+    "description": "UX research and UI design skill for Claude Code: surface-class-aware audits, WCAG 2.2 checks, visual craft, research met",
+    "id": "ahammadnafiz/uxi",
+    "language": "\u2014",
+    "name": "ahammadnafiz/uxi",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:14:20Z",
+    "url": "https://github.com/ahammadnafiz/uxi"
+  },
+  {
+    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
+    "id": "chris-peterson/beacon",
+    "language": "Python",
+    "name": "chris-peterson/beacon",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:13:51Z",
+    "url": "https://github.com/chris-peterson/beacon"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-26T19:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code slash commands for rigorous Socratic analysis of documents",
     "id": "ds1/socratic-probes",
     "language": "PowerShell",
@@ -18,6 +45,15 @@
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:49:27Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
     "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
     "id": "OKHP3/skillz",
     "language": "TypeScript",
@@ -25,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T18:48:20Z",
     "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
-    "id": "chris-peterson/beacon",
-    "language": "Python",
-    "name": "chris-peterson/beacon",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:48:10Z",
-    "url": "https://github.com/chris-peterson/beacon"
   },
   {
     "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
@@ -50,7 +77,7 @@
     "language": "JavaScript",
     "name": "johanthoren/jeff",
     "stars": 3,
-    "updated_at": "2026-08-26T18:46:17Z",
+    "updated_at": "2026-08-26T19:13:59Z",
     "url": "https://github.com/johanthoren/jeff"
   },
   {
@@ -72,15 +99,6 @@
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-26T18:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
     "id": "Vladimir-Human/humanizer-ru",
     "language": "Python",
@@ -99,13 +117,13 @@
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:49:27Z",
-    "url": "https://github.com/filippolmt/skills"
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-26T18:35:43Z",
+    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Chinese exam-prep skills for AI coding agents (Claude Code / Agent Skills spec)",
@@ -124,6 +142,15 @@
     "stars": 10,
     "updated_at": "2026-08-26T18:32:23Z",
     "url": "https://github.com/ericluo04/claude-academic-workflow"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-08-26T18:31:27Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
     "description": "The nifi-and-ai Claude skill \u2014 build, deploy, and debug Apache NiFi 2.x / MiNiFi / EFM data flows",
@@ -160,6 +187,24 @@
     "stars": 2,
     "updated_at": "2026-08-26T18:30:16Z",
     "url": "https://github.com/bridgenode-ai/bridgenode-skill"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:27:45Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:27:32Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -320,7 +365,7 @@
     "language": "HTML",
     "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 1,
-    "updated_at": "2026-08-26T17:50:32Z",
+    "updated_at": "2026-08-26T19:13:31Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 3,
-    "updated_at": "2026-08-26T18:42:16Z",
+    "updated_at": "2026-08-26T19:07:25Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:44:58Z",
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:43:08Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:43:03Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:40:02Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:39:47Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:39:00Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
   }
 ]
