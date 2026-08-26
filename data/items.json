@@ -5,7 +5,7 @@
     "language": "\u2014",
     "name": "CSPulse/customer-success-skills",
     "stars": 1,
-    "updated_at": "2026-08-26T20:57:06Z",
+    "updated_at": "2026-08-26T21:14:38Z",
     "url": "https://github.com/CSPulse/customer-success-skills"
   },
   {
@@ -14,8 +14,35 @@
     "language": "\u2014",
     "name": "fabio-baumgartner/unternehmer-skills",
     "stars": 0,
-    "updated_at": "2026-08-26T20:54:38Z",
+    "updated_at": "2026-08-26T21:13:22Z",
     "url": "https://github.com/fabio-baumgartner/unternehmer-skills"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30626,
+    "updated_at": "2026-08-26T21:09:22Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 91936,
+    "updated_at": "2026-08-26T21:02:03Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "AI-powered design system generation for coding agents",
+    "id": "Mert-byt/Better-UI-UX",
+    "language": "TypeScript",
+    "name": "Mert-byt/Better-UI-UX",
+    "stars": 0,
+    "updated_at": "2026-08-26T21:01:20Z",
+    "url": "https://github.com/Mert-byt/Better-UI-UX"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -23,8 +50,35 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 34,
-    "updated_at": "2026-08-26T20:45:15Z",
+    "updated_at": "2026-08-26T21:00:13Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "CLI & library to faithfully translate coding agent customizations across harnesses",
+    "id": "Texarkanine/a16n",
+    "language": "TypeScript",
+    "name": "Texarkanine/a16n",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:49:34Z",
+    "url": "https://github.com/Texarkanine/a16n"
+  },
+  {
+    "description": "Agent skill + manifesto to audit and clean up test suites: detect test smells and refactor safely",
+    "id": "Texarkanine/slobac",
+    "language": "Python",
+    "name": "Texarkanine/slobac",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:49:20Z",
+    "url": "https://github.com/Texarkanine/slobac"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
+    "id": "Vladimir-Human/humanizer-ru",
+    "language": "Python",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 117,
+    "updated_at": "2026-08-26T20:45:14Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
     "description": "Claude Code skill toolkit for SDLC modernization in regulated environments \u2014 research digests, Copilot/GHAS governance, ",
@@ -45,21 +99,12 @@
     "url": "https://github.com/jackneil/claude-jacked"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 91932,
-    "updated_at": "2026-08-26T20:50:31Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
     "id": "Servosity/msp-skills",
     "language": "Go",
     "name": "Servosity/msp-skills",
     "stars": 32,
-    "updated_at": "2026-08-26T20:53:11Z",
+    "updated_at": "2026-08-26T21:11:33Z",
     "url": "https://github.com/Servosity/msp-skills"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T20:35:15Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 117,
-    "updated_at": "2026-08-26T20:45:14Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
@@ -122,8 +158,17 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 3,
-    "updated_at": "2026-08-26T20:44:16Z",
+    "updated_at": "2026-08-26T21:14:34Z",
     "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 399,
+    "updated_at": "2026-08-26T20:26:46Z",
+    "url": "https://github.com/tobihagemann/turbo"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -133,6 +178,15 @@
     "stars": 22,
     "updated_at": "2026-08-26T20:26:00Z",
     "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-08-26T20:25:54Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
     "description": "Set of skills for globalizing and localizing app",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T20:57:34Z",
     "url": "https://github.com/mosofin/mosofin-finance-skills"
-  },
-  {
-    "description": "AI-powered design system generation for coding agents",
-    "id": "Mert-byt/Better-UI-UX",
-    "language": "TypeScript",
-    "name": "Mert-byt/Better-UI-UX",
-    "stars": 0,
-    "updated_at": "2026-08-26T20:19:43Z",
-    "url": "https://github.com/Mert-byt/Better-UI-UX"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -324,15 +369,6 @@
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30627,
-    "updated_at": "2026-08-26T20:52:02Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "",
     "id": "Sahil2004/skills",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T19:13:51Z",
     "url": "https://github.com/chris-peterson/beacon"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-26T19:13:31Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:10:55Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-26T19:08:45Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:08:32Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   }
 ]
