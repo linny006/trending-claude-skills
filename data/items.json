@@ -1,5 +1,86 @@
 [
   {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 16,
+    "updated_at": "2026-08-26T21:42:02Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "AI skills for customer success teams \u2014 renewal risk, business reviews, onboarding plans, post-call follow-ups and email ",
+    "id": "CSPulse/customer-success-skills",
+    "language": "\u2014",
+    "name": "CSPulse/customer-success-skills",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:41:56Z",
+    "url": "https://github.com/CSPulse/customer-success-skills"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 2,
+    "updated_at": "2026-08-26T21:35:02Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:34:54Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 13,
+    "updated_at": "2026-08-26T21:33:14Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-08-26T21:32:30Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:31:16Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-08-26T21:31:12Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-26T21:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
     "id": "jasonm4130/claude-skills",
     "language": "JavaScript",
@@ -7,6 +88,15 @@
     "stars": 5,
     "updated_at": "2026-08-26T21:29:26Z",
     "url": "https://github.com/jasonm4130/claude-skills"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:29:26Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
     "description": "Das KI-Mitarbeiter Starter-Kit: 23 deutsche Claude Skills f\u00fcr Selbst\u00e4ndige und kleine Unternehmen (Claude Plugin)",
@@ -27,11 +117,29 @@
     "url": "https://github.com/jackneil/claude-jacked"
   },
   {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-08-26T21:22:34Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-26T21:42:04Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 91937,
+    "stars": 91939,
     "updated_at": "2026-08-26T21:18:44Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -43,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T21:16:42Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-26T21:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "AI skills for customer success teams \u2014 renewal risk, business reviews, onboarding plans, post-call follow-ups and email ",
-    "id": "CSPulse/customer-success-skills",
-    "language": "\u2014",
-    "name": "CSPulse/customer-success-skills",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:14:38Z",
-    "url": "https://github.com/CSPulse/customer-success-skills"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -122,7 +212,7 @@
     "language": "\u2014",
     "name": "mosofin/mosofin-finance-skills",
     "stars": 0,
-    "updated_at": "2026-08-26T20:57:34Z",
+    "updated_at": "2026-08-26T21:41:58Z",
     "url": "https://github.com/mosofin/mosofin-finance-skills"
   },
   {
@@ -167,7 +257,7 @@
     "language": "Python",
     "name": "Vladimir-Human/humanizer-ru",
     "stars": 117,
-    "updated_at": "2026-08-26T20:45:14Z",
+    "updated_at": "2026-08-26T21:44:09Z",
     "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
@@ -178,6 +268,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T20:44:46Z",
     "url": "https://github.com/themarmack/research-bot"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:39:55Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -275,7 +374,7 @@
     "language": "Python",
     "name": "slopstopper/plumb-line",
     "stars": 4,
-    "updated_at": "2026-08-26T20:24:14Z",
+    "updated_at": "2026-08-26T21:42:11Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T19:59:45Z",
     "url": "https://github.com/dayvisonassis/sdd-skills"
-  },
-  {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6412,
-    "updated_at": "2026-08-26T19:58:50Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:58:42Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-26T19:58:40Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Ask it for a fake countdown timer and it says no. A UX and accessibility skill for Claude Code: surface-class-aware audi",
-    "id": "ahammadnafiz/uxi",
-    "language": "Python",
-    "name": "ahammadnafiz/uxi",
-    "stars": 2,
-    "updated_at": "2026-08-26T19:56:41Z",
-    "url": "https://github.com/ahammadnafiz/uxi"
-  },
-  {
-    "description": "Claude Code skill: agent-first house standard for modern web frontends \u2014 stack, data, state, styling, security, logging,",
-    "id": "Amir-Abushanab/modern-frontend-architecture",
-    "language": "JavaScript",
-    "name": "Amir-Abushanab/modern-frontend-architecture",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:55:08Z",
-    "url": "https://github.com/Amir-Abushanab/modern-frontend-architecture"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-08-26T19:48:12Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Give your CLAUDE.md / AGENTS.md a checkup \u2014 audit size vitals, dead references, drifted claims, and backtest every rule ",
-    "id": "agent-clinic/claude-md-doctor",
-    "language": "Python",
-    "name": "agent-clinic/claude-md-doctor",
-    "stars": 4,
-    "updated_at": "2026-08-26T19:46:59Z",
-    "url": "https://github.com/agent-clinic/claude-md-doctor"
-  },
-  {
-    "description": "Claude Code slash commands for rigorous Socratic analysis of documents",
-    "id": "ds1/probe",
-    "language": "PowerShell",
-    "name": "ds1/probe",
-    "stars": 2,
-    "updated_at": "2026-08-26T19:41:55Z",
-    "url": "https://github.com/ds1/probe"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 35,
-    "updated_at": "2026-08-26T19:37:36Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 16,
-    "updated_at": "2026-08-26T19:36:52Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "",
-    "id": "Sahil2004/skills",
-    "language": "Python",
-    "name": "Sahil2004/skills",
-    "stars": 1,
-    "updated_at": "2026-08-26T19:27:43Z",
-    "url": "https://github.com/Sahil2004/skills"
   }
 ]
