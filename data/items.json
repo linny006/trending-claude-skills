@@ -1,12 +1,102 @@
 [
   {
+    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
+    "id": "andrian-syh/roblox-best-practices-skill",
+    "language": "JavaScript",
+    "name": "andrian-syh/roblox-best-practices-skill",
+    "stars": 4,
+    "updated_at": "2026-08-26T04:14:20Z",
+    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
+  },
+  {
+    "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple gr",
+    "id": "bitjaru/styleseed",
+    "language": "TypeScript",
+    "name": "bitjaru/styleseed",
+    "stars": 922,
+    "updated_at": "2026-08-26T04:12:42Z",
+    "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-08-26T04:11:00Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-08-26T04:10:08Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-26T04:06:36Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Universal AI Agent Skill for BrowserOS browser automation and 40+ SaaS integrations via Streamable HTTP MCP (Antigravity",
+    "id": "psthi/browseros-skill",
+    "language": "Python",
+    "name": "psthi/browseros-skill",
+    "stars": 0,
+    "updated_at": "2026-08-26T04:06:24Z",
+    "url": "https://github.com/psthi/browseros-skill"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-26T04:06:21Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Free skills to read medical-device tenders and datasheets. Attach a PDF and ask \u2014 no account. \u514d\u8d39\u8bfb\u6807\u4e66/\u8bf4\u660e\u4e66\uff0c\u628a PDF \u4e22\u8fdb\u5bf9\u8bdd\u5373\u53ef\uff0c\u4e0d\u7528\u6ce8",
+    "id": "Leon-SG/orbid-skills",
+    "language": "\u2014",
+    "name": "Leon-SG/orbid-skills",
+    "stars": 1,
+    "updated_at": "2026-08-26T04:05:02Z",
+    "url": "https://github.com/Leon-SG/orbid-skills"
+  },
+  {
+    "description": "tia-cli - Drive Siemens TIA Portal from the command line via Openness. 99 verbs, dry-run by default. A Claude Code / AI ",
+    "id": "Codyte/Tia-Portal-CLI",
+    "language": "C#",
+    "name": "Codyte/Tia-Portal-CLI",
+    "stars": 2,
+    "updated_at": "2026-08-26T04:03:59Z",
+    "url": "https://github.com/Codyte/Tia-Portal-CLI"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 33,
-    "updated_at": "2026-08-26T04:00:13Z",
+    "updated_at": "2026-08-26T04:03:31Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-26T04:03:16Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -18,15 +108,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Free skills to read medical-device tenders and datasheets. Attach a PDF and ask \u2014 no account. \u514d\u8d39\u8bfb\u6807\u4e66/\u8bf4\u660e\u4e66\uff0c\u628a PDF \u4e22\u8fdb\u5bf9\u8bdd\u5373\u53ef\uff0c\u4e0d\u7528\u6ce8",
-    "id": "Leon-SG/orbid-skills",
-    "language": "\u2014",
-    "name": "Leon-SG/orbid-skills",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:59:56Z",
-    "url": "https://github.com/Leon-SG/orbid-skills"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -36,15 +117,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "tia-cli - Drive Siemens TIA Portal from the command line via Openness. 99 verbs, dry-run by default. A Claude Code / AI ",
-    "id": "Codyte/Tia-Portal-CLI",
-    "language": "C#",
-    "name": "Codyte/Tia-Portal-CLI",
-    "stars": 2,
-    "updated_at": "2026-08-26T03:58:45Z",
-    "url": "https://github.com/Codyte/Tia-Portal-CLI"
-  },
-  {
     "description": "117 \u0441\u043a\u0438\u043b\u043e\u0432 \u0438 40 \u043f\u0440\u0430\u0432\u0438\u043b \u0434\u043b\u044f Claude Code: \u0430\u0433\u0435\u043d\u0442 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0438\u0441\u0445\u043e\u0434\u043d\u0438\u043a\u0438 1\u0421 (\u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435, \u0444\u043e\u0440\u043c\u044b, \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f, \u0440\u043e\u043b\u0438, \u0421\u041a\u0414, \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
     "id": "Desko77/claude-code-skills-1c",
     "language": "Python",
@@ -52,15 +124,6 @@
     "stars": 50,
     "updated_at": "2026-08-26T03:58:01Z",
     "url": "https://github.com/Desko77/claude-code-skills-1c"
-  },
-  {
-    "description": "Universal AI Agent Skill for BrowserOS browser automation and 40+ SaaS integrations via Streamable HTTP MCP (Antigravity",
-    "id": "psthi/browseros-skill",
-    "language": "Python",
-    "name": "psthi/browseros-skill",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:55:41Z",
-    "url": "https://github.com/psthi/browseros-skill"
   },
   {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "astroicers/skill-quality-research",
     "stars": 0,
-    "updated_at": "2026-08-26T03:50:09Z",
+    "updated_at": "2026-08-26T04:11:44Z",
     "url": "https://github.com/astroicers/skill-quality-research"
   },
   {
@@ -297,15 +360,6 @@
     "url": "https://github.com/close-shellflower7762/e2e-tester"
   },
   {
-    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
-    "id": "andrian-syh/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "andrian-syh/roblox-best-practices-skill",
-    "stars": 4,
-    "updated_at": "2026-08-26T03:44:52Z",
-    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:43:35Z",
     "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
-  },
-  {
-    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
-    "id": "Defiladeboarfish90/agent-memory",
-    "language": "TypeScript",
-    "name": "Defiladeboarfish90/agent-memory",
-    "stars": 2,
-    "updated_at": "2026-08-26T03:43:33Z",
-    "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-08-26T03:43:28Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
-  },
-  {
-    "description": "Explore Claude Code CLI source code for learning, analysis, and TypeScript Bun CLI tool design",
-    "id": "tapperisobar941/claude-code-cli",
-    "language": "\u2014",
-    "name": "tapperisobar941/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:43:21Z",
-    "url": "https://github.com/tapperisobar941/claude-code-cli"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-26T03:43:13Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Use Codex in Claude Code for code reviews and delegated tasks with background job control",
-    "id": "carolafortified787/codex-plugin-cc",
-    "language": "JavaScript",
-    "name": "carolafortified787/codex-plugin-cc",
-    "stars": 1,
-    "updated_at": "2026-08-26T03:43:13Z",
-    "url": "https://github.com/carolafortified787/codex-plugin-cc"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-08-26T04:02:56Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   }
 ]
