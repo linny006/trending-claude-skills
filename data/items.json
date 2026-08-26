@@ -1,5 +1,59 @@
 [
   {
+    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
+    "id": "jasonm4130/claude-skills",
+    "language": "JavaScript",
+    "name": "jasonm4130/claude-skills",
+    "stars": 5,
+    "updated_at": "2026-08-26T21:29:26Z",
+    "url": "https://github.com/jasonm4130/claude-skills"
+  },
+  {
+    "description": "Das KI-Mitarbeiter Starter-Kit: 23 deutsche Claude Skills f\u00fcr Selbst\u00e4ndige und kleine Unternehmen (Claude Plugin)",
+    "id": "fabio-baumgartner/unternehmer-skills",
+    "language": "\u2014",
+    "name": "fabio-baumgartner/unternehmer-skills",
+    "stars": 0,
+    "updated_at": "2026-08-26T21:26:54Z",
+    "url": "https://github.com/fabio-baumgartner/unternehmer-skills"
+  },
+  {
+    "description": "Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co",
+    "id": "jackneil/claude-jacked",
+    "language": "Python",
+    "name": "jackneil/claude-jacked",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:23:29Z",
+    "url": "https://github.com/jackneil/claude-jacked"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 91937,
+    "updated_at": "2026-08-26T21:18:44Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-08-26T21:16:42Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-26T21:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI skills for customer success teams \u2014 renewal risk, business reviews, onboarding plans, post-call follow-ups and email ",
     "id": "CSPulse/customer-success-skills",
     "language": "\u2014",
@@ -9,31 +63,40 @@
     "url": "https://github.com/CSPulse/customer-success-skills"
   },
   {
-    "description": "Das KI-Mitarbeiter Starter-Kit: 23 deutsche Claude Skills fuer Selbstaendige und kleine Unternehmen (Claude Code Plugin)",
-    "id": "fabio-baumgartner/unternehmer-skills",
-    "language": "\u2014",
-    "name": "fabio-baumgartner/unternehmer-skills",
-    "stars": 0,
-    "updated_at": "2026-08-26T21:13:22Z",
-    "url": "https://github.com/fabio-baumgartner/unternehmer-skills"
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-26T21:13:30Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 32,
+    "updated_at": "2026-08-26T21:26:57Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Local fine-tuning for your own work. A provider-neutral kit that turns project experience into reusable criteria for AI ",
+    "id": "andresanemic/lore-plugin",
+    "language": "JavaScript",
+    "name": "andresanemic/lore-plugin",
+    "stars": 5,
+    "updated_at": "2026-08-26T21:10:27Z",
+    "url": "https://github.com/andresanemic/lore-plugin"
   },
   {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30626,
+    "stars": 30625,
     "updated_at": "2026-08-26T21:09:22Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 91936,
-    "updated_at": "2026-08-26T21:02:03Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "AI-powered design system generation for coding agents",
@@ -45,13 +108,40 @@
     "url": "https://github.com/Mert-byt/Better-UI-UX"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-26T21:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:00:49Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Read-only accounting skills for Claude, run against your own books through the MosoFin MCP gateway: month-end close, ban",
+    "id": "mosofin/mosofin-finance-skills",
+    "language": "\u2014",
+    "name": "mosofin/mosofin-finance-skills",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:57:34Z",
+    "url": "https://github.com/mosofin/mosofin-finance-skills"
+  },
+  {
+    "description": "An open, reproducible trust layer for AI artifacts \u2014 skills, MCP servers, agents, and plugins. Assay inspects code, runs",
+    "id": "metahub-ai/assay",
+    "language": "TypeScript",
+    "name": "metahub-ai/assay",
+    "stars": 6,
+    "updated_at": "2026-08-26T20:51:03Z",
+    "url": "https://github.com/metahub-ai/assay"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 429,
+    "updated_at": "2026-08-26T20:50:25Z",
+    "url": "https://github.com/boshu2/agentops"
   },
   {
     "description": "CLI & library to faithfully translate coding agent customizations across harnesses",
@@ -88,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T20:44:46Z",
     "url": "https://github.com/themarmack/research-bot"
-  },
-  {
-    "description": "Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co",
-    "id": "jackneil/claude-jacked",
-    "language": "Python",
-    "name": "jackneil/claude-jacked",
-    "stars": 1,
-    "updated_at": "2026-08-26T20:40:26Z",
-    "url": "https://github.com/jackneil/claude-jacked"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 32,
-    "updated_at": "2026-08-26T21:11:33Z",
-    "url": "https://github.com/Servosity/msp-skills"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -207,15 +279,6 @@
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
-    "description": "Read-only accounting skills for Claude, run against your own books through the MosoFin MCP gateway: month-end close, ban",
-    "id": "mosofin/mosofin-finance-skills",
-    "language": "\u2014",
-    "name": "mosofin/mosofin-finance-skills",
-    "stars": 0,
-    "updated_at": "2026-08-26T20:57:34Z",
-    "url": "https://github.com/mosofin/mosofin-finance-skills"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -270,6 +333,15 @@
     "url": "https://github.com/whoisraibolt/paper-skills"
   },
   {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 3,
+    "updated_at": "2026-08-26T20:08:39Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
     "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
     "id": "dayvisonassis/sdd-skills",
     "language": "JavaScript",
@@ -283,7 +355,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6411,
+    "stars": 6412,
     "updated_at": "2026-08-26T19:58:50Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -310,7 +382,7 @@
     "id": "ahammadnafiz/uxi",
     "language": "Python",
     "name": "ahammadnafiz/uxi",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-26T19:56:41Z",
     "url": "https://github.com/ahammadnafiz/uxi"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T19:27:43Z",
     "url": "https://github.com/Sahil2004/skills"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2353,
-    "updated_at": "2026-08-26T19:23:58Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "Claude skill that goes past word-list humanizers: strips the full catalog of AI tells, refits the text to its channel (L",
-    "id": "msdanyg/humanize-pro",
-    "language": "\u2014",
-    "name": "msdanyg/humanize-pro",
-    "stars": 4,
-    "updated_at": "2026-08-26T19:22:27Z",
-    "url": "https://github.com/msdanyg/humanize-pro"
-  },
-  {
-    "description": "Prompt engineering as a procedure, not a document. Routes to the right artifact, sizes evals to the volume, ships a lint",
-    "id": "AdrianAdem/prompt-engineer-skill",
-    "language": "Python",
-    "name": "AdrianAdem/prompt-engineer-skill",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:20:30Z",
-    "url": "https://github.com/AdrianAdem/prompt-engineer-skill"
-  },
-  {
-    "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
-    "id": "thefilesareinthecomputer/dotagents",
-    "language": "Python",
-    "name": "thefilesareinthecomputer/dotagents",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:18:50Z",
-    "url": "https://github.com/thefilesareinthecomputer/dotagents"
-  },
-  {
-    "description": "My main list of vendor-agnostic agent skills and harness configs",
-    "id": "anton-winter-arch/dotagents",
-    "language": "Python",
-    "name": "anton-winter-arch/dotagents",
-    "stars": 1,
-    "updated_at": "2026-08-26T19:18:48Z",
-    "url": "https://github.com/anton-winter-arch/dotagents"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-26T19:18:37Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "The AMM founding-circle home base: 36 Claude skills (AEO/SEO + agentic engineering + security), the agentic ladder, play",
-    "id": "search-atlas-group/amm-founding-circle",
-    "language": "Python",
-    "name": "search-atlas-group/amm-founding-circle",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:16:48Z",
-    "url": "https://github.com/search-atlas-group/amm-founding-circle"
-  },
-  {
-    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
-    "id": "chris-peterson/beacon",
-    "language": "Python",
-    "name": "chris-peterson/beacon",
-    "stars": 1,
-    "updated_at": "2026-08-26T19:13:51Z",
-    "url": "https://github.com/chris-peterson/beacon"
   }
 ]
