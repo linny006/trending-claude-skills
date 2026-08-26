@@ -1,5 +1,41 @@
 [
   {
+    "description": "Two Claude Code skills for scientific manuscripts: deep pre-submission review and grounded drafting, on the Paper Assist",
+    "id": "whoisraibolt/paper-skills",
+    "language": "\u2014",
+    "name": "whoisraibolt/paper-skills",
+    "stars": 1,
+    "updated_at": "2026-08-26T20:08:54Z",
+    "url": "https://github.com/whoisraibolt/paper-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 91929,
+    "updated_at": "2026-08-26T20:06:09Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "HTML",
+    "name": "jposluns/cleanlanguage",
+    "stars": 2,
+    "updated_at": "2026-08-26T20:08:31Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-26T20:00:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
     "id": "dayvisonassis/sdd-skills",
     "language": "JavaScript",
@@ -11,20 +47,11 @@
   {
     "description": "Ask it for a fake countdown timer and it says no. A UX and accessibility skill for Claude Code: surface-class-aware audi",
     "id": "ahammadnafiz/uxi",
-    "language": "\u2014",
+    "language": "Python",
     "name": "ahammadnafiz/uxi",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-26T19:56:41Z",
     "url": "https://github.com/ahammadnafiz/uxi"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-26T19:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Give your CLAUDE.md / AGENTS.md a checkup \u2014 audit size vitals, dead references, drifted claims, and backtest every rule ",
@@ -43,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-08-26T19:41:55Z",
     "url": "https://github.com/ds1/probe"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 354,
+    "updated_at": "2026-08-26T19:41:34Z",
+    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
@@ -86,7 +122,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 3,
-    "updated_at": "2026-08-26T19:50:08Z",
+    "updated_at": "2026-08-26T20:09:56Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -99,15 +135,6 @@
     "url": "https://github.com/AdrianAdem/prompt-engineer-skill"
   },
   {
-    "description": "My main list of vendor-agnostic agent skills and harness configs",
-    "id": "anton-winter-arch/dotagents",
-    "language": "Python",
-    "name": "anton-winter-arch/dotagents",
-    "stars": 1,
-    "updated_at": "2026-08-26T19:18:48Z",
-    "url": "https://github.com/anton-winter-arch/dotagents"
-  },
-  {
     "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
     "id": "thefilesareinthecomputer/dotagents",
     "language": "Python",
@@ -115,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T19:18:50Z",
     "url": "https://github.com/thefilesareinthecomputer/dotagents"
+  },
+  {
+    "description": "My main list of vendor-agnostic agent skills and harness configs",
+    "id": "anton-winter-arch/dotagents",
+    "language": "Python",
+    "name": "anton-winter-arch/dotagents",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:18:48Z",
+    "url": "https://github.com/anton-winter-arch/dotagents"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "slopstopper/plumb-line",
     "stars": 4,
-    "updated_at": "2026-08-26T18:59:22Z",
+    "updated_at": "2026-08-26T20:08:09Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T18:53:39Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/cleanlanguage",
-    "language": "HTML",
-    "name": "jposluns/cleanlanguage",
-    "stars": 2,
-    "updated_at": "2026-08-26T19:59:54Z",
-    "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -421,32 +448,5 @@
     "stars": 32,
     "updated_at": "2026-08-26T19:56:17Z",
     "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
-    "description": "You're the boss. Your coding agent shell is your Michelin-star kitchen. Nothing leaves it until Jeff says so.",
-    "id": "johanthoren/jeff",
-    "language": "JavaScript",
-    "name": "johanthoren/jeff",
-    "stars": 3,
-    "updated_at": "2026-08-26T19:13:59Z",
-    "url": "https://github.com/johanthoren/jeff"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 54,
-    "updated_at": "2026-08-26T18:46:15Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-26T18:45:32Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
