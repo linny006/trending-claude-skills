@@ -1,5 +1,14 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-26T20:11:05Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Two Claude Code skills for scientific manuscripts: deep pre-submission review and grounded drafting, on the Paper Assist",
     "id": "whoisraibolt/paper-skills",
     "language": "\u2014",
@@ -23,17 +32,8 @@
     "language": "HTML",
     "name": "jposluns/cleanlanguage",
     "stars": 2,
-    "updated_at": "2026-08-26T20:08:31Z",
+    "updated_at": "2026-08-26T20:13:38Z",
     "url": "https://github.com/jposluns/cleanlanguage"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-26T20:00:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
@@ -81,12 +81,21 @@
     "url": "https://github.com/reticlehq/reticle"
   },
   {
+    "description": "AI-powered design system generation for coding agents",
+    "id": "Mert-byt/Better-UI-UX",
+    "language": "TypeScript",
+    "name": "Mert-byt/Better-UI-UX",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:40:29Z",
+    "url": "https://github.com/Mert-byt/Better-UI-UX"
+  },
+  {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30627,
-    "updated_at": "2026-08-26T19:31:23Z",
+    "updated_at": "2026-08-26T20:14:38Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 49,
     "updated_at": "2026-08-26T18:47:59Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 32,
-    "updated_at": "2026-08-26T19:56:17Z",
-    "url": "https://github.com/Servosity/msp-skills"
   }
 ]
