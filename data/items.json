@@ -1,11 +1,56 @@
 [
   {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1507,
+    "updated_at": "2026-08-26T18:39:56Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:37:50Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field ",
+    "id": "ericluo04/claude-academic-workflow",
+    "language": "Lua",
+    "name": "ericluo04/claude-academic-workflow",
+    "stars": 10,
+    "updated_at": "2026-08-26T18:32:23Z",
+    "url": "https://github.com/ericluo04/claude-academic-workflow"
+  },
+  {
+    "description": "AI quality method for validating LLM output against predefined criteria. Includes a builder-critic workflow, evidence ch",
+    "id": "israeldegasperi/gauntlet-loop",
+    "language": "\u2014",
+    "name": "israeldegasperi/gauntlet-loop",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:30:28Z",
+    "url": "https://github.com/israeldegasperi/gauntlet-loop"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-26T18:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Chinese exam-prep skills for AI coding agents (Claude Code / Agent Skills spec)",
     "id": "CAlM123451/kaoyan-skills",
     "language": "\u2014",
     "name": "CAlM123451/kaoyan-skills",
     "stars": 0,
-    "updated_at": "2026-08-26T18:28:30Z",
+    "updated_at": "2026-08-26T18:33:29Z",
     "url": "https://github.com/CAlM123451/kaoyan-skills"
   },
   {
@@ -14,17 +59,8 @@
     "language": "TypeScript",
     "name": "OKHP3/skillz",
     "stars": 2,
-    "updated_at": "2026-08-26T18:29:26Z",
+    "updated_at": "2026-08-26T18:42:43Z",
     "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "AI quality method for validating LLM output against predefined criteria. Includes a builder-critic workflow, evidence ch",
-    "id": "israeldegasperi/gauntlet-loop",
-    "language": "\u2014",
-    "name": "israeldegasperi/gauntlet-loop",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:23:47Z",
-    "url": "https://github.com/israeldegasperi/gauntlet-loop"
   },
   {
     "description": "Claude Code slash commands for rigorous Socratic analysis of documents",
@@ -45,13 +81,22 @@
     "url": "https://github.com/OrangeLatte/orange-hourglass"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:20:00Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "A Skill and CLI tool for Codex and Claude Code that converts images, PDFs, image-based PPTX files, and mixed PPTX files ",
+    "id": "DSY-Xueai/image2editable",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-26T18:15:06Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "DSY-Xueai/image2editable",
+    "stars": 10,
+    "updated_at": "2026-08-26T18:19:44Z",
+    "url": "https://github.com/DSY-Xueai/image2editable"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "Vladimir-Human/humanizer-ru",
     "stars": 117,
-    "updated_at": "2026-08-26T18:26:09Z",
+    "updated_at": "2026-08-26T18:44:13Z",
     "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Go",
     "name": "Servosity/msp-skills",
     "stars": 32,
-    "updated_at": "2026-08-26T18:08:04Z",
+    "updated_at": "2026-08-26T18:34:35Z",
     "url": "https://github.com/Servosity/msp-skills"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-26T18:30:13Z",
+    "updated_at": "2026-08-26T18:39:33Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 33,
-    "updated_at": "2026-08-26T18:15:58Z",
+    "updated_at": "2026-08-26T18:44:23Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 3,
-    "updated_at": "2026-08-26T18:23:41Z",
+    "updated_at": "2026-08-26T18:42:16Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:37:02Z",
     "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-08-26T17:36:55Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:36:53Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:36:04Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:35:47Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:35:21Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
   }
 ]
