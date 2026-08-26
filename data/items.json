@@ -1,5 +1,32 @@
 [
   {
+    "description": "Claude Code slash commands for rigorous Socratic analysis of documents",
+    "id": "ds1/probe",
+    "language": "PowerShell",
+    "name": "ds1/probe",
+    "stars": 2,
+    "updated_at": "2026-08-26T19:41:55Z",
+    "url": "https://github.com/ds1/probe"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30626,
+    "updated_at": "2026-08-26T19:31:23Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-26T19:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "",
     "id": "Sahil2004/skills",
     "language": "Python",
@@ -9,13 +36,13 @@
     "url": "https://github.com/Sahil2004/skills"
   },
   {
-    "description": "Claude Code slash commands for rigorous Socratic analysis of documents",
-    "id": "ds1/socratic-probes",
-    "language": "PowerShell",
-    "name": "ds1/socratic-probes",
-    "stars": 2,
-    "updated_at": "2026-08-26T19:24:12Z",
-    "url": "https://github.com/ds1/socratic-probes"
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2353,
+    "updated_at": "2026-08-26T19:23:58Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
     "description": "UX research and UI design skill for Claude Code: surface-class-aware audits, WCAG 2.2 checks, visual craft, research met",
@@ -34,6 +61,15 @@
     "stars": 4,
     "updated_at": "2026-08-26T19:22:27Z",
     "url": "https://github.com/msdanyg/humanize-pro"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 3,
+    "updated_at": "2026-08-26T19:40:35Z",
+    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "Prompt engineering as a procedure, not a document. Routes to the right artifact, sizes evals to the volume, ships a lint",
@@ -63,15 +99,6 @@
     "url": "https://github.com/anton-winter-arch/dotagents"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-26T19:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
     "id": "chris-peterson/beacon",
     "language": "Python",
@@ -79,6 +106,105 @@
     "stars": 1,
     "updated_at": "2026-08-26T19:13:51Z",
     "url": "https://github.com/chris-peterson/beacon"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:08:28Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:06:36Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:06:30Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:06:12Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:05:53Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-08-26T19:04:07Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:04:06Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
+    "id": "bokyostudio/pg-practice-knowledgebase",
+    "language": "HTML",
+    "name": "bokyostudio/pg-practice-knowledgebase",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:03:54Z",
+    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-08-26T19:01:37Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-08-26T19:01:20Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-26T19:01:06Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
     "description": "Provenance at the value level for Python and JS: mock-taint and confidence propagate through derived results and can't b",
@@ -99,6 +225,15 @@
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   },
   {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
+    "id": "Vladimir-Human/humanizer-ru",
+    "language": "Python",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 117,
+    "updated_at": "2026-08-26T18:53:43Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
+  },
+  {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
     "id": "ashfaquecg806-dot/symfony-ux-insights",
     "language": "HTML",
@@ -113,7 +248,7 @@
     "language": "HTML",
     "name": "jposluns/cleanlanguage",
     "stars": 2,
-    "updated_at": "2026-08-26T18:53:17Z",
+    "updated_at": "2026-08-26T19:40:13Z",
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
@@ -257,17 +392,8 @@
     "language": "Python",
     "name": "OutlineDriven/odin-claude-plugin",
     "stars": 35,
-    "updated_at": "2026-08-26T18:45:30Z",
+    "updated_at": "2026-08-26T19:37:36Z",
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 117,
-    "updated_at": "2026-08-26T18:53:43Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T18:31:10Z",
     "url": "https://github.com/cldr-steven-matison/NiFiandAi"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:30:33Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "AI quality method for validating LLM output against predefined criteria. Includes a builder-critic workflow, evidence ch",
-    "id": "israeldegasperi/gauntlet-loop",
-    "language": "\u2014",
-    "name": "israeldegasperi/gauntlet-loop",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:30:28Z",
-    "url": "https://github.com/israeldegasperi/gauntlet-loop"
-  },
-  {
-    "description": "BridgeNode \u2014 x402 pay-per-request AI inference. Agent skill and buyer-side examples for AI agents.",
-    "id": "bridgenode-ai/bridgenode-skill",
-    "language": "\u2014",
-    "name": "bridgenode-ai/bridgenode-skill",
-    "stars": 2,
-    "updated_at": "2026-08-26T18:30:16Z",
-    "url": "https://github.com/bridgenode-ai/bridgenode-skill"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:27:45Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:27:32Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:26:59Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-26T18:23:17Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Orange Hourglass | \u6a59\u8272\u6c99\u6f0f \u2014 \u672c\u5730\u4f18\u5148\u3001AI \u9a71\u52a8\u7684\u4e2a\u4eba\u6ce8\u610f\u529b\u7ba1\u7406\u5de5\u5177\u3002Local-first, AI-driven attention management with 4-Agent architecture (Hu",
-    "id": "OrangeLatte/orange-hourglass",
-    "language": "TypeScript",
-    "name": "OrangeLatte/orange-hourglass",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:21:52Z",
-    "url": "https://github.com/OrangeLatte/orange-hourglass"
-  },
-  {
-    "description": "NO CORN CONTENT ANYMORE !!!!",
-    "id": "SegMind25/PBLOCK",
-    "language": "Java",
-    "name": "SegMind25/PBLOCK",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:20:25Z",
-    "url": "https://github.com/SegMind25/PBLOCK"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:20:00Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "A Skill and CLI tool for Codex and Claude Code that converts images, PDFs, image-based PPTX files, and mixed PPTX files ",
-    "id": "DSY-Xueai/image2editable",
-    "language": "Python",
-    "name": "DSY-Xueai/image2editable",
-    "stars": 10,
-    "updated_at": "2026-08-26T18:19:44Z",
-    "url": "https://github.com/DSY-Xueai/image2editable"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-08-26T18:11:59Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
-    "id": "thrixel/build-world",
-    "language": "JavaScript",
-    "name": "thrixel/build-world",
-    "stars": 64,
-    "updated_at": "2026-08-26T18:09:25Z",
-    "url": "https://github.com/thrixel/build-world"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:08:06Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
