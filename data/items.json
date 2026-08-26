@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI skills for customer success teams \u2014 renewal risk, business reviews, onboarding plans, post-call follow-ups and email ",
+    "id": "CSPulse/customer-success-skills",
+    "language": "\u2014",
+    "name": "CSPulse/customer-success-skills",
+    "stars": 1,
+    "updated_at": "2026-08-26T23:29:52Z",
+    "url": "https://github.com/CSPulse/customer-success-skills"
+  },
+  {
+    "description": "Design the meeting before you run it. An AI skill that names the decision, picks the decision rule, cuts the room, and p",
+    "id": "theAnirudhKumar/meeting-design",
+    "language": "\u2014",
+    "name": "theAnirudhKumar/meeting-design",
+    "stars": 0,
+    "updated_at": "2026-08-26T23:29:47Z",
+    "url": "https://github.com/theAnirudhKumar/meeting-design"
+  },
+  {
+    "description": "AI Agent Skills for QA & Testing \u2014 \u9762\u5411\u9700\u6c42\u8bc4\u5ba1\u3001\u6d4b\u8bd5\u8bbe\u8ba1\u3001\u81ea\u52a8\u5316\u6d4b\u8bd5\u7b49\u573a\u666f\u7684\u5b9e\u6218AI Skill\u5408\u96c6\u3002",
+    "id": "signjing/qa-ai-skills",
+    "language": "\u2014",
+    "name": "signjing/qa-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-26T23:21:47Z",
+    "url": "https://github.com/signjing/qa-ai-skills"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Shell",
+    "name": "boshu2/agentops",
+    "stars": 429,
+    "updated_at": "2026-08-26T23:16:52Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-08-26T23:15:22Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-26T23:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -43,15 +97,6 @@
     "stars": 13,
     "updated_at": "2026-08-26T23:00:54Z",
     "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-26T23:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Reusable procedures that make your AI handle recurring work the same good way every time. Paste one prompt; it recommend",
@@ -144,6 +189,15 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 32,
+    "updated_at": "2026-08-26T22:41:34Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
     "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
     "id": "thrixel/build-world",
     "language": "JavaScript",
@@ -229,7 +283,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 91950,
+    "stars": 91952,
     "updated_at": "2026-08-26T22:04:47Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -286,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T21:49:53Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "AI skills for customer success teams \u2014 renewal risk, business reviews, onboarding plans, post-call follow-ups and email ",
-    "id": "CSPulse/customer-success-skills",
-    "language": "\u2014",
-    "name": "CSPulse/customer-success-skills",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:48:48Z",
-    "url": "https://github.com/CSPulse/customer-success-skills"
   },
   {
     "description": "A collection of mainly my own productivity plugins for Claude Code.",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-26T21:27:30Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Das KI-Mitarbeiter Starter-Kit: 23 deutsche Claude Skills f\u00fcr Selbst\u00e4ndige und kleine Unternehmen (Claude Plugin)",
-    "id": "fabio-baumgartner/unternehmer-skills",
-    "language": "\u2014",
-    "name": "fabio-baumgartner/unternehmer-skills",
-    "stars": 0,
-    "updated_at": "2026-08-26T21:26:54Z",
-    "url": "https://github.com/fabio-baumgartner/unternehmer-skills"
-  },
-  {
-    "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
-    "id": "vbkotecha/agentservices-api",
-    "language": "Python",
-    "name": "vbkotecha/agentservices-api",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:26:50Z",
-    "url": "https://github.com/vbkotecha/agentservices-api"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:26:06Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-26T21:24:11Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co",
-    "id": "jackneil/claude-jacked",
-    "language": "Python",
-    "name": "jackneil/claude-jacked",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:23:29Z",
-    "url": "https://github.com/jackneil/claude-jacked"
   }
 ]
