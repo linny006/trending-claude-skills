@@ -1,5 +1,86 @@
 [
   {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6429,
+    "updated_at": "2026-08-27T10:25:18Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-27T10:25:17Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-27T10:29:06Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68428,
+    "updated_at": "2026-08-27T10:29:10Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Framework-agnostic AI engineering control plane with project-aware routing, 0\u20132 specialists, persistent memory, minimal-",
+    "id": "soden46/engineer-flow",
+    "language": "JavaScript",
+    "name": "soden46/engineer-flow",
+    "stars": 3,
+    "updated_at": "2026-08-27T10:21:14Z",
+    "url": "https://github.com/soden46/engineer-flow"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-27T10:20:14Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Writes text in your own voice instead of generic AI prose, with a check and polish pass built in. Works with Claude Code",
+    "id": "an2n/ghostwriter",
+    "language": "\u2014",
+    "name": "an2n/ghostwriter",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:19:53Z",
+    "url": "https://github.com/an2n/ghostwriter"
+  },
+  {
+    "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-08-27T10:15:15Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T10:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Creative AI Skills for Codex, Claude Code, Cursor, Deepseek harness and any Agent Skills-compatible runtime.",
     "id": "weshopai/weshop-skill-package",
     "language": "TypeScript",
@@ -7,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T10:12:36Z",
     "url": "https://github.com/weshopai/weshop-skill-package"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68427,
-    "updated_at": "2026-08-27T10:10:54Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Agent Skills - 46 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 5,
-    "updated_at": "2026-08-27T10:14:36Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -90,15 +153,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T10:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
     "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
     "language": "HTML",
@@ -142,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T09:52:44Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Writes text in your own voice instead of generic AI prose, with a check and polish pass built in. Works with Claude Code",
-    "id": "an2n/ghostwriter",
-    "language": "\u2014",
-    "name": "an2n/ghostwriter",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:12:02Z",
-    "url": "https://github.com/an2n/ghostwriter"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-27T10:14:14Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP",
@@ -288,15 +324,6 @@
     "url": "https://github.com/kaizakin/dotfiles"
   },
   {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6428,
-    "updated_at": "2026-08-27T10:14:44Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
     "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
     "id": "lemur47/logic",
     "language": "Python",
@@ -331,15 +358,6 @@
     "stars": 619,
     "updated_at": "2026-08-27T09:17:31Z",
     "url": "https://github.com/evanca/flutter-ai-rules"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-08-27T09:16:24Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Free MCP server to verify Polish companies (NIP/KRS/REGON) + EU VAT (VIES). 9 tools, no key. Live at skanfirmy.pl/mcp",
@@ -430,23 +448,5 @@
     "stars": 217,
     "updated_at": "2026-08-27T08:44:13Z",
     "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "\u4e2d\u56fd\u5927\u9646\u5f8b\u5e08\u529e\u6848\u4e0e\u5408\u540c\u6280\u80fd\u5e93-Open Agent Skills for Chinese mainland legal practice",
-    "id": "Lawyeah-Tech/lawyeah",
-    "language": "\u2014",
-    "name": "Lawyeah-Tech/lawyeah",
-    "stars": 1,
-    "updated_at": "2026-08-27T08:42:47Z",
-    "url": "https://github.com/Lawyeah-Tech/lawyeah"
-  },
-  {
-    "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
-    "id": "seed-forge/harness-ai-kit",
-    "language": "Python",
-    "name": "seed-forge/harness-ai-kit",
-    "stars": 18,
-    "updated_at": "2026-08-27T08:40:18Z",
-    "url": "https://github.com/seed-forge/harness-ai-kit"
   }
 ]
