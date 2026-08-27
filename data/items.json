@@ -1,5 +1,95 @@
 [
   {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-08-27T03:41:56Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "TypeScript",
+    "name": "OKHP3/skillz",
+    "stars": 2,
+    "updated_at": "2026-08-27T03:37:31Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 415,
+    "updated_at": "2026-08-27T03:37:12Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6422,
+    "updated_at": "2026-08-27T03:37:00Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 18956,
+    "updated_at": "2026-08-27T03:32:51Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Agent Skill for GitHub SEO and GEO: writes your README, llms.txt, topics, and About line. Claude Code, Codex, Cursor, Ze",
+    "id": "NeuraCerebra-AI/github-launch-kit",
+    "language": "\u2014",
+    "name": "NeuraCerebra-AI/github-launch-kit",
+    "stars": 0,
+    "updated_at": "2026-08-27T03:32:30Z",
+    "url": "https://github.com/NeuraCerebra-AI/github-launch-kit"
+  },
+  {
+    "description": "\ud83c\udfac T\u1ea1o video \"so s\u00e1nh ki\u1ebfn th\u1ee9c\" ng\u1eafn t\u1ef1 \u0111\u1ed9ng \u2014 HyperFrames + AI voice, 1 template nhi\u1ec1u ch\u1ee7 \u0111\u1ec1.",
+    "id": "Cuongyd196/auto-compare-video",
+    "language": "HTML",
+    "name": "Cuongyd196/auto-compare-video",
+    "stars": 139,
+    "updated_at": "2026-08-27T03:32:01Z",
+    "url": "https://github.com/Cuongyd196/auto-compare-video"
+  },
+  {
+    "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+    "id": "redfox-data/redfox-community",
+    "language": "Python",
+    "name": "redfox-data/redfox-community",
+    "stars": 376,
+    "updated_at": "2026-08-27T03:31:33Z",
+    "url": "https://github.com/redfox-data/redfox-community"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T03:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68414,
+    "updated_at": "2026-08-27T03:30:03Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
     "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
     "language": "TypeScript",
@@ -25,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T03:22:13Z",
     "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
-  },
-  {
-    "description": "Agent Skill for GitHub SEO and GEO: writes your README, llms.txt, topics, and About line. Claude Code, Codex, Cursor, Ze",
-    "id": "NeuraCerebra-AI/github-launch-kit",
-    "language": "\u2014",
-    "name": "NeuraCerebra-AI/github-launch-kit",
-    "stars": 0,
-    "updated_at": "2026-08-27T03:21:33Z",
-    "url": "https://github.com/NeuraCerebra-AI/github-launch-kit"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -63,15 +144,6 @@
     "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T03:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Portable, vendor-neutral engineering agent skills (SKILL.md) for AI coding agents: architecture, OWASP security, test st",
     "id": "techfleetworks/enterprise-software-AI-skills",
     "language": "Shell",
@@ -90,13 +162,13 @@
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-08-27T03:21:38Z",
-    "url": "https://github.com/patrickserrano/lacquer"
+    "description": "A browser inside your terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "Rust",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 2296,
+    "updated_at": "2026-08-27T03:07:31Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
   },
   {
     "description": "Curated OpenCode-native skills \u2014 the best code from superpowers, VoltAgent, addyosmani, alireza & more. 18 Core always-o",
@@ -214,15 +286,6 @@
     "stars": 33,
     "updated_at": "2026-08-27T02:43:49Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68413,
-    "updated_at": "2026-08-27T03:30:03Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T02:13:12Z",
     "url": "https://github.com/jukkablomberg/northpoint"
-  },
-  {
-    "description": "NASA-Punk \u98ce\u683c UI \u8bbe\u8ba1 SKILL | NASApunk UI design skill for AI coding agents - golden-age palette, report-figure charts, zer",
-    "id": "duanth/NASA-Punk-UI-SKILL",
-    "language": "HTML",
-    "name": "duanth/NASA-Punk-UI-SKILL",
-    "stars": 0,
-    "updated_at": "2026-08-27T02:09:55Z",
-    "url": "https://github.com/duanth/NASA-Punk-UI-SKILL"
-  },
-  {
-    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
-    "id": "hoangsonww/Claude-Code-Agent-Monitor",
-    "language": "TypeScript",
-    "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 942,
-    "updated_at": "2026-08-27T02:08:45Z",
-    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6421,
-    "updated_at": "2026-08-27T02:04:17Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Nine portable, host-neutral federal acquisition workflow skills with deterministic validators.",
-    "id": "1102tools-dev/federal-contracting-skills",
-    "language": "Python",
-    "name": "1102tools-dev/federal-contracting-skills",
-    "stars": 25,
-    "updated_at": "2026-08-27T02:03:22Z",
-    "url": "https://github.com/1102tools-dev/federal-contracting-skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 415,
-    "updated_at": "2026-08-27T01:56:29Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Turn anything into a Claude Skill: an interview-driven generator that drafts, validates, and packages Claude Skills \u2014 as",
-    "id": "marcosmodly/skillsmith",
-    "language": "TypeScript",
-    "name": "marcosmodly/skillsmith",
-    "stars": 0,
-    "updated_at": "2026-08-27T01:46:51Z",
-    "url": "https://github.com/marcosmodly/skillsmith"
-  },
-  {
-    "description": "Unlock a purchased Artemis GTM agent in your own Claude Code. Install, list, update. No account.",
-    "id": "tomregan-revenueleaks/artemis-skills-installer",
-    "language": "JavaScript",
-    "name": "tomregan-revenueleaks/artemis-skills-installer",
-    "stars": 2,
-    "updated_at": "2026-08-27T01:45:23Z",
-    "url": "https://github.com/tomregan-revenueleaks/artemis-skills-installer"
   }
 ]
