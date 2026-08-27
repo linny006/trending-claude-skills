@@ -1,21 +1,39 @@
 [
   {
-    "description": "Marketplace aberto de skills para agentes de c\u00f3digo \u2014 Claude Code, Cursor, Copilot e AGENTS.md",
-    "id": "thiagopbraga/skills-space",
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
     "language": "JavaScript",
-    "name": "thiagopbraga/skills-space",
+    "name": "AnaCataVC/amiga-ia",
     "stars": 0,
-    "updated_at": "2026-08-27T12:50:34Z",
-    "url": "https://github.com/thiagopbraga/skills-space"
+    "updated_at": "2026-08-27T13:09:02Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-08-27T12:59:03Z",
-    "url": "https://github.com/martinambrus/haive"
+    "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
+    "id": "dayvisonassis/sdd-skills",
+    "language": "JavaScript",
+    "name": "dayvisonassis/sdd-skills",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:03:04Z",
+    "url": "https://github.com/dayvisonassis/sdd-skills"
+  },
+  {
+    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
+    "id": "alinafe82/cognitive-deadlift",
+    "language": "Python",
+    "name": "alinafe82/cognitive-deadlift",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:02:04Z",
+    "url": "https://github.com/alinafe82/cognitive-deadlift"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T13:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -27,6 +45,42 @@
     "url": "https://github.com/curie-eng/curie"
   },
   {
+    "description": "Orchestrate Claude Code sub-agents across long-running, single- or multi-repo projects. Artifact-first state, task lifec",
+    "id": "yahor-punko/mavericks-os",
+    "language": "JavaScript",
+    "name": "yahor-punko/mavericks-os",
+    "stars": 3,
+    "updated_at": "2026-08-27T12:59:12Z",
+    "url": "https://github.com/yahor-punko/mavericks-os"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-27T12:59:03Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "This AI Skill supports development using the Next2D Framework and Next2D Player. It assists with code generation followi",
+    "id": "Next2D/next2d-development-assistant",
+    "language": "\u2014",
+    "name": "Next2D/next2d-development-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-27T12:58:17Z",
+    "url": "https://github.com/Next2D/next2d-development-assistant"
+  },
+  {
+    "description": "Marketplace aberto de skills para agentes de c\u00f3digo \u2014 Claude Code, Cursor, Copilot e AGENTS.md",
+    "id": "thiagopbraga/skills-space",
+    "language": "JavaScript",
+    "name": "thiagopbraga/skills-space",
+    "stars": 0,
+    "updated_at": "2026-08-27T12:50:34Z",
+    "url": "https://github.com/thiagopbraga/skills-space"
+  },
+  {
     "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specificat",
     "id": "tzachbon/smart-ralph",
     "language": "Shell",
@@ -36,11 +90,20 @@
     "url": "https://github.com/tzachbon/smart-ralph"
   },
   {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6432,
+    "updated_at": "2026-08-27T12:47:55Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
     "description": "Open-source skills that empower any AI agent (Claude, Cursor, Hermes, etc.) to generate end-to-end marketing campaigns -",
     "id": "SupercmoHQ/superCMO-skills",
     "language": "Python",
     "name": "SupercmoHQ/superCMO-skills",
-    "stars": 30,
+    "stars": 31,
     "updated_at": "2026-08-27T12:46:26Z",
     "url": "https://github.com/SupercmoHQ/superCMO-skills"
   },
@@ -52,15 +115,6 @@
     "stars": 117,
     "updated_at": "2026-08-27T12:46:09Z",
     "url": "https://github.com/Vladimir-Human/humanizer-ru"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T12:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent-native research workspace. A deterministic CLI that ingests arXiv / PDF / LaTeX / Zotero papers into an Obsidian-c",
@@ -85,12 +139,12 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68431,
+    "stars": 68432,
     "updated_at": "2026-08-27T12:43:18Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "Give any AI agent live product data through the Apify MCP server: price, stock, and images from any retailer in the worl",
+    "description": "Wire an AI agent to live product data over the Apify MCP server: price, stock, rating and images as structured fields. R",
     "id": "luispintoapify/ecommerce-agent-starter",
     "language": "Python",
     "name": "luispintoapify/ecommerce-agent-starter",
@@ -99,20 +153,11 @@
     "url": "https://github.com/luispintoapify/ecommerce-agent-starter"
   },
   {
-    "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
-    "id": "dayvisonassis/sdd-skills",
-    "language": "JavaScript",
-    "name": "dayvisonassis/sdd-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T12:57:53Z",
-    "url": "https://github.com/dayvisonassis/sdd-skills"
-  },
-  {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6142,
+    "stars": 6143,
     "updated_at": "2026-08-27T12:32:33Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
@@ -148,7 +193,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 5851,
+    "stars": 5852,
     "updated_at": "2026-08-27T12:25:20Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -216,15 +261,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6431,
-    "updated_at": "2026-08-27T12:47:55Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
     "id": "zeikar/dotfiles",
     "language": "Shell",
@@ -266,7 +302,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T12:55:50Z",
+    "updated_at": "2026-08-27T13:01:59Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-27T11:02:50Z",
     "url": "https://github.com/catcatcatstudio/cat-skills"
-  },
-  {
-    "description": "Writes text in your own voice instead of generic AI prose, with a check and polish pass built in. Works with Claude Code",
-    "id": "an2n/ghostwriter",
-    "language": "\u2014",
-    "name": "an2n/ghostwriter",
-    "stars": 1,
-    "updated_at": "2026-08-27T11:01:53Z",
-    "url": "https://github.com/an2n/ghostwriter"
-  },
-  {
-    "description": "Agent Skills von LOGIN zur freien Nutzung - SKILL.md-Format fuer Claude Code, Claude-App und API",
-    "id": "LOGIN-TB/claude-skills",
-    "language": "Python",
-    "name": "LOGIN-TB/claude-skills",
-    "stars": 55,
-    "updated_at": "2026-08-27T11:22:08Z",
-    "url": "https://github.com/LOGIN-TB/claude-skills"
-  },
-  {
-    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "Shell",
-    "name": "SteveKinzey/claude-code-tools-installer",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:59:27Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 141,
-    "updated_at": "2026-08-27T12:14:08Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
   }
 ]
