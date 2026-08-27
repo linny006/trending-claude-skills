@@ -5,8 +5,26 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T11:15:10Z",
+    "updated_at": "2026-08-27T11:30:15Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:26:01Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68429,
+    "updated_at": "2026-08-27T11:25:23Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
@@ -14,8 +32,89 @@
     "language": "Python",
     "name": "bestdeejay-design/agent-skills",
     "stars": 5,
-    "updated_at": "2026-08-27T11:10:58Z",
+    "updated_at": "2026-08-27T11:23:51Z",
     "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
+    "id": "by-carlos/daikenja",
+    "language": "Python",
+    "name": "by-carlos/daikenja",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:23:50Z",
+    "url": "https://github.com/by-carlos/daikenja"
+  },
+  {
+    "description": "Cover Anatomy Lab - turn a viral cover into an annotated anatomy report card + recipe. Zero-crawler, deterministic HTML ",
+    "id": "jahidashok714-svg/cover-anatomy-skill",
+    "language": "JavaScript",
+    "name": "jahidashok714-svg/cover-anatomy-skill",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:23:46Z",
+    "url": "https://github.com/jahidashok714-svg/cover-anatomy-skill"
+  },
+  {
+    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
+    "id": "davepoon/buildwithclaude",
+    "language": "Python",
+    "name": "davepoon/buildwithclaude",
+    "stars": 3373,
+    "updated_at": "2026-08-27T11:21:55Z",
+    "url": "https://github.com/davepoon/buildwithclaude"
+  },
+  {
+    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor",
+    "id": "fcakyon/claude-codex-settings",
+    "language": "Python",
+    "name": "fcakyon/claude-codex-settings",
+    "stars": 1111,
+    "updated_at": "2026-08-27T11:20:44Z",
+    "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "description": "Rivendell\u2019s open-source toolkit for discovering, configuring, and backtesting trading strategies with historical market ",
+    "id": "Rivendell-investment/edgepilot-research-claude",
+    "language": "Python",
+    "name": "Rivendell-investment/edgepilot-research-claude",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:19:59Z",
+    "url": "https://github.com/Rivendell-investment/edgepilot-research-claude"
+  },
+  {
+    "description": "Typography skill for AI agents - audit and produce publication-grade text. Butterick's Practical Typography for your cod",
+    "id": "danium/practicaltypography",
+    "language": "JavaScript",
+    "name": "danium/practicaltypography",
+    "stars": 27,
+    "updated_at": "2026-08-27T11:19:49Z",
+    "url": "https://github.com/danium/practicaltypography"
+  },
+  {
+    "description": "Sync Claude Code configuration across machines (ccs): collect, apply, bootstrap from a GitHub payload repo",
+    "id": "DazzleML/dazzle-claude-config",
+    "language": "Python",
+    "name": "DazzleML/dazzle-claude-config",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:19:14Z",
+    "url": "https://github.com/DazzleML/dazzle-claude-config"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
+    "id": "Vladimir-Human/humanizer-ru",
+    "language": "Python",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 117,
+    "updated_at": "2026-08-27T11:15:24Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T11:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Public base configs for Claude Code (skills, commands, agents) -- a working ccs payload repo. Content arriving via curat",
@@ -25,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T11:10:40Z",
     "url": "https://github.com/DazzleML/dazzle-claude-code-config"
-  },
-  {
-    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor",
-    "id": "fcakyon/claude-codex-settings",
-    "language": "Python",
-    "name": "fcakyon/claude-codex-settings",
-    "stars": 1110,
-    "updated_at": "2026-08-27T11:10:07Z",
-    "url": "https://github.com/fcakyon/claude-codex-settings"
   },
   {
     "description": "MCP server that suggests repository-specific AI agent skills.",
@@ -50,17 +140,8 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 1,
-    "updated_at": "2026-08-27T11:09:40Z",
+    "updated_at": "2026-08-27T11:28:42Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68429,
-    "updated_at": "2026-08-27T11:07:19Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
@@ -72,15 +153,6 @@
     "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 117,
-    "updated_at": "2026-08-27T11:09:02Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
-  },
-  {
     "description": "Agent skills for SolidJS 2.0 \u2014 write, migrate, and review solid-js 2.x code without React/1.x reflexes",
     "id": "khmm12/solidjs-v2-skills",
     "language": "JavaScript",
@@ -88,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T11:04:02Z",
     "url": "https://github.com/khmm12/solidjs-v2-skills"
-  },
-  {
-    "description": "Rivendell\u2019s open-source toolkit for discovering, configuring, and backtesting trading strategies with historical market ",
-    "id": "Rivendell-investment/edgepilot-research-claude",
-    "language": "Python",
-    "name": "Rivendell-investment/edgepilot-research-claude",
-    "stars": 0,
-    "updated_at": "2026-08-27T11:04:01Z",
-    "url": "https://github.com/Rivendell-investment/edgepilot-research-claude"
   },
   {
     "description": "AI agent skills for Claude Code, Cursor, Codex, and 40+ coding agents \u2014 architect, notebook, extract, cleanse",
@@ -117,21 +180,12 @@
     "url": "https://github.com/an2n/ghostwriter"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T11:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent Skills von LOGIN zur freien Nutzung - SKILL.md-Format fuer Claude Code, Claude-App und API",
     "id": "LOGIN-TB/claude-skills",
     "language": "Python",
     "name": "LOGIN-TB/claude-skills",
     "stars": 55,
-    "updated_at": "2026-08-27T10:59:27Z",
+    "updated_at": "2026-08-27T11:22:08Z",
     "url": "https://github.com/LOGIN-TB/claude-skills"
   },
   {
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6429,
-    "updated_at": "2026-08-27T10:25:18Z",
+    "updated_at": "2026-08-27T11:29:43Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 29,
     "updated_at": "2026-08-27T09:45:35Z",
     "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "A curated list of SRE skills, MCP servers, and AI-SRE resources",
-    "id": "anyshift-io/awesome-sre-skills",
-    "language": "\u2014",
-    "name": "anyshift-io/awesome-sre-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T09:44:12Z",
-    "url": "https://github.com/anyshift-io/awesome-sre-skills"
-  },
-  {
-    "description": "Public library of Annie-specific skills for AI agents. Teaches agents how to drive the Annie CLI and the Anyshift MCP (A",
-    "id": "anyshift-io/annie-skills",
-    "language": "\u2014",
-    "name": "anyshift-io/annie-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T09:44:04Z",
-    "url": "https://github.com/anyshift-io/annie-skills"
-  },
-  {
-    "description": "Open-source library of methodology-shaped SRE skills for AI agents (Apache 2.0)",
-    "id": "anyshift-io/sre-skills",
-    "language": "Python",
-    "name": "anyshift-io/sre-skills",
-    "stars": 17,
-    "updated_at": "2026-08-27T09:44:01Z",
-    "url": "https://github.com/anyshift-io/sre-skills"
-  },
-  {
-    "description": "Anyshift's Claude Code plugin marketplace. Catalog of public plugins (skills, MCP servers) maintained by Anyshift. Add w",
-    "id": "anyshift-io/claude-plugins",
-    "language": "\u2014",
-    "name": "anyshift-io/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-08-27T09:43:59Z",
-    "url": "https://github.com/anyshift-io/claude-plugins"
-  },
-  {
-    "description": "Turn PhD weekly notes, papers, results, and figures into evidence-grounded lab meeting reports, with Feishu, Notion, and",
-    "id": "LikC1606/lab-meeting-report-skill",
-    "language": "Python",
-    "name": "LikC1606/lab-meeting-report-skill",
-    "stars": 0,
-    "updated_at": "2026-08-27T09:42:58Z",
-    "url": "https://github.com/LikC1606/lab-meeting-report-skill"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 5,
-    "updated_at": "2026-08-27T09:36:58Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   }
 ]
