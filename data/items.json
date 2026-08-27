@@ -1,12 +1,66 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 414,
+    "updated_at": "2026-08-27T01:56:29Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68408,
+    "updated_at": "2026-08-27T02:00:05Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Creative AI Skills for Codex, Claude Code, Cursor, Deepseek harness and any Agent Skills-compatible runtime.",
+    "id": "weshopai/weshop-skill-package",
+    "language": "TypeScript",
+    "name": "weshopai/weshop-skill-package",
+    "stars": 1,
+    "updated_at": "2026-08-27T01:55:59Z",
+    "url": "https://github.com/weshopai/weshop-skill-package"
+  },
+  {
     "description": "",
     "id": "Lucas-Belucci-Bellini/Veritas",
     "language": "TypeScript",
     "name": "Lucas-Belucci-Bellini/Veritas",
     "stars": 0,
-    "updated_at": "2026-08-27T01:42:42Z",
+    "updated_at": "2026-08-27T01:52:12Z",
     "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
+  },
+  {
+    "description": "Turn anything into a Claude Skill: an interview-driven generator that drafts, validates, and packages Claude Skills \u2014 as",
+    "id": "marcosmodly/skillsmith",
+    "language": "TypeScript",
+    "name": "marcosmodly/skillsmith",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:46:51Z",
+    "url": "https://github.com/marcosmodly/skillsmith"
+  },
+  {
+    "description": "Unlock a purchased Artemis GTM agent in your own Claude Code. Install, list, update. No account.",
+    "id": "tomregan-revenueleaks/artemis-skills-installer",
+    "language": "JavaScript",
+    "name": "tomregan-revenueleaks/artemis-skills-installer",
+    "stars": 2,
+    "updated_at": "2026-08-27T01:45:23Z",
+    "url": "https://github.com/tomregan-revenueleaks/artemis-skills-installer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T01:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "bro-skills - Spec-Driven Development CLI",
@@ -25,15 +79,6 @@
     "stars": 48,
     "updated_at": "2026-08-27T01:32:23Z",
     "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T01:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T01:23:07Z",
     "url": "https://github.com/raphaelbgr/ai-video-prompting"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68407,
-    "updated_at": "2026-08-27T01:43:59Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
@@ -122,7 +158,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-27T01:35:11Z",
+    "updated_at": "2026-08-27T01:51:54Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "astroicers/skill-quality-research",
     "stars": 0,
-    "updated_at": "2026-08-27T01:37:34Z",
+    "updated_at": "2026-08-27T01:51:27Z",
     "url": "https://github.com/astroicers/skill-quality-research"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T00:33:41Z",
     "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:33:21Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:32:59Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:32:51Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:32:47Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
   }
 ]
