@@ -1,12 +1,93 @@
 [
   {
+    "description": "8 production-ready Claude skills for Claude Code and claude.ai: six document generators and a documentation-lifecycle to",
+    "id": "StefanoZaghi1987/ClaudeSkills",
+    "language": "Python",
+    "name": "StefanoZaghi1987/ClaudeSkills",
+    "stars": 1,
+    "updated_at": "2026-08-27T12:29:46Z",
+    "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
+  },
+  {
+    "description": "Memory for Claude Code that survives the session boundary \u2014 install the plugin into any repo: a hot cache injected every",
+    "id": "awrshift/claude-memory-kit",
+    "language": "Python",
+    "name": "awrshift/claude-memory-kit",
+    "stars": 31,
+    "updated_at": "2026-08-27T12:27:14Z",
+    "url": "https://github.com/awrshift/claude-memory-kit"
+  },
+  {
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a416\u4e2a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 5848,
+    "updated_at": "2026-08-27T12:25:20Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "\u4e2d\u6587 Agent Skills \u5408\u96c6\uff1a194 \u4e2a\u6761\u76ee\u300113 \u4e2a\u672c\u7ad9\u539f\u521b\uff1bCodex 13/13 \u81ea\u52a8\u89e6\u53d1\u5b9e\u6d4b\uff0cClaude Code / Cursor \u5f85\u6d4b\uff1b\u6765\u6e90\u4ed3\u5e93\u5b9a\u671f\u590d\u68c0\uff0c\u8fd0\u884c\u8bb0\u5f55\u516c\u5f00",
+    "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "language": "HTML",
+    "name": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "stars": 8,
+    "updated_at": "2026-08-27T12:24:28Z",
+    "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68430,
-    "updated_at": "2026-08-27T12:07:50Z",
+    "stars": 68431,
+    "updated_at": "2026-08-27T12:21:45Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-08-27T12:19:28Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Agent Skill\uff08SKILL.md\uff09\u4f53\u68c0\u5668\uff1a\u8bc4 description \u89e6\u53d1\u8d28\u91cf / \u7bc7\u5e45 / \u6e10\u8fdb\u62ab\u9732 / \u811a\u672c\u5916\u7f6e / \u53ef\u79fb\u690d\u6027 / \u5b89\u5168\uff08\u65e0\u786c\u7f16\u7801\u5bc6\u94a5\uff09\uff0c\u51fa\u8bc4\u5206\u5361 + \u4fee\u590d\u5efa\u8bae\u3002\u96f6\u4f9d\u8d56\uff0cclaude-md-doctor \u7684\u59ca\u59b9\u5de5",
+    "id": "huiyonghkw/hekouwang-claude-skill-doctor-skill",
+    "language": "Python",
+    "name": "huiyonghkw/hekouwang-claude-skill-doctor-skill",
+    "stars": 1,
+    "updated_at": "2026-08-27T12:15:54Z",
+    "url": "https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T12:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-27T12:13:58Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
+    "id": "Vladimir-Human/humanizer-ru",
+    "language": "Python",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 117,
+    "updated_at": "2026-08-27T12:13:44Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
     "description": "",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "SupercmoHQ/superCMO-skills",
     "stars": 29,
-    "updated_at": "2026-08-27T12:05:36Z",
+    "updated_at": "2026-08-27T12:19:16Z",
     "url": "https://github.com/SupercmoHQ/superCMO-skills"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 33,
-    "updated_at": "2026-08-27T12:03:29Z",
+    "updated_at": "2026-08-27T12:26:13Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T12:02:10Z",
     "url": "https://github.com/brainAlly/pm-cortex"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 117,
-    "updated_at": "2026-08-27T12:13:44Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
     "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
@@ -72,15 +144,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T12:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
     "id": "zeikar/dotfiles",
     "language": "Shell",
@@ -99,15 +162,6 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-08-27T12:13:58Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Generate draw.io diagrams from natural language \u2014 11 presets (UML, SysML/MBSE, BPMN, network, C4\u2026), 39 tools: codebase/C",
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
@@ -122,7 +176,7 @@
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
     "stars": 6141,
-    "updated_at": "2026-08-27T11:51:18Z",
+    "updated_at": "2026-08-27T12:28:06Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T12:09:52Z",
+    "updated_at": "2026-08-27T12:26:46Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 238,
     "updated_at": "2026-08-27T11:45:09Z",
     "url": "https://github.com/jherrodthomas/robotics-skills-suite"
-  },
-  {
-    "description": "8 production-ready Claude skills for Claude Code and claude.ai: six document generators and a documentation-lifecycle to",
-    "id": "StefanoZaghi1987/ClaudeSkills",
-    "language": "Python",
-    "name": "StefanoZaghi1987/ClaudeSkills",
-    "stars": 1,
-    "updated_at": "2026-08-27T11:43:04Z",
-    "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
   },
   {
     "description": "Jeffy Loop is an autonomous audit-and-fix loop for Claude Code. A shell Stop hook re-feeds the agent its own plan, backl",
@@ -175,7 +220,7 @@
     "id": "fcakyon/claude-codex-settings",
     "language": "Python",
     "name": "fcakyon/claude-codex-settings",
-    "stars": 1111,
+    "stars": 1112,
     "updated_at": "2026-08-27T11:41:24Z",
     "url": "https://github.com/fcakyon/claude-codex-settings"
   },
@@ -214,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T11:28:42Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-08-27T11:26:01Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
     "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-27T10:36:00Z",
     "url": "https://github.com/soden46/engineer-flow"
-  },
-  {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 144,
-    "updated_at": "2026-08-27T10:32:01Z",
-    "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "A collection of mainly my own productivity plugins for Claude Code.",
-    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
-    "language": "Shell",
-    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
-    "stars": 13,
-    "updated_at": "2026-08-27T10:27:56Z",
-    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
-  },
-  {
-    "description": "Use Aident Loadout to connect your AI Agents to 1,000+ real-world apps and tools like Gmail, Slack, Linear, Notion, Fire",
-    "id": "Aident-AI/aident-skill",
-    "language": "Shell",
-    "name": "Aident-AI/aident-skill",
-    "stars": 4,
-    "updated_at": "2026-08-27T10:26:46Z",
-    "url": "https://github.com/Aident-AI/aident-skill"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-27T10:25:17Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
   }
 ]
