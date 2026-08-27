@@ -1,12 +1,93 @@
 [
   {
+    "description": "A curated collection of reusable Claude Code and Agent Skills for development, automation, research, and everyday workfl",
+    "id": "RumasorengFadil/claude-code-skills",
+    "language": "\u2014",
+    "name": "RumasorengFadil/claude-code-skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T07:55:59Z",
+    "url": "https://github.com/RumasorengFadil/claude-code-skills"
+  },
+  {
+    "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
+    "id": "seed-forge/harness-ai-kit",
+    "language": "Python",
+    "name": "seed-forge/harness-ai-kit",
+    "stars": 18,
+    "updated_at": "2026-08-27T07:55:12Z",
+    "url": "https://github.com/seed-forge/harness-ai-kit"
+  },
+  {
+    "description": "Sync Claude Code configuration across machines (ccs): collect, apply, bootstrap from a GitHub payload repo",
+    "id": "DazzleML/dazzle-claude-config",
+    "language": "Python",
+    "name": "DazzleML/dazzle-claude-config",
+    "stars": 0,
+    "updated_at": "2026-08-27T07:53:38Z",
+    "url": "https://github.com/DazzleML/dazzle-claude-config"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-08-27T07:46:19Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Lanes, tickets, and a human merge. Runner and telemetry are plugs.",
+    "id": "Kripu77/software-factory",
+    "language": "Shell",
+    "name": "Kripu77/software-factory",
+    "stars": 6,
+    "updated_at": "2026-08-27T07:45:56Z",
+    "url": "https://github.com/Kripu77/software-factory"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-27T07:45:27Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Second brain for Forward Deployed Engineers: engagement memory + execution skills across discovery, delivery, and handof",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 228,
+    "updated_at": "2026-08-27T07:57:41Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T07:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T07:44:19Z",
+    "updated_at": "2026-08-27T07:56:55Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Agent skills for AI coding agents \u2014 trip planner, Obsidian vault, and more",
+    "id": "aliasunder/agent-skills",
+    "language": "HTML",
+    "name": "aliasunder/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-08-27T07:41:15Z",
+    "url": "https://github.com/aliasunder/agent-skills"
   },
   {
     "description": "Give your AI agents persistent memory and session continuity in your Obsidian vault \u2014 a conversational interview scaffol",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 29,
-    "updated_at": "2026-08-27T07:40:48Z",
+    "updated_at": "2026-08-27T07:47:53Z",
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T07:39:33Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Lanes, tickets, and a human merge. Runner and telemetry are plugs.",
-    "id": "Kripu77/software-factory",
-    "language": "Shell",
-    "name": "Kripu77/software-factory",
-    "stars": 6,
-    "updated_at": "2026-08-27T07:43:25Z",
-    "url": "https://github.com/Kripu77/software-factory"
   },
   {
     "description": "Creative AI Skills for Codex, Claude Code, Cursor, Deepseek harness and any Agent Skills-compatible runtime.",
@@ -99,30 +171,12 @@
     "url": "https://github.com/liustack/modlens"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T07:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Second brain for Forward Deployed Engineers: engagement memory + execution skills across discovery, delivery, and handof",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 228,
-    "updated_at": "2026-08-27T07:37:25Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
     "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
     "id": "lemur47/logic",
     "language": "Python",
     "name": "lemur47/logic",
     "stars": 2,
-    "updated_at": "2026-08-27T07:28:15Z",
+    "updated_at": "2026-08-27T07:56:04Z",
     "url": "https://github.com/lemur47/logic"
   },
   {
@@ -139,8 +193,8 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6422,
-    "updated_at": "2026-08-27T07:27:28Z",
+    "stars": 6423,
+    "updated_at": "2026-08-27T07:59:16Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -241,6 +295,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T07:07:20Z",
     "url": "https://github.com/NeuraCerebra-AI/story-architect-skill"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6152,
+    "updated_at": "2026-08-27T07:06:25Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
   },
   {
     "description": "Claude Code Agent Skill bundle for writing & reviewing academic papers (SSRN / arXiv / Zenodo / journals). Bundles an or",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-27T06:58:34Z",
     "url": "https://github.com/shimo4228/claude-harness"
-  },
-  {
-    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
-    "id": "jabrena/plinth",
-    "language": "Java",
-    "name": "jabrena/plinth",
-    "stars": 431,
-    "updated_at": "2026-08-27T06:58:29Z",
-    "url": "https://github.com/jabrena/plinth"
-  },
-  {
-    "description": "A self-evolving second brain for Product Managers \u2014 45 brain-aware PM commands, 8 auto-selected skills, and 7 sub-agent ",
-    "id": "brainAlly/pm-cortex",
-    "language": "Python",
-    "name": "brainAlly/pm-cortex",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:57:24Z",
-    "url": "https://github.com/brainAlly/pm-cortex"
-  },
-  {
-    "description": "Vaaya MCP server \u2014 pay-per-call agent superpowers: media & video generation, product demo videos, web search & scraping,",
-    "id": "vaaya-ai/vaaya-mcp",
-    "language": "JavaScript",
-    "name": "vaaya-ai/vaaya-mcp",
-    "stars": 41,
-    "updated_at": "2026-08-27T06:56:41Z",
-    "url": "https://github.com/vaaya-ai/vaaya-mcp"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:53:53Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:47:18Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
-    "id": "thefilesareinthecomputer/dotagents",
-    "language": "Python",
-    "name": "thefilesareinthecomputer/dotagents",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:46:45Z",
-    "url": "https://github.com/thefilesareinthecomputer/dotagents"
-  },
-  {
-    "description": "My main list of vendor-agnostic agent skills and harness configs",
-    "id": "anton-winter-arch/dotagents",
-    "language": "Python",
-    "name": "anton-winter-arch/dotagents",
-    "stars": 1,
-    "updated_at": "2026-08-27T06:46:43Z",
-    "url": "https://github.com/anton-winter-arch/dotagents"
   }
 ]
