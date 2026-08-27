@@ -1,5 +1,50 @@
 [
   {
+    "description": "Claude Code skills for prod-local agent development: query real traces and logs from your local stack, plan before you b",
+    "id": "LunarCommand/claude-skills",
+    "language": "Shell",
+    "name": "LunarCommand/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-08-27T21:40:37Z",
+    "url": "https://github.com/LunarCommand/claude-skills"
+  },
+  {
+    "description": "Backend security Agent Skill that helps AI audit code, detect vulnerabilities, and generate secure-by-default backend ap",
+    "id": "n-shadloo/secure-code-auditor",
+    "language": "Python",
+    "name": "n-shadloo/secure-code-auditor",
+    "stars": 4,
+    "updated_at": "2026-08-27T21:44:51Z",
+    "url": "https://github.com/n-shadloo/secure-code-auditor"
+  },
+  {
+    "description": "",
+    "id": "andresnator/agents-orchestrator",
+    "language": "Shell",
+    "name": "andresnator/agents-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:37:32Z",
+    "url": "https://github.com/andresnator/agents-orchestrator"
+  },
+  {
+    "description": "My custom skills for different agents",
+    "id": "lost-rob0t/skills",
+    "language": "Python",
+    "name": "lost-rob0t/skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:36:12Z",
+    "url": "https://github.com/lost-rob0t/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T21:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Give your AI agents persistent memory and session continuity in your Obsidian vault \u2014 a conversational interview scaffol",
     "id": "aliasunder/vault-onboarding",
     "language": "TypeScript",
@@ -52,15 +97,6 @@
     "stars": 2338,
     "updated_at": "2026-08-27T21:16:01Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T21:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
@@ -239,17 +275,8 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 116,
-    "updated_at": "2026-08-27T21:26:24Z",
+    "updated_at": "2026-08-27T21:32:05Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "",
-    "id": "andresnator/agents-orchestrator",
-    "language": "Shell",
-    "name": "andresnator/agents-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:23:21Z",
-    "url": "https://github.com/andresnator/agents-orchestrator"
   },
   {
     "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
@@ -257,7 +284,7 @@
     "language": "Shell",
     "name": "chrislacey89/skills",
     "stars": 2,
-    "updated_at": "2026-08-27T20:55:33Z",
+    "updated_at": "2026-08-27T21:37:25Z",
     "url": "https://github.com/chrislacey89/skills"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6437,
-    "updated_at": "2026-08-27T20:19:13Z",
+    "updated_at": "2026-08-27T21:44:29Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T19:36:31Z",
     "url": "https://github.com/yazelin/personal-brand-site-starter"
-  },
-  {
-    "description": "Investigate production incidents via Grafana, Sentry, Datadog, or New Relic (MCP or API key) \u2014 from symptom to a confirm",
-    "id": "gabrielras/incident-investigation",
-    "language": "\u2014",
-    "name": "gabrielras/incident-investigation",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:36:03Z",
-    "url": "https://github.com/gabrielras/incident-investigation"
-  },
-  {
-    "description": "Your AI agent sessions have no supervisor. Now they do.",
-    "id": "vikgmdev/foreman",
-    "language": "Python",
-    "name": "vikgmdev/foreman",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:25:09Z",
-    "url": "https://github.com/vikgmdev/foreman"
-  },
-  {
-    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
-    "id": "isatimur/excalidraw-skill-pack",
-    "language": "TypeScript",
-    "name": "isatimur/excalidraw-skill-pack",
-    "stars": 3,
-    "updated_at": "2026-08-27T19:21:31Z",
-    "url": "https://github.com/isatimur/excalidraw-skill-pack"
   }
 ]
