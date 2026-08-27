@@ -1,5 +1,68 @@
 [
   {
+    "description": "Lanes, tickets, and a human merge. Runner and telemetry are plugs.",
+    "id": "Kripu77/software-factory",
+    "language": "Shell",
+    "name": "Kripu77/software-factory",
+    "stars": 5,
+    "updated_at": "2026-08-27T03:59:41Z",
+    "url": "https://github.com/Kripu77/software-factory"
+  },
+  {
+    "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Claude Code / Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\u3002\u9996\u53d1 3 \u4e2a\u901a\u7528\u578b\uff1anew-convo-handoff\uff08\u957f\u9879\u76ee\u4ea4\u63a5\uff09\u3001first-principles\uff08\u7b2c\u4e00\u6027\u539f\u7406\uff09\u3001clarify-u",
+    "id": "sichenai/sichen-skills",
+    "language": "\u2014",
+    "name": "sichenai/sichen-skills",
+    "stars": 1,
+    "updated_at": "2026-08-27T03:57:38Z",
+    "url": "https://github.com/sichenai/sichen-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 415,
+    "updated_at": "2026-08-27T03:58:39Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "\ud83d\udcda \u7ed9\u4e2d\u56fd\u5f8b\u5e08/\u6cd5\u52a1\u7684\u4e00\u7ad9\u5f0f\u5f00\u6e90 AI \u5de5\u5177\u5730\u56fe\uff5c200+ \u4e2a gh \u6838\u9a8c\u5f00\u6e90\u4ed3\u00b7\u6309\u5de5\u4f5c\u573a\u666f\u5206\u7c7b\u00b7\u80fd\u5426\u5546\u7528\u6807\u6ce8\uff5cawesome list",
+    "id": "lilialla/awesome-legal-ai-zh",
+    "language": "Python",
+    "name": "lilialla/awesome-legal-ai-zh",
+    "stars": 132,
+    "updated_at": "2026-08-27T03:50:18Z",
+    "url": "https://github.com/lilialla/awesome-legal-ai-zh"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous audit-and-fix loop for Claude Code. A shell Stop hook re-feeds the agent its own plan, backl",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 5,
+    "updated_at": "2026-08-27T03:49:43Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Claude Code slash commands for rigorous Socratic analysis of documents",
+    "id": "ds1/probe",
+    "language": "PowerShell",
+    "name": "ds1/probe",
+    "stars": 2,
+    "updated_at": "2026-08-27T03:47:39Z",
+    "url": "https://github.com/ds1/probe"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T03:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
     "id": "patrickserrano/lacquer",
     "language": "Go",
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T03:37:31Z",
     "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 415,
-    "updated_at": "2026-08-27T03:37:12Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
@@ -72,20 +126,11 @@
     "url": "https://github.com/redfox-data/redfox-community"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T03:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68414,
+    "stars": 68413,
     "updated_at": "2026-08-27T03:30:03Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -166,7 +211,7 @@
     "id": "zenbu-labs/terminal-browser",
     "language": "Rust",
     "name": "zenbu-labs/terminal-browser",
-    "stars": 2296,
+    "stars": 2297,
     "updated_at": "2026-08-27T03:07:31Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
   },
@@ -185,7 +230,7 @@
     "language": "JavaScript",
     "name": "suboss87/FDEOps",
     "stars": 228,
-    "updated_at": "2026-08-27T03:18:08Z",
+    "updated_at": "2026-08-27T03:59:57Z",
     "url": "https://github.com/suboss87/FDEOps"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "astroicers/skill-quality-research",
     "stars": 0,
-    "updated_at": "2026-08-27T02:43:39Z",
+    "updated_at": "2026-08-27T03:58:35Z",
     "url": "https://github.com/astroicers/skill-quality-research"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-27T02:18:56Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 22,
-    "updated_at": "2026-08-27T03:29:58Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Two Claude Code skills for scientific manuscripts: deep pre-submission review and grounded drafting, on the Paper Assist",
-    "id": "whoisraibolt/paper-skills",
-    "language": "\u2014",
-    "name": "whoisraibolt/paper-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T02:14:23Z",
-    "url": "https://github.com/whoisraibolt/paper-skills"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-27T02:14:09Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
-    "id": "gagip/gagip-dev",
-    "language": "Python",
-    "name": "gagip/gagip-dev",
-    "stars": 0,
-    "updated_at": "2026-08-27T02:14:08Z",
-    "url": "https://github.com/gagip/gagip-dev"
-  },
-  {
-    "description": "Exchange-grade crypto marketing playbooks from NorthPoint. Install with npx skills add jukkablomberg/northpoint.",
-    "id": "jukkablomberg/northpoint",
-    "language": "\u2014",
-    "name": "jukkablomberg/northpoint",
-    "stars": 1,
-    "updated_at": "2026-08-27T02:13:12Z",
-    "url": "https://github.com/jukkablomberg/northpoint"
   }
 ]
