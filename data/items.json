@@ -1,5 +1,113 @@
 [
   {
+    "description": "Generate draw.io diagrams from natural language \u2014 11 presets (UML, SysML/MBSE, BPMN, network, C4\u2026), 36 tools: codebase/C",
+    "id": "Agents365-ai/drawio-skill",
+    "language": "Python",
+    "name": "Agents365-ai/drawio-skill",
+    "stars": 8068,
+    "updated_at": "2026-08-27T09:57:00Z",
+    "url": "https://github.com/Agents365-ai/drawio-skill"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 2,
+    "updated_at": "2026-08-27T09:53:47Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-08-27T09:52:44Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "Writes text in your own voice instead of generic AI prose, with a check and polish pass built in. Works with Claude Code",
+    "id": "an2n/ghostwriter",
+    "language": "\u2014",
+    "name": "an2n/ghostwriter",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:51:15Z",
+    "url": "https://github.com/an2n/ghostwriter"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-27T09:50:47Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP",
+    "id": "milisp/keke-agent",
+    "language": "Rust",
+    "name": "milisp/keke-agent",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:49:16Z",
+    "url": "https://github.com/milisp/keke-agent"
+  },
+  {
+    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
+    "id": "AgamiAI/agami-core",
+    "language": "Python",
+    "name": "AgamiAI/agami-core",
+    "stars": 29,
+    "updated_at": "2026-08-27T09:45:35Z",
+    "url": "https://github.com/AgamiAI/agami-core"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T09:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A curated list of SRE skills, MCP servers, and AI-SRE resources",
+    "id": "anyshift-io/awesome-sre-skills",
+    "language": "\u2014",
+    "name": "anyshift-io/awesome-sre-skills",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:44:12Z",
+    "url": "https://github.com/anyshift-io/awesome-sre-skills"
+  },
+  {
+    "description": "Public library of Annie-specific skills for AI agents. Teaches agents how to drive the Annie CLI and the Anyshift MCP (A",
+    "id": "anyshift-io/annie-skills",
+    "language": "\u2014",
+    "name": "anyshift-io/annie-skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T09:44:04Z",
+    "url": "https://github.com/anyshift-io/annie-skills"
+  },
+  {
+    "description": "Open-source library of methodology-shaped SRE skills for AI agents (Apache 2.0)",
+    "id": "anyshift-io/sre-skills",
+    "language": "Python",
+    "name": "anyshift-io/sre-skills",
+    "stars": 17,
+    "updated_at": "2026-08-27T09:44:01Z",
+    "url": "https://github.com/anyshift-io/sre-skills"
+  },
+  {
+    "description": "Anyshift's Claude Code plugin marketplace. Catalog of public plugins (skills, MCP servers) maintained by Anyshift. Add w",
+    "id": "anyshift-io/claude-plugins",
+    "language": "\u2014",
+    "name": "anyshift-io/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-08-27T09:43:59Z",
+    "url": "https://github.com/anyshift-io/claude-plugins"
+  },
+  {
     "description": "Turn PhD weekly notes, papers, results, and figures into evidence-grounded lab meeting reports, with Feishu, Notion, and",
     "id": "LikC1606/lab-meeting-report-skill",
     "language": "Python",
@@ -14,8 +122,17 @@
     "language": "TypeScript",
     "name": "weshopai/weshop-skill-package",
     "stars": 1,
-    "updated_at": "2026-08-27T09:39:35Z",
+    "updated_at": "2026-08-27T09:59:35Z",
     "url": "https://github.com/weshopai/weshop-skill-package"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 5,
+    "updated_at": "2026-08-27T09:36:58Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u5168\u751f\u547d\u5468\u671f QA Agent Skills \u6846\u67b6\u2014\u2014\u65b9\u6cd5\u8bba + 10 Skills + \u53ef\u590d\u73b0 Benchmark\uff08Claude Code \u7b49 Agent \u53ef\u7528\uff09",
@@ -63,24 +180,6 @@
     "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T09:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 29,
-    "updated_at": "2026-08-27T09:37:50Z",
-    "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
     "description": "Custom skills for integration stuff",
     "id": "malmriv/claude-integration-skills",
     "language": "\u2014",
@@ -95,7 +194,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68426,
-    "updated_at": "2026-08-27T09:25:45Z",
+    "updated_at": "2026-08-27T09:59:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -108,15 +207,6 @@
     "url": "https://github.com/kaizakin/dotfiles"
   },
   {
-    "description": "Writes text in your own voice instead of generic AI prose, with a check and polish pass built in. Works with Claude Code",
-    "id": "an2n/ghostwriter",
-    "language": "\u2014",
-    "name": "an2n/ghostwriter",
-    "stars": 0,
-    "updated_at": "2026-08-27T09:24:37Z",
-    "url": "https://github.com/an2n/ghostwriter"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
@@ -126,15 +216,6 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-27T09:44:00Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
     "id": "lemur47/logic",
     "language": "Python",
@@ -142,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T09:22:14Z",
     "url": "https://github.com/lemur47/logic"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 5,
-    "updated_at": "2026-08-27T09:36:58Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
@@ -342,15 +414,6 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
-    "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP",
-    "id": "milisp/keke-agent",
-    "language": "Rust",
-    "name": "milisp/keke-agent",
-    "stars": 1,
-    "updated_at": "2026-08-27T08:30:37Z",
-    "url": "https://github.com/milisp/keke-agent"
-  },
-  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T08:22:07Z",
     "url": "https://github.com/papanito/ai-skills"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 100,
-    "updated_at": "2026-08-27T08:21:21Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Agent Skills that take you from \"I want to contribute to open source\" to a submitted pull request \u2014 and measure whether ",
-    "id": "chjnett/open_contribute",
-    "language": "Python",
-    "name": "chjnett/open_contribute",
-    "stars": 1,
-    "updated_at": "2026-08-27T08:15:13Z",
-    "url": "https://github.com/chjnett/open_contribute"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 16,
-    "updated_at": "2026-08-27T08:14:39Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 22,
-    "updated_at": "2026-08-27T09:17:00Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "109 specialist Claude Code subagents \u00b7 16 engineering teams \u00b7 11 commands \u00b7 10 skills. Architecture \u2192 build \u2192 verify \u2192 s",
-    "id": "bakhod1r/awesome-agents",
-    "language": "Python",
-    "name": "bakhod1r/awesome-agents",
-    "stars": 0,
-    "updated_at": "2026-08-27T08:14:05Z",
-    "url": "https://github.com/bakhod1r/awesome-agents"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 86,
-    "updated_at": "2026-08-27T08:10:43Z",
-    "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Engineering workflow system for AI coding agents \u2014 mandatory planning, TDD, verification, review, and intelligent codeba",
-    "id": "datit309/supergraph",
-    "language": "Shell",
-    "name": "datit309/supergraph",
-    "stars": 21,
-    "updated_at": "2026-08-27T08:08:16Z",
-    "url": "https://github.com/datit309/supergraph"
   }
 ]
