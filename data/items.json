@@ -1,28 +1,82 @@
 [
   {
-    "description": "AI skills for customer success teams - renewal risk, business reviews, onboarding plans, post-call follow-ups and email ",
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 100,
+    "updated_at": "2026-08-27T14:14:47Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "AI skills for the work customer success actually does. Twelve of them: health reads, stakeholder maps, renewal risk, chu",
     "id": "CSPulse/customer-success-skills",
     "language": "\u2014",
     "name": "CSPulse/customer-success-skills",
     "stars": 1,
-    "updated_at": "2026-08-27T13:58:29Z",
+    "updated_at": "2026-08-27T14:11:25Z",
     "url": "https://github.com/CSPulse/customer-success-skills"
+  },
+  {
+    "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP",
+    "id": "milisp/keke-agent",
+    "language": "Rust",
+    "name": "milisp/keke-agent",
+    "stars": 2,
+    "updated_at": "2026-08-27T14:11:08Z",
+    "url": "https://github.com/milisp/keke-agent"
   },
   {
     "description": "Claude Skill that audits your repo's first impression and rewrites your README.",
     "id": "erdalacundakonuk/repo-glowup",
-    "language": "\u2014",
+    "language": "Python",
     "name": "erdalacundakonuk/repo-glowup",
     "stars": 1,
-    "updated_at": "2026-08-27T13:58:00Z",
+    "updated_at": "2026-08-27T14:02:40Z",
     "url": "https://github.com/erdalacundakonuk/repo-glowup"
+  },
+  {
+    "description": "taxue \u7684\u4e13\u4e1a\u6295\u8d44\u5206\u6790 skill",
+    "id": "taxueseek/fund-investment-guide",
+    "language": "Python",
+    "name": "taxueseek/fund-investment-guide",
+    "stars": 16,
+    "updated_at": "2026-08-27T14:02:20Z",
+    "url": "https://github.com/taxueseek/fund-investment-guide"
+  },
+  {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "JavaScript",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 19,
+    "updated_at": "2026-08-27T14:00:40Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T14:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
+    "id": "soulmachine/skills",
+    "language": "Shell",
+    "name": "soulmachine/skills",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:55:01Z",
+    "url": "https://github.com/soulmachine/skills"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6433,
+    "stars": 6434,
     "updated_at": "2026-08-27T13:54:16Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -49,7 +103,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68431,
+    "stars": 68433,
     "updated_at": "2026-08-27T13:50:35Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -77,17 +131,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T13:58:42Z",
+    "updated_at": "2026-08-27T14:10:13Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T13:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
@@ -95,17 +140,8 @@
     "language": "JavaScript",
     "name": "dayvisonassis/sdd-skills",
     "stars": 1,
-    "updated_at": "2026-08-27T13:42:30Z",
+    "updated_at": "2026-08-27T14:07:32Z",
     "url": "https://github.com/dayvisonassis/sdd-skills"
-  },
-  {
-    "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP",
-    "id": "milisp/keke-agent",
-    "language": "Rust",
-    "name": "milisp/keke-agent",
-    "stars": 2,
-    "updated_at": "2026-08-27T13:42:27Z",
-    "url": "https://github.com/milisp/keke-agent"
   },
   {
     "description": "Personal collection of Claude Code skills for development workflows",
@@ -284,7 +320,7 @@
     "language": "JavaScript",
     "name": "AnaCataVC/amiga-ia",
     "stars": 0,
-    "updated_at": "2026-08-27T13:59:25Z",
+    "updated_at": "2026-08-27T14:06:50Z",
     "url": "https://github.com/AnaCataVC/amiga-ia"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 31,
     "updated_at": "2026-08-27T12:27:14Z",
     "url": "https://github.com/awrshift/claude-memory-kit"
-  },
-  {
-    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a416\u4e2a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002",
-    "id": "anbeime/skill",
-    "language": "Python",
-    "name": "anbeime/skill",
-    "stars": 5852,
-    "updated_at": "2026-08-27T12:25:20Z",
-    "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "\u4e2d\u6587 Agent Skills \u5408\u96c6\uff1a194 \u4e2a\u6761\u76ee\u300113 \u4e2a\u672c\u7ad9\u539f\u521b\uff1bCodex 13/13 \u81ea\u52a8\u89e6\u53d1\u5b9e\u6d4b\uff0cClaude Code / Cursor \u5f85\u6d4b\uff1b\u6765\u6e90\u4ed3\u5e93\u5b9a\u671f\u590d\u68c0\uff0c\u8fd0\u884c\u8bb0\u5f55\u516c\u5f00",
-    "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
-    "language": "HTML",
-    "name": "sanhuang520-ship-it/awesome-chinese-ai-tools",
-    "stars": 8,
-    "updated_at": "2026-08-27T12:24:28Z",
-    "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-08-27T12:19:28Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top ",
-    "id": "INo-xious/stockbit-mcp",
-    "language": "TypeScript",
-    "name": "INo-xious/stockbit-mcp",
-    "stars": 8,
-    "updated_at": "2026-08-27T12:16:57Z",
-    "url": "https://github.com/INo-xious/stockbit-mcp"
   }
 ]
