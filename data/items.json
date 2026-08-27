@@ -5,8 +5,71 @@
     "language": "TypeScript",
     "name": "Lucas-Belucci-Bellini/Veritas",
     "stars": 0,
-    "updated_at": "2026-08-27T01:14:49Z",
+    "updated_at": "2026-08-27T01:29:12Z",
     "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 33,
+    "updated_at": "2026-08-27T01:28:43Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Recursive Experiential\u2013Working Memory Evolution for Long-Horizon Agent Harnesses",
+    "id": "Gen-Verse/Recuris",
+    "language": "Python",
+    "name": "Gen-Verse/Recuris",
+    "stars": 37,
+    "updated_at": "2026-08-27T01:27:26Z",
+    "url": "https://github.com/Gen-Verse/Recuris"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 49,
+    "updated_at": "2026-08-27T01:27:01Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Field-tested prompting skills and playbooks for AI video generation: Google Veo 3.1, Gemini Omni Flash, ByteDance Seedan",
+    "id": "raphaelbgr/ai-video-prompting",
+    "language": "Python",
+    "name": "raphaelbgr/ai-video-prompting",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:23:07Z",
+    "url": "https://github.com/raphaelbgr/ai-video-prompting"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68407,
+    "updated_at": "2026-08-27T01:21:32Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 12,
+    "updated_at": "2026-08-27T01:17:22Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T01:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skills repository",
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T01:13:09Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "Field-tested prompting skills and playbooks for AI video generation: Google Veo 3.1, Gemini Omni Flash, ByteDance Seedan",
-    "id": "raphaelbgr/ai-video-prompting",
-    "language": "Python",
-    "name": "raphaelbgr/ai-video-prompting",
-    "stars": 0,
-    "updated_at": "2026-08-27T01:13:08Z",
-    "url": "https://github.com/raphaelbgr/ai-video-prompting"
   },
   {
     "description": "Agent skills for reading papers: Keshav's three-pass method, reproduction specs, paragraph-by-paragraph translation, dur",
@@ -50,7 +104,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-27T01:07:44Z",
+    "updated_at": "2026-08-27T01:21:04Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -72,16 +126,7 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T01:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "\u9ad8\u661f Agent Skill repo \u7684\u5171\u540c\u9ede\u662f\u300c\u597d\u88dd\u300d\u4e0d\u662f\u300c\u5beb\u5f97\u597d\u300d\u2014\u201497 \u500b repo \u7684\u661f\u6578\u68af\u5ea6\u5206\u6790\uff0c\u9644\u53ef\u57f7\u884c\u7684 skill-reviewer \u54c1\u8cea\u5be9\u67e5\u5de5\u5177",
+    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
     "id": "astroicers/skill-quality-research",
     "language": "Python",
     "name": "astroicers/skill-quality-research",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-27T00:32:43Z",
     "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:32:34Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:32:19Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:32:14Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:31:56Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
-  },
-  {
-    "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
-    "id": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "language": "Shell",
-    "name": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:31:25Z",
-    "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
   }
 ]
