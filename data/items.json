@@ -1,5 +1,104 @@
 [
   {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68423,
+    "updated_at": "2026-08-27T08:44:00Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Turns \"what do you think?\" into multiple choice, then questions you the way Socrates did until the answer that was alrea",
+    "id": "jungogogogo/Elenchus",
+    "language": "\u2014",
+    "name": "jungogogogo/Elenchus",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:41:25Z",
+    "url": "https://github.com/jungogogogo/Elenchus"
+  },
+  {
+    "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
+    "id": "seed-forge/harness-ai-kit",
+    "language": "Python",
+    "name": "seed-forge/harness-ai-kit",
+    "stars": 18,
+    "updated_at": "2026-08-27T08:40:18Z",
+    "url": "https://github.com/seed-forge/harness-ai-kit"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 4,
+    "updated_at": "2026-08-27T08:38:00Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "Second brain for Forward Deployed Engineers: engagement memory + execution skills across discovery, delivery, and handof",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 228,
+    "updated_at": "2026-08-27T08:44:13Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tool",
+    "id": "AIDevGTM/gtm-cofounder",
+    "language": "\u2014",
+    "name": "AIDevGTM/gtm-cofounder",
+    "stars": 248,
+    "updated_at": "2026-08-27T08:35:23Z",
+    "url": "https://github.com/AIDevGTM/gtm-cofounder"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:32:59Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:31:30Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP",
+    "id": "milisp/keke-agent",
+    "language": "Rust",
+    "name": "milisp/keke-agent",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:30:37Z",
+    "url": "https://github.com/milisp/keke-agent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T08:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:26:13Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
     "description": "A memory hub and curated skill set for Claude Code \u2014 persistent memory that loads from any directory, plus a guided loca",
     "id": "ManceRayder42/jarvis-os",
     "language": "JavaScript",
@@ -16,24 +115,6 @@
     "stars": 5,
     "updated_at": "2026-08-27T08:24:28Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68424,
-    "updated_at": "2026-08-27T08:24:21Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Second brain for Forward Deployed Engineers: engagement memory + execution skills across discovery, delivery, and handof",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 228,
-    "updated_at": "2026-08-27T08:24:21Z",
-    "url": "https://github.com/suboss87/FDEOps"
   },
   {
     "description": "Tame your AI coding agents with natural language. Generate enforced guardrails (CLAUDE.md, hooks, settings) from a singl",
@@ -63,15 +144,6 @@
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
-    "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP",
-    "id": "milisp/keke-agent",
-    "language": "Rust",
-    "name": "milisp/keke-agent",
-    "stars": 1,
-    "updated_at": "2026-08-27T08:27:44Z",
-    "url": "https://github.com/milisp/keke-agent"
-  },
-  {
     "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
     "id": "Vladimir-Human/humanizer-ru",
     "language": "Python",
@@ -79,15 +151,6 @@
     "stars": 117,
     "updated_at": "2026-08-27T08:19:04Z",
     "url": "https://github.com/Vladimir-Human/humanizer-ru"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T08:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skills that take you from \"I want to contribute to open source\" to a submitted pull request \u2014 and measure whether ",
@@ -149,7 +212,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T08:26:57Z",
+    "updated_at": "2026-08-27T08:44:36Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T07:55:59Z",
     "url": "https://github.com/RumasorengFadil/claude-code-skills"
-  },
-  {
-    "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
-    "id": "seed-forge/harness-ai-kit",
-    "language": "Python",
-    "name": "seed-forge/harness-ai-kit",
-    "stars": 18,
-    "updated_at": "2026-08-27T07:55:12Z",
-    "url": "https://github.com/seed-forge/harness-ai-kit"
   },
   {
     "description": "Sync Claude Code configuration across machines (ccs): collect, apply, bootstrap from a GitHub payload repo",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T07:12:10Z",
     "url": "https://github.com/tommasobbianchi/loopspec"
-  },
-  {
-    "description": "BridgeNode \u2014 x402 pay-per-request AI inference. Agent skill and buyer-side examples for AI agents.",
-    "id": "bridgenode-ai/bridgenode-skill",
-    "language": "\u2014",
-    "name": "bridgenode-ai/bridgenode-skill",
-    "stars": 2,
-    "updated_at": "2026-08-27T07:08:29Z",
-    "url": "https://github.com/bridgenode-ai/bridgenode-skill"
-  },
-  {
-    "description": "Agent Skill for AI story writing: turns one prompt into a structured story using John Truby's Anatomy of Story. Blueprin",
-    "id": "NeuraCerebra-AI/story-architect-skill",
-    "language": "\u2014",
-    "name": "NeuraCerebra-AI/story-architect-skill",
-    "stars": 0,
-    "updated_at": "2026-08-27T07:07:20Z",
-    "url": "https://github.com/NeuraCerebra-AI/story-architect-skill"
-  },
-  {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6152,
-    "updated_at": "2026-08-27T07:06:25Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Claude Code Agent Skill bundle for writing & reviewing academic papers (SSRN / arXiv / Zenodo / journals). Bundles an or",
-    "id": "shimo4228/claude-skill-paper-ecosystem",
-    "language": "Shell",
-    "name": "shimo4228/claude-skill-paper-ecosystem",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:00:50Z",
-    "url": "https://github.com/shimo4228/claude-skill-paper-ecosystem"
-  },
-  {
-    "description": "Agent Skill: design LLM-as-judge evaluators with binary checks as evidence and one named holistic verdict \u2014 no score agg",
-    "id": "shimo4228/llm-as-judge",
-    "language": "Shell",
-    "name": "shimo4228/llm-as-judge",
-    "stars": 0,
-    "updated_at": "2026-08-27T07:00:47Z",
-    "url": "https://github.com/shimo4228/llm-as-judge"
-  },
-  {
-    "description": "Audit a project repo's non-code assets (tool configs, CI workflows, runbooks) for diminished value \u2014 Keep/Update/Retire/",
-    "id": "shimo4228/repo-asset-stocktake",
-    "language": "Shell",
-    "name": "shimo4228/repo-asset-stocktake",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:00:45Z",
-    "url": "https://github.com/shimo4228/repo-asset-stocktake"
   }
 ]
