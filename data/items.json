@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
+    "id": "thefilesareinthecomputer/dotagents",
+    "language": "Python",
+    "name": "thefilesareinthecomputer/dotagents",
+    "stars": 0,
+    "updated_at": "2026-08-27T04:44:00Z",
+    "url": "https://github.com/thefilesareinthecomputer/dotagents"
+  },
+  {
+    "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP",
+    "id": "milisp/keke-agent",
+    "language": "Rust",
+    "name": "milisp/keke-agent",
+    "stars": 1,
+    "updated_at": "2026-08-27T04:44:24Z",
+    "url": "https://github.com/milisp/keke-agent"
+  },
+  {
     "description": "\ud83d\udcda \u7ed9\u4e2d\u56fd\u5f8b\u5e08/\u6cd5\u52a1\u7684\u4e00\u7ad9\u5f0f\u5f00\u6e90 AI \u5de5\u5177\u5730\u56fe\uff5c200+ \u4e2a gh \u6838\u9a8c\u5f00\u6e90\u4ed3\u00b7\u6309\u5de5\u4f5c\u573a\u666f\u5206\u7c7b\u00b7\u80fd\u5426\u5546\u7528\u6807\u6ce8\uff5cawesome list",
     "id": "lilialla/awesome-legal-ai-zh",
     "language": "Python",
     "name": "lilialla/awesome-legal-ai-zh",
     "stars": 132,
-    "updated_at": "2026-08-27T04:28:08Z",
+    "updated_at": "2026-08-27T04:36:07Z",
     "url": "https://github.com/lilialla/awesome-legal-ai-zh"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T04:30:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent skills for TokenLab API integration, model picking, native endpoints, cost routing, and OpenAI-compatible migratio",
+    "id": "hedging8563/tokenlab-skills",
+    "language": "Python",
+    "name": "hedging8563/tokenlab-skills",
+    "stars": 1,
+    "updated_at": "2026-08-27T04:28:12Z",
+    "url": "https://github.com/hedging8563/tokenlab-skills"
+  },
+  {
+    "description": "A browser inside your terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "Rust",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 2299,
+    "updated_at": "2026-08-27T04:27:46Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68413,
-    "updated_at": "2026-08-27T04:20:05Z",
+    "updated_at": "2026-08-27T04:42:31Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -108,15 +153,6 @@
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T04:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Duolingo-style daily tutoring skill for Claude Code: researched curriculums, ~30-min sessions, a persistent notebook of ",
     "id": "derwells/learn-skill",
     "language": "\u2014",
@@ -131,7 +167,7 @@
     "language": "Shell",
     "name": "Kripu77/software-factory",
     "stars": 5,
-    "updated_at": "2026-08-27T04:28:34Z",
+    "updated_at": "2026-08-27T04:42:14Z",
     "url": "https://github.com/Kripu77/software-factory"
   },
   {
@@ -247,7 +283,7 @@
     "id": "Cuongyd196/auto-compare-video",
     "language": "HTML",
     "name": "Cuongyd196/auto-compare-video",
-    "stars": 139,
+    "stars": 140,
     "updated_at": "2026-08-27T03:32:01Z",
     "url": "https://github.com/Cuongyd196/auto-compare-video"
   },
@@ -322,15 +358,6 @@
     "stars": 429,
     "updated_at": "2026-08-27T03:13:50Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "A browser inside your terminal",
-    "id": "zenbu-labs/terminal-browser",
-    "language": "Rust",
-    "name": "zenbu-labs/terminal-browser",
-    "stars": 2297,
-    "updated_at": "2026-08-27T04:27:46Z",
-    "url": "https://github.com/zenbu-labs/terminal-browser"
   },
   {
     "description": "Curated OpenCode-native skills \u2014 the best code from superpowers, VoltAgent, addyosmani, alireza & more. 18 Core always-o",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-27T02:45:55Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Bring DataRobot platform capabilities to your coding agents",
-    "id": "datarobot-oss/datarobot-agent-skills",
-    "language": "Python",
-    "name": "datarobot-oss/datarobot-agent-skills",
-    "stars": 24,
-    "updated_at": "2026-08-27T02:44:03Z",
-    "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 33,
-    "updated_at": "2026-08-27T02:43:49Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
-    "id": "astroicers/skill-quality-research",
-    "language": "Python",
-    "name": "astroicers/skill-quality-research",
-    "stars": 0,
-    "updated_at": "2026-08-27T03:58:35Z",
-    "url": "https://github.com/astroicers/skill-quality-research"
   }
 ]
