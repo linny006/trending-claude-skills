@@ -1,5 +1,95 @@
 [
   {
+    "description": "Your AI agent sessions have no supervisor. Now they do.",
+    "id": "vikgmdev/foreman",
+    "language": "Python",
+    "name": "vikgmdev/foreman",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:13:26Z",
+    "url": "https://github.com/vikgmdev/foreman"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "HTML",
+    "name": "jposluns/cleanlanguage",
+    "stars": 2,
+    "updated_at": "2026-08-27T19:11:38Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:09:59Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 35,
+    "updated_at": "2026-08-27T19:10:00Z",
+    "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "",
+    "id": "Lucas-Belucci-Bellini/Veritas",
+    "language": "TypeScript",
+    "name": "Lucas-Belucci-Bellini/Veritas",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:06:41Z",
+    "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 366,
+    "updated_at": "2026-08-27T19:03:57Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 414,
+    "updated_at": "2026-08-27T19:03:19Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
+    "id": "ergrelet/windiff",
+    "language": "Rust",
+    "name": "ergrelet/windiff",
+    "stars": 390,
+    "updated_at": "2026-08-27T19:01:31Z",
+    "url": "https://github.com/ergrelet/windiff"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T19:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 33,
+    "updated_at": "2026-08-27T19:00:14Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
     "description": "Just Another Agent skill repository.",
     "id": "n-n-code/n-n-code-skills",
     "language": "Python",
@@ -9,40 +99,13 @@
     "url": "https://github.com/n-n-code/n-n-code-skills"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 414,
-    "updated_at": "2026-08-27T18:58:36Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 366,
-    "updated_at": "2026-08-27T18:54:43Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T18:58:40Z",
+    "updated_at": "2026-08-27T19:02:36Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "",
-    "id": "Lucas-Belucci-Bellini/Veritas",
-    "language": "TypeScript",
-    "name": "Lucas-Belucci-Bellini/Veritas",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:51:32Z",
-    "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
   },
   {
     "description": "bridge.ai/tack: Route tracker for AI-assisted development work \u2014 pivots, deliverables, and dependencies \u2014 across session",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:46:08Z",
     "url": "https://github.com/chris-peterson/tack"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T18:45:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "bridge.ai: Claude Code plugins for AI-assisted development",
@@ -112,7 +166,7 @@
     "id": "zenbu-labs/terminal-browser",
     "language": "Rust",
     "name": "zenbu-labs/terminal-browser",
-    "stars": 2332,
+    "stars": 2333,
     "updated_at": "2026-08-27T18:34:45Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
   },
@@ -175,18 +229,9 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6502,
+    "stars": 6503,
     "updated_at": "2026-08-27T18:25:00Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
-    "description": "Agent skills for building, shipping, and growing software products",
-    "id": "tenequm/skills",
-    "language": "Python",
-    "name": "tenequm/skills",
-    "stars": 35,
-    "updated_at": "2026-08-27T18:25:41Z",
-    "url": "https://github.com/tenequm/skills"
   },
   {
     "description": "Lets Claude Code manage Architecture Decision Records in your repository via the adrplus CLI, in plain language, instead",
@@ -374,7 +419,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30627,
-    "updated_at": "2026-08-27T17:32:49Z",
+    "updated_at": "2026-08-27T19:13:38Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/inkatze/planwright"
   },
   {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/cleanlanguage",
-    "language": "HTML",
-    "name": "jposluns/cleanlanguage",
-    "stars": 2,
-    "updated_at": "2026-08-27T17:16:39Z",
-    "url": "https://github.com/jposluns/cleanlanguage"
-  },
-  {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
     "id": "HsuanYuLee/polaris",
     "language": "Shell",
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-27T17:16:19Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "My favorite reusable agent skills.",
-    "id": "arasovic/skills",
-    "language": "HTML",
-    "name": "arasovic/skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:14:53Z",
-    "url": "https://github.com/arasovic/skills"
-  },
-  {
-    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
-    "id": "chris-peterson/beacon",
-    "language": "Python",
-    "name": "chris-peterson/beacon",
-    "stars": 1,
-    "updated_at": "2026-08-27T17:02:19Z",
-    "url": "https://github.com/chris-peterson/beacon"
-  },
-  {
-    "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
-    "id": "dayvisonassis/sdd-skills",
-    "language": "JavaScript",
-    "name": "dayvisonassis/sdd-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T16:55:41Z",
-    "url": "https://github.com/dayvisonassis/sdd-skills"
-  },
-  {
-    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
-    "id": "ArcticFox2029/chamnan",
-    "language": "Python",
-    "name": "ArcticFox2029/chamnan",
-    "stars": 4,
-    "updated_at": "2026-08-27T16:53:49Z",
-    "url": "https://github.com/ArcticFox2029/chamnan"
   }
 ]
