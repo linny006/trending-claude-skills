@@ -1,11 +1,47 @@
 [
   {
+    "description": "Prompt engineering as a procedure, not a document. Routes to the right artifact, sizes evals to the volume, ships a lint",
+    "id": "AdrianAdem/prompt-engineer-skill",
+    "language": "Python",
+    "name": "AdrianAdem/prompt-engineer-skill",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:58:12Z",
+    "url": "https://github.com/AdrianAdem/prompt-engineer-skill"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 144,
+    "updated_at": "2026-08-27T08:55:06Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 4,
+    "updated_at": "2026-08-27T08:52:17Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:50:32Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68423,
-    "updated_at": "2026-08-27T08:44:00Z",
+    "updated_at": "2026-08-27T08:58:47Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -14,8 +50,26 @@
     "language": "\u2014",
     "name": "jungogogogo/Elenchus",
     "stars": 1,
-    "updated_at": "2026-08-27T08:41:25Z",
+    "updated_at": "2026-08-27T08:48:37Z",
     "url": "https://github.com/jungogogogo/Elenchus"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T08:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u4e2d\u56fd\u5927\u9646\u5f8b\u5e08\u529e\u6848\u4e0e\u5408\u540c\u6280\u80fd\u5e93-Open Agent Skills for Chinese mainland legal practice",
+    "id": "Lawyeah-Tech/lawyeah",
+    "language": "\u2014",
+    "name": "Lawyeah-Tech/lawyeah",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:42:47Z",
+    "url": "https://github.com/Lawyeah-Tech/lawyeah"
   },
   {
     "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
@@ -27,13 +81,13 @@
     "url": "https://github.com/seed-forge/harness-ai-kit"
   },
   {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 4,
-    "updated_at": "2026-08-27T08:38:00Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:39:52Z",
+    "url": "https://github.com/JBSag/pm-artisan"
   },
   {
     "description": "Second brain for Forward Deployed Engineers: engagement memory + execution skills across discovery, delivery, and handof",
@@ -43,6 +97,15 @@
     "stars": 228,
     "updated_at": "2026-08-27T08:44:13Z",
     "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:36:57Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   },
   {
     "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tool",
@@ -79,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T08:30:37Z",
     "url": "https://github.com/milisp/keke-agent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T08:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -176,7 +230,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-27T08:14:33Z",
+    "updated_at": "2026-08-27T08:50:21Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T08:14:05Z",
     "url": "https://github.com/bakhod1r/awesome-agents"
-  },
-  {
-    "description": "Prompt engineering as a procedure, not a document. Routes to the right artifact, sizes evals to the volume, ships a lint",
-    "id": "AdrianAdem/prompt-engineer-skill",
-    "language": "Python",
-    "name": "AdrianAdem/prompt-engineer-skill",
-    "stars": 0,
-    "updated_at": "2026-08-27T08:13:41Z",
-    "url": "https://github.com/AdrianAdem/prompt-engineer-skill"
   },
   {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
@@ -212,7 +257,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T08:44:36Z",
+    "updated_at": "2026-08-27T08:56:15Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -247,7 +292,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6425,
+    "stars": 6426,
     "updated_at": "2026-08-27T08:00:26Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 29,
-    "updated_at": "2026-08-27T07:47:53Z",
+    "updated_at": "2026-08-27T08:59:25Z",
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-27T07:22:32Z",
     "url": "https://github.com/CrossRead/scholion"
-  },
-  {
-    "description": "Self-driving agent loop for Claude Code. It turns an issue into a planned, verified, committed change, and lets you run,",
-    "id": "benman1/wiggum",
-    "language": "Shell",
-    "name": "benman1/wiggum",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:21:11Z",
-    "url": "https://github.com/benman1/wiggum"
-  },
-  {
-    "description": "Backend security Agent Skill that helps AI audit code, detect vulnerabilities, and generate secure-by-default backend ap",
-    "id": "n-shadloo/secure-code-auditor",
-    "language": "Python",
-    "name": "n-shadloo/secure-code-auditor",
-    "stars": 4,
-    "updated_at": "2026-08-27T07:18:41Z",
-    "url": "https://github.com/n-shadloo/secure-code-auditor"
-  },
-  {
-    "description": "Security enforcement for AI coding agents. Catch and block insecure code.",
-    "id": "akashsebastian333/peephole",
-    "language": "Go",
-    "name": "akashsebastian333/peephole",
-    "stars": 4,
-    "updated_at": "2026-08-27T07:18:23Z",
-    "url": "https://github.com/akashsebastian333/peephole"
-  },
-  {
-    "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u5168\u751f\u547d\u5468\u671f QA Agent Skills \u6846\u67b6\u2014\u2014\u65b9\u6cd5\u8bba + 10 Skills + \u53ef\u590d\u73b0 Benchmark\uff08Claude Code \u7b49 Agent \u53ef\u7528\uff09",
-    "id": "fishzjp/qa-skills",
-    "language": "HTML",
-    "name": "fishzjp/qa-skills",
-    "stars": 11,
-    "updated_at": "2026-08-27T07:13:10Z",
-    "url": "https://github.com/fishzjp/qa-skills"
-  },
-  {
-    "description": "Compile an informal task into a harness-gated delegation spec: the test harness decides done, not the model.",
-    "id": "tommasobbianchi/loopspec",
-    "language": "\u2014",
-    "name": "tommasobbianchi/loopspec",
-    "stars": 0,
-    "updated_at": "2026-08-27T07:12:10Z",
-    "url": "https://github.com/tommasobbianchi/loopspec"
   }
 ]
