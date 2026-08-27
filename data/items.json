@@ -1,12 +1,39 @@
 [
   {
-    "description": "GTM engineering skills for AI coding agents \u2014 build lead lists, find & verify emails, waterfall enrichment, lead scoring",
-    "id": "getcargohq/cargo-skills",
+    "description": "A personalization and governance layer for claude code. Wizard-driven install. Opensource skills library. ",
+    "id": "Inigo-Antony/loadout",
+    "language": "Shell",
+    "name": "Inigo-Antony/loadout",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:41:57Z",
+    "url": "https://github.com/Inigo-Antony/loadout"
+  },
+  {
+    "description": "\ud83e\udd47 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web ac",
+    "id": "liustack/modsearch",
     "language": "TypeScript",
-    "name": "getcargohq/cargo-skills",
-    "stars": 15,
-    "updated_at": "2026-08-27T17:28:59Z",
-    "url": "https://github.com/getcargohq/cargo-skills"
+    "name": "liustack/modsearch",
+    "stars": 300,
+    "updated_at": "2026-08-27T17:38:26Z",
+    "url": "https://github.com/liustack/modsearch"
+  },
+  {
+    "description": "A Skill and CLI tool for Codex and Claude Code that converts images, PDFs, image-based PPTX files, and mixed PPTX files ",
+    "id": "DSY-Xueai/image2editable",
+    "language": "Python",
+    "name": "DSY-Xueai/image2editable",
+    "stars": 11,
+    "updated_at": "2026-08-27T17:37:36Z",
+    "url": "https://github.com/DSY-Xueai/image2editable"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-27T17:37:03Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "",
@@ -14,8 +41,62 @@
     "language": "TypeScript",
     "name": "Lucas-Belucci-Bellini/Veritas",
     "stars": 0,
-    "updated_at": "2026-08-27T17:26:16Z",
+    "updated_at": "2026-08-27T17:41:59Z",
     "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 6,
+    "updated_at": "2026-08-27T17:33:53Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "GTM engineering skills for AI coding agents \u2014 build lead lists, find & verify emails, waterfall enrichment, lead scoring",
+    "id": "getcargohq/cargo-skills",
+    "language": "TypeScript",
+    "name": "getcargohq/cargo-skills",
+    "stars": 15,
+    "updated_at": "2026-08-27T17:33:49Z",
+    "url": "https://github.com/getcargohq/cargo-skills"
+  },
+  {
+    "description": "A directory of AI tools and the skills that make them better at your work. 5,402 skills for 102 tools, fully offline, in",
+    "id": "ehsanking/Skills-Ai",
+    "language": "\u2014",
+    "name": "ehsanking/Skills-Ai",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:33:18Z",
+    "url": "https://github.com/ehsanking/Skills-Ai"
+  },
+  {
+    "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
+    "id": "liustack/modlens",
+    "language": "TypeScript",
+    "name": "liustack/modlens",
+    "stars": 3725,
+    "updated_at": "2026-08-27T17:32:16Z",
+    "url": "https://github.com/liustack/modlens"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T17:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 3,
+    "updated_at": "2026-08-27T17:27:28Z",
+    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "\u628a\u4e00\u500b\u4eba\u7684\u8a71\u554f\u51fa\u4f86\uff0c\u505a\u6210\u4e00\u9801\u5f0f\u7684\u500b\u4eba\u54c1\u724c\u7db2\u7ad9\u3002\u7d66 AI \u4ee3\u7406\u4eba\u7167\u8457\u8dd1\u7684\u56db\u968e\u6bb5\u6d41\u7a0b\uff1a\u8a2a\u8ac7\u3001\u9078\u578b\u3001\u5efa\u7ad9\u3001\u9a57\u6536\u3002\u96f6\u4f9d\u8cf4\uff0c\u56db\u7a2e\u98a8\u683c\uff0c\u56db\u7a2e\u6703\u6d41\u52d5\u7684\u9996\u5c4f\u3002",
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30627,
-    "updated_at": "2026-08-27T17:21:01Z",
+    "updated_at": "2026-08-27T17:32:49Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -50,17 +131,8 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 101,
-    "updated_at": "2026-08-27T17:20:26Z",
+    "updated_at": "2026-08-27T17:42:45Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 3,
-    "updated_at": "2026-08-27T17:27:28Z",
-    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "A free cross-platform editorial standard for AI writing.",
@@ -81,22 +153,13 @@
     "url": "https://github.com/HsuanYuLee/polaris"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T17:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-27T17:29:57Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
+    "description": "My favorite reusable agent skills.",
+    "id": "arasovic/skills",
+    "language": "HTML",
+    "name": "arasovic/skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:14:53Z",
+    "url": "https://github.com/arasovic/skills"
   },
   {
     "description": "bridge.ai/tack: Route tracker for AI-assisted development work \u2014 pivots, deliverables, and dependencies \u2014 across session",
@@ -106,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T17:07:37Z",
     "url": "https://github.com/chris-peterson/tack"
+  },
+  {
+    "description": "Agent skill that finds skills in the open ecosystem and asks whether to install them permanently or load them once",
+    "id": "ipavelm/advanced-skill-finder",
+    "language": "HTML",
+    "name": "ipavelm/advanced-skill-finder",
+    "stars": 1,
+    "updated_at": "2026-08-27T17:05:47Z",
+    "url": "https://github.com/ipavelm/advanced-skill-finder"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -171,15 +243,6 @@
     "url": "https://github.com/johanthoren/jeff"
   },
   {
-    "description": "Agent skill that finds skills in the open ecosystem and asks whether to install them permanently or load them once",
-    "id": "ipavelm/advanced-skill-finder",
-    "language": "HTML",
-    "name": "ipavelm/advanced-skill-finder",
-    "stars": 1,
-    "updated_at": "2026-08-27T17:05:47Z",
-    "url": "https://github.com/ipavelm/advanced-skill-finder"
-  },
-  {
     "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
     "id": "seed-forge/harness-ai-kit",
     "language": "Python",
@@ -212,7 +275,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68443,
-    "updated_at": "2026-08-27T17:27:21Z",
+    "updated_at": "2026-08-27T17:32:37Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -274,7 +337,7 @@
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6151,
+    "stars": 6153,
     "updated_at": "2026-08-27T16:17:05Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
@@ -374,7 +437,7 @@
     "language": "Python",
     "name": "Misaka16384/magi",
     "stars": 7,
-    "updated_at": "2026-08-27T16:08:29Z",
+    "updated_at": "2026-08-27T17:37:52Z",
     "url": "https://github.com/Misaka16384/magi"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-27T16:07:37Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-27T16:06:15Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 5,
-    "updated_at": "2026-08-27T16:04:07Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "\ud83e\udd16 Just a skill to let AI generate documents based on your source code \ud83d\udd05",
-    "id": "jonaskahn/docforge",
-    "language": "Python",
-    "name": "jonaskahn/docforge",
-    "stars": 1,
-    "updated_at": "2026-08-27T16:01:02Z",
-    "url": "https://github.com/jonaskahn/docforge"
-  },
-  {
-    "description": "Claude Code \uc2a4\ud0ac 3\uc885 \u2014 \ud300\uc6d0\uc774 \uc77d\ub294 PR\u00b7\uc774\uc288\u00b7\ucee4\ubc0b \uae00\uc4f0\uae30, \ud300\uc6d0 PR \ub9ac\ubdf0 \uc808\ucc28, AI\uac00 \uc9e0 \ucf54\ub4dc\uc5d0 \ub300\ud55c \uc774\ud574 \ubd80\ucc44 \uc810\uac80",
-    "id": "iceberggymnast/skills",
-    "language": "Python",
-    "name": "iceberggymnast/skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:58:57Z",
-    "url": "https://github.com/iceberggymnast/skills"
-  },
-  {
-    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-08-27T15:56:51Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
-    "id": "jabrena/plinth",
-    "language": "Java",
-    "name": "jabrena/plinth",
-    "stars": 431,
-    "updated_at": "2026-08-27T15:56:06Z",
-    "url": "https://github.com/jabrena/plinth"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-08-27T15:53:07Z",
-    "url": "https://github.com/huangwb8/skills"
   }
 ]
