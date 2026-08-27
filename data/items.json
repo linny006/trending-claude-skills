@@ -1,11 +1,74 @@
 [
   {
+    "description": "Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness \u2014 open Agent Skills standard, not Claude-",
+    "id": "shimo4228/claude-harness",
+    "language": "Python",
+    "name": "shimo4228/claude-harness",
+    "stars": 2,
+    "updated_at": "2026-08-27T06:58:34Z",
+    "url": "https://github.com/shimo4228/claude-harness"
+  },
+  {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 431,
+    "updated_at": "2026-08-27T06:58:29Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "A self-evolving second brain for Product Managers \u2014 45 brain-aware PM commands, 8 auto-selected skills, and 7 sub-agent ",
+    "id": "brainAlly/pm-cortex",
+    "language": "Python",
+    "name": "brainAlly/pm-cortex",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:57:24Z",
+    "url": "https://github.com/brainAlly/pm-cortex"
+  },
+  {
+    "description": "Compile an informal task into a harness-gated delegation spec: the test harness decides done, not the model.",
+    "id": "tommasobbianchi/loopspec",
+    "language": "\u2014",
+    "name": "tommasobbianchi/loopspec",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:54:50Z",
+    "url": "https://github.com/tommasobbianchi/loopspec"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:53:53Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:47:18Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6422,
+    "updated_at": "2026-08-27T06:47:06Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
     "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
     "id": "thefilesareinthecomputer/dotagents",
     "language": "Python",
     "name": "thefilesareinthecomputer/dotagents",
     "stars": 0,
-    "updated_at": "2026-08-27T06:42:35Z",
+    "updated_at": "2026-08-27T06:46:45Z",
     "url": "https://github.com/thefilesareinthecomputer/dotagents"
   },
   {
@@ -14,8 +77,26 @@
     "language": "Python",
     "name": "anton-winter-arch/dotagents",
     "stars": 1,
-    "updated_at": "2026-08-27T06:42:33Z",
+    "updated_at": "2026-08-27T06:46:43Z",
     "url": "https://github.com/anton-winter-arch/dotagents"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T06:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
+    "id": "Vladimir-Human/humanizer-ru",
+    "language": "Python",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 117,
+    "updated_at": "2026-08-27T06:43:58Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
     "description": "AI-assisted pipeline that turns product specs into human-reviewed test plans and executable Playwright automation",
@@ -81,15 +162,6 @@
     "url": "https://github.com/vanducng/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T06:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent Skill for AI story writing: turns one prompt into a structured story using John Truby's Anatomy of Story. Blueprin",
     "id": "NeuraCerebra-AI/story-architect-skill",
     "language": "\u2014",
@@ -103,7 +175,7 @@
     "id": "leopard627/fire-your-seo-agency",
     "language": "\u2014",
     "name": "leopard627/fire-your-seo-agency",
-    "stars": 85,
+    "stars": 87,
     "updated_at": "2026-08-27T06:26:41Z",
     "url": "https://github.com/leopard627/fire-your-seo-agency"
   },
@@ -113,7 +185,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T06:43:30Z",
+    "updated_at": "2026-08-27T06:54:18Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T06:25:31Z",
     "url": "https://github.com/magnusrodseth/dotfiles"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 117,
-    "updated_at": "2026-08-27T06:43:58Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
     "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u5168\u751f\u547d\u5468\u671f QA Agent Skills \u6846\u67b6\u2014\u2014\u65b9\u6cd5\u8bba + 10 Skills + \u53ef\u590d\u73b0 Benchmark\uff08Claude Code \u7b49 Agent \u53ef\u7528\uff09",
@@ -153,21 +216,12 @@
     "url": "https://github.com/RumasorengFadil/claude-code-skills"
   },
   {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:18:40Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-27T06:16:35Z",
+    "updated_at": "2026-08-27T06:52:30Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -243,21 +297,12 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6422,
-    "updated_at": "2026-08-27T05:55:08Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
     "description": "Security enforcement for AI coding agents. Catch and block insecure code.",
     "id": "akashsebastian333/peephole",
     "language": "Go",
     "name": "akashsebastian333/peephole",
     "stars": 4,
-    "updated_at": "2026-08-27T05:54:45Z",
+    "updated_at": "2026-08-27T06:54:53Z",
     "url": "https://github.com/akashsebastian333/peephole"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 132,
     "updated_at": "2026-08-27T04:36:07Z",
     "url": "https://github.com/lilialla/awesome-legal-ai-zh"
-  },
-  {
-    "description": "Personal memory across agents",
-    "id": "NevaMind-AI/memU",
-    "language": "Python",
-    "name": "NevaMind-AI/memU",
-    "stars": 14351,
-    "updated_at": "2026-08-27T04:32:07Z",
-    "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "Agent skills for TokenLab API integration, model picking, native endpoints, cost routing, and OpenAI-compatible migratio",
-    "id": "hedging8563/tokenlab-skills",
-    "language": "Python",
-    "name": "hedging8563/tokenlab-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:28:12Z",
-    "url": "https://github.com/hedging8563/tokenlab-skills"
-  },
-  {
-    "description": "A browser inside your terminal",
-    "id": "zenbu-labs/terminal-browser",
-    "language": "Rust",
-    "name": "zenbu-labs/terminal-browser",
-    "stars": 2304,
-    "updated_at": "2026-08-27T04:27:46Z",
-    "url": "https://github.com/zenbu-labs/terminal-browser"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:27:20Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-08-27T04:24:20Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
   }
 ]
