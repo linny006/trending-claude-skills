@@ -1,11 +1,47 @@
 [
   {
+    "description": "bridge.ai/tack: Route tracker for AI-assisted development work \u2014 pivots, deliverables, and dependencies \u2014 across session",
+    "id": "chris-peterson/tack",
+    "language": "TypeScript",
+    "name": "chris-peterson/tack",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:07:37Z",
+    "url": "https://github.com/chris-peterson/tack"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-27T17:15:02Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
+    "id": "chris-peterson/beacon",
+    "language": "Python",
+    "name": "chris-peterson/beacon",
+    "stars": 1,
+    "updated_at": "2026-08-27T17:02:19Z",
+    "url": "https://github.com/chris-peterson/beacon"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T17:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A free cross-platform editorial standard for AI writing.",
     "id": "jposluns/cleanlanguage",
     "language": "HTML",
     "name": "jposluns/cleanlanguage",
     "stars": 2,
-    "updated_at": "2026-08-27T16:58:29Z",
+    "updated_at": "2026-08-27T17:08:59Z",
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
@@ -45,22 +81,13 @@
     "url": "https://github.com/johanthoren/jeff"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 101,
-    "updated_at": "2026-08-27T16:47:10Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T16:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Agent skill that finds skills in the open ecosystem and asks whether to install them permanently or load them once",
+    "id": "ipavelm/advanced-skill-finder",
+    "language": "HTML",
+    "name": "ipavelm/advanced-skill-finder",
+    "stars": 1,
+    "updated_at": "2026-08-27T17:05:47Z",
+    "url": "https://github.com/ipavelm/advanced-skill-finder"
   },
   {
     "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
@@ -77,7 +104,7 @@
     "language": "TypeScript",
     "name": "Lucas-Belucci-Bellini/Veritas",
     "stars": 0,
-    "updated_at": "2026-08-27T16:38:35Z",
+    "updated_at": "2026-08-27T17:06:05Z",
     "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T16:19:28Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Agent skill that finds skills in the open ecosystem and asks whether to install them permanently or load them once",
-    "id": "ipavelm/advanced-skill-finder",
-    "language": "HTML",
-    "name": "ipavelm/advanced-skill-finder",
-    "stars": 1,
-    "updated_at": "2026-08-27T16:45:09Z",
-    "url": "https://github.com/ipavelm/advanced-skill-finder"
   },
   {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T15:35:08Z",
     "url": "https://github.com/liorzarek12-cmd/codex-quota-widget"
-  },
-  {
-    "description": "Verified Agent Skills registry for Codex and Claude Code: curated installs, provenance, license checks, reproducible evi",
-    "id": "userInner/SKILLS",
-    "language": "Python",
-    "name": "userInner/SKILLS",
-    "stars": 3,
-    "updated_at": "2026-08-27T15:30:42Z",
-    "url": "https://github.com/userInner/SKILLS"
-  },
-  {
-    "description": "Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers ",
-    "id": "imMamdouhaboammar/vibe-svgs",
-    "language": "TypeScript",
-    "name": "imMamdouhaboammar/vibe-svgs",
-    "stars": 3,
-    "updated_at": "2026-08-27T15:28:54Z",
-    "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
   }
 ]
