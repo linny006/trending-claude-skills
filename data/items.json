@@ -1,5 +1,68 @@
 [
   {
+    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
+    "id": "alexgreensh/repo-forensics",
+    "language": "Python",
+    "name": "alexgreensh/repo-forensics",
+    "stars": 165,
+    "updated_at": "2026-08-27T22:41:08Z",
+    "url": "https://github.com/alexgreensh/repo-forensics"
+  },
+  {
+    "description": "A Claude Code plugin marketplace: ship-it drives a batch of issues to merged PRs; stack-it takes a project from an empty",
+    "id": "pricklywiggles/fractally-claude-marketplace",
+    "language": "Python",
+    "name": "pricklywiggles/fractally-claude-marketplace",
+    "stars": 0,
+    "updated_at": "2026-08-27T22:39:09Z",
+    "url": "https://github.com/pricklywiggles/fractally-claude-marketplace"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-27T22:35:41Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Scaffolding skill + always-on conventions (CLAUDE.md/AGENTS.md) for Quarkus + LangChain4j agentic AI apps: AI services, ",
+    "id": "eldermoraes/quarkus-agentic-scaffolding",
+    "language": "Shell",
+    "name": "eldermoraes/quarkus-agentic-scaffolding",
+    "stars": 26,
+    "updated_at": "2026-08-27T22:32:58Z",
+    "url": "https://github.com/eldermoraes/quarkus-agentic-scaffolding"
+  },
+  {
+    "description": "30 agent skills for customer success and retention: churn prediction, renewal forecasting, QBRs, expansion, escalations,",
+    "id": "gaintrace/customer-success-skills",
+    "language": "Python",
+    "name": "gaintrace/customer-success-skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T22:32:02Z",
+    "url": "https://github.com/gaintrace/customer-success-skills"
+  },
+  {
+    "description": "Decide about a tool before you pay for it. AI skills that read the privacy policy and terms, find what people actually c",
+    "id": "theAnirudhKumar/tool-decisions",
+    "language": "Python",
+    "name": "theAnirudhKumar/tool-decisions",
+    "stars": 0,
+    "updated_at": "2026-08-27T22:30:43Z",
+    "url": "https://github.com/theAnirudhKumar/tool-decisions"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T22:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
     "id": "patrickserrano/lacquer",
     "language": "Go",
@@ -7,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T22:29:50Z",
     "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
-    "id": "alexgreensh/repo-forensics",
-    "language": "Python",
-    "name": "alexgreensh/repo-forensics",
-    "stars": 165,
-    "updated_at": "2026-08-27T22:24:48Z",
-    "url": "https://github.com/alexgreensh/repo-forensics"
   },
   {
     "description": "",
@@ -90,15 +144,6 @@
     "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T22:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
     "id": "Scoundrelwildness456/i-have-adhd",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T22:15:12Z",
     "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Decide about a tool before you pay for it. AI skills that read the privacy policy and terms, find what people actually c",
-    "id": "theAnirudhKumar/tool-decisions",
-    "language": "Python",
-    "name": "theAnirudhKumar/tool-decisions",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:30:06Z",
-    "url": "https://github.com/theAnirudhKumar/tool-decisions"
   },
   {
     "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
@@ -133,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T22:12:33Z",
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "30 agent skills for customer success and retention: churn prediction, renewal forecasting, QBRs, expansion, escalations,",
-    "id": "gaintrace/customer-success-skills",
-    "language": "Python",
-    "name": "gaintrace/customer-success-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:29:57Z",
-    "url": "https://github.com/gaintrace/customer-success-skills"
   },
   {
     "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-27T22:03:57Z",
     "url": "https://github.com/Logiiiii/unity-agent-skills"
-  },
-  {
-    "description": "Enhance Claude Code CLI with undo, safety hooks, session resume, effort control, MCP tools, and multilingual i18n",
-    "id": "Caseous-kerrcell366/claude",
-    "language": "Python",
-    "name": "Caseous-kerrcell366/claude",
-    "stars": 2,
-    "updated_at": "2026-08-27T22:03:32Z",
-    "url": "https://github.com/Caseous-kerrcell366/claude"
-  },
-  {
-    "description": "Manage reusable Claude Code skills for PR review, security audits, and dependency checks to save time on real projects",
-    "id": "nariatrip191/my-claude-skills",
-    "language": "Python",
-    "name": "nariatrip191/my-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T22:02:59Z",
-    "url": "https://github.com/nariatrip191/my-claude-skills"
-  },
-  {
-    "description": "A browser inside your terminal",
-    "id": "zenbu-labs/terminal-browser",
-    "language": "Rust",
-    "name": "zenbu-labs/terminal-browser",
-    "stars": 2340,
-    "updated_at": "2026-08-27T22:02:55Z",
-    "url": "https://github.com/zenbu-labs/terminal-browser"
   }
 ]
