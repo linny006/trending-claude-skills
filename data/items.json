@@ -1,12 +1,93 @@
 [
   {
+    "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
+    "id": "valentil/featureboard-mcp",
+    "language": "JavaScript",
+    "name": "valentil/featureboard-mcp",
+    "stars": 2,
+    "updated_at": "2026-08-27T20:57:28Z",
+    "url": "https://github.com/valentil/featureboard-mcp"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 16,
+    "updated_at": "2026-08-27T20:55:32Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
+    "id": "Vladimir-Human/humanizer-ru",
+    "language": "Python",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 117,
+    "updated_at": "2026-08-27T20:53:25Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 367,
+    "updated_at": "2026-08-27T20:49:45Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
     "description": "\u4e2d\u6587\uff1a\u8ba9 AI \u50cf\u4eba\u4e00\u6837\u8bf4\u8bdd\u3001\u521b\u4f5c\u7684\u5b8c\u6574\u89c4\u5219\u96c6\u3002\u53bb\u9664 AI \u8154\u3001\u8bb2\u4e49\u8154\u3001\u534f\u4f5c\u75d5\u8ff9\u3002\u9002\u7528\u4e8e Claude\u3001ChatGPT \u53ca\u6240\u6709\u5bf9\u8bdd AI\u3002  EN\uff1aComplete ruleset to make AI talk and write lik",
     "id": "chengzhi-c/natural-talk",
     "language": "\u2014",
     "name": "chengzhi-c/natural-talk",
     "stars": 28,
-    "updated_at": "2026-08-27T20:44:51Z",
+    "updated_at": "2026-08-27T20:50:02Z",
     "url": "https://github.com/chengzhi-c/natural-talk"
+  },
+  {
+    "description": "Professional development studio for Claude Code CLI",
+    "id": "manastalukdar/ai-devstudio",
+    "language": "Python",
+    "name": "manastalukdar/ai-devstudio",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:46:42Z",
+    "url": "https://github.com/manastalukdar/ai-devstudio"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:45:50Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T20:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-27T20:53:29Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-08-27T20:37:52Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -45,24 +126,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 101,
-    "updated_at": "2026-08-27T20:45:12Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T20:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandboxed YAML suites, ",
     "id": "UiPath/coder_eval",
     "language": "Python",
@@ -86,7 +149,7 @@
     "language": "Shell",
     "name": "chrislacey89/skills",
     "stars": 2,
-    "updated_at": "2026-08-27T20:21:57Z",
+    "updated_at": "2026-08-27T20:55:33Z",
     "url": "https://github.com/chrislacey89/skills"
   },
   {
@@ -126,15 +189,6 @@
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 16,
-    "updated_at": "2026-08-27T20:41:52Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
     "description": "The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not say.",
     "id": "alexis-morain/verbatim-linkedin",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 133,
     "updated_at": "2026-08-27T20:12:35Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
-    "id": "valentil/featureboard-mcp",
-    "language": "JavaScript",
-    "name": "valentil/featureboard-mcp",
-    "stars": 2,
-    "updated_at": "2026-08-27T20:08:01Z",
-    "url": "https://github.com/valentil/featureboard-mcp"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
@@ -203,7 +248,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T20:22:32Z",
+    "updated_at": "2026-08-27T20:53:10Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -324,15 +369,6 @@
     "url": "https://github.com/vikgmdev/foreman"
   },
   {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 117,
-    "updated_at": "2026-08-27T19:24:22Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
-  },
-  {
     "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
     "id": "isatimur/excalidraw-skill-pack",
     "language": "TypeScript",
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30626,
-    "updated_at": "2026-08-27T19:16:14Z",
+    "updated_at": "2026-08-27T20:52:54Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T19:06:41Z",
     "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 367,
-    "updated_at": "2026-08-27T20:28:10Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 414,
-    "updated_at": "2026-08-27T19:03:19Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
-    "id": "ergrelet/windiff",
-    "language": "Rust",
-    "name": "ergrelet/windiff",
-    "stars": 390,
-    "updated_at": "2026-08-27T19:01:31Z",
-    "url": "https://github.com/ergrelet/windiff"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 33,
-    "updated_at": "2026-08-27T20:32:39Z",
-    "url": "https://github.com/curie-eng/curie"
   }
 ]
