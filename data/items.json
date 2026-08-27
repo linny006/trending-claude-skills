@@ -1,21 +1,84 @@
 [
   {
+    "description": "Marketplace aberto de skills para agentes de c\u00f3digo \u2014 Claude Code, Cursor, Copilot e AGENTS.md",
+    "id": "thiagopbraga/skills-space",
+    "language": "JavaScript",
+    "name": "thiagopbraga/skills-space",
+    "stars": 0,
+    "updated_at": "2026-08-27T12:50:34Z",
+    "url": "https://github.com/thiagopbraga/skills-space"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-27T12:59:03Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 33,
-    "updated_at": "2026-08-27T12:40:10Z",
+    "updated_at": "2026-08-27T12:59:26Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
-    "description": "Give any AI agent live product data through the Apify MCP server: price, stock, and images from any retailer in the worl",
-    "id": "luispintoapify/ecommerce-agent-starter",
+    "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specificat",
+    "id": "tzachbon/smart-ralph",
+    "language": "Shell",
+    "name": "tzachbon/smart-ralph",
+    "stars": 527,
+    "updated_at": "2026-08-27T12:49:26Z",
+    "url": "https://github.com/tzachbon/smart-ralph"
+  },
+  {
+    "description": "Open-source skills that empower any AI agent (Claude, Cursor, Hermes, etc.) to generate end-to-end marketing campaigns -",
+    "id": "SupercmoHQ/superCMO-skills",
     "language": "Python",
-    "name": "luispintoapify/ecommerce-agent-starter",
-    "stars": 3,
-    "updated_at": "2026-08-27T12:40:07Z",
-    "url": "https://github.com/luispintoapify/ecommerce-agent-starter"
+    "name": "SupercmoHQ/superCMO-skills",
+    "stars": 30,
+    "updated_at": "2026-08-27T12:46:26Z",
+    "url": "https://github.com/SupercmoHQ/superCMO-skills"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
+    "id": "Vladimir-Human/humanizer-ru",
+    "language": "Python",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 117,
+    "updated_at": "2026-08-27T12:46:09Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T12:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent-native research workspace. A deterministic CLI that ingests arXiv / PDF / LaTeX / Zotero papers into an Obsidian-c",
+    "id": "Misaka16384/magi",
+    "language": "Python",
+    "name": "Misaka16384/magi",
+    "stars": 7,
+    "updated_at": "2026-08-27T12:44:14Z",
+    "url": "https://github.com/Misaka16384/magi"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 5,
+    "updated_at": "2026-08-27T12:44:06Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -27,31 +90,31 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
+    "description": "Give any AI agent live product data through the Apify MCP server: price, stock, and images from any retailer in the worl",
+    "id": "luispintoapify/ecommerce-agent-starter",
+    "language": "Python",
+    "name": "luispintoapify/ecommerce-agent-starter",
+    "stars": 3,
+    "updated_at": "2026-08-27T12:40:07Z",
+    "url": "https://github.com/luispintoapify/ecommerce-agent-starter"
+  },
+  {
     "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
     "id": "dayvisonassis/sdd-skills",
     "language": "JavaScript",
     "name": "dayvisonassis/sdd-skills",
     "stars": 1,
-    "updated_at": "2026-08-27T12:36:24Z",
+    "updated_at": "2026-08-27T12:57:53Z",
     "url": "https://github.com/dayvisonassis/sdd-skills"
   },
   {
-    "description": "Open-source skills that empower any AI agent (Claude, Cursor, Hermes, etc.) to generate end-to-end marketing campaigns -",
-    "id": "SupercmoHQ/superCMO-skills",
-    "language": "Python",
-    "name": "SupercmoHQ/superCMO-skills",
-    "stars": 30,
-    "updated_at": "2026-08-27T12:36:13Z",
-    "url": "https://github.com/SupercmoHQ/superCMO-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T12:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "zenstory-ai/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "zenstory-ai/oh-story-claudecode",
+    "stars": 6142,
+    "updated_at": "2026-08-27T12:32:33Z",
+    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
     "description": "8 production-ready Claude skills for Claude Code and claude.ai: six document generators and a documentation-lifecycle to",
@@ -85,7 +148,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 5850,
+    "stars": 5851,
     "updated_at": "2026-08-27T12:25:20Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -115,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T12:15:54Z",
     "url": "https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-08-27T12:13:58Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 117,
-    "updated_at": "2026-08-27T12:13:44Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
     "description": "",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6431,
-    "updated_at": "2026-08-27T11:58:12Z",
+    "updated_at": "2026-08-27T12:47:55Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
   {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "zenstory-ai/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6141,
-    "updated_at": "2026-08-27T12:32:33Z",
-    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
-  },
-  {
     "description": "Unofficial Proxmox Technical Writing Style Skill",
     "id": "msoltanov/Proxmox-Technical-Writing-Style-Skill",
     "language": "\u2014",
@@ -230,7 +266,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T12:44:35Z",
+    "updated_at": "2026-08-27T12:55:50Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 141,
     "updated_at": "2026-08-27T12:14:08Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "\u7092\u80a1/\u91cf\u5316\u4ea4\u6613/\u9009\u80a1 AI Skill \u5408\u96c6\uff1a\u6536\u5f55\u56fd\u5185\u5916 GitHub \u4e0a\u7684\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u3001\u9009\u80a1\u7b56\u7565 Agent Skills\uff0c\u9644\u7d22\u5f15\u4e0e\u5408\u89c4\u8f6c\u8f7d",
-    "id": "Serennity007/awesome-stock-quant-skills",
-    "language": "Python",
-    "name": "Serennity007/awesome-stock-quant-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T10:56:44Z",
-    "url": "https://github.com/Serennity007/awesome-stock-quant-skills"
-  },
-  {
-    "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
-    "id": "yacb2/aidex",
-    "language": "Shell",
-    "name": "yacb2/aidex",
-    "stars": 2,
-    "updated_at": "2026-08-27T10:43:39Z",
-    "url": "https://github.com/yacb2/aidex"
-  },
-  {
-    "description": "One marketplace for everything I have built for Claude Code: plugins, skills, commands, and agents, organized by categor",
-    "id": "smk-labs/claude-plugins",
-    "language": "JavaScript",
-    "name": "smk-labs/claude-plugins",
-    "stars": 11,
-    "updated_at": "2026-08-27T10:43:09Z",
-    "url": "https://github.com/smk-labs/claude-plugins"
-  },
-  {
-    "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u5168\u751f\u547d\u5468\u671f QA Agent Skills \u6846\u67b6\u2014\u2014\u65b9\u6cd5\u8bba + 10 Skills + \u53ef\u590d\u73b0 Benchmark\uff08Claude Code \u7b49 Agent \u53ef\u7528\uff09",
-    "id": "fishzjp/qa-skills",
-    "language": "HTML",
-    "name": "fishzjp/qa-skills",
-    "stars": 11,
-    "updated_at": "2026-08-27T10:40:13Z",
-    "url": "https://github.com/fishzjp/qa-skills"
   }
 ]
