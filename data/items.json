@@ -1,11 +1,83 @@
 [
   {
+    "description": "A governance constitution and working method for multi-agent and solo-agent workflows.",
+    "id": "Ezra144israel/governed-agent-skills",
+    "language": "Python",
+    "name": "Ezra144israel/governed-agent-skills",
+    "stars": 17,
+    "updated_at": "2026-08-27T14:58:33Z",
+    "url": "https://github.com/Ezra144israel/governed-agent-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68435,
+    "updated_at": "2026-08-27T14:55:47Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A Claude agent skill that turns one sentence into a detailed video, asks the right questions first.",
+    "id": "minhhoangho/idea-to-video-skill",
+    "language": "Shell",
+    "name": "minhhoangho/idea-to-video-skill",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:53:48Z",
+    "url": "https://github.com/minhhoangho/idea-to-video-skill"
+  },
+  {
+    "description": "Curated Agent Skills directory for course creators, educators, instructional designers, and L&D teams, featuring practic",
+    "id": "minicoursegenerator/skills-for-course-creators",
+    "language": "HTML",
+    "name": "minicoursegenerator/skills-for-course-creators",
+    "stars": 12,
+    "updated_at": "2026-08-27T14:47:16Z",
+    "url": "https://github.com/minicoursegenerator/skills-for-course-creators"
+  },
+  {
+    "description": "",
+    "id": "Lucas-Belucci-Bellini/Veritas",
+    "language": "TypeScript",
+    "name": "Lucas-Belucci-Bellini/Veritas",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:57:36Z",
+    "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T14:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
+    "id": "Anlo-Ventures/skills-and-agents-library",
+    "language": "Python",
+    "name": "Anlo-Ventures/skills-and-agents-library",
+    "stars": 1,
+    "updated_at": "2026-08-27T14:44:40Z",
+    "url": "https://github.com/Anlo-Ventures/skills-and-agents-library"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 100,
+    "updated_at": "2026-08-27T14:43:53Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
     "description": "\u300c\u5feb\u70b9\u4e0b\u73ed\u300d\u5de5\u4f5c\u7cfb\u7edf\u2014\u2014\u9762\u5411\u8111\u529b\u5de5\u4f5c\u8005\u7684 36 \u4e2a\u804c\u573a Agent Skills\uff08\u6c9f\u901a\u6c47\u62a5\u3001\u4f1a\u8bae\u3001\u804c\u4e1a\u9009\u62e9\uff1b\u975e\u6e38\u620f/\u9b54\u517d\uff09\u3002Workplace skills for Claude Code / Codex / ZCode / Kimi-CL",
     "id": "dennydkt/xbskill",
     "language": "Python",
     "name": "dennydkt/xbskill",
     "stars": 1,
-    "updated_at": "2026-08-27T14:40:36Z",
+    "updated_at": "2026-08-27T14:47:45Z",
     "url": "https://github.com/dennydkt/xbskill"
   },
   {
@@ -18,13 +90,22 @@
     "url": "https://github.com/milisp/keke-agent"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-27T14:33:31Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T14:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 533,
+    "updated_at": "2026-08-27T14:31:05Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
   },
   {
     "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "ayukyo/icode-skill",
     "stars": 3,
-    "updated_at": "2026-08-27T14:29:29Z",
+    "updated_at": "2026-08-27T14:55:16Z",
     "url": "https://github.com/ayukyo/icode-skill"
   },
   {
@@ -45,15 +126,6 @@
     "url": "https://github.com/n-shadloo/secure-code-auditor"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 100,
-    "updated_at": "2026-08-27T14:43:53Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "PowerShell library, Claude skills and a pitfalls catalogue for the Pennylane Company API v2 (multi-company)",
     "id": "Xileades/pennylane-api-toolkit",
     "language": "PowerShell",
@@ -63,22 +135,13 @@
     "url": "https://github.com/Xileades/pennylane-api-toolkit"
   },
   {
-    "description": "",
-    "id": "Lucas-Belucci-Bellini/Veritas",
-    "language": "TypeScript",
-    "name": "Lucas-Belucci-Bellini/Veritas",
-    "stars": 0,
-    "updated_at": "2026-08-27T14:43:45Z",
-    "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68434,
-    "updated_at": "2026-08-27T14:20:36Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "One marketplace for everything I have built for Claude Code: plugins, skills, commands, and agents, organized by categor",
+    "id": "smk-labs/claude-plugins",
+    "language": "JavaScript",
+    "name": "smk-labs/claude-plugins",
+    "stars": 11,
+    "updated_at": "2026-08-27T14:22:16Z",
+    "url": "https://github.com/smk-labs/claude-plugins"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -194,7 +257,7 @@
     "language": "HTML",
     "name": "jposluns/cleanlanguage",
     "stars": 2,
-    "updated_at": "2026-08-27T14:41:20Z",
+    "updated_at": "2026-08-27T14:52:34Z",
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Shell",
     "name": "tzachbon/smart-ralph",
     "stars": 527,
-    "updated_at": "2026-08-27T14:43:14Z",
+    "updated_at": "2026-08-27T14:53:18Z",
     "url": "https://github.com/tzachbon/smart-ralph"
   },
   {
@@ -211,7 +274,7 @@
     "id": "fishzjp/qa-skills",
     "language": "HTML",
     "name": "fishzjp/qa-skills",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-08-27T13:49:24Z",
     "url": "https://github.com/fishzjp/qa-skills"
   },
@@ -223,15 +286,6 @@
     "stars": 108,
     "updated_at": "2026-08-27T14:27:27Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "A Claude agent skill that turns one sentence into a detailed video, asks the right questions first.",
-    "id": "minhhoangho/idea-to-video-skill",
-    "language": "Shell",
-    "name": "minhhoangho/idea-to-video-skill",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:42:29Z",
-    "url": "https://github.com/minhhoangho/idea-to-video-skill"
   },
   {
     "description": "Personal collection of Claude Code skills for development workflows",
@@ -266,26 +320,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 33,
-    "updated_at": "2026-08-27T14:42:54Z",
+    "updated_at": "2026-08-27T15:00:07Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "A governance constitution and working method for multi-agent and solo-agent workflows.",
-    "id": "Ezra144israel/governed-agent-skills",
-    "language": "Python",
-    "name": "Ezra144israel/governed-agent-skills",
-    "stars": 17,
-    "updated_at": "2026-08-27T13:33:38Z",
-    "url": "https://github.com/Ezra144israel/governed-agent-skills"
-  },
-  {
-    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
-    "id": "oliver-kriska/claude-elixir-phoenix",
-    "language": "Python",
-    "name": "oliver-kriska/claude-elixir-phoenix",
-    "stars": 533,
-    "updated_at": "2026-08-27T14:31:05Z",
-    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
   },
   {
     "description": "This AI Skill supports development using the Next2D Framework and Next2D Player. It assists with code generation followi",
@@ -382,7 +418,7 @@
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6147,
+    "stars": 6148,
     "updated_at": "2026-08-27T13:15:50Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-27T13:07:45Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:07:15Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
-    "id": "alinafe82/cognitive-deadlift",
-    "language": "Python",
-    "name": "alinafe82/cognitive-deadlift",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:02:04Z",
-    "url": "https://github.com/alinafe82/cognitive-deadlift"
-  },
-  {
-    "description": "Orchestrate Claude Code sub-agents across long-running, single- or multi-repo projects. Artifact-first state, task lifec",
-    "id": "yahor-punko/mavericks-os",
-    "language": "JavaScript",
-    "name": "yahor-punko/mavericks-os",
-    "stars": 3,
-    "updated_at": "2026-08-27T12:59:12Z",
-    "url": "https://github.com/yahor-punko/mavericks-os"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-08-27T14:33:31Z",
-    "url": "https://github.com/martinambrus/haive"
   }
 ]
