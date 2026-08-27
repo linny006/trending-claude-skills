@@ -1,12 +1,75 @@
 [
   {
+    "description": "A structurally reliable protocol and skills kit for building AI-assisted projects at the right complexity tier in Claude",
+    "id": "partikularwaters/Banka",
+    "language": "Shell",
+    "name": "partikularwaters/Banka",
+    "stars": 2,
+    "updated_at": "2026-08-27T05:44:44Z",
+    "url": "https://github.com/partikularwaters/Banka"
+  },
+  {
+    "description": "Your AI marketing team for B2B SaaS: 73 specialist agents and 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, ",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 6,
+    "updated_at": "2026-08-27T05:44:42Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6153,
+    "updated_at": "2026-08-27T05:38:56Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 100,
+    "updated_at": "2026-08-27T05:38:35Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
     "description": "Claude Code skills for writing and revising non-fiction prose that does not read as machine-generated. English and Germa",
     "id": "UBA-PSI/psi-writing-skills",
     "language": "\u2014",
     "name": "UBA-PSI/psi-writing-skills",
     "stars": 0,
-    "updated_at": "2026-08-27T05:29:52Z",
+    "updated_at": "2026-08-27T05:35:58Z",
     "url": "https://github.com/UBA-PSI/psi-writing-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68417,
+    "updated_at": "2026-08-27T05:35:16Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
+    "id": "astroicers/skill-quality-research",
+    "language": "Python",
+    "name": "astroicers/skill-quality-research",
+    "stars": 0,
+    "updated_at": "2026-08-27T05:43:03Z",
+    "url": "https://github.com/astroicers/skill-quality-research"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T05:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "lemur47/logic",
     "stars": 2,
-    "updated_at": "2026-08-27T05:25:34Z",
+    "updated_at": "2026-08-27T05:40:43Z",
     "url": "https://github.com/lemur47/logic"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/huangwb8/skills"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68414,
-    "updated_at": "2026-08-27T05:24:24Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top ",
     "id": "INo-xious/stockbit-mcp",
     "language": "TypeScript",
@@ -63,24 +117,6 @@
     "url": "https://github.com/INo-xious/stockbit-mcp"
   },
   {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6153,
-    "updated_at": "2026-08-27T05:20:36Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 100,
-    "updated_at": "2026-08-27T05:19:20Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "197 bioinformatics & life science skills for Claude Code and AI agents \u2014 BixBench 92.0% accuracy. RNA-seq, single-cell, ",
     "id": "jaechang-hits/SciAgent-Skills",
     "language": "Python",
@@ -88,15 +124,6 @@
     "stars": 344,
     "updated_at": "2026-08-27T05:17:53Z",
     "url": "https://github.com/jaechang-hits/SciAgent-Skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T05:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -142,15 +169,6 @@
     "stars": 6422,
     "updated_at": "2026-08-27T04:49:57Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
-    "id": "astroicers/skill-quality-research",
-    "language": "Python",
-    "name": "astroicers/skill-quality-research",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:22:10Z",
-    "url": "https://github.com/astroicers/skill-quality-research"
   },
   {
     "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T03:22:13Z",
     "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-27T03:19:06Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Local fine-tuning for your own work. A provider-neutral kit that turns project experience into reusable criteria for AI ",
-    "id": "andresanemic/lore-plugin",
-    "language": "JavaScript",
-    "name": "andresanemic/lore-plugin",
-    "stars": 5,
-    "updated_at": "2026-08-27T03:18:14Z",
-    "url": "https://github.com/andresanemic/lore-plugin"
   }
 ]
