@@ -1,11 +1,83 @@
 [
   {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:13:18Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "Open-source Agent Skills for Claude Code and Codex: ship-DAG orchestration, A-F code review, AI evals, CI gates, design,",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 133,
+    "updated_at": "2026-08-27T20:12:35Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandboxed YAML suites, ",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 116,
+    "updated_at": "2026-08-27T20:09:00Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
+    "id": "valentil/featureboard-mcp",
+    "language": "JavaScript",
+    "name": "valentil/featureboard-mcp",
+    "stars": 2,
+    "updated_at": "2026-08-27T20:08:01Z",
+    "url": "https://github.com/valentil/featureboard-mcp"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6437,
+    "updated_at": "2026-08-27T20:04:38Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-27T20:11:16Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T20:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-08-27T19:58:16Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
     "description": "Hire a 50-employee AI company in one command: 8 departments, one CEO, and reusable skills for Claude Code and other AI c",
     "id": "alebgl77/claude-inc",
-    "language": "Shell",
+    "language": "Python",
     "name": "alebgl77/claude-inc",
     "stars": 11,
-    "updated_at": "2026-08-27T19:56:40Z",
+    "updated_at": "2026-08-27T20:03:02Z",
     "url": "https://github.com/alebgl77/claude-inc"
   },
   {
@@ -14,17 +86,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-27T19:55:31Z",
+    "updated_at": "2026-08-27T20:02:13Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6437,
-    "updated_at": "2026-08-27T19:54:42Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Skills and prompts for the AI tools you already use. Every skill for every tool, inside the app: 5,403 skills across 102",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T19:50:04Z",
     "url": "https://github.com/ehsanking/Skills-Ai"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 101,
-    "updated_at": "2026-08-27T19:59:40Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -63,15 +117,6 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "A local, markdown-backed project board that lives inside Claude \u2014 packaged as a Claude Desktop / Cowork extension (.mcpb",
-    "id": "valentil/featureboard-mcp",
-    "language": "JavaScript",
-    "name": "valentil/featureboard-mcp",
-    "stars": 2,
-    "updated_at": "2026-08-27T19:47:00Z",
-    "url": "https://github.com/valentil/featureboard-mcp"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -79,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T19:46:06Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Open-source Agent Skills for Claude Code and Codex: ship-DAG orchestration, A-F code review, AI evals, CI gates, design,",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 133,
-    "updated_at": "2026-08-27T19:46:41Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T19:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -158,7 +185,7 @@
     "language": "Shell",
     "name": "chrislacey89/skills",
     "stars": 2,
-    "updated_at": "2026-08-27T19:37:51Z",
+    "updated_at": "2026-08-27T20:09:54Z",
     "url": "https://github.com/chrislacey89/skills"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 33,
-    "updated_at": "2026-08-27T19:34:22Z",
+    "updated_at": "2026-08-27T20:15:11Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/sergiohidalgo-pro/tablero"
   },
   {
-    "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandboxed YAML suites, ",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 116,
-    "updated_at": "2026-08-27T18:58:44Z",
-    "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
     "description": "A personalization and governance layer for claude code. Wizard-driven install. Opensource skills library. ",
     "id": "Inigo-Antony/loadout",
     "language": "Shell",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:22:30Z",
     "url": "https://github.com/kwoekel/woekel-works"
-  },
-  {
-    "description": "Six governed agent skills: constitution, working method, minimum-sufficient implementation, planning, test evidence, and",
-    "id": "Ezra144israel/governed-agent-skills",
-    "language": "Python",
-    "name": "Ezra144israel/governed-agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-27T18:19:05Z",
-    "url": "https://github.com/Ezra144israel/governed-agent-skills"
-  },
-  {
-    "description": "Agent skill that strips AI writing patterns and restores human voice. Merges stop-slop and Cursor's unslop. Works with C",
-    "id": "jebradfield/slopslayer",
-    "language": "\u2014",
-    "name": "jebradfield/slopslayer",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:04:28Z",
-    "url": "https://github.com/jebradfield/slopslayer"
   }
 ]
