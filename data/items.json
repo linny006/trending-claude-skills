@@ -1,5 +1,86 @@
 [
   {
+    "description": "El formato con el que presento el estado de mis proyectos, empaquetado como skill de Claude Code.",
+    "id": "sergiohidalgo-pro/tablero",
+    "language": "HTML",
+    "name": "sergiohidalgo-pro/tablero",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:14:42Z",
+    "url": "https://github.com/sergiohidalgo-pro/tablero"
+  },
+  {
+    "description": "",
+    "id": "Lucas-Belucci-Bellini/Veritas",
+    "language": "TypeScript",
+    "name": "Lucas-Belucci-Bellini/Veritas",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:11:32Z",
+    "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
+  },
+  {
+    "description": "Six governed agent skills: constitution, working method, minimum-sufficient implementation, planning, test evidence, and",
+    "id": "Ezra144israel/governed-agent-skills",
+    "language": "Python",
+    "name": "Ezra144israel/governed-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-08-27T18:11:16Z",
+    "url": "https://github.com/Ezra144israel/governed-agent-skills"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 6499,
+    "updated_at": "2026-08-27T18:09:47Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+    "description": "Agent skill that strips AI writing patterns and restores human voice. Merges stop-slop and Cursor's unslop. Works with C",
+    "id": "jebradfield/slopslayer",
+    "language": "\u2014",
+    "name": "jebradfield/slopslayer",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:04:28Z",
+    "url": "https://github.com/jebradfield/slopslayer"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-27T18:02:56Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68441,
+    "updated_at": "2026-08-27T18:07:27Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-27T18:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent skill that finds skills in the open ecosystem and asks whether to install them permanently or load them once",
+    "id": "ipavelm/advanced-skill-finder",
+    "language": "HTML",
+    "name": "ipavelm/advanced-skill-finder",
+    "stars": 1,
+    "updated_at": "2026-08-27T17:58:39Z",
+    "url": "https://github.com/ipavelm/advanced-skill-finder"
+  },
+  {
     "description": "Battle-tested Claude Code configs \u2014 opinionated CLAUDE.md baselines, skills, slash commands and enforcement hooks you dr",
     "id": "Cristhianzl/claude-skills-czl",
     "language": "Python",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T17:55:31Z",
     "url": "https://github.com/yazelin/personal-brand-site-starter"
-  },
-  {
-    "description": "",
-    "id": "Lucas-Belucci-Bellini/Veritas",
-    "language": "TypeScript",
-    "name": "Lucas-Belucci-Bellini/Veritas",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:57:34Z",
-    "url": "https://github.com/Lucas-Belucci-Bellini/Veritas"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -72,24 +144,6 @@
     "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
   },
   {
-    "description": "El formato con el que presento el estado de mis proyectos, empaquetado como skill de Claude Code.",
-    "id": "sergiohidalgo-pro/tablero",
-    "language": "\u2014",
-    "name": "sergiohidalgo-pro/tablero",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:46:13Z",
-    "url": "https://github.com/sergiohidalgo-pro/tablero"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-27T17:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
@@ -113,7 +167,7 @@
     "language": "Shell",
     "name": "Inigo-Antony/loadout",
     "stars": 0,
-    "updated_at": "2026-08-27T17:41:57Z",
+    "updated_at": "2026-08-27T18:12:40Z",
     "url": "https://github.com/Inigo-Antony/loadout"
   },
   {
@@ -153,24 +207,6 @@
     "url": "https://github.com/DSY-Xueai/image2editable"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-27T17:55:37Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6498,
-    "updated_at": "2026-08-27T17:36:48Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
     "description": "repo for reusable plugins and skills",
     "id": "richfrem/agent-plugins-skills",
     "language": "Python",
@@ -207,15 +243,6 @@
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68442,
-    "updated_at": "2026-08-27T17:32:37Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, ge",
     "id": "liustack/modlens",
     "language": "TypeScript",
@@ -230,7 +257,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 3,
-    "updated_at": "2026-08-27T17:55:29Z",
+    "updated_at": "2026-08-27T18:08:21Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6437,
-    "updated_at": "2026-08-27T17:23:15Z",
+    "updated_at": "2026-08-27T18:10:31Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T17:07:37Z",
     "url": "https://github.com/chris-peterson/tack"
-  },
-  {
-    "description": "Agent skill that finds skills in the open ecosystem and asks whether to install them permanently or load them once",
-    "id": "ipavelm/advanced-skill-finder",
-    "language": "HTML",
-    "name": "ipavelm/advanced-skill-finder",
-    "stars": 1,
-    "updated_at": "2026-08-27T17:58:39Z",
-    "url": "https://github.com/ipavelm/advanced-skill-finder"
   },
   {
     "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T16:17:01Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:14:33Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Claude Code skills and sync tooling for Asana-based studio project management.",
-    "id": "markbaindesign/bain-studio",
-    "language": "Python",
-    "name": "markbaindesign/bain-studio",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:13:59Z",
-    "url": "https://github.com/markbaindesign/bain-studio"
   }
 ]
