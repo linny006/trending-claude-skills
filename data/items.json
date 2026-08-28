@@ -1,5 +1,68 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-28T09:28:02Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 2,
+    "updated_at": "2026-08-28T09:25:52Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
+    "id": "sichenai/sichen-skills",
+    "language": "\u2014",
+    "name": "sichenai/sichen-skills",
+    "stars": 1,
+    "updated_at": "2026-08-28T09:25:04Z",
+    "url": "https://github.com/sichenai/sichen-skills"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 219,
+    "updated_at": "2026-08-28T09:24:54Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 17,
+    "updated_at": "2026-08-28T09:29:18Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T09:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 49,
+    "updated_at": "2026-08-28T09:15:00Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
     "description": "\u628a\u4e00\u500b\u4eba\u7684\u8a71\u554f\u51fa\u4f86\uff0c\u505a\u6210\u4e00\u9801\u5f0f\u7684\u500b\u4eba\u54c1\u724c\u7db2\u7ad9\u3002\u7d66 AI \u4ee3\u7406\u4eba\u7167\u8457\u8dd1\u7684\u56db\u968e\u6bb5\u6d41\u7a0b\uff1a\u8a2a\u8ac7\u3001\u9078\u578b\u3001\u5efa\u7ad9\u3001\u9a57\u6536\u3002\u96f6\u4f9d\u8cf4\uff0c\u56db\u7a2e\u98a8\u683c\uff0c\u56db\u7a2e\u6703\u6d41\u52d5\u7684\u9996\u5c4f\u3002",
     "id": "yazelin/personal-brand-site-starter",
     "language": "HTML",
@@ -7,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T09:14:00Z",
     "url": "https://github.com/yazelin/personal-brand-site-starter"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-28T09:14:09Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Claude Code / Codex CLI skills I actually run in a PM work week \u2014 metric attribution, PRD review panel, cross-model GO/N",
@@ -45,15 +99,6 @@
     "url": "https://github.com/xeonvs/codex-engineering-workflow"
   },
   {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 219,
-    "updated_at": "2026-08-28T09:12:47Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
     "description": "Framework-agnostic AI engineering control plane with project-aware routing, 0\u20132 specialists, persistent memory, minimal-",
     "id": "soden46/engineer-flow",
     "language": "JavaScript",
@@ -61,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-08-28T09:01:53Z",
     "url": "https://github.com/soden46/engineer-flow"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T09:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Downloadable agent skills for AI coding assistants \u2014 landing page replication, WebGL Three.js backgrounds, Doubao TTS & ",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68458,
-    "updated_at": "2026-08-28T09:14:58Z",
+    "updated_at": "2026-08-28T09:25:23Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 2,
-    "updated_at": "2026-08-28T08:02:24Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
     "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
     "id": "nota-america/forgecat-agent-profiles",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T07:44:39Z",
     "url": "https://github.com/brandhaug/skills"
-  },
-  {
-    "description": "One marketplace for everything I have built for Claude Code: plugins, skills, commands, and agents, organized by categor",
-    "id": "smk-labs/claude-plugins",
-    "language": "JavaScript",
-    "name": "smk-labs/claude-plugins",
-    "stars": 11,
-    "updated_at": "2026-08-28T07:43:05Z",
-    "url": "https://github.com/smk-labs/claude-plugins"
-  },
-  {
-    "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
-    "id": "sumitake/agent-collab",
-    "language": "Python",
-    "name": "sumitake/agent-collab",
-    "stars": 0,
-    "updated_at": "2026-08-28T07:44:34Z",
-    "url": "https://github.com/sumitake/agent-collab"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-08-28T07:35:08Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   }
 ]
