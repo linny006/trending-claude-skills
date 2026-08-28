@@ -1,11 +1,83 @@
 [
   {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 144,
+    "updated_at": "2026-08-28T00:29:48Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-08-28T00:29:56Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/claude-chart-dashboard",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/claude-chart-dashboard",
+    "stars": 1,
+    "updated_at": "2026-08-28T00:29:39Z",
+    "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
+  },
+  {
+    "description": "\u628a\u4e00\u500b\u4eba\u7684\u8a71\u554f\u51fa\u4f86\uff0c\u505a\u6210\u4e00\u9801\u5f0f\u7684\u500b\u4eba\u54c1\u724c\u7db2\u7ad9\u3002\u7d66 AI \u4ee3\u7406\u4eba\u7167\u8457\u8dd1\u7684\u56db\u968e\u6bb5\u6d41\u7a0b\uff1a\u8a2a\u8ac7\u3001\u9078\u578b\u3001\u5efa\u7ad9\u3001\u9a57\u6536\u3002\u96f6\u4f9d\u8cf4\uff0c\u56db\u7a2e\u98a8\u683c\uff0c\u56db\u7a2e\u6703\u6d41\u52d5\u7684\u9996\u5c4f\u3002",
+    "id": "yazelin/personal-brand-site-starter",
+    "language": "HTML",
+    "name": "yazelin/personal-brand-site-starter",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:28:57Z",
+    "url": "https://github.com/yazelin/personal-brand-site-starter"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-28T00:22:59Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
+    "id": "smartwatermelon/personify",
+    "language": "TypeScript",
+    "name": "smartwatermelon/personify",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:20:19Z",
+    "url": "https://github.com/smartwatermelon/personify"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 2,
+    "updated_at": "2026-08-28T00:19:14Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T00:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP",
     "id": "milisp/keke-agent",
     "language": "Rust",
     "name": "milisp/keke-agent",
     "stars": 2,
-    "updated_at": "2026-08-28T00:11:22Z",
+    "updated_at": "2026-08-28T00:15:16Z",
     "url": "https://github.com/milisp/keke-agent"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/aliasunder/agent-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T00:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
     "id": "inkatze/planwright",
     "language": "Shell",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "by-carlos/daikenja",
     "stars": 0,
-    "updated_at": "2026-08-27T23:57:57Z",
+    "updated_at": "2026-08-28T00:24:26Z",
     "url": "https://github.com/by-carlos/daikenja"
   },
   {
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "getcargohq/cargo-skills",
     "stars": 15,
-    "updated_at": "2026-08-27T23:42:39Z",
+    "updated_at": "2026-08-28T00:21:37Z",
     "url": "https://github.com/getcargohq/cargo-skills"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T23:35:57Z",
     "url": "https://github.com/Sarveshmehta1504/lean-max"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 2,
-    "updated_at": "2026-08-27T23:31:43Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
   },
   {
     "description": "El formato con el que presento el estado de mis proyectos, empaquetado como skill de Claude Code.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T22:47:24Z",
     "url": "https://github.com/LilyCTM/claude-mentor-skills"
-  },
-  {
-    "description": "Based on Anthropic's skill-creator \u2014 with bug fixes, working Cowork support, and official best practices baked in. Claud",
-    "id": "yaniv-golan/skill-creator-plus",
-    "language": "Python",
-    "name": "yaniv-golan/skill-creator-plus",
-    "stars": 4,
-    "updated_at": "2026-08-27T22:46:29Z",
-    "url": "https://github.com/yaniv-golan/skill-creator-plus"
-  },
-  {
-    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
-    "id": "alexgreensh/repo-forensics",
-    "language": "Python",
-    "name": "alexgreensh/repo-forensics",
-    "stars": 165,
-    "updated_at": "2026-08-27T22:41:08Z",
-    "url": "https://github.com/alexgreensh/repo-forensics"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-27T22:35:41Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "30 agent skills for customer success and retention: churn prediction, renewal forecasting, QBRs, expansion, escalations,",
-    "id": "gaintrace/customer-success-skills",
-    "language": "Python",
-    "name": "gaintrace/customer-success-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:32:02Z",
-    "url": "https://github.com/gaintrace/customer-success-skills"
-  },
-  {
-    "description": "Decide about a tool before you pay for it. AI skills that read the privacy policy and terms, find what people actually c",
-    "id": "theAnirudhKumar/tool-decisions",
-    "language": "Python",
-    "name": "theAnirudhKumar/tool-decisions",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:30:43Z",
-    "url": "https://github.com/theAnirudhKumar/tool-decisions"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-08-27T22:29:50Z",
-    "url": "https://github.com/patrickserrano/lacquer"
   }
 ]
