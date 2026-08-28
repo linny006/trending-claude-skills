@@ -1,5 +1,86 @@
 [
   {
+    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
+    "id": "maxritter/pilot-shell",
+    "language": "JavaScript",
+    "name": "maxritter/pilot-shell",
+    "stars": 2056,
+    "updated_at": "2026-08-28T10:15:03Z",
+    "url": "https://github.com/maxritter/pilot-shell"
+  },
+  {
+    "description": "Claude Code plugin: run a small business with an agent across sessions \u2014 OKF wiki, OKR loop, session gate, decisions, le",
+    "id": "tidoemanuele/fable-autopilot",
+    "language": "JavaScript",
+    "name": "tidoemanuele/fable-autopilot",
+    "stars": 0,
+    "updated_at": "2026-08-28T10:14:42Z",
+    "url": "https://github.com/tidoemanuele/fable-autopilot"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 17,
+    "updated_at": "2026-08-28T10:10:29Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": " Personal skills for Codex and Claude Code, invoked as superb:*. craft turns a vague product idea into a decision-rich b",
+    "id": "kardebadas/claude-plugin",
+    "language": "Python",
+    "name": "kardebadas/claude-plugin",
+    "stars": 1,
+    "updated_at": "2026-08-28T10:04:10Z",
+    "url": "https://github.com/kardebadas/claude-plugin"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-28T10:03:29Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "117 \u0441\u043a\u0438\u043b\u043e\u0432 \u0438 40 \u043f\u0440\u0430\u0432\u0438\u043b \u0434\u043b\u044f Claude Code: \u0430\u0433\u0435\u043d\u0442 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0438\u0441\u0445\u043e\u0434\u043d\u0438\u043a\u0438 1\u0421 (\u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435, \u0444\u043e\u0440\u043c\u044b, \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f, \u0440\u043e\u043b\u0438, \u0421\u041a\u0414, \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
+    "id": "Desko77/claude-code-skills-1c",
+    "language": "Python",
+    "name": "Desko77/claude-code-skills-1c",
+    "stars": 50,
+    "updated_at": "2026-08-28T10:03:14Z",
+    "url": "https://github.com/Desko77/claude-code-skills-1c"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-28T10:13:53Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68461,
+    "updated_at": "2026-08-28T10:00:30Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T10:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top ",
     "id": "INo-xious/stockbit-mcp",
     "language": "TypeScript",
@@ -36,15 +117,6 @@
     "url": "https://github.com/lyx-27/sun-standard"
   },
   {
-    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
-    "id": "maxritter/pilot-shell",
-    "language": "JavaScript",
-    "name": "maxritter/pilot-shell",
-    "stars": 2056,
-    "updated_at": "2026-08-28T09:59:44Z",
-    "url": "https://github.com/maxritter/pilot-shell"
-  },
-  {
     "description": "Shared skills, prompts, and tooling for Picsart's gen-ai CLI and generative-AI workflows",
     "id": "PicsArt/gen-ai-skills",
     "language": "Python",
@@ -63,15 +135,6 @@
     "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68460,
-    "updated_at": "2026-08-28T09:58:21Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "",
     "id": "SELAT-AI/selat-skills",
     "language": "JavaScript",
@@ -79,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-08-28T09:51:22Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Markdown to WeChat CLI | \u4e00\u952e\u6392\u7248\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u652f\u6301 40+ \u6392\u7248\u6837\u5f0f\u548c\u4e13\u4e1a\u4e3b\u9898 \u3001AI \u914d\u56fe \u3001\u6279\u91cf\u53d1\u5e03 \u3001\u591a\u8d26\u53f7\u7ba1\u7406",
+    "id": "geekjourneyx/md2wechat-skill",
+    "language": "Go",
+    "name": "geekjourneyx/md2wechat-skill",
+    "stars": 3598,
+    "updated_at": "2026-08-28T09:47:49Z",
+    "url": "https://github.com/geekjourneyx/md2wechat-skill"
   },
   {
     "description": "My Claude Code configuration \u2014 instructions, standards and skills, symlinked into ~/.claude on every machine.",
@@ -99,15 +171,6 @@
     "url": "https://github.com/Mahad-Usman-15/my-landing-page"
   },
   {
-    "description": "Markdown to WeChat CLI | \u4e00\u952e\u6392\u7248\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u652f\u6301 40+ \u6392\u7248\u6837\u5f0f\u548c\u4e13\u4e1a\u4e3b\u9898 \u3001AI \u914d\u56fe \u3001\u6279\u91cf\u53d1\u5e03 \u3001\u591a\u8d26\u53f7\u7ba1\u7406",
-    "id": "geekjourneyx/md2wechat-skill",
-    "language": "Go",
-    "name": "geekjourneyx/md2wechat-skill",
-    "stars": 3597,
-    "updated_at": "2026-08-28T09:47:49Z",
-    "url": "https://github.com/geekjourneyx/md2wechat-skill"
-  },
-  {
     "description": "\u4e2d\u6587 Agent Skills \u5408\u96c6\uff1a194 \u4e2a\u6761\u76ee\u300113 \u4e2a\u672c\u7ad9\u539f\u521b\uff1bCodex 13/13 \u81ea\u52a8\u89e6\u53d1\u5b9e\u6d4b\uff0cClaude Code / Cursor \u5f85\u6d4b\uff1b\u6765\u6e90\u4ed3\u5e93\u5b9a\u671f\u590d\u68c0\uff0c\u8fd0\u884c\u8bb0\u5f55\u516c\u5f00",
     "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
     "language": "HTML",
@@ -115,24 +178,6 @@
     "stars": 8,
     "updated_at": "2026-08-28T09:45:22Z",
     "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T09:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-28T10:00:09Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Pass a note from your AI to someone\u2019s phone. No account.",
@@ -153,6 +198,15 @@
     "url": "https://github.com/mplind/second-reader"
   },
   {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30626,
+    "updated_at": "2026-08-28T09:40:37Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
     "description": "The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not say.",
     "id": "alexis-morain/verbatim-linkedin",
     "language": "Python",
@@ -169,15 +223,6 @@
     "stars": 11,
     "updated_at": "2026-08-28T09:37:24Z",
     "url": "https://github.com/smk-labs/claude-plugins"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 17,
-    "updated_at": "2026-08-28T09:31:12Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "Agent skills repository",
@@ -277,6 +322,15 @@
     "stars": 1,
     "updated_at": "2026-08-28T08:56:11Z",
     "url": "https://github.com/LinklyAI/best-skills-runner"
+  },
+  {
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14352,
+    "updated_at": "2026-08-28T08:52:39Z",
+    "url": "https://github.com/NevaMind-AI/memU"
   },
   {
     "description": "Evidence-led SEO and AI-search skill for diagnosing, implementing, releasing, and verifying real sites.",
@@ -387,15 +441,6 @@
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
-    "description": "Claude Code plugin: run a small business with an agent across sessions \u2014 OKF wiki, OKR loop, session gate, decisions, le",
-    "id": "tidoemanuele/fable-autopilot",
-    "language": "JavaScript",
-    "name": "tidoemanuele/fable-autopilot",
-    "stars": 0,
-    "updated_at": "2026-08-28T08:26:55Z",
-    "url": "https://github.com/tidoemanuele/fable-autopilot"
-  },
-  {
     "description": "\u7ed9\u6bcf\u4e2a OpenClaw agent \u4e00\u4e2a\u300c\u5bb6\u300d\uff1a\u6807\u51c6\u76ee\u5f55\u7ed3\u6784 + WORKSPACE.md \u89c4\u8303 + \u591a agent \u914d\u7f6e\u5b89\u5168\u3002 OpenClaw workspace initialization & standardization \u2014 ",
     "id": "dtsola/xiaoyaoclaw-workspace-initializer",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-28T08:25:05Z",
     "url": "https://github.com/dtsola/xiaoyaoclaw-workspace-initializer"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-28T08:24:56Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-08-28T09:42:40Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "My Claude Skills",
-    "id": "Srltas/claude-skills",
-    "language": "Shell",
-    "name": "Srltas/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-28T08:18:42Z",
-    "url": "https://github.com/Srltas/claude-skills"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-28T08:16:29Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-28T08:16:20Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
