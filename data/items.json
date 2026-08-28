@@ -1,12 +1,66 @@
 [
   {
+    "description": "Lightweight coding agent that runs in your terminal",
+    "id": "milisp/keke-agent",
+    "language": "Rust",
+    "name": "milisp/keke-agent",
+    "stars": 2,
+    "updated_at": "2026-08-28T12:59:09Z",
+    "url": "https://github.com/milisp/keke-agent"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-28T12:46:12Z",
+    "updated_at": "2026-08-28T13:00:07Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 6568,
+    "updated_at": "2026-08-28T12:56:53Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+    "description": "One objective in, a verified result out. An agent skill that runs a full, gated dev process with expert subagents and re",
+    "id": "cskwork/supergoal-skill",
+    "language": "JavaScript",
+    "name": "cskwork/supergoal-skill",
+    "stars": 4,
+    "updated_at": "2026-08-28T12:56:41Z",
+    "url": "https://github.com/cskwork/supergoal-skill"
+  },
+  {
+    "description": "Claude Code skill: per-round git auto-commit safety net with progress tracking (cross-platform Stop hooks)",
+    "id": "hfjddjksaj/auto-git",
+    "language": "Shell",
+    "name": "hfjddjksaj/auto-git",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:51:50Z",
+    "url": "https://github.com/hfjddjksaj/auto-git"
+  },
+  {
+    "description": "Records the conditions your code depends on and fails the build when one stops being true",
+    "id": "RakhilML/Hitch",
+    "language": "Python",
+    "name": "RakhilML/Hitch",
+    "stars": 1,
+    "updated_at": "2026-08-28T12:49:04Z",
+    "url": "https://github.com/RakhilML/Hitch"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6466,
+    "updated_at": "2026-08-28T12:50:48Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 34,
-    "updated_at": "2026-08-28T12:45:17Z",
+    "updated_at": "2026-08-28T12:47:27Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -25,15 +79,6 @@
     "stars": 6,
     "updated_at": "2026-08-28T12:44:44Z",
     "url": "https://github.com/Kripu77/software-factory"
-  },
-  {
-    "description": "Records the conditions your code depends on and fails the build when one stops being true",
-    "id": "RakhilML/Hitch",
-    "language": "Python",
-    "name": "RakhilML/Hitch",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:43:59Z",
-    "url": "https://github.com/RakhilML/Hitch"
   },
   {
     "description": "A tool-agnostic engineering harness for AI coding agents \u00b7 \u4e0d\u7ed1\u5b9a\u7279\u5b9a AI \u7f16\u7801\u5de5\u5177\u7684\u5de5\u7a0b\u6cbb\u7406\u6846\u67b6",
@@ -86,7 +131,7 @@
     "language": "TypeScript",
     "name": "molefrog/moi",
     "stars": 133,
-    "updated_at": "2026-08-28T12:31:58Z",
+    "updated_at": "2026-08-28T12:57:47Z",
     "url": "https://github.com/molefrog/moi"
   },
   {
@@ -139,7 +184,7 @@
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6175,
+    "stars": 6177,
     "updated_at": "2026-08-28T12:16:00Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
@@ -176,7 +221,7 @@
     "language": "Shell",
     "name": "PCMStack/agent-skills",
     "stars": 0,
-    "updated_at": "2026-08-28T12:42:43Z",
+    "updated_at": "2026-08-28T12:57:26Z",
     "url": "https://github.com/PCMStack/agent-skills"
   },
   {
@@ -234,21 +279,12 @@
     "url": "https://github.com/swaylq/danshari-skill"
   },
   {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6568,
-    "updated_at": "2026-08-28T11:45:11Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
     "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specificat",
     "id": "tzachbon/smart-ralph",
     "language": "Shell",
     "name": "tzachbon/smart-ralph",
     "stars": 527,
-    "updated_at": "2026-08-28T11:40:24Z",
+    "updated_at": "2026-08-28T12:58:54Z",
     "url": "https://github.com/tzachbon/smart-ralph"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-28T10:23:45Z",
     "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
-  },
-  {
-    "description": "A living map of what you're building: state, decisions, and the why for Claude Code, opencode, and Codex. Cheap enough t",
-    "id": "Chaitanya299/Orient",
-    "language": "JavaScript",
-    "name": "Chaitanya299/Orient",
-    "stars": 0,
-    "updated_at": "2026-08-28T10:25:21Z",
-    "url": "https://github.com/Chaitanya299/Orient"
-  },
-  {
-    "description": "My Claude Skills",
-    "id": "Srltas/claude-skills",
-    "language": "Shell",
-    "name": "Srltas/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-28T10:20:51Z",
-    "url": "https://github.com/Srltas/claude-skills"
-  },
-  {
-    "description": "Claude Code plugin: run a small business with an agent across sessions \u2014 OKF wiki, OKR loop, session gate, decisions, le",
-    "id": "tidoemanuele/fable-autopilot",
-    "language": "JavaScript",
-    "name": "tidoemanuele/fable-autopilot",
-    "stars": 0,
-    "updated_at": "2026-08-28T10:18:21Z",
-    "url": "https://github.com/tidoemanuele/fable-autopilot"
-  },
-  {
-    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
-    "id": "maxritter/pilot-shell",
-    "language": "JavaScript",
-    "name": "maxritter/pilot-shell",
-    "stars": 2056,
-    "updated_at": "2026-08-28T10:15:03Z",
-    "url": "https://github.com/maxritter/pilot-shell"
   }
 ]
