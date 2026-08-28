@@ -1,12 +1,93 @@
 [
   {
+    "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
+    "id": "ShulkwiSEC/bugbounty.sa",
+    "language": "Python",
+    "name": "ShulkwiSEC/bugbounty.sa",
+    "stars": 0,
+    "updated_at": "2026-08-28T15:58:06Z",
+    "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
+  },
+  {
     "description": "Product discovery for AI agents, done properly. Seven skills that route any discovery question to the method your eviden",
     "id": "riadchaban994-bot/discovery-os",
     "language": "Python",
     "name": "riadchaban994-bot/discovery-os",
     "stars": 0,
-    "updated_at": "2026-08-28T15:45:12Z",
+    "updated_at": "2026-08-28T15:58:52Z",
     "url": "https://github.com/riadchaban994-bot/discovery-os"
+  },
+  {
+    "description": "A curated pack of custom Claude Code skills for developers \u2014 installable as a Claude Code plugin marketplace.",
+    "id": "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack",
+    "language": "JavaScript",
+    "name": "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack",
+    "stars": 0,
+    "updated_at": "2026-08-28T15:53:04Z",
+    "url": "https://github.com/Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack"
+  },
+  {
+    "description": "The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not say.",
+    "id": "alexis-morain/verbatim-linkedin",
+    "language": "Python",
+    "name": "alexis-morain/verbatim-linkedin",
+    "stars": 1,
+    "updated_at": "2026-08-28T15:51:46Z",
+    "url": "https://github.com/alexis-morain/verbatim-linkedin"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-28T16:00:05Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-28T15:57:25Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Shell",
+    "name": "boshu2/agentops",
+    "stars": 429,
+    "updated_at": "2026-08-28T15:49:06Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T15:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code plugin: run a small business with an agent across sessions \u2014 OKF wiki, OKR loop, session gate, decisions, le",
+    "id": "tidoemanuele/fable-autopilot",
+    "language": "JavaScript",
+    "name": "tidoemanuele/fable-autopilot",
+    "stars": 0,
+    "updated_at": "2026-08-28T15:43:33Z",
+    "url": "https://github.com/tidoemanuele/fable-autopilot"
+  },
+  {
+    "description": "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and res",
+    "id": "rampstackco/claude-skills",
+    "language": "Python",
+    "name": "rampstackco/claude-skills",
+    "stars": 779,
+    "updated_at": "2026-08-28T15:42:52Z",
+    "url": "https://github.com/rampstackco/claude-skills"
   },
   {
     "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
@@ -16,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T15:41:35Z",
     "url": "https://github.com/elsoul/erpc-sdk"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 101,
-    "updated_at": "2026-08-28T15:40:03Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "A curated pack of custom Claude Code skills for developers \u2014 installable as a Claude Code plugin marketplace.",
-    "id": "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack",
-    "language": "JavaScript",
-    "name": "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:37:27Z",
-    "url": "https://github.com/Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack"
   },
   {
     "description": "Skills and prompts for the AI tools you already use. Every skill for every tool, inside the app: 5,403 skills across 102",
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "tonydzi/clawrush",
     "stars": 12,
-    "updated_at": "2026-08-28T15:35:22Z",
+    "updated_at": "2026-08-28T15:54:32Z",
     "url": "https://github.com/tonydzi/clawrush"
   },
   {
@@ -207,31 +270,13 @@
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T15:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Task Manager with a TUI written in Python and usable by agents",
     "id": "Zaloog/kanban-tui",
     "language": "Python",
     "name": "Zaloog/kanban-tui",
     "stars": 275,
-    "updated_at": "2026-08-28T15:29:17Z",
+    "updated_at": "2026-08-28T15:46:54Z",
     "url": "https://github.com/Zaloog/kanban-tui"
-  },
-  {
-    "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
-    "id": "ShulkwiSEC/bugbounty.sa",
-    "language": "Python",
-    "name": "ShulkwiSEC/bugbounty.sa",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:28:48Z",
-    "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
   },
   {
     "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
@@ -268,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T15:25:59Z",
     "url": "https://github.com/tonydzi/verdict-contract"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-28T15:44:55Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
@@ -338,7 +374,7 @@
     "language": "Go",
     "name": "patrickserrano/lacquer",
     "stars": 3,
-    "updated_at": "2026-08-28T15:41:53Z",
+    "updated_at": "2026-08-28T15:57:50Z",
     "url": "https://github.com/patrickserrano/lacquer"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 118,
-    "updated_at": "2026-08-28T15:14:58Z",
+    "updated_at": "2026-08-28T15:56:23Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T14:57:15Z",
     "url": "https://github.com/MichaelDoesMarketing/Headroom"
-  },
-  {
-    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-08-28T14:57:03Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:41:14Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Don't bite someone else's style. A Claude Skill that checks whether the idea you're about to publish already belongs to ",
-    "id": "MichaelDoesMarketing/Sampled",
-    "language": "\u2014",
-    "name": "MichaelDoesMarketing/Sampled",
-    "stars": 0,
-    "updated_at": "2026-08-28T14:55:17Z",
-    "url": "https://github.com/MichaelDoesMarketing/Sampled"
-  },
-  {
-    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
-    "id": "chrislacey89/skills",
-    "language": "Shell",
-    "name": "chrislacey89/skills",
-    "stars": 3,
-    "updated_at": "2026-08-28T15:16:25Z",
-    "url": "https://github.com/chrislacey89/skills"
   }
 ]
