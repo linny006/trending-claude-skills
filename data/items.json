@@ -1,5 +1,131 @@
 [
   {
+    "description": "A curated pack of custom Claude Code skills for developers \u2014 installable as a Claude Code plugin marketplace.",
+    "id": "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack",
+    "language": "JavaScript",
+    "name": "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:26:12Z",
+    "url": "https://github.com/Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 54,
+    "updated_at": "2026-08-28T16:26:09Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
+    "id": "ShulkwiSEC/bugbounty.sa",
+    "language": "Python",
+    "name": "ShulkwiSEC/bugbounty.sa",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:26:03Z",
+    "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
+  },
+  {
+    "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
+    "id": "liustack/pptwise",
+    "language": "TypeScript",
+    "name": "liustack/pptwise",
+    "stars": 8,
+    "updated_at": "2026-08-28T16:23:33Z",
+    "url": "https://github.com/liustack/pptwise"
+  },
+  {
+    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
+    "id": "ramboz/jig",
+    "language": "Python",
+    "name": "ramboz/jig",
+    "stars": 6,
+    "updated_at": "2026-08-28T16:22:35Z",
+    "url": "https://github.com/ramboz/jig"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-08-28T16:22:15Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Local fine-tuning for your own work. A provider-neutral kit that turns project experience into reusable criteria for AI ",
+    "id": "andresanemic/lore-plugin",
+    "language": "JavaScript",
+    "name": "andresanemic/lore-plugin",
+    "stars": 6,
+    "updated_at": "2026-08-28T16:21:59Z",
+    "url": "https://github.com/andresanemic/lore-plugin"
+  },
+  {
+    "description": "Agent skill that strips AI writing patterns and restores human voice. Merges stop-slop and Cursor's unslop. Works with C",
+    "id": "jebradfield/slopslayer",
+    "language": "\u2014",
+    "name": "jebradfield/slopslayer",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:21:52Z",
+    "url": "https://github.com/jebradfield/slopslayer"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-28T16:29:25Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
+    "id": "andrian-syh/roblox-best-practices-skill",
+    "language": "JavaScript",
+    "name": "andrian-syh/roblox-best-practices-skill",
+    "stars": 4,
+    "updated_at": "2026-08-28T16:19:38Z",
+    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
+  },
+  {
+    "description": "ConsolePlus is a .NET library that makes it easier to create beautiful, cross-platform console applications. It provides",
+    "id": "FRACerqueira/ConsolePlus",
+    "language": "C#",
+    "name": "FRACerqueira/ConsolePlus",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:18:14Z",
+    "url": "https://github.com/FRACerqueira/ConsolePlus"
+  },
+  {
+    "description": "A Skill and CLI tool for Codex and Claude Code that converts images, PDFs, image-based PPTX files, and mixed PPTX files ",
+    "id": "DSY-Xueai/image2editable",
+    "language": "Python",
+    "name": "DSY-Xueai/image2editable",
+    "stars": 11,
+    "updated_at": "2026-08-28T16:17:09Z",
+    "url": "https://github.com/DSY-Xueai/image2editable"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T16:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
+    "id": "Vladimir-Human/humanizer-ru",
+    "language": "Python",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 117,
+    "updated_at": "2026-08-28T16:14:49Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
+  },
+  {
     "description": "Lightweight coding agent that runs in your terminal",
     "id": "milisp/keke-agent",
     "language": "Rust",
@@ -36,22 +162,13 @@
     "url": "https://github.com/Wang-Cankun/cankun-skills"
   },
   {
-    "description": "Local fine-tuning for your own work. A provider-neutral kit that turns project experience into reusable criteria for AI ",
-    "id": "andresanemic/lore-plugin",
-    "language": "JavaScript",
-    "name": "andresanemic/lore-plugin",
-    "stars": 6,
-    "updated_at": "2026-08-28T16:14:53Z",
-    "url": "https://github.com/andresanemic/lore-plugin"
-  },
-  {
-    "description": "A Skill and CLI tool for Codex and Claude Code that converts images, PDFs, image-based PPTX files, and mixed PPTX files ",
-    "id": "DSY-Xueai/image2editable",
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
     "language": "Python",
-    "name": "DSY-Xueai/image2editable",
-    "stars": 11,
-    "updated_at": "2026-08-28T16:09:01Z",
-    "url": "https://github.com/DSY-Xueai/image2editable"
+    "name": "tonydzi/clawrush",
+    "stars": 12,
+    "updated_at": "2026-08-28T16:10:24Z",
+    "url": "https://github.com/tonydzi/clawrush"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -59,26 +176,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-28T16:10:56Z",
+    "updated_at": "2026-08-28T16:26:39Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
-    "id": "ShulkwiSEC/bugbounty.sa",
-    "language": "Python",
-    "name": "ShulkwiSEC/bugbounty.sa",
-    "stars": 0,
-    "updated_at": "2026-08-28T16:14:54Z",
-    "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 101,
-    "updated_at": "2026-08-28T16:14:16Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "My assortment of Claude Code skills",
@@ -108,15 +207,6 @@
     "url": "https://github.com/AlanHuang168/ai-codeops-harness"
   },
   {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-08-28T16:12:50Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
     "description": "A tackle box of Claude skills for the Rockfish synthetic data SDK.",
     "id": "Rockfish-Data/rockfish-skills",
     "language": "Python",
@@ -126,15 +216,6 @@
     "url": "https://github.com/Rockfish-Data/rockfish-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T16:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Product discovery for AI agents, done properly. Seven skills that route any discovery question to the method your eviden",
     "id": "riadchaban994-bot/discovery-os",
     "language": "Python",
@@ -142,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T16:10:33Z",
     "url": "https://github.com/riadchaban994-bot/discovery-os"
-  },
-  {
-    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
-    "id": "tonydzi/clawrush",
-    "language": "Python",
-    "name": "tonydzi/clawrush",
-    "stars": 12,
-    "updated_at": "2026-08-28T16:10:24Z",
-    "url": "https://github.com/tonydzi/clawrush"
-  },
-  {
-    "description": "A curated pack of custom Claude Code skills for developers \u2014 installable as a Claude Code plugin marketplace.",
-    "id": "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack",
-    "language": "JavaScript",
-    "name": "Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:53:04Z",
-    "url": "https://github.com/Mattakushi432/Claude-Code-Skills-Custom-DevTools-Pack"
   },
   {
     "description": "The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not say.",
@@ -178,15 +241,6 @@
     "stars": 429,
     "updated_at": "2026-08-28T15:49:06Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Claude Code plugin: run a small business with an agent across sessions \u2014 OKF wiki, OKR loop, session gate, decisions, le",
-    "id": "tidoemanuele/fable-autopilot",
-    "language": "JavaScript",
-    "name": "tidoemanuele/fable-autopilot",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:43:33Z",
-    "url": "https://github.com/tidoemanuele/fable-autopilot"
   },
   {
     "description": "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and res",
@@ -241,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T15:36:38Z",
     "url": "https://github.com/tonydzi/verified-ops-starter"
-  },
-  {
-    "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
-    "id": "liustack/pptwise",
-    "language": "TypeScript",
-    "name": "liustack/pptwise",
-    "stars": 8,
-    "updated_at": "2026-08-28T15:36:36Z",
-    "url": "https://github.com/liustack/pptwise"
   },
   {
     "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
@@ -400,53 +445,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68472,
+    "stars": 68473,
     "updated_at": "2026-08-28T15:26:04Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Your LLM reviewer said APPROVE. Did it? A structured verdict contract: prompt rule + parser + exit-code gate in one stdl",
-    "id": "tonydzi/verdict-contract",
-    "language": "Python",
-    "name": "tonydzi/verdict-contract",
-    "stars": 1,
-    "updated_at": "2026-08-28T15:25:59Z",
-    "url": "https://github.com/tonydzi/verdict-contract"
-  },
-  {
-    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
-    "id": "aitit-inc/leadace",
-    "language": "TypeScript",
-    "name": "aitit-inc/leadace",
-    "stars": 1,
-    "updated_at": "2026-08-28T15:24:54Z",
-    "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
-    "description": "Your Mac is not old -- it is holding thirty half-dead agent sessions. A dependency-free janitor for machines running Cla",
-    "id": "tonydzi/claude-mac-patrol",
-    "language": "Python",
-    "name": "tonydzi/claude-mac-patrol",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:24:36Z",
-    "url": "https://github.com/tonydzi/claude-mac-patrol"
-  },
-  {
-    "description": "Every number you publish is a claim. Prove it in CI: bind each figure in your README to the artifact it came from and fa",
-    "id": "tonydzi/claim-check",
-    "language": "Python",
-    "name": "tonydzi/claim-check",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:24:22Z",
-    "url": "https://github.com/tonydzi/claim-check"
-  },
-  {
-    "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specificat",
-    "id": "tzachbon/smart-ralph",
-    "language": "Shell",
-    "name": "tzachbon/smart-ralph",
-    "stars": 527,
-    "updated_at": "2026-08-28T15:22:43Z",
-    "url": "https://github.com/tzachbon/smart-ralph"
   }
 ]
