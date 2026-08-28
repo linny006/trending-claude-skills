@@ -1,12 +1,84 @@
 [
   {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 2,
+    "updated_at": "2026-08-28T01:43:24Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4ed3\u5e93\uff0c\u591a\u4e2a\u8d27\u67b6\u2014\u2014\u591a\u5de5\u5177\uff08Claude Code/Cursor/Codex/Trae \u7b49\uff09\u5171\u4eab\u540c\u4e00\u4efd Agent Skill \u4ed3\u5e93\u7684\u7ba1\u7406 CLI + \u672c\u5730\u9762\u677f",
+    "id": "fengyan3141/skill-warehouse",
+    "language": "Shell",
+    "name": "fengyan3141/skill-warehouse",
+    "stars": 0,
+    "updated_at": "2026-08-28T01:42:45Z",
+    "url": "https://github.com/fengyan3141/skill-warehouse"
+  },
+  {
+    "description": "bridge.ai: Claude Code plugins for AI-assisted development",
+    "id": "chris-peterson/claude-marketplace",
+    "language": "Python",
+    "name": "chris-peterson/claude-marketplace",
+    "stars": 0,
+    "updated_at": "2026-08-28T01:42:03Z",
+    "url": "https://github.com/chris-peterson/claude-marketplace"
+  },
+  {
+    "description": "\u628a\u4e00\u500b\u4eba\u7684\u8a71\u554f\u51fa\u4f86\uff0c\u505a\u6210\u4e00\u9801\u5f0f\u7684\u500b\u4eba\u54c1\u724c\u7db2\u7ad9\u3002\u7d66 AI \u4ee3\u7406\u4eba\u7167\u8457\u8dd1\u7684\u56db\u968e\u6bb5\u6d41\u7a0b\uff1a\u8a2a\u8ac7\u3001\u9078\u578b\u3001\u5efa\u7ad9\u3001\u9a57\u6536\u3002\u96f6\u4f9d\u8cf4\uff0c\u56db\u7a2e\u98a8\u683c\uff0c\u56db\u7a2e\u6703\u6d41\u52d5\u7684\u9996\u5c4f\u3002",
+    "id": "yazelin/personal-brand-site-starter",
+    "language": "HTML",
+    "name": "yazelin/personal-brand-site-starter",
+    "stars": 0,
+    "updated_at": "2026-08-28T01:41:27Z",
+    "url": "https://github.com/yazelin/personal-brand-site-starter"
+  },
+  {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/claude-chart-dashboard",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/claude-chart-dashboard",
+    "stars": 1,
+    "updated_at": "2026-08-28T01:41:18Z",
+    "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
+  },
+  {
+    "description": "Generate draw.io diagrams from natural language \u2014 11 presets (UML, SysML/MBSE, BPMN, network, C4\u2026), 39 tools: codebase/C",
+    "id": "Agents365-ai/drawio-skill",
+    "language": "Python",
+    "name": "Agents365-ai/drawio-skill",
+    "stars": 8087,
+    "updated_at": "2026-08-28T01:39:48Z",
+    "url": "https://github.com/Agents365-ai/drawio-skill"
+  },
+  {
     "description": "An autonomous Application Security (AppSec) prompt and skill module for AI coding assistants (Antigravity, Cursor, Copil",
     "id": "softwareasg-tools/information-security-for-vibecoded-apps",
-    "language": "\u2014",
+    "language": "Python",
     "name": "softwareasg-tools/information-security-for-vibecoded-apps",
     "stars": 2,
-    "updated_at": "2026-08-28T01:30:08Z",
+    "updated_at": "2026-08-28T01:33:37Z",
     "url": "https://github.com/softwareasg-tools/information-security-for-vibecoded-apps"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 414,
+    "updated_at": "2026-08-28T01:30:30Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T01:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
@@ -18,15 +90,6 @@
     "url": "https://github.com/soulmachine/skills"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 414,
-    "updated_at": "2026-08-28T01:30:04Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
     "description": "Turn reference UIs (images, screenshots, URLs) into quantified Design DNA JSON\u2014tokens, qualitative style, visual effects",
     "id": "zanwei/design-dna",
     "language": "JavaScript",
@@ -34,24 +97,6 @@
     "stars": 1540,
     "updated_at": "2026-08-28T01:24:33Z",
     "url": "https://github.com/zanwei/design-dna"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 2,
-    "updated_at": "2026-08-28T01:24:13Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "\u628a\u4e00\u500b\u4eba\u7684\u8a71\u554f\u51fa\u4f86\uff0c\u505a\u6210\u4e00\u9801\u5f0f\u7684\u500b\u4eba\u54c1\u724c\u7db2\u7ad9\u3002\u7d66 AI \u4ee3\u7406\u4eba\u7167\u8457\u8dd1\u7684\u56db\u968e\u6bb5\u6d41\u7a0b\uff1a\u8a2a\u8ac7\u3001\u9078\u578b\u3001\u5efa\u7ad9\u3001\u9a57\u6536\u3002\u96f6\u4f9d\u8cf4\uff0c\u56db\u7a2e\u98a8\u683c\uff0c\u56db\u7a2e\u6703\u6d41\u52d5\u7684\u9996\u5c4f\u3002",
-    "id": "yazelin/personal-brand-site-starter",
-    "language": "HTML",
-    "name": "yazelin/personal-brand-site-starter",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:23:42Z",
-    "url": "https://github.com/yazelin/personal-brand-site-starter"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -135,21 +180,12 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T01:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
     "id": "cody-hutson/pmo-platform",
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-28T01:30:10Z",
+    "updated_at": "2026-08-28T01:41:51Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -158,17 +194,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-28T01:29:39Z",
+    "updated_at": "2026-08-28T01:45:06Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
-    "id": "raghuramsirigiri/claude-chart-dashboard",
-    "language": "JavaScript",
-    "name": "raghuramsirigiri/claude-chart-dashboard",
-    "stars": 1,
-    "updated_at": "2026-08-28T01:29:48Z",
-    "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
   },
   {
     "description": "AI dev infrastructure framework for Claude Code. /dotclaude:bootstrap authors CLAUDE.md + docs/ + .claude/ tuned to your",
@@ -239,17 +266,8 @@
     "language": "Python",
     "name": "notque/vexjoy-agent",
     "stars": 417,
-    "updated_at": "2026-08-28T00:54:09Z",
+    "updated_at": "2026-08-28T01:44:35Z",
     "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
-    "description": "bridge.ai: Claude Code plugins for AI-assisted development",
-    "id": "chris-peterson/claude-marketplace",
-    "language": "Python",
-    "name": "chris-peterson/claude-marketplace",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:53:17Z",
-    "url": "https://github.com/chris-peterson/claude-marketplace"
   },
   {
     "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
@@ -292,7 +310,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6439,
+    "stars": 6440,
     "updated_at": "2026-08-28T00:39:24Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T23:49:45Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Vast.ai python and cli api client",
-    "id": "vast-ai/vast-cli",
-    "language": "Python",
-    "name": "vast-ai/vast-cli",
-    "stars": 216,
-    "updated_at": "2026-08-28T01:22:40Z",
-    "url": "https://github.com/vast-ai/vast-cli"
-  },
-  {
-    "description": "Agentic-native linting tool to enforce deterministic quality gates",
-    "id": "ironlint/ironlint",
-    "language": "Rust",
-    "name": "ironlint/ironlint",
-    "stars": 18,
-    "updated_at": "2026-08-27T23:45:57Z",
-    "url": "https://github.com/ironlint/ironlint"
   }
 ]
