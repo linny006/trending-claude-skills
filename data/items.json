@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI product management skills and plugin for Claude Code, Cowork, Codex and other AI agents: evidence-tagged PRDs, specs,",
+    "id": "naderelewa/Product-to-Prod",
+    "language": "Shell",
+    "name": "naderelewa/Product-to-Prod",
+    "stars": 13,
+    "updated_at": "2026-08-28T21:00:11Z",
+    "url": "https://github.com/naderelewa/Product-to-Prod"
+  },
+  {
+    "description": "",
+    "id": "veerapan-boo/claude-statusline-beauty",
+    "language": "Shell",
+    "name": "veerapan-boo/claude-statusline-beauty",
+    "stars": 1,
+    "updated_at": "2026-08-28T20:58:39Z",
+    "url": "https://github.com/veerapan-boo/claude-statusline-beauty"
+  },
+  {
+    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
+    "id": "elsoul/erpc-sdk",
+    "language": "Rust",
+    "name": "elsoul/erpc-sdk",
+    "stars": 2,
+    "updated_at": "2026-08-28T20:57:00Z",
+    "url": "https://github.com/elsoul/erpc-sdk"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-28T20:57:08Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Claude Code plugin marketplace for work-management \u2014 a project-agnostic Request \u2192 Work item \u2192 Active release \u2192 Done deli",
+    "id": "martynjsimpson/workManagementClaudePlugin",
+    "language": "\u2014",
+    "name": "martynjsimpson/workManagementClaudePlugin",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:55:34Z",
+    "url": "https://github.com/martynjsimpson/workManagementClaudePlugin"
+  },
+  {
+    "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
+    "id": "ShulkwiSEC/bugbounty.sa",
+    "language": "Python",
+    "name": "ShulkwiSEC/bugbounty.sa",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:50:52Z",
+    "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
+  },
+  {
+    "description": "Turn a repository into a slide deck that tells you when it stops matching the code",
+    "id": "glukicov/slideops",
+    "language": "HTML",
+    "name": "glukicov/slideops",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:50:37Z",
+    "url": "https://github.com/glukicov/slideops"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T20:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 1\u0421-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u043b\u044f Claude Code: \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b, \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u041e\u041e\u041f \u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u044b, XML \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0445, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u0433\u0435\u0439\u0442\u044b \u0438",
     "id": "Romandredan/1c-quality-gate",
     "language": "JavaScript",
@@ -27,15 +99,6 @@
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
-    "description": "",
-    "id": "veerapan-boo/claude-statusline-beauty",
-    "language": "Shell",
-    "name": "veerapan-boo/claude-statusline-beauty",
-    "stars": 1,
-    "updated_at": "2026-08-28T20:41:01Z",
-    "url": "https://github.com/veerapan-boo/claude-statusline-beauty"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -61,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-28T20:34:05Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-08-28T20:43:46Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
@@ -108,15 +162,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T20:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "TypeScript",
@@ -124,15 +169,6 @@
     "stars": 54,
     "updated_at": "2026-08-28T20:27:17Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
-    "id": "ShulkwiSEC/bugbounty.sa",
-    "language": "Python",
-    "name": "ShulkwiSEC/bugbounty.sa",
-    "stars": 0,
-    "updated_at": "2026-08-28T20:22:58Z",
-    "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
   },
   {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-28T20:43:42Z",
+    "updated_at": "2026-08-28T20:51:25Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/Juuzoe/stop-design-slop"
   },
   {
-    "description": "AI product management skills and plugin for Claude Code, Cowork, Codex and other AI agents: evidence-tagged PRDs, specs,",
-    "id": "naderelewa/Product-to-Prod",
-    "language": "Shell",
-    "name": "naderelewa/Product-to-Prod",
-    "stars": 13,
-    "updated_at": "2026-08-28T19:33:50Z",
-    "url": "https://github.com/naderelewa/Product-to-Prod"
-  },
-  {
     "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
     "id": "mimukit/skills",
     "language": "Shell",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T19:04:15Z",
     "url": "https://github.com/cldr-steven-matison/NiFiandAi"
-  },
-  {
-    "description": "Claude Code plans and reviews; free opencode workers do the grunt work. Parallel agent swarms with worktree isolation an",
-    "id": "Hanishchow/hivemind",
-    "language": "JavaScript",
-    "name": "Hanishchow/hivemind",
-    "stars": 1,
-    "updated_at": "2026-08-28T19:03:40Z",
-    "url": "https://github.com/Hanishchow/hivemind"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-28T19:00:09Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Your friendly neighborhood QA developer.",
-    "id": "EmanueleMinotto/minottobot",
-    "language": "Python",
-    "name": "EmanueleMinotto/minottobot",
-    "stars": 3,
-    "updated_at": "2026-08-28T19:23:06Z",
-    "url": "https://github.com/EmanueleMinotto/minottobot"
   }
 ]
