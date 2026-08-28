@@ -1,12 +1,57 @@
 [
   {
+    "description": "A Claude Code skill that cuts coding token usage up to 94% without cutting quality. Measured, reproducible benchmark inc",
+    "id": "Sarveshmehta1504/lean-max",
+    "language": "PowerShell",
+    "name": "Sarveshmehta1504/lean-max",
+    "stars": 0,
+    "updated_at": "2026-08-28T10:42:21Z",
+    "url": "https://github.com/Sarveshmehta1504/lean-max"
+  },
+  {
+    "description": " Personal skills for Codex and Claude Code, invoked as superb:*. craft turns a vague product idea into a decision-rich b",
+    "id": "kardebadas/claude-plugin",
+    "language": "Python",
+    "name": "kardebadas/claude-plugin",
+    "stars": 1,
+    "updated_at": "2026-08-28T10:39:10Z",
+    "url": "https://github.com/kardebadas/claude-plugin"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-28T10:29:21Z",
+    "updated_at": "2026-08-28T10:44:41Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
+    "id": "zeikar/dotfiles",
+    "language": "Shell",
+    "name": "zeikar/dotfiles",
+    "stars": 1,
+    "updated_at": "2026-08-28T10:38:28Z",
+    "url": "https://github.com/zeikar/dotfiles"
+  },
+  {
+    "description": "\u7ed9\u6bcf\u4e2a OpenClaw agent \u4e00\u4e2a\u300c\u5bb6\u300d\uff1a\u6807\u51c6\u76ee\u5f55\u7ed3\u6784 + WORKSPACE.md \u89c4\u8303 + \u591a agent \u914d\u7f6e\u5b89\u5168\u3002 OpenClaw workspace initialization & standardization \u2014 ",
+    "id": "dtsola/xiaoyaoclaw-workspace-initializer",
+    "language": "\u2014",
+    "name": "dtsola/xiaoyaoclaw-workspace-initializer",
+    "stars": 3,
+    "updated_at": "2026-08-28T10:31:10Z",
+    "url": "https://github.com/dtsola/xiaoyaoclaw-workspace-initializer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T10:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your",
@@ -63,15 +108,6 @@
     "url": "https://github.com/tidoemanuele/fable-autopilot"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T10:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
     "id": "maxritter/pilot-shell",
     "language": "JavaScript",
@@ -106,15 +142,6 @@
     "stars": 17,
     "updated_at": "2026-08-28T10:10:29Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": " Personal skills for Codex and Claude Code, invoked as superb:*. craft turns a vague product idea into a decision-rich b",
-    "id": "kardebadas/claude-plugin",
-    "language": "Python",
-    "name": "kardebadas/claude-plugin",
-    "stars": 1,
-    "updated_at": "2026-08-28T10:04:10Z",
-    "url": "https://github.com/kardebadas/claude-plugin"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -364,7 +391,7 @@
     "id": "LinklyAI/best-skills",
     "language": "\u2014",
     "name": "LinklyAI/best-skills",
-    "stars": 223,
+    "stars": 224,
     "updated_at": "2026-08-28T08:55:43Z",
     "url": "https://github.com/LinklyAI/best-skills"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-28T08:39:50Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-28T08:39:10Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Wire an AI agent to live product data over the Apify MCP server: price, stock, rating and images as structured fields. R",
-    "id": "luispintoapify/ecommerce-agent-starter",
-    "language": "Python",
-    "name": "luispintoapify/ecommerce-agent-starter",
-    "stars": 3,
-    "updated_at": "2026-08-28T08:38:09Z",
-    "url": "https://github.com/luispintoapify/ecommerce-agent-starter"
-  },
-  {
-    "description": "Chinese almanac skill & free API \u2014 plan weddings, moves, business openings, contract signings with auspicious dates (\u62e9\u65e5)",
-    "id": "yonlandwu/tung-shing-almanac-skill",
-    "language": "Python",
-    "name": "yonlandwu/tung-shing-almanac-skill",
-    "stars": 0,
-    "updated_at": "2026-08-28T08:37:43Z",
-    "url": "https://github.com/yonlandwu/tung-shing-almanac-skill"
   }
 ]
