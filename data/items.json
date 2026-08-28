@@ -1,12 +1,84 @@
 [
   {
+    "description": "7 gotowych skilli do Claude (Code, Cowork, przegladarka) po polsku: odsztucznianie tekstu, pisanie promptow, pisanie Two",
+    "id": "studiogo/skille-do-claude",
+    "language": "\u2014",
+    "name": "studiogo/skille-do-claude",
+    "stars": 0,
+    "updated_at": "2026-08-28T14:28:51Z",
+    "url": "https://github.com/studiogo/skille-do-claude"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 6576,
+    "updated_at": "2026-08-28T14:28:45Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+    "description": "Product discovery for AI agents, done properly. Seven skills that route any discovery question to the method your eviden",
+    "id": "riadchaban994-bot/discovery-os",
+    "language": "Python",
+    "name": "riadchaban994-bot/discovery-os",
+    "stars": 0,
+    "updated_at": "2026-08-28T14:28:27Z",
+    "url": "https://github.com/riadchaban994-bot/discovery-os"
+  },
+  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 101,
-    "updated_at": "2026-08-28T14:14:11Z",
+    "updated_at": "2026-08-28T14:29:55Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 433,
+    "updated_at": "2026-08-28T14:24:28Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "Claude Code workspace template for running consistent SEO across a portfolio of managed websites.",
+    "id": "mkreindel/seo-toolkit-template",
+    "language": "JavaScript",
+    "name": "mkreindel/seo-toolkit-template",
+    "stars": 1,
+    "updated_at": "2026-08-28T14:19:00Z",
+    "url": "https://github.com/mkreindel/seo-toolkit-template"
+  },
+  {
+    "description": "A Claude Skill that picks your fight before you write the copy. Decides which competitor to take on, whether to name the",
+    "id": "MichaelDoesMarketing/Versus",
+    "language": "\u2014",
+    "name": "MichaelDoesMarketing/Versus",
+    "stars": 0,
+    "updated_at": "2026-08-28T14:15:56Z",
+    "url": "https://github.com/MichaelDoesMarketing/Versus"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T14:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 2,
+    "updated_at": "2026-08-28T14:14:38Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
   },
   {
     "description": "A Claude Skill that writes marketing copy using battle rap mechanics. Angle, scheme, setup and punch, rebuttals, and a c",
@@ -16,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-28T14:11:36Z",
     "url": "https://github.com/MichaelDoesMarketing/battle-tested"
+  },
+  {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-28T14:10:35Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   },
   {
     "description": "Claude forgets everything between sessions. This skill installs the fix: a memory loop for Claude Code \u2014 one small BRIEF",
@@ -63,15 +144,6 @@
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   },
   {
-    "description": "Product discovery for AI agents, done properly. Seven skills that route any discovery question to the method your eviden",
-    "id": "riadchaban994-bot/discovery-os",
-    "language": "\u2014",
-    "name": "riadchaban994-bot/discovery-os",
-    "stars": 0,
-    "updated_at": "2026-08-28T14:08:14Z",
-    "url": "https://github.com/riadchaban994-bot/discovery-os"
-  },
-  {
     "description": "Command DeepSeek Harness (dsh) from the terminal \u2014 sessions, tasks, models, modes, workspaces, approvals over its HTTP A",
     "id": "Qidianyan/dshctl",
     "language": "Python",
@@ -81,30 +153,12 @@
     "url": "https://github.com/Qidianyan/dshctl"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T14:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6575,
-    "updated_at": "2026-08-28T14:13:31Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
     "stars": 6181,
-    "updated_at": "2026-08-28T13:58:52Z",
+    "updated_at": "2026-08-28T14:15:44Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
@@ -139,7 +193,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 5886,
+    "stars": 5887,
     "updated_at": "2026-08-28T13:54:21Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -212,7 +266,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-28T14:14:43Z",
+    "updated_at": "2026-08-28T14:27:59Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -284,7 +338,7 @@
     "language": "Shell",
     "name": "chrislacey89/skills",
     "stars": 2,
-    "updated_at": "2026-08-28T14:02:47Z",
+    "updated_at": "2026-08-28T14:29:02Z",
     "url": "https://github.com/chrislacey89/skills"
   },
   {
@@ -364,7 +418,7 @@
     "id": "LinklyAI/best-skills",
     "language": "\u2014",
     "name": "LinklyAI/best-skills",
-    "stars": 249,
+    "stars": 253,
     "updated_at": "2026-08-28T13:10:27Z",
     "url": "https://github.com/LinklyAI/best-skills"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T13:05:14Z",
     "url": "https://github.com/anyshift-io/claude-plugins"
-  },
-  {
-    "description": "Open-source library of methodology-shaped SRE skills for AI agents (Apache 2.0)",
-    "id": "anyshift-io/sre-skills",
-    "language": "Python",
-    "name": "anyshift-io/sre-skills",
-    "stars": 17,
-    "updated_at": "2026-08-28T13:05:09Z",
-    "url": "https://github.com/anyshift-io/sre-skills"
-  },
-  {
-    "description": "Claude Code skill: writes & improves human-facing READMEs \u2014 the single canonical entrance for humans, search, and AI Ove",
-    "id": "shimo4228/readme-writer",
-    "language": "Python",
-    "name": "shimo4228/readme-writer",
-    "stars": 1,
-    "updated_at": "2026-08-28T13:04:15Z",
-    "url": "https://github.com/shimo4228/readme-writer"
-  },
-  {
-    "description": "Claude Code Agent Skill bundle for writing & reviewing academic papers (SSRN / arXiv / Zenodo / journals). Bundles an or",
-    "id": "shimo4228/claude-skill-paper-ecosystem",
-    "language": "Shell",
-    "name": "shimo4228/claude-skill-paper-ecosystem",
-    "stars": 1,
-    "updated_at": "2026-08-28T13:04:13Z",
-    "url": "https://github.com/shimo4228/claude-skill-paper-ecosystem"
-  },
-  {
-    "description": "Claude Code skill: orchestrator for human-facing writing & review \u2014 AI-slop banned list (JA + EN), Voice rules (\u3060/\u3067\u3042\u308b \u00d7 ",
-    "id": "shimo4228/claude-skill-writing-ecosystem",
-    "language": "Shell",
-    "name": "shimo4228/claude-skill-writing-ecosystem",
-    "stars": 1,
-    "updated_at": "2026-08-28T13:04:11Z",
-    "url": "https://github.com/shimo4228/claude-skill-writing-ecosystem"
-  },
-  {
-    "description": "Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness \u2014 open Agent Skills standard, not Claude-",
-    "id": "shimo4228/claude-harness",
-    "language": "Python",
-    "name": "shimo4228/claude-harness",
-    "stars": 2,
-    "updated_at": "2026-08-28T13:04:09Z",
-    "url": "https://github.com/shimo4228/claude-harness"
-  },
-  {
-    "description": "A collection of Claude Skills from Posit",
-    "id": "posit-dev/skills",
-    "language": "R",
-    "name": "posit-dev/skills",
-    "stars": 485,
-    "updated_at": "2026-08-28T13:02:58Z",
-    "url": "https://github.com/posit-dev/skills"
   }
 ]
