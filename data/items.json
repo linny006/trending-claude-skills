@@ -1,5 +1,23 @@
 [
   {
+    "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
+    "id": "WYRE-AI/msp-claude-plugins",
+    "language": "Astro",
+    "name": "WYRE-AI/msp-claude-plugins",
+    "stars": 42,
+    "updated_at": "2026-08-28T00:40:17Z",
+    "url": "https://github.com/WYRE-AI/msp-claude-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T00:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
     "id": "crabbuild/compass",
     "language": "Rust",
@@ -61,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T00:19:14Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T00:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Provider-agnostic AI coding harness & agent runtime in Rust. Fully decoupled, plugin-driven, and compatible with ACP",
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "getcargohq/cargo-skills",
     "stars": 15,
-    "updated_at": "2026-08-28T00:21:37Z",
+    "updated_at": "2026-08-28T00:37:59Z",
     "url": "https://github.com/getcargohq/cargo-skills"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 416,
     "updated_at": "2026-08-27T22:50:19Z",
     "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
-    "description": "Battle-tested Claude Code skills that stop agent sessions from wrecking your repo: build discipline, review discipline, ",
-    "id": "LilyCTM/claude-mentor-skills",
-    "language": "\u2014",
-    "name": "LilyCTM/claude-mentor-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:47:24Z",
-    "url": "https://github.com/LilyCTM/claude-mentor-skills"
   }
 ]
