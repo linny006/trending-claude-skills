@@ -1,5 +1,50 @@
 [
   {
+    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 417,
+    "updated_at": "2026-08-28T03:28:01Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Nine portable, host-neutral federal acquisition workflow skills with deterministic validators.",
+    "id": "1102tools-dev/federal-contracting-skills",
+    "language": "Python",
+    "name": "1102tools-dev/federal-contracting-skills",
+    "stars": 25,
+    "updated_at": "2026-08-28T03:19:11Z",
+    "url": "https://github.com/1102tools-dev/federal-contracting-skills"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Shell",
+    "name": "boshu2/agentops",
+    "stars": 429,
+    "updated_at": "2026-08-28T03:16:52Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 2,
+    "updated_at": "2026-08-28T03:16:29Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T03:15:32Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u4e2d\u56fd\u5927\u5b66\u751f\u7684\u89c4\u5212\u7f57\u76d8 Agent Skill\uff1a\u6309\u516d\u6761\u6bd5\u4e1a\u8def\u7ebf\u7684\u8003\u5bdf\u7ef4\u5ea6\u6743\u91cd\uff0c\u5224\u65ad\u4f60\u624b\u4e0a\u7684\u7ecf\u5386\u503c\u7b2c\u51e0\u4f4d\uff0c\u6bcf\u4e2a\u5224\u65ad\u90fd\u5199\u660e\u4f9d\u636e",
     "id": "brain898/college-compass",
     "language": "\u2014",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T03:11:21Z",
     "url": "https://github.com/brain898/college-compass"
-  },
-  {
-    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 417,
-    "updated_at": "2026-08-28T03:10:20Z",
-    "url": "https://github.com/notque/vexjoy-agent"
   },
   {
     "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
@@ -59,17 +95,8 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-28T03:01:56Z",
+    "updated_at": "2026-08-28T03:22:50Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T03:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u4e00\u4e2a\u4ed3\u5e93\uff0c\u591a\u4e2a\u8d27\u67b6\u2014\u2014\u591a\u5de5\u5177\uff08Claude Code/Cursor/Codex/Trae \u7b49\uff09\u5171\u4eab\u540c\u4e00\u4efd Agent Skill \u4ed3\u5e93\u7684\u7ba1\u7406 CLI + \u672c\u5730\u9762\u677f",
@@ -79,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T02:55:25Z",
     "url": "https://github.com/fengyan3141/skill-warehouse"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 2,
-    "updated_at": "2026-08-28T03:14:29Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "Nine portable, host-neutral federal acquisition workflow skills with deterministic validators.",
-    "id": "1102tools-dev/federal-contracting-skills",
-    "language": "Python",
-    "name": "1102tools-dev/federal-contracting-skills",
-    "stars": 25,
-    "updated_at": "2026-08-28T02:53:28Z",
-    "url": "https://github.com/1102tools-dev/federal-contracting-skills"
   },
   {
     "description": "Clip any video into a narration recap with claude code skill\uff5c\u7528 claude code skill \u628a\u4efb\u4f55\u89c6\u9891\u526a\u8f91\u6210\u4e2d\u6587\u89e3\u8bf4\u89c6\u9891\uff0c\u652f\u6301\u526a\u6620\u5bfc\u51fa",
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 101,
-    "updated_at": "2026-08-28T02:48:45Z",
+    "updated_at": "2026-08-28T03:27:07Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -355,7 +364,7 @@
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
-    "stars": 8090,
+    "stars": 8092,
     "updated_at": "2026-08-28T01:39:48Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T01:19:40Z",
     "url": "https://github.com/MaciejZet/agent-skills"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-08-28T01:18:01Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   }
 ]
