@@ -1,5 +1,86 @@
 [
   {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 54,
+    "updated_at": "2026-08-28T19:56:53Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
+    "id": "widnyana/eyay-toolkits",
+    "language": "Python",
+    "name": "widnyana/eyay-toolkits",
+    "stars": 4,
+    "updated_at": "2026-08-28T19:56:37Z",
+    "url": "https://github.com/widnyana/eyay-toolkits"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 2,
+    "updated_at": "2026-08-28T19:52:34Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-28T19:51:53Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-28T19:55:29Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-08-28T19:48:42Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
+    "id": "ShulkwiSEC/bugbounty.sa",
+    "language": "Python",
+    "name": "ShulkwiSEC/bugbounty.sa",
+    "stars": 0,
+    "updated_at": "2026-08-28T19:46:52Z",
+    "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-08-28T19:46:26Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T19:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
     "id": "wardawgmalvicious/agent-config",
     "language": "PowerShell",
@@ -7,6 +88,15 @@
     "stars": 2,
     "updated_at": "2026-08-28T19:44:54Z",
     "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 1,
+    "updated_at": "2026-08-28T19:44:33Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
     "description": "Set of skills for globalizing and localizing app",
@@ -36,15 +126,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-08-28T19:45:10Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "Vladimir-Human/humanizer-ru",
     "stars": 117,
-    "updated_at": "2026-08-28T19:35:18Z",
+    "updated_at": "2026-08-28T19:51:22Z",
     "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
@@ -88,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T19:32:09Z",
     "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T19:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Local fine-tuning for your own work. A provider-neutral kit that turns project experience into reusable criteria for AI ",
@@ -178,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T19:03:40Z",
     "url": "https://github.com/Hanishchow/hivemind"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:39:50Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -347,7 +410,7 @@
     "language": "\u2014",
     "name": "villagesql/villagesql-skills",
     "stars": 5,
-    "updated_at": "2026-08-28T18:56:23Z",
+    "updated_at": "2026-08-28T19:56:14Z",
     "url": "https://github.com/villagesql/villagesql-skills"
   },
   {
@@ -358,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T18:26:16Z",
     "url": "https://github.com/ehsanking/Skills-Ai"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 101,
-    "updated_at": "2026-08-28T19:45:04Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
@@ -387,15 +441,6 @@
     "url": "https://github.com/chrislacey89/skills"
   },
   {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 54,
-    "updated_at": "2026-08-28T18:17:24Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
     "description": "Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co",
     "id": "jackneil/claude-jacked",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T18:10:43Z",
     "url": "https://github.com/jackneil/claude-jacked"
-  },
-  {
-    "description": "8 production-ready Claude skills for Claude Code and claude.ai: six document generators and a documentation-lifecycle to",
-    "id": "StefanoZaghi1987/ClaudeSkills",
-    "language": "Python",
-    "name": "StefanoZaghi1987/ClaudeSkills",
-    "stars": 1,
-    "updated_at": "2026-08-28T18:10:19Z",
-    "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
-  },
-  {
-    "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandboxed YAML suites, ",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 118,
-    "updated_at": "2026-08-28T18:20:18Z",
-    "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
-    "id": "ramboz/jig",
-    "language": "Python",
-    "name": "ramboz/jig",
-    "stars": 6,
-    "updated_at": "2026-08-28T18:07:45Z",
-    "url": "https://github.com/ramboz/jig"
-  },
-  {
-    "description": "\ud83d\udc8b\uff5cClaude analyzes photos or chat screenshots and generates 4 flirting messages inspired by behavioral psychology, neuros",
-    "id": "erikraft/flirting-skill",
-    "language": "\u2014",
-    "name": "erikraft/flirting-skill",
-    "stars": 3,
-    "updated_at": "2026-08-28T18:07:18Z",
-    "url": "https://github.com/erikraft/flirting-skill"
-  },
-  {
-    "description": "Helps Claude Code select and implement the right ConsolePlus/PromptPlus control for a .NET console app: determines the p",
-    "id": "FRACerqueira/ConsolePlus-PromptPlus-IA-Plugin",
-    "language": "Python",
-    "name": "FRACerqueira/ConsolePlus-PromptPlus-IA-Plugin",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:58:07Z",
-    "url": "https://github.com/FRACerqueira/ConsolePlus-PromptPlus-IA-Plugin"
   }
 ]
