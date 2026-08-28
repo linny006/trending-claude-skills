@@ -1,11 +1,101 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-28T12:00:07Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-28T12:00:10Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
+    "id": "ArcticFox2029/chamnan",
+    "language": "Python",
+    "name": "ArcticFox2029/chamnan",
+    "stars": 4,
+    "updated_at": "2026-08-28T11:59:31Z",
+    "url": "https://github.com/ArcticFox2029/chamnan"
+  },
+  {
+    "description": "Zw\u00f6lf deutschsprachige SEO-Agenten f\u00fcr Claude: als Subagenten f\u00fcr Claude Code und als Skills f\u00fcr claude.ai, Cowork und D",
+    "id": "collective-brain/claude-seo-skills",
+    "language": "\u2014",
+    "name": "collective-brain/claude-seo-skills",
+    "stars": 0,
+    "updated_at": "2026-08-28T11:58:51Z",
+    "url": "https://github.com/collective-brain/claude-seo-skills"
+  },
+  {
+    "description": "Agent-native research workspace. A deterministic CLI that ingests arXiv / PDF / LaTeX / Zotero papers into an Obsidian-c",
+    "id": "Misaka16384/magi",
+    "language": "Python",
+    "name": "Misaka16384/magi",
+    "stars": 7,
+    "updated_at": "2026-08-28T11:58:29Z",
+    "url": "https://github.com/Misaka16384/magi"
+  },
+  {
+    "description": "\ud83e\uddf9 \u65ad\u820d\u79bb.skill / danshari.skill \u2014 \u7b2c\u4e00\u4e2a\u529d\u4f60\u5220 skill \u7684 skill\uff1a\u5ba1\u8ba1\u5e76\u79fb\u9664\u4f60\u7684 agent \u4e0d\u518d\u9700\u8981\u7684 skill\uff08\u6a21\u578b\u5df2\u4f1a\u7684 / harness \u5df2\u81ea\u5e26\u7684 / MCP \u5df2\u63a5\u7ba1\u7684\uff09\u3002The first",
+    "id": "swaylq/danshari-skill",
+    "language": "Python",
+    "name": "swaylq/danshari-skill",
+    "stars": 1,
+    "updated_at": "2026-08-28T11:56:35Z",
+    "url": "https://github.com/swaylq/danshari-skill"
+  },
+  {
+    "description": "A Claude Code skill that cuts coding token usage up to 94% without cutting quality. Measured, reproducible benchmark inc",
+    "id": "Sarveshmehta1504/lean-max",
+    "language": "PowerShell",
+    "name": "Sarveshmehta1504/lean-max",
+    "stars": 0,
+    "updated_at": "2026-08-28T11:55:44Z",
+    "url": "https://github.com/Sarveshmehta1504/lean-max"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 5,
+    "updated_at": "2026-08-28T11:57:38Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T11:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 6564,
+    "updated_at": "2026-08-28T11:45:11Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
     "description": "Wondel.ai Agent Skills \u2014 Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journ",
     "id": "wondelai/skills",
     "language": "Shell",
     "name": "wondelai/skills",
     "stars": 2038,
-    "updated_at": "2026-08-28T11:44:59Z",
+    "updated_at": "2026-08-28T11:59:51Z",
     "url": "https://github.com/wondelai/skills"
   },
   {
@@ -16,24 +106,6 @@
     "stars": 117,
     "updated_at": "2026-08-28T11:43:28Z",
     "url": "https://github.com/Vladimir-Human/humanizer-ru"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 5,
-    "updated_at": "2026-08-28T11:45:12Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 101,
-    "updated_at": "2026-08-28T11:42:00Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specificat",
@@ -52,15 +124,6 @@
     "stars": 50,
     "updated_at": "2026-08-28T11:38:15Z",
     "url": "https://github.com/Desko77/claude-code-skills-1c"
-  },
-  {
-    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
-    "id": "ArcticFox2029/chamnan",
-    "language": "Python",
-    "name": "ArcticFox2029/chamnan",
-    "stars": 4,
-    "updated_at": "2026-08-28T11:35:15Z",
-    "url": "https://github.com/ArcticFox2029/chamnan"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -90,15 +153,6 @@
     "url": "https://github.com/tobihagemann/turbo"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T11:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Forward deployed engineering skills for AI coding agents.",
     "id": "suboss87/FDEOps",
     "language": "JavaScript",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T11:15:15Z",
     "url": "https://github.com/pestalytix/innovate-or-die"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-28T11:45:01Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
@@ -214,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T10:45:59Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "A Claude Code skill that cuts coding token usage up to 94% without cutting quality. Measured, reproducible benchmark inc",
-    "id": "Sarveshmehta1504/lean-max",
-    "language": "PowerShell",
-    "name": "Sarveshmehta1504/lean-max",
-    "stars": 0,
-    "updated_at": "2026-08-28T10:42:21Z",
-    "url": "https://github.com/Sarveshmehta1504/lean-max"
   },
   {
     "description": " Personal skills for Codex and Claude Code, invoked as superb:*. craft turns a vague product idea into a decision-rich b",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T09:47:01Z",
     "url": "https://github.com/Mahad-Usman-15/my-landing-page"
-  },
-  {
-    "description": "\u4e2d\u6587 Agent Skills \u5408\u96c6\uff1a194 \u4e2a\u6761\u76ee\u300113 \u4e2a\u672c\u7ad9\u539f\u521b\uff1bCodex 13/13 \u81ea\u52a8\u89e6\u53d1\u5b9e\u6d4b\uff0cClaude Code / Cursor \u5f85\u6d4b\uff1b\u6765\u6e90\u4ed3\u5e93\u5b9a\u671f\u590d\u68c0\uff0c\u8fd0\u884c\u8bb0\u5f55\u516c\u5f00",
-    "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
-    "language": "HTML",
-    "name": "sanhuang520-ship-it/awesome-chinese-ai-tools",
-    "stars": 8,
-    "updated_at": "2026-08-28T09:45:22Z",
-    "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
-  },
-  {
-    "description": "Pass a note from your AI to someone\u2019s phone. No account.",
-    "id": "sudo5zzb/slip-skill",
-    "language": "Shell",
-    "name": "sudo5zzb/slip-skill",
-    "stars": 1,
-    "updated_at": "2026-08-28T09:42:54Z",
-    "url": "https://github.com/sudo5zzb/slip-skill"
-  },
-  {
-    "description": "Build a vault that can teach and advise you from your sources as if you'd carefully read and distilled them yourself.",
-    "id": "mplind/second-reader",
-    "language": "Python",
-    "name": "mplind/second-reader",
-    "stars": 1,
-    "updated_at": "2026-08-28T09:42:07Z",
-    "url": "https://github.com/mplind/second-reader"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30626,
-    "updated_at": "2026-08-28T11:20:09Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
   }
 ]
