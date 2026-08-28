@@ -1,12 +1,84 @@
 [
   {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-28T21:29:21Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-08-28T21:42:34Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
+    "id": "elsoul/erpc-sdk",
+    "language": "Rust",
+    "name": "elsoul/erpc-sdk",
+    "stars": 2,
+    "updated_at": "2026-08-28T21:42:04Z",
+    "url": "https://github.com/elsoul/erpc-sdk"
+  },
+  {
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. ",
+    "id": "K-Dense-AI/scientific-agent-skills",
+    "language": "Python",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "stars": 36464,
+    "updated_at": "2026-08-28T21:41:24Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor",
+    "id": "fcakyon/claude-codex-settings",
+    "language": "Python",
+    "name": "fcakyon/claude-codex-settings",
+    "stars": 1114,
+    "updated_at": "2026-08-28T21:41:05Z",
+    "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 32,
+    "updated_at": "2026-08-28T21:37:02Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-28T21:37:38Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "A browser inside your terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "Rust",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 2383,
+    "updated_at": "2026-08-28T21:42:11Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 49,
+    "updated_at": "2026-08-28T21:33:22Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T21:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
@@ -18,6 +90,15 @@
     "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-28T21:29:21Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "TypeScript",
@@ -25,15 +106,6 @@
     "stars": 54,
     "updated_at": "2026-08-28T21:28:12Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-08-28T21:27:43Z",
-    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
@@ -52,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T21:24:42Z",
     "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T21:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
-    "id": "elsoul/erpc-sdk",
-    "language": "Rust",
-    "name": "elsoul/erpc-sdk",
-    "stars": 2,
-    "updated_at": "2026-08-28T21:12:17Z",
-    "url": "https://github.com/elsoul/erpc-sdk"
   },
   {
     "description": "Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio",
@@ -94,7 +148,7 @@
     "id": "naderelewa/Product-to-Prod",
     "language": "Shell",
     "name": "naderelewa/Product-to-Prod",
-    "stars": 13,
+    "stars": 14,
     "updated_at": "2026-08-28T21:11:20Z",
     "url": "https://github.com/naderelewa/Product-to-Prod"
   },
@@ -133,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T20:58:39Z",
     "url": "https://github.com/veerapan-boo/claude-statusline-beauty"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-08-28T21:25:06Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Claude Code plugin marketplace for work-management \u2014 a project-agnostic Request \u2192 Work item \u2192 Active release \u2192 Done deli",
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 101,
-    "updated_at": "2026-08-28T21:23:53Z",
+    "updated_at": "2026-08-28T21:43:14Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-28T21:20:59Z",
+    "updated_at": "2026-08-28T21:43:06Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -347,7 +392,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30632,
-    "updated_at": "2026-08-28T19:53:48Z",
+    "updated_at": "2026-08-28T21:40:08Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 52,
     "updated_at": "2026-08-28T19:42:00Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-28T19:40:14Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:36:16Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Agent skill for Claude Code and Codex that removes the \"AI made this\" look from websites. 284 researched slop tells with",
-    "id": "Juuzoe/stop-design-slop",
-    "language": "\u2014",
-    "name": "Juuzoe/stop-design-slop",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:34:50Z",
-    "url": "https://github.com/Juuzoe/stop-design-slop"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 1,
-    "updated_at": "2026-08-28T19:32:09Z",
-    "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "Local fine-tuning for your own work. A provider-neutral kit that turns project experience into reusable criteria for AI ",
-    "id": "andresanemic/lore-plugin",
-    "language": "JavaScript",
-    "name": "andresanemic/lore-plugin",
-    "stars": 6,
-    "updated_at": "2026-08-28T19:30:11Z",
-    "url": "https://github.com/andresanemic/lore-plugin"
   }
 ]
