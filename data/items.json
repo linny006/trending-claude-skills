@@ -1,12 +1,93 @@
 [
   {
+    "description": "Open-source skills that empower any AI agent (Claude, Cursor, Hermes, etc.) to generate end-to-end marketing campaigns -",
+    "id": "SupercmoHQ/superCMO-skills",
+    "language": "Python",
+    "name": "SupercmoHQ/superCMO-skills",
+    "stars": 31,
+    "updated_at": "2026-08-28T13:28:52Z",
+    "url": "https://github.com/SupercmoHQ/superCMO-skills"
+  },
+  {
+    "description": "Optimizes the description frontmatter of a Claude Code / Agent Skill - the text that decides whether Claude invokes the ",
+    "id": "netopsengineer/agent-skill-description-optimizer",
+    "language": "Python",
+    "name": "netopsengineer/agent-skill-description-optimizer",
+    "stars": 2,
+    "updated_at": "2026-08-28T13:26:07Z",
+    "url": "https://github.com/netopsengineer/agent-skill-description-optimizer"
+  },
+  {
     "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
     "id": "soulmachine/skills",
     "language": "Shell",
     "name": "soulmachine/skills",
     "stars": 3,
-    "updated_at": "2026-08-28T13:13:07Z",
+    "updated_at": "2026-08-28T13:25:06Z",
     "url": "https://github.com/soulmachine/skills"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:23:22Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Rust runtime with TS/Python bindings for Claude Skills with progressive disclosure of skill metadata, full content and s",
+    "id": "Geeksfino/openskills",
+    "language": "Rust",
+    "name": "Geeksfino/openskills",
+    "stars": 70,
+    "updated_at": "2026-08-28T13:21:06Z",
+    "url": "https://github.com/Geeksfino/openskills"
+  },
+  {
+    "description": "19 protocol-driven skills for Claude Code & Codex CLI: an adversarial reviewer, its evidence-grounded analysis spine, a ",
+    "id": "CassioRoos/godfly-skills",
+    "language": "Python",
+    "name": "CassioRoos/godfly-skills",
+    "stars": 1,
+    "updated_at": "2026-08-28T13:17:35Z",
+    "url": "https://github.com/CassioRoos/godfly-skills"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 2,
+    "updated_at": "2026-08-28T13:16:26Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T13:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude forgets everything between sessions. This skill installs the fix: a memory loop for Claude Code \u2014 one small BRIEF",
+    "id": "Elliotoh-jin/claude-memory-loop",
+    "language": "Python",
+    "name": "Elliotoh-jin/claude-memory-loop",
+    "stars": 1,
+    "updated_at": "2026-08-28T13:13:21Z",
+    "url": "https://github.com/Elliotoh-jin/claude-memory-loop"
+  },
+  {
+    "description": "\u8de8\u5883\u7535\u5546\u65f6\u653f\u76d1\u63a7\u4e0e\u653f\u7b56\u9884\u8b66 Skill\uff1aS1 \u4fe1\u6e90\u626b\u63cf\u2192S2 \u6838\u5b9e\u2192S3 \u5efa\u5361\u2192S4 \u8ddf\u8e2a\uff0c\u56db\u9636\u6bb5\u6d41\u7a0b + HTML \u53ef\u89c6\u5316\u65e5\u62a5",
+    "id": "JKJM-CMD/kj-policy-radar",
+    "language": "HTML",
+    "name": "JKJM-CMD/kj-policy-radar",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:13:08Z",
+    "url": "https://github.com/JKJM-CMD/kj-policy-radar"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -14,7 +95,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-28T13:11:35Z",
+    "updated_at": "2026-08-28T13:24:03Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -22,7 +103,7 @@
     "id": "LinklyAI/best-skills",
     "language": "\u2014",
     "name": "LinklyAI/best-skills",
-    "stars": 240,
+    "stars": 243,
     "updated_at": "2026-08-28T13:10:27Z",
     "url": "https://github.com/LinklyAI/best-skills"
   },
@@ -108,15 +189,6 @@
     "url": "https://github.com/posit-dev/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T13:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Lightweight coding agent that runs in your terminal",
     "id": "milisp/keke-agent",
     "language": "Rust",
@@ -139,7 +211,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6569,
+    "stars": 6572,
     "updated_at": "2026-08-28T12:56:53Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -184,8 +256,8 @@
     "id": "Kripu77/software-factory",
     "language": "Shell",
     "name": "Kripu77/software-factory",
-    "stars": 6,
-    "updated_at": "2026-08-28T12:44:44Z",
+    "stars": 7,
+    "updated_at": "2026-08-28T13:25:31Z",
     "url": "https://github.com/Kripu77/software-factory"
   },
   {
@@ -283,7 +355,7 @@
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6177,
+    "stars": 6178,
     "updated_at": "2026-08-28T12:16:00Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
@@ -338,7 +410,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 101,
-    "updated_at": "2026-08-28T12:00:10Z",
+    "updated_at": "2026-08-28T13:28:02Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T11:56:35Z",
     "url": "https://github.com/swaylq/danshari-skill"
-  },
-  {
-    "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specificat",
-    "id": "tzachbon/smart-ralph",
-    "language": "Shell",
-    "name": "tzachbon/smart-ralph",
-    "stars": 527,
-    "updated_at": "2026-08-28T13:07:58Z",
-    "url": "https://github.com/tzachbon/smart-ralph"
-  },
-  {
-    "description": "116 \u0441\u043a\u0438\u043b\u043e\u0432 \u0438 40 \u043f\u0440\u0430\u0432\u0438\u043b \u0434\u043b\u044f Claude Code: \u0430\u0433\u0435\u043d\u0442 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0438\u0441\u0445\u043e\u0434\u043d\u0438\u043a\u0438 1\u0421 (\u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435, \u0444\u043e\u0440\u043c\u044b, \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f, \u0440\u043e\u043b\u0438, \u0421\u041a\u0414, \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
-    "id": "Desko77/claude-code-skills-1c",
-    "language": "Python",
-    "name": "Desko77/claude-code-skills-1c",
-    "stars": 50,
-    "updated_at": "2026-08-28T11:38:15Z",
-    "url": "https://github.com/Desko77/claude-code-skills-1c"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-28T11:32:51Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Rewrite any text into the register of its professional world. Thirteen sector registers, five intensities, IT/EN, and it",
-    "id": "giorgiozamboni/prospeak",
-    "language": "Python",
-    "name": "giorgiozamboni/prospeak",
-    "stars": 0,
-    "updated_at": "2026-08-28T11:32:40Z",
-    "url": "https://github.com/giorgiozamboni/prospeak"
-  },
-  {
-    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
-    "id": "tobihagemann/turbo",
-    "language": "Shell",
-    "name": "tobihagemann/turbo",
-    "stars": 399,
-    "updated_at": "2026-08-28T11:30:46Z",
-    "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 219,
-    "updated_at": "2026-08-28T13:09:02Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
-    "id": "aitit-inc/leadace",
-    "language": "TypeScript",
-    "name": "aitit-inc/leadace",
-    "stars": 1,
-    "updated_at": "2026-08-28T11:18:43Z",
-    "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
-    "description": "Gets AI past generic brainstorming. It generates 30+ ideas, argues against them, discards the weak ones, and gives you t",
-    "id": "pestalytix/innovate-or-die",
-    "language": "Python",
-    "name": "pestalytix/innovate-or-die",
-    "stars": 0,
-    "updated_at": "2026-08-28T11:15:15Z",
-    "url": "https://github.com/pestalytix/innovate-or-die"
   }
 ]
