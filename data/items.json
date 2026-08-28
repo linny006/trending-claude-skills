@@ -1,12 +1,57 @@
 [
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-28T12:00:07Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
+    "description": "Content factory \u2014 PPT \u4ee3\u7801\u751f\u6210 \u2192 \u9010\u9875\u52a8\u6548 \u2192 Remotion \u6210\u7247\u7684\u521b\u4f5c\u6d41\u6c34\u7ebf / skills for decks, motion & video",
+    "id": "TimeCraker/vibe-studio",
+    "language": "Python",
+    "name": "TimeCraker/vibe-studio",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:13:46Z",
+    "url": "https://github.com/TimeCraker/vibe-studio"
+  },
+  {
+    "description": "My collection of Claude skills",
+    "id": "oaustegard/claude-skills",
+    "language": "Python",
+    "name": "oaustegard/claude-skills",
+    "stars": 147,
+    "updated_at": "2026-08-28T12:06:20Z",
+    "url": "https://github.com/oaustegard/claude-skills"
+  },
+  {
+    "description": "PCM stack's official collection of agent skills",
+    "id": "PCMStack/agent-skills",
+    "language": "Shell",
+    "name": "PCMStack/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:06:58Z",
+    "url": "https://github.com/PCMStack/agent-skills"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 5,
+    "updated_at": "2026-08-28T12:13:43Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Wondel.ai Agent Skills \u2014 Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journ",
+    "id": "wondelai/skills",
+    "language": "Shell",
+    "name": "wondelai/skills",
+    "stars": 2038,
+    "updated_at": "2026-08-28T12:02:17Z",
+    "url": "https://github.com/wondelai/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T12:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
@@ -16,6 +61,24 @@
     "stars": 101,
     "updated_at": "2026-08-28T12:00:10Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-28T12:14:41Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Claude Code Skills for Tidymodels",
+    "id": "tidymodels/skills",
+    "language": "Python",
+    "name": "tidymodels/skills",
+    "stars": 9,
+    "updated_at": "2026-08-28T11:59:58Z",
+    "url": "https://github.com/tidymodels/skills"
   },
   {
     "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
@@ -58,45 +121,18 @@
     "id": "Sarveshmehta1504/lean-max",
     "language": "PowerShell",
     "name": "Sarveshmehta1504/lean-max",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-28T11:55:44Z",
     "url": "https://github.com/Sarveshmehta1504/lean-max"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 5,
-    "updated_at": "2026-08-28T11:57:38Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T11:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6564,
+    "stars": 6566,
     "updated_at": "2026-08-28T11:45:11Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
-    "description": "Wondel.ai Agent Skills \u2014 Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journ",
-    "id": "wondelai/skills",
-    "language": "Shell",
-    "name": "wondelai/skills",
-    "stars": 2038,
-    "updated_at": "2026-08-28T11:59:51Z",
-    "url": "https://github.com/wondelai/skills"
   },
   {
     "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
@@ -221,7 +257,7 @@
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
     "stars": 6174,
-    "updated_at": "2026-08-28T10:57:50Z",
+    "updated_at": "2026-08-28T12:10:18Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
@@ -364,7 +400,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68462,
+    "stars": 68463,
     "updated_at": "2026-08-28T10:00:30Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-28T09:56:42Z",
     "url": "https://github.com/PicsArt/gen-ai-skills"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-08-28T09:51:22Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Markdown to WeChat CLI | \u4e00\u952e\u6392\u7248\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u652f\u6301 40+ \u6392\u7248\u6837\u5f0f\u548c\u4e13\u4e1a\u4e3b\u9898 \u3001AI \u914d\u56fe \u3001\u6279\u91cf\u53d1\u5e03 \u3001\u591a\u8d26\u53f7\u7ba1\u7406",
-    "id": "geekjourneyx/md2wechat-skill",
-    "language": "Go",
-    "name": "geekjourneyx/md2wechat-skill",
-    "stars": 3598,
-    "updated_at": "2026-08-28T09:47:49Z",
-    "url": "https://github.com/geekjourneyx/md2wechat-skill"
-  },
-  {
-    "description": "My Claude Code configuration \u2014 instructions, standards and skills, symlinked into ~/.claude on every machine.",
-    "id": "stamat/claude",
-    "language": "Shell",
-    "name": "stamat/claude",
-    "stars": 0,
-    "updated_at": "2026-08-28T09:47:35Z",
-    "url": "https://github.com/stamat/claude"
-  },
-  {
-    "description": "Mahad Usman's Landing Page for showcasing his technical skills,real world projects and valuable insights related to AI.A",
-    "id": "Mahad-Usman-15/my-landing-page",
-    "language": "TypeScript",
-    "name": "Mahad-Usman-15/my-landing-page",
-    "stars": 1,
-    "updated_at": "2026-08-28T09:47:01Z",
-    "url": "https://github.com/Mahad-Usman-15/my-landing-page"
   }
 ]
