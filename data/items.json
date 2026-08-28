@@ -1,5 +1,59 @@
 [
   {
+    "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your",
+    "id": "AiGuangInc/suxiaoqiang-cli",
+    "language": "TypeScript",
+    "name": "AiGuangInc/suxiaoqiang-cli",
+    "stars": 5,
+    "updated_at": "2026-08-28T02:25:59Z",
+    "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-28T02:23:23Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 54,
+    "updated_at": "2026-08-28T02:20:17Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Reusable procedures that make your AI handle recurring work the same good way every time. Paste one prompt; it recommend",
+    "id": "TechNickAI/hermes-skills",
+    "language": "Python",
+    "name": "TechNickAI/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-08-28T02:19:25Z",
+    "url": "https://github.com/TechNickAI/hermes-skills"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "HTML",
+    "name": "jposluns/cleanlanguage",
+    "stars": 2,
+    "updated_at": "2026-08-28T02:19:16Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T02:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "",
     "id": "jzl-maker/EA-SKILL",
     "language": "Python",
@@ -16,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-08-28T02:11:32Z",
     "url": "https://github.com/fengyan3141/skill-warehouse"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6442,
+    "updated_at": "2026-08-28T02:09:25Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Claude Code skills for Altium hardware design \u2014 library authoring, schematic review, PCB placement",
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T02:01:47Z",
     "url": "https://github.com/anton-winter-arch/dotagents"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T02:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Turn reference UIs (images, screenshots, URLs) into quantified Design DNA JSON\u2014tokens, qualitative style, visual effects",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "notque/vexjoy-agent",
     "stars": 417,
-    "updated_at": "2026-08-28T01:44:35Z",
+    "updated_at": "2026-08-28T02:29:14Z",
     "url": "https://github.com/notque/vexjoy-agent"
   },
   {
@@ -166,7 +220,7 @@
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
-    "stars": 8087,
+    "stars": 8089,
     "updated_at": "2026-08-28T01:39:48Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
@@ -284,24 +338,15 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-28T02:11:01Z",
+    "updated_at": "2026-08-28T02:29:10Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 22,
-    "updated_at": "2026-08-28T02:02:46Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30627,
+    "stars": 30628,
     "updated_at": "2026-08-28T01:12:04Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -322,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T00:59:42Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/cleanlanguage",
-    "language": "HTML",
-    "name": "jposluns/cleanlanguage",
-    "stars": 2,
-    "updated_at": "2026-08-28T00:57:16Z",
-    "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
     "description": "A Claude Code plugin marketplace: ship-it drives a batch of issues to merged PRs; stack-it takes a project from an empty",
@@ -401,17 +437,8 @@
     "language": "Astro",
     "name": "WYRE-AI/msp-claude-plugins",
     "stars": 42,
-    "updated_at": "2026-08-28T00:40:17Z",
+    "updated_at": "2026-08-28T02:28:25Z",
     "url": "https://github.com/WYRE-AI/msp-claude-plugins"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6441,
-    "updated_at": "2026-08-28T02:09:25Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
@@ -421,32 +448,5 @@
     "stars": 144,
     "updated_at": "2026-08-28T00:29:48Z",
     "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-08-28T00:29:56Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-28T00:22:59Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
-    "id": "smartwatermelon/personify",
-    "language": "TypeScript",
-    "name": "smartwatermelon/personify",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:20:19Z",
-    "url": "https://github.com/smartwatermelon/personify"
   }
 ]
