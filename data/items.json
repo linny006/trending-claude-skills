@@ -1,5 +1,68 @@
 [
   {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-28T14:44:53Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 2,
+    "updated_at": "2026-08-28T14:40:34Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "\u4e2d\u6587 Agent Skills \u5408\u96c6\uff1a194 \u4e2a\u6761\u76ee\u300113 \u4e2a\u672c\u7ad9\u539f\u521b\uff1bCodex 13/13 \u81ea\u52a8\u89e6\u53d1\u5b9e\u6d4b\uff0cClaude Code / Cursor \u5f85\u6d4b\uff1b\u6765\u6e90\u4ed3\u5e93\u5b9a\u671f\u590d\u68c0\uff0c\u8fd0\u884c\u8bb0\u5f55\u516c\u5f00",
+    "id": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "language": "HTML",
+    "name": "sanhuang520-ship-it/awesome-chinese-ai-tools",
+    "stars": 8,
+    "updated_at": "2026-08-28T14:38:08Z",
+    "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "Shell",
+    "name": "chrislacey89/skills",
+    "stars": 2,
+    "updated_at": "2026-08-28T14:35:55Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Agentic visual asset management for AI-native creators. Auto-tag, audit, and manage images with AI-powered quality enfor",
+    "id": "frankxai/visual-intelligence",
+    "language": "JavaScript",
+    "name": "frankxai/visual-intelligence",
+    "stars": 1,
+    "updated_at": "2026-08-28T14:34:06Z",
+    "url": "https://github.com/frankxai/visual-intelligence"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "zenstory-ai/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "zenstory-ai/oh-story-claudecode",
+    "stars": 6181,
+    "updated_at": "2026-08-28T14:31:54Z",
+    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T14:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "7 gotowych skilli do Claude (Code, Cowork, przegladarka) po polsku: odsztucznianie tekstu, pisanie promptow, pisanie Two",
     "id": "studiogo/skille-do-claude",
     "language": "\u2014",
@@ -13,7 +76,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6576,
+    "stars": 6577,
     "updated_at": "2026-08-28T14:28:45Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -27,13 +90,22 @@
     "url": "https://github.com/riadchaban994-bot/discovery-os"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 101,
-    "updated_at": "2026-08-28T14:29:55Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-28T14:39:51Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\u0414\u043e\u043a\u0442\u0440\u0438\u043d\u0430 \u044d\u043a\u0441\u043f\u043b\u0443\u0430\u0442\u0430\u0446\u0438\u0438 Claude Code \u0432 \u0434\u043e\u043b\u0433\u043e\u0436\u0438\u0432\u0443\u0449\u0438\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445: \u0434\u0435\u043b\u0435\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435, \u0441\u0430\u043c\u043e\u0430\u0443\u0434\u0438\u0442, \u043f\u0435\u0442\u043b\u0438, \u0436\u0443\u0440\u043d\u0430\u043b\u044b \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 + 22 \u043f\u0435\u0440\u0435",
+    "id": "VibeEngineering-LLC/agent-ops-doctrine",
+    "language": "Python",
+    "name": "VibeEngineering-LLC/agent-ops-doctrine",
+    "stars": 0,
+    "updated_at": "2026-08-28T14:26:57Z",
+    "url": "https://github.com/VibeEngineering-LLC/agent-ops-doctrine"
   },
   {
     "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
@@ -61,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T14:15:56Z",
     "url": "https://github.com/MichaelDoesMarketing/Versus"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T14:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 2,
-    "updated_at": "2026-08-28T14:14:38Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
   },
   {
     "description": "A Claude Skill that writes marketing copy using battle rap mechanics. Angle, scheme, setup and punch, rebuttals, and a c",
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T14:01:18Z",
     "url": "https://github.com/Qidianyan/dshctl"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "zenstory-ai/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6181,
-    "updated_at": "2026-08-28T14:15:44Z",
-    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
     "description": "\u5b59\u672c\u4f4d \u2014\u2014 \u5148\u628a\u4e00\u6bb5\u7ecf\u5386\u5ba1\u8ba1\u6210\u4e00\u5f20\u8d26\u672c\uff0c\u518d\u5199\u6210\u5b59\u4f53\u3002\u4e0d\u8bb8\u7f16\u6570\u5b57\u3002\u8d26\u672c\u5bc6\u5ea6\u8dd1\u5206 + \u7ed3\u8d26\u5355\u5361\u7247 + \u5b59\u672c\u4f4d\u6c47\u7387\u8868\u3002",
@@ -261,15 +306,6 @@
     "url": "https://github.com/taxueseek/taxue-creative-style"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-28T14:27:59Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Which AI agent Skills survive a real build? Every pick is field-tested by building a product from scratch, then rated on",
     "id": "phoebefu6/agent-skills-phoebe-picks",
     "language": "JavaScript",
@@ -331,15 +367,6 @@
     "stars": 800,
     "updated_at": "2026-08-28T13:37:02Z",
     "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
-  },
-  {
-    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
-    "id": "chrislacey89/skills",
-    "language": "Shell",
-    "name": "chrislacey89/skills",
-    "stars": 2,
-    "updated_at": "2026-08-28T14:29:02Z",
-    "url": "https://github.com/chrislacey89/skills"
   },
   {
     "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
@@ -418,35 +445,8 @@
     "id": "LinklyAI/best-skills",
     "language": "\u2014",
     "name": "LinklyAI/best-skills",
-    "stars": 253,
+    "stars": 254,
     "updated_at": "2026-08-28T13:10:27Z",
     "url": "https://github.com/LinklyAI/best-skills"
-  },
-  {
-    "description": "A curated list of SRE skills, MCP servers, and AI-SRE resources",
-    "id": "anyshift-io/awesome-sre-skills",
-    "language": "\u2014",
-    "name": "anyshift-io/awesome-sre-skills",
-    "stars": 1,
-    "updated_at": "2026-08-28T13:05:27Z",
-    "url": "https://github.com/anyshift-io/awesome-sre-skills"
-  },
-  {
-    "description": "Public library of Annie-specific skills for AI agents. Teaches agents how to drive the Annie CLI and the Anyshift MCP (A",
-    "id": "anyshift-io/annie-skills",
-    "language": "\u2014",
-    "name": "anyshift-io/annie-skills",
-    "stars": 0,
-    "updated_at": "2026-08-28T13:05:20Z",
-    "url": "https://github.com/anyshift-io/annie-skills"
-  },
-  {
-    "description": "Anyshift's Claude Code plugin marketplace. Catalog of public plugins (skills, MCP servers) maintained by Anyshift. Add w",
-    "id": "anyshift-io/claude-plugins",
-    "language": "\u2014",
-    "name": "anyshift-io/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-08-28T13:05:14Z",
-    "url": "https://github.com/anyshift-io/claude-plugins"
   }
 ]
