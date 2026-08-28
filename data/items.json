@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u4e2d\u56fd\u5927\u5b66\u751f\u7684\u89c4\u5212\u7f57\u76d8 Agent Skill\uff1a\u6309\u516d\u6761\u6bd5\u4e1a\u8def\u7ebf\u7684\u8003\u5bdf\u7ef4\u5ea6\u6743\u91cd\uff0c\u5224\u65ad\u4f60\u624b\u4e0a\u7684\u7ecf\u5386\u503c\u7b2c\u51e0\u4f4d\uff0c\u6bcf\u4e2a\u5224\u65ad\u90fd\u5199\u660e\u4f9d\u636e",
+    "id": "brain898/college-compass",
+    "language": "\u2014",
+    "name": "brain898/college-compass",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:11:21Z",
+    "url": "https://github.com/brain898/college-compass"
+  },
+  {
+    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 417,
+    "updated_at": "2026-08-28T03:10:20Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 2,
+    "updated_at": "2026-08-28T03:08:36Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your",
+    "id": "AiGuangInc/suxiaoqiang-cli",
+    "language": "TypeScript",
+    "name": "AiGuangInc/suxiaoqiang-cli",
+    "stars": 5,
+    "updated_at": "2026-08-28T03:07:52Z",
+    "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-28T03:04:50Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-28T03:02:24Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:01:56Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T03:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u4e00\u4e2a\u4ed3\u5e93\uff0c\u591a\u4e2a\u8d27\u67b6\u2014\u2014\u591a\u5de5\u5177\uff08Claude Code/Cursor/Codex/Trae \u7b49\uff09\u5171\u4eab\u540c\u4e00\u4efd Agent Skill \u4ed3\u5e93\u7684\u7ba1\u7406 CLI + \u672c\u5730\u9762\u677f",
     "id": "fengyan3141/skill-warehouse",
     "language": "Shell",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "ooooooooooooooooooop/agent-tools",
     "stars": 2,
-    "updated_at": "2026-08-28T02:54:29Z",
+    "updated_at": "2026-08-28T03:14:29Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
   },
   {
@@ -34,15 +106,6 @@
     "stars": 481,
     "updated_at": "2026-08-28T02:52:46Z",
     "url": "https://github.com/zenstory-ai/video-recap-skills"
-  },
-  {
-    "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your",
-    "id": "AiGuangInc/suxiaoqiang-cli",
-    "language": "TypeScript",
-    "name": "AiGuangInc/suxiaoqiang-cli",
-    "stars": 5,
-    "updated_at": "2026-08-28T02:51:08Z",
-    "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -79,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T02:46:34Z",
     "url": "https://github.com/jposluns/cleanlanguage"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T02:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
@@ -135,15 +189,6 @@
     "url": "https://github.com/DSY-Xueai/image2editable"
   },
   {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-28T02:50:08Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
     "description": "A Claude Code plugin marketplace: ship-it drives a batch of issues to merged PRs; stack-it takes a project from an empty",
     "id": "pricklywiggles/fractally-claude-marketplace",
     "language": "Python",
@@ -160,24 +205,6 @@
     "stars": 42,
     "updated_at": "2026-08-28T02:32:40Z",
     "url": "https://github.com/WYRE-AI/msp-claude-plugins"
-  },
-  {
-    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 417,
-    "updated_at": "2026-08-28T02:59:35Z",
-    "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 22,
-    "updated_at": "2026-08-28T02:59:55Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6445,
-    "updated_at": "2026-08-28T02:09:25Z",
+    "updated_at": "2026-08-28T03:09:58Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -328,7 +355,7 @@
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
-    "stars": 8089,
+    "stars": 8090,
     "updated_at": "2026-08-28T01:39:48Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-28T01:18:01Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-08-28T01:17:14Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-28T01:16:09Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30628,
-    "updated_at": "2026-08-28T01:12:04Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
   }
 ]
