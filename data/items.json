@@ -1,5 +1,86 @@
 [
   {
+    "description": "A tool-agnostic engineering harness for AI coding agents \u00b7 \u4e0d\u7ed1\u5b9a\u7279\u5b9a AI \u7f16\u7801\u5de5\u5177\u7684\u5de5\u7a0b\u6cbb\u7406\u6846\u67b6",
+    "id": "AlanHuang168/ai-codeops-harness",
+    "language": "PowerShell",
+    "name": "AlanHuang168/ai-codeops-harness",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:28:58Z",
+    "url": "https://github.com/AlanHuang168/ai-codeops-harness"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
+    "id": "Vladimir-Human/humanizer-ru",
+    "language": "Python",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 117,
+    "updated_at": "2026-08-28T12:23:59Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
+  },
+  {
+    "description": "Zw\u00f6lf deutschsprachige SEO-Agenten f\u00fcr Claude: als Subagenten f\u00fcr Claude Code und als Skills f\u00fcr claude.ai, Cowork und D",
+    "id": "collective-brain/claude-seo-skills",
+    "language": "\u2014",
+    "name": "collective-brain/claude-seo-skills",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:21:49Z",
+    "url": "https://github.com/collective-brain/claude-seo-skills"
+  },
+  {
+    "description": "Records the conditions your code depends on and fails the build when one stops being true",
+    "id": "RakhilML/Hitch",
+    "language": "\u2014",
+    "name": "RakhilML/Hitch",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:20:54Z",
+    "url": "https://github.com/RakhilML/Hitch"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 5,
+    "updated_at": "2026-08-28T12:25:13Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Your friendly neighborhood QA developer.",
+    "id": "EmanueleMinotto/minottobot",
+    "language": "Python",
+    "name": "EmanueleMinotto/minottobot",
+    "stars": 3,
+    "updated_at": "2026-08-28T12:17:16Z",
+    "url": "https://github.com/EmanueleMinotto/minottobot"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "zenstory-ai/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "zenstory-ai/oh-story-claudecode",
+    "stars": 6175,
+    "updated_at": "2026-08-28T12:16:00Z",
+    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T12:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-08-28T12:14:06Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
     "description": "Content factory \u2014 PPT \u4ee3\u7801\u751f\u6210 \u2192 \u9010\u9875\u52a8\u6548 \u2192 Remotion \u6210\u7247\u7684\u521b\u4f5c\u6d41\u6c34\u7ebf / skills for decks, motion & video",
     "id": "TimeCraker/vibe-studio",
     "language": "Python",
@@ -27,15 +108,6 @@
     "url": "https://github.com/PCMStack/agent-skills"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 5,
-    "updated_at": "2026-08-28T12:13:43Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
     "description": "Wondel.ai Agent Skills \u2014 Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journ",
     "id": "wondelai/skills",
     "language": "Shell",
@@ -43,15 +115,6 @@
     "stars": 2038,
     "updated_at": "2026-08-28T12:02:17Z",
     "url": "https://github.com/wondelai/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T12:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
@@ -68,7 +131,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-28T12:14:41Z",
+    "updated_at": "2026-08-28T12:28:53Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-08-28T11:59:31Z",
     "url": "https://github.com/ArcticFox2029/chamnan"
-  },
-  {
-    "description": "Zw\u00f6lf deutschsprachige SEO-Agenten f\u00fcr Claude: als Subagenten f\u00fcr Claude Code und als Skills f\u00fcr claude.ai, Cowork und D",
-    "id": "collective-brain/claude-seo-skills",
-    "language": "\u2014",
-    "name": "collective-brain/claude-seo-skills",
-    "stars": 0,
-    "updated_at": "2026-08-28T11:58:51Z",
-    "url": "https://github.com/collective-brain/claude-seo-skills"
   },
   {
     "description": "Agent-native research workspace. A deterministic CLI that ingests arXiv / PDF / LaTeX / Zotero papers into an Obsidian-c",
@@ -130,18 +184,9 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6566,
+    "stars": 6567,
     "updated_at": "2026-08-28T11:45:11Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 117,
-    "updated_at": "2026-08-28T11:43:28Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
     "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specificat",
@@ -194,7 +239,7 @@
     "language": "JavaScript",
     "name": "suboss87/FDEOps",
     "stars": 219,
-    "updated_at": "2026-08-28T11:41:29Z",
+    "updated_at": "2026-08-28T12:29:56Z",
     "url": "https://github.com/suboss87/FDEOps"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 141,
     "updated_at": "2026-08-28T11:27:45Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "zenstory-ai/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6174,
-    "updated_at": "2026-08-28T12:10:18Z",
-    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
     "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
@@ -392,7 +428,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-28T11:25:15Z",
+    "updated_at": "2026-08-28T12:22:07Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -409,44 +445,8 @@
     "id": "a5c-ai/babysitter",
     "language": "JavaScript",
     "name": "a5c-ai/babysitter",
-    "stars": 1742,
+    "stars": 1743,
     "updated_at": "2026-08-28T10:00:08Z",
     "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top ",
-    "id": "INo-xious/stockbit-mcp",
-    "language": "TypeScript",
-    "name": "INo-xious/stockbit-mcp",
-    "stars": 8,
-    "updated_at": "2026-08-28T09:58:49Z",
-    "url": "https://github.com/INo-xious/stockbit-mcp"
-  },
-  {
-    "description": "Turn any PDF, EPUB, DOCX, or slide deck into an agent skill. A CLI + skill that reads whole books and docs, then writes ",
-    "id": "asale-ai/anything-to-skill",
-    "language": "Rust",
-    "name": "asale-ai/anything-to-skill",
-    "stars": 5,
-    "updated_at": "2026-08-28T09:58:47Z",
-    "url": "https://github.com/asale-ai/anything-to-skill"
-  },
-  {
-    "description": "\u5b59\u672c\u4f4d \u2014\u2014 \u5148\u628a\u4e00\u6bb5\u7ecf\u5386\u5ba1\u8ba1\u6210\u4e00\u5f20\u8d26\u672c\uff0c\u518d\u5199\u6210\u5b59\u4f53\u3002\u4e0d\u8bb8\u7f16\u6570\u5b57\u3002\u8d26\u672c\u5bc6\u5ea6\u8dd1\u5206 + \u7ed3\u8d26\u5355\u5361\u7247 + \u5b59\u672c\u4f4d\u6c47\u7387\u8868\u3002",
-    "id": "lyx-27/sun-standard",
-    "language": "Python",
-    "name": "lyx-27/sun-standard",
-    "stars": 0,
-    "updated_at": "2026-08-28T09:58:02Z",
-    "url": "https://github.com/lyx-27/sun-standard"
-  },
-  {
-    "description": "Shared skills, prompts, and tooling for Picsart's gen-ai CLI and generative-AI workflows",
-    "id": "PicsArt/gen-ai-skills",
-    "language": "Python",
-    "name": "PicsArt/gen-ai-skills",
-    "stars": 4,
-    "updated_at": "2026-08-28T09:56:42Z",
-    "url": "https://github.com/PicsArt/gen-ai-skills"
   }
 ]
