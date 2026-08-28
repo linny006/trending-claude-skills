@@ -1,5 +1,77 @@
 [
   {
+    "description": "",
+    "id": "jzl-maker/EA-SKILL",
+    "language": "Python",
+    "name": "jzl-maker/EA-SKILL",
+    "stars": 1,
+    "updated_at": "2026-08-28T02:13:50Z",
+    "url": "https://github.com/jzl-maker/EA-SKILL"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4ed3\u5e93\uff0c\u591a\u4e2a\u8d27\u67b6\u2014\u2014\u591a\u5de5\u5177\uff08Claude Code/Cursor/Codex/Trae \u7b49\uff09\u5171\u4eab\u540c\u4e00\u4efd Agent Skill \u4ed3\u5e93\u7684\u7ba1\u7406 CLI + \u672c\u5730\u9762\u677f",
+    "id": "fengyan3141/skill-warehouse",
+    "language": "Shell",
+    "name": "fengyan3141/skill-warehouse",
+    "stars": 0,
+    "updated_at": "2026-08-28T02:11:32Z",
+    "url": "https://github.com/fengyan3141/skill-warehouse"
+  },
+  {
+    "description": "Claude Code skills for Altium hardware design \u2014 library authoring, schematic review, PCB placement",
+    "id": "ScottJeong/altium-claude-skills",
+    "language": "Python",
+    "name": "ScottJeong/altium-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-08-28T02:09:02Z",
+    "url": "https://github.com/ScottJeong/altium-claude-skills"
+  },
+  {
+    "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandboxed YAML suites, ",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 116,
+    "updated_at": "2026-08-28T02:08:26Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
+    "id": "sichenai/sichen-skills",
+    "language": "\u2014",
+    "name": "sichenai/sichen-skills",
+    "stars": 1,
+    "updated_at": "2026-08-28T02:02:10Z",
+    "url": "https://github.com/sichenai/sichen-skills"
+  },
+  {
+    "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
+    "id": "thefilesareinthecomputer/dotagents",
+    "language": "Python",
+    "name": "thefilesareinthecomputer/dotagents",
+    "stars": 0,
+    "updated_at": "2026-08-28T02:01:48Z",
+    "url": "https://github.com/thefilesareinthecomputer/dotagents"
+  },
+  {
+    "description": "My main list of vendor-agnostic agent skills and harness configs",
+    "id": "anton-winter-arch/dotagents",
+    "language": "Python",
+    "name": "anton-winter-arch/dotagents",
+    "stars": 1,
+    "updated_at": "2026-08-28T02:01:47Z",
+    "url": "https://github.com/anton-winter-arch/dotagents"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-28T02:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Turn reference UIs (images, screenshots, URLs) into quantified Design DNA JSON\u2014tokens, qualitative style, visual effects",
     "id": "zanwei/design-dna",
     "language": "JavaScript",
@@ -36,15 +108,6 @@
     "url": "https://github.com/yazelin/personal-brand-site-starter"
   },
   {
-    "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Claude Code / Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\u3002\u9996\u53d1 3 \u4e2a\u901a\u7528\u578b\uff1anew-convo-handoff\uff08\u957f\u9879\u76ee\u4ea4\u63a5\uff09\u3001first-principles\uff08\u7b2c\u4e00\u6027\u539f\u7406\uff09\u3001clarify-u",
-    "id": "sichenai/sichen-skills",
-    "language": "\u2014",
-    "name": "sichenai/sichen-skills",
-    "stars": 1,
-    "updated_at": "2026-08-28T01:48:57Z",
-    "url": "https://github.com/sichenai/sichen-skills"
-  },
-  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -63,15 +126,6 @@
     "url": "https://github.com/vast-ai/vast-cli"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-28T01:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
     "id": "notque/vexjoy-agent",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T01:43:24Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4ed3\u5e93\uff0c\u591a\u4e2a\u8d27\u67b6\u2014\u2014\u591a\u5de5\u5177\uff08Claude Code/Cursor/Codex/Trae \u7b49\uff09\u5171\u4eab\u540c\u4e00\u4efd Agent Skill \u4ed3\u5e93\u7684\u7ba1\u7406 CLI + \u672c\u5730\u9762\u677f",
-    "id": "fengyan3141/skill-warehouse",
-    "language": "Shell",
-    "name": "fengyan3141/skill-warehouse",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:42:45Z",
-    "url": "https://github.com/fengyan3141/skill-warehouse"
   },
   {
     "description": "bridge.ai: Claude Code plugins for AI-assisted development",
@@ -239,7 +284,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-28T01:50:43Z",
+    "updated_at": "2026-08-28T02:11:01Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -248,8 +293,17 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-28T01:57:35Z",
+    "updated_at": "2026-08-28T02:02:46Z",
     "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30627,
+    "updated_at": "2026-08-28T01:12:04Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "AI dev infrastructure framework for Claude Code. /dotclaude:bootstrap authors CLAUDE.md + docs/ + .claude/ tuned to your",
@@ -328,7 +382,7 @@
     "id": "XiaoMaColtAI/math-modeling-skill",
     "language": "Python",
     "name": "XiaoMaColtAI/math-modeling-skill",
-    "stars": 916,
+    "stars": 917,
     "updated_at": "2026-08-28T00:47:20Z",
     "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
   },
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6441,
-    "updated_at": "2026-08-28T00:39:24Z",
+    "updated_at": "2026-08-28T02:09:25Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T00:20:19Z",
     "url": "https://github.com/smartwatermelon/personify"
-  },
-  {
-    "description": "Local-first AI coding agent & decoupled runtime in Rust. Zero-vendor lock-in, seam-isolated, and compatible with ACP.",
-    "id": "milisp/keke-agent",
-    "language": "Rust",
-    "name": "milisp/keke-agent",
-    "stars": 2,
-    "updated_at": "2026-08-28T00:15:16Z",
-    "url": "https://github.com/milisp/keke-agent"
-  },
-  {
-    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
-    "id": "ColinVaughn/Synaptic",
-    "language": "Rust",
-    "name": "ColinVaughn/Synaptic",
-    "stars": 23,
-    "updated_at": "2026-08-28T00:10:50Z",
-    "url": "https://github.com/ColinVaughn/Synaptic"
-  },
-  {
-    "description": "Upkeep \u2014 an AI audit crew for your repo. Catches docs/spec/asset drift with evidence; output-only. Claude Code plugin/sk",
-    "id": "wei18/Upkeep",
-    "language": "TypeScript",
-    "name": "wei18/Upkeep",
-    "stars": 13,
-    "updated_at": "2026-08-28T00:07:56Z",
-    "url": "https://github.com/wei18/Upkeep"
-  },
-  {
-    "description": "Claude Skills for Governance, Risk, & Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, ",
-    "id": "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
-    "language": "HTML",
-    "name": "Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
-    "stars": 859,
-    "updated_at": "2026-08-28T00:02:43Z",
-    "url": "https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance"
-  },
-  {
-    "description": "Agent skills for AI coding agents \u2014 trip planner, Obsidian vault, and more",
-    "id": "aliasunder/agent-skills",
-    "language": "HTML",
-    "name": "aliasunder/agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-28T00:00:30Z",
-    "url": "https://github.com/aliasunder/agent-skills"
-  },
-  {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 3,
-    "updated_at": "2026-08-27T23:59:58Z",
-    "url": "https://github.com/inkatze/planwright"
   }
 ]
