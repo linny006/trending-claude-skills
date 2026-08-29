@@ -1,5 +1,50 @@
 [
   {
+    "description": "Deep Critique - Skill phan bien 10 vong san diem mu cho Claude | 10-round adversarial critique skill for Claude (Vietnam",
+    "id": "elisehanhnguyenus-cloud/purrlight-skills",
+    "language": "\u2014",
+    "name": "elisehanhnguyenus-cloud/purrlight-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T01:09:55Z",
+    "url": "https://github.com/elisehanhnguyenus-cloud/purrlight-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 414,
+    "updated_at": "2026-08-29T01:04:17Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "A Skill that chunks long text into memorable macro-units using Sweller's Cognitive Load Theory, for better learning and ",
+    "id": "K-Pourahmadian/chunk-for-retention",
+    "language": "\u2014",
+    "name": "K-Pourahmadian/chunk-for-retention",
+    "stars": 0,
+    "updated_at": "2026-08-29T01:02:24Z",
+    "url": "https://github.com/K-Pourahmadian/chunk-for-retention"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T01:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-29T00:59:47Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
     "description": "Forward deployed engineering skills for AI coding agents.",
     "id": "suboss87/FDEOps",
     "language": "JavaScript",
@@ -27,15 +72,6 @@
     "url": "https://github.com/amylyra/agent-prompt-author"
   },
   {
-    "description": "A Skill that chunks long text into memorable macro-units using Sweller's Cognitive Load Theory, for better learning and ",
-    "id": "K-Pourahmadian/chunk-for-retention",
-    "language": "\u2014",
-    "name": "K-Pourahmadian/chunk-for-retention",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:47:14Z",
-    "url": "https://github.com/K-Pourahmadian/chunk-for-retention"
-  },
-  {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
     "id": "patrickserrano/lacquer",
     "language": "Go",
@@ -43,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-08-29T00:45:53Z",
     "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T00:45:10Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "197 bioinformatics & life science skills for Claude Code and AI agents \u2014 BixBench 92.0% accuracy. RNA-seq, single-cell, ",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "trevhud/rote",
     "stars": 6,
-    "updated_at": "2026-08-29T00:37:45Z",
+    "updated_at": "2026-08-29T01:12:34Z",
     "url": "https://github.com/trevhud/rote"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T00:18:55Z",
     "url": "https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers"
-  },
-  {
-    "description": "Run threat hunting workflows for agentic IDEs like Claude Code, OpenCode, and Gemini in one command",
-    "id": "3dcom2711/thrunt-god",
-    "language": "JavaScript",
-    "name": "3dcom2711/thrunt-god",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:18:39Z",
-    "url": "https://github.com/3dcom2711/thrunt-god"
-  },
-  {
-    "description": "Build AI agent skills with dialectical methods and practical tools from classical materialist philosophy for clearer jud",
-    "id": "SanjithBolloju18/qiushi-skill",
-    "language": "JavaScript",
-    "name": "SanjithBolloju18/qiushi-skill",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:18:39Z",
-    "url": "https://github.com/SanjithBolloju18/qiushi-skill"
-  },
-  {
-    "description": "Build Claude Code workflows, templates, and best practices for faster software development, testing, docs, and code revi",
-    "id": "Pragmatical-transshipment598/claude-code-workflows",
-    "language": "\u2014",
-    "name": "Pragmatical-transshipment598/claude-code-workflows",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:18:35Z",
-    "url": "https://github.com/Pragmatical-transshipment598/claude-code-workflows"
   }
 ]
