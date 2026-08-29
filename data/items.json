@@ -1,12 +1,75 @@
 [
   {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6477,
+    "updated_at": "2026-08-29T04:58:46Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Self-evolving bioinformatics figure library skill: learn plots from papers/PDFs/WeChat articles/screenshots into reusabl",
+    "id": "Zessi-C/biofigure-self-evolve",
+    "language": "Python",
+    "name": "Zessi-C/biofigure-self-evolve",
+    "stars": 0,
+    "updated_at": "2026-08-29T04:58:30Z",
+    "url": "https://github.com/Zessi-C/biofigure-self-evolve"
+  },
+  {
     "description": "akashtalole.github.io",
     "id": "akashtalole/akashtalole.github.io",
     "language": "Shell",
     "name": "akashtalole/akashtalole.github.io",
     "stars": 1,
-    "updated_at": "2026-08-29T04:43:15Z",
+    "updated_at": "2026-08-29T04:55:55Z",
     "url": "https://github.com/akashtalole/akashtalole.github.io"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 220,
+    "updated_at": "2026-08-29T04:56:44Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 2,
+    "updated_at": "2026-08-29T04:49:22Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
+    "id": "nota-america/forgecat-agent-profiles",
+    "language": "TypeScript",
+    "name": "nota-america/forgecat-agent-profiles",
+    "stars": 58,
+    "updated_at": "2026-08-29T04:47:54Z",
+    "url": "https://github.com/nota-america/forgecat-agent-profiles"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-29T04:59:47Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T04:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
@@ -18,15 +81,6 @@
     "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
   },
   {
-    "description": "Self-evolving bioinformatics figure library skill: learn plots from papers/PDFs/WeChat articles/screenshots into reusabl",
-    "id": "Zessi-C/biofigure-self-evolve",
-    "language": "Python",
-    "name": "Zessi-C/biofigure-self-evolve",
-    "stars": 0,
-    "updated_at": "2026-08-29T04:40:00Z",
-    "url": "https://github.com/Zessi-C/biofigure-self-evolve"
-  },
-  {
     "description": "Agent skill for Claude Code and Codex that strips the AI fingerprints from a website without restyling it. Five tiers of",
     "id": "Juuzoe/stop-design-slop",
     "language": "\u2014",
@@ -34,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-29T04:38:51Z",
     "url": "https://github.com/Juuzoe/stop-design-slop"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 92526,
+    "updated_at": "2026-08-29T04:35:52Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "General Skills Development Pipeline - Claude Code & Codex",
@@ -72,24 +135,6 @@
     "url": "https://github.com/IvMisticos/misticos.Claude"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T04:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 101,
-    "updated_at": "2026-08-29T04:44:34Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "DeepSeek Harness \u4e13\u5c5e\u5de5\u7a0b\u6cbb\u7406\u63d2\u4ef6\uff5c\u539f\u521b\u4e09\u5c42\u95f8\u63a7\u4f53\u7cfb\u3001\u5e76\u884c\u5206\u8eab\u5bc4\u751f\u5de2\u3001\u53cc\u95f8\u68c0\u7d22\u524d\u7f6e\u300117\u6001\u6d41\u7a0b\u72b6\u6001\u673a\uff5cSource-Available \u6e90\u7801\u53ef\u89c1\uff0c\u7981\u6b62\u79c1\u81ea Fork \u5546\u7528",
     "id": "xu-jin-cs/dsh-skills",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T04:26:05Z",
     "url": "https://github.com/xu-jin-cs/dsh-skills"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 92527,
-    "updated_at": "2026-08-29T04:35:52Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
@@ -151,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T04:13:16Z",
     "url": "https://github.com/petar-djukic/writing-skills"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6477,
-    "updated_at": "2026-08-29T04:08:20Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -265,7 +292,7 @@
     "id": "TryWorld2026/paper-algorithm",
     "language": "Python",
     "name": "TryWorld2026/paper-algorithm",
-    "stars": 7,
+    "stars": 8,
     "updated_at": "2026-08-29T03:42:32Z",
     "url": "https://github.com/TryWorld2026/paper-algorithm"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T03:01:01Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-29T02:59:20Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-29T02:58:09Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-29T02:58:03Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
