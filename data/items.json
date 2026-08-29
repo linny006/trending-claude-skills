@@ -1,21 +1,120 @@
 [
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 101,
-    "updated_at": "2026-08-29T03:43:10Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "Agent skills repository",
     "id": "ooooooooooooooooooop/agent-tools",
     "language": "Python",
     "name": "ooooooooooooooooooop/agent-tools",
     "stars": 2,
-    "updated_at": "2026-08-29T03:42:34Z",
+    "updated_at": "2026-08-29T03:53:41Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "Turn any PDF, EPUB, DOCX, or slide deck into an agent skill. A CLI + skill that reads whole books and docs, then writes ",
+    "id": "asale-ai/anything-to-skill",
+    "language": "Rust",
+    "name": "asale-ai/anything-to-skill",
+    "stars": 5,
+    "updated_at": "2026-08-29T03:53:14Z",
+    "url": "https://github.com/asale-ai/anything-to-skill"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-29T03:56:21Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
+    "id": "thefilesareinthecomputer/dotagents",
+    "language": "Python",
+    "name": "thefilesareinthecomputer/dotagents",
+    "stars": 0,
+    "updated_at": "2026-08-29T03:52:31Z",
+    "url": "https://github.com/thefilesareinthecomputer/dotagents"
+  },
+  {
+    "description": "My main list of vendor-agnostic agent skills and harness configs",
+    "id": "anton-winter-arch/dotagents",
+    "language": "Python",
+    "name": "anton-winter-arch/dotagents",
+    "stars": 1,
+    "updated_at": "2026-08-29T03:52:30Z",
+    "url": "https://github.com/anton-winter-arch/dotagents"
+  },
+  {
+    "description": "\u9762\u5411\u7535\u5546\u89c6\u89c9\u751f\u4ea7\u7684 Agent \u6280\u80fd\u5e93\uff1a19 \u4e2a\u53ef\u7ec4\u5408\u7684 skill.md\uff0c\u8986\u76d6\u5e73\u94fa\u56fe \u2192 \u6a21\u7279\u4e0a\u8eab \u2192 \u6362\u6a21\u7279\u6362\u80cc\u666f \u2192 \u88c2\u53d8\u5957\u56fe \u2192 \u8be6\u60c5\u9875 \u2192 \u6295\u524d\u68c0\u6d4b\uff0c\u7edf\u4e00\u901a\u8fc7 dLazy CLI \u8c03\u7528\u56fe\u50cf/\u6587\u672c\u6a21\u578b\uff0c\u4e0d\u7528\u6444\u5f71\u68da\u3001\u4e0d\u7ea6\u6a21\u7279\u3002",
+    "id": "dlazyai/ecommerce-skills",
+    "language": "JavaScript",
+    "name": "dlazyai/ecommerce-skills",
+    "stars": 2,
+    "updated_at": "2026-08-29T03:52:16Z",
+    "url": "https://github.com/dlazyai/ecommerce-skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-29T03:55:01Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-29T03:50:42Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Portable, vendor-neutral engineering agent skills (SKILL.md) for AI coding agents: architecture, OWASP security, test st",
+    "id": "techfleetworks/enterprise-software-AI-skills",
+    "language": "JavaScript",
+    "name": "techfleetworks/enterprise-software-AI-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T03:50:15Z",
+    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6477,
+    "updated_at": "2026-08-29T03:59:36Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T03:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-29T03:45:08Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Which AI agent Skills survive a real build? Every pick is field-tested by building a product from scratch, then rated on",
+    "id": "phoebefu6/agent-skills-phoebe-picks",
+    "language": "JavaScript",
+    "name": "phoebefu6/agent-skills-phoebe-picks",
+    "stars": 1,
+    "updated_at": "2026-08-29T03:44:21Z",
+    "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
   },
   {
     "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
@@ -41,26 +140,8 @@
     "language": "Python",
     "name": "ArunskiOrg/BenArunskiUtils",
     "stars": 1,
-    "updated_at": "2026-08-29T03:36:28Z",
+    "updated_at": "2026-08-29T03:58:19Z",
     "url": "https://github.com/ArunskiOrg/BenArunskiUtils"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T03:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-29T03:32:11Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
@@ -70,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T03:22:16Z",
     "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6477,
-    "updated_at": "2026-08-29T03:20:01Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Agent skill for Claude Code and Codex that removes the \"AI made this\" look from websites. 284 researched slop tells with",
@@ -376,77 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-29T02:32:10Z",
     "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-29T02:32:08Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-29T02:30:27Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-29T02:27:49Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-29T02:26:47Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Claude Code plugins for Yaps \u2014 local-first dictation, transcription, meeting notes, captions, voice, translation, and me",
-    "id": "richawo/yaps-plugins",
-    "language": "JavaScript",
-    "name": "richawo/yaps-plugins",
-    "stars": 0,
-    "updated_at": "2026-08-29T02:23:17Z",
-    "url": "https://github.com/richawo/yaps-plugins"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-29T02:21:06Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\u300a\u539f\u795e\u300b\u65e9\u67da\u89d2\u8272\u626e\u6f14 Skill \u00b7 \u57fa\u4e8e nuwa-skill \u84b8\u998f",
-    "id": "sumomowynaut/sayu-perspective",
-    "language": "\u2014",
-    "name": "sumomowynaut/sayu-perspective",
-    "stars": 3,
-    "updated_at": "2026-08-29T02:20:36Z",
-    "url": "https://github.com/sumomowynaut/sayu-perspective"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-08-29T02:20:32Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
