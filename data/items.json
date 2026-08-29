@@ -1,12 +1,21 @@
 [
   {
-    "description": "Agent-native CLI for fetching Bilibili video comments (UP\u4e3b self-analysis). Zero dependencies. Claude Code / Codex / Open",
-    "id": "Agents365-ai/bbc-skill",
+    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
+    "id": "galleonlabs/hypergrok-trading-desk",
     "language": "Python",
-    "name": "Agents365-ai/bbc-skill",
-    "stars": 16,
-    "updated_at": "2026-08-29T11:44:56Z",
-    "url": "https://github.com/Agents365-ai/bbc-skill"
+    "name": "galleonlabs/hypergrok-trading-desk",
+    "stars": 20,
+    "updated_at": "2026-08-29T12:00:04Z",
+    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Shell",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:59:02Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
     "description": "Department-ready Claude Skills for engineering, IT, data, HR, finance, legal, marketing, sales, product and operations. ",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "alihusains/enterprise-skills",
     "stars": 0,
-    "updated_at": "2026-08-29T11:44:45Z",
+    "updated_at": "2026-08-29T11:57:28Z",
     "url": "https://github.com/alihusains/enterprise-skills"
+  },
+  {
+    "description": "The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not say.",
+    "id": "alexis-morain/verbatim-linkedin",
+    "language": "Python",
+    "name": "alexis-morain/verbatim-linkedin",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:56:50Z",
+    "url": "https://github.com/alexis-morain/verbatim-linkedin"
+  },
+  {
+    "description": "Language-agnostic AI workflow plugins for Claude Code and Codex. Every workflow is a skill.",
+    "id": "tony/skills",
+    "language": "Python",
+    "name": "tony/skills",
+    "stars": 2,
+    "updated_at": "2026-08-29T11:56:34Z",
+    "url": "https://github.com/tony/skills"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 220,
+    "updated_at": "2026-08-29T11:55:40Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "Agent-native CLI for fetching Bilibili video comments (UP\u4e3b self-analysis). Zero dependencies. Claude Code / Codex / Open",
+    "id": "Agents365-ai/bbc-skill",
+    "language": "Python",
+    "name": "Agents365-ai/bbc-skill",
+    "stars": 16,
+    "updated_at": "2026-08-29T11:53:57Z",
+    "url": "https://github.com/Agents365-ai/bbc-skill"
   },
   {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
@@ -23,8 +68,26 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-08-29T11:44:34Z",
+    "updated_at": "2026-08-29T12:00:04Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 415,
+    "updated_at": "2026-08-29T11:52:38Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T11:45:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code / Codex CLI skills I actually run in a PM work week \u2014 metric attribution, PRD review panel, cross-model GO/N",
@@ -34,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T11:44:23Z",
     "url": "https://github.com/aaronartistzhang-afk/DailyWork"
-  },
-  {
-    "description": "The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not say.",
-    "id": "alexis-morain/verbatim-linkedin",
-    "language": "Python",
-    "name": "alexis-morain/verbatim-linkedin",
-    "stars": 1,
-    "updated_at": "2026-08-29T11:43:54Z",
-    "url": "https://github.com/alexis-morain/verbatim-linkedin"
   },
   {
     "description": "Your friendly neighborhood QA developer.",
@@ -81,7 +135,7 @@
     "url": "https://github.com/andresnator/agents-orchestrator"
   },
   {
-    "description": "Persian (Farsi) technical writing rules for AI agents \u2014 controlled language adapted from ASD-STE100. Claude Skill + Curs",
+    "description": "Persian (Farsi) technical writing rules for AI agents - controlled language adapted from ASD-STE100. Claude Skill + Curs",
     "id": "onlymaj/simplified-technical-persian",
     "language": "\u2014",
     "name": "onlymaj/simplified-technical-persian",
@@ -104,24 +158,15 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-29T11:32:58Z",
+    "updated_at": "2026-08-29T11:57:37Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T11:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
     "id": "reticlehq/reticle",
     "language": "TypeScript",
     "name": "reticlehq/reticle",
-    "stars": 390,
+    "stars": 391,
     "updated_at": "2026-08-29T11:28:40Z",
     "url": "https://github.com/reticlehq/reticle"
   },
@@ -166,7 +211,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33153,
+    "stars": 33155,
     "updated_at": "2026-08-29T11:11:43Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-29T11:13:27Z",
+    "updated_at": "2026-08-29T11:59:59Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -329,7 +374,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68488,
-    "updated_at": "2026-08-29T11:44:51Z",
+    "updated_at": "2026-08-29T11:56:19Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-29T11:44:13Z",
+    "updated_at": "2026-08-29T11:58:42Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -365,7 +410,7 @@
     "language": "Shell",
     "name": "nitinjain999/platform-skills",
     "stars": 40,
-    "updated_at": "2026-08-29T11:24:35Z",
+    "updated_at": "2026-08-29T11:53:29Z",
     "url": "https://github.com/nitinjain999/platform-skills"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T10:22:00Z",
     "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
-  },
-  {
-    "description": "Canonical SiteSmith source: website-building skill, browser release loop, benchmarks and releases.",
-    "id": "byensitmagnus/sitesmith",
-    "language": "HTML",
-    "name": "byensitmagnus/sitesmith",
-    "stars": 0,
-    "updated_at": "2026-08-29T10:23:10Z",
-    "url": "https://github.com/byensitmagnus/sitesmith"
-  },
-  {
-    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
-    "id": "galleonlabs/hypergrok-trading-desk",
-    "language": "Python",
-    "name": "galleonlabs/hypergrok-trading-desk",
-    "stars": 20,
-    "updated_at": "2026-08-29T10:18:53Z",
-    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
-  },
-  {
-    "description": "Codex and Claude Code skill for effective engineering workflow scaffolding",
-    "id": "xeonvs/codex-engineering-workflow",
-    "language": "Python",
-    "name": "xeonvs/codex-engineering-workflow",
-    "stars": 1,
-    "updated_at": "2026-08-29T10:14:56Z",
-    "url": "https://github.com/xeonvs/codex-engineering-workflow"
-  },
-  {
-    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
-    "id": "Ovid/paad",
-    "language": "Python",
-    "name": "Ovid/paad",
-    "stars": 105,
-    "updated_at": "2026-08-29T10:11:30Z",
-    "url": "https://github.com/Ovid/paad"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-08-29T11:42:13Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   }
 ]
