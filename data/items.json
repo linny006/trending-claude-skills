@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 390,
+    "updated_at": "2026-08-29T11:28:40Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-29T11:29:32Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Department-ready Claude Skills for engineering, IT, data, HR, finance, legal, marketing, sales, product and operations. ",
+    "id": "alihusains/enterprise-skills",
+    "language": "Python",
+    "name": "alihusains/enterprise-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:25:39Z",
+    "url": "https://github.com/alihusains/enterprise-skills"
+  },
+  {
+    "description": "Verified Agent Skills registry for Codex and Claude Code: curated installs, provenance, license checks, reproducible evi",
+    "id": "userInner/SKILLS",
+    "language": "Python",
+    "name": "userInner/SKILLS",
+    "stars": 3,
+    "updated_at": "2026-08-29T11:21:27Z",
+    "url": "https://github.com/userInner/SKILLS"
+  },
+  {
+    "description": "This repo contains the SKILL of a gym coach that can be applied to any AI model to work as a fully functional gym instru",
+    "id": "jveer634/ai-gym-coach",
+    "language": "\u2014",
+    "name": "jveer634/ai-gym-coach",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:18:39Z",
+    "url": "https://github.com/jveer634/ai-gym-coach"
+  },
+  {
+    "description": "Interactive docs from plain text. Bio/chem visualizations, charts, and diagrams \u2014 anywhere Markdown works.",
+    "id": "vilas-gannaram/basemark",
+    "language": "TypeScript",
+    "name": "vilas-gannaram/basemark",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:16:35Z",
+    "url": "https://github.com/vilas-gannaram/basemark"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T11:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "akashtalole.github.io",
     "id": "akashtalole/akashtalole.github.io",
     "language": "Shell",
@@ -13,7 +76,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33148,
+    "stars": 33152,
     "updated_at": "2026-08-29T11:11:43Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "petar-djukic/writing-skills",
     "stars": 2,
-    "updated_at": "2026-08-29T11:10:38Z",
+    "updated_at": "2026-08-29T11:29:17Z",
     "url": "https://github.com/petar-djukic/writing-skills"
   },
   {
@@ -45,13 +108,13 @@
     "url": "https://github.com/elementalsouls/Claude-BugHunter"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T11:06:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30640,
+    "updated_at": "2026-08-29T11:06:45Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T11:05:18Z",
     "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-29T11:15:08Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "AI Skills That Actually Do Things \u2014 \u4e2d\u6587\u512a\u5148\u7684 Claude Code / Codex agent skills \u5408\u96c6 \u00b7 Reusable bilingual skills for any LLM wo",
@@ -131,7 +185,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-29T11:04:51Z",
+    "updated_at": "2026-08-29T11:23:00Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Shell",
     "name": "andresnator/agents-orchestrator",
     "stars": 0,
-    "updated_at": "2026-08-29T10:36:57Z",
+    "updated_at": "2026-08-29T11:20:14Z",
     "url": "https://github.com/andresnator/agents-orchestrator"
   },
   {
@@ -212,7 +266,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68488,
-    "updated_at": "2026-08-29T10:57:03Z",
+    "updated_at": "2026-08-29T11:25:30Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -230,7 +284,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-29T11:07:56Z",
+    "updated_at": "2026-08-29T11:25:22Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -248,7 +302,7 @@
     "language": "Shell",
     "name": "nitinjain999/platform-skills",
     "stars": 40,
-    "updated_at": "2026-08-29T10:31:21Z",
+    "updated_at": "2026-08-29T11:24:35Z",
     "url": "https://github.com/nitinjain999/platform-skills"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30639,
-    "updated_at": "2026-08-29T11:06:45Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
     "id": "liustack/pptwise",
     "language": "TypeScript",
@@ -373,7 +418,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 92540,
+    "stars": 92543,
     "updated_at": "2026-08-29T10:04:53Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -385,15 +430,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T10:04:37Z",
     "url": "https://github.com/Philotheephilix/reactbits.dev-skill"
-  },
-  {
-    "description": "Interactive docs from plain text. Bio/chem visualizations, charts, and diagrams \u2014 anywhere Markdown works.",
-    "id": "vilas-gannaram/basemark",
-    "language": "TypeScript",
-    "name": "vilas-gannaram/basemark",
-    "stars": 0,
-    "updated_at": "2026-08-29T10:02:33Z",
-    "url": "https://github.com/vilas-gannaram/basemark"
   },
   {
     "description": "Lanes, tickets, and a human merge. Runner and telemetry are plugs.",
@@ -412,41 +448,5 @@
     "stars": 26412,
     "updated_at": "2026-08-29T09:54:07Z",
     "url": "https://github.com/OthmanAdi/planning-with-files"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-29T09:52:23Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6481,
-    "updated_at": "2026-08-29T10:38:40Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-29T09:46:34Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-29T09:46:21Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
