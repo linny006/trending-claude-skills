@@ -1,21 +1,12 @@
 [
   {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-08-29T05:58:43Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "An agent organization for Claude Code, structured as a company \u2014 14 departments, 101 skills, each independently installa",
-    "id": "cbrock84/headcount",
-    "language": "Markdown",
-    "name": "cbrock84/headcount",
-    "stars": 1,
-    "updated_at": "2026-08-29T05:58:43Z",
-    "url": "https://github.com/cbrock84/headcount"
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 86,
+    "updated_at": "2026-08-29T06:14:18Z",
+    "url": "https://github.com/YPares/rigup.nix"
   },
   {
     "description": "akashtalole.github.io",
@@ -23,8 +14,89 @@
     "language": "Shell",
     "name": "akashtalole/akashtalole.github.io",
     "stars": 1,
-    "updated_at": "2026-08-29T06:00:07Z",
+    "updated_at": "2026-08-29T06:09:53Z",
     "url": "https://github.com/akashtalole/akashtalole.github.io"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-08-29T06:09:03Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-29T06:12:56Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "\u4e2d\u6587\u623f\u4ea7 AI \u6280\u80fd\u751f\u6210\u9aa8\u67b6 \u00b7 \u4f01\u4e1a\u4e0e\u4e2a\u4eba\u4ece\u4e1a\u8005\u901a\u7528 \u00b7 4\u7c7b\u89d2\u8272 \u00d7 29\u4e2a\u4e1a\u52a1\u6a21\u5757 \u00b7 \u4e00\u4efd\u914d\u7f6e\u751f\u6210\u54c1\u724c\u4e13\u5c5eSkill \u00b7 Apache-2.0",
+    "id": "danfeistar/house-skills-kit",
+    "language": "Go Template",
+    "name": "danfeistar/house-skills-kit",
+    "stars": 0,
+    "updated_at": "2026-08-29T06:04:48Z",
+    "url": "https://github.com/danfeistar/house-skills-kit"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-29T06:05:22Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 1,
+    "updated_at": "2026-08-29T06:11:53Z",
+    "url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "description": "Open-source Agent Skills for Claude Code and Codex: ship-DAG orchestration, A-F code review, AI evals, CI gates, design,",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 133,
+    "updated_at": "2026-08-29T06:00:41Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T06:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Interactive docs from plain text. Bio/chem visualizations, charts, and diagrams \u2014 anywhere Markdown works.",
+    "id": "vilas-gannaram/basemark",
+    "language": "TypeScript",
+    "name": "vilas-gannaram/basemark",
+    "stars": 0,
+    "updated_at": "2026-08-29T06:00:13Z",
+    "url": "https://github.com/vilas-gannaram/basemark"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-08-29T06:03:52Z",
+    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -36,15 +108,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-29T05:57:32Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -52,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T05:53:54Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Interactive docs from plain text. Bio/chem visualizations, charts, and diagrams \u2014 anywhere Markdown works.",
-    "id": "vilas-gannaram/basemark",
-    "language": "TypeScript",
-    "name": "vilas-gannaram/basemark",
-    "stars": 0,
-    "updated_at": "2026-08-29T05:53:44Z",
-    "url": "https://github.com/vilas-gannaram/basemark"
   },
   {
     "description": "",
@@ -131,17 +185,8 @@
     "language": "TypeScript",
     "name": "dinhanhthi/coding-friend",
     "stars": 3,
-    "updated_at": "2026-08-29T05:46:39Z",
+    "updated_at": "2026-08-29T06:05:11Z",
     "url": "https://github.com/dinhanhthi/coding-friend"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T05:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "28 curated UI/UX design skills for Claude Code \u2014 direction, taste, style systems, reference mining, identity, components",
@@ -211,7 +256,7 @@
     "id": "TryWorld2026/paper-algorithm",
     "language": "Python",
     "name": "TryWorld2026/paper-algorithm",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-08-29T05:34:15Z",
     "url": "https://github.com/TryWorld2026/paper-algorithm"
   },
@@ -223,15 +268,6 @@
     "stars": 58,
     "updated_at": "2026-08-29T05:32:34Z",
     "url": "https://github.com/nota-america/forgecat-agent-profiles"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-08-29T05:26:59Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Turn any PDF, EPUB, DOCX, or slide deck into an agent skill. A CLI + skill that reads whole books and docs, then writes ",
@@ -250,15 +286,6 @@
     "stars": 6477,
     "updated_at": "2026-08-29T05:58:24Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Open-source Agent Skills for Claude Code and Codex: ship-DAG orchestration, A-F code review, AI evals, CI gates, design,",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 133,
-    "updated_at": "2026-08-29T05:56:13Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
     "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
@@ -328,7 +355,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68492,
+    "stars": 68491,
     "updated_at": "2026-08-29T04:33:08Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T03:53:41Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
-    "id": "thefilesareinthecomputer/dotagents",
-    "language": "Python",
-    "name": "thefilesareinthecomputer/dotagents",
-    "stars": 0,
-    "updated_at": "2026-08-29T03:52:31Z",
-    "url": "https://github.com/thefilesareinthecomputer/dotagents"
-  },
-  {
-    "description": "My main list of vendor-agnostic agent skills and harness configs",
-    "id": "anton-winter-arch/dotagents",
-    "language": "Python",
-    "name": "anton-winter-arch/dotagents",
-    "stars": 1,
-    "updated_at": "2026-08-29T03:52:30Z",
-    "url": "https://github.com/anton-winter-arch/dotagents"
-  },
-  {
-    "description": "\u9762\u5411\u7535\u5546\u89c6\u89c9\u751f\u4ea7\u7684 Agent \u6280\u80fd\u5e93\uff1a19 \u4e2a\u53ef\u7ec4\u5408\u7684 skill.md\uff0c\u8986\u76d6\u5e73\u94fa\u56fe \u2192 \u6a21\u7279\u4e0a\u8eab \u2192 \u6362\u6a21\u7279\u6362\u80cc\u666f \u2192 \u88c2\u53d8\u5957\u56fe \u2192 \u8be6\u60c5\u9875 \u2192 \u6295\u524d\u68c0\u6d4b\uff0c\u7edf\u4e00\u901a\u8fc7 dLazy CLI \u8c03\u7528\u56fe\u50cf/\u6587\u672c\u6a21\u578b\uff0c\u4e0d\u7528\u6444\u5f71\u68da\u3001\u4e0d\u7ea6\u6a21\u7279\u3002",
-    "id": "dlazyai/ecommerce-skills",
-    "language": "JavaScript",
-    "name": "dlazyai/ecommerce-skills",
-    "stars": 2,
-    "updated_at": "2026-08-29T03:52:16Z",
-    "url": "https://github.com/dlazyai/ecommerce-skills"
   }
 ]
