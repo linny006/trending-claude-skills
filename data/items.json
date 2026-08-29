@@ -1,5 +1,50 @@
 [
   {
+    "description": "Skills, instructions, and other types of files that may help with LLM usage.",
+    "id": "psake/psake-llm-tools",
+    "language": "\u2014",
+    "name": "psake/psake-llm-tools",
+    "stars": 1,
+    "updated_at": "2026-08-29T18:59:36Z",
+    "url": "https://github.com/psake/psake-llm-tools"
+  },
+  {
+    "description": "Build cinematic, scroll-animated marketing sites that look like they cost $50,000+. A Claude/Cowork skill: GSAP motion s",
+    "id": "navinramharak-rgb/50k-website-builder",
+    "language": "JavaScript",
+    "name": "navinramharak-rgb/50k-website-builder",
+    "stars": 3,
+    "updated_at": "2026-08-29T18:59:21Z",
+    "url": "https://github.com/navinramharak-rgb/50k-website-builder"
+  },
+  {
+    "description": "Claude Code plugin: 9 skills for OATDA unified LLM API gateway - text, vision, image, video, audio (TTS/STT/translation)",
+    "id": "devcsde/oatda-skills",
+    "language": "TypeScript",
+    "name": "devcsde/oatda-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:54:07Z",
+    "url": "https://github.com/devcsde/oatda-skills"
+  },
+  {
+    "description": "Personal skills collection for Claude",
+    "id": "Lu1sDV/skillsmd",
+    "language": "Ruby",
+    "name": "Lu1sDV/skillsmd",
+    "stars": 2,
+    "updated_at": "2026-08-29T18:53:38Z",
+    "url": "https://github.com/Lu1sDV/skillsmd"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T18:53:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skill for Claude Code and Codex that strips the AI fingerprints from a website without restyling it. Five tiers of",
     "id": "Juuzoe/stop-design-slop",
     "language": "\u2014",
@@ -32,7 +77,7 @@
     "language": "Shell",
     "name": "anmolnagpal/devops-skills",
     "stars": 8,
-    "updated_at": "2026-08-29T18:49:32Z",
+    "updated_at": "2026-08-29T18:57:55Z",
     "url": "https://github.com/anmolnagpal/devops-skills"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-29T18:48:44Z",
+    "updated_at": "2026-08-29T18:57:09Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -81,15 +126,6 @@
     "url": "https://github.com/widnyana/eyay-toolkits"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T18:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -97,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T18:43:36Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Claude Code plugin: 9 skills for OATDA unified LLM API gateway - text, vision, image, video, audio (TTS/STT/translation)",
-    "id": "devcsde/oatda-skills",
-    "language": "TypeScript",
-    "name": "devcsde/oatda-skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T18:43:16Z",
-    "url": "https://github.com/devcsde/oatda-skills"
   },
   {
     "description": "Agent skill: generate beautiful dark-themed architecture diagrams from your project/demo/idea. Interactive, verifiable, ",
@@ -166,7 +193,7 @@
     "id": "cbrock84/headcount",
     "language": "Markdown",
     "name": "cbrock84/headcount",
-    "stars": 15,
+    "stars": 18,
     "updated_at": "2026-08-29T18:32:52Z",
     "url": "https://github.com/cbrock84/headcount"
   },
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-29T17:57:05Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-29T17:55:18Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-29T17:53:38Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-29T17:52:57Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   }
 ]
