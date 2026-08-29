@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-08-29T16:59:16Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-29T16:58:20Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
+    "id": "ColinVaughn/Synaptic",
+    "language": "Rust",
+    "name": "ColinVaughn/Synaptic",
+    "stars": 26,
+    "updated_at": "2026-08-29T16:56:53Z",
+    "url": "https://github.com/ColinVaughn/Synaptic"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-29T16:54:11Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-29T16:53:31Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "punkaze's Claude Code agent skills collection (plugin marketplace). Ships the bruno skill: author/generate/run Bruno .br",
+    "id": "punkaze/skills",
+    "language": "Shell",
+    "name": "punkaze/skills",
+    "stars": 1,
+    "updated_at": "2026-08-29T16:48:49Z",
+    "url": "https://github.com/punkaze/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T16:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Showcase for Legal Skill Hub: lawyers turn their own workflows into installable AI agent skills that run locally with th",
     "id": "rainbow1111-lalala/legal-skill-hub",
     "language": "\u2014",
@@ -9,22 +72,13 @@
     "url": "https://github.com/rainbow1111-lalala/legal-skill-hub"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-29T16:43:51Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify ",
-    "id": "ColinVaughn/Synaptic",
-    "language": "Rust",
-    "name": "ColinVaughn/Synaptic",
-    "stars": 26,
-    "updated_at": "2026-08-29T16:38:53Z",
-    "url": "https://github.com/ColinVaughn/Synaptic"
+    "description": "A risk-aware trading copilot skill for Claude, built on Binance Agent OS MCP",
+    "id": "acevod/trading-guardian-binance-agent-os",
+    "language": "\u2014",
+    "name": "acevod/trading-guardian-binance-agent-os",
+    "stars": 0,
+    "updated_at": "2026-08-29T16:40:00Z",
+    "url": "https://github.com/acevod/trading-guardian-binance-agent-os"
   },
   {
     "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
@@ -86,7 +140,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-29T16:34:21Z",
+    "updated_at": "2026-08-29T16:53:13Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -99,21 +153,12 @@
     "url": "https://github.com/Senzing/senzing-mcp-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T16:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-29T16:44:00Z",
+    "updated_at": "2026-08-29T16:51:34Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T15:25:00Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-08-29T15:24:57Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Collection of open-source AI agent skills (Claude Code / DSH compatible)",
-    "id": "theorangee-makke/makke-skills",
-    "language": "\u2014",
-    "name": "theorangee-makke/makke-skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:16:48Z",
-    "url": "https://github.com/theorangee-makke/makke-skills"
-  },
-  {
-    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
-    "id": "petar-djukic/writing-skills",
-    "language": "Python",
-    "name": "petar-djukic/writing-skills",
-    "stars": 3,
-    "updated_at": "2026-08-29T16:14:27Z",
-    "url": "https://github.com/petar-djukic/writing-skills"
-  },
-  {
-    "description": "Agent skills for durable, evidence-based learning",
-    "id": "drveles/teach-me",
-    "language": "Python",
-    "name": "drveles/teach-me",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:16:18Z",
-    "url": "https://github.com/drveles/teach-me"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:13:05Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   }
 ]
