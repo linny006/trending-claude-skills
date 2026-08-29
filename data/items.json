@@ -5,8 +5,62 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 101,
-    "updated_at": "2026-08-29T03:27:47Z",
+    "updated_at": "2026-08-29T03:43:10Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 2,
+    "updated_at": "2026-08-29T03:42:34Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
+    "id": "TryWorld2026/paper-algorithm",
+    "language": "Python",
+    "name": "TryWorld2026/paper-algorithm",
+    "stars": 7,
+    "updated_at": "2026-08-29T03:42:32Z",
+    "url": "https://github.com/TryWorld2026/paper-algorithm"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 2,
+    "updated_at": "2026-08-29T03:40:35Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "Public Claude Code skills and standalone utilities: tts (turns a document into spoken-word audio) and explain-yourself (",
+    "id": "ArunskiOrg/BenArunskiUtils",
+    "language": "Python",
+    "name": "ArunskiOrg/BenArunskiUtils",
+    "stars": 1,
+    "updated_at": "2026-08-29T03:36:28Z",
+    "url": "https://github.com/ArunskiOrg/BenArunskiUtils"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T03:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-29T03:32:11Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
@@ -25,15 +79,6 @@
     "stars": 6477,
     "updated_at": "2026-08-29T03:20:01Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Public Claude Code skills and standalone utilities: tts (turns a document into spoken-word audio) and explain-yourself (",
-    "id": "ArunskiOrg/BenArunskiUtils",
-    "language": "Python",
-    "name": "ArunskiOrg/BenArunskiUtils",
-    "stars": 1,
-    "updated_at": "2026-08-29T03:28:21Z",
-    "url": "https://github.com/ArunskiOrg/BenArunskiUtils"
   },
   {
     "description": "Agent skill for Claude Code and Codex that removes the \"AI made this\" look from websites. 284 researched slop tells with",
@@ -79,15 +124,6 @@
     "stars": 49,
     "updated_at": "2026-08-29T03:15:52Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T03:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Nine portable, host-neutral federal acquisition workflow skills with deterministic validators.",
@@ -142,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T03:14:09Z",
     "url": "https://github.com/Pr1m4lc0d3/KiSYSTEM"
-  },
-  {
-    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
-    "id": "wardawgmalvicious/agent-config",
-    "language": "PowerShell",
-    "name": "wardawgmalvicious/agent-config",
-    "stars": 2,
-    "updated_at": "2026-08-29T03:07:43Z",
-    "url": "https://github.com/wardawgmalvicious/agent-config"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-29T03:30:08Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "PMO as a Service - Atomic logic for decision-making. Turning abstract ideas into executable functions.",
@@ -232,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T02:57:05Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
-    "id": "TryWorld2026/paper-algorithm",
-    "language": "Python",
-    "name": "TryWorld2026/paper-algorithm",
-    "stars": 7,
-    "updated_at": "2026-08-29T02:56:34Z",
-    "url": "https://github.com/TryWorld2026/paper-algorithm"
   },
   {
     "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T02:20:32Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-29T02:18:49Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
