@@ -1,5 +1,59 @@
 [
   {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 220,
+    "updated_at": "2026-08-29T00:58:20Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "Let your AI agent drive the Gemini web app through your existing Google AI Pro subscription - generate images (Nano Bana",
+    "id": "MagicYangG/claude-drives-gemini",
+    "language": "JavaScript",
+    "name": "MagicYangG/claude-drives-gemini",
+    "stars": 1,
+    "updated_at": "2026-08-29T00:51:35Z",
+    "url": "https://github.com/MagicYangG/claude-drives-gemini"
+  },
+  {
+    "description": "A Claude Skill that diagnoses and authors agent prompts \u2014 five cheap tests before you rewrite a rule, plus the eval harn",
+    "id": "amylyra/agent-prompt-author",
+    "language": "Python",
+    "name": "amylyra/agent-prompt-author",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:48:36Z",
+    "url": "https://github.com/amylyra/agent-prompt-author"
+  },
+  {
+    "description": "A Skill that chunks long text into memorable macro-units using Sweller's Cognitive Load Theory, for better learning and ",
+    "id": "K-Pourahmadian/chunk-for-retention",
+    "language": "\u2014",
+    "name": "K-Pourahmadian/chunk-for-retention",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:47:14Z",
+    "url": "https://github.com/K-Pourahmadian/chunk-for-retention"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-08-29T00:45:53Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T00:45:10Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "197 bioinformatics & life science skills for Claude Code and AI agents \u2014 BixBench 92.0% accuracy. RNA-seq, single-cell, ",
     "id": "jaechang-hits/SciAgent-Skills",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 351,
     "updated_at": "2026-08-29T00:42:20Z",
     "url": "https://github.com/jaechang-hits/SciAgent-Skills"
+  },
+  {
+    "description": "Claude Skills for Bugzilla development: bug triage, patch review, schema migration checks, and template review.",
+    "id": "topunix/bugzilla-skills",
+    "language": "\u2014",
+    "name": "topunix/bugzilla-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:40:13Z",
+    "url": "https://github.com/topunix/bugzilla-skills"
   },
   {
     "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T00:30:48Z",
     "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T00:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Discover, verify, and track 296 Claude Code & Agent Skills tools with daily automated health checks.",
@@ -133,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T00:27:20Z",
     "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 220,
-    "updated_at": "2026-08-29T00:26:42Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-08-29T00:45:04Z",
-    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T00:18:35Z",
     "url": "https://github.com/Pragmatical-transshipment598/claude-code-workflows"
-  },
-  {
-    "description": "Build, standardize, and validate reusable AI skills across models with a portable abstraction layer",
-    "id": "Pascalslawoffluidpressuresjalousie29/prompt-to-skill",
-    "language": "\u2014",
-    "name": "Pascalslawoffluidpressuresjalousie29/prompt-to-skill",
-    "stars": 2,
-    "updated_at": "2026-08-29T00:18:25Z",
-    "url": "https://github.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill"
-  },
-  {
-    "description": "Build pragmatic Go apps with an idiomatic, flat project layout guide for clean code, clear flow, and maintainable APIs",
-    "id": "chafingdishposition355/go-skills",
-    "language": "\u2014",
-    "name": "chafingdishposition355/go-skills",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:18:19Z",
-    "url": "https://github.com/chafingdishposition355/go-skills"
-  },
-  {
-    "description": "Build Ozor AI video prompts and skills for product launches, ads, explainers, and more",
-    "id": "renalpelvisdeinocheirus70/ozor-skills",
-    "language": "\u2014",
-    "name": "renalpelvisdeinocheirus70/ozor-skills",
-    "stars": 2,
-    "updated_at": "2026-08-29T00:18:17Z",
-    "url": "https://github.com/renalpelvisdeinocheirus70/ozor-skills"
-  },
-  {
-    "description": "Run Claude Code from any folder or USB drive with no install on Windows, macOS, and Linux",
-    "id": "Fraydawarridden350/claude-code-portable",
-    "language": "\u2014",
-    "name": "Fraydawarridden350/claude-code-portable",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:18:06Z",
-    "url": "https://github.com/Fraydawarridden350/claude-code-portable"
   }
 ]
