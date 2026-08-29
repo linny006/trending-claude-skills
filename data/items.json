@@ -1,12 +1,21 @@
 [
   {
-    "description": "Codex and Claude Code skill for effective engineering workflow scaffolding",
-    "id": "xeonvs/codex-engineering-workflow",
-    "language": "Python",
-    "name": "xeonvs/codex-engineering-workflow",
-    "stars": 1,
-    "updated_at": "2026-08-29T10:14:56Z",
-    "url": "https://github.com/xeonvs/codex-engineering-workflow"
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
+    "id": "nitinjain999/platform-skills",
+    "language": "Shell",
+    "name": "nitinjain999/platform-skills",
+    "stars": 40,
+    "updated_at": "2026-08-29T10:29:30Z",
+    "url": "https://github.com/nitinjain999/platform-skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-08-29T10:29:02Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
@@ -14,8 +23,89 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-08-29T10:13:54Z",
+    "updated_at": "2026-08-29T10:28:29Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
+    "id": "Loriabient5377/blahblahblah-skill",
+    "language": "\u2014",
+    "name": "Loriabient5377/blahblahblah-skill",
+    "stars": 0,
+    "updated_at": "2026-08-29T10:24:17Z",
+    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
+  },
+  {
+    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
+    "id": "petar-djukic/writing-skills",
+    "language": "Python",
+    "name": "petar-djukic/writing-skills",
+    "stars": 2,
+    "updated_at": "2026-08-29T10:23:32Z",
+    "url": "https://github.com/petar-djukic/writing-skills"
+  },
+  {
+    "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
+    "id": "Samuellalight8026/spam-filter-advisor-skill",
+    "language": "Python",
+    "name": "Samuellalight8026/spam-filter-advisor-skill",
+    "stars": 0,
+    "updated_at": "2026-08-29T10:22:00Z",
+    "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68489,
+    "updated_at": "2026-08-29T10:27:20Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Canonical SiteSmith source: website-building skill, browser release loop, benchmarks and releases.",
+    "id": "byensitmagnus/sitesmith",
+    "language": "HTML",
+    "name": "byensitmagnus/sitesmith",
+    "stars": 0,
+    "updated_at": "2026-08-29T10:23:10Z",
+    "url": "https://github.com/byensitmagnus/sitesmith"
+  },
+  {
+    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
+    "id": "galleonlabs/hypergrok-trading-desk",
+    "language": "Python",
+    "name": "galleonlabs/hypergrok-trading-desk",
+    "stars": 20,
+    "updated_at": "2026-08-29T10:18:53Z",
+    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-29T10:26:03Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T10:15:24Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Codex and Claude Code skill for effective engineering workflow scaffolding",
+    "id": "xeonvs/codex-engineering-workflow",
+    "language": "Python",
+    "name": "xeonvs/codex-engineering-workflow",
+    "stars": 1,
+    "updated_at": "2026-08-29T10:14:56Z",
+    "url": "https://github.com/xeonvs/codex-engineering-workflow"
   },
   {
     "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 1,
-    "updated_at": "2026-08-29T10:11:21Z",
+    "updated_at": "2026-08-29T10:24:11Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -76,7 +166,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 92538,
+    "stars": 92539,
     "updated_at": "2026-08-29T10:04:53Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -104,17 +194,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-29T10:15:02Z",
+    "updated_at": "2026-08-29T10:24:41Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T10:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Lanes, tickets, and a human merge. Runner and telemetry are plugs.",
@@ -133,15 +214,6 @@
     "stars": 26412,
     "updated_at": "2026-08-29T09:54:07Z",
     "url": "https://github.com/OthmanAdi/planning-with-files"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68488,
-    "updated_at": "2026-08-29T09:59:27Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -189,15 +261,6 @@
     "url": "https://github.com/suboss87/FDEOps"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-08-29T10:07:13Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-29T09:35:27Z",
+    "updated_at": "2026-08-29T10:23:16Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 103,
     "updated_at": "2026-08-29T09:02:56Z",
     "url": "https://github.com/tonylofgren/aurora-smart-home"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 415,
-    "updated_at": "2026-08-29T08:59:57Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "A Skill and CLI tool for Codex and Claude Code that converts images, PDFs, image-based PPTX files, and mixed PPTX files ",
-    "id": "DSY-Xueai/image2editable",
-    "language": "Python",
-    "name": "DSY-Xueai/image2editable",
-    "stars": 11,
-    "updated_at": "2026-08-29T08:56:34Z",
-    "url": "https://github.com/DSY-Xueai/image2editable"
-  },
-  {
-    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
-    "id": "molefrog/moi",
-    "language": "TypeScript",
-    "name": "molefrog/moi",
-    "stars": 133,
-    "updated_at": "2026-08-29T08:56:34Z",
-    "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "Evidence-led qualitative analysis skill with five method-specific workflows and Markdown + HTML reporting",
-    "id": "thePlannerIvan/planners-quali-box",
-    "language": "Python",
-    "name": "thePlannerIvan/planners-quali-box",
-    "stars": 1,
-    "updated_at": "2026-08-29T08:55:51Z",
-    "url": "https://github.com/thePlannerIvan/planners-quali-box"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-29T08:55:35Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "My assortment of Claude Code skills",
-    "id": "ivuorinen/skills",
-    "language": "Python",
-    "name": "ivuorinen/skills",
-    "stars": 3,
-    "updated_at": "2026-08-29T08:54:33Z",
-    "url": "https://github.com/ivuorinen/skills"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-08-29T08:54:20Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
   }
 ]
