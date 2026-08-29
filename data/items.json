@@ -1,12 +1,39 @@
 [
   {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-29T20:14:36Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+    "description": "A risk-aware trading copilot skill for Claude, built on Binance Agent OS MCP",
+    "id": "acevod/trading-guardian-binance-agent-os",
+    "language": "\u2014",
+    "name": "acevod/trading-guardian-binance-agent-os",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:28:41Z",
+    "url": "https://github.com/acevod/trading-guardian-binance-agent-os"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-29T20:28:48Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Engineering-readiness audits for AI-built apps. A Claude Code and Codex plugin that finds production risks across ten do",
+    "id": "gul-labs/craftsman-marketplace",
+    "language": "JavaScript",
+    "name": "gul-labs/craftsman-marketplace",
+    "stars": 1,
+    "updated_at": "2026-08-29T20:25:25Z",
+    "url": "https://github.com/gul-labs/craftsman-marketplace"
+  },
+  {
+    "description": "Let the bearded senior give you the onboarding. A Claude Code plugin: four prompts that map any unfamiliar codebase - in",
+    "id": "pedrovelasquez9/onbearding",
+    "language": "\u2014",
+    "name": "pedrovelasquez9/onbearding",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:24:06Z",
+    "url": "https://github.com/pedrovelasquez9/onbearding"
   },
   {
     "description": "A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor",
@@ -14,8 +41,62 @@
     "language": "\u2014",
     "name": "tsudo/skills",
     "stars": 0,
-    "updated_at": "2026-08-29T20:12:33Z",
+    "updated_at": "2026-08-29T20:22:31Z",
     "url": "https://github.com/tsudo/skills"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-08-29T20:20:26Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "",
+    "id": "andresnator/agents-orchestrator",
+    "language": "Shell",
+    "name": "andresnator/agents-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:16:38Z",
+    "url": "https://github.com/andresnator/agents-orchestrator"
+  },
+  {
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster ",
+    "id": "codeaashu/claude-code",
+    "language": "TypeScript",
+    "name": "codeaashu/claude-code",
+    "stars": 3282,
+    "updated_at": "2026-08-29T20:16:27Z",
+    "url": "https://github.com/codeaashu/claude-code"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T20:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio",
+    "id": "handcraftedbygod/SkillTrace",
+    "language": "Python",
+    "name": "handcraftedbygod/SkillTrace",
+    "stars": 1,
+    "updated_at": "2026-08-29T20:15:04Z",
+    "url": "https://github.com/handcraftedbygod/SkillTrace"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-08-29T20:14:36Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
     "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor",
@@ -45,24 +126,6 @@
     "url": "https://github.com/gtrabanco/agentic-workflow"
   },
   {
-    "description": "Let the bearded senior give you the onboarding. A Claude Code plugin: four prompts that map any unfamiliar codebase - in",
-    "id": "pedrovelasquez9/onbearding",
-    "language": "\u2014",
-    "name": "pedrovelasquez9/onbearding",
-    "stars": 0,
-    "updated_at": "2026-08-29T20:07:36Z",
-    "url": "https://github.com/pedrovelasquez9/onbearding"
-  },
-  {
-    "description": "Behavioral scanner for Claude Skills: sandboxes and traces what a skill actually does instead of trusting its descriptio",
-    "id": "handcraftedbygod/SkillTrace",
-    "language": "Python",
-    "name": "handcraftedbygod/SkillTrace",
-    "stars": 1,
-    "updated_at": "2026-08-29T20:15:04Z",
-    "url": "https://github.com/handcraftedbygod/SkillTrace"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
@@ -86,7 +149,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-08-29T20:08:32Z",
+    "updated_at": "2026-08-29T20:28:14Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T20:00:46Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T20:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "bridge.ai/tack: Route tracker for AI-assisted development work \u2014 pivots, deliverables, and dependencies \u2014 across session",
@@ -122,17 +176,8 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30645,
-    "updated_at": "2026-08-29T19:53:35Z",
+    "updated_at": "2026-08-29T20:23:40Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "A risk-aware trading copilot skill for Claude, built on Binance Agent OS MCP",
-    "id": "acevod/trading-guardian-binance-agent-os",
-    "language": "\u2014",
-    "name": "acevod/trading-guardian-binance-agent-os",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:51:29Z",
-    "url": "https://github.com/acevod/trading-guardian-binance-agent-os"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -169,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T19:45:53Z",
     "url": "https://github.com/sixoverground/claude-phases"
-  },
-  {
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster ",
-    "id": "codeaashu/claude-code",
-    "language": "TypeScript",
-    "name": "codeaashu/claude-code",
-    "stars": 3282,
-    "updated_at": "2026-08-29T19:44:22Z",
-    "url": "https://github.com/codeaashu/claude-code"
   },
   {
     "description": "SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer.  An agent skill for building",
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "petar-djukic/writing-skills",
     "stars": 3,
-    "updated_at": "2026-08-29T19:32:30Z",
+    "updated_at": "2026-08-29T20:19:43Z",
     "url": "https://github.com/petar-djukic/writing-skills"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T18:47:05Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
-    "id": "widnyana/eyay-toolkits",
-    "language": "Python",
-    "name": "widnyana/eyay-toolkits",
-    "stars": 6,
-    "updated_at": "2026-08-29T18:45:15Z",
-    "url": "https://github.com/widnyana/eyay-toolkits"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-08-29T18:43:36Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Agent skill: generate beautiful dark-themed architecture diagrams from your project/demo/idea. Interactive, verifiable, ",
-    "id": "lewes2/archpresent",
-    "language": "HTML",
-    "name": "lewes2/archpresent",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:41:57Z",
-    "url": "https://github.com/lewes2/archpresent"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:40:00Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
