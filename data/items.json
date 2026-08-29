@@ -1,12 +1,93 @@
 [
   {
+    "description": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's",
+    "id": "jaredrhod/ai-memory-vault",
+    "language": "\u2014",
+    "name": "jaredrhod/ai-memory-vault",
+    "stars": 592,
+    "updated_at": "2026-08-29T19:13:02Z",
+    "url": "https://github.com/jaredrhod/ai-memory-vault"
+  },
+  {
+    "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
+    "id": "anmolnagpal/devops-skills",
+    "language": "Shell",
+    "name": "anmolnagpal/devops-skills",
+    "stars": 8,
+    "updated_at": "2026-08-29T19:12:20Z",
+    "url": "https://github.com/anmolnagpal/devops-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-29T19:12:02Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 2,
+    "updated_at": "2026-08-29T19:05:43Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-08-29T19:05:30Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "A template system for Claude-assisted client engagement folders. Drop a new client into a folder and every Claude surfac",
+    "id": "16wells/claude-project-setup",
+    "language": "Shell",
+    "name": "16wells/claude-project-setup",
+    "stars": 2,
+    "updated_at": "2026-08-29T19:04:52Z",
+    "url": "https://github.com/16wells/claude-project-setup"
+  },
+  {
     "description": "Skills, instructions, and other types of files that may help with LLM usage.",
     "id": "psake/psake-llm-tools",
     "language": "\u2014",
     "name": "psake/psake-llm-tools",
     "stars": 1,
-    "updated_at": "2026-08-29T18:59:36Z",
+    "updated_at": "2026-08-29T19:04:23Z",
     "url": "https://github.com/psake/psake-llm-tools"
+  },
+  {
+    "description": "A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor",
+    "id": "tsudo/skills",
+    "language": "\u2014",
+    "name": "tsudo/skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:03:59Z",
+    "url": "https://github.com/tsudo/skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:03:14Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T19:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Build cinematic, scroll-animated marketing sites that look like they cost $50,000+. A Claude/Cowork skill: GSAP motion s",
@@ -36,15 +117,6 @@
     "url": "https://github.com/Lu1sDV/skillsmd"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T18:53:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skill for Claude Code and Codex that strips the AI fingerprints from a website without restyling it. Five tiers of",
     "id": "Juuzoe/stop-design-slop",
     "language": "\u2014",
@@ -72,31 +144,13 @@
     "url": "https://github.com/normlstudio/norml-wordpress-copilot-advanced"
   },
   {
-    "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
-    "id": "anmolnagpal/devops-skills",
-    "language": "Shell",
-    "name": "anmolnagpal/devops-skills",
-    "stars": 8,
-    "updated_at": "2026-08-29T18:57:55Z",
-    "url": "https://github.com/anmolnagpal/devops-skills"
-  },
-  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "TypeScript",
     "name": "getaero-io/gtm-eng-skills",
-    "stars": 54,
+    "stars": 55,
     "updated_at": "2026-08-29T18:49:21Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-29T18:57:09Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30646,
-    "updated_at": "2026-08-29T18:45:52Z",
+    "updated_at": "2026-08-29T19:00:15Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -193,7 +247,7 @@
     "id": "cbrock84/headcount",
     "language": "Markdown",
     "name": "cbrock84/headcount",
-    "stars": 18,
+    "stars": 23,
     "updated_at": "2026-08-29T18:32:52Z",
     "url": "https://github.com/cbrock84/headcount"
   },
@@ -221,7 +275,7 @@
     "language": "Shell",
     "name": "nitinjain999/platform-skills",
     "stars": 40,
-    "updated_at": "2026-08-29T18:42:02Z",
+    "updated_at": "2026-08-29T19:12:10Z",
     "url": "https://github.com/nitinjain999/platform-skills"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/LuisPadre25/wu-microfrontends-skill"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-08-29T18:49:28Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Drive a phased implementation plan from a Claude Code session, including from your phone. Plan in markdown, one PR per p",
     "id": "sixoverground/claude-phases",
     "language": "Shell",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T18:02:19Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-08-29T18:00:33Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
-    "id": "tobihagemann/turbo",
-    "language": "Shell",
-    "name": "tobihagemann/turbo",
-    "stars": 401,
-    "updated_at": "2026-08-29T18:00:10Z",
-    "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-29T17:59:19Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-08-29T17:58:07Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-29T17:57:05Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   }
 ]
