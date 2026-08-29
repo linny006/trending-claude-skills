@@ -1,5 +1,122 @@
 [
   {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 2,
+    "updated_at": "2026-08-29T17:11:19Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 92567,
+    "updated_at": "2026-08-29T17:10:17Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Your friendly neighborhood QA developer.",
+    "id": "EmanueleMinotto/minottobot",
+    "language": "Python",
+    "name": "EmanueleMinotto/minottobot",
+    "stars": 4,
+    "updated_at": "2026-08-29T17:09:48Z",
+    "url": "https://github.com/EmanueleMinotto/minottobot"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-08-29T17:08:39Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "A browser inside your terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "Rust",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 2400,
+    "updated_at": "2026-08-29T17:04:29Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:04:56Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-08-29T17:03:56Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30646,
+    "updated_at": "2026-08-29T17:03:40Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-29T17:10:54Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
+    "id": "AgamiAI/agami-core",
+    "language": "Python",
+    "name": "AgamiAI/agami-core",
+    "stars": 29,
+    "updated_at": "2026-08-29T17:01:18Z",
+    "url": "https://github.com/AgamiAI/agami-core"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T17:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-08-29T16:59:54Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68504,
+    "updated_at": "2026-08-29T16:59:42Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -27,15 +144,6 @@
     "url": "https://github.com/ColinVaughn/Synaptic"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-29T16:54:11Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -52,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T16:48:49Z",
     "url": "https://github.com/punkaze/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T16:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Showcase for Legal Skill Hub: lawyers turn their own workflows into installable AI agent skills that run locally with th",
@@ -140,7 +239,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-29T16:53:13Z",
+    "updated_at": "2026-08-29T17:12:25Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -151,15 +250,6 @@
     "stars": 13,
     "updated_at": "2026-08-29T16:30:41Z",
     "url": "https://github.com/Senzing/senzing-mcp-skill"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-08-29T16:51:34Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
@@ -205,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T16:19:34Z",
     "url": "https://github.com/TimeCraker/vibe-studio"
-  },
-  {
-    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
-    "id": "wardawgmalvicious/agent-config",
-    "language": "PowerShell",
-    "name": "wardawgmalvicious/agent-config",
-    "stars": 2,
-    "updated_at": "2026-08-29T16:18:15Z",
-    "url": "https://github.com/wardawgmalvicious/agent-config"
   },
   {
     "description": "ai-codeops-harness \u662f\u4e00\u5957\u9762\u5411 AI Coding Agent \u7684\u667a\u80fd\u4f53\u4e2d\u7acb\u5de5\u7a0b\u6cbb\u7406\u4e0e\u6267\u884c\u6846\u67b6\uff0c\u4e3a\u771f\u5b9e\u8f6f\u4ef6\u9879\u76ee\u63d0\u4f9b\u9700\u6c42\u8def\u7531\u3001\u67b6\u6784\u51b3\u7b56\u3001\u6267\u884c\u8ba1\u5212\u3001\u8fde\u7eed\u5b9e\u65bd\u3001\u4eba\u5de5\u6388\u6743\u8fb9\u754c\u3001\u8fd0\u884c\u72b6\u6001\u3001\u68c0\u67e5\u70b9\u5bf9\u8d26\u4e0e\u8de8\u667a\u80fd\u4f53\u6062\u590d\u80fd\u529b\u3002",
@@ -333,15 +414,6 @@
     "url": "https://github.com/alexis-morain/verbatim-linkedin"
   },
   {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:51:23Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
     "description": "The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul.",
     "id": "aeonfun/soul.md",
     "language": "JavaScript",
@@ -376,77 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-29T15:46:58Z",
     "url": "https://github.com/asale-ai/anything-to-skill"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 22,
-    "updated_at": "2026-08-29T15:46:22Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Interactive docs from plain text. Bio/chem visualizations, charts, and diagrams \u2014 anywhere Markdown works.",
-    "id": "vilas-gannaram/basemark",
-    "language": "TypeScript",
-    "name": "vilas-gannaram/basemark",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:44:35Z",
-    "url": "https://github.com/vilas-gannaram/basemark"
-  },
-  {
-    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
-    "id": "nitinjain999/platform-skills",
-    "language": "Shell",
-    "name": "nitinjain999/platform-skills",
-    "stars": 40,
-    "updated_at": "2026-08-29T15:47:44Z",
-    "url": "https://github.com/nitinjain999/platform-skills"
-  },
-  {
-    "description": "A comprehension-first workflow for Claude Code: grill the problem, design on paper, build one commit at a time, verify a",
-    "id": "Kerliula/ship-me",
-    "language": "JavaScript",
-    "name": "Kerliula/ship-me",
-    "stars": 1,
-    "updated_at": "2026-08-29T15:41:58Z",
-    "url": "https://github.com/Kerliula/ship-me"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top ",
-    "id": "INo-xious/stockbit-mcp",
-    "language": "TypeScript",
-    "name": "INo-xious/stockbit-mcp",
-    "stars": 10,
-    "updated_at": "2026-08-29T15:39:32Z",
-    "url": "https://github.com/INo-xious/stockbit-mcp"
-  },
-  {
-    "description": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's",
-    "id": "jaredrhod/ai-memory-vault",
-    "language": "\u2014",
-    "name": "jaredrhod/ai-memory-vault",
-    "stars": 592,
-    "updated_at": "2026-08-29T15:36:36Z",
-    "url": "https://github.com/jaredrhod/ai-memory-vault"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:32:15Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-29T15:25:00Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
