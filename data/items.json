@@ -1,12 +1,75 @@
 [
   {
+    "description": "Interactive docs from plain text. Bio/chem visualizations, charts, and diagrams \u2014 anywhere Markdown works.",
+    "id": "vilas-gannaram/basemark",
+    "language": "TypeScript",
+    "name": "vilas-gannaram/basemark",
+    "stars": 0,
+    "updated_at": "2026-08-29T15:44:35Z",
+    "url": "https://github.com/vilas-gannaram/basemark"
+  },
+  {
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
+    "id": "nitinjain999/platform-skills",
+    "language": "Shell",
+    "name": "nitinjain999/platform-skills",
+    "stars": 40,
+    "updated_at": "2026-08-29T15:43:43Z",
+    "url": "https://github.com/nitinjain999/platform-skills"
+  },
+  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-08-29T15:38:08Z",
+    "updated_at": "2026-08-29T15:43:36Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "\ud83d\udca6 Claude Unmarking Machine.",
+    "id": "wiseaidotdev/cum",
+    "language": "Rust",
+    "name": "wiseaidotdev/cum",
+    "stars": 1,
+    "updated_at": "2026-08-29T15:43:09Z",
+    "url": "https://github.com/wiseaidotdev/cum"
+  },
+  {
+    "description": "\u6587\u4ef6\u5939\u81ea\u6cbb\u7ba1\u7406 Skill\uff1aAgent \u751f\u6210\u7684\u5185\u5bb9\u6709\u7ed3\u6784\u3001\u53ef\u68c0\u7d22\u3001\u53ef\u590d\u7528\u3002\u751f\u6210 00_\u4f7f\u7528\u89c4\u5219.md \u58f0\u660e\u5b9e\u73b0\u6301\u7eed\u6cbb\u7406\uff0c\u6216\u4e00\u6b21\u6027\u6709\u903b\u8f91\u5730\u68b3\u7406\u6587\u4ef6\u5939\u3002",
+    "id": "TEXXXXTURE/folder-caretaker",
+    "language": "\u2014",
+    "name": "TEXXXXTURE/folder-caretaker",
+    "stars": 0,
+    "updated_at": "2026-08-29T15:42:19Z",
+    "url": "https://github.com/TEXXXXTURE/folder-caretaker"
+  },
+  {
+    "description": "A comprehension-first workflow for Claude Code: grill the problem, design on paper, build one commit at a time, verify a",
+    "id": "Kerliula/ship-me",
+    "language": "JavaScript",
+    "name": "Kerliula/ship-me",
+    "stars": 1,
+    "updated_at": "2026-08-29T15:41:58Z",
+    "url": "https://github.com/Kerliula/ship-me"
+  },
+  {
+    "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top ",
+    "id": "INo-xious/stockbit-mcp",
+    "language": "TypeScript",
+    "name": "INo-xious/stockbit-mcp",
+    "stars": 10,
+    "updated_at": "2026-08-29T15:39:32Z",
+    "url": "https://github.com/INo-xious/stockbit-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T15:38:36Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Showcase for Legal Skill Hub: lawyers turn their own workflows into installable AI agent skills that run locally with th",
@@ -36,21 +99,12 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T15:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-29T15:27:32Z",
+    "updated_at": "2026-08-29T15:40:35Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "petar-djukic/writing-skills",
     "stars": 3,
-    "updated_at": "2026-08-29T15:16:26Z",
+    "updated_at": "2026-08-29T15:45:00Z",
     "url": "https://github.com/petar-djukic/writing-skills"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6492,
-    "updated_at": "2026-08-29T15:37:45Z",
+    "updated_at": "2026-08-29T15:43:24Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T14:28:29Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "My Claude Skills",
-    "id": "Srltas/claude-skills",
-    "language": "Shell",
-    "name": "Srltas/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:27:32Z",
-    "url": "https://github.com/Srltas/claude-skills"
-  },
-  {
-    "description": "Trim the fat from your Claude Code context window. Automate SKILL.md token optimization and compression by 40%+ while pr",
-    "id": "marianif/ozempskills",
-    "language": "JavaScript",
-    "name": "marianif/ozempskills",
-    "stars": 1,
-    "updated_at": "2026-08-29T14:24:18Z",
-    "url": "https://github.com/marianif/ozempskills"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:22:58Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "A collection of skills for AI agents (Kiro, Cursor, Windsurf, Claude Code, and others). Each skill is a reusable module ",
-    "id": "fabricioctelles/skills",
-    "language": "Python",
-    "name": "fabricioctelles/skills",
-    "stars": 58,
-    "updated_at": "2026-08-29T14:22:48Z",
-    "url": "https://github.com/fabricioctelles/skills"
-  },
-  {
-    "description": "The AMM founding-circle home base: 36 Claude skills (AEO/SEO + agentic engineering + security), the agentic ladder, play",
-    "id": "search-atlas-group/amm-founding-circle",
-    "language": "Python",
-    "name": "search-atlas-group/amm-founding-circle",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:22:38Z",
-    "url": "https://github.com/search-atlas-group/amm-founding-circle"
-  },
-  {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 146,
-    "updated_at": "2026-08-29T14:21:58Z",
-    "url": "https://github.com/crabbuild/compass"
   }
 ]
