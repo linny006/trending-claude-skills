@@ -1,12 +1,93 @@
 [
   {
+    "description": "Agent skill for Claude Code and Codex that strips the AI fingerprints from a website without restyling it. Five tiers of",
+    "id": "Juuzoe/stop-design-slop",
+    "language": "\u2014",
+    "name": "Juuzoe/stop-design-slop",
+    "stars": 1,
+    "updated_at": "2026-08-29T18:51:32Z",
+    "url": "https://github.com/Juuzoe/stop-design-slop"
+  },
+  {
+    "description": "Norml WordPress Copilot - REST API content and administration from Claude Desktop / Cowork or a CLI runtime.",
+    "id": "normlstudio/norml-wordpress-copilot",
+    "language": "PowerShell",
+    "name": "normlstudio/norml-wordpress-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:50:34Z",
+    "url": "https://github.com/normlstudio/norml-wordpress-copilot"
+  },
+  {
+    "description": "Norml WordPress Copilot Advanced - CLI-only theme development through GitHub, SSH, and WP-CLI.",
+    "id": "normlstudio/norml-wordpress-copilot-advanced",
+    "language": "Shell",
+    "name": "normlstudio/norml-wordpress-copilot-advanced",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:50:33Z",
+    "url": "https://github.com/normlstudio/norml-wordpress-copilot-advanced"
+  },
+  {
+    "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
+    "id": "anmolnagpal/devops-skills",
+    "language": "Shell",
+    "name": "anmolnagpal/devops-skills",
+    "stars": 8,
+    "updated_at": "2026-08-29T18:49:32Z",
+    "url": "https://github.com/anmolnagpal/devops-skills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 54,
+    "updated_at": "2026-08-29T18:49:21Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:48:44Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:47:05Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30646,
-    "updated_at": "2026-08-29T18:44:20Z",
+    "updated_at": "2026-08-29T18:45:52Z",
     "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
+    "id": "widnyana/eyay-toolkits",
+    "language": "Python",
+    "name": "widnyana/eyay-toolkits",
+    "stars": 6,
+    "updated_at": "2026-08-29T18:45:15Z",
+    "url": "https://github.com/widnyana/eyay-toolkits"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T18:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -85,7 +166,7 @@
     "id": "cbrock84/headcount",
     "language": "Markdown",
     "name": "cbrock84/headcount",
-    "stars": 13,
+    "stars": 15,
     "updated_at": "2026-08-29T18:32:52Z",
     "url": "https://github.com/cbrock84/headcount"
   },
@@ -108,15 +189,6 @@
     "url": "https://github.com/codeaashu/claude-code-info"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T18:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
     "id": "nitinjain999/platform-skills",
     "language": "Shell",
@@ -135,21 +207,12 @@
     "url": "https://github.com/yerdaulet-damir/awesome-solo-ai"
   },
   {
-    "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
-    "id": "anmolnagpal/devops-skills",
-    "language": "Shell",
-    "name": "anmolnagpal/devops-skills",
-    "stars": 8,
-    "updated_at": "2026-08-29T18:25:47Z",
-    "url": "https://github.com/anmolnagpal/devops-skills"
-  },
-  {
     "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
     "id": "petar-djukic/writing-skills",
     "language": "Python",
     "name": "petar-djukic/writing-skills",
     "stars": 3,
-    "updated_at": "2026-08-29T18:21:10Z",
+    "updated_at": "2026-08-29T18:47:23Z",
     "url": "https://github.com/petar-djukic/writing-skills"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T18:17:36Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
-    "id": "widnyana/eyay-toolkits",
-    "language": "Python",
-    "name": "widnyana/eyay-toolkits",
-    "stars": 6,
-    "updated_at": "2026-08-29T18:15:50Z",
-    "url": "https://github.com/widnyana/eyay-toolkits"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -275,7 +329,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-29T18:44:52Z",
+    "updated_at": "2026-08-29T18:49:28Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -284,7 +338,7 @@
     "language": "Shell",
     "name": "sixoverground/claude-phases",
     "stars": 2,
-    "updated_at": "2026-08-29T18:07:36Z",
+    "updated_at": "2026-08-29T18:47:13Z",
     "url": "https://github.com/sixoverground/claude-phases"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T17:52:57Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-29T17:49:47Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
-    "id": "the-nam-shub/e5-real-skills",
-    "language": "TypeScript",
-    "name": "the-nam-shub/e5-real-skills",
-    "stars": 8,
-    "updated_at": "2026-08-29T17:47:19Z",
-    "url": "https://github.com/the-nam-shub/e5-real-skills"
-  },
-  {
-    "description": "A risk-aware trading copilot skill for Claude, built on Binance Agent OS MCP",
-    "id": "acevod/trading-guardian-binance-agent-os",
-    "language": "\u2014",
-    "name": "acevod/trading-guardian-binance-agent-os",
-    "stars": 0,
-    "updated_at": "2026-08-29T17:44:58Z",
-    "url": "https://github.com/acevod/trading-guardian-binance-agent-os"
-  },
-  {
-    "description": "",
-    "id": "HoussemDjeghri/self-review",
-    "language": "JavaScript",
-    "name": "HoussemDjeghri/self-review",
-    "stars": 1,
-    "updated_at": "2026-08-29T17:44:32Z",
-    "url": "https://github.com/HoussemDjeghri/self-review"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 29,
-    "updated_at": "2026-08-29T17:36:12Z",
-    "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-29T17:36:09Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   }
 ]
