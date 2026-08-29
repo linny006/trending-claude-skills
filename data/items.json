@@ -1,5 +1,95 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-29T16:29:58Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Drive a phased implementation plan from a Claude Code session, including from your phone. Plan in markdown, one PR per p",
+    "id": "sixoverground/claude-phases",
+    "language": "Shell",
+    "name": "sixoverground/claude-phases",
+    "stars": 2,
+    "updated_at": "2026-08-29T16:27:54Z",
+    "url": "https://github.com/sixoverground/claude-phases"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-29T16:28:57Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6493,
+    "updated_at": "2026-08-29T16:28:23Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Agentic writing toolkit built from Glenn Kramon's Winning Writing at Stanford GSB and Rachel Konrad's cold-outreach gues",
+    "id": "kalyvask/winning-writing",
+    "language": "JavaScript",
+    "name": "kalyvask/winning-writing",
+    "stars": 13,
+    "updated_at": "2026-08-29T16:24:32Z",
+    "url": "https://github.com/kalyvask/winning-writing"
+  },
+  {
+    "description": "Pass your project, not your context.",
+    "id": "kakadeka/Baton",
+    "language": "JavaScript",
+    "name": "kakadeka/Baton",
+    "stars": 4,
+    "updated_at": "2026-08-29T16:20:43Z",
+    "url": "https://github.com/kakadeka/Baton"
+  },
+  {
+    "description": "Content factory \u2014 PPT \u4ee3\u7801\u751f\u6210 \u2192 \u9010\u9875\u52a8\u6548 \u2192 Remotion \u6210\u7247\u7684\u521b\u4f5c\u6d41\u6c34\u7ebf / skills for decks, motion & video",
+    "id": "TimeCraker/vibe-studio",
+    "language": "Python",
+    "name": "TimeCraker/vibe-studio",
+    "stars": 0,
+    "updated_at": "2026-08-29T16:19:34Z",
+    "url": "https://github.com/TimeCraker/vibe-studio"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 2,
+    "updated_at": "2026-08-29T16:18:15Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "Mahad Usman's Landing Page for showcasing his technical skills,real world projects and valuable insights related to AI.A",
+    "id": "Mahad-Usman-15/my-landing-page",
+    "language": "TypeScript",
+    "name": "Mahad-Usman-15/my-landing-page",
+    "stars": 1,
+    "updated_at": "2026-08-29T16:16:31Z",
+    "url": "https://github.com/Mahad-Usman-15/my-landing-page"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T16:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "ai-codeops-harness \u662f\u4e00\u5957\u9762\u5411 AI Coding Agent \u7684\u667a\u80fd\u4f53\u4e2d\u7acb\u5de5\u7a0b\u6cbb\u7406\u4e0e\u6267\u884c\u6846\u67b6\uff0c\u4e3a\u771f\u5b9e\u8f6f\u4ef6\u9879\u76ee\u63d0\u4f9b\u9700\u6c42\u8def\u7531\u3001\u67b6\u6784\u51b3\u7b56\u3001\u6267\u884c\u8ba1\u5212\u3001\u8fde\u7eed\u5b9e\u65bd\u3001\u4eba\u5de5\u6388\u6743\u8fb9\u754c\u3001\u8fd0\u884c\u72b6\u6001\u3001\u68c0\u67e5\u70b9\u5bf9\u8d26\u4e0e\u8de8\u667a\u80fd\u4f53\u6062\u590d\u80fd\u529b\u3002",
     "id": "AlanHuang168/ai-codeops-harness",
     "language": "PowerShell",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-29T16:13:43Z",
+    "updated_at": "2026-08-29T16:30:03Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -72,15 +162,6 @@
     "url": "https://github.com/drtgryhf-svg/growth-compass"
   },
   {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6493,
-    "updated_at": "2026-08-29T16:06:14Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
     "description": "A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and de",
     "id": "Likenttt/garmin-connect-plugin-for-dsh",
     "language": "TypeScript",
@@ -97,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T16:04:04Z",
     "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-29T16:12:06Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T16:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u6587\u4ef6\u5939\u81ea\u6cbb\u7ba1\u7406 Skill\uff1aAgent \u751f\u6210\u7684\u5185\u5bb9\u6709\u7ed3\u6784\u3001\u53ef\u68c0\u7d22\u3001\u53ef\u590d\u7528\u3002\u751f\u6210 00_\u4f7f\u7528\u89c4\u5219.md \u58f0\u660e\u5b9e\u73b0\u6301\u7eed\u6cbb\u7406\uff0c\u6216\u4e00\u6b21\u6027\u6709\u903b\u8f91\u5730\u68b3\u7406\u6587\u4ef6\u5939\u3002",
@@ -151,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T15:56:07Z",
     "url": "https://github.com/alexis-morain/verbatim-linkedin"
-  },
-  {
-    "description": "Mahad Usman's Landing Page for showcasing his technical skills,real world projects and valuable insights related to AI.A",
-    "id": "Mahad-Usman-15/my-landing-page",
-    "language": "TypeScript",
-    "name": "Mahad-Usman-15/my-landing-page",
-    "stars": 1,
-    "updated_at": "2026-08-29T15:53:29Z",
-    "url": "https://github.com/Mahad-Usman-15/my-landing-page"
   },
   {
     "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
@@ -279,15 +333,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-08-29T16:03:38Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -304,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T15:24:57Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Pass your project, not your context.",
-    "id": "kakadeka/Baton",
-    "language": "JavaScript",
-    "name": "kakadeka/Baton",
-    "stars": 4,
-    "updated_at": "2026-08-29T15:23:51Z",
-    "url": "https://github.com/kakadeka/Baton"
   },
   {
     "description": "Collection of open-source AI agent skills (Claude Code / DSH compatible)",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T14:50:56Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-29T14:50:47Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-08-29T14:49:33Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "My agent skills",
-    "id": "chenwei791129/agent-skills",
-    "language": "Python",
-    "name": "chenwei791129/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:49:23Z",
-    "url": "https://github.com/chenwei791129/agent-skills"
-  },
-  {
-    "description": "\u4e2d\u6587\uff1a\u8ba9 AI \u50cf\u4eba\u4e00\u6837\u8bf4\u8bdd\u3001\u521b\u4f5c\u7684\u5b8c\u6574\u89c4\u5219\u96c6\u3002\u53bb\u9664 AI \u8154\u3001\u8bb2\u4e49\u8154\u3001\u534f\u4f5c\u75d5\u8ff9\u3002\u9002\u7528\u4e8e Claude\u3001ChatGPT \u53ca\u6240\u6709\u5bf9\u8bdd AI\u3002  EN\uff1aComplete ruleset to make AI talk and write lik",
-    "id": "chengzhi-c/natural-talk",
-    "language": "Python",
-    "name": "chengzhi-c/natural-talk",
-    "stars": 28,
-    "updated_at": "2026-08-29T14:49:48Z",
-    "url": "https://github.com/chengzhi-c/natural-talk"
   }
 ]
