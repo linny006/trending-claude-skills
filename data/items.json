@@ -1,21 +1,12 @@
 [
   {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 390,
-    "updated_at": "2026-08-29T11:28:40Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-29T11:29:32Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+    "description": "Agent-native CLI for fetching Bilibili video comments (UP\u4e3b self-analysis). Zero dependencies. Claude Code / Codex / Open",
+    "id": "Agents365-ai/bbc-skill",
+    "language": "Python",
+    "name": "Agents365-ai/bbc-skill",
+    "stars": 16,
+    "updated_at": "2026-08-29T11:44:56Z",
+    "url": "https://github.com/Agents365-ai/bbc-skill"
   },
   {
     "description": "Department-ready Claude Skills for engineering, IT, data, HR, finance, legal, marketing, sales, product and operations. ",
@@ -23,8 +14,116 @@
     "language": "Python",
     "name": "alihusains/enterprise-skills",
     "stars": 0,
-    "updated_at": "2026-08-29T11:25:39Z",
+    "updated_at": "2026-08-29T11:44:45Z",
     "url": "https://github.com/alihusains/enterprise-skills"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-29T11:44:34Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Claude Code / Codex CLI skills I actually run in a PM work week \u2014 metric attribution, PRD review panel, cross-model GO/N",
+    "id": "aaronartistzhang-afk/DailyWork",
+    "language": "JavaScript",
+    "name": "aaronartistzhang-afk/DailyWork",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:44:23Z",
+    "url": "https://github.com/aaronartistzhang-afk/DailyWork"
+  },
+  {
+    "description": "The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not say.",
+    "id": "alexis-morain/verbatim-linkedin",
+    "language": "Python",
+    "name": "alexis-morain/verbatim-linkedin",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:43:54Z",
+    "url": "https://github.com/alexis-morain/verbatim-linkedin"
+  },
+  {
+    "description": "Your friendly neighborhood QA developer.",
+    "id": "EmanueleMinotto/minottobot",
+    "language": "Python",
+    "name": "EmanueleMinotto/minottobot",
+    "stars": 4,
+    "updated_at": "2026-08-29T11:42:45Z",
+    "url": "https://github.com/EmanueleMinotto/minottobot"
+  },
+  {
+    "description": "Claude Code plugin marketplace: 8 engineering skills (wagner-skills) + a 14-skill reverse-engineering pipeline that turn",
+    "id": "wagneripjr/skills",
+    "language": "JavaScript",
+    "name": "wagneripjr/skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:42:29Z",
+    "url": "https://github.com/wagneripjr/skills"
+  },
+  {
+    "description": "This AI Skill supports development using the Next2D Framework and Next2D Player. It assists with code generation followi",
+    "id": "Next2D/next2d-development-assistant",
+    "language": "\u2014",
+    "name": "Next2D/next2d-development-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:40:57Z",
+    "url": "https://github.com/Next2D/next2d-development-assistant"
+  },
+  {
+    "description": "",
+    "id": "andresnator/agents-orchestrator",
+    "language": "Shell",
+    "name": "andresnator/agents-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:41:00Z",
+    "url": "https://github.com/andresnator/agents-orchestrator"
+  },
+  {
+    "description": "Persian (Farsi) technical writing rules for AI agents \u2014 controlled language adapted from ASD-STE100. Claude Skill + Curs",
+    "id": "onlymaj/simplified-technical-persian",
+    "language": "\u2014",
+    "name": "onlymaj/simplified-technical-persian",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:40:41Z",
+    "url": "https://github.com/onlymaj/simplified-technical-persian"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6483,
+    "updated_at": "2026-08-29T11:33:15Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-29T11:32:58Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T11:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 390,
+    "updated_at": "2026-08-29T11:28:40Z",
+    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Verified Agent Skills registry for Codex and Claude Code: curated installs, provenance, license checks, reproducible evi",
@@ -54,15 +153,6 @@
     "url": "https://github.com/vilas-gannaram/basemark"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T11:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "akashtalole.github.io",
     "id": "akashtalole/akashtalole.github.io",
     "language": "Shell",
@@ -76,7 +166,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33152,
+    "stars": 33153,
     "updated_at": "2026-08-29T11:11:43Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -171,24 +261,6 @@
     "url": "https://github.com/chenwei791129/agent-skills"
   },
   {
-    "description": "The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not say.",
-    "id": "alexis-morain/verbatim-linkedin",
-    "language": "Python",
-    "name": "alexis-morain/verbatim-linkedin",
-    "stars": 1,
-    "updated_at": "2026-08-29T10:52:04Z",
-    "url": "https://github.com/alexis-morain/verbatim-linkedin"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-08-29T11:23:00Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "DeepSeek Harness plugin for Garmin Connect \u2014 AI-powered fitness data access",
     "id": "Likenttt/garmin-connect-plugin-for-dsh",
     "language": "TypeScript",
@@ -252,21 +324,12 @@
     "url": "https://github.com/kakadeka/Baton"
   },
   {
-    "description": "",
-    "id": "andresnator/agents-orchestrator",
-    "language": "Shell",
-    "name": "andresnator/agents-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-29T11:20:14Z",
-    "url": "https://github.com/andresnator/agents-orchestrator"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68488,
-    "updated_at": "2026-08-29T11:25:30Z",
+    "updated_at": "2026-08-29T11:44:51Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-29T11:25:22Z",
+    "updated_at": "2026-08-29T11:44:13Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 1,
-    "updated_at": "2026-08-29T11:14:15Z",
+    "updated_at": "2026-08-29T11:42:13Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Security-testing methodology as portable, tool-agnostic agent skills for Claude Code and any agent runtime: white-box bu",
-    "id": "UnboundCompute/security-agent-skills",
-    "language": "\u2014",
-    "name": "UnboundCompute/security-agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-29T10:10:53Z",
-    "url": "https://github.com/UnboundCompute/security-agent-skills"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-29T10:10:06Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
-    "id": "liustack/pptwise",
-    "language": "TypeScript",
-    "name": "liustack/pptwise",
-    "stars": 9,
-    "updated_at": "2026-08-29T10:06:24Z",
-    "url": "https://github.com/liustack/pptwise"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 92543,
-    "updated_at": "2026-08-29T10:04:53Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Claude Code skill for React Bits (reactbits.dev) \u2014 fetches real component source from the live registry instead of recal",
-    "id": "Philotheephilix/reactbits.dev-skill",
-    "language": "HTML",
-    "name": "Philotheephilix/reactbits.dev-skill",
-    "stars": 2,
-    "updated_at": "2026-08-29T10:04:37Z",
-    "url": "https://github.com/Philotheephilix/reactbits.dev-skill"
-  },
-  {
-    "description": "Lanes, tickets, and a human merge. Runner and telemetry are plugs.",
-    "id": "Kripu77/software-factory",
-    "language": "Shell",
-    "name": "Kripu77/software-factory",
-    "stars": 7,
-    "updated_at": "2026-08-29T09:57:51Z",
-    "url": "https://github.com/Kripu77/software-factory"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Shell",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 26412,
-    "updated_at": "2026-08-29T09:54:07Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
   }
 ]
