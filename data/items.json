@@ -1,5 +1,86 @@
 [
   {
+    "description": "A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor",
+    "id": "tsudo/skills",
+    "language": "\u2014",
+    "name": "tsudo/skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T22:28:29Z",
+    "url": "https://github.com/tsudo/skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-08-29T22:27:51Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-08-29T22:26:18Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-08-29T22:25:01Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 417,
+    "updated_at": "2026-08-29T22:29:38Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-29T22:23:02Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Assuro - The Claude Code-dedicated assurance (that's where the name comes from) fixation",
+    "id": "MHS44TR/assuro-claude-skill",
+    "language": "Python",
+    "name": "MHS44TR/assuro-claude-skill",
+    "stars": 0,
+    "updated_at": "2026-08-29T22:17:11Z",
+    "url": "https://github.com/MHS44TR/assuro-claude-skill"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-29T22:15:56Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T22:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A spec-driven harness for coding agents (and, humans)",
     "id": "nevenincs/vaultspec-core",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T22:10:06Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Assuro - The Claude Code-dedicated assurance (that's where the name comes from) fixation",
-    "id": "MHS44TR/assuro-claude-skill",
-    "language": "Python",
-    "name": "MHS44TR/assuro-claude-skill",
-    "stars": 0,
-    "updated_at": "2026-08-29T22:13:45Z",
-    "url": "https://github.com/MHS44TR/assuro-claude-skill"
   },
   {
     "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
@@ -151,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T22:00:21Z",
     "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T22:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 417,
-    "updated_at": "2026-08-29T22:12:53Z",
-    "url": "https://github.com/notque/vexjoy-agent"
   },
   {
     "description": "A free cross-platform editorial standard for AI writing.",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T21:52:49Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:52:37Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
-  },
-  {
-    "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
-    "id": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "language": "Shell",
-    "name": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "stars": 0,
-    "updated_at": "2026-08-29T21:52:03Z",
-    "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
-  },
-  {
-    "description": "Explore 72 AI-powered skills across 6 departments for AlterLab FC training, learning, and workflow support",
-    "id": "prone-dc302/AlterLab-FC-Skills",
-    "language": "JavaScript",
-    "name": "prone-dc302/AlterLab-FC-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T21:52:01Z",
-    "url": "https://github.com/prone-dc302/AlterLab-FC-Skills"
-  },
-  {
-    "description": "Install 154+ Claude Code skills for SEO, code review, marketing, and AI agent tasks with one command",
-    "id": "eastindian-wallpepper214/claude-skills",
-    "language": "\u2014",
-    "name": "eastindian-wallpepper214/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:51:46Z",
-    "url": "https://github.com/eastindian-wallpepper214/claude-skills"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-29T21:52:05Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Manage and extend Claude Code with plugins for social, browser, and Hive workflows.",
-    "id": "ninnettesudanese653/claude-plugins",
-    "language": "Shell",
-    "name": "ninnettesudanese653/claude-plugins",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:51:35Z",
-    "url": "https://github.com/ninnettesudanese653/claude-plugins"
   }
 ]
