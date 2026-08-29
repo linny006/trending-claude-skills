@@ -1,12 +1,93 @@
 [
   {
+    "description": "SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer.  An agent skill for building",
+    "id": "aleksandr-alhoff/seo-landing",
+    "language": "\u2014",
+    "name": "aleksandr-alhoff/seo-landing",
+    "stars": 38,
+    "updated_at": "2026-08-29T19:29:34Z",
+    "url": "https://github.com/aleksandr-alhoff/seo-landing"
+  },
+  {
+    "description": "Claude Code plugin: 9 skills for OATDA unified LLM API gateway - text, vision, image, video, audio (TTS/STT/translation)",
+    "id": "devcsde/oatda-skills",
+    "language": "TypeScript",
+    "name": "devcsde/oatda-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:28:39Z",
+    "url": "https://github.com/devcsde/oatda-skills"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30646,
+    "updated_at": "2026-08-29T19:27:07Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
+    "id": "nitinjain999/platform-skills",
+    "language": "Shell",
+    "name": "nitinjain999/platform-skills",
+    "stars": 40,
+    "updated_at": "2026-08-29T19:25:19Z",
+    "url": "https://github.com/nitinjain999/platform-skills"
+  },
+  {
     "description": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's",
     "id": "jaredrhod/ai-memory-vault",
     "language": "\u2014",
     "name": "jaredrhod/ai-memory-vault",
     "stars": 592,
-    "updated_at": "2026-08-29T19:13:02Z",
+    "updated_at": "2026-08-29T19:22:35Z",
     "url": "https://github.com/jaredrhod/ai-memory-vault"
+  },
+  {
+    "description": "Skills that started with problems I encountered.",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:19:39Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor",
+    "id": "tsudo/skills",
+    "language": "\u2014",
+    "name": "tsudo/skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:27:22Z",
+    "url": "https://github.com/tsudo/skills"
+  },
+  {
+    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
+    "id": "XiaoMaColtAI/math-modeling-skill",
+    "language": "Python",
+    "name": "XiaoMaColtAI/math-modeling-skill",
+    "stars": 952,
+    "updated_at": "2026-08-29T19:17:18Z",
+    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T19:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Let the bearded senior give you the onboarding. A Claude Code plugin: four prompts that map any unfamiliar codebase - in",
+    "id": "pedrovelasquez9/onbearding",
+    "language": "\u2014",
+    "name": "pedrovelasquez9/onbearding",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:14:08Z",
+    "url": "https://github.com/pedrovelasquez9/onbearding"
   },
   {
     "description": "Multi-tool DevOps skills for Claude Code, Cursor, and Codex \u2014 Terraform, Kubernetes, Docker, GitHub Actions, GitLab CI, ",
@@ -23,7 +104,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-29T19:12:02Z",
+    "updated_at": "2026-08-29T19:29:58Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -63,15 +144,6 @@
     "url": "https://github.com/psake/psake-llm-tools"
   },
   {
-    "description": "A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor",
-    "id": "tsudo/skills",
-    "language": "\u2014",
-    "name": "tsudo/skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:03:59Z",
-    "url": "https://github.com/tsudo/skills"
-  },
-  {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
     "id": "cody-hutson/pmo-platform",
     "language": "Shell",
@@ -81,15 +153,6 @@
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T19:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Build cinematic, scroll-animated marketing sites that look like they cost $50,000+. A Claude/Cowork skill: GSAP motion s",
     "id": "navinramharak-rgb/50k-website-builder",
     "language": "JavaScript",
@@ -97,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-08-29T18:59:21Z",
     "url": "https://github.com/navinramharak-rgb/50k-website-builder"
-  },
-  {
-    "description": "Claude Code plugin: 9 skills for OATDA unified LLM API gateway - text, vision, image, video, audio (TTS/STT/translation)",
-    "id": "devcsde/oatda-skills",
-    "language": "TypeScript",
-    "name": "devcsde/oatda-skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T18:54:07Z",
-    "url": "https://github.com/devcsde/oatda-skills"
   },
   {
     "description": "Personal skills collection for Claude",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T18:47:05Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30646,
-    "updated_at": "2026-08-29T19:00:15Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
@@ -247,7 +292,7 @@
     "id": "cbrock84/headcount",
     "language": "Markdown",
     "name": "cbrock84/headcount",
-    "stars": 23,
+    "stars": 35,
     "updated_at": "2026-08-29T18:32:52Z",
     "url": "https://github.com/cbrock84/headcount"
   },
@@ -268,15 +313,6 @@
     "stars": 33,
     "updated_at": "2026-08-29T18:30:57Z",
     "url": "https://github.com/codeaashu/claude-code-info"
-  },
-  {
-    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
-    "id": "nitinjain999/platform-skills",
-    "language": "Shell",
-    "name": "nitinjain999/platform-skills",
-    "stars": 40,
-    "updated_at": "2026-08-29T19:12:10Z",
-    "url": "https://github.com/nitinjain999/platform-skills"
   },
   {
     "description": "Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders \u2014 the ",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T18:47:13Z",
     "url": "https://github.com/sixoverground/claude-phases"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-29T18:05:36Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:04:23Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-29T18:04:18Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:02:19Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   }
 ]
