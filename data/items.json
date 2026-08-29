@@ -1,30 +1,93 @@
 [
   {
+    "description": "akashtalole.github.io",
+    "id": "akashtalole/akashtalole.github.io",
+    "language": "Shell",
+    "name": "akashtalole/akashtalole.github.io",
+    "stars": 1,
+    "updated_at": "2026-08-29T04:43:15Z",
+    "url": "https://github.com/akashtalole/akashtalole.github.io"
+  },
+  {
+    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
+    "id": "galleonlabs/hypergrok-trading-desk",
+    "language": "Python",
+    "name": "galleonlabs/hypergrok-trading-desk",
+    "stars": 18,
+    "updated_at": "2026-08-29T04:41:03Z",
+    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
+  },
+  {
+    "description": "Self-evolving bioinformatics figure library skill: learn plots from papers/PDFs/WeChat articles/screenshots into reusabl",
+    "id": "Zessi-C/biofigure-self-evolve",
+    "language": "Python",
+    "name": "Zessi-C/biofigure-self-evolve",
+    "stars": 0,
+    "updated_at": "2026-08-29T04:40:00Z",
+    "url": "https://github.com/Zessi-C/biofigure-self-evolve"
+  },
+  {
+    "description": "Agent skill for Claude Code and Codex that strips the AI fingerprints from a website without restyling it. Five tiers of",
+    "id": "Juuzoe/stop-design-slop",
+    "language": "\u2014",
+    "name": "Juuzoe/stop-design-slop",
+    "stars": 0,
+    "updated_at": "2026-08-29T04:38:51Z",
+    "url": "https://github.com/Juuzoe/stop-design-slop"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-08-29T04:34:57Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
+    "description": "\u81b3\u5f85\u5bb6 Umami\uff1a\u4f4f\u8fdb AI \u7f16\u7a0b\u52a9\u624b\u7684\u5065\u5eb7\u7ba1\u5bb6\u2014\u2014\u8bf4\u53e5\u300c\u4e2d\u5348\u5403\u4e86\u725b\u8089\u9762\u300d\u5c31\u8bb0\u4e0b\uff0c\u8bf4\u53e5\u300c\u51b0\u7bb1\u6709\u9e21\u86cb\u897f\u7ea2\u67ff\u300d\u5c31\u51fa\u83dc\u8c31\uff1b\u6570\u636e\u5168\u5728\u672c\u5730 SQLite\uff0c\u514d\u6ce8\u518c\u4e0d\u4e0a\u4f20\u3002\u4e3a\u4e45\u5750\u7684\u7a0b\u5e8f\u5458\u800c\u751f\u3002",
+    "id": "renchenxuan/Umami-Skill-for-Health",
+    "language": "Python",
+    "name": "renchenxuan/Umami-Skill-for-Health",
+    "stars": 1,
+    "updated_at": "2026-08-29T04:33:35Z",
+    "url": "https://github.com/renchenxuan/Umami-Skill-for-Health"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68490,
+    "updated_at": "2026-08-29T04:33:08Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "",
+    "id": "IvMisticos/misticos.Claude",
+    "language": "Python",
+    "name": "IvMisticos/misticos.Claude",
+    "stars": 3,
+    "updated_at": "2026-08-29T04:31:02Z",
+    "url": "https://github.com/IvMisticos/misticos.Claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T04:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 101,
-    "updated_at": "2026-08-29T04:29:51Z",
+    "updated_at": "2026-08-29T04:44:34Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Agent skill for Claude Code and Codex that removes the \"AI made this\" look from websites. 284 researched slop tells with",
-    "id": "Juuzoe/stop-design-slop",
-    "language": "\u2014",
-    "name": "Juuzoe/stop-design-slop",
-    "stars": 0,
-    "updated_at": "2026-08-29T04:28:25Z",
-    "url": "https://github.com/Juuzoe/stop-design-slop"
-  },
-  {
-    "description": "\u81b3\u5f85\u5bb6 Umami \u5065\u5eb7\u7ba1\u5bb6\u7684 Agent Skill \u7248\uff1a\u51b0\u7bb1/\u83dc\u8c31/\u996e\u98df/\u8bad\u7ec3/\u8eab\u4f53/\u76ee\u6807/\u4e60\u60ef\uff0c\u6570\u636e\u5b58\u672c\u5730 SQLite",
-    "id": "renchenxuan/Umami-Skill-for-Health",
-    "language": "Python",
-    "name": "renchenxuan/Umami-Skill-for-Health",
-    "stars": 1,
-    "updated_at": "2026-08-29T04:27:28Z",
-    "url": "https://github.com/renchenxuan/Umami-Skill-for-Health"
   },
   {
     "description": "DeepSeek Harness \u4e13\u5c5e\u5de5\u7a0b\u6cbb\u7406\u63d2\u4ef6\uff5c\u539f\u521b\u4e09\u5c42\u95f8\u63a7\u4f53\u7cfb\u3001\u5e76\u884c\u5206\u8eab\u5bc4\u751f\u5de2\u3001\u53cc\u95f8\u68c0\u7d22\u524d\u7f6e\u300117\u6001\u6d41\u7a0b\u72b6\u6001\u673a\uff5cSource-Available \u6e90\u7801\u53ef\u89c1\uff0c\u7981\u6b62\u79c1\u81ea Fork \u5546\u7528",
@@ -41,7 +104,7 @@
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
     "stars": 92527,
-    "updated_at": "2026-08-29T04:29:24Z",
+    "updated_at": "2026-08-29T04:35:52Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T04:15:18Z",
     "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T04:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T02:58:03Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-08-29T02:57:05Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-08-29T02:54:44Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-08-29T02:53:38Z",
-    "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "Get it right the first prompt. A free Claude skill that rewrites your prompt into an optimized format, audits 35 credit-",
-    "id": "Jakeschincariol/promptmaster-skill",
-    "language": "\u2014",
-    "name": "Jakeschincariol/promptmaster-skill",
-    "stars": 0,
-    "updated_at": "2026-08-29T02:44:31Z",
-    "url": "https://github.com/Jakeschincariol/promptmaster-skill"
-  },
-  {
-    "description": "Agent skill: generate Mermaid diagrams (.mmd), validate syntax, export PNG/SVG/PDF via mmdc or Kroki API. 17+ diagram ty",
-    "id": "Agents365-ai/mermaid-skill",
-    "language": "Mermaid",
-    "name": "Agents365-ai/mermaid-skill",
-    "stars": 201,
-    "updated_at": "2026-08-29T02:43:53Z",
-    "url": "https://github.com/Agents365-ai/mermaid-skill"
-  },
-  {
-    "description": "Norml WordPress Copilot Advanced - CLI-only theme development through GitHub, SSH, and WP-CLI.",
-    "id": "normlstudio/norml-wp-developer",
-    "language": "Shell",
-    "name": "normlstudio/norml-wp-developer",
-    "stars": 0,
-    "updated_at": "2026-08-29T02:42:38Z",
-    "url": "https://github.com/normlstudio/norml-wp-developer"
   }
 ]
