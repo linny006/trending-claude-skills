@@ -1,12 +1,84 @@
 [
   {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-08-29T12:42:34Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-08-29T12:41:11Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
+  },
+  {
+    "description": "Security enforcement for AI coding agents. Catch and block insecure code.",
+    "id": "akashsebastian333/peephole",
+    "language": "Go",
+    "name": "akashsebastian333/peephole",
+    "stars": 5,
+    "updated_at": "2026-08-29T12:40:52Z",
+    "url": "https://github.com/akashsebastian333/peephole"
+  },
+  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-08-29T12:29:35Z",
+    "updated_at": "2026-08-29T12:43:11Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-08-29T12:39:25Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-08-29T12:36:59Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68491,
+    "updated_at": "2026-08-29T12:33:52Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Turn any PDF, EPUB, DOCX, or slide deck into an agent skill. A CLI + skill that reads whole books and docs, then writes ",
+    "id": "asale-ai/anything-to-skill",
+    "language": "Rust",
+    "name": "asale-ai/anything-to-skill",
+    "stars": 5,
+    "updated_at": "2026-08-29T12:33:46Z",
+    "url": "https://github.com/asale-ai/anything-to-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T12:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Five governed agent skills: reasoning-doctrine, governed-operator, ship-it-or-fix-it, grilling, and unslop. The agent th",
@@ -32,17 +104,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-29T12:28:07Z",
+    "updated_at": "2026-08-29T12:38:39Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-08-29T12:26:53Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "General Skills Development Pipeline - Claude Code & Codex",
@@ -104,17 +167,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-29T12:18:37Z",
+    "updated_at": "2026-08-29T12:34:27Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T12:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Mahad Usman's Landing Page for showcasing his technical skills,real world projects and valuable insights related to AI.A",
@@ -126,15 +180,6 @@
     "url": "https://github.com/Mahad-Usman-15/my-landing-page"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68489,
-    "updated_at": "2026-08-29T12:12:58Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Pass your project, not your context.",
     "id": "kakadeka/Baton",
     "language": "PowerShell",
@@ -142,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-08-29T12:09:41Z",
     "url": "https://github.com/kakadeka/Baton"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-08-29T12:16:48Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
     "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
@@ -283,7 +319,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6484,
+    "stars": 6485,
     "updated_at": "2026-08-29T11:33:15Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-29T10:56:04Z",
     "url": "https://github.com/Aident-AI/aident-skill"
-  },
-  {
-    "description": "My agent skills",
-    "id": "chenwei791129/agent-skills",
-    "language": "Python",
-    "name": "chenwei791129/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T10:52:17Z",
-    "url": "https://github.com/chenwei791129/agent-skills"
-  },
-  {
-    "description": "DeepSeek Harness plugin for Garmin Connect \u2014 AI-powered fitness data access",
-    "id": "Likenttt/garmin-connect-plugin-for-dsh",
-    "language": "TypeScript",
-    "name": "Likenttt/garmin-connect-plugin-for-dsh",
-    "stars": 10,
-    "updated_at": "2026-08-29T10:47:49Z",
-    "url": "https://github.com/Likenttt/garmin-connect-plugin-for-dsh"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 32,
-    "updated_at": "2026-08-29T10:46:21Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-29T10:40:30Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
