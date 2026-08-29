@@ -1,5 +1,68 @@
 [
   {
+    "description": "Mahad Usman's Landing Page for showcasing his technical skills,real world projects and valuable insights related to AI.A",
+    "id": "Mahad-Usman-15/my-landing-page",
+    "language": "TypeScript",
+    "name": "Mahad-Usman-15/my-landing-page",
+    "stars": 1,
+    "updated_at": "2026-08-29T12:13:02Z",
+    "url": "https://github.com/Mahad-Usman-15/my-landing-page"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68488,
+    "updated_at": "2026-08-29T12:12:58Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-29T12:13:02Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Pass your project, not your context.",
+    "id": "kakadeka/Baton",
+    "language": "PowerShell",
+    "name": "kakadeka/Baton",
+    "stars": 4,
+    "updated_at": "2026-08-29T12:09:41Z",
+    "url": "https://github.com/kakadeka/Baton"
+  },
+  {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-08-29T12:07:18Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-29T12:12:05Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-29T12:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
     "id": "galleonlabs/hypergrok-trading-desk",
     "language": "Python",
@@ -50,7 +113,7 @@
     "language": "JavaScript",
     "name": "suboss87/FDEOps",
     "stars": 220,
-    "updated_at": "2026-08-29T11:55:40Z",
+    "updated_at": "2026-08-29T12:04:45Z",
     "url": "https://github.com/suboss87/FDEOps"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/Agents365-ai/bbc-skill"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-29T12:00:04Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 415,
     "updated_at": "2026-08-29T11:52:38Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-29T11:45:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code / Codex CLI skills I actually run in a PM work week \u2014 metric attribution, PRD review panel, cross-model GO/N",
@@ -153,20 +198,11 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-08-29T11:57:37Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
     "id": "reticlehq/reticle",
     "language": "TypeScript",
     "name": "reticlehq/reticle",
-    "stars": 391,
+    "stars": 392,
     "updated_at": "2026-08-29T11:28:40Z",
     "url": "https://github.com/reticlehq/reticle"
   },
@@ -211,7 +247,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33155,
+    "stars": 33157,
     "updated_at": "2026-08-29T11:11:43Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "petar-djukic/writing-skills",
     "stars": 2,
-    "updated_at": "2026-08-29T11:29:17Z",
+    "updated_at": "2026-08-29T12:14:34Z",
     "url": "https://github.com/petar-djukic/writing-skills"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-29T11:59:59Z",
+    "updated_at": "2026-08-29T12:14:43Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -360,24 +396,6 @@
     "url": "https://github.com/davepoon/buildwithclaude"
   },
   {
-    "description": "Pass your project, not your context.",
-    "id": "kakadeka/Baton",
-    "language": "PowerShell",
-    "name": "kakadeka/Baton",
-    "stars": 4,
-    "updated_at": "2026-08-29T10:37:44Z",
-    "url": "https://github.com/kakadeka/Baton"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68488,
-    "updated_at": "2026-08-29T11:56:19Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "AI marketing team for B2B SaaS: 75 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, sponsor",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -392,7 +410,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-29T11:58:42Z",
+    "updated_at": "2026-08-29T12:09:40Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Shell",
     "name": "nitinjain999/platform-skills",
     "stars": 40,
-    "updated_at": "2026-08-29T11:53:29Z",
+    "updated_at": "2026-08-29T12:04:09Z",
     "url": "https://github.com/nitinjain999/platform-skills"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T10:29:02Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-08-29T10:24:17Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
-    "id": "Samuellalight8026/spam-filter-advisor-skill",
-    "language": "Python",
-    "name": "Samuellalight8026/spam-filter-advisor-skill",
-    "stars": 0,
-    "updated_at": "2026-08-29T10:22:00Z",
-    "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
   }
 ]
