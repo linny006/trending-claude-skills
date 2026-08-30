@@ -1,5 +1,104 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-30T09:00:09Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-30T08:58:10Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "CNS = Cell, Nature, Science. English-first scientific writing Agent Skill for SCI papers and review articles: manuscript",
+    "id": "niuyupeng/CNS-Skills",
+    "language": "Python",
+    "name": "niuyupeng/CNS-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-30T08:57:18Z",
+    "url": "https://github.com/niuyupeng/CNS-Skills"
+  },
+  {
+    "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
+    "id": "TryWorld2026/paper-algorithm",
+    "language": "Python",
+    "name": "TryWorld2026/paper-algorithm",
+    "stars": 19,
+    "updated_at": "2026-08-30T08:56:54Z",
+    "url": "https://github.com/TryWorld2026/paper-algorithm"
+  },
+  {
+    "description": "SocialDataX skills for Xiaohongshu, XHS, RedNote, and Douyin content research",
+    "id": "DevinChen2014/socialdatax-skills",
+    "language": "JavaScript",
+    "name": "DevinChen2014/socialdatax-skills",
+    "stars": 1,
+    "updated_at": "2026-08-30T08:56:46Z",
+    "url": "https://github.com/DevinChen2014/socialdatax-skills"
+  },
+  {
+    "description": "",
+    "id": "dimasrahmandaalfarizi/Awesome-AI-Tools",
+    "language": "TypeScript",
+    "name": "dimasrahmandaalfarizi/Awesome-AI-Tools",
+    "stars": 2,
+    "updated_at": "2026-08-30T08:53:58Z",
+    "url": "https://github.com/dimasrahmandaalfarizi/Awesome-AI-Tools"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-08-30T08:51:49Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 1,
+    "updated_at": "2026-08-30T08:46:19Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-08-30T08:46:07Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6511,
+    "updated_at": "2026-08-30T08:45:40Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T08:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -14,17 +113,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-30T08:41:28Z",
+    "updated_at": "2026-08-30T08:52:09Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-30T08:43:09Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -72,31 +162,13 @@
     "url": "https://github.com/adamlinscott/claude-skills"
   },
   {
-    "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
-    "id": "TryWorld2026/paper-algorithm",
-    "language": "Python",
-    "name": "TryWorld2026/paper-algorithm",
-    "stars": 19,
-    "updated_at": "2026-08-30T08:32:30Z",
-    "url": "https://github.com/TryWorld2026/paper-algorithm"
-  },
-  {
     "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
     "id": "OthmanAdi/planning-with-files",
     "language": "Shell",
     "name": "OthmanAdi/planning-with-files",
-    "stars": 26422,
+    "stars": 26423,
     "updated_at": "2026-08-30T08:30:23Z",
     "url": "https://github.com/OthmanAdi/planning-with-files"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T08:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skill\uff08SKILL.md\uff09\u4f53\u68c0\u5668\uff1a\u8bc4 description \u89e6\u53d1\u8d28\u91cf / \u7bc7\u5e45 / \u6e10\u8fdb\u62ab\u9732 / \u811a\u672c\u5916\u7f6e / \u53ef\u79fb\u690d\u6027 / \u5b89\u5168\uff08\u65e0\u786c\u7f16\u7801\u5bc6\u94a5\uff09\uff0c\u51fa\u8bc4\u5206\u5361 + \u4fee\u590d\u5efa\u8bae\u3002\u96f6\u4f9d\u8d56\uff0cclaude-md-doctor \u7684\u59ca\u59b9\u5de5",
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T08:25:04Z",
     "url": "https://github.com/huiyonghkw/hekouwang-claude-skill-doctor-skill"
-  },
-  {
-    "description": "SocialDataX skills for Xiaohongshu, XHS, RedNote, and Douyin content research",
-    "id": "DevinChen2014/socialdatax-skills",
-    "language": "JavaScript",
-    "name": "DevinChen2014/socialdatax-skills",
-    "stars": 1,
-    "updated_at": "2026-08-30T08:19:57Z",
-    "url": "https://github.com/DevinChen2014/socialdatax-skills"
   },
   {
     "description": "Self-evolving bioinformatics figure library skill: learn plots from papers/PDFs/WeChat articles/screenshots into reusabl",
@@ -187,15 +250,6 @@
     "stars": 5939,
     "updated_at": "2026-08-30T07:59:24Z",
     "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "CNS = Cell, Nature, Science. English-first scientific writing Agent Skill for SCI manuscript revision, paper polishing, ",
-    "id": "niuyupeng/CNS-Skills",
-    "language": "Python",
-    "name": "niuyupeng/CNS-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-30T07:58:27Z",
-    "url": "https://github.com/niuyupeng/CNS-Skills"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -394,59 +448,5 @@
     "stars": 330,
     "updated_at": "2026-08-30T07:01:26Z",
     "url": "https://github.com/LinklyAI/best-skills"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 1,
-    "updated_at": "2026-08-30T06:59:29Z",
-    "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "Your own ByteDance, powered by Codex skills.",
-    "id": "elan6666/your-bytedance-skills",
-    "language": "\u2014",
-    "name": "elan6666/your-bytedance-skills",
-    "stars": 1,
-    "updated_at": "2026-08-30T06:54:32Z",
-    "url": "https://github.com/elan6666/your-bytedance-skills"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-08-30T06:50:47Z",
-    "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-30T06:49:16Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-30T06:47:03Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-30T06:45:59Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   }
 ]
