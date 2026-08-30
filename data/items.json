@@ -1,11 +1,83 @@
 [
   {
+    "description": "Claude Code skill: delegate coding sub-tasks to DeepSeek Harness (dsh) via browser automation, with iron-clad review/mer",
+    "id": "naive000/dsh-outsource-skill",
+    "language": "\u2014",
+    "name": "naive000/dsh-outsource-skill",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:13:21Z",
+    "url": "https://github.com/naive000/dsh-outsource-skill"
+  },
+  {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "JavaScript",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 20,
+    "updated_at": "2026-08-30T09:11:19Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "Skill for Claude Code & Codex: describe your system architecture in text \u2192 get an editable PowerPoint diagram (native sh",
+    "id": "Andy1314Chen/architecture-drawer",
+    "language": "Python",
+    "name": "Andy1314Chen/architecture-drawer",
+    "stars": 36,
+    "updated_at": "2026-08-30T09:09:40Z",
+    "url": "https://github.com/Andy1314Chen/architecture-drawer"
+  },
+  {
+    "description": "",
+    "id": "dimasrahmandaalfarizi/Awesome-AI-Tools",
+    "language": "TypeScript",
+    "name": "dimasrahmandaalfarizi/Awesome-AI-Tools",
+    "stars": 2,
+    "updated_at": "2026-08-30T09:07:58Z",
+    "url": "https://github.com/dimasrahmandaalfarizi/Awesome-AI-Tools"
+  },
+  {
+    "description": "Your friendly neighborhood QA developer.",
+    "id": "EmanueleMinotto/minottobot",
+    "language": "Python",
+    "name": "EmanueleMinotto/minottobot",
+    "stars": 4,
+    "updated_at": "2026-08-30T09:06:26Z",
+    "url": "https://github.com/EmanueleMinotto/minottobot"
+  },
+  {
+    "description": "Thirteen general-purpose Salesforce admin & developer skills for Claude \u2014 Apex, Flow, SOQL/Data, LWC, Metadata, Permissi",
+    "id": "kugamon/salesforce-core-skills",
+    "language": "Python",
+    "name": "kugamon/salesforce-core-skills",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:05:12Z",
+    "url": "https://github.com/kugamon/salesforce-core-skills"
+  },
+  {
+    "description": "Pass your project, not your context.",
+    "id": "kakadeka/Baton",
+    "language": "JavaScript",
+    "name": "kakadeka/Baton",
+    "stars": 4,
+    "updated_at": "2026-08-30T09:04:15Z",
+    "url": "https://github.com/kakadeka/Baton"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T09:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-30T09:00:09Z",
+    "updated_at": "2026-08-30T09:13:57Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/DevinChen2014/socialdatax-skills"
   },
   {
-    "description": "",
-    "id": "dimasrahmandaalfarizi/Awesome-AI-Tools",
-    "language": "TypeScript",
-    "name": "dimasrahmandaalfarizi/Awesome-AI-Tools",
-    "stars": 2,
-    "updated_at": "2026-08-30T08:53:58Z",
-    "url": "https://github.com/dimasrahmandaalfarizi/Awesome-AI-Tools"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -90,15 +153,6 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T08:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -113,7 +167,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-30T08:52:09Z",
+    "updated_at": "2026-08-30T09:00:16Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -126,21 +180,12 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Thirteen general-purpose Salesforce admin & developer skills for Claude \u2014 Apex, Flow, SOQL/Data, LWC, Metadata, Permissi",
-    "id": "kugamon/salesforce-core-skills",
-    "language": "Python",
-    "name": "kugamon/salesforce-core-skills",
-    "stars": 0,
-    "updated_at": "2026-08-30T08:40:15Z",
-    "url": "https://github.com/kugamon/salesforce-core-skills"
-  },
-  {
     "description": "\ud83c\udf0a Everything your model doesn't do. Analyse, convert, visualize, evaluate \u2014 a single CLI for all CV data.",
     "id": "zjykzj/DataFlow-CV",
     "language": "Python",
     "name": "zjykzj/DataFlow-CV",
     "stars": 0,
-    "updated_at": "2026-08-30T08:39:37Z",
+    "updated_at": "2026-08-30T09:11:29Z",
     "url": "https://github.com/zjykzj/DataFlow-CV"
   },
   {
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "adamlinscott/claude-skills",
     "stars": 3,
-    "updated_at": "2026-08-30T08:33:05Z",
+    "updated_at": "2026-08-30T09:10:31Z",
     "url": "https://github.com/adamlinscott/claude-skills"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T08:17:10Z",
     "url": "https://github.com/guyaga/second-opinion"
-  },
-  {
-    "description": "Pass your project, not your context.",
-    "id": "kakadeka/Baton",
-    "language": "JavaScript",
-    "name": "kakadeka/Baton",
-    "stars": 4,
-    "updated_at": "2026-08-30T08:14:31Z",
-    "url": "https://github.com/kakadeka/Baton"
   },
   {
     "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
@@ -247,7 +283,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 5939,
+    "stars": 5940,
     "updated_at": "2026-08-30T07:59:24Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T07:08:33Z",
     "url": "https://github.com/williamcorrea23/sap-router-skill"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-08-30T08:40:08Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
-    "id": "andresanemic/lore-plugin",
-    "language": "JavaScript",
-    "name": "andresanemic/lore-plugin",
-    "stars": 6,
-    "updated_at": "2026-08-30T07:04:44Z",
-    "url": "https://github.com/andresanemic/lore-plugin"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-08-30T08:23:18Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
-    "id": "LinklyAI/best-skills",
-    "language": "\u2014",
-    "name": "LinklyAI/best-skills",
-    "stars": 330,
-    "updated_at": "2026-08-30T07:01:26Z",
-    "url": "https://github.com/LinklyAI/best-skills"
   }
 ]
