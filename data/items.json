@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udd4b A daily-practice dojo for Obsidian: log interview prep and job applications with one click, import your LeetCode solve",
+    "id": "aaaxy/PrepDojo",
+    "language": "Python",
+    "name": "aaaxy/PrepDojo",
+    "stars": 2,
+    "updated_at": "2026-08-30T22:14:14Z",
+    "url": "https://github.com/aaaxy/PrepDojo"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-08-30T22:07:53Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 669,
+    "updated_at": "2026-08-30T22:07:20Z",
+    "url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:06:17Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T22:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u0414\u043e\u043a\u0442\u0440\u0438\u043d\u0430 \u044d\u043a\u0441\u043f\u043b\u0443\u0430\u0442\u0430\u0446\u0438\u0438 Claude Code \u0432 \u0434\u043e\u043b\u0433\u043e\u0436\u0438\u0432\u0443\u0449\u0438\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445: \u0434\u0435\u043b\u0435\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435, \u0441\u0430\u043c\u043e\u0430\u0443\u0434\u0438\u0442, \u043f\u0435\u0442\u043b\u0438, \u0436\u0443\u0440\u043d\u0430\u043b\u044b \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 + 22 \u043f\u0435\u0440\u0435",
     "id": "VibeEngineering-LLC/agent-ops-doctrine",
     "language": "Python",
@@ -50,7 +95,7 @@
     "language": "HTML",
     "name": "aisenseapi/aisense-free-public-rest-apis",
     "stars": 0,
-    "updated_at": "2026-08-30T21:56:48Z",
+    "updated_at": "2026-08-30T22:00:57Z",
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T21:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-08-30T21:48:59Z",
+    "updated_at": "2026-08-30T22:15:00Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -229,7 +265,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 92654,
+    "stars": 92655,
     "updated_at": "2026-08-30T21:26:16Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -311,7 +347,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30650,
-    "updated_at": "2026-08-30T21:29:45Z",
+    "updated_at": "2026-08-30T22:11:04Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2058,
     "updated_at": "2026-08-30T20:46:28Z",
     "url": "https://github.com/maxritter/pilot-shell"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-08-30T21:18:42Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-30T20:40:34Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-08-30T20:39:39Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
-    "id": "Machai-Kydoimos/dependabot-audit",
-    "language": "Python",
-    "name": "Machai-Kydoimos/dependabot-audit",
-    "stars": 0,
-    "updated_at": "2026-08-30T20:39:36Z",
-    "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
   }
 ]
