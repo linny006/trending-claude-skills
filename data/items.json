@@ -1,12 +1,75 @@
 [
   {
-    "description": "An agent skill that maps which events, conferences and communities your competitors sponsor, at what commitment level, t",
-    "id": "aj-suresh/event-sponsorship-map",
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
+    "id": "Vladimir-Human/humanizer-ru",
     "language": "Python",
-    "name": "aj-suresh/event-sponsorship-map",
+    "name": "Vladimir-Human/humanizer-ru",
+    "stars": 118,
+    "updated_at": "2026-08-30T03:10:48Z",
+    "url": "https://github.com/Vladimir-Human/humanizer-ru"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 220,
+    "updated_at": "2026-08-30T03:10:10Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "A Claude skill that writes developer content in PostHog's house voice, with a style linter.",
+    "id": "zmjafary/posthog-voice-skill",
+    "language": "Python",
+    "name": "zmjafary/posthog-voice-skill",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:05:56Z",
+    "url": "https://github.com/zmjafary/posthog-voice-skill"
+  },
+  {
+    "description": "This AI Skill supports development using the Next2D Framework and Next2D Player. It assists with code generation followi",
+    "id": "Next2D/next2d-development-assistant",
+    "language": "\u2014",
+    "name": "Next2D/next2d-development-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:05:23Z",
+    "url": "https://github.com/Next2D/next2d-development-assistant"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 297,
+    "updated_at": "2026-08-30T03:03:54Z",
+    "url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-30T03:14:11Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T03:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "An agent skill that maps which events, conferences and communities your competitors sponsor, at what commitment level, t",
+    "id": "aj-suresh/competitor-event-map",
+    "language": "Python",
+    "name": "aj-suresh/competitor-event-map",
     "stars": 0,
     "updated_at": "2026-08-30T02:59:50Z",
-    "url": "https://github.com/aj-suresh/event-sponsorship-map"
+    "url": "https://github.com/aj-suresh/competitor-event-map"
   },
   {
     "description": "SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer.  An agent skill for building",
@@ -16,15 +79,6 @@
     "stars": 44,
     "updated_at": "2026-08-30T02:59:39Z",
     "url": "https://github.com/aleksandr-alhoff/seo-landing"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
-    "id": "Vladimir-Human/humanizer-ru",
-    "language": "Python",
-    "name": "Vladimir-Human/humanizer-ru",
-    "stars": 118,
-    "updated_at": "2026-08-30T02:59:35Z",
-    "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -41,17 +95,8 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6505,
-    "updated_at": "2026-08-30T02:55:02Z",
+    "updated_at": "2026-08-30T03:09:56Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-30T02:58:04Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "A spec-driven harness for coding agents (and, humans)",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 1,
-    "updated_at": "2026-08-30T02:52:18Z",
+    "updated_at": "2026-08-30T03:13:58Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T02:47:12Z",
     "url": "https://github.com/SamDozer/Exam-Forge"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T02:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u5bf9\u8bdd\u5f0f\u5b66\u4e60\u6559\u7ec3\u6280\u80fd\uff1a\u628a\u4e00\u9053\u9898\u80cc\u540e\u7684\u516c\u5f0f\u4ece\u672c\u8d28\u8bb2\u900f\uff0c\u5199\u6210\u53ef\u4ee5\u5728\u6d4f\u89c8\u5668\u91cc\u8bfb\u7684 HTML\uff0c\u6bcf\u4e2a\u7b49\u53f7\u5355\u72ec\u4e00\u884c\u5e76\u5199\u51fa\u8fd9\u4e00\u884c\u51ed\u4ec0\u4e48\u6210\u7acb\u3002",
@@ -306,15 +342,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 220,
-    "updated_at": "2026-08-30T01:40:20Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
     "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
     "id": "vbkotecha/agentservices-api",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-30T01:07:28Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-08-30T01:06:32Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-30T01:04:43Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Gated marketing pipeline skill for Claude Code: research-grounded copy with an anti-AI-slop review gate and a living tro",
-    "id": "laltaffer/claude-cmo-skill",
-    "language": "\u2014",
-    "name": "laltaffer/claude-cmo-skill",
-    "stars": 0,
-    "updated_at": "2026-08-30T01:01:27Z",
-    "url": "https://github.com/laltaffer/claude-cmo-skill"
   }
 ]
