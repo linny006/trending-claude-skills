@@ -1,12 +1,66 @@
 [
   {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "JavaScript",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 20,
+    "updated_at": "2026-08-30T21:28:04Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-30T21:26:46Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
     "description": "\ud83d\udc8b\uff5cClaude analyzes photos or chat screenshots and generates 4 flirting messages inspired by behavioral psychology, neuros",
     "id": "erikraft/flirting-skill",
     "language": "\u2014",
     "name": "erikraft/flirting-skill",
     "stars": 3,
-    "updated_at": "2026-08-30T21:14:59Z",
+    "updated_at": "2026-08-30T21:17:26Z",
     "url": "https://github.com/erikraft/flirting-skill"
+  },
+  {
+    "description": "\ud83d\udc0e Routes a product question to the method it deserves, then runs that method with checks.",
+    "id": "0trm/gallop",
+    "language": "HTML",
+    "name": "0trm/gallop",
+    "stars": 0,
+    "updated_at": "2026-08-30T21:17:13Z",
+    "url": "https://github.com/0trm/gallop"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T21:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-30T21:15:11Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-08-30T21:15:07Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -25,24 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T21:08:51Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T21:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-30T21:12:40Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "",
@@ -68,11 +104,11 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30650,
-    "updated_at": "2026-08-30T20:57:22Z",
+    "updated_at": "2026-08-30T21:29:45Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
-    "description": "Agent skills for Claude Code, Cursor and Codex \u2014 14 specialists with CI, 336 tests and 75 routing evals. Research, produ",
+    "description": "Production-grade agent skills for Claude Code, Cursor and Codex: evidence research, product ops, QA, release gates and d",
     "id": "MaciejZet/agent-skills",
     "language": "Python",
     "name": "MaciejZet/agent-skills",
@@ -176,7 +212,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-30T20:58:03Z",
+    "updated_at": "2026-08-30T21:18:42Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T20:40:34Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-08-30T21:15:07Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
     "description": "",
@@ -302,7 +329,7 @@
     "language": "Shell",
     "name": "mimukit/skills",
     "stars": 1,
-    "updated_at": "2026-08-30T20:19:05Z",
+    "updated_at": "2026-08-30T21:29:45Z",
     "url": "https://github.com/mimukit/skills"
   },
   {
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "shepaland/LexForge",
     "stars": 0,
-    "updated_at": "2026-08-30T21:07:51Z",
+    "updated_at": "2026-08-30T21:17:50Z",
     "url": "https://github.com/shepaland/LexForge"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:41:13Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
-    "id": "Samuellalight8026/spam-filter-advisor-skill",
-    "language": "Python",
-    "name": "Samuellalight8026/spam-filter-advisor-skill",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:40:51Z",
-    "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:40:29Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "\ud83d\udc0e Routes a product question to the method it deserves, then runs that method with checks.",
-    "id": "0trm/gallop",
-    "language": "HTML",
-    "name": "0trm/gallop",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:40:15Z",
-    "url": "https://github.com/0trm/gallop"
   }
 ]
