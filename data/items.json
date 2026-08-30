@@ -1,5 +1,59 @@
 [
   {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-30T03:44:38Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Claude Code skill for award-site motion pages \u2014 Three.js worlds, liquid-glass shaders, springy poster walls. Single-file",
+    "id": "jiangyurong609/motion-pages",
+    "language": "HTML",
+    "name": "jiangyurong609/motion-pages",
+    "stars": 2,
+    "updated_at": "2026-08-30T03:42:42Z",
+    "url": "https://github.com/jiangyurong609/motion-pages"
+  },
+  {
+    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
+    "id": "Dianel555/DSkills",
+    "language": "Python",
+    "name": "Dianel555/DSkills",
+    "stars": 65,
+    "updated_at": "2026-08-30T03:42:33Z",
+    "url": "https://github.com/Dianel555/DSkills"
+  },
+  {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-08-30T03:42:52Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6506,
+    "updated_at": "2026-08-30T03:35:29Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T03:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/Vladimir-Human/humanizer-ru"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-30T03:29:07Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "Claude Code skill for Fable 5 and Codex routing",
     "id": "nyldn/fable5-optimizer",
     "language": "Shell",
@@ -40,8 +85,8 @@
     "id": "cbrock84/headcount",
     "language": "Markdown",
     "name": "cbrock84/headcount",
-    "stars": 302,
-    "updated_at": "2026-08-30T03:16:33Z",
+    "stars": 305,
+    "updated_at": "2026-08-30T03:45:08Z",
     "url": "https://github.com/cbrock84/headcount"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 6,
     "updated_at": "2026-08-30T03:16:21Z",
     "url": "https://github.com/andresanemic/lore-plugin"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T03:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Forward deployed engineering skills for AI coding agents.",
@@ -103,7 +139,7 @@
     "id": "aleksandr-alhoff/seo-landing",
     "language": "\u2014",
     "name": "aleksandr-alhoff/seo-landing",
-    "stars": 44,
+    "stars": 45,
     "updated_at": "2026-08-30T02:59:39Z",
     "url": "https://github.com/aleksandr-alhoff/seo-landing"
   },
@@ -115,24 +151,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T02:55:56Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6505,
-    "updated_at": "2026-08-30T03:29:49Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-08-30T03:13:58Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
     "description": "Agent skill for Claude Code and Codex that strips the AI fingerprints from a website without restyling it. Five tiers of",
@@ -302,7 +320,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-30T03:29:24Z",
+    "updated_at": "2026-08-30T03:40:41Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-30T01:21:15Z",
     "url": "https://github.com/tonydzi/clawrush"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-30T01:20:10Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-30T01:17:04Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   }
 ]
