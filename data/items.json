@@ -1,5 +1,149 @@
 [
   {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 410,
+    "updated_at": "2026-08-30T15:29:15Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Power BI adapter for a platform-portable analytics delivery doctrine \u2014 45 Claude Code skills + CLI over TOM, TMDL, PBIR ",
+    "id": "santoshkanthety/powerbi-agent",
+    "language": "Python",
+    "name": "santoshkanthety/powerbi-agent",
+    "stars": 2,
+    "updated_at": "2026-08-30T15:27:46Z",
+    "url": "https://github.com/santoshkanthety/powerbi-agent"
+  },
+  {
+    "description": "Databricks adapter for a platform-portable analytics delivery doctrine \u2014 17 Claude Code skills + CLI over Unity Catalog,",
+    "id": "santoshkanthety/databricks-agent",
+    "language": "Python",
+    "name": "santoshkanthety/databricks-agent",
+    "stars": 1,
+    "updated_at": "2026-08-30T15:27:44Z",
+    "url": "https://github.com/santoshkanthety/databricks-agent"
+  },
+  {
+    "description": "Pulls the code that matters out of the mass \u2014 matched by meaning, not by name. An Agent Skill for Claude Code.",
+    "id": "choiHkk/lodestone",
+    "language": "Go",
+    "name": "choiHkk/lodestone",
+    "stars": 0,
+    "updated_at": "2026-08-30T15:27:42Z",
+    "url": "https://github.com/choiHkk/lodestone"
+  },
+  {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 12,
+    "updated_at": "2026-08-30T15:30:05Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
+    "id": "chris-peterson/beacon",
+    "language": "Python",
+    "name": "chris-peterson/beacon",
+    "stars": 1,
+    "updated_at": "2026-08-30T15:26:20Z",
+    "url": "https://github.com/chris-peterson/beacon"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 75 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, sponsor",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 7,
+    "updated_at": "2026-08-30T15:24:02Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-30T15:23:34Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Claude Code skills for Bria AI - generate, edit, and transform images with Fibo, RMBG-2.0, and VGL structured prompts",
+    "id": "Bria-AI/bria-skill",
+    "language": "Python",
+    "name": "Bria-AI/bria-skill",
+    "stars": 65,
+    "updated_at": "2026-08-30T15:23:21Z",
+    "url": "https://github.com/Bria-AI/bria-skill"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 6748,
+    "updated_at": "2026-08-30T15:22:22Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+    "description": "Data prep toolkit for finance & ops: extract, tidy, reconcile, analyse, visualise \u2014 powered by deterministic engines for",
+    "id": "moonlight-lupin/data-toolkit",
+    "language": "Python",
+    "name": "moonlight-lupin/data-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-30T15:22:56Z",
+    "url": "https://github.com/moonlight-lupin/data-toolkit"
+  },
+  {
+    "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
+    "id": "liustack/pptwise",
+    "language": "TypeScript",
+    "name": "liustack/pptwise",
+    "stars": 10,
+    "updated_at": "2026-08-30T15:16:41Z",
+    "url": "https://github.com/liustack/pptwise"
+  },
+  {
+    "description": "OSINT skills for your agents - search, investigate, verify.",
+    "id": "ibnaleem/osint-skills",
+    "language": "Shell",
+    "name": "ibnaleem/osint-skills",
+    "stars": 1,
+    "updated_at": "2026-08-30T15:16:03Z",
+    "url": "https://github.com/ibnaleem/osint-skills"
+  },
+  {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-30T15:15:37Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T15:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-08-30T15:14:34Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
     "id": "bokyostudio/pg-practice-knowledgebase",
     "language": "HTML",
@@ -45,24 +189,6 @@
     "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
   },
   {
-    "description": "OSINT skills for your agents - search, investigate, verify.",
-    "id": "ibnaleem/osint-skills",
-    "language": "Shell",
-    "name": "ibnaleem/osint-skills",
-    "stars": 1,
-    "updated_at": "2026-08-30T15:08:10Z",
-    "url": "https://github.com/ibnaleem/osint-skills"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-30T15:12:13Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "punkaze's Claude Code agent skills collection (plugin marketplace). Ships the bruno skill: author/generate/run Bruno .br",
     "id": "punkaze/skills",
     "language": "Shell",
@@ -77,7 +203,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-08-30T15:07:41Z",
+    "updated_at": "2026-08-30T15:25:28Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -126,15 +252,6 @@
     "url": "https://github.com/HsuanYuLee/polaris"
   },
   {
-    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
-    "id": "chris-peterson/beacon",
-    "language": "Python",
-    "name": "chris-peterson/beacon",
-    "stars": 1,
-    "updated_at": "2026-08-30T15:04:57Z",
-    "url": "https://github.com/chris-peterson/beacon"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
@@ -148,7 +265,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68519,
+    "stars": 68520,
     "updated_at": "2026-08-30T15:03:13Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -158,7 +275,7 @@
     "language": "Shell",
     "name": "devcsde/oatda-skills",
     "stars": 0,
-    "updated_at": "2026-08-30T15:02:33Z",
+    "updated_at": "2026-08-30T15:19:25Z",
     "url": "https://github.com/devcsde/oatda-skills"
   },
   {
@@ -187,15 +304,6 @@
     "stars": 19017,
     "updated_at": "2026-08-30T15:01:50Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T15:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Sega Master System game dev & porting (devkitSMS) \u2014 a Claude Skill: Turn an idea, or an existing game to port, into a **",
@@ -297,15 +405,6 @@
     "url": "https://github.com/chen3tu/interview-master-skill"
   },
   {
-    "description": "Claude Code skills for Bria AI - generate, edit, and transform images with Fibo, RMBG-2.0, and VGL structured prompts",
-    "id": "Bria-AI/bria-skill",
-    "language": "Python",
-    "name": "Bria-AI/bria-skill",
-    "stars": 65,
-    "updated_at": "2026-08-30T14:50:48Z",
-    "url": "https://github.com/Bria-AI/bria-skill"
-  },
-  {
     "description": "One persona, one frozen memory, N models: how much of an agent's character survives a model swap? Harness + blind multi-",
     "id": "tonydzi/persona-portability-benchmark",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-30T14:15:01Z",
     "url": "https://github.com/agents-inc/skills"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:12:13Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
-    "id": "isatimur/excalidraw-skill-pack",
-    "language": "TypeScript",
-    "name": "isatimur/excalidraw-skill-pack",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:11:10Z",
-    "url": "https://github.com/isatimur/excalidraw-skill-pack"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:10:17Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:10:12Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI skills for Claude & ChatGPT that create and evaluate viral, sticky content \u2014 built on STEPPS (Contagious) and SUCCESs",
-    "id": "trananhtung/viral-content-skills",
-    "language": "\u2014",
-    "name": "trananhtung/viral-content-skills",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:08:59Z",
-    "url": "https://github.com/trananhtung/viral-content-skills"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:07:19Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:04:59Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Agentic coding decision replay\uff1a\u8bb0\u5f55\u4e3a\u4ec0\u4e48\uff0c\u628a session signals \u9010\u5c42\u6536\u53e3\u6210\u53ef\u6838\u9a8c\u7684\u5468\u62a5\u3001\u6708\u62a5\u548c\u8def\u7ebf\u56fe\u3002",
-    "id": "KKenny0/Tracework",
-    "language": "Python",
-    "name": "KKenny0/Tracework",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:04:49Z",
-    "url": "https://github.com/KKenny0/Tracework"
-  },
-  {
-    "description": "Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framewo",
-    "id": "tonydzi/verbatim-citation-gate",
-    "language": "Python",
-    "name": "tonydzi/verbatim-citation-gate",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:04:14Z",
-    "url": "https://github.com/tonydzi/verbatim-citation-gate"
-  },
-  {
-    "description": "Claude Code as a second brain: all 101 skills, a working CRM engine, vault templates and the handover map. Method, not d",
-    "id": "tonydzi/second-brain-starter-kit",
-    "language": "Python",
-    "name": "tonydzi/second-brain-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:04:10Z",
-    "url": "https://github.com/tonydzi/second-brain-starter-kit"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:03:35Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   }
 ]
