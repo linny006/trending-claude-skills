@@ -5,8 +5,35 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-08-30T03:44:38Z",
+    "updated_at": "2026-08-30T03:57:46Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 313,
+    "updated_at": "2026-08-30T03:57:11Z",
+    "url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-08-30T03:54:44Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Engineering-readiness audits for AI-built apps. A Claude Code and Codex plugin that finds production risks across ten do",
+    "id": "gul-labs/craftsman-marketplace",
+    "language": "Python",
+    "name": "gul-labs/craftsman-marketplace",
+    "stars": 1,
+    "updated_at": "2026-08-30T03:55:43Z",
+    "url": "https://github.com/gul-labs/craftsman-marketplace"
   },
   {
     "description": "Claude Code skill for award-site motion pages \u2014 Three.js worlds, liquid-glass shaders, springy poster walls. Single-file",
@@ -14,8 +41,17 @@
     "language": "HTML",
     "name": "jiangyurong609/motion-pages",
     "stars": 2,
-    "updated_at": "2026-08-30T03:42:42Z",
+    "updated_at": "2026-08-30T03:47:56Z",
     "url": "https://github.com/jiangyurong609/motion-pages"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T03:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
@@ -45,15 +81,6 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T03:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T03:16:51Z",
     "url": "https://github.com/nyldn/fable5-optimizer"
-  },
-  {
-    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
-    "id": "cbrock84/headcount",
-    "language": "Markdown",
-    "name": "cbrock84/headcount",
-    "stars": 305,
-    "updated_at": "2026-08-30T03:45:08Z",
-    "url": "https://github.com/cbrock84/headcount"
   },
   {
     "description": "Local fine-tuning for your own work. A provider-neutral kit that turns project experience into reusable criteria for AI ",
@@ -151,6 +169,15 @@
     "stars": 3,
     "updated_at": "2026-08-30T02:55:56Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19005,
+    "updated_at": "2026-08-30T02:53:19Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Agent skill for Claude Code and Codex that strips the AI fingerprints from a website without restyling it. Five tiers of",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "MrBinnacle/skills",
     "stars": 0,
-    "updated_at": "2026-08-30T02:19:09Z",
+    "updated_at": "2026-08-30T03:55:48Z",
     "url": "https://github.com/MrBinnacle/skills"
   },
   {
@@ -320,17 +347,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-30T03:40:41Z",
+    "updated_at": "2026-08-30T03:56:13Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Engineering-readiness audits for AI-built apps. A Claude Code and Codex plugin that finds production risks across ten do",
-    "id": "gul-labs/craftsman-marketplace",
-    "language": "JavaScript",
-    "name": "gul-labs/craftsman-marketplace",
-    "stars": 1,
-    "updated_at": "2026-08-30T02:39:40Z",
-    "url": "https://github.com/gul-labs/craftsman-marketplace"
   },
   {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T01:29:24Z",
     "url": "https://github.com/TABARC-Code/prompt-clarity-engine"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30645,
-    "updated_at": "2026-08-30T01:46:57Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
-    "id": "tonydzi/clawrush",
-    "language": "Python",
-    "name": "tonydzi/clawrush",
-    "stars": 12,
-    "updated_at": "2026-08-30T01:21:15Z",
-    "url": "https://github.com/tonydzi/clawrush"
   }
 ]
