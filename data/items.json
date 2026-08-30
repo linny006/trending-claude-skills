@@ -1,5 +1,86 @@
 [
   {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-08-30T22:28:50Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-08-30T22:24:56Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:23:30Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 672,
+    "updated_at": "2026-08-30T22:18:41Z",
+    "url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "description": "Claude Code plugins by Houssem Djeghri.",
+    "id": "HoussemDjeghri/plugins",
+    "language": "\u2014",
+    "name": "HoussemDjeghri/plugins",
+    "stars": 2,
+    "updated_at": "2026-08-30T22:18:22Z",
+    "url": "https://github.com/HoussemDjeghri/plugins"
+  },
+  {
+    "description": "",
+    "id": "HoussemDjeghri/self-review",
+    "language": "JavaScript",
+    "name": "HoussemDjeghri/self-review",
+    "stars": 1,
+    "updated_at": "2026-08-30T22:18:07Z",
+    "url": "https://github.com/HoussemDjeghri/self-review"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-30T22:17:37Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T22:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-30T22:15:00Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
     "description": "\ud83e\udd4b A daily-practice dojo for Obsidian: log interview prep and job applications with one click, import your LeetCode solve",
     "id": "aaaxy/PrepDojo",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
-    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
-    "id": "cbrock84/headcount",
-    "language": "Markdown",
-    "name": "cbrock84/headcount",
-    "stars": 669,
-    "updated_at": "2026-08-30T22:07:20Z",
-    "url": "https://github.com/cbrock84/headcount"
-  },
-  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T22:06:17Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T22:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u0414\u043e\u043a\u0442\u0440\u0438\u043d\u0430 \u044d\u043a\u0441\u043f\u043b\u0443\u0430\u0442\u0430\u0446\u0438\u0438 Claude Code \u0432 \u0434\u043e\u043b\u0433\u043e\u0436\u0438\u0432\u0443\u0449\u0438\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445: \u0434\u0435\u043b\u0435\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435, \u0441\u0430\u043c\u043e\u0430\u0443\u0434\u0438\u0442, \u043f\u0435\u0442\u043b\u0438, \u0436\u0443\u0440\u043d\u0430\u043b\u044b \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 + 22 \u043f\u0435\u0440\u0435",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T21:56:59Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-30T21:56:54Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
   },
   {
     "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T21:44:57Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-30T22:15:00Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -265,7 +310,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 92655,
+    "stars": 92658,
     "updated_at": "2026-08-30T21:26:16Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -347,7 +392,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30650,
-    "updated_at": "2026-08-30T22:11:04Z",
+    "updated_at": "2026-08-30T22:16:34Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T20:52:43Z",
     "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
-    "description": "Lanes, tickets, and a human merge. Runner and telemetry are plugs.",
-    "id": "Kripu77/software-factory",
-    "language": "Shell",
-    "name": "Kripu77/software-factory",
-    "stars": 7,
-    "updated_at": "2026-08-30T20:52:17Z",
-    "url": "https://github.com/Kripu77/software-factory"
-  },
-  {
-    "description": "",
-    "id": "IvMisticos/misticos.Claude",
-    "language": "Python",
-    "name": "IvMisticos/misticos.Claude",
-    "stars": 3,
-    "updated_at": "2026-08-30T20:49:40Z",
-    "url": "https://github.com/IvMisticos/misticos.Claude"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 32,
-    "updated_at": "2026-08-30T20:47:40Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-08-30T20:47:40Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce",
-    "id": "maxritter/pilot-shell",
-    "language": "JavaScript",
-    "name": "maxritter/pilot-shell",
-    "stars": 2058,
-    "updated_at": "2026-08-30T20:46:28Z",
-    "url": "https://github.com/maxritter/pilot-shell"
   }
 ]
