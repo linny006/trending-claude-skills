@@ -1,5 +1,104 @@
 [
   {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-30T01:41:00Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-30T01:39:17Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Engineering-readiness audits for AI-built apps. A Claude Code and Codex plugin that finds production risks across ten do",
+    "id": "gul-labs/craftsman-marketplace",
+    "language": "JavaScript",
+    "name": "gul-labs/craftsman-marketplace",
+    "stars": 1,
+    "updated_at": "2026-08-30T01:39:08Z",
+    "url": "https://github.com/gul-labs/craftsman-marketplace"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 220,
+    "updated_at": "2026-08-30T01:40:20Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
+    "id": "vbkotecha/agentservices-api",
+    "language": "Python",
+    "name": "vbkotecha/agentservices-api",
+    "stars": 1,
+    "updated_at": "2026-08-30T01:37:45Z",
+    "url": "https://github.com/vbkotecha/agentservices-api"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:37:09Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "Shell",
+    "name": "chrislacey89/skills",
+    "stars": 3,
+    "updated_at": "2026-08-30T01:34:21Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "",
+    "id": "HoussemDjeghri/self-review",
+    "language": "JavaScript",
+    "name": "HoussemDjeghri/self-review",
+    "stars": 1,
+    "updated_at": "2026-08-30T01:31:00Z",
+    "url": "https://github.com/HoussemDjeghri/self-review"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T01:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A Claude skill that takes a rough, vague prompt and rebuilds it into something a language model can actually act on.",
+    "id": "TABARC-Code/prompt-clarity-engine",
+    "language": "\u2014",
+    "name": "TABARC-Code/prompt-clarity-engine",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:29:24Z",
+    "url": "https://github.com/TABARC-Code/prompt-clarity-engine"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30645,
+    "updated_at": "2026-08-30T01:29:15Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
     "id": "tonydzi/clawrush",
     "language": "Python",
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T01:17:04Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T01:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Native local & technical SEO audit toolkit for DeepSeek Harness (DSH) \u2014 self-contained port of claude-seo v2.2.5. Weight",
@@ -207,15 +297,6 @@
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
-    "description": "",
-    "id": "HoussemDjeghri/self-review",
-    "language": "JavaScript",
-    "name": "HoussemDjeghri/self-review",
-    "stars": 1,
-    "updated_at": "2026-08-30T00:42:40Z",
-    "url": "https://github.com/HoussemDjeghri/self-review"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
@@ -250,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T00:29:24Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Engineering-readiness audits for AI-built apps. A Claude Code and Codex plugin that finds production risks across ten do",
-    "id": "gul-labs/craftsman-marketplace",
-    "language": "JavaScript",
-    "name": "gul-labs/craftsman-marketplace",
-    "stars": 1,
-    "updated_at": "2026-08-30T01:24:50Z",
-    "url": "https://github.com/gul-labs/craftsman-marketplace"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T23:59:13Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-29T23:58:33Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-08-29T23:58:16Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor",
-    "id": "tsudo/skills",
-    "language": "\u2014",
-    "name": "tsudo/skills",
-    "stars": 0,
-    "updated_at": "2026-08-29T23:57:11Z",
-    "url": "https://github.com/tsudo/skills"
-  },
-  {
-    "description": "\"We can solve anything with the good ol' method of trial & error\" - Senku",
-    "id": "SentImperior666/TrialError",
-    "language": "Python",
-    "name": "SentImperior666/TrialError",
-    "stars": 0,
-    "updated_at": "2026-08-29T23:53:00Z",
-    "url": "https://github.com/SentImperior666/TrialError"
-  },
-  {
-    "description": "SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer.  An agent skill for building",
-    "id": "aleksandr-alhoff/seo-landing",
-    "language": "\u2014",
-    "name": "aleksandr-alhoff/seo-landing",
-    "stars": 42,
-    "updated_at": "2026-08-29T23:52:57Z",
-    "url": "https://github.com/aleksandr-alhoff/seo-landing"
-  },
-  {
-    "description": "CLI & library to faithfully translate coding agent customizations across harnesses",
-    "id": "Texarkanine/a16n",
-    "language": "TypeScript",
-    "name": "Texarkanine/a16n",
-    "stars": 0,
-    "updated_at": "2026-08-29T23:50:06Z",
-    "url": "https://github.com/Texarkanine/a16n"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-08-29T23:48:06Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Point it at any Grafana \u2192 full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act \u2014 generated, deployed, vis",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-08-29T23:46:20Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
   }
 ]
