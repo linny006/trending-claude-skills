@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:43:18Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:41:50Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:41:01Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Rivendell\u2019s publicly available toolkit for discovering, configuring, and backtesting trading strategies with historical ",
+    "id": "Rivendell-investment/edgepilot-research-claude",
+    "language": "Python",
+    "name": "Rivendell-investment/edgepilot-research-claude",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:40:44Z",
+    "url": "https://github.com/Rivendell-investment/edgepilot-research-claude"
+  },
+  {
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
+    "language": "Shell",
+    "name": "mimukit/skills",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:39:36Z",
+    "url": "https://github.com/mimukit/skills"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "HTML",
+    "name": "vanducng/skills",
+    "stars": 5,
+    "updated_at": "2026-08-30T16:34:42Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
+    "id": "andresanemic/lore-plugin",
+    "language": "JavaScript",
+    "name": "andresanemic/lore-plugin",
+    "stars": 6,
+    "updated_at": "2026-08-30T16:33:29Z",
+    "url": "https://github.com/andresanemic/lore-plugin"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T16:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -59,8 +131,17 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-08-30T16:23:18Z",
+    "updated_at": "2026-08-30T16:31:48Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "A hybrid library and agentic AI skill to help you connect with researchers at conferences. Built originally to attend #E",
+    "id": "scicrow/conference_connector",
+    "language": "Python",
+    "name": "scicrow/conference_connector",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:19:59Z",
+    "url": "https://github.com/scicrow/conference_connector"
   },
   {
     "description": "\ud83e\udd16 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills",
@@ -70,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-08-30T16:18:55Z",
     "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T16:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -108,15 +180,6 @@
     "url": "https://github.com/adamlinscott/claude-skills"
   },
   {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-08-30T16:25:09Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
     "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
     "id": "gtrabanco/agentic-workflow",
     "language": "JavaScript",
@@ -133,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-08-30T16:01:59Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
-    "id": "andresanemic/lore-plugin",
-    "language": "JavaScript",
-    "name": "andresanemic/lore-plugin",
-    "stars": 6,
-    "updated_at": "2026-08-30T15:56:29Z",
-    "url": "https://github.com/andresanemic/lore-plugin"
   },
   {
     "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top ",
@@ -225,24 +279,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 1,
-    "updated_at": "2026-08-30T15:31:39Z",
-    "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "HTML",
-    "name": "vanducng/skills",
-    "stars": 5,
-    "updated_at": "2026-08-30T16:23:40Z",
-    "url": "https://github.com/vanducng/skills"
-  },
-  {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
     "id": "tonydzi/clawrush",
     "language": "Python",
@@ -310,7 +346,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6755,
+    "stars": 6758,
     "updated_at": "2026-08-30T15:22:22Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -387,15 +423,6 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "Rivendell\u2019s publicly available toolkit for discovering, configuring, and backtesting trading strategies with historical ",
-    "id": "Rivendell-investment/edgepilot-research-claude",
-    "language": "Python",
-    "name": "Rivendell-investment/edgepilot-research-claude",
-    "stars": 0,
-    "updated_at": "2026-08-30T15:11:44Z",
-    "url": "https://github.com/Rivendell-investment/edgepilot-research-claude"
-  },
-  {
     "description": "A collection of mainly my own productivity plugins for Claude Code.",
     "id": "Marcel-Bich/marcel-bich-claude-marketplace",
     "language": "Shell",
@@ -421,32 +448,5 @@
     "stars": 109,
     "updated_at": "2026-08-30T15:40:21Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "bridge.ai/tack: Route tracker for AI-assisted development work \u2014 pivots, deliverables, and dependencies \u2014 across session",
-    "id": "chris-peterson/tack",
-    "language": "TypeScript",
-    "name": "chris-peterson/tack",
-    "stars": 0,
-    "updated_at": "2026-08-30T15:07:21Z",
-    "url": "https://github.com/chris-peterson/tack"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 416,
-    "updated_at": "2026-08-30T16:26:25Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "zenstory-ai/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6243,
-    "updated_at": "2026-08-30T15:05:40Z",
-    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   }
 ]
