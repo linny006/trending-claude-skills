@@ -1,12 +1,57 @@
 [
   {
-    "description": "Claude Code skill: delegate coding sub-tasks to DeepSeek Harness (dsh) via browser automation, with iron-clad review/mer",
-    "id": "naive000/dsh-outsource-skill",
-    "language": "\u2014",
-    "name": "naive000/dsh-outsource-skill",
+    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
+    "id": "Machai-Kydoimos/dependabot-audit",
+    "language": "Python",
+    "name": "Machai-Kydoimos/dependabot-audit",
     "stars": 0,
-    "updated_at": "2026-08-30T09:13:21Z",
-    "url": "https://github.com/naive000/dsh-outsource-skill"
+    "updated_at": "2026-08-30T09:29:58Z",
+    "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-08-30T09:29:02Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Evidence-first manuscript engineering for top journals and conferences\u2014claims, citations, figures, and final-file QA.",
+    "id": "niuyupeng/CNS-Skills",
+    "language": "Python",
+    "name": "niuyupeng/CNS-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:27:08Z",
+    "url": "https://github.com/niuyupeng/CNS-Skills"
+  },
+  {
+    "description": "A Claude Code skill for security architecture intelligence \u2014 analyzes codebases for security design flaws, threat modeli",
+    "id": "rahozosman/security-claude",
+    "language": "\u2014",
+    "name": "rahozosman/security-claude",
+    "stars": 1,
+    "updated_at": "2026-08-30T09:25:32Z",
+    "url": "https://github.com/rahozosman/security-claude"
+  },
+  {
+    "description": "Claude Code skill: get a second opinion from the OpenAI Codex CLI. Claude drafts, Codex challenges, they debate in one p",
+    "id": "guyaga/second-opinion",
+    "language": "\u2014",
+    "name": "guyaga/second-opinion",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:20:24Z",
+    "url": "https://github.com/guyaga/second-opinion"
+  },
+  {
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
+    "language": "Python",
+    "name": "Ovid/paad",
+    "stars": 105,
+    "updated_at": "2026-08-30T09:19:02Z",
+    "url": "https://github.com/Ovid/paad"
   },
   {
     "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
@@ -14,8 +59,26 @@
     "language": "JavaScript",
     "name": "gtrabanco/agentic-workflow",
     "stars": 20,
-    "updated_at": "2026-08-30T09:11:19Z",
+    "updated_at": "2026-08-30T09:28:11Z",
     "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T09:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code skill: delegate coding sub-tasks to DeepSeek Harness (dsh) via browser automation, with iron-clad review/mer",
+    "id": "naive000/dsh-outsource-skill",
+    "language": "\u2014",
+    "name": "naive000/dsh-outsource-skill",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:13:21Z",
+    "url": "https://github.com/naive000/dsh-outsource-skill"
   },
   {
     "description": "Skill for Claude Code & Codex: describe your system architecture in text \u2192 get an editable PowerPoint diagram (native sh",
@@ -63,24 +126,6 @@
     "url": "https://github.com/kakadeka/Baton"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T09:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-08-30T09:13:57Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
@@ -88,15 +133,6 @@
     "stars": 102,
     "updated_at": "2026-08-30T08:58:10Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "CNS = Cell, Nature, Science. English-first scientific writing Agent Skill for SCI papers and review articles: manuscript",
-    "id": "niuyupeng/CNS-Skills",
-    "language": "Python",
-    "name": "niuyupeng/CNS-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-30T08:57:18Z",
-    "url": "https://github.com/niuyupeng/CNS-Skills"
   },
   {
     "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
@@ -167,7 +203,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-30T09:00:16Z",
+    "updated_at": "2026-08-30T09:24:03Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -232,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T08:18:18Z",
     "url": "https://github.com/Zessi-C/biofigure-self-evolve"
-  },
-  {
-    "description": "Claude Code skill: get a second opinion from the OpenAI Codex CLI. Claude drafts, Codex challenges, they debate in one p",
-    "id": "guyaga/second-opinion",
-    "language": "\u2014",
-    "name": "guyaga/second-opinion",
-    "stars": 0,
-    "updated_at": "2026-08-30T08:17:10Z",
-    "url": "https://github.com/guyaga/second-opinion"
-  },
-  {
-    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
-    "id": "Machai-Kydoimos/dependabot-audit",
-    "language": "Python",
-    "name": "Machai-Kydoimos/dependabot-audit",
-    "stars": 0,
-    "updated_at": "2026-08-30T08:11:36Z",
-    "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
   },
   {
     "description": "",
@@ -364,7 +382,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68513,
+    "stars": 68514,
     "updated_at": "2026-08-30T07:25:33Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T07:15:36Z",
     "url": "https://github.com/dylnbaker15/Claude-Skills-For-Business-Intelligence"
-  },
-  {
-    "description": "Deterministic readiness checker for the MCP 2026-07-28 specification break - a graded web probe and an agent skill over ",
-    "id": "AlpayC/mcp-migration-check",
-    "language": "TypeScript",
-    "name": "AlpayC/mcp-migration-check",
-    "stars": 5,
-    "updated_at": "2026-08-30T07:23:22Z",
-    "url": "https://github.com/AlpayC/mcp-migration-check"
-  },
-  {
-    "description": "Skills SAP",
-    "id": "williamcorrea23/sap-router-skill",
-    "language": "Python",
-    "name": "williamcorrea23/sap-router-skill",
-    "stars": 0,
-    "updated_at": "2026-08-30T07:08:33Z",
-    "url": "https://github.com/williamcorrea23/sap-router-skill"
   }
 ]
