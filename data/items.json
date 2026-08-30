@@ -1,12 +1,66 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 415,
+    "updated_at": "2026-08-30T03:24:28Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
     "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u044b \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0435 \u0438 \u043d\u0435 \u0434\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0444\u0430",
     "id": "Vladimir-Human/humanizer-ru",
     "language": "Python",
     "name": "Vladimir-Human/humanizer-ru",
     "stars": 118,
-    "updated_at": "2026-08-30T03:10:48Z",
+    "updated_at": "2026-08-30T03:24:24Z",
     "url": "https://github.com/Vladimir-Human/humanizer-ru"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-08-30T03:29:07Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Claude Code skill for Fable 5 and Codex routing",
+    "id": "nyldn/fable5-optimizer",
+    "language": "Shell",
+    "name": "nyldn/fable5-optimizer",
+    "stars": 1,
+    "updated_at": "2026-08-30T03:16:51Z",
+    "url": "https://github.com/nyldn/fable5-optimizer"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 302,
+    "updated_at": "2026-08-30T03:16:33Z",
+    "url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "description": "Local fine-tuning for your own work. A provider-neutral kit that turns project experience into reusable criteria for AI ",
+    "id": "andresanemic/lore-plugin",
+    "language": "JavaScript",
+    "name": "andresanemic/lore-plugin",
+    "stars": 6,
+    "updated_at": "2026-08-30T03:16:21Z",
+    "url": "https://github.com/andresanemic/lore-plugin"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T03:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Forward deployed engineering skills for AI coding agents.",
@@ -34,33 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T03:05:23Z",
     "url": "https://github.com/Next2D/next2d-development-assistant"
-  },
-  {
-    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
-    "id": "cbrock84/headcount",
-    "language": "Markdown",
-    "name": "cbrock84/headcount",
-    "stars": 297,
-    "updated_at": "2026-08-30T03:03:54Z",
-    "url": "https://github.com/cbrock84/headcount"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-08-30T03:14:11Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T03:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "An agent skill that maps which events, conferences and communities your competitors sponsor, at what commitment level, t",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6505,
-    "updated_at": "2026-08-30T03:09:56Z",
+    "updated_at": "2026-08-30T03:29:49Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-30T02:05:58Z",
+    "updated_at": "2026-08-30T03:29:24Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T01:17:04Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Native local & technical SEO audit toolkit for DeepSeek Harness (DSH) \u2014 self-contained port of claude-seo v2.2.5. Weight",
-    "id": "Haniubub/seo-toolkit",
-    "language": "Python",
-    "name": "Haniubub/seo-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-30T01:13:54Z",
-    "url": "https://github.com/Haniubub/seo-toolkit"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-30T01:13:27Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-08-30T01:07:28Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   }
 ]
