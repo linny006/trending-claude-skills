@@ -1,5 +1,23 @@
 [
   {
+    "description": "Finds, scores, and ranks the best library, SDK, or tool for your exact stack \u2014 no Reddit threads, no outdated blogs. 5-t",
+    "id": "Magithar/SKILLmama",
+    "language": "TypeScript",
+    "name": "Magithar/SKILLmama",
+    "stars": 7,
+    "updated_at": "2026-08-30T20:01:32Z",
+    "url": "https://github.com/Magithar/SKILLmama"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T20:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
@@ -36,6 +54,15 @@
     "url": "https://github.com/Yuuqq/collection-skill"
   },
   {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 5,
+    "updated_at": "2026-08-30T20:02:15Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
     "description": "A spec-driven harness for coding agents (and, humans)",
     "id": "nevenincs/vaultspec-core",
     "language": "Python",
@@ -50,17 +77,8 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-08-30T19:52:56Z",
+    "updated_at": "2026-08-30T20:02:08Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Finds, scores, and ranks the best library, SDK, or tool for your exact stack \u2014 no Reddit threads, no outdated blogs. 5-t",
-    "id": "Magithar/SKILLmama",
-    "language": "TypeScript",
-    "name": "Magithar/SKILLmama",
-    "stars": 7,
-    "updated_at": "2026-08-30T19:52:54Z",
-    "url": "https://github.com/Magithar/SKILLmama"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -79,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:45:42Z",
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T19:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A small, growing collection of Claude Skills for real engineering workflows.",
-    "id": "alvincrespo/skills",
-    "language": "Python",
-    "name": "alvincrespo/skills",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:42:59Z",
-    "url": "https://github.com/alvincrespo/skills"
   },
   {
     "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",

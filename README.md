@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-30 20:00 UTC
+> ⏰ Last updated: 2026-08-30 20:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 109 | Kotlin | 2026-08-30 | Helping the Agents Compose the Things |
-| 2 | [shepaland/LexForge](https://github.com/shepaland/LexForge) | 0 | TypeScript | 2026-08-30 | Spec-driven pipeline for coding agents: nine skills and gates the agent cannot skip. OpenSpec artifacts + superpowers di |
-| 3 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-30 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 4 | [Yuuqq/collection-skill](https://github.com/Yuuqq/collection-skill) | 0 | Python | 2026-08-30 | Agent skill that discovers and catalogs 150+ scraping/collection tools on GitHub, then progressively recommends the righ |
-| 5 | [nevenincs/vaultspec-core](https://github.com/nevenincs/vaultspec-core) | 1 | Python | 2026-08-30 | A spec-driven harness for coding agents (and, humans) |
-| 6 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 102 | TypeScript | 2026-08-30 | MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration |
-| 7 | [Magithar/SKILLmama](https://github.com/Magithar/SKILLmama) | 7 | TypeScript | 2026-08-30 | Finds, scores, and ranks the best library, SDK, or tool for your exact stack — no Reddit threads, no outdated blogs. 5-t |
-| 8 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-30 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 9 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | HTML | 2026-08-30 | Free, public, no-auth REST APIs from AI SENSE AS — clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 34 | Python | 2026-08-30 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 11 | [alvincrespo/skills](https://github.com/alvincrespo/skills) | 0 | Python | 2026-08-30 | A small, growing collection of Claude Skills for real engineering workflows. |
+| 1 | [Magithar/SKILLmama](https://github.com/Magithar/SKILLmama) | 7 | TypeScript | 2026-08-30 | Finds, scores, and ranks the best library, SDK, or tool for your exact stack — no Reddit threads, no outdated blogs. 5-t |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 34 | Python | 2026-08-30 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 109 | Kotlin | 2026-08-30 | Helping the Agents Compose the Things |
+| 4 | [shepaland/LexForge](https://github.com/shepaland/LexForge) | 0 | TypeScript | 2026-08-30 | Spec-driven pipeline for coding agents: nine skills and gates the agent cannot skip. OpenSpec artifacts + superpowers di |
+| 5 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-08-30 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
+| 6 | [Yuuqq/collection-skill](https://github.com/Yuuqq/collection-skill) | 0 | Python | 2026-08-30 | Agent skill that discovers and catalogs 150+ scraping/collection tools on GitHub, then progressively recommends the righ |
+| 7 | [using-system/oddyssey](https://github.com/using-system/oddyssey) | 5 | Python | 2026-08-30 | CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta |
+| 8 | [nevenincs/vaultspec-core](https://github.com/nevenincs/vaultspec-core) | 1 | Python | 2026-08-30 | A spec-driven harness for coding agents (and, humans) |
+| 9 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 102 | TypeScript | 2026-08-30 | MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration |
+| 10 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-08-30 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 11 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | HTML | 2026-08-30 | Free, public, no-auth REST APIs from AI SENSE AS — clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl |
 | 12 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-08-30 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
 | 13 | [JBSag/pm-artisan](https://github.com/JBSag/pm-artisan) | 1 | HTML | 2026-08-30 | 15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly |
 | 14 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-08-30 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
