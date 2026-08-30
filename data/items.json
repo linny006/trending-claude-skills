@@ -1,19 +1,109 @@
 [
   {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-08-30T04:14:26Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-08-30T04:14:06Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Free Claude Code skill + the certified-BI doctrine from kymira.ai: business intelligence where every number reconciles t",
+    "id": "dylnbaker15/Claude-Skills-For-Business-Intelligence",
+    "language": "\u2014",
+    "name": "dylnbaker15/Claude-Skills-For-Business-Intelligence",
+    "stars": 1,
+    "updated_at": "2026-08-30T04:13:23Z",
+    "url": "https://github.com/dylnbaker15/Claude-Skills-For-Business-Intelligence"
+  },
+  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-08-30T03:57:46Z",
+    "updated_at": "2026-08-30T04:12:16Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "YouTube to Bilibili video repurposing with bilingual subtitles",
+    "id": "Agents365-ai/yt2bb",
+    "language": "Python",
+    "name": "Agents365-ai/yt2bb",
+    "stars": 50,
+    "updated_at": "2026-08-30T04:11:09Z",
+    "url": "https://github.com/Agents365-ai/yt2bb"
+  },
+  {
+    "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
+    "id": "vbkotecha/agentservices-api",
+    "language": "Python",
+    "name": "vbkotecha/agentservices-api",
+    "stars": 1,
+    "updated_at": "2026-08-30T04:09:24Z",
+    "url": "https://github.com/vbkotecha/agentservices-api"
+  },
+  {
+    "description": "Conduct multiple rounds of review and revision of the design and planning documents until all issues are resolved and cl",
+    "id": "MarkAsir/design-plan-skill",
+    "language": "\u2014",
+    "name": "MarkAsir/design-plan-skill",
+    "stars": 1,
+    "updated_at": "2026-08-30T04:09:04Z",
+    "url": "https://github.com/MarkAsir/design-plan-skill"
+  },
+  {
+    "description": "\u7ed9\u6bcf\u4e2a OpenClaw agent \u4e00\u4e2a\u300c\u5bb6\u300d\uff1a\u6807\u51c6\u76ee\u5f55\u7ed3\u6784 + WORKSPACE.md \u89c4\u8303 + \u591a agent \u914d\u7f6e\u5b89\u5168\u3002 OpenClaw workspace initialization & standardization \u2014 ",
+    "id": "dtsola/xiaoyaoclaw-workspace-initializer",
+    "language": "\u2014",
+    "name": "dtsola/xiaoyaoclaw-workspace-initializer",
+    "stars": 3,
+    "updated_at": "2026-08-30T04:07:54Z",
+    "url": "https://github.com/dtsola/xiaoyaoclaw-workspace-initializer"
+  },
+  {
+    "description": "AI agent skills, commands, design examples, and templates. Compatible with Claude Code and most agent harnesses.",
+    "id": "thefilesareinthecomputer/dotagents",
+    "language": "Python",
+    "name": "thefilesareinthecomputer/dotagents",
+    "stars": 0,
+    "updated_at": "2026-08-30T04:00:36Z",
+    "url": "https://github.com/thefilesareinthecomputer/dotagents"
+  },
+  {
+    "description": "My main list of vendor-agnostic agent skills and harness configs",
+    "id": "anton-winter-arch/dotagents",
+    "language": "Python",
+    "name": "anton-winter-arch/dotagents",
+    "stars": 1,
+    "updated_at": "2026-08-30T04:00:34Z",
+    "url": "https://github.com/anton-winter-arch/dotagents"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T04:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
     "id": "cbrock84/headcount",
     "language": "Markdown",
     "name": "cbrock84/headcount",
-    "stars": 313,
+    "stars": 318,
     "updated_at": "2026-08-30T03:57:11Z",
     "url": "https://github.com/cbrock84/headcount"
   },
@@ -45,15 +135,6 @@
     "url": "https://github.com/jiangyurong609/motion-pages"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T03:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
     "id": "Dianel555/DSkills",
     "language": "Python",
@@ -63,21 +144,12 @@
     "url": "https://github.com/Dianel555/DSkills"
   },
   {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-08-30T03:42:52Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6506,
-    "updated_at": "2026-08-30T03:35:29Z",
+    "stars": 6507,
+    "updated_at": "2026-08-30T04:07:10Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -122,7 +194,7 @@
     "language": "JavaScript",
     "name": "suboss87/FDEOps",
     "stars": 220,
-    "updated_at": "2026-08-30T03:10:10Z",
+    "updated_at": "2026-08-30T04:05:36Z",
     "url": "https://github.com/suboss87/FDEOps"
   },
   {
@@ -347,7 +419,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 22,
-    "updated_at": "2026-08-30T03:56:13Z",
+    "updated_at": "2026-08-30T04:11:50Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -355,7 +427,7 @@
     "id": "lenamonj/jeffy-loop",
     "language": "Shell",
     "name": "lenamonj/jeffy-loop",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-08-30T01:54:08Z",
     "url": "https://github.com/lenamonj/jeffy-loop"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T01:49:10Z",
     "url": "https://github.com/moihars/brand-voice-skill"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-30T01:46:01Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "\ud574\uc678\uc601\uc5c5 \ub2f4\ub2f9\uc790\ub97c \uc704\ud55c \ubb34\uc5ed \ud1b5\uacc4\u00b7\uc2dc\uc7a5 \uc6b0\uc120\uc21c\uc704 Claude \uc2a4\ud0ac. HS\ucf54\ub4dc\u00b7\uad6d\uac00\ubcc4 \uc218\ucd9c\uc785 \ud1b5\uacc4\uc640 \uc2e0\uaddc \uc2dc\uc7a5 \ubc1c\uad74. \uc778\uc99d\ud0a4 \ubd88\ud544\uc694.",
-    "id": "bonghyunyang/trade-skills",
-    "language": "Python",
-    "name": "bonghyunyang/trade-skills",
-    "stars": 0,
-    "updated_at": "2026-08-30T01:43:28Z",
-    "url": "https://github.com/bonghyunyang/trade-skills"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-30T01:39:17Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
-    "id": "vbkotecha/agentservices-api",
-    "language": "Python",
-    "name": "vbkotecha/agentservices-api",
-    "stars": 1,
-    "updated_at": "2026-08-30T01:37:45Z",
-    "url": "https://github.com/vbkotecha/agentservices-api"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-30T01:37:09Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
-    "id": "chrislacey89/skills",
-    "language": "Shell",
-    "name": "chrislacey89/skills",
-    "stars": 3,
-    "updated_at": "2026-08-30T01:34:21Z",
-    "url": "https://github.com/chrislacey89/skills"
-  },
-  {
-    "description": "",
-    "id": "HoussemDjeghri/self-review",
-    "language": "JavaScript",
-    "name": "HoussemDjeghri/self-review",
-    "stars": 1,
-    "updated_at": "2026-08-30T01:31:00Z",
-    "url": "https://github.com/HoussemDjeghri/self-review"
-  },
-  {
-    "description": "A Claude skill that takes a rough, vague prompt and rebuilds it into something a language model can actually act on.",
-    "id": "TABARC-Code/prompt-clarity-engine",
-    "language": "\u2014",
-    "name": "TABARC-Code/prompt-clarity-engine",
-    "stars": 0,
-    "updated_at": "2026-08-30T01:29:24Z",
-    "url": "https://github.com/TABARC-Code/prompt-clarity-engine"
   }
 ]
