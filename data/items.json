@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udd16 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills",
+    "id": "CitiesSkylinesModding/agents-plugins",
+    "language": "C#",
+    "name": "CitiesSkylinesModding/agents-plugins",
+    "stars": 5,
+    "updated_at": "2026-08-30T16:12:48Z",
+    "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-08-30T16:09:00Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Gives coding agents the real source of your dependencies, not a guess.",
+    "id": "kaisers-io/refs",
+    "language": "TypeScript",
+    "name": "kaisers-io/refs",
+    "stars": 7,
+    "updated_at": "2026-08-30T16:09:09Z",
+    "url": "https://github.com/kaisers-io/refs"
+  },
+  {
+    "description": "Open-source Claude Code skills that bring planning, building, and verification gates to agentic coding workflows.",
+    "id": "adamlinscott/claude-skills",
+    "language": "TypeScript",
+    "name": "adamlinscott/claude-skills",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:06:21Z",
+    "url": "https://github.com/adamlinscott/claude-skills"
+  },
+  {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:12:17Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "JavaScript",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 20,
+    "updated_at": "2026-08-30T16:02:03Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-30T16:01:59Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-30T16:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
     "id": "andresanemic/lore-plugin",
     "language": "JavaScript",
@@ -14,8 +86,17 @@
     "language": "TypeScript",
     "name": "INo-xious/stockbit-mcp",
     "stars": 12,
-    "updated_at": "2026-08-30T15:55:15Z",
+    "updated_at": "2026-08-30T16:06:36Z",
     "url": "https://github.com/INo-xious/stockbit-mcp"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6519,
+    "updated_at": "2026-08-30T15:54:46Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Pass your project, not your context.",
@@ -45,24 +126,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 20,
-    "updated_at": "2026-08-30T16:00:04Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-30T15:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A Claude Skill that turns a CV into a structured, verified, bilingual Excel research file of companies to target \u2014 real ",
     "id": "omar-abo-el-maaty/cv-job-market-research",
     "language": "\u2014",
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 410,
-    "updated_at": "2026-08-30T15:37:05Z",
+    "updated_at": "2026-08-30T16:05:38Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T15:36:43Z",
     "url": "https://github.com/niuyupeng/CNS-Skills"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-08-30T15:34:39Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
@@ -122,7 +176,7 @@
     "language": "HTML",
     "name": "vanducng/skills",
     "stars": 5,
-    "updated_at": "2026-08-30T15:58:43Z",
+    "updated_at": "2026-08-30T16:10:45Z",
     "url": "https://github.com/vanducng/skills"
   },
   {
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-08-30T15:23:34Z",
+    "updated_at": "2026-08-30T16:14:35Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -202,7 +256,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6751,
+    "stars": 6754,
     "updated_at": "2026-08-30T15:22:22Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -337,27 +391,9 @@
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6243,
+    "stars": 6242,
     "updated_at": "2026-08-30T15:05:40Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-30T15:05:24Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6518,
-    "updated_at": "2026-08-30T15:54:46Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T14:56:30Z",
     "url": "https://github.com/jaywavfeng/tiered-agent-orchestrator"
-  },
-  {
-    "description": "bridge.ai: Claude Code plugins for AI-assisted development",
-    "id": "chris-peterson/claude-marketplace",
-    "language": "Python",
-    "name": "chris-peterson/claude-marketplace",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:55:46Z",
-    "url": "https://github.com/chris-peterson/claude-marketplace"
-  },
-  {
-    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
-    "id": "yusufkaraaslan/Skill_Seekers",
-    "language": "Python",
-    "name": "yusufkaraaslan/Skill_Seekers",
-    "stars": 14861,
-    "updated_at": "2026-08-30T14:52:19Z",
-    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:51:18Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Content factory \u2014 PPT \u4ee3\u7801\u751f\u6210 \u2192 \u9010\u9875\u52a8\u6548 \u2192 Remotion \u6210\u7247\u7684\u521b\u4f5c\u6d41\u6c34\u7ebf / skills for decks, motion & video",
-    "id": "TimeCraker/vibe-studio",
-    "language": "TypeScript",
-    "name": "TimeCraker/vibe-studio",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:50:31Z",
-    "url": "https://github.com/TimeCraker/vibe-studio"
   }
 ]
