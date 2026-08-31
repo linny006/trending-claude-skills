@@ -1,5 +1,95 @@
 [
   {
+    "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
+    "id": "smartwatermelon/personify",
+    "language": "TypeScript",
+    "name": "smartwatermelon/personify",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:29:24Z",
+    "url": "https://github.com/smartwatermelon/personify"
+  },
+  {
+    "description": "Hire a 50-employee AI company in one command: 8 departments, one CEO, and reusable skills for Claude Code and other AI c",
+    "id": "alebgl77/claude-inc",
+    "language": "Shell",
+    "name": "alebgl77/claude-inc",
+    "stars": 12,
+    "updated_at": "2026-08-31T19:28:21Z",
+    "url": "https://github.com/alebgl77/claude-inc"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Go",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-08-31T19:27:26Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
+    "id": "WenyuChiou/ai-research-skills",
+    "language": "Python",
+    "name": "WenyuChiou/ai-research-skills",
+    "stars": 232,
+    "updated_at": "2026-08-31T19:27:21Z",
+    "url": "https://github.com/WenyuChiou/ai-research-skills"
+  },
+  {
+    "description": "Agent Skills for Kora Framework \u2014 compile-time framework for Java/Kotlin backend development.",
+    "id": "kora-projects/kora-skills",
+    "language": "Python",
+    "name": "kora-projects/kora-skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:27:02Z",
+    "url": "https://github.com/kora-projects/kora-skills"
+  },
+  {
+    "description": "Claude powered advisor system for option traders",
+    "id": "staskh/trading_skills",
+    "language": "Python",
+    "name": "staskh/trading_skills",
+    "stars": 350,
+    "updated_at": "2026-08-31T19:26:59Z",
+    "url": "https://github.com/staskh/trading_skills"
+  },
+  {
+    "description": "Banco de SKILLS de Empresas 5.0 - Programa de XPROF. 20 skills de Claude en espanol, organizadas en 6 areas de empresa, ",
+    "id": "Comunidad-XPROF/Banco-de-SKILLS-Empresas-5.0",
+    "language": "\u2014",
+    "name": "Comunidad-XPROF/Banco-de-SKILLS-Empresas-5.0",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:24:15Z",
+    "url": "https://github.com/Comunidad-XPROF/Banco-de-SKILLS-Empresas-5.0"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-08-31T19:28:41Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\u628a Claude Code / Codex \u53d8\u6210\u4f60\u7684\u6570\u5b57\u5458\u5de5 \u2014 \u4e0a\u73ed\u65cf AI \u63d0\u6548\u6280\u80fd\u5305\uff08\u4e2d\u6587\uff09\uff1a6\u6280\u80fd+\u9632\u62a4Hooks+\u5de5\u4f5c\u6d41SOP",
+    "id": "Hahaknight/digital-employee-pack",
+    "language": "\u2014",
+    "name": "Hahaknight/digital-employee-pack",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:17:35Z",
+    "url": "https://github.com/Hahaknight/digital-employee-pack"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-08-31T19:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Skills that started with problems I encountered.",
     "id": "MrBinnacle/skills",
     "language": "Python",
@@ -9,13 +99,13 @@
     "url": "https://github.com/MrBinnacle/skills"
   },
   {
-    "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
-    "id": "smartwatermelon/personify",
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
-    "name": "smartwatermelon/personify",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:12:54Z",
-    "url": "https://github.com/smartwatermelon/personify"
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68556,
+    "updated_at": "2026-08-31T19:29:19Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "A comprehensive SEO audit command-line tool with 108 audit rules across 12 categories. Analyze any website for SEO best ",
@@ -45,15 +135,6 @@
     "url": "https://github.com/inkatze/planwright"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Go",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 6,
-    "updated_at": "2026-08-31T19:15:08Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
     "description": "Verification skills for marketing and revenue operations. They run on an export you already have, they cross the boundar",
     "id": "m7mdwb/martech-verify",
     "language": "Python",
@@ -81,15 +162,6 @@
     "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-08-31T19:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code skills that tell you what you did not want to hear. grill-me interrogates work three levels deep; voice lear",
     "id": "Raz-Gits/claude-code-skills",
     "language": "Shell",
@@ -99,21 +171,12 @@
     "url": "https://github.com/Raz-Gits/claude-code-skills"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68554,
-    "updated_at": "2026-08-31T19:14:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
     "stars": 92759,
-    "updated_at": "2026-08-31T19:10:28Z",
+    "updated_at": "2026-08-31T19:22:14Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-31T18:44:24Z",
+    "updated_at": "2026-08-31T19:28:07Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -202,7 +265,7 @@
     "id": "galleonlabs/hypergrok-trading-desk",
     "language": "Python",
     "name": "galleonlabs/hypergrok-trading-desk",
-    "stars": 35,
+    "stars": 36,
     "updated_at": "2026-08-31T18:37:00Z",
     "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:08:29Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-31T17:54:03Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Thirty-two AI skills covering the whole of customer success work: reading an account, running the set-piece moments, han",
-    "id": "CSPulse/customer-success-skills",
-    "language": "Python",
-    "name": "CSPulse/customer-success-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:53:41Z",
-    "url": "https://github.com/CSPulse/customer-success-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-08-31T17:49:54Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "A skill to ensure Claude/ChatGPT/Codex/Copilot answers first, gives fewer options, and provides one clear next step. For",
-    "id": "zgbrenner/adhd-and-47-tabs",
-    "language": "Python",
-    "name": "zgbrenner/adhd-and-47-tabs",
-    "stars": 34,
-    "updated_at": "2026-08-31T17:49:46Z",
-    "url": "https://github.com/zgbrenner/adhd-and-47-tabs"
-  },
-  {
-    "description": "A self-evolving second brain for Product Managers \u2014 45 brain-aware PM commands, 8 auto-selected skills, and 7 sub-agent ",
-    "id": "brainAlly/pm-cortex",
-    "language": "Python",
-    "name": "brainAlly/pm-cortex",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:49:11Z",
-    "url": "https://github.com/brainAlly/pm-cortex"
-  },
-  {
-    "description": "A Claude Skill that diagnoses and authors agent prompts \u2014 five cheap tests before you rewrite a rule, plus the eval harn",
-    "id": "amylyra/agent-prompt-author",
-    "language": "Python",
-    "name": "amylyra/agent-prompt-author",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:00:04Z",
-    "url": "https://github.com/amylyra/agent-prompt-author"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-08-31T17:48:00Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
