@@ -1,5 +1,86 @@
 [
   {
+    "description": "",
+    "id": "HoussemDjeghri/self-review",
+    "language": "JavaScript",
+    "name": "HoussemDjeghri/self-review",
+    "stars": 1,
+    "updated_at": "2026-08-31T14:10:52Z",
+    "url": "https://github.com/HoussemDjeghri/self-review"
+  },
+  {
+    "description": "Vibe Map: Codebase Cartographer for Vibe Coders.",
+    "id": "muchandresh/Vibe-Map",
+    "language": "Python",
+    "name": "muchandresh/Vibe-Map",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:03:56Z",
+    "url": "https://github.com/muchandresh/Vibe-Map"
+  },
+  {
+    "description": "Claude / Codex / Cursor / Grok skill: names the next feature worth shipping. One BUILD, not a 12-item backlog of dark mo",
+    "id": "fortun8te/next-feature",
+    "language": "\u2014",
+    "name": "fortun8te/next-feature",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:03:19Z",
+    "url": "https://github.com/fortun8te/next-feature"
+  },
+  {
+    "description": "A small, verified, security-aware directory of Agent Skills (SKILL.md format).",
+    "id": "royalpinto007/awesome-agent-skills",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:02:06Z",
+    "url": "https://github.com/royalpinto007/awesome-agent-skills"
+  },
+  {
+    "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tool",
+    "id": "AIDevGTM/gtm-cofounder",
+    "language": "\u2014",
+    "name": "AIDevGTM/gtm-cofounder",
+    "stars": 260,
+    "updated_at": "2026-08-31T14:02:05Z",
+    "url": "https://github.com/AIDevGTM/gtm-cofounder"
+  },
+  {
+    "description": "15 battle-tested engineering skills for Claude Code \u2014 code review, testing, debugging, security, zero-downtime migration",
+    "id": "Hahaknight/claude-skills-pro",
+    "language": "\u2014",
+    "name": "Hahaknight/claude-skills-pro",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:01:06Z",
+    "url": "https://github.com/Hahaknight/claude-skills-pro"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-08-31T14:14:33Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-31T14:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
+    "id": "skills-agents-co/skills-and-agents-library",
+    "language": "Python",
+    "name": "skills-agents-co/skills-and-agents-library",
+    "stars": 1,
+    "updated_at": "2026-08-31T14:03:06Z",
+    "url": "https://github.com/skills-agents-co/skills-and-agents-library"
+  },
+  {
     "description": " Personal skills for Codex and Claude Code, invoked as superb:*. craft turns a vague product idea into a decision-rich b",
     "id": "kardebadas/claude-plugin",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/kardebadas/claude-plugin"
   },
   {
-    "description": "15 battle-tested engineering skills for Claude Code \u2014 code review, testing, debugging, security, zero-downtime migration",
-    "id": "Hahaknight/claude-skills-pro",
-    "language": "\u2014",
-    "name": "Hahaknight/claude-skills-pro",
-    "stars": 0,
-    "updated_at": "2026-08-31T13:57:29Z",
-    "url": "https://github.com/Hahaknight/claude-skills-pro"
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-08-31T13:55:51Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
@@ -36,6 +117,15 @@
     "url": "https://github.com/bluepagesdoteth/agent-plugins"
   },
   {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-08-31T14:12:43Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
     "description": "Evidence-driven interview preparation for any role, across ChatGPT and Claude.",
     "id": "amirbena/interview-journey",
     "language": "Shell",
@@ -50,7 +140,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-08-31T13:59:05Z",
+    "updated_at": "2026-08-31T14:14:24Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-31T13:50:19Z",
+    "updated_at": "2026-08-31T14:13:21Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -72,13 +162,13 @@
     "url": "https://github.com/OKHP3/skillz"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-31T13:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:48:05Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
   },
   {
     "description": "General Skills Development Pipeline - Claude Code & Codex",
@@ -113,7 +203,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68551,
-    "updated_at": "2026-08-31T13:58:30Z",
+    "updated_at": "2026-08-31T14:11:06Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -122,7 +212,7 @@
     "language": "HTML",
     "name": "Mohamed-El-Sharqawy/agent-tutor",
     "stars": 3,
-    "updated_at": "2026-08-31T13:59:04Z",
+    "updated_at": "2026-08-31T14:12:44Z",
     "url": "https://github.com/Mohamed-El-Sharqawy/agent-tutor"
   },
   {
@@ -149,7 +239,7 @@
     "language": "Python",
     "name": "danfeistar/house-skills-kit",
     "stars": 1,
-    "updated_at": "2026-08-31T13:50:37Z",
+    "updated_at": "2026-08-31T14:02:21Z",
     "url": "https://github.com/danfeistar/house-skills-kit"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-31T12:54:24Z",
     "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
-    "id": "TryWorld2026/paper-algorithm",
-    "language": "Python",
-    "name": "TryWorld2026/paper-algorithm",
-    "stars": 24,
-    "updated_at": "2026-08-31T12:54:02Z",
-    "url": "https://github.com/TryWorld2026/paper-algorithm"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-08-31T12:51:09Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Shell",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:47:28Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from",
-    "id": "ShadowAqueduct/watermark-remover",
-    "language": "Python",
-    "name": "ShadowAqueduct/watermark-remover",
-    "stars": 837,
-    "updated_at": "2026-08-31T12:46:58Z",
-    "url": "https://github.com/ShadowAqueduct/watermark-remover"
-  },
-  {
-    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
-    "id": "LinklyAI/best-skills",
-    "language": "\u2014",
-    "name": "LinklyAI/best-skills",
-    "stars": 342,
-    "updated_at": "2026-08-31T12:45:41Z",
-    "url": "https://github.com/LinklyAI/best-skills"
-  },
-  {
-    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
-    "id": "ArcticFox2029/chamnan",
-    "language": "Python",
-    "name": "ArcticFox2029/chamnan",
-    "stars": 4,
-    "updated_at": "2026-08-31T12:45:27Z",
-    "url": "https://github.com/ArcticFox2029/chamnan"
-  },
-  {
-    "description": "Offline authoring of OpenMAIC DSL courses in Claude Code \u2014 outline, scene generation, TTS voiceover, translation, editin",
-    "id": "weinaike/maic_skill",
-    "language": "JavaScript",
-    "name": "weinaike/maic_skill",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:44:49Z",
-    "url": "https://github.com/weinaike/maic_skill"
-  },
-  {
-    "description": "Verification skills for marketing and revenue operations. They run on an export you already have, they cross the boundar",
-    "id": "m7mdwb/martech-verify",
-    "language": "Python",
-    "name": "m7mdwb/martech-verify",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:41:50Z",
-    "url": "https://github.com/m7mdwb/martech-verify"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-31T12:36:46Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
-    "id": "Sylad/claude-code-codex",
-    "language": "Astro",
-    "name": "Sylad/claude-code-codex",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:36:29Z",
-    "url": "https://github.com/Sylad/claude-code-codex"
   }
 ]
