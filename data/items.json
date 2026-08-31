@@ -5,11 +5,101 @@
     "language": "Python",
     "name": "awrshift/agent-memory-kit",
     "stars": 31,
-    "updated_at": "2026-08-31T11:29:21Z",
+    "updated_at": "2026-08-31T11:43:09Z",
     "url": "https://github.com/awrshift/agent-memory-kit"
   },
   {
-    "description": "Lightweight coding agent that runs in your terminal",
+    "description": "Use strong models for decisions, economy models for execution, and repository-backed state for long-running engineering.",
+    "id": "jaywavfeng/tiered-agent-orchestrator",
+    "language": "Python",
+    "name": "jaywavfeng/tiered-agent-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-31T11:42:28Z",
+    "url": "https://github.com/jaywavfeng/tiered-agent-orchestrator"
+  },
+  {
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
+    "id": "OthmanAdi/planning-with-files",
+    "language": "Shell",
+    "name": "OthmanAdi/planning-with-files",
+    "stars": 26488,
+    "updated_at": "2026-08-31T11:39:23Z",
+    "url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
+    "description": " Free Gemini 3.7 Flash via Google Antigravity $20 sub for Claude Code & OpenCode - use Gemini 3.7, Claude Sonnet 4.6 in ",
+    "id": "1khvled/Gemini-in-OPENCODE",
+    "language": "Python",
+    "name": "1khvled/Gemini-in-OPENCODE",
+    "stars": 0,
+    "updated_at": "2026-08-31T11:43:01Z",
+    "url": "https://github.com/1khvled/Gemini-in-OPENCODE"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68547,
+    "updated_at": "2026-08-31T11:37:42Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-08-31T11:36:20Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "The agent-agnostic AI tutor skill that writes into your Obsidian vault \u2014 works with Claude Code, Codex, Cursor, Windsurf",
+    "id": "Mohamed-El-Sharqawy/agent-tutor",
+    "language": "TypeScript",
+    "name": "Mohamed-El-Sharqawy/agent-tutor",
+    "stars": 3,
+    "updated_at": "2026-08-31T11:40:30Z",
+    "url": "https://github.com/Mohamed-El-Sharqawy/agent-tutor"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-08-31T11:42:51Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Gives coding agents the real source of your dependencies, not a guess.",
+    "id": "kaisers-io/refs",
+    "language": "TypeScript",
+    "name": "kaisers-io/refs",
+    "stars": 7,
+    "updated_at": "2026-08-31T11:32:41Z",
+    "url": "https://github.com/kaisers-io/refs"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-31T11:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 5,
+    "updated_at": "2026-08-31T11:29:15Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "Lightweight terminal coding agent built in Rust for zero vendor lock-in. 7 MB",
     "id": "milisp/keke-agent",
     "language": "Rust",
     "name": "milisp/keke-agent",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "xr843/Master-skill",
     "stars": 380,
-    "updated_at": "2026-08-31T11:24:11Z",
+    "updated_at": "2026-08-31T11:43:31Z",
     "url": "https://github.com/xr843/Master-skill"
   },
   {
@@ -63,24 +153,6 @@
     "url": "https://github.com/mr-kelly/skills"
   },
   {
-    "description": " Free Gemini 3.7 Flash via Google Antigravity $20 sub for Claude Code & OpenCode - use Gemini 3.7, Claude Sonnet 4.6 in ",
-    "id": "1khvled/Gemini-in-OPENCODE",
-    "language": "Python",
-    "name": "1khvled/Gemini-in-OPENCODE",
-    "stars": 0,
-    "updated_at": "2026-08-31T11:19:06Z",
-    "url": "https://github.com/1khvled/Gemini-in-OPENCODE"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 5,
-    "updated_at": "2026-08-31T11:29:15Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
     "description": "Claude Code plugin marketplace: 8 engineering skills (wagner-skills) + a 14-skill reverse-engineering pipeline that turn",
     "id": "wagneripjr/skills",
     "language": "JavaScript",
@@ -99,31 +171,13 @@
     "url": "https://github.com/ohugonnot/claude-skills"
   },
   {
-    "description": "Gives coding agents the real source of your dependencies, not a guess.",
-    "id": "kaisers-io/refs",
-    "language": "TypeScript",
-    "name": "kaisers-io/refs",
-    "stars": 7,
-    "updated_at": "2026-08-31T11:27:25Z",
-    "url": "https://github.com/kaisers-io/refs"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6551,
+    "stars": 6552,
     "updated_at": "2026-08-31T11:16:03Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-31T11:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Native local & technical SEO audit toolkit for DeepSeek Harness (DSH) \u2014 self-contained port of claude-seo v2.2.5. Weight",
@@ -133,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T11:14:41Z",
     "url": "https://github.com/Haniubub/seo-toolkit"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68547,
-    "updated_at": "2026-08-31T11:25:08Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Evidence-first scientific manuscript revision and title optimization for Cell, Nature, Science, and leading conferences\u2014",
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T11:12:00Z",
     "url": "https://github.com/amirbena/interview-journey"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-08-31T11:28:41Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Verified Agent Skills registry for Codex and Claude Code: curated installs, provenance, license checks, reproducible evi",
@@ -324,15 +360,6 @@
     "url": "https://github.com/tonydzi/clawrush"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 6,
-    "updated_at": "2026-08-31T11:23:53Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-31T10:21:51Z",
     "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
-  },
-  {
-    "description": "Outcome-focused agent skills: verify documents, fact-check citations, find tenders, screen adverse media. Free tier, wor",
-    "id": "Sketchjar/stipple-agent-skills",
-    "language": "\u2014",
-    "name": "Sketchjar/stipple-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-31T10:18:47Z",
-    "url": "https://github.com/Sketchjar/stipple-agent-skills"
-  },
-  {
-    "description": "15 battle-tested engineering skills for Claude Code \u2014 code review, testing, debugging, security, zero-downtime migration",
-    "id": "Hahaknight/claude-skills-pro",
-    "language": "\u2014",
-    "name": "Hahaknight/claude-skills-pro",
-    "stars": 0,
-    "updated_at": "2026-08-31T10:14:10Z",
-    "url": "https://github.com/Hahaknight/claude-skills-pro"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 32,
-    "updated_at": "2026-08-31T10:13:22Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   }
 ]
