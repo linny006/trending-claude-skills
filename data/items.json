@@ -1,5 +1,86 @@
 [
   {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:43:26Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
+    "id": "chris-peterson/beacon",
+    "language": "Python",
+    "name": "chris-peterson/beacon",
+    "stars": 1,
+    "updated_at": "2026-08-31T23:43:07Z",
+    "url": "https://github.com/chris-peterson/beacon"
+  },
+  {
+    "description": "Lean output mode for Claude Code: minimal solution, action-first structure, zero-fat density. Fuses caveman, ponytail, a",
+    "id": "FlorianBruniaux/flow-lean",
+    "language": "Python",
+    "name": "FlorianBruniaux/flow-lean",
+    "stars": 12,
+    "updated_at": "2026-08-31T23:42:42Z",
+    "url": "https://github.com/FlorianBruniaux/flow-lean"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-08-31T23:42:07Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Claude Code plugins by Houssem Djeghri.",
+    "id": "HoussemDjeghri/plugins",
+    "language": "\u2014",
+    "name": "HoussemDjeghri/plugins",
+    "stars": 2,
+    "updated_at": "2026-08-31T23:41:26Z",
+    "url": "https://github.com/HoussemDjeghri/plugins"
+  },
+  {
+    "description": "Skill for Claude Code & Codex: describe your system architecture in text \u2192 get an editable PowerPoint diagram (native sh",
+    "id": "Andy1314Chen/architecture-drawer",
+    "language": "Python",
+    "name": "Andy1314Chen/architecture-drawer",
+    "stars": 36,
+    "updated_at": "2026-08-31T23:32:05Z",
+    "url": "https://github.com/Andy1314Chen/architecture-drawer"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 845,
+    "updated_at": "2026-08-31T23:32:00Z",
+    "url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-08-31T23:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 3,
+    "updated_at": "2026-08-31T23:34:25Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
     "description": "NestJS backend for a platform connecting installed doctors with replacement doctors in France, cutting administrative fr",
     "id": "lellis-medical-group/kineo-nest-backend",
     "language": "TypeScript",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T23:15:19Z",
     "url": "https://github.com/MosoFin/mosofin-finance-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-08-31T23:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
@@ -135,15 +207,6 @@
     "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
-    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
-    "id": "cbrock84/headcount",
-    "language": "Markdown",
-    "name": "cbrock84/headcount",
-    "stars": 844,
-    "updated_at": "2026-08-31T23:01:56Z",
-    "url": "https://github.com/cbrock84/headcount"
-  },
-  {
     "description": "Personal AI job-search assistant, built as a Claude Skills package on a single GitHub repo. Guided onboarding, persisten",
     "id": "FynePool/job-hunter-template",
     "language": "Python",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T23:01:07Z",
     "url": "https://github.com/chris-peterson/claude-marketplace"
-  },
-  {
-    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
-    "id": "chris-peterson/beacon",
-    "language": "Python",
-    "name": "chris-peterson/beacon",
-    "stars": 1,
-    "updated_at": "2026-08-31T23:00:44Z",
-    "url": "https://github.com/chris-peterson/beacon"
   },
   {
     "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
@@ -394,59 +448,5 @@
     "stars": 18,
     "updated_at": "2026-08-31T22:15:47Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 5,
-    "updated_at": "2026-08-31T22:10:43Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "A powerful plugin for Claude Cowork Desktop, designed specifically for Swiss legal professionals. 20 agents,  14 skills,",
-    "id": "fedec65/bettercallclaude",
-    "language": "JavaScript",
-    "name": "fedec65/bettercallclaude",
-    "stars": 38,
-    "updated_at": "2026-08-31T22:09:24Z",
-    "url": "https://github.com/fedec65/bettercallclaude"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-08-31T22:05:42Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19039,
-    "updated_at": "2026-08-31T22:05:14Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Austin Communication OS: evidence-backed voice router and privacy-safe context system. One thought process, different do",
-    "id": "ahump20/Austin-Writing---Communication-Style-Archive",
-    "language": "HTML",
-    "name": "ahump20/Austin-Writing---Communication-Style-Archive",
-    "stars": 2,
-    "updated_at": "2026-08-31T22:01:27Z",
-    "url": "https://github.com/ahump20/Austin-Writing---Communication-Style-Archive"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-08-31T22:33:33Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   }
 ]
