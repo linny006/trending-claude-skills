@@ -1,5 +1,77 @@
 [
   {
+    "description": "A comprehensive SEO audit command-line tool with 108 audit rules across 12 categories. Analyze any website for SEO best ",
+    "id": "seo-skills/seo-audit-skill",
+    "language": "TypeScript",
+    "name": "seo-skills/seo-audit-skill",
+    "stars": 405,
+    "updated_at": "2026-08-31T16:29:15Z",
+    "url": "https://github.com/seo-skills/seo-audit-skill"
+  },
+  {
+    "description": "Native local & technical SEO audit toolkit for DeepSeek Harness (DSH) \u2014 self-contained port of claude-seo v2.2.5. Weight",
+    "id": "Haniubub/seo-toolkit",
+    "language": "Python",
+    "name": "Haniubub/seo-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-31T16:27:06Z",
+    "url": "https://github.com/Haniubub/seo-toolkit"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30662,
+    "updated_at": "2026-08-31T16:23:15Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-08-31T16:28:37Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\ud83d\udcfc A declarative AI agent environment manager, written in Rust",
+    "id": "pivoshenko/kasetto",
+    "language": "Rust",
+    "name": "pivoshenko/kasetto",
+    "stars": 130,
+    "updated_at": "2026-08-31T16:22:52Z",
+    "url": "https://github.com/pivoshenko/kasetto"
+  },
+  {
+    "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
+    "id": "TryWorld2026/paper-algorithm",
+    "language": "Python",
+    "name": "TryWorld2026/paper-algorithm",
+    "stars": 24,
+    "updated_at": "2026-08-31T16:16:25Z",
+    "url": "https://github.com/TryWorld2026/paper-algorithm"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68549,
+    "updated_at": "2026-08-31T16:16:14Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-08-31T16:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Skills that started with problems I encountered.",
     "id": "MrBinnacle/skills",
     "language": "Python",
@@ -9,13 +81,40 @@
     "url": "https://github.com/MrBinnacle/skills"
   },
   {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Go",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-08-31T16:12:27Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
     "description": "Reusable agent skills for battle-tested engineering judgment. Works with Claude Code, Cursor, and 10+ AI tools...",
     "id": "sayeed1999/agent-skills",
     "language": "\u2014",
     "name": "sayeed1999/agent-skills",
-    "stars": 7,
+    "stars": 6,
     "updated_at": "2026-08-31T16:11:38Z",
     "url": "https://github.com/sayeed1999/agent-skills"
+  },
+  {
+    "description": "Agent skill for Spark Bitcoin L2 wallet capabilities including L402 for AI agents",
+    "id": "echennells/sparkbtcbot",
+    "language": "JavaScript",
+    "name": "echennells/sparkbtcbot",
+    "stars": 4,
+    "updated_at": "2026-08-31T16:11:18Z",
+    "url": "https://github.com/echennells/sparkbtcbot"
+  },
+  {
+    "description": "My custom skills for different agents",
+    "id": "lost-rob0t/skills",
+    "language": "Python",
+    "name": "lost-rob0t/skills",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:07:18Z",
+    "url": "https://github.com/lost-rob0t/skills"
   },
   {
     "description": "Turn a repository into a slide deck that tells you when it stops matching the code",
@@ -23,7 +122,7 @@
     "language": "HTML",
     "name": "glukicov/slideops",
     "stars": 13,
-    "updated_at": "2026-08-31T16:06:02Z",
+    "updated_at": "2026-08-31T16:20:18Z",
     "url": "https://github.com/glukicov/slideops"
   },
   {
@@ -72,24 +171,6 @@
     "url": "https://github.com/Mohamed-El-Sharqawy/agent-tutor"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-08-31T16:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-08-31T16:13:57Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Content factory \u2014 PPT \u4ee3\u7801\u751f\u6210 \u2192 \u9010\u9875\u52a8\u6548 \u2192 Remotion \u6210\u7247\u7684\u521b\u4f5c\u6d41\u6c34\u7ebf / skills for decks, motion & video",
     "id": "TimeCraker/vibe-studio",
     "language": "TypeScript",
@@ -104,7 +185,7 @@
     "language": "JavaScript",
     "name": "andresanemic/lore-plugin",
     "stars": 6,
-    "updated_at": "2026-08-31T16:14:22Z",
+    "updated_at": "2026-08-31T16:22:54Z",
     "url": "https://github.com/andresanemic/lore-plugin"
   },
   {
@@ -124,33 +205,6 @@
     "stars": 11,
     "updated_at": "2026-08-31T15:51:08Z",
     "url": "https://github.com/liustack/pptwise"
-  },
-  {
-    "description": "My custom skills for different agents",
-    "id": "lost-rob0t/skills",
-    "language": "Python",
-    "name": "lost-rob0t/skills",
-    "stars": 0,
-    "updated_at": "2026-08-31T16:07:18Z",
-    "url": "https://github.com/lost-rob0t/skills"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68549,
-    "updated_at": "2026-08-31T16:14:34Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Go",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 6,
-    "updated_at": "2026-08-31T16:12:27Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "Gated engineering pipeline skill for Claude Code: define, spec, build, review, QA, ship \u2014 with stops at every gate",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T15:31:15Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Agent skill for Spark Bitcoin L2 wallet capabilities including L402 for AI agents",
-    "id": "echennells/sparkbtcbot",
-    "language": "JavaScript",
-    "name": "echennells/sparkbtcbot",
-    "stars": 4,
-    "updated_at": "2026-08-31T16:11:18Z",
-    "url": "https://github.com/echennells/sparkbtcbot"
   },
   {
     "description": "Agent Skills by mr-kelly",
@@ -293,7 +338,7 @@
     "language": "Shell",
     "name": "polar-bear-org/claude-skills",
     "stars": 1,
-    "updated_at": "2026-08-31T15:18:17Z",
+    "updated_at": "2026-08-31T16:15:49Z",
     "url": "https://github.com/polar-bear-org/claude-skills"
   },
   {
@@ -396,57 +441,12 @@
     "url": "https://github.com/huangwb8/skills"
   },
   {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30662,
-    "updated_at": "2026-08-31T16:13:26Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
     "id": "WenyuChiou/ai-research-skills",
     "language": "Python",
     "name": "WenyuChiou/ai-research-skills",
     "stars": 232,
-    "updated_at": "2026-08-31T14:55:10Z",
+    "updated_at": "2026-08-31T16:16:40Z",
     "url": "https://github.com/WenyuChiou/ai-research-skills"
-  },
-  {
-    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
-    "id": "petar-djukic/writing-skills",
-    "language": "Python",
-    "name": "petar-djukic/writing-skills",
-    "stars": 3,
-    "updated_at": "2026-08-31T14:54:46Z",
-    "url": "https://github.com/petar-djukic/writing-skills"
-  },
-  {
-    "description": "AI Coding Toolkit (Prompts, Commands, Skills, and More)",
-    "id": "BerkaySevinc/agent-toolkit",
-    "language": "Batchfile",
-    "name": "BerkaySevinc/agent-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-31T14:54:15Z",
-    "url": "https://github.com/BerkaySevinc/agent-toolkit"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-31T14:52:59Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
-    "id": "galleonlabs/hypergrok-trading-desk",
-    "language": "Python",
-    "name": "galleonlabs/hypergrok-trading-desk",
-    "stars": 35,
-    "updated_at": "2026-08-31T14:51:50Z",
-    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
   }
 ]
