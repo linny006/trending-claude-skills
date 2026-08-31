@@ -1,21 +1,21 @@
 [
   {
-    "description": "Claude Code skill (portable to any AI harness) that reviews UI/UX work through Luke Wroblewski's published design princi",
-    "id": "nerdstalker/lukew-design-skill",
-    "language": "\u2014",
-    "name": "nerdstalker/lukew-design-skill",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:43:57Z",
-    "url": "https://github.com/nerdstalker/lukew-design-skill"
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-31T04:00:00Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
   },
   {
-    "description": "MIT\u300a\u8ba1\u7b97\u673a\u6559\u80b2\u4e2d\u7f3a\u5931\u7684\u4e00\u5b66\u671f\u300b2026 \u5168\u4e5d\u8bb2\u84b8\u998f\u6210\u7684 29 \u4e2a\u53ef\u590d\u7528 agent skills\uff0c\u4e00\u952e\u5b89\u88c5\u5230 Claude Code / dsh / OpenCode / Codex \u00b7 29 reusable agent skills",
-    "id": "AntheaLaffy/the-missing-semester-skills",
-    "language": "Shell",
-    "name": "AntheaLaffy/the-missing-semester-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T03:43:35Z",
-    "url": "https://github.com/AntheaLaffy/the-missing-semester-skills"
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-08-31T03:57:31Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
     "description": "Claude Code skill for award-site motion pages \u2014 Three.js worlds, liquid-glass shaders, springy poster walls. Single-file",
@@ -23,8 +23,80 @@
     "language": "JavaScript",
     "name": "jiangyurong609/motion-pages",
     "stars": 2,
-    "updated_at": "2026-08-31T03:41:53Z",
+    "updated_at": "2026-08-31T03:57:08Z",
     "url": "https://github.com/jiangyurong609/motion-pages"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-31T03:54:00Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+    "id": "redfox-data/redfox-community",
+    "language": "Python",
+    "name": "redfox-data/redfox-community",
+    "stars": 387,
+    "updated_at": "2026-08-31T03:51:50Z",
+    "url": "https://github.com/redfox-data/redfox-community"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 416,
+    "updated_at": "2026-08-31T03:50:13Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68528,
+    "updated_at": "2026-08-31T03:47:18Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "MIT\u300a\u8ba1\u7b97\u673a\u6559\u80b2\u4e2d\u7f3a\u5931\u7684\u4e00\u5b66\u671f\u300b2026 \u5168\u4e5d\u8bb2\u84b8\u998f\u6210\u7684 29 \u4e2a\u53ef\u590d\u7528 agent skills\uff0c\u4e00\u952e\u5b89\u88c5\u5230 Claude Code / dsh / OpenCode / Codex \u00b7 29 reusable agent skills",
+    "id": "AntheaLaffy/the-missing-semester-skills",
+    "language": "Shell",
+    "name": "AntheaLaffy/the-missing-semester-skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T03:46:43Z",
+    "url": "https://github.com/AntheaLaffy/the-missing-semester-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19024,
+    "updated_at": "2026-08-31T03:56:09Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-31T03:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code skill (portable to any AI harness) that reviews UI/UX work through Luke Wroblewski's published design princi",
+    "id": "nerdstalker/lukew-design-skill",
+    "language": "\u2014",
+    "name": "nerdstalker/lukew-design-skill",
+    "stars": 1,
+    "updated_at": "2026-08-31T03:43:57Z",
+    "url": "https://github.com/nerdstalker/lukew-design-skill"
   },
   {
     "description": "The AMM founding-circle home base: 36 Claude skills (AEO/SEO + agentic engineering + security), the agentic ladder, play",
@@ -45,24 +117,6 @@
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19024,
-    "updated_at": "2026-08-31T03:39:25Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 416,
-    "updated_at": "2026-08-31T03:37:24Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
     "description": "Lightweight coding agent that runs in your terminal",
     "id": "milisp/keke-agent",
     "language": "Rust",
@@ -81,24 +135,6 @@
     "url": "https://github.com/patrickserrano/lacquer"
   },
   {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-08-31T03:33:59Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68530,
-    "updated_at": "2026-08-31T03:40:18Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Ferramentas pequenas para a camada de agentes de IA: detecta skill envenenada e da validade temporal a base RAG. Zero de",
     "id": "Abner-Machado/agent-layer",
     "language": "JavaScript",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T03:32:27Z",
     "url": "https://github.com/kindsusu/multi-geo"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-31T03:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "kaisers-io/refs",
     "stars": 7,
-    "updated_at": "2026-08-31T03:40:48Z",
+    "updated_at": "2026-08-31T03:53:48Z",
     "url": "https://github.com/kaisers-io/refs"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T02:24:29Z",
     "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:23:58Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-08-31T02:23:53Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:23:31Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
   }
 ]
