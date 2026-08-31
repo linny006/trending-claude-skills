@@ -1,12 +1,48 @@
 [
   {
-    "description": " Free Gemini 3.7 Flash via Google Antigravity $20 sub for Claude Code & OpenCode - use Gemini 3.7, Claude Sonnet 4.6 in ",
-    "id": "1khvled/Gemini-in-OPENCODE",
-    "language": "JavaScript",
-    "name": "1khvled/Gemini-in-OPENCODE",
+    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
+    "id": "galleonlabs/hypergrok-trading-desk",
+    "language": "Python",
+    "name": "galleonlabs/hypergrok-trading-desk",
+    "stars": 34,
+    "updated_at": "2026-08-31T13:29:02Z",
+    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
+  },
+  {
+    "description": "Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness \u2014 open Agent Skills standard, not Claude-",
+    "id": "shimo4228/claude-harness",
+    "language": "Python",
+    "name": "shimo4228/claude-harness",
+    "stars": 2,
+    "updated_at": "2026-08-31T13:28:51Z",
+    "url": "https://github.com/shimo4228/claude-harness"
+  },
+  {
+    "description": "In-depth security-audit skills for Claude Code \u2014 deterministic tools first, every finding refuted, a verdict not a score",
+    "id": "V12X/v12x-skills",
+    "language": "Python",
+    "name": "V12X/v12x-skills",
     "stars": 0,
-    "updated_at": "2026-08-31T13:15:09Z",
-    "url": "https://github.com/1khvled/Gemini-in-OPENCODE"
+    "updated_at": "2026-08-31T13:28:45Z",
+    "url": "https://github.com/V12X/v12x-skills"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 4,
+    "updated_at": "2026-08-31T13:28:31Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68551,
+    "updated_at": "2026-08-31T13:24:42Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
@@ -14,8 +50,62 @@
     "language": "Python",
     "name": "WenyuChiou/ai-research-skills",
     "stars": 232,
-    "updated_at": "2026-08-31T13:09:29Z",
+    "updated_at": "2026-08-31T13:22:14Z",
     "url": "https://github.com/WenyuChiou/ai-research-skills"
+  },
+  {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 401,
+    "updated_at": "2026-08-31T13:19:03Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
+    "id": "petar-djukic/writing-skills",
+    "language": "Python",
+    "name": "petar-djukic/writing-skills",
+    "stars": 3,
+    "updated_at": "2026-08-31T13:29:08Z",
+    "url": "https://github.com/petar-djukic/writing-skills"
+  },
+  {
+    "description": " Free Gemini 3.7 Flash via Google Antigravity $20 sub for Claude Code & OpenCode - use Gemini 3.7, Claude Sonnet 4.6 in ",
+    "id": "1khvled/Gemini-in-OPENCODE",
+    "language": "Python",
+    "name": "1khvled/Gemini-in-OPENCODE",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:15:39Z",
+    "url": "https://github.com/1khvled/Gemini-in-OPENCODE"
+  },
+  {
+    "description": "The agent-agnostic AI tutor skill that writes into your Obsidian vault \u2014 works with Claude Code, Codex, Cursor, Windsurf",
+    "id": "Mohamed-El-Sharqawy/agent-tutor",
+    "language": "HTML",
+    "name": "Mohamed-El-Sharqawy/agent-tutor",
+    "stars": 3,
+    "updated_at": "2026-08-31T13:27:10Z",
+    "url": "https://github.com/Mohamed-El-Sharqawy/agent-tutor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-31T13:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u8de8\u5b66\u79d1\u65b9\u6cd5\u901a\u8bba Agent Skill\uff1a25+ \u5b66\u79d1 188 \u4e2a\u601d\u7ef4\u6a21\u578b + \u8d44\u672c\u8bba/\u77db\u76fe\u8bba/\u5b9e\u8df5\u8bba\uff0c\u8ba9 AI \u5206\u6790\u4ece\u6b63\u786e\u7684\u5e9f\u8bdd\u53d8\u6210\u53ef\u9a8c\u8bc1\u7684\u5224\u65ad",
+    "id": "MrJiaTu/cross-disciplinary-models",
+    "language": "\u2014",
+    "name": "MrJiaTu/cross-disciplinary-models",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:12:16Z",
+    "url": "https://github.com/MrJiaTu/cross-disciplinary-models"
   },
   {
     "description": "General Skills Development Pipeline - Claude Code & Codex",
@@ -27,22 +117,13 @@
     "url": "https://github.com/huangwb8/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-31T13:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68549,
-    "updated_at": "2026-08-31T13:13:55Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-08-31T13:29:10Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Nitpicker \u2014 a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes",
@@ -72,30 +153,12 @@
     "url": "https://github.com/TryWorld2026/paper-algorithm"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-08-31T12:59:26Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "The agent-agnostic AI tutor skill that writes into your Obsidian vault \u2014 works with Claude Code, Codex, Cursor, Windsurf",
-    "id": "Mohamed-El-Sharqawy/agent-tutor",
-    "language": "HTML",
-    "name": "Mohamed-El-Sharqawy/agent-tutor",
-    "stars": 3,
-    "updated_at": "2026-08-31T13:14:42Z",
-    "url": "https://github.com/Mohamed-El-Sharqawy/agent-tutor"
-  },
-  {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
     "id": "xr843/Master-skill",
     "language": "Python",
     "name": "xr843/Master-skill",
     "stars": 380,
-    "updated_at": "2026-08-31T12:52:19Z",
+    "updated_at": "2026-08-31T13:29:29Z",
     "url": "https://github.com/xr843/Master-skill"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/weinaike/maic_skill"
   },
   {
-    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
-    "id": "petar-djukic/writing-skills",
-    "language": "Python",
-    "name": "petar-djukic/writing-skills",
-    "stars": 3,
-    "updated_at": "2026-08-31T13:15:04Z",
-    "url": "https://github.com/petar-djukic/writing-skills"
-  },
-  {
     "description": "Verification skills for marketing and revenue operations. They run on an export you already have, they cross the boundar",
     "id": "m7mdwb/martech-verify",
     "language": "Python",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "danfeistar/house-skills-kit",
     "stars": 1,
-    "updated_at": "2026-08-31T12:33:16Z",
+    "updated_at": "2026-08-31T13:18:52Z",
     "url": "https://github.com/danfeistar/house-skills-kit"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 141,
-    "updated_at": "2026-08-31T12:26:24Z",
+    "updated_at": "2026-08-31T13:19:41Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -311,7 +365,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-08-31T13:12:04Z",
+    "updated_at": "2026-08-31T13:24:53Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "StefanoZaghi1987/ClaudeSkills",
     "stars": 1,
-    "updated_at": "2026-08-31T12:46:50Z",
+    "updated_at": "2026-08-31T13:29:10Z",
     "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
   },
   {
@@ -373,7 +427,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30654,
+    "stars": 30655,
     "updated_at": "2026-08-31T11:59:10Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T11:52:36Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-31T11:51:34Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Open, MIT-licensed food, nutrition & agricultural science research skills for Claude Code, Codex, MiniMax Agent, OpenCla",
-    "id": "PangenomeAI/academic-skills-food-nutrition",
-    "language": "Python",
-    "name": "PangenomeAI/academic-skills-food-nutrition",
-    "stars": 28,
-    "updated_at": "2026-08-31T11:47:32Z",
-    "url": "https://github.com/PangenomeAI/academic-skills-food-nutrition"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Shell",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 26492,
-    "updated_at": "2026-08-31T11:47:09Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-31T11:47:04Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-31T11:45:54Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-31T11:42:51Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
   }
 ]
