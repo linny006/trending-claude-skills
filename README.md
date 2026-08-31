@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 20:42 UTC
+> ⏰ Last updated: 2026-08-31 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [AIPMProfile/competitive-analysis-skill](https://github.com/AIPMProfile/competitive-analysis-skill) | 0 | — | 2026-08-31 | Two Claude Agent Skills for sourced competitive intelligence: market landscape, and a founder-CPO edition that ends in s |
-| 2 | [tsudo/skills](https://github.com/tsudo/skills) | 0 | Python | 2026-08-31 | A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor |
-| 3 | [dbhq-uk/heliograph-skill](https://github.com/dbhq-uk/heliograph-skill) | 1 | Shell | 2026-08-31 | Debug a machine you cannot log into, through an operator who cannot debug it - for air-gapped, client-owned and change-c |
-| 4 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 110 | Kotlin | 2026-08-31 | Helping the Agents Compose the Things |
-| 5 | [jabrena/plinth](https://github.com/jabrena/plinth) | 435 | Java | 2026-08-31 | Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil |
-| 6 | [likeitdigital/clayline-ads](https://github.com/likeitdigital/clayline-ads) | 0 | — | 2026-08-31 | A gated Claude Skill that turns a rough idea into a finished claymation-style video ad — brief, plan, style lock, keyfra |
-| 7 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68561 | TypeScript | 2026-08-31 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
-| 8 | [Raz-Gits/claude-code-skills](https://github.com/Raz-Gits/claude-code-skills) | 0 | Shell | 2026-08-31 | Claude Code skills that tell you what you did not want to hear. grill-me interrogates work three levels deep; voice lear |
-| 9 | [wilbeibi/wilbeibi-skills](https://github.com/wilbeibi/wilbeibi-skills) | 1 | Python | 2026-08-31 | 16 agent skills for Claude Code and Codex — code review, test writing, docs, planning, codebase onboarding, repo evaluat |
-| 10 | [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 0 | Python | 2026-08-31 | Claude Code skills that had to earn their place. Each one enters against a four-question admission policy whose default  |
-| 11 | [Raz-Gits/claude-seo-skill](https://github.com/Raz-Gits/claude-seo-skill) | 0 | Python | 2026-08-31 | A Claude Code skill that audits SEO from measured evidence rather than model belief. 33 stdlib-only scripts, 10 parallel |
-| 12 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 3 | HTML | 2026-08-31 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
-| 13 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 1 | HTML | 2026-08-31 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
-| 14 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 2 | HTML | 2026-08-31 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
-| 15 | [MosoFin/mosofin-finance-skills](https://github.com/MosoFin/mosofin-finance-skills) | 0 | — | 2026-08-31 | Read-only accounting skills for Claude, run against your own books through the MosoFin MCP gateway: month-end close, ban |
-| 16 | [SteveKinzey/claude-code-tools-installer](https://github.com/SteveKinzey/claude-code-tools-installer) | 1 | JavaScript | 2026-08-31 | Safe interactive macOS installer for a curated Claude Code tools stack |
-| 17 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-08-31 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
-| 18 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 35 | Python | 2026-08-31 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 0 | Python | 2026-08-31 | Claude Code skills that had to earn their place. Each one enters against a four-question admission policy whose default  |
+| 2 | [MosoFin/mosofin-finance-skills](https://github.com/MosoFin/mosofin-finance-skills) | 0 | — | 2026-08-31 | Read-only accounting skills for Claude, run against your own books through the MosoFin MCP gateway: month-end close, ban |
+| 3 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 35 | Python | 2026-08-31 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 4 | [AIPMProfile/competitive-analysis-skill](https://github.com/AIPMProfile/competitive-analysis-skill) | 0 | — | 2026-08-31 | Two Claude Agent Skills for sourced competitive intelligence: market landscape, and a founder-CPO edition that ends in s |
+| 5 | [tsudo/skills](https://github.com/tsudo/skills) | 0 | Python | 2026-08-31 | A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor |
+| 6 | [dbhq-uk/heliograph-skill](https://github.com/dbhq-uk/heliograph-skill) | 1 | Shell | 2026-08-31 | Debug a machine you cannot log into, through an operator who cannot debug it - for air-gapped, client-owned and change-c |
+| 7 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 110 | Kotlin | 2026-08-31 | Helping the Agents Compose the Things |
+| 8 | [jabrena/plinth](https://github.com/jabrena/plinth) | 435 | Java | 2026-08-31 | Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil |
+| 9 | [likeitdigital/clayline-ads](https://github.com/likeitdigital/clayline-ads) | 0 | — | 2026-08-31 | A gated Claude Skill that turns a rough idea into a finished claymation-style video ad — brief, plan, style lock, keyfra |
+| 10 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68561 | TypeScript | 2026-08-31 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f |
+| 11 | [Raz-Gits/claude-code-skills](https://github.com/Raz-Gits/claude-code-skills) | 0 | Shell | 2026-08-31 | Claude Code skills that tell you what you did not want to hear. grill-me interrogates work three levels deep; voice lear |
+| 12 | [wilbeibi/wilbeibi-skills](https://github.com/wilbeibi/wilbeibi-skills) | 1 | Python | 2026-08-31 | 16 agent skills for Claude Code and Codex — code review, test writing, docs, planning, codebase onboarding, repo evaluat |
+| 13 | [Raz-Gits/claude-seo-skill](https://github.com/Raz-Gits/claude-seo-skill) | 0 | Python | 2026-08-31 | A Claude Code skill that audits SEO from measured evidence rather than model belief. 33 stdlib-only scripts, 10 parallel |
+| 14 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 3 | HTML | 2026-08-31 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
+| 15 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 1 | HTML | 2026-08-31 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
+| 16 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 2 | HTML | 2026-08-31 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
+| 17 | [SteveKinzey/claude-code-tools-installer](https://github.com/SteveKinzey/claude-code-tools-installer) | 1 | JavaScript | 2026-08-31 | Safe interactive macOS installer for a curated Claude Code tools stack |
+| 18 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-08-31 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
 | 19 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-08-31 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
 | 20 | [abbyuraffi-netizen/maxvision-claude-forge](https://github.com/abbyuraffi-netizen/maxvision-claude-forge) | 1 | HTML | 2026-08-31 | n8n Claude Code Marketplace 2026 ⚡ Production-Grade Skills for GTM & Workflow Automation |
 | 21 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 92764 | JavaScript | 2026-08-31 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
