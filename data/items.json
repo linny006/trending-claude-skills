@@ -1,12 +1,75 @@
 [
   {
+    "description": "Claude Code skills I built so I'd stop forgetting where I left off. Sharing in case you need them too.",
+    "id": "SpoiledMilkLabs/skills",
+    "language": "Shell",
+    "name": "SpoiledMilkLabs/skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T14:45:22Z",
+    "url": "https://github.com/SpoiledMilkLabs/skills"
+  },
+  {
+    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-b",
+    "id": "polar-bear-org/claude-skills",
+    "language": "Shell",
+    "name": "polar-bear-org/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T14:45:20Z",
+    "url": "https://github.com/polar-bear-org/claude-skills"
+  },
+  {
     "description": "My custom skills for different agents",
     "id": "lost-rob0t/skills",
     "language": "Python",
     "name": "lost-rob0t/skills",
     "stars": 0,
-    "updated_at": "2026-08-31T14:28:50Z",
+    "updated_at": "2026-08-31T14:43:30Z",
     "url": "https://github.com/lost-rob0t/skills"
+  },
+  {
+    "description": "Agent skills for reading papers: Keshav's three-pass method, reproduction specs, paragraph-by-paragraph translation, dur",
+    "id": "hirovel/paperthrice",
+    "language": "\u2014",
+    "name": "hirovel/paperthrice",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:36:47Z",
+    "url": "https://github.com/hirovel/paperthrice"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68550,
+    "updated_at": "2026-08-31T14:32:35Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-08-31T14:45:30Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-31T14:30:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83c\udf0a Everything your model doesn't do. Analyse, convert, visualize, evaluate \u2014 a single CLI for all CV data.",
+    "id": "zjykzj/DataFlow-CV",
+    "language": "Python",
+    "name": "zjykzj/DataFlow-CV",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:25:53Z",
+    "url": "https://github.com/zjykzj/DataFlow-CV"
   },
   {
     "description": "15 battle-tested engineering skills for Claude Code \u2014 code review, testing, debugging, security, zero-downtime migration",
@@ -14,7 +77,7 @@
     "language": "\u2014",
     "name": "Hahaknight/claude-skills-pro",
     "stars": 0,
-    "updated_at": "2026-08-31T14:24:41Z",
+    "updated_at": "2026-08-31T14:44:47Z",
     "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
   {
@@ -36,31 +99,22 @@
     "url": "https://github.com/tsudo/skills"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-08-31T14:26:51Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30660,
-    "updated_at": "2026-08-31T14:19:34Z",
+    "updated_at": "2026-08-31T14:33:30Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
-    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-b",
-    "id": "polar-bear-org/claude-skills",
-    "language": "Shell",
-    "name": "polar-bear-org/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T14:22:09Z",
-    "url": "https://github.com/polar-bear-org/claude-skills"
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Python",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-08-31T14:18:46Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-31T14:17:13Z",
+    "updated_at": "2026-08-31T14:42:12Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -81,15 +135,6 @@
     "url": "https://github.com/cooler333/cool-claude-code"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Python",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 6,
-    "updated_at": "2026-08-31T14:18:46Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
     "description": "Claude Code skills for managing multi-step tasks as GitHub issues. Create, implement, update, and   close execution plan",
     "id": "gjoranv/claude-plan-skills",
     "language": "\u2014",
@@ -99,31 +144,13 @@
     "url": "https://github.com/gjoranv/claude-plan-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-31T14:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
     "id": "arbiterForge/codeArbiter",
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 141,
-    "updated_at": "2026-08-31T14:14:22Z",
+    "updated_at": "2026-08-31T14:32:36Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68551,
-    "updated_at": "2026-08-31T14:11:06Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "",
@@ -196,6 +223,15 @@
     "stars": 260,
     "updated_at": "2026-08-31T14:02:05Z",
     "url": "https://github.com/AIDevGTM/gtm-cofounder"
+  },
+  {
+    "description": "400+ free AI skills and 9 agents for media professionals \u2014 journalists, producers, podcasters, YouTubers. Quality-tested",
+    "id": "ur-grue/autopunk-media-skills",
+    "language": "Python",
+    "name": "ur-grue/autopunk-media-skills",
+    "stars": 27,
+    "updated_at": "2026-08-31T14:01:33Z",
+    "url": "https://github.com/ur-grue/autopunk-media-skills"
   },
   {
     "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T13:29:02Z",
     "url": "https://github.com/shimo4228/learn-eval"
-  },
-  {
-    "description": "Audit and fix project documentation role overlaps \u2014 one command to keep CLAUDE.md, CODEMAPS, ADR, and README healthy",
-    "id": "shimo4228/context-sync",
-    "language": "Python",
-    "name": "shimo4228/context-sync",
-    "stars": 1,
-    "updated_at": "2026-08-31T13:29:00Z",
-    "url": "https://github.com/shimo4228/context-sync"
-  },
-  {
-    "description": "Claude Code skill: measures whether agents actually follow skills, rules, and agent definitions \u2014 automated behavioral c",
-    "id": "shimo4228/skill-comply",
-    "language": "Python",
-    "name": "shimo4228/skill-comply",
-    "stars": 1,
-    "updated_at": "2026-08-31T13:28:58Z",
-    "url": "https://github.com/shimo4228/skill-comply"
-  },
-  {
-    "description": "Structural skill-library debt scan (missing-artifact detection) \u2014 the deterministic code layer of the Agent Knowledge Cy",
-    "id": "shimo4228/skill-health",
-    "language": "Python",
-    "name": "shimo4228/skill-health",
-    "stars": 1,
-    "updated_at": "2026-08-31T13:28:56Z",
-    "url": "https://github.com/shimo4228/skill-health"
-  },
-  {
-    "description": "Claude Code skill: audits installed skills for staleness, conflicts, and redundancy",
-    "id": "shimo4228/skill-stocktake",
-    "language": "Shell",
-    "name": "shimo4228/skill-stocktake",
-    "stars": 2,
-    "updated_at": "2026-08-31T13:28:53Z",
-    "url": "https://github.com/shimo4228/skill-stocktake"
   }
 ]
