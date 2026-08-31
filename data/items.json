@@ -1,19 +1,118 @@
 [
   {
+    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
+    "id": "andresanemic/lore-plugin",
+    "language": "JavaScript",
+    "name": "andresanemic/lore-plugin",
+    "stars": 6,
+    "updated_at": "2026-08-31T19:58:05Z",
+    "url": "https://github.com/andresanemic/lore-plugin"
+  },
+  {
     "description": "\u628a Claude Code / Codex \u53d8\u6210\u4f60\u7684\u6570\u5b57\u5458\u5de5 \u2014 \u4e0a\u73ed\u65cf AI \u63d0\u6548\u6280\u80fd\u5305\uff08\u4e2d\u6587\uff09\uff1a6\u6280\u80fd+\u9632\u62a4Hooks+\u5de5\u4f5c\u6d41SOP",
     "id": "Hahaknight/digital-employee-pack",
     "language": "\u2014",
     "name": "Hahaknight/digital-employee-pack",
     "stars": 0,
-    "updated_at": "2026-08-31T19:44:10Z",
+    "updated_at": "2026-08-31T19:55:56Z",
     "url": "https://github.com/Hahaknight/digital-employee-pack"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:55:38Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
+    "id": "Hahaknight/claude-skills-pro",
+    "language": "\u2014",
+    "name": "Hahaknight/claude-skills-pro",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:55:31Z",
+    "url": "https://github.com/Hahaknight/claude-skills-pro"
+  },
+  {
+    "description": "A blind tested skill for better creative writing. Nine signals three AI judges named after scoring 50 samples blind, the",
+    "id": "Ptlimited/writing-craft",
+    "language": "Python",
+    "name": "Ptlimited/writing-craft",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:53:22Z",
+    "url": "https://github.com/Ptlimited/writing-craft"
+  },
+  {
+    "description": "Verification skills for marketing and revenue operations. They run on an export you already have, they cross the boundar",
+    "id": "m7mdwb/martech-verify",
+    "language": "Python",
+    "name": "m7mdwb/martech-verify",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:53:16Z",
+    "url": "https://github.com/m7mdwb/martech-verify"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-08-31T19:50:36Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
+    "language": "Shell",
+    "name": "mimukit/skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:50:06Z",
+    "url": "https://github.com/mimukit/skills"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Go",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-08-31T19:51:57Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Agent skill for Spark Bitcoin L2 wallet capabilities including L402 for AI agents",
+    "id": "echennells/sparkbtcbot",
+    "language": "JavaScript",
+    "name": "echennells/sparkbtcbot",
+    "stars": 4,
+    "updated_at": "2026-08-31T19:47:09Z",
+    "url": "https://github.com/echennells/sparkbtcbot"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 92761,
+    "updated_at": "2026-08-31T19:45:23Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-08-31T19:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68556,
+    "stars": 68558,
     "updated_at": "2026-08-31T19:43:14Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -32,17 +131,8 @@
     "language": "TypeScript",
     "name": "shepaland/LexForge",
     "stars": 0,
-    "updated_at": "2026-08-31T19:42:13Z",
+    "updated_at": "2026-08-31T19:48:17Z",
     "url": "https://github.com/shepaland/LexForge"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 92761,
-    "updated_at": "2026-08-31T19:45:11Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Claude skills for PxWebAPI v2 and v1. Main skill is towards Statistics Norway (SSB). Also Jupyter notebooks, javascript ",
@@ -54,22 +144,13 @@
     "url": "https://github.com/janbrus/pxwebapi-skills"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Go",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 6,
-    "updated_at": "2026-08-31T19:41:24Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-08-31T19:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Free, private skill search for AI agents",
+    "id": "skill-federation/skill-federation",
+    "language": "JavaScript",
+    "name": "skill-federation/skill-federation",
+    "stars": 13,
+    "updated_at": "2026-08-31T19:36:40Z",
+    "url": "https://github.com/skill-federation/skill-federation"
   },
   {
     "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
@@ -95,7 +176,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-08-31T19:40:29Z",
+    "updated_at": "2026-08-31T19:59:30Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -157,7 +238,7 @@
     "id": "seo-skills/seo-audit-skill",
     "language": "TypeScript",
     "name": "seo-skills/seo-audit-skill",
-    "stars": 405,
+    "stars": 406,
     "updated_at": "2026-08-31T19:11:47Z",
     "url": "https://github.com/seo-skills/seo-audit-skill"
   },
@@ -171,15 +252,6 @@
     "url": "https://github.com/inkatze/planwright"
   },
   {
-    "description": "Verification skills for marketing and revenue operations. They run on an export you already have, they cross the boundar",
-    "id": "m7mdwb/martech-verify",
-    "language": "Python",
-    "name": "m7mdwb/martech-verify",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:06:33Z",
-    "url": "https://github.com/m7mdwb/martech-verify"
-  },
-  {
     "description": "Claude Code skill suite for portfolio SEO ops: audits, topical maps, link acquisition, local pack strategy, GA4 telemetr",
     "id": "abouchard11/midnight-seo-skills",
     "language": "\u2014",
@@ -187,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T19:02:58Z",
     "url": "https://github.com/abouchard11/midnight-seo-skills"
-  },
-  {
-    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
-    "id": "Hahaknight/claude-skills-pro",
-    "language": "\u2014",
-    "name": "Hahaknight/claude-skills-pro",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:44:06Z",
-    "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
   {
     "description": "Claude Code skills that tell you what you did not want to hear. grill-me interrogates work three levels deep; voice lear",
@@ -214,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T18:52:39Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Free, private skill search for AI agents",
-    "id": "skill-federation/skill-federation",
-    "language": "JavaScript",
-    "name": "skill-federation/skill-federation",
-    "stars": 13,
-    "updated_at": "2026-08-31T19:36:40Z",
-    "url": "https://github.com/skill-federation/skill-federation"
   },
   {
     "description": "Claude Code will work as long as you will \u2014 breather gives you a way out. Tracks real presence across all sessions, read",
@@ -259,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T18:47:54Z",
     "url": "https://github.com/wardawgmalvicious/agent-config"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-08-31T19:30:39Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Agent skills for reading papers: Keshav's three-pass method, reproduction specs, paragraph-by-paragraph translation, dur",
@@ -338,7 +383,7 @@
     "language": "TypeScript",
     "name": "nota-america/forgecat-agent-profiles",
     "stars": 62,
-    "updated_at": "2026-08-31T18:25:39Z",
+    "updated_at": "2026-08-31T19:49:43Z",
     "url": "https://github.com/nota-america/forgecat-agent-profiles"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:12:45Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-31T18:12:00Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:11:42Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
-    "id": "ArcticFox2029/chamnan",
-    "language": "Python",
-    "name": "ArcticFox2029/chamnan",
-    "stars": 4,
-    "updated_at": "2026-08-31T18:15:15Z",
-    "url": "https://github.com/ArcticFox2029/chamnan"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T18:11:08Z",
-    "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
-    "id": "jherrodthomas/robotics-skills-suite",
-    "language": "Python",
-    "name": "jherrodthomas/robotics-skills-suite",
-    "stars": 239,
-    "updated_at": "2026-08-31T18:10:16Z",
-    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
   }
 ]
