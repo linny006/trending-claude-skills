@@ -1,21 +1,84 @@
 [
   {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 5,
+    "updated_at": "2026-08-31T16:39:35Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
     "description": "A comprehensive SEO audit command-line tool with 108 audit rules across 12 categories. Analyze any website for SEO best ",
     "id": "seo-skills/seo-audit-skill",
     "language": "TypeScript",
     "name": "seo-skills/seo-audit-skill",
     "stars": 405,
-    "updated_at": "2026-08-31T16:29:15Z",
+    "updated_at": "2026-08-31T16:44:57Z",
     "url": "https://github.com/seo-skills/seo-audit-skill"
   },
   {
-    "description": "Native local & technical SEO audit toolkit for DeepSeek Harness (DSH) \u2014 self-contained port of claude-seo v2.2.5. Weight",
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 55,
+    "updated_at": "2026-08-31T16:35:58Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Turn a repository into a slide deck that tells you when it stops matching the code",
+    "id": "glukicov/slideops",
+    "language": "HTML",
+    "name": "glukicov/slideops",
+    "stars": 14,
+    "updated_at": "2026-08-31T16:35:33Z",
+    "url": "https://github.com/glukicov/slideops"
+  },
+  {
+    "description": "Design the work before you do it. AI skills for the moments where one deliberate decision saves the rework: vetting a to",
+    "id": "theAnirudhKumar/work-design",
+    "language": "Python",
+    "name": "theAnirudhKumar/work-design",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:34:18Z",
+    "url": "https://github.com/theAnirudhKumar/work-design"
+  },
+  {
+    "description": "The SEO audit toolkit built for DeepSeek Harness (DSH) \u2014 runs locally, no Claude Code, no API key required. Self-contain",
     "id": "Haniubub/seo-toolkit",
     "language": "Python",
     "name": "Haniubub/seo-toolkit",
     "stars": 2,
-    "updated_at": "2026-08-31T16:27:06Z",
+    "updated_at": "2026-08-31T16:44:31Z",
     "url": "https://github.com/Haniubub/seo-toolkit"
+  },
+  {
+    "description": "From a coding-agent skill to a Databricks App, with one governed reporting core.",
+    "id": "Paldom/databricks-skill-to-app",
+    "language": "Python",
+    "name": "Paldom/databricks-skill-to-app",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:30:47Z",
+    "url": "https://github.com/Paldom/databricks-skill-to-app"
+  },
+  {
+    "description": "Use strong models for decisions, economy models for execution, and repository-backed state for long-running engineering.",
+    "id": "jaywavfeng/tiered-agent-orchestrator",
+    "language": "Python",
+    "name": "jaywavfeng/tiered-agent-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-31T16:30:33Z",
+    "url": "https://github.com/jaywavfeng/tiered-agent-orchestrator"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-08-31T16:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30662,
-    "updated_at": "2026-08-31T16:23:15Z",
+    "updated_at": "2026-08-31T16:39:23Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -32,8 +95,17 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-08-31T16:28:37Z",
+    "updated_at": "2026-08-31T16:43:21Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
+    "id": "andresanemic/lore-plugin",
+    "language": "JavaScript",
+    "name": "andresanemic/lore-plugin",
+    "stars": 6,
+    "updated_at": "2026-08-31T16:22:54Z",
+    "url": "https://github.com/andresanemic/lore-plugin"
   },
   {
     "description": "\ud83d\udcfc A declarative AI agent environment manager, written in Rust",
@@ -43,6 +115,33 @@
     "stars": 130,
     "updated_at": "2026-08-31T16:22:52Z",
     "url": "https://github.com/pivoshenko/kasetto"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-31T16:21:46Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Official Helius AI tooling repository ",
+    "id": "helius-labs/core-ai",
+    "language": "TypeScript",
+    "name": "helius-labs/core-ai",
+    "stars": 26,
+    "updated_at": "2026-08-31T16:41:36Z",
+    "url": "https://github.com/helius-labs/core-ai"
+  },
+  {
+    "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
+    "id": "WenyuChiou/ai-research-skills",
+    "language": "Python",
+    "name": "WenyuChiou/ai-research-skills",
+    "stars": 232,
+    "updated_at": "2026-08-31T16:16:40Z",
+    "url": "https://github.com/WenyuChiou/ai-research-skills"
   },
   {
     "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
@@ -59,17 +158,26 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68549,
-    "updated_at": "2026-08-31T16:16:14Z",
+    "updated_at": "2026-08-31T16:39:19Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-08-31T16:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-b",
+    "id": "polar-bear-org/claude-skills",
+    "language": "Shell",
+    "name": "polar-bear-org/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T16:15:49Z",
+    "url": "https://github.com/polar-bear-org/claude-skills"
+  },
+  {
+    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
+    "id": "thepictishbeast/claude-tools",
+    "language": "Rust",
+    "name": "thepictishbeast/claude-tools",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:14:41Z",
+    "url": "https://github.com/thepictishbeast/claude-tools"
   },
   {
     "description": "Skills that started with problems I encountered.",
@@ -86,7 +194,7 @@
     "language": "Go",
     "name": "danieljustus/symaira-eraseme",
     "stars": 6,
-    "updated_at": "2026-08-31T16:12:27Z",
+    "updated_at": "2026-08-31T16:40:59Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -108,6 +216,15 @@
     "url": "https://github.com/echennells/sparkbtcbot"
   },
   {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19035,
+    "updated_at": "2026-08-31T16:42:23Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
     "description": "My custom skills for different agents",
     "id": "lost-rob0t/skills",
     "language": "Python",
@@ -117,24 +234,6 @@
     "url": "https://github.com/lost-rob0t/skills"
   },
   {
-    "description": "Turn a repository into a slide deck that tells you when it stops matching the code",
-    "id": "glukicov/slideops",
-    "language": "HTML",
-    "name": "glukicov/slideops",
-    "stars": 13,
-    "updated_at": "2026-08-31T16:20:18Z",
-    "url": "https://github.com/glukicov/slideops"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 5,
-    "updated_at": "2026-08-31T16:13:22Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
     "description": "All my agent skills",
     "id": "jsvillalbat/sevito-skills",
     "language": "JavaScript",
@@ -142,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T16:02:18Z",
     "url": "https://github.com/jsvillalbat/sevito-skills"
-  },
-  {
-    "description": "From a coding-agent skill to a Databricks App, with one governed reporting core.",
-    "id": "Paldom/databricks-skill-to-app",
-    "language": "Python",
-    "name": "Paldom/databricks-skill-to-app",
-    "stars": 0,
-    "updated_at": "2026-08-31T16:03:19Z",
-    "url": "https://github.com/Paldom/databricks-skill-to-app"
-  },
-  {
-    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
-    "id": "thepictishbeast/claude-tools",
-    "language": "Rust",
-    "name": "thepictishbeast/claude-tools",
-    "stars": 0,
-    "updated_at": "2026-08-31T16:14:41Z",
-    "url": "https://github.com/thepictishbeast/claude-tools"
   },
   {
     "description": "The agent-agnostic AI tutor skill that writes into your Obsidian vault \u2014 works with Claude Code, Codex, Cursor, Windsurf",
@@ -180,21 +261,12 @@
     "url": "https://github.com/TimeCraker/vibe-studio"
   },
   {
-    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
-    "id": "andresanemic/lore-plugin",
-    "language": "JavaScript",
-    "name": "andresanemic/lore-plugin",
-    "stars": 6,
-    "updated_at": "2026-08-31T16:22:54Z",
-    "url": "https://github.com/andresanemic/lore-plugin"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-31T16:14:21Z",
+    "updated_at": "2026-08-31T16:30:17Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -205,6 +277,15 @@
     "stars": 11,
     "updated_at": "2026-08-31T15:51:08Z",
     "url": "https://github.com/liustack/pptwise"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-08-31T15:50:43Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Gated engineering pipeline skill for Claude Code: define, spec, build, review, QA, ship \u2014 with stops at every gate",
@@ -248,7 +329,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-08-31T16:14:17Z",
+    "updated_at": "2026-08-31T16:44:12Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -333,15 +414,6 @@
     "url": "https://github.com/wdhwg001/csift"
   },
   {
-    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-b",
-    "id": "polar-bear-org/claude-skills",
-    "language": "Shell",
-    "name": "polar-bear-org/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T16:15:49Z",
-    "url": "https://github.com/polar-bear-org/claude-skills"
-  },
-  {
     "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
     "id": "ramboz/jig",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 102,
     "updated_at": "2026-08-31T16:04:15Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 from PRDs and postmortems to appealing a di",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1327,
-    "updated_at": "2026-08-31T15:11:27Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "id": "saifullahseodeveloper/i-have-adhd",
-    "language": "\u2014",
-    "name": "saifullahseodeveloper/i-have-adhd",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:11:16Z",
-    "url": "https://github.com/saifullahseodeveloper/i-have-adhd"
-  },
-  {
-    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 8,
-    "updated_at": "2026-08-31T15:09:34Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "\ud574\uc678\uc601\uc5c5 \ub2f4\ub2f9\uc790\ub97c \uc704\ud55c \ubb34\uc5ed \ud1b5\uacc4\u00b7\uc2dc\uc7a5 \uc6b0\uc120\uc21c\uc704 Claude \uc2a4\ud0ac. HS\ucf54\ub4dc\u00b7\uad6d\uac00\ubcc4 \uc218\ucd9c\uc785 \ud1b5\uacc4\uc640 \uc2e0\uaddc \uc2dc\uc7a5 \ubc1c\uad74. \uc778\uc99d\ud0a4 \ubd88\ud544\uc694.",
-    "id": "bonghyunyang/trade-skills",
-    "language": "Python",
-    "name": "bonghyunyang/trade-skills",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:02:31Z",
-    "url": "https://github.com/bonghyunyang/trade-skills"
-  },
-  {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
-    "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 5,
-    "updated_at": "2026-08-31T15:02:25Z",
-    "url": "https://github.com/shortcuts/radin"
-  },
-  {
-    "description": "Agent skills for reading papers: Keshav's three-pass method, reproduction specs, paragraph-by-paragraph translation, dur",
-    "id": "hirovel/paperthrice",
-    "language": "\u2014",
-    "name": "hirovel/paperthrice",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:59:58Z",
-    "url": "https://github.com/hirovel/paperthrice"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-08-31T14:59:25Z",
-    "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
-    "id": "WenyuChiou/ai-research-skills",
-    "language": "Python",
-    "name": "WenyuChiou/ai-research-skills",
-    "stars": 232,
-    "updated_at": "2026-08-31T16:16:40Z",
-    "url": "https://github.com/WenyuChiou/ai-research-skills"
   }
 ]
