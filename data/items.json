@@ -1,5 +1,32 @@
 [
   {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-08-31T14:52:59Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
+    "id": "galleonlabs/hypergrok-trading-desk",
+    "language": "Python",
+    "name": "galleonlabs/hypergrok-trading-desk",
+    "stars": 35,
+    "updated_at": "2026-08-31T14:51:50Z",
+    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-31T14:45:57Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skills I built so I'd stop forgetting where I left off. Sharing in case you need them too.",
     "id": "SpoiledMilkLabs/skills",
     "language": "Shell",
@@ -27,6 +54,51 @@
     "url": "https://github.com/lost-rob0t/skills"
   },
   {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-08-31T14:42:36Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 1,
+    "updated_at": "2026-08-31T14:40:36Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:40:29Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 6,
+    "updated_at": "2026-08-31T14:38:57Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-08-31T14:38:11Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
     "description": "Agent skills for reading papers: Keshav's three-pass method, reproduction specs, paragraph-by-paragraph translation, dur",
     "id": "hirovel/paperthrice",
     "language": "\u2014",
@@ -36,11 +108,29 @@
     "url": "https://github.com/hirovel/paperthrice"
   },
   {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:35:16Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 1,
+    "updated_at": "2026-08-31T14:33:34Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68550,
+    "stars": 68549,
     "updated_at": "2026-08-31T14:32:35Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -50,17 +140,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-08-31T14:45:30Z",
+    "updated_at": "2026-08-31T14:50:47Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-31T14:30:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83c\udf0a Everything your model doesn't do. Analyse, convert, visualize, evaluate \u2014 a single CLI for all CV data.",
@@ -77,17 +158,8 @@
     "language": "\u2014",
     "name": "Hahaknight/claude-skills-pro",
     "stars": 0,
-    "updated_at": "2026-08-31T14:44:47Z",
+    "updated_at": "2026-08-31T14:48:47Z",
     "url": "https://github.com/Hahaknight/claude-skills-pro"
-  },
-  {
-    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
-    "id": "galleonlabs/hypergrok-trading-desk",
-    "language": "Python",
-    "name": "galleonlabs/hypergrok-trading-desk",
-    "stars": 35,
-    "updated_at": "2026-08-31T14:24:31Z",
-    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
   },
   {
     "description": "A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor",
@@ -97,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T14:23:44Z",
     "url": "https://github.com/tsudo/skills"
+  },
+  {
+    "description": "Agent skills, autonomous agents, and MCP-companions for programming",
+    "id": "DROOdotFOO/agent-skills",
+    "language": "Python",
+    "name": "DROOdotFOO/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:22:32Z",
+    "url": "https://github.com/DROOdotFOO/agent-skills"
   },
   {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-31T14:42:12Z",
+    "updated_at": "2026-08-31T14:48:58Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -194,7 +275,7 @@
     "language": "Python",
     "name": "danfeistar/house-skills-kit",
     "stars": 1,
-    "updated_at": "2026-08-31T14:02:21Z",
+    "updated_at": "2026-08-31T14:48:11Z",
     "url": "https://github.com/danfeistar/house-skills-kit"
   },
   {
@@ -239,7 +320,7 @@
     "language": "TypeScript",
     "name": "liustack/pptwise",
     "stars": 11,
-    "updated_at": "2026-08-31T14:01:24Z",
+    "updated_at": "2026-08-31T14:51:58Z",
     "url": "https://github.com/liustack/pptwise"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-31T14:12:44Z",
     "url": "https://github.com/Mohamed-El-Sharqawy/agent-tutor"
-  },
-  {
-    "description": "AI Coding Toolkit (Prompts, Commands, Skills, and More)",
-    "id": "BerkaySevinc/agent-toolkit",
-    "language": "Batchfile",
-    "name": "BerkaySevinc/agent-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-31T13:39:03Z",
-    "url": "https://github.com/BerkaySevinc/agent-toolkit"
-  },
-  {
-    "description": "In-depth security-audit skills for Claude Code \u2014 deterministic tools first, every finding refuted, a verdict not a score",
-    "id": "V12X/v12x-skills",
-    "language": "Python",
-    "name": "V12X/v12x-skills",
-    "stars": 0,
-    "updated_at": "2026-08-31T13:37:09Z",
-    "url": "https://github.com/V12X/v12x-skills"
-  },
-  {
-    "description": "Evidence-first scientific manuscript development for Cell, Nature, Science, and leading conferences\u2014positioning, outline",
-    "id": "niuyupeng/CNS-Skills",
-    "language": "Python",
-    "name": "niuyupeng/CNS-Skills",
-    "stars": 0,
-    "updated_at": "2026-08-31T13:35:52Z",
-    "url": "https://github.com/niuyupeng/CNS-Skills"
-  },
-  {
-    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
-    "id": "petar-djukic/writing-skills",
-    "language": "Python",
-    "name": "petar-djukic/writing-skills",
-    "stars": 3,
-    "updated_at": "2026-08-31T13:31:27Z",
-    "url": "https://github.com/petar-djukic/writing-skills"
-  },
-  {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 380,
-    "updated_at": "2026-08-31T13:29:29Z",
-    "url": "https://github.com/xr843/Master-skill"
-  },
-  {
-    "description": "Agent Skill \u2014 audit agent definitions with a hybrid cost model: always-loaded descriptions as residency, bodies as invoc",
-    "id": "shimo4228/agent-stocktake",
-    "language": "Python",
-    "name": "shimo4228/agent-stocktake",
-    "stars": 0,
-    "updated_at": "2026-08-31T13:29:10Z",
-    "url": "https://github.com/shimo4228/agent-stocktake"
-  },
-  {
-    "description": "Claude Code skill: writes & improves human-facing READMEs \u2014 the single canonical entrance for humans, search, and AI Ove",
-    "id": "shimo4228/readme-writer",
-    "language": "Python",
-    "name": "shimo4228/readme-writer",
-    "stars": 1,
-    "updated_at": "2026-08-31T13:29:07Z",
-    "url": "https://github.com/shimo4228/readme-writer"
-  },
-  {
-    "description": "Writes AI-facing documents (llms.txt / llms-full.txt / FAQ / glossary) optimized for citation by ChatGPT, Perplexity, Ge",
-    "id": "shimo4228/llms-txt-writer",
-    "language": "Python",
-    "name": "shimo4228/llms-txt-writer",
-    "stars": 3,
-    "updated_at": "2026-08-31T13:29:05Z",
-    "url": "https://github.com/shimo4228/llms-txt-writer"
-  },
-  {
-    "description": "Claude Code skill: extracts reusable patterns from sessions and evaluates their value before saving",
-    "id": "shimo4228/learn-eval",
-    "language": "Python",
-    "name": "shimo4228/learn-eval",
-    "stars": 1,
-    "updated_at": "2026-08-31T13:29:02Z",
-    "url": "https://github.com/shimo4228/learn-eval"
   }
 ]
