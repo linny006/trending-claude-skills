@@ -1,5 +1,95 @@
 [
   {
+    "description": "Hub index for 315 AI agent skills across 12 category repositories. Browse the full skill list and install only the categ",
+    "id": "poorvith-mp/skillary",
+    "language": "Python",
+    "name": "poorvith-mp/skillary",
+    "stars": 3,
+    "updated_at": "2026-08-31T07:26:41Z",
+    "url": "https://github.com/poorvith-mp/skillary"
+  },
+  {
+    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
+    "id": "LinklyAI/best-skills",
+    "language": "\u2014",
+    "name": "LinklyAI/best-skills",
+    "stars": 340,
+    "updated_at": "2026-08-31T07:25:57Z",
+    "url": "https://github.com/LinklyAI/best-skills"
+  },
+  {
+    "description": "81 SEO and content skills for Claude \u2014 AI search (GEO/AEO/LLMO), technical SEO, ecommerce, hreflang, images, backlinks, ",
+    "id": "gaznilmuzammil12-prog/seo-skills-by-gaznil",
+    "language": "Python",
+    "name": "gaznilmuzammil12-prog/seo-skills-by-gaznil",
+    "stars": 0,
+    "updated_at": "2026-08-31T07:25:21Z",
+    "url": "https://github.com/gaznilmuzammil12-prog/seo-skills-by-gaznil"
+  },
+  {
+    "description": "Agent skill (Claude Code / Codex): interactive UI documentation pages for WinForms dialogs - 1:1 Designer.cs rebuild, nu",
+    "id": "mingfeng6684/interactive-ui-doc-skill",
+    "language": "HTML",
+    "name": "mingfeng6684/interactive-ui-doc-skill",
+    "stars": 0,
+    "updated_at": "2026-08-31T07:20:12Z",
+    "url": "https://github.com/mingfeng6684/interactive-ui-doc-skill"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6541,
+    "updated_at": "2026-08-31T07:18:02Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Open-source Claude Code skills that bring planning, building, and verification gates to agentic coding workflows.",
+    "id": "adamlinscott/claude-skills",
+    "language": "TypeScript",
+    "name": "adamlinscott/claude-skills",
+    "stars": 3,
+    "updated_at": "2026-08-31T07:16:08Z",
+    "url": "https://github.com/adamlinscott/claude-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-08-31T07:27:01Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-31T07:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-08-31T07:15:11Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
+    "id": "natthasath/natthasath-marketplace",
+    "language": "HTML",
+    "name": "natthasath/natthasath-marketplace",
+    "stars": 1,
+    "updated_at": "2026-08-31T07:15:06Z",
+    "url": "https://github.com/natthasath/natthasath-marketplace"
+  },
+  {
     "description": "19\u4e2a\u88c5\u4fee\u907f\u5751\u72ec\u7acbSkill\u5408\u96c6 \u2014 \u8986\u76d6\u5168\u5c4b\u5b9a\u5236\u3001\u8001\u623f\u6539\u9020\u3001\u5408\u540c\u5ba1\u6838\u3001\u62a5\u4ef7\u5ba1\u6838\u3001\u65b9\u6848\u8bca\u65ad\u3001\u73af\u4fdd\u907f\u5751\u3001\u6d41\u7a0b\u7ba1\u63a7\u3001\u7ffb\u8f66\u6025\u6551\u3001\u907f\u5751\u95ee\u7b54\u3001\u589e\u9879\u907f\u96f7\u3001\u516c\u53f8\u9009\u62e9\u7b49\u88c5\u4fee\u5168\u6d41\u7a0b",
     "id": "zx029w/zhuangxiu-skills",
     "language": "Python",
@@ -9,6 +99,15 @@
     "url": "https://github.com/zx029w/zhuangxiu-skills"
   },
   {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68538,
+    "updated_at": "2026-08-31T07:13:01Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "\u9762\u5411\u7535\u5546\u89c6\u89c9\u751f\u4ea7\u7684 Agent \u6280\u80fd\u5e93\uff1a26 \u4e2a\u53ef\u7ec4\u5408\u7684 skill.md\uff0c\u8986\u76d6\u5e73\u94fa\u56fe \u2192 \u6a21\u7279\u4e0a\u8eab \u2192 \u88c2\u53d8\u5957\u56fe \u2192 \u8be6\u60c5\u9875 \u2192 \u4e3b\u56fe\u89c6\u9891 \u2192 \u6295\u524d\u8d28\u68c0 \u2192 \u5e73\u53f0\u5408\u89c4\u6821\u9a8c\u3002\u4e0d\u9501\u540e\u7aef\uff0cdLazy / OpenAI / Gemini / fa",
     "id": "dlazy-ai/ecommerce-skills",
     "language": "JavaScript",
@@ -16,6 +115,15 @@
     "stars": 3,
     "updated_at": "2026-08-31T07:11:06Z",
     "url": "https://github.com/dlazy-ai/ecommerce-skills"
+  },
+  {
+    "description": "Nitpicker \u2014 a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes",
+    "id": "ivuorinen/skills",
+    "language": "Python",
+    "name": "ivuorinen/skills",
+    "stars": 3,
+    "updated_at": "2026-08-31T07:09:46Z",
+    "url": "https://github.com/ivuorinen/skills"
   },
   {
     "description": "Multi-engine GEO \u2014 a Claude Code skill that audits, implements, and measures AI search visibility with a separate lane p",
@@ -34,24 +142,6 @@
     "stars": 14365,
     "updated_at": "2026-08-31T07:07:52Z",
     "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "30 curated SEO skills for Claude \u2014 AI search (GEO/AEO/LLMO), technical SEO, ecommerce, hreflang, backlinks, local, Searc",
-    "id": "gaznilmuzammil12-prog/seo-skills-by-gaznil",
-    "language": "HTML",
-    "name": "gaznilmuzammil12-prog/seo-skills-by-gaznil",
-    "stars": 0,
-    "updated_at": "2026-08-31T07:07:23Z",
-    "url": "https://github.com/gaznilmuzammil12-prog/seo-skills-by-gaznil"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-31T07:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
@@ -81,15 +171,6 @@
     "url": "https://github.com/olgasafonova/SkillCheck-Free"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68537,
-    "updated_at": "2026-08-31T07:13:01Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Tsubaiso Intelligence Skill \u2014 PSA/IMA\uff08Salesforce\uff09\u696d\u52d9\u306e\u53c2\u7167\u30fb\u30c7\u30fc\u30bf\u6295\u5165\u30fb\u30e1\u30bf\u30c7\u30fc\u30bf\u69cb\u6210\u30fb\u5e33\u7968\u30fb\u4ed5\u69d8\u53ef\u8996\u5316\u30fb\u66f4\u65b0\u652f\u63f4\u30fb\u30ed\u30fc\u30ab\u30eb API \u64cd\u4f5c\u3068\u3001\u5c0e\u5165\uff0f\u30ed\u30fc\u30eb\u30a2\u30a6\u30c8\uff0fPoC\uff0f\u958b\u767a\u904b\u7528\u30e9\u30a4\u30d5\u30b5\u30a4\u30af",
     "id": "tsubaiso/tsubaiso-intelligence",
     "language": "Python",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T06:45:28Z",
     "url": "https://github.com/tsubaiso/tsubaiso-intelligence"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6541,
-    "updated_at": "2026-08-31T07:13:49Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "General Skills Development Pipeline - Claude Code & Codex",
@@ -142,15 +214,6 @@
     "stars": 24,
     "updated_at": "2026-08-31T06:38:05Z",
     "url": "https://github.com/cabbage2000-lab/textbook-writer-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-08-31T07:09:01Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
@@ -270,15 +333,6 @@
     "url": "https://github.com/JanYork/llm-wiki-cli"
   },
   {
-    "description": "Agent skill (Claude Code / Codex): interactive UI documentation pages for WinForms dialogs - 1:1 Designer.cs rebuild, nu",
-    "id": "mingfeng6684/ui-doc-skill",
-    "language": "HTML",
-    "name": "mingfeng6684/ui-doc-skill",
-    "stars": 0,
-    "updated_at": "2026-08-31T06:16:03Z",
-    "url": "https://github.com/mingfeng6684/ui-doc-skill"
-  },
-  {
     "description": "repo for reusable plugins and skills",
     "id": "richfrem/agent-plugins-skills",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T05:39:40Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Evidence-driven interview preparation for any role, across ChatGPT and Claude.",
-    "id": "amirbena/interview-journey",
-    "language": "Shell",
-    "name": "amirbena/interview-journey",
-    "stars": 0,
-    "updated_at": "2026-08-31T05:38:40Z",
-    "url": "https://github.com/amirbena/interview-journey"
-  },
-  {
-    "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
-    "id": "sukoji/loadout",
-    "language": "JavaScript",
-    "name": "sukoji/loadout",
-    "stars": 2,
-    "updated_at": "2026-08-31T05:37:41Z",
-    "url": "https://github.com/sukoji/loadout"
-  },
-  {
-    "description": "Gives coding agents the real source of your dependencies, not a guess.",
-    "id": "kaisers-io/refs",
-    "language": "TypeScript",
-    "name": "kaisers-io/refs",
-    "stars": 7,
-    "updated_at": "2026-08-31T07:13:46Z",
-    "url": "https://github.com/kaisers-io/refs"
-  },
-  {
-    "description": "Pass your project, not your context.",
-    "id": "kakadeka/Baton",
-    "language": "JavaScript",
-    "name": "kakadeka/Baton",
-    "stars": 4,
-    "updated_at": "2026-08-31T05:33:35Z",
-    "url": "https://github.com/kakadeka/Baton"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-31T05:30:46Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-08-31T05:26:25Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
   }
 ]
