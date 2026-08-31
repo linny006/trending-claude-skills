@@ -1,5 +1,104 @@
 [
   {
+    "description": "Codex/Claude implementation plans into executable task DAG, execute in parallel",
+    "id": "igorrendulic/task-graph",
+    "language": "Python",
+    "name": "igorrendulic/task-graph",
+    "stars": 1,
+    "updated_at": "2026-08-31T21:29:55Z",
+    "url": "https://github.com/igorrendulic/task-graph"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Go",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-08-31T21:28:47Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 92769,
+    "updated_at": "2026-08-31T21:28:46Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "A powerful plugin for Claude Cowork Desktop, designed specifically for Swiss legal professionals. 20 agents,  14 skills,",
+    "id": "fedec65/bettercallclaude",
+    "language": "JavaScript",
+    "name": "fedec65/bettercallclaude",
+    "stars": 38,
+    "updated_at": "2026-08-31T21:25:04Z",
+    "url": "https://github.com/fedec65/bettercallclaude"
+  },
+  {
+    "description": "Claude Code skill marketplace \u2014 install agent-prompt-author and other agent/prompt-engineering skills via /plugin or npx",
+    "id": "amylyra/skills-marketplace",
+    "language": "\u2014",
+    "name": "amylyra/skills-marketplace",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:24:13Z",
+    "url": "https://github.com/amylyra/skills-marketplace"
+  },
+  {
+    "description": "A Claude Skill that diagnoses and authors agent prompts \u2014 five cheap tests before you rewrite a rule, plus the eval harn",
+    "id": "amylyra/agent-prompt-author",
+    "language": "Python",
+    "name": "amylyra/agent-prompt-author",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:23:33Z",
+    "url": "https://github.com/amylyra/agent-prompt-author"
+  },
+  {
+    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
+    "id": "XiaoMaColtAI/math-modeling-skill",
+    "language": "Python",
+    "name": "XiaoMaColtAI/math-modeling-skill",
+    "stars": 979,
+    "updated_at": "2026-08-31T21:22:25Z",
+    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
+  },
+  {
+    "description": "Hooks, rules, skills, and instructions for use with Claude Code",
+    "id": "chancegraff/rules-for-claude",
+    "language": "JavaScript",
+    "name": "chancegraff/rules-for-claude",
+    "stars": 3,
+    "updated_at": "2026-08-31T21:21:01Z",
+    "url": "https://github.com/chancegraff/rules-for-claude"
+  },
+  {
+    "description": "Read-only accounting skills for Claude, run against your own books through the MosoFin MCP gateway: month-end close, ban",
+    "id": "MosoFin/mosofin-finance-skills",
+    "language": "\u2014",
+    "name": "MosoFin/mosofin-finance-skills",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:19:42Z",
+    "url": "https://github.com/MosoFin/mosofin-finance-skills"
+  },
+  {
+    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
+    "id": "chris-peterson/beacon",
+    "language": "Python",
+    "name": "chris-peterson/beacon",
+    "stars": 1,
+    "updated_at": "2026-08-31T21:18:36Z",
+    "url": "https://github.com/chris-peterson/beacon"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-08-31T21:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
     "id": "costiash/claude-code-docs",
     "language": "Python",
@@ -45,6 +144,15 @@
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
+    "description": "Evidence-bounded skill for drafting, rewriting, humanizing, and auditing IEEE/ACM engineering manuscripts.",
+    "id": "huguryildiz/ieee-acm-paper-writing",
+    "language": "HTML",
+    "name": "huguryildiz/ieee-acm-paper-writing",
+    "stars": 3,
+    "updated_at": "2026-08-31T21:07:37Z",
+    "url": "https://github.com/huguryildiz/ieee-acm-paper-writing"
+  },
+  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -54,22 +162,13 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Go",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 6,
-    "updated_at": "2026-08-31T21:13:14Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 92769,
-    "updated_at": "2026-08-31T21:05:49Z",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "description": "Claude Code skills I built so I'd stop forgetting where I left off. Sharing in case you need them too.",
+    "id": "SpoiledMilkLabs/skills",
+    "language": "Shell",
+    "name": "SpoiledMilkLabs/skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T21:05:42Z",
+    "url": "https://github.com/SpoiledMilkLabs/skills"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -77,7 +176,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-08-31T21:08:34Z",
+    "updated_at": "2026-08-31T21:28:40Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -106,24 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T21:00:39Z",
     "url": "https://github.com/wilbeibi/wilbeibi-skills"
-  },
-  {
-    "description": "Read-only accounting skills for Claude, run against your own books through the MosoFin MCP gateway: month-end close, ban",
-    "id": "MosoFin/mosofin-finance-skills",
-    "language": "\u2014",
-    "name": "MosoFin/mosofin-finance-skills",
-    "stars": 0,
-    "updated_at": "2026-08-31T21:00:26Z",
-    "url": "https://github.com/MosoFin/mosofin-finance-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-08-31T21:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skills that tell you what you did not want to hear. grill-me interrogates work three levels deep; voice lear",
@@ -194,17 +275,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-31T21:01:30Z",
+    "updated_at": "2026-08-31T21:15:40Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Two Claude Agent Skills for sourced competitive intelligence: market landscape, and a founder-CPO edition that ends in s",
-    "id": "AIPMProfile/competitive-analysis-skill",
-    "language": "Python",
-    "name": "AIPMProfile/competitive-analysis-skill",
-    "stars": 0,
-    "updated_at": "2026-08-31T20:40:50Z",
-    "url": "https://github.com/AIPMProfile/competitive-analysis-skill"
   },
   {
     "description": "A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor",
@@ -324,15 +396,6 @@
     "url": "https://github.com/Romandredan/1c-quality-gate"
   },
   {
-    "description": "Hooks, rules, skills, and instructions for use with Claude Code",
-    "id": "chancegraff/rules-for-claude",
-    "language": "JavaScript",
-    "name": "chancegraff/rules-for-claude",
-    "stars": 3,
-    "updated_at": "2026-08-31T20:21:16Z",
-    "url": "https://github.com/chancegraff/rules-for-claude"
-  },
-  {
     "description": " Free Gemini 3.7 Flash via Google Antigravity $20 sub for Claude Code & OpenCode - use Gemini 3.7, Claude Sonnet 4.6 in ",
     "id": "1khvled/Gemini-in-OPENCODE",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-31T20:10:23Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
-    "id": "Hahaknight/claude-skills-pro",
-    "language": "\u2014",
-    "name": "Hahaknight/claude-skills-pro",
-    "stars": 0,
-    "updated_at": "2026-08-31T20:07:41Z",
-    "url": "https://github.com/Hahaknight/claude-skills-pro"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-08-31T20:07:40Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
-    "id": "the-nam-shub/e5-real-skills",
-    "language": "TypeScript",
-    "name": "the-nam-shub/e5-real-skills",
-    "stars": 8,
-    "updated_at": "2026-08-31T20:06:32Z",
-    "url": "https://github.com/the-nam-shub/e5-real-skills"
-  },
-  {
-    "description": "A blind tested skill for better creative writing. Nine signals three AI judges named after scoring 50 samples blind, the",
-    "id": "Ptlimited/writing-craft",
-    "language": "Python",
-    "name": "Ptlimited/writing-craft",
-    "stars": 0,
-    "updated_at": "2026-08-31T20:00:30Z",
-    "url": "https://github.com/Ptlimited/writing-craft"
-  },
-  {
-    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
-    "id": "andresanemic/lore-plugin",
-    "language": "JavaScript",
-    "name": "andresanemic/lore-plugin",
-    "stars": 6,
-    "updated_at": "2026-08-31T19:58:05Z",
-    "url": "https://github.com/andresanemic/lore-plugin"
-  },
-  {
-    "description": "\u628a Claude Code / Codex \u53d8\u6210\u4f60\u7684\u6570\u5b57\u5458\u5de5 \u2014 \u4e0a\u73ed\u65cf AI \u63d0\u6548\u6280\u80fd\u5305\uff08\u4e2d\u6587\uff09\uff1a6\u6280\u80fd+\u9632\u62a4Hooks+\u5de5\u4f5c\u6d41SOP",
-    "id": "Hahaknight/digital-employee-pack",
-    "language": "\u2014",
-    "name": "Hahaknight/digital-employee-pack",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:55:56Z",
-    "url": "https://github.com/Hahaknight/digital-employee-pack"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:55:38Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
   }
 ]
