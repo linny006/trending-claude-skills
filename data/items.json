@@ -1,5 +1,68 @@
 [
   {
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "id": "saifullahseodeveloper/i-have-adhd",
+    "language": "\u2014",
+    "name": "saifullahseodeveloper/i-have-adhd",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:11:16Z",
+    "url": "https://github.com/saifullahseodeveloper/i-have-adhd"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-08-31T15:09:34Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Turn a repository into a slide deck that tells you when it stops matching the code",
+    "id": "glukicov/slideops",
+    "language": "HTML",
+    "name": "glukicov/slideops",
+    "stars": 11,
+    "updated_at": "2026-08-31T15:06:12Z",
+    "url": "https://github.com/glukicov/slideops"
+  },
+  {
+    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-b",
+    "id": "polar-bear-org/claude-skills",
+    "language": "Shell",
+    "name": "polar-bear-org/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T15:13:36Z",
+    "url": "https://github.com/polar-bear-org/claude-skills"
+  },
+  {
+    "description": "Skills that started with problems I encountered.",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:03:24Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "\ud574\uc678\uc601\uc5c5 \ub2f4\ub2f9\uc790\ub97c \uc704\ud55c \ubb34\uc5ed \ud1b5\uacc4\u00b7\uc2dc\uc7a5 \uc6b0\uc120\uc21c\uc704 Claude \uc2a4\ud0ac. HS\ucf54\ub4dc\u00b7\uad6d\uac00\ubcc4 \uc218\ucd9c\uc785 \ud1b5\uacc4\uc640 \uc2e0\uaddc \uc2dc\uc7a5 \ubc1c\uad74. \uc778\uc99d\ud0a4 \ubd88\ud544\uc694.",
+    "id": "bonghyunyang/trade-skills",
+    "language": "Python",
+    "name": "bonghyunyang/trade-skills",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:02:31Z",
+    "url": "https://github.com/bonghyunyang/trade-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-31T15:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills for reading papers: Keshav's three-pass method, reproduction specs, paragraph-by-paragraph translation, dur",
     "id": "hirovel/paperthrice",
     "language": "\u2014",
@@ -9,12 +72,21 @@
     "url": "https://github.com/hirovel/paperthrice"
   },
   {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30661,
+    "updated_at": "2026-08-31T14:57:15Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68548,
-    "updated_at": "2026-08-31T14:55:49Z",
+    "updated_at": "2026-08-31T15:14:56Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -27,13 +99,13 @@
     "url": "https://github.com/WenyuChiou/ai-research-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-31T14:55:00Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "AI Coding Toolkit (Prompts, Commands, Skills, and More)",
+    "id": "BerkaySevinc/agent-toolkit",
+    "language": "Batchfile",
+    "name": "BerkaySevinc/agent-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-31T14:54:15Z",
+    "url": "https://github.com/BerkaySevinc/agent-toolkit"
   },
   {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-08-31T14:48:58Z",
+    "updated_at": "2026-08-31T15:02:46Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T14:45:22Z",
     "url": "https://github.com/SpoiledMilkLabs/skills"
-  },
-  {
-    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-b",
-    "id": "polar-bear-org/claude-skills",
-    "language": "Shell",
-    "name": "polar-bear-org/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T14:45:20Z",
-    "url": "https://github.com/polar-bear-org/claude-skills"
   },
   {
     "description": "My custom skills for different agents",
@@ -167,7 +230,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-08-31T14:50:47Z",
+    "updated_at": "2026-08-31T15:15:10Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -198,21 +261,12 @@
     "url": "https://github.com/DROOdotFOO/agent-skills"
   },
   {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30660,
-    "updated_at": "2026-08-31T14:57:15Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
     "id": "danieljustus/symaira-eraseme",
     "language": "Python",
     "name": "danieljustus/symaira-eraseme",
     "stars": 6,
-    "updated_at": "2026-08-31T14:18:46Z",
+    "updated_at": "2026-08-31T15:08:52Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-08-31T14:21:11Z",
+    "updated_at": "2026-08-31T15:14:06Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T13:53:22Z",
     "url": "https://github.com/bluepagesdoteth/agent-plugins"
-  },
-  {
-    "description": "Evidence-driven interview preparation for any role, across ChatGPT and Claude.",
-    "id": "amirbena/interview-journey",
-    "language": "Shell",
-    "name": "amirbena/interview-journey",
-    "stars": 0,
-    "updated_at": "2026-08-31T13:51:32Z",
-    "url": "https://github.com/amirbena/interview-journey"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
-    "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 2,
-    "updated_at": "2026-08-31T13:49:13Z",
-    "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
-    "id": "isamubas/coffee_price_predictor",
-    "language": "HTML",
-    "name": "isamubas/coffee_price_predictor",
-    "stars": 0,
-    "updated_at": "2026-08-31T13:48:05Z",
-    "url": "https://github.com/isamubas/coffee_price_predictor"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-08-31T14:59:25Z",
-    "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specificat",
-    "id": "tzachbon/smart-ralph",
-    "language": "Shell",
-    "name": "tzachbon/smart-ralph",
-    "stars": 527,
-    "updated_at": "2026-08-31T13:48:43Z",
-    "url": "https://github.com/tzachbon/smart-ralph"
-  },
-  {
-    "description": "PCM stack's official collection of agent skills",
-    "id": "PCMStack/agent-skills",
-    "language": "Shell",
-    "name": "PCMStack/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-31T13:43:10Z",
-    "url": "https://github.com/PCMStack/agent-skills"
   }
 ]
