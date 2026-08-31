@@ -1,5 +1,41 @@
 [
   {
+    "description": "Agent skills for reading papers: Keshav's three-pass method, reproduction specs, paragraph-by-paragraph translation, dur",
+    "id": "hirovel/paperthrice",
+    "language": "\u2014",
+    "name": "hirovel/paperthrice",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:59:58Z",
+    "url": "https://github.com/hirovel/paperthrice"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68548,
+    "updated_at": "2026-08-31T14:55:49Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
+    "id": "WenyuChiou/ai-research-skills",
+    "language": "Python",
+    "name": "WenyuChiou/ai-research-skills",
+    "stars": 232,
+    "updated_at": "2026-08-31T14:55:10Z",
+    "url": "https://github.com/WenyuChiou/ai-research-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-31T14:55:00Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
     "id": "HsuanYuLee/polaris",
     "language": "Shell",
@@ -18,13 +54,22 @@
     "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 34,
-    "updated_at": "2026-08-31T14:45:57Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-08-31T14:48:58Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "15 battle-tested engineering skills for Claude Code \u2014 code review, testing, debugging, security, zero-downtime migration",
+    "id": "Hahaknight/claude-skills-pro",
+    "language": "\u2014",
+    "name": "Hahaknight/claude-skills-pro",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:48:47Z",
+    "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
   {
     "description": "Claude Code skills I built so I'd stop forgetting where I left off. Sharing in case you need them too.",
@@ -99,15 +144,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Agent skills for reading papers: Keshav's three-pass method, reproduction specs, paragraph-by-paragraph translation, dur",
-    "id": "hirovel/paperthrice",
-    "language": "\u2014",
-    "name": "hirovel/paperthrice",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:36:47Z",
-    "url": "https://github.com/hirovel/paperthrice"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -126,15 +162,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68549,
-    "updated_at": "2026-08-31T14:32:35Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T14:25:53Z",
     "url": "https://github.com/zjykzj/DataFlow-CV"
-  },
-  {
-    "description": "15 battle-tested engineering skills for Claude Code \u2014 code review, testing, debugging, security, zero-downtime migration",
-    "id": "Hahaknight/claude-skills-pro",
-    "language": "\u2014",
-    "name": "Hahaknight/claude-skills-pro",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:48:47Z",
-    "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
   {
     "description": "A library of standalone Agent Skills for Claude Code, Codex, and other agent runtimes. Install one skill, not a framewor",
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30660,
-    "updated_at": "2026-08-31T14:33:30Z",
+    "updated_at": "2026-08-31T14:57:15Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -196,15 +214,6 @@
     "stars": 6,
     "updated_at": "2026-08-31T14:18:46Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-08-31T14:48:58Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Awesome Claude Code And Agent Tools",
@@ -320,7 +329,7 @@
     "language": "TypeScript",
     "name": "liustack/pptwise",
     "stars": 11,
-    "updated_at": "2026-08-31T14:51:58Z",
+    "updated_at": "2026-08-31T14:58:02Z",
     "url": "https://github.com/liustack/pptwise"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "huangwb8/skills",
     "stars": 48,
-    "updated_at": "2026-08-31T13:44:28Z",
+    "updated_at": "2026-08-31T14:59:25Z",
     "url": "https://github.com/huangwb8/skills"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T13:43:10Z",
     "url": "https://github.com/PCMStack/agent-skills"
-  },
-  {
-    "description": "The agent-agnostic AI tutor skill that writes into your Obsidian vault \u2014 works with Claude Code, Codex, Cursor, Windsurf",
-    "id": "Mohamed-El-Sharqawy/agent-tutor",
-    "language": "HTML",
-    "name": "Mohamed-El-Sharqawy/agent-tutor",
-    "stars": 3,
-    "updated_at": "2026-08-31T14:12:44Z",
-    "url": "https://github.com/Mohamed-El-Sharqawy/agent-tutor"
   }
 ]
