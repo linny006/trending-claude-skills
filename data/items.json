@@ -1,5 +1,86 @@
 [
   {
+    "description": "NestJS backend for a platform connecting installed doctors with replacement doctors in France, cutting administrative fr",
+    "id": "lellis-medical-group/kineo-nest-backend",
+    "language": "TypeScript",
+    "name": "lellis-medical-group/kineo-nest-backend",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:26:23Z",
+    "url": "https://github.com/lellis-medical-group/kineo-nest-backend"
+  },
+  {
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 1,
+    "updated_at": "2026-08-31T23:25:34Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
+    "id": "mateusands/claude-code-crew-kit",
+    "language": "JavaScript",
+    "name": "mateusands/claude-code-crew-kit",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:22:15Z",
+    "url": "https://github.com/mateusands/claude-code-crew-kit"
+  },
+  {
+    "description": "Skills I wrote for Claude. Published from a private working library.",
+    "id": "LarrySequino/skills",
+    "language": "Python",
+    "name": "LarrySequino/skills",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:21:07Z",
+    "url": "https://github.com/LarrySequino/skills"
+  },
+  {
+    "description": "Some useful AI agent Skills",
+    "id": "j-256/agent-skills",
+    "language": "JavaScript",
+    "name": "j-256/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-08-31T23:20:28Z",
+    "url": "https://github.com/j-256/agent-skills"
+  },
+  {
+    "description": "Deterministic assertion harness for claude -p stream-json transcripts",
+    "id": "j-256/stream-eval",
+    "language": "Python",
+    "name": "j-256/stream-eval",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:20:24Z",
+    "url": "https://github.com/j-256/stream-eval"
+  },
+  {
+    "description": "Read-only accounting skills for Claude, run against your own books through the MosoFin MCP gateway: month-end close, ban",
+    "id": "MosoFin/mosofin-finance-skills",
+    "language": "\u2014",
+    "name": "MosoFin/mosofin-finance-skills",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:15:19Z",
+    "url": "https://github.com/MosoFin/mosofin-finance-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-08-31T23:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 8,
+    "updated_at": "2026-08-31T23:14:25Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
     "description": "The missing tool to sift your Claude Code sessions: regex search across all record types, recover files, extract images,",
     "id": "wdhwg001/csift",
     "language": "Rust",
@@ -58,18 +139,9 @@
     "id": "cbrock84/headcount",
     "language": "Markdown",
     "name": "cbrock84/headcount",
-    "stars": 843,
+    "stars": 844,
     "updated_at": "2026-08-31T23:01:56Z",
     "url": "https://github.com/cbrock84/headcount"
-  },
-  {
-    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
-    "id": "mateusands/claude-code-crew-kit",
-    "language": "JavaScript",
-    "name": "mateusands/claude-code-crew-kit",
-    "stars": 0,
-    "updated_at": "2026-08-31T23:01:54Z",
-    "url": "https://github.com/mateusands/claude-code-crew-kit"
   },
   {
     "description": "Personal AI job-search assistant, built as a Claude Skills package on a single GitHub repo. Guided onboarding, persisten",
@@ -108,20 +180,11 @@
     "url": "https://github.com/nota-america/forgecat-agent-profiles"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-08-31T23:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 92775,
+    "stars": 92776,
     "updated_at": "2026-08-31T22:56:31Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -151,15 +214,6 @@
     "stars": 432,
     "updated_at": "2026-08-31T22:51:46Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Read-only accounting skills for Claude, run against your own books through the MosoFin MCP gateway: month-end close, ban",
-    "id": "MosoFin/mosofin-finance-skills",
-    "language": "\u2014",
-    "name": "MosoFin/mosofin-finance-skills",
-    "stars": 0,
-    "updated_at": "2026-08-31T22:51:27Z",
-    "url": "https://github.com/MosoFin/mosofin-finance-skills"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -243,24 +297,6 @@
     "url": "https://github.com/JoseLuis21/claude-plugins"
   },
   {
-    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "JavaScript",
-    "name": "SteveKinzey/claude-code-tools-installer",
-    "stars": 1,
-    "updated_at": "2026-08-31T22:42:09Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
-    "description": "Some useful AI agent Skills",
-    "id": "j-256/agent-skills",
-    "language": "JavaScript",
-    "name": "j-256/agent-skills",
-    "stars": 2,
-    "updated_at": "2026-08-31T22:49:48Z",
-    "url": "https://github.com/j-256/agent-skills"
-  },
-  {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
     "id": "BENZEMA216/awesome-weread",
     "language": "JavaScript",
@@ -322,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T22:28:44Z",
     "url": "https://github.com/RemiAsselin42/claude-config"
-  },
-  {
-    "description": "Skills I wrote for Claude. Published from a private working library.",
-    "id": "LarrySequino/skills",
-    "language": "Python",
-    "name": "LarrySequino/skills",
-    "stars": 0,
-    "updated_at": "2026-08-31T22:24:24Z",
-    "url": "https://github.com/LarrySequino/skills"
   },
   {
     "description": "My custom skills for different agents",
@@ -421,32 +448,5 @@
     "stars": 110,
     "updated_at": "2026-08-31T22:33:33Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Claude Code skill suite for portfolio SEO ops: audits, topical maps, link acquisition, local pack strategy, GA4 telemetr",
-    "id": "abouchard11/midnight-seo-skills",
-    "language": "\u2014",
-    "name": "abouchard11/midnight-seo-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T21:58:44Z",
-    "url": "https://github.com/abouchard11/midnight-seo-skills"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-08-31T21:52:03Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-08-31T21:51:28Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   }
 ]
