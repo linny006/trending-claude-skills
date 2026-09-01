@@ -1,5 +1,50 @@
 [
   {
+    "description": "An editing skill that removes the tells of AI writing while keeping the writer's voice. For Claude Code, claude.ai, or a",
+    "id": "erikkurtu/plainspoken",
+    "language": "\u2014",
+    "name": "erikkurtu/plainspoken",
+    "stars": 0,
+    "updated_at": "2026-09-01T16:45:06Z",
+    "url": "https://github.com/erikkurtu/plainspoken"
+  },
+  {
+    "description": "\u628a Claude Code / Codex \u53d8\u6210\u4f60\u7684\u6570\u5b57\u5458\u5de5 \u2014 \u4e0a\u73ed\u65cf AI \u63d0\u6548\u6280\u80fd\u5305\uff08\u4e2d\u6587\uff09\uff1a6\u6280\u80fd+\u9632\u62a4Hooks+\u5de5\u4f5c\u6d41SOP",
+    "id": "Hahaknight/digital-employee-pack",
+    "language": "\u2014",
+    "name": "Hahaknight/digital-employee-pack",
+    "stars": 0,
+    "updated_at": "2026-09-01T16:36:29Z",
+    "url": "https://github.com/Hahaknight/digital-employee-pack"
+  },
+  {
+    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
+    "id": "Hahaknight/claude-skills-pro",
+    "language": "\u2014",
+    "name": "Hahaknight/claude-skills-pro",
+    "stars": 3,
+    "updated_at": "2026-09-01T16:36:26Z",
+    "url": "https://github.com/Hahaknight/claude-skills-pro"
+  },
+  {
+    "description": "Twenty-two instructional skills teaching market and competitive intelligence as collection disciplines, for Product Mana",
+    "id": "Productside/Productside-Market-Intelligence-Skills",
+    "language": "Python",
+    "name": "Productside/Productside-Market-Intelligence-Skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T16:30:54Z",
+    "url": "https://github.com/Productside/Productside-Market-Intelligence-Skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T16:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, j",
     "id": "ara-mkr/Wonder-Pill",
     "language": "\u2014",
@@ -9,21 +54,12 @@
     "url": "https://github.com/ara-mkr/Wonder-Pill"
   },
   {
-    "description": "An editing skill that removes the tells of AI writing while keeping the writer's voice. For Claude Code, claude.ai, or a",
-    "id": "erikkurtu/plainspoken",
-    "language": "\u2014",
-    "name": "erikkurtu/plainspoken",
-    "stars": 0,
-    "updated_at": "2026-09-01T16:26:51Z",
-    "url": "https://github.com/erikkurtu/plainspoken"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-01T16:27:48Z",
+    "updated_at": "2026-09-01T16:41:57Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -41,8 +77,17 @@
     "language": "Python",
     "name": "seokhoonj/newswatcher",
     "stars": 0,
-    "updated_at": "2026-09-01T16:21:28Z",
+    "updated_at": "2026-09-01T16:38:38Z",
     "url": "https://github.com/seokhoonj/newswatcher"
+  },
+  {
+    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
+    "id": "petar-djukic/writing-skills",
+    "language": "Python",
+    "name": "petar-djukic/writing-skills",
+    "stars": 3,
+    "updated_at": "2026-09-01T16:18:41Z",
+    "url": "https://github.com/petar-djukic/writing-skills"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -54,24 +99,6 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "Twenty-two instructional skills teaching market and competitive intelligence as collection disciplines, for Product Mana",
-    "id": "Productside/Productside-Market-Intelligence-Skills",
-    "language": "Python",
-    "name": "Productside/Productside-Market-Intelligence-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T16:16:55Z",
-    "url": "https://github.com/Productside/Productside-Market-Intelligence-Skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T16:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Bilingual, review-gated Twitter/X automation skill suite powered by ThreadWave",
     "id": "ohmyskyhigh/threadwave-skill",
     "language": "JavaScript",
@@ -79,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T16:13:39Z",
     "url": "https://github.com/ohmyskyhigh/threadwave-skill"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-01T16:09:32Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
     "description": "Unified design, motion, 3D, and video super skill for AI coding agents - eight upstream knowledge bases distilled into o",
@@ -97,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-09-01T16:08:49Z",
     "url": "https://github.com/1398281322-a11y/java-backend-guardrails"
+  },
+  {
+    "description": "A Claude Code skill that offloads agentic work to a cheaper local or API model. Honestly graded, subscription-safe.",
+    "id": "3dl-dev/opencode-worker",
+    "language": "HTML",
+    "name": "3dl-dev/opencode-worker",
+    "stars": 1,
+    "updated_at": "2026-09-01T16:05:41Z",
+    "url": "https://github.com/3dl-dev/opencode-worker"
   },
   {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
@@ -153,6 +198,33 @@
     "url": "https://github.com/Loriabient5377/blahblahblah-skill"
   },
   {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 2,
+    "updated_at": "2026-09-01T15:52:28Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
+    "id": "aaamaxito-prog/deadeye",
+    "language": "Swift",
+    "name": "aaamaxito-prog/deadeye",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:52:16Z",
+    "url": "https://github.com/aaamaxito-prog/deadeye"
+  },
+  {
+    "description": "20 AI agents in your git workflow. Secrets, injection flaws and unsafe migrations are blocked at commit; performance, co",
+    "id": "mantacron/manta",
+    "language": "Shell",
+    "name": "mantacron/manta",
+    "stars": 10,
+    "updated_at": "2026-09-01T15:51:14Z",
+    "url": "https://github.com/mantacron/manta"
+  },
+  {
     "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
     "id": "Gonadotrophic-tangent41/ux-ui-skills",
     "language": "\u2014",
@@ -178,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T15:49:58Z",
     "url": "https://github.com/a1964378/geo-mcp-servers"
+  },
+  {
+    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
+    "id": "triune-contemplation240/biks-claude-loader-update",
+    "language": "HTML",
+    "name": "triune-contemplation240/biks-claude-loader-update",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:49:44Z",
+    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
   },
   {
     "description": "Manage long-form AI conversations and code workflows on Windows, macOS, and Linux with this standalone desktop workspace",
@@ -243,15 +324,6 @@
     "url": "https://github.com/jesusda3699/claude-rtl-persian"
   },
   {
-    "description": "\u628a Claude Code / Codex \u53d8\u6210\u4f60\u7684\u6570\u5b57\u5458\u5de5 \u2014 \u4e0a\u73ed\u65cf AI \u63d0\u6548\u6280\u80fd\u5305\uff08\u4e2d\u6587\uff09\uff1a6\u6280\u80fd+\u9632\u62a4Hooks+\u5de5\u4f5c\u6d41SOP",
-    "id": "Hahaknight/digital-employee-pack",
-    "language": "\u2014",
-    "name": "Hahaknight/digital-employee-pack",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:43:56Z",
-    "url": "https://github.com/Hahaknight/digital-employee-pack"
-  },
-  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "TypeScript",
@@ -259,15 +331,6 @@
     "stars": 55,
     "updated_at": "2026-09-01T15:43:55Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
-    "id": "Hahaknight/claude-skills-pro",
-    "language": "\u2014",
-    "name": "Hahaknight/claude-skills-pro",
-    "stars": 3,
-    "updated_at": "2026-09-01T15:43:27Z",
-    "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
   {
     "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T15:40:48Z",
     "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:40:30Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-09-01T15:40:23Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:40:22Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:39:15Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "\u8e0f\u96ea\u521b\u610f\u98ce\u683c\u63d2\u753b skill\uff0c\u5305\u542b14 \u5bb6\u65cf  \u4e30\u5bcc\u7684\u53d8\u4f53\u98ce\u683c\u5e93\uff0c\u63d0\u793a\u8bcd\u4e03\u7ef4\u4f18\u5316\uff0c\u5143\u63d0\u793a\u8bcd\u521b\u4f5c\uff0c\u521b\u4f5c\u504f\u597d\u672c\u5730\u8bb0\u5fc6\u3002",
-    "id": "taxueseek/taxue-creative-style",
-    "language": "Python",
-    "name": "taxueseek/taxue-creative-style",
-    "stars": 10,
-    "updated_at": "2026-09-01T15:39:15Z",
-    "url": "https://github.com/taxueseek/taxue-creative-style"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:38:48Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-09-01T15:38:38Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
   }
 ]
