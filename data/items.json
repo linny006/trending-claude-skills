@@ -1,11 +1,101 @@
 [
   {
+    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
+    "id": "Neetx/ai-security-research-radar",
+    "language": "\u2014",
+    "name": "Neetx/ai-security-research-radar",
+    "stars": 4,
+    "updated_at": "2026-09-01T05:44:10Z",
+    "url": "https://github.com/Neetx/ai-security-research-radar"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-09-01T05:41:58Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 2,
+    "updated_at": "2026-09-01T05:38:08Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-01T05:35:48Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-01T05:33:19Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 415,
+    "updated_at": "2026-09-01T05:32:32Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68572,
+    "updated_at": "2026-09-01T05:43:41Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-09-01T05:31:24Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
+    "id": "ArcticFox2029/chamnan",
+    "language": "Python",
+    "name": "ArcticFox2029/chamnan",
+    "stars": 4,
+    "updated_at": "2026-09-01T05:31:08Z",
+    "url": "https://github.com/ArcticFox2029/chamnan"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T05:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-01T05:29:23Z",
+    "updated_at": "2026-09-01T05:43:07Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "richfrem/agent-plugins-skills",
     "stars": 6,
-    "updated_at": "2026-09-01T05:27:18Z",
+    "updated_at": "2026-09-01T05:43:27Z",
     "url": "https://github.com/richfrem/agent-plugins-skills"
   },
   {
@@ -90,15 +180,6 @@
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68571,
-    "updated_at": "2026-09-01T05:20:25Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "How can I make the code I write easier to remember and safer to use?",
     "id": "Dev-HyunSang/hyunsangs-claude-kit",
     "language": "\u2014",
@@ -106,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T05:17:15Z",
     "url": "https://github.com/Dev-HyunSang/hyunsangs-claude-kit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T05:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-01T05:14:26Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -225,15 +288,6 @@
     "url": "https://github.com/Edward0l1/skill-flare-discover"
   },
   {
-    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
-    "id": "ArcticFox2029/chamnan",
-    "language": "Python",
-    "name": "ArcticFox2029/chamnan",
-    "stars": 4,
-    "updated_at": "2026-09-01T04:42:22Z",
-    "url": "https://github.com/ArcticFox2029/chamnan"
-  },
-  {
     "description": "Safely run OpenCode, Codex, Claude Code with full permissions.",
     "id": "aerovato/container",
     "language": "TypeScript",
@@ -315,15 +369,6 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-09-01T05:25:14Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
     "id": "YPares/rigup.nix",
     "language": "Nix",
@@ -331,15 +376,6 @@
     "stars": 86,
     "updated_at": "2026-09-01T04:09:50Z",
     "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
-    "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 2,
-    "updated_at": "2026-09-01T04:00:35Z",
-    "url": "https://github.com/OKHP3/skillz"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T03:36:07Z",
     "url": "https://github.com/getlost01/stock-research-skills"
-  },
-  {
-    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
-    "id": "hanzhangzzz/agent-skills-zh",
-    "language": "Python",
-    "name": "hanzhangzzz/agent-skills-zh",
-    "stars": 1,
-    "updated_at": "2026-09-01T05:06:18Z",
-    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
-  },
-  {
-    "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
-    "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
-    "language": "TypeScript",
-    "name": "Shantydotcom/northstariq-revenue-operations-intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-01T03:14:40Z",
-    "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
-  },
-  {
-    "description": "Apcore ecosystem management skill for Claude Code. Handles cross-language SDK synchronization, framework integration sca",
-    "id": "aiperceivable/apcore-skills",
-    "language": "Python",
-    "name": "aiperceivable/apcore-skills",
-    "stars": 1,
-    "updated_at": "2026-09-01T03:08:23Z",
-    "url": "https://github.com/aiperceivable/apcore-skills"
-  },
-  {
-    "description": "Markdown to WeChat CLI | \u4e00\u952e\u6392\u7248\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u652f\u6301 40+ \u6392\u7248\u6837\u5f0f\u548c\u4e13\u4e1a\u4e3b\u9898 \u3001AI \u914d\u56fe \u3001\u6279\u91cf\u53d1\u5e03 \u3001\u591a\u8d26\u53f7\u7ba1\u7406",
-    "id": "geekjourneyx/md2wechat-skill",
-    "language": "Go",
-    "name": "geekjourneyx/md2wechat-skill",
-    "stars": 3613,
-    "updated_at": "2026-09-01T03:09:57Z",
-    "url": "https://github.com/geekjourneyx/md2wechat-skill"
   }
 ]
