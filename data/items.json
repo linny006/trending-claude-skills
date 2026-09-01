@@ -1,12 +1,75 @@
 [
   {
+    "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands \u2014 GitHub + Convex (self-hosted & Cloud)",
+    "id": "rahmanef63/si-coder-agent",
+    "language": "JavaScript",
+    "name": "rahmanef63/si-coder-agent",
+    "stars": 14,
+    "updated_at": "2026-09-01T11:23:46Z",
+    "url": "https://github.com/rahmanef63/si-coder-agent"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-01T11:24:06Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Evidence-chain memory for AI agents - verbatim-first, auditable, anti-fabrication. Tell your story once, recall it with ",
+    "id": "caix84476-netizen/personal-understanding",
+    "language": "Python",
+    "name": "caix84476-netizen/personal-understanding",
+    "stars": 1,
+    "updated_at": "2026-09-01T11:22:17Z",
+    "url": "https://github.com/caix84476-netizen/personal-understanding"
+  },
+  {
+    "description": "A collection of reusable AI agent skills for research, coding, writing, analysis, automation, and everyday workflows.",
+    "id": "leomajewski/skills-something",
+    "language": "\u2014",
+    "name": "leomajewski/skills-something",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:21:25Z",
+    "url": "https://github.com/leomajewski/skills-something"
+  },
+  {
     "description": "Research-backed Hinge profile optimizer for ChatGPT, Codex and Claude Code: screenshot audits, photo strategy, prompt wr",
     "id": "b1rdmania/hinge-profile-optimizer",
     "language": "Shell",
     "name": "b1rdmania/hinge-profile-optimizer",
     "stars": 57,
-    "updated_at": "2026-09-01T11:12:28Z",
+    "updated_at": "2026-09-01T11:19:00Z",
     "url": "https://github.com/b1rdmania/hinge-profile-optimizer"
+  },
+  {
+    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
+    "id": "JanYork/llm-wiki-cli",
+    "language": "Rust",
+    "name": "JanYork/llm-wiki-cli",
+    "stars": 49,
+    "updated_at": "2026-09-01T11:26:01Z",
+    "url": "https://github.com/JanYork/llm-wiki-cli"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T11:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
+    "id": "petar-djukic/writing-skills",
+    "language": "Python",
+    "name": "petar-djukic/writing-skills",
+    "stars": 3,
+    "updated_at": "2026-09-01T11:14:44Z",
+    "url": "https://github.com/petar-djukic/writing-skills"
   },
   {
     "description": "",
@@ -27,31 +90,22 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-01T11:12:10Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-01T11:11:58Z",
+    "updated_at": "2026-09-01T11:29:37Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
-    "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands \u2014 GitHub + Convex (self-hosted & Cloud)",
-    "id": "rahmanef63/si-coder-agent",
-    "language": "JavaScript",
-    "name": "rahmanef63/si-coder-agent",
-    "stars": 14,
-    "updated_at": "2026-09-01T11:10:42Z",
-    "url": "https://github.com/rahmanef63/si-coder-agent"
+    "description": "Free MCP server to verify Polish companies (NIP/KRS/REGON) + EU VAT (VIES). 9 tools, no key. Live at skanfirmy.pl/mcp",
+    "id": "bartosz-kuc/skanfirmy-mcp",
+    "language": "\u2014",
+    "name": "bartosz-kuc/skanfirmy-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:10:31Z",
+    "url": "https://github.com/bartosz-kuc/skanfirmy-mcp"
   },
   {
     "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
@@ -72,15 +126,6 @@
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
-    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
-    "id": "petar-djukic/writing-skills",
-    "language": "Python",
-    "name": "petar-djukic/writing-skills",
-    "stars": 3,
-    "updated_at": "2026-09-01T11:14:44Z",
-    "url": "https://github.com/petar-djukic/writing-skills"
-  },
-  {
     "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
     "id": "TryWorld2026/paper-algorithm",
     "language": "Python",
@@ -88,15 +133,6 @@
     "stars": 26,
     "updated_at": "2026-09-01T11:02:59Z",
     "url": "https://github.com/TryWorld2026/paper-algorithm"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T11:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top ",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "codeswithroh/tastemaker",
     "stars": 286,
-    "updated_at": "2026-09-01T10:43:13Z",
+    "updated_at": "2026-09-01T11:29:31Z",
     "url": "https://github.com/codeswithroh/tastemaker"
   },
   {
@@ -247,7 +283,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33528,
+    "stars": 33529,
     "updated_at": "2026-09-01T10:39:42Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -274,7 +310,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 6987,
+    "stars": 6988,
     "updated_at": "2026-09-01T10:34:41Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -347,7 +383,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-01T11:13:38Z",
+    "updated_at": "2026-09-01T11:25:24Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -391,7 +427,7 @@
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
-    "stars": 8913,
+    "stars": 8914,
     "updated_at": "2026-09-01T10:13:45Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T10:09:35Z",
     "url": "https://github.com/chaserr/novel-craft"
-  },
-  {
-    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
-    "id": "LinklyAI/best-skills",
-    "language": "\u2014",
-    "name": "LinklyAI/best-skills",
-    "stars": 353,
-    "updated_at": "2026-09-01T10:06:16Z",
-    "url": "https://github.com/LinklyAI/best-skills"
-  },
-  {
-    "description": "Agent skill for Swedish accessibility statements (DOS-lagen, MDFFS 2019:2, EN 301 549/WCAG) \u2013 writes, updates and checks",
-    "id": "pattespatte/tillganglighetsredogorelse-skill",
-    "language": "Python",
-    "name": "pattespatte/tillganglighetsredogorelse-skill",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:06:07Z",
-    "url": "https://github.com/pattespatte/tillganglighetsredogorelse-skill"
-  },
-  {
-    "description": "The data pipeline behind LinklyAI/best-skills \u2014 a daily, cross-ecosystem ranking of AI agent skills",
-    "id": "LinklyAI/best-skills-runner",
-    "language": "TypeScript",
-    "name": "LinklyAI/best-skills-runner",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:05:14Z",
-    "url": "https://github.com/LinklyAI/best-skills-runner"
-  },
-  {
-    "description": "Custom Laravel skills for Claude Code",
-    "id": "yuriymarad/laravel-skills",
-    "language": "\u2014",
-    "name": "yuriymarad/laravel-skills",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:04:48Z",
-    "url": "https://github.com/yuriymarad/laravel-skills"
   }
 ]
