@@ -1,11 +1,38 @@
 [
   {
+    "description": "Free agent skills for Claude Code and SKILL.md agents. Add with: /plugin marketplace add justhandledlabs/skills. Eleven ",
+    "id": "justhandledlabs/skills",
+    "language": "Python",
+    "name": "justhandledlabs/skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:41:12Z",
+    "url": "https://github.com/justhandledlabs/skills"
+  },
+  {
+    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
+    "id": "petar-djukic/writing-skills",
+    "language": "Python",
+    "name": "petar-djukic/writing-skills",
+    "stars": 3,
+    "updated_at": "2026-09-01T14:40:39Z",
+    "url": "https://github.com/petar-djukic/writing-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T14:30:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code agent skills: multi-expert stock analysis, markdown-to-docx",
     "id": "desmondc9/agent-skills",
     "language": "JavaScript",
     "name": "desmondc9/agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T14:24:08Z",
+    "updated_at": "2026-09-01T14:30:26Z",
     "url": "https://github.com/desmondc9/agent-skills"
   },
   {
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68585,
-    "updated_at": "2026-09-01T14:22:07Z",
+    "updated_at": "2026-09-01T14:39:32Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -45,21 +72,12 @@
     "url": "https://github.com/thrixel/build-world"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T14:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-01T14:29:59Z",
+    "updated_at": "2026-09-01T14:43:36Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -90,15 +108,6 @@
     "url": "https://github.com/brainAlly/pm-cortex"
   },
   {
-    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
-    "id": "petar-djukic/writing-skills",
-    "language": "Python",
-    "name": "petar-djukic/writing-skills",
-    "stars": 3,
-    "updated_at": "2026-09-01T14:26:40Z",
-    "url": "https://github.com/petar-djukic/writing-skills"
-  },
-  {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
     "id": "xr843/Master-skill",
     "language": "Python",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "seokhoonj/newswatcher",
     "stars": 0,
-    "updated_at": "2026-09-01T14:03:51Z",
+    "updated_at": "2026-09-01T14:39:25Z",
     "url": "https://github.com/seokhoonj/newswatcher"
   },
   {
@@ -140,8 +149,35 @@
     "language": "Python",
     "name": "wshobson/agents",
     "stars": 39326,
-    "updated_at": "2026-09-01T14:02:47Z",
+    "updated_at": "2026-09-01T14:34:50Z",
     "url": "https://github.com/wshobson/agents"
+  },
+  {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
+    "id": "ratel-ai/ratel",
+    "language": "TypeScript",
+    "name": "ratel-ai/ratel",
+    "stars": 432,
+    "updated_at": "2026-09-01T14:01:09Z",
+    "url": "https://github.com/ratel-ai/ratel"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-09-01T13:58:00Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "A Real, Local Operator: an offline NL-to-command fallback for when your coding agent is down that never invents a comman",
+    "id": "3dl-dev/arlo",
+    "language": "Python",
+    "name": "3dl-dev/arlo",
+    "stars": 0,
+    "updated_at": "2026-09-01T13:55:51Z",
+    "url": "https://github.com/3dl-dev/arlo"
   },
   {
     "description": "A tap of tested, self-building hoist skills for real apps.",
@@ -151,6 +187,33 @@
     "stars": 0,
     "updated_at": "2026-09-01T13:55:34Z",
     "url": "https://github.com/3dl-dev/hoistables"
+  },
+  {
+    "description": "A Claude Code skill that offloads agentic work to a cheaper local or API model. Honestly graded, subscription-safe.",
+    "id": "3dl-dev/opencode-worker",
+    "language": "HTML",
+    "name": "3dl-dev/opencode-worker",
+    "stars": 0,
+    "updated_at": "2026-09-01T13:55:26Z",
+    "url": "https://github.com/3dl-dev/opencode-worker"
+  },
+  {
+    "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-09-01T13:53:31Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Deterministic trigger and synthesis evaluation for Agent Skills across Claude Code, Codex, and OpenCode.",
+    "id": "j-256/stream-eval",
+    "language": "Python",
+    "name": "j-256/stream-eval",
+    "stars": 0,
+    "updated_at": "2026-09-01T13:53:16Z",
+    "url": "https://github.com/j-256/stream-eval"
   },
   {
     "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
@@ -324,15 +387,6 @@
     "url": "https://github.com/JBSag/pm-artisan"
   },
   {
-    "description": "Deterministic trigger and synthesis evaluation for Agent Skills across Claude Code, Codex, and OpenCode.",
-    "id": "j-256/stream-eval",
-    "language": "Python",
-    "name": "j-256/stream-eval",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:53:16Z",
-    "url": "https://github.com/j-256/stream-eval"
-  },
-  {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
     "id": "Ford-1/postgresql-mcp-connector",
     "language": "HTML",
@@ -392,61 +446,7 @@
     "language": "HTML",
     "name": "aisenseapi/aisense-free-public-rest-apis",
     "stars": 0,
-    "updated_at": "2026-09-01T14:28:25Z",
+    "updated_at": "2026-09-01T14:36:17Z",
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30672,
-    "updated_at": "2026-09-01T14:11:57Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:15:25Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Build fully editable PowerPoint decks in the Prznt Perfect design system. Turns content or a topic into a structured .pp",
-    "id": "przntperfect/prznt-deck",
-    "language": "Python",
-    "name": "przntperfect/prznt-deck",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:15:06Z",
-    "url": "https://github.com/przntperfect/prznt-deck"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:14:54Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Local, evidence-based checks for marketing and RevOps exports: PII leaks, broken UTMs, conversion gaps, and lead routing",
-    "id": "m7mdwb/martech-verify",
-    "language": "Python",
-    "name": "m7mdwb/martech-verify",
-    "stars": 4,
-    "updated_at": "2026-09-01T13:13:15Z",
-    "url": "https://github.com/m7mdwb/martech-verify"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-09-01T13:12:39Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   }
 ]
