@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-01T10:14:30Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u4e0e\u5ba1\u7a3f Claude Code plugin\u3002\u9898\u6750\u4e2d\u6027 \u2014 \u6821\u56ed\u9752\u6625\u3001\u60ac\u7591\u3001\u6b66\u4fa0\u3001\u79d1\u5e7b\u3001\u5386\u53f2\u3001\u90fd\u5e02\u7b49\u957f\u7bc7\u5747\u53ef\u3002\u5305\u542b 5 \u4e2a skill + 12 \u4e2a agent + 8 \u7bc7\u901a\u7528\u5199\u4f5c\u6280\u6cd5 reference\u3002",
+    "id": "chaserr/novel-craft",
+    "language": "\u2014",
+    "name": "chaserr/novel-craft",
+    "stars": 2,
+    "updated_at": "2026-09-01T10:09:35Z",
+    "url": "https://github.com/chaserr/novel-craft"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T10:08:41Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "music skill skill.md plz give me a feed back",
+    "id": "sharmamanjuroyal-crypto/music-skill",
+    "language": "\u2014",
+    "name": "sharmamanjuroyal-crypto/music-skill",
+    "stars": 1,
+    "updated_at": "2026-09-01T10:08:03Z",
+    "url": "https://github.com/sharmamanjuroyal-crypto/music-skill"
+  },
+  {
     "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
     "id": "LinklyAI/best-skills",
     "language": "\u2014",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
     "stars": 8910,
-    "updated_at": "2026-09-01T10:06:13Z",
+    "updated_at": "2026-09-01T10:13:45Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
   {
@@ -27,13 +63,40 @@
     "url": "https://github.com/pattespatte/tillganglighetsredogorelse-skill"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
+    "description": "The data pipeline behind LinklyAI/best-skills \u2014 a daily, cross-ecosystem ranking of AI agent skills",
+    "id": "LinklyAI/best-skills-runner",
     "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-01T10:05:35Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
+    "name": "LinklyAI/best-skills-runner",
+    "stars": 1,
+    "updated_at": "2026-09-01T10:05:14Z",
+    "url": "https://github.com/LinklyAI/best-skills-runner"
+  },
+  {
+    "description": "Custom Laravel skills for Claude Code",
+    "id": "yuriymarad/laravel-skills",
+    "language": "\u2014",
+    "name": "yuriymarad/laravel-skills",
+    "stars": 1,
+    "updated_at": "2026-09-01T10:04:48Z",
+    "url": "https://github.com/yuriymarad/laravel-skills"
+  },
+  {
+    "description": "Deterministic readiness checker for the MCP 2026-07-28 specification break - a graded web probe and an agent skill over ",
+    "id": "AlpayC/mcp-migration-check",
+    "language": "TypeScript",
+    "name": "AlpayC/mcp-migration-check",
+    "stars": 5,
+    "updated_at": "2026-09-01T10:03:27Z",
+    "url": "https://github.com/AlpayC/mcp-migration-check"
+  },
+  {
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
+    "id": "serpro69/claude-toolbox",
+    "language": "Shell",
+    "name": "serpro69/claude-toolbox",
+    "stars": 148,
+    "updated_at": "2026-09-01T10:01:08Z",
+    "url": "https://github.com/serpro69/claude-toolbox"
   },
   {
     "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
@@ -45,31 +108,13 @@
     "url": "https://github.com/redfox-data/redfox-community"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T10:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Knowledge graph extractor: Markdown (or any format) to knowledge graph with RDFS/OWL ontology",
     "id": "SenolIsci/mykg",
     "language": "Python",
     "name": "SenolIsci/mykg",
     "stars": 68,
-    "updated_at": "2026-09-01T09:59:36Z",
+    "updated_at": "2026-09-01T10:10:07Z",
     "url": "https://github.com/SenolIsci/mykg"
-  },
-  {
-    "description": "Custom Laravel skills for Claude Code",
-    "id": "yuriymarad/laravel-skills",
-    "language": "\u2014",
-    "name": "yuriymarad/laravel-skills",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:04:48Z",
-    "url": "https://github.com/yuriymarad/laravel-skills"
   },
   {
     "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands \u2014 GitHub + Convex (self-hosted & Cloud)",
@@ -95,7 +140,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-01T10:06:28Z",
+    "updated_at": "2026-09-01T10:12:39Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68574,
-    "updated_at": "2026-09-01T09:48:45Z",
+    "updated_at": "2026-09-01T10:14:40Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -176,7 +221,7 @@
     "language": "HTML",
     "name": "aisenseapi/aisense-free-public-rest-apis",
     "stars": 0,
-    "updated_at": "2026-09-01T09:44:37Z",
+    "updated_at": "2026-09-01T10:12:23Z",
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
@@ -238,7 +283,7 @@
     "id": "elementalsouls/Claude-BugHunter",
     "language": "Python",
     "name": "elementalsouls/Claude-BugHunter",
-    "stars": 3983,
+    "stars": 3984,
     "updated_at": "2026-09-01T09:26:46Z",
     "url": "https://github.com/elementalsouls/Claude-BugHunter"
   },
@@ -250,15 +295,6 @@
     "stars": 20,
     "updated_at": "2026-09-01T09:41:33Z",
     "url": "https://github.com/XBlueSky/cortexes"
-  },
-  {
-    "description": "Deterministic readiness checker for the MCP 2026-07-28 specification break - a graded web probe and an agent skill over ",
-    "id": "AlpayC/mcp-migration-check",
-    "language": "TypeScript",
-    "name": "AlpayC/mcp-migration-check",
-    "stars": 5,
-    "updated_at": "2026-09-01T10:03:27Z",
-    "url": "https://github.com/AlpayC/mcp-migration-check"
   },
   {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
@@ -304,6 +340,15 @@
     "stars": 12,
     "updated_at": "2026-09-01T09:19:08Z",
     "url": "https://github.com/liustack/pptwise"
+  },
+  {
+    "description": "EPLAN Electric P8 2026  + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. EEC PR",
+    "id": "covagashi/eplan-rag-mcp",
+    "language": "Python",
+    "name": "covagashi/eplan-rag-mcp",
+    "stars": 80,
+    "updated_at": "2026-09-01T10:14:40Z",
+    "url": "https://github.com/covagashi/eplan-rag-mcp"
   },
   {
     "description": "Auto harness engineering meta-repo: discuss \u2192 curate \u2192 bootstrap a context-engineered project for Claude Code, Cursor, C",
@@ -401,52 +446,7 @@
     "language": "TypeScript",
     "name": "INo-xious/stockbit-mcp",
     "stars": 14,
-    "updated_at": "2026-09-01T09:59:53Z",
+    "updated_at": "2026-09-01T10:08:55Z",
     "url": "https://github.com/INo-xious/stockbit-mcp"
-  },
-  {
-    "description": "\u7ed9\u6bcf\u4e2a OpenClaw agent \u4e00\u4e2a\u300c\u5bb6\u300d\uff1a\u6807\u51c6\u76ee\u5f55\u7ed3\u6784 + WORKSPACE.md \u89c4\u8303 + \u591a agent \u914d\u7f6e\u5b89\u5168\u3002 OpenClaw workspace initialization & standardization \u2014 ",
-    "id": "dtsola/xiaoyaoclaw-workspace-initializer",
-    "language": "\u2014",
-    "name": "dtsola/xiaoyaoclaw-workspace-initializer",
-    "stars": 3,
-    "updated_at": "2026-09-01T08:52:48Z",
-    "url": "https://github.com/dtsola/xiaoyaoclaw-workspace-initializer"
-  },
-  {
-    "description": "Local, evidence-based checks for marketing and RevOps exports: PII leaks, broken UTMs, conversion gaps, and lead routing",
-    "id": "m7mdwb/martech-verify",
-    "language": "Python",
-    "name": "m7mdwb/martech-verify",
-    "stars": 2,
-    "updated_at": "2026-09-01T08:51:57Z",
-    "url": "https://github.com/m7mdwb/martech-verify"
-  },
-  {
-    "description": "Exasol skills for AI agents. Optimized for Claude Code and OpenAI Codex \ud83e\udd16",
-    "id": "exasol-labs/exasol-agent-skills",
-    "language": "Shell",
-    "name": "exasol-labs/exasol-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-09-01T08:49:55Z",
-    "url": "https://github.com/exasol-labs/exasol-agent-skills"
-  },
-  {
-    "description": "EPLAN Electric P8 2026  + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. EEC PR",
-    "id": "covagashi/eplan-rag-mcp",
-    "language": "Python",
-    "name": "covagashi/eplan-rag-mcp",
-    "stars": 80,
-    "updated_at": "2026-09-01T09:18:00Z",
-    "url": "https://github.com/covagashi/eplan-rag-mcp"
-  },
-  {
-    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
-    "id": "VoltAgent/awesome-agent-skills",
-    "language": "\u2014",
-    "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33520,
-    "updated_at": "2026-09-01T08:46:25Z",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills"
   }
 ]
