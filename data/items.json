@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-01T13:58:18Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
+    "description": "A toolkit of skills, templates, and guides for bootstrapping AI-agent-friendly projects. Started from Anthropic's Claude",
+    "id": "sneg55/agent-starter",
+    "language": "Shell",
+    "name": "sneg55/agent-starter",
+    "stars": 77,
+    "updated_at": "2026-09-01T14:14:15Z",
+    "url": "https://github.com/sneg55/agent-starter"
+  },
+  {
+    "description": "Agent skill for Swedish accessibility statements (DOS-lagen, MDFFS 2019:2, EN 301 549/WCAG) \u2013 writes, updates and checks",
+    "id": "pattespatte/tillganglighetsredogorelse-skill",
+    "language": "Python",
+    "name": "pattespatte/tillganglighetsredogorelse-skill",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:10:27Z",
+    "url": "https://github.com/pattespatte/tillganglighetsredogorelse-skill"
+  },
+  {
+    "description": "A self-evolving second brain for Product Managers \u2014 45 brain-aware PM commands, 8 auto-selected skills, and 7 sub-agent ",
+    "id": "brainAlly/pm-cortex",
+    "language": "Python",
+    "name": "brainAlly/pm-cortex",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:09:00Z",
+    "url": "https://github.com/brainAlly/pm-cortex"
   },
   {
     "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "petar-djukic/writing-skills",
     "stars": 3,
-    "updated_at": "2026-09-01T13:58:10Z",
+    "updated_at": "2026-09-01T14:08:15Z",
     "url": "https://github.com/petar-djukic/writing-skills"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 4,
+    "updated_at": "2026-09-01T14:10:12Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
+    "id": "seokhoonj/newswatcher",
+    "language": "Python",
+    "name": "seokhoonj/newswatcher",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:03:51Z",
+    "url": "https://github.com/seokhoonj/newswatcher"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T14:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-01T14:15:10Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
+    "id": "AgamiAI/agami-core",
+    "language": "Python",
+    "name": "AgamiAI/agami-core",
+    "stars": 29,
+    "updated_at": "2026-09-01T13:50:03Z",
+    "url": "https://github.com/AgamiAI/agami-core"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68584,
-    "updated_at": "2026-09-01T13:48:18Z",
+    "updated_at": "2026-09-01T14:11:59Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -36,13 +99,13 @@
     "url": "https://github.com/Aboudjem/10x"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
+    "id": "jherrodthomas/robotics-skills-suite",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T13:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "jherrodthomas/robotics-skills-suite",
+    "stars": 239,
+    "updated_at": "2026-09-01T13:41:41Z",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
   },
   {
     "description": "Agent skills for live flight and hotel pricing: cheapest dates, fare watch, trip planning, hotel search, rate-parity mon",
@@ -162,15 +225,6 @@
     "url": "https://github.com/ddalgrande/dining-places-skill"
   },
   {
-    "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
-    "id": "seokhoonj/newswatch",
-    "language": "Python",
-    "name": "seokhoonj/newswatch",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:23:21Z",
-    "url": "https://github.com/seokhoonj/newswatch"
-  },
-  {
     "description": "Agent-agnostic AI Agent Skills for composing runnable API call plans, diagnosing endpoints, authoring narrated Bash demo",
     "id": "j-256/agent-skills",
     "language": "JavaScript",
@@ -266,7 +320,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30672,
-    "updated_at": "2026-09-01T13:52:42Z",
+    "updated_at": "2026-09-01T14:11:57Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 35,
     "updated_at": "2026-09-01T12:52:35Z",
     "url": "https://github.com/tenequm/skills"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:47:32Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": " Personal skills for Codex and Claude Code, invoked as superb:*. craft turns a vague product idea into a decision-rich b",
-    "id": "kardebadas/claude-plugin",
-    "language": "Python",
-    "name": "kardebadas/claude-plugin",
-    "stars": 2,
-    "updated_at": "2026-09-01T12:45:49Z",
-    "url": "https://github.com/kardebadas/claude-plugin"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
-    "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 3,
-    "updated_at": "2026-09-01T12:44:36Z",
-    "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 29,
-    "updated_at": "2026-09-01T13:50:03Z",
-    "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
-    "id": "galleonlabs/hypergrok-trading-desk",
-    "language": "Python",
-    "name": "galleonlabs/hypergrok-trading-desk",
-    "stars": 40,
-    "updated_at": "2026-09-01T12:41:40Z",
-    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
-  },
-  {
-    "description": "A powerful plugin for Claude Cowork Desktop, designed specifically for Swiss legal professionals. 20 agents,  14 skills,",
-    "id": "fedec65/bettercallclaude",
-    "language": "JavaScript",
-    "name": "fedec65/bettercallclaude",
-    "stars": 38,
-    "updated_at": "2026-09-01T12:37:16Z",
-    "url": "https://github.com/fedec65/bettercallclaude"
   }
 ]
