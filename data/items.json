@@ -1,5 +1,86 @@
 [
   {
+    "description": "A collection of reusable AI agent skills for research, coding, writing, analysis, automation, and everyday workflows.",
+    "id": "leomajewski/skills-something",
+    "language": "\u2014",
+    "name": "leomajewski/skills-something",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:28:47Z",
+    "url": "https://github.com/leomajewski/skills-something"
+  },
+  {
+    "description": "19 research skills that turn Groww\u2019s MCP server into an AI research desk for Indian markets \u2014 supports stocks, ETFs, mut",
+    "id": "getlost01/stock-research-skills",
+    "language": "\u2014",
+    "name": "getlost01/stock-research-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:28:32Z",
+    "url": "https://github.com/getlost01/stock-research-skills"
+  },
+  {
+    "description": "Turn a repository into a slide deck that tells you when it stops matching the code",
+    "id": "glukicov/slideops",
+    "language": "HTML",
+    "name": "glukicov/slideops",
+    "stars": 35,
+    "updated_at": "2026-09-01T15:28:46Z",
+    "url": "https://github.com/glukicov/slideops"
+  },
+  {
+    "description": "AI agent skill for the Zinc API. Search, buy, track, and return across Amazon, Walmart, Target, and 50+ US retailers. Bu",
+    "id": "zincio/skills",
+    "language": "Python",
+    "name": "zincio/skills",
+    "stars": 7,
+    "updated_at": "2026-09-01T15:20:56Z",
+    "url": "https://github.com/zincio/skills"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 2,
+    "updated_at": "2026-09-01T15:20:34Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
+    "id": "TryWorld2026/paper-algorithm",
+    "language": "Python",
+    "name": "TryWorld2026/paper-algorithm",
+    "stars": 26,
+    "updated_at": "2026-09-01T15:18:23Z",
+    "url": "https://github.com/TryWorld2026/paper-algorithm"
+  },
+  {
+    "description": "SEO & AI-visibility skills for coding agents \u2014 with the data included, pay per check. USDC on Solana via x402, no API ke",
+    "id": "zaialamm/seo-ai-visibility-skills",
+    "language": "\u2014",
+    "name": "zaialamm/seo-ai-visibility-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:17:00Z",
+    "url": "https://github.com/zaialamm/seo-ai-visibility-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T15:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68586,
+    "updated_at": "2026-09-01T15:29:14Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
     "id": "petar-djukic/writing-skills",
     "language": "Python",
@@ -16,24 +97,6 @@
     "stars": 4,
     "updated_at": "2026-09-01T15:07:01Z",
     "url": "https://github.com/ArcticFox2029/chamnan"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68586,
-    "updated_at": "2026-09-01T15:14:08Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T15:00:26Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Nine Claude Code skills for building production apps with AI: Lovable, Supabase, Stripe, accessibility under Israeli and",
@@ -54,22 +117,22 @@
     "url": "https://github.com/wshobson/agents"
   },
   {
-    "description": "SEO & AI-visibility skills for coding agents \u2014 with the data included, pay per check. USDC on Solana via x402, no API ke",
-    "id": "zaialamm/seo-ai-visibility-skills",
-    "language": "\u2014",
-    "name": "zaialamm/seo-ai-visibility-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:46:01Z",
-    "url": "https://github.com/zaialamm/seo-ai-visibility-skills"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-01T15:08:38Z",
+    "updated_at": "2026-09-01T15:27:36Z",
     "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:42:13Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -153,15 +216,6 @@
     "url": "https://github.com/desmondc9/agent-skills"
   },
   {
-    "description": "Turn a repository into a slide deck that tells you when it stops matching the code",
-    "id": "glukicov/slideops",
-    "language": "HTML",
-    "name": "glukicov/slideops",
-    "stars": 35,
-    "updated_at": "2026-09-01T14:29:45Z",
-    "url": "https://github.com/glukicov/slideops"
-  },
-  {
     "description": "This AI Skill supports development using the Next2D Framework and Next2D Player. It assists with code generation followi",
     "id": "Next2D/next2d-development-assistant",
     "language": "\u2014",
@@ -230,7 +284,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-01T15:11:52Z",
+    "updated_at": "2026-09-01T15:29:54Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -286,15 +340,6 @@
     "stars": 14,
     "updated_at": "2026-09-01T14:05:54Z",
     "url": "https://github.com/INo-xious/stockbit-mcp"
-  },
-  {
-    "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
-    "id": "TryWorld2026/paper-algorithm",
-    "language": "Python",
-    "name": "TryWorld2026/paper-algorithm",
-    "stars": 26,
-    "updated_at": "2026-09-01T15:01:39Z",
-    "url": "https://github.com/TryWorld2026/paper-algorithm"
   },
   {
     "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T13:46:31Z",
     "url": "https://github.com/Aboudjem/10x"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 35,
-    "updated_at": "2026-09-01T13:45:44Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
-    "id": "jherrodthomas/robotics-skills-suite",
-    "language": "Python",
-    "name": "jherrodthomas/robotics-skills-suite",
-    "stars": 239,
-    "updated_at": "2026-09-01T13:41:41Z",
-    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
-  },
-  {
-    "description": "Agent skills for live flight and hotel pricing: cheapest dates, fare watch, trip planning, hotel search, rate-parity mon",
-    "id": "mtnrabi/travel-agent-skills",
-    "language": "\u2014",
-    "name": "mtnrabi/travel-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-01T13:39:57Z",
-    "url": "https://github.com/mtnrabi/travel-agent-skills"
-  },
-  {
-    "description": "Survey what a job market actually pays before applying to it. A Claude skill plus a stipend survey of nine Indian job bo",
-    "id": "Shiviansh/job-market-recon",
-    "language": "\u2014",
-    "name": "Shiviansh/job-market-recon",
-    "stars": 1,
-    "updated_at": "2026-09-01T13:37:15Z",
-    "url": "https://github.com/Shiviansh/job-market-recon"
-  },
-  {
-    "description": "Claude Code skill that explains code changes in plain human language \u2014 no scary jargon. Two modes: a 'for dummies' story",
-    "id": "MotleyWildside/explain-for-dumb",
-    "language": "\u2014",
-    "name": "MotleyWildside/explain-for-dumb",
-    "stars": 6,
-    "updated_at": "2026-09-01T13:34:37Z",
-    "url": "https://github.com/MotleyWildside/explain-for-dumb"
   }
 ]
