@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 2,
+    "updated_at": "2026-09-01T03:41:21Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
+    "id": "ArcticFox2029/chamnan",
+    "language": "Python",
+    "name": "ArcticFox2029/chamnan",
+    "stars": 4,
+    "updated_at": "2026-09-01T03:40:26Z",
+    "url": "https://github.com/ArcticFox2029/chamnan"
+  },
+  {
+    "description": "obra/superpowers \u5168\u91cf\u7e41\u9ad4\u4e2d\u6587\u7ffb\u8b6f\u6559\u5b78\u7ad9\uff08Traditional Chinese\uff09\u00b7 14 \u500b coding-agent \u6280\u80fd + GitHub Pages \u4e2d\u82f1\u9010\u6bb5\u5c0d\u7167\u95b1\u8b80\u7ad9",
+    "id": "shumingyang-opencode/superpowers-zh-tw",
+    "language": "HTML",
+    "name": "shumingyang-opencode/superpowers-zh-tw",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:40:05Z",
+    "url": "https://github.com/shumingyang-opencode/superpowers-zh-tw"
+  },
+  {
+    "description": "19 research skills that turn Groww\u2019s MCP server into an AI research desk for Indian markets \u2014 supports stocks, ETFs, mut",
+    "id": "getlost01/stock-research-skills",
+    "language": "\u2014",
+    "name": "getlost01/stock-research-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:36:07Z",
+    "url": "https://github.com/getlost01/stock-research-skills"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 862,
+    "updated_at": "2026-09-01T03:31:28Z",
+    "url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "description": "Lightweight terminal coding agent built in Rust for zero vendor lock-in. 7 MB,  Support Codex and grok subscriptions",
+    "id": "milisp/keke-agent",
+    "language": "Rust",
+    "name": "milisp/keke-agent",
+    "stars": 2,
+    "updated_at": "2026-09-01T03:31:18Z",
+    "url": "https://github.com/milisp/keke-agent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T03:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68573,
+    "updated_at": "2026-09-01T03:30:13Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
     "id": "hanzhangzzz/agent-skills-zh",
     "language": "Python",
@@ -9,15 +81,6 @@
     "url": "https://github.com/hanzhangzzz/agent-skills-zh"
   },
   {
-    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
-    "id": "ArcticFox2029/chamnan",
-    "language": "Python",
-    "name": "ArcticFox2029/chamnan",
-    "stars": 4,
-    "updated_at": "2026-09-01T03:24:43Z",
-    "url": "https://github.com/ArcticFox2029/chamnan"
-  },
-  {
     "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
     "id": "wardawgmalvicious/agent-config",
     "language": "PowerShell",
@@ -25,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T03:24:33Z",
     "url": "https://github.com/wardawgmalvicious/agent-config"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T03:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
@@ -95,17 +149,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-01T03:23:57Z",
+    "updated_at": "2026-09-01T03:43:14Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
-    "id": "cbrock84/headcount",
-    "language": "Markdown",
-    "name": "cbrock84/headcount",
-    "stars": 860,
-    "updated_at": "2026-09-01T03:28:33Z",
-    "url": "https://github.com/cbrock84/headcount"
   },
   {
     "description": "Log food to Google Health by talking to Claude \u2014 automatic nutrition lookup via USDA/Open Food Facts, an MCP server on R",
@@ -130,7 +175,7 @@
     "id": "Hahaknight/claude-skills-pro",
     "language": "\u2014",
     "name": "Hahaknight/claude-skills-pro",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-09-01T02:31:19Z",
     "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
@@ -189,15 +234,6 @@
     "url": "https://github.com/jaywavfeng/tiered-agent-orchestrator"
   },
   {
-    "description": "Lightweight terminal coding agent built in Rust for zero vendor lock-in. 7 MB,  Support Codex and grok subscriptions",
-    "id": "milisp/keke-agent",
-    "language": "Rust",
-    "name": "milisp/keke-agent",
-    "stars": 2,
-    "updated_at": "2026-09-01T03:28:42Z",
-    "url": "https://github.com/milisp/keke-agent"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
@@ -220,9 +256,18 @@
     "id": "NevaMind-AI/memU",
     "language": "Python",
     "name": "NevaMind-AI/memU",
-    "stars": 14363,
+    "stars": 14365,
     "updated_at": "2026-09-01T02:13:26Z",
     "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "Mini Program Engineering Skill Suite is an Agent Skill suite for evidence\u2011first mini\u2011program development. It helps agent",
+    "id": "NocodeMrLi/mini-program-engineering-skill-suite",
+    "language": "Python",
+    "name": "NocodeMrLi/mini-program-engineering-skill-suite",
+    "stars": 25,
+    "updated_at": "2026-09-01T02:02:55Z",
+    "url": "https://github.com/NocodeMrLi/mini-program-engineering-skill-suite"
   },
   {
     "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T01:24:59Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:24:12Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:23:56Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
-    "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 2,
-    "updated_at": "2026-09-01T01:20:17Z",
-    "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "Which AI agent Skills survive a real build? Every pick is field-tested by building a product from scratch, then rated on",
-    "id": "phoebefu6/agent-skills-phoebe-picks",
-    "language": "JavaScript",
-    "name": "phoebefu6/agent-skills-phoebe-picks",
-    "stars": 1,
-    "updated_at": "2026-09-01T01:18:58Z",
-    "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
-  },
-  {
-    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
-    "id": "tonydzi/clawrush",
-    "language": "Python",
-    "name": "tonydzi/clawrush",
-    "stars": 12,
-    "updated_at": "2026-09-01T01:17:33Z",
-    "url": "https://github.com/tonydzi/clawrush"
   }
 ]
