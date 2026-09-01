@@ -1,12 +1,75 @@
 [
   {
+    "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
+    "id": "widnyana/eyay-toolkits",
+    "language": "Python",
+    "name": "widnyana/eyay-toolkits",
+    "stars": 6,
+    "updated_at": "2026-09-01T04:11:32Z",
+    "url": "https://github.com/widnyana/eyay-toolkits"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-09-01T04:12:01Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 2,
+    "updated_at": "2026-09-01T04:09:56Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 86,
+    "updated_at": "2026-09-01T04:09:50Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68574,
+    "updated_at": "2026-09-01T04:06:04Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-01T04:06:03Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
     "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
     "id": "OKHP3/skillz",
     "language": "Python",
     "name": "OKHP3/skillz",
     "stars": 2,
-    "updated_at": "2026-09-01T04:00:11Z",
+    "updated_at": "2026-09-01T04:00:35Z",
     "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T04:00:24Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
@@ -32,7 +95,7 @@
     "language": "\u2014",
     "name": "lml679939-cmyk/streamlit-security-audit-skill",
     "stars": 0,
-    "updated_at": "2026-09-01T03:54:52Z",
+    "updated_at": "2026-09-01T04:06:45Z",
     "url": "https://github.com/lml679939-cmyk/streamlit-security-audit-skill"
   },
   {
@@ -49,7 +112,7 @@
     "id": "cbrock84/headcount",
     "language": "Markdown",
     "name": "cbrock84/headcount",
-    "stars": 864,
+    "stars": 867,
     "updated_at": "2026-09-01T03:53:19Z",
     "url": "https://github.com/cbrock84/headcount"
   },
@@ -81,15 +144,6 @@
     "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T03:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "obra/superpowers \u5168\u91cf\u7e41\u9ad4\u4e2d\u6587\u7ffb\u8b6f\u6559\u5b78\u7ad9\uff08Traditional Chinese\uff09\u00b7 14 \u500b coding-agent \u6280\u80fd + GitHub Pages \u4e2d\u82f1\u9010\u6bb5\u5c0d\u7167\u95b1\u8b80\u7ad9",
     "id": "shumingyang-opencode/superpowers-zh-tw",
     "language": "HTML",
@@ -113,17 +167,8 @@
     "language": "Rust",
     "name": "milisp/keke-agent",
     "stars": 2,
-    "updated_at": "2026-09-01T03:31:18Z",
+    "updated_at": "2026-09-01T04:08:29Z",
     "url": "https://github.com/milisp/keke-agent"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68574,
-    "updated_at": "2026-09-01T03:30:13Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T03:29:42Z",
     "url": "https://github.com/hanzhangzzz/agent-skills-zh"
-  },
-  {
-    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
-    "id": "wardawgmalvicious/agent-config",
-    "language": "PowerShell",
-    "name": "wardawgmalvicious/agent-config",
-    "stars": 2,
-    "updated_at": "2026-09-01T03:24:33Z",
-    "url": "https://github.com/wardawgmalvicious/agent-config"
   },
   {
     "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
@@ -187,15 +223,6 @@
     "stars": 129,
     "updated_at": "2026-09-01T03:03:40Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-01T03:56:02Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Official catalog of OOMOL app-skills: agent skills that let AI assistants operate third-party services via the oo CLI",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-01T01:39:43Z",
     "url": "https://github.com/zeikar/hyperclaude"
-  },
-  {
-    "description": "GitHub's one-line description field (top of repo page) shows up in search results and trending lists something like \"Git",
-    "id": "Thelavdevawasthi/claude-git-skills",
-    "language": "\u2014",
-    "name": "Thelavdevawasthi/claude-git-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:36:50Z",
-    "url": "https://github.com/Thelavdevawasthi/claude-git-skills"
-  },
-  {
-    "description": "Read-only accounting skills for Claude, run against your own books through the MosoFin MCP gateway: month-end close, ban",
-    "id": "MosoFin/mosofin-finance-skills",
-    "language": "\u2014",
-    "name": "MosoFin/mosofin-finance-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:36:25Z",
-    "url": "https://github.com/MosoFin/mosofin-finance-skills"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 2,
-    "updated_at": "2026-09-01T01:33:16Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
