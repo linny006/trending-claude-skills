@@ -1,21 +1,48 @@
 [
   {
-    "description": "The system your AI agents are missing \u2014 synced instructions, workflow skills, hardened secrets, and autonomous loops acr",
-    "id": "arndvs/ctrlshft",
-    "language": "Shell",
-    "name": "arndvs/ctrlshft",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:59:09Z",
-    "url": "https://github.com/arndvs/ctrlshft"
-  },
-  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-09-01T20:59:29Z",
+    "updated_at": "2026-09-01T21:06:46Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Point-in-time, read-only audit of your Mac and its AI assistant config. Offline, no sudo, zero dependencies. Not an anti",
+    "id": "ShanedixonGit/macverify",
+    "language": "Python",
+    "name": "ShanedixonGit/macverify",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:02:34Z",
+    "url": "https://github.com/ShanedixonGit/macverify"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 92892,
+    "updated_at": "2026-09-01T21:01:17Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T21:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The system your AI agents are missing \u2014 synced instructions, workflow skills, hardened secrets, and autonomous loops acr",
+    "id": "arndvs/ctrlshft",
+    "language": "Shell",
+    "name": "arndvs/ctrlshft",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:01:38Z",
+    "url": "https://github.com/arndvs/ctrlshft"
   },
   {
     "description": "ShellBrain. Long-term memory for AI.",
@@ -45,15 +72,6 @@
     "url": "https://github.com/afterlaunch/skills"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 92890,
-    "updated_at": "2026-09-01T20:53:40Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T20:52:38Z",
     "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "Point-in-time, read-only audit of your Mac and its AI assistant config. Offline, no sudo, zero dependencies. Not an anti",
-    "id": "ShanedixonGit/macverify",
-    "language": "Python",
-    "name": "ShanedixonGit/macverify",
-    "stars": 0,
-    "updated_at": "2026-09-01T21:00:07Z",
-    "url": "https://github.com/ShanedixonGit/macverify"
   },
   {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "ArcticFox2029/chamnan",
     "stars": 4,
-    "updated_at": "2026-09-01T20:48:51Z",
+    "updated_at": "2026-09-01T21:05:58Z",
     "url": "https://github.com/ArcticFox2029/chamnan"
   },
   {
@@ -180,15 +189,6 @@
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T20:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
     "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
     "language": "HTML",
@@ -212,7 +212,7 @@
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 962,
-    "updated_at": "2026-09-01T20:43:04Z",
+    "updated_at": "2026-09-01T21:03:01Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -320,7 +320,7 @@
     "language": "HTML",
     "name": "sses79/gen-chart",
     "stars": 1,
-    "updated_at": "2026-09-01T20:25:48Z",
+    "updated_at": "2026-09-01T21:03:37Z",
     "url": "https://github.com/sses79/gen-chart"
   },
   {
@@ -355,7 +355,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68591,
+    "stars": 68592,
     "updated_at": "2026-09-01T20:23:52Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
