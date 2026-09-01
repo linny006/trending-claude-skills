@@ -1,5 +1,50 @@
 [
   {
+    "description": "Lightweight terminal coding agent built in Rust for zero vendor lock-in. 7 MB,  Support Codex and grok subscriptions",
+    "id": "milisp/keke-agent",
+    "language": "Rust",
+    "name": "milisp/keke-agent",
+    "stars": 2,
+    "updated_at": "2026-09-01T08:08:55Z",
+    "url": "https://github.com/milisp/keke-agent"
+  },
+  {
+    "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u9762\u5411 AI Agent \u7684\u6d4b\u8bd5\u5de5\u7a0b Skill \u6846\u67b6\u2014\u201410 Skills + \u5171\u4eab\u77e5\u8bc6\u5e93 + \u7c7b\u578b\u51b3\u7b56\u77e9\u9635\uff08Claude Code / dsh \u7b49 Agent \u53ef\u7528\uff09",
+    "id": "fishzjp/qa-skills",
+    "language": "Python",
+    "name": "fishzjp/qa-skills",
+    "stars": 19,
+    "updated_at": "2026-09-01T08:03:33Z",
+    "url": "https://github.com/fishzjp/qa-skills"
+  },
+  {
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a416\u4e2a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 6014,
+    "updated_at": "2026-09-01T08:01:12Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-01T08:02:20Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T08:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
     "id": "ArcticFox2029/chamnan",
     "language": "Python",
@@ -18,12 +63,21 @@
     "url": "https://github.com/naveedharri/benai-skills"
   },
   {
+    "description": "Claude skills for script-based Reels and TikToks \u2014 from idea to rendered video, including automatic editing with Remotio",
+    "id": "bendemartin97/claude-content-kit",
+    "language": "TypeScript",
+    "name": "bendemartin97/claude-content-kit",
+    "stars": 0,
+    "updated_at": "2026-09-01T08:11:55Z",
+    "url": "https://github.com/bendemartin97/claude-content-kit"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68570,
-    "updated_at": "2026-09-01T07:59:00Z",
+    "updated_at": "2026-09-01T08:04:59Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -36,24 +90,6 @@
     "url": "https://github.com/muchandresh/Vibe-Map"
   },
   {
-    "description": "Claude skills for script-based Reels and TikToks \u2014 from idea to rendered video, including automatic editing with Remotio",
-    "id": "bendemartin97/claude-content-kit",
-    "language": "TypeScript",
-    "name": "bendemartin97/claude-content-kit",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:53:50Z",
-    "url": "https://github.com/bendemartin97/claude-content-kit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T07:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Based on Anthropic's skill-creator \u2014 with bug fixes, working Cowork support, and official best practices baked in. Claud",
     "id": "yaniv-golan/skill-creator-plus",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-09-01T07:44:02Z",
     "url": "https://github.com/yaniv-golan/skill-creator-plus"
-  },
-  {
-    "description": "Lightweight terminal coding agent built in Rust for zero vendor lock-in. 7 MB,  Support Codex and grok subscriptions",
-    "id": "milisp/keke-agent",
-    "language": "Rust",
-    "name": "milisp/keke-agent",
-    "stars": 2,
-    "updated_at": "2026-09-01T07:42:18Z",
-    "url": "https://github.com/milisp/keke-agent"
   },
   {
     "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
@@ -153,15 +180,6 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-01T07:56:12Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
     "id": "yngbrll/vb-winforms-toolkit",
     "language": "HTML",
@@ -207,15 +225,6 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a416\u4e2a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002",
-    "id": "anbeime/skill",
-    "language": "Python",
-    "name": "anbeime/skill",
-    "stars": 6013,
-    "updated_at": "2026-09-01T07:24:06Z",
-    "url": "https://github.com/anbeime/skill"
-  },
-  {
     "description": "Agent skills repository",
     "id": "ooooooooooooooooooop/agent-tools",
     "language": "Python",
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "liustack/pptwise",
     "stars": 12,
-    "updated_at": "2026-09-01T07:23:33Z",
+    "updated_at": "2026-09-01T08:13:48Z",
     "url": "https://github.com/liustack/pptwise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T07:11:44Z",
     "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:11:42Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
   }
 ]
