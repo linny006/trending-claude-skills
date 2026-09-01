@@ -1,11 +1,101 @@
 [
   {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 49,
+    "updated_at": "2026-09-01T21:14:59Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-01T21:14:46Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
+    "id": "thrixel/build-world",
+    "language": "JavaScript",
+    "name": "thrixel/build-world",
+    "stars": 69,
+    "updated_at": "2026-09-01T21:13:44Z",
+    "url": "https://github.com/thrixel/build-world"
+  },
+  {
+    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
+    "id": "aaamaxito-prog/deadeye",
+    "language": "Swift",
+    "name": "aaamaxito-prog/deadeye",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:11:11Z",
+    "url": "https://github.com/aaamaxito-prog/deadeye"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-01T21:11:10Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
+    "id": "liustack/pptwise",
+    "language": "TypeScript",
+    "name": "liustack/pptwise",
+    "stars": 12,
+    "updated_at": "2026-09-01T21:10:49Z",
+    "url": "https://github.com/liustack/pptwise"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-01T21:09:33Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19065,
+    "updated_at": "2026-09-01T21:08:33Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T21:07:10Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 35,
+    "updated_at": "2026-09-01T21:07:08Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-09-01T21:06:46Z",
+    "updated_at": "2026-09-01T21:13:22Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -22,18 +112,9 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 92892,
+    "stars": 92894,
     "updated_at": "2026-09-01T21:01:17Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T21:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The system your AI agents are missing \u2014 synced instructions, workflow skills, hardened secrets, and autonomous loops acr",
@@ -52,15 +133,6 @@
     "stars": 13,
     "updated_at": "2026-09-01T20:57:26Z",
     "url": "https://github.com/cucupac/shellbrain"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-01T21:00:01Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Growth skills for AI visibility and SEO. Farm content ideas, draft in your own voice, post without getting banned. Free ",
@@ -130,18 +202,9 @@
     "id": "ayghri/i-have-adhd",
     "language": "Python",
     "name": "ayghri/i-have-adhd",
-    "stars": 26365,
+    "stars": 26366,
     "updated_at": "2026-09-01T20:49:17Z",
     "url": "https://github.com/ayghri/i-have-adhd"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19065,
-    "updated_at": "2026-09-01T20:49:10Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -212,7 +275,7 @@
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 962,
-    "updated_at": "2026-09-01T21:03:01Z",
+    "updated_at": "2026-09-01T21:10:44Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -288,15 +351,6 @@
     "url": "https://github.com/Cristhianzl/claude-skills-czl"
   },
   {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 35,
-    "updated_at": "2026-09-01T20:27:07Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
     "description": "GTM engineering skills for AI coding agents \u2014 build lead lists, find & verify emails, waterfall enrichment, lead scoring",
     "id": "getcargohq/cargo-skills",
     "language": "TypeScript",
@@ -311,7 +365,7 @@
     "language": "JavaScript",
     "name": "SteveKinzey/claude-code-tools-installer",
     "stars": 1,
-    "updated_at": "2026-09-01T20:26:47Z",
+    "updated_at": "2026-09-01T21:10:38Z",
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
-    "id": "liustack/pptwise",
-    "language": "TypeScript",
-    "name": "liustack/pptwise",
-    "stars": 12,
-    "updated_at": "2026-09-01T20:23:51Z",
-    "url": "https://github.com/liustack/pptwise"
-  },
-  {
     "description": "IntelliJ plugin for creating and validating Codex, Claude and Gemini skills inside a project.",
     "id": "spmisha134/skillOps-intellij",
     "language": "Kotlin",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T20:16:57Z",
     "url": "https://github.com/overtonlabs/youtube-transcriber"
-  },
-  {
-    "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 5,
-    "updated_at": "2026-09-01T20:13:41Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-01T20:12:49Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "A BetterDiscord-style enhancement suite for Claude. Themes, plugins, and a pile of productivity tools layered on top of ",
-    "id": "ara-mkr/BetterClaude",
-    "language": "JavaScript",
-    "name": "ara-mkr/BetterClaude",
-    "stars": 2,
-    "updated_at": "2026-09-01T20:12:15Z",
-    "url": "https://github.com/ara-mkr/BetterClaude"
-  },
-  {
-    "description": "A Claude Code skill that offloads agentic work to a cheaper local or API model. Honestly graded, subscription-safe.",
-    "id": "3dl-dev/opencode-worker",
-    "language": "HTML",
-    "name": "3dl-dev/opencode-worker",
-    "stars": 1,
-    "updated_at": "2026-09-01T20:10:55Z",
-    "url": "https://github.com/3dl-dev/opencode-worker"
-  },
-  {
-    "description": "Claude Code skills that make Claude (Fable) the conductor of AI worker fleets: many parallel OpenAI Codex workers plus O",
-    "id": "jvogan/a-fable-of-codexes",
-    "language": "Python",
-    "name": "jvogan/a-fable-of-codexes",
-    "stars": 47,
-    "updated_at": "2026-09-01T20:09:51Z",
-    "url": "https://github.com/jvogan/a-fable-of-codexes"
   }
 ]
