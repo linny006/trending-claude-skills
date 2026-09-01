@@ -1,5 +1,86 @@
 [
   {
+    "description": "Markdown to WeChat CLI | \u4e00\u952e\u6392\u7248\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u652f\u6301 40+ \u6392\u7248\u6837\u5f0f\u548c\u4e13\u4e1a\u4e3b\u9898 \u3001AI \u914d\u56fe \u3001\u6279\u91cf\u53d1\u5e03 \u3001\u591a\u8d26\u53f7\u7ba1\u7406",
+    "id": "geekjourneyx/md2wechat-skill",
+    "language": "Go",
+    "name": "geekjourneyx/md2wechat-skill",
+    "stars": 3612,
+    "updated_at": "2026-09-01T02:42:41Z",
+    "url": "https://github.com/geekjourneyx/md2wechat-skill"
+  },
+  {
+    "description": "Log food to Google Health by talking to Claude \u2014 automatic nutrition lookup via USDA/Open Food Facts, an MCP server on R",
+    "id": "davidbalann/claude-fit-logger",
+    "language": "Python",
+    "name": "davidbalann/claude-fit-logger",
+    "stars": 0,
+    "updated_at": "2026-09-01T02:39:06Z",
+    "url": "https://github.com/davidbalann/claude-fit-logger"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 34,
+    "updated_at": "2026-09-01T02:39:44Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 858,
+    "updated_at": "2026-09-01T02:39:53Z",
+    "url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 2,
+    "updated_at": "2026-09-01T02:33:05Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
+    "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
+    "language": "TypeScript",
+    "name": "Shantydotcom/northstariq-revenue-operations-intelligence",
+    "stars": 0,
+    "updated_at": "2026-09-01T02:32:23Z",
+    "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
+  },
+  {
+    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
+    "id": "Hahaknight/claude-skills-pro",
+    "language": "\u2014",
+    "name": "Hahaknight/claude-skills-pro",
+    "stars": 2,
+    "updated_at": "2026-09-01T02:31:19Z",
+    "url": "https://github.com/Hahaknight/claude-skills-pro"
+  },
+  {
+    "description": "Design the meeting before you run it. An AI skill that names the decision, picks the decision rule, cuts the room, and p",
+    "id": "theAnirudhKumar/meeting-design",
+    "language": "Python",
+    "name": "theAnirudhKumar/meeting-design",
+    "stars": 1,
+    "updated_at": "2026-09-01T02:31:15Z",
+    "url": "https://github.com/theAnirudhKumar/meeting-design"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T02:30:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Design the work before you do it. AI skills for the moments where one deliberate decision saves the rework: vetting a to",
     "id": "theAnirudhKumar/work-design",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T02:26:39Z",
     "url": "https://github.com/Hahaknight/digital-employee-pack"
-  },
-  {
-    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
-    "id": "Hahaknight/claude-skills-pro",
-    "language": "\u2014",
-    "name": "Hahaknight/claude-skills-pro",
-    "stars": 2,
-    "updated_at": "2026-09-01T02:26:34Z",
-    "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
   {
     "description": "Thirty-two AI skills covering the whole of customer success work: reading an account, running the set-piece moments, han",
@@ -45,15 +117,6 @@
     "url": "https://github.com/gooseworks-ai/goose-skills"
   },
   {
-    "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
-    "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
-    "language": "TypeScript",
-    "name": "Shantydotcom/northstariq-revenue-operations-intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-01T02:21:03Z",
-    "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
-  },
-  {
     "description": "Use strong models for decisions, economy models for execution, and repository-backed state for long-running engineering.",
     "id": "jaywavfeng/tiered-agent-orchestrator",
     "language": "Python",
@@ -72,20 +135,11 @@
     "url": "https://github.com/milisp/keke-agent"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T02:15:26Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 19044,
+    "stars": 19043,
     "updated_at": "2026-09-01T02:14:39Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -108,15 +162,6 @@
     "url": "https://github.com/shumingyang-opencode/mattpocock-skills-zh-tw"
   },
   {
-    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
-    "id": "wardawgmalvicious/agent-config",
-    "language": "PowerShell",
-    "name": "wardawgmalvicious/agent-config",
-    "stars": 2,
-    "updated_at": "2026-09-01T02:13:50Z",
-    "url": "https://github.com/wardawgmalvicious/agent-config"
-  },
-  {
     "description": "Personal memory across agents",
     "id": "NevaMind-AI/memU",
     "language": "Python",
@@ -124,15 +169,6 @@
     "stars": 14363,
     "updated_at": "2026-09-01T02:13:26Z",
     "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 34,
-    "updated_at": "2026-09-01T02:25:38Z",
-    "url": "https://github.com/Servosity/msp-skills"
   },
   {
     "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
@@ -369,15 +405,6 @@
     "url": "https://github.com/tonydzi/clawrush"
   },
   {
-    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
-    "id": "cbrock84/headcount",
-    "language": "Markdown",
-    "name": "cbrock84/headcount",
-    "stars": 858,
-    "updated_at": "2026-09-01T01:17:11Z",
-    "url": "https://github.com/cbrock84/headcount"
-  },
-  {
     "description": "My collection of Claude skills",
     "id": "oaustegard/claude-skills",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 25,
     "updated_at": "2026-09-01T01:09:32Z",
     "url": "https://github.com/TryWorld2026/paper-algorithm"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-09-01T01:09:08Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:08:30Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:07:47Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
