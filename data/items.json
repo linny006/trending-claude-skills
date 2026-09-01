@@ -1,5 +1,59 @@
 [
   {
+    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
+    "id": "ArcticFox2029/chamnan",
+    "language": "Python",
+    "name": "ArcticFox2029/chamnan",
+    "stars": 4,
+    "updated_at": "2026-09-01T07:54:53Z",
+    "url": "https://github.com/ArcticFox2029/chamnan"
+  },
+  {
+    "description": "",
+    "id": "naveedharri/benai-skills",
+    "language": "JavaScript",
+    "name": "naveedharri/benai-skills",
+    "stars": 59,
+    "updated_at": "2026-09-01T07:54:39Z",
+    "url": "https://github.com/naveedharri/benai-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68570,
+    "updated_at": "2026-09-01T07:59:00Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Vibe Map: Codebase Cartographer for Vibe Coders.",
+    "id": "muchandresh/Vibe-Map",
+    "language": "Python",
+    "name": "muchandresh/Vibe-Map",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:52:08Z",
+    "url": "https://github.com/muchandresh/Vibe-Map"
+  },
+  {
+    "description": "Claude skills for script-based Reels and TikToks \u2014 from idea to rendered video, including automatic editing with Remotio",
+    "id": "bendemartin97/claude-content-kit",
+    "language": "TypeScript",
+    "name": "bendemartin97/claude-content-kit",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:53:50Z",
+    "url": "https://github.com/bendemartin97/claude-content-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T07:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Based on Anthropic's skill-creator \u2014 with bug fixes, working Cowork support, and official best practices baked in. Claud",
     "id": "yaniv-golan/skill-creator-plus",
     "language": "Python",
@@ -9,13 +63,13 @@
     "url": "https://github.com/yaniv-golan/skill-creator-plus"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68570,
-    "updated_at": "2026-09-01T07:41:41Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "Lightweight terminal coding agent built in Rust for zero vendor lock-in. 7 MB,  Support Codex and grok subscriptions",
+    "id": "milisp/keke-agent",
+    "language": "Rust",
+    "name": "milisp/keke-agent",
+    "stars": 2,
+    "updated_at": "2026-09-01T07:42:18Z",
+    "url": "https://github.com/milisp/keke-agent"
   },
   {
     "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T07:40:56Z",
     "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
-  },
-  {
-    "description": "Claude skills for script-based Reels and TikToks \u2014 from idea to rendered video, including automatic editing with Remotio",
-    "id": "bendemartin97/claude-content-kit",
-    "language": "TypeScript",
-    "name": "bendemartin97/claude-content-kit",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:39:47Z",
-    "url": "https://github.com/bendemartin97/claude-content-kit"
   },
   {
     "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-01T07:43:03Z",
+    "updated_at": "2026-09-01T07:56:12Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T07:32:03Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T07:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T07:11:42Z",
     "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:11:24Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "EPLAN Electric P8 2026  + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. EEC PR",
-    "id": "covagashi/eplan-rag-mcp",
-    "language": "Python",
-    "name": "covagashi/eplan-rag-mcp",
-    "stars": 79,
-    "updated_at": "2026-09-01T07:11:24Z",
-    "url": "https://github.com/covagashi/eplan-rag-mcp"
-  },
-  {
-    "description": "Claude Code skill: audit a UI codebase by measurement, not impression \u2014 counting pitfalls, render verification, display-",
-    "id": "rhino-ty/ui-audit-method",
-    "language": "\u2014",
-    "name": "rhino-ty/ui-audit-method",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:10:57Z",
-    "url": "https://github.com/rhino-ty/ui-audit-method"
-  },
-  {
-    "description": "Local, evidence-based checks for marketing and RevOps exports: PII leaks, broken UTMs, conversion gaps, and lead routing",
-    "id": "m7mdwb/martech-verify",
-    "language": "Python",
-    "name": "m7mdwb/martech-verify",
-    "stars": 1,
-    "updated_at": "2026-09-01T07:10:36Z",
-    "url": "https://github.com/m7mdwb/martech-verify"
   }
 ]
