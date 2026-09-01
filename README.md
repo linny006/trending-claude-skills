@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 03:15 UTC
+> ⏰ Last updated: 2026-09-01 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Shantydotcom/northstariq-revenue-operations-intelligence](https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence) | 0 | TypeScript | 2026-09-01 | Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos |
-| 2 | [ooooooooooooooooooop/agent-tools](https://github.com/ooooooooooooooooooop/agent-tools) | 3 | Python | 2026-09-01 | Agent skills repository |
-| 3 | [aiperceivable/apcore-skills](https://github.com/aiperceivable/apcore-skills) | 1 | Python | 2026-09-01 | Apcore ecosystem management skill for Claude Code. Handles cross-language SDK synchronization, framework integration sca |
-| 4 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3613 | Go | 2026-09-01 | Markdown to WeChat CLI \| 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 |
-| 5 | [TimeCraker/vibe-studio](https://github.com/TimeCraker/vibe-studio) | 0 | TypeScript | 2026-09-01 | Content factory — PPT 代码生成 → 逐页动效 → Remotion 成片的创作流水线 / skills for decks, motion & video |
-| 6 | [ArcticFox2029/chamnan](https://github.com/ArcticFox2029/chamnan) | 4 | Python | 2026-09-01 | Preserves a long-lived repository's engineering context — an architecture index, an impact map, session records, and the |
-| 7 | [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 129 | JavaScript | 2026-09-01 | Open-source Agent Skills for Claude Code and Codex: ship-DAG orchestration, A-F code review, AI evals, CI gates, design, |
-| 8 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 23 | Shell | 2026-09-01 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
-| 9 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 35 | Python | 2026-09-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 10 | [hanzhangzzz/agent-skills-zh](https://github.com/hanzhangzzz/agent-skills-zh) | 1 | Python | 2026-09-01 | Agent Skills for Claude Code & Codex (中文优先): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene,  |
-| 11 | [cbrock84/headcount](https://github.com/cbrock84/headcount) | 860 | Markdown | 2026-09-01 | An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal |
-| 12 | [wardawgmalvicious/agent-config](https://github.com/wardawgmalvicious/agent-config) | 2 | PowerShell | 2026-09-01 | Personal Claude Code config — skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows |
+| 1 | [hanzhangzzz/agent-skills-zh](https://github.com/hanzhangzzz/agent-skills-zh) | 1 | Python | 2026-09-01 | Agent Skills for Claude Code & Codex (中文优先): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene,  |
+| 2 | [ArcticFox2029/chamnan](https://github.com/ArcticFox2029/chamnan) | 4 | Python | 2026-09-01 | Preserves a long-lived repository's engineering context — an architecture index, an impact map, session records, and the |
+| 3 | [wardawgmalvicious/agent-config](https://github.com/wardawgmalvicious/agent-config) | 2 | PowerShell | 2026-09-01 | Personal Claude Code config — skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows |
+| 4 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 35 | Python | 2026-09-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 5 | [Shantydotcom/northstariq-revenue-operations-intelligence](https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence) | 0 | TypeScript | 2026-09-01 | Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos |
+| 6 | [ooooooooooooooooooop/agent-tools](https://github.com/ooooooooooooooooooop/agent-tools) | 3 | Python | 2026-09-01 | Agent skills repository |
+| 7 | [aiperceivable/apcore-skills](https://github.com/aiperceivable/apcore-skills) | 1 | Python | 2026-09-01 | Apcore ecosystem management skill for Claude Code. Handles cross-language SDK synchronization, framework integration sca |
+| 8 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3613 | Go | 2026-09-01 | Markdown to WeChat CLI \| 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 |
+| 9 | [TimeCraker/vibe-studio](https://github.com/TimeCraker/vibe-studio) | 0 | TypeScript | 2026-09-01 | Content factory — PPT 代码生成 → 逐页动效 → Remotion 成片的创作流水线 / skills for decks, motion & video |
+| 10 | [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 129 | JavaScript | 2026-09-01 | Open-source Agent Skills for Claude Code and Codex: ship-DAG orchestration, A-F code review, AI evals, CI gates, design, |
+| 11 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 23 | Shell | 2026-09-01 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
+| 12 | [cbrock84/headcount](https://github.com/cbrock84/headcount) | 860 | Markdown | 2026-09-01 | An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal |
 | 13 | [davidbalann/claude-fit-logger](https://github.com/davidbalann/claude-fit-logger) | 0 | Python | 2026-09-01 | Log food to Google Health by talking to Claude — automatic nutrition lookup via USDA/Open Food Facts, an MCP server on R |
 | 14 | [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 34 | Go | 2026-09-01 | Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n |
 | 15 | [Hahaknight/claude-skills-pro](https://github.com/Hahaknight/claude-skills-pro) | 2 | — | 2026-09-01 | 15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush — code review, testing, |
@@ -64,7 +64,7 @@ expired items removed — so you can rely on what you see being current.
 | 20 | [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) | 1192 | Python | 2026-09-01 | Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and |
 | 21 | [jaywavfeng/tiered-agent-orchestrator](https://github.com/jaywavfeng/tiered-agent-orchestrator) | 1 | Python | 2026-09-01 | Use strong models for decisions, economy models for execution, and repository-backed state for long-running engineering. |
 | 22 | [milisp/keke-agent](https://github.com/milisp/keke-agent) | 2 | Rust | 2026-09-01 | Lightweight terminal coding agent built in Rust for zero vendor lock-in. 7 MB,  Support Codex and grok subscriptions |
-| 23 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 19043 | Python | 2026-09-01 | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—in |
+| 23 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 19044 | Python | 2026-09-01 | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—in |
 | 24 | [shumingyang-opencode/mattpocock-skills-zh-tw](https://github.com/shumingyang-opencode/mattpocock-skills-zh-tw) | 1 | HTML | 2026-09-01 | Matt Pocock Skills 繁體中文版 — 35 個代理技能全量中文化，保留安裝與運行行為。內建 GitHub Pages 中英對照閱讀站：技能全景圖、學習路線、OpenCode/TRAE 安裝指南。 |
 | 25 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14363 | Python | 2026-09-01 | Personal memory across agents |
 | 26 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 0 | Python | 2026-09-01 | 개발 전용 Claude Code 플러그인 |
