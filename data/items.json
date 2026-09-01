@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-01T05:29:23Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Turn MIDI files into polished piano-roll PNGs \u2014 vertical Synthesia-style or horizontal DAW-style \u2014 with chord labels and",
+    "id": "flobo3/midi-pianoroll-render",
+    "language": "Python",
+    "name": "flobo3/midi-pianoroll-render",
+    "stars": 0,
+    "updated_at": "2026-09-01T05:28:38Z",
+    "url": "https://github.com/flobo3/midi-pianoroll-render"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 6,
+    "updated_at": "2026-09-01T05:27:18Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
+    "id": "serpro69/claude-toolbox",
+    "language": "Shell",
+    "name": "serpro69/claude-toolbox",
+    "stars": 148,
+    "updated_at": "2026-09-01T05:24:15Z",
+    "url": "https://github.com/serpro69/claude-toolbox"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-09-01T05:21:10Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "\u5206\u5bf8 (fencun) \u2014 a sense of measure for AI writing: what your seat lets you say, and who else will read it.",
+    "id": "silviazeng/measured-words",
+    "language": "\u2014",
+    "name": "silviazeng/measured-words",
+    "stars": 0,
+    "updated_at": "2026-09-01T05:21:05Z",
+    "url": "https://github.com/silviazeng/measured-words"
+  },
+  {
+    "description": "Agent-Native CLI design & review skill \u2014 design CLIs that serve humans, AI agents, and orchestration systems simultaneou",
+    "id": "Agents365-ai/agent-native-design",
+    "language": "Shell",
+    "name": "Agents365-ai/agent-native-design",
+    "stars": 13,
+    "updated_at": "2026-09-01T05:22:20Z",
+    "url": "https://github.com/Agents365-ai/agent-native-design"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-09-01T05:19:07Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
+    "id": "savanna0425/skillhot",
+    "language": "JavaScript",
+    "name": "savanna0425/skillhot",
+    "stars": 35,
+    "updated_at": "2026-09-01T05:18:19Z",
+    "url": "https://github.com/savanna0425/skillhot"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 3,
+    "updated_at": "2026-09-01T05:17:52Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68571,
+    "updated_at": "2026-09-01T05:20:25Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "How can I make the code I write easier to remember and safer to use?",
+    "id": "Dev-HyunSang/hyunsangs-claude-kit",
+    "language": "\u2014",
+    "name": "Dev-HyunSang/hyunsangs-claude-kit",
+    "stars": 0,
+    "updated_at": "2026-09-01T05:17:15Z",
+    "url": "https://github.com/Dev-HyunSang/hyunsangs-claude-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T05:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
@@ -27,15 +144,6 @@
     "url": "https://github.com/wardawgmalvicious/agent-config"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T05:10:36Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Turn a suspected bug into a proven one: red first, green second, red again on purpose. A skill for Claude Code and Codex",
     "id": "RooAGI/red-green-proof",
     "language": "Shell",
@@ -61,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T04:59:57Z",
     "url": "https://github.com/ityaadiii/skills-that-say-i-dont-know"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68571,
-    "updated_at": "2026-09-01T05:12:16Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness \u2014 open Agent Skills standard, not Claude-",
@@ -198,15 +297,6 @@
     "url": "https://github.com/TryWorld2026/paper-algorithm"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-01T05:12:45Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "The Swift Programming Language, packaged as a Skill for LLMs.",
     "id": "kylehughes/the-unofficial-swift-programming-language-skill",
     "language": "Python",
@@ -230,7 +320,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-09-01T04:12:01Z",
+    "updated_at": "2026-09-01T05:25:14Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 3613,
     "updated_at": "2026-09-01T03:09:57Z",
     "url": "https://github.com/geekjourneyx/md2wechat-skill"
-  },
-  {
-    "description": "Content factory \u2014 PPT \u4ee3\u7801\u751f\u6210 \u2192 \u9010\u9875\u52a8\u6548 \u2192 Remotion \u6210\u7247\u7684\u521b\u4f5c\u6d41\u6c34\u7ebf / skills for decks, motion & video",
-    "id": "TimeCraker/vibe-studio",
-    "language": "TypeScript",
-    "name": "TimeCraker/vibe-studio",
-    "stars": 0,
-    "updated_at": "2026-09-01T03:06:44Z",
-    "url": "https://github.com/TimeCraker/vibe-studio"
-  },
-  {
-    "description": "Open-source Agent Skills for Claude Code and Codex: ship-DAG orchestration, A-F code review, AI evals, CI gates, design,",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 129,
-    "updated_at": "2026-09-01T03:03:40Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Official catalog of OOMOL app-skills: agent skills that let AI assistants operate third-party services via the oo CLI",
-    "id": "oomol-lab/skills",
-    "language": "TypeScript",
-    "name": "oomol-lab/skills",
-    "stars": 2,
-    "updated_at": "2026-09-01T02:46:53Z",
-    "url": "https://github.com/oomol-lab/skills"
-  },
-  {
-    "description": "Log food to Google Health by talking to Claude \u2014 automatic nutrition lookup via USDA/Open Food Facts, an MCP server on R",
-    "id": "davidbalann/claude-fit-logger",
-    "language": "Python",
-    "name": "davidbalann/claude-fit-logger",
-    "stars": 0,
-    "updated_at": "2026-09-01T02:39:06Z",
-    "url": "https://github.com/davidbalann/claude-fit-logger"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 34,
-    "updated_at": "2026-09-01T03:27:41Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
-    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
-    "id": "Hahaknight/claude-skills-pro",
-    "language": "\u2014",
-    "name": "Hahaknight/claude-skills-pro",
-    "stars": 3,
-    "updated_at": "2026-09-01T02:31:19Z",
-    "url": "https://github.com/Hahaknight/claude-skills-pro"
-  },
-  {
-    "description": "Design the meeting before you run it. An AI skill that names the decision, picks the decision rule, cuts the room, and p",
-    "id": "theAnirudhKumar/meeting-design",
-    "language": "Python",
-    "name": "theAnirudhKumar/meeting-design",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:31:15Z",
-    "url": "https://github.com/theAnirudhKumar/meeting-design"
-  },
-  {
-    "description": "Design the work before you do it. AI skills for the moments where one deliberate decision saves the rework: vetting a to",
-    "id": "theAnirudhKumar/work-design",
-    "language": "Python",
-    "name": "theAnirudhKumar/work-design",
-    "stars": 0,
-    "updated_at": "2026-09-01T02:29:06Z",
-    "url": "https://github.com/theAnirudhKumar/work-design"
-  },
-  {
-    "description": "\u628a Claude Code / Codex \u53d8\u6210\u4f60\u7684\u6570\u5b57\u5458\u5de5 \u2014 \u4e0a\u73ed\u65cf AI \u63d0\u6548\u6280\u80fd\u5305\uff08\u4e2d\u6587\uff09\uff1a6\u6280\u80fd+\u9632\u62a4Hooks+\u5de5\u4f5c\u6d41SOP",
-    "id": "Hahaknight/digital-employee-pack",
-    "language": "\u2014",
-    "name": "Hahaknight/digital-employee-pack",
-    "stars": 0,
-    "updated_at": "2026-09-01T02:26:39Z",
-    "url": "https://github.com/Hahaknight/digital-employee-pack"
-  },
-  {
-    "description": "Thirty-two AI skills covering the whole of customer success work: reading an account, running the set-piece moments, han",
-    "id": "CSPulse/customer-success-skills",
-    "language": "Python",
-    "name": "CSPulse/customer-success-skills",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:26:19Z",
-    "url": "https://github.com/CSPulse/customer-success-skills"
   }
 ]
