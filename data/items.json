@@ -1,12 +1,48 @@
 [
   {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-01T13:58:18Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
+    "id": "petar-djukic/writing-skills",
+    "language": "Python",
+    "name": "petar-djukic/writing-skills",
+    "stars": 3,
+    "updated_at": "2026-09-01T13:58:10Z",
+    "url": "https://github.com/petar-djukic/writing-skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68584,
+    "updated_at": "2026-09-01T13:48:18Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Curated Claude Code plugin marketplace: sniff (AI QA in a real browser), ui-ux-suite (design audit), recap-studio (one-p",
     "id": "Aboudjem/10x",
     "language": "JavaScript",
     "name": "Aboudjem/10x",
     "stars": 1,
-    "updated_at": "2026-09-01T13:41:54Z",
+    "updated_at": "2026-09-01T13:46:31Z",
     "url": "https://github.com/Aboudjem/10x"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T13:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skills for live flight and hotel pricing: cheapest dates, fare watch, trip planning, hotel search, rate-parity mon",
@@ -27,11 +63,20 @@
     "url": "https://github.com/zaialamm/seo-ai-visibility-skills"
   },
   {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 35,
+    "updated_at": "2026-09-01T13:45:44Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
     "description": "Survey what a job market actually pays before applying to it. A Claude skill plus a stipend survey of nine Indian job bo",
     "id": "Shiviansh/job-market-recon",
     "language": "\u2014",
     "name": "Shiviansh/job-market-recon",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-01T13:37:15Z",
     "url": "https://github.com/Shiviansh/job-market-recon"
   },
@@ -45,15 +90,6 @@
     "url": "https://github.com/ArcticFox2029/chamnan"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68582,
-    "updated_at": "2026-09-01T13:34:49Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Claude Code skill that explains code changes in plain human language \u2014 no scary jargon. Two modes: a 'for dummies' story",
     "id": "MotleyWildside/explain-for-dumb",
     "language": "\u2014",
@@ -63,13 +99,13 @@
     "url": "https://github.com/MotleyWildside/explain-for-dumb"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "\"We can solve anything with the good ol' method of trial & error\" - Senku",
+    "id": "SentImperior666/TrialError",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T13:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "SentImperior666/TrialError",
+    "stars": 0,
+    "updated_at": "2026-09-01T13:34:00Z",
+    "url": "https://github.com/SentImperior666/TrialError"
   },
   {
     "description": "A comprehensive SEO audit command-line tool with 108 audit rules across 12 categories. Analyze any website for SEO best ",
@@ -88,15 +124,6 @@
     "stars": 8,
     "updated_at": "2026-09-01T13:29:05Z",
     "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-01T13:41:38Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Adds a 12-year-old's explanation beneath the technical one instead of replacing it. A Claude Code agent skill.",
@@ -126,15 +153,6 @@
     "url": "https://github.com/ergrelet/windiff"
   },
   {
-    "description": "\"We can solve anything with the good ol' method of trial & error\" - Senku",
-    "id": "SentImperior666/TrialError",
-    "language": "Python",
-    "name": "SentImperior666/TrialError",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:34:00Z",
-    "url": "https://github.com/SentImperior666/TrialError"
-  },
-  {
     "description": "Agent Skill that turns your Google Maps saved places into a personal dining knowledge base and gives taste-matched eatin",
     "id": "ddalgrande/dining-places-skill",
     "language": "Python",
@@ -153,6 +171,15 @@
     "url": "https://github.com/seokhoonj/newswatch"
   },
   {
+    "description": "Agent-agnostic AI Agent Skills for composing runnable API call plans, diagnosing endpoints, authoring narrated Bash demo",
+    "id": "j-256/agent-skills",
+    "language": "JavaScript",
+    "name": "j-256/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-01T13:22:09Z",
+    "url": "https://github.com/j-256/agent-skills"
+  },
+  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "j-256/stream-eval",
     "stars": 0,
-    "updated_at": "2026-09-01T13:22:04Z",
+    "updated_at": "2026-09-01T13:53:16Z",
     "url": "https://github.com/j-256/stream-eval"
   },
   {
@@ -207,6 +234,15 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-01T13:18:21Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
+  },
+  {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
     "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30672,
-    "updated_at": "2026-09-01T13:16:12Z",
+    "updated_at": "2026-09-01T13:52:42Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -265,7 +301,7 @@
     "id": "m7mdwb/martech-verify",
     "language": "Python",
     "name": "m7mdwb/martech-verify",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-09-01T13:13:15Z",
     "url": "https://github.com/m7mdwb/martech-verify"
   },
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 29,
-    "updated_at": "2026-09-01T13:39:29Z",
+    "updated_at": "2026-09-01T13:50:03Z",
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 38,
     "updated_at": "2026-09-01T12:37:16Z",
     "url": "https://github.com/fedec65/bettercallclaude"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-09-01T12:43:19Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-01T12:33:56Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
-    "id": "aitit-inc/leadace",
-    "language": "TypeScript",
-    "name": "aitit-inc/leadace",
-    "stars": 2,
-    "updated_at": "2026-09-01T12:31:56Z",
-    "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
-    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
-    "id": "serpro69/claude-toolbox",
-    "language": "Shell",
-    "name": "serpro69/claude-toolbox",
-    "stars": 148,
-    "updated_at": "2026-09-01T12:30:01Z",
-    "url": "https://github.com/serpro69/claude-toolbox"
   }
 ]
