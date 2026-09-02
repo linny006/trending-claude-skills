@@ -1,12 +1,21 @@
 [
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 103,
-    "updated_at": "2026-09-02T12:39:30Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+    "description": "For the Devs. Point-in-time, read-only audit of your Mac and its AI assistant config. Offline, no sudo, zero dependencie",
+    "id": "ShanedixonGit/macverify",
+    "language": "Python",
+    "name": "ShanedixonGit/macverify",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:58:12Z",
+    "url": "https://github.com/ShanedixonGit/macverify"
+  },
+  {
+    "description": "A plugin marketplace is a list your editor can install from. This one holds seven developer tools for Claude Code, and y",
+    "id": "Aboudjem/10x",
+    "language": "JavaScript",
+    "name": "Aboudjem/10x",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:57:22Z",
+    "url": "https://github.com/Aboudjem/10x"
   },
   {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
@@ -14,35 +23,71 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 416,
-    "updated_at": "2026-09-02T12:41:19Z",
+    "updated_at": "2026-09-02T12:53:16Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
-    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
-    "id": "JanYork/llm-wiki-cli",
-    "language": "Rust",
-    "name": "JanYork/llm-wiki-cli",
-    "stars": 49,
-    "updated_at": "2026-09-02T12:37:33Z",
-    "url": "https://github.com/JanYork/llm-wiki-cli"
+    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 2,
+    "updated_at": "2026-09-02T12:51:22Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "macOS dotfiles - Forgotten Art of Makefile",
+    "id": "kborovik/.dotfiles",
+    "language": "Vim Script",
+    "name": "kborovik/.dotfiles",
+    "stars": 0,
+    "updated_at": "2026-09-02T12:48:52Z",
+    "url": "https://github.com/kborovik/.dotfiles"
+  },
+  {
+    "description": "Agent skill: interactive HTML decision pages for brainstorming product/website/brand decisions \u2014 multi-select pills, not",
+    "id": "lareesahu/brainstorm-questionnaire",
+    "language": "HTML",
+    "name": "lareesahu/brainstorm-questionnaire",
+    "stars": 0,
+    "updated_at": "2026-09-02T12:47:46Z",
+    "url": "https://github.com/lareesahu/brainstorm-questionnaire"
   },
   {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6392,
-    "updated_at": "2026-09-02T12:34:32Z",
+    "stars": 6395,
+    "updated_at": "2026-09-02T12:47:16Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
-    "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
-    "id": "alebgl77/grafana-llmops-forge",
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
     "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-09-02T12:33:07Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
+    "name": "ellmos-ai/skills",
+    "stars": 4,
+    "updated_at": "2026-09-02T12:46:46Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-02T12:46:38Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T12:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
@@ -54,6 +99,42 @@
     "url": "https://github.com/seokhoonj/newswatcher"
   },
   {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 103,
+    "updated_at": "2026-09-02T12:39:30Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
+    "id": "JanYork/llm-wiki-cli",
+    "language": "Rust",
+    "name": "JanYork/llm-wiki-cli",
+    "stars": 49,
+    "updated_at": "2026-09-02T12:37:33Z",
+    "url": "https://github.com/JanYork/llm-wiki-cli"
+  },
+  {
+    "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
+    "id": "alebgl77/grafana-llmops-forge",
+    "language": "Python",
+    "name": "alebgl77/grafana-llmops-forge",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:33:07Z",
+    "url": "https://github.com/alebgl77/grafana-llmops-forge"
+  },
+  {
+    "description": "A unified, high-performance i18next CLI.",
+    "id": "i18next/i18next-cli",
+    "language": "TypeScript",
+    "name": "i18next/i18next-cli",
+    "stars": 234,
+    "updated_at": "2026-09-02T12:32:41Z",
+    "url": "https://github.com/i18next/i18next-cli"
+  },
+  {
     "description": "Declarative management of Agent Skills on Nix",
     "id": "Kyure-A/agent-skills-nix",
     "language": "Nix",
@@ -61,15 +142,6 @@
     "stars": 221,
     "updated_at": "2026-09-02T12:32:09Z",
     "url": "https://github.com/Kyure-A/agent-skills-nix"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T12:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -81,21 +153,12 @@
     "url": "https://github.com/curie-eng/curie"
   },
   {
-    "description": "A plugin marketplace is a list your editor can install from. This one holds seven developer tools for Claude Code, and y",
-    "id": "Aboudjem/10x",
-    "language": "JavaScript",
-    "name": "Aboudjem/10x",
-    "stars": 1,
-    "updated_at": "2026-09-02T12:27:04Z",
-    "url": "https://github.com/Aboudjem/10x"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68607,
-    "updated_at": "2026-09-02T12:26:42Z",
+    "updated_at": "2026-09-02T12:48:15Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -104,7 +167,7 @@
     "language": "HTML",
     "name": "sses79/gen-chart",
     "stars": 1,
-    "updated_at": "2026-09-02T12:19:34Z",
+    "updated_at": "2026-09-02T12:58:52Z",
     "url": "https://github.com/sses79/gen-chart"
   },
   {
@@ -193,7 +256,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33617,
+    "stars": 33619,
     "updated_at": "2026-09-02T11:55:39Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T11:42:30Z",
     "url": "https://github.com/shimo4228/codex-review"
-  },
-  {
-    "description": "Audit and fix project documentation role overlaps \u2014 one command to keep CLAUDE.md, CODEMAPS, ADR, and README healthy",
-    "id": "shimo4228/context-sync",
-    "language": "Python",
-    "name": "shimo4228/context-sync",
-    "stars": 1,
-    "updated_at": "2026-09-02T11:42:28Z",
-    "url": "https://github.com/shimo4228/context-sync"
-  },
-  {
-    "description": "Claude Code skill: measures whether agents actually follow skills, rules, and agent definitions \u2014 automated behavioral c",
-    "id": "shimo4228/skill-comply",
-    "language": "Python",
-    "name": "shimo4228/skill-comply",
-    "stars": 1,
-    "updated_at": "2026-09-02T11:42:25Z",
-    "url": "https://github.com/shimo4228/skill-comply"
-  },
-  {
-    "description": "Claude Code skill: audits installed skills for staleness, conflicts, and redundancy",
-    "id": "shimo4228/skill-stocktake",
-    "language": "Shell",
-    "name": "shimo4228/skill-stocktake",
-    "stars": 2,
-    "updated_at": "2026-09-02T11:42:20Z",
-    "url": "https://github.com/shimo4228/skill-stocktake"
-  },
-  {
-    "description": "Claude Code skill: distills cross-cutting principles from skills into rules \u2014 the final piece of the AI agent self-impro",
-    "id": "shimo4228/rules-distill",
-    "language": "Shell",
-    "name": "shimo4228/rules-distill",
-    "stars": 1,
-    "updated_at": "2026-09-02T11:42:17Z",
-    "url": "https://github.com/shimo4228/rules-distill"
-  },
-  {
-    "description": "Claude Code skill: extracts reusable patterns from sessions and evaluates their value before saving",
-    "id": "shimo4228/learn-eval",
-    "language": "Python",
-    "name": "shimo4228/learn-eval",
-    "stars": 1,
-    "updated_at": "2026-09-02T11:42:14Z",
-    "url": "https://github.com/shimo4228/learn-eval"
-  },
-  {
-    "description": "Agent skills for getting transcripts, comments, metadata and structured JSON out of video and social URLs \u2014 plus a yt-dl",
-    "id": "franciscobmacedo/postreef-skills",
-    "language": "Python",
-    "name": "franciscobmacedo/postreef-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T11:40:38Z",
-    "url": "https://github.com/franciscobmacedo/postreef-skills"
-  },
-  {
-    "description": "Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness \u2014 open Agent Skills standard, not Claude-",
-    "id": "shimo4228/claude-harness",
-    "language": "Python",
-    "name": "shimo4228/claude-harness",
-    "stars": 2,
-    "updated_at": "2026-09-02T11:40:30Z",
-    "url": "https://github.com/shimo4228/claude-harness"
   }
 ]
