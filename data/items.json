@@ -1,5 +1,113 @@
 [
   {
+    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
+    "id": "mateusands/claude-code-crew-kit",
+    "language": "JavaScript",
+    "name": "mateusands/claude-code-crew-kit",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:58:42Z",
+    "url": "https://github.com/mateusands/claude-code-crew-kit"
+  },
+  {
+    "description": "Reusable GitHub Copilot prompts for development workflows with Jira integration",
+    "id": "SilverAssist/agents-toolkit",
+    "language": "TypeScript",
+    "name": "SilverAssist/agents-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-02T16:57:22Z",
+    "url": "https://github.com/SilverAssist/agents-toolkit"
+  },
+  {
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
+    "id": "serpro69/claude-toolbox",
+    "language": "Shell",
+    "name": "serpro69/claude-toolbox",
+    "stars": 148,
+    "updated_at": "2026-09-02T16:54:23Z",
+    "url": "https://github.com/serpro69/claude-toolbox"
+  },
+  {
+    "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
+    "id": "widnyana/eyay-toolkits",
+    "language": "Python",
+    "name": "widnyana/eyay-toolkits",
+    "stars": 7,
+    "updated_at": "2026-09-02T16:53:37Z",
+    "url": "https://github.com/widnyana/eyay-toolkits"
+  },
+  {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 4,
+    "updated_at": "2026-09-02T16:52:26Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "Claude Code plugin for fiber, MOPA and CO2 laser engravers: set up the machine, build a recipe base verified on it,   ge",
+    "id": "robustagile/laser-engraver-skill",
+    "language": "C#",
+    "name": "robustagile/laser-engraver-skill",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:52:07Z",
+    "url": "https://github.com/robustagile/laser-engraver-skill"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 103,
+    "updated_at": "2026-09-02T16:58:20Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Generative SVG interior scenes & hand-inked sketchnotes via deterministic physics evals, metric arithmetic & self-improv",
+    "id": "surendranb/fun-skills",
+    "language": "Python",
+    "name": "surendranb/fun-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:51:42Z",
+    "url": "https://github.com/surendranb/fun-skills"
+  },
+  {
+    "description": "Claude Code skills that faithfully tailor your LaTeX resume to a job posting",
+    "id": "DhruvPrajapati4/apply-kit",
+    "language": "Python",
+    "name": "DhruvPrajapati4/apply-kit",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:50:34Z",
+    "url": "https://github.com/DhruvPrajapati4/apply-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T16:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 2,
+    "updated_at": "2026-09-02T16:44:54Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-09-02T16:44:31Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
     "description": "An editorial constraint set for writing AU and fanfiction with an LLM \u2014 canon layering, prose tells, Chinese and English",
     "id": "sylviachangdou-prayer/fanfic-AU-apocrypha",
     "language": "\u2014",
@@ -14,7 +122,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-09-02T16:41:53Z",
+    "updated_at": "2026-09-02T16:58:41Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -36,15 +144,6 @@
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
   },
   {
-    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
-    "id": "wardawgmalvicious/agent-config",
-    "language": "PowerShell",
-    "name": "wardawgmalvicious/agent-config",
-    "stars": 2,
-    "updated_at": "2026-09-02T16:44:54Z",
-    "url": "https://github.com/wardawgmalvicious/agent-config"
-  },
-  {
     "description": "Look before you build. A Claude Code skill that scouts installed skills, a verified vendor catalog, then live GitHub, ap",
     "id": "nohseongmin/claude-skill-finder",
     "language": "Python",
@@ -54,24 +153,6 @@
     "url": "https://github.com/nohseongmin/claude-skill-finder"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 103,
-    "updated_at": "2026-09-02T16:44:40Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
-    "id": "widnyana/eyay-toolkits",
-    "language": "Python",
-    "name": "widnyana/eyay-toolkits",
-    "stars": 7,
-    "updated_at": "2026-09-02T16:33:29Z",
-    "url": "https://github.com/widnyana/eyay-toolkits"
-  },
-  {
     "description": "Agent skills repository",
     "id": "ooooooooooooooooooop/agent-tools",
     "language": "Python",
@@ -79,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-09-02T16:31:33Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T16:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Evidence-chain memory for AI agents - verbatim-first, auditable, anti-fabrication. Tell your story once, recall it with ",
@@ -104,24 +176,15 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-02T16:35:34Z",
+    "updated_at": "2026-09-02T16:59:49Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
-    "id": "mateusands/claude-code-crew-kit",
-    "language": "JavaScript",
-    "name": "mateusands/claude-code-crew-kit",
-    "stars": 0,
-    "updated_at": "2026-09-02T16:26:30Z",
-    "url": "https://github.com/mateusands/claude-code-crew-kit"
   },
   {
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. ",
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 42032,
+    "stars": 42036,
     "updated_at": "2026-09-02T16:25:37Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "timescale/pg-aiguide",
     "stars": 1830,
-    "updated_at": "2026-09-02T16:14:23Z",
+    "updated_at": "2026-09-02T16:46:08Z",
     "url": "https://github.com/timescale/pg-aiguide"
   },
   {
@@ -202,7 +265,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68614,
+    "stars": 68613,
     "updated_at": "2026-09-02T16:11:19Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-02T16:09:17Z",
+    "updated_at": "2026-09-02T16:52:02Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T15:35:40Z",
     "url": "https://github.com/j-256/agent-skills"
-  },
-  {
-    "description": "Deterministic trigger and synthesis evaluation for Agent Skills across Claude Code, Codex, and OpenCode.",
-    "id": "j-256/stream-eval",
-    "language": "Python",
-    "name": "j-256/stream-eval",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:35:36Z",
-    "url": "https://github.com/j-256/stream-eval"
-  },
-  {
-    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
-    "id": "astroicers/skill-quality-research",
-    "language": "Python",
-    "name": "astroicers/skill-quality-research",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:35:17Z",
-    "url": "https://github.com/astroicers/skill-quality-research"
-  },
-  {
-    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
-    "id": "JanYork/llm-wiki-cli",
-    "language": "Rust",
-    "name": "JanYork/llm-wiki-cli",
-    "stars": 50,
-    "updated_at": "2026-09-02T15:34:57Z",
-    "url": "https://github.com/JanYork/llm-wiki-cli"
-  },
-  {
-    "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-09-02T15:30:04Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
-    "description": "Downloadable agent skills for AI coding assistants \u2014 landing page replication, WebGL Three.js backgrounds, Doubao TTS & ",
-    "id": "lizliz404/agent-skills",
-    "language": "Python",
-    "name": "lizliz404/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:29:10Z",
-    "url": "https://github.com/lizliz404/agent-skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 416,
-    "updated_at": "2026-09-02T15:28:16Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-09-02T15:27:59Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
