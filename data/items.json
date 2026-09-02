@@ -1,21 +1,48 @@
 [
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-02T16:12:38Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
+    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
+    "id": "mateusands/claude-code-crew-kit",
+    "language": "JavaScript",
+    "name": "mateusands/claude-code-crew-kit",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:26:30Z",
+    "url": "https://github.com/mateusands/claude-code-crew-kit"
   },
   {
-    "description": "\u0414\u0432\u0430 \u0441\u043a\u0438\u043b\u043b\u0430 \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u0440\u0443\u0441\u0441\u043a\u0438\u043c \u0442\u0435\u043a\u0441\u0442\u043e\u043c: \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043d\u0430 \u0441\u043b\u0435\u0434\u044b \u0418\u0418 \u0438 \u043f\u0438\u0441\u044c\u043c\u043e \u0441 \u043d\u0443\u043b\u044f",
-    "id": "IlyaChv/stop-slop-ru",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. ",
+    "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
-    "name": "IlyaChv/stop-slop-ru",
-    "stars": 1,
-    "updated_at": "2026-09-02T16:09:53Z",
-    "url": "https://github.com/IlyaChv/stop-slop-ru"
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "stars": 42029,
+    "updated_at": "2026-09-02T16:25:37Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 401,
+    "updated_at": "2026-09-02T16:25:08Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
+    "id": "widnyana/eyay-toolkits",
+    "language": "Python",
+    "name": "widnyana/eyay-toolkits",
+    "stars": 7,
+    "updated_at": "2026-09-02T16:23:34Z",
+    "url": "https://github.com/widnyana/eyay-toolkits"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:29:49Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
@@ -23,8 +50,98 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 103,
-    "updated_at": "2026-09-02T16:09:43Z",
+    "updated_at": "2026-09-02T16:29:59Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Claude Skill Library",
+    "id": "10xequity/claude-skill-library",
+    "language": "\u2014",
+    "name": "10xequity/claude-skill-library",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:19:56Z",
+    "url": "https://github.com/10xequity/claude-skill-library"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 60,
+    "updated_at": "2026-09-02T16:19:27Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Spark Hub - indice do ecossistema de extensoes do Claude Code: 502 plugins em 16 marketplaces.",
+    "id": "thenrynadai-oss/spark-hub",
+    "language": "HTML",
+    "name": "thenrynadai-oss/spark-hub",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:18:18Z",
+    "url": "https://github.com/thenrynadai-oss/spark-hub"
+  },
+  {
+    "description": "\u0414\u0432\u0430 \u0441\u043a\u0438\u043b\u043b\u0430 \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u0440\u0443\u0441\u0441\u043a\u0438\u043c \u0442\u0435\u043a\u0441\u0442\u043e\u043c: \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043d\u0430 \u0441\u043b\u0435\u0434\u044b \u0418\u0418 \u0438 \u043f\u0438\u0441\u044c\u043c\u043e \u0441 \u043d\u0443\u043b\u044f",
+    "id": "IlyaChv/stop-slop-ru",
+    "language": "Python",
+    "name": "IlyaChv/stop-slop-ru",
+    "stars": 1,
+    "updated_at": "2026-09-02T16:16:55Z",
+    "url": "https://github.com/IlyaChv/stop-slop-ru"
+  },
+  {
+    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
+    "id": "petar-djukic/writing-skills",
+    "language": "Python",
+    "name": "petar-djukic/writing-skills",
+    "stars": 3,
+    "updated_at": "2026-09-02T16:15:39Z",
+    "url": "https://github.com/petar-djukic/writing-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T16:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
+    "id": "chenweil/skillcaddy",
+    "language": "JavaScript",
+    "name": "chenweil/skillcaddy",
+    "stars": 24,
+    "updated_at": "2026-09-02T16:11:21Z",
+    "url": "https://github.com/chenweil/skillcaddy"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68613,
+    "updated_at": "2026-09-02T16:11:19Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
+    "id": "skills-agents-co/skills-and-agents-library",
+    "language": "Python",
+    "name": "skills-agents-co/skills-and-agents-library",
+    "stars": 1,
+    "updated_at": "2026-09-02T16:10:48Z",
+    "url": "https://github.com/skills-agents-co/skills-and-agents-library"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-02T16:27:42Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
@@ -36,6 +153,15 @@
     "url": "https://github.com/vanducng/skills"
   },
   {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-02T16:09:17Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
     "description": "Agent skills for live flight and hotel pricing: cheapest dates, fare watch, trip planning, hotel search, rate-parity mon",
     "id": "mtnrabi/travel-agent-skills",
     "language": "\u2014",
@@ -43,6 +169,15 @@
     "stars": 2,
     "updated_at": "2026-09-02T16:08:35Z",
     "url": "https://github.com/mtnrabi/travel-agent-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19082,
+    "updated_at": "2026-09-02T16:06:40Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "AI-assisted product development, from fuzzy idea to technical spec \u2014 a Claude Code plugin of guided UX-research prompt f",
@@ -70,24 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T16:01:47Z",
     "url": "https://github.com/wardawgmalvicious/agent-config"
-  },
-  {
-    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. ",
-    "id": "K-Dense-AI/scientific-agent-skills",
-    "language": "Python",
-    "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 42026,
-    "updated_at": "2026-09-02T16:01:01Z",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T16:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Practical playbook for AI-assisted engineering: rules, role separation, and guardrails for teams using Cursor/Copilot in",
@@ -160,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T15:46:09Z",
     "url": "https://github.com/lost-rob0t/skills"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68612,
-    "updated_at": "2026-09-02T16:11:19Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Rory Sutherland's psycho-logic as Claude skills \u2014 solve the human perception, not the metric. Reframing, costly signalin",
@@ -261,15 +369,6 @@
     "url": "https://github.com/lizliz404/agent-skills"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19081,
-    "updated_at": "2026-09-02T16:06:40Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 21,
     "updated_at": "2026-09-02T15:12:16Z",
     "url": "https://github.com/DSY-Xueai/image2editable"
-  },
-  {
-    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
-    "id": "hanzhangzzz/agent-skills-zh",
-    "language": "Python",
-    "name": "hanzhangzzz/agent-skills-zh",
-    "stars": 1,
-    "updated_at": "2026-09-02T15:11:53Z",
-    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
-  },
-  {
-    "description": "Claude Code skill for store, product page and landing page design. Decides which selling mechanics belong on THIS produc",
-    "id": "kinerette/claude-code-store-design",
-    "language": "TypeScript",
-    "name": "kinerette/claude-code-store-design",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:08:39Z",
-    "url": "https://github.com/kinerette/claude-code-store-design"
-  },
-  {
-    "description": "Claude Code / agentic security skill for Solana programs and software. Full audit-firm lifecycle, executable PoC + fix-p",
-    "id": "solanabr/auditor-skill",
-    "language": "Rust",
-    "name": "solanabr/auditor-skill",
-    "stars": 52,
-    "updated_at": "2026-09-02T15:08:00Z",
-    "url": "https://github.com/solanabr/auditor-skill"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 5,
-    "updated_at": "2026-09-02T15:24:06Z",
-    "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "Lightweight terminal coding agent harness built in Rust for zero vendor lock-in. 7 MB,  Support Codex and grok subscript",
-    "id": "milisp/keke-agent",
-    "language": "Rust",
-    "name": "milisp/keke-agent",
-    "stars": 2,
-    "updated_at": "2026-09-02T15:05:49Z",
-    "url": "https://github.com/milisp/keke-agent"
-  },
-  {
-    "description": "Claude Code skill that audits a storefront for the dark patterns that are illegal in the EU, UK and US \u2014 pre-ticked add-",
-    "id": "kinerette/claude-code-ecommerce-dark-patterns",
-    "language": "JavaScript",
-    "name": "kinerette/claude-code-ecommerce-dark-patterns",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:05:23Z",
-    "url": "https://github.com/kinerette/claude-code-ecommerce-dark-patterns"
-  },
-  {
-    "description": "Claude Code skill for cart, checkout and post-purchase upsells. Decides which mechanic goes where \u2014 order bump (never pr",
-    "id": "kinerette/claude-code-checkout-upsell",
-    "language": "\u2014",
-    "name": "kinerette/claude-code-checkout-upsell",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:05:18Z",
-    "url": "https://github.com/kinerette/claude-code-checkout-upsell"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:05:08Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-09-02T15:04:55Z",
-    "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-02T15:03:07Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Agent skills for SolidJS 2.0 \u2014 write, migrate, and review solid-js 2.x code without React/1.x reflexes",
-    "id": "khmm12/solidjs-v2-skills",
-    "language": "JavaScript",
-    "name": "khmm12/solidjs-v2-skills",
-    "stars": 4,
-    "updated_at": "2026-09-02T15:02:28Z",
-    "url": "https://github.com/khmm12/solidjs-v2-skills"
   }
 ]
