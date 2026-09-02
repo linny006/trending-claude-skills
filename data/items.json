@@ -1,12 +1,66 @@
 [
   {
-    "description": "\u9762\u5411\u4e2d\u6587 Java/Spring \u751f\u6001\u7684 Agent Skills \u5957\u88c5\uff1a\u7f16\u7801\u89c4\u8303\u3001\u8d28\u91cf\u95e8\u7981\u3001\u5355\u5143\u6d4b\u8bd5\u3001Sa-Token/MyBatis-Plus \u6846\u67b6\u3001\u654f\u6377\u6d41\u7a0b\u3002\u652f\u6301 Claude Code \u63d2\u4ef6\u4e0e npx skills \u4e00\u952e\u5b89\u88c5\u3002",
-    "id": "BaixuanZhu/skills",
-    "language": "Java",
-    "name": "BaixuanZhu/skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T01:58:52Z",
-    "url": "https://github.com/BaixuanZhu/skills"
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 92922,
+    "updated_at": "2026-09-02T02:14:49Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-02T02:12:08Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-02T02:11:57Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-09-02T02:10:51Z",
+    "url": "https://github.com/ayukyo/icode-skill"
+  },
+  {
+    "description": "Bring DataRobot platform capabilities to your coding agents",
+    "id": "datarobot-oss/datarobot-agent-skills",
+    "language": "Python",
+    "name": "datarobot-oss/datarobot-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-09-02T02:09:07Z",
+    "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19069,
+    "updated_at": "2026-09-02T02:08:50Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Curated Claude Code plugin marketplace: sniff (AI QA in a real browser), ui-ux-suite (design audit), recap-studio (one-p",
+    "id": "Aboudjem/10x",
+    "language": "JavaScript",
+    "name": "Aboudjem/10x",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:07:38Z",
+    "url": "https://github.com/Aboudjem/10x"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -14,8 +68,53 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68592,
-    "updated_at": "2026-09-02T01:58:44Z",
+    "updated_at": "2026-09-02T02:12:02Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 35,
+    "updated_at": "2026-09-02T02:04:42Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "\u628a\u4e00\u500b\u4eba\u7684\u8a71\u554f\u51fa\u4f86\uff0c\u505a\u6210\u4e00\u9801\u5f0f\u7684\u500b\u4eba\u54c1\u724c\u7db2\u7ad9\u3002\u7d66 AI \u4ee3\u7406\u4eba\u7167\u8457\u8dd1\u7684\u56db\u968e\u6bb5\u6d41\u7a0b\uff1a\u8a2a\u8ac7\u3001\u9078\u578b\u3001\u5efa\u7ad9\u3001\u9a57\u6536\u3002\u96f6\u4f9d\u8cf4\uff0c\u56db\u7a2e\u98a8\u683c\uff0c\u56db\u7a2e\u6703\u6d41\u52d5\u7684\u9996\u5c4f\u3002",
+    "id": "yazelin/personal-brand-site-starter",
+    "language": "HTML",
+    "name": "yazelin/personal-brand-site-starter",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:03:12Z",
+    "url": "https://github.com/yazelin/personal-brand-site-starter"
+  },
+  {
+    "description": "127 portable ecommerce skills for marketplace research, product discovery, keyword analysis, trends, sourcing, patent sc",
+    "id": "nexscope-ai/nexscope-ecommerce-skills",
+    "language": "Python",
+    "name": "nexscope-ai/nexscope-ecommerce-skills",
+    "stars": 59,
+    "updated_at": "2026-09-02T02:01:22Z",
+    "url": "https://github.com/nexscope-ai/nexscope-ecommerce-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T02:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587 Java/Spring \u751f\u6001\u7684 Agent Skills \u5957\u88c5\uff1a\u7f16\u7801\u89c4\u8303\u3001\u8d28\u91cf\u95e8\u7981\u3001\u5355\u5143\u6d4b\u8bd5\u3001Sa-Token/MyBatis-Plus \u6846\u67b6\u3001\u654f\u6377\u6d41\u7a0b\u3002\u652f\u6301 Claude Code \u63d2\u4ef6\u4e0e npx skills \u4e00\u952e\u5b89\u88c5\u3002",
+    "id": "BaixuanZhu/skills",
+    "language": "Java",
+    "name": "BaixuanZhu/skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T01:58:52Z",
+    "url": "https://github.com/BaixuanZhu/skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -36,15 +135,6 @@
     "url": "https://github.com/sergiohidalgo-pro/tablero"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-02T01:56:55Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
     "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
     "language": "TypeScript",
@@ -52,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T01:51:03Z",
     "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19069,
-    "updated_at": "2026-09-02T01:50:19Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Agent skills for Claude Code & skills.sh-compatible agents.",
@@ -81,15 +162,6 @@
     "url": "https://github.com/UdotCASH/ucash-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T01:45:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -106,15 +178,6 @@
     "stars": 6038,
     "updated_at": "2026-09-02T01:37:50Z",
     "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "Bring DataRobot platform capabilities to your coding agents",
-    "id": "datarobot-oss/datarobot-agent-skills",
-    "language": "Python",
-    "name": "datarobot-oss/datarobot-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-09-02T01:35:13Z",
-    "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -194,7 +257,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-02T01:54:17Z",
+    "updated_at": "2026-09-02T02:11:58Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -360,6 +423,15 @@
     "url": "https://github.com/mist-medical/skills"
   },
   {
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
+    "id": "OthmanAdi/planning-with-files",
+    "language": "Shell",
+    "name": "OthmanAdi/planning-with-files",
+    "stars": 26565,
+    "updated_at": "2026-09-02T00:32:47Z",
+    "url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
     "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
     "id": "cbrock84/headcount",
     "language": "Markdown",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T00:31:48Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
-    "id": "galleonlabs/hypergrok-trading-desk",
-    "language": "Python",
-    "name": "galleonlabs/hypergrok-trading-desk",
-    "stars": 43,
-    "updated_at": "2026-09-02T00:31:46Z",
-    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
-  },
-  {
-    "description": "Claude Code skill for store, product page and landing page design. Decides which selling mechanics belong on THIS produc",
-    "id": "kinerette/claude-code-store-design",
-    "language": "TypeScript",
-    "name": "kinerette/claude-code-store-design",
-    "stars": 0,
-    "updated_at": "2026-09-02T00:27:37Z",
-    "url": "https://github.com/kinerette/claude-code-store-design"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 55,
-    "updated_at": "2026-09-02T00:24:57Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Shell",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 26563,
-    "updated_at": "2026-09-02T00:32:47Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 49,
-    "updated_at": "2026-09-02T00:22:49Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-09-02T00:20:28Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "bridge.ai: Claude Code plugins for AI-assisted development",
-    "id": "chris-peterson/claude-marketplace",
-    "language": "Python",
-    "name": "chris-peterson/claude-marketplace",
-    "stars": 0,
-    "updated_at": "2026-09-02T00:19:23Z",
-    "url": "https://github.com/chris-peterson/claude-marketplace"
-  },
-  {
-    "description": "Open-source thinking-framework skills that make rigorous reasoning executable for AI agents \u2014 first-principles, inversio",
-    "id": "deciqAI/knowledge-skills",
-    "language": "Python",
-    "name": "deciqAI/knowledge-skills",
-    "stars": 10,
-    "updated_at": "2026-09-02T00:19:02Z",
-    "url": "https://github.com/deciqAI/knowledge-skills"
   }
 ]
