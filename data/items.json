@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-02T18:28:22Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Open-source, versioned skills for Codex and AI agent workflows \u2014 composable, tested, and safety-focused.",
+    "id": "WardLu/skills",
+    "language": "Python",
+    "name": "WardLu/skills",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:27:14Z",
+    "url": "https://github.com/WardLu/skills"
+  },
+  {
+    "description": "Claude Code skills I built so I'd stop forgetting where I left off. Sharing in case you need them too.",
+    "id": "SpoiledMilkLabs/skills",
+    "language": "Shell",
+    "name": "SpoiledMilkLabs/skills",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:26:23Z",
+    "url": "https://github.com/SpoiledMilkLabs/skills"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:24:59Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Five self-contained agent skills for Claude \u2014 interview before building, restructure brain dumps, coach beginners, autho",
+    "id": "innovationengines/skills-repo",
+    "language": "\u2014",
+    "name": "innovationengines/skills-repo",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:25:03Z",
+    "url": "https://github.com/innovationengines/skills-repo"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 3,
+    "updated_at": "2026-09-02T18:21:59Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 49,
+    "updated_at": "2026-09-02T18:18:42Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-09-02T18:18:34Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:17:11Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 5,
+    "updated_at": "2026-09-02T18:17:05Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-09-02T18:17:02Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T18:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:15:03Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -14,8 +131,17 @@
     "language": "Python",
     "name": "Zhonghao1995/agentic-swmm-workflow",
     "stars": 25,
-    "updated_at": "2026-09-02T18:12:00Z",
+    "updated_at": "2026-09-02T18:22:07Z",
     "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
+    "id": "Chili-Piper/mcp-assets",
+    "language": "\u2014",
+    "name": "Chili-Piper/mcp-assets",
+    "stars": 7,
+    "updated_at": "2026-09-02T18:11:44Z",
+    "url": "https://github.com/Chili-Piper/mcp-assets"
   },
   {
     "description": "Open-source product leadership skills from the Mission Built ecosystem. The book teaches the principles. The Loadout put",
@@ -41,7 +167,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 103,
-    "updated_at": "2026-09-02T18:09:18Z",
+    "updated_at": "2026-09-02T18:27:27Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -50,7 +176,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-02T18:06:45Z",
+    "updated_at": "2026-09-02T18:27:46Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -108,15 +234,6 @@
     "url": "https://github.com/cldr-steven-matison/NiFiandAi"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T18:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The loop for everything!",
     "id": "MadaraUchiha-314/the-loop",
     "language": "Python",
@@ -124,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-09-02T17:59:33Z",
     "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-02T18:08:56Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -178,15 +286,6 @@
     "stars": 6,
     "updated_at": "2026-09-02T17:49:20Z",
     "url": "https://github.com/richfrem/agent-plugins-skills"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:14:34Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Durable, repo-native project memory for coding agents\u2014without context bloat.",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T17:33:48Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 5,
-    "updated_at": "2026-09-02T18:09:08Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-09-02T17:25:55Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-09-02T17:25:55Z",
-    "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
-    "id": "wardawgmalvicious/agent-config",
-    "language": "PowerShell",
-    "name": "wardawgmalvicious/agent-config",
-    "stars": 2,
-    "updated_at": "2026-09-02T17:25:16Z",
-    "url": "https://github.com/wardawgmalvicious/agent-config"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-02T17:23:36Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Personal collection of Claude Code skills for development workflows",
-    "id": "technicalpickles/pickled-claude-plugins",
-    "language": "Python",
-    "name": "technicalpickles/pickled-claude-plugins",
-    "stars": 10,
-    "updated_at": "2026-09-02T17:22:13Z",
-    "url": "https://github.com/technicalpickles/pickled-claude-plugins"
-  },
-  {
-    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
-    "id": "chenweil/skillcaddy",
-    "language": "JavaScript",
-    "name": "chenweil/skillcaddy",
-    "stars": 24,
-    "updated_at": "2026-09-02T17:20:33Z",
-    "url": "https://github.com/chenweil/skillcaddy"
-  },
-  {
-    "description": "Evidence-chain memory for AI agents - verbatim-first, auditable, anti-fabrication. Tell your story once, recall it with ",
-    "id": "caix84476-netizen/personal-understanding",
-    "language": "Python",
-    "name": "caix84476-netizen/personal-understanding",
-    "stars": 1,
-    "updated_at": "2026-09-02T17:20:05Z",
-    "url": "https://github.com/caix84476-netizen/personal-understanding"
-  },
-  {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "Python",
-    "name": "titanwings/distilly",
-    "stars": 24281,
-    "updated_at": "2026-09-02T17:19:37Z",
-    "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "Claude Code plugin for the whole job hunt: find live roles straight from company ATS boards, tailor your LaTeX resume to",
-    "id": "DhruvPrajapati4/apply-kit",
-    "language": "Python",
-    "name": "DhruvPrajapati4/apply-kit",
-    "stars": 0,
-    "updated_at": "2026-09-02T17:13:30Z",
-    "url": "https://github.com/DhruvPrajapati4/apply-kit"
-  },
-  {
-    "description": "AI-ready knowledge base of security & compliance regulations for hardware and connected-device manufacturers - structure",
-    "id": "Platanor/hardware-compliance-handbook",
-    "language": "\u2014",
-    "name": "Platanor/hardware-compliance-handbook",
-    "stars": 26,
-    "updated_at": "2026-09-02T17:12:26Z",
-    "url": "https://github.com/Platanor/hardware-compliance-handbook"
   }
 ]
