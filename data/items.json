@@ -1,11 +1,83 @@
 [
   {
+    "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
+    "id": "seokhoonj/newswatcher",
+    "language": "Python",
+    "name": "seokhoonj/newswatcher",
+    "stars": 0,
+    "updated_at": "2026-09-02T13:09:03Z",
+    "url": "https://github.com/seokhoonj/newswatcher"
+  },
+  {
+    "description": "A unified, high-performance i18next CLI.",
+    "id": "i18next/i18next-cli",
+    "language": "TypeScript",
+    "name": "i18next/i18next-cli",
+    "stars": 234,
+    "updated_at": "2026-09-02T13:02:41Z",
+    "url": "https://github.com/i18next/i18next-cli"
+  },
+  {
+    "description": "AI Corner Store \ud83c\udfea \u2014 a small, curated shop of AI skills, plugins, and bundles for Claude. One folder per release, each in",
+    "id": "sorensensig/ai-corner-store",
+    "language": "Python",
+    "name": "sorensensig/ai-corner-store",
+    "stars": 9,
+    "updated_at": "2026-09-02T13:02:08Z",
+    "url": "https://github.com/sorensensig/ai-corner-store"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 417,
+    "updated_at": "2026-09-02T13:01:47Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "A growing library of reusable PM skills and frameworks for turning product management judgment into repeatable, shareabl",
+    "id": "saurabhships/pm-agent-skills",
+    "language": "\u2014",
+    "name": "saurabhships/pm-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T13:01:20Z",
+    "url": "https://github.com/saurabhships/pm-agent-skills"
+  },
+  {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-09-02T13:01:13Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "JavaScript",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 20,
+    "updated_at": "2026-09-02T13:00:38Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T13:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "For the Devs. Point-in-time, read-only audit of your Mac and its AI assistant config. Offline, no sudo, zero dependencie",
     "id": "ShanedixonGit/macverify",
     "language": "Python",
     "name": "ShanedixonGit/macverify",
     "stars": 1,
-    "updated_at": "2026-09-02T12:58:12Z",
+    "updated_at": "2026-09-02T13:00:32Z",
     "url": "https://github.com/ShanedixonGit/macverify"
   },
   {
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T12:57:22Z",
     "url": "https://github.com/Aboudjem/10x"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 416,
-    "updated_at": "2026-09-02T12:53:16Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
@@ -59,7 +122,7 @@
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
     "stars": 6395,
-    "updated_at": "2026-09-02T12:47:16Z",
+    "updated_at": "2026-09-02T13:02:06Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
@@ -79,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-09-02T12:46:38Z",
     "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T12:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
-    "id": "seokhoonj/newswatcher",
-    "language": "Python",
-    "name": "seokhoonj/newswatcher",
-    "stars": 0,
-    "updated_at": "2026-09-02T12:43:06Z",
-    "url": "https://github.com/seokhoonj/newswatcher"
   },
   {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
@@ -126,15 +171,6 @@
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
   },
   {
-    "description": "A unified, high-performance i18next CLI.",
-    "id": "i18next/i18next-cli",
-    "language": "TypeScript",
-    "name": "i18next/i18next-cli",
-    "stars": 234,
-    "updated_at": "2026-09-02T12:32:41Z",
-    "url": "https://github.com/i18next/i18next-cli"
-  },
-  {
     "description": "Declarative management of Agent Skills on Nix",
     "id": "Kyure-A/agent-skills-nix",
     "language": "Nix",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-02T12:43:03Z",
+    "updated_at": "2026-09-02T13:05:04Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 416,
     "updated_at": "2026-09-02T12:36:06Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 20,
-    "updated_at": "2026-09-02T12:14:45Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
   },
   {
     "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow diagrams, inside the pull request it",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T11:42:38Z",
     "url": "https://github.com/shimo4228/jsonld-knowledge-graph"
-  },
-  {
-    "description": "Claude Code skill: release workflow for DOI-registered research repositories following the authorship-strategy identifie",
-    "id": "shimo4228/release-doi",
-    "language": "Shell",
-    "name": "shimo4228/release-doi",
-    "stars": 1,
-    "updated_at": "2026-09-02T11:42:35Z",
-    "url": "https://github.com/shimo4228/release-doi"
-  },
-  {
-    "description": "Claude Code skill: writes & improves human-facing READMEs \u2014 the single canonical entrance for humans, search, and AI Ove",
-    "id": "shimo4228/readme-writer",
-    "language": "Python",
-    "name": "shimo4228/readme-writer",
-    "stars": 1,
-    "updated_at": "2026-09-02T11:42:33Z",
-    "url": "https://github.com/shimo4228/readme-writer"
-  },
-  {
-    "description": "Cross-model code review \u2014 a read-only Claude Code skill wrapping the OpenAI Codex CLI for a decorrelated second opinion ",
-    "id": "shimo4228/codex-review",
-    "language": "Shell",
-    "name": "shimo4228/codex-review",
-    "stars": 1,
-    "updated_at": "2026-09-02T11:42:30Z",
-    "url": "https://github.com/shimo4228/codex-review"
   }
 ]
