@@ -1,5 +1,86 @@
 [
   {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 103,
+    "updated_at": "2026-09-02T12:39:30Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 416,
+    "updated_at": "2026-09-02T12:41:19Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
+    "id": "JanYork/llm-wiki-cli",
+    "language": "Rust",
+    "name": "JanYork/llm-wiki-cli",
+    "stars": 49,
+    "updated_at": "2026-09-02T12:37:33Z",
+    "url": "https://github.com/JanYork/llm-wiki-cli"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "zenstory-ai/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "zenstory-ai/oh-story-claudecode",
+    "stars": 6392,
+    "updated_at": "2026-09-02T12:34:32Z",
+    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
+  },
+  {
+    "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
+    "id": "alebgl77/grafana-llmops-forge",
+    "language": "Python",
+    "name": "alebgl77/grafana-llmops-forge",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:33:07Z",
+    "url": "https://github.com/alebgl77/grafana-llmops-forge"
+  },
+  {
+    "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
+    "id": "seokhoonj/newswatcher",
+    "language": "Python",
+    "name": "seokhoonj/newswatcher",
+    "stars": 0,
+    "updated_at": "2026-09-02T12:43:06Z",
+    "url": "https://github.com/seokhoonj/newswatcher"
+  },
+  {
+    "description": "Declarative management of Agent Skills on Nix",
+    "id": "Kyure-A/agent-skills-nix",
+    "language": "Nix",
+    "name": "Kyure-A/agent-skills-nix",
+    "stars": 221,
+    "updated_at": "2026-09-02T12:32:09Z",
+    "url": "https://github.com/Kyure-A/agent-skills-nix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T12:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-02T12:43:03Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
     "description": "A plugin marketplace is a list your editor can install from. This one holds seven developer tools for Claude Code, and y",
     "id": "Aboudjem/10x",
     "language": "JavaScript",
@@ -7,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-09-02T12:27:04Z",
     "url": "https://github.com/Aboudjem/10x"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68607,
+    "updated_at": "2026-09-02T12:26:42Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
@@ -23,17 +113,8 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 416,
-    "updated_at": "2026-09-02T12:17:11Z",
+    "updated_at": "2026-09-02T12:36:06Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T12:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
@@ -54,15 +135,6 @@
     "url": "https://github.com/coldteadotai/pr-lens"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 103,
-    "updated_at": "2026-09-02T12:28:32Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "A collection of mainly my own productivity plugins for Claude Code.",
     "id": "Marcel-Bich/marcel-bich-claude-marketplace",
     "language": "Shell",
@@ -70,15 +142,6 @@
     "stars": 13,
     "updated_at": "2026-09-02T12:07:48Z",
     "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
-  },
-  {
-    "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-09-02T12:29:32Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
   },
   {
     "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
@@ -142,15 +205,6 @@
     "stars": 25,
     "updated_at": "2026-09-02T11:53:41Z",
     "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "zenstory-ai/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6391,
-    "updated_at": "2026-09-02T11:52:35Z",
-    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T11:40:30Z",
     "url": "https://github.com/shimo4228/claude-harness"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 5,
-    "updated_at": "2026-09-02T11:37:42Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "Awesome Claude Code And Agent Tools",
-    "id": "cooler333/cool-claude-code",
-    "language": "Python",
-    "name": "cooler333/cool-claude-code",
-    "stars": 9,
-    "updated_at": "2026-09-02T11:35:29Z",
-    "url": "https://github.com/cooler333/cool-claude-code"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-09-02T11:33:11Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
-    "id": "Jsnnmsc/10000x-engineer",
-    "language": "\u2014",
-    "name": "Jsnnmsc/10000x-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-02T11:31:27Z",
-    "url": "https://github.com/Jsnnmsc/10000x-engineer"
-  },
-  {
-    "description": "UbD \u9006\u5411\u8bbe\u8ba1\u9a71\u52a8\u7684\u6559\u6750\u5199\u4f5c skill \u7ec4\u5408\uff0c\u4e00\u952e\u88c5\u8fdb Claude Code / Codex / WorkBuddy\uff1a\u6559\u5b66\u5b9a\u4f4d \u2192 \u4e94\u4ef6\u5957 gate \u2192 \u7ae0\u8282\u6811 gate \u2192 \u56db\u6bb5\u5f0f\u9010\u7ae0\u5199\u4f5c \u2192 \u5ba1\u6838\u5b9a\u7a3f\u3002\u5b66\u79d1\u65e0\u5173\u5185\u6838 + \u53ef\u63d2\u62d4\u5b66\u79d1",
-    "id": "cabbage2000-lab/textbook-writer-skills",
-    "language": "Python",
-    "name": "cabbage2000-lab/textbook-writer-skills",
-    "stars": 25,
-    "updated_at": "2026-09-02T11:29:20Z",
-    "url": "https://github.com/cabbage2000-lab/textbook-writer-skills"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-09-02T11:26:56Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
   }
 ]
