@@ -1,30 +1,75 @@
 [
   {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-02T19:13:23Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
+    "description": "",
+    "id": "andresnator/agents-orchestrator",
+    "language": "Shell",
+    "name": "andresnator/agents-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:29:56Z",
+    "url": "https://github.com/andresnator/agents-orchestrator"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-09-02T19:26:49Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod",
+    "id": "timescale/pg-aiguide",
+    "language": "Python",
+    "name": "timescale/pg-aiguide",
+    "stars": 1830,
+    "updated_at": "2026-09-02T19:26:26Z",
+    "url": "https://github.com/timescale/pg-aiguide"
+  },
+  {
+    "description": "Claude Skill Library",
+    "id": "10xequity/claude-skill-library",
+    "language": "\u2014",
+    "name": "10xequity/claude-skill-library",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:25:11Z",
+    "url": "https://github.com/10xequity/claude-skill-library"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 5,
+    "updated_at": "2026-09-02T19:22:00Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "Yandex MCP servers / MCP-\u0441\u0435\u0440\u0432\u0435\u0440\u044b \u0434\u043b\u044f \u042f\u043d\u0434\u0435\u043a\u0441\u0430: \u0414\u0438\u0440\u0435\u043a\u0442, \u041c\u0435\u0442\u0440\u0438\u043a\u0430, \u0412\u0435\u0431\u043c\u0430\u0441\u0442\u0435\u0440, Wordstat, \u0422\u0440\u0435\u043a\u0435\u0440, 360, \u041a\u0430\u0440\u0442\u044b, SpeechKit, Yande",
+    "id": "theYahia/YaAll",
     "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-02T19:13:44Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
+    "name": "theYahia/YaAll",
+    "stars": 2,
+    "updated_at": "2026-09-02T19:15:30Z",
+    "url": "https://github.com/theYahia/YaAll"
   },
   {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
     "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-02T19:07:18Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T19:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-09-02T19:14:35Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
   },
   {
     "description": "A Claude Code skill and hooks that put every question in a card instead of a paragraph",
@@ -36,6 +81,51 @@
     "url": "https://github.com/IndieCoreDev/ask-first"
   },
   {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-09-02T19:13:23Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Fast-Track Leadership Bundle \u2014 Claude Agent Skills that give junior leaders instant access to McKinsey/Minto and Malik m",
+    "id": "liuiu030/BarbaraMintoFramework",
+    "language": "\u2014",
+    "name": "liuiu030/BarbaraMintoFramework",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:13:06Z",
+    "url": "https://github.com/liuiu030/BarbaraMintoFramework"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19086,
+    "updated_at": "2026-09-02T19:12:06Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-02T19:29:52Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 25,
+    "updated_at": "2026-09-02T19:28:56Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -43,24 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T19:05:06Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 109,
-    "updated_at": "2026-09-02T19:12:49Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 5,
-    "updated_at": "2026-09-02T19:03:58Z",
-    "url": "https://github.com/using-system/oddyssey"
   },
   {
     "description": "Open registry of community-contributed AI coding skills (SKILL.md files) \u2014 daily-synced to skills-hub.ai. Install across",
@@ -95,17 +167,8 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-09-02T19:10:11Z",
+    "updated_at": "2026-09-02T19:27:45Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T19:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
@@ -126,15 +189,6 @@
     "url": "https://github.com/Borda/AI-Rig"
   },
   {
-    "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod",
-    "id": "timescale/pg-aiguide",
-    "language": "Python",
-    "name": "timescale/pg-aiguide",
-    "stars": 1830,
-    "updated_at": "2026-09-02T19:00:26Z",
-    "url": "https://github.com/timescale/pg-aiguide"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -153,15 +207,6 @@
     "url": "https://github.com/chris-peterson/claude-marketplace"
   },
   {
-    "description": "Claude Skill Library",
-    "id": "10xequity/claude-skill-library",
-    "language": "\u2014",
-    "name": "10xequity/claude-skill-library",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:53:00Z",
-    "url": "https://github.com/10xequity/claude-skill-library"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 141,
-    "updated_at": "2026-09-02T19:11:58Z",
+    "updated_at": "2026-09-02T19:24:51Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T18:44:51Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19085,
-    "updated_at": "2026-09-02T19:12:06Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Reusable GitHub Copilot prompts for development workflows with Jira integration",
@@ -293,17 +329,8 @@
     "language": "\u2014",
     "name": "theYahia/mcp-skills",
     "stars": 3,
-    "updated_at": "2026-09-02T18:34:47Z",
+    "updated_at": "2026-09-02T19:17:55Z",
     "url": "https://github.com/theYahia/mcp-skills"
-  },
-  {
-    "description": "Yandex stack for MCP in one repo: 10 MCP servers (104 tools) \u2014 Direct, Metrika, Webmaster, Wordstat, GPT, SpeechKit, Map",
-    "id": "theYahia/YaAll",
-    "language": "TypeScript",
-    "name": "theYahia/YaAll",
-    "stars": 2,
-    "updated_at": "2026-09-02T18:33:20Z",
-    "url": "https://github.com/theYahia/YaAll"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T18:12:40Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
-    "id": "Chili-Piper/mcp-assets",
-    "language": "\u2014",
-    "name": "Chili-Piper/mcp-assets",
-    "stars": 7,
-    "updated_at": "2026-09-02T18:11:44Z",
-    "url": "https://github.com/Chili-Piper/mcp-assets"
-  },
-  {
-    "description": "Open-source product leadership skills from the Mission Built ecosystem. The book teaches the principles. The Loadout put",
-    "id": "missionbuilt/loadout",
-    "language": "HTML",
-    "name": "missionbuilt/loadout",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:10:43Z",
-    "url": "https://github.com/missionbuilt/loadout"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-02T18:10:38Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   }
 ]
