@@ -1,21 +1,75 @@
 [
   {
+    "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
+    "id": "blisspixel/primr",
+    "language": "Python",
+    "name": "blisspixel/primr",
+    "stars": 3,
+    "updated_at": "2026-09-02T08:09:13Z",
+    "url": "https://github.com/blisspixel/primr"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-09-02T08:14:43Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "\u7ed9\u6bcf\u4e2a OpenClaw agent \u4e00\u4e2a\u300c\u5bb6\u300d\uff1a\u6807\u51c6\u76ee\u5f55\u7ed3\u6784 + WORKSPACE.md \u89c4\u8303 + \u591a agent \u914d\u7f6e\u5b89\u5168\u3002 OpenClaw workspace initialization & standardization \u2014 ",
+    "id": "dtsola/xiaoyaoclaw-workspace-initializer",
+    "language": "\u2014",
+    "name": "dtsola/xiaoyaoclaw-workspace-initializer",
+    "stars": 3,
+    "updated_at": "2026-09-02T08:08:21Z",
+    "url": "https://github.com/dtsola/xiaoyaoclaw-workspace-initializer"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-02T08:03:14Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Rewrites convoluted AI output into plain language \u2014 separate rule sets for English and Traditional Chinese | \u628a\u7e5e\u53e3\u7684 AI \u56de\u8986\u6539",
+    "id": "olivervvvv/plain-language-skill",
+    "language": "\u2014",
+    "name": "olivervvvv/plain-language-skill",
+    "stars": 2,
+    "updated_at": "2026-09-02T08:01:51Z",
+    "url": "https://github.com/olivervvvv/plain-language-skill"
+  },
+  {
+    "description": "My personal Claude Code marketplace \u2014 the skills I actually use, iterated in public.",
+    "id": "mattwang44/skillet",
+    "language": "Python",
+    "name": "mattwang44/skillet",
+    "stars": 0,
+    "updated_at": "2026-09-02T08:01:04Z",
+    "url": "https://github.com/mattwang44/skillet"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T08:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68601,
-    "updated_at": "2026-09-02T07:59:55Z",
+    "updated_at": "2026-09-02T08:08:08Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "\u628a\u7e5e\u53e3\u7684 AI\uff0f\u6280\u8853\u6587\u5b57\u6539\u5beb\u6210\u4eba\u985e\u4e00\u773c\u770b\u61c2\u7684\u767d\u8a71 \u2014 \u4e2d\u82f1\u5404\u4e00\u5957\u898f\u5247 | Plain-language rewriting skill (Traditional Chinese + English tracks)",
-    "id": "olivervvvv/plain-chinese-skill",
-    "language": "\u2014",
-    "name": "olivervvvv/plain-chinese-skill",
-    "stars": 1,
-    "updated_at": "2026-09-02T07:59:17Z",
-    "url": "https://github.com/olivervvvv/plain-chinese-skill"
   },
   {
     "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
@@ -25,15 +79,6 @@
     "stars": 109,
     "updated_at": "2026-09-02T07:58:35Z",
     "url": "https://github.com/Ovid/paad"
-  },
-  {
-    "description": "My personal Claude Code marketplace \u2014 the skills I actually use, iterated in public.",
-    "id": "mattwang44/skillet",
-    "language": "Python",
-    "name": "mattwang44/skillet",
-    "stars": 0,
-    "updated_at": "2026-09-02T07:58:02Z",
-    "url": "https://github.com/mattwang44/skillet"
   },
   {
     "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-02T07:57:16Z",
+    "updated_at": "2026-09-02T08:13:27Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-02T07:48:35Z",
+    "updated_at": "2026-09-02T08:12:46Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -99,29 +144,29 @@
     "url": "https://github.com/DataZooDE/anofox-forecast"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T07:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
     "id": "astroicers/skill-quality-research",
     "language": "Python",
     "name": "astroicers/skill-quality-research",
     "stars": 0,
-    "updated_at": "2026-09-02T07:44:37Z",
+    "updated_at": "2026-09-02T08:12:39Z",
     "url": "https://github.com/astroicers/skill-quality-research"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19074,
+    "updated_at": "2026-09-02T07:43:15Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24258,
+    "stars": 24259,
     "updated_at": "2026-09-02T07:43:00Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -140,17 +185,8 @@
     "language": "JavaScript",
     "name": "JasonColapietro/suede-creator-skills",
     "stars": 129,
-    "updated_at": "2026-09-02T07:34:00Z",
+    "updated_at": "2026-09-02T08:14:09Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-09-02T07:58:56Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
@@ -234,15 +270,6 @@
     "url": "https://github.com/Jsnnmsc/10000x-engineer"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19073,
-    "updated_at": "2026-09-02T07:43:15Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "The loop for everything!",
     "id": "MadaraUchiha-314/the-loop",
     "language": "Python",
@@ -259,15 +286,6 @@
     "stars": 20,
     "updated_at": "2026-09-02T07:23:36Z",
     "url": "https://github.com/waittim/MemoryCustodian"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-02T07:06:10Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Agent-native research workspace. A deterministic CLI that ingests arXiv / PDF / LaTeX / Zotero papers into an Obsidian-c",
@@ -328,7 +346,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 6055,
+    "stars": 6056,
     "updated_at": "2026-09-02T06:53:14Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-02T06:28:42Z",
     "url": "https://github.com/tobyrosen/legal-ppc-skill"
-  },
-  {
-    "description": "Mobile AI Skills, Agents and workflow to help you build mobile apps and games faster. A collection of AI skills, agents,",
-    "id": "salmanashraf/mobile-ai-agents",
-    "language": "JavaScript",
-    "name": "salmanashraf/mobile-ai-agents",
-    "stars": 25,
-    "updated_at": "2026-09-02T06:28:31Z",
-    "url": "https://github.com/salmanashraf/mobile-ai-agents"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-02T06:27:20Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
