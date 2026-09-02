@@ -1,5 +1,104 @@
 [
   {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-09-02T11:14:34Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
+    "id": "astroicers/skill-quality-research",
+    "language": "Python",
+    "name": "astroicers/skill-quality-research",
+    "stars": 0,
+    "updated_at": "2026-09-02T11:13:39Z",
+    "url": "https://github.com/astroicers/skill-quality-research"
+  },
+  {
+    "description": "35 portable agent skills (Agent Skills spec) for Kiro & Claude Code: Scrum DevSecOps roles, PCI-DSS/MAS TRM compliance, ",
+    "id": "timwukp/agent-skills-best-practice",
+    "language": "Python",
+    "name": "timwukp/agent-skills-best-practice",
+    "stars": 10,
+    "updated_at": "2026-09-02T11:12:52Z",
+    "url": "https://github.com/timwukp/agent-skills-best-practice"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-02T11:10:36Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Privacy-first agent skill for curated Obsidian memory closeouts, retrieval, Codex, and Claude",
+    "id": "roccodaffuso/obsidian-memory-closeout",
+    "language": "Python",
+    "name": "roccodaffuso/obsidian-memory-closeout",
+    "stars": 2,
+    "updated_at": "2026-09-02T11:09:55Z",
+    "url": "https://github.com/roccodaffuso/obsidian-memory-closeout"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 109,
+    "updated_at": "2026-09-02T11:06:06Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Engineering guardrails against the ways AI code assistance commonly goes wrong.",
+    "id": "egkz/disciplined-code-changes-plugin",
+    "language": "\u2014",
+    "name": "egkz/disciplined-code-changes-plugin",
+    "stars": 2,
+    "updated_at": "2026-09-02T11:05:06Z",
+    "url": "https://github.com/egkz/disciplined-code-changes-plugin"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 416,
+    "updated_at": "2026-09-02T11:02:53Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68605,
+    "updated_at": "2026-09-02T11:13:14Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Data-Analysis-Report Skill\uff1a\u5c06 Excel/CSV \u6570\u636e\u81ea\u52a8\u8f6c\u5316\u4e3a\u542b\u7edf\u8ba1\u68c0\u9a8c\u7684 HTML \u5206\u6790\u62a5\u544a | Turn Excel/CSV data into statistically rigorous,",
+    "id": "lucashuang-an/data-analysis-report",
+    "language": "\u2014",
+    "name": "lucashuang-an/data-analysis-report",
+    "stars": 1,
+    "updated_at": "2026-09-02T11:00:39Z",
+    "url": "https://github.com/lucashuang-an/data-analysis-report"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T11:00:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
     "id": "using-system/oddyssey",
     "language": "Python",
@@ -25,6 +124,15 @@
     "stars": 2,
     "updated_at": "2026-09-02T10:58:31Z",
     "url": "https://github.com/baron-3dl/skillc"
+  },
+  {
+    "description": "Administer a 3x-ui panel over its HTTP API",
+    "id": "rokokol/3x-ui-admin-skill",
+    "language": "Python",
+    "name": "rokokol/3x-ui-admin-skill",
+    "stars": 0,
+    "updated_at": "2026-09-02T10:57:12Z",
+    "url": "https://github.com/rokokol/3x-ui-admin-skill"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -54,24 +162,6 @@
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 102,
-    "updated_at": "2026-09-02T10:58:51Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
-    "id": "astroicers/skill-quality-research",
-    "language": "Python",
-    "name": "astroicers/skill-quality-research",
-    "stars": 0,
-    "updated_at": "2026-09-02T10:55:15Z",
-    "url": "https://github.com/astroicers/skill-quality-research"
-  },
-  {
     "description": "A buildable no-weld hardware robot design skill with a deduplicated 225-part catalog, assembly reconstruction rules, and",
     "id": "jevkny/bottled-hardware-robot-design",
     "language": "Python",
@@ -81,13 +171,13 @@
     "url": "https://github.com/jevkny/bottled-hardware-robot-design"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68605,
-    "updated_at": "2026-09-02T10:52:07Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "A standard for CI that stays green for the right reasons",
+    "id": "rokokol/ci-skill",
+    "language": "Shell",
+    "name": "rokokol/ci-skill",
+    "stars": 0,
+    "updated_at": "2026-09-02T10:51:56Z",
+    "url": "https://github.com/rokokol/ci-skill"
   },
   {
     "description": "",
@@ -97,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T10:45:25Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T10:45:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI marketing team for B2B SaaS: 76 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, email, ",
@@ -153,20 +234,11 @@
     "url": "https://github.com/Borda/AI-Rig"
   },
   {
-    "description": "Claude Data-Analysis-Report Skill\uff1a\u5c06 Excel/CSV \u6570\u636e\u81ea\u52a8\u8f6c\u5316\u4e3a\u542b\u7edf\u8ba1\u68c0\u9a8c\u7684 HTML \u5206\u6790\u62a5\u544a | Turn Excel/CSV data into statistically rigorous,",
-    "id": "lucashuang-an/data-analysis-report",
-    "language": "\u2014",
-    "name": "lucashuang-an/data-analysis-report",
-    "stars": 1,
-    "updated_at": "2026-09-02T10:34:35Z",
-    "url": "https://github.com/lucashuang-an/data-analysis-report"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 92984,
+    "stars": 92987,
     "updated_at": "2026-09-02T10:33:38Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T09:56:32Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Claude Code plugin: skills for migrating and modernizing Dockerized, Makefile-driven web projects \u2014 Drupal 10\u219211, PHP/Do",
-    "id": "JMAILLY/claude-migration-skills",
-    "language": "\u2014",
-    "name": "JMAILLY/claude-migration-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T09:56:02Z",
-    "url": "https://github.com/JMAILLY/claude-migration-skills"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-09-02T09:55:31Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-09-02T09:53:55Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-09-02T09:53:44Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
-    "id": "nota-america/forgecat-agent-profiles",
-    "language": "TypeScript",
-    "name": "nota-america/forgecat-agent-profiles",
-    "stars": 63,
-    "updated_at": "2026-09-02T10:15:11Z",
-    "url": "https://github.com/nota-america/forgecat-agent-profiles"
-  },
-  {
-    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
-    "id": "magnusrodseth/dotfiles",
-    "language": "JavaScript",
-    "name": "magnusrodseth/dotfiles",
-    "stars": 2,
-    "updated_at": "2026-09-02T09:48:57Z",
-    "url": "https://github.com/magnusrodseth/dotfiles"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 35,
-    "updated_at": "2026-09-02T09:44:59Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "Reusable framework for requirements work: BRD/NFR/ADR templates, quality rules, and agent skills that draft and review r",
-    "id": "YuliaMelekhova/analyst-toolkit",
-    "language": "\u2014",
-    "name": "YuliaMelekhova/analyst-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-02T09:43:52Z",
-    "url": "https://github.com/YuliaMelekhova/analyst-toolkit"
   }
 ]
