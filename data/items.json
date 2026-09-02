@@ -1,12 +1,75 @@
 [
   {
+    "description": "Claude Code skill for Ecko, the language where ai is a keyword. Every code sample is executed before it ships.",
+    "id": "ecko-lang/skill",
+    "language": "Shell",
+    "name": "ecko-lang/skill",
+    "stars": 0,
+    "updated_at": "2026-09-02T11:26:34Z",
+    "url": "https://github.com/ecko-lang/skill"
+  },
+  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-09-02T11:14:34Z",
+    "updated_at": "2026-09-02T11:24:54Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Personal AI job-search assistant, built as a Claude Skills package on a single GitHub repo. Guided onboarding, persisten",
+    "id": "FynePool/job-hunter-template",
+    "language": "Python",
+    "name": "FynePool/job-hunter-template",
+    "stars": 3,
+    "updated_at": "2026-09-02T11:23:27Z",
+    "url": "https://github.com/FynePool/job-hunter-template"
+  },
+  {
+    "description": "Agent skills for getting transcripts, comments, metadata and structured JSON out of video and social URLs \u2014 plus a yt-dl",
+    "id": "franciscobmacedo/postreef-skills",
+    "language": "Python",
+    "name": "franciscobmacedo/postreef-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T11:22:08Z",
+    "url": "https://github.com/franciscobmacedo/postreef-skills"
+  },
+  {
+    "description": "Curated Claude Code plugin marketplace: sniff (AI QA in a real browser), ui-ux-suite (design audit), recap-studio (one-p",
+    "id": "Aboudjem/10x",
+    "language": "JavaScript",
+    "name": "Aboudjem/10x",
+    "stars": 1,
+    "updated_at": "2026-09-02T11:22:08Z",
+    "url": "https://github.com/Aboudjem/10x"
+  },
+  {
+    "description": "Claude Data-Analysis-Report Skill\uff1a\u5c06 Excel/CSV \u6570\u636e\u81ea\u52a8\u8f6c\u5316\u4e3a\u542b\u7edf\u8ba1\u68c0\u9a8c\u7684 HTML \u5206\u6790\u62a5\u544a | Turn Excel/CSV data into statistically rigorous,",
+    "id": "lucashuang-an/data-analysis-report",
+    "language": "\u2014",
+    "name": "lucashuang-an/data-analysis-report",
+    "stars": 1,
+    "updated_at": "2026-09-02T11:20:38Z",
+    "url": "https://github.com/lucashuang-an/data-analysis-report"
+  },
+  {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-09-02T11:17:52Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T11:15:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
@@ -16,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-09-02T11:13:39Z",
     "url": "https://github.com/astroicers/skill-quality-research"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68607,
+    "updated_at": "2026-09-02T11:13:14Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "35 portable agent skills (Agent Skills spec) for Kiro & Claude Code: Scrum DevSecOps roles, PCI-DSS/MAS TRM compliance, ",
@@ -50,7 +122,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-09-02T11:06:06Z",
+    "updated_at": "2026-09-02T11:17:03Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -72,39 +144,12 @@
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68605,
-    "updated_at": "2026-09-02T11:13:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Claude Data-Analysis-Report Skill\uff1a\u5c06 Excel/CSV \u6570\u636e\u81ea\u52a8\u8f6c\u5316\u4e3a\u542b\u7edf\u8ba1\u68c0\u9a8c\u7684 HTML \u5206\u6790\u62a5\u544a | Turn Excel/CSV data into statistically rigorous,",
-    "id": "lucashuang-an/data-analysis-report",
-    "language": "\u2014",
-    "name": "lucashuang-an/data-analysis-report",
-    "stars": 1,
-    "updated_at": "2026-09-02T11:00:39Z",
-    "url": "https://github.com/lucashuang-an/data-analysis-report"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T11:00:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
     "id": "using-system/oddyssey",
     "language": "Python",
     "name": "using-system/oddyssey",
     "stars": 5,
-    "updated_at": "2026-09-02T11:00:07Z",
+    "updated_at": "2026-09-02T11:25:05Z",
     "url": "https://github.com/using-system/oddyssey"
   },
   {
@@ -140,17 +185,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-02T10:59:46Z",
+    "updated_at": "2026-09-02T11:26:12Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Curated Claude Code plugin marketplace: sniff (AI QA in a real browser), ui-ux-suite (design audit), recap-studio (one-p",
-    "id": "Aboudjem/10x",
-    "language": "JavaScript",
-    "name": "Aboudjem/10x",
-    "stars": 1,
-    "updated_at": "2026-09-02T10:57:03Z",
-    "url": "https://github.com/Aboudjem/10x"
   },
   {
     "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
@@ -238,7 +274,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 92987,
+    "stars": 92989,
     "updated_at": "2026-09-02T10:33:38Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -412,41 +448,5 @@
     "stars": 35,
     "updated_at": "2026-09-02T10:04:19Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-02T10:02:05Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Alireza Rezvani CTO and AI enthusiast - Addicted to Claude Code and Openclaw",
-    "id": "alirezarezvani/alirezarezvani",
-    "language": "\u2014",
-    "name": "alirezarezvani/alirezarezvani",
-    "stars": 26,
-    "updated_at": "2026-09-02T09:59:02Z",
-    "url": "https://github.com/alirezarezvani/alirezarezvani"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-02T09:57:30Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-02T09:56:32Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
