@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 15:14 UTC
+> ⏰ Last updated: 2026-09-02 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [alebgl77/claude-inc](https://github.com/alebgl77/claude-inc) | 13 | Shell | 2026-09-02 | Hire a 50-employee AI company in one command: 8 departments, one CEO, and reusable skills for Claude Code and other AI c |
-| 2 | [hanzhangzzz/agent-skills-zh](https://github.com/hanzhangzzz/agent-skills-zh) | 1 | Python | 2026-09-02 | Agent Skills for Claude Code & Codex (中文优先): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene,  |
-| 3 | [NeuraCerebra-AI/testprune](https://github.com/NeuraCerebra-AI/testprune) | 0 | Python | 2026-09-02 | Agent Skill for test suite cleanup: deletes the obsolete tests, builds a gate that runs in seconds. Works in Claude Code |
-| 4 | [kinerette/claude-code-store-design](https://github.com/kinerette/claude-code-store-design) | 0 | TypeScript | 2026-09-02 | Claude Code skill for store, product page and landing page design. Decides which selling mechanics belong on THIS produc |
-| 5 | [ericluo04/claude-academic-workflow](https://github.com/ericluo04/claude-academic-workflow) | 10 | TeX | 2026-09-02 | Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field  |
-| 6 | [richfrem/agent-plugins-skills](https://github.com/richfrem/agent-plugins-skills) | 6 | Python | 2026-09-02 | repo for reusable plugins and skills |
-| 7 | [solanabr/auditor-skill](https://github.com/solanabr/auditor-skill) | 52 | Rust | 2026-09-02 | Claude Code / agentic security skill for Solana programs and software. Full audit-firm lifecycle, executable PoC + fix-p |
-| 8 | [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | 418 | Python | 2026-09-02 | VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the |
-| 9 | [kinerette/claude-code-ecommerce-dark-patterns](https://github.com/kinerette/claude-code-ecommerce-dark-patterns) | 0 | — | 2026-09-02 | Claude Code skill that audits a storefront for the dark patterns that are illegal in the EU, UK and US — pre-ticked add- |
-| 10 | [kinerette/claude-code-checkout-upsell](https://github.com/kinerette/claude-code-checkout-upsell) | 0 | — | 2026-09-02 | Claude Code skill for cart, checkout and post-purchase upsells. Decides which mechanic goes where — order bump (never pr |
-| 11 | [khmm12/solidjs-v2-skills](https://github.com/khmm12/solidjs-v2-skills) | 4 | JavaScript | 2026-09-02 | Agent skills for SolidJS 2.0 — write, migrate, and review solid-js 2.x code without React/1.x reflexes |
-| 12 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 23 | Shell | 2026-09-02 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
-| 13 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 103 | TypeScript | 2026-09-02 | MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration |
-| 14 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 35 | Python | 2026-09-02 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 35 | Python | 2026-09-02 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [alebgl77/claude-inc](https://github.com/alebgl77/claude-inc) | 13 | Shell | 2026-09-02 | Hire a 50-employee AI company in one command: 8 departments, one CEO, and reusable skills for Claude Code and other AI c |
+| 3 | [hanzhangzzz/agent-skills-zh](https://github.com/hanzhangzzz/agent-skills-zh) | 1 | Python | 2026-09-02 | Agent Skills for Claude Code & Codex (中文优先): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene,  |
+| 4 | [NeuraCerebra-AI/testprune](https://github.com/NeuraCerebra-AI/testprune) | 0 | Python | 2026-09-02 | Agent Skill for test suite cleanup: deletes the obsolete tests, builds a gate that runs in seconds. Works in Claude Code |
+| 5 | [kinerette/claude-code-store-design](https://github.com/kinerette/claude-code-store-design) | 0 | TypeScript | 2026-09-02 | Claude Code skill for store, product page and landing page design. Decides which selling mechanics belong on THIS produc |
+| 6 | [solanabr/auditor-skill](https://github.com/solanabr/auditor-skill) | 52 | Rust | 2026-09-02 | Claude Code / agentic security skill for Solana programs and software. Full audit-firm lifecycle, executable PoC + fix-p |
+| 7 | [ericluo04/claude-academic-workflow](https://github.com/ericluo04/claude-academic-workflow) | 10 | TeX | 2026-09-02 | Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field  |
+| 8 | [richfrem/agent-plugins-skills](https://github.com/richfrem/agent-plugins-skills) | 6 | Python | 2026-09-02 | repo for reusable plugins and skills |
+| 9 | [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | 418 | Python | 2026-09-02 | VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the |
+| 10 | [kinerette/claude-code-ecommerce-dark-patterns](https://github.com/kinerette/claude-code-ecommerce-dark-patterns) | 0 | — | 2026-09-02 | Claude Code skill that audits a storefront for the dark patterns that are illegal in the EU, UK and US — pre-ticked add- |
+| 11 | [kinerette/claude-code-checkout-upsell](https://github.com/kinerette/claude-code-checkout-upsell) | 0 | — | 2026-09-02 | Claude Code skill for cart, checkout and post-purchase upsells. Decides which mechanic goes where — order bump (never pr |
+| 12 | [khmm12/solidjs-v2-skills](https://github.com/khmm12/solidjs-v2-skills) | 4 | JavaScript | 2026-09-02 | Agent skills for SolidJS 2.0 — write, migrate, and review solid-js 2.x code without React/1.x reflexes |
+| 13 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 23 | Shell | 2026-09-02 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
+| 14 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 103 | TypeScript | 2026-09-02 | MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration |
 | 15 | [sses79/gen-chart](https://github.com/sses79/gen-chart) | 1 | HTML | 2026-09-02 | Agent skill to turn data, a description, or a pasted table into a polished, interactive chart — directly in chat. |
 | 16 | [JhoseWolf/sageox-hivemind-engine](https://github.com/JhoseWolf/sageox-hivemind-engine) | 3 | HTML | 2026-09-02 | ⚡ SageOx HiveMind 2026 — Agentic Engineering Toolkit for Autonomous Workflows |
 | 17 | [ashfaquecg806-dot/symfony-ux-insights](https://github.com/ashfaquecg806-dot/symfony-ux-insights) | 1 | HTML | 2026-09-02 | Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus |

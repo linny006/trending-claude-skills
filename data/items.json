@@ -1,5 +1,14 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T15:14:36Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Hire a 50-employee AI company in one command: 8 departments, one CEO, and reusable skills for Claude Code and other AI c",
     "id": "alebgl77/claude-inc",
     "language": "Shell",
@@ -36,6 +45,15 @@
     "url": "https://github.com/kinerette/claude-code-store-design"
   },
   {
+    "description": "Claude Code / agentic security skill for Solana programs and software. Full audit-firm lifecycle, executable PoC + fix-p",
+    "id": "solanabr/auditor-skill",
+    "language": "Rust",
+    "name": "solanabr/auditor-skill",
+    "stars": 52,
+    "updated_at": "2026-09-02T15:08:00Z",
+    "url": "https://github.com/solanabr/auditor-skill"
+  },
+  {
     "description": "Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field ",
     "id": "ericluo04/claude-academic-workflow",
     "language": "TeX",
@@ -50,17 +68,8 @@
     "language": "Python",
     "name": "richfrem/agent-plugins-skills",
     "stars": 6,
-    "updated_at": "2026-09-02T15:13:53Z",
+    "updated_at": "2026-09-02T15:14:40Z",
     "url": "https://github.com/richfrem/agent-plugins-skills"
-  },
-  {
-    "description": "Claude Code / agentic security skill for Solana programs and software. Full audit-firm lifecycle, executable PoC + fix-p",
-    "id": "solanabr/auditor-skill",
-    "language": "Rust",
-    "name": "solanabr/auditor-skill",
-    "stars": 52,
-    "updated_at": "2026-09-02T15:08:00Z",
-    "url": "https://github.com/solanabr/auditor-skill"
   },
   {
     "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
@@ -115,15 +124,6 @@
     "stars": 103,
     "updated_at": "2026-09-02T15:01:51Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T15:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
