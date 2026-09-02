@@ -1,5 +1,122 @@
 [
   {
+    "description": "A curated bundle of 32 Claude Skills for quantitative, qualitative & experimental research in business, finance & social",
+    "id": "Nero1688/claude-academic-skills",
+    "language": "Python",
+    "name": "Nero1688/claude-academic-skills",
+    "stars": 5,
+    "updated_at": "2026-09-02T03:44:48Z",
+    "url": "https://github.com/Nero1688/claude-academic-skills"
+  },
+  {
+    "description": "AI-assisted product development, from fuzzy idea to technical spec \u2014 a Claude Code plugin of guided UX-research prompt f",
+    "id": "clownware/product-dev",
+    "language": "Python",
+    "name": "clownware/product-dev",
+    "stars": 3,
+    "updated_at": "2026-09-02T03:42:49Z",
+    "url": "https://github.com/clownware/product-dev"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-02T03:41:15Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:40:34Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 102,
+    "updated_at": "2026-09-02T03:39:28Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "ADD - LOOP SKILL for AI Coding Agent",
+    "id": "pilotspace/ADD",
+    "language": "Python",
+    "name": "pilotspace/ADD",
+    "stars": 19,
+    "updated_at": "2026-09-02T03:38:48Z",
+    "url": "https://github.com/pilotspace/ADD"
+  },
+  {
+    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
+    "id": "bokyostudio/pg-practice-knowledgebase",
+    "language": "HTML",
+    "name": "bokyostudio/pg-practice-knowledgebase",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:38:16Z",
+    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 4,
+    "updated_at": "2026-09-02T03:37:59Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-02T03:36:01Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:35:46Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 86,
+    "updated_at": "2026-09-02T03:32:13Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
+    "id": "Jsnnmsc/10000x-engineer",
+    "language": "\u2014",
+    "name": "Jsnnmsc/10000x-engineer",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:31:22Z",
+    "url": "https://github.com/Jsnnmsc/10000x-engineer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T03:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
     "id": "alexzvency-ship-it/claude-browser-automator",
     "language": "HTML",
@@ -9,15 +126,6 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-02T03:28:23Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "The missing tool to sift your Claude Code sessions: regex search across all record types, recover files, extract images,",
     "id": "wdhwg001/csift",
     "language": "Rust",
@@ -25,15 +133,6 @@
     "stars": 27,
     "updated_at": "2026-09-02T03:28:20Z",
     "url": "https://github.com/wdhwg001/csift"
-  },
-  {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 4,
-    "updated_at": "2026-09-02T03:26:28Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
   },
   {
     "description": "Secure agent-guided setup for MoonPress Chat on WordPress.",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19070,
-    "updated_at": "2026-09-02T03:22:16Z",
+    "updated_at": "2026-09-02T03:45:09Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 141,
-    "updated_at": "2026-09-02T03:21:45Z",
+    "updated_at": "2026-09-02T03:33:04Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -97,15 +196,6 @@
     "stars": 434,
     "updated_at": "2026-09-02T03:15:31Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T03:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "bridge.ai: Claude Code plugins for AI-assisted development",
@@ -149,17 +239,8 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68592,
-    "updated_at": "2026-09-02T03:11:09Z",
+    "updated_at": "2026-09-02T03:38:17Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "A curated bundle of 32 Claude Skills for quantitative, qualitative & experimental research in business, finance & social",
-    "id": "Nero1688/claude-academic-skills",
-    "language": "Python",
-    "name": "Nero1688/claude-academic-skills",
-    "stars": 5,
-    "updated_at": "2026-09-02T03:10:38Z",
-    "url": "https://github.com/Nero1688/claude-academic-skills"
   },
   {
     "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
@@ -284,7 +365,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-02T03:03:04Z",
+    "updated_at": "2026-09-02T03:44:42Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 63,
     "updated_at": "2026-09-02T02:20:22Z",
     "url": "https://github.com/nota-america/forgecat-agent-profiles"
-  },
-  {
-    "description": "Curated Claude Code plugin marketplace: sniff (AI QA in a real browser), ui-ux-suite (design audit), recap-studio (one-p",
-    "id": "Aboudjem/10x",
-    "language": "JavaScript",
-    "name": "Aboudjem/10x",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:15:40Z",
-    "url": "https://github.com/Aboudjem/10x"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-02T03:21:52Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-09-02T02:10:51Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 35,
-    "updated_at": "2026-09-02T02:04:42Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "127 portable ecommerce skills for marketplace research, product discovery, keyword analysis, trends, sourcing, patent sc",
-    "id": "nexscope-ai/nexscope-ecommerce-skills",
-    "language": "Python",
-    "name": "nexscope-ai/nexscope-ecommerce-skills",
-    "stars": 59,
-    "updated_at": "2026-09-02T02:01:22Z",
-    "url": "https://github.com/nexscope-ai/nexscope-ecommerce-skills"
-  },
-  {
-    "description": "\u9762\u5411\u4e2d\u6587 Java/Spring \u751f\u6001\u7684 Agent Skills \u5957\u88c5\uff1a\u7f16\u7801\u89c4\u8303\u3001\u8d28\u91cf\u95e8\u7981\u3001\u5355\u5143\u6d4b\u8bd5\u3001Sa-Token/MyBatis-Plus \u6846\u67b6\u3001\u654f\u6377\u6d41\u7a0b\u3002\u652f\u6301 Claude Code \u63d2\u4ef6\u4e0e npx skills \u4e00\u952e\u5b89\u88c5\u3002",
-    "id": "BaixuanZhu/skills",
-    "language": "Java",
-    "name": "BaixuanZhu/skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T01:58:52Z",
-    "url": "https://github.com/BaixuanZhu/skills"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-09-02T01:58:05Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Agent skills for Claude Code & skills.sh-compatible agents.",
-    "id": "mehdiforoozandeh/skills",
-    "language": "Python",
-    "name": "mehdiforoozandeh/skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T01:47:02Z",
-    "url": "https://github.com/mehdiforoozandeh/skills"
-  },
-  {
-    "description": "Cursor rule + Claude Code skill for U.CASH Pay integrations (checkout, webhook, embed, HTTP-402, token-gating).",
-    "id": "UdotCASH/ucash-skills",
-    "language": "\u2014",
-    "name": "UdotCASH/ucash-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T01:46:39Z",
-    "url": "https://github.com/UdotCASH/ucash-skills"
   }
 ]
