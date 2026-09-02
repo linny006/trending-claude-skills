@@ -1,12 +1,66 @@
 [
   {
+    "description": "A Claude Code skill and hooks that put every question in a card instead of a paragraph",
+    "id": "IndieCoreDev/ask-first",
+    "language": "JavaScript",
+    "name": "IndieCoreDev/ask-first",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:41:40Z",
+    "url": "https://github.com/IndieCoreDev/ask-first"
+  },
+  {
+    "description": "Fast-Track Leadership Bundle \u2014 Claude Agent Skills that give junior leaders instant access to McKinsey/Minto and Malik m",
+    "id": "liuiu030/BarbaraMintoFramework",
+    "language": "\u2014",
+    "name": "liuiu030/BarbaraMintoFramework",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:40:21Z",
+    "url": "https://github.com/liuiu030/BarbaraMintoFramework"
+  },
+  {
+    "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, j",
+    "id": "ara-mkr/Wonder-Pill",
+    "language": "\u2014",
+    "name": "ara-mkr/Wonder-Pill",
+    "stars": 74,
+    "updated_at": "2026-09-02T19:38:28Z",
+    "url": "https://github.com/ara-mkr/Wonder-Pill"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 141,
+    "updated_at": "2026-09-02T19:37:16Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
     "description": "",
     "id": "andresnator/agents-orchestrator",
     "language": "Shell",
     "name": "andresnator/agents-orchestrator",
     "stars": 0,
-    "updated_at": "2026-09-02T19:29:56Z",
+    "updated_at": "2026-09-02T19:30:54Z",
     "url": "https://github.com/andresnator/agents-orchestrator"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T19:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 25,
+    "updated_at": "2026-09-02T19:28:56Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -14,7 +68,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-09-02T19:26:49Z",
+    "updated_at": "2026-09-02T19:40:27Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "timescale/pg-aiguide",
     "stars": 1830,
-    "updated_at": "2026-09-02T19:26:26Z",
+    "updated_at": "2026-09-02T19:42:50Z",
     "url": "https://github.com/timescale/pg-aiguide"
   },
   {
@@ -45,6 +99,15 @@
     "url": "https://github.com/using-system/oddyssey"
   },
   {
+    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
+    "id": "XiaoMaColtAI/math-modeling-skill",
+    "language": "Python",
+    "name": "XiaoMaColtAI/math-modeling-skill",
+    "stars": 1023,
+    "updated_at": "2026-09-02T19:17:32Z",
+    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
+  },
+  {
     "description": "Yandex MCP servers / MCP-\u0441\u0435\u0440\u0432\u0435\u0440\u044b \u0434\u043b\u044f \u042f\u043d\u0434\u0435\u043a\u0441\u0430: \u0414\u0438\u0440\u0435\u043a\u0442, \u041c\u0435\u0442\u0440\u0438\u043a\u0430, \u0412\u0435\u0431\u043c\u0430\u0441\u0442\u0435\u0440, Wordstat, \u0422\u0440\u0435\u043a\u0435\u0440, 360, \u041a\u0430\u0440\u0442\u044b, SpeechKit, Yande",
     "id": "theYahia/YaAll",
     "language": "TypeScript",
@@ -52,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T19:15:30Z",
     "url": "https://github.com/theYahia/YaAll"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T19:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
@@ -72,15 +126,6 @@
     "url": "https://github.com/bestdeejay-design/agent-skills"
   },
   {
-    "description": "A Claude Code skill and hooks that put every question in a card instead of a paragraph",
-    "id": "IndieCoreDev/ask-first",
-    "language": "JavaScript",
-    "name": "IndieCoreDev/ask-first",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:13:28Z",
-    "url": "https://github.com/IndieCoreDev/ask-first"
-  },
-  {
     "description": "A spec-driven harness for coding agents (and, humans)",
     "id": "nevenincs/vaultspec-core",
     "language": "Python",
@@ -90,21 +135,12 @@
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
-    "description": "Fast-Track Leadership Bundle \u2014 Claude Agent Skills that give junior leaders instant access to McKinsey/Minto and Malik m",
-    "id": "liuiu030/BarbaraMintoFramework",
-    "language": "\u2014",
-    "name": "liuiu030/BarbaraMintoFramework",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:13:06Z",
-    "url": "https://github.com/liuiu030/BarbaraMintoFramework"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19086,
-    "updated_at": "2026-09-02T19:12:06Z",
+    "updated_at": "2026-09-02T19:44:34Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -113,17 +149,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-02T19:29:52Z",
+    "updated_at": "2026-09-02T19:40:03Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-02T19:28:56Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -167,7 +194,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-09-02T19:27:45Z",
+    "updated_at": "2026-09-02T19:39:01Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T18:47:54Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 141,
-    "updated_at": "2026-09-02T19:24:51Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
     "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T18:17:02Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-09-02T18:15:03Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-09-02T18:12:40Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   }
 ]
