@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-02T16:12:38Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "\u0414\u0432\u0430 \u0441\u043a\u0438\u043b\u043b\u0430 \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u0440\u0443\u0441\u0441\u043a\u0438\u043c \u0442\u0435\u043a\u0441\u0442\u043e\u043c: \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043d\u0430 \u0441\u043b\u0435\u0434\u044b \u0418\u0418 \u0438 \u043f\u0438\u0441\u044c\u043c\u043e \u0441 \u043d\u0443\u043b\u044f",
+    "id": "IlyaChv/stop-slop-ru",
+    "language": "Python",
+    "name": "IlyaChv/stop-slop-ru",
+    "stars": 1,
+    "updated_at": "2026-09-02T16:09:53Z",
+    "url": "https://github.com/IlyaChv/stop-slop-ru"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 103,
+    "updated_at": "2026-09-02T16:09:43Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "HTML",
+    "name": "vanducng/skills",
+    "stars": 7,
+    "updated_at": "2026-09-02T16:09:17Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "Agent skills for live flight and hotel pricing: cheapest dates, fare watch, trip planning, hotel search, rate-parity mon",
+    "id": "mtnrabi/travel-agent-skills",
+    "language": "\u2014",
+    "name": "mtnrabi/travel-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-02T16:08:35Z",
+    "url": "https://github.com/mtnrabi/travel-agent-skills"
+  },
+  {
+    "description": "AI-assisted product development, from fuzzy idea to technical spec \u2014 a Claude Code plugin of guided UX-research prompt f",
+    "id": "clownware/product-dev",
+    "language": "Python",
+    "name": "clownware/product-dev",
+    "stars": 3,
+    "updated_at": "2026-09-02T16:04:28Z",
+    "url": "https://github.com/clownware/product-dev"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-02T16:03:46Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 2,
+    "updated_at": "2026-09-02T16:01:47Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. ",
+    "id": "K-Dense-AI/scientific-agent-skills",
+    "language": "Python",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "stars": 42026,
+    "updated_at": "2026-09-02T16:01:01Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T16:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Practical playbook for AI-assisted engineering: rules, role separation, and guardrails for teams using Cursor/Copilot in",
     "id": "PlanVault/ai-engineering-playbook",
     "language": "Shell",
@@ -18,31 +108,13 @@
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
-    "description": "\u0414\u0432\u0430 \u0441\u043a\u0438\u043b\u043b\u0430 \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u0440\u0443\u0441\u0441\u043a\u0438\u043c \u0442\u0435\u043a\u0441\u0442\u043e\u043c: \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043d\u0430 \u0441\u043b\u0435\u0434\u044b \u0418\u0418 \u0438 \u043f\u0438\u0441\u044c\u043c\u043e \u0441 \u043d\u0443\u043b\u044f",
-    "id": "IlyaChv/stop-slop-ru",
-    "language": "Python",
-    "name": "IlyaChv/stop-slop-ru",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:51:58Z",
-    "url": "https://github.com/IlyaChv/stop-slop-ru"
-  },
-  {
-    "description": "A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best ",
-    "id": "seo-skills/seo-audit-skill",
+    "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
+    "id": "nota-america/forgecat-agent-profiles",
     "language": "TypeScript",
-    "name": "seo-skills/seo-audit-skill",
-    "stars": 412,
-    "updated_at": "2026-09-02T15:51:18Z",
-    "url": "https://github.com/seo-skills/seo-audit-skill"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 103,
-    "updated_at": "2026-09-02T15:58:11Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+    "name": "nota-america/forgecat-agent-profiles",
+    "stars": 63,
+    "updated_at": "2026-09-02T15:55:06Z",
+    "url": "https://github.com/nota-america/forgecat-agent-profiles"
   },
   {
     "description": "Open-source, versioned skills for Codex and AI agent workflows \u2014 composable, tested, and safety-focused.",
@@ -54,6 +126,15 @@
     "url": "https://github.com/WardLu/skills"
   },
   {
+    "description": "A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best ",
+    "id": "seo-skills/seo-audit-skill",
+    "language": "TypeScript",
+    "name": "seo-skills/seo-audit-skill",
+    "stars": 412,
+    "updated_at": "2026-09-02T15:51:18Z",
+    "url": "https://github.com/seo-skills/seo-audit-skill"
+  },
+  {
     "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
     "id": "liustack/pptwise",
     "language": "TypeScript",
@@ -61,15 +142,6 @@
     "stars": 12,
     "updated_at": "2026-09-02T15:49:57Z",
     "url": "https://github.com/liustack/pptwise"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-02T15:55:00Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
@@ -90,21 +162,12 @@
     "url": "https://github.com/lost-rob0t/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T15:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68612,
-    "updated_at": "2026-09-02T15:57:35Z",
+    "updated_at": "2026-09-02T16:11:19Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19081,
-    "updated_at": "2026-09-02T15:28:44Z",
+    "updated_at": "2026-09-02T16:06:40Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "timescale/pg-aiguide",
     "stars": 1830,
-    "updated_at": "2026-09-02T15:20:36Z",
+    "updated_at": "2026-09-02T16:14:23Z",
     "url": "https://github.com/timescale/pg-aiguide"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-02T15:02:28Z",
     "url": "https://github.com/khmm12/solidjs-v2-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-02T15:01:52Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
-    "id": "sses79/gen-chart",
-    "language": "HTML",
-    "name": "sses79/gen-chart",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:57:51Z",
-    "url": "https://github.com/sses79/gen-chart"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-09-02T14:54:06Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:53:55Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-09-02T14:51:53Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-assisted product development, from fuzzy idea to technical spec \u2014 a Claude Code plugin of guided UX-research prompt f",
-    "id": "clownware/product-dev",
-    "language": "Python",
-    "name": "clownware/product-dev",
-    "stars": 3,
-    "updated_at": "2026-09-02T14:51:40Z",
-    "url": "https://github.com/clownware/product-dev"
-  },
-  {
-    "description": "A spec-driven harness for coding agents (and, humans)",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:50:52Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   }
 ]
