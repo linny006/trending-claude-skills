@@ -1,5 +1,113 @@
 [
   {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68601,
+    "updated_at": "2026-09-02T07:59:55Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\u628a\u7e5e\u53e3\u7684 AI\uff0f\u6280\u8853\u6587\u5b57\u6539\u5beb\u6210\u4eba\u985e\u4e00\u773c\u770b\u61c2\u7684\u767d\u8a71 \u2014 \u4e2d\u82f1\u5404\u4e00\u5957\u898f\u5247 | Plain-language rewriting skill (Traditional Chinese + English tracks)",
+    "id": "olivervvvv/plain-chinese-skill",
+    "language": "\u2014",
+    "name": "olivervvvv/plain-chinese-skill",
+    "stars": 1,
+    "updated_at": "2026-09-02T07:59:17Z",
+    "url": "https://github.com/olivervvvv/plain-chinese-skill"
+  },
+  {
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
+    "language": "Python",
+    "name": "Ovid/paad",
+    "stars": 109,
+    "updated_at": "2026-09-02T07:58:35Z",
+    "url": "https://github.com/Ovid/paad"
+  },
+  {
+    "description": "My personal Claude Code marketplace \u2014 the skills I actually use, iterated in public.",
+    "id": "mattwang44/skillet",
+    "language": "Python",
+    "name": "mattwang44/skillet",
+    "stars": 0,
+    "updated_at": "2026-09-02T07:58:02Z",
+    "url": "https://github.com/mattwang44/skillet"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-09-02T07:57:39Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "\u6e17\u900f\u6d4b\u8bd5 / \u5b89\u5168\u7814\u7a76 / \u6f0f\u6d1e\u53d1\u73b0\u5168\u6d41\u7a0b Agent Skill\u3002",
+    "id": "enilmalus/Enil-ling-pesing",
+    "language": "\u2014",
+    "name": "enilmalus/Enil-ling-pesing",
+    "stars": 2,
+    "updated_at": "2026-09-02T07:54:13Z",
+    "url": "https://github.com/enilmalus/Enil-ling-pesing"
+  },
+  {
+    "description": "A collection of custom skills for academic writing, automation, specialized workflows, and more to come.",
+    "id": "xjsongphy/skills",
+    "language": "Python",
+    "name": "xjsongphy/skills",
+    "stars": 6,
+    "updated_at": "2026-09-02T07:50:14Z",
+    "url": "https://github.com/xjsongphy/skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-02T07:57:16Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-02T07:48:35Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-09-02T07:48:26Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Statistical timeseries forecasting in DuckDB",
+    "id": "DataZooDE/anofox-forecast",
+    "language": "C++",
+    "name": "DataZooDE/anofox-forecast",
+    "stars": 37,
+    "updated_at": "2026-09-02T07:47:11Z",
+    "url": "https://github.com/DataZooDE/anofox-forecast"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T07:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
     "id": "astroicers/skill-quality-research",
     "language": "Python",
@@ -9,22 +117,13 @@
     "url": "https://github.com/astroicers/skill-quality-research"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-02T07:43:59Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 5,
-    "updated_at": "2026-09-02T07:42:49Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "Python",
+    "name": "titanwings/distilly",
+    "stars": 24258,
+    "updated_at": "2026-09-02T07:43:00Z",
+    "url": "https://github.com/titanwings/distilly"
   },
   {
     "description": "Persistent Linux workspaces for agentic development.",
@@ -34,15 +133,6 @@
     "stars": 344,
     "updated_at": "2026-09-02T07:42:07Z",
     "url": "https://github.com/aerovato/container"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68600,
-    "updated_at": "2026-09-02T07:45:01Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grade, CI gates",
@@ -59,17 +149,8 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 102,
-    "updated_at": "2026-09-02T07:41:38Z",
+    "updated_at": "2026-09-02T07:58:56Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T07:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
@@ -94,7 +175,7 @@
     "id": "aurelien-dio/gsc-analyst",
     "language": "Python",
     "name": "aurelien-dio/gsc-analyst",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-02T07:24:01Z",
     "url": "https://github.com/aurelien-dio/gsc-analyst"
   },
@@ -230,7 +311,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-02T07:32:50Z",
+    "updated_at": "2026-09-02T07:47:13Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -259,15 +340,6 @@
     "stars": 26,
     "updated_at": "2026-09-02T06:53:02Z",
     "url": "https://github.com/TryWorld2026/paper-algorithm"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 5,
-    "updated_at": "2026-09-02T07:43:20Z",
-    "url": "https://github.com/mr-kelly/skills"
   },
   {
     "description": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 1\u0421-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u043b\u044f Claude Code: \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b, \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u041e\u041e\u041f \u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u044b, XML \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0445, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u0433\u0435\u0439\u0442\u044b \u0438",
@@ -301,7 +373,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 92963,
+    "stars": 92964,
     "updated_at": "2026-09-02T06:44:06Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T06:27:20Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "A domain-agnostic methodology for building, extending, reviewing, and refactoring ontologies, domain models, taxonomies,",
-    "id": "mgillett43/ontology-skills",
-    "language": "Shell",
-    "name": "mgillett43/ontology-skills",
-    "stars": 1,
-    "updated_at": "2026-09-02T06:21:24Z",
-    "url": "https://github.com/mgillett43/ontology-skills"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 49,
-    "updated_at": "2026-09-02T06:19:10Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "\u82f9\u679c MCP \u5de5\u5177 \u2705",
-    "id": "celados/mcpx",
-    "language": "TypeScript",
-    "name": "celados/mcpx",
-    "stars": 17,
-    "updated_at": "2026-09-02T06:16:15Z",
-    "url": "https://github.com/celados/mcpx"
-  },
-  {
-    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
-    "id": "LinklyAI/best-skills",
-    "language": "\u2014",
-    "name": "LinklyAI/best-skills",
-    "stars": 367,
-    "updated_at": "2026-09-02T06:14:44Z",
-    "url": "https://github.com/LinklyAI/best-skills"
-  },
-  {
-    "description": "Klarspr\u00e5ksredigering f\u00f6r AI-agenter \u2013 granska och skriv om svenska texter enligt Isofs riktlinjer (Swedish plain-languag",
-    "id": "pattespatte/klarsprak-skill",
-    "language": "Python",
-    "name": "pattespatte/klarsprak-skill",
-    "stars": 0,
-    "updated_at": "2026-09-02T06:14:38Z",
-    "url": "https://github.com/pattespatte/klarsprak-skill"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 35,
-    "updated_at": "2026-09-02T06:14:34Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "Set of skills for globalizing and localizing app",
-    "id": "globalize-now/globalize-skills",
-    "language": "TypeScript",
-    "name": "globalize-now/globalize-skills",
-    "stars": 3,
-    "updated_at": "2026-09-02T06:31:14Z",
-    "url": "https://github.com/globalize-now/globalize-skills"
-  },
-  {
-    "description": "LLM skill files for MIST and other upcoming tools",
-    "id": "mist-medical/skills",
-    "language": "\u2014",
-    "name": "mist-medical/skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T06:12:41Z",
-    "url": "https://github.com/mist-medical/skills"
   }
 ]
