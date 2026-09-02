@@ -1,12 +1,30 @@
 [
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19092,
-    "updated_at": "2026-09-02T22:14:53Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
+    "id": "OthmanAdi/planning-with-files",
+    "language": "Shell",
+    "name": "OthmanAdi/planning-with-files",
+    "stars": 26586,
+    "updated_at": "2026-09-02T22:29:51Z",
+    "url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
+    "description": "Put one specific person's face into a real place and get a photo that reads as a real travel snapshot. 18 destination re",
+    "id": "guitarsv/ai-travel-photo",
+    "language": "\u2014",
+    "name": "guitarsv/ai-travel-photo",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:27:24Z",
+    "url": "https://github.com/guitarsv/ai-travel-photo"
+  },
+  {
+    "description": "",
+    "id": "Esl1h/ai-md-stack",
+    "language": "Shell",
+    "name": "Esl1h/ai-md-stack",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:26:05Z",
+    "url": "https://github.com/Esl1h/ai-md-stack"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -14,8 +32,71 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 109,
-    "updated_at": "2026-09-02T22:14:11Z",
+    "updated_at": "2026-09-02T22:27:08Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-09-02T22:22:18Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Cursor Agent Skill for deep, multi-step AI research with parallel subagents, structured evidence, and rich output artifa",
+    "id": "TheAdamLabs/deep-research-skill",
+    "language": "\u2014",
+    "name": "TheAdamLabs/deep-research-skill",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:21:46Z",
+    "url": "https://github.com/TheAdamLabs/deep-research-skill"
+  },
+  {
+    "description": "Claude Code plugins by Houssem Djeghri.",
+    "id": "HoussemDjeghri/plugins",
+    "language": "\u2014",
+    "name": "HoussemDjeghri/plugins",
+    "stars": 2,
+    "updated_at": "2026-09-02T22:21:43Z",
+    "url": "https://github.com/HoussemDjeghri/plugins"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-02T22:18:21Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Official LeadMagic agent skills + Claude Code plugin \u2014 people/company/jobs search (unlimited on Pro/Ultimate), email fin",
+    "id": "LeadMagic/leadmagic-skills",
+    "language": "Shell",
+    "name": "LeadMagic/leadmagic-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:18:09Z",
+    "url": "https://github.com/LeadMagic/leadmagic-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T22:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19092,
+    "updated_at": "2026-09-02T22:29:19Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -23,7 +104,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-02T22:14:09Z",
+    "updated_at": "2026-09-02T22:24:14Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -43,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T22:08:44Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Claude Code plugins by Houssem Djeghri.",
-    "id": "HoussemDjeghri/plugins",
-    "language": "\u2014",
-    "name": "HoussemDjeghri/plugins",
-    "stars": 2,
-    "updated_at": "2026-09-02T22:08:19Z",
-    "url": "https://github.com/HoussemDjeghri/plugins"
   },
   {
     "description": "Administer a 3x-ui panel over its HTTP API",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T22:02:14Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T22:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T21:17:46Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-09-02T21:17:06Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-02T21:15:03Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68617,
-    "updated_at": "2026-09-02T21:13:57Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
-    "id": "nota-america/forgecat-agent-profiles",
-    "language": "TypeScript",
-    "name": "nota-america/forgecat-agent-profiles",
-    "stars": 63,
-    "updated_at": "2026-09-02T21:07:28Z",
-    "url": "https://github.com/nota-america/forgecat-agent-profiles"
-  },
-  {
-    "description": "A Claude Code skill that finds why a Playwright suite is flaky, reports the causes in priority order with the exact rewr",
-    "id": "jrcopeti/flaky-test-analyzer",
-    "language": "TypeScript",
-    "name": "jrcopeti/flaky-test-analyzer",
-    "stars": 0,
-    "updated_at": "2026-09-02T21:05:13Z",
-    "url": "https://github.com/jrcopeti/flaky-test-analyzer"
-  },
-  {
-    "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
-    "id": "Samuellalight8026/spam-filter-advisor-skill",
-    "language": "Python",
-    "name": "Samuellalight8026/spam-filter-advisor-skill",
-    "stars": 0,
-    "updated_at": "2026-09-02T21:00:06Z",
-    "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
-  },
-  {
-    "description": "Run coding agents like Claude, ChatGPT, and Codex side-by-side with separate profiles per account on macOS, Windows, and",
-    "id": "burnabyjudicial666/agent-profiles",
-    "language": "Rust",
-    "name": "burnabyjudicial666/agent-profiles",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:58:29Z",
-    "url": "https://github.com/burnabyjudicial666/agent-profiles"
   }
 ]
