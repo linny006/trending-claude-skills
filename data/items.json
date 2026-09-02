@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI-ready knowledge base of security & compliance regulations for hardware and connected-device manufacturers - structure",
+    "id": "Platanor/hardware-compliance-handbook",
+    "language": "\u2014",
+    "name": "Platanor/hardware-compliance-handbook",
+    "stars": 26,
+    "updated_at": "2026-09-02T17:12:26Z",
+    "url": "https://github.com/Platanor/hardware-compliance-handbook"
+  },
+  {
+    "description": "Hooks, rules, skills, and instructions for use with Claude Code",
+    "id": "chancegraff/rules-for-claude",
+    "language": "JavaScript",
+    "name": "chancegraff/rules-for-claude",
+    "stars": 3,
+    "updated_at": "2026-09-02T17:09:01Z",
+    "url": "https://github.com/chancegraff/rules-for-claude"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Shell",
+    "name": "boshu2/agentops",
+    "stars": 434,
+    "updated_at": "2026-09-02T17:08:40Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 5,
+    "updated_at": "2026-09-02T17:06:56Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-09-02T17:06:25Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "An editorial constraint set for writing AU and fanfiction with an LLM \u2014 canon layering, prose tells, Chinese and English",
+    "id": "sylviachangdou-prayer/fanfic-AU-apocrypha",
+    "language": "\u2014",
+    "name": "sylviachangdou-prayer/fanfic-AU-apocrypha",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:05:43Z",
+    "url": "https://github.com/sylviachangdou-prayer/fanfic-AU-apocrypha"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 3,
+    "updated_at": "2026-09-02T17:04:33Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
+    "id": "chenweil/skillcaddy",
+    "language": "JavaScript",
+    "name": "chenweil/skillcaddy",
+    "stars": 24,
+    "updated_at": "2026-09-02T17:03:21Z",
+    "url": "https://github.com/chenweil/skillcaddy"
+  },
+  {
+    "description": "Claude Code plugin for fiber, MOPA and CO2 laser engravers: set up the machine, build a recipe base verified on it,   ge",
+    "id": "robustagile/laser-engraver-skill",
+    "language": "C#",
+    "name": "robustagile/laser-engraver-skill",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:01:50Z",
+    "url": "https://github.com/robustagile/laser-engraver-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T17:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
     "id": "mateusands/claude-code-crew-kit",
     "language": "JavaScript",
@@ -7,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-09-02T16:58:42Z",
     "url": "https://github.com/mateusands/claude-code-crew-kit"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 103,
+    "updated_at": "2026-09-02T16:58:20Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Reusable GitHub Copilot prompts for development workflows with Jira integration",
@@ -45,24 +144,6 @@
     "url": "https://github.com/MadaraUchiha-314/the-loop"
   },
   {
-    "description": "Claude Code plugin for fiber, MOPA and CO2 laser engravers: set up the machine, build a recipe base verified on it,   ge",
-    "id": "robustagile/laser-engraver-skill",
-    "language": "C#",
-    "name": "robustagile/laser-engraver-skill",
-    "stars": 0,
-    "updated_at": "2026-09-02T16:52:07Z",
-    "url": "https://github.com/robustagile/laser-engraver-skill"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 103,
-    "updated_at": "2026-09-02T16:58:20Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "Generative SVG interior scenes & hand-inked sketchnotes via deterministic physics evals, metric arithmetic & self-improv",
     "id": "surendranb/fun-skills",
     "language": "Python",
@@ -72,22 +153,13 @@
     "url": "https://github.com/surendranb/fun-skills"
   },
   {
-    "description": "Claude Code skills that faithfully tailor your LaTeX resume to a job posting",
+    "description": "Claude Code plugin for the whole job hunt: find live roles straight from company ATS boards, tailor your LaTeX resume to",
     "id": "DhruvPrajapati4/apply-kit",
     "language": "Python",
     "name": "DhruvPrajapati4/apply-kit",
     "stars": 0,
-    "updated_at": "2026-09-02T16:50:34Z",
+    "updated_at": "2026-09-02T17:13:30Z",
     "url": "https://github.com/DhruvPrajapati4/apply-kit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T16:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
@@ -108,31 +180,13 @@
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
-    "description": "An editorial constraint set for writing AU and fanfiction with an LLM \u2014 canon layering, prose tells, Chinese and English",
-    "id": "sylviachangdou-prayer/fanfic-AU-apocrypha",
-    "language": "\u2014",
-    "name": "sylviachangdou-prayer/fanfic-AU-apocrypha",
-    "stars": 0,
-    "updated_at": "2026-09-02T16:42:56Z",
-    "url": "https://github.com/sylviachangdou-prayer/fanfic-AU-apocrypha"
-  },
-  {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
     "id": "cody-hutson/pmo-platform",
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-09-02T16:58:41Z",
+    "updated_at": "2026-09-02T17:14:44Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 5,
-    "updated_at": "2026-09-02T16:40:15Z",
-    "url": "https://github.com/using-system/oddyssey"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -153,21 +207,12 @@
     "url": "https://github.com/nohseongmin/claude-skill-finder"
   },
   {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 3,
-    "updated_at": "2026-09-02T16:31:33Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
     "description": "Evidence-chain memory for AI agents - verbatim-first, auditable, anti-fabrication. Tell your story once, recall it with ",
     "id": "caix84476-netizen/personal-understanding",
     "language": "Python",
     "name": "caix84476-netizen/personal-understanding",
     "stars": 1,
-    "updated_at": "2026-09-02T16:28:02Z",
+    "updated_at": "2026-09-02T17:09:19Z",
     "url": "https://github.com/caix84476-netizen/personal-understanding"
   },
   {
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-02T16:59:49Z",
+    "updated_at": "2026-09-02T17:15:10Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -184,7 +229,7 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 42036,
+    "stars": 42038,
     "updated_at": "2026-09-02T16:25:37Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
@@ -250,15 +295,6 @@
     "stars": 1830,
     "updated_at": "2026-09-02T16:46:08Z",
     "url": "https://github.com/timescale/pg-aiguide"
-  },
-  {
-    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
-    "id": "chenweil/skillcaddy",
-    "language": "JavaScript",
-    "name": "chenweil/skillcaddy",
-    "stars": 24,
-    "updated_at": "2026-09-02T16:11:21Z",
-    "url": "https://github.com/chenweil/skillcaddy"
   },
   {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T15:43:43Z",
     "url": "https://github.com/meikocho1/alchemy-marketing-skills"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 55,
-    "updated_at": "2026-09-02T15:41:33Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Agent Skill for test suite cleanup: deletes the obsolete tests, builds a gate that runs in seconds. Works in Claude Code",
-    "id": "NeuraCerebra-AI/testprune",
-    "language": "Python",
-    "name": "NeuraCerebra-AI/testprune",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:39:50Z",
-    "url": "https://github.com/NeuraCerebra-AI/testprune"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-09-02T15:36:08Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Agent-agnostic AI Agent Skills for composing runnable API call plans, diagnosing endpoints, authoring narrated Bash demo",
-    "id": "j-256/agent-skills",
-    "language": "JavaScript",
-    "name": "j-256/agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-02T15:35:40Z",
-    "url": "https://github.com/j-256/agent-skills"
   }
 ]
