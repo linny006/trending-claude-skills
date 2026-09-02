@@ -1,5 +1,140 @@
 [
   {
+    "description": "El formato con el que presento el estado de mis proyectos, empaquetado como skill de Claude Code.",
+    "id": "sergiohidalgo-pro/tablero",
+    "language": "HTML",
+    "name": "sergiohidalgo-pro/tablero",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:43:41Z",
+    "url": "https://github.com/sergiohidalgo-pro/tablero"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 33,
+    "updated_at": "2026-09-02T02:42:29Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-02T02:42:24Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 76 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, email, ",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 8,
+    "updated_at": "2026-09-02T02:41:37Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "\u628a\u4e00\u500b\u4eba\u7684\u8a71\u554f\u51fa\u4f86\uff0c\u505a\u6210\u4e00\u9801\u5f0f\u7684\u500b\u4eba\u54c1\u724c\u7db2\u7ad9\u3002\u7d66 AI \u4ee3\u7406\u4eba\u7167\u8457\u8dd1\u7684\u56db\u968e\u6bb5\u6d41\u7a0b\uff1a\u8a2a\u8ac7\u3001\u9078\u578b\u3001\u5efa\u7ad9\u3001\u9a57\u6536\u3002\u96f6\u4f9d\u8cf4\uff0c\u56db\u7a2e\u98a8\u683c\uff0c\u56db\u7a2e\u6703\u6d41\u52d5\u7684\u9996\u5c4f\u3002",
+    "id": "yazelin/personal-brand-site-starter",
+    "language": "HTML",
+    "name": "yazelin/personal-brand-site-starter",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:41:22Z",
+    "url": "https://github.com/yazelin/personal-brand-site-starter"
+  },
+  {
+    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "id": "gagip/gagip-dev",
+    "language": "Python",
+    "name": "gagip/gagip-dev",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:40:58Z",
+    "url": "https://github.com/gagip/gagip-dev"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-02T02:40:37Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Bring DataRobot platform capabilities to your coding agents",
+    "id": "datarobot-oss/datarobot-agent-skills",
+    "language": "Python",
+    "name": "datarobot-oss/datarobot-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-09-02T02:38:48Z",
+    "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 92923,
+    "updated_at": "2026-09-02T02:38:39Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 18,
+    "updated_at": "2026-09-02T02:38:01Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "Claude Code skill for award-site motion pages \u2014 Three.js worlds, liquid-glass shaders, springy poster walls. Single-file",
+    "id": "jiangyurong609/motion-pages",
+    "language": "JavaScript",
+    "name": "jiangyurong609/motion-pages",
+    "stars": 2,
+    "updated_at": "2026-09-02T02:36:30Z",
+    "url": "https://github.com/jiangyurong609/motion-pages"
+  },
+  {
+    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
+    "id": "skills-agents-co/skills-and-agents-library",
+    "language": "Python",
+    "name": "skills-agents-co/skills-and-agents-library",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:35:16Z",
+    "url": "https://github.com/skills-agents-co/skills-and-agents-library"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-02T02:39:10Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\u82f9\u679c MCP \u5de5\u5177 \u2705",
+    "id": "celados/mcpx",
+    "language": "TypeScript",
+    "name": "celados/mcpx",
+    "stars": 17,
+    "updated_at": "2026-09-02T02:30:36Z",
+    "url": "https://github.com/celados/mcpx"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T02:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Open-source product leadership skills from the Mission Built ecosystem. The book teaches the principles. The Loadout put",
     "id": "missionbuilt/loadout",
     "language": "HTML",
@@ -22,18 +157,9 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68592,
+    "stars": 68591,
     "updated_at": "2026-09-02T02:19:32Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "\u628a\u4e00\u500b\u4eba\u7684\u8a71\u554f\u51fa\u4f86\uff0c\u505a\u6210\u4e00\u9801\u5f0f\u7684\u500b\u4eba\u54c1\u724c\u7db2\u7ad9\u3002\u7d66 AI \u4ee3\u7406\u4eba\u7167\u8457\u8dd1\u7684\u56db\u968e\u6bb5\u6d41\u7a0b\uff1a\u8a2a\u8ac7\u3001\u9078\u578b\u3001\u5efa\u7ad9\u3001\u9a57\u6536\u3002\u96f6\u4f9d\u8cf4\uff0c\u56db\u7a2e\u98a8\u683c\uff0c\u56db\u7a2e\u6703\u6d41\u52d5\u7684\u9996\u5c4f\u3002",
-    "id": "yazelin/personal-brand-site-starter",
-    "language": "HTML",
-    "name": "yazelin/personal-brand-site-starter",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:17:18Z",
-    "url": "https://github.com/yazelin/personal-brand-site-starter"
   },
   {
     "description": "Curated Claude Code plugin marketplace: sniff (AI QA in a real browser), ui-ux-suite (design audit), recap-studio (one-p",
@@ -45,40 +171,13 @@
     "url": "https://github.com/Aboudjem/10x"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 92923,
-    "updated_at": "2026-09-02T02:29:09Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T02:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-02T02:26:16Z",
+    "updated_at": "2026-09-02T02:38:22Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-02T02:27:58Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
@@ -90,21 +189,12 @@
     "url": "https://github.com/ayukyo/icode-skill"
   },
   {
-    "description": "Bring DataRobot platform capabilities to your coding agents",
-    "id": "datarobot-oss/datarobot-agent-skills",
-    "language": "Python",
-    "name": "datarobot-oss/datarobot-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-09-02T02:09:07Z",
-    "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19069,
-    "updated_at": "2026-09-02T02:30:10Z",
+    "updated_at": "2026-09-02T02:34:54Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -142,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T01:58:05Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "El formato con el que presento el estado de mis proyectos, empaquetado como skill de Claude Code.",
-    "id": "sergiohidalgo-pro/tablero",
-    "language": "HTML",
-    "name": "sergiohidalgo-pro/tablero",
-    "stars": 0,
-    "updated_at": "2026-09-02T01:57:20Z",
-    "url": "https://github.com/sergiohidalgo-pro/tablero"
   },
   {
     "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
@@ -248,7 +329,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 141,
-    "updated_at": "2026-09-02T01:58:15Z",
+    "updated_at": "2026-09-02T02:41:00Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -268,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T01:10:31Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-02T02:28:56Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T00:42:57Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
-    "id": "mateusands/claude-code-crew-kit",
-    "language": "JavaScript",
-    "name": "mateusands/claude-code-crew-kit",
-    "stars": 0,
-    "updated_at": "2026-09-02T00:42:46Z",
-    "url": "https://github.com/mateusands/claude-code-crew-kit"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-09-02T00:41:25Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous m",
-    "id": "zeikar/hyperclaude",
-    "language": "JavaScript",
-    "name": "zeikar/hyperclaude",
-    "stars": 3,
-    "updated_at": "2026-09-02T00:40:22Z",
-    "url": "https://github.com/zeikar/hyperclaude"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-09-02T00:38:46Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-02T00:36:42Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Claude Code plugins by Houssem Djeghri.",
-    "id": "HoussemDjeghri/plugins",
-    "language": "\u2014",
-    "name": "HoussemDjeghri/plugins",
-    "stars": 2,
-    "updated_at": "2026-09-02T00:36:41Z",
-    "url": "https://github.com/HoussemDjeghri/plugins"
-  },
-  {
-    "description": "LLM skill files for MIST and other upcoming tools",
-    "id": "mist-medical/skills",
-    "language": "\u2014",
-    "name": "mist-medical/skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T00:34:10Z",
-    "url": "https://github.com/mist-medical/skills"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Shell",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 26565,
-    "updated_at": "2026-09-02T00:32:47Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
   }
 ]
