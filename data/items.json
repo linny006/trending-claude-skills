@@ -1,5 +1,95 @@
 [
   {
+    "description": "Rory Sutherland's psycho-logic as Claude skills \u2014 solve the human perception, not the metric. Reframing, costly signalin",
+    "id": "meikocho1/alchemy-marketing-skills",
+    "language": "\u2014",
+    "name": "meikocho1/alchemy-marketing-skills",
+    "stars": 2,
+    "updated_at": "2026-09-02T15:43:43Z",
+    "url": "https://github.com/meikocho1/alchemy-marketing-skills"
+  },
+  {
+    "description": "Agent Skill for test suite cleanup: deletes the obsolete tests, builds a gate that runs in seconds. Works in Claude Code",
+    "id": "NeuraCerebra-AI/testprune",
+    "language": "Python",
+    "name": "NeuraCerebra-AI/testprune",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:39:50Z",
+    "url": "https://github.com/NeuraCerebra-AI/testprune"
+  },
+  {
+    "description": "Open-source, versioned skills for Codex and AI agent workflows \u2014 composable, tested, and safety-focused.",
+    "id": "WardLu/skills",
+    "language": "Python",
+    "name": "WardLu/skills",
+    "stars": 1,
+    "updated_at": "2026-09-02T15:39:13Z",
+    "url": "https://github.com/WardLu/skills"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-09-02T15:36:08Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 418,
+    "updated_at": "2026-09-02T15:36:04Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Agent-agnostic AI Agent Skills for composing runnable API call plans, diagnosing endpoints, authoring narrated Bash demo",
+    "id": "j-256/agent-skills",
+    "language": "JavaScript",
+    "name": "j-256/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-02T15:35:40Z",
+    "url": "https://github.com/j-256/agent-skills"
+  },
+  {
+    "description": "Deterministic trigger and synthesis evaluation for Agent Skills across Claude Code, Codex, and OpenCode.",
+    "id": "j-256/stream-eval",
+    "language": "Python",
+    "name": "j-256/stream-eval",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:35:36Z",
+    "url": "https://github.com/j-256/stream-eval"
+  },
+  {
+    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
+    "id": "astroicers/skill-quality-research",
+    "language": "Python",
+    "name": "astroicers/skill-quality-research",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:35:17Z",
+    "url": "https://github.com/astroicers/skill-quality-research"
+  },
+  {
+    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
+    "id": "JanYork/llm-wiki-cli",
+    "language": "Rust",
+    "name": "JanYork/llm-wiki-cli",
+    "stars": 50,
+    "updated_at": "2026-09-02T15:34:57Z",
+    "url": "https://github.com/JanYork/llm-wiki-cli"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-02T15:30:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
     "id": "alebgl77/grafana-llmops-forge",
     "language": "Python",
@@ -9,22 +99,22 @@
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
   },
   {
-    "description": "Open-source, versioned skills for Codex and AI agent workflows \u2014 composable, tested, and safety-focused.",
-    "id": "WardLu/skills",
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
     "language": "Python",
-    "name": "WardLu/skills",
-    "stars": 1,
-    "updated_at": "2026-09-02T15:25:05Z",
-    "url": "https://github.com/WardLu/skills"
+    "name": "aiskillstore/marketplace",
+    "stars": 416,
+    "updated_at": "2026-09-02T15:28:16Z",
+    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
-    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 418,
-    "updated_at": "2026-09-02T15:23:09Z",
-    "url": "https://github.com/notque/vexjoy-agent"
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-09-02T15:27:59Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T15:21:39Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Agent Skill for test suite cleanup: deletes the obsolete tests, builds a gate that runs in seconds. Works in Claude Code",
-    "id": "NeuraCerebra-AI/testprune",
-    "language": "Python",
-    "name": "NeuraCerebra-AI/testprune",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:21:11Z",
-    "url": "https://github.com/NeuraCerebra-AI/testprune"
   },
   {
     "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod",
@@ -61,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-09-02T15:18:37Z",
     "url": "https://github.com/richfrem/agent-plugins-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-02T15:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field ",
@@ -171,6 +243,24 @@
     "url": "https://github.com/kinerette/claude-code-checkout-upsell"
   },
   {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:05:08Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-09-02T15:04:55Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -203,7 +293,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 103,
-    "updated_at": "2026-09-02T15:01:51Z",
+    "updated_at": "2026-09-02T15:43:55Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -232,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T14:53:55Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
-    "id": "astroicers/skill-quality-research",
-    "language": "Python",
-    "name": "astroicers/skill-quality-research",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:24:19Z",
-    "url": "https://github.com/astroicers/skill-quality-research"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -367,86 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-02T14:41:41Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "SEO MCP server + free SEO skills for Claude. Real-data SEO: crawl, Google Search Console, rank tracking, internal linkin",
-    "id": "tom-ned/seo-cartograph-mcp",
-    "language": "\u2014",
-    "name": "tom-ned/seo-cartograph-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:40:48Z",
-    "url": "https://github.com/tom-ned/seo-cartograph-mcp"
-  },
-  {
-    "description": "Growth skills for AI visibility and SEO. Farm content ideas, draft in your own voice, post without getting banned. Free ",
-    "id": "afterlaunch/skills",
-    "language": "Python",
-    "name": "afterlaunch/skills",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:40:34Z",
-    "url": "https://github.com/afterlaunch/skills"
-  },
-  {
-    "description": "Debug a machine you cannot log into, through an operator who cannot debug it - for air-gapped, client-owned and change-c",
-    "id": "dbhq-uk/heliograph-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/heliograph-skill",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:37:23Z",
-    "url": "https://github.com/dbhq-uk/heliograph-skill"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 35,
-    "updated_at": "2026-09-02T14:36:57Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "Declarative management of Agent Skills on Nix",
-    "id": "Kyure-A/agent-skills-nix",
-    "language": "Nix",
-    "name": "Kyure-A/agent-skills-nix",
-    "stars": 221,
-    "updated_at": "2026-09-02T14:36:04Z",
-    "url": "https://github.com/Kyure-A/agent-skills-nix"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:33:43Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "\u2728 Personal plugins for Claude Code (& friends)... maybe worth sharing!",
-    "id": "emaballarin/ccplugins",
-    "language": "Python",
-    "name": "emaballarin/ccplugins",
-    "stars": 3,
-    "updated_at": "2026-09-02T14:31:26Z",
-    "url": "https://github.com/emaballarin/ccplugins"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-09-02T14:31:10Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "zenstory-ai/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6407,
-    "updated_at": "2026-09-02T14:28:24Z",
-    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   }
 ]
