@@ -1,5 +1,104 @@
 [
   {
+    "description": "Git-native agent governance core \u2014 task contracts and deterministic scope/verification checks that keep coding agents in",
+    "id": "zywkloo/wtcraft",
+    "language": "Shell",
+    "name": "zywkloo/wtcraft",
+    "stars": 3,
+    "updated_at": "2026-09-03T06:59:00Z",
+    "url": "https://github.com/zywkloo/wtcraft"
+  },
+  {
+    "description": "35 portable agent skills (Agent Skills spec) for Kiro & Claude Code: Scrum DevSecOps roles, PCI-DSS/MAS TRM compliance, ",
+    "id": "timwukp/agent-skills-best-practice",
+    "language": "Python",
+    "name": "timwukp/agent-skills-best-practice",
+    "stars": 10,
+    "updated_at": "2026-09-03T06:58:10Z",
+    "url": "https://github.com/timwukp/agent-skills-best-practice"
+  },
+  {
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002The mo",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 6098,
+    "updated_at": "2026-09-03T06:56:49Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 33,
+    "updated_at": "2026-09-03T06:55:44Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Multi-engine GEO \u2014 a Claude Code skill that audits, implements, and measures AI search visibility with a separate lane p",
+    "id": "kindsusu/su-multi-geo",
+    "language": "Python",
+    "name": "kindsusu/su-multi-geo",
+    "stars": 0,
+    "updated_at": "2026-09-03T06:54:27Z",
+    "url": "https://github.com/kindsusu/su-multi-geo"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-03T06:53:10Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
+    "id": "Junhan2/oh-my-fable",
+    "language": "Shell",
+    "name": "Junhan2/oh-my-fable",
+    "stars": 25,
+    "updated_at": "2026-09-03T06:53:01Z",
+    "url": "https://github.com/Junhan2/oh-my-fable"
+  },
+  {
+    "description": "\u89c2\u70b9\u5730\u56fe Opinion Map \u2014 \u7814\u7a76\u4e00\u4e2a\u8bdd\u9898\u7684\u4e3b\u6d41\u60f3\u6cd5\u6709\u51e0\u79cd\u3002\u7ed9\u5185\u5bb9\u521b\u4f5c\u8005\u7684\u9009\u9898\u4fa6\u5bdf\uff1a\u54ea\u6d3e\u5df2\u8bf4\u70c2\u3001\u54ea\u4e2a\u89d2\u5ea6\u6ca1\u4eba\u5360\u3002\u5ba2\u89c2\u4e2d\u7acb\u3001\u68c0\u7d22\u9a71\u52a8\u3001\u8d8a\u7528\u8d8a\u806a\u660e\u3002",
+    "id": "ianx52/opinion-map",
+    "language": "\u2014",
+    "name": "ianx52/opinion-map",
+    "stars": 0,
+    "updated_at": "2026-09-03T06:52:34Z",
+    "url": "https://github.com/ianx52/opinion-map"
+  },
+  {
+    "description": "Stop Claude from inventing words. A skill + output style that makes Opus 5 and Fable write plainly, in English and Chine",
+    "id": "maxxiedddd/unjargon",
+    "language": "JavaScript",
+    "name": "maxxiedddd/unjargon",
+    "stars": 0,
+    "updated_at": "2026-09-03T06:48:06Z",
+    "url": "https://github.com/maxxiedddd/unjargon"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T06:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-09-03T06:44:50Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
     "description": "AI marketing team for B2B SaaS: 77 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, pai",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -9,30 +108,12 @@
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
-    "description": "Multi-engine GEO \u2014 a Claude Code skill that audits, implements, and measures AI search visibility with a separate lane p",
-    "id": "kindsusu/su-multi-geo",
-    "language": "Python",
-    "name": "kindsusu/su-multi-geo",
-    "stars": 0,
-    "updated_at": "2026-09-03T06:43:19Z",
-    "url": "https://github.com/kindsusu/su-multi-geo"
-  },
-  {
-    "description": "Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
-    "id": "Junhan2/oh-my-fable",
-    "language": "Shell",
-    "name": "Junhan2/oh-my-fable",
-    "stars": 22,
-    "updated_at": "2026-09-03T06:43:06Z",
-    "url": "https://github.com/Junhan2/oh-my-fable"
-  },
-  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68629,
-    "updated_at": "2026-09-03T06:41:33Z",
+    "updated_at": "2026-09-03T06:56:51Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-03T06:44:40Z",
+    "updated_at": "2026-09-03T06:58:31Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -86,7 +167,7 @@
     "language": "\u2014",
     "name": "sumitake/agent-skills-sales",
     "stars": 0,
-    "updated_at": "2026-09-03T06:31:16Z",
+    "updated_at": "2026-09-03T06:56:29Z",
     "url": "https://github.com/sumitake/agent-skills-sales"
   },
   {
@@ -99,15 +180,6 @@
     "url": "https://github.com/AlanHuang168/ai-codeops-harness"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T06:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -115,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-09-03T06:28:53Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Stop Claude from inventing words. A skill + output style that makes Opus 5 and Fable write plainly, in English and Chine",
-    "id": "maxxiedddd/unjargon",
-    "language": "JavaScript",
-    "name": "maxxiedddd/unjargon",
-    "stars": 0,
-    "updated_at": "2026-09-03T06:24:46Z",
-    "url": "https://github.com/maxxiedddd/unjargon"
   },
   {
     "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19100,
-    "updated_at": "2026-09-03T06:22:29Z",
+    "updated_at": "2026-09-03T06:58:14Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T05:19:05Z",
     "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "Answers \"where should I submit this paper?\" from cited soft metadata \u2014 reviewer culture, framing requirements, real word",
-    "id": "Zaious/journal-atlas",
-    "language": "Python",
-    "name": "Zaious/journal-atlas",
-    "stars": 2,
-    "updated_at": "2026-09-03T05:18:10Z",
-    "url": "https://github.com/Zaious/journal-atlas"
-  },
-  {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
-    "language": "JavaScript",
-    "name": "geml-spec/geml",
-    "stars": 25,
-    "updated_at": "2026-09-03T05:17:17Z",
-    "url": "https://github.com/geml-spec/geml"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 1,
-    "updated_at": "2026-09-03T05:16:06Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-09-03T05:15:52Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "From text & real sources to maintainable .drawio architecture models: Diagram IR with source-kind profiles, incremental ",
-    "id": "Agents365-ai/drawio-skill",
-    "language": "Python",
-    "name": "Agents365-ai/drawio-skill",
-    "stars": 8992,
-    "updated_at": "2026-09-03T05:14:48Z",
-    "url": "https://github.com/Agents365-ai/drawio-skill"
-  },
-  {
-    "description": "",
-    "id": "IvMisticos/misticos.Claude",
-    "language": "Python",
-    "name": "IvMisticos/misticos.Claude",
-    "stars": 3,
-    "updated_at": "2026-09-03T05:13:39Z",
-    "url": "https://github.com/IvMisticos/misticos.Claude"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-03T05:13:09Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
