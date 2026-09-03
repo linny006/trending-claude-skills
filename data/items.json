@@ -1,12 +1,93 @@
 [
   {
-    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
-    "id": "cbrock84/headcount",
-    "language": "Markdown",
-    "name": "cbrock84/headcount",
-    "stars": 1117,
-    "updated_at": "2026-09-03T01:28:11Z",
-    "url": "https://github.com/cbrock84/headcount"
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 93035,
+    "updated_at": "2026-09-03T01:44:56Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 4,
+    "updated_at": "2026-09-03T01:44:45Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-09-03T01:41:38Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Claude-Desktop-Bridge A Claude-Desktop MCP local bridge that connects Chat and Code tabs",
+    "id": "KiMiGuel/Indepentest-CDB",
+    "language": "TypeScript",
+    "name": "KiMiGuel/Indepentest-CDB",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:40:33Z",
+    "url": "https://github.com/KiMiGuel/Indepentest-CDB"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19096,
+    "updated_at": "2026-09-03T01:38:49Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 3,
+    "updated_at": "2026-09-03T01:35:34Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
+    "id": "mateusands/claude-code-crew-kit",
+    "language": "JavaScript",
+    "name": "mateusands/claude-code-crew-kit",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:44:57Z",
+    "url": "https://github.com/mateusands/claude-code-crew-kit"
+  },
+  {
+    "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
+    "id": "seokhoonj/newswatcher",
+    "language": "Python",
+    "name": "seokhoonj/newswatcher",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:32:40Z",
+    "url": "https://github.com/seokhoonj/newswatcher"
+  },
+  {
+    "description": "Field-tested prompting skills and playbooks for AI video generation: Google Veo 3.1, Gemini Omni Flash, ByteDance Seedan",
+    "id": "raphaelbgr/ai-video-prompting",
+    "language": "Python",
+    "name": "raphaelbgr/ai-video-prompting",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:30:39Z",
+    "url": "https://github.com/raphaelbgr/ai-video-prompting"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 416,
+    "updated_at": "2026-09-03T01:30:16Z",
+    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +95,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 35,
-    "updated_at": "2026-09-03T01:27:40Z",
+    "updated_at": "2026-09-03T01:30:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 1117,
+    "updated_at": "2026-09-03T01:35:39Z",
+    "url": "https://github.com/cbrock84/headcount"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -25,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-09-03T01:26:45Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
-    "id": "mateusands/claude-code-crew-kit",
-    "language": "JavaScript",
-    "name": "mateusands/claude-code-crew-kit",
-    "stars": 0,
-    "updated_at": "2026-09-03T01:26:22Z",
-    "url": "https://github.com/mateusands/claude-code-crew-kit"
   },
   {
     "description": "Central library for AI coding context: steering files, AGENTS templates, reusable skills, scaffold scripts, and guided s",
@@ -59,7 +140,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-03T01:25:12Z",
+    "updated_at": "2026-09-03T01:43:43Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -70,33 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T01:22:53Z",
     "url": "https://github.com/Sketchjar/stipple-agent-skills"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19095,
-    "updated_at": "2026-09-03T01:21:05Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 93034,
-    "updated_at": "2026-09-03T01:20:22Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 3,
-    "updated_at": "2026-09-03T01:17:44Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68620,
-    "updated_at": "2026-09-03T01:16:52Z",
+    "updated_at": "2026-09-03T01:40:00Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T00:18:20Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Claude Code plugins by Houssem Djeghri.",
-    "id": "HoussemDjeghri/plugins",
-    "language": "\u2014",
-    "name": "HoussemDjeghri/plugins",
-    "stars": 2,
-    "updated_at": "2026-09-03T00:17:09Z",
-    "url": "https://github.com/HoussemDjeghri/plugins"
-  },
-  {
-    "description": "bridge.ai: Claude Code plugins for AI-assisted development",
-    "id": "chris-peterson/claude-marketplace",
-    "language": "Python",
-    "name": "chris-peterson/claude-marketplace",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:15:11Z",
-    "url": "https://github.com/chris-peterson/claude-marketplace"
-  },
-  {
-    "description": "bridge.ai/tack: Route tracker for AI-assisted development work \u2014 pivots, deliverables, and dependencies \u2014 across session",
-    "id": "chris-peterson/tack",
-    "language": "TypeScript",
-    "name": "chris-peterson/tack",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:14:41Z",
-    "url": "https://github.com/chris-peterson/tack"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 141,
-    "updated_at": "2026-09-03T00:25:15Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Claude Code skill for award-site motion pages \u2014 Three.js worlds, liquid-glass shaders, springy poster walls. Single-file",
-    "id": "jiangyurong609/motion-pages",
-    "language": "JavaScript",
-    "name": "jiangyurong609/motion-pages",
-    "stars": 2,
-    "updated_at": "2026-09-03T00:13:11Z",
-    "url": "https://github.com/jiangyurong609/motion-pages"
-  },
-  {
-    "description": "Claude-Desktop-Bridge A Claude-Desktop MCP local bridge that connects Chat and Code tabs",
-    "id": "KiMiGuel/Indepentest-CDB",
-    "language": "TypeScript",
-    "name": "KiMiGuel/Indepentest-CDB",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:13:08Z",
-    "url": "https://github.com/KiMiGuel/Indepentest-CDB"
   }
 ]
