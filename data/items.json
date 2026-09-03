@@ -1,5 +1,113 @@
 [
   {
+    "description": "Backend security Agent Skill that helps AI audit code, detect vulnerabilities, and generate secure-by-default backend ap",
+    "id": "n-shadloo/secure-code-auditor",
+    "language": "Python",
+    "name": "n-shadloo/secure-code-auditor",
+    "stars": 4,
+    "updated_at": "2026-09-03T12:55:05Z",
+    "url": "https://github.com/n-shadloo/secure-code-auditor"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 3,
+    "updated_at": "2026-09-03T12:54:19Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-09-03T12:53:10Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "taxue \u7684\u4e13\u4e1a\u6295\u8d44\u5206\u6790 skill",
+    "id": "taxueseek/fund-investment-guide",
+    "language": "Python",
+    "name": "taxueseek/fund-investment-guide",
+    "stars": 16,
+    "updated_at": "2026-09-03T12:52:33Z",
+    "url": "https://github.com/taxueseek/fund-investment-guide"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 25,
+    "updated_at": "2026-09-03T12:51:18Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic",
+    "id": "jqueryscript/awesome-claude-code",
+    "language": "\u2014",
+    "name": "jqueryscript/awesome-claude-code",
+    "stars": 508,
+    "updated_at": "2026-09-03T12:51:04Z",
+    "url": "https://github.com/jqueryscript/awesome-claude-code"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-09-03T12:49:10Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68643,
+    "updated_at": "2026-09-03T12:47:35Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Skills to make your AI coding agent an Arcjet security expert.",
+    "id": "arcjet/skills",
+    "language": "Python",
+    "name": "arcjet/skills",
+    "stars": 2,
+    "updated_at": "2026-09-03T12:47:30Z",
+    "url": "https://github.com/arcjet/skills"
+  },
+  {
+    "description": "A curated list of high-star Agent Skills on GitHub for coding agents and AI workflows.",
+    "id": "jqueryscript/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "jqueryscript/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-03T12:47:13Z",
+    "url": "https://github.com/jqueryscript/awesome-agent-skills"
+  },
+  {
+    "description": "Build a professional landing page with Claude Code \u2014 16 bundled agent skills for design, copy, SEO and AI-search visibil",
+    "id": "kraayenjon/claude-pagekit",
+    "language": "Shell",
+    "name": "kraayenjon/claude-pagekit",
+    "stars": 0,
+    "updated_at": "2026-09-03T12:45:39Z",
+    "url": "https://github.com/kraayenjon/claude-pagekit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T12:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Public agent skill for display.dev \u2014 publish HTML or Markdown behind company auth from your AI assistant. Works across C",
     "id": "display-dev/skill",
     "language": "Shell",
@@ -18,15 +126,6 @@
     "url": "https://github.com/2000silpeed/meta-prompt-skill"
   },
   {
-    "description": "Skills to make your AI coding agent an Arcjet security expert.",
-    "id": "arcjet/skills",
-    "language": "Python",
-    "name": "arcjet/skills",
-    "stars": 2,
-    "updated_at": "2026-09-03T12:42:05Z",
-    "url": "https://github.com/arcjet/skills"
-  },
-  {
     "description": "Evidence-chain memory for AI agents - verbatim-first, auditable, anti-fabrication. Tell your story once, recall it with ",
     "id": "caix84476-netizen/personal-understanding",
     "language": "Python",
@@ -36,49 +135,13 @@
     "url": "https://github.com/caix84476-netizen/personal-understanding"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68643,
-    "updated_at": "2026-09-03T12:41:33Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Build a professional landing page with Claude Code \u2014 16 bundled agent skills for design, copy, SEO and AI-search visibil",
-    "id": "kraayenjon/claude-pagekit",
-    "language": "Shell",
-    "name": "kraayenjon/claude-pagekit",
-    "stars": 0,
-    "updated_at": "2026-09-03T12:39:26Z",
-    "url": "https://github.com/kraayenjon/claude-pagekit"
-  },
-  {
     "description": "The open source operating system for design teams running on AI \u2014 three gates, gate-enforcing Claude skills, a work ledg",
     "id": "royvergara/design-team-os",
     "language": "HTML",
     "name": "royvergara/design-team-os",
     "stars": 1,
-    "updated_at": "2026-09-03T12:34:07Z",
+    "updated_at": "2026-09-03T13:00:15Z",
     "url": "https://github.com/royvergara/design-team-os"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-09-03T12:31:04Z",
-    "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T12:30:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-03T12:28:13Z",
+    "updated_at": "2026-09-03T13:00:18Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-09-03T12:26:27Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-03T12:25:24Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -302,7 +356,7 @@
     "language": "Shell",
     "name": "chrislacey89/skills",
     "stars": 3,
-    "updated_at": "2026-09-03T12:34:07Z",
+    "updated_at": "2026-09-03T12:56:46Z",
     "url": "https://github.com/chrislacey89/skills"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-03T12:44:11Z",
+    "updated_at": "2026-09-03T12:59:08Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T11:34:37Z",
     "url": "https://github.com/DAAS2/system-design-skill"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-03T11:33:19Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30687,
-    "updated_at": "2026-09-03T12:13:34Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 3,
-    "updated_at": "2026-09-03T11:32:40Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best ",
-    "id": "seo-skills/seo-audit-skill",
-    "language": "TypeScript",
-    "name": "seo-skills/seo-audit-skill",
-    "stars": 415,
-    "updated_at": "2026-09-03T12:14:03Z",
-    "url": "https://github.com/seo-skills/seo-audit-skill"
-  },
-  {
-    "description": "Awesome Claude Code And Agent Tools",
-    "id": "cooler333/cool-claude-code",
-    "language": "Python",
-    "name": "cooler333/cool-claude-code",
-    "stars": 9,
-    "updated_at": "2026-09-03T11:31:41Z",
-    "url": "https://github.com/cooler333/cool-claude-code"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-09-03T11:29:00Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
