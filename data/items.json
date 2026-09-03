@@ -1,11 +1,20 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 416,
+    "updated_at": "2026-09-03T14:11:47Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
     "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68648,
-    "updated_at": "2026-09-03T13:57:08Z",
+    "updated_at": "2026-09-03T14:10:28Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "xr843/Master-skill",
     "stars": 382,
-    "updated_at": "2026-09-03T13:58:19Z",
+    "updated_at": "2026-09-03T14:10:25Z",
     "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "A growing library of reusable PM skills and frameworks for turning product management judgment into repeatable, shareabl",
+    "id": "saurabhships/pm-agent-skills",
+    "language": "\u2014",
+    "name": "saurabhships/pm-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:05:46Z",
+    "url": "https://github.com/saurabhships/pm-agent-skills"
+  },
+  {
+    "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, con",
+    "id": "LetA-Tech/mellions-coxen",
+    "language": "Go",
+    "name": "LetA-Tech/mellions-coxen",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:10:38Z",
+    "url": "https://github.com/LetA-Tech/mellions-coxen"
+  },
+  {
+    "description": "Lista curada de skills para agentes de IA, explicadas en espa\u00f1ol: qu\u00e9 hace cada una, para qu\u00e9 sirve y c\u00f3mo instalarla. C",
+    "id": "kraayenjon/agent-skills-es",
+    "language": "\u2014",
+    "name": "kraayenjon/agent-skills-es",
+    "stars": 12,
+    "updated_at": "2026-09-03T14:02:44Z",
+    "url": "https://github.com/kraayenjon/agent-skills-es"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-03T14:02:11Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T14:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T13:46:09Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T13:45:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Work In Progress ---- The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not",
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-03T13:59:09Z",
+    "updated_at": "2026-09-03T14:01:58Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -347,7 +392,7 @@
     "language": "HTML",
     "name": "gen-chart/gen-chart",
     "stars": 1,
-    "updated_at": "2026-09-03T13:13:40Z",
+    "updated_at": "2026-09-03T14:02:49Z",
     "url": "https://github.com/gen-chart/gen-chart"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/Aboudjem/10x"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 416,
-    "updated_at": "2026-09-03T13:06:37Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
     "description": "my dotfiles - embrace Minimalism \ud83e\udd42",
     "id": "kaizakin/dotfiles",
     "language": "QML",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-03T12:54:19Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 1,
-    "updated_at": "2026-09-03T12:53:10Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "taxue \u7684\u4e13\u4e1a\u6295\u8d44\u5206\u6790 skill",
-    "id": "taxueseek/fund-investment-guide",
-    "language": "Python",
-    "name": "taxueseek/fund-investment-guide",
-    "stars": 16,
-    "updated_at": "2026-09-03T12:52:33Z",
-    "url": "https://github.com/taxueseek/fund-investment-guide"
-  },
-  {
-    "description": "A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic",
-    "id": "jqueryscript/awesome-claude-code",
-    "language": "\u2014",
-    "name": "jqueryscript/awesome-claude-code",
-    "stars": 508,
-    "updated_at": "2026-09-03T12:51:04Z",
-    "url": "https://github.com/jqueryscript/awesome-claude-code"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-09-03T12:49:10Z",
-    "url": "https://github.com/huangwb8/skills"
   }
 ]
