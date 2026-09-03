@@ -1,12 +1,165 @@
 [
   {
+    "description": "Claude Code plugins by Houssem Djeghri.",
+    "id": "HoussemDjeghri/plugins",
+    "language": "\u2014",
+    "name": "HoussemDjeghri/plugins",
+    "stars": 2,
+    "updated_at": "2026-09-03T22:29:16Z",
+    "url": "https://github.com/HoussemDjeghri/plugins"
+  },
+  {
+    "description": "Turn your Postgres schema into a SKILL.md, AGENTS.md, or Cursor rule so AI coding agents stop hallucinating columns. Sup",
+    "id": "SamRome1/schema-to-skill",
+    "language": "TypeScript",
+    "name": "SamRome1/schema-to-skill",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:28:55Z",
+    "url": "https://github.com/SamRome1/schema-to-skill"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 5,
+    "updated_at": "2026-09-03T22:28:42Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
     "description": "Claude Code skills that verify their own output \u2014 SVG logo/icon design with a measurable quality gate, and a per-project",
     "id": "nkrrish/krrish-skills",
     "language": "HTML",
     "name": "nkrrish/krrish-skills",
     "stars": 0,
-    "updated_at": "2026-09-03T22:14:18Z",
+    "updated_at": "2026-09-03T22:28:19Z",
     "url": "https://github.com/nkrrish/krrish-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-03T22:27:55Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Skills propias para Claude Code. /watch le da ojos a Claude: frames + transcripci\u00f3n, con espa\u00f1ol de primera, cach\u00e9 y not",
+    "id": "akiotanaka847/video-skill",
+    "language": "Python",
+    "name": "akiotanaka847/video-skill",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:27:24Z",
+    "url": "https://github.com/akiotanaka847/video-skill"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 25,
+    "updated_at": "2026-09-03T22:26:41Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "Sync Claude Code configuration across machines (ccs): collect, apply, bootstrap from a GitHub payload repo",
+    "id": "DazzleML/dazzle-claude-config",
+    "language": "Python",
+    "name": "DazzleML/dazzle-claude-config",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:25:24Z",
+    "url": "https://github.com/DazzleML/dazzle-claude-config"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 1,
+    "updated_at": "2026-09-03T22:25:18Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
+    "id": "PollyGlot/google-play-cli",
+    "language": "Go",
+    "name": "PollyGlot/google-play-cli",
+    "stars": 5,
+    "updated_at": "2026-09-03T22:24:50Z",
+    "url": "https://github.com/PollyGlot/google-play-cli"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) for Claude Code, Codex, Cursor, and Gemini CLI \u2014 only the expertise a frontier model doesn't alr",
+    "id": "sergeyizmailov/knowledge-delta-skills",
+    "language": "Python",
+    "name": "sergeyizmailov/knowledge-delta-skills",
+    "stars": 3,
+    "updated_at": "2026-09-03T22:19:15Z",
+    "url": "https://github.com/sergeyizmailov/knowledge-delta-skills"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-03T22:18:39Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul.",
+    "id": "aeonfun/soul.md",
+    "language": "JavaScript",
+    "name": "aeonfun/soul.md",
+    "stars": 661,
+    "updated_at": "2026-09-03T22:17:16Z",
+    "url": "https://github.com/aeonfun/soul.md"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:29:44Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Agent skills for live flight and hotel pricing: cheapest dates, fare watch, trip planning, hotel search, rate-parity mon",
+    "id": "mtnrabi/travel-agent-skills",
+    "language": "\u2014",
+    "name": "mtnrabi/travel-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-03T22:16:23Z",
+    "url": "https://github.com/mtnrabi/travel-agent-skills"
+  },
+  {
+    "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, con",
+    "id": "LetA-Tech/mellions-coxen",
+    "language": "Go",
+    "name": "LetA-Tech/mellions-coxen",
+    "stars": 1,
+    "updated_at": "2026-09-03T22:15:39Z",
+    "url": "https://github.com/LetA-Tech/mellions-coxen"
+  },
+  {
+    "description": "Duas skills em portugues para o Claude Code: gerar imagem pelo Codex e consultar tres IAs de empresas diferentes sobre a",
+    "id": "Guiair21/gerar-imagem-e-segunda-opiniao",
+    "language": "Python",
+    "name": "Guiair21/gerar-imagem-e-segunda-opiniao",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:15:32Z",
+    "url": "https://github.com/Guiair21/gerar-imagem-e-segunda-opiniao"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T22:15:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
@@ -36,15 +189,6 @@
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
-    "description": "Agent Skills (SKILL.md) for Claude Code, Codex, Cursor, and Gemini CLI \u2014 only the expertise a frontier model doesn't alr",
-    "id": "sergeyizmailov/knowledge-delta-skills",
-    "language": "Python",
-    "name": "sergeyizmailov/knowledge-delta-skills",
-    "stars": 3,
-    "updated_at": "2026-09-03T22:11:09Z",
-    "url": "https://github.com/sergeyizmailov/knowledge-delta-skills"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -61,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T22:09:39Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-03T22:07:53Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -122,26 +257,8 @@
     "language": "Python",
     "name": "Machai-Kydoimos/dependabot-audit",
     "stars": 0,
-    "updated_at": "2026-09-03T22:01:02Z",
+    "updated_at": "2026-09-03T22:29:12Z",
     "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T22:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Duas skills em portugues para o Claude Code: gerar imagem pelo Codex e consultar tres IAs de empresas diferentes sobre a",
-    "id": "Guiair21/gerar-imagem-e-segunda-opiniao",
-    "language": "Python",
-    "name": "Guiair21/gerar-imagem-e-segunda-opiniao",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:59:22Z",
-    "url": "https://github.com/Guiair21/gerar-imagem-e-segunda-opiniao"
   },
   {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
@@ -252,15 +369,6 @@
     "url": "https://github.com/martinambrus/haive"
   },
   {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:59:59Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -340,113 +448,5 @@
     "stars": 120,
     "updated_at": "2026-09-03T22:14:22Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:23:53Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Personal skills marketplace \u2014 add it once, install any plugin for terminal, devops... and whatever else comes up",
-    "id": "gfargo/skills",
-    "language": "TypeScript",
-    "name": "gfargo/skills",
-    "stars": 2,
-    "updated_at": "2026-09-03T21:23:16Z",
-    "url": "https://github.com/gfargo/skills"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-03T21:17:53Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 49,
-    "updated_at": "2026-09-03T21:14:45Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 1,
-    "updated_at": "2026-09-03T21:13:58Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "Re-encode illustrated books so an E Ink reader turns pages without stalling. The bottleneck is decode cost per page, not",
-    "id": "romain-nicod/ereader-reencode",
-    "language": "Python",
-    "name": "romain-nicod/ereader-reencode",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:11:26Z",
-    "url": "https://github.com/romain-nicod/ereader-reencode"
-  },
-  {
-    "description": "Generate a Claude skill tailored to your own context. Static, bilingual FR/EN, no backend and no API key.",
-    "id": "romain-nicod/skill-forge",
-    "language": "JavaScript",
-    "name": "romain-nicod/skill-forge",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:11:17Z",
-    "url": "https://github.com/romain-nicod/skill-forge"
-  },
-  {
-    "description": "Project starting kit: method documents, GitHub scaffolding, and specification-to-board scripts. Stack-agnostic core, one",
-    "id": "romain-nicod/kickoff",
-    "language": "Python",
-    "name": "romain-nicod/kickoff",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:11:13Z",
-    "url": "https://github.com/romain-nicod/kickoff"
-  },
-  {
-    "description": "Disclose an agent's share of a commit with Assisted-by / Generated-by",
-    "id": "rokokol/ai-commit-trailers-skill",
-    "language": "Shell",
-    "name": "rokokol/ai-commit-trailers-skill",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:10:22Z",
-    "url": "https://github.com/rokokol/ai-commit-trailers-skill"
-  },
-  {
-    "description": "Claude Code plugin marketplace: 8 engineering skills (wagner-skills) + a 14-skill reverse-engineering pipeline that turn",
-    "id": "wagneripjr/skills",
-    "language": "JavaScript",
-    "name": "wagneripjr/skills",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:08:59Z",
-    "url": "https://github.com/wagneripjr/skills"
-  },
-  {
-    "description": "Give your AI agents persistent memory and session continuity in your Obsidian vault \u2014 a conversational interview scaffol",
-    "id": "aliasunder/vault-onboarding",
-    "language": "TypeScript",
-    "name": "aliasunder/vault-onboarding",
-    "stars": 1,
-    "updated_at": "2026-09-03T21:07:23Z",
-    "url": "https://github.com/aliasunder/vault-onboarding"
-  },
-  {
-    "description": "Map PayPal/Apple/Google Play/Stripe charges from Gmail into a payment-rail sheet (n8n + agent skill). Free teaser; full ",
-    "id": "Trilokx/inbox-rail-audit",
-    "language": "\u2014",
-    "name": "Trilokx/inbox-rail-audit",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:05:30Z",
-    "url": "https://github.com/Trilokx/inbox-rail-audit"
   }
 ]
