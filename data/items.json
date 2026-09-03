@@ -1,5 +1,68 @@
 [
   {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-09-03T06:28:53Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Multi-engine GEO \u2014 a Claude Code skill that audits, implements, and measures AI search visibility with a separate lane p",
+    "id": "kindsusu/su-multi-geo",
+    "language": "Python",
+    "name": "kindsusu/su-multi-geo",
+    "stars": 0,
+    "updated_at": "2026-09-03T06:25:03Z",
+    "url": "https://github.com/kindsusu/su-multi-geo"
+  },
+  {
+    "description": "Stop Claude from inventing words. A skill + output style that makes Opus 5 and Fable write plainly, in English and Chine",
+    "id": "maxxiedddd/unjargon",
+    "language": "JavaScript",
+    "name": "maxxiedddd/unjargon",
+    "stars": 0,
+    "updated_at": "2026-09-03T06:24:46Z",
+    "url": "https://github.com/maxxiedddd/unjargon"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68629,
+    "updated_at": "2026-09-03T06:29:38Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T06:24:00Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
+    "id": "glichtenthal/agent-skills",
+    "language": "HTML",
+    "name": "glichtenthal/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-03T06:23:07Z",
+    "url": "https://github.com/glichtenthal/agent-skills"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19100,
+    "updated_at": "2026-09-03T06:22:29Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
     "description": "Crevideo Reach \u2014 the TikTok Shop affiliate outreach & marketing platform, packaged as a Claude (MCP + Skills) plugin; th",
     "id": "crevideo/crevideo-reach",
     "language": "\u2014",
@@ -14,8 +77,17 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-03T06:22:37Z",
+    "updated_at": "2026-09-03T06:30:01Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "a collection of ai skills meant for roblox development",
+    "id": "HungryKelvin123/dstack",
+    "language": "JavaScript",
+    "name": "HungryKelvin123/dstack",
+    "stars": 1,
+    "updated_at": "2026-09-03T06:20:59Z",
+    "url": "https://github.com/HungryKelvin123/dstack"
   },
   {
     "description": "ADD - LOOP SKILL for AI Coding Agent",
@@ -27,21 +99,12 @@
     "url": "https://github.com/pilotspace/ADD"
   },
   {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68630,
-    "updated_at": "2026-09-03T06:18:42Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Portable, evidence-led sales skills for AI agents.",
     "id": "sumitake/agent-skills-sales",
     "language": "\u2014",
     "name": "sumitake/agent-skills-sales",
     "stars": 0,
-    "updated_at": "2026-09-03T06:16:56Z",
+    "updated_at": "2026-09-03T06:27:48Z",
     "url": "https://github.com/sumitake/agent-skills-sales"
   },
   {
@@ -61,24 +124,6 @@
     "stars": 140,
     "updated_at": "2026-09-03T06:15:46Z",
     "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T06:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Multi-engine GEO \u2014 a Claude Code skill that audits, implements, and measures AI search visibility with a separate lane p",
-    "id": "kindsusu/su-multi-geo",
-    "language": "Python",
-    "name": "kindsusu/su-multi-geo",
-    "stars": 0,
-    "updated_at": "2026-09-03T06:12:14Z",
-    "url": "https://github.com/kindsusu/su-multi-geo"
   },
   {
     "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
@@ -104,7 +149,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-09-03T06:05:56Z",
+    "updated_at": "2026-09-03T06:27:32Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -243,6 +288,15 @@
     "url": "https://github.com/bitjaru/styleseed"
   },
   {
+    "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top ",
+    "id": "INo-xious/stockbit-mcp",
+    "language": "TypeScript",
+    "name": "INo-xious/stockbit-mcp",
+    "stars": 18,
+    "updated_at": "2026-09-03T05:33:34Z",
+    "url": "https://github.com/INo-xious/stockbit-mcp"
+  },
+  {
     "description": "\u7092\u80a1/\u91cf\u5316\u4ea4\u6613/\u9009\u80a1 AI Skill \u5408\u96c6\uff1a\u6536\u5f55\u56fd\u5185\u5916 GitHub \u4e0a\u7684\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u3001\u9009\u80a1\u7b56\u7565 Agent Skills\uff0c\u9644\u7d22\u5f15\u4e0e\u5408\u89c4\u8f6c\u8f7d",
     "id": "Serennity007/awesome-stock-quant-skills",
     "language": "Python",
@@ -266,7 +320,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-03T06:17:11Z",
+    "updated_at": "2026-09-03T06:27:04Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -277,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-09-03T05:25:43Z",
     "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19099,
-    "updated_at": "2026-09-03T06:22:29Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -346,7 +391,7 @@
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
-    "stars": 8989,
+    "stars": 8990,
     "updated_at": "2026-09-03T05:14:48Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T05:06:20Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Official LeadMagic agent skills + Claude Code plugin \u2014 people/company/jobs search (unlimited on Pro/Ultimate), email fin",
-    "id": "LeadMagic/leadmagic-skills",
-    "language": "Shell",
-    "name": "LeadMagic/leadmagic-skills",
-    "stars": 0,
-    "updated_at": "2026-09-03T05:01:58Z",
-    "url": "https://github.com/LeadMagic/leadmagic-skills"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 4,
-    "updated_at": "2026-09-03T05:00:00Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Engineering quality focused skills for AI coding agents that keep humans in the loop.",
-    "id": "kreek/consult",
-    "language": "TypeScript",
-    "name": "kreek/consult",
-    "stars": 1,
-    "updated_at": "2026-09-03T04:59:14Z",
-    "url": "https://github.com/kreek/consult"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-03T04:58:01Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-09-03T04:55:21Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
   }
 ]
