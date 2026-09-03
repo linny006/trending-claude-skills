@@ -1,5 +1,122 @@
 [
   {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:14:18Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
+    "id": "nota-america/forgecat-agent-profiles",
+    "language": "TypeScript",
+    "name": "nota-america/forgecat-agent-profiles",
+    "stars": 63,
+    "updated_at": "2026-09-03T17:10:45Z",
+    "url": "https://github.com/nota-america/forgecat-agent-profiles"
+  },
+  {
+    "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link buildi",
+    "id": "inhouseseo/superseo-skills",
+    "language": "\u2014",
+    "name": "inhouseseo/superseo-skills",
+    "stars": 297,
+    "updated_at": "2026-09-03T17:08:05Z",
+    "url": "https://github.com/inhouseseo/superseo-skills"
+  },
+  {
+    "description": "bridge.ai: Claude Code plugins for AI-assisted development",
+    "id": "chris-peterson/claude-marketplace",
+    "language": "Python",
+    "name": "chris-peterson/claude-marketplace",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:07:46Z",
+    "url": "https://github.com/chris-peterson/claude-marketplace"
+  },
+  {
+    "description": "Claude skill: Yandex Direct campaign from brief to cabinet draft \u2014 semantics, negatives, ads, Metrika goals. Docs in Rus",
+    "id": "ai-hub-open/yandex-direct-manager",
+    "language": "Python",
+    "name": "ai-hub-open/yandex-direct-manager",
+    "stars": 7,
+    "updated_at": "2026-09-03T17:06:47Z",
+    "url": "https://github.com/ai-hub-open/yandex-direct-manager"
+  },
+  {
+    "description": "Turn structured prose into polished, self-contained HTML diagrams - 9 chart types x 5 themes, with optional high-res PNG",
+    "id": "GODVvVZzz/text2html2png",
+    "language": "HTML",
+    "name": "GODVvVZzz/text2html2png",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:05:07Z",
+    "url": "https://github.com/GODVvVZzz/text2html2png"
+  },
+  {
+    "description": "Battle-tested Claude Code configs \u2014 opinionated CLAUDE.md baselines, skills, slash commands and enforcement hooks you dr",
+    "id": "Cristhianzl/claude-skills-czl",
+    "language": "Python",
+    "name": "Cristhianzl/claude-skills-czl",
+    "stars": 5,
+    "updated_at": "2026-09-03T17:04:33Z",
+    "url": "https://github.com/Cristhianzl/claude-skills-czl"
+  },
+  {
+    "description": "Disclose an agent's share of a commit with Assisted-by / Generated-by",
+    "id": "rokokol/ai-commit-trailers-skill",
+    "language": "Shell",
+    "name": "rokokol/ai-commit-trailers-skill",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:03:21Z",
+    "url": "https://github.com/rokokol/ai-commit-trailers-skill"
+  },
+  {
+    "description": "Claude Code skill for Super Productivity \u2014 manage tasks, scheduling and time tracking through the app's Local REST API",
+    "id": "rokokol/super-productivity-skill",
+    "language": "Shell",
+    "name": "rokokol/super-productivity-skill",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:03:18Z",
+    "url": "https://github.com/rokokol/super-productivity-skill"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-03T17:05:44Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-09-03T17:00:34Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T17:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
+    "id": "gen-chart/gen-chart",
+    "language": "HTML",
+    "name": "gen-chart/gen-chart",
+    "stars": 1,
+    "updated_at": "2026-09-03T16:59:41Z",
+    "url": "https://github.com/gen-chart/gen-chart"
+  },
+  {
     "description": "A powerful and free desktop AI chat assistant built with Python, PySide6, and httpx, featuring custom themes and unlimit",
     "id": "YashvirGaming/YashvirGaming-AI",
     "language": "\u2014",
@@ -25,33 +142,6 @@
     "stars": 48,
     "updated_at": "2026-09-03T16:56:38Z",
     "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "Claude Code skill for Super Productivity \u2014 manage tasks, scheduling and time tracking through the app's Local REST API",
-    "id": "rokokol/super-productivity-skill",
-    "language": "Shell",
-    "name": "rokokol/super-productivity-skill",
-    "stars": 0,
-    "updated_at": "2026-09-03T16:55:01Z",
-    "url": "https://github.com/rokokol/super-productivity-skill"
-  },
-  {
-    "description": "Disclose an agent's share of a commit with Assisted-by / Generated-by",
-    "id": "rokokol/ai-commit-trailers-skill",
-    "language": "\u2014",
-    "name": "rokokol/ai-commit-trailers-skill",
-    "stars": 0,
-    "updated_at": "2026-09-03T16:54:55Z",
-    "url": "https://github.com/rokokol/ai-commit-trailers-skill"
-  },
-  {
-    "description": "Claude skill: Yandex Direct campaign from brief to cabinet draft \u2014 semantics, negatives, ads, Metrika goals. Docs in Rus",
-    "id": "ai-hub-open/yandex-direct-manager",
-    "language": "Python",
-    "name": "ai-hub-open/yandex-direct-manager",
-    "stars": 7,
-    "updated_at": "2026-09-03T16:54:40Z",
-    "url": "https://github.com/ai-hub-open/yandex-direct-manager"
   },
   {
     "description": "Reduce the \"AI-generated\" feel in business and academic texts; applicable to both Chinese and English. \u964d\u4f4e\u5546\u52a1\u4e0e\u5b66\u672f\u6587\u672c\u7684 AI \u751f\u6210\u611f",
@@ -99,15 +189,6 @@
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   },
   {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:00:12Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -135,15 +216,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-03T16:49:44Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -162,15 +234,6 @@
     "url": "https://github.com/nohseongmin/claude-skill-finder"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T16:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -178,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T16:44:49Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Turn structured prose into polished, self-contained HTML diagrams - 9 chart types x 5 themes, with optional high-res PNG",
-    "id": "GODVvVZzz/text2html2png",
-    "language": "HTML",
-    "name": "GODVvVZzz/text2html2png",
-    "stars": 0,
-    "updated_at": "2026-09-03T16:41:46Z",
-    "url": "https://github.com/GODVvVZzz/text2html2png"
   },
   {
     "description": "Debug a machine you cannot log into, through an operator who cannot debug it - for air-gapped, client-owned and change-c",
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19114,
-    "updated_at": "2026-09-03T16:36:20Z",
+    "updated_at": "2026-09-03T17:09:32Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 3,
-    "updated_at": "2026-09-03T16:59:11Z",
+    "updated_at": "2026-09-03T17:13:54Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -358,15 +412,6 @@
     "stars": 416,
     "updated_at": "2026-09-03T16:03:56Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "bridge.ai: Claude Code plugins for AI-assisted development",
-    "id": "chris-peterson/claude-marketplace",
-    "language": "Python",
-    "name": "chris-peterson/claude-marketplace",
-    "stars": 0,
-    "updated_at": "2026-09-03T16:03:55Z",
-    "url": "https://github.com/chris-peterson/claude-marketplace"
   },
   {
     "description": "Agent skills that reconcile reported status against Jira, GitHub, Slack and the PRD",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T15:57:40Z",
     "url": "https://github.com/gilgameshcc/ai-native-jobhunt"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 3,
-    "updated_at": "2026-09-03T15:56:20Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30692,
-    "updated_at": "2026-09-03T15:54:42Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-09-03T15:54:25Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link buildi",
-    "id": "inhouseseo/superseo-skills",
-    "language": "\u2014",
-    "name": "inhouseseo/superseo-skills",
-    "stars": 297,
-    "updated_at": "2026-09-03T15:46:36Z",
-    "url": "https://github.com/inhouseseo/superseo-skills"
-  },
-  {
-    "description": "Relex plugin for Claude",
-    "id": "relexlegal/relex-claude",
-    "language": "Python",
-    "name": "relexlegal/relex-claude",
-    "stars": 0,
-    "updated_at": "2026-09-03T15:44:58Z",
-    "url": "https://github.com/relexlegal/relex-claude"
   }
 ]
