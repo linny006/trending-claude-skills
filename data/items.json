@@ -1,12 +1,111 @@
 [
   {
+    "description": "Claude Code skills I've built and use. Currently teach-me: explains any technical topic from first principles, as chat o",
+    "id": "sahanaramesh09/claude-skills",
+    "language": "Python",
+    "name": "sahanaramesh09/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:27:43Z",
+    "url": "https://github.com/sahanaramesh09/claude-skills"
+  },
+  {
+    "description": "\u89c2\u70b9\u5730\u56fe Opinion Map \u2014 \u7814\u7a76\u4e00\u4e2a\u8bdd\u9898\u7684\u4e3b\u6d41\u60f3\u6cd5\u6709\u51e0\u79cd\u3002\u7ed9\u5185\u5bb9\u521b\u4f5c\u8005\u7684\u9009\u9898\u4fa6\u5bdf\uff1a\u54ea\u6d3e\u5df2\u8bf4\u70c2\u3001\u54ea\u4e2a\u89d2\u5ea6\u6ca1\u4eba\u5360\u3002\u5ba2\u89c2\u4e2d\u7acb\u3001\u68c0\u7d22\u9a71\u52a8\u3001\u8d8a\u7528\u8d8a\u806a\u660e\u3002",
+    "id": "ianx52/opinion-map",
+    "language": "\u2014",
+    "name": "ianx52/opinion-map",
+    "stars": 1,
+    "updated_at": "2026-09-03T08:26:52Z",
+    "url": "https://github.com/ianx52/opinion-map"
+  },
+  {
+    "description": "Claude Code skill that turns Google Search Console exports into a prioritized SEO action plan: fitted CTR curves, statis",
+    "id": "aurelien-dio/gsc-analyst",
+    "language": "Python",
+    "name": "aurelien-dio/gsc-analyst",
+    "stars": 1,
+    "updated_at": "2026-09-03T08:25:47Z",
+    "url": "https://github.com/aurelien-dio/gsc-analyst"
+  },
+  {
+    "description": "Project starting kit: method documents, GitHub scaffolding, and specification-to-board scripts. Stack-agnostic core, one",
+    "id": "romain-nicod/kickoff",
+    "language": "Python",
+    "name": "romain-nicod/kickoff",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:22:52Z",
+    "url": "https://github.com/romain-nicod/kickoff"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 93057,
+    "updated_at": "2026-09-03T08:25:06Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 103,
+    "updated_at": "2026-09-03T08:19:41Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14375,
+    "updated_at": "2026-09-03T08:19:34Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 12,
+    "updated_at": "2026-09-03T08:17:28Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 416,
-    "updated_at": "2026-09-03T08:15:09Z",
+    "updated_at": "2026-09-03T08:17:20Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-09-03T08:17:15Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T08:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
+    "id": "astroicers/skill-quality-research",
+    "language": "Python",
+    "name": "astroicers/skill-quality-research",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:15:15Z",
+    "url": "https://github.com/astroicers/skill-quality-research"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -16,24 +115,6 @@
     "stars": 5,
     "updated_at": "2026-09-03T08:12:40Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 103,
-    "updated_at": "2026-09-03T08:11:34Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 93056,
-    "updated_at": "2026-09-03T08:11:22Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
@@ -50,7 +131,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-03T08:08:47Z",
+    "updated_at": "2026-09-03T08:26:59Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -99,31 +180,13 @@
     "url": "https://github.com/Jsnnmsc/10000x-engineer"
   },
   {
-    "description": "Craft-first quality review for Agent Skill repos \u2014 an LLM judges how well a skill is WRITTEN (trigger design, writing qu",
-    "id": "astroicers/skill-quality-research",
-    "language": "Python",
-    "name": "astroicers/skill-quality-research",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:15:11Z",
-    "url": "https://github.com/astroicers/skill-quality-research"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19101,
-    "updated_at": "2026-09-03T08:01:56Z",
+    "updated_at": "2026-09-03T08:29:03Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T08:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 from PRDs and postmortems to appealing a di",
@@ -133,15 +196,6 @@
     "stars": 1332,
     "updated_at": "2026-09-03T07:54:55Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "\u89c2\u70b9\u5730\u56fe Opinion Map \u2014 \u7814\u7a76\u4e00\u4e2a\u8bdd\u9898\u7684\u4e3b\u6d41\u60f3\u6cd5\u6709\u51e0\u79cd\u3002\u7ed9\u5185\u5bb9\u521b\u4f5c\u8005\u7684\u9009\u9898\u4fa6\u5bdf\uff1a\u54ea\u6d3e\u5df2\u8bf4\u70c2\u3001\u54ea\u4e2a\u89d2\u5ea6\u6ca1\u4eba\u5360\u3002\u5ba2\u89c2\u4e2d\u7acb\u3001\u68c0\u7d22\u9a71\u52a8\u3001\u8d8a\u7528\u8d8a\u806a\u660e\u3002",
-    "id": "ianx52/opinion-map",
-    "language": "\u2014",
-    "name": "ianx52/opinion-map",
-    "stars": 1,
-    "updated_at": "2026-09-03T08:14:02Z",
-    "url": "https://github.com/ianx52/opinion-map"
   },
   {
     "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
@@ -167,7 +221,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-03T07:56:15Z",
+    "updated_at": "2026-09-03T08:25:04Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T07:14:05Z",
     "url": "https://github.com/iceberggymnast/skills"
-  },
-  {
-    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
-    "id": "molefrog/moi",
-    "language": "TypeScript",
-    "name": "molefrog/moi",
-    "stars": 140,
-    "updated_at": "2026-09-03T07:11:57Z",
-    "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "Personal memory across agents",
-    "id": "NevaMind-AI/memU",
-    "language": "Python",
-    "name": "NevaMind-AI/memU",
-    "stars": 14375,
-    "updated_at": "2026-09-03T07:08:22Z",
-    "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "description": "Package manager for Claude Code skills and agents and other AI related resources",
-    "id": "mensfeld/craftdesk",
-    "language": "TypeScript",
-    "name": "mensfeld/craftdesk",
-    "stars": 66,
-    "updated_at": "2026-09-03T07:04:40Z",
-    "url": "https://github.com/mensfeld/craftdesk"
-  },
-  {
-    "description": "Git-native agent governance core \u2014 task contracts and deterministic scope/verification checks that keep coding agents in",
-    "id": "zywkloo/wtcraft",
-    "language": "Shell",
-    "name": "zywkloo/wtcraft",
-    "stars": 3,
-    "updated_at": "2026-09-03T06:59:00Z",
-    "url": "https://github.com/zywkloo/wtcraft"
-  },
-  {
-    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr",
-    "id": "a5c-ai/babysitter",
-    "language": "JavaScript",
-    "name": "a5c-ai/babysitter",
-    "stars": 1763,
-    "updated_at": "2026-09-03T06:59:00Z",
-    "url": "https://github.com/a5c-ai/babysitter"
-  },
-  {
-    "description": "35 portable agent skills (Agent Skills spec) for Kiro & Claude Code: Scrum DevSecOps roles, PCI-DSS/MAS TRM compliance, ",
-    "id": "timwukp/agent-skills-best-practice",
-    "language": "Python",
-    "name": "timwukp/agent-skills-best-practice",
-    "stars": 10,
-    "updated_at": "2026-09-03T07:05:28Z",
-    "url": "https://github.com/timwukp/agent-skills-best-practice"
   }
 ]
