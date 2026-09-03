@@ -1,5 +1,95 @@
 [
   {
+    "description": "Blane's AI PM Repository",
+    "id": "enalbenerraw/blanewarrene",
+    "language": "Python",
+    "name": "enalbenerraw/blanewarrene",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:26:45Z",
+    "url": "https://github.com/enalbenerraw/blanewarrene"
+  },
+  {
+    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
+    "id": "konglong87/superPM",
+    "language": "JavaScript",
+    "name": "konglong87/superPM",
+    "stars": 61,
+    "updated_at": "2026-09-03T14:23:29Z",
+    "url": "https://github.com/konglong87/superPM"
+  },
+  {
+    "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
+    "id": "gen-chart/gen-chart",
+    "language": "HTML",
+    "name": "gen-chart/gen-chart",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:21:55Z",
+    "url": "https://github.com/gen-chart/gen-chart"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:21:01Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:25:52Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:19:40Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, con",
+    "id": "LetA-Tech/mellions-coxen",
+    "language": "Go",
+    "name": "LetA-Tech/mellions-coxen",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:17:08Z",
+    "url": "https://github.com/LetA-Tech/mellions-coxen"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68649,
+    "updated_at": "2026-09-03T14:16:57Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T14:15:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
+    "id": "Jsnnmsc/10000x-engineer",
+    "language": "\u2014",
+    "name": "Jsnnmsc/10000x-engineer",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:14:06Z",
+    "url": "https://github.com/Jsnnmsc/10000x-engineer"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -7,15 +97,6 @@
     "stars": 416,
     "updated_at": "2026-09-03T14:11:47Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68648,
-    "updated_at": "2026-09-03T14:10:28Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
@@ -36,15 +117,6 @@
     "url": "https://github.com/saurabhships/pm-agent-skills"
   },
   {
-    "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, con",
-    "id": "LetA-Tech/mellions-coxen",
-    "language": "Go",
-    "name": "LetA-Tech/mellions-coxen",
-    "stars": 1,
-    "updated_at": "2026-09-03T14:10:38Z",
-    "url": "https://github.com/LetA-Tech/mellions-coxen"
-  },
-  {
     "description": "Lista curada de skills para agentes de IA, explicadas en espa\u00f1ol: qu\u00e9 hace cada una, para qu\u00e9 sirve y c\u00f3mo instalarla. C",
     "id": "kraayenjon/agent-skills-es",
     "language": "\u2014",
@@ -61,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T14:02:11Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T14:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T13:14:04Z",
     "url": "https://github.com/caix84476-netizen/personal-understanding"
-  },
-  {
-    "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
-    "id": "gen-chart/gen-chart",
-    "language": "HTML",
-    "name": "gen-chart/gen-chart",
-    "stars": 1,
-    "updated_at": "2026-09-03T14:02:49Z",
-    "url": "https://github.com/gen-chart/gen-chart"
-  },
-  {
-    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
-    "id": "isatimur/excalidraw-skill-pack",
-    "language": "TypeScript",
-    "name": "isatimur/excalidraw-skill-pack",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:09:00Z",
-    "url": "https://github.com/isatimur/excalidraw-skill-pack"
-  },
-  {
-    "description": "Agent-native research workspace. A deterministic CLI that ingests arXiv / PDF / LaTeX / Zotero papers into an Obsidian-c",
-    "id": "Misaka16384/magi",
-    "language": "Python",
-    "name": "Misaka16384/magi",
-    "stars": 7,
-    "updated_at": "2026-09-03T13:05:26Z",
-    "url": "https://github.com/Misaka16384/magi"
-  },
-  {
-    "description": "A plugin marketplace is a list your editor can install from. This one holds seven developer tools for Claude Code, and y",
-    "id": "Aboudjem/10x",
-    "language": "JavaScript",
-    "name": "Aboudjem/10x",
-    "stars": 1,
-    "updated_at": "2026-09-03T13:02:33Z",
-    "url": "https://github.com/Aboudjem/10x"
-  },
-  {
-    "description": "my dotfiles - embrace Minimalism \ud83e\udd42",
-    "id": "kaizakin/dotfiles",
-    "language": "QML",
-    "name": "kaizakin/dotfiles",
-    "stars": 8,
-    "updated_at": "2026-09-03T13:01:23Z",
-    "url": "https://github.com/kaizakin/dotfiles"
-  },
-  {
-    "description": "Backend security Agent Skill that helps AI audit code, detect vulnerabilities, and generate secure-by-default backend ap",
-    "id": "n-shadloo/secure-code-auditor",
-    "language": "Python",
-    "name": "n-shadloo/secure-code-auditor",
-    "stars": 4,
-    "updated_at": "2026-09-03T12:55:05Z",
-    "url": "https://github.com/n-shadloo/secure-code-auditor"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 3,
-    "updated_at": "2026-09-03T12:54:19Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
   }
 ]
