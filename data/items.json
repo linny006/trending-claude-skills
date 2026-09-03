@@ -1,10 +1,73 @@
 [
   {
+    "description": "Claude Code skills I've built and use. Currently teach-me: explains any technical topic from first principles, as chat o",
+    "id": "sahanaramesh09/claude-skills",
+    "language": "Python",
+    "name": "sahanaramesh09/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:11:05Z",
+    "url": "https://github.com/sahanaramesh09/claude-skills"
+  },
+  {
+    "description": "Hilarious, animated SVGs, badges, and AI agent mascots for Vibe Coders & AI Engineers ",
+    "id": "imMamdouhaboammar/vibe-svgs",
+    "language": "TypeScript",
+    "name": "imMamdouhaboammar/vibe-svgs",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:10:34Z",
+    "url": "https://github.com/imMamdouhaboammar/vibe-svgs"
+  },
+  {
+    "description": "",
+    "id": "naveedharri/benai-skills",
+    "language": "JavaScript",
+    "name": "naveedharri/benai-skills",
+    "stars": 60,
+    "updated_at": "2026-09-03T09:05:50Z",
+    "url": "https://github.com/naveedharri/benai-skills"
+  },
+  {
+    "description": "MCP for PMO: maths-proven calculation and analysis tools with governance layers. Help you evolve your PMO into an intell",
+    "id": "lemur47/logic",
+    "language": "Python",
+    "name": "lemur47/logic",
+    "stars": 2,
+    "updated_at": "2026-09-03T09:04:42Z",
+    "url": "https://github.com/lemur47/logic"
+  },
+  {
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
+    "id": "Egonex-AI/Understand-Anything",
+    "language": "TypeScript",
+    "name": "Egonex-AI/Understand-Anything",
+    "stars": 81365,
+    "updated_at": "2026-09-03T09:04:08Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-03T09:13:36Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T09:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
     "id": "elementalsouls/Claude-BugHunter",
     "language": "Python",
     "name": "elementalsouls/Claude-BugHunter",
-    "stars": 4170,
+    "stars": 4174,
     "updated_at": "2026-09-03T08:58:16Z",
     "url": "https://github.com/elementalsouls/Claude-BugHunter"
   },
@@ -63,15 +126,6 @@
     "url": "https://github.com/JBSag/pm-artisan"
   },
   {
-    "description": "Claude Code skills I've built and use. Currently teach-me: explains any technical topic from first principles, as chat o",
-    "id": "sahanaramesh09/claude-skills",
-    "language": "Python",
-    "name": "sahanaramesh09/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:50:34Z",
-    "url": "https://github.com/sahanaramesh09/claude-skills"
-  },
-  {
     "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
     "id": "Zhonghao1995/agentic-swmm-workflow",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 25,
     "updated_at": "2026-09-03T08:50:29Z",
     "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
-  },
-  {
-    "description": "",
-    "id": "naveedharri/benai-skills",
-    "language": "JavaScript",
-    "name": "naveedharri/benai-skills",
-    "stars": 60,
-    "updated_at": "2026-09-03T08:49:24Z",
-    "url": "https://github.com/naveedharri/benai-skills"
   },
   {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
@@ -135,24 +180,6 @@
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T08:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-03T08:57:48Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple gr",
     "id": "bitjaru/styleseed",
     "language": "TypeScript",
@@ -196,6 +223,15 @@
     "stars": 3,
     "updated_at": "2026-09-03T08:39:55Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "\u8fd9\u662f\u4ece\u6211\u5e73\u65f6\u4e0eagent\u534f\u540c\u5f00\u53d1\u7684\u5de5\u4f5c\u6d41\u4e2d\u63d0\u70bc\u51fa\u6765\u7684skill\uff0c\u7528\u4e86SDD\u7684\u5f00\u53d1\u903b\u8f91\uff0c\u52a0\u5165\u4e86loop-engineering\u7684\u5f02\u6b65\u6821\u9a8c\uff0c\u8fd9\u6837\u5728coding\u4e2d\u5c31\u4e0d\u4f1a\u4ea7\u751f\u6a21\u578b\u89c9\u5f97\u81ea\u5df1\u5df2\u7ecf\u5b9e\u73b0\u4f46\u662f\u6ca1\u6709\u5b9e\u73b0\u7684\u5e7b\u89c9\u95ee\u9898\u3002\u6211\u5f88\u559c\u6b22\u5199\u597dplan\u540e\u4e00\u4e2a\u96f7\u9706",
+    "id": "Li-john1021/loop-flow",
+    "language": "Python",
+    "name": "Li-john1021/loop-flow",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:39:49Z",
+    "url": "https://github.com/Li-john1021/loop-flow"
   },
   {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 103,
-    "updated_at": "2026-09-03T08:19:41Z",
+    "updated_at": "2026-09-03T09:11:40Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 61,
     "updated_at": "2026-09-03T08:04:35Z",
     "url": "https://github.com/nexscope-ai/nexscope-ecommerce-skills"
-  },
-  {
-    "description": "Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and t",
-    "id": "techygarg/lattice",
-    "language": "Shell",
-    "name": "techygarg/lattice",
-    "stars": 184,
-    "updated_at": "2026-09-03T08:02:29Z",
-    "url": "https://github.com/techygarg/lattice"
-  },
-  {
-    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
-    "id": "Jsnnmsc/10000x-engineer",
-    "language": "\u2014",
-    "name": "Jsnnmsc/10000x-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:02:06Z",
-    "url": "https://github.com/Jsnnmsc/10000x-engineer"
-  },
-  {
-    "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 from PRDs and postmortems to appealing a di",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1333,
-    "updated_at": "2026-09-03T07:54:55Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Answers \"where should I submit this paper?\" from cited soft metadata \u2014 reviewer culture, framing requirements, real word",
-    "id": "Zaious/journal-atlas",
-    "language": "Python",
-    "name": "Zaious/journal-atlas",
-    "stars": 2,
-    "updated_at": "2026-09-03T07:41:11Z",
-    "url": "https://github.com/Zaious/journal-atlas"
   }
 ]
