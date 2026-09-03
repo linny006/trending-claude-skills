@@ -1,5 +1,59 @@
 [
   {
+    "description": "Relex plugin for Claude",
+    "id": "relexlegal/relex-claude",
+    "language": "Python",
+    "name": "relexlegal/relex-claude",
+    "stars": 0,
+    "updated_at": "2026-09-03T15:44:58Z",
+    "url": "https://github.com/relexlegal/relex-claude"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 3,
+    "updated_at": "2026-09-03T15:41:57Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 93084,
+    "updated_at": "2026-09-03T15:33:32Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "\ud83c\udf0a Everything your model doesn't do. Analyse, convert, visualize, evaluate \u2014 a single CLI for all CV data.",
+    "id": "zjykzj/DataFlow-CV",
+    "language": "Python",
+    "name": "zjykzj/DataFlow-CV",
+    "stars": 0,
+    "updated_at": "2026-09-03T15:31:47Z",
+    "url": "https://github.com/zjykzj/DataFlow-CV"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T15:30:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 103,
+    "updated_at": "2026-09-03T15:29:15Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
     "description": "\u4e00\u5957\u5199\u7ed9 agent \u8bfb\u7684\u6c42\u804c\u65b9\u6cd5\u8bba\u3002\u4e0d\u662f\u6295\u9012\u811a\u672c\uff0c\u662f\u6bcf\u4e2a\u51b3\u7b56\u70b9\u4e0a\u7684\u5224\u65ad\u7eaa\u5f8b\u3002",
     "id": "gilgameshcc/ai-native-jobhunt",
     "language": "JavaScript",
@@ -45,15 +99,6 @@
     "url": "https://github.com/hanzhangzzz/agent-skills-zh"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 103,
-    "updated_at": "2026-09-03T15:29:15Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
     "id": "gilvangonzalez/technical-founding-gtm-toolkit",
     "language": "HTML",
@@ -88,15 +133,6 @@
     "stars": 435,
     "updated_at": "2026-09-03T15:15:35Z",
     "url": "https://github.com/jabrena/plinth"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T15:15:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code plugin for fiber, MOPA and CO2 laser engravers: set up the machine, build a recipe base verified on it,   ge",
@@ -176,7 +212,7 @@
     "language": "Shell",
     "name": "chrislacey89/skills",
     "stars": 3,
-    "updated_at": "2026-09-03T15:08:51Z",
+    "updated_at": "2026-09-03T15:30:44Z",
     "url": "https://github.com/chrislacey89/skills"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-03T15:17:31Z",
+    "updated_at": "2026-09-03T15:31:20Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -266,7 +302,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-03T15:30:09Z",
+    "updated_at": "2026-09-03T15:43:58Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T14:29:54Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Blane's AI PM Repository",
-    "id": "enalbenerraw/blanewarrene",
-    "language": "Python",
-    "name": "enalbenerraw/blanewarrene",
-    "stars": 1,
-    "updated_at": "2026-09-03T14:26:45Z",
-    "url": "https://github.com/enalbenerraw/blanewarrene"
-  },
-  {
-    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
-    "id": "konglong87/superPM",
-    "language": "JavaScript",
-    "name": "konglong87/superPM",
-    "stars": 61,
-    "updated_at": "2026-09-03T14:23:29Z",
-    "url": "https://github.com/konglong87/superPM"
-  },
-  {
-    "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
-    "id": "gen-chart/gen-chart",
-    "language": "HTML",
-    "name": "gen-chart/gen-chart",
-    "stars": 1,
-    "updated_at": "2026-09-03T14:21:55Z",
-    "url": "https://github.com/gen-chart/gen-chart"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:21:01Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
   }
 ]
