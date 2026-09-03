@@ -1,11 +1,74 @@
 [
   {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 1118,
+    "updated_at": "2026-09-03T02:12:21Z",
+    "url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "description": "Deletion-first Agent Skill for removing test bloat, verification theater, and speculative fallbacks while preserving beh",
+    "id": "MrZoyo/deslop-GPT",
+    "language": "Python",
+    "name": "MrZoyo/deslop-GPT",
+    "stars": 64,
+    "updated_at": "2026-09-03T02:12:14Z",
+    "url": "https://github.com/MrZoyo/deslop-GPT"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-09-03T02:11:13Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Build a year of campaign moments in Notion, with competitive evidence from real marketing emails behind every moment. Fr",
+    "id": "email-love/lifecycle-calendar",
+    "language": "Python",
+    "name": "email-love/lifecycle-calendar",
+    "stars": 0,
+    "updated_at": "2026-09-03T02:07:21Z",
+    "url": "https://github.com/email-love/lifecycle-calendar"
+  },
+  {
+    "description": "\u628a\u6570\u636e\u6587\u4ef6\uff08CSV/Excel/JSON/TSV\uff09\u53d8\u6210\u4f1a\u8bb2\u6545\u4e8b\u7684\u5206\u6790\u62a5\u544a\u7684 skill\uff08\u652f\u6301 Claude Code / Codex / WorkBuddy \u4e09\u5bb6\u7f16\u7a0b\u667a\u80fd\u4f53\uff09\uff1a\u5148\u8ddf\u4f60\u786e\u8ba4\u884c\u4e1a\u4e0e\u62a5\u544a\u53d7\u4f17\uff0c\u518d\u6e05\u6d17\u5206\u6790\uff0c\u4ea7\u51fa\u5355\u6587\u4ef6 HTML \u4ea4\u4e92",
+    "id": "cabbage2000-lab/data-analysis-skills",
+    "language": "HTML",
+    "name": "cabbage2000-lab/data-analysis-skills",
+    "stars": 10,
+    "updated_at": "2026-09-03T02:06:22Z",
+    "url": "https://github.com/cabbage2000-lab/data-analysis-skills"
+  },
+  {
+    "description": "My skills marketplace",
+    "id": "rgglez/rgglez-dev-skills",
+    "language": "Go",
+    "name": "rgglez/rgglez-dev-skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T02:05:53Z",
+    "url": "https://github.com/rgglez/rgglez-dev-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-03T02:00:24Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19096,
-    "updated_at": "2026-09-03T01:58:23Z",
+    "updated_at": "2026-09-03T02:05:06Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-03T01:57:01Z",
+    "updated_at": "2026-09-03T02:13:35Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -86,17 +149,8 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-09-03T01:46:47Z",
+    "updated_at": "2026-09-03T02:11:25Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-03T01:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68623,
-    "updated_at": "2026-09-03T01:40:00Z",
+    "updated_at": "2026-09-03T02:12:54Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 416,
     "updated_at": "2026-09-03T01:30:16Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
-    "id": "cbrock84/headcount",
-    "language": "Markdown",
-    "name": "cbrock84/headcount",
-    "stars": 1117,
-    "updated_at": "2026-09-03T01:35:39Z",
-    "url": "https://github.com/cbrock84/headcount"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -302,7 +347,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-03T01:29:27Z",
+    "updated_at": "2026-09-03T02:15:07Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Deletion-first Agent Skill for removing test bloat, verification theater, and speculative fallbacks while preserving beh",
-    "id": "MrZoyo/deslop-GPT",
-    "language": "Python",
-    "name": "MrZoyo/deslop-GPT",
-    "stars": 64,
-    "updated_at": "2026-09-03T00:41:50Z",
-    "url": "https://github.com/MrZoyo/deslop-GPT"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T00:35:01Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
-    "id": "agents-inc/agents-inc",
-    "language": "TypeScript",
-    "name": "agents-inc/agents-inc",
-    "stars": 8,
-    "updated_at": "2026-09-03T00:33:00Z",
-    "url": "https://github.com/agents-inc/agents-inc"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:32:30Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-03T00:29:14Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Shell",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-09-03T00:29:08Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
   }
 ]
