@@ -1,5 +1,32 @@
 [
   {
+    "description": "Security-testing methodology as portable, tool-agnostic agent skills for Claude Code and any agent runtime: white-box bu",
+    "id": "UnboundCompute/security-agent-skills",
+    "language": "\u2014",
+    "name": "UnboundCompute/security-agent-skills",
+    "stars": 5,
+    "updated_at": "2026-09-03T15:12:56Z",
+    "url": "https://github.com/UnboundCompute/security-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T15:11:56Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Plugin: Local Linear AI agent, your favorite harness",
+    "id": "mikhailkogan17/cycler",
+    "language": "JavaScript",
+    "name": "mikhailkogan17/cycler",
+    "stars": 0,
+    "updated_at": "2026-09-03T15:13:52Z",
+    "url": "https://github.com/mikhailkogan17/cycler"
+  },
+  {
     "description": "Multi-model orchestration skill for Claude Code (babel + cdx-sol + agy): 5-model debate/build-debug/acceptance-gate pipe",
     "id": "dT-Tb-labs/babel-orchestration",
     "language": "Shell",
@@ -18,6 +45,15 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
+    "description": "taxue \u7684\u4e13\u4e1a\u6295\u8d44\u5206\u6790 skill",
+    "id": "taxueseek/fund-investment-guide",
+    "language": "Python",
+    "name": "taxueseek/fund-investment-guide",
+    "stars": 16,
+    "updated_at": "2026-09-03T15:09:06Z",
+    "url": "https://github.com/taxueseek/fund-investment-guide"
+  },
+  {
     "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
     "id": "chrislacey89/skills",
     "language": "Shell",
@@ -31,7 +67,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68651,
+    "stars": 68650,
     "updated_at": "2026-09-03T15:08:27Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -79,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-09-03T15:02:10Z",
     "url": "https://github.com/richfrem/agent-plugins-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T15:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skill: Yandex Direct campaign from brief to cabinet draft \u2014 semantics, negatives, ads, Metrika goals. Docs in Rus",
@@ -421,32 +448,5 @@
     "stars": 64,
     "updated_at": "2026-09-03T13:52:10Z",
     "url": "https://github.com/Dianel555/DSkills"
-  },
-  {
-    "description": "The open source operating system for design teams running on AI \u2014 three gates, gate-enforcing Claude skills, a work ledg",
-    "id": "royvergara/design-team-os",
-    "language": "HTML",
-    "name": "royvergara/design-team-os",
-    "stars": 1,
-    "updated_at": "2026-09-03T13:47:50Z",
-    "url": "https://github.com/royvergara/design-team-os"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30690,
-    "updated_at": "2026-09-03T13:46:18Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-03T13:46:09Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
