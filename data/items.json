@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u4e00\u5957\u5199\u7ed9 agent \u8bfb\u7684\u6c42\u804c\u65b9\u6cd5\u8bba\u3002\u4e0d\u662f\u6295\u9012\u811a\u672c\uff0c\u662f\u6bcf\u4e2a\u51b3\u7b56\u70b9\u4e0a\u7684\u5224\u65ad\u7eaa\u5f8b\u3002",
+    "id": "gilgameshcc/ai-native-jobhunt",
+    "language": "JavaScript",
+    "name": "gilgameshcc/ai-native-jobhunt",
+    "stars": 0,
+    "updated_at": "2026-09-03T15:57:40Z",
+    "url": "https://github.com/gilgameshcc/ai-native-jobhunt"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 3,
+    "updated_at": "2026-09-03T15:56:20Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-03T15:54:25Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T15:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Relex plugin for Claude",
     "id": "relexlegal/relex-claude",
     "language": "Python",
@@ -9,20 +45,11 @@
     "url": "https://github.com/relexlegal/relex-claude"
   },
   {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 3,
-    "updated_at": "2026-09-03T15:41:57Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 93084,
+    "stars": 93083,
     "updated_at": "2026-09-03T15:33:32Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -36,15 +63,6 @@
     "url": "https://github.com/zjykzj/DataFlow-CV"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-03T15:30:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
@@ -54,21 +72,12 @@
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
-    "description": "\u4e00\u5957\u5199\u7ed9 agent \u8bfb\u7684\u6c42\u804c\u65b9\u6cd5\u8bba\u3002\u4e0d\u662f\u6295\u9012\u811a\u672c\uff0c\u662f\u6bcf\u4e2a\u51b3\u7b56\u70b9\u4e0a\u7684\u5224\u65ad\u7eaa\u5f8b\u3002",
-    "id": "gilgameshcc/ai-native-jobhunt",
-    "language": "JavaScript",
-    "name": "gilgameshcc/ai-native-jobhunt",
-    "stars": 0,
-    "updated_at": "2026-09-03T15:27:01Z",
-    "url": "https://github.com/gilgameshcc/ai-native-jobhunt"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-03T15:26:04Z",
+    "updated_at": "2026-09-03T15:51:22Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -85,7 +94,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68650,
+    "stars": 68652,
     "updated_at": "2026-09-03T15:24:42Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "hanzhangzzz/agent-skills-zh",
     "stars": 1,
-    "updated_at": "2026-09-03T15:23:15Z",
+    "updated_at": "2026-09-03T15:51:00Z",
     "url": "https://github.com/hanzhangzzz/agent-skills-zh"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-03T15:31:20Z",
+    "updated_at": "2026-09-03T15:54:11Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-03T15:43:58Z",
+    "updated_at": "2026-09-03T15:56:57Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 382,
     "updated_at": "2026-09-03T14:33:54Z",
     "url": "https://github.com/xr843/Master-skill"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:29:54Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   }
 ]
