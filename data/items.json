@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI marketing team for B2B SaaS: 77 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, pai",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 9,
-    "updated_at": "2026-09-04T02:44:29Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-09-04T03:00:03Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
@@ -14,8 +14,98 @@
     "language": "Python",
     "name": "vbkotecha/agentservices-api",
     "stars": 1,
-    "updated_at": "2026-09-04T02:42:55Z",
+    "updated_at": "2026-09-04T02:58:05Z",
     "url": "https://github.com/vbkotecha/agentservices-api"
+  },
+  {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/claude-chart-dashboard",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/claude-chart-dashboard",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:57:56Z",
+    "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 103,
+    "updated_at": "2026-09-04T02:56:29Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68664,
+    "updated_at": "2026-09-04T02:59:13Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Log food to Google Health by talking to Claude \u2014 automatic nutrition lookup via USDA/Open Food Facts, an MCP server on R",
+    "id": "davidbalann/claude-fit-logger",
+    "language": "Python",
+    "name": "davidbalann/claude-fit-logger",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:54:20Z",
+    "url": "https://github.com/davidbalann/claude-fit-logger"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:53:49Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Open-source Claude Code Skills that replace clicking through vendor dashboards \u2014 Stripe, Cloudflare DNS, ElevenLabs, Git",
+    "id": "iansteitz1-eng/aria-skills",
+    "language": "Python",
+    "name": "iansteitz1-eng/aria-skills",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:51:29Z",
+    "url": "https://github.com/iansteitz1-eng/aria-skills"
+  },
+  {
+    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
+    "id": "Machai-Kydoimos/dependabot-audit",
+    "language": "Python",
+    "name": "Machai-Kydoimos/dependabot-audit",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:52:50Z",
+    "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
+  },
+  {
+    "description": "Personal memory across agents",
+    "id": "NevaMind-AI/memU",
+    "language": "Python",
+    "name": "NevaMind-AI/memU",
+    "stars": 14378,
+    "updated_at": "2026-09-04T02:46:44Z",
+    "url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-04T02:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 77 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, pai",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 9,
+    "updated_at": "2026-09-04T02:44:29Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
     "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
@@ -43,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T02:33:36Z",
     "url": "https://github.com/ianx52/opinion-map"
-  },
-  {
-    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, f",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68664,
-    "updated_at": "2026-09-04T02:43:31Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-04T02:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skill for ai overview tracking: find high-ranking pages that Google's AI never cites, graded and tracked over tim",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "JohnWayneeee/casely-qa-skill",
     "stars": 7,
-    "updated_at": "2026-09-04T02:43:46Z",
+    "updated_at": "2026-09-04T02:50:25Z",
     "url": "https://github.com/JohnWayneeee/casely-qa-skill"
   },
   {
@@ -198,15 +270,6 @@
     "url": "https://github.com/Huanyu-Hibiki/Huanyu-Skills"
   },
   {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-09-04T02:39:04Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
     "description": "Agent Skill for Hypawave \u2014 give an AI agent an address: private agent-to-agent messaging, encrypted file handoffs, and b",
     "id": "hypawave/skills",
     "language": "JavaScript",
@@ -223,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T01:49:05Z",
     "url": "https://github.com/GODVvVZzz/text2html2png"
-  },
-  {
-    "description": "Open-source Claude Code Skills that replace clicking through vendor dashboards \u2014 Stripe, Cloudflare DNS, ElevenLabs, Git",
-    "id": "iansteitz1-eng/aria-skills",
-    "language": "Python",
-    "name": "iansteitz1-eng/aria-skills",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:48:49Z",
-    "url": "https://github.com/iansteitz1-eng/aria-skills"
   },
   {
     "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T02:23:15Z",
     "url": "https://github.com/Misoto22/skills"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 4,
-    "updated_at": "2026-09-04T01:40:17Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:39:37Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:38:50Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Moteur de recherche libre sur le droit fran\u00e7ais et europ\u00e9en \u2014 jurisprudence et textes (loi \u00e0 n'importe quelle date), en ",
-    "id": "librejustice/librejustice",
-    "language": "Rust",
-    "name": "librejustice/librejustice",
-    "stars": 28,
-    "updated_at": "2026-09-04T01:38:47Z",
-    "url": "https://github.com/librejustice/librejustice"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-04T01:37:38Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:37:28Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
   }
 ]
