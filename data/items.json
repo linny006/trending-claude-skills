@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u89c2\u70b9\u5730\u56fe Opinion Map \u2014 \u7814\u7a76\u4e00\u4e2a\u8bdd\u9898\u7684\u4e3b\u6d41\u60f3\u6cd5\u6709\u51e0\u79cd\u3002\u7ed9\u5185\u5bb9\u521b\u4f5c\u8005\u7684\u9009\u9898\u4fa6\u5bdf\uff1a\u54ea\u6d3e\u5df2\u8bf4\u70c2\u3001\u54ea\u4e2a\u89d2\u5ea6\u6ca1\u4eba\u5360\u3002\u5ba2\u89c2\u4e2d\u7acb\u3001\u68c0\u7d22\u9a71\u52a8\u3001\u8d8a\u7528\u8d8a\u806a\u660e\u3002",
+    "id": "ianx52/opinion-map",
+    "language": "\u2014",
+    "name": "ianx52/opinion-map",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:28:09Z",
+    "url": "https://github.com/ianx52/opinion-map"
+  },
+  {
+    "description": "Claude skill for ai overview tracking: find high-ranking pages that Google's AI never cites, graded and tracked over tim",
+    "id": "johnisanerd/claude-skill-ai-overview-tracking",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-ai-overview-tracking",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:27:24Z",
+    "url": "https://github.com/johnisanerd/claude-skill-ai-overview-tracking"
+  },
+  {
+    "description": "Claude skill: build a prioritized page rewrite queue from your Google Search Console data joined with live AI Overview c",
+    "id": "johnisanerd/claude-skill-search-console-ai-overview",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-search-console-ai-overview",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:27:22Z",
+    "url": "https://github.com/johnisanerd/claude-skill-search-console-ai-overview"
+  },
+  {
+    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
+    "id": "alternative-intelligence-cp/claude-skills",
+    "language": "Python",
+    "name": "alternative-intelligence-cp/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:19:18Z",
+    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
+  },
+  {
+    "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
+    "id": "glichtenthal/agent-skills",
+    "language": "HTML",
+    "name": "glichtenthal/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:18:35Z",
+    "url": "https://github.com/glichtenthal/agent-skills"
+  },
+  {
+    "description": "Open-source product leadership skills from the Mission Built ecosystem. The book teaches the principles. The Loadout put",
+    "id": "missionbuilt/loadout",
+    "language": "HTML",
+    "name": "missionbuilt/loadout",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:18:22Z",
+    "url": "https://github.com/missionbuilt/loadout"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-04T02:15:32Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
     "id": "Zhonghao1995/agentic-swmm-workflow",
     "language": "Python",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T02:12:14Z",
     "url": "https://github.com/akiotanaka847/video-skill"
-  },
-  {
-    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
-    "id": "alternative-intelligence-cp/claude-skills",
-    "language": "Python",
-    "name": "alternative-intelligence-cp/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-04T02:12:06Z",
-    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
   },
   {
     "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
@@ -63,15 +117,6 @@
     "url": "https://github.com/seokhoonj/newswatcher"
   },
   {
-    "description": "\u89c2\u70b9\u5730\u56fe Opinion Map \u2014 \u7814\u7a76\u4e00\u4e2a\u8bdd\u9898\u7684\u4e3b\u6d41\u60f3\u6cd5\u6709\u51e0\u79cd\u3002\u7ed9\u5185\u5bb9\u521b\u4f5c\u8005\u7684\u9009\u9898\u4fa6\u5bdf\uff1a\u54ea\u6d3e\u5df2\u8bf4\u70c2\u3001\u54ea\u4e2a\u89d2\u5ea6\u6ca1\u4eba\u5360\u3002\u5ba2\u89c2\u4e2d\u7acb\u3001\u68c0\u7d22\u9a71\u52a8\u3001\u8d8a\u7528\u8d8a\u806a\u660e\u3002",
-    "id": "ianx52/opinion-map",
-    "language": "\u2014",
-    "name": "ianx52/opinion-map",
-    "stars": 1,
-    "updated_at": "2026-09-04T02:06:02Z",
-    "url": "https://github.com/ianx52/opinion-map"
-  },
-  {
     "description": "The open source operating system for design teams running on AI \u2014 three gates, gate-enforcing Claude skills, a work ledg",
     "id": "royvergara/design-team-os",
     "language": "HTML",
@@ -86,17 +131,8 @@
     "language": "Python",
     "name": "JohnWayneeee/casely-qa-skill",
     "stars": 7,
-    "updated_at": "2026-09-04T02:11:11Z",
+    "updated_at": "2026-09-04T02:28:40Z",
     "url": "https://github.com/JohnWayneeee/casely-qa-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-04T02:00:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -131,7 +167,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-09-04T02:06:30Z",
+    "updated_at": "2026-09-04T02:26:44Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "Misoto22/skills",
     "stars": 0,
-    "updated_at": "2026-09-04T02:06:23Z",
+    "updated_at": "2026-09-04T02:23:15Z",
     "url": "https://github.com/Misoto22/skills"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T01:36:19Z",
     "url": "https://github.com/aymannaim822-create/claude-code-source"
-  },
-  {
-    "description": "Run Claude Code locally with TUI and Electron desktop support, plus flexible Anthropic/OpenAI-compatible API access and ",
-    "id": "briefless-orgasm922/claude-code-t8",
-    "language": "\u2014",
-    "name": "briefless-orgasm922/claude-code-t8",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:36:15Z",
-    "url": "https://github.com/briefless-orgasm922/claude-code-t8"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-04T01:35:53Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
-    "id": "Defiladeboarfish90/agent-memory",
-    "language": "TypeScript",
-    "name": "Defiladeboarfish90/agent-memory",
-    "stars": 2,
-    "updated_at": "2026-09-04T01:35:52Z",
-    "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Build a tiny Claude Code clone in Python with agent loop, tools, permissions, and context management in ~800 lines",
-    "id": "Sleeknessbounder869/miniClaudeCode",
-    "language": "\u2014",
-    "name": "Sleeknessbounder869/miniClaudeCode",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:35:50Z",
-    "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
   }
 ]
