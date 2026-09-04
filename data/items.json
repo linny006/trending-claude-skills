@@ -5,8 +5,53 @@
     "language": "\u2014",
     "name": "Ahmad-G1/ppc-audit-lite",
     "stars": 0,
-    "updated_at": "2026-09-04T10:59:25Z",
+    "updated_at": "2026-09-04T11:06:00Z",
     "url": "https://github.com/Ahmad-G1/ppc-audit-lite"
+  },
+  {
+    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
+    "id": "PollyGlot/google-play-cli",
+    "language": "Go",
+    "name": "PollyGlot/google-play-cli",
+    "stars": 5,
+    "updated_at": "2026-09-04T11:05:53Z",
+    "url": "https://github.com/PollyGlot/google-play-cli"
+  },
+  {
+    "description": "Seven portable review skills that make any coding agent file evidence-backed, severity-graded audits: bugs, security, te",
+    "id": "specialone0007/review-skills",
+    "language": "Python",
+    "name": "specialone0007/review-skills",
+    "stars": 1,
+    "updated_at": "2026-09-04T11:04:52Z",
+    "url": "https://github.com/specialone0007/review-skills"
+  },
+  {
+    "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
+    "id": "seokhoonj/newswatcher",
+    "language": "Python",
+    "name": "seokhoonj/newswatcher",
+    "stars": 0,
+    "updated_at": "2026-09-04T11:04:22Z",
+    "url": "https://github.com/seokhoonj/newswatcher"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-09-04T11:04:18Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-04T11:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Personal skills marketplace \u2014 add it once, install any plugin for terminal, devops... and whatever else comes up",
@@ -25,6 +70,15 @@
     "stars": 60,
     "updated_at": "2026-09-04T10:57:59Z",
     "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 5,
+    "updated_at": "2026-09-04T10:57:30Z",
+    "url": "https://github.com/using-system/oddyssey"
   },
   {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
@@ -68,7 +122,7 @@
     "language": "Rust",
     "name": "JanYork/llm-wiki-cli",
     "stars": 50,
-    "updated_at": "2026-09-04T10:53:06Z",
+    "updated_at": "2026-09-04T11:02:36Z",
     "url": "https://github.com/JanYork/llm-wiki-cli"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 25,
     "updated_at": "2026-09-04T10:49:52Z",
     "url": "https://github.com/fusengine/agents"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:49:37Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
     "description": "Your assistant tells you what you want to hear, and doesn't know when it's making things up. HEXAGRAM adds the missing l",
@@ -162,24 +207,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-04T10:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Seven portable review skills that make any coding agent file evidence-backed, severity-graded audits: bugs, security, te",
-    "id": "specialone0007/review-skills",
-    "language": "Python",
-    "name": "specialone0007/review-skills",
-    "stars": 1,
-    "updated_at": "2026-09-04T10:51:06Z",
-    "url": "https://github.com/specialone0007/review-skills"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68674,
-    "updated_at": "2026-09-04T10:58:42Z",
+    "updated_at": "2026-09-04T11:05:32Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "stars": 2429,
-    "updated_at": "2026-09-04T10:37:10Z",
+    "updated_at": "2026-09-04T11:07:20Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
@@ -295,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-09-04T10:30:53Z",
     "url": "https://github.com/dinhanhthi/coding-friend"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 5,
-    "updated_at": "2026-09-04T10:57:30Z",
-    "url": "https://github.com/using-system/oddyssey"
   },
   {
     "description": "Skills I use with Claude, one folder each. Take what helps you.",
@@ -391,7 +409,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 93137,
+    "stars": 93139,
     "updated_at": "2026-09-04T10:13:50Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T10:08:03Z",
     "url": "https://github.com/SWHee/skills"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-09-04T10:07:05Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Alireza Rezvani CTO and AI enthusiast - Addicted to Claude Code and Openclaw",
-    "id": "alirezarezvani/alirezarezvani",
-    "language": "\u2014",
-    "name": "alirezarezvani/alirezarezvani",
-    "stars": 26,
-    "updated_at": "2026-09-04T09:59:43Z",
-    "url": "https://github.com/alirezarezvani/alirezarezvani"
   }
 ]
