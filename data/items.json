@@ -1,5 +1,86 @@
 [
   {
+    "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
+    "id": "glichtenthal/agent-skills",
+    "language": "HTML",
+    "name": "glichtenthal/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-04T03:44:22Z",
+    "url": "https://github.com/glichtenthal/agent-skills"
+  },
+  {
+    "description": "a collection of ai skills meant for roblox development",
+    "id": "HungryKelvin123/dstack",
+    "language": "JavaScript",
+    "name": "HungryKelvin123/dstack",
+    "stars": 1,
+    "updated_at": "2026-09-04T03:43:31Z",
+    "url": "https://github.com/HungryKelvin123/dstack"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-09-04T03:40:42Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
+    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
+    "id": "bokyostudio/pg-practice-knowledgebase",
+    "language": "HTML",
+    "name": "bokyostudio/pg-practice-knowledgebase",
+    "stars": 0,
+    "updated_at": "2026-09-04T03:38:23Z",
+    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 25,
+    "updated_at": "2026-09-04T03:37:31Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
+    "id": "mateusands/claude-code-crew-kit",
+    "language": "JavaScript",
+    "name": "mateusands/claude-code-crew-kit",
+    "stars": 0,
+    "updated_at": "2026-09-04T03:38:05Z",
+    "url": "https://github.com/mateusands/claude-code-crew-kit"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 0,
+    "updated_at": "2026-09-04T03:35:43Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 86,
+    "updated_at": "2026-09-04T03:31:17Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-04T03:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
     "id": "lenamonj/jeffy-loop",
     "language": "Shell",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "JohnWayneeee/casely-qa-skill",
     "stars": 7,
-    "updated_at": "2026-09-04T03:26:53Z",
+    "updated_at": "2026-09-04T03:35:59Z",
     "url": "https://github.com/JohnWayneeee/casely-qa-skill"
   },
   {
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68666,
-    "updated_at": "2026-09-04T03:30:04Z",
+    "updated_at": "2026-09-04T03:37:35Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -52,15 +133,6 @@
     "stars": 23,
     "updated_at": "2026-09-04T03:25:16Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "a collection of ai skills meant for roblox development",
-    "id": "HungryKelvin123/dstack",
-    "language": "JavaScript",
-    "name": "HungryKelvin123/dstack",
-    "stars": 1,
-    "updated_at": "2026-09-04T03:24:05Z",
-    "url": "https://github.com/HungryKelvin123/dstack"
   },
   {
     "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
@@ -106,15 +178,6 @@
     "stars": 49,
     "updated_at": "2026-09-04T03:15:51Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-04T03:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Creative AI Skills for Codex, Claude Code, Cursor, Deepseek harness and any Agent Skills-compatible runtime.",
@@ -194,7 +257,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 103,
-    "updated_at": "2026-09-04T03:27:36Z",
+    "updated_at": "2026-09-04T03:39:53Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "Machai-Kydoimos/dependabot-audit",
     "stars": 0,
-    "updated_at": "2026-09-04T02:52:50Z",
+    "updated_at": "2026-09-04T03:44:54Z",
     "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
   },
   {
@@ -241,6 +304,15 @@
     "stars": 9,
     "updated_at": "2026-09-04T02:44:29Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "\u628a\u5b83\u505a\u5f97\u597d\u7684\u4e00\u6bb5\u4f1a\u8bdd\u9006\u5411\u84b8\u998f\u6210\u5c97\u4f4d\u7ea7 skill\uff08\u5143\u6280\u80fd\uff09\u3002\u8f93\u5165=\u4f1a\u8bdd+\u5c97\u4f4d\uff0c\u8f93\u51fa=\u53ef\u590d\u7528 SKILL.md\uff0c\u7531\u4f60\u5bf9\u7167\u8bc1\u636e\u5224\u8fbe\u6807\u3002Meta-skill: distill a good session into a role-level sk",
+    "id": "shiyu52524/whetstone",
+    "language": "\u2014",
+    "name": "shiyu52524/whetstone",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:37:06Z",
+    "url": "https://github.com/shiyu52524/whetstone"
   },
   {
     "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
@@ -295,24 +367,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T02:19:18Z",
     "url": "https://github.com/alternative-intelligence-cp/claude-skills"
-  },
-  {
-    "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
-    "id": "glichtenthal/agent-skills",
-    "language": "HTML",
-    "name": "glichtenthal/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-04T02:18:35Z",
-    "url": "https://github.com/glichtenthal/agent-skills"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-04T02:14:28Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   },
   {
     "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T01:53:57Z",
     "url": "https://github.com/Huanyu-Hibiki/Huanyu-Skills"
-  },
-  {
-    "description": "Agent Skill for Hypawave \u2014 give an AI agent an address: private agent-to-agent messaging, encrypted file handoffs, and b",
-    "id": "hypawave/skills",
-    "language": "JavaScript",
-    "name": "hypawave/skills",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:55:37Z",
-    "url": "https://github.com/hypawave/skills"
-  },
-  {
-    "description": "Turn structured prose into polished, self-contained HTML diagrams - 9 chart types x 5 themes, with optional high-res PNG",
-    "id": "GODVvVZzz/text2html2png",
-    "language": "HTML",
-    "name": "GODVvVZzz/text2html2png",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:49:05Z",
-    "url": "https://github.com/GODVvVZzz/text2html2png"
-  },
-  {
-    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
-    "id": "boshu2/agentops",
-    "language": "Shell",
-    "name": "boshu2/agentops",
-    "stars": 433,
-    "updated_at": "2026-09-04T01:48:45Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-09-04T01:48:29Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
-  },
-  {
-    "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
-    "id": "Joshuadoroja33/Ronnier-skill",
-    "language": "PowerShell",
-    "name": "Joshuadoroja33/Ronnier-skill",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:48:05Z",
-    "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Ship verified marketing copy with adversarial checks \u2014 every factual claim traced to fetched sources before it goes live",
-    "id": "mucinous-riposte867/evidence-based-copywriting",
-    "language": "Python",
-    "name": "mucinous-riposte867/evidence-based-copywriting",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:46:40Z",
-    "url": "https://github.com/mucinous-riposte867/evidence-based-copywriting"
   }
 ]
