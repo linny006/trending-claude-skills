@@ -1,12 +1,48 @@
 [
   {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-04T11:12:42Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Lab it. Plan it. Ship it. Agent skills for architecture, GitHub planning and delivery, with stack-specific companions.",
+    "id": "elieandraos/agentic-engineering",
+    "language": "HTML",
+    "name": "elieandraos/agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-04T11:10:45Z",
+    "url": "https://github.com/elieandraos/agentic-engineering"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-09-04T11:08:25Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
     "description": "Free edition \u2014 a senior-level Amazon PPC audit, installable as a Claude Skill.",
     "id": "Ahmad-G1/ppc-audit-lite",
     "language": "\u2014",
     "name": "Ahmad-G1/ppc-audit-lite",
     "stars": 0,
-    "updated_at": "2026-09-04T11:06:00Z",
+    "updated_at": "2026-09-04T11:08:12Z",
     "url": "https://github.com/Ahmad-G1/ppc-audit-lite"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-04T11:07:54Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
@@ -16,6 +52,15 @@
     "stars": 5,
     "updated_at": "2026-09-04T11:05:53Z",
     "url": "https://github.com/PollyGlot/google-play-cli"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68675,
+    "updated_at": "2026-09-04T11:12:10Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Seven portable review skills that make any coding agent file evidence-backed, severity-graded audits: bugs, security, te",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T11:04:18Z",
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-04T11:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Personal skills marketplace \u2014 add it once, install any plugin for terminal, devops... and whatever else comes up",
@@ -171,15 +207,6 @@
     "url": "https://github.com/hanzhangzzz/agent-skills-zh"
   },
   {
-    "description": "Lab it. Plan it. Ship it. Agent skills for architecture, GitHub planning and delivery, with stack-specific companions.",
-    "id": "elieandraos/agentic-engineering",
-    "language": "HTML",
-    "name": "elieandraos/agentic-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:48:45Z",
-    "url": "https://github.com/elieandraos/agentic-engineering"
-  },
-  {
     "description": "Engineering-readiness audits for AI-built apps. A Claude Code and Codex plugin that finds production risks across ten do",
     "id": "gul-labs/craftsman-marketplace",
     "language": "Python",
@@ -234,15 +261,6 @@
     "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-09-04T10:41:16Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -250,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-09-04T10:40:41Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68674,
-    "updated_at": "2026-09-04T11:05:32Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Generative art skill for Claude Code \u2014 deterministic, hash-seeded, onchain-ready",
@@ -284,7 +293,7 @@
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "stars": 2429,
-    "updated_at": "2026-09-04T11:07:20Z",
+    "updated_at": "2026-09-04T11:09:47Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T10:11:31Z",
     "url": "https://github.com/alexis-morain/verbatim-linkedin"
-  },
-  {
-    "description": "\ucee4\uc2a4\ud140 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac.",
-    "id": "SWHee/skills",
-    "language": "Shell",
-    "name": "SWHee/skills",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:08:03Z",
-    "url": "https://github.com/SWHee/skills"
   }
 ]
