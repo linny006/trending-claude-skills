@@ -1,5 +1,104 @@
 [
   {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 25,
+    "updated_at": "2026-09-04T02:14:28Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
+    "id": "thepictishbeast/claude-tools",
+    "language": "Rust",
+    "name": "thepictishbeast/claude-tools",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:12:51Z",
+    "url": "https://github.com/thepictishbeast/claude-tools"
+  },
+  {
+    "description": "Skills propias para Claude Code. /watch le da ojos a Claude: frames + transcripci\u00f3n, con espa\u00f1ol de primera, cach\u00e9 y not",
+    "id": "akiotanaka847/video-skill",
+    "language": "Python",
+    "name": "akiotanaka847/video-skill",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:12:14Z",
+    "url": "https://github.com/akiotanaka847/video-skill"
+  },
+  {
+    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
+    "id": "alternative-intelligence-cp/claude-skills",
+    "language": "Python",
+    "name": "alternative-intelligence-cp/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:12:06Z",
+    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 6,
+    "updated_at": "2026-09-04T02:15:23Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "NestJS backend for a platform connecting installed doctors with replacement doctors in France, cutting administrative fr",
+    "id": "lellis-medical-group/kineo-nest-backend",
+    "language": "TypeScript",
+    "name": "lellis-medical-group/kineo-nest-backend",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:09:58Z",
+    "url": "https://github.com/lellis-medical-group/kineo-nest-backend"
+  },
+  {
+    "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
+    "id": "seokhoonj/newswatcher",
+    "language": "Python",
+    "name": "seokhoonj/newswatcher",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:06:45Z",
+    "url": "https://github.com/seokhoonj/newswatcher"
+  },
+  {
+    "description": "\u89c2\u70b9\u5730\u56fe Opinion Map \u2014 \u7814\u7a76\u4e00\u4e2a\u8bdd\u9898\u7684\u4e3b\u6d41\u60f3\u6cd5\u6709\u51e0\u79cd\u3002\u7ed9\u5185\u5bb9\u521b\u4f5c\u8005\u7684\u9009\u9898\u4fa6\u5bdf\uff1a\u54ea\u6d3e\u5df2\u8bf4\u70c2\u3001\u54ea\u4e2a\u89d2\u5ea6\u6ca1\u4eba\u5360\u3002\u5ba2\u89c2\u4e2d\u7acb\u3001\u68c0\u7d22\u9a71\u52a8\u3001\u8d8a\u7528\u8d8a\u806a\u660e\u3002",
+    "id": "ianx52/opinion-map",
+    "language": "\u2014",
+    "name": "ianx52/opinion-map",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:06:02Z",
+    "url": "https://github.com/ianx52/opinion-map"
+  },
+  {
+    "description": "The open source operating system for design teams running on AI \u2014 three gates, gate-enforcing Claude skills, a work ledg",
+    "id": "royvergara/design-team-os",
+    "language": "HTML",
+    "name": "royvergara/design-team-os",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:05:23Z",
+    "url": "https://github.com/royvergara/design-team-os"
+  },
+  {
+    "description": "AI QA Lead that turns requirements (PDF, DOCX, XLSX) into TestRail-ready test cases in one conversation. Free, open-sour",
+    "id": "JohnWayneeee/casely-qa-skill",
+    "language": "Python",
+    "name": "JohnWayneeee/casely-qa-skill",
+    "stars": 7,
+    "updated_at": "2026-09-04T02:11:11Z",
+    "url": "https://github.com/JohnWayneeee/casely-qa-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-04T02:00:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -32,7 +131,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-09-04T01:52:27Z",
+    "updated_at": "2026-09-04T02:06:30Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T01:55:37Z",
     "url": "https://github.com/hypawave/skills"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-04T01:50:20Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   },
   {
     "description": "Turn structured prose into polished, self-contained HTML diagrams - 9 chart types x 5 themes, with optional high-res PNG",
@@ -153,15 +243,6 @@
     "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-04T01:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
     "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
     "language": "TypeScript",
@@ -239,7 +320,7 @@
     "language": "Python",
     "name": "Misoto22/skills",
     "stars": 0,
-    "updated_at": "2026-09-04T01:41:54Z",
+    "updated_at": "2026-09-04T02:06:23Z",
     "url": "https://github.com/Misoto22/skills"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T01:35:50Z",
     "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
-  },
-  {
-    "description": "Explore a public Claude Code source snapshot for security research, supply-chain analysis, and CLI architecture review",
-    "id": "Angeliquetreated862/claude-code-src",
-    "language": "TypeScript",
-    "name": "Angeliquetreated862/claude-code-src",
-    "stars": 2,
-    "updated_at": "2026-09-04T01:35:47Z",
-    "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:35:44Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Add self-learning voice notifications for Claude Code with edge-tts, phrase pools, priority queues, and anti-repeat hand",
-    "id": "Secondvisitation783/claude-voice-system",
-    "language": "\u2014",
-    "name": "Secondvisitation783/claude-voice-system",
-    "stars": 1,
-    "updated_at": "2026-09-04T01:35:41Z",
-    "url": "https://github.com/Secondvisitation783/claude-voice-system"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:35:40Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-04T01:35:34Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-09-04T01:35:31Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
-  },
-  {
-    "description": "Use Codex in Claude Code for code reviews and delegated tasks with background job control",
-    "id": "carolafortified787/codex-plugin-cc",
-    "language": "JavaScript",
-    "name": "carolafortified787/codex-plugin-cc",
-    "stars": 1,
-    "updated_at": "2026-09-04T01:35:19Z",
-    "url": "https://github.com/carolafortified787/codex-plugin-cc"
-  },
-  {
-    "description": "Explore Claude Code CLI source code for learning, analysis, and TypeScript Bun CLI tool design",
-    "id": "tapperisobar941/claude-code-cli",
-    "language": "\u2014",
-    "name": "tapperisobar941/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:35:16Z",
-    "url": "https://github.com/tapperisobar941/claude-code-cli"
-  },
-  {
-    "description": "Design and analyze modular software systems with Balanced Coupling to reduce technical debt and improve architecture",
-    "id": "ardellashuddery616/modularity",
-    "language": "HTML",
-    "name": "ardellashuddery616/modularity",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:34:55Z",
-    "url": "https://github.com/ardellashuddery616/modularity"
   }
 ]
