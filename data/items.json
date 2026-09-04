@@ -1,11 +1,137 @@
 [
   {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68669,
+    "updated_at": "2026-09-04T06:29:50Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and t",
+    "id": "techygarg/lattice",
+    "language": "Shell",
+    "name": "techygarg/lattice",
+    "stars": 184,
+    "updated_at": "2026-09-04T06:29:03Z",
+    "url": "https://github.com/techygarg/lattice"
+  },
+  {
+    "description": "A Claude Skill that gives algorithm explanations, code review, and coursework a fixed, preduictable and helpful structre",
+    "id": "ayiii-a/algorithm_tutor",
+    "language": "Python",
+    "name": "ayiii-a/algorithm_tutor",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:27:27Z",
+    "url": "https://github.com/ayiii-a/algorithm_tutor"
+  },
+  {
+    "description": "Find the dead weight in your agent's skill library: what it costs per message, which skills never fire, and which SKILL.",
+    "id": "Galactic717/skillrot",
+    "language": "Python",
+    "name": "Galactic717/skillrot",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:26:53Z",
+    "url": "https://github.com/Galactic717/skillrot"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2424,
+    "updated_at": "2026-09-04T06:26:44Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
+    "id": "alternative-intelligence-cp/claude-skills",
+    "language": "Python",
+    "name": "alternative-intelligence-cp/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:24:24Z",
+    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "JavaScript",
+    "name": "geml-spec/geml",
+    "stars": 25,
+    "updated_at": "2026-09-04T06:23:11Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "AI QA Lead that turns requirements (PDF, DOCX, XLSX) into TestRail-ready test cases in one conversation. Free, open-sour",
+    "id": "JohnWayneeee/casely-qa-skill",
+    "language": "Python",
+    "name": "JohnWayneeee/casely-qa-skill",
+    "stars": 7,
+    "updated_at": "2026-09-04T06:20:52Z",
+    "url": "https://github.com/JohnWayneeee/casely-qa-skill"
+  },
+  {
+    "description": "Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co",
+    "id": "jackneil/claude-jacked",
+    "language": "Python",
+    "name": "jackneil/claude-jacked",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:20:57Z",
+    "url": "https://github.com/jackneil/claude-jacked"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:19:46Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 49,
+    "updated_at": "2026-09-04T06:17:43Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
+    "id": "LinklyAI/best-skills",
+    "language": "\u2014",
+    "name": "LinklyAI/best-skills",
+    "stars": 396,
+    "updated_at": "2026-09-04T06:17:05Z",
+    "url": "https://github.com/LinklyAI/best-skills"
+  },
+  {
+    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
+    "id": "kcy4334-lgtm/translate-book-arxiv",
+    "language": "Python",
+    "name": "kcy4334-lgtm/translate-book-arxiv",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:16:27Z",
+    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-04T06:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Creative AI Skills for Codex, Claude Code, Cursor, Deepseek harness and any Agent Skills-compatible runtime.",
     "id": "weshopai/weshop-skill-package",
     "language": "TypeScript",
     "name": "weshopai/weshop-skill-package",
     "stars": 1,
-    "updated_at": "2026-09-04T06:10:03Z",
+    "updated_at": "2026-09-04T06:23:17Z",
     "url": "https://github.com/weshopai/weshop-skill-package"
   },
   {
@@ -16,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T06:09:21Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
-    "language": "JavaScript",
-    "name": "geml-spec/geml",
-    "stars": 25,
-    "updated_at": "2026-09-04T06:09:14Z",
-    "url": "https://github.com/geml-spec/geml"
   },
   {
     "description": "AI agent skills for applying Feature-Sliced Design (FSD) v2.1 in frontend projects.",
@@ -43,15 +160,6 @@
     "stars": 24327,
     "updated_at": "2026-09-04T06:05:32Z",
     "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-04T06:00:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -77,17 +185,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-04T05:58:50Z",
+    "updated_at": "2026-09-04T06:22:57Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
-    "id": "alternative-intelligence-cp/claude-skills",
-    "language": "Python",
-    "name": "alternative-intelligence-cp/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-04T05:58:45Z",
-    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -103,18 +202,9 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33722,
+    "stars": 33724,
     "updated_at": "2026-09-04T05:56:05Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68666,
-    "updated_at": "2026-09-04T06:14:04Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Goldilocks \u2014 AI Agent Project Orchestrator. A lighter, adaptive Superpowers alternative for Codex, Claude Code, and stru",
@@ -124,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T05:55:19Z",
     "url": "https://github.com/blackstone2333/goldilocks"
-  },
-  {
-    "description": "A Claude Skill that gives algorithm explanations, code review, and coursework a fixed, preduictable and helpful structre",
-    "id": "ayiii-a/algorithm_tutor",
-    "language": "Python",
-    "name": "ayiii-a/algorithm_tutor",
-    "stars": 0,
-    "updated_at": "2026-09-04T05:54:01Z",
-    "url": "https://github.com/ayiii-a/algorithm_tutor"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -185,7 +266,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-04T06:03:39Z",
+    "updated_at": "2026-09-04T06:26:56Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-04T04:59:57Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Portable, configurable agent skills for reliable everyday work.",
-    "id": "Misoto22/skills",
-    "language": "Python",
-    "name": "Misoto22/skills",
-    "stars": 0,
-    "updated_at": "2026-09-04T04:59:13Z",
-    "url": "https://github.com/Misoto22/skills"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 103,
-    "updated_at": "2026-09-04T06:12:42Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-04T04:56:35Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Turkish humanizer skill for Claude and Claude Code. Rewrites AI-sounding Turkish into Turkish a person would have writte",
-    "id": "durmazoguzhan/turkish-humanify",
-    "language": "Shell",
-    "name": "durmazoguzhan/turkish-humanify",
-    "stars": 3,
-    "updated_at": "2026-09-04T04:52:13Z",
-    "url": "https://github.com/durmazoguzhan/turkish-humanify"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-09-04T04:51:08Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
-    "id": "hanzhangzzz/agent-skills-zh",
-    "language": "Python",
-    "name": "hanzhangzzz/agent-skills-zh",
-    "stars": 1,
-    "updated_at": "2026-09-04T05:49:02Z",
-    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-09-04T04:45:05Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "The missing tool to sift your Claude Code sessions: regex search across all record types, recover files, extract images,",
-    "id": "wdhwg001/csift",
-    "language": "Rust",
-    "name": "wdhwg001/csift",
-    "stars": 29,
-    "updated_at": "2026-09-04T04:45:01Z",
-    "url": "https://github.com/wdhwg001/csift"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-04T04:42:12Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
