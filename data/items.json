@@ -1,11 +1,56 @@
 [
   {
+    "description": "Creative AI Skills for Codex, Claude Code, Cursor, Deepseek harness and any Agent Skills-compatible runtime.",
+    "id": "weshopai/weshop-skill-package",
+    "language": "TypeScript",
+    "name": "weshopai/weshop-skill-package",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:10:03Z",
+    "url": "https://github.com/weshopai/weshop-skill-package"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:09:21Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "JavaScript",
+    "name": "geml-spec/geml",
+    "stars": 25,
+    "updated_at": "2026-09-04T06:09:14Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "AI agent skills for applying Feature-Sliced Design (FSD) v2.1 in frontend projects.",
+    "id": "feature-sliced/skills",
+    "language": "\u2014",
+    "name": "feature-sliced/skills",
+    "stars": 91,
+    "updated_at": "2026-09-04T06:11:54Z",
+    "url": "https://github.com/feature-sliced/skills"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "TypeScript",
+    "name": "titanwings/distilly",
+    "stars": 24327,
+    "updated_at": "2026-09-04T06:05:32Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 36,
-    "updated_at": "2026-09-04T05:59:35Z",
+    "updated_at": "2026-09-04T06:00:11Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -58,9 +103,18 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33721,
+    "stars": 33722,
     "updated_at": "2026-09-04T05:56:05Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68666,
+    "updated_at": "2026-09-04T06:14:04Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Goldilocks \u2014 AI Agent Project Orchestrator. A lighter, adaptive Superpowers alternative for Codex, Claude Code, and stru",
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T05:55:19Z",
     "url": "https://github.com/blackstone2333/goldilocks"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68665,
-    "updated_at": "2026-09-04T05:55:44Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "A Claude Skill that gives algorithm explanations, code review, and coursework a fixed, preduictable and helpful structre",
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T05:53:19Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
-    "language": "JavaScript",
-    "name": "geml-spec/geml",
-    "stars": 25,
-    "updated_at": "2026-09-04T05:52:18Z",
-    "url": "https://github.com/geml-spec/geml"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -149,7 +185,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-04T05:59:44Z",
+    "updated_at": "2026-09-04T06:03:39Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 103,
-    "updated_at": "2026-09-04T04:58:28Z",
+    "updated_at": "2026-09-04T06:12:42Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -364,7 +400,7 @@
     "id": "durmazoguzhan/turkish-humanify",
     "language": "Shell",
     "name": "durmazoguzhan/turkish-humanify",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-09-04T04:52:13Z",
     "url": "https://github.com/durmazoguzhan/turkish-humanify"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T04:42:12Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
-    "id": "savanna0425/skillhot",
-    "language": "JavaScript",
-    "name": "savanna0425/skillhot",
-    "stars": 36,
-    "updated_at": "2026-09-04T04:42:08Z",
-    "url": "https://github.com/savanna0425/skillhot"
-  },
-  {
-    "description": "Personal Claude Code plugin marketplace",
-    "id": "foyzulkarim/skills",
-    "language": "JavaScript",
-    "name": "foyzulkarim/skills",
-    "stars": 41,
-    "updated_at": "2026-09-04T04:41:06Z",
-    "url": "https://github.com/foyzulkarim/skills"
-  },
-  {
-    "description": "A plugin marketplace is a list your editor can install from. This one holds seven developer tools for Claude Code, and y",
-    "id": "Aboudjem/10x",
-    "language": "JavaScript",
-    "name": "Aboudjem/10x",
-    "stars": 1,
-    "updated_at": "2026-09-04T04:30:06Z",
-    "url": "https://github.com/Aboudjem/10x"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-04T05:17:24Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   }
 ]
