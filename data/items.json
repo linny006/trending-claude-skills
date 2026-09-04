@@ -1,12 +1,120 @@
 [
   {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 104,
+    "updated_at": "2026-09-04T22:15:08Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
+    "id": "fattain-naime/engineering-docs",
+    "language": "JavaScript",
+    "name": "fattain-naime/engineering-docs",
+    "stars": 5,
+    "updated_at": "2026-09-04T22:13:29Z",
+    "url": "https://github.com/fattain-naime/engineering-docs"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 6,
+    "updated_at": "2026-09-04T22:12:15Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
     "description": "74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grade, CI gates",
     "id": "JasonColapietro/suede-creator-skills",
     "language": "JavaScript",
     "name": "JasonColapietro/suede-creator-skills",
     "stars": 129,
-    "updated_at": "2026-09-04T21:59:50Z",
+    "updated_at": "2026-09-04T22:12:00Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Shell",
+    "name": "boshu2/agentops",
+    "stars": 433,
+    "updated_at": "2026-09-04T22:11:17Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "A browser inside your terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "Rust",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 2647,
+    "updated_at": "2026-09-04T22:11:05Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6657,
+    "updated_at": "2026-09-04T22:10:18Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Two-layer audit for text that reads as machine-written: surface tells plus discourse tells, layered by text type.",
+    "id": "thebgtagency/ai-writing-audit",
+    "language": "\u2014",
+    "name": "thebgtagency/ai-writing-audit",
+    "stars": 0,
+    "updated_at": "2026-09-04T22:06:29Z",
+    "url": "https://github.com/thebgtagency/ai-writing-audit"
+  },
+  {
+    "description": "Biblion is a learning platform. Authors create courses in Sanity, and a Next.js site serves them to learners. What sets ",
+    "id": "Aymenjdily/biblion-testing-agentic-ai-skills",
+    "language": "TypeScript",
+    "name": "Aymenjdily/biblion-testing-agentic-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-09-04T22:04:43Z",
+    "url": "https://github.com/Aymenjdily/biblion-testing-agentic-ai-skills"
+  },
+  {
+    "description": "Claude Plugin: Local Linear AI agent, your favorite harness",
+    "id": "mikhailkogan17/cycler",
+    "language": "JavaScript",
+    "name": "mikhailkogan17/cycler",
+    "stars": 0,
+    "updated_at": "2026-09-04T22:14:00Z",
+    "url": "https://github.com/mikhailkogan17/cycler"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19145,
+    "updated_at": "2026-09-04T22:11:05Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
+    "id": "alternative-intelligence-cp/claude-skills",
+    "language": "Python",
+    "name": "alternative-intelligence-cp/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-04T22:01:01Z",
+    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-04T22:00:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -54,15 +162,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 104,
-    "updated_at": "2026-09-04T21:50:26Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
     "id": "notque/vexjoy-agent",
     "language": "Python",
@@ -77,7 +176,7 @@
     "language": "Python",
     "name": "Misoto22/skills",
     "stars": 0,
-    "updated_at": "2026-09-04T21:49:34Z",
+    "updated_at": "2026-09-04T22:03:35Z",
     "url": "https://github.com/Misoto22/skills"
   },
   {
@@ -88,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T21:47:59Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 6,
-    "updated_at": "2026-09-04T21:45:47Z",
-    "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-04T21:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI QA Lead that turns requirements (PDF, DOCX, XLSX) into TestRail-ready test cases in one conversation. Free, open-sour",
@@ -124,15 +205,6 @@
     "stars": 5,
     "updated_at": "2026-09-04T21:43:30Z",
     "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
-    "description": "Biblion is a learning platform. Authors create courses in Sanity, and a Next.js site serves them to learners. What sets ",
-    "id": "Aymenjdily/biblion-testing-agentic-ai-skills",
-    "language": "TypeScript",
-    "name": "Aymenjdily/biblion-testing-agentic-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-09-04T21:41:28Z",
-    "url": "https://github.com/Aymenjdily/biblion-testing-agentic-ai-skills"
   },
   {
     "description": "Claude Code plugin marketplace: 8 engineering skills (wagner-skills) + a 14-skill reverse-engineering pipeline that turn",
@@ -189,15 +261,6 @@
     "url": "https://github.com/WenyuChiou/agent-collab-skills"
   },
   {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6657,
-    "updated_at": "2026-09-04T21:34:41Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -247,7 +310,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68696,
+    "stars": 68697,
     "updated_at": "2026-09-04T21:31:04Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -266,7 +329,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-04T21:30:36Z",
+    "updated_at": "2026-09-04T22:13:21Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -277,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T21:29:26Z",
     "url": "https://github.com/jackneil/claude-jacked"
-  },
-  {
-    "description": "Two-layer audit for text that reads as machine-written: surface tells plus discourse tells, layered by text type.",
-    "id": "thebgtagency/ai-writing-audit",
-    "language": "\u2014",
-    "name": "thebgtagency/ai-writing-audit",
-    "stars": 0,
-    "updated_at": "2026-09-04T21:23:44Z",
-    "url": "https://github.com/thebgtagency/ai-writing-audit"
   },
   {
     "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
@@ -394,59 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-04T21:11:12Z",
     "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
-    "id": "liustack/pptwise",
-    "language": "TypeScript",
-    "name": "liustack/pptwise",
-    "stars": 13,
-    "updated_at": "2026-09-04T21:07:42Z",
-    "url": "https://github.com/liustack/pptwise"
-  },
-  {
-    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
-    "id": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
-    "language": "TypeScript",
-    "name": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
-    "stars": 0,
-    "updated_at": "2026-09-04T21:07:36Z",
-    "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-09-04T21:06:40Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-04T21:05:43Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1542,
-    "updated_at": "2026-09-04T21:04:25Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-04T21:04:02Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
