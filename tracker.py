@@ -36,6 +36,30 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 MAX_ITEMS = 50
 
 
+def calculate_score(item: dict) -> float:
+    """Calculate ranking score based on freshness (pushed_at/updated_at) and stars.
+    Prioritizes recent activity (freshness) over all-time stars."""
+    stars = item.get("stars", item.get("stargazers_count", 0))
+    updated_str = item.get("updated_at", item.get("pushed_at", ""))
+
+    score = float(stars)
+    if updated_str:
+        try:
+            dt = datetime.fromisoformat(str(updated_str).replace("Z", "+00:00"))
+            now = datetime.now(timezone.utc)
+            days_ago = max(0.0, (now - dt).total_seconds() / 86400.0)
+            recency_boost = max(0.0, 100.0 - days_ago * 2.0)
+            score += recency_boost * 10.0
+        except (ValueError, TypeError):
+            pass
+    return score
+
+
+def rank_items(items: list[dict]) -> list[dict]:
+    """Sort items by calculated ranking score descending."""
+    return sorted(items, key=calculate_score, reverse=True)
+
+
 def fetch_items() -> list[dict]:
     """Return a list of current items. Each item must have an ``id``
     (stable identifier used for diffing) and the columns rendered in
@@ -61,7 +85,7 @@ def fetch_items() -> list[dict]:
             "description": (r.get("description") or "")[:120],
             "updated_at": r["pushed_at"],
         })
-    return out
+    return rank_items(out)
 
 
 # === Diff + render ==================================================
