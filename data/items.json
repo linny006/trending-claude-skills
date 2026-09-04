@@ -1,12 +1,129 @@
 [
   {
+    "description": "Open-source product leadership skills from the Mission Built ecosystem. The book teaches the principles. The Loadout put",
+    "id": "missionbuilt/loadout",
+    "language": "HTML",
+    "name": "missionbuilt/loadout",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:43:40Z",
+    "url": "https://github.com/missionbuilt/loadout"
+  },
+  {
+    "description": "Tame your AI coding agents with natural language. Generate enforced guardrails (CLAUDE.md, hooks, settings) from a singl",
+    "id": "kyu1204/oh-my-harness",
+    "language": "TypeScript",
+    "name": "kyu1204/oh-my-harness",
+    "stars": 16,
+    "updated_at": "2026-09-04T13:43:41Z",
+    "url": "https://github.com/kyu1204/oh-my-harness"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-04T13:41:59Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-04T13:44:39Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68681,
+    "updated_at": "2026-09-04T13:44:54Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
+    "id": "Egonex-AI/Understand-Anything",
+    "language": "TypeScript",
+    "name": "Egonex-AI/Understand-Anything",
+    "stars": 81459,
+    "updated_at": "2026-09-04T13:38:42Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 55,
+    "updated_at": "2026-09-04T13:37:20Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Free Agent Skills specification and publish-readiness auditor by RankThread.",
+    "id": "nurulislamkhan/rankthread-agent-skill-audit",
+    "language": "HTML",
+    "name": "nurulislamkhan/rankthread-agent-skill-audit",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:36:27Z",
+    "url": "https://github.com/nurulislamkhan/rankthread-agent-skill-audit"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 1,
+    "updated_at": "2026-09-04T13:41:00Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:35:33Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
     "description": "Reusable AI agent collaboration scaffold system (AGENTS.md / CLAUDE.md / .agents/). Three additive sizes \u2014 S/M/L. Works ",
     "id": "GuiomeB/simple-ai-harness-blueprint",
     "language": "Python",
     "name": "GuiomeB/simple-ai-harness-blueprint",
     "stars": 0,
-    "updated_at": "2026-09-04T13:29:48Z",
+    "updated_at": "2026-09-04T13:37:24Z",
     "url": "https://github.com/GuiomeB/simple-ai-harness-blueprint"
+  },
+  {
+    "description": "The missing tool to sift your Claude Code sessions: regex search across all record types, recover files, extract images,",
+    "id": "wdhwg001/csift",
+    "language": "Rust",
+    "name": "wdhwg001/csift",
+    "stars": 29,
+    "updated_at": "2026-09-04T13:34:18Z",
+    "url": "https://github.com/wdhwg001/csift"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-09-04T13:32:14Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-04T13:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -14,7 +131,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-04T13:28:44Z",
+    "updated_at": "2026-09-04T13:38:42Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -41,26 +158,8 @@
     "language": "JavaScript",
     "name": "geml-spec/geml",
     "stars": 25,
-    "updated_at": "2026-09-04T13:26:40Z",
+    "updated_at": "2026-09-04T13:43:10Z",
     "url": "https://github.com/geml-spec/geml"
-  },
-  {
-    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
-    "id": "hanzhangzzz/agent-skills-zh",
-    "language": "Python",
-    "name": "hanzhangzzz/agent-skills-zh",
-    "stars": 1,
-    "updated_at": "2026-09-04T13:25:57Z",
-    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-09-04T13:24:28Z",
-    "url": "https://github.com/huangwb8/skills"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -90,15 +189,6 @@
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   },
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-04T13:20:58Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
     "id": "munexor/seo-opportunity-nexus",
     "language": "HTML",
@@ -122,17 +212,8 @@
     "language": "Python",
     "name": "ArunskiOrg/BenArunskiUtils",
     "stars": 1,
-    "updated_at": "2026-09-04T13:26:56Z",
+    "updated_at": "2026-09-04T13:37:59Z",
     "url": "https://github.com/ArunskiOrg/BenArunskiUtils"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68681,
-    "updated_at": "2026-09-04T13:29:41Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -178,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T13:16:04Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-04T13:15:25Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
@@ -301,7 +373,7 @@
     "id": "reticlehq/reticle",
     "language": "TypeScript",
     "name": "reticlehq/reticle",
-    "stars": 422,
+    "stars": 423,
     "updated_at": "2026-09-04T13:00:54Z",
     "url": "https://github.com/reticlehq/reticle"
   },
@@ -355,7 +427,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 93150,
+    "stars": 93153,
     "updated_at": "2026-09-04T12:46:22Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -369,15 +441,6 @@
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-04T13:29:12Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Agent Skill: closed-loop performance optimization for macOS apps \u2014 headless xctrace profiling, targeted code fixes, diff",
     "id": "kmgcc/macOS-Trace",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T12:42:28Z",
     "url": "https://github.com/kmgcc/macOS-Trace"
-  },
-  {
-    "description": "Agent Skill: closed-loop performance optimization for iOS & iPadOS apps \u2014 headless xctrace profiling on physical devices",
-    "id": "kmgcc/iOS-Trace",
-    "language": "Python",
-    "name": "kmgcc/iOS-Trace",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:42:26Z",
-    "url": "https://github.com/kmgcc/iOS-Trace"
-  },
-  {
-    "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
-    "id": "seokhoonj/newswatcher",
-    "language": "Python",
-    "name": "seokhoonj/newswatcher",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:42:00Z",
-    "url": "https://github.com/seokhoonj/newswatcher"
-  },
-  {
-    "description": "\u6e17\u900f\u6d4b\u8bd5 / \u5b89\u5168\u7814\u7a76 / \u6f0f\u6d1e\u53d1\u73b0\u5168\u6d41\u7a0b Agent Skill\u3002",
-    "id": "enilmalus/Enil-ling-pesing",
-    "language": "Python",
-    "name": "enilmalus/Enil-ling-pesing",
-    "stars": 2,
-    "updated_at": "2026-09-04T12:41:42Z",
-    "url": "https://github.com/enilmalus/Enil-ling-pesing"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
-    "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 3,
-    "updated_at": "2026-09-04T12:41:36Z",
-    "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "",
-    "id": "0xMassi/webclaw-skill",
-    "language": "Python",
-    "name": "0xMassi/webclaw-skill",
-    "stars": 2,
-    "updated_at": "2026-09-04T12:40:36Z",
-    "url": "https://github.com/0xMassi/webclaw-skill"
-  },
-  {
-    "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
-    "id": "gen-chart/gen-chart",
-    "language": "HTML",
-    "name": "gen-chart/gen-chart",
-    "stars": 1,
-    "updated_at": "2026-09-04T12:39:57Z",
-    "url": "https://github.com/gen-chart/gen-chart"
-  },
-  {
-    "description": "Open-source product leadership skills from the Mission Built ecosystem. The book teaches the principles. The Loadout put",
-    "id": "missionbuilt/loadout",
-    "language": "HTML",
-    "name": "missionbuilt/loadout",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:36:41Z",
-    "url": "https://github.com/missionbuilt/loadout"
   }
 ]
