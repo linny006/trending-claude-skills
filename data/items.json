@@ -1,12 +1,84 @@
 [
   {
+    "description": "Lab it. Plan it. Ship it. Agent skills for architecture, GitHub planning and delivery, with stack-specific companions.",
+    "id": "elieandraos/agentic-engineering",
+    "language": "HTML",
+    "name": "elieandraos/agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-04T07:42:36Z",
+    "url": "https://github.com/elieandraos/agentic-engineering"
+  },
+  {
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
+    "language": "Python",
+    "name": "Ovid/paad",
+    "stars": 110,
+    "updated_at": "2026-09-04T07:41:38Z",
+    "url": "https://github.com/Ovid/paad"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68669,
+    "updated_at": "2026-09-04T07:40:49Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Work In Progress ---- The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not",
+    "id": "alexis-morain/verbatim-linkedin",
+    "language": "Python",
+    "name": "alexis-morain/verbatim-linkedin",
+    "stars": 1,
+    "updated_at": "2026-09-04T07:40:31Z",
+    "url": "https://github.com/alexis-morain/verbatim-linkedin"
+  },
+  {
+    "description": "AI Agent Skill for building verified, citation-backed courses in Google NotebookLM",
+    "id": "hmj1026/notebooklm-course-builder",
+    "language": "JavaScript",
+    "name": "hmj1026/notebooklm-course-builder",
+    "stars": 0,
+    "updated_at": "2026-09-04T07:37:02Z",
+    "url": "https://github.com/hmj1026/notebooklm-course-builder"
+  },
+  {
     "description": "A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best ",
     "id": "seo-skills/seo-audit-skill",
     "language": "TypeScript",
     "name": "seo-skills/seo-audit-skill",
     "stars": 415,
-    "updated_at": "2026-09-04T07:30:11Z",
+    "updated_at": "2026-09-04T07:34:41Z",
     "url": "https://github.com/seo-skills/seo-audit-skill"
+  },
+  {
+    "description": "Socratic debugging for AI agents. Don't give me the answer. Help me find it.",
+    "id": "centsandcode/rubber-duck",
+    "language": "Python",
+    "name": "centsandcode/rubber-duck",
+    "stars": 15,
+    "updated_at": "2026-09-04T07:33:28Z",
+    "url": "https://github.com/centsandcode/rubber-duck"
+  },
+  {
+    "description": "Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co",
+    "id": "jackneil/claude-jacked",
+    "language": "Python",
+    "name": "jackneil/claude-jacked",
+    "stars": 1,
+    "updated_at": "2026-09-04T07:45:00Z",
+    "url": "https://github.com/jackneil/claude-jacked"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-04T07:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Score every action an AI agent can take, cap its autonomy at the hottest dimension, and ship the mandate, exceptions and",
@@ -23,17 +95,8 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 103,
-    "updated_at": "2026-09-04T07:27:38Z",
+    "updated_at": "2026-09-04T07:39:14Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68671,
-    "updated_at": "2026-09-04T07:26:04Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
@@ -63,15 +126,6 @@
     "url": "https://github.com/huangwb8/skills"
   },
   {
-    "description": "Work In Progress ---- The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not",
-    "id": "alexis-morain/verbatim-linkedin",
-    "language": "Python",
-    "name": "alexis-morain/verbatim-linkedin",
-    "stars": 1,
-    "updated_at": "2026-09-04T07:22:37Z",
-    "url": "https://github.com/alexis-morain/verbatim-linkedin"
-  },
-  {
     "description": "Use strong models for decisions, economy models for execution, and repository-backed state for long-running engineering.",
     "id": "jaywavfeng/tiered-agent-orchestrator",
     "language": "Python",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "NevaMind-AI/memU",
     "stars": 14377,
-    "updated_at": "2026-09-04T07:18:26Z",
+    "updated_at": "2026-09-04T07:35:15Z",
     "url": "https://github.com/NevaMind-AI/memU"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-09-04T07:16:19Z",
     "url": "https://github.com/zywkloo/wtcraft"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-04T07:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "EPLAN Electric P8 2026  2027 + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. E",
@@ -211,7 +256,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 6161,
+    "stars": 6163,
     "updated_at": "2026-09-04T07:00:53Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -342,7 +387,7 @@
     "url": "https://github.com/enilmalus/Enil-ling-pesing"
   },
   {
-    "description": "A Claude Skill that gives algorithm explanations, code review, and coursework a fixed, preduictable and helpful structre",
+    "description": "A Skill that gives algorithm explanations, code review, and coursework a fixed, preduictable and helpful structre.",
     "id": "ayiii-a/algorithm_tutor",
     "language": "Python",
     "name": "ayiii-a/algorithm_tutor",
@@ -403,50 +448,5 @@
     "stars": 184,
     "updated_at": "2026-09-04T06:29:03Z",
     "url": "https://github.com/techygarg/lattice"
-  },
-  {
-    "description": "AI QA Lead that turns requirements (PDF, DOCX, XLSX) into TestRail-ready test cases in one conversation. Free, open-sour",
-    "id": "JohnWayneeee/casely-qa-skill",
-    "language": "Python",
-    "name": "JohnWayneeee/casely-qa-skill",
-    "stars": 7,
-    "updated_at": "2026-09-04T06:20:52Z",
-    "url": "https://github.com/JohnWayneeee/casely-qa-skill"
-  },
-  {
-    "description": "Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co",
-    "id": "jackneil/claude-jacked",
-    "language": "Python",
-    "name": "jackneil/claude-jacked",
-    "stars": 1,
-    "updated_at": "2026-09-04T07:21:37Z",
-    "url": "https://github.com/jackneil/claude-jacked"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 49,
-    "updated_at": "2026-09-04T06:17:43Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
-    "id": "LinklyAI/best-skills",
-    "language": "\u2014",
-    "name": "LinklyAI/best-skills",
-    "stars": 399,
-    "updated_at": "2026-09-04T06:17:05Z",
-    "url": "https://github.com/LinklyAI/best-skills"
-  },
-  {
-    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
-    "id": "kcy4334-lgtm/translate-book-arxiv",
-    "language": "Python",
-    "name": "kcy4334-lgtm/translate-book-arxiv",
-    "stars": 0,
-    "updated_at": "2026-09-04T06:16:27Z",
-    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   }
 ]
