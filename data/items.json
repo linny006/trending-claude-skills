@@ -1,12 +1,66 @@
 [
   {
+    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
+    "id": "kcy4334-lgtm/translate-book-arxiv",
+    "language": "Python",
+    "name": "kcy4334-lgtm/translate-book-arxiv",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:59:53Z",
+    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19150,
+    "updated_at": "2026-09-05T03:58:47Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
+    "id": "ArcticFox2029/chamnan",
+    "language": "Python",
+    "name": "ArcticFox2029/chamnan",
+    "stars": 4,
+    "updated_at": "2026-09-05T03:57:27Z",
+    "url": "https://github.com/ArcticFox2029/chamnan"
+  },
+  {
+    "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
+    "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
+    "language": "TypeScript",
+    "name": "Shantydotcom/northstariq-revenue-operations-intelligence",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:50:10Z",
+    "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
+  },
+  {
+    "description": "\u56e0\u4e3agithub\u548c\u5176\u4ed6\u5730\u65b9\u90fd\u6ca1\u6709\u4e2d\u6587\u623f\u4ea7\u76f8\u5173\u7684AI\u5de5\u5177\u5e93\u548cskill\u5e93\uff0c\u6240\u4ee5\u5c31\u51b3\u5b9a\u81ea\u5df1\u5f00\u59cb\u505a\u7b2c\u4e00\u6279\u6700\u65e9\u7684\u4e2d\u6587\u623f\u4ea7 AI \u6280\u80fd\u5de5\u5177\u5e93\uff1a7 \u7c7b\u89d2\u8272\uff08\u623f\u5f00\u5546 / \u7ecf\u7eaa\u516c\u53f8 / \u6e20\u9053\u5206\u9500\u516c\u53f8 / \u8d2d\u623f\u8005\u548c\u4e1a\u4e3b / \u4e00\u624b\u8425\u9500 / \u4e8c\u624b\u7ecf\u7eaa / \u623f\u4ea7\u81ea",
+    "id": "danfeistar/house-skills-kit",
+    "language": "Python",
+    "name": "danfeistar/house-skills-kit",
+    "stars": 1,
+    "updated_at": "2026-09-05T03:47:54Z",
+    "url": "https://github.com/danfeistar/house-skills-kit"
+  },
+  {
     "description": "\ud83d\ude80 126 Specialized AI Agent Skills, 3-Step Autonomous Workflow, and Local SEO Operating System for Antigravity & Claude C",
     "id": "jahidulislamseo/antigravity-ai-skills",
     "language": "Shell",
     "name": "jahidulislamseo/antigravity-ai-skills",
     "stars": 0,
-    "updated_at": "2026-09-05T03:44:15Z",
+    "updated_at": "2026-09-05T03:47:49Z",
     "url": "https://github.com/jahidulislamseo/antigravity-ai-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T03:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
@@ -52,24 +106,6 @@
     "stars": 87,
     "updated_at": "2026-09-05T03:32:21Z",
     "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
-    "id": "kcy4334-lgtm/translate-book-arxiv",
-    "language": "Python",
-    "name": "kcy4334-lgtm/translate-book-arxiv",
-    "stars": 0,
-    "updated_at": "2026-09-05T03:32:16Z",
-    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T03:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
@@ -148,7 +184,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 93211,
+    "stars": 93212,
     "updated_at": "2026-09-05T03:15:03Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-05T03:30:58Z",
+    "updated_at": "2026-09-05T03:55:52Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -252,15 +288,6 @@
     "url": "https://github.com/OKHP3/skillz"
   },
   {
-    "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
-    "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
-    "language": "TypeScript",
-    "name": "Shantydotcom/northstariq-revenue-operations-intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-05T02:53:23Z",
-    "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
-  },
-  {
     "description": "Three Claude Code skills for live WordPress sites: safe delivery, provable dead-code cleanup, and Core Web Vitals tuning",
     "id": "mediagyancy/wp-code-optimizer",
     "language": "Python",
@@ -286,15 +313,6 @@
     "stars": 5,
     "updated_at": "2026-09-05T02:47:09Z",
     "url": "https://github.com/jasonm4130/claude-skills"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19150,
-    "updated_at": "2026-09-05T03:18:23Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "Portable, configurable agent skills for reliable everyday work.",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T01:59:23Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "\ud83e\udd2b Claude shuts up until it's done. A Claude Code plugin: one short answer at the end, the file to open, and no log dumps",
-    "id": "V-Songbird/hush",
-    "language": "JavaScript",
-    "name": "V-Songbird/hush",
-    "stars": 49,
-    "updated_at": "2026-09-05T01:49:04Z",
-    "url": "https://github.com/V-Songbird/hush"
-  },
-  {
-    "description": "Claude Code skills for academic research support: paper review, bibliography verification, literature surveying, head-to",
-    "id": "chgagne/claude-skills-research",
-    "language": "Python",
-    "name": "chgagne/claude-skills-research",
-    "stars": 4,
-    "updated_at": "2026-09-05T01:47:55Z",
-    "url": "https://github.com/chgagne/claude-skills-research"
   }
 ]
