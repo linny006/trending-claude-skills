@@ -1,5 +1,131 @@
 [
   {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 433,
+    "updated_at": "2026-09-05T08:44:17Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-05T08:42:01Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-05T08:40:26Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 120,
+    "updated_at": "2026-09-05T08:37:48Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
+    "id": "kcy4334-lgtm/translate-book-arxiv",
+    "language": "Python",
+    "name": "kcy4334-lgtm/translate-book-arxiv",
+    "stars": 0,
+    "updated_at": "2026-09-05T08:37:42Z",
+    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
+  },
+  {
+    "description": "Verified Agent Skills registry for Codex and Claude Code: curated installs, provenance, license checks, reproducible evi",
+    "id": "userInner/SKILLS",
+    "language": "Python",
+    "name": "userInner/SKILLS",
+    "stars": 3,
+    "updated_at": "2026-09-05T08:35:24Z",
+    "url": "https://github.com/userInner/SKILLS"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-05T08:34:41Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
+    "id": "Egonex-AI/Understand-Anything",
+    "language": "TypeScript",
+    "name": "Egonex-AI/Understand-Anything",
+    "stars": 81527,
+    "updated_at": "2026-09-05T08:43:05Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-05T08:34:01Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
+    "id": "VoltAgent/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "VoltAgent/awesome-agent-skills",
+    "stars": 33772,
+    "updated_at": "2026-09-05T08:33:53Z",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "description": "The most expensive bug in AI-assisted building is shipping the wrong thing, well. A CLAUDE.md for PM + eng teams using C",
+    "id": "sohaibt/product-mode",
+    "language": "\u2014",
+    "name": "sohaibt/product-mode",
+    "stars": 51,
+    "updated_at": "2026-09-05T08:32:24Z",
+    "url": "https://github.com/sohaibt/product-mode"
+  },
+  {
+    "description": "18 strategy frameworks for positioning that holds under pressure. By Petrichor Projects.",
+    "id": "Petrichor-Projects/resilience-stack",
+    "language": "JavaScript",
+    "name": "Petrichor-Projects/resilience-stack",
+    "stars": 0,
+    "updated_at": "2026-09-05T08:31:12Z",
+    "url": "https://github.com/Petrichor-Projects/resilience-stack"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T08:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-05T08:30:09Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
     "id": "danieljustus/symaira-eraseme",
     "language": "Go",
@@ -7,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-09-05T08:27:46Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "18 strategy frameworks for positioning that holds under pressure. By Petrichor Projects.",
-    "id": "Petrichor-Projects/resilience-stack",
-    "language": "Shell",
-    "name": "Petrichor-Projects/resilience-stack",
-    "stars": 0,
-    "updated_at": "2026-09-05T08:26:12Z",
-    "url": "https://github.com/Petrichor-Projects/resilience-stack"
   },
   {
     "description": "3D model optimization toolkit for AI agents + CLI: mesh simplification, part splitting, texturing, format conversion, LO",
@@ -27,24 +144,6 @@
     "url": "https://github.com/lxie-leo/meshify"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 117,
-    "updated_at": "2026-09-05T08:26:44Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-05T08:26:07Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
     "id": "elementalsouls/Claude-BugHunter",
     "language": "Python",
@@ -52,15 +151,6 @@
     "stars": 4287,
     "updated_at": "2026-09-05T08:23:16Z",
     "url": "https://github.com/elementalsouls/Claude-BugHunter"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 433,
-    "updated_at": "2026-09-05T08:24:06Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
@@ -79,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T08:20:28Z",
     "url": "https://github.com/alternative-intelligence-cp/claude-skills"
-  },
-  {
-    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
-    "id": "kcy4334-lgtm/translate-book-arxiv",
-    "language": "Python",
-    "name": "kcy4334-lgtm/translate-book-arxiv",
-    "stars": 0,
-    "updated_at": "2026-09-05T08:18:36Z",
-    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   },
   {
     "description": "A starting point for building Claude Skills that doesn't bake in someone else's conventions. A setup wizard asks how you",
@@ -113,17 +194,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-05T08:20:34Z",
+    "updated_at": "2026-09-05T08:43:28Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T08:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
@@ -180,15 +252,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-05T08:22:33Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Gives coding agents the real source of your dependencies, not a guess.",
     "id": "kaisers-io/refs",
     "language": "TypeScript",
@@ -239,7 +302,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68709,
-    "updated_at": "2026-09-05T08:04:00Z",
+    "updated_at": "2026-09-05T08:40:56Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -277,15 +340,6 @@
     "stars": 104,
     "updated_at": "2026-09-05T07:58:43Z",
     "url": "https://github.com/tonylofgren/aurora-smart-home"
-  },
-  {
-    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
-    "id": "VoltAgent/awesome-agent-skills",
-    "language": "\u2014",
-    "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33771,
-    "updated_at": "2026-09-05T07:58:20Z",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
   {
     "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-05T07:27:15Z",
     "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
-    "description": "Look before you build. A Claude Code skill that finds the skill or repo that already exists - installed skills, a verifi",
-    "id": "nohseongmin/claude-skill-finder",
-    "language": "Python",
-    "name": "nohseongmin/claude-skill-finder",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:27:01Z",
-    "url": "https://github.com/nohseongmin/claude-skill-finder"
-  },
-  {
-    "description": "Evidence-bound business architecture engineering: strategy, value streams, capabilities and process architecture with de",
-    "id": "yslicn/ba-generation-skill",
-    "language": "Python",
-    "name": "yslicn/ba-generation-skill",
-    "stars": 1,
-    "updated_at": "2026-09-05T07:26:18Z",
-    "url": "https://github.com/yslicn/ba-generation-skill"
-  },
-  {
-    "description": "Six agent skills to audit and grow LinkedIn for founders, creators, and influencers: profile audit, company page audit, ",
-    "id": "9heaven/linkedin-growth-skills",
-    "language": "\u2014",
-    "name": "9heaven/linkedin-growth-skills",
-    "stars": 1,
-    "updated_at": "2026-09-05T07:23:40Z",
-    "url": "https://github.com/9heaven/linkedin-growth-skills"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 29,
-    "updated_at": "2026-09-05T07:16:59Z",
-    "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "\ud83d\udcda lessonry \u2014 a ZCode skill that turns any topic into a single-file interactive learning webpage (step-player animations,",
-    "id": "zryshuaige/lessonry",
-    "language": "HTML",
-    "name": "zryshuaige/lessonry",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:11:38Z",
-    "url": "https://github.com/zryshuaige/lessonry"
-  },
-  {
-    "description": "Unified skill library for Claude, Codex, Cursor, Antigravity & AI agents \u2014 2,658 skills across 15 domains",
-    "id": "sinhoneyy/master-skills",
-    "language": "Python",
-    "name": "sinhoneyy/master-skills",
-    "stars": 11,
-    "updated_at": "2026-09-05T07:09:26Z",
-    "url": "https://github.com/sinhoneyy/master-skills"
   }
 ]
