@@ -1,11 +1,110 @@
 [
   {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 121,
+    "updated_at": "2026-09-05T09:14:49Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-05T09:13:30Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "3D model optimization toolkit for AI agents + CLI: mesh simplification, part splitting, texturing, format conversion, LO",
+    "id": "lxie-leo/meshify",
+    "language": "TypeScript",
+    "name": "lxie-leo/meshify",
+    "stars": 3,
+    "updated_at": "2026-09-05T09:13:02Z",
+    "url": "https://github.com/lxie-leo/meshify"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 433,
+    "updated_at": "2026-09-05T09:12:34Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-05T09:12:29Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Your assistant tells you what you want to hear, and doesn't know when it's making things up. HEXAGRAM adds the missing l",
+    "id": "nowespojrzenie/HEXAGRAM",
+    "language": "Shell",
+    "name": "nowespojrzenie/HEXAGRAM",
+    "stars": 1,
+    "updated_at": "2026-09-05T09:11:12Z",
+    "url": "https://github.com/nowespojrzenie/HEXAGRAM"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-09-05T09:09:50Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Claude Skill \u0e40\u0e02\u0e35\u0e22\u0e19\u0e42\u0e04\u0e23\u0e07\u0e07\u0e32\u0e19\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22: \u0e40\u0e01\u0e47\u0e1a\u0e42\u0e08\u0e17\u0e22\u0e4c \u0e40\u0e02\u0e35\u0e22\u0e19\u0e1a\u0e17\u0e17\u0e35\u0e48 1\u20133 \u0e08\u0e31\u0e14 APA \u0e41\u0e25\u0e30\u0e40\u0e2d\u0e01\u0e2a\u0e32\u0e23 Word",
+    "id": "sriwitsumo/project-skill",
+    "language": "Shell",
+    "name": "sriwitsumo/project-skill",
+    "stars": 1,
+    "updated_at": "2026-09-05T09:07:14Z",
+    "url": "https://github.com/sriwitsumo/project-skill"
+  },
+  {
+    "description": "Agent skills for Claude Code, Codex, OpenCode & Cursor \u2014 autonomous orchestration, code quality, local LLMs (Harbor), an",
+    "id": "av/skills",
+    "language": "Shell",
+    "name": "av/skills",
+    "stars": 13,
+    "updated_at": "2026-09-05T09:06:10Z",
+    "url": "https://github.com/av/skills"
+  },
+  {
+    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
+    "id": "alicekane437/cv-job-market-research",
+    "language": "\u2014",
+    "name": "alicekane437/cv-job-market-research",
+    "stars": 0,
+    "updated_at": "2026-09-05T09:04:12Z",
+    "url": "https://github.com/alicekane437/cv-job-market-research"
+  },
+  {
+    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
+    "id": "kcy4334-lgtm/translate-book-arxiv",
+    "language": "Python",
+    "name": "kcy4334-lgtm/translate-book-arxiv",
+    "stars": 0,
+    "updated_at": "2026-09-05T09:01:49Z",
+    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 36,
-    "updated_at": "2026-09-05T08:56:58Z",
+    "updated_at": "2026-09-05T09:00:13Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -36,31 +135,13 @@
     "url": "https://github.com/shimo4228/claude-harness"
   },
   {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 120,
-    "updated_at": "2026-09-05T08:55:45Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "OmO: Drop your tokens. Ultrawork. Done.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68710,
+    "stars": 68709,
     "updated_at": "2026-09-05T08:55:04Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
-    "id": "kcy4334-lgtm/translate-book-arxiv",
-    "language": "Python",
-    "name": "kcy4334-lgtm/translate-book-arxiv",
-    "stars": 0,
-    "updated_at": "2026-09-05T08:55:00Z",
-    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -76,8 +157,8 @@
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 81528,
-    "updated_at": "2026-09-05T08:54:18Z",
+    "stars": 81530,
+    "updated_at": "2026-09-05T09:14:24Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
   {
@@ -104,17 +185,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-05T08:54:47Z",
+    "updated_at": "2026-09-05T09:11:35Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-05T09:00:09Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Evidence-chain memory for AI agents - verbatim-first, auditable, anti-fabrication. Tell your story once, recall it with ",
@@ -142,15 +214,6 @@
     "stars": 40,
     "updated_at": "2026-09-05T08:45:12Z",
     "url": "https://github.com/brycewang-stanford/many-ppt-skills"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 433,
-    "updated_at": "2026-09-05T08:44:17Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -216,31 +279,13 @@
     "url": "https://github.com/Petrichor-Projects/resilience-stack"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-05T08:30:09Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
     "id": "danieljustus/symaira-eraseme",
     "language": "Go",
     "name": "danieljustus/symaira-eraseme",
     "stars": 6,
-    "updated_at": "2026-09-05T08:27:46Z",
+    "updated_at": "2026-09-05T09:14:53Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "3D model optimization toolkit for AI agents + CLI: mesh simplification, part splitting, texturing, format conversion, LO",
-    "id": "lxie-leo/meshify",
-    "language": "TypeScript",
-    "name": "lxie-leo/meshify",
-    "stars": 3,
-    "updated_at": "2026-09-05T08:25:22Z",
-    "url": "https://github.com/lxie-leo/meshify"
   },
   {
     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
@@ -274,7 +319,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 7506,
+    "stars": 7507,
     "updated_at": "2026-09-05T08:20:12Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -315,24 +360,6 @@
     "url": "https://github.com/pjdurden/claude-skills-live"
   },
   {
-    "description": "Your assistant tells you what you want to hear, and doesn't know when it's making things up. HEXAGRAM adds the missing l",
-    "id": "nowespojrzenie/HEXAGRAM",
-    "language": "Shell",
-    "name": "nowespojrzenie/HEXAGRAM",
-    "stars": 1,
-    "updated_at": "2026-09-05T08:10:34Z",
-    "url": "https://github.com/nowespojrzenie/HEXAGRAM"
-  },
-  {
-    "description": "Claude Skill \u0e40\u0e02\u0e35\u0e22\u0e19\u0e42\u0e04\u0e23\u0e07\u0e07\u0e32\u0e19\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22: \u0e40\u0e01\u0e47\u0e1a\u0e42\u0e08\u0e17\u0e22\u0e4c \u0e40\u0e02\u0e35\u0e22\u0e19\u0e1a\u0e17\u0e17\u0e35\u0e48 1\u20133 \u0e08\u0e31\u0e14 APA \u0e41\u0e25\u0e30\u0e40\u0e2d\u0e01\u0e2a\u0e32\u0e23 Word",
-    "id": "sriwitsumo/project-skill",
-    "language": "Shell",
-    "name": "sriwitsumo/project-skill",
-    "stars": 1,
-    "updated_at": "2026-09-05T08:10:31Z",
-    "url": "https://github.com/sriwitsumo/project-skill"
-  },
-  {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
     "id": "samuel85194-ux/tycana-claude-hivemind",
     "language": "HTML",
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "kaisers-io/refs",
     "stars": 7,
-    "updated_at": "2026-09-05T08:07:32Z",
+    "updated_at": "2026-09-05T09:13:20Z",
     "url": "https://github.com/kaisers-io/refs"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 104,
     "updated_at": "2026-09-05T07:58:43Z",
     "url": "https://github.com/tonylofgren/aurora-smart-home"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-05T07:51:54Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
-  },
-  {
-    "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
-    "id": "CHAOSX-SPACE/god-of-the-void",
-    "language": "Python",
-    "name": "CHAOSX-SPACE/god-of-the-void",
-    "stars": 1,
-    "updated_at": "2026-09-05T07:44:08Z",
-    "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
-  },
-  {
-    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
-    "id": "Ovid/paad",
-    "language": "Python",
-    "name": "Ovid/paad",
-    "stars": 110,
-    "updated_at": "2026-09-05T07:43:54Z",
-    "url": "https://github.com/Ovid/paad"
   }
 ]
