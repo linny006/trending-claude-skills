@@ -1,5 +1,68 @@
 [
   {
+    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
+    "id": "alternative-intelligence-cp/claude-skills",
+    "language": "Python",
+    "name": "alternative-intelligence-cp/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-05T04:57:43Z",
+    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-09-05T04:55:45Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "\u901a\u7528\u8bbe\u8ba1\u5de5\u4f5c\u6d41\u6280\u80fd\u2014\u2014\u4e94\u5c42\u4e32\u8054\u6a21\u578b\uff08\u573a\u666f\u2192\u611f\u77e5\u7269\u6599\u2192\u5f62\u5f0f\u7ec4\u7ec7\u2192\u4fe1\u606f\u53d9\u4e8b\u2192\u4e3b\u89c2\u8f93\u51fa\uff09\uff0c\u542b 12 \u4e2a\u4e13\u9879\u5b50\u6280\u80fd",
+    "id": "yang20040317-svg/design-workflow",
+    "language": "Python",
+    "name": "yang20040317-svg/design-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:53:27Z",
+    "url": "https://github.com/yang20040317-svg/design-workflow"
+  },
+  {
+    "description": "Three Claude Code skills for live WordPress sites: safe delivery, provable dead-code cleanup, and Core Web Vitals tuning",
+    "id": "mediagyancy/wp-code-optimizer",
+    "language": "Python",
+    "name": "mediagyancy/wp-code-optimizer",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:50:25Z",
+    "url": "https://github.com/mediagyancy/wp-code-optimizer"
+  },
+  {
+    "description": "Portable, configurable agent skills for reliable everyday work.",
+    "id": "Misoto22/skills",
+    "language": "Python",
+    "name": "Misoto22/skills",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:50:13Z",
+    "url": "https://github.com/Misoto22/skills"
+  },
+  {
+    "description": "A small, verified, security-aware directory of Agent Skills (SKILL.md format).",
+    "id": "royalpinto007/awesome-agent-skills",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:46:30Z",
+    "url": "https://github.com/royalpinto007/awesome-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T04:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
     "id": "TyrusRC/praetor",
     "language": "Python",
@@ -18,21 +81,12 @@
     "url": "https://github.com/SWHee/skills"
   },
   {
-    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
-    "id": "alternative-intelligence-cp/claude-skills",
-    "language": "Python",
-    "name": "alternative-intelligence-cp/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-05T04:42:18Z",
-    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
-  },
-  {
     "description": "OmO: Drop your tokens. Ultrawork. Done.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68703,
-    "updated_at": "2026-09-05T04:45:00Z",
+    "updated_at": "2026-09-05T04:46:07Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -81,15 +135,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T04:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI agent skills for applying Feature-Sliced Design (FSD) v2.1 in frontend projects.",
     "id": "feature-sliced/skills",
     "language": "\u2014",
@@ -121,7 +166,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 93216,
+    "stars": 93218,
     "updated_at": "2026-09-05T04:26:08Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -135,15 +180,6 @@
     "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   },
   {
-    "description": "Three Claude Code skills for live WordPress sites: safe delivery, provable dead-code cleanup, and Core Web Vitals tuning",
-    "id": "mediagyancy/wp-code-optimizer",
-    "language": "Python",
-    "name": "mediagyancy/wp-code-optimizer",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:24:02Z",
-    "url": "https://github.com/mediagyancy/wp-code-optimizer"
-  },
-  {
     "description": "35 portable agent skills (Agent Skills spec) for Kiro & Claude Code: Scrum DevSecOps roles, PCI-DSS/MAS TRM compliance, ",
     "id": "timwukp/agent-skills-best-practice",
     "language": "Python",
@@ -151,15 +187,6 @@
     "stars": 10,
     "updated_at": "2026-09-05T04:22:18Z",
     "url": "https://github.com/timwukp/agent-skills-best-practice"
-  },
-  {
-    "description": "Portable, configurable agent skills for reliable everyday work.",
-    "id": "Misoto22/skills",
-    "language": "Python",
-    "name": "Misoto22/skills",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:21:45Z",
-    "url": "https://github.com/Misoto22/skills"
   },
   {
     "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T03:14:47Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grade, CI gates",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 129,
-    "updated_at": "2026-09-05T03:13:12Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-09-05T03:11:18Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-05T03:07:48Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   }
 ]
