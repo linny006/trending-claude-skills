@@ -1,12 +1,66 @@
 [
   {
+    "description": "Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  \ud83e\uddd9\ud83c\udffb\u200d\u2640\ufe0f",
+    "id": "MarieLynneBlock/arcanum-artifex",
+    "language": "Python",
+    "name": "MarieLynneBlock/arcanum-artifex",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:33:14Z",
+    "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
+  },
+  {
     "description": "Agent Skills for Obsidian \u2014 plugin syntax (queries, tasks, charts, interactive UI), graph view tuning, vault auditing, h",
     "id": "lexbritvin/obsidian-skills-pack",
     "language": "\u2014",
     "name": "lexbritvin/obsidian-skills-pack",
     "stars": 2,
-    "updated_at": "2026-09-05T12:29:01Z",
+    "updated_at": "2026-09-05T12:33:04Z",
     "url": "https://github.com/lexbritvin/obsidian-skills-pack"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:32:43Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Claude Code skill: invoke local Codex CLI as an independent analysis partner",
+    "id": "koenvdheide/codex-skill",
+    "language": "\u2014",
+    "name": "koenvdheide/codex-skill",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:32:34Z",
+    "url": "https://github.com/koenvdheide/codex-skill"
+  },
+  {
+    "description": "Gives coding agents the real source of your dependencies, not a guess.",
+    "id": "kaisers-io/refs",
+    "language": "TypeScript",
+    "name": "kaisers-io/refs",
+    "stars": 7,
+    "updated_at": "2026-09-05T12:30:55Z",
+    "url": "https://github.com/kaisers-io/refs"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 435,
+    "updated_at": "2026-09-05T12:30:47Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T12:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "In-depth security-audit skills for Claude Code \u2014 deterministic tools first, every finding refuted, a verdict not a score",
@@ -18,11 +72,20 @@
     "url": "https://github.com/V12X/v12x-skills"
   },
   {
+    "description": "MCP server for Dreamina (Seedance 2.5): batch video generation from Claude \u2014 50 cinematic techniques, references, first/",
+    "id": "DanikVR/dreamina-seedance-mcp",
+    "language": "JavaScript",
+    "name": "DanikVR/dreamina-seedance-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:28:03Z",
+    "url": "https://github.com/DanikVR/dreamina-seedance-mcp"
+  },
+  {
     "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 7518,
+    "stars": 7519,
     "updated_at": "2026-09-05T12:27:10Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -32,7 +95,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 4,
-    "updated_at": "2026-09-05T12:27:10Z",
+    "updated_at": "2026-09-05T12:33:22Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -95,7 +158,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-05T12:20:14Z",
+    "updated_at": "2026-09-05T12:31:53Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/isatimur/excalidraw-skill-pack"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T12:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
     "id": "gen-chart/gen-chart",
     "language": "HTML",
@@ -167,7 +221,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-05T12:25:08Z",
+    "updated_at": "2026-09-05T12:32:14Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T12:02:50Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 435,
-    "updated_at": "2026-09-05T12:13:15Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T11:45:33Z",
     "url": "https://github.com/thepictishbeast/claude-tools"
-  },
-  {
-    "description": "Gives coding agents the real source of your dependencies, not a guess.",
-    "id": "kaisers-io/refs",
-    "language": "TypeScript",
-    "name": "kaisers-io/refs",
-    "stars": 7,
-    "updated_at": "2026-09-05T12:07:19Z",
-    "url": "https://github.com/kaisers-io/refs"
   },
   {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T11:18:24Z",
     "url": "https://github.com/tony/skills"
-  },
-  {
-    "description": "Claude Code skills that turn papers and conversations into a cross-linked Obsidian knowledge base \u2014 ten-section paper no",
-    "id": "alfredzhang98/research-obsidian-skill",
-    "language": "Python",
-    "name": "alfredzhang98/research-obsidian-skill",
-    "stars": 0,
-    "updated_at": "2026-09-05T11:13:02Z",
-    "url": "https://github.com/alfredzhang98/research-obsidian-skill"
-  },
-  {
-    "description": "Your assistant tells you what you want to hear, and doesn't know when it's making things up. HEXAGRAM adds the missing l",
-    "id": "nowespojrzenie/HEXAGRAM",
-    "language": "Shell",
-    "name": "nowespojrzenie/HEXAGRAM",
-    "stars": 1,
-    "updated_at": "2026-09-05T11:10:11Z",
-    "url": "https://github.com/nowespojrzenie/HEXAGRAM"
-  },
-  {
-    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
-    "id": "mickzijdel/dev-hooks",
-    "language": "Python",
-    "name": "mickzijdel/dev-hooks",
-    "stars": 0,
-    "updated_at": "2026-09-05T11:08:54Z",
-    "url": "https://github.com/mickzijdel/dev-hooks"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-09-05T11:02:44Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   }
 ]
