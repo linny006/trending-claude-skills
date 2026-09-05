@@ -1,5 +1,77 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-05T22:13:48Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Session continuity memory for Claude Desktop",
+    "id": "balaka/bro",
+    "language": "Shell",
+    "name": "balaka/bro",
+    "stars": 0,
+    "updated_at": "2026-09-05T22:12:31Z",
+    "url": "https://github.com/balaka/bro"
+  },
+  {
+    "description": "Biblion is a learning platform. Authors create courses in Sanity, and a Next.js site serves them to learners. What sets ",
+    "id": "Aymenjdily/biblion-testing-agentic-ai-skills",
+    "language": "TypeScript",
+    "name": "Aymenjdily/biblion-testing-agentic-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-09-05T22:10:02Z",
+    "url": "https://github.com/Aymenjdily/biblion-testing-agentic-ai-skills"
+  },
+  {
+    "description": "\u2692\ufe0f Three Claude Code plugins: foreman keeps the plan, hush cuts the chatter, razor stops the over-building. One marketpl",
+    "id": "V-Songbird/foundry",
+    "language": "JavaScript",
+    "name": "V-Songbird/foundry",
+    "stars": 4,
+    "updated_at": "2026-09-05T22:05:05Z",
+    "url": "https://github.com/V-Songbird/foundry"
+  },
+  {
+    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
+    "id": "thepictishbeast/claude-tools",
+    "language": "Rust",
+    "name": "thepictishbeast/claude-tools",
+    "stars": 0,
+    "updated_at": "2026-09-05T22:03:36Z",
+    "url": "https://github.com/thepictishbeast/claude-tools"
+  },
+  {
+    "description": "\ud83d\udccb Your project plan, kept next to the code. A Claude Code plugin: ask what's next and get the task, the reason, and a re",
+    "id": "V-Songbird/foreman",
+    "language": "JavaScript",
+    "name": "V-Songbird/foreman",
+    "stars": 34,
+    "updated_at": "2026-09-05T22:03:34Z",
+    "url": "https://github.com/V-Songbird/foreman"
+  },
+  {
+    "description": "74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grade, CI gates",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 130,
+    "updated_at": "2026-09-05T22:01:50Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T22:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "semantic grep",
     "id": "XiaoConstantine/sgrep",
     "language": "Go",
@@ -81,15 +153,6 @@
     "url": "https://github.com/gl0bal01/malware-analysis-claude-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T21:45:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Personal skills marketplace \u2014 add it once, install any plugin for terminal, devops... and whatever else comes up",
     "id": "gfargo/skills",
     "language": "TypeScript",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T21:43:52Z",
     "url": "https://github.com/bufatechno/bufatechno-webgamedev"
-  },
-  {
-    "description": "74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grade, CI gates",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 130,
-    "updated_at": "2026-09-05T21:55:51Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 283,
-    "updated_at": "2026-09-05T21:30:23Z",
+    "updated_at": "2026-09-05T22:10:40Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T21:27:46Z",
     "url": "https://github.com/burnabyjudicial666/agent-profiles"
-  },
-  {
-    "description": "Biblion is a learning platform. Authors create courses in Sanity, and a Next.js site serves them to learners. What sets ",
-    "id": "Aymenjdily/biblion-testing-agentic-ai-skills",
-    "language": "TypeScript",
-    "name": "Aymenjdily/biblion-testing-agentic-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:27:38Z",
-    "url": "https://github.com/Aymenjdily/biblion-testing-agentic-ai-skills"
   },
   {
     "description": "Generate and optimize web novel writing workflows for long-form and short-form stories with AI agent integration and qua",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:18:05Z",
     "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:18:01Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-09-05T21:17:54Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:17:53Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:17:53Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:17:43Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
   }
 ]
