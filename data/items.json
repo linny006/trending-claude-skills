@@ -1,5 +1,140 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-05T17:14:53Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "visualize, and report code coverage within llm sessions",
+    "id": "joshLong145/ambits",
+    "language": "Rust",
+    "name": "joshLong145/ambits",
+    "stars": 9,
+    "updated_at": "2026-09-05T17:13:52Z",
+    "url": "https://github.com/joshLong145/ambits"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 134,
+    "updated_at": "2026-09-05T17:13:50Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:12:15Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
+    "id": "ashfulcra/fulcra-tools",
+    "language": "Python",
+    "name": "ashfulcra/fulcra-tools",
+    "stars": 10,
+    "updated_at": "2026-09-05T17:10:11Z",
+    "url": "https://github.com/ashfulcra/fulcra-tools"
+  },
+  {
+    "description": "",
+    "id": "fmschulz/omics-skills",
+    "language": "Python",
+    "name": "fmschulz/omics-skills",
+    "stars": 7,
+    "updated_at": "2026-09-05T17:11:53Z",
+    "url": "https://github.com/fmschulz/omics-skills"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 6,
+    "updated_at": "2026-09-05T17:09:15Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1572,
+    "updated_at": "2026-09-05T17:08:42Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68725,
+    "updated_at": "2026-09-05T17:07:01Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-05T17:06:43Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 6,
+    "updated_at": "2026-09-05T17:05:33Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-05T17:02:39Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:01:42Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-09-05T17:00:43Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T17:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -27,15 +162,6 @@
     "url": "https://github.com/gfargo/skills"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-05T16:55:35Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Markdown in \u2014 a beautifully typeset document on your reMarkable, one command later. E-ink tuned PDF pipeline: 12pt typog",
     "id": "forcewake/remarkable-send",
     "language": "Python",
@@ -52,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T16:53:07Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1572,
-    "updated_at": "2026-09-05T16:52:52Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
-    "id": "ashfulcra/fulcra-tools",
-    "language": "Python",
-    "name": "ashfulcra/fulcra-tools",
-    "stars": 10,
-    "updated_at": "2026-09-05T16:59:26Z",
-    "url": "https://github.com/ashfulcra/fulcra-tools"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -99,15 +207,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:50:39Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
     "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
     "id": "the-nam-shub/e5-real-skills",
     "language": "TypeScript",
@@ -126,58 +225,13 @@
     "url": "https://github.com/lilialla/awesome-legal-ai-zh"
   },
   {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68726,
-    "updated_at": "2026-09-05T16:45:17Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T16:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 6,
-    "updated_at": "2026-09-05T16:45:09Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "",
-    "id": "fmschulz/omics-skills",
-    "language": "Python",
-    "name": "fmschulz/omics-skills",
-    "stars": 7,
-    "updated_at": "2026-09-05T16:44:58Z",
-    "url": "https://github.com/fmschulz/omics-skills"
-  },
-  {
     "description": "Decision-driven harness for coding agents, and humans.",
     "id": "nevenincs/vaultspec-core",
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 1,
-    "updated_at": "2026-09-05T16:51:13Z",
+    "updated_at": "2026-09-05T17:12:00Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 134,
-    "updated_at": "2026-09-05T16:54:22Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -266,7 +320,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-05T16:37:10Z",
+    "updated_at": "2026-09-05T17:09:06Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -284,7 +338,7 @@
     "language": "HTML",
     "name": "gen-chart/gen-chart",
     "stars": 1,
-    "updated_at": "2026-09-05T16:54:34Z",
+    "updated_at": "2026-09-05T17:03:06Z",
     "url": "https://github.com/gen-chart/gen-chart"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-05T16:19:31Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Practical Claude Code and Codex skills for safer, lighter operations.",
-    "id": "kwoekel/woekel-works",
-    "language": "Python",
-    "name": "kwoekel/woekel-works",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:17:10Z",
-    "url": "https://github.com/kwoekel/woekel-works"
-  },
-  {
-    "description": "Agent Skills (SKILL.md, agentskills.io standard) for biomedical research with the biomcp-ts MCP server \u2014 deep research, ",
-    "id": "yeyuan98/bioresearcher-skills",
-    "language": "Python",
-    "name": "yeyuan98/bioresearcher-skills",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:16:32Z",
-    "url": "https://github.com/yeyuan98/bioresearcher-skills"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-09-05T16:15:42Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-05T16:15:22Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19157,
-    "updated_at": "2026-09-05T16:15:06Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "\u4e3a Flink \u6570\u636e\u9879\u76ee\u751f\u6210\u5171\u4eab .agent/ \u591a Agent \u534f\u4f5c\u4e0a\u4e0b\u6587\u7684 Agent Skill\uff1a\u6e10\u8fdb\u5f0f\u62ab\u9732\u3001\u4f5c\u4e1a\u751f\u547d\u5468\u671f\u6587\u6863\u3001\u4efb\u52a1\u770b\u677f\u3001\u4ee3\u7801\u5730\u56fe",
-    "id": "8Sign24/flink-agent-dir",
-    "language": "Go Template",
-    "name": "8Sign24/flink-agent-dir",
-    "stars": 1,
-    "updated_at": "2026-09-05T16:14:43Z",
-    "url": "https://github.com/8Sign24/flink-agent-dir"
   }
 ]
