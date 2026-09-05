@@ -1,11 +1,38 @@
 [
   {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-09-05T17:43:56Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 6,
+    "updated_at": "2026-09-05T17:42:41Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T17:40:45Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-05T17:39:44Z",
+    "updated_at": "2026-09-05T17:44:58Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -36,21 +63,12 @@
     "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   },
   {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 5,
-    "updated_at": "2026-09-05T17:36:30Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
-  },
-  {
     "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 134,
-    "updated_at": "2026-09-05T17:38:57Z",
+    "updated_at": "2026-09-05T17:40:46Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -99,15 +117,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T17:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-cli",
     "id": "Ap6pack/outrider-recon",
     "language": "Python",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "ashfulcra/fulcra-tools",
     "stars": 10,
-    "updated_at": "2026-09-05T17:29:46Z",
+    "updated_at": "2026-09-05T17:42:46Z",
     "url": "https://github.com/ashfulcra/fulcra-tools"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T17:34:38Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 6,
-    "updated_at": "2026-09-05T17:40:14Z",
-    "url": "https://github.com/using-system/oddyssey"
   },
   {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 17:40 UTC
+> ⏰ Last updated: 2026-09-05 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 110 | Kotlin | 2026-09-05 | Helping the Agents Compose the Things |
-| 2 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-09-05 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 3 | [fmschulz/omics-skills](https://github.com/fmschulz/omics-skills) | 7 | Python | 2026-09-05 |  |
-| 4 | [Zhonghao1995/agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow) | 25 | Python | 2026-09-05 | Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin |
-| 5 | [deepaksinghcs14/deadeye-cc](https://github.com/deepaksinghcs14/deadeye-cc) | 5 | Go | 2026-09-05 | Claude Code plugin that fits the model, effort, and context to each task — fewer tokens, same quality. Deterministic pol |
-| 6 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 134 | TypeScript | 2026-09-05 | Framework-aware code intelligence MCP server for Claude Code and Codex — 90.6% fewer input tokens to review a pull reque |
-| 7 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68726 | TypeScript | 2026-09-05 | OmO: Drop your tokens. Ultrawork. Done. |
-| 8 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-09-05 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 9 | [OutlineDriven/outline-driven-development](https://github.com/OutlineDriven/outline-driven-development) | 52 | Python | 2026-09-05 | Outline-Driven Development - opinionated methodology between vibes and specs. AST tooling + context engineering + loop e |
-| 10 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-09-05 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 11 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-09-05 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 12 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 36 | Python | 2026-09-05 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 13 | [Ap6pack/outrider-recon](https://github.com/Ap6pack/outrider-recon) | 8 | Python | 2026-09-05 | Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-cli |
-| 14 | [ashfulcra/fulcra-tools](https://github.com/ashfulcra/fulcra-tools) | 10 | Python | 2026-09-05 |  Long-running AI agents coordinating over their human's own Fulcra account — shared bus, cross-model reviews, session co |
-| 15 | [nevenincs/vaultspec-core](https://github.com/nevenincs/vaultspec-core) | 1 | Python | 2026-09-05 | Decision-driven harness for coding agents, and humans. |
-| 16 | [jackneil/claude-jacked](https://github.com/jackneil/claude-jacked) | 1 | Python | 2026-09-05 | Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co |
-| 17 | [knitli/toolshed](https://github.com/knitli/toolshed) | 1 | TypeScript | 2026-09-05 | Curated Claude Code plugins by Knitli |
-| 18 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-09-05 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 19 | [arbiterForge/codeArbiter](https://github.com/arbiterForge/codeArbiter) | 142 | Python | 2026-09-05 | When you can't trust yourself with your code base, trust Arbiter.  |
-| 20 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 19159 | Python | 2026-09-05 | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—in |
-| 21 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-09-05 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
-| 22 | [rahmanef63/si-coder-agent](https://github.com/rahmanef63/si-coder-agent) | 12 | JavaScript | 2026-09-05 | Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands — GitHub + Convex (self-hosted & Cloud) |
-| 23 | [joshLong145/ambits](https://github.com/joshLong145/ambits) | 9 | Rust | 2026-09-05 | visualize, and report code coverage within llm sessions |
-| 24 | [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 0 | Shell | 2026-09-05 | A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe |
-| 25 | [using-system/oddyssey](https://github.com/using-system/oddyssey) | 6 | Python | 2026-09-05 | CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta |
+| 1 | [deepaksinghcs14/deadeye-cc](https://github.com/deepaksinghcs14/deadeye-cc) | 5 | Go | 2026-09-05 | Claude Code plugin that fits the model, effort, and context to each task — fewer tokens, same quality. Deterministic pol |
+| 2 | [using-system/oddyssey](https://github.com/using-system/oddyssey) | 6 | Python | 2026-09-05 | CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta |
+| 3 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 36 | Python | 2026-09-05 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 4 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 110 | Kotlin | 2026-09-05 | Helping the Agents Compose the Things |
+| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-09-05 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 6 | [fmschulz/omics-skills](https://github.com/fmschulz/omics-skills) | 7 | Python | 2026-09-05 |  |
+| 7 | [Zhonghao1995/agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow) | 25 | Python | 2026-09-05 | Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin |
+| 8 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 134 | TypeScript | 2026-09-05 | Framework-aware code intelligence MCP server for Claude Code and Codex — 90.6% fewer input tokens to review a pull reque |
+| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68726 | TypeScript | 2026-09-05 | OmO: Drop your tokens. Ultrawork. Done. |
+| 10 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-09-05 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 11 | [OutlineDriven/outline-driven-development](https://github.com/OutlineDriven/outline-driven-development) | 52 | Python | 2026-09-05 | Outline-Driven Development - opinionated methodology between vibes and specs. AST tooling + context engineering + loop e |
+| 12 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-09-05 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 13 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-09-05 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 14 | [Ap6pack/outrider-recon](https://github.com/Ap6pack/outrider-recon) | 8 | Python | 2026-09-05 | Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-cli |
+| 15 | [ashfulcra/fulcra-tools](https://github.com/ashfulcra/fulcra-tools) | 10 | Python | 2026-09-05 |  Long-running AI agents coordinating over their human's own Fulcra account — shared bus, cross-model reviews, session co |
+| 16 | [nevenincs/vaultspec-core](https://github.com/nevenincs/vaultspec-core) | 1 | Python | 2026-09-05 | Decision-driven harness for coding agents, and humans. |
+| 17 | [jackneil/claude-jacked](https://github.com/jackneil/claude-jacked) | 1 | Python | 2026-09-05 | Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co |
+| 18 | [knitli/toolshed](https://github.com/knitli/toolshed) | 1 | TypeScript | 2026-09-05 | Curated Claude Code plugins by Knitli |
+| 19 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-09-05 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 20 | [arbiterForge/codeArbiter](https://github.com/arbiterForge/codeArbiter) | 142 | Python | 2026-09-05 | When you can't trust yourself with your code base, trust Arbiter.  |
+| 21 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 19159 | Python | 2026-09-05 | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—in |
+| 22 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-09-05 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
+| 23 | [rahmanef63/si-coder-agent](https://github.com/rahmanef63/si-coder-agent) | 12 | JavaScript | 2026-09-05 | Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands — GitHub + Convex (self-hosted & Cloud) |
+| 24 | [joshLong145/ambits](https://github.com/joshLong145/ambits) | 9 | Rust | 2026-09-05 | visualize, and report code coverage within llm sessions |
+| 25 | [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 0 | Shell | 2026-09-05 | A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe |
 | 26 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | 1573 | Python | 2026-09-05 | ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u |
 | 27 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-09-05 | Project orchestration and AI agentic workflow utility. |
 | 28 | [richfrem/agent-plugins-skills](https://github.com/richfrem/agent-plugins-skills) | 6 | Python | 2026-09-05 | repo for reusable plugins and skills |
