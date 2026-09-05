@@ -1,5 +1,68 @@
 [
   {
+    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
+    "id": "jasonm4130/claude-skills",
+    "language": "JavaScript",
+    "name": "jasonm4130/claude-skills",
+    "stars": 5,
+    "updated_at": "2026-09-05T02:13:19Z",
+    "url": "https://github.com/jasonm4130/claude-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-09-05T02:10:54Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Open-source product leadership skills from the Mission Built ecosystem. The book teaches the principles. The Loadout put",
+    "id": "missionbuilt/loadout",
+    "language": "HTML",
+    "name": "missionbuilt/loadout",
+    "stars": 0,
+    "updated_at": "2026-09-05T02:07:57Z",
+    "url": "https://github.com/missionbuilt/loadout"
+  },
+  {
+    "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
+    "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
+    "language": "TypeScript",
+    "name": "Shantydotcom/northstariq-revenue-operations-intelligence",
+    "stars": 0,
+    "updated_at": "2026-09-05T02:04:11Z",
+    "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "Shell",
+    "name": "chrislacey89/skills",
+    "stars": 3,
+    "updated_at": "2026-09-05T02:02:27Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
+    "id": "zenstory-ai/novel-to-game",
+    "language": "Markdown",
+    "name": "zenstory-ai/novel-to-game",
+    "stars": 755,
+    "updated_at": "2026-09-05T02:01:31Z",
+    "url": "https://github.com/zenstory-ai/novel-to-game"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T02:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -9,13 +72,13 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3).",
-    "id": "zenstory-ai/novel-to-game",
-    "language": "Markdown",
-    "name": "zenstory-ai/novel-to-game",
-    "stars": 754,
-    "updated_at": "2026-09-05T02:00:10Z",
-    "url": "https://github.com/zenstory-ai/novel-to-game"
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 93206,
+    "updated_at": "2026-09-05T01:57:47Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
@@ -27,15 +90,6 @@
     "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   },
   {
-    "description": "Open-source product leadership skills from the Mission Built ecosystem. The book teaches the principles. The Loadout put",
-    "id": "missionbuilt/loadout",
-    "language": "HTML",
-    "name": "missionbuilt/loadout",
-    "stars": 0,
-    "updated_at": "2026-09-05T01:51:05Z",
-    "url": "https://github.com/missionbuilt/loadout"
-  },
-  {
     "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
     "id": "TyrusRC/praetor",
     "language": "Python",
@@ -43,6 +97,15 @@
     "stars": 5,
     "updated_at": "2026-09-05T01:50:03Z",
     "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "\u2692\ufe0f Three Claude Code plugins: foreman keeps the plan, hush cuts the chatter, razor stops the over-building. One marketpl",
+    "id": "V-Songbird/foundry",
+    "language": "JavaScript",
+    "name": "V-Songbird/foundry",
+    "stars": 4,
+    "updated_at": "2026-09-05T01:49:33Z",
+    "url": "https://github.com/V-Songbird/foundry"
   },
   {
     "description": "\ud83e\udd2b Claude shuts up until it's done. A Claude Code plugin: one short answer at the end, the file to open, and no log dumps",
@@ -79,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T01:45:29Z",
     "url": "https://github.com/caix84476-netizen/personal-understanding"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T01:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
@@ -160,15 +214,6 @@
     "stars": 8,
     "updated_at": "2026-09-05T01:31:07Z",
     "url": "https://github.com/Ap6pack/outrider-recon"
-  },
-  {
-    "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
-    "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
-    "language": "TypeScript",
-    "name": "Shantydotcom/northstariq-revenue-operations-intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-05T01:30:00Z",
-    "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
   },
   {
     "description": "Claude Skills for Governance, Risk, & Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, ",
@@ -315,15 +360,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
-    "id": "jasonm4130/claude-skills",
-    "language": "JavaScript",
-    "name": "jasonm4130/claude-skills",
-    "stars": 5,
-    "updated_at": "2026-09-05T01:59:18Z",
-    "url": "https://github.com/jasonm4130/claude-skills"
-  },
-  {
     "description": "LEASH-8: an 8-domain control model for AI agents with delegated authority. Scorecard, approval-design checklist, plan-vs",
     "id": "tonydzi/agent-leash",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T00:47:10Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-05T00:45:51Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-09-05T00:45:26Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-05T00:44:46Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Skills that help YOU operate at staff-researcher level. The agent does the grunt work; you stay in the driver's seat. A ",
-    "id": "shubham0704/claude-skills",
-    "language": "Python",
-    "name": "shubham0704/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-05T00:43:38Z",
-    "url": "https://github.com/shubham0704/claude-skills"
   }
 ]
