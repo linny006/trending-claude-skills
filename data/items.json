@@ -1,12 +1,102 @@
 [
   {
-    "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
-    "id": "gen-chart/gen-chart",
+    "description": "Agent Skills for Obsidian \u2014 plugin syntax (queries, tasks, charts, interactive UI), graph view tuning, vault auditing, h",
+    "id": "lexbritvin/obsidian-skills-pack",
+    "language": "\u2014",
+    "name": "lexbritvin/obsidian-skills-pack",
+    "stars": 2,
+    "updated_at": "2026-09-05T12:29:01Z",
+    "url": "https://github.com/lexbritvin/obsidian-skills-pack"
+  },
+  {
+    "description": "In-depth security-audit skills for Claude Code \u2014 deterministic tools first, every finding refuted, a verdict not a score",
+    "id": "V12X/v12x-skills",
+    "language": "Python",
+    "name": "V12X/v12x-skills",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:28:32Z",
+    "url": "https://github.com/V12X/v12x-skills"
+  },
+  {
+    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
+    "id": "Vincentwei1021/video-shotcraft",
+    "language": "TypeScript",
+    "name": "Vincentwei1021/video-shotcraft",
+    "stars": 7518,
+    "updated_at": "2026-09-05T12:27:10Z",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-05T12:27:10Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
     "language": "HTML",
-    "name": "gen-chart/gen-chart",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-09-05T12:26:44Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-09-05T12:25:27Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
+    "id": "skills-agents-co/skills-and-agents-library",
+    "language": "Python",
+    "name": "skills-agents-co/skills-and-agents-library",
     "stars": 1,
-    "updated_at": "2026-09-05T12:14:42Z",
-    "url": "https://github.com/gen-chart/gen-chart"
+    "updated_at": "2026-09-05T12:24:47Z",
+    "url": "https://github.com/skills-agents-co/skills-and-agents-library"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-05T12:23:34Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:22:15Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best ",
+    "id": "seo-skills/seo-audit-skill",
+    "language": "TypeScript",
+    "name": "seo-skills/seo-audit-skill",
+    "stars": 415,
+    "updated_at": "2026-09-05T12:20:59Z",
+    "url": "https://github.com/seo-skills/seo-audit-skill"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-05T12:20:14Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -14,8 +104,53 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 416,
-    "updated_at": "2026-09-05T12:14:34Z",
+    "updated_at": "2026-09-05T12:18:37Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 131,
+    "updated_at": "2026-09-05T12:18:00Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68713,
+    "updated_at": "2026-09-05T12:20:02Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
+    "id": "isatimur/excalidraw-skill-pack",
+    "language": "TypeScript",
+    "name": "isatimur/excalidraw-skill-pack",
+    "stars": 4,
+    "updated_at": "2026-09-05T12:15:20Z",
+    "url": "https://github.com/isatimur/excalidraw-skill-pack"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T12:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent skill to turn data, a description, or a pasted table into a polished, interactive chart \u2014 directly in chat.",
+    "id": "gen-chart/gen-chart",
+    "language": "HTML",
+    "name": "gen-chart/gen-chart",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:14:42Z",
+    "url": "https://github.com/gen-chart/gen-chart"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
@@ -32,26 +167,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-05T12:12:03Z",
+    "updated_at": "2026-09-05T12:25:08Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 129,
-    "updated_at": "2026-09-05T12:14:52Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
-    "id": "skills-agents-co/skills-and-agents-library",
-    "language": "Python",
-    "name": "skills-agents-co/skills-and-agents-library",
-    "stars": 1,
-    "updated_at": "2026-09-05T12:13:13Z",
-    "url": "https://github.com/skills-agents-co/skills-and-agents-library"
   },
   {
     "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
@@ -70,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T12:06:47Z",
     "url": "https://github.com/Rneayan/airship-skills"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68713,
-    "updated_at": "2026-09-05T12:12:17Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
@@ -126,15 +234,6 @@
     "url": "https://github.com/reticlehq/reticle"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T12:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -142,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T11:59:51Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best ",
-    "id": "seo-skills/seo-audit-skill",
-    "language": "TypeScript",
-    "name": "seo-skills/seo-audit-skill",
-    "stars": 415,
-    "updated_at": "2026-09-05T12:12:07Z",
-    "url": "https://github.com/seo-skills/seo-audit-skill"
   },
   {
     "description": "\u7eb8\u4e0a\u7b97\u6cd5 PAPER ALGORITHM \u00b7 \u8bd5\u754cTryWorld \u5b98\u65b9 AI \u6280\u80fd\u5408\u96c6\uff1a\u53e3\u64ad\u603b\u5165\u53e3 koubo\u3001\u7eb8\u4e0a\u7b97\u6cd5\u51fa\u7247 paper\u3001AIHOT \u9009\u9898 topics\u2014\u2014\u4e00\u53e5\u8bdd\u5230\u6210\u7247\u7684\u53e3\u64ad\u89c6\u9891\u751f\u4ea7\u7ebf",
@@ -171,30 +261,12 @@
     "url": "https://github.com/alternative-intelligence-cp/claude-skills"
   },
   {
-    "description": "Agent Skills for Obsidian \u2014 plugin syntax (queries, tasks, charts, interactive UI), graph view tuning, vault auditing, h",
-    "id": "lexbritvin/obsidian-skills-pack",
-    "language": "\u2014",
-    "name": "lexbritvin/obsidian-skills-pack",
-    "stars": 2,
-    "updated_at": "2026-09-05T11:51:20Z",
-    "url": "https://github.com/lexbritvin/obsidian-skills-pack"
-  },
-  {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 7518,
-    "updated_at": "2026-09-05T11:50:12Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-05T11:53:42Z",
+    "updated_at": "2026-09-05T12:25:01Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -284,7 +356,7 @@
     "language": "JavaScript",
     "name": "jasonm4130/claude-skills",
     "stars": 5,
-    "updated_at": "2026-09-05T11:37:50Z",
+    "updated_at": "2026-09-05T12:19:03Z",
     "url": "https://github.com/jasonm4130/claude-skills"
   },
   {
@@ -342,15 +414,6 @@
     "url": "https://github.com/tony/skills"
   },
   {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-05T12:05:43Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
     "description": "Claude Code skills that turn papers and conversations into a cross-linked Obsidian knowledge base \u2014 ten-section paper no",
     "id": "alfredzhang98/research-obsidian-skill",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T11:02:44Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Hub index for 315 AI agent skills across 12 category repositories. Browse the full skill list and install only the categ",
-    "id": "poorvith-mp/skillary",
-    "language": "Python",
-    "name": "poorvith-mp/skillary",
-    "stars": 3,
-    "updated_at": "2026-09-05T11:03:11Z",
-    "url": "https://github.com/poorvith-mp/skillary"
-  },
-  {
-    "description": "14 Claude skills for learning and teaching. Flashcard generation, concept explanation, study plans, exam prep, and resea",
-    "id": "poorvith-mp/skills-education",
-    "language": "\u2014",
-    "name": "poorvith-mp/skills-education",
-    "stars": 0,
-    "updated_at": "2026-09-05T11:00:49Z",
-    "url": "https://github.com/poorvith-mp/skills-education"
-  },
-  {
-    "description": "22 Claude skills for game developers. Unity, Unreal, Godot, Roblox, level design, narrative design, and shader authoring",
-    "id": "poorvith-mp/skills-gamedev",
-    "language": "\u2014",
-    "name": "poorvith-mp/skills-gamedev",
-    "stars": 4,
-    "updated_at": "2026-09-05T11:00:40Z",
-    "url": "https://github.com/poorvith-mp/skills-gamedev"
-  },
-  {
-    "description": "29 Claude skills for business workflows. Project management, OKRs, SOPs, meeting summaries, proposals, and negotiation.",
-    "id": "poorvith-mp/skills-business",
-    "language": "\u2014",
-    "name": "poorvith-mp/skills-business",
-    "stars": 1,
-    "updated_at": "2026-09-05T11:00:36Z",
-    "url": "https://github.com/poorvith-mp/skills-business"
-  },
-  {
-    "description": "29 Claude skills for designers. UI/UX, brand identity, typography, frontend design, accessibility, and visual storytelli",
-    "id": "poorvith-mp/skills-design",
-    "language": "\u2014",
-    "name": "poorvith-mp/skills-design",
-    "stars": 0,
-    "updated_at": "2026-09-05T11:00:32Z",
-    "url": "https://github.com/poorvith-mp/skills-design"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/skills",
-    "language": "Shell",
-    "name": "yschimke/skills",
-    "stars": 2,
-    "updated_at": "2026-09-05T11:00:10Z",
-    "url": "https://github.com/yschimke/skills"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-09-05T10:59:12Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
