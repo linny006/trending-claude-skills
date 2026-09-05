@@ -1,12 +1,30 @@
 [
   {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "description": "Independent Claude Skills for the whole smart home: Home Assistant, ESPHome, Node-RED, custom integrations, dashboards, ",
+    "id": "tonylofgren/aurora-smart-home",
     "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 25,
-    "updated_at": "2026-09-05T07:44:26Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+    "name": "tonylofgren/aurora-smart-home",
+    "stars": 104,
+    "updated_at": "2026-09-05T07:58:43Z",
+    "url": "https://github.com/tonylofgren/aurora-smart-home"
+  },
+  {
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
+    "id": "VoltAgent/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "VoltAgent/awesome-agent-skills",
+    "stars": 33770,
+    "updated_at": "2026-09-05T07:58:20Z",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
+    "id": "alternative-intelligence-cp/claude-skills",
+    "language": "Python",
+    "name": "alternative-intelligence-cp/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-05T07:58:14Z",
+    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -14,8 +32,26 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-05T07:44:09Z",
+    "updated_at": "2026-09-05T07:59:11Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 25,
+    "updated_at": "2026-09-05T07:51:54Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T07:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
@@ -36,21 +72,12 @@
     "url": "https://github.com/Ovid/paad"
   },
   {
-    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
-    "id": "VoltAgent/awesome-agent-skills",
-    "language": "\u2014",
-    "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33771,
-    "updated_at": "2026-09-05T07:43:01Z",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills"
-  },
-  {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
     "id": "cody-hutson/pmo-platform",
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-09-05T07:42:47Z",
+    "updated_at": "2026-09-05T07:50:35Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -63,15 +90,6 @@
     "url": "https://github.com/oomol-lab/skills"
   },
   {
-    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
-    "id": "alternative-intelligence-cp/claude-skills",
-    "language": "Python",
-    "name": "alternative-intelligence-cp/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-05T07:42:20Z",
-    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
-  },
-  {
     "description": "35 portable agent skills (Agent Skills spec) for Kiro & Claude Code: Scrum DevSecOps roles, PCI-DSS/MAS TRM compliance, ",
     "id": "timwukp/agent-skills-best-practice",
     "language": "Python",
@@ -79,6 +97,15 @@
     "stars": 10,
     "updated_at": "2026-09-05T07:42:41Z",
     "url": "https://github.com/timwukp/agent-skills-best-practice"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68708,
+    "updated_at": "2026-09-05T07:55:23Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "",
@@ -117,15 +144,6 @@
     "url": "https://github.com/powersync-ja/agent-skills"
   },
   {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68707,
-    "updated_at": "2026-09-05T07:40:55Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\u2692\ufe0f Three Claude Code plugins: foreman keeps the plan, hush cuts the chatter, razor stops the over-building. One marketpl",
     "id": "V-Songbird/foundry",
     "language": "JavaScript",
@@ -160,15 +178,6 @@
     "stars": 11,
     "updated_at": "2026-09-05T07:30:51Z",
     "url": "https://github.com/NovaCode37/claude-security-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T07:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udd2b Claude shuts up until it's done. A Claude Code plugin: one short answer at the end, the file to open, and no log dumps",
@@ -284,7 +293,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-05T07:18:30Z",
+    "updated_at": "2026-09-05T07:57:36Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-05T07:39:02Z",
+    "updated_at": "2026-09-05T07:58:03Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T06:33:44Z",
     "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Every AI slide-deck skill worth knowing, on one page \u2014 both the HTML and native-PPTX routes, compared on what actually d",
-    "id": "brycewang-stanford/many-ppt-skills",
-    "language": "Python",
-    "name": "brycewang-stanford/many-ppt-skills",
-    "stars": 40,
-    "updated_at": "2026-09-05T06:33:42Z",
-    "url": "https://github.com/brycewang-stanford/many-ppt-skills"
   }
 ]
