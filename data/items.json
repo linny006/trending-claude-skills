@@ -1,12 +1,138 @@
 [
   {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 6,
+    "updated_at": "2026-09-05T15:00:06Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 133,
+    "updated_at": "2026-09-05T15:00:13Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co",
+    "id": "jackneil/claude-jacked",
+    "language": "Python",
+    "name": "jackneil/claude-jacked",
+    "stars": 1,
+    "updated_at": "2026-09-05T14:57:25Z",
+    "url": "https://github.com/jackneil/claude-jacked"
+  },
+  {
+    "description": "Miftahul Islam Efaz \u2014 Full Stack Product Builder",
+    "id": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
+    "language": "TypeScript",
+    "name": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
+    "stars": 1,
+    "updated_at": "2026-09-05T14:56:44Z",
+    "url": "https://github.com/Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz"
+  },
+  {
+    "description": "A training and eating plan that checks its own work before you see it. Refuses to guess, catches its own mistakes, and w",
+    "id": "rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete",
+    "language": "Python",
+    "name": "rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:55:39Z",
+    "url": "https://github.com/rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-05T14:55:09Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 60,
+    "updated_at": "2026-09-05T14:54:44Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-05T14:54:41Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "A starting point for building Claude Skills that doesn't bake in someone else's conventions. A setup wizard asks how you",
+    "id": "colomet/skill-boilerplate",
+    "language": "Python",
+    "name": "colomet/skill-boilerplate",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:52:47Z",
+    "url": "https://github.com/colomet/skill-boilerplate"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 6,
+    "updated_at": "2026-09-05T14:49:14Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
+    "id": "kcy4334-lgtm/translate-book-arxiv",
+    "language": "Python",
+    "name": "kcy4334-lgtm/translate-book-arxiv",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:49:00Z",
+    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-05T14:48:04Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-05T14:45:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI marketing team for B2B SaaS: 77 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, pai",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
     "name": "shalintripathi/saas-marketing-agents",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-09-05T14:44:48Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "zenstory-ai/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "zenstory-ai/oh-story-claudecode",
+    "stars": 6521,
+    "updated_at": "2026-09-05T14:43:58Z",
+    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
     "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "ashfulcra/fulcra-tools",
     "stars": 10,
-    "updated_at": "2026-09-05T14:43:24Z",
+    "updated_at": "2026-09-05T14:58:20Z",
     "url": "https://github.com/ashfulcra/fulcra-tools"
   },
   {
@@ -27,15 +153,6 @@
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
-    "description": "A training and eating plan that checks its own work before you see it. Refuses to guess, catches its own mistakes, and w",
-    "id": "rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:42:12Z",
-    "url": "https://github.com/rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
     "description": "",
     "id": "SELAT-AI/selat-skills",
     "language": "JavaScript",
@@ -45,31 +162,13 @@
     "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 6,
-    "updated_at": "2026-09-05T14:43:33Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
     "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
     "id": "Egonex-AI/Understand-Anything",
     "language": "TypeScript",
     "name": "Egonex-AI/Understand-Anything",
-    "stars": 81569,
-    "updated_at": "2026-09-05T14:41:42Z",
+    "stars": 81570,
+    "updated_at": "2026-09-05T14:52:14Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
-  },
-  {
-    "description": "Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co",
-    "id": "jackneil/claude-jacked",
-    "language": "Python",
-    "name": "jackneil/claude-jacked",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:43:13Z",
-    "url": "https://github.com/jackneil/claude-jacked"
   },
   {
     "description": "Scan AI agent skills, plugins, MCP servers, and CLI tools (npm/PyPI/Go, cargo, release binaries, curl|bash installers) f",
@@ -77,17 +176,8 @@
     "language": "Python",
     "name": "elliottwaves-20/agent-guard",
     "stars": 2,
-    "updated_at": "2026-09-05T14:43:31Z",
+    "updated_at": "2026-09-05T14:45:48Z",
     "url": "https://github.com/elliottwaves-20/agent-guard"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 133,
-    "updated_at": "2026-09-05T14:44:25Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
@@ -104,17 +194,8 @@
     "language": "Python",
     "name": "MarieLynneBlock/arcanum-artifex",
     "stars": 3,
-    "updated_at": "2026-09-05T14:38:56Z",
+    "updated_at": "2026-09-05T14:54:38Z",
     "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "zenstory-ai/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6519,
-    "updated_at": "2026-09-05T14:43:58Z",
-    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
@@ -122,7 +203,7 @@
     "language": "Shell",
     "name": "lenamonj/jeffy-loop",
     "stars": 8,
-    "updated_at": "2026-09-05T14:37:54Z",
+    "updated_at": "2026-09-05T14:53:53Z",
     "url": "https://github.com/lenamonj/jeffy-loop"
   },
   {
@@ -162,33 +243,6 @@
     "url": "https://github.com/knitli/toolshed"
   },
   {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-05T14:42:47Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-05T14:30:23Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-05T14:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A standard for CI that stays green for the right reasons",
     "id": "rokokol/ci-skill",
     "language": "Shell",
@@ -216,21 +270,12 @@
     "url": "https://github.com/reticlehq/reticle"
   },
   {
-    "description": "Miftahul Islam Efaz \u2014 Full Stack Product Builder",
-    "id": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
-    "language": "TypeScript",
-    "name": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:22:50Z",
-    "url": "https://github.com/Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-05T14:24:09Z",
+    "updated_at": "2026-09-05T14:54:56Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T13:46:54Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:46:48Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:46:10Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:45:07Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:44:41Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:44:22Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   }
 ]
