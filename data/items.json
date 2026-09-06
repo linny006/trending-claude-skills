@@ -1,5 +1,59 @@
 [
   {
+    "description": "Reusable framework for requirements work: BRD/NFR/ADR templates, quality rules, and agent skills that draft and review r",
+    "id": "YuliaMelekhova/analyst-toolkit",
+    "language": "\u2014",
+    "name": "YuliaMelekhova/analyst-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:30:00Z",
+    "url": "https://github.com/YuliaMelekhova/analyst-toolkit"
+  },
+  {
+    "description": "Miftahul Islam Efaz \u2014 Full Stack Product Builder",
+    "id": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
+    "language": "TypeScript",
+    "name": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
+    "stars": 1,
+    "updated_at": "2026-09-06T07:26:10Z",
+    "url": "https://github.com/Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz"
+  },
+  {
+    "description": "\u5357\u4eac\u90ae\u7535\u5927\u5b66\u884c\u653f\u4e8b\u52a1 AI \u52a9\u624b \u00b7 SKILL.md \u901a\u7528\u683c\u5f0f \u00b7 \u67e5\u653f\u7b56\u3001\u95ee\u6d41\u7a0b\u3001\u76ef\u5f85\u529e \u00b7 \u9002\u914d Kimi / Claude / Cursor",
+    "id": "Ian508/youxiaozhu.skill",
+    "language": "\u2014",
+    "name": "Ian508/youxiaozhu.skill",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:23:07Z",
+    "url": "https://github.com/Ian508/youxiaozhu.skill"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-09-06T07:22:20Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Claude Plugin: Local Linear AI agent, your favorite harness",
+    "id": "mikhailkogan17/cycler",
+    "language": "JavaScript",
+    "name": "mikhailkogan17/cycler",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:18:09Z",
+    "url": "https://github.com/mikhailkogan17/cycler"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T07:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Evidence-chain memory for AI agents - verbatim-first, auditable, anti-fabrication. Tell your story once, recall it with ",
     "id": "caix84476-netizen/personal-understanding",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T07:10:14Z",
     "url": "https://github.com/ianx52/opinion-map"
-  },
-  {
-    "description": "\u5357\u4eac\u90ae\u7535\u5927\u5b66\u884c\u653f\u4e8b\u52a1 AI \u52a9\u624b \u00b7 SKILL.md \u901a\u7528\u683c\u5f0f \u00b7 \u67e5\u653f\u7b56\u3001\u95ee\u6d41\u7a0b\u3001\u76ef\u5f85\u529e \u00b7 \u9002\u914d Kimi / Claude / Cursor",
-    "id": "Ian508/youxiaozhu.skill",
-    "language": "\u2014",
-    "name": "Ian508/youxiaozhu.skill",
-    "stars": 0,
-    "updated_at": "2026-09-06T07:09:15Z",
-    "url": "https://github.com/Ian508/youxiaozhu.skill"
   },
   {
     "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
@@ -54,6 +99,15 @@
     "url": "https://github.com/alinafe82/cognitive-deadlift"
   },
   {
+    "description": "Markdown to WeChat CLI | \u4e00\u952e\u6392\u7248\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u652f\u6301 40+ \u6392\u7248\u6837\u5f0f\u548c\u4e13\u4e1a\u4e3b\u9898 \u3001AI \u914d\u56fe \u3001\u6279\u91cf\u53d1\u5e03 \u3001\u591a\u8d26\u53f7\u7ba1\u7406",
+    "id": "geekjourneyx/md2wechat-skill",
+    "language": "Go",
+    "name": "geekjourneyx/md2wechat-skill",
+    "stars": 3629,
+    "updated_at": "2026-09-06T07:02:49Z",
+    "url": "https://github.com/geekjourneyx/md2wechat-skill"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -61,15 +115,6 @@
     "stars": 34,
     "updated_at": "2026-09-06T07:00:37Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T07:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agentic coding decision replay\uff1a\u8bb0\u5f55\u4e3a\u4ec0\u4e48\uff0c\u628a session signals \u9010\u5c42\u6536\u53e3\u6210\u53ef\u6838\u9a8c\u7684\u5468\u62a5\u3001\u6708\u62a5\u548c\u8def\u7ebf\u56fe\u3002",
@@ -103,7 +148,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 6244,
+    "stars": 6245,
     "updated_at": "2026-09-06T06:55:34Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -270,15 +315,6 @@
     "url": "https://github.com/jasonm4130/claude-skills"
   },
   {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-06T06:43:43Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
     "description": "\u901a\u7528\u8bbe\u8ba1\u5de5\u4f5c\u6d41\u6280\u80fd\u2014\u2014\u4e94\u5c42\u4e32\u8054\u6a21\u578b\uff08\u573a\u666f\u2192\u611f\u77e5\u7269\u6599\u2192\u5f62\u5f0f\u7ec4\u7ec7\u2192\u4fe1\u606f\u53d9\u4e8b\u2192\u4e3b\u89c2\u8f93\u51fa\uff09\uff0c\u542b 12 \u4e2a\u4e13\u9879\u5b50\u6280\u80fd",
     "id": "yang20040317-svg/design-workflow",
     "language": "Python",
@@ -319,7 +355,7 @@
     "id": "titanwings/distilly",
     "language": "TypeScript",
     "name": "titanwings/distilly",
-    "stars": 24380,
+    "stars": 24381,
     "updated_at": "2026-09-06T06:18:46Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T05:40:10Z",
     "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:39:46Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:39:01Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 3,
-    "updated_at": "2026-09-06T05:37:23Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "\u5fae\u4fe1\u516c\u4f17\u53f7 AI \u8fd0\u8425\u52a9\u624b | \u9009\u9898\u3001\u5199\u7a3f\u3001\u5ba1\u7a3f\u3001\u6392\u7248\u3001\u914d\u56fe\u3001\u53d1\u5e03\u5168\u6d41\u7a0b Skill\uff0c\u652f\u6301 OpenClaw / Claude Code / Cursor / Codex",
-    "id": "aiworkskills/wechat-article-skills",
-    "language": "Python",
-    "name": "aiworkskills/wechat-article-skills",
-    "stars": 562,
-    "updated_at": "2026-09-06T05:36:08Z",
-    "url": "https://github.com/aiworkskills/wechat-article-skills"
   }
 ]
