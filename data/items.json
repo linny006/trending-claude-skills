@@ -1,12 +1,138 @@
 [
   {
+    "description": "Tells you whether a startup idea is worth building. Research agents argue with each other \u2014 one tries to kill it, one tr",
+    "id": "rishabhrawat35/idea-research",
+    "language": "Python",
+    "name": "rishabhrawat35/idea-research",
+    "stars": 1,
+    "updated_at": "2026-09-06T06:28:00Z",
+    "url": "https://github.com/rishabhrawat35/idea-research"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 151,
+    "updated_at": "2026-09-06T06:26:55Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
+    "id": "jasonm4130/claude-skills",
+    "language": "JavaScript",
+    "name": "jasonm4130/claude-skills",
+    "stars": 5,
+    "updated_at": "2026-09-06T06:26:23Z",
+    "url": "https://github.com/jasonm4130/claude-skills"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-09-06T06:26:11Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19172,
+    "updated_at": "2026-09-06T06:24:48Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "\u901a\u7528\u8bbe\u8ba1\u5de5\u4f5c\u6d41\u6280\u80fd\u2014\u2014\u4e94\u5c42\u4e32\u8054\u6a21\u578b\uff08\u573a\u666f\u2192\u611f\u77e5\u7269\u6599\u2192\u5f62\u5f0f\u7ec4\u7ec7\u2192\u4fe1\u606f\u53d9\u4e8b\u2192\u4e3b\u89c2\u8f93\u51fa\uff09\uff0c\u542b 12 \u4e2a\u4e13\u9879\u5b50\u6280\u80fd",
+    "id": "yang20040317-svg/design-workflow",
+    "language": "Python",
+    "name": "yang20040317-svg/design-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:23:24Z",
+    "url": "https://github.com/yang20040317-svg/design-workflow"
+  },
+  {
+    "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
+    "id": "CHAOSX-SPACE/god-of-the-void",
+    "language": "Python",
+    "name": "CHAOSX-SPACE/god-of-the-void",
+    "stars": 1,
+    "updated_at": "2026-09-06T06:22:01Z",
+    "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
+  },
+  {
+    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
+    "id": "alinafe82/cognitive-deadlift",
+    "language": "Python",
+    "name": "alinafe82/cognitive-deadlift",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:21:36Z",
+    "url": "https://github.com/alinafe82/cognitive-deadlift"
+  },
+  {
+    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
+    "id": "LinklyAI/best-skills",
+    "language": "\u2014",
+    "name": "LinklyAI/best-skills",
+    "stars": 435,
+    "updated_at": "2026-09-06T06:20:59Z",
+    "url": "https://github.com/LinklyAI/best-skills"
+  },
+  {
+    "description": "CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI).",
+    "id": "Dianel555/DSkills",
+    "language": "Python",
+    "name": "Dianel555/DSkills",
+    "stars": 64,
+    "updated_at": "2026-09-06T06:19:11Z",
+    "url": "https://github.com/Dianel555/DSkills"
+  },
+  {
     "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
     "id": "mimukit/skills",
     "language": "Shell",
     "name": "mimukit/skills",
     "stars": 1,
-    "updated_at": "2026-09-06T06:14:42Z",
+    "updated_at": "2026-09-06T06:18:54Z",
     "url": "https://github.com/mimukit/skills"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "TypeScript",
+    "name": "titanwings/distilly",
+    "stars": 24379,
+    "updated_at": "2026-09-06T06:18:46Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
+    "description": "A skill that turns a written recipe into an execution-order cooking timeline.",
+    "id": "tiny-glitch/recipe-timeline",
+    "language": "\u2014",
+    "name": "tiny-glitch/recipe-timeline",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:17:07Z",
+    "url": "https://github.com/tiny-glitch/recipe-timeline"
+  },
+  {
+    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
+    "id": "thepictishbeast/claude-tools",
+    "language": "Rust",
+    "name": "thepictishbeast/claude-tools",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:16:56Z",
+    "url": "https://github.com/thepictishbeast/claude-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T06:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
@@ -25,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T06:11:32Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
-    "id": "alinafe82/cognitive-deadlift",
-    "language": "Python",
-    "name": "alinafe82/cognitive-deadlift",
-    "stars": 0,
-    "updated_at": "2026-09-06T06:11:13Z",
-    "url": "https://github.com/alinafe82/cognitive-deadlift"
   },
   {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
@@ -63,15 +180,6 @@
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T06:02:34Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
     "id": "crypdick/pynchy",
     "language": "Python",
@@ -81,15 +189,6 @@
     "url": "https://github.com/crypdick/pynchy"
   },
   {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-06T06:00:04Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -97,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T05:58:59Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
-    "id": "CHAOSX-SPACE/god-of-the-void",
-    "language": "Python",
-    "name": "CHAOSX-SPACE/god-of-the-void",
-    "stars": 1,
-    "updated_at": "2026-09-06T06:01:18Z",
-    "url": "https://github.com/CHAOSX-SPACE/god-of-the-void"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 151,
-    "updated_at": "2026-09-06T06:11:13Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
@@ -151,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T05:48:26Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19173,
-    "updated_at": "2026-09-06T06:10:19Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "My personal directory of AI Agent skills",
@@ -261,15 +333,6 @@
     "url": "https://github.com/Serennity007/awesome-stock-quant-skills"
   },
   {
-    "description": "A skill that turns a written recipe into an execution-order cooking timeline.",
-    "id": "tiny-glitch/recipe-timeline",
-    "language": "\u2014",
-    "name": "tiny-glitch/recipe-timeline",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:31:55Z",
-    "url": "https://github.com/tiny-glitch/recipe-timeline"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -302,7 +365,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68737,
-    "updated_at": "2026-09-06T06:01:13Z",
+    "updated_at": "2026-09-06T06:25:21Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -356,7 +419,7 @@
     "language": "JavaScript",
     "name": "JasonColapietro/suede-creator-skills",
     "stars": 130,
-    "updated_at": "2026-09-06T05:27:19Z",
+    "updated_at": "2026-09-06T06:24:59Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 52,
     "updated_at": "2026-09-06T05:14:18Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-06T05:12:44Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
-    "id": "thepictishbeast/claude-tools",
-    "language": "Rust",
-    "name": "thepictishbeast/claude-tools",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:11:04Z",
-    "url": "https://github.com/thepictishbeast/claude-tools"
-  },
-  {
-    "description": "AI agent skills for LINE platform development \u2014 Messaging API, Login, LIFF, MINI App, and Notification Messages.",
-    "id": "abgne/line-dev",
-    "language": "Python",
-    "name": "abgne/line-dev",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:07:29Z",
-    "url": "https://github.com/abgne/line-dev"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:05:49Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-09-06T05:05:05Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Agent Skills/Plugins/Connectors for biomedical research with the biomcp-ts MCP server.",
-    "id": "yeyuan98/bioresearcher-skills",
-    "language": "JavaScript",
-    "name": "yeyuan98/bioresearcher-skills",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:04:52Z",
-    "url": "https://github.com/yeyuan98/bioresearcher-skills"
-  },
-  {
-    "description": "A Claude skill that turns a folder into a collaboration knowledge base for you, your AI, and your humans",
-    "id": "idea2go2go/smartfolder-skill",
-    "language": "Python",
-    "name": "idea2go2go/smartfolder-skill",
-    "stars": 13,
-    "updated_at": "2026-09-06T05:08:09Z",
-    "url": "https://github.com/idea2go2go/smartfolder-skill"
   }
 ]
