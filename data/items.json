@@ -1,5 +1,86 @@
 [
   {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-09-06T03:45:00Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 142,
+    "updated_at": "2026-09-06T03:44:13Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-09-06T03:42:48Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Evidence-bound business architecture engineering: strategy, value streams, capabilities and process architecture with de",
+    "id": "yslicn/ba-generation-skill",
+    "language": "Python",
+    "name": "yslicn/ba-generation-skill",
+    "stars": 1,
+    "updated_at": "2026-09-06T03:39:21Z",
+    "url": "https://github.com/yslicn/ba-generation-skill"
+  },
+  {
+    "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
+    "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
+    "language": "TypeScript",
+    "name": "Shantydotcom/northstariq-revenue-operations-intelligence",
+    "stars": 0,
+    "updated_at": "2026-09-06T03:36:02Z",
+    "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
+  },
+  {
+    "description": "Claude Code skill for award-site motion pages \u2014 Three.js worlds, liquid-glass shaders, springy poster walls. Single-file",
+    "id": "jiangyurong609/motion-pages",
+    "language": "JavaScript",
+    "name": "jiangyurong609/motion-pages",
+    "stars": 2,
+    "updated_at": "2026-09-06T03:34:34Z",
+    "url": "https://github.com/jiangyurong609/motion-pages"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 88,
+    "updated_at": "2026-09-06T03:33:47Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
+    "id": "XiaoMaColtAI/math-modeling-skill",
+    "language": "Python",
+    "name": "XiaoMaColtAI/math-modeling-skill",
+    "stars": 1116,
+    "updated_at": "2026-09-06T03:32:42Z",
+    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T03:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Skills",
     "id": "MrBinnacle/skills",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 8,
     "updated_at": "2026-09-06T03:27:22Z",
     "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 5,
-    "updated_at": "2026-09-06T03:26:31Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
   },
   {
     "description": "Claude Code and Codex SKILLs for PDF, Excel, Word, and PowerPoint manipulation \u2014 extraction, forms, formulas, tracked ch",
@@ -61,15 +133,6 @@
     "stars": 49,
     "updated_at": "2026-09-06T03:15:13Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T03:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 127 Specialized AI Agent Skills, 3-Step Autonomous Workflow, and Local SEO Operating System for Antigravity & Claude C",
@@ -171,24 +234,6 @@
     "url": "https://github.com/poorvith-mp/skillary"
   },
   {
-    "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
-    "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
-    "language": "TypeScript",
-    "name": "Shantydotcom/northstariq-revenue-operations-intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-06T02:54:21Z",
-    "url": "https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence"
-  },
-  {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-06T03:13:53Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
     "description": "Agent Skills/Plugins/Connectors for biomedical research with the biomcp-ts MCP server.",
     "id": "yeyuan98/bioresearcher-skills",
     "language": "JavaScript",
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T02:45:17Z",
     "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
-  },
-  {
-    "description": "Evidence-bound business architecture engineering: strategy, value streams, capabilities and process architecture with de",
-    "id": "yslicn/ba-generation-skill",
-    "language": "Python",
-    "name": "yslicn/ba-generation-skill",
-    "stars": 1,
-    "updated_at": "2026-09-06T02:43:14Z",
-    "url": "https://github.com/yslicn/ba-generation-skill"
   },
   {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
@@ -378,15 +414,6 @@
     "url": "https://github.com/chancegraff/rules-for-claude"
   },
   {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 142,
-    "updated_at": "2026-09-06T03:29:31Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
     "description": "Curated Claude Code plugins by Knitli",
     "id": "knitli/toolshed",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-06T01:54:37Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 283,
-    "updated_at": "2026-09-06T01:48:58Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "The SEO + AI-search (GEO/AEO) optimization toolkit for Claude Code \u2014 two-score audit + opt-in fixer. Built for 2026-2027",
-    "id": "Hainrixz/claude-seo-ai",
-    "language": "JavaScript",
-    "name": "Hainrixz/claude-seo-ai",
-    "stars": 49,
-    "updated_at": "2026-09-06T01:43:43Z",
-    "url": "https://github.com/Hainrixz/claude-seo-ai"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 416,
-    "updated_at": "2026-09-06T01:34:50Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   }
 ]
