@@ -1,5 +1,86 @@
 [
   {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2440,
+    "updated_at": "2026-09-06T08:28:08Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-09-06T08:27:31Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
+    "description": "Turn structured prose into polished, self-contained HTML diagrams - 9 chart types x 5 themes, with optional high-res PNG",
+    "id": "GODVvVZzz/text2html2png",
+    "language": "HTML",
+    "name": "GODVvVZzz/text2html2png",
+    "stars": 1,
+    "updated_at": "2026-09-06T08:25:12Z",
+    "url": "https://github.com/GODVvVZzz/text2html2png"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-09-06T08:24:55Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "skill-autodl-auto-sync",
+    "id": "1zqqx/skill-autodl-auto-sync",
+    "language": "Shell",
+    "name": "1zqqx/skill-autodl-auto-sync",
+    "stars": 0,
+    "updated_at": "2026-09-06T08:20:26Z",
+    "url": "https://github.com/1zqqx/skill-autodl-auto-sync"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 151,
+    "updated_at": "2026-09-06T08:26:41Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19173,
+    "updated_at": "2026-09-06T08:18:47Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "\u5fae\u4fe1\u516c\u4f17\u53f7 AI \u8fd0\u8425\u52a9\u624b | \u9009\u9898\u3001\u5199\u7a3f\u3001\u5ba1\u7a3f\u3001\u6392\u7248\u3001\u914d\u56fe\u3001\u53d1\u5e03\u5168\u6d41\u7a0b Skill\uff0c\u652f\u6301 OpenClaw / Claude Code / Cursor / Codex",
+    "id": "aiworkskills/wechat-article-skills",
+    "language": "Python",
+    "name": "aiworkskills/wechat-article-skills",
+    "stars": 562,
+    "updated_at": "2026-09-06T08:16:40Z",
+    "url": "https://github.com/aiworkskills/wechat-article-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T08:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude & GPT skills for solo creators \u2014 Korean business messaging, B2B quoting, Gmail/Todoist/Calendar briefings, Obsidi",
     "id": "Rneayan/airship-skills",
     "language": "Python",
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T08:09:42Z",
     "url": "https://github.com/Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz"
-  },
-  {
-    "description": "\u5fae\u4fe1\u516c\u4f17\u53f7 AI \u8fd0\u8425\u52a9\u624b | \u9009\u9898\u3001\u5199\u7a3f\u3001\u5ba1\u7a3f\u3001\u6392\u7248\u3001\u914d\u56fe\u3001\u53d1\u5e03\u5168\u6d41\u7a0b Skill\uff0c\u652f\u6301 OpenClaw / Claude Code / Cursor / Codex",
-    "id": "aiworkskills/wechat-article-skills",
-    "language": "Python",
-    "name": "aiworkskills/wechat-article-skills",
-    "stars": 562,
-    "updated_at": "2026-09-06T08:08:46Z",
-    "url": "https://github.com/aiworkskills/wechat-article-skills"
   },
   {
     "description": "\ud83d\udc68 A Claude Code skill that strips the tells of AI-generated writing: 27 named pattern categories, a 70-term banned vocab",
@@ -63,15 +135,6 @@
     "url": "https://github.com/SentiSenseApp/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T08:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
@@ -86,7 +149,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-06T07:58:55Z",
+    "updated_at": "2026-09-06T08:29:43Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -283,7 +346,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 6247,
+    "stars": 6248,
     "updated_at": "2026-09-06T06:55:34Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -342,15 +405,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19173,
-    "updated_at": "2026-09-06T07:46:51Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "\u770b\u900f\u672c\u8d28\u7684 Claude Skill \u2014 \u5265\u6389\u53d9\u4e8b\u62c6\u5230\u5e95\u5c42\u9a71\u52a8\u529b,\u903c\u51fa\u4e00\u53e5\u53ef\u8bc1\u4f2a\u7684\u672c\u8d28,\u7ea2\u961f\u8bc1\u4f2a\u540e\u53ea\u7ed9\u4e00\u4e2a\u6760\u6746\u70b9",
     "id": "blackshixin-rgb/essence",
     "language": "\u2014",
@@ -364,7 +418,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33805,
+    "stars": 33808,
     "updated_at": "2026-09-06T06:36:54Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -376,15 +430,6 @@
     "stars": 142,
     "updated_at": "2026-09-06T06:49:29Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-09-06T06:33:58Z",
-    "url": "https://github.com/huangwb8/skills"
   },
   {
     "description": "74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grade, CI gates",
@@ -403,50 +448,5 @@
     "stars": 68739,
     "updated_at": "2026-09-06T06:31:57Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-06T06:31:37Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 151,
-    "updated_at": "2026-09-06T08:10:52Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Tells you whether a startup idea is worth building. Research agents argue with each other \u2014 one tries to kill it, one tr",
-    "id": "rishabhrawat35/idea-research",
-    "language": "Python",
-    "name": "rishabhrawat35/idea-research",
-    "stars": 1,
-    "updated_at": "2026-09-06T06:28:00Z",
-    "url": "https://github.com/rishabhrawat35/idea-research"
-  },
-  {
-    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
-    "id": "jasonm4130/claude-skills",
-    "language": "JavaScript",
-    "name": "jasonm4130/claude-skills",
-    "stars": 5,
-    "updated_at": "2026-09-06T06:26:23Z",
-    "url": "https://github.com/jasonm4130/claude-skills"
-  },
-  {
-    "description": "\u901a\u7528\u8bbe\u8ba1\u5de5\u4f5c\u6d41\u6280\u80fd\u2014\u2014\u4e94\u5c42\u4e32\u8054\u6a21\u578b\uff08\u573a\u666f\u2192\u611f\u77e5\u7269\u6599\u2192\u5f62\u5f0f\u7ec4\u7ec7\u2192\u4fe1\u606f\u53d9\u4e8b\u2192\u4e3b\u89c2\u8f93\u51fa\uff09\uff0c\u542b 12 \u4e2a\u4e13\u9879\u5b50\u6280\u80fd",
-    "id": "yang20040317-svg/design-workflow",
-    "language": "Python",
-    "name": "yang20040317-svg/design-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-06T06:23:24Z",
-    "url": "https://github.com/yang20040317-svg/design-workflow"
   }
 ]
