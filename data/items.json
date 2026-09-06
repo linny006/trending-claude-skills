@@ -1,12 +1,66 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 416,
+    "updated_at": "2026-09-06T12:14:45Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "One CSS block that gives flat AI-built sites a ground, a light source and mounted surfaces. Agent Skill for Claude Code,",
+    "id": "merturl4576/unflat",
+    "language": "HTML",
+    "name": "merturl4576/unflat",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:12:20Z",
+    "url": "https://github.com/merturl4576/unflat"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 154,
+    "updated_at": "2026-09-06T12:12:43Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
+    "id": "NishikantaRay/Attic",
+    "language": "JavaScript",
+    "name": "NishikantaRay/Attic",
+    "stars": 3,
+    "updated_at": "2026-09-06T12:08:30Z",
+    "url": "https://github.com/NishikantaRay/Attic"
+  },
+  {
     "description": "\u96f6\u95e8\u69db /goal \u8d77\u8349\u5668 \u00b7 Zero-barrier /goal drafter \u2014 \u8bf4\u4eba\u8bdd\u3001\u7b54\u9009\u62e9\u9898\uff0c\u4ea7\u51fa\u5e26\u9a8c\u6536\u5224\u636e\u548c\u5239\u8f66\u7684\u5f3a\u76ee\u6807\uff1bsay a wish, answer a few questions, get a strong go",
     "id": "Kaiji-Z/find-my-goal",
     "language": "Shell",
     "name": "Kaiji-Z/find-my-goal",
     "stars": 1,
-    "updated_at": "2026-09-06T11:59:49Z",
+    "updated_at": "2026-09-06T12:08:03Z",
     "url": "https://github.com/Kaiji-Z/find-my-goal"
+  },
+  {
+    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
+    "id": "ergrelet/windiff",
+    "language": "Rust",
+    "name": "ergrelet/windiff",
+    "stars": 391,
+    "updated_at": "2026-09-06T12:05:23Z",
+    "url": "https://github.com/ergrelet/windiff"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T12:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
@@ -61,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-09-06T11:51:43Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T11:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -198,15 +243,6 @@
     "url": "https://github.com/osrim/ski"
   },
   {
-    "description": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
-    "id": "NishikantaRay/Attic",
-    "language": "JavaScript",
-    "name": "NishikantaRay/Attic",
-    "stars": 3,
-    "updated_at": "2026-09-06T11:18:07Z",
-    "url": "https://github.com/NishikantaRay/Attic"
-  },
-  {
     "description": "Claude Code and Codex skill that strips AI tells from prose and puts a human voice back, in British English. Prose only,",
     "id": "dbhq-uk/verve-skill",
     "language": "Python",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 1,
-    "updated_at": "2026-09-06T11:40:29Z",
+    "updated_at": "2026-09-06T12:14:46Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T11:09:41Z",
     "url": "https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:09:30Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 284,
-    "updated_at": "2026-09-06T11:06:54Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "AI QA Lead that turns requirements (PDF, DOCX, XLSX) into TestRail-ready test cases in one conversation. Free, open-sour",
-    "id": "JohnWayneeee/casely-qa-skill",
-    "language": "Python",
-    "name": "JohnWayneeee/casely-qa-skill",
-    "stars": 7,
-    "updated_at": "2026-09-06T11:15:13Z",
-    "url": "https://github.com/JohnWayneeee/casely-qa-skill"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 4,
-    "updated_at": "2026-09-06T11:06:41Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
   }
 ]
