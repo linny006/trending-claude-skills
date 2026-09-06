@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T03:28:33Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-09-06T03:27:22Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-09-06T03:26:31Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "Claude Code and Codex SKILLs for PDF, Excel, Word, and PowerPoint manipulation \u2014 extraction, forms, formulas, tracked ch",
+    "id": "appautomaton/document-SKILLs",
+    "language": "Python",
+    "name": "appautomaton/document-SKILLs",
+    "stars": 157,
+    "updated_at": "2026-09-06T03:24:16Z",
+    "url": "https://github.com/appautomaton/document-SKILLs"
+  },
+  {
+    "description": "A 12-role LinkedIn and resume operating system for founders and multi-lane professionals. Profile, content, voice, netwo",
+    "id": "Nyce-ArrowProd/linkedin-founder-os",
+    "language": "\u2014",
+    "name": "Nyce-ArrowProd/linkedin-founder-os",
+    "stars": 0,
+    "updated_at": "2026-09-06T03:23:02Z",
+    "url": "https://github.com/Nyce-ArrowProd/linkedin-founder-os"
+  },
+  {
+    "description": "Hermes Skills: \u89c6\u9891\u8f6c\u6587\u5b57 / AI\u6587\u6848\u53bb\u5473 / \u6587\u6863OCR / \u7535\u5546\u7d20\u6750\u5de5\u574a (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio)",
+    "id": "jiawood2006/hermes-skills",
+    "language": "Python",
+    "name": "jiawood2006/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T03:21:56Z",
+    "url": "https://github.com/jiawood2006/hermes-skills"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 49,
+    "updated_at": "2026-09-06T03:15:13Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T03:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\ude80 127 Specialized AI Agent Skills, 3-Step Autonomous Workflow, and Local SEO Operating System for Antigravity & Claude C",
     "id": "jahidulislamseo/antigravity-ai-skills",
     "language": "Shell",
@@ -99,15 +171,6 @@
     "url": "https://github.com/poorvith-mp/skillary"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T03:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Revenue Operations intelligence for Salesforce: governed controls, CRM data integrity, routing, SLA and pipeline diagnos",
     "id": "Shantydotcom/northstariq-revenue-operations-intelligence",
     "language": "TypeScript",
@@ -153,15 +216,6 @@
     "url": "https://github.com/ArcticFox2029/chamnan"
   },
   {
-    "description": "Claude Skills",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 0,
-    "updated_at": "2026-09-06T02:48:15Z",
-    "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
     "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
     "id": "thepictishbeast/claude-tools",
     "language": "Rust",
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "ashfulcra/fulcra-tools",
     "stars": 10,
-    "updated_at": "2026-09-06T02:45:36Z",
+    "updated_at": "2026-09-06T03:17:54Z",
     "url": "https://github.com/ashfulcra/fulcra-tools"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T02:45:17Z",
     "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
-  },
-  {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 5,
-    "updated_at": "2026-09-06T02:43:36Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
   },
   {
     "description": "Evidence-bound business architecture engineering: strategy, value streams, capabilities and process architecture with de",
@@ -247,7 +292,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68731,
+    "stars": 68732,
     "updated_at": "2026-09-06T02:30:54Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -315,6 +360,15 @@
     "url": "https://github.com/zeikar/hyperclaude"
   },
   {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 974,
+    "updated_at": "2026-09-06T02:19:54Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
     "description": "Hooks, rules, skills, and instructions for use with Claude Code",
     "id": "chancegraff/rules-for-claude",
     "language": "HTML",
@@ -324,21 +378,12 @@
     "url": "https://github.com/chancegraff/rules-for-claude"
   },
   {
-    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
-    "id": "hoangsonww/Claude-Code-Agent-Monitor",
-    "language": "TypeScript",
-    "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 973,
-    "updated_at": "2026-09-06T02:19:54Z",
-    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
     "id": "arbiterForge/codeArbiter",
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 142,
-    "updated_at": "2026-09-06T02:54:20Z",
+    "updated_at": "2026-09-06T03:29:31Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -367,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T02:00:10Z",
     "url": "https://github.com/wanghie/nqh-skills"
-  },
-  {
-    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 8,
-    "updated_at": "2026-09-06T01:58:35Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -412,41 +448,5 @@
     "stars": 416,
     "updated_at": "2026-09-06T01:34:50Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Claude Code plugin for premium three.js/WebGL work: skills with a slop checklist and technique library, audit commands, ",
-    "id": "JonathanBeck1/claude-studio-toolkit",
-    "language": "Python",
-    "name": "JonathanBeck1/claude-studio-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-06T01:33:35Z",
-    "url": "https://github.com/JonathanBeck1/claude-studio-toolkit"
-  },
-  {
-    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
-    "id": "boshu2/agentops",
-    "language": "Shell",
-    "name": "boshu2/agentops",
-    "stars": 433,
-    "updated_at": "2026-09-06T01:32:52Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
-    "id": "kcy4334-lgtm/translate-book-arxiv",
-    "language": "Python",
-    "name": "kcy4334-lgtm/translate-book-arxiv",
-    "stars": 0,
-    "updated_at": "2026-09-06T01:29:32Z",
-    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 146,
-    "updated_at": "2026-09-06T02:09:29Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   }
 ]
