@@ -1,12 +1,129 @@
 [
   {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-09-06T15:43:01Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, con",
+    "id": "LetA-Tech/mellions-coxen",
+    "language": "Go",
+    "name": "LetA-Tech/mellions-coxen",
+    "stars": 1,
+    "updated_at": "2026-09-06T15:44:09Z",
+    "url": "https://github.com/LetA-Tech/mellions-coxen"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 6,
+    "updated_at": "2026-09-06T15:39:22Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-06T15:39:14Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68756,
+    "updated_at": "2026-09-06T15:39:31Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-09-06T15:37:50Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Claude Plugin: Local Linear AI agent, your favorite harness",
+    "id": "mikhailkogan17/cycler",
+    "language": "JavaScript",
+    "name": "mikhailkogan17/cycler",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:37:39Z",
+    "url": "https://github.com/mikhailkogan17/cycler"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 6,
+    "updated_at": "2026-09-06T15:37:40Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
     "description": "Claude Skills",
     "id": "MrBinnacle/skills",
     "language": "Python",
     "name": "MrBinnacle/skills",
     "stars": 0,
-    "updated_at": "2026-09-06T15:29:34Z",
+    "updated_at": "2026-09-06T15:36:56Z",
     "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Job-hunting research analyst skill: turn target companies & roles into structured intelligence \u2014 salary, tech stack, gro",
+    "id": "qiusuo0226/job-research-analyst-skill",
+    "language": "Python",
+    "name": "qiusuo0226/job-research-analyst-skill",
+    "stars": 2,
+    "updated_at": "2026-09-06T15:35:31Z",
+    "url": "https://github.com/qiusuo0226/job-research-analyst-skill"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 25,
+    "updated_at": "2026-09-06T15:35:02Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-06T15:34:45Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T15:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ",
+    "id": "Egonex-AI/Understand-Anything",
+    "language": "TypeScript",
+    "name": "Egonex-AI/Understand-Anything",
+    "stars": 81649,
+    "updated_at": "2026-09-06T15:29:47Z",
+    "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
   {
     "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow diagrams, inside the pull request it",
@@ -27,15 +144,6 @@
     "url": "https://github.com/alncat/opus-et-agent"
   },
   {
-    "description": "repo for reusable plugins and skills",
-    "id": "richfrem/agent-plugins-skills",
-    "language": "Python",
-    "name": "richfrem/agent-plugins-skills",
-    "stars": 6,
-    "updated_at": "2026-09-06T15:24:49Z",
-    "url": "https://github.com/richfrem/agent-plugins-skills"
-  },
-  {
     "description": "A design-direction skill with a curated visual library, weighted choices and output-backed visual craft review.",
     "id": "Stianlars1/drawn-to",
     "language": "JavaScript",
@@ -54,22 +162,13 @@
     "url": "https://github.com/drop-project-edu/claude-skills"
   },
   {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-09-06T15:23:09Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-06T15:29:58Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 158,
+    "updated_at": "2026-09-06T15:38:27Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Markdown in \u2014 a beautifully typeset document on your reMarkable, one command later. E-ink tuned PDF pipeline: 12pt typog",
@@ -86,17 +185,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-06T15:20:05Z",
+    "updated_at": "2026-09-06T15:39:23Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T15:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
@@ -126,15 +216,6 @@
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68756,
-    "updated_at": "2026-09-06T15:29:48Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Claude Code plugin marketplace: 8 engineering skills (wagner-skills) + a 14-skill reverse-engineering pipeline that turn",
     "id": "wagneripjr/skills",
     "language": "JavaScript",
@@ -142,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T15:09:34Z",
     "url": "https://github.com/wagneripjr/skills"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 157,
-    "updated_at": "2026-09-06T15:23:38Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands \u2014 GitHub + Convex (self-hosted & Cloud)",
@@ -196,15 +268,6 @@
     "stars": 148,
     "updated_at": "2026-09-06T15:14:26Z",
     "url": "https://github.com/serpro69/claude-toolbox"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 6,
-    "updated_at": "2026-09-06T14:54:24Z",
-    "url": "https://github.com/using-system/oddyssey"
   },
   {
     "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
@@ -286,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T14:36:04Z",
     "url": "https://github.com/Nyce-ArrowProd/linkedin-founder-os"
-  },
-  {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-06T15:05:06Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
     "description": "Multi-model AI code review for Claude Code. An independent second opinion on every design and diff from GPT-5.6-SOL (Cod",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-06T14:12:15Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30708,
-    "updated_at": "2026-09-06T14:10:09Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
-    "id": "open-coder-ai/context-report",
-    "language": "Python",
-    "name": "open-coder-ai/context-report",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:05:52Z",
-    "url": "https://github.com/open-coder-ai/context-report"
-  },
-  {
-    "description": "\"We can solve anything with the good ol' method of trial & error\" - Senku",
-    "id": "SentImperior666/TrialError",
-    "language": "Python",
-    "name": "SentImperior666/TrialError",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:29:34Z",
-    "url": "https://github.com/SentImperior666/TrialError"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 443,
-    "updated_at": "2026-09-06T14:13:37Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:01:36Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:01:13Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   }
 ]
