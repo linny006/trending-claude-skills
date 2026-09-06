@@ -1,5 +1,104 @@
 [
   {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:29:34Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow diagrams, inside the pull request it",
+    "id": "coldteadotai/pr-lens",
+    "language": "TypeScript",
+    "name": "coldteadotai/pr-lens",
+    "stars": 304,
+    "updated_at": "2026-09-06T15:27:17Z",
+    "url": "https://github.com/coldteadotai/pr-lens"
+  },
+  {
+    "description": "OPUS-ET-AGENT: An agentic workflow for cryo-ET that turns raw movies into molecular sociology",
+    "id": "alncat/opus-et-agent",
+    "language": "Python",
+    "name": "alncat/opus-et-agent",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:26:28Z",
+    "url": "https://github.com/alncat/opus-et-agent"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 6,
+    "updated_at": "2026-09-06T15:24:49Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "A design-direction skill with a curated visual library, weighted choices and output-backed visual craft review.",
+    "id": "Stianlars1/drawn-to",
+    "language": "JavaScript",
+    "name": "Stianlars1/drawn-to",
+    "stars": 1,
+    "updated_at": "2026-09-06T15:26:48Z",
+    "url": "https://github.com/Stianlars1/drawn-to"
+  },
+  {
+    "description": "Skills that teach Claude how to handle several teacher tasks on Drop Project",
+    "id": "drop-project-edu/claude-skills",
+    "language": "Java",
+    "name": "drop-project-edu/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:23:56Z",
+    "url": "https://github.com/drop-project-edu/claude-skills"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-09-06T15:23:09Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-06T15:29:58Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Markdown in \u2014 a beautifully typeset document on your reMarkable, one command later. E-ink tuned PDF pipeline: 12pt typog",
+    "id": "forcewake/remarkable-send",
+    "language": "Python",
+    "name": "forcewake/remarkable-send",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:16:47Z",
+    "url": "https://github.com/forcewake/remarkable-send"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-06T15:20:05Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T15:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
     "id": "arbiterForge/codeArbiter",
     "language": "Python",
@@ -31,8 +130,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68755,
-    "updated_at": "2026-09-06T15:10:03Z",
+    "stars": 68756,
+    "updated_at": "2026-09-06T15:29:48Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -50,7 +149,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 157,
-    "updated_at": "2026-09-06T15:08:03Z",
+    "updated_at": "2026-09-06T15:23:38Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -72,24 +171,6 @@
     "url": "https://github.com/lenamonj/jeffy-loop"
   },
   {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-09-06T15:02:56Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Markdown in \u2014 a beautifully typeset document on your reMarkable, one command later. E-ink tuned PDF pipeline: 12pt typog",
-    "id": "forcewake/remarkable-send",
-    "language": "Python",
-    "name": "forcewake/remarkable-send",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:02:36Z",
-    "url": "https://github.com/forcewake/remarkable-send"
-  },
-  {
     "description": "",
     "id": "SELAT-AI/selat-skills",
     "language": "JavaScript",
@@ -108,15 +189,6 @@
     "url": "https://github.com/martinambrus/haive"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T15:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
     "id": "serpro69/claude-toolbox",
     "language": "Shell",
@@ -133,15 +205,6 @@
     "stars": 6,
     "updated_at": "2026-09-06T14:54:24Z",
     "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-06T15:14:39Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
@@ -356,7 +419,7 @@
     "language": "Python",
     "name": "SentImperior666/TrialError",
     "stars": 0,
-    "updated_at": "2026-09-06T14:05:10Z",
+    "updated_at": "2026-09-06T15:29:34Z",
     "url": "https://github.com/SentImperior666/TrialError"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T14:01:13Z",
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:00:37Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 3,
-    "updated_at": "2026-09-06T13:59:43Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-09-06T13:58:10Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-09-06T13:57:25Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-06T13:56:32Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-09-06T13:54:10Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-09-06T13:54:08Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
