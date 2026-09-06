@@ -1,11 +1,92 @@
 [
   {
+    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
+    "id": "ashfulcra/fulcra-tools",
+    "language": "Python",
+    "name": "ashfulcra/fulcra-tools",
+    "stars": 10,
+    "updated_at": "2026-09-06T02:44:54Z",
+    "url": "https://github.com/ashfulcra/fulcra-tools"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-09-06T02:43:57Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-09-06T02:43:36Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "Evidence-bound business architecture engineering: strategy, value streams, capabilities and process architecture with de",
+    "id": "yslicn/ba-generation-skill",
+    "language": "Python",
+    "name": "yslicn/ba-generation-skill",
+    "stars": 1,
+    "updated_at": "2026-09-06T02:43:14Z",
+    "url": "https://github.com/yslicn/ba-generation-skill"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 93299,
+    "updated_at": "2026-09-06T02:40:01Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 77 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, pai",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 10,
+    "updated_at": "2026-09-06T02:39:40Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness \u2014 open Agent Skills standard, not Claude-",
+    "id": "shimo4228/claude-harness",
+    "language": "Python",
+    "name": "shimo4228/claude-harness",
+    "stars": 2,
+    "updated_at": "2026-09-06T02:36:41Z",
+    "url": "https://github.com/shimo4228/claude-harness"
+  },
+  {
+    "description": "\u53ef\u91cd\u8907\u4f7f\u7528\u7684 AI Agent \u6280\u80fd\u5eab\uff0c\u6db5\u84cb\u7a0b\u5f0f\u958b\u767c\u3001\u67b6\u69cb\u8a2d\u8a08\u3001\u7a0b\u5f0f\u78bc\u5be9\u67e5\u3001DevOps\u3001\u5b89\u5168\u6027\u8207\u5de5\u7a0b\u5de5\u4f5c\u6d41\u7a0b\u3002",
+    "id": "Benknightdark/neo-skills",
+    "language": "JavaScript",
+    "name": "Benknightdark/neo-skills",
+    "stars": 7,
+    "updated_at": "2026-09-06T02:31:04Z",
+    "url": "https://github.com/Benknightdark/neo-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T02:30:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "OmO: Drop your tokens. Ultrawork. Done.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68732,
-    "updated_at": "2026-09-06T02:29:58Z",
+    "updated_at": "2026-09-06T02:30:54Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -18,13 +99,13 @@
     "url": "https://github.com/Ap6pack/outrider-recon"
   },
   {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-06T02:27:16Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
+    "description": "Agent skill: make me money trading via EdgeVerdict paper-first Coinbase sleeve",
+    "id": "edgeverdict/edgeverdict-make-me-money-trading",
+    "language": "\u2014",
+    "name": "edgeverdict/edgeverdict-make-me-money-trading",
+    "stars": 0,
+    "updated_at": "2026-09-06T02:27:44Z",
+    "url": "https://github.com/edgeverdict/edgeverdict-make-me-money-trading"
   },
   {
     "description": "Persistent long-term memory for Claude Code agents \u2014 SQLite + FTS5 + sqlite-vec + RRF hybrid recall over MCP, with Chine",
@@ -63,15 +144,6 @@
     "url": "https://github.com/zeikar/hyperclaude"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T02:15:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Hooks, rules, skills, and instructions for use with Claude Code",
     "id": "chancegraff/rules-for-claude",
     "language": "HTML",
@@ -104,7 +176,7 @@
     "language": "TypeScript",
     "name": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
     "stars": 0,
-    "updated_at": "2026-09-06T02:03:54Z",
+    "updated_at": "2026-09-06T02:33:41Z",
     "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 8,
     "updated_at": "2026-09-06T01:58:35Z",
     "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "\u53ef\u91cd\u8907\u4f7f\u7528\u7684 AI Agent \u6280\u80fd\u5eab\uff0c\u6db5\u84cb\u7a0b\u5f0f\u958b\u767c\u3001\u67b6\u69cb\u8a2d\u8a08\u3001\u7a0b\u5f0f\u78bc\u5be9\u67e5\u3001DevOps\u3001\u5b89\u5168\u6027\u8207\u5de5\u7a0b\u5de5\u4f5c\u6d41\u7a0b\u3002",
-    "id": "Benknightdark/neo-skills",
-    "language": "JavaScript",
-    "name": "Benknightdark/neo-skills",
-    "stars": 7,
-    "updated_at": "2026-09-06T01:56:48Z",
-    "url": "https://github.com/Benknightdark/neo-skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -243,15 +306,6 @@
     "url": "https://github.com/boshu2/agentops"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 93298,
-    "updated_at": "2026-09-06T02:29:23Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
     "id": "kcy4334-lgtm/translate-book-arxiv",
     "language": "Python",
@@ -329,7 +383,7 @@
     "language": "JavaScript",
     "name": "JasonColapietro/suede-creator-skills",
     "stars": 130,
-    "updated_at": "2026-09-06T01:05:47Z",
+    "updated_at": "2026-09-06T02:43:06Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
@@ -365,7 +419,7 @@
     "language": "Python",
     "name": "ArcticFox2029/chamnan",
     "stars": 4,
-    "updated_at": "2026-09-06T00:56:59Z",
+    "updated_at": "2026-09-06T02:37:19Z",
     "url": "https://github.com/ArcticFox2029/chamnan"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 48,
     "updated_at": "2026-09-06T00:53:00Z",
     "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-06T00:50:58Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Claude Code skills that turn papers and conversations into a cross-linked Obsidian knowledge base \u2014 ten-section paper no",
-    "id": "alfredzhang98/research-obsidian-skill",
-    "language": "Python",
-    "name": "alfredzhang98/research-obsidian-skill",
-    "stars": 0,
-    "updated_at": "2026-09-06T00:45:30Z",
-    "url": "https://github.com/alfredzhang98/research-obsidian-skill"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-06T00:43:36Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-06T00:42:49Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-09-06T00:42:47Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-06T00:42:26Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   }
 ]
