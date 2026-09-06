@@ -1,5 +1,77 @@
 [
   {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68732,
+    "updated_at": "2026-09-06T02:29:58Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-cli",
+    "id": "Ap6pack/outrider-recon",
+    "language": "Python",
+    "name": "Ap6pack/outrider-recon",
+    "stars": 8,
+    "updated_at": "2026-09-06T02:29:51Z",
+    "url": "https://github.com/Ap6pack/outrider-recon"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-09-06T02:27:16Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Persistent long-term memory for Claude Code agents \u2014 SQLite + FTS5 + sqlite-vec + RRF hybrid recall over MCP, with Chine",
+    "id": "AgentGameLab/mneme",
+    "language": "JavaScript",
+    "name": "AgentGameLab/mneme",
+    "stars": 7,
+    "updated_at": "2026-09-06T02:26:42Z",
+    "url": "https://github.com/AgentGameLab/mneme"
+  },
+  {
+    "description": "ShellBrain. Long-term memory for AI.",
+    "id": "cucupac/shellbrain",
+    "language": "Python",
+    "name": "cucupac/shellbrain",
+    "stars": 13,
+    "updated_at": "2026-09-06T02:26:31Z",
+    "url": "https://github.com/cucupac/shellbrain"
+  },
+  {
+    "description": "AgentServices \u2014 Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments ",
+    "id": "vbkotecha/agentservices-api",
+    "language": "Python",
+    "name": "vbkotecha/agentservices-api",
+    "stars": 1,
+    "updated_at": "2026-09-06T02:24:19Z",
+    "url": "https://github.com/vbkotecha/agentservices-api"
+  },
+  {
+    "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous m",
+    "id": "zeikar/hyperclaude",
+    "language": "JavaScript",
+    "name": "zeikar/hyperclaude",
+    "stars": 3,
+    "updated_at": "2026-09-06T02:21:48Z",
+    "url": "https://github.com/zeikar/hyperclaude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T02:15:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Hooks, rules, skills, and instructions for use with Claude Code",
     "id": "chancegraff/rules-for-claude",
     "language": "HTML",
@@ -14,17 +86,8 @@
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 973,
-    "updated_at": "2026-09-06T02:07:19Z",
+    "updated_at": "2026-09-06T02:19:54Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-06T02:09:07Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
@@ -63,15 +126,6 @@
     "url": "https://github.com/Kevin7Qi/codex-collab"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T02:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "KHO SKILL \u2014 toan bo Claude Agent Skill ca nhan cua NQH. Dat ten nqh-<nhom>-<viec>, README co bang index tu sinh. Khong t",
     "id": "wanghie/nqh-skills",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 8,
     "updated_at": "2026-09-06T01:58:35Z",
     "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-cli",
-    "id": "Ap6pack/outrider-recon",
-    "language": "Python",
-    "name": "Ap6pack/outrider-recon",
-    "stars": 8,
-    "updated_at": "2026-09-06T02:14:54Z",
-    "url": "https://github.com/Ap6pack/outrider-recon"
   },
   {
     "description": "\u53ef\u91cd\u8907\u4f7f\u7528\u7684 AI Agent \u6280\u80fd\u5eab\uff0c\u6db5\u84cb\u7a0b\u5f0f\u958b\u767c\u3001\u67b6\u69cb\u8a2d\u8a08\u3001\u7a0b\u5f0f\u78bc\u5be9\u67e5\u3001DevOps\u3001\u5b89\u5168\u6027\u8207\u5de5\u7a0b\u5de5\u4f5c\u6d41\u7a0b\u3002",
@@ -203,7 +248,7 @@
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
     "stars": 93298,
-    "updated_at": "2026-09-06T01:31:16Z",
+    "updated_at": "2026-09-06T02:29:23Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T01:16:49Z",
     "url": "https://github.com/wilbeibi/wilbeibi-skills"
-  },
-  {
-    "description": "ShellBrain. Long-term memory for AI.",
-    "id": "cucupac/shellbrain",
-    "language": "Python",
-    "name": "cucupac/shellbrain",
-    "stars": 13,
-    "updated_at": "2026-09-06T01:16:44Z",
-    "url": "https://github.com/cucupac/shellbrain"
   },
   {
     "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T00:42:26Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 3,
-    "updated_at": "2026-09-06T00:40:47Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Six skills tell coding agents how to work. Two guards enforce the parts that should not depend on judgment.",
-    "id": "Ezra144israel/governed-agent-skills",
-    "language": "Python",
-    "name": "Ezra144israel/governed-agent-skills",
-    "stars": 21,
-    "updated_at": "2026-09-06T00:39:52Z",
-    "url": "https://github.com/Ezra144israel/governed-agent-skills"
-  },
-  {
-    "description": "One CSS block that gives flat AI-built sites a ground, a light source and mounted surfaces. Agent Skill for Claude Code,",
-    "id": "merturl4576/unflat",
-    "language": "HTML",
-    "name": "merturl4576/unflat",
-    "stars": 1,
-    "updated_at": "2026-09-06T00:38:32Z",
-    "url": "https://github.com/merturl4576/unflat"
-  },
-  {
-    "description": "Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antig",
-    "id": "dinhanhthi/coding-friend",
-    "language": "TypeScript",
-    "name": "dinhanhthi/coding-friend",
-    "stars": 3,
-    "updated_at": "2026-09-06T00:39:55Z",
-    "url": "https://github.com/dinhanhthi/coding-friend"
   }
 ]
