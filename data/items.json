@@ -1,12 +1,57 @@
 [
   {
-    "description": "One-page Harvard-format resume aimed at a specific posting. A Claude Code skill with a fitter that keeps it to a page an",
-    "id": "MartinPuli/cvfit",
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 157,
+    "updated_at": "2026-09-06T14:59:48Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68755,
+    "updated_at": "2026-09-06T14:55:12Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
+    "id": "serpro69/claude-toolbox",
+    "language": "Shell",
+    "name": "serpro69/claude-toolbox",
+    "stars": 148,
+    "updated_at": "2026-09-06T14:54:53Z",
+    "url": "https://github.com/serpro69/claude-toolbox"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
     "language": "Python",
-    "name": "MartinPuli/cvfit",
+    "name": "using-system/oddyssey",
+    "stars": 6,
+    "updated_at": "2026-09-06T14:54:24Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-06T14:53:57Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
     "stars": 5,
-    "updated_at": "2026-09-06T14:44:47Z",
-    "url": "https://github.com/MartinPuli/cvfit"
+    "updated_at": "2026-09-06T14:53:21Z",
+    "url": "https://github.com/TyrusRC/praetor"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -14,8 +59,35 @@
     "language": "Go",
     "name": "danieljustus/symaira-eraseme",
     "stars": 6,
-    "updated_at": "2026-09-06T14:45:08Z",
+    "updated_at": "2026-09-06T14:50:53Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands \u2014 GitHub + Convex (self-hosted & Cloud)",
+    "id": "rahmanef63/si-coder-agent",
+    "language": "JavaScript",
+    "name": "rahmanef63/si-coder-agent",
+    "stars": 12,
+    "updated_at": "2026-09-06T14:59:35Z",
+    "url": "https://github.com/rahmanef63/si-coder-agent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T14:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "One-page Harvard-format resume aimed at a specific posting. A Claude Code skill with a fitter that keeps it to a page an",
+    "id": "MartinPuli/cvfit",
+    "language": "Python",
+    "name": "MartinPuli/cvfit",
+    "stars": 5,
+    "updated_at": "2026-09-06T14:44:47Z",
+    "url": "https://github.com/MartinPuli/cvfit"
   },
   {
     "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
@@ -54,15 +126,6 @@
     "url": "https://github.com/0xMassi/ai-coding-prompts"
   },
   {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68754,
-    "updated_at": "2026-09-06T14:36:34Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 1,
-    "updated_at": "2026-09-06T14:36:53Z",
+    "updated_at": "2026-09-06T14:54:29Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T14:34:53Z",
     "url": "https://github.com/dT-Tb-labs/babel-orchestration"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T14:30:25Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A\u80a1\u8d22\u62a5\u6392\u96f7 skill\uff1aBeneish M-Score \u91cf\u5316\u521d\u7b5b + 7\u5c4240\u6761\u7ea2\u65d7\u89c4\u5219\u6df1\u67e5\uff08\u65b0\u6d6a/\u5de8\u6f6e/\u4e1c\u8d22/\u540c\u82b1\u987a\u514d\u8d39\u6570\u636e\u94fe\u8def\uff0c\u96f6 Key\uff09",
@@ -162,15 +216,6 @@
     "url": "https://github.com/gfargo/skills"
   },
   {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-06T14:25:12Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
@@ -223,15 +268,6 @@
     "stars": 30708,
     "updated_at": "2026-09-06T14:10:09Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 157,
-    "updated_at": "2026-09-06T14:39:59Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
@@ -351,15 +387,6 @@
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 6,
-    "updated_at": "2026-09-06T13:49:55Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
     "description": "Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field ",
     "id": "ericluo04/claude-academic-workflow",
     "language": "TeX",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T13:36:41Z",
     "url": "https://github.com/benman1/wiggum"
-  },
-  {
-    "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands \u2014 GitHub + Convex (self-hosted & Cloud)",
-    "id": "rahmanef63/si-coder-agent",
-    "language": "JavaScript",
-    "name": "rahmanef63/si-coder-agent",
-    "stars": 12,
-    "updated_at": "2026-09-06T14:45:05Z",
-    "url": "https://github.com/rahmanef63/si-coder-agent"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-06T13:34:39Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
-    "id": "hoangsonww/Claude-Code-Agent-Monitor",
-    "language": "TypeScript",
-    "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 976,
-    "updated_at": "2026-09-06T13:33:24Z",
-    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   }
 ]
