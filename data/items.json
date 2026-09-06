@@ -1,12 +1,120 @@
 [
   {
-    "description": "Multi-model orchestration skill for Claude Code (babel + cdx-sol + agy): 5-model debate/build-debug/acceptance-gate pipe",
+    "description": "One-page Harvard-format resume aimed at a specific posting. A Claude Code skill with a fitter that keeps it to a page an",
+    "id": "MartinPuli/cvfit",
+    "language": "Python",
+    "name": "MartinPuli/cvfit",
+    "stars": 5,
+    "updated_at": "2026-09-06T14:44:47Z",
+    "url": "https://github.com/MartinPuli/cvfit"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Go",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-09-06T14:45:08Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 3,
+    "updated_at": "2026-09-06T14:43:07Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Open-source AI agent skills for tai chi sword (\u592a\u6781\u5251) \u2014 selection, safety, technique, legal travel/ownership, health benef",
+    "id": "Jackxu1978/tai-chi-sword-skills",
+    "language": "\u2014",
+    "name": "Jackxu1978/tai-chi-sword-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:40:24Z",
+    "url": "https://github.com/Jackxu1978/tai-chi-sword-skills"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 77 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, pai",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 10,
+    "updated_at": "2026-09-06T14:39:34Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "15 AI coding prompts + an installable skill for Codex and Claude Code. Code review, performance, feature planning, compe",
+    "id": "0xMassi/ai-coding-prompts",
+    "language": "\u2014",
+    "name": "0xMassi/ai-coding-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:38:18Z",
+    "url": "https://github.com/0xMassi/ai-coding-prompts"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68754,
+    "updated_at": "2026-09-06T14:36:34Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-09-06T14:36:34Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "A 12-role LinkedIn and resume operating system for founders and multi-lane professionals. Profile, content, voice, netwo",
+    "id": "Nyce-ArrowProd/linkedin-founder-os",
+    "language": "\u2014",
+    "name": "Nyce-ArrowProd/linkedin-founder-os",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:36:04Z",
+    "url": "https://github.com/Nyce-ArrowProd/linkedin-founder-os"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-09-06T14:36:53Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Multi-model AI code review for Claude Code. An independent second opinion on every design and diff from GPT-5.6-SOL (Cod",
     "id": "dT-Tb-labs/babel-orchestration",
     "language": "Shell",
     "name": "dT-Tb-labs/babel-orchestration",
     "stars": 1,
-    "updated_at": "2026-09-06T14:30:12Z",
+    "updated_at": "2026-09-06T14:34:53Z",
     "url": "https://github.com/dT-Tb-labs/babel-orchestration"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T14:30:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A\u80a1\u8d22\u62a5\u6392\u96f7 skill\uff1aBeneish M-Score \u91cf\u5316\u521d\u7b5b + 7\u5c4240\u6761\u7ea2\u65d7\u89c4\u5219\u6df1\u67e5\uff08\u65b0\u6d6a/\u5de8\u6f6e/\u4e1c\u8d22/\u540c\u82b1\u987a\u514d\u8d39\u6570\u636e\u94fe\u8def\uff0c\u96f6 Key\uff09",
+    "id": "627-hub/cn-stock-fraud-screen",
+    "language": "Python",
+    "name": "627-hub/cn-stock-fraud-screen",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:29:45Z",
+    "url": "https://github.com/627-hub/cn-stock-fraud-screen"
   },
   {
     "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T14:30:10Z",
     "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Go",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 6,
-    "updated_at": "2026-09-06T14:29:29Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -43,24 +142,6 @@
     "stars": 6168,
     "updated_at": "2026-09-06T14:28:43Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
-    "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 3,
-    "updated_at": "2026-09-06T14:28:30Z",
-    "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "A 12-role LinkedIn and resume operating system for founders and multi-lane professionals. Profile, content, voice, netwo",
-    "id": "Nyce-ArrowProd/linkedin-founder-os",
-    "language": "\u2014",
-    "name": "Nyce-ArrowProd/linkedin-founder-os",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:28:04Z",
-    "url": "https://github.com/Nyce-ArrowProd/linkedin-founder-os"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -117,15 +198,6 @@
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T14:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skills for code review, planning, testing, and daily dev   workflow",
     "id": "nielsmadan/skills",
     "language": "Python",
@@ -158,7 +230,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 157,
-    "updated_at": "2026-09-06T14:11:32Z",
+    "updated_at": "2026-09-06T14:39:59Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -288,15 +360,6 @@
     "url": "https://github.com/using-system/oddyssey"
   },
   {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68753,
-    "updated_at": "2026-09-06T13:47:07Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field ",
     "id": "ericluo04/claude-academic-workflow",
     "language": "TeX",
@@ -333,15 +396,6 @@
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
   },
   {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-06T13:55:21Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
     "description": "Self-contained Claude Code skill toolkit for daily code maintenance: refactor, dedup, DB tune, doc organize, Vue review,",
     "id": "liyong-labs/repo-medic",
     "language": "Python",
@@ -374,7 +428,7 @@
     "language": "JavaScript",
     "name": "rahmanef63/si-coder-agent",
     "stars": 12,
-    "updated_at": "2026-09-06T14:27:59Z",
+    "updated_at": "2026-09-06T14:45:05Z",
     "url": "https://github.com/rahmanef63/si-coder-agent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 976,
     "updated_at": "2026-09-06T13:33:24Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 4,
-    "updated_at": "2026-09-06T13:33:10Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
-    "id": "ashfulcra/fulcra-tools",
-    "language": "Python",
-    "name": "ashfulcra/fulcra-tools",
-    "stars": 10,
-    "updated_at": "2026-09-06T13:32:25Z",
-    "url": "https://github.com/ashfulcra/fulcra-tools"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-09-06T13:32:22Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-09-06T13:31:38Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "My Claude Code settings and custom commands",
-    "id": "lacerbi/dotclaude",
-    "language": "Shell",
-    "name": "lacerbi/dotclaude",
-    "stars": 2,
-    "updated_at": "2026-09-06T13:30:46Z",
-    "url": "https://github.com/lacerbi/dotclaude"
-  },
-  {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-09-06T13:29:45Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
   }
 ]
