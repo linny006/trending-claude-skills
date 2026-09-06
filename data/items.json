@@ -1,12 +1,165 @@
 [
   {
+    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
+    "id": "isatimur/excalidraw-skill-pack",
+    "language": "TypeScript",
+    "name": "isatimur/excalidraw-skill-pack",
+    "stars": 4,
+    "updated_at": "2026-09-06T12:29:59Z",
+    "url": "https://github.com/isatimur/excalidraw-skill-pack"
+  },
+  {
+    "description": "Claude Code usage governor: compact professional output, context slimming, tool-output filtering, telemetry, and drift g",
+    "id": "0xhimanshu/governor",
+    "language": "Python",
+    "name": "0xhimanshu/governor",
+    "stars": 133,
+    "updated_at": "2026-09-06T12:28:09Z",
+    "url": "https://github.com/0xhimanshu/governor"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 416,
-    "updated_at": "2026-09-06T12:14:45Z",
+    "updated_at": "2026-09-06T12:27:56Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 82,
+    "updated_at": "2026-09-06T12:27:21Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
+    "description": "A Claude Code skill that distills Claude's last reply into plain English and answers every decision it's waiting on, wit",
+    "id": "damsavage/claude-code-distill",
+    "language": "\u2014",
+    "name": "damsavage/claude-code-distill",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:24:51Z",
+    "url": "https://github.com/damsavage/claude-code-distill"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 443,
+    "updated_at": "2026-09-06T12:24:50Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Agent skills for design engineers and makers",
+    "id": "planetabhi/skills",
+    "language": "Markdown",
+    "name": "planetabhi/skills",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:24:07Z",
+    "url": "https://github.com/planetabhi/skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:22:58Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-06T12:22:36Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\u4e2d\u6587\u751f\u4ea7\u529b Agent \u6280\u80fd\u5305:\u5c0f\u7ea2\u4e66/\u516c\u4f17\u53f7/\u6296\u97f3\u53e3\u64ad/\u7b80\u5386/\u5468\u62a5/\u4f1a\u8bae\u7eaa\u8981",
+    "id": "LLL-178/cn-skills",
+    "language": "PowerShell",
+    "name": "LLL-178/cn-skills",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:22:30Z",
+    "url": "https://github.com/LLL-178/cn-skills"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 154,
+    "updated_at": "2026-09-06T12:30:04Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "JavaScript",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 21,
+    "updated_at": "2026-09-06T12:20:48Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands \u2014 GitHub + Convex (self-hosted & Cloud)",
+    "id": "rahmanef63/si-coder-agent",
+    "language": "JavaScript",
+    "name": "rahmanef63/si-coder-agent",
+    "stars": 12,
+    "updated_at": "2026-09-06T12:22:01Z",
+    "url": "https://github.com/rahmanef63/si-coder-agent"
+  },
+  {
+    "description": "Unofficial PAN-India RE evacuation substation master and 10-sheet workbook builder. Planning-grade public baseline \u2014 not",
+    "id": "d33pm3/Powergrid-India",
+    "language": "Python",
+    "name": "d33pm3/Powergrid-India",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:19:36Z",
+    "url": "https://github.com/d33pm3/Powergrid-India"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 5,
+    "updated_at": "2026-09-06T12:17:22Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 2,
+    "updated_at": "2026-09-06T12:16:36Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "Drop-in AI rules for Cursor and Claude Code that cut project token usage by 50%+.",
+    "id": "inboxpraveen/Minimize-Cursor-Cost",
+    "language": "Python",
+    "name": "inboxpraveen/Minimize-Cursor-Cost",
+    "stars": 7,
+    "updated_at": "2026-09-06T12:15:48Z",
+    "url": "https://github.com/inboxpraveen/Minimize-Cursor-Cost"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T12:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "One CSS block that gives flat AI-built sites a ground, a light source and mounted surfaces. Agent Skill for Claude Code,",
@@ -16,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T12:12:20Z",
     "url": "https://github.com/merturl4576/unflat"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 154,
-    "updated_at": "2026-09-06T12:12:43Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
@@ -54,15 +198,6 @@
     "url": "https://github.com/ergrelet/windiff"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T12:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
     "id": "Jsnnmsc/10000x-engineer",
     "language": "\u2014",
@@ -90,24 +225,6 @@
     "url": "https://github.com/yacb2/aidex"
   },
   {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 443,
-    "updated_at": "2026-09-06T11:53:26Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-06T11:51:53Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
     "id": "HsuanYuLee/polaris",
     "language": "Shell",
@@ -115,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-09-06T11:51:43Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-06T11:55:42Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
@@ -176,7 +284,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-06T11:56:45Z",
+    "updated_at": "2026-09-06T12:28:44Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -196,15 +304,6 @@
     "stars": 48,
     "updated_at": "2026-09-06T11:27:21Z",
     "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "Agent skills for makers and design engineers",
-    "id": "planetabhi/skills",
-    "language": "Markdown",
-    "name": "planetabhi/skills",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:27:03Z",
-    "url": "https://github.com/planetabhi/skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -239,7 +338,7 @@
     "language": "TypeScript",
     "name": "osrim/ski",
     "stars": 0,
-    "updated_at": "2026-09-06T11:30:04Z",
+    "updated_at": "2026-09-06T12:18:29Z",
     "url": "https://github.com/osrim/ski"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T11:13:01Z",
     "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 1,
-    "updated_at": "2026-09-06T12:14:46Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Discover, verify, and track 296 Claude Code & Agent Skills tools with daily automated health checks.",
-    "id": "Anikaar382/claude-skills-live",
-    "language": "TypeScript",
-    "name": "Anikaar382/claude-skills-live",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:12:20Z",
-    "url": "https://github.com/Anikaar382/claude-skills-live"
-  },
-  {
-    "description": "Generate publish-ready TikTok and Douyin vertical videos from a single content brief, powered by AI agents.",
-    "id": "Trudiemisanthropic314/tiktok-video-skill",
-    "language": "Python",
-    "name": "Trudiemisanthropic314/tiktok-video-skill",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:12:19Z",
-    "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
-  },
-  {
-    "description": "Curated modular agent skills for LLM-based assistants to extend AI capabilities and enable autonomous agents.",
-    "id": "graceupperclass437/agent-skills-collection",
-    "language": "Python",
-    "name": "graceupperclass437/agent-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:12:12Z",
-    "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:11:19Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
-  },
-  {
-    "description": "Export UniFi network topologies as zoomable vector diagrams and editable draw.io files using real device data.",
-    "id": "Josiecontrolling326/unifi-map",
-    "language": "Python",
-    "name": "Josiecontrolling326/unifi-map",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:11:14Z",
-    "url": "https://github.com/Josiecontrolling326/unifi-map"
-  },
-  {
-    "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
-    "id": "skeletonshorts029-png/open-code-review",
-    "language": "TypeScript",
-    "name": "skeletonshorts029-png/open-code-review",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:10:44Z",
-    "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:10:27Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "Trello skill pack for Claude Code and Codex - boards, lists and cards, board digests and a due-date radar. A free tool b",
-    "id": "dbhq-uk/trello-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/trello-skill",
-    "stars": 2,
-    "updated_at": "2026-09-06T11:09:54Z",
-    "url": "https://github.com/dbhq-uk/trello-skill"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-09-06T11:09:46Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Access the Claude Mythos AI model through a native desktop application for coding, reasoning, and multimodal assistance.",
-    "id": "Betor4583/Claude-Mythos-AI-Free-desktop",
-    "language": "\u2014",
-    "name": "Betor4583/Claude-Mythos-AI-Free-desktop",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:09:41Z",
-    "url": "https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop"
   }
 ]
