@@ -1,21 +1,48 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-06T07:59:11Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-06T07:43:47Z",
+    "updated_at": "2026-09-06T07:58:55Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
-    "description": "Markdown to WeChat CLI | \u4e00\u952e\u6392\u7248\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u652f\u6301 40+ \u6392\u7248\u6837\u5f0f\u548c\u4e13\u4e1a\u4e3b\u9898 \u3001AI \u914d\u56fe \u3001\u6279\u91cf\u53d1\u5e03 \u3001\u591a\u8d26\u53f7\u7ba1\u7406",
-    "id": "geekjourneyx/md2wechat-skill",
-    "language": "Go",
-    "name": "geekjourneyx/md2wechat-skill",
-    "stars": 3630,
-    "updated_at": "2026-09-06T07:41:47Z",
-    "url": "https://github.com/geekjourneyx/md2wechat-skill"
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
+    "language": "Python",
+    "name": "Ovid/paad",
+    "stars": 110,
+    "updated_at": "2026-09-06T07:58:11Z",
+    "url": "https://github.com/Ovid/paad"
+  },
+  {
+    "description": "Agent Skills/Plugins/Connectors for biomedical research with the biomcp-ts MCP server.",
+    "id": "yeyuan98/bioresearcher-skills",
+    "language": "JavaScript",
+    "name": "yeyuan98/bioresearcher-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:57:15Z",
+    "url": "https://github.com/yeyuan98/bioresearcher-skills"
+  },
+  {
+    "description": "NestJS backend for a platform connecting installed doctors with replacement doctors in France, cutting administrative fr",
+    "id": "lellis-medical-group/kineo-nest-backend",
+    "language": "TypeScript",
+    "name": "lellis-medical-group/kineo-nest-backend",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:51:29Z",
+    "url": "https://github.com/lellis-medical-group/kineo-nest-backend"
   },
   {
     "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
@@ -23,8 +50,71 @@
     "language": "Python",
     "name": "kcy4334-lgtm/translate-book-arxiv",
     "stars": 0,
-    "updated_at": "2026-09-06T07:41:15Z",
+    "updated_at": "2026-09-06T07:51:13Z",
     "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
+  },
+  {
+    "description": "General-purpose Claude Code skills: a design-to-build workflow (grill-me, design-brief, information-architecture, design",
+    "id": "DanielNoamTuby/claude-skills",
+    "language": "\u2014",
+    "name": "DanielNoamTuby/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:49:15Z",
+    "url": "https://github.com/DanielNoamTuby/claude-skills"
+  },
+  {
+    "description": "Markdown to WeChat CLI | \u4e00\u952e\u6392\u7248\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u652f\u6301 40+ \u6392\u7248\u6837\u5f0f\u548c\u4e13\u4e1a\u4e3b\u9898 \u3001AI \u914d\u56fe \u3001\u6279\u91cf\u53d1\u5e03 \u3001\u591a\u8d26\u53f7\u7ba1\u7406",
+    "id": "geekjourneyx/md2wechat-skill",
+    "language": "Go",
+    "name": "geekjourneyx/md2wechat-skill",
+    "stars": 3630,
+    "updated_at": "2026-09-06T07:48:58Z",
+    "url": "https://github.com/geekjourneyx/md2wechat-skill"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Shell",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-09-06T07:47:11Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "Miftahul Islam Efaz \u2014 Full Stack Product Builder",
+    "id": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
+    "language": "TypeScript",
+    "name": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
+    "stars": 1,
+    "updated_at": "2026-09-06T07:46:59Z",
+    "url": "https://github.com/Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz"
+  },
+  {
+    "description": "\u5fae\u4fe1\u516c\u4f17\u53f7 AI \u8fd0\u8425\u52a9\u624b | \u9009\u9898\u3001\u5199\u7a3f\u3001\u5ba1\u7a3f\u3001\u6392\u7248\u3001\u914d\u56fe\u3001\u53d1\u5e03\u5168\u6d41\u7a0b Skill\uff0c\u652f\u6301 OpenClaw / Claude Code / Cursor / Codex",
+    "id": "aiworkskills/wechat-article-skills",
+    "language": "Python",
+    "name": "aiworkskills/wechat-article-skills",
+    "stars": 562,
+    "updated_at": "2026-09-06T07:46:38Z",
+    "url": "https://github.com/aiworkskills/wechat-article-skills"
+  },
+  {
+    "description": "Marketing Skills for high-performing operators: SEO audits, content strategy, CRO, launches, and more!",
+    "id": "risukisu/marketing-skills",
+    "language": "Python",
+    "name": "risukisu/marketing-skills",
+    "stars": 2,
+    "updated_at": "2026-09-06T07:45:55Z",
+    "url": "https://github.com/risukisu/marketing-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T07:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Claude Code skill with a BODY: persistent memory across sessions, ~0-token semantic search, an errarium that ambushes ",
@@ -61,24 +151,6 @@
     "stars": 1130,
     "updated_at": "2026-09-06T07:30:28Z",
     "url": "https://github.com/fcakyon/claude-codex-settings"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T07:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Miftahul Islam Efaz \u2014 Full Stack Product Builder",
-    "id": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
-    "language": "TypeScript",
-    "name": "Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz",
-    "stars": 1,
-    "updated_at": "2026-09-06T07:26:10Z",
-    "url": "https://github.com/Miftahul-Islam-Efaz/My-Portfolio-Miftahul-Islam-Efaz"
   },
   {
     "description": "\u5357\u4eac\u90ae\u7535\u5927\u5b66\u884c\u653f\u4e8b\u52a1 AI \u52a9\u624b \u00b7 SKILL.md \u901a\u7528\u683c\u5f0f \u00b7 \u67e5\u653f\u7b56\u3001\u95ee\u6d41\u7a0b\u3001\u76ef\u5f85\u529e \u00b7 \u9002\u914d Kimi / Claude / Cursor",
@@ -160,6 +232,15 @@
     "stars": 34,
     "updated_at": "2026-09-06T07:00:37Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow diagrams, inside the pull request it",
+    "id": "coldteadotai/pr-lens",
+    "language": "TypeScript",
+    "name": "coldteadotai/pr-lens",
+    "stars": 296,
+    "updated_at": "2026-09-06T06:59:19Z",
+    "url": "https://github.com/coldteadotai/pr-lens"
   },
   {
     "description": "Agentic coding decision replay\uff1a\u8bb0\u5f55\u4e3a\u4ec0\u4e48\uff0c\u628a session signals \u9010\u5c42\u6536\u53e3\u6210\u53ef\u6838\u9a8c\u7684\u5468\u62a5\u3001\u6708\u62a5\u548c\u8def\u7ebf\u56fe\u3002",
@@ -248,7 +329,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19173,
-    "updated_at": "2026-09-06T06:37:17Z",
+    "updated_at": "2026-09-06T07:46:51Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -265,7 +346,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 33804,
+    "stars": 33805,
     "updated_at": "2026-09-06T06:36:54Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -301,7 +382,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68738,
+    "stars": 68739,
     "updated_at": "2026-09-06T06:31:57Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -367,86 +448,5 @@
     "stars": 64,
     "updated_at": "2026-09-06T06:19:11Z",
     "url": "https://github.com/Dianel555/DSkills"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 1,
-    "updated_at": "2026-09-06T06:18:54Z",
-    "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "TypeScript",
-    "name": "titanwings/distilly",
-    "stars": 24381,
-    "updated_at": "2026-09-06T06:18:46Z",
-    "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "Pause, resume, edit, and audit Claude Code cron jobs (e.g. /loop) without losing state.",
-    "id": "thepictishbeast/claude-tools",
-    "language": "Rust",
-    "name": "thepictishbeast/claude-tools",
-    "stars": 0,
-    "updated_at": "2026-09-06T06:16:56Z",
-    "url": "https://github.com/thepictishbeast/claude-tools"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 1,
-    "updated_at": "2026-09-06T06:13:27Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-09-06T06:11:32Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-09-06T05:58:59Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-06T05:54:10Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-06T05:48:26Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "My personal directory of AI Agent skills",
-    "id": "tkolleh/skills",
-    "language": "Python",
-    "name": "tkolleh/skills",
-    "stars": 1,
-    "updated_at": "2026-09-06T05:46:58Z",
-    "url": "https://github.com/tkolleh/skills"
   }
 ]
