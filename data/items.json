@@ -1,5 +1,104 @@
 [
   {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Go",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-09-06T21:58:37Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-09-06T21:55:39Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "\ud83c\udf63 Hand-rolled AI Skills distilled from my everyday experience. Git & Mise (...and others).",
+    "id": "sherifabdlnaby/skills",
+    "language": "Python",
+    "name": "sherifabdlnaby/skills",
+    "stars": 8,
+    "updated_at": "2026-09-06T21:53:43Z",
+    "url": "https://github.com/sherifabdlnaby/skills"
+  },
+  {
+    "description": "A design-direction skill with a curated visual library, weighted choices and output-backed visual craft review.",
+    "id": "Stianlars1/drawn-to",
+    "language": "JavaScript",
+    "name": "Stianlars1/drawn-to",
+    "stars": 1,
+    "updated_at": "2026-09-06T21:55:14Z",
+    "url": "https://github.com/Stianlars1/drawn-to"
+  },
+  {
+    "description": "Debug a machine you cannot log into, through an operator who cannot debug it - for air-gapped, client-owned and change-c",
+    "id": "dbhq-uk/heliograph-skill",
+    "language": "Shell",
+    "name": "dbhq-uk/heliograph-skill",
+    "stars": 2,
+    "updated_at": "2026-09-06T21:52:31Z",
+    "url": "https://github.com/dbhq-uk/heliograph-skill"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-09-06T21:50:10Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-09-06T21:49:34Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-06T21:51:37Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-09-06T21:46:07Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Personal skills marketplace \u2014 add it once, install any plugin for terminal, devops... and whatever else comes up",
+    "id": "gfargo/skills",
+    "language": "TypeScript",
+    "name": "gfargo/skills",
+    "stars": 2,
+    "updated_at": "2026-09-06T21:46:05Z",
+    "url": "https://github.com/gfargo/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T21:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19179,
-    "updated_at": "2026-09-06T21:37:58Z",
+    "updated_at": "2026-09-06T21:56:11Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -81,15 +180,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-09-06T21:42:38Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
     "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
     "id": "using-system/oddyssey",
     "language": "Python",
@@ -97,15 +187,6 @@
     "stars": 6,
     "updated_at": "2026-09-06T21:32:41Z",
     "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T21:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -142,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T21:27:10Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Debug a machine you cannot log into, through an operator who cannot debug it - for air-gapped, client-owned and change-c",
-    "id": "dbhq-uk/heliograph-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/heliograph-skill",
-    "stars": 2,
-    "updated_at": "2026-09-06T21:40:49Z",
-    "url": "https://github.com/dbhq-uk/heliograph-skill"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T20:56:57Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-09-06T20:56:02Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-09-06T20:54:29Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Product discovery for AI agents, done properly. Seven skills that route any discovery question to the method your eviden",
-    "id": "riadchaban994-bot/discovery-os",
-    "language": "Python",
-    "name": "riadchaban994-bot/discovery-os",
-    "stars": 0,
-    "updated_at": "2026-09-06T20:54:04Z",
-    "url": "https://github.com/riadchaban994-bot/discovery-os"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 159,
-    "updated_at": "2026-09-06T20:54:15Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-06T20:53:40Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Mirko Bozzetto's curated skills for AI coding agents (Claude Code, Codex, Cursor, ...)",
-    "id": "mirkobozzetto/arsenal",
-    "language": "Python",
-    "name": "mirkobozzetto/arsenal",
-    "stars": 15,
-    "updated_at": "2026-09-06T20:53:35Z",
-    "url": "https://github.com/mirkobozzetto/arsenal"
-  },
-  {
-    "description": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 1\u0421-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u043b\u044f Claude Code: \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b, \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u041e\u041e\u041f \u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u044b, XML \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0445, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u0433\u0435\u0439\u0442\u044b \u0438",
-    "id": "Romandredan/1c-quality-gate",
-    "language": "JavaScript",
-    "name": "Romandredan/1c-quality-gate",
-    "stars": 22,
-    "updated_at": "2026-09-06T20:51:12Z",
-    "url": "https://github.com/Romandredan/1c-quality-gate"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-09-06T20:49:28Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
   }
 ]
