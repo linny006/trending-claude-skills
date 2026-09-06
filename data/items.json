@@ -1,5 +1,86 @@
 [
   {
+    "description": "Hooks, rules, skills, and instructions for use with Claude Code",
+    "id": "chancegraff/rules-for-claude",
+    "language": "HTML",
+    "name": "chancegraff/rules-for-claude",
+    "stars": 3,
+    "updated_at": "2026-09-06T02:12:22Z",
+    "url": "https://github.com/chancegraff/rules-for-claude"
+  },
+  {
+    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
+    "id": "hoangsonww/Claude-Code-Agent-Monitor",
+    "language": "TypeScript",
+    "name": "hoangsonww/Claude-Code-Agent-Monitor",
+    "stars": 973,
+    "updated_at": "2026-09-06T02:07:19Z",
+    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-09-06T02:09:07Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 142,
+    "updated_at": "2026-09-06T02:05:43Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
+    "id": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
+    "language": "TypeScript",
+    "name": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
+    "stars": 0,
+    "updated_at": "2026-09-06T02:03:54Z",
+    "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
+  },
+  {
+    "description": "Curated Claude Code plugins by Knitli",
+    "id": "knitli/toolshed",
+    "language": "TypeScript",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-09-06T02:02:21Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "Collaborate with Codex from Claude Code",
+    "id": "Kevin7Qi/codex-collab",
+    "language": "TypeScript",
+    "name": "Kevin7Qi/codex-collab",
+    "stars": 95,
+    "updated_at": "2026-09-06T02:00:25Z",
+    "url": "https://github.com/Kevin7Qi/codex-collab"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-06T02:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "KHO SKILL \u2014 toan bo Claude Agent Skill ca nhan cua NQH. Dat ten nqh-<nhom>-<viec>, README co bang index tu sinh. Khong t",
+    "id": "wanghie/nqh-skills",
+    "language": "Python",
+    "name": "wanghie/nqh-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T02:00:10Z",
+    "url": "https://github.com/wanghie/nqh-skills"
+  },
+  {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
     "id": "lenamonj/jeffy-loop",
     "language": "Shell",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "Ap6pack/outrider-recon",
     "stars": 8,
-    "updated_at": "2026-09-06T01:58:07Z",
+    "updated_at": "2026-09-06T02:14:54Z",
     "url": "https://github.com/Ap6pack/outrider-recon"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "MrBinnacle/skills",
     "stars": 0,
-    "updated_at": "2026-09-06T01:55:35Z",
+    "updated_at": "2026-09-06T02:00:37Z",
     "url": "https://github.com/MrBinnacle/skills"
   },
   {
@@ -81,24 +162,6 @@
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
-    "description": "Curated Claude Code plugins by Knitli",
-    "id": "knitli/toolshed",
-    "language": "TypeScript",
-    "name": "knitli/toolshed",
-    "stars": 1,
-    "updated_at": "2026-09-06T01:47:54Z",
-    "url": "https://github.com/knitli/toolshed"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-06T01:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The SEO + AI-search (GEO/AEO) optimization toolkit for Claude Code \u2014 two-score audit + opt-in fixer. Built for 2026-2027",
     "id": "Hainrixz/claude-seo-ai",
     "language": "JavaScript",
@@ -135,6 +198,15 @@
     "url": "https://github.com/boshu2/agentops"
   },
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 93298,
+    "updated_at": "2026-09-06T01:31:16Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
     "id": "kcy4334-lgtm/translate-book-arxiv",
     "language": "Python",
@@ -144,21 +216,12 @@
     "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   },
   {
-    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
-    "id": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
-    "language": "TypeScript",
-    "name": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
-    "stars": 0,
-    "updated_at": "2026-09-06T01:59:57Z",
-    "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
-  },
-  {
     "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 90.6% fewer input tokens to review a pull reque",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 146,
-    "updated_at": "2026-09-06T01:26:00Z",
+    "updated_at": "2026-09-06T02:09:29Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -259,24 +322,6 @@
     "stars": 5,
     "updated_at": "2026-09-06T00:59:36Z",
     "url": "https://github.com/jasonm4130/claude-skills"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 93297,
-    "updated_at": "2026-09-06T01:31:16Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 142,
-    "updated_at": "2026-09-06T01:50:32Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
     "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-06T00:39:55Z",
     "url": "https://github.com/dinhanhthi/coding-friend"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-09-06T00:37:50Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-09-06T00:36:50Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-06T00:35:19Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Frameworks, templates, rubrics, and Claude Code skills for product managers; covers problem framing, value hypothesis, M",
-    "id": "kalyvask/pm-evaluation-framework",
-    "language": "Go Template",
-    "name": "kalyvask/pm-evaluation-framework",
-    "stars": 0,
-    "updated_at": "2026-09-06T00:30:59Z",
-    "url": "https://github.com/kalyvask/pm-evaluation-framework"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-09-06T00:30:52Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
