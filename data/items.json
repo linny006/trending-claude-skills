@@ -1,5 +1,140 @@
 [
   {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 2,
+    "updated_at": "2026-09-07T10:44:21Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-09-07T10:44:19Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-07T10:42:14Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-07T10:40:31Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 78 agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, paid media, em",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 10,
+    "updated_at": "2026-09-07T10:40:21Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Playwright for coding agents. Benchmark Claude Code, Codex, Gemini, and OpenCode on your own tasks - and test that your ",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 122,
+    "updated_at": "2026-09-07T10:39:53Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-07T10:39:53Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:36:27Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 169,
+    "updated_at": "2026-09-07T10:44:40Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68774,
+    "updated_at": "2026-09-07T10:34:07Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "BoYue \u00b7 \u535a\u7ea6 | AI\u7f16\u7a0b\u5f00\u53d1\u65b9\u6cd5\u8bba | methodology paper + Agent Skill for AI development decisions and complexity governance",
+    "id": "wuaishare/boyue",
+    "language": "\u2014",
+    "name": "wuaishare/boyue",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:32:03Z",
+    "url": "https://github.com/wuaishare/boyue"
+  },
+  {
+    "description": "ShareXtract \u00b7 \u516c\u5f00\u5206\u4eab\u5185\u5bb9\u63d0\u53d6 / Protocol-first public share extractor \u00b7 AI \u5bf9\u8bdd\u3001\u793e\u4ea4\u5185\u5bb9\u3001\u5a92\u4f53\u4e0e\u5f00\u653e\u7f51\u9875 / AI chats, social posts, media & op",
+    "id": "wuaishare/sharextract",
+    "language": "Python",
+    "name": "wuaishare/sharextract",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:31:59Z",
+    "url": "https://github.com/wuaishare/sharextract"
+  },
+  {
+    "description": "\u5fae\u4fe1\u516c\u4f17\u53f7 AI \u8fd0\u8425\u52a9\u624b | \u9009\u9898\u3001\u5199\u7a3f\u3001\u5ba1\u7a3f\u3001\u6392\u7248\u3001\u914d\u56fe\u3001\u53d1\u5e03\u5168\u6d41\u7a0b Skill\uff0c\u652f\u6301 OpenClaw / Claude Code / Cursor / Codex",
+    "id": "aiworkskills/wechat-article-skills",
+    "language": "Python",
+    "name": "aiworkskills/wechat-article-skills",
+    "stars": 570,
+    "updated_at": "2026-09-07T10:31:58Z",
+    "url": "https://github.com/aiworkskills/wechat-article-skills"
+  },
+  {
+    "description": "Knowledge warehouse of reusable ingredients an AI assistant uses to turn an idea into a well-reasoned software project.",
+    "id": "mrehan37/dev-kit",
+    "language": "\u2014",
+    "name": "mrehan37/dev-kit",
+    "stars": 1,
+    "updated_at": "2026-09-07T10:30:29Z",
+    "url": "https://github.com/mrehan37/dev-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-07T10:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -27,15 +162,6 @@
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-07T10:26:41Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Cross tools (Codex, Claude, Github Copilot, Cursor) AI Marketplace to install skills, agents, MCPs, hooks, commands, and",
     "id": "Idov31/ai-marketplace",
     "language": "TypeScript",
@@ -43,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T10:24:09Z",
     "url": "https://github.com/Idov31/ai-marketplace"
-  },
-  {
-    "description": "BoYue \u00b7 \u535a\u7ea6 | AI\u7f16\u7a0b\u5f00\u53d1\u65b9\u6cd5\u8bba | methodology paper + Agent Skill for AI development decisions and complexity governance",
-    "id": "wuaishare/boyue",
-    "language": "\u2014",
-    "name": "wuaishare/boyue",
-    "stars": 0,
-    "updated_at": "2026-09-07T10:23:23Z",
-    "url": "https://github.com/wuaishare/boyue"
-  },
-  {
-    "description": "ShareXtract \u00b7 \u516c\u5f00\u5206\u4eab\u5185\u5bb9\u63d0\u53d6 / Protocol-first public share extractor \u00b7 AI \u5bf9\u8bdd\u3001\u793e\u4ea4\u5185\u5bb9\u3001\u5a92\u4f53\u4e0e\u5f00\u653e\u7f51\u9875 / AI chats, social posts, media & op",
-    "id": "wuaishare/sharextract",
-    "language": "Python",
-    "name": "wuaishare/sharextract",
-    "stars": 0,
-    "updated_at": "2026-09-07T10:23:20Z",
-    "url": "https://github.com/wuaishare/sharextract"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -88,42 +196,6 @@
     "stars": 795,
     "updated_at": "2026-09-07T10:21:26Z",
     "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 169,
-    "updated_at": "2026-09-07T10:20:58Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68773,
-    "updated_at": "2026-09-07T10:28:39Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-07T10:15:18Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-07T10:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u9762\u5411 AI Agent \u7684\u6d4b\u8bd5\u5de5\u7a0b Skill \u6846\u67b6\u2014\u201411 Skills + \u5171\u4eab\u77e5\u8bc6\u5e93 + \u7c7b\u578b\u51b3\u7b56\u77e9\u9635\uff08Claude Code / dsh \u7b49 Agent \u53ef\u7528\uff09",
@@ -211,7 +283,7 @@
     "id": "FlorianBruniaux/flow-lean",
     "language": "Python",
     "name": "FlorianBruniaux/flow-lean",
-    "stars": 13,
+    "stars": 14,
     "updated_at": "2026-09-07T09:58:54Z",
     "url": "https://github.com/FlorianBruniaux/flow-lean"
   },
@@ -232,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T09:56:04Z",
     "url": "https://github.com/rokokol/3x-ui-admin-skill"
-  },
-  {
-    "description": "\u5fae\u4fe1\u516c\u4f17\u53f7 AI \u8fd0\u8425\u52a9\u624b | \u9009\u9898\u3001\u5199\u7a3f\u3001\u5ba1\u7a3f\u3001\u6392\u7248\u3001\u914d\u56fe\u3001\u53d1\u5e03\u5168\u6d41\u7a0b Skill\uff0c\u652f\u6301 OpenClaw / Claude Code / Cursor / Codex",
-    "id": "aiworkskills/wechat-article-skills",
-    "language": "Python",
-    "name": "aiworkskills/wechat-article-skills",
-    "stars": 570,
-    "updated_at": "2026-09-07T09:53:06Z",
-    "url": "https://github.com/aiworkskills/wechat-article-skills"
   },
   {
     "description": "Free agent skill packs (SKILL.md) from ProvenSkills: meetings, plain writing, retention, claims desk, skill authoring. C",
@@ -319,7 +382,7 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 43480,
+    "stars": 43483,
     "updated_at": "2026-09-07T09:35:27Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T09:30:04Z",
     "url": "https://github.com/zcourts/zboard"
-  },
-  {
-    "description": "35 portable agent skills (Agent Skills spec) for Kiro & Claude Code: Scrum DevSecOps roles, PCI-DSS/MAS TRM compliance, ",
-    "id": "timwukp/agent-skills-best-practice",
-    "language": "Python",
-    "name": "timwukp/agent-skills-best-practice",
-    "stars": 10,
-    "updated_at": "2026-09-07T10:23:01Z",
-    "url": "https://github.com/timwukp/agent-skills-best-practice"
-  },
-  {
-    "description": "Agent skills and open methodology for auditing whether AI answer engines can crawl and cite your site. GEO/AEO, AI searc",
-    "id": "maxaeo/maxaeo-geo-toolkit",
-    "language": "JavaScript",
-    "name": "maxaeo/maxaeo-geo-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:26:47Z",
-    "url": "https://github.com/maxaeo/maxaeo-geo-toolkit"
-  },
-  {
-    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
-    "id": "elementalsouls/Claude-BugHunter",
-    "language": "Python",
-    "name": "elementalsouls/Claude-BugHunter",
-    "stars": 4339,
-    "updated_at": "2026-09-07T09:24:46Z",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-07T10:27:30Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "\u6296\u97f3\u4fe1\u606f\u6e90 \u2014 \u6bcf\u65e5\u81ea\u52a8\u626b\u63cf\u6296\u97f3\u76f8\u5173\u4f5c\u54c1\uff0c\u6309\u4e92\u52a8\u91cf\uff08\u70b9\u8d5e/\u5206\u4eab/\u8bc4\u8bba\uff09\u7b5b\u9009\u6700\u706b\u5185\u5bb9\uff0c\u667a\u80fd\u805a\u7c7b\u751f\u6210\u7cbe\u7f8e\u65e5\u62a5\uff0c\u652f\u6301\u5c01\u9762\u56fe\u3001\u6570\u636e\u6307\u6807\u548c\u6bcf\u65e5\u8ba2\u9605\u3002\u5f53\u7528\u6237\u9700\u8981 \u6296\u97f3\u65e5\u62a5\u3001\u6296\u97f3\u70ed\u70b9\u3001\u6296\u97f3\u5185\u5bb9\u3001\u6296\u97f3\u4fe1\u606f\u6e90\u3001douyin feeds \u65f6\u4f7f\u7528\u3002",
-    "id": "why20261/douyin-feeds",
-    "language": "JavaScript",
-    "name": "why20261/douyin-feeds",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:21:47Z",
-    "url": "https://github.com/why20261/douyin-feeds"
-  },
-  {
-    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 8,
-    "updated_at": "2026-09-07T09:21:34Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
-    "id": "shauryalowkeygotaura/brand-launchpad",
-    "language": "HTML",
-    "name": "shauryalowkeygotaura/brand-launchpad",
-    "stars": 1,
-    "updated_at": "2026-09-07T09:21:18Z",
-    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
   }
 ]
