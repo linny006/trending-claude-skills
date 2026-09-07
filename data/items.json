@@ -1,5 +1,95 @@
 [
   {
+    "description": "The Web Browser for LLMs",
+    "id": "jreiner16/surfboard",
+    "language": "Python",
+    "name": "jreiner16/surfboard",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:13:18Z",
+    "url": "https://github.com/jreiner16/surfboard"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 417,
+    "updated_at": "2026-09-07T14:13:48Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 170,
+    "updated_at": "2026-09-07T14:13:58Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
+    "id": "open-coder-ai/context-report",
+    "language": "Python",
+    "name": "open-coder-ai/context-report",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:14:13Z",
+    "url": "https://github.com/open-coder-ai/context-report"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68778,
+    "updated_at": "2026-09-07T14:13:21Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
+    "id": "yacb2/aidex",
+    "language": "Shell",
+    "name": "yacb2/aidex",
+    "stars": 2,
+    "updated_at": "2026-09-07T14:09:36Z",
+    "url": "https://github.com/yacb2/aidex"
+  },
+  {
+    "description": "Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders \u2014 the ",
+    "id": "yerdaulet-damir/awesome-solo-ai",
+    "language": "\u2014",
+    "name": "yerdaulet-damir/awesome-solo-ai",
+    "stars": 18,
+    "updated_at": "2026-09-07T14:09:22Z",
+    "url": "https://github.com/yerdaulet-damir/awesome-solo-ai"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-07T14:13:14Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 3,
+    "updated_at": "2026-09-07T14:05:47Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-07T14:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Nitpicker \u2014 a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes",
     "id": "ivuorinen/skills",
     "language": "Python",
@@ -36,15 +126,6 @@
     "url": "https://github.com/omnifaces/claude-faces-expert"
   },
   {
-    "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
-    "id": "open-coder-ai/context-report",
-    "language": "Python",
-    "name": "open-coder-ai/context-report",
-    "stars": 0,
-    "updated_at": "2026-09-07T13:55:04Z",
-    "url": "https://github.com/open-coder-ai/context-report"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -68,17 +149,8 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19193,
-    "updated_at": "2026-09-07T13:47:50Z",
+    "updated_at": "2026-09-07T14:04:19Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-07T13:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -88,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-09-07T13:42:28Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 170,
-    "updated_at": "2026-09-07T13:53:17Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Agent skills from mama-sh. Currently: trend-acceleration-radar \u2014 find trends in the acceleration phase and pick the mone",
@@ -153,15 +216,6 @@
     "url": "https://github.com/jovelove7/facet"
   },
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-07T13:50:30Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "AI Corner Store \ud83c\udfea \u2014 a small, curated shop of AI skills, plugins, and bundles for Claude. One folder per release, each in",
     "id": "sorensensig/ai-corner-store",
     "language": "Python",
@@ -169,6 +223,15 @@
     "stars": 9,
     "updated_at": "2026-09-07T13:34:10Z",
     "url": "https://github.com/sorensensig/ai-corner-store"
+  },
+  {
+    "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 from PRDs and postmortems to appealing a di",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1341,
+    "updated_at": "2026-09-07T13:33:46Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
     "description": "\u5fae\u4fe1\u516c\u4f17\u53f7 AI \u8fd0\u8425\u52a9\u624b | \u9009\u9898\u3001\u5199\u7a3f\u3001\u5ba1\u7a3f\u3001\u6392\u7248\u3001\u914d\u56fe\u3001\u53d1\u5e03\u5168\u6d41\u7a0b Skill\uff0c\u652f\u6301 OpenClaw / Claude Code / Cursor / Codex",
@@ -292,7 +355,7 @@
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6606,
+    "stars": 6608,
     "updated_at": "2026-09-07T13:04:02Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
@@ -329,7 +392,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-07T12:56:04Z",
+    "updated_at": "2026-09-07T14:09:59Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -365,7 +428,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 4,
-    "updated_at": "2026-09-07T13:47:04Z",
+    "updated_at": "2026-09-07T14:00:41Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 26,
     "updated_at": "2026-09-07T12:46:39Z",
     "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "A small, verified, security-aware directory of Agent Skills (SKILL.md format).",
-    "id": "royalpinto007/awesome-agent-skills",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-07T12:43:37Z",
-    "url": "https://github.com/royalpinto007/awesome-agent-skills"
-  },
-  {
-    "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tool",
-    "id": "AIDevGTM/gtm-cofounder",
-    "language": "\u2014",
-    "name": "AIDevGTM/gtm-cofounder",
-    "stars": 266,
-    "updated_at": "2026-09-07T12:43:33Z",
-    "url": "https://github.com/AIDevGTM/gtm-cofounder"
-  },
-  {
-    "description": "Debug a machine you cannot log into, through an operator who cannot debug it - for air-gapped, client-owned and change-c",
-    "id": "dbhq-uk/heliograph-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/heliograph-skill",
-    "stars": 2,
-    "updated_at": "2026-09-07T12:42:41Z",
-    "url": "https://github.com/dbhq-uk/heliograph-skill"
-  },
-  {
-    "description": "A design-direction skill with a curated visual library, weighted choices and output-backed visual craft review.",
-    "id": "Stianlars1/drawn-to",
-    "language": "JavaScript",
-    "name": "Stianlars1/drawn-to",
-    "stars": 1,
-    "updated_at": "2026-09-07T12:44:02Z",
-    "url": "https://github.com/Stianlars1/drawn-to"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 29,
-    "updated_at": "2026-09-07T13:48:52Z",
-    "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "An AI agent skill for clear, natural writing, rewriting, summaries, and explanations across languages.",
-    "id": "FMKreative/talk-the-talk",
-    "language": "\u2014",
-    "name": "FMKreative/talk-the-talk",
-    "stars": 0,
-    "updated_at": "2026-09-07T12:36:52Z",
-    "url": "https://github.com/FMKreative/talk-the-talk"
-  },
-  {
-    "description": "AI money-saver as an Agent Skill | \u5168\u7403\u514d\u8d39AI\u6280\u80fd \u2014 free AI API tokens, free-tier LLM APIs & cheapest AI memberships (incl. re",
-    "id": "laowang-ai-xbb/free-ai-token",
-    "language": "HTML",
-    "name": "laowang-ai-xbb/free-ai-token",
-    "stars": 1,
-    "updated_at": "2026-09-07T12:36:13Z",
-    "url": "https://github.com/laowang-ai-xbb/free-ai-token"
   }
 ]
