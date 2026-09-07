@@ -1,5 +1,86 @@
 [
   {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-09-07T20:14:03Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-09-07T20:12:58Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Open-source AI agent skills for agenthouse and compatible SKILL.md-based platforms.",
+    "id": "agenthouse-org/skills",
+    "language": "Python",
+    "name": "agenthouse-org/skills",
+    "stars": 1,
+    "updated_at": "2026-09-07T20:08:45Z",
+    "url": "https://github.com/agenthouse-org/skills"
+  },
+  {
+    "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands \u2014 GitHub + Convex (self-hosted & Cloud)",
+    "id": "rahmanef63/si-coder-agent",
+    "language": "JavaScript",
+    "name": "rahmanef63/si-coder-agent",
+    "stars": 12,
+    "updated_at": "2026-09-07T20:05:51Z",
+    "url": "https://github.com/rahmanef63/si-coder-agent"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19200,
+    "updated_at": "2026-09-07T20:10:48Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Audit slides, posters and figures for readers with vision loss, such as colour blindness, projected contrast, and text s",
+    "id": "moecui22/accessible-slides",
+    "language": "Python",
+    "name": "moecui22/accessible-slides",
+    "stars": 0,
+    "updated_at": "2026-09-07T20:06:27Z",
+    "url": "https://github.com/moecui22/accessible-slides"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 142,
+    "updated_at": "2026-09-07T20:07:22Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-07T20:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-07T20:14:19Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
     "description": "Run an always-on SEO/AEO growth loop on your own site with Claude: pulls GA4 and Search Console signals, proposes fixes ",
     "id": "shalintripathi/organic-os",
     "language": "Python",
@@ -18,24 +99,6 @@
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
-    "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands \u2014 GitHub + Convex (self-hosted & Cloud)",
-    "id": "rahmanef63/si-coder-agent",
-    "language": "JavaScript",
-    "name": "rahmanef63/si-coder-agent",
-    "stars": 12,
-    "updated_at": "2026-09-07T19:57:11Z",
-    "url": "https://github.com/rahmanef63/si-coder-agent"
-  },
-  {
-    "description": "Audit slides, posters and figures for readers with vision loss, such as colour blindness, projected contrast, and text s",
-    "id": "moecui22/accessible-slides",
-    "language": "Python",
-    "name": "moecui22/accessible-slides",
-    "stars": 0,
-    "updated_at": "2026-09-07T19:56:12Z",
-    "url": "https://github.com/moecui22/accessible-slides"
-  },
-  {
     "description": "visualize, and report code coverage within llm sessions",
     "id": "joshLong145/ambits",
     "language": "Rust",
@@ -43,15 +106,6 @@
     "stars": 9,
     "updated_at": "2026-09-07T19:56:08Z",
     "url": "https://github.com/joshLong145/ambits"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-07T19:59:34Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
     "stars": 0,
-    "updated_at": "2026-09-07T19:56:16Z",
+    "updated_at": "2026-09-07T20:11:25Z",
     "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T19:48:57Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-07T19:45:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
@@ -270,15 +315,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19199,
-    "updated_at": "2026-09-07T19:47:47Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -365,7 +401,7 @@
     "language": "Go",
     "name": "danieljustus/symaira-eraseme",
     "stars": 6,
-    "updated_at": "2026-09-07T19:54:52Z",
+    "updated_at": "2026-09-07T20:07:05Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T18:35:18Z",
     "url": "https://github.com/vindm/dotclaude"
-  },
-  {
-    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
-    "id": "agents-inc/agents-inc",
-    "language": "TypeScript",
-    "name": "agents-inc/agents-inc",
-    "stars": 8,
-    "updated_at": "2026-09-07T18:35:03Z",
-    "url": "https://github.com/agents-inc/agents-inc"
-  },
-  {
-    "description": "Prompt engineering as a procedure, not a document. Routes to the right artifact, sizes evals to the volume, ships a lint",
-    "id": "AdrianAdem/prompt-engineer-skill",
-    "language": "Python",
-    "name": "AdrianAdem/prompt-engineer-skill",
-    "stars": 1,
-    "updated_at": "2026-09-07T18:34:12Z",
-    "url": "https://github.com/AdrianAdem/prompt-engineer-skill"
-  },
-  {
-    "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques",
-    "id": "coldteadotai/pr-lens",
-    "language": "TypeScript",
-    "name": "coldteadotai/pr-lens",
-    "stars": 385,
-    "updated_at": "2026-09-07T18:33:18Z",
-    "url": "https://github.com/coldteadotai/pr-lens"
-  },
-  {
-    "description": "Reusable Claude Code skills that let AI agents work safely on production systems.",
-    "id": "scott-garvin/claude-code-guardrails",
-    "language": "JavaScript",
-    "name": "scott-garvin/claude-code-guardrails",
-    "stars": 0,
-    "updated_at": "2026-09-07T18:32:56Z",
-    "url": "https://github.com/scott-garvin/claude-code-guardrails"
   }
 ]
