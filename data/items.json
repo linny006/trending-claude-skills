@@ -1,5 +1,104 @@
 [
   {
+    "description": "ShareXtract \u00b7 \u516c\u5f00\u5206\u4eab\u5185\u5bb9\u63d0\u53d6 / Protocol-first public share extractor \u00b7 AI \u5bf9\u8bdd\u3001\u793e\u4ea4\u5185\u5bb9\u3001\u5a92\u4f53\u4e0e\u5f00\u653e\u7f51\u9875 / AI chats, social posts, media & op",
+    "id": "wuaishare/sharextract",
+    "language": "Python",
+    "name": "wuaishare/sharextract",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:13:55Z",
+    "url": "https://github.com/wuaishare/sharextract"
+  },
+  {
+    "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u9762\u5411 AI Agent \u7684\u6d4b\u8bd5\u5de5\u7a0b Skill \u6846\u67b6\u2014\u201411 Skills + \u5171\u4eab\u77e5\u8bc6\u5e93 + \u7c7b\u578b\u51b3\u7b56\u77e9\u9635\uff08Claude Code / dsh \u7b49 Agent \u53ef\u7528\uff09",
+    "id": "fishzjp/qa-skills",
+    "language": "Python",
+    "name": "fishzjp/qa-skills",
+    "stars": 24,
+    "updated_at": "2026-09-07T10:08:26Z",
+    "url": "https://github.com/fishzjp/qa-skills"
+  },
+  {
+    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
+    "id": "wei18/apple-dev-skills",
+    "language": "Python",
+    "name": "wei18/apple-dev-skills",
+    "stars": 19,
+    "updated_at": "2026-09-07T10:06:06Z",
+    "url": "https://github.com/wei18/apple-dev-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 417,
+    "updated_at": "2026-09-07T10:05:49Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-07T10:11:22Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-09-07T10:05:08Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Relex plugin for Claude",
+    "id": "relexlegal/relex-claude",
+    "language": "Python",
+    "name": "relexlegal/relex-claude",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:04:24Z",
+    "url": "https://github.com/relexlegal/relex-claude"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 1,
+    "updated_at": "2026-09-07T10:02:17Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "zenstory-ai/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "zenstory-ai/oh-story-claudecode",
+    "stars": 6599,
+    "updated_at": "2026-09-07T10:00:58Z",
+    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-07T10:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u6296\u97f3\u84dd\u6d77\u7206\u54c1\u91c7\u96c6\uff1a\u7ed3\u5408\u6296\u97f3\u70ed\u641c\u699c\u4e0e\u5173\u952e\u8bcd\u4e0b\u7684\u89c6\u9891\u6570\u636e\uff0c\u4ece\u5c0f\u4f17\u9ad8\u9700\u6c42\u7684\u7ec6\u5206\u573a\u666f\u5207\u5165\u627e\u84dd\u6d77\u7206\u54c1\uff0c\u907f\u5f00\u7ea2\u6d77\u5927\u8bcd\u7ade\u4e89\u3002\u5f53\u7528\u6237\u8981\u5728\u6296\u97f3\u627e\u84dd\u6d77\u54c1\u3001\u907f\u5f00\u5927\u8bcd\u7ade\u4e89\u3001\u4ece\u7ec6\u5206\u573a\u666f\u9009\u54c1\u3001\u770b\u6296\u97f3\u70ed\u641c\u3001\u6309\u5173\u952e\u8bcd\u770b\u89c6\u9891\u70ed\u5ea6\u65f6\u5fc5\u987b\u89e6\u53d1\u3002\u5173\u952e\u8bcd\uff1a\u6296\u97f3\u3001\u84dd\u6d77\u3001\u7206\u54c1\u3001\u7ec6\u5206\u573a\u666f",
+    "id": "why20261/douyin-bluesea-collector",
+    "language": "JavaScript",
+    "name": "why20261/douyin-bluesea-collector",
+    "stars": 0,
+    "updated_at": "2026-09-07T09:59:29Z",
+    "url": "https://github.com/why20261/douyin-bluesea-collector"
+  },
+  {
     "description": "XniperBuilds skills for Claude Code - four tools that answer a question about your setup with a number from your own mac",
     "id": "xniperbuilds/skills",
     "language": "\u2014",
@@ -27,24 +126,6 @@
     "url": "https://github.com/nestix6/Claude-skills"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-07T09:57:51Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "zenstory-ai/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6599,
-    "updated_at": "2026-09-07T09:56:17Z",
-    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
-  },
-  {
     "description": "Administer a 3x-ui panel over its HTTP API",
     "id": "rokokol/3x-ui-admin-skill",
     "language": "Python",
@@ -61,6 +142,15 @@
     "stars": 570,
     "updated_at": "2026-09-07T09:53:06Z",
     "url": "https://github.com/aiworkskills/wechat-article-skills"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68773,
+    "updated_at": "2026-09-07T09:52:47Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Free agent skill packs (SKILL.md) from ProvenSkills: meetings, plain writing, retention, claims desk, skill authoring. C",
@@ -99,15 +189,6 @@
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-07T09:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Verified Agent Skills registry for Codex and Claude Code: curated installs, provenance, license checks, reproducible evi",
     "id": "userInner/SKILLS",
     "language": "Python",
@@ -124,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T09:43:24Z",
     "url": "https://github.com/wuaishare/boyue"
-  },
-  {
-    "description": "ShareXtract \u00b7 \u516c\u5f00\u5206\u4eab\u5185\u5bb9\u63d0\u53d6 / Protocol-first public share extractor \u00b7 AI \u5bf9\u8bdd\u3001\u793e\u4ea4\u5185\u5bb9\u3001\u5a92\u4f53\u4e0e\u5f00\u653e\u7f51\u9875 / AI chats, social posts, media & op",
-    "id": "wuaishare/sharextract",
-    "language": "Python",
-    "name": "wuaishare/sharextract",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:43:22Z",
-    "url": "https://github.com/wuaishare/sharextract"
-  },
-  {
-    "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u9762\u5411 AI Agent \u7684\u6d4b\u8bd5\u5de5\u7a0b Skill \u6846\u67b6\u2014\u201411 Skills + \u5171\u4eab\u77e5\u8bc6\u5e93 + \u7c7b\u578b\u51b3\u7b56\u77e9\u9635\uff08Claude Code / dsh \u7b49 Agent \u53ef\u7528\uff09",
-    "id": "fishzjp/qa-skills",
-    "language": "Python",
-    "name": "fishzjp/qa-skills",
-    "stars": 24,
-    "updated_at": "2026-09-07T09:43:15Z",
-    "url": "https://github.com/fishzjp/qa-skills"
   },
   {
     "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
@@ -184,18 +247,9 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 43471,
+    "stars": 43476,
     "updated_at": "2026-09-07T09:35:27Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68772,
-    "updated_at": "2026-09-07T09:52:47Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute",
@@ -338,7 +392,7 @@
     "language": "TypeScript",
     "name": "molefrog/moi",
     "stars": 142,
-    "updated_at": "2026-09-07T09:36:23Z",
+    "updated_at": "2026-09-07T10:15:01Z",
     "url": "https://github.com/molefrog/moi"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 21,
     "updated_at": "2026-09-07T09:13:32Z",
     "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "Lightweight coding agent harness built in Rust for zero vendor lock-in. 7 MB,  Support Codex and grok subscriptions too",
-    "id": "milisp/keke-agent",
-    "language": "Rust",
-    "name": "milisp/keke-agent",
-    "stars": 2,
-    "updated_at": "2026-09-07T09:10:49Z",
-    "url": "https://github.com/milisp/keke-agent"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:10:30Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:10:14Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-07T09:08:51Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Open-source Claude Code skills marketplace \u2014 agent-army, claude-continuation, and more. Add once, install whichever you ",
-    "id": "amjad1233/ai-skills",
-    "language": "Shell",
-    "name": "amjad1233/ai-skills",
-    "stars": 1,
-    "updated_at": "2026-09-07T09:08:30Z",
-    "url": "https://github.com/amjad1233/ai-skills"
-  },
-  {
-    "description": "Secure agent-guided setup for MoonPress Chat on WordPress.",
-    "id": "normlstudio/moonpresschat-skill",
-    "language": "JavaScript",
-    "name": "normlstudio/moonpresschat-skill",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:05:50Z",
-    "url": "https://github.com/normlstudio/moonpresschat-skill"
   }
 ]
