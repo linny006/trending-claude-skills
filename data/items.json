@@ -1,5 +1,68 @@
 [
   {
+    "description": "An agentic skills framework for AI governance. Autonomy tiers, blast radius, and a diagnostic manual for agent failure m",
+    "id": "patkusch/remit",
+    "language": "Python",
+    "name": "patkusch/remit",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:12:18Z",
+    "url": "https://github.com/patkusch/remit"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-07T21:11:35Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
+    "id": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
+    "language": "TypeScript",
+    "name": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:10:56Z",
+    "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
+  },
+  {
+    "description": "Three Claude Code skills that stop an agent substituting reasoning for evidence.",
+    "id": "Nova-Caelum/no-mistakes",
+    "language": "\u2014",
+    "name": "Nova-Caelum/no-mistakes",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:10:30Z",
+    "url": "https://github.com/Nova-Caelum/no-mistakes"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 18,
+    "updated_at": "2026-09-07T21:09:11Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "HTML",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:02:17Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-07T21:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
     "id": "aliasunder/agent-plugins",
     "language": "\u2014",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T20:57:02Z",
     "url": "https://github.com/PKusch/remit"
-  },
-  {
-    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
-    "id": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
-    "language": "TypeScript",
-    "name": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
-    "stars": 0,
-    "updated_at": "2026-09-07T20:55:43Z",
-    "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
   },
   {
     "description": "Personal AI job-search assistant, built as a Claude Skills package on a single GitHub repo. Guided onboarding, persisten",
@@ -49,7 +103,7 @@
     "id": "veneris-io/outbound-skills",
     "language": "Python",
     "name": "veneris-io/outbound-skills",
-    "stars": 0,
+    "stars": 2,
     "updated_at": "2026-09-07T20:54:17Z",
     "url": "https://github.com/veneris-io/outbound-skills"
   },
@@ -63,31 +117,13 @@
     "url": "https://github.com/chris-hendrix/ai-hub"
   },
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 18,
-    "updated_at": "2026-09-07T20:53:21Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-07T20:51:05Z",
+    "updated_at": "2026-09-07T21:03:58Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Three Claude Code skills that stop an agent substituting reasoning for evidence.",
-    "id": "Nova-Caelum/no-mistakes",
-    "language": "\u2014",
-    "name": "Nova-Caelum/no-mistakes",
-    "stars": 0,
-    "updated_at": "2026-09-07T20:48:15Z",
-    "url": "https://github.com/Nova-Caelum/no-mistakes"
   },
   {
     "description": "Audit slides, posters and figures for readers with vision loss, such as colour blindness, projected contrast, and text s",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T20:46:38Z",
     "url": "https://github.com/moecui22/accessible-slides"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-07T20:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -140,7 +167,7 @@
     "language": "TypeScript",
     "name": "molefrog/moi",
     "stars": 142,
-    "updated_at": "2026-09-07T20:42:44Z",
+    "updated_at": "2026-09-07T21:13:16Z",
     "url": "https://github.com/molefrog/moi"
   },
   {
@@ -243,15 +270,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
-    "id": "filippolmt/skills",
-    "language": "JavaScript",
-    "name": "filippolmt/skills",
-    "stars": 1,
-    "updated_at": "2026-09-07T20:59:45Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
     "description": "visualize, and report code coverage within llm sessions",
     "id": "joshLong145/ambits",
     "language": "Rust",
@@ -329,7 +347,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-07T20:58:11Z",
+    "updated_at": "2026-09-07T21:14:57Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-07T19:37:45Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
-    "id": "ArcticFox2029/chamnan",
-    "language": "Python",
-    "name": "ArcticFox2029/chamnan",
-    "stars": 4,
-    "updated_at": "2026-09-07T19:37:11Z",
-    "url": "https://github.com/ArcticFox2029/chamnan"
-  },
-  {
-    "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u9762\u5411 AI Agent \u7684\u6d4b\u8bd5\u5de5\u7a0b Skill \u6846\u67b6\u2014\u201411 Skills + \u5171\u4eab\u77e5\u8bc6\u5e93 + \u7c7b\u578b\u51b3\u7b56\u77e9\u9635\uff08Claude Code / dsh \u7b49 Agent \u53ef\u7528\uff09",
-    "id": "fishzjp/qa-skills",
-    "language": "Python",
-    "name": "fishzjp/qa-skills",
-    "stars": 25,
-    "updated_at": "2026-09-07T19:34:03Z",
-    "url": "https://github.com/fishzjp/qa-skills"
   }
 ]
