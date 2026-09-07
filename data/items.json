@@ -1,5 +1,104 @@
 [
   {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 169,
+    "updated_at": "2026-09-07T11:28:10Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-09-07T11:26:08Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "A training and eating plan that checks its own work before you see it. Refuses to guess, catches its own mistakes, and w",
+    "id": "rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete",
+    "language": "Python",
+    "name": "rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete",
+    "stars": 2,
+    "updated_at": "2026-09-07T11:24:23Z",
+    "url": "https://github.com/rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-07T11:22:09Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "JavaScript",
+    "name": "geml-spec/geml",
+    "stars": 26,
+    "updated_at": "2026-09-07T11:20:35Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "ShareXtract \u00b7 \u516c\u5f00\u5206\u4eab\u5185\u5bb9\u63d0\u53d6 / Protocol-first public share extractor \u00b7 AI \u5bf9\u8bdd\u3001\u793e\u4ea4\u5185\u5bb9\u3001\u5a92\u4f53\u4e0e\u5f00\u653e\u7f51\u9875 / AI chats, social posts, media & op",
+    "id": "wuaishare/sharextract",
+    "language": "Python",
+    "name": "wuaishare/sharextract",
+    "stars": 0,
+    "updated_at": "2026-09-07T11:18:42Z",
+    "url": "https://github.com/wuaishare/sharextract"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68775,
+    "updated_at": "2026-09-07T11:17:36Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Provenance at the value level for Python and JS: mock-taint and confidence propagate through derived results and can't b",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-09-07T11:16:23Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "BoYue \u00b7 \u535a\u7ea6 | AI\u7f16\u7a0b\u5f00\u53d1\u65b9\u6cd5\u8bba | methodology paper + Agent Skill for AI development decisions and complexity governance",
+    "id": "wuaishare/boyue",
+    "language": "\u2014",
+    "name": "wuaishare/boyue",
+    "stars": 0,
+    "updated_at": "2026-09-07T11:16:06Z",
+    "url": "https://github.com/wuaishare/boyue"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-09-07T11:15:34Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-07T11:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
     "id": "serpro69/claude-toolbox",
     "language": "Shell",
@@ -14,7 +113,7 @@
     "language": "TypeScript",
     "name": "molefrog/moi",
     "stars": 142,
-    "updated_at": "2026-09-07T11:13:06Z",
+    "updated_at": "2026-09-07T11:21:40Z",
     "url": "https://github.com/molefrog/moi"
   },
   {
@@ -34,24 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T11:11:18Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Provenance at the value level for Python and JS: mock-taint and confidence propagate through derived results and can't b",
-    "id": "slopstopper/plumb-line",
-    "language": "Python",
-    "name": "slopstopper/plumb-line",
-    "stars": 4,
-    "updated_at": "2026-09-07T11:14:58Z",
-    "url": "https://github.com/slopstopper/plumb-line"
-  },
-  {
-    "description": "Lean output mode for Claude Code: minimal solution, action-first structure, zero-fat density. Fuses caveman, ponytail, a",
-    "id": "FlorianBruniaux/flow-lean",
-    "language": "Python",
-    "name": "FlorianBruniaux/flow-lean",
-    "stars": 14,
-    "updated_at": "2026-09-07T11:09:53Z",
-    "url": "https://github.com/FlorianBruniaux/flow-lean"
   },
   {
     "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
@@ -126,15 +207,6 @@
     "url": "https://github.com/runapi-ai/gemini-omni"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-07T11:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u5bf9\u8bdd\u5f0f\u5b66\u4e60\u6559\u7ec3\u6280\u80fd\uff1a\u628a\u4e00\u9053\u9898\u80cc\u540e\u7684\u516c\u5f0f\u4ece\u672c\u8d28\u8bb2\u900f\uff0c\u5199\u6210\u53ef\u4ee5\u5728\u6d4f\u89c8\u5668\u91cc\u8bfb\u7684 HTML\uff0c\u6bcf\u4e2a\u7b49\u53f7\u5355\u72ec\u4e00\u884c\u5e76\u5199\u51fa\u8fd9\u4e00\u884c\u51ed\u4ec0\u4e48\u6210\u7acb\u3002",
     "id": "jinshanbaihai/dialogue-tutor",
     "language": "JavaScript",
@@ -180,15 +252,6 @@
     "url": "https://github.com/elsoul/erpc-sdk"
   },
   {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 169,
-    "updated_at": "2026-09-07T11:13:03Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -205,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T10:53:44Z",
     "url": "https://github.com/ingridleiria/breaktalk-skills"
-  },
-  {
-    "description": "BoYue \u00b7 \u535a\u7ea6 | AI\u7f16\u7a0b\u5f00\u53d1\u65b9\u6cd5\u8bba | methodology paper + Agent Skill for AI development decisions and complexity governance",
-    "id": "wuaishare/boyue",
-    "language": "\u2014",
-    "name": "wuaishare/boyue",
-    "stars": 0,
-    "updated_at": "2026-09-07T10:52:25Z",
-    "url": "https://github.com/wuaishare/boyue"
-  },
-  {
-    "description": "ShareXtract \u00b7 \u516c\u5f00\u5206\u4eab\u5185\u5bb9\u63d0\u53d6 / Protocol-first public share extractor \u00b7 AI \u5bf9\u8bdd\u3001\u793e\u4ea4\u5185\u5bb9\u3001\u5a92\u4f53\u4e0e\u5f00\u653e\u7f51\u9875 / AI chats, social posts, media & op",
-    "id": "wuaishare/sharextract",
-    "language": "Python",
-    "name": "wuaishare/sharextract",
-    "stars": 0,
-    "updated_at": "2026-09-07T10:52:22Z",
-    "url": "https://github.com/wuaishare/sharextract"
   },
   {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
@@ -248,17 +293,8 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-07T11:15:08Z",
+    "updated_at": "2026-09-07T11:16:22Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68775,
-    "updated_at": "2026-09-07T11:08:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Agent Skills by mr-kelly",
@@ -412,41 +448,5 @@
     "stars": 795,
     "updated_at": "2026-09-07T10:21:26Z",
     "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
-  },
-  {
-    "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u9762\u5411 AI Agent \u7684\u6d4b\u8bd5\u5de5\u7a0b Skill \u6846\u67b6\u2014\u201411 Skills + \u5171\u4eab\u77e5\u8bc6\u5e93 + \u7c7b\u578b\u51b3\u7b56\u77e9\u9635\uff08Claude Code / dsh \u7b49 Agent \u53ef\u7528\uff09",
-    "id": "fishzjp/qa-skills",
-    "language": "Python",
-    "name": "fishzjp/qa-skills",
-    "stars": 24,
-    "updated_at": "2026-09-07T10:08:26Z",
-    "url": "https://github.com/fishzjp/qa-skills"
-  },
-  {
-    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
-    "id": "wei18/apple-dev-skills",
-    "language": "Python",
-    "name": "wei18/apple-dev-skills",
-    "stars": 19,
-    "updated_at": "2026-09-07T10:06:06Z",
-    "url": "https://github.com/wei18/apple-dev-skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 417,
-    "updated_at": "2026-09-07T10:05:49Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-09-07T10:05:08Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
   }
 ]
