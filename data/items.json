@@ -1,5 +1,122 @@
 [
   {
+    "description": "35 portable agent skills (Agent Skills spec) for Kiro & Claude Code: Scrum DevSecOps roles, PCI-DSS/MAS TRM compliance, ",
+    "id": "timwukp/agent-skills-best-practice",
+    "language": "Python",
+    "name": "timwukp/agent-skills-best-practice",
+    "stars": 10,
+    "updated_at": "2026-09-07T09:29:14Z",
+    "url": "https://github.com/timwukp/agent-skills-best-practice"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 46,
+    "updated_at": "2026-09-07T09:28:34Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
+    "description": "Agent skills and open methodology for auditing whether AI answer engines can crawl and cite your site. GEO/AEO, AI searc",
+    "id": "maxaeo/maxaeo-geo-toolkit",
+    "language": "JavaScript",
+    "name": "maxaeo/maxaeo-geo-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-07T09:26:47Z",
+    "url": "https://github.com/maxaeo/maxaeo-geo-toolkit"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68772,
+    "updated_at": "2026-09-07T09:29:39Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
+    "id": "elementalsouls/Claude-BugHunter",
+    "language": "Python",
+    "name": "elementalsouls/Claude-BugHunter",
+    "stars": 4338,
+    "updated_at": "2026-09-07T09:24:46Z",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-07T09:22:35Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "\u6296\u97f3\u4fe1\u606f\u6e90 \u2014 \u6bcf\u65e5\u81ea\u52a8\u626b\u63cf\u6296\u97f3\u76f8\u5173\u4f5c\u54c1\uff0c\u6309\u4e92\u52a8\u91cf\uff08\u70b9\u8d5e/\u5206\u4eab/\u8bc4\u8bba\uff09\u7b5b\u9009\u6700\u706b\u5185\u5bb9\uff0c\u667a\u80fd\u805a\u7c7b\u751f\u6210\u7cbe\u7f8e\u65e5\u62a5\uff0c\u652f\u6301\u5c01\u9762\u56fe\u3001\u6570\u636e\u6307\u6807\u548c\u6bcf\u65e5\u8ba2\u9605\u3002\u5f53\u7528\u6237\u9700\u8981 \u6296\u97f3\u65e5\u62a5\u3001\u6296\u97f3\u70ed\u70b9\u3001\u6296\u97f3\u5185\u5bb9\u3001\u6296\u97f3\u4fe1\u606f\u6e90\u3001douyin feeds \u65f6\u4f7f\u7528\u3002",
+    "id": "why20261/douyin-feeds",
+    "language": "JavaScript",
+    "name": "why20261/douyin-feeds",
+    "stars": 0,
+    "updated_at": "2026-09-07T09:21:47Z",
+    "url": "https://github.com/why20261/douyin-feeds"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-09-07T09:21:34Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
+    "id": "shauryalowkeygotaura/brand-launchpad",
+    "language": "HTML",
+    "name": "shauryalowkeygotaura/brand-launchpad",
+    "stars": 1,
+    "updated_at": "2026-09-07T09:21:18Z",
+    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
+  },
+  {
+    "description": "A structurally reliable protocol and skills kit for building AI-assisted projects at the right complexity tier in Claude",
+    "id": "partikularwaters/Banka",
+    "language": "Shell",
+    "name": "partikularwaters/Banka",
+    "stars": 3,
+    "updated_at": "2026-09-07T09:21:44Z",
+    "url": "https://github.com/partikularwaters/Banka"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 142,
+    "updated_at": "2026-09-07T09:29:51Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "A design-direction skill with a curated visual library, weighted choices and output-backed visual craft review.",
+    "id": "Stianlars1/drawn-to",
+    "language": "JavaScript",
+    "name": "Stianlars1/drawn-to",
+    "stars": 1,
+    "updated_at": "2026-09-07T09:17:13Z",
+    "url": "https://github.com/Stianlars1/drawn-to"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-07T09:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
     "id": "Ford-1/postgresql-mcp-connector",
     "language": "HTML",
@@ -16,15 +133,6 @@
     "stars": 16,
     "updated_at": "2026-09-07T09:14:14Z",
     "url": "https://github.com/brycewang-stanford/lit-review-agent-tools"
-  },
-  {
-    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 8,
-    "updated_at": "2026-09-07T09:13:52Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
   },
   {
     "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
@@ -49,7 +157,7 @@
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6596,
+    "stars": 6597,
     "updated_at": "2026-09-07T09:12:26Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
@@ -81,15 +189,6 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
-    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
-    "id": "eai-org/agent-toolkit",
-    "language": "Shell",
-    "name": "eai-org/agent-toolkit",
-    "stars": 46,
-    "updated_at": "2026-09-07T09:09:06Z",
-    "url": "https://github.com/eai-org/agent-toolkit"
-  },
-  {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
     "id": "yngbrll/vb-winforms-toolkit",
     "language": "HTML",
@@ -104,7 +203,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 169,
-    "updated_at": "2026-09-07T09:08:50Z",
+    "updated_at": "2026-09-07T09:28:30Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -115,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T09:08:30Z",
     "url": "https://github.com/amjad1233/ai-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-07T09:12:01Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "A standard for CI that stays green for the right reasons",
@@ -153,15 +243,6 @@
     "url": "https://github.com/reticlehq/reticle"
   },
   {
-    "description": "Agent skills and open methodology for auditing whether AI answer engines can crawl and cite your site. GEO/AEO, AI searc",
-    "id": "maxaeo/maxaeo-geo-toolkit",
-    "language": "JavaScript",
-    "name": "maxaeo/maxaeo-geo-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:05:05Z",
-    "url": "https://github.com/maxaeo/maxaeo-geo-toolkit"
-  },
-  {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
     "id": "alexzvency-ship-it/claude-browser-automator",
     "language": "HTML",
@@ -178,15 +259,6 @@
     "stars": 8,
     "updated_at": "2026-09-07T09:01:20Z",
     "url": "https://github.com/ontology-of-everything/SemanticSkills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-07T09:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-07T08:45:00Z",
     "url": "https://github.com/ljx-chase/research-field-onboarding"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2447,
-    "updated_at": "2026-09-07T08:44:40Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-09-07T08:43:23Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:43:15Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "Plugin with opinionated set of Claude Code agents nad skills",
-    "id": "lklimek/claudius",
-    "language": "Python",
-    "name": "lklimek/claudius",
-    "stars": 1,
-    "updated_at": "2026-09-07T08:56:48Z",
-    "url": "https://github.com/lklimek/claudius"
-  },
-  {
-    "description": "Auto harness engineering meta-repo: discuss \u2192 curate \u2192 bootstrap a context-engineered project for Claude Code, Cursor, C",
-    "id": "glowElephant/context-forge",
-    "language": "Python",
-    "name": "glowElephant/context-forge",
-    "stars": 2,
-    "updated_at": "2026-09-07T08:41:39Z",
-    "url": "https://github.com/glowElephant/context-forge"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 1,
-    "updated_at": "2026-09-07T08:40:25Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:40:20Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "\u6296\u97f3\u6700\u5177\u5546\u4e1a\u4ef7\u503c\u610f\u89c1\u9886\u8896\uff08KOL\uff09\u6570\u636e\u67e5\u8be2\u4e0e\u5de5\u5177\u52a9\u624b\u3002\u652f\u6301\u56db\u5927\u80fd\u529b\uff1a   (1) \u5173\u952e\u8bcd\u641c\u7d22\u89c6\u9891/\u56fe\u6587\uff0c\u53ef\u6309\u70b9\u8d5e\u6570\u3001\u53d1\u5e03\u65f6\u95f4\u3001\u65f6\u957f\u3001\u5185\u5bb9\u7c7b\u578b\u7b5b\u9009\u6392\u5e8f\uff1b   (2) \u5b9e\u65f6\u70ed\u699c\u67e5\u8be2\uff0c\u83b7\u53d6\u6296\u97f3\u70ed\u641c\u8bcd\u6761\u4e0e\u70ed\u5ea6\u6570\u636e\uff1b   (3) \u535a\u4e3b\u4f5c\u54c1\u6293\u53d6\uff0c\u6309\u4e3b\u9875",
-    "id": "why20261/douyin-kol-searchs",
-    "language": "JavaScript",
-    "name": "why20261/douyin-kol-searchs",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:40:18Z",
-    "url": "https://github.com/why20261/douyin-kol-searchs"
   }
 ]
