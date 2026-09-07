@@ -1,21 +1,111 @@
 [
   {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 35,
+    "updated_at": "2026-09-07T14:44:39Z",
+    "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-09-07T14:43:15Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
     "description": "Debug a machine you cannot log into, through an operator who cannot debug it - for air-gapped, client-owned and change-c",
     "id": "dbhq-uk/heliograph-skill",
     "language": "Shell",
     "name": "dbhq-uk/heliograph-skill",
     "stars": 2,
-    "updated_at": "2026-09-07T14:28:49Z",
+    "updated_at": "2026-09-07T14:41:47Z",
     "url": "https://github.com/dbhq-uk/heliograph-skill"
   },
   {
-    "description": "110 open, model-agnostic AI working instructions for Chief of Staff work and empirical research. Each one carries a work",
-    "id": "ingridleiria/breaktalk-skills",
+    "description": "\u5fae\u4fe1\u516c\u4f17\u53f7 AI \u8fd0\u8425\u52a9\u624b | \u9009\u9898\u3001\u5199\u7a3f\u3001\u5ba1\u7a3f\u3001\u6392\u7248\u3001\u914d\u56fe\u3001\u53d1\u5e03\u5168\u6d41\u7a0b Skill\uff0c\u652f\u6301 OpenClaw / Claude Code / Cursor / Codex",
+    "id": "aiworkskills/wechat-article-skills",
     "language": "Python",
-    "name": "ingridleiria/breaktalk-skills",
-    "stars": 0,
-    "updated_at": "2026-09-07T14:27:53Z",
-    "url": "https://github.com/ingridleiria/breaktalk-skills"
+    "name": "aiworkskills/wechat-article-skills",
+    "stars": 570,
+    "updated_at": "2026-09-07T14:41:11Z",
+    "url": "https://github.com/aiworkskills/wechat-article-skills"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 170,
+    "updated_at": "2026-09-07T14:41:02Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and t",
+    "id": "techygarg/lattice",
+    "language": "JavaScript",
+    "name": "techygarg/lattice",
+    "stars": 185,
+    "updated_at": "2026-09-07T14:39:54Z",
+    "url": "https://github.com/techygarg/lattice"
+  },
+  {
+    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
+    "id": "isatimur/excalidraw-skill-pack",
+    "language": "TypeScript",
+    "name": "isatimur/excalidraw-skill-pack",
+    "stars": 4,
+    "updated_at": "2026-09-07T14:39:01Z",
+    "url": "https://github.com/isatimur/excalidraw-skill-pack"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 78 agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, paid media, em",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 10,
+    "updated_at": "2026-09-07T14:38:29Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 36,
+    "updated_at": "2026-09-07T14:38:10Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68780,
+    "updated_at": "2026-09-07T14:36:48Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Agent Skills/Plugins/Connectors for biomedical research with the biomcp-ts MCP server.",
+    "id": "yeyuan98/bioresearcher-skills",
+    "language": "JavaScript",
+    "name": "yeyuan98/bioresearcher-skills",
+    "stars": 1,
+    "updated_at": "2026-09-07T14:32:31Z",
+    "url": "https://github.com/yeyuan98/bioresearcher-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-07T14:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Prompt engineering as a procedure, not a document. Routes to the right artifact, sizes evals to the volume, ships a lint",
@@ -27,12 +117,21 @@
     "url": "https://github.com/AdrianAdem/prompt-engineer-skill"
   },
   {
+    "description": "110 open, model-agnostic AI working instructions for Chief of Staff work and empirical research. Each one carries a work",
+    "id": "ingridleiria/breaktalk-skills",
+    "language": "Python",
+    "name": "ingridleiria/breaktalk-skills",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:27:53Z",
+    "url": "https://github.com/ingridleiria/breaktalk-skills"
+  },
+  {
     "description": "Find where a company's promise breaks between what it says and what the product does. An Agent Skill.",
     "id": "jovelove7/facet",
     "language": "Python",
     "name": "jovelove7/facet",
     "stars": 0,
-    "updated_at": "2026-09-07T14:26:52Z",
+    "updated_at": "2026-09-07T14:44:53Z",
     "url": "https://github.com/jovelove7/facet"
   },
   {
@@ -52,15 +151,6 @@
     "stars": 2449,
     "updated_at": "2026-09-07T14:22:44Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 170,
-    "updated_at": "2026-09-07T14:28:17Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "A pre-built configuration that gives Claude Code persistent memory, security guardrails, and structured workflows. Clone",
@@ -95,7 +185,7 @@
     "language": "Python",
     "name": "open-coder-ai/context-report",
     "stars": 0,
-    "updated_at": "2026-09-07T14:16:36Z",
+    "updated_at": "2026-09-07T14:43:29Z",
     "url": "https://github.com/open-coder-ai/context-report"
   },
   {
@@ -108,15 +198,6 @@
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-07T14:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Web Browser for LLMs",
     "id": "jreiner16/surfboard",
     "language": "Python",
@@ -124,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T14:13:18Z",
     "url": "https://github.com/jreiner16/surfboard"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68778,
-    "updated_at": "2026-09-07T14:13:21Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
@@ -302,17 +374,8 @@
     "language": "HTML",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 1341,
-    "updated_at": "2026-09-07T13:33:46Z",
+    "updated_at": "2026-09-07T14:36:33Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "\u5fae\u4fe1\u516c\u4f17\u53f7 AI \u8fd0\u8425\u52a9\u624b | \u9009\u9898\u3001\u5199\u7a3f\u3001\u5ba1\u7a3f\u3001\u6392\u7248\u3001\u914d\u56fe\u3001\u53d1\u5e03\u5168\u6d41\u7a0b Skill\uff0c\u652f\u6301 OpenClaw / Claude Code / Cursor / Codex",
-    "id": "aiworkskills/wechat-article-skills",
-    "language": "Python",
-    "name": "aiworkskills/wechat-article-skills",
-    "stars": 570,
-    "updated_at": "2026-09-07T13:31:58Z",
-    "url": "https://github.com/aiworkskills/wechat-article-skills"
   },
   {
     "description": "Optimizes the description frontmatter of a Claude Code / Agent Skill - the text that decides whether Claude invokes the ",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T13:13:16Z",
     "url": "https://github.com/meenalsar008/advanced-seo-audit"
-  },
-  {
-    "description": "The AMM founding-circle home base: 36 Claude skills (AEO/SEO + agentic engineering + security), the agentic ladder, play",
-    "id": "search-atlas-group/amm-founding-circle",
-    "language": "Python",
-    "name": "search-atlas-group/amm-founding-circle",
-    "stars": 0,
-    "updated_at": "2026-09-07T13:11:44Z",
-    "url": "https://github.com/search-atlas-group/amm-founding-circle"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-09-07T13:08:17Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Agent Skills/Plugins/Connectors for biomedical research with the biomcp-ts MCP server.",
-    "id": "yeyuan98/bioresearcher-skills",
-    "language": "JavaScript",
-    "name": "yeyuan98/bioresearcher-skills",
-    "stars": 1,
-    "updated_at": "2026-09-07T14:29:37Z",
-    "url": "https://github.com/yeyuan98/bioresearcher-skills"
-  },
-  {
-    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
-    "id": "zenstory-ai/oh-story-claudecode",
-    "language": "JavaScript",
-    "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 6609,
-    "updated_at": "2026-09-07T13:04:02Z",
-    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-07T13:03:07Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-09-07T13:00:53Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u9762\u5411 AI Agent \u7684\u6d4b\u8bd5\u5de5\u7a0b Skill \u6846\u67b6\u2014\u201411 Skills + \u5171\u4eab\u77e5\u8bc6\u5e93 + \u7c7b\u578b\u51b3\u7b56\u77e9\u9635\uff08Claude Code / dsh \u7b49 Agent \u53ef\u7528\uff09",
-    "id": "fishzjp/qa-skills",
-    "language": "Python",
-    "name": "fishzjp/qa-skills",
-    "stars": 25,
-    "updated_at": "2026-09-07T12:58:21Z",
-    "url": "https://github.com/fishzjp/qa-skills"
   }
 ]
