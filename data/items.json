@@ -1,12 +1,57 @@
 [
   {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19198,
+    "updated_at": "2026-09-07T18:55:02Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 8,
+    "updated_at": "2026-09-07T18:51:06Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-07T18:58:34Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
     "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
     "id": "ashfulcra/fulcra-tools",
     "language": "Python",
     "name": "ashfulcra/fulcra-tools",
     "stars": 10,
-    "updated_at": "2026-09-07T18:44:49Z",
+    "updated_at": "2026-09-07T18:59:54Z",
     "url": "https://github.com/ashfulcra/fulcra-tools"
+  },
+  {
+    "description": "Your own ByteDance, powered by Codex skills.",
+    "id": "elan6666/your-bytedance-skills",
+    "language": "Python",
+    "name": "elan6666/your-bytedance-skills",
+    "stars": 1,
+    "updated_at": "2026-09-07T18:46:18Z",
+    "url": "https://github.com/elan6666/your-bytedance-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-07T18:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
@@ -41,17 +86,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-07T18:39:13Z",
+    "updated_at": "2026-09-07T18:56:14Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-07T18:42:29Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Skill for routes between GSD project management and Superpowers engineering discipline",
@@ -121,7 +157,7 @@
     "id": "coldteadotai/pr-lens",
     "language": "TypeScript",
     "name": "coldteadotai/pr-lens",
-    "stars": 344,
+    "stars": 350,
     "updated_at": "2026-09-07T18:33:18Z",
     "url": "https://github.com/coldteadotai/pr-lens"
   },
@@ -169,15 +205,6 @@
     "stars": 34,
     "updated_at": "2026-09-07T18:31:37Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-07T18:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -315,15 +342,6 @@
     "url": "https://github.com/subashc2023/ultra-edit"
   },
   {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19198,
-    "updated_at": "2026-09-07T18:43:14Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
     "description": "Agent skill: drive a vague idea end to end \u2014 map, spec, tickets \u2014 autonomously",
     "id": "vladimir-voinea/autogrill",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-09-07T17:47:09Z",
     "url": "https://github.com/Ezra144israel/governed-agent-skills"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:42:21Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:41:29Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   }
 ]
