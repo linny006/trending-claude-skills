@@ -1,12 +1,57 @@
 [
   {
-    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
-    "id": "wei18/apple-dev-skills",
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 61,
+    "updated_at": "2026-09-08T03:57:14Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 27,
+    "updated_at": "2026-09-08T03:57:01Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
     "language": "Python",
-    "name": "wei18/apple-dev-skills",
-    "stars": 19,
-    "updated_at": "2026-09-08T03:44:52Z",
-    "url": "https://github.com/wei18/apple-dev-skills"
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-09-08T03:55:44Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/claude-chart-dashboard",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/claude-chart-dashboard",
+    "stars": 1,
+    "updated_at": "2026-09-08T03:53:42Z",
+    "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
+  },
+  {
+    "description": "Agent Skill: closed-loop performance optimization for macOS apps \u2014 headless xctrace profiling, targeted code fixes, diff",
+    "id": "kmgcc/macOS-Trace",
+    "language": "Python",
+    "name": "kmgcc/macOS-Trace",
+    "stars": 1,
+    "updated_at": "2026-09-08T03:53:37Z",
+    "url": "https://github.com/kmgcc/macOS-Trace"
+  },
+  {
+    "description": "Agent Skill: closed-loop performance optimization for iOS & iPadOS apps \u2014 headless xctrace profiling on physical devices",
+    "id": "kmgcc/iOS-Trace",
+    "language": "Python",
+    "name": "kmgcc/iOS-Trace",
+    "stars": 3,
+    "updated_at": "2026-09-08T03:53:34Z",
+    "url": "https://github.com/kmgcc/iOS-Trace"
   },
   {
     "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
@@ -14,8 +59,53 @@
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "stars": 2451,
-    "updated_at": "2026-09-08T03:44:33Z",
+    "updated_at": "2026-09-08T03:52:41Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Agent skill that removes signs of AI-generated writing, and optionally adds sparse typing errors using probability distr",
+    "id": "wilu222/unpolish-ai-writing",
+    "language": "\u2014",
+    "name": "wilu222/unpolish-ai-writing",
+    "stars": 0,
+    "updated_at": "2026-09-08T03:49:15Z",
+    "url": "https://github.com/wilu222/unpolish-ai-writing"
+  },
+  {
+    "description": "Unofficial Plan to Eat (plantoeat.com) API client, CLI, and MCP server \u2014 drive your recipe book, meal planner, freezer, ",
+    "id": "alex-zwingli/plan-to-eat-mcp",
+    "language": "TypeScript",
+    "name": "alex-zwingli/plan-to-eat-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-08T03:49:05Z",
+    "url": "https://github.com/alex-zwingli/plan-to-eat-mcp"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68799,
+    "updated_at": "2026-09-08T03:47:29Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T03:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
+    "id": "wei18/apple-dev-skills",
+    "language": "Python",
+    "name": "wei18/apple-dev-skills",
+    "stars": 19,
+    "updated_at": "2026-09-08T03:44:52Z",
+    "url": "https://github.com/wei18/apple-dev-skills"
   },
   {
     "description": "SocialDataX skills for Xiaohongshu, XHS, RedNote, and Douyin content research",
@@ -45,24 +135,6 @@
     "url": "https://github.com/OKHP3/skillz"
   },
   {
-    "description": "Agent Skill: closed-loop performance optimization for macOS apps \u2014 headless xctrace profiling, targeted code fixes, diff",
-    "id": "kmgcc/macOS-Trace",
-    "language": "Python",
-    "name": "kmgcc/macOS-Trace",
-    "stars": 1,
-    "updated_at": "2026-09-08T03:41:25Z",
-    "url": "https://github.com/kmgcc/macOS-Trace"
-  },
-  {
-    "description": "Agent Skill: closed-loop performance optimization for iOS & iPadOS apps \u2014 headless xctrace profiling on physical devices",
-    "id": "kmgcc/iOS-Trace",
-    "language": "Python",
-    "name": "kmgcc/iOS-Trace",
-    "stars": 3,
-    "updated_at": "2026-09-08T03:41:22Z",
-    "url": "https://github.com/kmgcc/iOS-Trace"
-  },
-  {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
     "id": "YPares/rigup.nix",
     "language": "Nix",
@@ -72,24 +144,6 @@
     "url": "https://github.com/YPares/rigup.nix"
   },
   {
-    "description": "Agent skill that removes signs of AI-generated writing, and optionally adds sparse typing errors using probability distr",
-    "id": "wilu222/unpolish-ai-writing",
-    "language": "\u2014",
-    "name": "wilu222/unpolish-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-09-08T03:37:17Z",
-    "url": "https://github.com/wilu222/unpolish-ai-writing"
-  },
-  {
-    "description": "Unofficial Plan to Eat (plantoeat.com) API client, CLI, and MCP server \u2014 drive your recipe book, meal planner, freezer, ",
-    "id": "alex-zwingli/plan-to-eat-mcp",
-    "language": "TypeScript",
-    "name": "alex-zwingli/plan-to-eat-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-08T03:35:53Z",
-    "url": "https://github.com/alex-zwingli/plan-to-eat-mcp"
-  },
-  {
     "description": "Unified dynamic-host agent collaboration policy and signed-runtime client",
     "id": "sumitake/agent-collab",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T03:35:20Z",
     "url": "https://github.com/sumitake/agent-collab"
-  },
-  {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68799,
-    "updated_at": "2026-09-08T03:39:57Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
@@ -124,15 +169,6 @@
     "stars": 81755,
     "updated_at": "2026-09-08T03:31:40Z",
     "url": "https://github.com/Egonex-AI/Understand-Anything"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T03:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "PMO-Style multi-agent orchestrator for Claude Code. Fable 5 conducts, 18 agents build & verify. Give it a goal, get veri",
@@ -187,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T03:17:43Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Claude Skills",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 0,
-    "updated_at": "2026-09-08T03:06:06Z",
-    "url": "https://github.com/MrBinnacle/skills"
   },
   {
     "description": "Give Claude Code a memory and make it cite its sources \u2014 keyless skills for research, daily work, and an evidence-gated ",
@@ -401,7 +428,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 4,
-    "updated_at": "2026-09-08T03:29:29Z",
+    "updated_at": "2026-09-08T03:46:00Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-08T01:50:50Z",
     "url": "https://github.com/richfrem/agent-plugins-skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 418,
-    "updated_at": "2026-09-08T01:49:47Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30718,
-    "updated_at": "2026-09-08T01:47:23Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Open-source Claude Code skills marketplace \u2014 agent-army, claude-continuation, and more. Add once, install whichever you ",
-    "id": "amjad1233/ai-skills",
-    "language": "JavaScript",
-    "name": "amjad1233/ai-skills",
-    "stars": 1,
-    "updated_at": "2026-09-08T01:46:23Z",
-    "url": "https://github.com/amjad1233/ai-skills"
   }
 ]
