@@ -1,5 +1,86 @@
 [
   {
+    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
+    "id": "wei18/apple-dev-skills",
+    "language": "Python",
+    "name": "wei18/apple-dev-skills",
+    "stars": 19,
+    "updated_at": "2026-09-08T08:14:08Z",
+    "url": "https://github.com/wei18/apple-dev-skills"
+  },
+  {
+    "description": "The far side of heliograph: a bash toolkit and Claude Code skill for running captured, auditable commands on a machine y",
+    "id": "dbhq-uk/heliograph-skill",
+    "language": "Shell",
+    "name": "dbhq-uk/heliograph-skill",
+    "stars": 2,
+    "updated_at": "2026-09-08T08:11:03Z",
+    "url": "https://github.com/dbhq-uk/heliograph-skill"
+  },
+  {
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
+    "language": "Python",
+    "name": "Ovid/paad",
+    "stars": 111,
+    "updated_at": "2026-09-08T08:10:04Z",
+    "url": "https://github.com/Ovid/paad"
+  },
+  {
+    "description": "Job-hunting research analyst skill: turn target companies & roles into structured intelligence \u2014 salary, tech stack, gro",
+    "id": "qiusuo0226/job-research-analyst-skill",
+    "language": "Python",
+    "name": "qiusuo0226/job-research-analyst-skill",
+    "stars": 2,
+    "updated_at": "2026-09-08T08:05:37Z",
+    "url": "https://github.com/qiusuo0226/job-research-analyst-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68803,
+    "updated_at": "2026-09-08T08:14:45Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Snapshot-based, verifiable batch file editing with a Rust engine, JSON CLI, and Claude Code MCP plugin.",
+    "id": "subashc2023/ultra-edit",
+    "language": "Rust",
+    "name": "subashc2023/ultra-edit",
+    "stars": 0,
+    "updated_at": "2026-09-08T08:06:42Z",
+    "url": "https://github.com/subashc2023/ultra-edit"
+  },
+  {
+    "description": "Meta-skill toolkit: scaffold production-grade Agent Skills with versioning, baselines, packaging & release audit \u2014 initi",
+    "id": "qiusuo0226/skill-devkit-skill",
+    "language": "Python",
+    "name": "qiusuo0226/skill-devkit-skill",
+    "stars": 2,
+    "updated_at": "2026-09-08T08:03:02Z",
+    "url": "https://github.com/qiusuo0226/skill-devkit-skill"
+  },
+  {
+    "description": "Lab it. Plan it. Ship it. Agent skills for architecture, GitHub planning and delivery, with stack-specific companions.",
+    "id": "elieandraos/agentic-engineering",
+    "language": "HTML",
+    "name": "elieandraos/agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-08T08:00:31Z",
+    "url": "https://github.com/elieandraos/agentic-engineering"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T08:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Provenance at the value level for Python and JS: mock-taint and confidence propagate through derived results and can't b",
     "id": "slopstopper/plumb-line",
     "language": "Python",
@@ -50,7 +131,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-08T07:59:57Z",
+    "updated_at": "2026-09-08T08:12:45Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -72,21 +153,12 @@
     "url": "https://github.com/jiawood2006/hermes-skills"
   },
   {
-    "description": "Lab it. Plan it. Ship it. Agent skills for architecture, GitHub planning and delivery, with stack-specific companions.",
-    "id": "elieandraos/agentic-engineering",
-    "language": "HTML",
-    "name": "elieandraos/agentic-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-08T07:49:19Z",
-    "url": "https://github.com/elieandraos/agentic-engineering"
-  },
-  {
     "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
     "id": "filippolmt/skills",
     "language": "HTML",
     "name": "filippolmt/skills",
     "stars": 1,
-    "updated_at": "2026-09-08T07:45:35Z",
+    "updated_at": "2026-09-08T08:14:59Z",
     "url": "https://github.com/filippolmt/skills"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T07:45:34Z",
     "url": "https://github.com/kardebadas/claude-plugin"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T07:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -124,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T07:44:02Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68803,
-    "updated_at": "2026-09-08T07:58:55Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -203,26 +257,8 @@
     "language": "TypeScript",
     "name": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
     "stars": 0,
-    "updated_at": "2026-09-08T07:54:55Z",
+    "updated_at": "2026-09-08T08:09:53Z",
     "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
-  },
-  {
-    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
-    "id": "wei18/apple-dev-skills",
-    "language": "Python",
-    "name": "wei18/apple-dev-skills",
-    "stars": 19,
-    "updated_at": "2026-09-08T07:27:52Z",
-    "url": "https://github.com/wei18/apple-dev-skills"
-  },
-  {
-    "description": "Snapshot-based, verifiable batch file editing with a Rust engine, JSON CLI, and Claude Code MCP plugin.",
-    "id": "subashc2023/ultra-edit",
-    "language": "Rust",
-    "name": "subashc2023/ultra-edit",
-    "stars": 0,
-    "updated_at": "2026-09-08T07:31:57Z",
-    "url": "https://github.com/subashc2023/ultra-edit"
   },
   {
     "description": "Agent skill that strips AI tells from prose and puts a human voice back, pitched at the reader it is for. British Englis",
@@ -247,7 +283,7 @@
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2453,
+    "stars": 2454,
     "updated_at": "2026-09-08T07:19:22Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 170,
-    "updated_at": "2026-09-08T07:18:11Z",
+    "updated_at": "2026-09-08T08:13:36Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 34,
     "updated_at": "2026-09-08T07:00:42Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-09-08T06:59:52Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques",
-    "id": "coldteadotai/pr-lens",
-    "language": "TypeScript",
-    "name": "coldteadotai/pr-lens",
-    "stars": 698,
-    "updated_at": "2026-09-08T06:59:52Z",
-    "url": "https://github.com/coldteadotai/pr-lens"
-  },
-  {
-    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002The mo",
-    "id": "anbeime/skill",
-    "language": "Python",
-    "name": "anbeime/skill",
-    "stars": 6368,
-    "updated_at": "2026-09-08T06:59:36Z",
-    "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "Multi-model council as a single agent skill: independent answers, anonymized peer review, chairman synthesis",
-    "id": "epicsagas/council",
-    "language": "\u2014",
-    "name": "epicsagas/council",
-    "stars": 2,
-    "updated_at": "2026-09-08T06:57:32Z",
-    "url": "https://github.com/epicsagas/council"
   }
 ]
