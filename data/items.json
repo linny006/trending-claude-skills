@@ -1,12 +1,66 @@
 [
   {
+    "description": "Non-billable Workflows deutscher Steuerkanzleien: Claude-Skills + deterministische Python-Executors (AO-Fristen, StBVV, ",
+    "id": "eliasreiche/tax-ops-germany",
+    "language": "Python",
+    "name": "eliasreiche/tax-ops-germany",
+    "stars": 0,
+    "updated_at": "2026-09-08T01:24:13Z",
+    "url": "https://github.com/eliasreiche/tax-ops-germany"
+  },
+  {
+    "description": "\u5fae\u4fe1\u516c\u4f17\u53f7 AI \u8fd0\u8425\u52a9\u624b | \u9009\u9898\u3001\u5199\u7a3f\u3001\u5ba1\u7a3f\u3001\u6392\u7248\u3001\u914d\u56fe\u3001\u53d1\u5e03\u5168\u6d41\u7a0b Skill\uff0c\u652f\u6301 OpenClaw / Claude Code / Cursor / Codex",
+    "id": "aiworkskills/wechat-article-skills",
+    "language": "Python",
+    "name": "aiworkskills/wechat-article-skills",
+    "stars": 572,
+    "updated_at": "2026-09-08T01:24:09Z",
+    "url": "https://github.com/aiworkskills/wechat-article-skills"
+  },
+  {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 12,
+    "updated_at": "2026-09-08T01:22:15Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "Give Claude Code a memory and make it cite its sources \u2014 keyless skills for research, daily work, and an evidence-gated ",
+    "id": "duthaho/skillhub",
+    "language": "Python",
+    "name": "duthaho/skillhub",
+    "stars": 9,
+    "updated_at": "2026-09-08T01:21:49Z",
+    "url": "https://github.com/duthaho/skillhub"
+  },
+  {
     "description": "Human-in-the-loop skill for AI agents \u2014 create tasks for humans to review, approve, or complete. REST API + MCP.",
     "id": "sanctifai/skills",
     "language": "\u2014",
     "name": "sanctifai/skills",
     "stars": 6,
-    "updated_at": "2026-09-08T01:14:31Z",
+    "updated_at": "2026-09-08T01:20:35Z",
     "url": "https://github.com/sanctifai/skills"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 1,
+    "updated_at": "2026-09-08T01:17:09Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T01:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -32,7 +86,7 @@
     "language": "JavaScript",
     "name": "skills-agents-co/skills-and-agents-library",
     "stars": 1,
-    "updated_at": "2026-09-08T01:08:04Z",
+    "updated_at": "2026-09-08T01:18:15Z",
     "url": "https://github.com/skills-agents-co/skills-and-agents-library"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T01:01:30Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T01:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -403,50 +448,5 @@
     "stars": 11,
     "updated_at": "2026-09-08T01:12:23Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Reusable GitHub Copilot prompts for development workflows with Jira integration",
-    "id": "SilverAssist/agents-toolkit",
-    "language": "TypeScript",
-    "name": "SilverAssist/agents-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-08T00:06:33Z",
-    "url": "https://github.com/SilverAssist/agents-toolkit"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 6,
-    "updated_at": "2026-09-08T00:04:33Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 55,
-    "updated_at": "2026-09-08T00:04:18Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-08T00:03:51Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-08T00:03:22Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   }
 ]
