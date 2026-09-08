@@ -1,12 +1,102 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 418,
+    "updated_at": "2026-09-08T09:59:14Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "AI money-saver as an Agent Skill | \u5168\u7403\u514d\u8d39AI\u6280\u80fd \u2014 free AI API tokens, free-tier LLM APIs & cheapest AI memberships (incl. re",
+    "id": "laowang-ai-xbb/free-ai-token",
+    "language": "HTML",
+    "name": "laowang-ai-xbb/free-ai-token",
+    "stars": 1,
+    "updated_at": "2026-09-08T09:59:12Z",
+    "url": "https://github.com/laowang-ai-xbb/free-ai-token"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 449,
+    "updated_at": "2026-09-08T09:57:34Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68806,
+    "updated_at": "2026-09-08T09:54:44Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
+    "id": "ashfulcra/fulcra-tools",
+    "language": "Python",
+    "name": "ashfulcra/fulcra-tools",
+    "stars": 10,
+    "updated_at": "2026-09-08T09:54:17Z",
+    "url": "https://github.com/ashfulcra/fulcra-tools"
+  },
+  {
     "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
     "id": "kcy4334-lgtm/translate-book-arxiv",
     "language": "Python",
     "name": "kcy4334-lgtm/translate-book-arxiv",
     "stars": 0,
-    "updated_at": "2026-09-08T09:44:43Z",
+    "updated_at": "2026-09-08T09:54:03Z",
     "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
+  },
+  {
+    "description": "\ud83c\udf63 Hand-rolled AI Skills distilled from my everyday experience. Git & Mise (...and others).",
+    "id": "sherifabdlnaby/skills",
+    "language": "Python",
+    "name": "sherifabdlnaby/skills",
+    "stars": 8,
+    "updated_at": "2026-09-08T09:53:11Z",
+    "url": "https://github.com/sherifabdlnaby/skills"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-09-08T09:50:44Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 3,
+    "updated_at": "2026-09-08T09:47:37Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-08T09:54:31Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T09:45:50Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -27,15 +117,6 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 449,
-    "updated_at": "2026-09-08T09:45:42Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
     "id": "chenweil/skillcaddy",
     "language": "JavaScript",
@@ -43,15 +124,6 @@
     "stars": 24,
     "updated_at": "2026-09-08T09:41:26Z",
     "url": "https://github.com/chenweil/skillcaddy"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68806,
-    "updated_at": "2026-09-08T09:45:28Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -95,17 +167,8 @@
     "language": "HTML",
     "name": "elieandraos/agentic-engineering",
     "stars": 0,
-    "updated_at": "2026-09-08T09:32:32Z",
+    "updated_at": "2026-09-08T09:59:17Z",
     "url": "https://github.com/elieandraos/agentic-engineering"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 418,
-    "updated_at": "2026-09-08T09:45:33Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "25+ KI-Skills f\u00fcr den deutschen Immobilienmarkt -- von der Objektpr\u00fcfung bis zur Anlage V. Strukturierte AI-Prompts f\u00fcr ",
@@ -124,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T09:31:02Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T09:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -238,7 +292,7 @@
     "id": "INo-xious/stockbit-mcp",
     "language": "TypeScript",
     "name": "INo-xious/stockbit-mcp",
-    "stars": 27,
+    "stars": 28,
     "updated_at": "2026-09-08T09:05:57Z",
     "url": "https://github.com/INo-xious/stockbit-mcp"
   },
@@ -310,7 +364,7 @@
     "id": "elementalsouls/Claude-BugHunter",
     "language": "Python",
     "name": "elementalsouls/Claude-BugHunter",
-    "stars": 4369,
+    "stars": 4370,
     "updated_at": "2026-09-08T08:54:15Z",
     "url": "https://github.com/elementalsouls/Claude-BugHunter"
   },
@@ -346,7 +400,7 @@
     "id": "SPYfighting/my-academic-skills",
     "language": "Python",
     "name": "SPYfighting/my-academic-skills",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-09-08T08:50:13Z",
     "url": "https://github.com/SPYfighting/my-academic-skills"
   },
@@ -358,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T08:46:18Z",
     "url": "https://github.com/yeyuan98/bioresearcher-skills"
-  },
-  {
-    "description": "\ud83c\udf63 Hand-rolled AI Skills distilled from my everyday experience. Git & Mise (...and others).",
-    "id": "sherifabdlnaby/skills",
-    "language": "Python",
-    "name": "sherifabdlnaby/skills",
-    "stars": 8,
-    "updated_at": "2026-09-08T08:41:43Z",
-    "url": "https://github.com/sherifabdlnaby/skills"
   },
   {
     "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T08:35:35Z",
     "url": "https://github.com/sumitake/agent-collab"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-08T09:36:13Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
-    "id": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
-    "language": "TypeScript",
-    "name": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
-    "stars": 0,
-    "updated_at": "2026-09-08T09:45:18Z",
-    "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 171,
-    "updated_at": "2026-09-08T08:26:25Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Your project, an entire virtual company. 8 departments and 50 role-based skills coordinated by a CEO in Claude Code.",
-    "id": "alebgl77/claude-inc",
-    "language": "Python",
-    "name": "alebgl77/claude-inc",
-    "stars": 14,
-    "updated_at": "2026-09-08T08:25:35Z",
-    "url": "https://github.com/alebgl77/claude-inc"
-  },
-  {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
-    "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 5,
-    "updated_at": "2026-09-08T08:25:52Z",
-    "url": "https://github.com/shortcuts/radin"
   }
 ]
