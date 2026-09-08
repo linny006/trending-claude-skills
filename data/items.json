@@ -1,5 +1,59 @@
 [
   {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30725,
+    "updated_at": "2026-09-08T21:25:59Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-08T21:25:39Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-08T21:27:59Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-08T21:28:34Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
+    "id": "AN0099/toothpaste-kit",
+    "language": "Python",
+    "name": "AN0099/toothpaste-kit",
+    "stars": 1,
+    "updated_at": "2026-09-08T21:22:58Z",
+    "url": "https://github.com/AN0099/toothpaste-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T21:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
     "id": "costiash/claude-code-docs",
     "language": "Python",
@@ -9,13 +63,13 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
-    "id": "AN0099/toothpaste-kit",
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
     "language": "Python",
-    "name": "AN0099/toothpaste-kit",
-    "stars": 1,
-    "updated_at": "2026-09-08T21:13:44Z",
-    "url": "https://github.com/AN0099/toothpaste-kit"
+    "name": "using-system/oddyssey",
+    "stars": 6,
+    "updated_at": "2026-09-08T21:13:23Z",
+    "url": "https://github.com/using-system/oddyssey"
   },
   {
     "description": "So your genies can pay the bills https://www.skills.sh/jonfazzaro/skills",
@@ -41,17 +95,8 @@
     "language": "TypeScript",
     "name": "osrim/ski",
     "stars": 7,
-    "updated_at": "2026-09-08T21:08:43Z",
+    "updated_at": "2026-09-08T21:28:37Z",
     "url": "https://github.com/osrim/ski"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-08T21:07:33Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Reusable procedures that make your AI handle recurring work the same good way every time. Paste one prompt; it recommend",
@@ -72,15 +117,6 @@
     "url": "https://github.com/fcakyon/claude-codex-settings"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-08T21:06:56Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-cli",
     "id": "Ap6pack/outrider-recon",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T21:01:06Z",
     "url": "https://github.com/rokokol/companion-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T21:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
@@ -401,7 +428,7 @@
     "language": "Shell",
     "name": "boshu2/agentops",
     "stars": 434,
-    "updated_at": "2026-09-08T20:52:09Z",
+    "updated_at": "2026-09-08T21:15:31Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 453,
     "updated_at": "2026-09-08T20:03:50Z",
     "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Agent skills for makers, designers, and engineers",
-    "id": "planetabhi/skills",
-    "language": "Markdown",
-    "name": "planetabhi/skills",
-    "stars": 1,
-    "updated_at": "2026-09-08T20:01:54Z",
-    "url": "https://github.com/planetabhi/skills"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-08T20:00:39Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-09-08T20:00:29Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
