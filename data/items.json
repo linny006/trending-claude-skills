@@ -1,21 +1,21 @@
 [
   {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-07T23:59:30Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
     "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
     "id": "travsteward/openwriter",
     "language": "TypeScript",
     "name": "travsteward/openwriter",
     "stars": 27,
-    "updated_at": "2026-09-07T23:59:21Z",
+    "updated_at": "2026-09-08T00:14:53Z",
     "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
+    "id": "howard-lynn-ye/fin-skills",
+    "language": "Python",
+    "name": "howard-lynn-ye/fin-skills",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:14:00Z",
+    "url": "https://github.com/howard-lynn-ye/fin-skills"
   },
   {
     "description": "A status line for Claude Code. One bash file, no dependencies.",
@@ -23,8 +23,143 @@
     "language": "Shell",
     "name": "heathdutton/claude-dipstick",
     "stars": 0,
-    "updated_at": "2026-09-07T23:57:31Z",
+    "updated_at": "2026-09-08T00:11:41Z",
     "url": "https://github.com/heathdutton/claude-dipstick"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:11:14Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-08T00:09:56Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 170,
+    "updated_at": "2026-09-08T00:09:29Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-08T00:08:59Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) for Claude Code, Codex, Cursor, and Gemini CLI \u2014 only the expertise a frontier model doesn't alr",
+    "id": "sergeyizmailov/knowledge-delta-skills",
+    "language": "Python",
+    "name": "sergeyizmailov/knowledge-delta-skills",
+    "stars": 3,
+    "updated_at": "2026-09-08T00:08:51Z",
+    "url": "https://github.com/sergeyizmailov/knowledge-delta-skills"
+  },
+  {
+    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing know",
+    "id": "undefined-ui/second-brain-os",
+    "language": "Python",
+    "name": "undefined-ui/second-brain-os",
+    "stars": 1,
+    "updated_at": "2026-09-08T00:08:35Z",
+    "url": "https://github.com/undefined-ui/second-brain-os"
+  },
+  {
+    "description": "Reusable GitHub Copilot prompts for development workflows with Jira integration",
+    "id": "SilverAssist/agents-toolkit",
+    "language": "TypeScript",
+    "name": "SilverAssist/agents-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-08T00:06:33Z",
+    "url": "https://github.com/SilverAssist/agents-toolkit"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 6,
+    "updated_at": "2026-09-08T00:04:33Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 55,
+    "updated_at": "2026-09-08T00:04:18Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:03:51Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
+    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
+    "id": "bokyostudio/pg-practice-knowledgebase",
+    "language": "HTML",
+    "name": "bokyostudio/pg-practice-knowledgebase",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:03:22Z",
+    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:03:07Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "50 role-based agents, 8 departments, one CEO. Mission Studio turns a brief into a focused crew, ordered deliverables and",
+    "id": "alebgl77/claude-inc",
+    "language": "Shell",
+    "name": "alebgl77/claude-inc",
+    "stars": 14,
+    "updated_at": "2026-09-08T00:05:33Z",
+    "url": "https://github.com/alebgl77/claude-inc"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T00:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-07T23:59:30Z",
+    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -63,21 +198,12 @@
     "url": "https://github.com/cskwork/grill-with-docs-html"
   },
   {
-    "description": "Agent Skills (SKILL.md) for Claude Code, Codex, Cursor, and Gemini CLI \u2014 only the expertise a frontier model doesn't alr",
-    "id": "sergeyizmailov/knowledge-delta-skills",
-    "language": "Python",
-    "name": "sergeyizmailov/knowledge-delta-skills",
-    "stars": 3,
-    "updated_at": "2026-09-07T23:51:57Z",
-    "url": "https://github.com/sergeyizmailov/knowledge-delta-skills"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-07T23:51:12Z",
+    "updated_at": "2026-09-08T00:05:16Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -88,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T23:51:08Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing know",
-    "id": "undefined-ui/second-brain-os",
-    "language": "Python",
-    "name": "undefined-ui/second-brain-os",
-    "stars": 1,
-    "updated_at": "2026-09-07T23:49:33Z",
-    "url": "https://github.com/undefined-ui/second-brain-os"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -133,24 +250,6 @@
     "stars": 3,
     "updated_at": "2026-09-07T23:46:50Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-07T23:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 170,
-    "updated_at": "2026-09-07T23:58:55Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T23:22:51Z",
     "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-09-07T23:22:40Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-09-07T23:22:32Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:22:03Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 21,
-    "updated_at": "2026-09-07T23:22:03Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-09-07T23:21:50Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-07T23:21:39Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:21:36Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-09-07T23:21:26Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:21:13Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-09-07T23:21:07Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:21:05Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
   }
 ]
