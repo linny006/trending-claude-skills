@@ -1,12 +1,66 @@
 [
   {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
+    "description": "Claude-Desktop-Bridge A Claude-Desktop MCP local bridge that connects Chat and Code tabs",
+    "id": "KiMiGuel/Indepentest-CDB",
+    "language": "TypeScript",
+    "name": "KiMiGuel/Indepentest-CDB",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:28:51Z",
+    "url": "https://github.com/KiMiGuel/Indepentest-CDB"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 2,
+    "updated_at": "2026-09-08T11:28:04Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:27:59Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
     "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 5,
-    "updated_at": "2026-09-08T11:12:26Z",
-    "url": "https://github.com/shortcuts/radin"
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-08T11:27:48Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 142,
+    "updated_at": "2026-09-08T11:27:24Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "AI QA Lead that turns requirements (PDF, DOCX, XLSX) into TestRail-ready test cases in one conversation. Free, open-sour",
+    "id": "JohnWayneeee/casely-qa-skill",
+    "language": "Python",
+    "name": "JohnWayneeee/casely-qa-skill",
+    "stars": 7,
+    "updated_at": "2026-09-08T11:24:16Z",
+    "url": "https://github.com/JohnWayneeee/casely-qa-skill"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 418,
+    "updated_at": "2026-09-08T11:23:41Z",
+    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
@@ -14,8 +68,53 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 449,
-    "updated_at": "2026-09-08T11:11:41Z",
+    "updated_at": "2026-09-08T11:21:45Z",
     "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:18:12Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
+  },
+  {
+    "description": "Agent skills that make a model report what it cannot do. root-cause forbids a causal claim without evidence; sitrep puts",
+    "id": "openhonest/honest-skills",
+    "language": "Python",
+    "name": "openhonest/honest-skills",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:16:51Z",
+    "url": "https://github.com/openhonest/honest-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T11:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Lab it. Plan it. Ship it. Agent skills for architecture, GitHub planning and delivery, with stack-specific companions.",
+    "id": "elieandraos/agentic-engineering",
+    "language": "HTML",
+    "name": "elieandraos/agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:14:52Z",
+    "url": "https://github.com/elieandraos/agentic-engineering"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-09-08T11:12:26Z",
+    "url": "https://github.com/shortcuts/radin"
   },
   {
     "description": "An Agent Skill that offers three angles for a social post, then writes the one you pick.",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "AThevon/genjutsu",
     "stars": 334,
-    "updated_at": "2026-09-08T11:12:51Z",
+    "updated_at": "2026-09-08T11:25:15Z",
     "url": "https://github.com/AThevon/genjutsu"
   },
   {
@@ -70,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T11:07:12Z",
     "url": "https://github.com/vindm/dotclaude"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-08T11:13:00Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -95,26 +185,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-08T11:07:37Z",
+    "updated_at": "2026-09-08T11:23:30Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Lab it. Plan it. Ship it. Agent skills for architecture, GitHub planning and delivery, with stack-specific companions.",
-    "id": "elieandraos/agentic-engineering",
-    "language": "HTML",
-    "name": "elieandraos/agentic-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:14:52Z",
-    "url": "https://github.com/elieandraos/agentic-engineering"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 418,
-    "updated_at": "2026-09-08T11:01:24Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-08T11:05:29Z",
+    "updated_at": "2026-09-08T11:28:51Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -131,17 +203,8 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68809,
-    "updated_at": "2026-09-08T11:00:26Z",
+    "updated_at": "2026-09-08T11:27:47Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T11:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -306,12 +369,21 @@
     "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   },
   {
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
+    "id": "OthmanAdi/planning-with-files",
+    "language": "Python",
+    "name": "OthmanAdi/planning-with-files",
+    "stars": 26717,
+    "updated_at": "2026-09-08T10:36:08Z",
+    "url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
     "description": "Craft, encoded. 152 skills and 16 agents that hold an agent to a professional standard: writing, documents, engineering,",
     "id": "Handsomeboy990/craft-suite",
     "language": "HTML",
     "name": "Handsomeboy990/craft-suite",
     "stars": 0,
-    "updated_at": "2026-09-08T10:52:51Z",
+    "updated_at": "2026-09-08T11:21:27Z",
     "url": "https://github.com/Handsomeboy990/craft-suite"
   },
   {
@@ -365,7 +437,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 173,
-    "updated_at": "2026-09-08T10:23:56Z",
+    "updated_at": "2026-09-08T11:29:09Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 15,
     "updated_at": "2026-09-08T10:23:50Z",
     "url": "https://github.com/XPOZpublic/xpoz-agent-skills"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Python",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 26716,
-    "updated_at": "2026-09-08T10:36:08Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 21,
-    "updated_at": "2026-09-08T10:20:06Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-08T10:06:18Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Privacy-first agent skill for curated Obsidian memory closeouts, retrieval, Codex, and Claude",
-    "id": "roccodaffuso/obsidian-memory-closeout",
-    "language": "Python",
-    "name": "roccodaffuso/obsidian-memory-closeout",
-    "stars": 2,
-    "updated_at": "2026-09-08T10:02:26Z",
-    "url": "https://github.com/roccodaffuso/obsidian-memory-closeout"
-  },
-  {
-    "description": "Mini Program Engineering Skill Suite is an Agent Skill suite for evidence\u2011first mini\u2011program development. It helps agent",
-    "id": "NocodeMrLi/mini-program-engineering-skill-suite",
-    "language": "Python",
-    "name": "NocodeMrLi/mini-program-engineering-skill-suite",
-    "stars": 56,
-    "updated_at": "2026-09-08T10:01:01Z",
-    "url": "https://github.com/NocodeMrLi/mini-program-engineering-skill-suite"
-  },
-  {
-    "description": "AI money-saver as an Agent Skill | \u5168\u7403\u514d\u8d39AI\u6280\u80fd \u2014 free AI API tokens, free-tier LLM APIs & cheapest AI memberships (incl. re",
-    "id": "laowang-ai-xbb/free-ai-token",
-    "language": "HTML",
-    "name": "laowang-ai-xbb/free-ai-token",
-    "stars": 1,
-    "updated_at": "2026-09-08T09:59:12Z",
-    "url": "https://github.com/laowang-ai-xbb/free-ai-token"
-  },
-  {
-    "description": "\ud83c\udf63 Hand-rolled AI Skills distilled from my everyday experience. Git & Mise (...and others).",
-    "id": "sherifabdlnaby/skills",
-    "language": "Python",
-    "name": "sherifabdlnaby/skills",
-    "stars": 8,
-    "updated_at": "2026-09-08T11:07:42Z",
-    "url": "https://github.com/sherifabdlnaby/skills"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-09-08T09:50:44Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
