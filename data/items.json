@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u4e2d\u6587\u793e\u5a92\u5185\u5bb9\u95ed\u73af\u6280\u80fd\u5305\uff08AI Agent Skills\uff09\uff1a\u58f0\u97f3\u57fa\u5ea7\u2192\u9009\u9898\u2192\u6210\u7a3f\u2192\u53e3\u64ad/\u56fe\u5361\u2192\u53d1\u5e03\u524d\u81ea\u67e5\u2192\u5468\u590d\u76d8\uff0c\u9762\u5411\u516c\u4f17\u53f7/\u89c6\u9891\u53f7/\u5c0f\u7ea2\u4e66\uff0c\u6280\u672f\u5c0f\u767d\u53cb\u597d",
+    "id": "wlkerwong-boop/lifeos-media-pack",
+    "language": "\u2014",
+    "name": "wlkerwong-boop/lifeos-media-pack",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:28:58Z",
+    "url": "https://github.com/wlkerwong-boop/lifeos-media-pack"
+  },
+  {
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
+    "id": "howard-lynn-ye/fin-skills",
+    "language": "Python",
+    "name": "howard-lynn-ye/fin-skills",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:27:41Z",
+    "url": "https://github.com/howard-lynn-ye/fin-skills"
+  },
+  {
+    "description": "52 Claude Code subagents, 44 skills, and the .claude/ project-brain pattern I use in every repo.",
+    "id": "Faaz17/Agents-and-Skills",
+    "language": "\u2014",
+    "name": "Faaz17/Agents-and-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-08T15:27:18Z",
+    "url": "https://github.com/Faaz17/Agents-and-Skills"
+  },
+  {
+    "description": "Agent Skills/Plugins/Connectors for biomedical research with the biomcp-ts MCP server.",
+    "id": "yeyuan98/bioresearcher-skills",
+    "language": "Python",
+    "name": "yeyuan98/bioresearcher-skills",
+    "stars": 1,
+    "updated_at": "2026-09-08T15:25:36Z",
+    "url": "https://github.com/yeyuan98/bioresearcher-skills"
+  },
+  {
+    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
+    "id": "ashfulcra/fulcra-tools",
+    "language": "Python",
+    "name": "ashfulcra/fulcra-tools",
+    "stars": 10,
+    "updated_at": "2026-09-08T15:24:07Z",
+    "url": "https://github.com/ashfulcra/fulcra-tools"
+  },
+  {
+    "description": "Personal skills collection for Claude",
+    "id": "Lu1sDV/skillsmd",
+    "language": "Ruby",
+    "name": "Lu1sDV/skillsmd",
+    "stars": 2,
+    "updated_at": "2026-09-08T15:21:00Z",
+    "url": "https://github.com/Lu1sDV/skillsmd"
+  },
+  {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 4,
+    "updated_at": "2026-09-08T15:20:53Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T15:19:48Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-powered design review, UX analysis, SEO audit, content generation, DevOps & testing toolkit for Claude Code. 12 skill",
     "id": "oyusypenko/creo",
     "language": "Python",
@@ -9,22 +81,49 @@
     "url": "https://github.com/oyusypenko/creo"
   },
   {
-    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
-    "id": "ashfulcra/fulcra-tools",
-    "language": "Python",
-    "name": "ashfulcra/fulcra-tools",
-    "stars": 10,
-    "updated_at": "2026-09-08T15:19:35Z",
-    "url": "https://github.com/ashfulcra/fulcra-tools"
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-09-08T15:18:45Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T15:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2457,
+    "updated_at": "2026-09-08T15:17:38Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:14:12Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Skills the Odin agent harness owns \u2014 decision scoring, roadmap planning, blueprint decomposition, mistake-to-gate harden",
+    "id": "RubyEyedReaper/Odin-Skills",
+    "language": "JavaScript",
+    "name": "RubyEyedReaper/Odin-Skills",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:12:36Z",
+    "url": "https://github.com/RubyEyedReaper/Odin-Skills"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 46,
+    "updated_at": "2026-09-08T15:11:57Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
   },
   {
     "description": "11 Claude skills for strategy and management consulting: problem framing, issue trees, hypothesis design, synthesis and ",
@@ -72,12 +171,21 @@
     "url": "https://github.com/andreworia/claude-powerpoint-skills"
   },
   {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68815,
+    "updated_at": "2026-09-08T15:09:32Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "16 agent skills for Claude Code and Codex \u2014 code review, test writing, docs, planning, codebase onboarding, repo evaluat",
     "id": "wilbeibi/wilbeibi-skills",
     "language": "Python",
     "name": "wilbeibi/wilbeibi-skills",
     "stars": 2,
-    "updated_at": "2026-09-08T15:08:49Z",
+    "updated_at": "2026-09-08T15:26:16Z",
     "url": "https://github.com/wilbeibi/wilbeibi-skills"
   },
   {
@@ -166,8 +274,8 @@
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
-    "stars": 418,
-    "updated_at": "2026-09-08T14:57:55Z",
+    "stars": 419,
+    "updated_at": "2026-09-08T15:30:10Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -185,7 +293,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-08T15:07:08Z",
+    "updated_at": "2026-09-08T15:26:01Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -223,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T14:55:16Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
-    "id": "eai-org/agent-toolkit",
-    "language": "Shell",
-    "name": "eai-org/agent-toolkit",
-    "stars": 46,
-    "updated_at": "2026-09-08T15:11:57Z",
-    "url": "https://github.com/eai-org/agent-toolkit"
   },
   {
     "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod",
@@ -315,15 +414,6 @@
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2457,
-    "updated_at": "2026-09-08T15:17:38Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
     "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
     "id": "molefrog/moi",
     "language": "TypeScript",
@@ -358,95 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-08T14:39:07Z",
     "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "A collection of skills crafted for quality of life with your AI coding agent.",
-    "id": "aayushbtw/skills",
-    "language": "\u2014",
-    "name": "aayushbtw/skills",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:39:05Z",
-    "url": "https://github.com/aayushbtw/skills"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:38:45Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-08T14:37:49Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-09-08T14:37:10Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Reusable skills for extending coding assistants",
-    "id": "dversoza/claude-skills",
-    "language": "Python",
-    "name": "dversoza/claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-08T14:37:51Z",
-    "url": "https://github.com/dversoza/claude-skills"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-09-08T14:33:57Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Versionierte Heimat meiner Agent Skills f\u00fcr Claude (claude.ai, Claude Code, API).",
-    "id": "wemwi/skill-library",
-    "language": "HTML",
-    "name": "wemwi/skill-library",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:33:19Z",
-    "url": "https://github.com/wemwi/skill-library"
-  },
-  {
-    "description": "AI-visibility engineering, the open way \u2014 a Claude Code GEO/AI-search audit suite, two original tools (agent-readiness-s",
-    "id": "techhorizonlabs/thl-open",
-    "language": "Python",
-    "name": "techhorizonlabs/thl-open",
-    "stars": 15,
-    "updated_at": "2026-09-08T14:32:19Z",
-    "url": "https://github.com/techhorizonlabs/thl-open"
-  },
-  {
-    "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
-    "id": "Samuellalight8026/spam-filter-advisor-skill",
-    "language": "Python",
-    "name": "Samuellalight8026/spam-filter-advisor-skill",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:29:47Z",
-    "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68816,
-    "updated_at": "2026-09-08T15:09:32Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   }
 ]
