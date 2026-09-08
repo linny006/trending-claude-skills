@@ -1,5 +1,122 @@
 [
   {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 1,
+    "updated_at": "2026-09-08T09:27:32Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "Lab it. Plan it. Ship it. Agent skills for architecture, GitHub planning and delivery, with stack-specific companions.",
+    "id": "elieandraos/agentic-engineering",
+    "language": "HTML",
+    "name": "elieandraos/agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:26:25Z",
+    "url": "https://github.com/elieandraos/agentic-engineering"
+  },
+  {
+    "description": "Claude Code plugin and 44 AI skills for the GoodBarber no-code app builder: manage your mobile app (shop, content, commu",
+    "id": "goodbarber/goodbarber-skills",
+    "language": "\u2014",
+    "name": "goodbarber/goodbarber-skills",
+    "stars": 2,
+    "updated_at": "2026-09-08T09:25:29Z",
+    "url": "https://github.com/goodbarber/goodbarber-skills"
+  },
+  {
+    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
+    "id": "kcy4334-lgtm/translate-book-arxiv",
+    "language": "Python",
+    "name": "kcy4334-lgtm/translate-book-arxiv",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:24:18Z",
+    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2454,
+    "updated_at": "2026-09-08T09:22:24Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Nitpicker \u2014 a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes",
+    "id": "ivuorinen/skills",
+    "language": "Python",
+    "name": "ivuorinen/skills",
+    "stars": 3,
+    "updated_at": "2026-09-08T09:22:24Z",
+    "url": "https://github.com/ivuorinen/skills"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "JavaScript",
+    "name": "geml-spec/geml",
+    "stars": 26,
+    "updated_at": "2026-09-08T09:21:38Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-09-08T09:20:22Z",
+    "url": "https://github.com/ayukyo/icode-skill"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:20:16Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Team-ready Claude Code skill pack: 16 multi-account integrations for Rails + React Native + e-commerce. Trello, Linear, ",
+    "id": "tuannv14/claude-team-toolkit",
+    "language": "Shell",
+    "name": "tuannv14/claude-team-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-08T09:18:31Z",
+    "url": "https://github.com/tuannv14/claude-team-toolkit"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 418,
+    "updated_at": "2026-09-08T09:25:36Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T09:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
+    "id": "bjcoombs/ai-native-toolkit",
+    "language": "Python",
+    "name": "bjcoombs/ai-native-toolkit",
+    "stars": 30,
+    "updated_at": "2026-09-08T09:14:30Z",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
     "id": "reticlehq/reticle",
     "language": "TypeScript",
@@ -9,30 +126,12 @@
     "url": "https://github.com/reticlehq/reticle"
   },
   {
-    "description": "Team-ready Claude Code skill pack: 15 multi-account integrations for Rails + React Native + e-commerce. Trello, Azure De",
-    "id": "tuannv14/claude-team-toolkit",
-    "language": "Shell",
-    "name": "tuannv14/claude-team-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-08T09:09:38Z",
-    "url": "https://github.com/tuannv14/claude-team-toolkit"
-  },
-  {
-    "description": "Lab it. Plan it. Ship it. Agent skills for architecture, GitHub planning and delivery, with stack-specific companions.",
-    "id": "elieandraos/agentic-engineering",
-    "language": "HTML",
-    "name": "elieandraos/agentic-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-08T09:07:44Z",
-    "url": "https://github.com/elieandraos/agentic-engineering"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-08T09:06:58Z",
+    "updated_at": "2026-09-08T09:27:16Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -108,15 +207,6 @@
     "url": "https://github.com/INo-xious/stockbit-mcp"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T09:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
     "id": "crypdick/pynchy",
     "language": "Python",
@@ -135,20 +225,11 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "Claude Code plugin and 44 AI skills for the GoodBarber no-code app builder: manage your mobile app (shop, content, commu",
-    "id": "goodbarber/goodbarber-skills",
-    "language": "\u2014",
-    "name": "goodbarber/goodbarber-skills",
-    "stars": 2,
-    "updated_at": "2026-09-08T08:54:26Z",
-    "url": "https://github.com/goodbarber/goodbarber-skills"
-  },
-  {
     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
     "id": "elementalsouls/Claude-BugHunter",
     "language": "Python",
     "name": "elementalsouls/Claude-BugHunter",
-    "stars": 4368,
+    "stars": 4369,
     "updated_at": "2026-09-08T08:54:15Z",
     "url": "https://github.com/elementalsouls/Claude-BugHunter"
   },
@@ -203,7 +284,7 @@
     "language": "\u2014",
     "name": "crevideo/crevideo-reach",
     "stars": 7,
-    "updated_at": "2026-09-08T08:41:54Z",
+    "updated_at": "2026-09-08T09:26:43Z",
     "url": "https://github.com/crevideo/crevideo-reach"
   },
   {
@@ -257,17 +338,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-08T09:13:10Z",
+    "updated_at": "2026-09-08T09:27:05Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
-    "id": "kcy4334-lgtm/translate-book-arxiv",
-    "language": "Python",
-    "name": "kcy4334-lgtm/translate-book-arxiv",
-    "stars": 0,
-    "updated_at": "2026-09-08T08:28:43Z",
-    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   },
   {
     "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
@@ -376,77 +448,5 @@
     "stars": 111,
     "updated_at": "2026-09-08T08:10:04Z",
     "url": "https://github.com/Ovid/paad"
-  },
-  {
-    "description": "Snapshot-based, verifiable batch file editing with a Rust engine, JSON CLI, and Claude Code MCP plugin.",
-    "id": "subashc2023/ultra-edit",
-    "language": "Rust",
-    "name": "subashc2023/ultra-edit",
-    "stars": 0,
-    "updated_at": "2026-09-08T08:06:42Z",
-    "url": "https://github.com/subashc2023/ultra-edit"
-  },
-  {
-    "description": "Meta-skill toolkit: scaffold production-grade Agent Skills with versioning, baselines, packaging & release audit \u2014 initi",
-    "id": "qiusuo0226/skill-devkit-skill",
-    "language": "Python",
-    "name": "qiusuo0226/skill-devkit-skill",
-    "stars": 2,
-    "updated_at": "2026-09-08T08:03:02Z",
-    "url": "https://github.com/qiusuo0226/skill-devkit-skill"
-  },
-  {
-    "description": "Provenance at the value level for Python and JS: mock-taint and confidence propagate through derived results and can't b",
-    "id": "slopstopper/plumb-line",
-    "language": "Python",
-    "name": "slopstopper/plumb-line",
-    "stars": 4,
-    "updated_at": "2026-09-08T07:58:57Z",
-    "url": "https://github.com/slopstopper/plumb-line"
-  },
-  {
-    "description": "Claude Code plugin that gives your repo a memory: what was decided, what was built, what is still owed. Loads context fa",
-    "id": "nhhthong/clio",
-    "language": "Shell",
-    "name": "nhhthong/clio",
-    "stars": 1,
-    "updated_at": "2026-09-08T07:57:25Z",
-    "url": "https://github.com/nhhthong/clio"
-  },
-  {
-    "description": "Vibe Map: Codebase Cartographer for Vibe Coders.",
-    "id": "muchandresh/Vibe-Map",
-    "language": "Python",
-    "name": "muchandresh/Vibe-Map",
-    "stars": 0,
-    "updated_at": "2026-09-08T07:57:25Z",
-    "url": "https://github.com/muchandresh/Vibe-Map"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-08T08:12:45Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 29,
-    "updated_at": "2026-09-08T07:58:59Z",
-    "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "Hermes Skills: \u89c6\u9891\u8f6c\u6587\u5b57 / AI\u6587\u6848\u53bb\u5473 / \u6587\u6863OCR / \u7535\u5546\u7d20\u6750\u5de5\u574a (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio)",
-    "id": "jiawood2006/hermes-skills",
-    "language": "Python",
-    "name": "jiawood2006/hermes-skills",
-    "stars": 0,
-    "updated_at": "2026-09-08T07:55:45Z",
-    "url": "https://github.com/jiawood2006/hermes-skills"
   }
 ]
