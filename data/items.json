@@ -1,5 +1,86 @@
 [
   {
+    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
+    "id": "chenweil/skillcaddy",
+    "language": "JavaScript",
+    "name": "chenweil/skillcaddy",
+    "stars": 24,
+    "updated_at": "2026-09-08T15:56:36Z",
+    "url": "https://github.com/chenweil/skillcaddy"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-09-08T15:56:22Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
+    "id": "NishikantaRay/Attic",
+    "language": "JavaScript",
+    "name": "NishikantaRay/Attic",
+    "stars": 4,
+    "updated_at": "2026-09-08T15:56:05Z",
+    "url": "https://github.com/NishikantaRay/Attic"
+  },
+  {
+    "description": "Unofficial Plan to Eat (plantoeat.com) API client, CLI, and MCP server \u2014 drive your recipe book, meal planner, freezer, ",
+    "id": "alex-zwingli/plan-to-eat-mcp",
+    "language": "TypeScript",
+    "name": "alex-zwingli/plan-to-eat-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:54:44Z",
+    "url": "https://github.com/alex-zwingli/plan-to-eat-mcp"
+  },
+  {
+    "description": "Your project, an entire virtual company. 8 departments and 50 role-based skills coordinated by a CEO in Claude Code.",
+    "id": "alebgl77/claude-inc",
+    "language": "Python",
+    "name": "alebgl77/claude-inc",
+    "stars": 14,
+    "updated_at": "2026-09-08T15:54:35Z",
+    "url": "https://github.com/alebgl77/claude-inc"
+  },
+  {
+    "description": "Personal collection of Claude Code skills for development workflows",
+    "id": "technicalpickles/pickled-claude-plugins",
+    "language": "Python",
+    "name": "technicalpickles/pickled-claude-plugins",
+    "stars": 10,
+    "updated_at": "2026-09-08T15:54:25Z",
+    "url": "https://github.com/technicalpickles/pickled-claude-plugins"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68817,
+    "updated_at": "2026-09-08T15:49:25Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Official agent skills for PowerSync",
+    "id": "powersync-ja/agent-skills",
+    "language": "JavaScript",
+    "name": "powersync-ja/agent-skills",
+    "stars": 18,
+    "updated_at": "2026-09-08T15:47:02Z",
+    "url": "https://github.com/powersync-ja/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T15:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Forward deployed engineering skills for AI coding agents.",
     "id": "suboss87/FDEOps",
     "language": "JavaScript",
@@ -43,15 +124,6 @@
     "stars": 419,
     "updated_at": "2026-09-08T15:37:34Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T15:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u4e2d\u6587\u793e\u5a92\u5185\u5bb9\u95ed\u73af\u6280\u80fd\u5305\uff08AI Agent Skills\uff09\uff1a\u58f0\u97f3\u57fa\u5ea7\u2192\u9009\u9898\u2192\u6210\u7a3f\u2192\u53e3\u64ad/\u56fe\u5361\u2192\u53d1\u5e03\u524d\u81ea\u67e5\u2192\u5468\u590d\u76d8\uff0c\u9762\u5411\u516c\u4f17\u53f7/\u89c6\u9891\u53f7/\u5c0f\u7ea2\u4e66\uff0c\u6280\u672f\u5c0f\u767d\u53cb\u597d",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "MadaraUchiha-314/the-loop",
     "stars": 4,
-    "updated_at": "2026-09-08T15:20:53Z",
+    "updated_at": "2026-09-08T15:53:13Z",
     "url": "https://github.com/MadaraUchiha-314/the-loop"
   },
   {
@@ -261,15 +333,6 @@
     "url": "https://github.com/andreworia/claude-powerpoint-skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68816,
-    "updated_at": "2026-09-08T15:09:32Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Free Starter: 3 Claude Code skills that take a shipped product to a sellable offer \u2014 research, offer, sales page. Pro ad",
     "id": "trongmkt89/solo-launch-os",
     "language": "\u2014",
@@ -283,7 +346,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 19212,
+    "stars": 19213,
     "updated_at": "2026-09-08T15:06:50Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -365,7 +428,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-08T15:41:36Z",
+    "updated_at": "2026-09-08T15:50:20Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 173,
     "updated_at": "2026-09-08T14:55:55Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-09-08T14:55:51Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 2,
-    "updated_at": "2026-09-08T14:55:16Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL cod",
-    "id": "timescale/pg-aiguide",
-    "language": "Python",
-    "name": "timescale/pg-aiguide",
-    "stars": 1835,
-    "updated_at": "2026-09-08T14:54:30Z",
-    "url": "https://github.com/timescale/pg-aiguide"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-08T14:54:06Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "A 19-point security audit skill for Claude Code to scan repositories for secrets, OWASP risks, and vulnerabilities.",
-    "id": "alimansoor2003/claude-security-audit-skill",
-    "language": "\u2014",
-    "name": "alimansoor2003/claude-security-audit-skill",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:53:12Z",
-    "url": "https://github.com/alimansoor2003/claude-security-audit-skill"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
-    "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 3,
-    "updated_at": "2026-09-08T14:48:28Z",
-    "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:47:04Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
