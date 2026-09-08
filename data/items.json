@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-09-08T16:08:10Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-09-08T16:06:26Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1584,
+    "updated_at": "2026-09-08T16:05:52Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-08T16:05:51Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 419,
+    "updated_at": "2026-09-08T16:02:54Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
+    "id": "NishikantaRay/Attic",
+    "language": "JavaScript",
+    "name": "NishikantaRay/Attic",
+    "stars": 4,
+    "updated_at": "2026-09-08T16:00:38Z",
+    "url": "https://github.com/NishikantaRay/Attic"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T16:00:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 2,
+    "updated_at": "2026-09-08T15:58:57Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
     "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
     "id": "chenweil/skillcaddy",
     "language": "JavaScript",
@@ -16,15 +88,6 @@
     "stars": 10,
     "updated_at": "2026-09-08T15:56:22Z",
     "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
-    "id": "NishikantaRay/Attic",
-    "language": "JavaScript",
-    "name": "NishikantaRay/Attic",
-    "stars": 4,
-    "updated_at": "2026-09-08T15:56:05Z",
-    "url": "https://github.com/NishikantaRay/Attic"
   },
   {
     "description": "Unofficial Plan to Eat (plantoeat.com) API client, CLI, and MCP server \u2014 drive your recipe book, meal planner, freezer, ",
@@ -68,17 +131,8 @@
     "language": "JavaScript",
     "name": "powersync-ja/agent-skills",
     "stars": 18,
-    "updated_at": "2026-09-08T15:47:02Z",
+    "updated_at": "2026-09-08T16:01:08Z",
     "url": "https://github.com/powersync-ja/agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T15:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Forward deployed engineering skills for AI coding agents.",
@@ -115,15 +169,6 @@
     "stars": 52,
     "updated_at": "2026-09-08T15:31:04Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 419,
-    "updated_at": "2026-09-08T15:37:34Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "\u4e2d\u6587\u793e\u5a92\u5185\u5bb9\u95ed\u73af\u6280\u80fd\u5305\uff08AI Agent Skills\uff09\uff1a\u58f0\u97f3\u57fa\u5ea7\u2192\u9009\u9898\u2192\u6210\u7a3f\u2192\u53e3\u64ad/\u56fe\u5361\u2192\u53d1\u5e03\u524d\u81ea\u67e5\u2192\u5468\u590d\u76d8\uff0c\u9762\u5411\u516c\u4f17\u53f7/\u89c6\u9891\u53f7/\u5c0f\u7ea2\u4e66\uff0c\u6280\u672f\u5c0f\u767d\u53cb\u597d",
@@ -346,7 +391,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 19213,
+    "stars": 19214,
     "updated_at": "2026-09-08T15:06:50Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T14:58:50Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Claude Code Agent Skill for responsive web design: CSS breakpoints and container max-widths, media queries and container",
-    "id": "SurendharVr/responsive-viewport",
-    "language": "Python",
-    "name": "SurendharVr/responsive-viewport",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:58:28Z",
-    "url": "https://github.com/SurendharVr/responsive-viewport"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 3,
-    "updated_at": "2026-09-08T14:57:34Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-08T15:50:20Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "\ud83c\udfbf A package manager for agent skills",
-    "id": "osrim/ski",
-    "language": "TypeScript",
-    "name": "osrim/ski",
-    "stars": 7,
-    "updated_at": "2026-09-08T15:33:27Z",
-    "url": "https://github.com/osrim/ski"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 173,
-    "updated_at": "2026-09-08T14:55:55Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   }
 ]
