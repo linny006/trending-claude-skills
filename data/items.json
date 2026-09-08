@@ -1,30 +1,30 @@
 [
   {
-    "description": "OmO: Drop your tokens. Ultrawork. Done.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68797,
-    "updated_at": "2026-09-08T03:15:12Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Unofficial Plan to Eat (plantoeat.com) API client, CLI, and MCP server \u2014 drive your recipe book, meal planner, freezer, ",
     "id": "alex-zwingli/plan-to-eat-mcp",
     "language": "TypeScript",
     "name": "alex-zwingli/plan-to-eat-mcp",
     "stars": 0,
-    "updated_at": "2026-09-08T03:14:40Z",
+    "updated_at": "2026-09-08T03:29:51Z",
     "url": "https://github.com/alex-zwingli/plan-to-eat-mcp"
   },
   {
-    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
-    "id": "alinafe82/cognitive-deadlift",
+    "description": "PMO-Style multi-agent orchestrator for Claude Code. Fable 5 conducts, 18 agents build & verify. Give it a goal, get veri",
+    "id": "youki0p0/jen-marketplace",
     "language": "Python",
-    "name": "alinafe82/cognitive-deadlift",
+    "name": "youki0p0/jen-marketplace",
     "stars": 0,
-    "updated_at": "2026-09-08T03:13:03Z",
-    "url": "https://github.com/alinafe82/cognitive-deadlift"
+    "updated_at": "2026-09-08T03:29:33Z",
+    "url": "https://github.com/youki0p0/jen-marketplace"
+  },
+  {
+    "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+    "id": "redfox-data/redfox-community",
+    "language": "Python",
+    "name": "redfox-data/redfox-community",
+    "stars": 395,
+    "updated_at": "2026-09-08T03:26:28Z",
+    "url": "https://github.com/redfox-data/redfox-community"
   },
   {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
@@ -32,7 +32,7 @@
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
     "stars": 6629,
-    "updated_at": "2026-09-08T03:15:02Z",
+    "updated_at": "2026-09-08T03:25:55Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
@@ -41,8 +41,71 @@
     "language": "Python",
     "name": "OKHP3/skillz",
     "stars": 3,
-    "updated_at": "2026-09-08T03:07:30Z",
+    "updated_at": "2026-09-08T03:24:54Z",
     "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-08T03:24:47Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-09-08T03:24:14Z",
+    "url": "https://github.com/ayukyo/icode-skill"
+  },
+  {
+    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
+    "id": "wei18/apple-dev-skills",
+    "language": "Python",
+    "name": "wei18/apple-dev-skills",
+    "stars": 19,
+    "updated_at": "2026-09-08T03:23:47Z",
+    "url": "https://github.com/wei18/apple-dev-skills"
+  },
+  {
+    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
+    "id": "alinafe82/cognitive-deadlift",
+    "language": "Python",
+    "name": "alinafe82/cognitive-deadlift",
+    "stars": 0,
+    "updated_at": "2026-09-08T03:19:39Z",
+    "url": "https://github.com/alinafe82/cognitive-deadlift"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-08T03:17:43Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T03:15:33Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "OmO: Drop your tokens. Ultrawork. Done.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68797,
+    "updated_at": "2026-09-08T03:26:50Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Claude Skills",
@@ -61,15 +124,6 @@
     "stars": 9,
     "updated_at": "2026-09-08T03:06:01Z",
     "url": "https://github.com/duthaho/skillhub"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T03:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Port, convert, and optimize Claude Code & Cursor skills into Google Antigravity native multi-agent plugins.",
@@ -95,17 +149,8 @@
     "language": "JavaScript",
     "name": "mr-kelly/skills",
     "stars": 5,
-    "updated_at": "2026-09-08T03:07:39Z",
+    "updated_at": "2026-09-08T03:27:13Z",
     "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-08T03:12:19Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management",
@@ -153,15 +198,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
-    "id": "wei18/apple-dev-skills",
-    "language": "Python",
-    "name": "wei18/apple-dev-skills",
-    "stars": 19,
-    "updated_at": "2026-09-08T03:13:39Z",
-    "url": "https://github.com/wei18/apple-dev-skills"
-  },
-  {
     "description": "Upkeep \u2014 an AI audit crew for your repo. Catches docs/spec/asset drift with evidence; output-only. Claude Code plugin/sk",
     "id": "wei18/Upkeep",
     "language": "TypeScript",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "sumitake/agent-collab",
     "stars": 0,
-    "updated_at": "2026-09-08T03:11:15Z",
+    "updated_at": "2026-09-08T03:22:51Z",
     "url": "https://github.com/sumitake/agent-collab"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 4,
-    "updated_at": "2026-09-08T03:15:05Z",
+    "updated_at": "2026-09-08T03:29:29Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -328,7 +364,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30717,
+    "stars": 30718,
     "updated_at": "2026-09-08T01:47:23Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -412,41 +448,5 @@
     "stars": 25,
     "updated_at": "2026-09-08T01:28:31Z",
     "url": "https://github.com/sergebulaev/tiktok-skills"
-  },
-  {
-    "description": "Threads marketing skills for Claude Code and Codex: posts, multi-post threads, hooks, replies, and a weekly plan in your",
-    "id": "sergebulaev/threads-skills",
-    "language": "Python",
-    "name": "sergebulaev/threads-skills",
-    "stars": 29,
-    "updated_at": "2026-09-08T01:28:26Z",
-    "url": "https://github.com/sergebulaev/threads-skills"
-  },
-  {
-    "description": "YouTube and YouTube Shorts marketing skills for Claude Code and Codex: high-CTR titles, SEO descriptions, retention hook",
-    "id": "sergebulaev/youtube-skills",
-    "language": "Python",
-    "name": "sergebulaev/youtube-skills",
-    "stars": 15,
-    "updated_at": "2026-09-08T01:28:22Z",
-    "url": "https://github.com/sergebulaev/youtube-skills"
-  },
-  {
-    "description": "Instagram marketing skills for Claude Code and Codex: captions, carousels, hooks, hashtag strategy, and a weekly plan. D",
-    "id": "sergebulaev/instagram-skills",
-    "language": "Python",
-    "name": "sergebulaev/instagram-skills",
-    "stars": 46,
-    "updated_at": "2026-09-08T01:28:18Z",
-    "url": "https://github.com/sergebulaev/instagram-skills"
-  },
-  {
-    "description": "X (Twitter) marketing skills for Claude Code and Codex: write tweets, threads, and replies in your voice, strip AI tells",
-    "id": "sergebulaev/x-skills",
-    "language": "Python",
-    "name": "sergebulaev/x-skills",
-    "stars": 63,
-    "updated_at": "2026-09-08T01:28:14Z",
-    "url": "https://github.com/sergebulaev/x-skills"
   }
 ]
