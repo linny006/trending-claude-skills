@@ -1,5 +1,104 @@
 [
   {
+    "description": "A 19-point security audit skill for Claude Code to scan repositories for secrets, OWASP risks, and vulnerabilities.",
+    "id": "alimansoor2003/claude-security-audit-skill",
+    "language": "\u2014",
+    "name": "alimansoor2003/claude-security-audit-skill",
+    "stars": 0,
+    "updated_at": "2026-09-08T18:14:58Z",
+    "url": "https://github.com/alimansoor2003/claude-security-audit-skill"
+  },
+  {
+    "description": "Claude/agent skill: discover companies hiring on Paylocity (lead-gen/sourcing) via the Apify Paylocity Jobs API. No key,",
+    "id": "johnisanerd/claude-skill-companies-using-paylocity",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-companies-using-paylocity",
+    "stars": 0,
+    "updated_at": "2026-09-08T18:13:28Z",
+    "url": "https://github.com/johnisanerd/claude-skill-companies-using-paylocity"
+  },
+  {
+    "description": "Claude/agent skill: pull live jobs from any Paylocity recruiting board via the Apify Paylocity Jobs API. No key, MCP-rea",
+    "id": "johnisanerd/claude-skill-paylocity-jobs-api",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-paylocity-jobs-api",
+    "stars": 0,
+    "updated_at": "2026-09-08T18:13:03Z",
+    "url": "https://github.com/johnisanerd/claude-skill-paylocity-jobs-api"
+  },
+  {
+    "description": "Hooks, rules, skills, and instructions for use with Claude Code",
+    "id": "chancegraff/rules-for-claude",
+    "language": "HTML",
+    "name": "chancegraff/rules-for-claude",
+    "stars": 3,
+    "updated_at": "2026-09-08T18:12:00Z",
+    "url": "https://github.com/chancegraff/rules-for-claude"
+  },
+  {
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
+    "id": "howard-lynn-ye/fin-skills",
+    "language": "Python",
+    "name": "howard-lynn-ye/fin-skills",
+    "stars": 1,
+    "updated_at": "2026-09-08T18:10:30Z",
+    "url": "https://github.com/howard-lynn-ye/fin-skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1585,
+    "updated_at": "2026-09-08T18:09:37Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-09-08T18:08:36Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
+    "id": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
+    "language": "TypeScript",
+    "name": "Diegocortes15/playwright-ia-automation-framework-saucedemo",
+    "stars": 0,
+    "updated_at": "2026-09-08T18:06:02Z",
+    "url": "https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68821,
+    "updated_at": "2026-09-08T18:03:02Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 8,
+    "updated_at": "2026-09-08T18:00:47Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T18:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
     "id": "OKHP3/skillz",
     "language": "Python",
@@ -7,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-09-08T17:58:07Z",
     "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
-    "id": "howard-lynn-ye/fin-skills",
-    "language": "Python",
-    "name": "howard-lynn-ye/fin-skills",
-    "stars": 0,
-    "updated_at": "2026-09-08T17:59:53Z",
-    "url": "https://github.com/howard-lynn-ye/fin-skills"
   },
   {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
@@ -43,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T17:55:13Z",
     "url": "https://github.com/johnisanerd/claude-skill-successfactors-jobs-api"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68819,
-    "updated_at": "2026-09-08T17:53:58Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -90,15 +171,6 @@
     "url": "https://github.com/sergeyklay/.agents"
   },
   {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1585,
-    "updated_at": "2026-09-08T17:48:56Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
     "description": "Decision-driven harness for coding agents, and humans.",
     "id": "nevenincs/vaultspec-core",
     "language": "Python",
@@ -121,7 +193,7 @@
     "id": "coldteadotai/pr-lens",
     "language": "TypeScript",
     "name": "coldteadotai/pr-lens",
-    "stars": 899,
+    "stars": 902,
     "updated_at": "2026-09-08T17:46:38Z",
     "url": "https://github.com/coldteadotai/pr-lens"
   },
@@ -133,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T17:46:11Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T17:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
@@ -160,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T17:41:54Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Hooks, rules, skills, and instructions for use with Claude Code",
-    "id": "chancegraff/rules-for-claude",
-    "language": "HTML",
-    "name": "chancegraff/rules-for-claude",
-    "stars": 3,
-    "updated_at": "2026-09-08T17:38:30Z",
-    "url": "https://github.com/chancegraff/rules-for-claude"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -239,7 +293,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 173,
-    "updated_at": "2026-09-08T17:24:54Z",
+    "updated_at": "2026-09-08T18:14:16Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -346,7 +400,7 @@
     "id": "ayghri/i-have-adhd",
     "language": "Python",
     "name": "ayghri/i-have-adhd",
-    "stars": 29316,
+    "stars": 29381,
     "updated_at": "2026-09-08T17:08:54Z",
     "url": "https://github.com/ayghri/i-have-adhd"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T17:00:45Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-08T17:16:57Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
-    "id": "molefrog/moi",
-    "language": "TypeScript",
-    "name": "molefrog/moi",
-    "stars": 144,
-    "updated_at": "2026-09-08T16:58:27Z",
-    "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-09-08T16:58:09Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-09-08T16:57:11Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-08T16:57:09Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-09-08T16:55:38Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   }
 ]
