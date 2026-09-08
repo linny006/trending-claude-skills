@@ -1,12 +1,66 @@
 [
   {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-09-08T11:44:02Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-08T11:36:10Z",
+    "updated_at": "2026-09-08T11:44:00Z",
     "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
+    "id": "jherrodthomas/robotics-skills-suite",
+    "language": "Python",
+    "name": "jherrodthomas/robotics-skills-suite",
+    "stars": 241,
+    "updated_at": "2026-09-08T11:43:23Z",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-08T11:43:04Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68811,
+    "updated_at": "2026-09-08T11:40:46Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code plugins for Yaps \u2014 local-first dictation, transcription, meeting notes, captions, voice, translation, and me",
+    "id": "richawo/yaps-plugins",
+    "language": "JavaScript",
+    "name": "richawo/yaps-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:39:43Z",
+    "url": "https://github.com/richawo/yaps-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-08T11:37:10Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Awesome Claude Code And Agent Tools",
@@ -23,7 +77,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-08T11:34:30Z",
+    "updated_at": "2026-09-08T11:40:37Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/publora/skills"
   },
   {
-    "description": "Claude Code plugins for Yaps \u2014 local-first dictation, transcription, meeting notes, captions, voice, translation, and me",
-    "id": "richawo/yaps-plugins",
-    "language": "JavaScript",
-    "name": "richawo/yaps-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:34:56Z",
-    "url": "https://github.com/richawo/yaps-plugins"
-  },
-  {
     "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
     "id": "yacb2/aidex",
     "language": "Shell",
@@ -63,22 +108,13 @@
     "url": "https://github.com/yacb2/aidex"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68809,
-    "updated_at": "2026-09-08T11:35:51Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "A local workbench for AI-coding agent skills and subagents \u2014 browse, edit, AI-refine, and prove them with scored simulat",
+    "id": "flieks/masterwork",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-08T11:30:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "flieks/masterwork",
+    "stars": 2,
+    "updated_at": "2026-09-08T11:29:33Z",
+    "url": "https://github.com/flieks/masterwork"
   },
   {
     "description": "Claude-Desktop-Bridge A Claude-Desktop MCP local bridge that connects Chat and Code tabs",
@@ -238,7 +274,7 @@
     "id": "sergebulaev/linkedin-skills",
     "language": "Python",
     "name": "sergebulaev/linkedin-skills",
-    "stars": 1292,
+    "stars": 1293,
     "updated_at": "2026-09-08T11:05:07Z",
     "url": "https://github.com/sergebulaev/linkedin-skills"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T10:37:44Z",
     "url": "https://github.com/bacsystem/skills"
-  },
-  {
-    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
-    "id": "kcy4334-lgtm/translate-book-arxiv",
-    "language": "Python",
-    "name": "kcy4334-lgtm/translate-book-arxiv",
-    "stars": 0,
-    "updated_at": "2026-09-08T10:37:38Z",
-    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Python",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 26717,
-    "updated_at": "2026-09-08T10:36:08Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
-  },
-  {
-    "description": "Craft, encoded. 152 skills and 16 agents that hold an agent to a professional standard: writing, documents, engineering,",
-    "id": "Handsomeboy990/craft-suite",
-    "language": "HTML",
-    "name": "Handsomeboy990/craft-suite",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:21:27Z",
-    "url": "https://github.com/Handsomeboy990/craft-suite"
-  },
-  {
-    "description": "The far side of heliograph: a bash toolkit and Claude Code skill for running captured, auditable commands on a machine y",
-    "id": "dbhq-uk/heliograph-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/heliograph-skill",
-    "stars": 2,
-    "updated_at": "2026-09-08T10:34:03Z",
-    "url": "https://github.com/dbhq-uk/heliograph-skill"
   }
 ]
