@@ -1,12 +1,111 @@
 [
   {
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
+    "language": "Python",
+    "name": "Ovid/paad",
+    "stars": 112,
+    "updated_at": "2026-09-09T08:14:02Z",
+    "url": "https://github.com/Ovid/paad"
+  },
+  {
+    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
+    "id": "kcy4334-lgtm/translate-book-arxiv",
+    "language": "Python",
+    "name": "kcy4334-lgtm/translate-book-arxiv",
+    "stars": 0,
+    "updated_at": "2026-09-09T08:13:02Z",
+    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
+  },
+  {
+    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
+    "id": "magnusrodseth/dotfiles",
+    "language": "JavaScript",
+    "name": "magnusrodseth/dotfiles",
+    "stars": 2,
+    "updated_at": "2026-09-09T08:14:05Z",
+    "url": "https://github.com/magnusrodseth/dotfiles"
+  },
+  {
+    "description": "A free UX/UI skill pack for Claude, Codex and ChatGPT covering audits, dashboard redesigns, design systems, AI product d",
+    "id": "aditya-ariosity/ux-ui-skills",
+    "language": "Python",
+    "name": "aditya-ariosity/ux-ui-skills",
+    "stars": 2,
+    "updated_at": "2026-09-09T08:10:43Z",
+    "url": "https://github.com/aditya-ariosity/ux-ui-skills"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 174,
+    "updated_at": "2026-09-09T08:10:10Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
+    "id": "crypdick/pynchy",
+    "language": "Python",
+    "name": "crypdick/pynchy",
+    "stars": 10,
+    "updated_at": "2026-09-09T08:09:01Z",
+    "url": "https://github.com/crypdick/pynchy"
+  },
+  {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 12,
+    "updated_at": "2026-09-09T08:09:22Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
+    "id": "nitinjain999/platform-skills",
+    "language": "Shell",
+    "name": "nitinjain999/platform-skills",
+    "stars": 41,
+    "updated_at": "2026-09-09T08:06:14Z",
+    "url": "https://github.com/nitinjain999/platform-skills"
+  },
+  {
     "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
     "id": "alfadur7/llm-wiki-newsroom",
     "language": "Python",
     "name": "alfadur7/llm-wiki-newsroom",
     "stars": 83,
-    "updated_at": "2026-09-09T08:00:00Z",
+    "updated_at": "2026-09-09T08:05:27Z",
     "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
+    "description": "Lab it. Plan it. Implement it. Review it. Ship it. Agent skills for architecture, GitHub planning and delivery, with sta",
+    "id": "elieandraos/agentic-engineering",
+    "language": "HTML",
+    "name": "elieandraos/agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-09T08:03:19Z",
+    "url": "https://github.com/elieandraos/agentic-engineering"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-09T08:02:34Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T08:00:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "End-to-end development skills for Claude Code: framework-specific expertise for frontend, backend, mobile, infra, and QA",
@@ -25,15 +124,6 @@
     "stars": 6,
     "updated_at": "2026-09-09T07:56:40Z",
     "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-09T07:53:58Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "A local web panel for managing Claude Code skills \u2014 paste a GitHub URL to install, symlink-hosted with zero copies, plus",
@@ -90,15 +180,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T07:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u6296\u97f3\u4f5c\u54c1\u722c\u53d6\u5de5\u5177\uff0c\u8f93\u5165\u6296\u97f3URL\u6216\u6296\u97f3ID\uff0c\u8f93\u51fa\u6296\u97f3\u8d26\u53f7\u57fa\u7840\u4fe1\u606f\u548c\u8fd1\u671f\u4f5c\u54c1\u5185\u5bb9\u5217\u8868\uff08\u6700\u591a10000\u6761\uff09\u3002\u5f53\u7528\u6237\u63d0\u5230\"\u722c\u53d6\u6296\u97f3\u4f5c\u54c1\"\u3001\"\u6293\u53d6\u6296\u97f3KOL\u4f5c\u54c1\"\u3001\"\u6293\u53d6\u6296\u97f3\u535a\u4e3b\u4f5c\u54c1\"\u3001\"\u6296\u97f3\u4f5c\u54c1\u5217\u8868\"\u3001\"\u67e5\u770b\u6296\u97f3\u89c6\u9891\"\u3001\"\u6296\u97f3\u5185\u5bb9\u91c7\u96c6\"\u3001\"\u6293\u53d6\u6296",
     "id": "why20261/douyin-kol-crawler",
     "language": "JavaScript",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T07:42:33Z",
     "url": "https://github.com/why20261/douyin-kol-crawler"
-  },
-  {
-    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
-    "id": "kcy4334-lgtm/translate-book-arxiv",
-    "language": "Python",
-    "name": "kcy4334-lgtm/translate-book-arxiv",
-    "stars": 0,
-    "updated_at": "2026-09-09T07:40:48Z",
-    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -148,18 +220,9 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68837,
-    "updated_at": "2026-09-09T07:31:51Z",
+    "stars": 68836,
+    "updated_at": "2026-09-09T08:09:42Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-09-09T07:54:42Z",
-    "url": "https://github.com/crypdick/pynchy"
   },
   {
     "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
@@ -194,7 +257,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 454,
-    "updated_at": "2026-09-09T07:55:12Z",
+    "updated_at": "2026-09-09T08:08:17Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -247,7 +310,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 6425,
+    "stars": 6427,
     "updated_at": "2026-09-09T07:08:48Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -257,7 +320,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 2,
-    "updated_at": "2026-09-09T07:06:58Z",
+    "updated_at": "2026-09-09T08:07:59Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -374,7 +437,7 @@
     "language": "Python",
     "name": "sergeyklay/.agents",
     "stars": 5,
-    "updated_at": "2026-09-09T07:54:42Z",
+    "updated_at": "2026-09-09T08:06:23Z",
     "url": "https://github.com/sergeyklay/.agents"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-09T06:42:09Z",
     "url": "https://github.com/vinsunfeng/learning-video-skills"
-  },
-  {
-    "description": "\u628a\u4e00\u6bb5\u4e2d\u6587\uff0c\u6539\u51fa\u4eba\u5199\u7684\u5206\u5bf8\u548c\u6587\u91c7\u3002",
-    "id": "adoresever/baimiao",
-    "language": "Python",
-    "name": "adoresever/baimiao",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:46:37Z",
-    "url": "https://github.com/adoresever/baimiao"
-  },
-  {
-    "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, win",
-    "id": "Crowd9/giveaway-skills",
-    "language": "Python",
-    "name": "Crowd9/giveaway-skills",
-    "stars": 2,
-    "updated_at": "2026-09-09T06:30:37Z",
-    "url": "https://github.com/Crowd9/giveaway-skills"
-  },
-  {
-    "description": "",
-    "id": "2000silpeed/meta-prompt-skill",
-    "language": "Python",
-    "name": "2000silpeed/meta-prompt-skill",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:30:34Z",
-    "url": "https://github.com/2000silpeed/meta-prompt-skill"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-09T07:58:45Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "",
-    "id": "JimLiu/baoyu-skills",
-    "language": "TypeScript",
-    "name": "JimLiu/baoyu-skills",
-    "stars": 25770,
-    "updated_at": "2026-09-09T06:26:35Z",
-    "url": "https://github.com/JimLiu/baoyu-skills"
-  },
-  {
-    "description": "A Claude Code skill that applies SOLID principles to game code \u2014 pragmatic, data-driven, engine-aware (Unity, Unreal, Go",
-    "id": "Jeffery-Liu/solid-game-code",
-    "language": "\u2014",
-    "name": "Jeffery-Liu/solid-game-code",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:26:32Z",
-    "url": "https://github.com/Jeffery-Liu/solid-game-code"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:25:03Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   }
 ]
