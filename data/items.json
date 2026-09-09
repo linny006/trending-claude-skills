@@ -1,5 +1,131 @@
 [
   {
+    "description": "\u2692\ufe0f Three Claude Code plugins: foreman keeps the plan, hush cuts the chatter, razor stops the over-building. One marketpl",
+    "id": "V-Songbird/foundry",
+    "language": "JavaScript",
+    "name": "V-Songbird/foundry",
+    "stars": 4,
+    "updated_at": "2026-09-09T09:15:02Z",
+    "url": "https://github.com/V-Songbird/foundry"
+  },
+  {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 35,
+    "updated_at": "2026-09-09T09:13:47Z",
+    "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "",
+    "id": "mikielek/consult",
+    "language": "Shell",
+    "name": "mikielek/consult",
+    "stars": 1,
+    "updated_at": "2026-09-09T09:13:16Z",
+    "url": "https://github.com/mikielek/consult"
+  },
+  {
+    "description": "\ud83e\udd2b Claude shuts up until it's done. A Claude Code plugin: one short answer at the end, the file to open, and no log dumps",
+    "id": "V-Songbird/hush",
+    "language": "JavaScript",
+    "name": "V-Songbird/hush",
+    "stars": 49,
+    "updated_at": "2026-09-09T09:12:15Z",
+    "url": "https://github.com/V-Songbird/hush"
+  },
+  {
+    "description": "\ud83d\udccb Your project plan, kept next to the code. A Claude Code plugin: ask what's next and get the task, the reason, and a re",
+    "id": "V-Songbird/foreman",
+    "language": "JavaScript",
+    "name": "V-Songbird/foreman",
+    "stars": 34,
+    "updated_at": "2026-09-09T09:11:57Z",
+    "url": "https://github.com/V-Songbird/foreman"
+  },
+  {
+    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
+    "id": "AgamiAI/agami-core",
+    "language": "Python",
+    "name": "AgamiAI/agami-core",
+    "stars": 29,
+    "updated_at": "2026-09-09T09:09:25Z",
+    "url": "https://github.com/AgamiAI/agami-core"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-09-09T09:07:36Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 12,
+    "updated_at": "2026-09-09T09:06:03Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "Reusable framework for requirements work: BRD/NFR/ADR templates, quality rules, and agent skills that draft and review r",
+    "id": "YuliaMelekhova/analyst-toolkit",
+    "language": "\u2014",
+    "name": "YuliaMelekhova/analyst-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-09T09:04:51Z",
+    "url": "https://github.com/YuliaMelekhova/analyst-toolkit"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-09-09T09:02:51Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "Map your Claude workflows \u2014 graph how Claude would break down a task, then watch skills, plugins, and MCPs simplify it.",
+    "id": "tahirzlone/untangle",
+    "language": "TypeScript",
+    "name": "tahirzlone/untangle",
+    "stars": 2,
+    "updated_at": "2026-09-09T09:02:05Z",
+    "url": "https://github.com/tahirzlone/untangle"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T09:00:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
+    "id": "elementalsouls/Claude-BugHunter",
+    "language": "Python",
+    "name": "elementalsouls/Claude-BugHunter",
+    "stars": 4397,
+    "updated_at": "2026-09-09T09:00:05Z",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-09T08:59:24Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
     "description": "ShareXtract \u00b7 \u516c\u5f00\u5206\u4eab\u5185\u5bb9\u63d0\u53d6 / Protocol-first public share extractor \u00b7 AI \u5bf9\u8bdd\u3001\u793e\u4ea4\u5185\u5bb9\u3001\u5a92\u4f53\u4e0e\u5f00\u653e\u7f51\u9875 / AI chats, social posts, media & op",
     "id": "wuaishare/sharextract",
     "language": "Python",
@@ -49,7 +175,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68838,
+    "stars": 68837,
     "updated_at": "2026-09-09T08:54:59Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -117,24 +243,6 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-09T08:59:24Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T08:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
     "id": "chenweil/skillcaddy",
     "language": "JavaScript",
@@ -178,15 +286,6 @@
     "stars": 30727,
     "updated_at": "2026-09-09T08:36:57Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Agent skills for building, shipping, and growing software products",
-    "id": "tenequm/skills",
-    "language": "Python",
-    "name": "tenequm/skills",
-    "stars": 35,
-    "updated_at": "2026-09-09T08:38:40Z",
-    "url": "https://github.com/tenequm/skills"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -239,7 +338,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-09T08:43:15Z",
+    "updated_at": "2026-09-09T09:13:05Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-09T08:09:01Z",
     "url": "https://github.com/crypdick/pynchy"
-  },
-  {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 12,
-    "updated_at": "2026-09-09T08:09:22Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
-    "id": "alfadur7/llm-wiki-newsroom",
-    "language": "Python",
-    "name": "alfadur7/llm-wiki-newsroom",
-    "stars": 83,
-    "updated_at": "2026-09-09T08:05:27Z",
-    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
-  },
-  {
-    "description": "End-to-end development skills for Claude Code: framework-specific expertise for frontend, backend, mobile, infra, and QA",
-    "id": "Aarvion-AI/stackwise-skills",
-    "language": "Python",
-    "name": "Aarvion-AI/stackwise-skills",
-    "stars": 5,
-    "updated_at": "2026-09-09T07:58:14Z",
-    "url": "https://github.com/Aarvion-AI/stackwise-skills"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 6,
-    "updated_at": "2026-09-09T07:56:40Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "A local web panel for managing Claude Code skills \u2014 paste a GitHub URL to install, symlink-hosted with zero copies, plus",
-    "id": "ssssssanjiu/skill_manager",
-    "language": "JavaScript",
-    "name": "ssssssanjiu/skill_manager",
-    "stars": 0,
-    "updated_at": "2026-09-09T07:52:52Z",
-    "url": "https://github.com/ssssssanjiu/skill_manager"
-  },
-  {
-    "description": "Evidence-grounded research agent for Claude Code & Codex: every claim gets a confidence rating + source-family tag, and ",
-    "id": "GiaSip/giasip-skills",
-    "language": "Shell",
-    "name": "GiaSip/giasip-skills",
-    "stars": 12,
-    "updated_at": "2026-09-09T07:52:04Z",
-    "url": "https://github.com/GiaSip/giasip-skills"
-  },
-  {
-    "description": "Connect Claude Code to Autographical",
-    "id": "autographical/claude-code-plugins",
-    "language": "\u2014",
-    "name": "autographical/claude-code-plugins",
-    "stars": 1,
-    "updated_at": "2026-09-09T07:50:00Z",
-    "url": "https://github.com/autographical/claude-code-plugins"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-09-09T07:46:53Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-09-09T07:46:41Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "\u6296\u97f3\u4f5c\u54c1\u722c\u53d6\u5de5\u5177\uff0c\u8f93\u5165\u6296\u97f3URL\u6216\u6296\u97f3ID\uff0c\u8f93\u51fa\u6296\u97f3\u8d26\u53f7\u57fa\u7840\u4fe1\u606f\u548c\u8fd1\u671f\u4f5c\u54c1\u5185\u5bb9\u5217\u8868\uff08\u6700\u591a10000\u6761\uff09\u3002\u5f53\u7528\u6237\u63d0\u5230\"\u722c\u53d6\u6296\u97f3\u4f5c\u54c1\"\u3001\"\u6293\u53d6\u6296\u97f3KOL\u4f5c\u54c1\"\u3001\"\u6293\u53d6\u6296\u97f3\u535a\u4e3b\u4f5c\u54c1\"\u3001\"\u6296\u97f3\u4f5c\u54c1\u5217\u8868\"\u3001\"\u67e5\u770b\u6296\u97f3\u89c6\u9891\"\u3001\"\u6296\u97f3\u5185\u5bb9\u91c7\u96c6\"\u3001\"\u6293\u53d6\u6296",
-    "id": "why20261/douyin-kol-crawler",
-    "language": "JavaScript",
-    "name": "why20261/douyin-kol-crawler",
-    "stars": 0,
-    "updated_at": "2026-09-09T07:42:33Z",
-    "url": "https://github.com/why20261/douyin-kol-crawler"
-  },
-  {
-    "description": "How to organize agent skills as a coherent system \u2014 stop trigger conflicts and know when to build a new skill.",
-    "id": "X32Studio/best-practice-for-skills-system",
-    "language": "HTML",
-    "name": "X32Studio/best-practice-for-skills-system",
-    "stars": 0,
-    "updated_at": "2026-09-09T07:39:30Z",
-    "url": "https://github.com/X32Studio/best-practice-for-skills-system"
   }
 ]
