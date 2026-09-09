@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI agent skills for security R&D",
+    "id": "SeungHyeon-Kim/security-rnd-skills",
+    "language": "\u2014",
+    "name": "SeungHyeon-Kim/security-rnd-skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:13:47Z",
+    "url": "https://github.com/SeungHyeon-Kim/security-rnd-skills"
+  },
+  {
+    "description": "Spec is a Markdown-first planning skill for coding agents. It creates project context, routes each request through the r",
+    "id": "emanoeI/spec-agent-skill",
+    "language": "JavaScript",
+    "name": "emanoeI/spec-agent-skill",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:13:20Z",
+    "url": "https://github.com/emanoeI/spec-agent-skill"
+  },
+  {
+    "description": "End-to-end pipeline",
+    "id": "tms-tungnguyen3/daily_working",
+    "language": "\u2014",
+    "name": "tms-tungnguyen3/daily_working",
+    "stars": 5,
+    "updated_at": "2026-09-09T03:10:19Z",
+    "url": "https://github.com/tms-tungnguyen3/daily_working"
+  },
+  {
+    "description": "AI skills for NMTC eligibility, bank-CDFI peer benchmarking & HMDA analysis \u2014 grounded in audited PyPI tools, not halluc",
+    "id": "Jaypatel1511/cdfi-superpowers",
+    "language": "Shell",
+    "name": "Jaypatel1511/cdfi-superpowers",
+    "stars": 1,
+    "updated_at": "2026-09-09T03:07:29Z",
+    "url": "https://github.com/Jaypatel1511/cdfi-superpowers"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68831,
+    "updated_at": "2026-09-09T03:14:12Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "AI QA Lead that turns requirements (PDF, DOCX, XLSX) into TestRail-ready test cases in one conversation. Free, open-sour",
+    "id": "JohnWayneeee/casely-qa-skill",
+    "language": "Python",
+    "name": "JohnWayneeee/casely-qa-skill",
+    "stars": 7,
+    "updated_at": "2026-09-09T03:05:41Z",
+    "url": "https://github.com/JohnWayneeee/casely-qa-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T03:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A standard layout for .claude/",
     "id": "nhhthong/clio",
     "language": "Shell",
@@ -45,24 +108,6 @@
     "url": "https://github.com/geml-spec/geml"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T02:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68830,
-    "updated_at": "2026-09-09T02:59:12Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -103,7 +148,7 @@
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 173,
+    "stars": 174,
     "updated_at": "2026-09-09T02:37:32Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
@@ -252,11 +297,20 @@
     "url": "https://github.com/ikaijua/Awesome-AITools"
   },
   {
+    "description": "Playwright for coding agents. Benchmark Claude Code, Codex, Gemini, and OpenCode on your own tasks - and test that your ",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 124,
+    "updated_at": "2026-09-09T02:06:07Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
     "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
     "id": "codeswithroh/tastemaker",
     "language": "Python",
     "name": "codeswithroh/tastemaker",
-    "stars": 347,
+    "stars": 348,
     "updated_at": "2026-09-09T02:03:06Z",
     "url": "https://github.com/codeswithroh/tastemaker"
   },
@@ -266,7 +320,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-09T02:50:40Z",
+    "updated_at": "2026-09-09T03:13:38Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -356,7 +410,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-09T02:57:55Z",
+    "updated_at": "2026-09-09T03:14:59Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 454,
     "updated_at": "2026-09-09T01:30:45Z",
     "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Go",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 6,
-    "updated_at": "2026-09-09T02:37:24Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-09T01:27:12Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
-    "id": "twistedmelonman/personify",
-    "language": "TypeScript",
-    "name": "twistedmelonman/personify",
-    "stars": 0,
-    "updated_at": "2026-09-09T01:23:14Z",
-    "url": "https://github.com/twistedmelonman/personify"
-  },
-  {
-    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
-    "id": "tonydzi/clawrush",
-    "language": "Python",
-    "name": "tonydzi/clawrush",
-    "stars": 12,
-    "updated_at": "2026-09-09T01:22:41Z",
-    "url": "https://github.com/tonydzi/clawrush"
-  },
-  {
-    "description": "\u4e00\u4e2a\u9762\u5411\u4e2d\u6587\u7f16\u7801\u73af\u5883\u7684\u5168\u6808\u6280\u80fd\u63d2\u4ef6",
-    "id": "foreturn/product-studio",
-    "language": "JavaScript",
-    "name": "foreturn/product-studio",
-    "stars": 3,
-    "updated_at": "2026-09-09T01:21:47Z",
-    "url": "https://github.com/foreturn/product-studio"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-09-09T01:20:44Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
