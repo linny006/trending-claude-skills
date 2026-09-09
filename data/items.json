@@ -1,11 +1,110 @@
 [
   {
+    "description": "Scaffolding skill + always-on conventions (CLAUDE.md/AGENTS.md) for Quarkus + LangChain4j agentic AI apps: AI services, ",
+    "id": "eldermoraes/quarkus-agentic-scaffolding",
+    "language": "Shell",
+    "name": "eldermoraes/quarkus-agentic-scaffolding",
+    "stars": 26,
+    "updated_at": "2026-09-09T12:59:22Z",
+    "url": "https://github.com/eldermoraes/quarkus-agentic-scaffolding"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-09T13:00:18Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Lab it. Plan it. Implement it. Review it. Ship it. Agent skills for architecture, GitHub planning and delivery, with sta",
+    "id": "elieandraos/agentic-engineering",
+    "language": "HTML",
+    "name": "elieandraos/agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-09T12:54:03Z",
+    "url": "https://github.com/elieandraos/agentic-engineering"
+  },
+  {
+    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
+    "id": "ergrelet/windiff",
+    "language": "Rust",
+    "name": "ergrelet/windiff",
+    "stars": 391,
+    "updated_at": "2026-09-09T12:53:57Z",
+    "url": "https://github.com/ergrelet/windiff"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-09-09T12:53:47Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Claude Skill/Plugin: \u0434\u0430\u0439\u0434\u0436\u0435\u0441\u0442 \u043f\u0443\u0431\u043b\u0438\u0447\u043d\u044b\u0445 Telegram-\u043a\u0430\u043d\u0430\u043b\u043e\u0432 \u0431\u0435\u0437 API-\u0442\u043e\u043a\u0435\u043d\u0430 \u0438 \u043b\u043e\u0433\u0438\u043d\u0430.",
+    "id": "tatianahub/telegram-digest-skill",
+    "language": "\u2014",
+    "name": "tatianahub/telegram-digest-skill",
+    "stars": 0,
+    "updated_at": "2026-09-09T12:53:28Z",
+    "url": "https://github.com/tatianahub/telegram-digest-skill"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Go",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-09-09T12:56:42Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Session continuity memory for Claude Desktop",
+    "id": "balaka/bro",
+    "language": "Shell",
+    "name": "balaka/bro",
+    "stars": 0,
+    "updated_at": "2026-09-09T12:47:43Z",
+    "url": "https://github.com/balaka/bro"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T12:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 27,
+    "updated_at": "2026-09-09T12:44:06Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-09T12:43:41Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
     "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
     "id": "open-coder-ai/context-report",
     "language": "Python",
     "name": "open-coder-ai/context-report",
     "stars": 0,
-    "updated_at": "2026-09-09T12:42:37Z",
+    "updated_at": "2026-09-09T12:55:53Z",
     "url": "https://github.com/open-coder-ai/context-report"
   },
   {
@@ -36,15 +135,6 @@
     "url": "https://github.com/oaustegard/claude-skills"
   },
   {
-    "description": "Lab it. Plan it. Implement it. Review it. Ship it. Agent skills for architecture, GitHub planning and delivery, with sta",
-    "id": "elieandraos/agentic-engineering",
-    "language": "HTML",
-    "name": "elieandraos/agentic-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:39:16Z",
-    "url": "https://github.com/elieandraos/agentic-engineering"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -72,24 +162,6 @@
     "url": "https://github.com/calneymgp/solodev"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-09T12:44:43Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Session continuity memory for Claude Desktop",
-    "id": "balaka/bro",
-    "language": "Shell",
-    "name": "balaka/bro",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:37:48Z",
-    "url": "https://github.com/balaka/bro"
-  },
-  {
     "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
     "id": "CrossRead/scholion",
     "language": "Python",
@@ -115,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T12:34:26Z",
     "url": "https://github.com/itsjavi/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T12:30:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Decision-driven harness for coding agents, and humans.",
@@ -198,24 +261,6 @@
     "url": "https://github.com/zeikar/dotfiles"
   },
   {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 27,
-    "updated_at": "2026-09-09T12:44:06Z",
-    "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "Claude Skill/Plugin: \u0434\u0430\u0439\u0434\u0436\u0435\u0441\u0442 \u043f\u0443\u0431\u043b\u0438\u0447\u043d\u044b\u0445 Telegram-\u043a\u0430\u043d\u0430\u043b\u043e\u0432 \u0431\u0435\u0437 API-\u0442\u043e\u043a\u0435\u043d\u0430 \u0438 \u043b\u043e\u0433\u0438\u043d\u0430.",
-    "id": "tatianahub/telegram-digest-skill",
-    "language": "\u2014",
-    "name": "tatianahub/telegram-digest-skill",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:12:41Z",
-    "url": "https://github.com/tatianahub/telegram-digest-skill"
-  },
-  {
     "description": "Agent skills for building, shipping, and growing software products",
     "id": "tenequm/skills",
     "language": "Python",
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 455,
-    "updated_at": "2026-09-09T12:43:11Z",
+    "updated_at": "2026-09-09T12:58:08Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -329,7 +374,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-09T12:11:43Z",
+    "updated_at": "2026-09-09T12:53:03Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-09T12:02:16Z",
     "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30727,
-    "updated_at": "2026-09-09T12:01:49Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "React-style MVU UI framework for C# desktop: pure C# components and hooks rendered to native WPF and Avalonia controls. ",
-    "id": "lukewire129/Nuri",
-    "language": "C#",
-    "name": "lukewire129/Nuri",
-    "stars": 5,
-    "updated_at": "2026-09-09T12:01:39Z",
-    "url": "https://github.com/lukewire129/Nuri"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:01:24Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 4,
-    "updated_at": "2026-09-09T12:35:06Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:00:35Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
   }
 ]
