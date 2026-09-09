@@ -1,12 +1,48 @@
 [
   {
-    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "JavaScript",
-    "name": "SteveKinzey/claude-code-tools-installer",
+    "description": "Fault-tolerant, AI-ready torrent scraper and P2P daemon. A Go-based headless evolution of torlink for homelab automation",
+    "id": "x-name15/gorrent",
+    "language": "Go",
+    "name": "x-name15/gorrent",
     "stars": 1,
-    "updated_at": "2026-09-09T10:44:59Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+    "updated_at": "2026-09-09T10:59:51Z",
+    "url": "https://github.com/x-name15/gorrent"
+  },
+  {
+    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
+    "id": "ilyautov/humanizer-ru",
+    "language": "Python",
+    "name": "ilyautov/humanizer-ru",
+    "stars": 301,
+    "updated_at": "2026-09-09T10:58:57Z",
+    "url": "https://github.com/ilyautov/humanizer-ru"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-09-09T10:58:53Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Claude plugin met skills voor Nederlandse aanbestedingen: planning en stukken ophalen van TenderNed en Mercell, NvI-vrag",
+    "id": "martinwolve/DEC-aanbestedingen-plugin",
+    "language": "Python",
+    "name": "martinwolve/DEC-aanbestedingen-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:57:56Z",
+    "url": "https://github.com/martinwolve/DEC-aanbestedingen-plugin"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 27,
+    "updated_at": "2026-09-09T10:56:04Z",
+    "url": "https://github.com/Borda/AI-Rig"
   },
   {
     "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
@@ -14,15 +50,69 @@
     "language": "JavaScript",
     "name": "zenstory-ai/oh-story-claudecode",
     "stars": 6697,
-    "updated_at": "2026-09-09T10:44:18Z",
+    "updated_at": "2026-09-09T10:54:00Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
+  },
+  {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 35,
+    "updated_at": "2026-09-09T10:54:50Z",
+    "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 1,
+    "updated_at": "2026-09-09T10:52:10Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-09T10:51:28Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-09T10:46:06Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-09T10:59:40Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T10:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002The mo",
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 6435,
+    "stars": 6436,
     "updated_at": "2026-09-09T10:43:57Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -45,15 +135,6 @@
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
-    "description": "Claude plugin met skills voor Nederlandse aanbestedingen: planning en stukken ophalen van TenderNed en Mercell, NvI-vrag",
-    "id": "martinwolve/DEC-aanbestedingen-plugin",
-    "language": "Python",
-    "name": "martinwolve/DEC-aanbestedingen-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-09T10:43:34Z",
-    "url": "https://github.com/martinwolve/DEC-aanbestedingen-plugin"
-  },
-  {
     "description": "Decision-driven harness for coding agents, and humans.",
     "id": "nevenincs/vaultspec-core",
     "language": "Python",
@@ -61,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T10:40:22Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-09T10:39:51Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -81,31 +153,13 @@
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-09T10:44:25Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68839,
-    "updated_at": "2026-09-09T10:31:36Z",
+    "stars": 68840,
+    "updated_at": "2026-09-09T10:53:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Agent skills for building, shipping, and growing software products",
-    "id": "tenequm/skills",
-    "language": "Python",
-    "name": "tenequm/skills",
-    "stars": 35,
-    "updated_at": "2026-09-09T10:33:31Z",
-    "url": "https://github.com/tenequm/skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -133,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T10:30:24Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T10:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Two universal design-polish skills for Claude Code, Cursor, Codex, Windsurf, Aider, Continue and Zed: ultrapolish-ios (S",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 143,
-    "updated_at": "2026-09-09T10:30:50Z",
+    "updated_at": "2026-09-09T10:51:36Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-09T10:39:20Z",
+    "updated_at": "2026-09-09T10:54:54Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   },
   {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 27,
-    "updated_at": "2026-09-09T10:14:10Z",
-    "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
     "id": "gilvangonzalez/technical-founding-gtm-toolkit",
     "language": "HTML",
@@ -313,15 +349,6 @@
     "stars": 3,
     "updated_at": "2026-09-09T10:07:05Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
-    "id": "ilyautov/humanizer-ru",
-    "language": "Python",
-    "name": "ilyautov/humanizer-ru",
-    "stars": 301,
-    "updated_at": "2026-09-09T10:06:33Z",
-    "url": "https://github.com/ilyautov/humanizer-ru"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-09T09:44:38Z",
     "url": "https://github.com/mikielek/consult"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-09T09:39:34Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "\u534a\u8c03\u6d77\u62a5 skill\uff1a\u628a\u4e00\u53e5\u8bdd\u3001\u4e00\u4e2a\u4e3b\u9898\u6216\u4e00\u5f20\u7167\u7247\u505a\u6210\u6709\u5370\u5237\u8d28\u611f\u7684\u827a\u672f\u5c01\u9762\uff1b11 \u79cd\u5370\u5237\u98ce\u683c\uff0c\u53cc\u8272\u534a\u8c03\u3001Riso\u3001\u84dd\u67d3\u3001\u70b9\u9635\u89e3\u6784\uff0c\u5185\u7f6e\u5143\u63d0\u793a\u8bcd\u6a21\u677f\u3002",
-    "id": "taxueseek/taxue-halftone",
-    "language": "Python",
-    "name": "taxueseek/taxue-halftone",
-    "stars": 9,
-    "updated_at": "2026-09-09T09:39:33Z",
-    "url": "https://github.com/taxueseek/taxue-halftone"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-09T09:38:59Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
