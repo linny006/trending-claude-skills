@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
+    "id": "chenweil/skillcaddy",
+    "language": "JavaScript",
+    "name": "chenweil/skillcaddy",
+    "stars": 24,
+    "updated_at": "2026-09-09T08:43:40Z",
+    "url": "https://github.com/chenweil/skillcaddy"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-09-09T08:43:09Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-09-09T08:41:45Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-09T08:40:02Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68837,
+    "updated_at": "2026-09-09T08:37:08Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30728,
+    "updated_at": "2026-09-09T08:36:57Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 35,
+    "updated_at": "2026-09-09T08:38:40Z",
+    "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-09T08:43:55Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-09T08:30:32Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T08:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
+    "id": "nitinjain999/platform-skills",
+    "language": "Shell",
+    "name": "nitinjain999/platform-skills",
+    "stars": 41,
+    "updated_at": "2026-09-09T08:27:59Z",
+    "url": "https://github.com/nitinjain999/platform-skills"
+  },
+  {
     "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
     "id": "filippolmt/skills",
     "language": "HTML",
@@ -41,7 +140,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-09T08:23:32Z",
+    "updated_at": "2026-09-09T08:43:15Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -59,17 +158,8 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 2,
-    "updated_at": "2026-09-09T08:22:01Z",
+    "updated_at": "2026-09-09T08:36:45Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-09T08:19:28Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "ShareXtract \u00b7 \u516c\u5f00\u5206\u4eab\u5185\u5bb9\u63d0\u53d6 / Protocol-first public share extractor \u00b7 AI \u5bf9\u8bdd\u3001\u793e\u4ea4\u5185\u5bb9\u3001\u5a92\u4f53\u4e0e\u5f00\u653e\u7f51\u9875 / AI chats, social posts, media & op",
@@ -104,26 +194,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-09T08:29:38Z",
+    "updated_at": "2026-09-09T08:39:21Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68836,
-    "updated_at": "2026-09-09T08:16:03Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T08:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 174,
-    "updated_at": "2026-09-09T08:18:59Z",
+    "updated_at": "2026-09-09T08:37:08Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -205,15 +277,6 @@
     "stars": 12,
     "updated_at": "2026-09-09T08:09:22Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
-    "id": "nitinjain999/platform-skills",
-    "language": "Shell",
-    "name": "nitinjain999/platform-skills",
-    "stars": 41,
-    "updated_at": "2026-09-09T08:27:59Z",
-    "url": "https://github.com/nitinjain999/platform-skills"
   },
   {
     "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
@@ -297,15 +360,6 @@
     "url": "https://github.com/why20261/douyin-kol-crawler"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-09T08:30:07Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "How to organize agent skills as a coherent system \u2014 stop trigger conflicts and know when to build a new skill.",
     "id": "X32Studio/best-practice-for-skills-system",
     "language": "HTML",
@@ -356,7 +410,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 454,
-    "updated_at": "2026-09-09T08:22:49Z",
+    "updated_at": "2026-09-09T08:36:33Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-09T07:10:22Z",
     "url": "https://github.com/johanthoren/jeff"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 35,
-    "updated_at": "2026-09-09T07:08:55Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002The mo",
-    "id": "anbeime/skill",
-    "language": "Python",
-    "name": "anbeime/skill",
-    "stars": 6427,
-    "updated_at": "2026-09-09T07:08:48Z",
-    "url": "https://github.com/anbeime/skill"
-  },
-  {
-    "description": "\u4e00\u4e2a\u9762\u5411\u4e2d\u6587\u7f16\u7801\u73af\u5883\u7684\u5168\u6808\u6280\u80fd\u63d2\u4ef6",
-    "id": "foreturn/product-studio",
-    "language": "\u2014",
-    "name": "foreturn/product-studio",
-    "stars": 3,
-    "updated_at": "2026-09-09T07:03:43Z",
-    "url": "https://github.com/foreturn/product-studio"
-  },
-  {
-    "description": "Stops your coding agent from claiming it verified what it never ran. 17 engineering skills for agent-authored codebases ",
-    "id": "qbs784/ledger",
-    "language": "JavaScript",
-    "name": "qbs784/ledger",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:59:42Z",
-    "url": "https://github.com/qbs784/ledger"
-  },
-  {
-    "description": "Levain skills and plugins for coding agents \u2014 author Levain agents from Claude.",
-    "id": "levainlabs/skills",
-    "language": "\u2014",
-    "name": "levainlabs/skills",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:59:32Z",
-    "url": "https://github.com/levainlabs/skills"
-  },
-  {
-    "description": "AI coding discipline as a Claude Code skill: layered architecture scaffold, open-source-first startup gate, multi-AI dis",
-    "id": "kxc7558/ai-crew-rules",
-    "language": "Python",
-    "name": "kxc7558/ai-crew-rules",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:59:11Z",
-    "url": "https://github.com/kxc7558/ai-crew-rules"
   }
 ]
