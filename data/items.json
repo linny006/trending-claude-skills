@@ -1,11 +1,56 @@
 [
   {
+    "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
+    "id": "open-coder-ai/context-report",
+    "language": "Python",
+    "name": "open-coder-ai/context-report",
+    "stars": 0,
+    "updated_at": "2026-09-09T01:34:04Z",
+    "url": "https://github.com/open-coder-ai/context-report"
+  },
+  {
+    "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
+    "id": "codeswithroh/tastemaker",
+    "language": "Python",
+    "name": "codeswithroh/tastemaker",
+    "stars": 346,
+    "updated_at": "2026-09-09T01:33:23Z",
+    "url": "https://github.com/codeswithroh/tastemaker"
+  },
+  {
+    "description": "repo for reusable plugins and skills",
+    "id": "richfrem/agent-plugins-skills",
+    "language": "Python",
+    "name": "richfrem/agent-plugins-skills",
+    "stars": 6,
+    "updated_at": "2026-09-09T01:31:49Z",
+    "url": "https://github.com/richfrem/agent-plugins-skills"
+  },
+  {
+    "description": "Agent skill that audits other agent skills by reading their SKILL.md instead of trusting star counts or top-skills ranki",
+    "id": "Yukirave/buscar-skills",
+    "language": "\u2014",
+    "name": "Yukirave/buscar-skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T01:31:39Z",
+    "url": "https://github.com/Yukirave/buscar-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T01:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
     "id": "danieljustus/symaira-eraseme",
     "language": "Go",
     "name": "danieljustus/symaira-eraseme",
     "stars": 6,
-    "updated_at": "2026-09-09T01:28:35Z",
+    "updated_at": "2026-09-09T01:30:36Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T01:20:20Z",
     "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T01:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "by-carlos/daikenja",
     "stars": 0,
-    "updated_at": "2026-09-09T00:44:16Z",
+    "updated_at": "2026-09-09T01:32:48Z",
     "url": "https://github.com/by-carlos/daikenja"
   },
   {
@@ -283,7 +319,7 @@
     "id": "zenbu-labs/terminal-browser",
     "language": "Rust",
     "name": "zenbu-labs/terminal-browser",
-    "stars": 2778,
+    "stars": 2779,
     "updated_at": "2026-09-09T00:40:16Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
   },
@@ -311,7 +347,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-09T01:24:44Z",
+    "updated_at": "2026-09-09T01:33:35Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-09T00:16:54Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
-    "id": "open-coder-ai/context-report",
-    "language": "Python",
-    "name": "open-coder-ai/context-report",
-    "stars": 0,
-    "updated_at": "2026-09-09T01:10:03Z",
-    "url": "https://github.com/open-coder-ai/context-report"
-  },
-  {
-    "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
-    "id": "codeswithroh/tastemaker",
-    "language": "Python",
-    "name": "codeswithroh/tastemaker",
-    "stars": 346,
-    "updated_at": "2026-09-09T00:12:39Z",
-    "url": "https://github.com/codeswithroh/tastemaker"
-  },
-  {
-    "description": "Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-cli",
-    "id": "Ap6pack/outrider-recon",
-    "language": "Python",
-    "name": "Ap6pack/outrider-recon",
-    "stars": 10,
-    "updated_at": "2026-09-09T00:11:24Z",
-    "url": "https://github.com/Ap6pack/outrider-recon"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-09-09T00:10:28Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
