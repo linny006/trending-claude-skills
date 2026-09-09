@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agent MCP server + skill for managing your NixOS system ",
+    "id": "JEFF7712/nix-agent",
+    "language": "Python",
+    "name": "JEFF7712/nix-agent",
+    "stars": 16,
+    "updated_at": "2026-09-09T19:17:39Z",
+    "url": "https://github.com/JEFF7712/nix-agent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T19:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Lab it. Plan it. Implement it. Review it. Ship it. Agent skills for architecture, GitHub planning and delivery, with sta",
     "id": "elieandraos/agentic-engineering",
     "language": "HTML",
@@ -14,7 +32,7 @@
     "language": "JavaScript",
     "name": "SteveKinzey/claude-code-tools-installer",
     "stars": 1,
-    "updated_at": "2026-09-09T19:14:11Z",
+    "updated_at": "2026-09-09T19:20:53Z",
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
   },
   {
@@ -41,7 +59,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-09T19:08:53Z",
+    "updated_at": "2026-09-09T19:16:42Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-09-09T19:00:40Z",
     "url": "https://github.com/heathdutton/claude-dipstick"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T19:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "ilyautov/humanizer-ru",
     "stars": 303,
-    "updated_at": "2026-09-09T18:48:01Z",
+    "updated_at": "2026-09-09T19:21:31Z",
     "url": "https://github.com/ilyautov/humanizer-ru"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 494,
     "updated_at": "2026-09-09T18:18:02Z",
     "url": "https://github.com/posit-dev/skills"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-09-09T18:17:59Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
   }
 ]
