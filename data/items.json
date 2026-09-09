@@ -1,12 +1,75 @@
 [
   {
+    "description": "Scaffolding skill + always-on conventions (CLAUDE.md/AGENTS.md) for Quarkus + LangChain4j agentic AI apps: AI services, ",
+    "id": "eldermoraes/quarkus-agentic-scaffolding",
+    "language": "Shell",
+    "name": "eldermoraes/quarkus-agentic-scaffolding",
+    "stars": 26,
+    "updated_at": "2026-09-09T13:30:21Z",
+    "url": "https://github.com/eldermoraes/quarkus-agentic-scaffolding"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 421,
-    "updated_at": "2026-09-09T13:14:02Z",
+    "updated_at": "2026-09-09T13:29:53Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 175,
+    "updated_at": "2026-09-09T13:21:33Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-09T13:18:26Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
+    "id": "isatimur/excalidraw-skill-pack",
+    "language": "TypeScript",
+    "name": "isatimur/excalidraw-skill-pack",
+    "stars": 4,
+    "updated_at": "2026-09-09T13:17:10Z",
+    "url": "https://github.com/isatimur/excalidraw-skill-pack"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T13:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 455,
+    "updated_at": "2026-09-09T13:26:05Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Go",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 6,
+    "updated_at": "2026-09-09T13:28:22Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "Lab it. Plan it. Implement it. Review it. Ship it. Agent skills for architecture, GitHub planning and delivery, with sta",
@@ -14,7 +77,7 @@
     "language": "HTML",
     "name": "elieandraos/agentic-engineering",
     "stars": 0,
-    "updated_at": "2026-09-09T13:08:18Z",
+    "updated_at": "2026-09-09T13:25:49Z",
     "url": "https://github.com/elieandraos/agentic-engineering"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T13:06:48Z",
     "url": "https://github.com/tatianahub/telegram-digest-skill"
-  },
-  {
-    "description": "Scaffolding skill + always-on conventions (CLAUDE.md/AGENTS.md) for Quarkus + LangChain4j agentic AI apps: AI services, ",
-    "id": "eldermoraes/quarkus-agentic-scaffolding",
-    "language": "Shell",
-    "name": "eldermoraes/quarkus-agentic-scaffolding",
-    "stars": 26,
-    "updated_at": "2026-09-09T13:06:42Z",
-    "url": "https://github.com/eldermoraes/quarkus-agentic-scaffolding"
   },
   {
     "description": "Session continuity memory for Claude Desktop",
@@ -72,15 +126,6 @@
     "url": "https://github.com/why20261/douyin-daily-surge"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T13:00:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Battle-tested Claude Code configs \u2014 opinionated CLAUDE.md baselines, skills, slash commands and enforcement hooks you dr",
     "id": "Cristhianzl/claude-skills-czl",
     "language": "Python",
@@ -108,21 +153,12 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Go",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 6,
-    "updated_at": "2026-09-09T13:12:52Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
     "id": "Borda/AI-Rig",
     "language": "Python",
     "name": "Borda/AI-Rig",
     "stars": 27,
-    "updated_at": "2026-09-09T12:44:06Z",
+    "updated_at": "2026-09-09T13:29:32Z",
     "url": "https://github.com/Borda/AI-Rig"
   },
   {
@@ -169,6 +205,15 @@
     "stars": 148,
     "updated_at": "2026-09-09T12:39:44Z",
     "url": "https://github.com/oaustegard/claude-skills"
+  },
+  {
+    "description": "EPLAN Electric P8 2026  2027 + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. E",
+    "id": "covagashi/eplan-rag-mcp",
+    "language": "Python",
+    "name": "covagashi/eplan-rag-mcp",
+    "stars": 86,
+    "updated_at": "2026-09-09T12:39:22Z",
+    "url": "https://github.com/covagashi/eplan-rag-mcp"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -324,15 +369,6 @@
     "url": "https://github.com/sexya3624/InsertAny3D"
   },
   {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 455,
-    "updated_at": "2026-09-09T13:13:21Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
     "id": "Joshuadoroja33/Ronnier-skill",
     "language": "PowerShell",
@@ -410,43 +446,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-09T13:14:02Z",
+    "updated_at": "2026-09-09T13:26:53Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:06:59Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
-  },
-  {
-    "description": "Export UniFi network topologies as zoomable vector diagrams and editable draw.io files using real device data.",
-    "id": "Josiecontrolling326/unifi-map",
-    "language": "Python",
-    "name": "Josiecontrolling326/unifi-map",
-    "stars": 1,
-    "updated_at": "2026-09-09T12:06:57Z",
-    "url": "https://github.com/Josiecontrolling326/unifi-map"
-  },
-  {
-    "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
-    "id": "skeletonshorts029-png/open-code-review",
-    "language": "TypeScript",
-    "name": "skeletonshorts029-png/open-code-review",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:06:29Z",
-    "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:06:08Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
   }
 ]
