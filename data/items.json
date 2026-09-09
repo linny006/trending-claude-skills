@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u795e\u7b14\u9a6c\u826f \u00b7 \u5199\u4f5cDNA\u84b8\u998f\u3002\u5c06\u81ea\u5df1\u516c\u4f17\u53f7/\u5c0f\u7ea2\u85af/X/twitter\u7684\u6587\u7ae0\u84b8\u998f\u6210\u5c5e\u4e8e\u4f60\u81ea\u5df1\u7684\u300c\u5199\u4f5c\u57fa\u56e0\u5305\u300d\u3002",
+    "id": "konglong87/shenbi-maliang",
+    "language": "Python",
+    "name": "konglong87/shenbi-maliang",
+    "stars": 2,
+    "updated_at": "2026-09-09T15:43:34Z",
+    "url": "https://github.com/konglong87/shenbi-maliang"
+  },
+  {
+    "description": "Coding agent skills to help projects adopt spec-driven development with durable product memory documents",
+    "id": "itsjavi/skills",
+    "language": "Python",
+    "name": "itsjavi/skills",
+    "stars": 1,
+    "updated_at": "2026-09-09T15:43:17Z",
+    "url": "https://github.com/itsjavi/skills"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-09-09T15:42:33Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-09-09T15:40:31Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "TeamCity from your terminal \u2013 or your AI's. Builds, logs, agents, agent terminals, queues.",
+    "id": "JetBrains/teamcity-cli",
+    "language": "Go",
+    "name": "JetBrains/teamcity-cli",
+    "stars": 123,
+    "updated_at": "2026-09-09T15:40:22Z",
+    "url": "https://github.com/JetBrains/teamcity-cli"
+  },
+  {
+    "description": "Self-driving agent loop for Claude Code. It turns an issue into a planned, verified, committed change, and lets you run,",
+    "id": "benman1/wiggum",
+    "language": "Shell",
+    "name": "benman1/wiggum",
+    "stars": 1,
+    "updated_at": "2026-09-09T15:36:06Z",
+    "url": "https://github.com/benman1/wiggum"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-09T15:44:39Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "Shell",
+    "name": "chrislacey89/skills",
+    "stars": 3,
+    "updated_at": "2026-09-09T15:30:29Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T15:30:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Work In Progress ---- The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not",
+    "id": "alexis-morain/verbatim-linkedin",
+    "language": "Python",
+    "name": "alexis-morain/verbatim-linkedin",
+    "stars": 2,
+    "updated_at": "2026-09-09T15:29:51Z",
+    "url": "https://github.com/alexis-morain/verbatim-linkedin"
+  },
+  {
     "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
     "id": "wei18/apple-dev-skills",
     "language": "Python",
@@ -9,20 +99,29 @@
     "url": "https://github.com/wei18/apple-dev-skills"
   },
   {
-    "description": "TeamCity from your terminal \u2013 or your AI's. Builds, logs, agents, agent terminals, queues.",
-    "id": "JetBrains/teamcity-cli",
-    "language": "Go",
-    "name": "JetBrains/teamcity-cli",
-    "stars": 123,
-    "updated_at": "2026-09-09T15:28:26Z",
-    "url": "https://github.com/JetBrains/teamcity-cli"
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-09T15:27:17Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Lab it. Plan it. Implement it. Review it. Ship it. Agent skills for architecture, GitHub planning and delivery, with sta",
+    "id": "elieandraos/agentic-engineering",
+    "language": "HTML",
+    "name": "elieandraos/agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-09T15:27:08Z",
+    "url": "https://github.com/elieandraos/agentic-engineering"
   },
   {
     "description": "Claude Desktop",
     "id": "afganirw07/claude-desktop",
     "language": "\u2014",
     "name": "afganirw07/claude-desktop",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-09T15:25:54Z",
     "url": "https://github.com/afganirw07/claude-desktop"
   },
@@ -45,6 +144,15 @@
     "url": "https://github.com/powersync-ja/agent-skills"
   },
   {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-09T15:42:59Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
     "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
     "id": "crypdick/pynchy",
     "language": "Python",
@@ -54,15 +162,6 @@
     "url": "https://github.com/crypdick/pynchy"
   },
   {
-    "description": "\u795e\u7b14\u9a6c\u826f \u00b7 \u5199\u4f5cDNA\u84b8\u998f\u3002\u5c06\u81ea\u5df1\u516c\u4f17\u53f7/\u5c0f\u7ea2\u85af/X/twitter\u7684\u6587\u7ae0\u84b8\u998f\u6210\u5c5e\u4e8e\u4f60\u81ea\u5df1\u7684\u300c\u5199\u4f5c\u57fa\u56e0\u5305\u300d\u3002",
-    "id": "konglong87/shenbi-maliang",
-    "language": "Python",
-    "name": "konglong87/shenbi-maliang",
-    "stars": 2,
-    "updated_at": "2026-09-09T15:23:35Z",
-    "url": "https://github.com/konglong87/shenbi-maliang"
-  },
-  {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
     "id": "YPares/rigup.nix",
     "language": "Nix",
@@ -70,24 +169,6 @@
     "stars": 90,
     "updated_at": "2026-09-09T15:21:38Z",
     "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Work In Progress ---- The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not",
-    "id": "alexis-morain/verbatim-linkedin",
-    "language": "Python",
-    "name": "alexis-morain/verbatim-linkedin",
-    "stars": 2,
-    "updated_at": "2026-09-09T15:29:51Z",
-    "url": "https://github.com/alexis-morain/verbatim-linkedin"
-  },
-  {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-09-09T15:17:14Z",
-    "url": "https://github.com/easyinplay/harnessed"
   },
   {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T15:15:24Z",
     "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T15:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T15:00:25Z",
     "url": "https://github.com/callflows/voice-agent-kit"
-  },
-  {
-    "description": "Lab it. Plan it. Implement it. Review it. Ship it. Agent skills for architecture, GitHub planning and delivery, with sta",
-    "id": "elieandraos/agentic-engineering",
-    "language": "HTML",
-    "name": "elieandraos/agentic-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-09T15:27:08Z",
-    "url": "https://github.com/elieandraos/agentic-engineering"
   },
   {
     "description": "Claude Code plugin and 44 AI skills for the GoodBarber no-code app builder: manage your mobile app (shop, content, commu",
@@ -279,24 +342,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 8,
-    "updated_at": "2026-09-09T14:50:28Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-09T15:24:56Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -306,15 +351,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-09T15:27:17Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
     "id": "Diegocortes15/playwright-ai-framework",
     "language": "TypeScript",
@@ -322,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T15:29:32Z",
     "url": "https://github.com/Diegocortes15/playwright-ai-framework"
-  },
-  {
-    "description": "Coding agent skills to help projects adopt spec-driven development with durable product memory documents",
-    "id": "itsjavi/skills",
-    "language": "Python",
-    "name": "itsjavi/skills",
-    "stars": 1,
-    "updated_at": "2026-09-09T14:44:08Z",
-    "url": "https://github.com/itsjavi/skills"
   },
   {
     "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
@@ -347,7 +374,7 @@
     "language": "JavaScript",
     "name": "vaibhavarora14/job-application-agent",
     "stars": 145,
-    "updated_at": "2026-09-09T15:29:23Z",
+    "updated_at": "2026-09-09T15:43:40Z",
     "url": "https://github.com/vaibhavarora14/job-application-agent"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/eldermoraes/quarkus-agentic-scaffolding"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-09T15:29:36Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-09T14:33:41Z",
     "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Go",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 6,
-    "updated_at": "2026-09-09T14:30:19Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "A Claude Code plugin of three routed skills for in-session reward moments and lifecycle retention in games and consumer ",
-    "id": "ajitta/Game-Engagement-Retention-Skills",
-    "language": "Shell",
-    "name": "ajitta/Game-Engagement-Retention-Skills",
-    "stars": 1,
-    "updated_at": "2026-09-09T14:28:33Z",
-    "url": "https://github.com/ajitta/Game-Engagement-Retention-Skills"
   }
 ]
