@@ -1,12 +1,12 @@
 [
   {
-    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
-    "id": "howard-lynn-ye/fin-skills",
+    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
+    "id": "ilyautov/humanizer-ru",
     "language": "Python",
-    "name": "howard-lynn-ye/fin-skills",
-    "stars": 1,
-    "updated_at": "2026-09-09T20:59:01Z",
-    "url": "https://github.com/howard-lynn-ye/fin-skills"
+    "name": "ilyautov/humanizer-ru",
+    "stars": 308,
+    "updated_at": "2026-09-09T21:14:57Z",
+    "url": "https://github.com/ilyautov/humanizer-ru"
   },
   {
     "description": "A curated collection of high-performance Agent Skills (SKILL.md) for Claude Code, Codex, Cursor, OpenCode, and Devin. Co",
@@ -14,8 +14,107 @@
     "language": "Shell",
     "name": "afonsoft/skills",
     "stars": 0,
-    "updated_at": "2026-09-09T20:59:25Z",
+    "updated_at": "2026-09-09T21:14:52Z",
     "url": "https://github.com/afonsoft/skills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 56,
+    "updated_at": "2026-09-09T21:13:52Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "",
+    "id": "daftAI2026/daftAI-skills",
+    "language": "TypeScript",
+    "name": "daftAI2026/daftAI-skills",
+    "stars": 2,
+    "updated_at": "2026-09-09T21:13:26Z",
+    "url": "https://github.com/daftAI2026/daftAI-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-09T21:12:58Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 110,
+    "updated_at": "2026-09-09T21:12:11Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-09T21:10:51Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-09-09T21:10:48Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-09T21:14:23Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "My personal, curated set of artifacts for AI coding agents",
+    "id": "sergeyklay/.agents",
+    "language": "Python",
+    "name": "sergeyklay/.agents",
+    "stars": 5,
+    "updated_at": "2026-09-09T21:08:05Z",
+    "url": "https://github.com/sergeyklay/.agents"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-09T21:07:20Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T21:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
+    "id": "howard-lynn-ye/fin-skills",
+    "language": "Python",
+    "name": "howard-lynn-ye/fin-skills",
+    "stars": 1,
+    "updated_at": "2026-09-09T20:59:01Z",
+    "url": "https://github.com/howard-lynn-ye/fin-skills"
   },
   {
     "description": "Claude Code / claude.ai Agent Skills for organizational knowledge work \u2014 marketing, comms, research, ops. Install: npx s",
@@ -27,21 +126,12 @@
     "url": "https://github.com/alectivism/organization-ai-skills"
   },
   {
-    "description": "",
-    "id": "daftAI2026/daftAI-skills",
-    "language": "TypeScript",
-    "name": "daftAI2026/daftAI-skills",
-    "stars": 2,
-    "updated_at": "2026-09-09T20:54:56Z",
-    "url": "https://github.com/daftAI2026/daftAI-skills"
-  },
-  {
     "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
     "id": "Diegocortes15/playwright-ai-framework",
     "language": "TypeScript",
     "name": "Diegocortes15/playwright-ai-framework",
     "stars": 0,
-    "updated_at": "2026-09-09T20:52:31Z",
+    "updated_at": "2026-09-09T21:12:45Z",
     "url": "https://github.com/Diegocortes15/playwright-ai-framework"
   },
   {
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T20:50:14Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 110,
-    "updated_at": "2026-09-09T20:51:49Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
@@ -97,15 +178,6 @@
     "stars": 61,
     "updated_at": "2026-09-09T20:45:21Z",
     "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T20:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -185,7 +257,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-09T20:53:11Z",
+    "updated_at": "2026-09-09T21:13:15Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-09T20:38:56Z",
+    "updated_at": "2026-09-09T21:12:20Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -214,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T20:33:48Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-09T20:53:12Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-09T20:28:12Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
-    "id": "skeletonshorts029-png/open-code-review",
-    "language": "TypeScript",
-    "name": "skeletonshorts029-png/open-code-review",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:18:08Z",
-    "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:17:50Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "Access the Claude Mythos AI model through a native desktop application for coding, reasoning, and multimodal assistance.",
-    "id": "Betor4583/Claude-Mythos-AI-Free-desktop",
-    "language": "\u2014",
-    "name": "Betor4583/Claude-Mythos-AI-Free-desktop",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:17:06Z",
-    "url": "https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:16:53Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 21,
-    "updated_at": "2026-09-09T20:14:33Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 4,
-    "updated_at": "2026-09-09T20:14:05Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:13:24Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
   }
 ]
