@@ -1,21 +1,12 @@
 [
   {
-    "description": "Agent MCP server + skill for managing your NixOS system ",
-    "id": "JEFF7712/nix-agent",
-    "language": "Python",
-    "name": "JEFF7712/nix-agent",
-    "stars": 16,
-    "updated_at": "2026-09-09T19:17:39Z",
-    "url": "https://github.com/JEFF7712/nix-agent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T19:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Production-grade skills for AI  & AI coding agents. Evaluate, build, scale, compress.",
+    "id": "okyashgajjar/vaayu",
+    "language": "\u2014",
+    "name": "okyashgajjar/vaayu",
+    "stars": 0,
+    "updated_at": "2026-09-09T19:29:04Z",
+    "url": "https://github.com/okyashgajjar/vaayu"
   },
   {
     "description": "Lab it. Plan it. Implement it. Review it. Ship it. Agent skills for architecture, GitHub planning and delivery, with sta",
@@ -23,8 +14,44 @@
     "language": "HTML",
     "name": "elieandraos/agentic-engineering",
     "stars": 0,
-    "updated_at": "2026-09-09T19:14:23Z",
+    "updated_at": "2026-09-09T19:27:28Z",
     "url": "https://github.com/elieandraos/agentic-engineering"
+  },
+  {
+    "description": "Una br\u00fajula necesaria para perderle el miedo a trabajar \"junto\" a Claude Code y desarrollar con confianza, control y bue",
+    "id": "OrcaCl/suplemento-estrella",
+    "language": "Python",
+    "name": "OrcaCl/suplemento-estrella",
+    "stars": 0,
+    "updated_at": "2026-09-09T19:26:48Z",
+    "url": "https://github.com/OrcaCl/suplemento-estrella"
+  },
+  {
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
+    "id": "howard-lynn-ye/fin-skills",
+    "language": "Python",
+    "name": "howard-lynn-ye/fin-skills",
+    "stars": 1,
+    "updated_at": "2026-09-09T19:25:01Z",
+    "url": "https://github.com/howard-lynn-ye/fin-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T19:22:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
+    "id": "ilyautov/humanizer-ru",
+    "language": "Python",
+    "name": "ilyautov/humanizer-ru",
+    "stars": 303,
+    "updated_at": "2026-09-09T19:21:31Z",
+    "url": "https://github.com/ilyautov/humanizer-ru"
   },
   {
     "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
@@ -36,13 +63,13 @@
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
   },
   {
-    "description": "Production-grade skills for AI  & AI coding agents. Evaluate, build, scale, compress.",
-    "id": "okyashgajjar/vaayu",
-    "language": "\u2014",
-    "name": "okyashgajjar/vaayu",
-    "stars": 0,
-    "updated_at": "2026-09-09T19:10:06Z",
-    "url": "https://github.com/okyashgajjar/vaayu"
+    "description": "Agent MCP server + skill for managing your NixOS system ",
+    "id": "JEFF7712/nix-agent",
+    "language": "Python",
+    "name": "JEFF7712/nix-agent",
+    "stars": 16,
+    "updated_at": "2026-09-09T19:17:39Z",
+    "url": "https://github.com/JEFF7712/nix-agent"
   },
   {
     "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-09T19:16:42Z",
+    "updated_at": "2026-09-09T19:29:25Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 127,
-    "updated_at": "2026-09-09T19:03:37Z",
+    "updated_at": "2026-09-09T19:27:30Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 54,
     "updated_at": "2026-09-09T18:52:19Z",
     "url": "https://github.com/dembrandt/dembrandt-skills"
-  },
-  {
-    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
-    "id": "ilyautov/humanizer-ru",
-    "language": "Python",
-    "name": "ilyautov/humanizer-ru",
-    "stars": 303,
-    "updated_at": "2026-09-09T19:21:31Z",
-    "url": "https://github.com/ilyautov/humanizer-ru"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -430,23 +448,5 @@
     "stars": 49,
     "updated_at": "2026-09-09T18:18:41Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
-    "id": "howard-lynn-ye/fin-skills",
-    "language": "Python",
-    "name": "howard-lynn-ye/fin-skills",
-    "stars": 1,
-    "updated_at": "2026-09-09T18:18:13Z",
-    "url": "https://github.com/howard-lynn-ye/fin-skills"
-  },
-  {
-    "description": "A collection of Claude Skills from Posit",
-    "id": "posit-dev/skills",
-    "language": "R",
-    "name": "posit-dev/skills",
-    "stars": 494,
-    "updated_at": "2026-09-09T18:18:02Z",
-    "url": "https://github.com/posit-dev/skills"
   }
 ]
