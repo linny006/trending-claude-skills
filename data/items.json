@@ -1,30 +1,12 @@
 [
   {
-    "description": "AI agent skills for security R&D",
-    "id": "SeungHyeon-Kim/security-rnd-skills",
-    "language": "\u2014",
-    "name": "SeungHyeon-Kim/security-rnd-skills",
-    "stars": 0,
-    "updated_at": "2026-09-09T03:13:47Z",
-    "url": "https://github.com/SeungHyeon-Kim/security-rnd-skills"
-  },
-  {
-    "description": "Spec is a Markdown-first planning skill for coding agents. It creates project context, routes each request through the r",
-    "id": "emanoeI/spec-agent-skill",
-    "language": "JavaScript",
-    "name": "emanoeI/spec-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-09T03:13:20Z",
-    "url": "https://github.com/emanoeI/spec-agent-skill"
-  },
-  {
-    "description": "End-to-end pipeline",
-    "id": "tms-tungnguyen3/daily_working",
-    "language": "\u2014",
-    "name": "tms-tungnguyen3/daily_working",
-    "stars": 5,
-    "updated_at": "2026-09-09T03:10:19Z",
-    "url": "https://github.com/tms-tungnguyen3/daily_working"
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-09-09T03:28:49Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
     "description": "AI skills for NMTC eligibility, bank-CDFI peer benchmarking & HMDA analysis \u2014 grounded in audited PyPI tools, not halluc",
@@ -32,17 +14,125 @@
     "language": "Shell",
     "name": "Jaypatel1511/cdfi-superpowers",
     "stars": 1,
-    "updated_at": "2026-09-09T03:07:29Z",
+    "updated_at": "2026-09-09T03:28:14Z",
     "url": "https://github.com/Jaypatel1511/cdfi-superpowers"
+  },
+  {
+    "description": "AI agent skills for security R&D",
+    "id": "SeungHyeon-Kim/security-rnd-skills",
+    "language": "\u2014",
+    "name": "SeungHyeon-Kim/security-rnd-skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:27:32Z",
+    "url": "https://github.com/SeungHyeon-Kim/security-rnd-skills"
   },
   {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68831,
-    "updated_at": "2026-09-09T03:14:12Z",
+    "stars": 68832,
+    "updated_at": "2026-09-09T03:28:48Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/claude-chart-dashboard",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/claude-chart-dashboard",
+    "stars": 1,
+    "updated_at": "2026-09-09T03:26:30Z",
+    "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
+  },
+  {
+    "description": "74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grade, CI gates",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 134,
+    "updated_at": "2026-09-09T03:26:34Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 419,
+    "updated_at": "2026-09-09T03:26:20Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-09-09T03:24:01Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-09T03:20:20Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Plugin/skill that coordinates a full task-to-verified-change loop:",
+    "id": "tms-tungnguyen3/daily_working",
+    "language": "\u2014",
+    "name": "tms-tungnguyen3/daily_working",
+    "stars": 5,
+    "updated_at": "2026-09-09T03:20:05Z",
+    "url": "https://github.com/tms-tungnguyen3/daily_working"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-09T03:26:00Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-09T03:17:24Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Spec is a Markdown-first planning skill for coding agents. It creates project context, routes each request through the r",
+    "id": "emanoeI/spec-agent-skill",
+    "language": "JavaScript",
+    "name": "emanoeI/spec-agent-skill",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:16:40Z",
+    "url": "https://github.com/emanoeI/spec-agent-skill"
+  },
+  {
+    "description": "Agent Skills for VisionEngine \u2014 zero-dependency Python CLI for image, TTS, voice cloning, subtitles, video, digital huma",
+    "id": "vecai-dev/skills",
+    "language": "Python",
+    "name": "vecai-dev/skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:16:04Z",
+    "url": "https://github.com/vecai-dev/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T03:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI QA Lead that turns requirements (PDF, DOCX, XLSX) into TestRail-ready test cases in one conversation. Free, open-sour",
@@ -52,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-09-09T03:05:41Z",
     "url": "https://github.com/JohnWayneeee/casely-qa-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T03:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A standard layout for .claude/",
@@ -124,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T02:41:54Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Agent Skills for VisionEngine \u2014 zero-dependency Python CLI for image, TTS, voice cloning, subtitles, video, digital huma",
-    "id": "vecai-dev/skills",
-    "language": "Python",
-    "name": "vecai-dev/skills",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:40:15Z",
-    "url": "https://github.com/vecai-dev/skills"
   },
   {
     "description": "AI marketing team for B2B SaaS: 78 agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, paid media, em",
@@ -320,7 +392,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-09T03:13:38Z",
+    "updated_at": "2026-09-09T03:29:21Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-09T01:51:38Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Production-quality Claude Code skills for context handoff, project bootstrap, and skill catalog. Evaluated against Anthr",
-    "id": "cabaynes/charles-claude-skills",
-    "language": "Shell",
-    "name": "cabaynes/charles-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-09T01:47:38Z",
-    "url": "https://github.com/cabaynes/charles-claude-skills"
-  },
-  {
-    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
-    "id": "chrislacey89/skills",
-    "language": "Shell",
-    "name": "chrislacey89/skills",
-    "stars": 3,
-    "updated_at": "2026-09-09T01:43:29Z",
-    "url": "https://github.com/chrislacey89/skills"
-  },
-  {
-    "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple gr",
-    "id": "bitjaru/styleseed",
-    "language": "TypeScript",
-    "name": "bitjaru/styleseed",
-    "stars": 945,
-    "updated_at": "2026-09-09T01:41:40Z",
-    "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-09T03:14:59Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "repo for reusable plugins and skills",
-    "id": "richfrem/agent-plugins-skills",
-    "language": "Python",
-    "name": "richfrem/agent-plugins-skills",
-    "stars": 6,
-    "updated_at": "2026-09-09T01:38:25Z",
-    "url": "https://github.com/richfrem/agent-plugins-skills"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-09T01:36:59Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Agent skill that audits other agent skills by reading their SKILL.md instead of trusting star counts or top-skills ranki",
-    "id": "Yukirave/buscar-skills",
-    "language": "\u2014",
-    "name": "Yukirave/buscar-skills",
-    "stars": 0,
-    "updated_at": "2026-09-09T01:31:39Z",
-    "url": "https://github.com/Yukirave/buscar-skills"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 454,
-    "updated_at": "2026-09-09T01:30:45Z",
-    "url": "https://github.com/reticlehq/reticle"
   }
 ]
