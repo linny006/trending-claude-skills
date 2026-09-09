@@ -5,8 +5,53 @@
     "language": "Shell",
     "name": "nhhthong/clio",
     "stars": 1,
-    "updated_at": "2026-09-09T02:44:52Z",
+    "updated_at": "2026-09-09T03:00:04Z",
     "url": "https://github.com/nhhthong/clio"
+  },
+  {
+    "description": "Facet compares what a brand says\u2014its positioning\u2014with what its product actually delivers. It traces the promise across m",
+    "id": "jovelove7/facet",
+    "language": "Python",
+    "name": "jovelove7/facet",
+    "stars": 3,
+    "updated_at": "2026-09-09T02:58:52Z",
+    "url": "https://github.com/jovelove7/facet"
+  },
+  {
+    "description": "Claude Code skill for literature research: turn a research question into a ranked literature table \u2014 keyword extraction ",
+    "id": "CookieMoonPie/google-scholar-lab",
+    "language": "Python",
+    "name": "CookieMoonPie/google-scholar-lab",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:55:20Z",
+    "url": "https://github.com/CookieMoonPie/google-scholar-lab"
+  },
+  {
+    "description": "Agent Skill that turns messy notes into rendered strategy-consulting visuals, with SVG examples and validation.",
+    "id": "kgraph57/mckinsey-style-visualization-skill",
+    "language": "Python",
+    "name": "kgraph57/mckinsey-style-visualization-skill",
+    "stars": 99,
+    "updated_at": "2026-09-09T02:53:28Z",
+    "url": "https://github.com/kgraph57/mckinsey-style-visualization-skill"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "HTML",
+    "name": "geml-spec/geml",
+    "stars": 26,
+    "updated_at": "2026-09-09T02:50:30Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T02:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68830,
-    "updated_at": "2026-09-09T02:44:35Z",
+    "updated_at": "2026-09-09T02:59:12Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -45,15 +90,6 @@
     "url": "https://github.com/vecai-dev/skills"
   },
   {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
-    "language": "HTML",
-    "name": "geml-spec/geml",
-    "stars": 26,
-    "updated_at": "2026-09-09T02:40:12Z",
-    "url": "https://github.com/geml-spec/geml"
-  },
-  {
     "description": "AI marketing team for B2B SaaS: 78 agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, paid media, em",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -81,15 +117,6 @@
     "url": "https://github.com/lin113311221/savault-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T02:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Lightweight model routing, effort guidance, and review verification for Claude and Codex, including Astra.",
     "id": "nyldn/model-optimizer-lite",
     "language": "Python",
@@ -97,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T02:29:32Z",
     "url": "https://github.com/nyldn/model-optimizer-lite"
-  },
-  {
-    "description": "Agent Skill that turns messy notes into rendered strategy-consulting visuals, with SVG examples and validation.",
-    "id": "kgraph57/mckinsey-style-visualization-skill",
-    "language": "Python",
-    "name": "kgraph57/mckinsey-style-visualization-skill",
-    "stars": 99,
-    "updated_at": "2026-09-09T02:28:46Z",
-    "url": "https://github.com/kgraph57/mckinsey-style-visualization-skill"
   },
   {
     "description": "Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transport http ht",
@@ -151,15 +169,6 @@
     "stars": 437,
     "updated_at": "2026-09-09T02:22:34Z",
     "url": "https://github.com/jabrena/plinth"
-  },
-  {
-    "description": "Claude Code skill for literature research: turn a research question into a ranked literature table \u2014 keyword extraction ",
-    "id": "CookieMoonPie/google-scholar-lab",
-    "language": "Python",
-    "name": "CookieMoonPie/google-scholar-lab",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:20:10Z",
-    "url": "https://github.com/CookieMoonPie/google-scholar-lab"
   },
   {
     "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
@@ -257,7 +266,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-09T02:03:05Z",
+    "updated_at": "2026-09-09T02:50:40Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "open-coder-ai/context-report",
     "stars": 0,
-    "updated_at": "2026-09-09T02:06:31Z",
+    "updated_at": "2026-09-09T02:59:53Z",
     "url": "https://github.com/open-coder-ai/context-report"
   },
   {
@@ -347,7 +356,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-09T02:36:26Z",
+    "updated_at": "2026-09-09T02:57:55Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-09T01:20:44Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
-    "id": "kcy4334-lgtm/translate-book-arxiv",
-    "language": "Python",
-    "name": "kcy4334-lgtm/translate-book-arxiv",
-    "stars": 0,
-    "updated_at": "2026-09-09T01:20:20Z",
-    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
   }
 ]
