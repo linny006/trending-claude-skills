@@ -1,12 +1,57 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-09T22:28:31Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Lab it. Plan it. Implement it. Review it. Ship it. Agent skills for architecture, GitHub planning and delivery, with sta",
+    "id": "elieandraos/agentic-engineering",
+    "language": "HTML",
+    "name": "elieandraos/agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:26:43Z",
+    "url": "https://github.com/elieandraos/agentic-engineering"
+  },
+  {
     "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
     "id": "ilyautov/humanizer-ru",
     "language": "Python",
     "name": "ilyautov/humanizer-ru",
     "stars": 311,
-    "updated_at": "2026-09-09T22:13:21Z",
+    "updated_at": "2026-09-09T22:25:30Z",
     "url": "https://github.com/ilyautov/humanizer-ru"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-09T22:23:51Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Skills the Odin agent harness owns \u2014 decision scoring, roadmap planning, blueprint decomposition, mistake-to-gate harden",
+    "id": "RubyEyedReaper/Odin-Skills",
+    "language": "JavaScript",
+    "name": "RubyEyedReaper/Odin-Skills",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:16:10Z",
+    "url": "https://github.com/RubyEyedReaper/Odin-Skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T22:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-09T22:14:52Z",
+    "updated_at": "2026-09-09T22:25:50Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -27,15 +72,6 @@
     "url": "https://github.com/howard-lynn-ye/fin-skills"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-09T22:13:17Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-09-09T22:10:35Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Lab it. Plan it. Implement it. Review it. Ship it. Agent skills for architecture, GitHub planning and delivery, with sta",
-    "id": "elieandraos/agentic-engineering",
-    "language": "HTML",
-    "name": "elieandraos/agentic-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-09T22:10:31Z",
-    "url": "https://github.com/elieandraos/agentic-engineering"
   },
   {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
@@ -90,20 +117,11 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T22:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
     "id": "OthmanAdi/planning-with-files",
     "language": "Python",
     "name": "OthmanAdi/planning-with-files",
-    "stars": 26748,
+    "stars": 26749,
     "updated_at": "2026-09-09T22:00:02Z",
     "url": "https://github.com/OthmanAdi/planning-with-files"
   },
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-09T21:08:05Z",
     "url": "https://github.com/sergeyklay/.agents"
-  },
-  {
-    "description": "Claude Code / claude.ai Agent Skills for organizational knowledge work \u2014 marketing, comms, research, ops. Install: npx s",
-    "id": "alectivism/organization-ai-skills",
-    "language": "Python",
-    "name": "alectivism/organization-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:56:44Z",
-    "url": "https://github.com/alectivism/organization-ai-skills"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-09T20:50:51Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   }
 ]
