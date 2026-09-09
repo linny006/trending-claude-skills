@@ -1,12 +1,30 @@
 [
   {
-    "description": "\u2692\ufe0f Three Claude Code plugins: foreman keeps the plan, hush cuts the chatter, razor stops the over-building. One marketpl",
-    "id": "V-Songbird/foundry",
-    "language": "JavaScript",
-    "name": "V-Songbird/foundry",
-    "stars": 4,
-    "updated_at": "2026-09-09T09:15:02Z",
-    "url": "https://github.com/V-Songbird/foundry"
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002The mo",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 6432,
+    "updated_at": "2026-09-09T09:28:38Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-09-09T09:27:24Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-09T09:25:18Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Agent skills for building, shipping, and growing software products",
@@ -14,8 +32,62 @@
     "language": "Python",
     "name": "tenequm/skills",
     "stars": 35,
-    "updated_at": "2026-09-09T09:13:47Z",
+    "updated_at": "2026-09-09T09:23:27Z",
     "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction.",
+    "id": "zenstory-ai/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "zenstory-ai/oh-story-claudecode",
+    "stars": 6695,
+    "updated_at": "2026-09-09T09:23:24Z",
+    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
+  },
+  {
+    "description": "\u628a\u6559\u5b66\u89c6\u9891\u53d8\u6210\u300c\u4e0d\u770b\u89c6\u9891\u3001\u53ea\u51ed\u6587\u6863\u5c31\u80fd\u590d\u73b0\u300d\u7684\u77e5\u8bc6\u8d44\u4ea7 \u2014\u2014 Claude/Hermes skill + \u672c\u5730\u89c2\u770b\u5f15\u64ce\uff08whisper/OCR/\u7d22\u5f15\uff09+ \u76f2\u6d4b\u4e0e\u6821\u9a8c\u95f8\u95e8\uff0c\u5e76\u53ef\u84b8\u998f\u6210\u53ef\u8c03\u7528\u7684 agent skill",
+    "id": "vinsunfeng/learning-video-skills",
+    "language": "Python",
+    "name": "vinsunfeng/learning-video-skills",
+    "stars": 1,
+    "updated_at": "2026-09-09T09:22:31Z",
+    "url": "https://github.com/vinsunfeng/learning-video-skills"
+  },
+  {
+    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
+    "id": "Sylad/claude-code-codex",
+    "language": "Astro",
+    "name": "Sylad/claude-code-codex",
+    "stars": 0,
+    "updated_at": "2026-09-09T09:20:42Z",
+    "url": "https://github.com/Sylad/claude-code-codex"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 6,
+    "updated_at": "2026-09-09T09:19:12Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-09T09:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u2692\ufe0f Three Claude Code plugins: foreman keeps the plan, hush cuts the chatter, razor stops the over-building. One marketpl",
+    "id": "V-Songbird/foundry",
+    "language": "JavaScript",
+    "name": "V-Songbird/foundry",
+    "stars": 4,
+    "updated_at": "2026-09-09T09:15:02Z",
+    "url": "https://github.com/V-Songbird/foundry"
   },
   {
     "description": "",
@@ -29,19 +101,19 @@
   {
     "description": "\ud83e\udd2b Claude shuts up until it's done. A Claude Code plugin: one short answer at the end, the file to open, and no log dumps",
     "id": "V-Songbird/hush",
-    "language": "JavaScript",
+    "language": "\u2014",
     "name": "V-Songbird/hush",
     "stars": 49,
-    "updated_at": "2026-09-09T09:12:15Z",
+    "updated_at": "2026-09-09T09:28:53Z",
     "url": "https://github.com/V-Songbird/hush"
   },
   {
     "description": "\ud83d\udccb Your project plan, kept next to the code. A Claude Code plugin: ask what's next and get the task, the reason, and a re",
     "id": "V-Songbird/foreman",
-    "language": "JavaScript",
+    "language": "\u2014",
     "name": "V-Songbird/foreman",
     "stars": 34,
-    "updated_at": "2026-09-09T09:11:57Z",
+    "updated_at": "2026-09-09T09:28:50Z",
     "url": "https://github.com/V-Songbird/foreman"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T09:02:05Z",
     "url": "https://github.com/tahirzlone/untangle"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-09T09:00:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
@@ -175,7 +238,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68837,
+    "stars": 68838,
     "updated_at": "2026-09-09T08:54:59Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -194,7 +257,7 @@
     "language": "HTML",
     "name": "elieandraos/agentic-engineering",
     "stars": 0,
-    "updated_at": "2026-09-09T08:54:40Z",
+    "updated_at": "2026-09-09T09:29:35Z",
     "url": "https://github.com/elieandraos/agentic-engineering"
   },
   {
@@ -293,7 +356,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 110,
-    "updated_at": "2026-09-09T08:45:34Z",
+    "updated_at": "2026-09-09T09:25:56Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -331,15 +394,6 @@
     "stars": 5,
     "updated_at": "2026-09-09T08:26:38Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-09T09:13:05Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, win",
@@ -383,7 +437,7 @@
     "language": "Python",
     "name": "ilyautov/humanizer-ru",
     "stars": 301,
-    "updated_at": "2026-09-09T08:14:11Z",
+    "updated_at": "2026-09-09T09:28:57Z",
     "url": "https://github.com/ilyautov/humanizer-ru"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 112,
     "updated_at": "2026-09-09T08:14:02Z",
     "url": "https://github.com/Ovid/paad"
-  },
-  {
-    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
-    "id": "kcy4334-lgtm/translate-book-arxiv",
-    "language": "Python",
-    "name": "kcy4334-lgtm/translate-book-arxiv",
-    "stars": 0,
-    "updated_at": "2026-09-09T08:13:02Z",
-    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
-  },
-  {
-    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
-    "id": "magnusrodseth/dotfiles",
-    "language": "JavaScript",
-    "name": "magnusrodseth/dotfiles",
-    "stars": 2,
-    "updated_at": "2026-09-09T08:14:05Z",
-    "url": "https://github.com/magnusrodseth/dotfiles"
-  },
-  {
-    "description": "A free UX/UI skill pack for Claude, Codex and ChatGPT covering audits, dashboard redesigns, design systems, AI product d",
-    "id": "aditya-ariosity/ux-ui-skills",
-    "language": "Python",
-    "name": "aditya-ariosity/ux-ui-skills",
-    "stars": 2,
-    "updated_at": "2026-09-09T08:10:43Z",
-    "url": "https://github.com/aditya-ariosity/ux-ui-skills"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 174,
-    "updated_at": "2026-09-09T08:37:08Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Free, open-source alternatives to paid Claude skills",
-    "id": "azizbekde/skillslayer",
-    "language": "\u2014",
-    "name": "azizbekde/skillslayer",
-    "stars": 0,
-    "updated_at": "2026-09-09T08:09:57Z",
-    "url": "https://github.com/azizbekde/skillslayer"
-  },
-  {
-    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled ",
-    "id": "crypdick/pynchy",
-    "language": "Python",
-    "name": "crypdick/pynchy",
-    "stars": 10,
-    "updated_at": "2026-09-09T08:09:01Z",
-    "url": "https://github.com/crypdick/pynchy"
   }
 ]
