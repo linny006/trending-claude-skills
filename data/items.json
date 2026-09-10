@@ -1,30 +1,129 @@
 [
   {
-    "description": "\ud83d\ude80 \u7cbe\u9009 Claude Skills\u3001Agent Skills\u3001LLM Skills \u53ca AI \u667a\u80fd\u4f53\u5f00\u53d1\u8d44\u6e90\u5217\u8868\uff08\u4e2d\u6587\uff09\u3002A curated list of awesome Claude / Agent / LLM Skills.",
-    "id": "yzfly/awesome-skills-zh",
-    "language": "\u2014",
-    "name": "yzfly/awesome-skills-zh",
-    "stars": 42,
-    "updated_at": "2026-09-10T13:29:16Z",
-    "url": "https://github.com/yzfly/awesome-skills-zh"
-  },
-  {
     "description": "\u4e91\u4e2d\u6c5f\u6811 (yzfly) Agent Skills \u7edf\u4e00\u4ed3\u5e93 | Claude Skills \u4e00\u884c\u547d\u4ee4\u5b89\u88c5\uff1aCTO\uff08\u4e00\u573a\u5bf9\u8bdd\u628a idea \u53d8\u6210\u53ef\u6267\u884c\u7684\u8f6f\u4ef6\u8bbe\u8ba1\uff09\u3001\u738b\u8005\u8363\u8000\u51fa\u88c5\u53c2\u8c0b\u7b49\uff0c\u9002\u914d Claude Code / Cursor / Cli",
     "id": "yzfly/skills",
     "language": "\u2014",
     "name": "yzfly/skills",
     "stars": 12,
-    "updated_at": "2026-09-10T13:29:14Z",
+    "updated_at": "2026-09-10T13:44:51Z",
     "url": "https://github.com/yzfly/skills"
+  },
+  {
+    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
+    "id": "schudarin/chudarin-figma-skills",
+    "language": "Shell",
+    "name": "schudarin/chudarin-figma-skills",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:43:41Z",
+    "url": "https://github.com/schudarin/chudarin-figma-skills"
+  },
+  {
+    "description": "Agent Skills em portugu\u00eas para automa\u00e7\u00e3o de Meta Ads no varejo brasileiro",
+    "id": "phfurlan/phcommerce-skills",
+    "language": "\u2014",
+    "name": "phfurlan/phcommerce-skills",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:42:53Z",
+    "url": "https://github.com/phfurlan/phcommerce-skills"
+  },
+  {
+    "description": "\ud83d\ude80 \u7cbe\u9009 Claude Skills\u3001Agent Skills\u3001LLM Skills \u53ca AI \u667a\u80fd\u4f53\u5f00\u53d1\u8d44\u6e90\u5217\u8868\uff08\u4e2d\u6587\uff09\u3002A curated list of awesome Claude / Agent / LLM Skills.",
+    "id": "yzfly/awesome-skills-zh",
+    "language": "\u2014",
+    "name": "yzfly/awesome-skills-zh",
+    "stars": 42,
+    "updated_at": "2026-09-10T13:40:26Z",
+    "url": "https://github.com/yzfly/awesome-skills-zh"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68885,
+    "updated_at": "2026-09-10T13:44:57Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code skill: a live context meter button in the VS Code chat composer, one click runs /context",
+    "id": "warodan/vscode-claude-chat-context-meter",
+    "language": "JavaScript",
+    "name": "warodan/vscode-claude-chat-context-meter",
+    "stars": 1,
+    "updated_at": "2026-09-10T13:38:19Z",
+    "url": "https://github.com/warodan/vscode-claude-chat-context-meter"
+  },
+  {
+    "description": "Claude skill that converts HTML/CSS mockups, Figma exports, and UI screenshots into paste-ready Power Apps Canvas YAML (",
+    "id": "YKUNAKORN/power-app-yaml",
+    "language": "Python",
+    "name": "YKUNAKORN/power-app-yaml",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:37:23Z",
+    "url": "https://github.com/YKUNAKORN/power-app-yaml"
   },
   {
     "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
     "id": "ayghri/i-have-adhd",
     "language": "Python",
     "name": "ayghri/i-have-adhd",
-    "stars": 36808,
-    "updated_at": "2026-09-10T13:27:50Z",
+    "stars": 36853,
+    "updated_at": "2026-09-10T13:35:35Z",
     "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "description": "LEASH-8: an 8-domain control model for AI agents with delegated authority. Scorecard, approval-design checklist, plan-vs",
+    "id": "tonydzi/agent-leash",
+    "language": "\u2014",
+    "name": "tonydzi/agent-leash",
+    "stars": 2,
+    "updated_at": "2026-09-10T13:35:28Z",
+    "url": "https://github.com/tonydzi/agent-leash"
+  },
+  {
+    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
+    "id": "by-carlos/daikenja",
+    "language": "Python",
+    "name": "by-carlos/daikenja",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:31:55Z",
+    "url": "https://github.com/by-carlos/daikenja"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-09-10T13:31:34Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-10T13:31:19Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 37,
+    "updated_at": "2026-09-10T13:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-10T13:27:18Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   },
   {
     "description": "AI Copilot & free Astro MCP alternative for iOS App Store Optimization (ASO), keyword rankings, and growth",
@@ -63,24 +162,6 @@
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68884,
-    "updated_at": "2026-09-10T13:29:18Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
-    "id": "by-carlos/daikenja",
-    "language": "Python",
-    "name": "by-carlos/daikenja",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:23:04Z",
-    "url": "https://github.com/by-carlos/daikenja"
-  },
-  {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
     "id": "alexzvency-ship-it/claude-browser-automator",
     "language": "HTML",
@@ -104,17 +185,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-10T13:17:53Z",
+    "updated_at": "2026-09-10T13:36:18Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 37,
-    "updated_at": "2026-09-10T13:15:40Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 127,
-    "updated_at": "2026-09-10T13:20:33Z",
+    "updated_at": "2026-09-10T13:33:29Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -158,17 +230,8 @@
     "language": "TypeScript",
     "name": "rementum/rementum",
     "stars": 2,
-    "updated_at": "2026-09-10T13:09:42Z",
+    "updated_at": "2026-09-10T13:32:12Z",
     "url": "https://github.com/rementum/rementum"
-  },
-  {
-    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
-    "id": "schudarin/chudarin-figma-skills",
-    "language": "Shell",
-    "name": "schudarin/chudarin-figma-skills",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:09:14Z",
-    "url": "https://github.com/schudarin/chudarin-figma-skills"
   },
   {
     "description": "An Agent Skill that unpacks a topic or source repository into an illustrated Chinese tutorial + companion-mentor prompt ",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-10T12:29:01Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
-    "id": "zeikar/dotfiles",
-    "language": "Shell",
-    "name": "zeikar/dotfiles",
-    "stars": 1,
-    "updated_at": "2026-09-10T12:27:09Z",
-    "url": "https://github.com/zeikar/dotfiles"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-09-10T12:27:04Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 35,
-    "updated_at": "2026-09-10T12:17:02Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plu",
-    "id": "codenamev/ai-software-architect",
-    "language": "JavaScript",
-    "name": "codenamev/ai-software-architect",
-    "stars": 77,
-    "updated_at": "2026-09-10T12:06:47Z",
-    "url": "https://github.com/codenamev/ai-software-architect"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:59:01Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:58:58Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:58:09Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
   }
 ]
