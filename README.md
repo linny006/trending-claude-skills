@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-10 13:00 UTC
+> ⏰ Last updated: 2026-09-10 13:03 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,39 +42,39 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 38 | Go | 2026-09-10 | Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n |
-| 2 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68884 | TypeScript | 2026-09-10 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| 3 | [formify-e-sign/formify-skills](https://github.com/formify-e-sign/formify-skills) | 2 | JavaScript | 2026-09-10 | AI agent skills for SMB e-signing and document workflows — build fillable PDF forms, send contracts for electronic signa |
-| 4 | [easyinplay/harnessed](https://github.com/easyinplay/harnessed) | 2 | TypeScript | 2026-09-10 | AI coding harness composition orchestrator — manifest-described upstreams, composition skill workflows. Apache-2.0. |
-| 5 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-09-10 | Project orchestration and AI agentic workflow utility. |
-| 6 | [ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru) | 15 | Python | 2026-09-10 | 34 открытых AI-скилла для малого бизнеса РФ: налоги УСН, деньги, проверка контрагента по ИНН. Числа считаются кодом, дан |
-| 7 | [ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru) | 319 | Python | 2026-09-10 | humanizer-ru: очеловечить русский AI-текст для Claude Code, Cursor, Codex и других AI-агентов. 64 признака нейросети, 21 |
-| 8 | [ergrelet/windiff](https://github.com/ergrelet/windiff) | 391 | Rust | 2026-09-10 | Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions  |
-| 9 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-09-10 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
-| 10 | [oliver-kriska/claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix) | 542 | Python | 2026-09-10 | Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati |
-| 11 | [YPares/rigup.nix](https://github.com/YPares/rigup.nix) | 90 | Nix | 2026-09-10 | AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion |
-| 12 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 37 | Python | 2026-09-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 13 | [suboss87/FDEOps](https://github.com/suboss87/FDEOps) | 277 | JavaScript | 2026-09-10 | Forward deployed engineering skills for AI coding agents. |
-| 14 | [slopstopper/plumb-line](https://github.com/slopstopper/plumb-line) | 4 | Python | 2026-09-10 | Provenance at the value level for Python and JS: mock-taint and confidence propagate through derived results and can't b |
-| 15 | [Jsnnmsc/10000x-engineer](https://github.com/Jsnnmsc/10000x-engineer) | 1 | — | 2026-09-10 | Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an |
-| 16 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 23 | Shell | 2026-09-10 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
-| 17 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 3 | HTML | 2026-09-10 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
-| 18 | [smixs/visual-skills](https://github.com/smixs/visual-skills) | 333 | — | 2026-09-10 | AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance 2 |
-| 19 | [daftAI2026/daftAI-skills](https://github.com/daftAI2026/daftAI-skills) | 2 | TypeScript | 2026-09-10 |  |
-| 20 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 1 | HTML | 2026-09-10 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
-| 21 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 2 | HTML | 2026-09-10 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
-| 22 | [rementum/rementum](https://github.com/rementum/rementum) | 2 | TypeScript | 2026-09-10 | Self-hosted shared memory infrastructure for AI agents with versioned knowledge and conflict-safe writes. |
-| 23 | [covagashi/eplan-rag-mcp](https://github.com/covagashi/eplan-rag-mcp) | 88 | Python | 2026-09-10 | EPLAN Electric P8 2026  2027 + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. E |
-| 24 | [curie-eng/curie](https://github.com/curie-eng/curie) | 35 | Python | 2026-09-10 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
-| 25 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-09-10 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
-| 26 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-09-10 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
-| 27 | [zeikar/dotfiles](https://github.com/zeikar/dotfiles) | 1 | Shell | 2026-09-10 | 🛠️ macOS dotfiles + my Claude Code config — GNU Stow managed |
-| 28 | [abbyuraffi-netizen/maxvision-claude-forge](https://github.com/abbyuraffi-netizen/maxvision-claude-forge) | 1 | HTML | 2026-09-10 | n8n Claude Code Marketplace 2026 ⚡ Production-Grade Skills for GTM & Workflow Automation |
-| 29 | [by-carlos/daikenja](https://github.com/by-carlos/daikenja) | 0 | Python | 2026-09-10 | Not an assistant — a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and |
-| 30 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 35 | — | 2026-09-10 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
-| 31 | [rusel95/ios-aso-copilot](https://github.com/rusel95/ios-aso-copilot) | 1 | Python | 2026-09-10 | AI Copilot & free Astro MCP alternative for iOS App Store Optimization (ASO), keyword rankings, and growth |
+| 1 | [rusel95/ios-aso-copilot](https://github.com/rusel95/ios-aso-copilot) | 1 | Python | 2026-09-10 | AI Copilot & free Astro MCP alternative for iOS App Store Optimization (ASO), keyword rankings, and growth |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 37 | Python | 2026-09-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 38 | Go | 2026-09-10 | Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n |
+| 4 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68884 | TypeScript | 2026-09-10 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 5 | [formify-e-sign/formify-skills](https://github.com/formify-e-sign/formify-skills) | 2 | JavaScript | 2026-09-10 | AI agent skills for SMB e-signing and document workflows — build fillable PDF forms, send contracts for electronic signa |
+| 6 | [easyinplay/harnessed](https://github.com/easyinplay/harnessed) | 2 | TypeScript | 2026-09-10 | AI coding harness composition orchestrator — manifest-described upstreams, composition skill workflows. Apache-2.0. |
+| 7 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-09-10 | Project orchestration and AI agentic workflow utility. |
+| 8 | [ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru) | 15 | Python | 2026-09-10 | 34 открытых AI-скилла для малого бизнеса РФ: налоги УСН, деньги, проверка контрагента по ИНН. Числа считаются кодом, дан |
+| 9 | [ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru) | 319 | Python | 2026-09-10 | humanizer-ru: очеловечить русский AI-текст для Claude Code, Cursor, Codex и других AI-агентов. 64 признака нейросети, 21 |
+| 10 | [ergrelet/windiff](https://github.com/ergrelet/windiff) | 391 | Rust | 2026-09-10 | Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions  |
+| 11 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-09-10 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
+| 12 | [oliver-kriska/claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix) | 542 | Python | 2026-09-10 | Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati |
+| 13 | [YPares/rigup.nix](https://github.com/YPares/rigup.nix) | 90 | Nix | 2026-09-10 | AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion |
+| 14 | [suboss87/FDEOps](https://github.com/suboss87/FDEOps) | 277 | JavaScript | 2026-09-10 | Forward deployed engineering skills for AI coding agents. |
+| 15 | [slopstopper/plumb-line](https://github.com/slopstopper/plumb-line) | 4 | Python | 2026-09-10 | Provenance at the value level for Python and JS: mock-taint and confidence propagate through derived results and can't b |
+| 16 | [Jsnnmsc/10000x-engineer](https://github.com/Jsnnmsc/10000x-engineer) | 1 | — | 2026-09-10 | Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an |
+| 17 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 23 | Shell | 2026-09-10 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
+| 18 | [24bsc244-svg/pdlc-forge](https://github.com/24bsc244-svg/pdlc-forge) | 3 | HTML | 2026-09-10 | The Ultimate AI Code Workflow 2026 — 31 Hard-Contract PDLC Commands for Flawless GitOps |
+| 19 | [smixs/visual-skills](https://github.com/smixs/visual-skills) | 334 | — | 2026-09-10 | AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance 2 |
+| 20 | [daftAI2026/daftAI-skills](https://github.com/daftAI2026/daftAI-skills) | 2 | TypeScript | 2026-09-10 |  |
+| 21 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 1 | HTML | 2026-09-10 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
+| 22 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 2 | HTML | 2026-09-10 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
+| 23 | [rementum/rementum](https://github.com/rementum/rementum) | 2 | TypeScript | 2026-09-10 | Self-hosted shared memory infrastructure for AI agents with versioned knowledge and conflict-safe writes. |
+| 24 | [covagashi/eplan-rag-mcp](https://github.com/covagashi/eplan-rag-mcp) | 88 | Python | 2026-09-10 | EPLAN Electric P8 2026  2027 + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. E |
+| 25 | [curie-eng/curie](https://github.com/curie-eng/curie) | 35 | Python | 2026-09-10 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
+| 26 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-09-10 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
+| 27 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-09-10 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
+| 28 | [zeikar/dotfiles](https://github.com/zeikar/dotfiles) | 1 | Shell | 2026-09-10 | 🛠️ macOS dotfiles + my Claude Code config — GNU Stow managed |
+| 29 | [abbyuraffi-netizen/maxvision-claude-forge](https://github.com/abbyuraffi-netizen/maxvision-claude-forge) | 1 | HTML | 2026-09-10 | n8n Claude Code Marketplace 2026 ⚡ Production-Grade Skills for GTM & Workflow Automation |
+| 30 | [by-carlos/daikenja](https://github.com/by-carlos/daikenja) | 0 | Python | 2026-09-10 | Not an assistant — a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and |
+| 31 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 35 | — | 2026-09-10 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
 | 32 | [codenamev/ai-software-architect](https://github.com/codenamev/ai-software-architect) | 77 | JavaScript | 2026-09-10 | AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plu |
-| 33 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 36731 | Python | 2026-09-10 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 33 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 36734 | Python | 2026-09-10 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 | 34 | [Loriabient5377/blahblahblah-skill](https://github.com/Loriabient5377/blahblahblah-skill) | 0 | — | 2026-09-10 | Compress any long Claude response into an emoji-tagged list you can scan in five seconds. |
 | 35 | [alicekane437/cv-job-market-research](https://github.com/alicekane437/cv-job-market-research) | 0 | — | 2026-09-10 | Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps. |
 | 36 | [aaamaxito-prog/deadeye](https://github.com/aaamaxito-prog/deadeye) | 0 | Swift | 2026-09-10 | Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions. |
