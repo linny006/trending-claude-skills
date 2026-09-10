@@ -1,5 +1,86 @@
 [
   {
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "id": "ayghri/i-have-adhd",
+    "language": "Python",
+    "name": "ayghri/i-have-adhd",
+    "stars": 35968,
+    "updated_at": "2026-09-10T08:44:48Z",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68874,
+    "updated_at": "2026-09-10T08:44:38Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 3,
+    "updated_at": "2026-09-10T08:44:08Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
+    "id": "KijitoAI/kijito-tools",
+    "language": "JavaScript",
+    "name": "KijitoAI/kijito-tools",
+    "stars": 0,
+    "updated_at": "2026-09-10T08:41:23Z",
+    "url": "https://github.com/KijitoAI/kijito-tools"
+  },
+  {
+    "description": "vibe-* is a collection of Claude Code CLI skills. Each skill is a structured instruction set that tells Claude Code exac",
+    "id": "aakashdhar/vibe-skill",
+    "language": "Python",
+    "name": "aakashdhar/vibe-skill",
+    "stars": 7,
+    "updated_at": "2026-09-10T08:41:15Z",
+    "url": "https://github.com/aakashdhar/vibe-skill"
+  },
+  {
+    "description": "An AI agent skill that reads every file in a repo before writing a word, then produces a README with real commands, real",
+    "id": "rishabhrawat35/github-readme-writer",
+    "language": "Python",
+    "name": "rishabhrawat35/github-readme-writer",
+    "stars": 1,
+    "updated_at": "2026-09-10T08:44:26Z",
+    "url": "https://github.com/rishabhrawat35/github-readme-writer"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 271,
+    "updated_at": "2026-09-10T08:33:10Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
+    "id": "alternative-intelligence-cp/claude-skills",
+    "language": "Python",
+    "name": "alternative-intelligence-cp/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-10T08:32:34Z",
+    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 37,
+    "updated_at": "2026-09-10T08:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Rivendell\u2019s publicly available toolkit for discovering, configuring, and backtesting trading strategies with historical ",
     "id": "Rivendell-investment/edgepilot-research-claude",
     "language": "JavaScript",
@@ -14,17 +95,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-10T08:28:29Z",
+    "updated_at": "2026-09-10T08:36:53Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 37,
-    "updated_at": "2026-09-10T08:25:08Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A project-memory kit for .claude/: layout, ledgers, and the loop that keeps them true.",
@@ -34,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T08:23:40Z",
     "url": "https://github.com/nhhthong/clio"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68873,
-    "updated_at": "2026-09-10T08:29:51Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
@@ -97,15 +160,6 @@
     "stars": 112,
     "updated_at": "2026-09-10T08:13:13Z",
     "url": "https://github.com/Ovid/paad"
-  },
-  {
-    "description": "vibe-* is a collection of Claude Code CLI skills. Each skill is a structured instruction set that tells Claude Code exac",
-    "id": "aakashdhar/vibe-skill",
-    "language": "Python",
-    "name": "aakashdhar/vibe-skill",
-    "stars": 7,
-    "updated_at": "2026-09-10T08:11:44Z",
-    "url": "https://github.com/aakashdhar/vibe-skill"
   },
   {
     "description": "Lean personal Claude Code skills pack \u2014 my conventions, task flow, and quality lenses. Requires the superpowers plugin.",
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-10T07:45:36Z",
     "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-09-10T07:45:24Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-09-10T07:45:17Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Battle-tested Claude Code skills by Odilon Hugonnot: quality-gated feature delivery, senior review, issue/MR workflow, b",
-    "id": "ohugonnot/claude-skills",
-    "language": "Python",
-    "name": "ohugonnot/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-09-10T07:44:38Z",
-    "url": "https://github.com/ohugonnot/claude-skills"
-  },
-  {
-    "description": "Marketing Skills for high-performing operators: SEO audits, content strategy, CRO, launches, and more!",
-    "id": "risukisu/marketing-skills",
-    "language": "Python",
-    "name": "risukisu/marketing-skills",
-    "stars": 3,
-    "updated_at": "2026-09-10T07:44:25Z",
-    "url": "https://github.com/risukisu/marketing-skills"
-  },
-  {
-    "description": "Ask your AI coding agent if a domain is free \u2014 and get a real answer. Works for any TLD, including .de / .eu / .at / .ch",
-    "id": "PleasePrompto/domain-check-skill",
-    "language": "Python",
-    "name": "PleasePrompto/domain-check-skill",
-    "stars": 6,
-    "updated_at": "2026-09-10T07:44:25Z",
-    "url": "https://github.com/PleasePrompto/domain-check-skill"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-09-10T07:44:24Z",
-    "url": "https://github.com/noman3271/caveman"
   }
 ]
