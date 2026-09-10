@@ -1,11 +1,110 @@
 [
   {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-10T00:43:39Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-09-10T00:42:31Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-09-10T00:40:11Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Norml WordPress Copilot Advanced - CLI-only theme development through GitHub, SSH, and WP-CLI.",
+    "id": "normlstudio/norml-wordpress-copilot-advanced",
+    "language": "Shell",
+    "name": "normlstudio/norml-wordpress-copilot-advanced",
+    "stars": 0,
+    "updated_at": "2026-09-10T00:38:31Z",
+    "url": "https://github.com/normlstudio/norml-wordpress-copilot-advanced"
+  },
+  {
+    "description": "Claude skill that goes past word-list humanizers: strips the full catalog of AI tells, refits the text to its channel (L",
+    "id": "msdanyg/humanize-pro",
+    "language": "\u2014",
+    "name": "msdanyg/humanize-pro",
+    "stars": 11,
+    "updated_at": "2026-09-10T00:37:02Z",
+    "url": "https://github.com/msdanyg/humanize-pro"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-10T00:37:26Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 434,
+    "updated_at": "2026-09-10T00:33:20Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "A portable AI fitness coaching skill for experienced athletes: preserve effective training, review changes independently",
+    "id": "MuscleOtter/rowan-fitness-skill",
+    "language": "Python",
+    "name": "MuscleOtter/rowan-fitness-skill",
+    "stars": 1,
+    "updated_at": "2026-09-10T00:33:22Z",
+    "url": "https://github.com/MuscleOtter/rowan-fitness-skill"
+  },
+  {
+    "description": "A curated collection of high-performance Agent Skills (SKILL.md) for Claude Code, Codex, Cursor, OpenCode, and Devin. Co",
+    "id": "afonsoft/skills",
+    "language": "Shell",
+    "name": "afonsoft/skills",
+    "stars": 0,
+    "updated_at": "2026-09-10T00:31:39Z",
+    "url": "https://github.com/afonsoft/skills"
+  },
+  {
+    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
+    "id": "aliasunder/agent-plugins",
+    "language": "\u2014",
+    "name": "aliasunder/agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-10T00:30:46Z",
+    "url": "https://github.com/aliasunder/agent-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-10T00:30:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
     "id": "blisspixel/primr",
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-09-10T00:26:09Z",
+    "updated_at": "2026-09-10T00:44:14Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -36,15 +135,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-09-10T00:22:18Z",
-    "url": "https://github.com/easyinplay/harnessed"
-  },
-  {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
     "id": "patrickserrano/lacquer",
     "language": "Go",
@@ -70,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-09-10T00:20:21Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-10T00:20:16Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -115,33 +196,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T00:16:35Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "A portable AI fitness coaching skill for experienced athletes: preserve effective training, review changes independently",
-    "id": "MuscleOtter/rowan-fitness-skill",
-    "language": "Python",
-    "name": "MuscleOtter/rowan-fitness-skill",
-    "stars": 1,
-    "updated_at": "2026-09-10T00:15:43Z",
-    "url": "https://github.com/MuscleOtter/rowan-fitness-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-10T00:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Claude skill that goes past word-list humanizers: strips the full catalog of AI tells, refits the text to its channel (L",
-    "id": "msdanyg/humanize-pro",
-    "language": "\u2014",
-    "name": "msdanyg/humanize-pro",
-    "stars": 11,
-    "updated_at": "2026-09-10T00:12:26Z",
-    "url": "https://github.com/msdanyg/humanize-pro"
   },
   {
     "description": "The loop for everything!",
@@ -293,7 +347,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-10T00:08:42Z",
+    "updated_at": "2026-09-10T00:42:58Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -340,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T23:57:20Z",
     "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 4,
-    "updated_at": "2026-09-10T00:19:51Z",
-    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
@@ -403,50 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-09T23:54:20Z",
     "url": "https://github.com/SZoloth/skill-pack"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-09-09T23:53:48Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-09-09T23:53:05Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-09-09T23:52:34Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
-    "id": "synaptiai/synapti-marketplace",
-    "language": "Shell",
-    "name": "synaptiai/synapti-marketplace",
-    "stars": 6,
-    "updated_at": "2026-09-09T23:51:59Z",
-    "url": "https://github.com/synaptiai/synapti-marketplace"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-09T23:51:55Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
   }
 ]
