@@ -1,21 +1,12 @@
 [
   {
-    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
-    "id": "schudarin/chudarin-figma-skills",
-    "language": "Shell",
-    "name": "schudarin/chudarin-figma-skills",
-    "stars": 0,
-    "updated_at": "2026-09-10T14:44:42Z",
-    "url": "https://github.com/schudarin/chudarin-figma-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68886,
-    "updated_at": "2026-09-10T14:43:33Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 19,
+    "updated_at": "2026-09-10T14:57:38Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "Spec-first knowledge system for AI coding agents developing Apple iOS/iPadOS platform apps",
@@ -23,8 +14,116 @@
     "language": "Python",
     "name": "caglarbaranbora/Apple-Agent-Kit",
     "stars": 1,
-    "updated_at": "2026-09-10T14:45:11Z",
+    "updated_at": "2026-09-10T14:56:57Z",
     "url": "https://github.com/caglarbaranbora/Apple-Agent-Kit"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-10T14:55:17Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
+    "id": "schudarin/chudarin-figma-skills",
+    "language": "Shell",
+    "name": "schudarin/chudarin-figma-skills",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:54:50Z",
+    "url": "https://github.com/schudarin/chudarin-figma-skills"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-09-10T14:53:00Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-09-10T14:52:02Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-10T14:50:36Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Personal collection of Claude Code skills for development workflows",
+    "id": "technicalpickles/pickled-claude-plugins",
+    "language": "Python",
+    "name": "technicalpickles/pickled-claude-plugins",
+    "stars": 10,
+    "updated_at": "2026-09-10T14:47:59Z",
+    "url": "https://github.com/technicalpickles/pickled-claude-plugins"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 79 agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, paid media, em",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 11,
+    "updated_at": "2026-09-10T14:47:45Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 37,
+    "updated_at": "2026-09-10T14:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:43:51Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-09-10T14:43:43Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68887,
+    "updated_at": "2026-09-10T14:57:12Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:42:44Z",
+    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -124,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T14:30:36Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 37,
-    "updated_at": "2026-09-10T14:30:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
@@ -333,15 +423,6 @@
     "url": "https://github.com/yzfly/skills"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-10T14:35:07Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-10T13:52:15Z",
     "url": "https://github.com/rementum/rementum"
-  },
-  {
-    "description": "Claude Code skills for unattended work: hand a session off (next-prompt), take a feature through the night as one PR (ni",
-    "id": "amit-mizrachi/claude-amit-mizrachi",
-    "language": "Shell",
-    "name": "amit-mizrachi/claude-amit-mizrachi",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:52:04Z",
-    "url": "https://github.com/amit-mizrachi/claude-amit-mizrachi"
-  },
-  {
-    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 434,
-    "updated_at": "2026-09-10T13:51:11Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 2,
-    "updated_at": "2026-09-10T13:45:30Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-10T13:44:46Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Agent Skills em portugu\u00eas para automa\u00e7\u00e3o de Meta Ads no varejo brasileiro",
-    "id": "phfurlan/phcommerce-skills",
-    "language": "\u2014",
-    "name": "phfurlan/phcommerce-skills",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:42:53Z",
-    "url": "https://github.com/phfurlan/phcommerce-skills"
-  },
-  {
-    "description": "Official agent skills for PowerSync",
-    "id": "powersync-ja/agent-skills",
-    "language": "JavaScript",
-    "name": "powersync-ja/agent-skills",
-    "stars": 18,
-    "updated_at": "2026-09-10T13:41:43Z",
-    "url": "https://github.com/powersync-ja/agent-skills"
-  },
-  {
-    "description": "Claude Code skill: a live context meter button in the VS Code chat composer, one click runs /context",
-    "id": "warodan/vscode-claude-chat-context-meter",
-    "language": "JavaScript",
-    "name": "warodan/vscode-claude-chat-context-meter",
-    "stars": 1,
-    "updated_at": "2026-09-10T13:38:19Z",
-    "url": "https://github.com/warodan/vscode-claude-chat-context-meter"
-  },
-  {
-    "description": "Claude skill that converts HTML/CSS mockups, Figma exports, and UI screenshots into paste-ready Power Apps Canvas YAML (",
-    "id": "YKUNAKORN/power-app-yaml",
-    "language": "Python",
-    "name": "YKUNAKORN/power-app-yaml",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:58:43Z",
-    "url": "https://github.com/YKUNAKORN/power-app-yaml"
-  },
-  {
-    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "id": "ayghri/i-have-adhd",
-    "language": "Python",
-    "name": "ayghri/i-have-adhd",
-    "stars": 37050,
-    "updated_at": "2026-09-10T13:35:35Z",
-    "url": "https://github.com/ayghri/i-have-adhd"
   }
 ]
