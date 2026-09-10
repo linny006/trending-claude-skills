@@ -1,12 +1,66 @@
 [
   {
+    "description": "Claude Skill/Plugin: digest of public Telegram channels \u2014 no API token, no login.",
+    "id": "tatianahub/telegram-digest-skill",
+    "language": "\u2014",
+    "name": "tatianahub/telegram-digest-skill",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:59:12Z",
+    "url": "https://github.com/tatianahub/telegram-digest-skill"
+  },
+  {
+    "description": "Autonomous agentic recon pipeline for Claude Code. 90 OSINT capabilities for authorized red-team and bug-bounty. One-cli",
+    "id": "Ap6pack/outrider-recon",
+    "language": "Python",
+    "name": "Ap6pack/outrider-recon",
+    "stars": 11,
+    "updated_at": "2026-09-10T13:55:14Z",
+    "url": "https://github.com/Ap6pack/outrider-recon"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-10T13:59:06Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68885,
+    "updated_at": "2026-09-10T13:59:12Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "\u4e91\u4e2d\u6c5f\u6811 (yzfly) Agent Skills \u7edf\u4e00\u4ed3\u5e93 | Claude Skills \u4e00\u884c\u547d\u4ee4\u5b89\u88c5\uff1aCTO\uff08\u4e00\u573a\u5bf9\u8bdd\u628a idea \u53d8\u6210\u53ef\u6267\u884c\u7684\u8f6f\u4ef6\u8bbe\u8ba1\uff09\u3001\u738b\u8005\u8363\u8000\u51fa\u88c5\u53c2\u8c0b\u7b49\uff0c\u9002\u914d Claude Code / Cursor / Cli",
     "id": "yzfly/skills",
-    "language": "\u2014",
+    "language": "Python",
     "name": "yzfly/skills",
     "stars": 12,
-    "updated_at": "2026-09-10T13:44:51Z",
+    "updated_at": "2026-09-10T13:53:30Z",
     "url": "https://github.com/yzfly/skills"
+  },
+  {
+    "description": "Self-hosted shared memory infrastructure for AI agents with versioned knowledge and conflict-safe writes.",
+    "id": "rementum/rementum",
+    "language": "TypeScript",
+    "name": "rementum/rementum",
+    "stars": 2,
+    "updated_at": "2026-09-10T13:52:15Z",
+    "url": "https://github.com/rementum/rementum"
+  },
+  {
+    "description": "Claude Code skills for unattended work: hand a session off (next-prompt), take a feature through the night as one PR (ni",
+    "id": "amit-mizrachi/claude-amit-mizrachi",
+    "language": "Shell",
+    "name": "amit-mizrachi/claude-amit-mizrachi",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:52:04Z",
+    "url": "https://github.com/amit-mizrachi/claude-amit-mizrachi"
   },
   {
     "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
@@ -14,8 +68,53 @@
     "language": "Shell",
     "name": "schudarin/chudarin-figma-skills",
     "stars": 0,
-    "updated_at": "2026-09-10T13:43:41Z",
+    "updated_at": "2026-09-10T13:51:45Z",
     "url": "https://github.com/schudarin/chudarin-figma-skills"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 434,
+    "updated_at": "2026-09-10T13:51:11Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "\ud83d\ude80 \u7cbe\u9009 Claude Skills\u3001Agent Skills\u3001LLM Skills \u53ca AI \u667a\u80fd\u4f53\u5f00\u53d1\u8d44\u6e90\u5217\u8868\uff08\u4e2d\u6587\uff09\u3002A curated list of awesome Claude / Agent / LLM Skills.",
+    "id": "yzfly/awesome-skills-zh",
+    "language": "\u2014",
+    "name": "yzfly/awesome-skills-zh",
+    "stars": 42,
+    "updated_at": "2026-09-10T13:49:23Z",
+    "url": "https://github.com/yzfly/awesome-skills-zh"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 2,
+    "updated_at": "2026-09-10T13:45:30Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 37,
+    "updated_at": "2026-09-10T13:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-10T13:44:46Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Agent Skills em portugu\u00eas para automa\u00e7\u00e3o de Meta Ads no varejo brasileiro",
@@ -27,22 +126,22 @@
     "url": "https://github.com/phfurlan/phcommerce-skills"
   },
   {
-    "description": "\ud83d\ude80 \u7cbe\u9009 Claude Skills\u3001Agent Skills\u3001LLM Skills \u53ca AI \u667a\u80fd\u4f53\u5f00\u53d1\u8d44\u6e90\u5217\u8868\uff08\u4e2d\u6587\uff09\u3002A curated list of awesome Claude / Agent / LLM Skills.",
-    "id": "yzfly/awesome-skills-zh",
-    "language": "\u2014",
-    "name": "yzfly/awesome-skills-zh",
-    "stars": 42,
-    "updated_at": "2026-09-10T13:40:26Z",
-    "url": "https://github.com/yzfly/awesome-skills-zh"
+    "description": "Single self-contained Windows binary that speaks text aloud (using Jarvis voice) and pulses an on-screen orb with the vo",
+    "id": "Dovyski/speaker",
+    "language": "C++",
+    "name": "Dovyski/speaker",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:42:49Z",
+    "url": "https://github.com/Dovyski/speaker"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68885,
-    "updated_at": "2026-09-10T13:44:57Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "description": "Official agent skills for PowerSync",
+    "id": "powersync-ja/agent-skills",
+    "language": "JavaScript",
+    "name": "powersync-ja/agent-skills",
+    "stars": 18,
+    "updated_at": "2026-09-10T13:41:43Z",
+    "url": "https://github.com/powersync-ja/agent-skills"
   },
   {
     "description": "Claude Code skill: a live context meter button in the VS Code chat composer, one click runs /context",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "YKUNAKORN/power-app-yaml",
     "stars": 0,
-    "updated_at": "2026-09-10T13:37:23Z",
+    "updated_at": "2026-09-10T13:58:43Z",
     "url": "https://github.com/YKUNAKORN/power-app-yaml"
   },
   {
@@ -67,7 +166,7 @@
     "id": "ayghri/i-have-adhd",
     "language": "Python",
     "name": "ayghri/i-have-adhd",
-    "stars": 36853,
+    "stars": 36905,
     "updated_at": "2026-09-10T13:35:35Z",
     "url": "https://github.com/ayghri/i-have-adhd"
   },
@@ -106,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T13:31:19Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 37,
-    "updated_at": "2026-09-10T13:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -180,15 +270,6 @@
     "url": "https://github.com/ilyautov/humanizer-it"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-10T13:36:18Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
     "id": "isatimur/excalidraw-skill-pack",
     "language": "TypeScript",
@@ -225,15 +306,6 @@
     "url": "https://github.com/inna-gazieva/academic-review-skill"
   },
   {
-    "description": "Self-hosted shared memory infrastructure for AI agents with versioned knowledge and conflict-safe writes.",
-    "id": "rementum/rementum",
-    "language": "TypeScript",
-    "name": "rementum/rementum",
-    "stars": 2,
-    "updated_at": "2026-09-10T13:32:12Z",
-    "url": "https://github.com/rementum/rementum"
-  },
-  {
     "description": "An Agent Skill that unpacks a topic or source repository into an illustrated Chinese tutorial + companion-mentor prompt ",
     "id": "Li7777777/learn-by-unpacking",
     "language": "JavaScript",
@@ -266,7 +338,7 @@
     "language": "TypeScript",
     "name": "easyinplay/harnessed",
     "stars": 2,
-    "updated_at": "2026-09-10T12:56:22Z",
+    "updated_at": "2026-09-10T13:53:57Z",
     "url": "https://github.com/easyinplay/harnessed"
   },
   {
@@ -365,7 +437,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-10T12:49:14Z",
+    "updated_at": "2026-09-10T13:57:23Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-10T12:34:59Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance 2",
-    "id": "smixs/visual-skills",
-    "language": "\u2014",
-    "name": "smixs/visual-skills",
-    "stars": 335,
-    "updated_at": "2026-09-10T12:33:56Z",
-    "url": "https://github.com/smixs/visual-skills"
-  },
-  {
-    "description": "",
-    "id": "daftAI2026/daftAI-skills",
-    "language": "TypeScript",
-    "name": "daftAI2026/daftAI-skills",
-    "stars": 2,
-    "updated_at": "2026-09-10T12:33:29Z",
-    "url": "https://github.com/daftAI2026/daftAI-skills"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-09-10T12:33:11Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-10T12:33:06Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "EPLAN Electric P8 2026  2027 + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. E",
-    "id": "covagashi/eplan-rag-mcp",
-    "language": "Python",
-    "name": "covagashi/eplan-rag-mcp",
-    "stars": 88,
-    "updated_at": "2026-09-10T12:32:25Z",
-    "url": "https://github.com/covagashi/eplan-rag-mcp"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-10T12:31:26Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-09-10T12:30:53Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-09-10T12:29:01Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   }
 ]
