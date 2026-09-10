@@ -1,12 +1,75 @@
 [
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
+    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
+    "id": "schudarin/chudarin-figma-skills",
+    "language": "\u2014",
+    "name": "schudarin/chudarin-figma-skills",
+    "stars": 0,
+    "updated_at": "2026-09-10T10:29:22Z",
+    "url": "https://github.com/schudarin/chudarin-figma-skills"
+  },
+  {
+    "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
+    "id": "magnusrodseth/dotfiles",
+    "language": "JavaScript",
+    "name": "magnusrodseth/dotfiles",
+    "stars": 2,
+    "updated_at": "2026-09-10T10:28:24Z",
+    "url": "https://github.com/magnusrodseth/dotfiles"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 3,
+    "updated_at": "2026-09-10T10:26:19Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-09-10T10:25:57Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "\ud83e\udd16 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills",
+    "id": "CitiesSkylinesModding/agents-plugins",
+    "language": "C#",
+    "name": "CitiesSkylinesModding/agents-plugins",
+    "stars": 5,
+    "updated_at": "2026-09-10T10:24:53Z",
+    "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
+  },
+  {
+    "description": "Portable, configurable agent skills for reliable everyday work.",
+    "id": "Misoto22/skills",
     "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 19,
-    "updated_at": "2026-09-10T10:12:01Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
+    "name": "Misoto22/skills",
+    "stars": 0,
+    "updated_at": "2026-09-10T10:23:27Z",
+    "url": "https://github.com/Misoto22/skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-10T10:20:25Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "DSH Math Modeling Team Plugin Pack: 2 role agent presets (modeling-coding / paper) for DeepSeek Harness, multi-folder Gi",
+    "id": "OrinVoss/dsh-math-team",
+    "language": "Python",
+    "name": "OrinVoss/dsh-math-team",
+    "stars": 8,
+    "updated_at": "2026-09-10T10:19:54Z",
+    "url": "https://github.com/OrinVoss/dsh-math-team"
   },
   {
     "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
@@ -14,8 +77,26 @@
     "language": "HTML",
     "name": "aisenseapi/aisense-free-public-rest-apis",
     "stars": 0,
-    "updated_at": "2026-09-10T10:11:05Z",
+    "updated_at": "2026-09-10T10:17:31Z",
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 37,
+    "updated_at": "2026-09-10T10:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 19,
+    "updated_at": "2026-09-10T10:26:58Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T10:01:07Z",
     "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 37,
-    "updated_at": "2026-09-10T10:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Manage long-form AI conversations and code workflows on Windows, macOS, and Linux with this standalone desktop workspace",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-10T09:50:51Z",
     "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:50:50Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-09-10T09:50:48Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:50:40Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-09-10T09:50:26Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-09-10T09:50:24Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 1,
-    "updated_at": "2026-09-10T09:50:05Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
-  },
-  {
-    "description": "Marketing Skills for high-performing operators: SEO audits, content strategy, CRO, launches, and more!",
-    "id": "risukisu/marketing-skills",
-    "language": "Python",
-    "name": "risukisu/marketing-skills",
-    "stars": 3,
-    "updated_at": "2026-09-10T09:49:58Z",
-    "url": "https://github.com/risukisu/marketing-skills"
-  },
-  {
-    "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
-    "id": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "language": "Shell",
-    "name": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:49:31Z",
-    "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
   }
 ]
