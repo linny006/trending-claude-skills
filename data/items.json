@@ -1,11 +1,74 @@
 [
   {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 38,
+    "updated_at": "2026-09-10T13:14:38Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Remove AI traces from Italian text \u2014 opensource (MIT) skill for Claude. The \u00abIA-taliano\u00bb: English calques, nominal buroc",
+    "id": "ilyautov/humanizer-it",
+    "language": "Python",
+    "name": "ilyautov/humanizer-it",
+    "stars": 2,
+    "updated_at": "2026-09-10T13:13:47Z",
+    "url": "https://github.com/ilyautov/humanizer-it"
+  },
+  {
+    "description": "\u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0418\u0418-\u0440\u0435\u0446\u0435\u043d\u0437\u0438\u044f \u043d\u0430\u0443\u0447\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0438 \u043f\u043e 10 \u043a\u0440\u0438\u0442\u0435\u0440\u0438\u044f\u043c. \u041d\u0430 \u0432\u0445\u043e\u0434 PDF/DOCX \u2014 \u043d\u0430 \u0432\u044b\u0445\u043e\u0434\u0435 \u0440\u0435\u0446\u0435\u043d\u0437\u0438\u043e\u043d\u043d\u043e\u0435 \u0437\u0430\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432 Wor",
+    "id": "inna-gazieva/academic-review-skill",
+    "language": "\u2014",
+    "name": "inna-gazieva/academic-review-skill",
+    "stars": 3,
+    "updated_at": "2026-09-10T13:10:03Z",
+    "url": "https://github.com/inna-gazieva/academic-review-skill"
+  },
+  {
+    "description": "Self-hosted shared memory infrastructure for AI agents with versioned knowledge and conflict-safe writes.",
+    "id": "rementum/rementum",
+    "language": "TypeScript",
+    "name": "rementum/rementum",
+    "stars": 2,
+    "updated_at": "2026-09-10T13:09:42Z",
+    "url": "https://github.com/rementum/rementum"
+  },
+  {
+    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
+    "id": "schudarin/chudarin-figma-skills",
+    "language": "Shell",
+    "name": "schudarin/chudarin-figma-skills",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:09:14Z",
+    "url": "https://github.com/schudarin/chudarin-figma-skills"
+  },
+  {
+    "description": "An Agent Skill that unpacks a topic or source repository into an illustrated Chinese tutorial + companion-mentor prompt ",
+    "id": "Li7777777/learn-by-unpacking",
+    "language": "JavaScript",
+    "name": "Li7777777/learn-by-unpacking",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:12:33Z",
+    "url": "https://github.com/Li7777777/learn-by-unpacking"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 421,
+    "updated_at": "2026-09-10T13:07:28Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
     "description": "AI Copilot & free Astro MCP alternative for iOS App Store Optimization (ASO), keyword rankings, and growth",
     "id": "rusel95/ios-aso-copilot",
     "language": "Python",
     "name": "rusel95/ios-aso-copilot",
     "stars": 1,
-    "updated_at": "2026-09-10T13:02:39Z",
+    "updated_at": "2026-09-10T13:07:08Z",
     "url": "https://github.com/rusel95/ios-aso-copilot"
   },
   {
@@ -14,17 +77,8 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 37,
-    "updated_at": "2026-09-10T13:00:17Z",
+    "updated_at": "2026-09-10T13:03:07Z",
     "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 38,
-    "updated_at": "2026-09-10T12:59:16Z",
-    "url": "https://github.com/Servosity/msp-skills"
   },
   {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68884,
-    "updated_at": "2026-09-10T13:02:32Z",
+    "updated_at": "2026-09-10T13:13:56Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -95,8 +149,17 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-10T12:59:31Z",
+    "updated_at": "2026-09-10T13:11:22Z",
     "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30737,
+    "updated_at": "2026-09-10T12:47:52Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
@@ -198,15 +261,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Self-hosted shared memory infrastructure for AI agents with versioned knowledge and conflict-safe writes.",
-    "id": "rementum/rementum",
-    "language": "TypeScript",
-    "name": "rementum/rementum",
-    "stars": 2,
-    "updated_at": "2026-09-10T12:32:45Z",
-    "url": "https://github.com/rementum/rementum"
-  },
-  {
     "description": "EPLAN Electric P8 2026  2027 + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. E",
     "id": "covagashi/eplan-rag-mcp",
     "language": "Python",
@@ -292,7 +346,7 @@
     "id": "ayghri/i-have-adhd",
     "language": "Python",
     "name": "ayghri/i-have-adhd",
-    "stars": 36734,
+    "stars": 36763,
     "updated_at": "2026-09-10T12:05:17Z",
     "url": "https://github.com/ayghri/i-have-adhd"
   },
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-10T11:54:14Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:53:04Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:53:00Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "Axiom is a curated marketplace of shared plugins for Claude Code and Codex.",
-    "id": "netopsengineer/axiom",
-    "language": "Python",
-    "name": "netopsengineer/axiom",
-    "stars": 5,
-    "updated_at": "2026-09-10T11:53:24Z",
-    "url": "https://github.com/netopsengineer/axiom"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:50:13Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:49:49Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-09-10T11:49:10Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
   }
 ]
