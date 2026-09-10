@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 62,
+    "updated_at": "2026-09-10T10:58:45Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "An AI agent skill that reads every file in a repo before writing a word, then produces a README with real commands, real",
+    "id": "rishabhrawat35/github-readme-writer",
+    "language": "Python",
+    "name": "rishabhrawat35/github-readme-writer",
+    "stars": 2,
+    "updated_at": "2026-09-10T10:58:40Z",
+    "url": "https://github.com/rishabhrawat35/github-readme-writer"
+  },
+  {
+    "description": "DSH Math Modeling Team Plugin Pack: 2 role agent presets (modeling-coding / paper) for DeepSeek Harness, multi-folder Gi",
+    "id": "OrinVoss/dsh-math-team",
+    "language": "Python",
+    "name": "OrinVoss/dsh-math-team",
+    "stars": 8,
+    "updated_at": "2026-09-10T10:58:01Z",
+    "url": "https://github.com/OrinVoss/dsh-math-team"
+  },
+  {
+    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
+    "id": "schudarin/chudarin-figma-skills",
+    "language": "Shell",
+    "name": "schudarin/chudarin-figma-skills",
+    "stars": 0,
+    "updated_at": "2026-09-10T10:55:42Z",
+    "url": "https://github.com/schudarin/chudarin-figma-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-10T10:55:50Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "fat_llama_fftw is a Python package for upscaling audio files to FLAC or WAV formats using advanced audio processing tech",
+    "id": "bkraad47/fat_llama_fftw",
+    "language": "Python",
+    "name": "bkraad47/fat_llama_fftw",
+    "stars": 14,
+    "updated_at": "2026-09-10T10:50:25Z",
+    "url": "https://github.com/bkraad47/fat_llama_fftw"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-09-10T10:47:17Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-09-10T10:45:52Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 37,
+    "updated_at": "2026-09-10T10:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-09-10T10:45:09Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
     "description": " Modular plugin marketplace for Claude Code and agentic CLIs, with validated, spec-driven skills, agents, commands, and ",
     "id": "giuseppe-trisciuoglio/developer-kit",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T10:44:32Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
-    "id": "schudarin/chudarin-figma-skills",
-    "language": "Shell",
-    "name": "schudarin/chudarin-figma-skills",
-    "stars": 0,
-    "updated_at": "2026-09-10T10:43:36Z",
-    "url": "https://github.com/schudarin/chudarin-figma-skills"
   },
   {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-10T10:44:02Z",
+    "updated_at": "2026-09-10T10:58:27Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/filippolmt/skills"
   },
   {
-    "description": "fat_llama_fftw is a Python package for upscaling audio files to FLAC or WAV formats using advanced audio processing tech",
-    "id": "bkraad47/fat_llama_fftw",
-    "language": "Python",
-    "name": "bkraad47/fat_llama_fftw",
-    "stars": 14,
-    "updated_at": "2026-09-10T10:35:59Z",
-    "url": "https://github.com/bkraad47/fat_llama_fftw"
-  },
-  {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
@@ -97,15 +169,6 @@
     "stars": 19,
     "updated_at": "2026-09-10T10:39:54Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 37,
-    "updated_at": "2026-09-10T10:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
@@ -162,30 +225,12 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "DSH Math Modeling Team Plugin Pack: 2 role agent presets (modeling-coding / paper) for DeepSeek Harness, multi-folder Gi",
-    "id": "OrinVoss/dsh-math-team",
-    "language": "Python",
-    "name": "OrinVoss/dsh-math-team",
-    "stars": 8,
-    "updated_at": "2026-09-10T10:19:54Z",
-    "url": "https://github.com/OrinVoss/dsh-math-team"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-09-10T10:17:31Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
     "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple gr",
     "id": "bitjaru/styleseed",
     "language": "TypeScript",
     "name": "bitjaru/styleseed",
     "stars": 947,
-    "updated_at": "2026-09-10T10:15:14Z",
+    "updated_at": "2026-09-10T10:53:01Z",
     "url": "https://github.com/bitjaru/styleseed"
   },
   {
@@ -193,7 +238,7 @@
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
-    "stars": 30733,
+    "stars": 30735,
     "updated_at": "2026-09-10T10:14:23Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
@@ -205,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T10:10:24Z",
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
-    "description": "An AI agent skill that reads every file in a repo before writing a word, then produces a README with real commands, real",
-    "id": "rishabhrawat35/github-readme-writer",
-    "language": "Python",
-    "name": "rishabhrawat35/github-readme-writer",
-    "stars": 2,
-    "updated_at": "2026-09-10T10:09:18Z",
-    "url": "https://github.com/rishabhrawat35/github-readme-writer"
   },
   {
     "description": "\u5370\u5237\u4f18\u5148\u7684\u4e2d\u6587\u671f\u520a\u56fe\u8868\u5e93 | Print-first charts in pt, not px \u2014 SVG/PDF/300dpi PNG at journal column widths, measured CJK label widths",
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68878,
-    "updated_at": "2026-09-10T10:37:03Z",
+    "updated_at": "2026-09-10T10:51:47Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T09:54:16Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-09-10T09:53:48Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:53:32Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Claude Plugin: Local Linear AI agent, your favorite harness",
-    "id": "mikhailkogan17/cycler",
-    "language": "JavaScript",
-    "name": "mikhailkogan17/cycler",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:53:22Z",
-    "url": "https://github.com/mikhailkogan17/cycler"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-10T09:53:10Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
   }
 ]
