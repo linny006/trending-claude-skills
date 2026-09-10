@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
+    "description": "A community-driven collection of custom skills for Claude Code, Anthropic's CLI tool for software engineering with Claud",
+    "id": "RealDougEubanks/ClaudeMarketplace",
+    "language": "Shell",
+    "name": "RealDougEubanks/ClaudeMarketplace",
+    "stars": 1,
+    "updated_at": "2026-09-10T02:44:01Z",
+    "url": "https://github.com/RealDougEubanks/ClaudeMarketplace"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 79 agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, paid media, em",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 10,
+    "updated_at": "2026-09-10T02:40:40Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Build an agent harness on Buda API Claws \u2014 an agent skill plus a runnable TypeScript quickstart for giving your device, ",
+    "id": "buda-ai/api-claws",
     "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-10T02:28:51Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
+    "name": "buda-ai/api-claws",
+    "stars": 0,
+    "updated_at": "2026-09-10T02:40:29Z",
+    "url": "https://github.com/buda-ai/api-claws"
   },
   {
     "description": "A collection of skills for AI agents (Kiro, Cursor, Windsurf, Claude Code, and others). Each skill is a reusable module ",
@@ -14,17 +32,62 @@
     "language": "Python",
     "name": "fabricioctelles/skills",
     "stars": 76,
-    "updated_at": "2026-09-10T02:27:02Z",
+    "updated_at": "2026-09-10T02:40:24Z",
     "url": "https://github.com/fabricioctelles/skills"
   },
   {
-    "description": "A community-driven collection of custom skills for Claude Code, Anthropic's CLI tool for software engineering with Claud",
-    "id": "RealDougEubanks/ClaudeMarketplace",
-    "language": "Shell",
-    "name": "RealDougEubanks/ClaudeMarketplace",
-    "stars": 1,
-    "updated_at": "2026-09-10T02:30:08Z",
-    "url": "https://github.com/RealDougEubanks/ClaudeMarketplace"
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68862,
+    "updated_at": "2026-09-10T02:41:03Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Study notes, hands-on exercises, architecture concepts, practice questions, and exam preparation for the Claude Certifie",
+    "id": "techmahato-com/ClaudeCertifiedArchitectFoundations",
+    "language": "\u2014",
+    "name": "techmahato-com/ClaudeCertifiedArchitectFoundations",
+    "stars": 0,
+    "updated_at": "2026-09-10T02:34:33Z",
+    "url": "https://github.com/techmahato-com/ClaudeCertifiedArchitectFoundations"
+  },
+  {
+    "description": "35 portable agent skills (Agent Skills spec) for Kiro & Claude Code: Scrum DevSecOps roles, PCI-DSS/MAS TRM compliance, ",
+    "id": "timwukp/agent-skills-best-practice",
+    "language": "Python",
+    "name": "timwukp/agent-skills-best-practice",
+    "stars": 10,
+    "updated_at": "2026-09-10T02:31:31Z",
+    "url": "https://github.com/timwukp/agent-skills-best-practice"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-09-10T02:31:01Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-10T02:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-10T02:44:01Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -79,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T02:16:38Z",
     "url": "https://github.com/nhhthong/clio"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-10T02:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-10T01:58:54Z",
     "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-10T01:58:53Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Add self-learning voice notifications for Claude Code with edge-tts, phrase pools, priority queues, and anti-repeat hand",
-    "id": "Secondvisitation783/claude-voice-system",
-    "language": "\u2014",
-    "name": "Secondvisitation783/claude-voice-system",
-    "stars": 1,
-    "updated_at": "2026-09-10T01:58:52Z",
-    "url": "https://github.com/Secondvisitation783/claude-voice-system"
-  },
-  {
-    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
-    "id": "Defiladeboarfish90/agent-memory",
-    "language": "TypeScript",
-    "name": "Defiladeboarfish90/agent-memory",
-    "stars": 2,
-    "updated_at": "2026-09-10T01:58:49Z",
-    "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-09-10T01:58:48Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-09-10T01:58:47Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
-  },
-  {
-    "description": "Use Codex in Claude Code for code reviews and delegated tasks with background job control",
-    "id": "carolafortified787/codex-plugin-cc",
-    "language": "JavaScript",
-    "name": "carolafortified787/codex-plugin-cc",
-    "stars": 1,
-    "updated_at": "2026-09-10T01:58:36Z",
-    "url": "https://github.com/carolafortified787/codex-plugin-cc"
   }
 ]
