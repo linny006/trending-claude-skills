@@ -1,12 +1,21 @@
 [
   {
-    "description": "PMP-grade AI project management skill: markdown-driven PMO covering requirements, risks, milestones, costs, daily & week",
-    "id": "qiusuo0226/chrono-pm-skill",
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68873,
+    "updated_at": "2026-09-10T08:14:56Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
     "language": "Python",
-    "name": "qiusuo0226/chrono-pm-skill",
-    "stars": 4,
-    "updated_at": "2026-09-10T07:57:51Z",
-    "url": "https://github.com/qiusuo0226/chrono-pm-skill"
+    "name": "Ovid/paad",
+    "stars": 112,
+    "updated_at": "2026-09-10T08:13:13Z",
+    "url": "https://github.com/Ovid/paad"
   },
   {
     "description": "vibe-* is a collection of Claude Code CLI skills. Each skill is a structured instruction set that tells Claude Code exac",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "aakashdhar/vibe-skill",
     "stars": 7,
-    "updated_at": "2026-09-10T07:57:26Z",
+    "updated_at": "2026-09-10T08:11:44Z",
     "url": "https://github.com/aakashdhar/vibe-skill"
+  },
+  {
+    "description": "Lean personal Claude Code skills pack \u2014 my conventions, task flow, and quality lenses. Requires the superpowers plugin.",
+    "id": "Endika/eskills",
+    "language": "Makefile",
+    "name": "Endika/eskills",
+    "stars": 0,
+    "updated_at": "2026-09-10T08:09:25Z",
+    "url": "https://github.com/Endika/eskills"
+  },
+  {
+    "description": "\u6e17\u900f\u6d4b\u8bd5 / \u5b89\u5168\u7814\u7a76 / \u6f0f\u6d1e\u53d1\u73b0\u5168\u6d41\u7a0b Agent Skill\u3002",
+    "id": "enilmalus/Enil-ling-pesing",
+    "language": "Python",
+    "name": "enilmalus/Enil-ling-pesing",
+    "stars": 2,
+    "updated_at": "2026-09-10T08:09:13Z",
+    "url": "https://github.com/enilmalus/Enil-ling-pesing"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 6,
+    "updated_at": "2026-09-10T08:08:45Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 37,
+    "updated_at": "2026-09-10T08:00:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "PMP-grade AI project management skill: markdown-driven PMO covering requirements, risks, milestones, costs, daily & week",
+    "id": "qiusuo0226/chrono-pm-skill",
+    "language": "Python",
+    "name": "qiusuo0226/chrono-pm-skill",
+    "stars": 4,
+    "updated_at": "2026-09-10T07:57:51Z",
+    "url": "https://github.com/qiusuo0226/chrono-pm-skill"
   },
   {
     "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
@@ -77,7 +131,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-10T07:54:42Z",
+    "updated_at": "2026-09-10T08:08:45Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T07:52:41Z",
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68871,
-    "updated_at": "2026-09-10T07:58:45Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
@@ -306,15 +351,6 @@
     "url": "https://github.com/Selleparental3533/figshare-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 37,
-    "updated_at": "2026-09-10T07:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Battle-tested Claude Code skills by Odilon Hugonnot: quality-gated feature delivery, senior review, issue/MR workflow, b",
     "id": "ohugonnot/claude-skills",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-10T07:43:35Z",
     "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "One marketplace for everything I have built for Claude Code: plugins, skills, commands, and agents, organized by categor",
-    "id": "smk-labs/claude-plugins",
-    "language": "JavaScript",
-    "name": "smk-labs/claude-plugins",
-    "stars": 11,
-    "updated_at": "2026-09-10T07:43:31Z",
-    "url": "https://github.com/smk-labs/claude-plugins"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-09-10T07:43:25Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-09-10T07:43:11Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-09-10T07:43:04Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   }
 ]
