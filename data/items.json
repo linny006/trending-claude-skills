@@ -1,5 +1,104 @@
 [
   {
+    "description": "DSH Math Modeling Team Plugin Pack: 2 role agent presets (modeling-coding / paper) for DeepSeek Harness, multi-folder Gi",
+    "id": "OrinVoss/dsh-math-team",
+    "language": "\u2014",
+    "name": "OrinVoss/dsh-math-team",
+    "stars": 8,
+    "updated_at": "2026-09-10T06:59:23Z",
+    "url": "https://github.com/OrinVoss/dsh-math-team"
+  },
+  {
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002The mo",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 6480,
+    "updated_at": "2026-09-10T06:56:02Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
+    "id": "wardawgmalvicious/agent-config",
+    "language": "PowerShell",
+    "name": "wardawgmalvicious/agent-config",
+    "stars": 1,
+    "updated_at": "2026-09-10T06:55:47Z",
+    "url": "https://github.com/wardawgmalvicious/agent-config"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:52:58Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
+    "id": "laolaoshiren/claude-code-skills-zh",
+    "language": "Python",
+    "name": "laolaoshiren/claude-code-skills-zh",
+    "stars": 828,
+    "updated_at": "2026-09-10T06:52:08Z",
+    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
+  },
+  {
+    "description": "Agent skills for making an AI-built application production ready: diagnose what is missing, then install only what fits.",
+    "id": "TrustyCap-Technologies/trustycap-skills",
+    "language": "JavaScript",
+    "name": "TrustyCap-Technologies/trustycap-skills",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:48:44Z",
+    "url": "https://github.com/TrustyCap-Technologies/trustycap-skills"
+  },
+  {
+    "description": "A free UX/UI skill pack for Claude, Codex and ChatGPT covering audits, dashboard redesigns, design systems, AI product d",
+    "id": "aditya-ariosity/ux-ui-skills",
+    "language": "Python",
+    "name": "aditya-ariosity/ux-ui-skills",
+    "stars": 2,
+    "updated_at": "2026-09-10T06:46:55Z",
+    "url": "https://github.com/aditya-ariosity/ux-ui-skills"
+  },
+  {
+    "description": "A better, verifiable, snapshot-based multi-edit tool for Claude Code - Build in Rust",
+    "id": "subashc2023/ultra-edit",
+    "language": "Rust",
+    "name": "subashc2023/ultra-edit",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:46:00Z",
+    "url": "https://github.com/subashc2023/ultra-edit"
+  },
+  {
+    "description": "\u6296\u97f3\u77ed\u89c6\u9891\u8fd0\u8425\u589e\u957f\u52a9\u624b\u7528\u4e8e\u56de\u7b54\u300c\u6296\u97f3\u77ed\u89c6\u9891\u600e\u4e48\u8fd0\u8425\u300d\u3001\u5206\u6790\u8bc4\u8bba\u53cd\u9988\u3001\u770b\u60c5\u7eea\u548c\u8206\u60c5\u98ce\u9669\u3001\u770b\u7528\u6237\u753b\u50cf\u548c\u610f\u56fe\uff0c\u9002\u5408\u5185\u5bb9\u521b\u4f5c\u8005\u3001\u8fd0\u8425\u3001\u54c1\u724c\u65b9\u3001\u7535\u5546\u5728\u660e\u786e\u4e1a\u52a1\u76ee\u6807\u3001\u5185\u5bb9\u6750\u6599\u6216\u5206\u6790\u5bf9\u8c61\u540e\u8c03\u7528\u3002 \u5b83\u4f1a\u7ed3\u5408\u89c6\u9891/\u7b14\u8bb0\u94fe\u63a5\u3001\u7c98\u8d34\u6296\u97f3\u5206\u4eab\u94fe\u63a5\u7b49\u8f93\u5165\uff0c\u6574\u7406\u5173\u952e\u4e0a",
+    "id": "why20261/douyin-comments-sentiment",
+    "language": "JavaScript",
+    "name": "why20261/douyin-comments-sentiment",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:45:45Z",
+    "url": "https://github.com/why20261/douyin-comments-sentiment"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-09-10T06:45:19Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 37,
+    "updated_at": "2026-09-10T06:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
@@ -49,7 +148,7 @@
     "id": "buda-ai/api-claws",
     "language": "TypeScript",
     "name": "buda-ai/api-claws",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-10T06:41:35Z",
     "url": "https://github.com/buda-ai/api-claws"
   },
@@ -70,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-09-10T06:38:12Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Personal Claude Code config \u2014 skills, subagents, hooks, and rules for Microsoft Fabric and Power BI workflows on Windows",
-    "id": "wardawgmalvicious/agent-config",
-    "language": "PowerShell",
-    "name": "wardawgmalvicious/agent-config",
-    "stars": 1,
-    "updated_at": "2026-09-10T06:37:49Z",
-    "url": "https://github.com/wardawgmalvicious/agent-config"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -103,7 +193,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 93588,
+    "stars": 93590,
     "updated_at": "2026-09-10T06:36:19Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -124,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T06:35:42Z",
     "url": "https://github.com/nhhthong/clio"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-09-10T06:35:29Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -162,15 +243,6 @@
     "url": "https://github.com/qiusuo0226/chrono-pm-skill"
   },
   {
-    "description": "A free UX/UI skill pack for Claude, Codex and ChatGPT covering audits, dashboard redesigns, design systems, AI product d",
-    "id": "aditya-ariosity/ux-ui-skills",
-    "language": "Python",
-    "name": "aditya-ariosity/ux-ui-skills",
-    "stars": 2,
-    "updated_at": "2026-09-10T06:33:04Z",
-    "url": "https://github.com/aditya-ariosity/ux-ui-skills"
-  },
-  {
     "description": "custom Claude skills for cybersecurity study, tech/automotive content creation, and dev workflows \u2014 covering YouTube/SEO",
     "id": "manulanirwan/claude-skills",
     "language": "\u2014",
@@ -196,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T06:30:34Z",
     "url": "https://github.com/formify-e-sign/formify-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 37,
-    "updated_at": "2026-09-10T06:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u6296\u97f3\u4f5c\u54c1\u5b9e\u65f6\u641c\u7d22\u5de5\u5177\u3002\u6839\u636e\u7528\u6237\u8f93\u5165\u7684\u5173\u952e\u8bcd\u5b9e\u65f6\u641c\u7d22\u6296\u97f3\u6700\u65b0\u4f5c\u54c1\uff0c\u652f\u6301\u6309\u6392\u5e8f\u65b9\u5f0f\u3001\u53d1\u5e03\u65f6\u95f4\u548c\u89c6\u9891\u65f6\u957f\u7b5b\u9009\uff0c\u8fd4\u56de\u5b9e\u65f6\u6570\u636e\uff08\u975e\u7f13\u5b58/\u5386\u53f2\u6570\u636e\uff09\u3002\u5f53\u7528\u6237\u660e\u786e\u8981\u6c42\u300c\u5b9e\u65f6\u300d\u300c\u6700\u65b0\u300d\u300c\u73b0\u5728\u300d\u300c\u5f53\u524d\u300d\u641c\u7d22\u6296\u97f3\u5185\u5bb9\uff0c\u641c\u7d22\u6296\u97f3\u7206\u6b3e\u89c6\u9891\uff0c\u67e5\u8be2\u6296\u97f3\u4f5c\u54c1\u6570\u636e\uff0c\u67e5\u627e\u6296",
@@ -266,7 +329,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-10T06:39:18Z",
+    "updated_at": "2026-09-10T06:59:04Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T06:01:19Z",
     "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Discover, verify, and track 296 Claude Code & Agent Skills tools with daily automated health checks.",
-    "id": "Anikaar382/claude-skills-live",
-    "language": "TypeScript",
-    "name": "Anikaar382/claude-skills-live",
-    "stars": 0,
-    "updated_at": "2026-09-10T06:00:36Z",
-    "url": "https://github.com/Anikaar382/claude-skills-live"
-  },
-  {
-    "description": "Generate publish-ready TikTok and Douyin vertical videos from a single content brief, powered by AI agents.",
-    "id": "Trudiemisanthropic314/tiktok-video-skill",
-    "language": "Python",
-    "name": "Trudiemisanthropic314/tiktok-video-skill",
-    "stars": 0,
-    "updated_at": "2026-09-10T06:00:30Z",
-    "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
-  },
-  {
-    "description": "Curated modular agent skills for LLM-based assistants to extend AI capabilities and enable autonomous agents.",
-    "id": "graceupperclass437/agent-skills-collection",
-    "language": "Python",
-    "name": "graceupperclass437/agent-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-09-10T06:00:29Z",
-    "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Export UniFi network topologies as zoomable vector diagrams and editable draw.io files using real device data.",
-    "id": "Josiecontrolling326/unifi-map",
-    "language": "Python",
-    "name": "Josiecontrolling326/unifi-map",
-    "stars": 1,
-    "updated_at": "2026-09-10T05:59:42Z",
-    "url": "https://github.com/Josiecontrolling326/unifi-map"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-09-10T05:59:35Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
-  },
-  {
-    "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
-    "id": "skeletonshorts029-png/open-code-review",
-    "language": "TypeScript",
-    "name": "skeletonshorts029-png/open-code-review",
-    "stars": 0,
-    "updated_at": "2026-09-10T05:59:04Z",
-    "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-09-10T05:58:52Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
   }
 ]
