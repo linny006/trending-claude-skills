@@ -1,5 +1,41 @@
 [
   {
+    "description": "GUI-based editor for Claude Code settings.json \u2014 standalone HTML with Alpine.js + Tailwind CSS",
+    "id": "mrspot-dev/claude-settings-editor",
+    "language": "HTML",
+    "name": "mrspot-dev/claude-settings-editor",
+    "stars": 5,
+    "updated_at": "2026-09-10T03:10:38Z",
+    "url": "https://github.com/mrspot-dev/claude-settings-editor"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68865,
+    "updated_at": "2026-09-10T03:07:47Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-10T03:14:20Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-10T03:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "TypeScript",
@@ -45,15 +81,6 @@
     "url": "https://github.com/preset-io/agent-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 36,
-    "updated_at": "2026-09-10T02:45:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A community-driven collection of custom skills for Claude Code, Anthropic's CLI tool for software engineering with Claud",
     "id": "RealDougEubanks/ClaudeMarketplace",
     "language": "Shell",
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T02:46:05Z",
     "url": "https://github.com/RealDougEubanks/ClaudeMarketplace"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68864,
-    "updated_at": "2026-09-10T02:41:03Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "AI marketing team for B2B SaaS: 79 agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, paid media, em",
@@ -126,13 +144,13 @@
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-10T02:57:04Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
+    "description": "10 open OpenClaw agent skills for DeFi intelligence: Trail Heat, FarmScore, risk, yield, swaps, perps. Read-only, zero-c",
+    "id": "Parmasanandgarlic/farmdash-openclaw-skills",
+    "language": "\u2014",
+    "name": "Parmasanandgarlic/farmdash-openclaw-skills",
+    "stars": 0,
+    "updated_at": "2026-09-10T02:25:10Z",
+    "url": "https://github.com/Parmasanandgarlic/farmdash-openclaw-skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -178,6 +196,15 @@
     "stars": 5,
     "updated_at": "2026-09-10T02:18:45Z",
     "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "A browser inside your terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "Rust",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 2806,
+    "updated_at": "2026-09-10T02:18:20Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
   },
   {
     "description": "A project-memory kit for .claude/: layout, ledgers, and the loop that keeps them true.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T02:00:35Z",
     "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:00:27Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-09-10T02:00:22Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:00:06Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
   }
 ]
