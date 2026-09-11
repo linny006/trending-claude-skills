@@ -1,5 +1,77 @@
 [
   {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "HTML",
+    "name": "geml-spec/geml",
+    "stars": 26,
+    "updated_at": "2026-09-11T15:44:34Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "\ud83e\udde0 A resource-first knowledge vault your AI agent can actually maintain \u2014 one portable SKILL.md for Claude Code, Claude.a",
+    "id": "aashutosh396/mindpalace-skill",
+    "language": "HTML",
+    "name": "aashutosh396/mindpalace-skill",
+    "stars": 0,
+    "updated_at": "2026-09-11T15:41:32Z",
+    "url": "https://github.com/aashutosh396/mindpalace-skill"
+  },
+  {
+    "description": "Skill de Claude Code para editar Word en APA 7 y CLAUDE.md para respuestas acad\u00e9micas. Uso libre.",
+    "id": "lsilva-a/claude-code-academico",
+    "language": "\u2014",
+    "name": "lsilva-a/claude-code-academico",
+    "stars": 0,
+    "updated_at": "2026-09-11T15:40:55Z",
+    "url": "https://github.com/lsilva-a/claude-code-academico"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-09-11T15:40:22Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-09-11T15:39:50Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "\u0421\u043a\u0456\u043b\u0438, \u043c\u0435\u0442\u043e\u0434\u0438\u043a\u0438 \u0439 \u0441\u0438\u0440\u0456 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0430\u0440\u0445\u0456\u0432\u043d\u043e\u0433\u043e \u043f\u043e\u0448\u0443\u043a\u0443 \u043f\u043e \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0441\u0435\u043b\u0430\u0445. \u041d\u0430\u043f\u0440\u0430\u0446\u044c\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u00ab\u041c\u0456\u0441\u0442\u043a\u0430\u00bb, \u0432\u0438\u043a\u043b\u0430\u0434\u0435\u043d\u043e \u0434\u043b\u044f \u0432\u0441\u0456\u0445 / ",
+    "id": "OuFinx/mistok-chytalnia",
+    "language": "\u2014",
+    "name": "OuFinx/mistok-chytalnia",
+    "stars": 11,
+    "updated_at": "2026-09-11T15:35:02Z",
+    "url": "https://github.com/OuFinx/mistok-chytalnia"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 498,
+    "updated_at": "2026-09-11T15:34:05Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-11T15:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
     "id": "JanYork/llm-wiki-cli",
     "language": "Rust",
@@ -18,15 +90,6 @@
     "url": "https://github.com/Crowd9/giveaway-skills"
   },
   {
-    "description": "\u0421\u043a\u0456\u043b\u0438, \u043c\u0435\u0442\u043e\u0434\u0438\u043a\u0438 \u0439 \u0441\u0438\u0440\u0456 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0430\u0440\u0445\u0456\u0432\u043d\u043e\u0433\u043e \u043f\u043e\u0448\u0443\u043a\u0443 \u043f\u043e \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0441\u0435\u043b\u0430\u0445. \u041d\u0430\u043f\u0440\u0430\u0446\u044c\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u00ab\u041c\u0456\u0441\u0442\u043a\u0430\u00bb, \u0432\u0438\u043a\u043b\u0430\u0434\u0435\u043d\u043e \u0434\u043b\u044f \u0432\u0441\u0456\u0445 / ",
-    "id": "OuFinx/mistok-chytalnia",
-    "language": "JavaScript",
-    "name": "OuFinx/mistok-chytalnia",
-    "stars": 11,
-    "updated_at": "2026-09-11T15:26:26Z",
-    "url": "https://github.com/OuFinx/mistok-chytalnia"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -36,21 +99,12 @@
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   },
   {
-    "description": "\ud83e\udde0 A resource-first knowledge vault your AI agent can actually maintain \u2014 one portable SKILL.md for Claude Code, Claude.a",
-    "id": "aashutosh396/mindpalace-skill",
-    "language": "Shell",
-    "name": "aashutosh396/mindpalace-skill",
-    "stars": 0,
-    "updated_at": "2026-09-11T15:29:43Z",
-    "url": "https://github.com/aashutosh396/mindpalace-skill"
-  },
-  {
     "description": "Choose, audit, refactor & migrate iOS app architectures. A Claude Code & Codex agent plus skills.",
     "id": "kbelasheuski/ios-architecture-skills",
     "language": "Python",
     "name": "kbelasheuski/ios-architecture-skills",
     "stars": 2,
-    "updated_at": "2026-09-11T15:22:28Z",
+    "updated_at": "2026-09-11T15:39:14Z",
     "url": "https://github.com/kbelasheuski/ios-architecture-skills"
   },
   {
@@ -63,15 +117,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-09-11T15:16:53Z",
-    "url": "https://github.com/easyinplay/harnessed"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T15:15:20Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-11T15:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Better, Verifiable, Snapshot-Based Multi-Edit Tool Plugin For Claude Code",
@@ -112,7 +148,7 @@
     "id": "eternityspring/reelbench-skills",
     "language": "HTML",
     "name": "eternityspring/reelbench-skills",
-    "stars": 114,
+    "stars": 115,
     "updated_at": "2026-09-11T15:08:26Z",
     "url": "https://github.com/eternityspring/reelbench-skills"
   },
@@ -216,21 +252,12 @@
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 498,
-    "updated_at": "2026-09-11T14:52:02Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
     "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
     "id": "using-system/oddyssey",
     "language": "Python",
     "name": "using-system/oddyssey",
     "stars": 7,
-    "updated_at": "2026-09-11T15:13:18Z",
+    "updated_at": "2026-09-11T15:43:55Z",
     "url": "https://github.com/using-system/oddyssey"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 155,
     "updated_at": "2026-09-11T14:49:28Z",
     "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-09-11T15:28:16Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T14:36:53Z",
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 4,
-    "updated_at": "2026-09-11T15:24:47Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
-    "description": "Work In Progress ---- The LinkedIn post skill for Claude that interviews you first. It cannot write anything you did not",
-    "id": "alexis-morain/verbatim-linkedin",
-    "language": "Python",
-    "name": "alexis-morain/verbatim-linkedin",
-    "stars": 2,
-    "updated_at": "2026-09-11T14:33:17Z",
-    "url": "https://github.com/alexis-morain/verbatim-linkedin"
   }
 ]
