@@ -1,5 +1,41 @@
 [
   {
+    "description": "Claude Plugin: Local Linear AI agent, your favorite harness",
+    "id": "mikhailkogan17/cycler",
+    "language": "JavaScript",
+    "name": "mikhailkogan17/cycler",
+    "stars": 0,
+    "updated_at": "2026-09-11T19:33:48Z",
+    "url": "https://github.com/mikhailkogan17/cycler"
+  },
+  {
+    "description": "A collection of skills, subagents, and hooks for Claude Code.",
+    "id": "richardkmichael/claude-rodin",
+    "language": "Python",
+    "name": "richardkmichael/claude-rodin",
+    "stars": 0,
+    "updated_at": "2026-09-11T19:32:39Z",
+    "url": "https://github.com/richardkmichael/claude-rodin"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-09-11T19:30:53Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-11T19:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills that allow your AI agent to find, join, and play real multiplayer games. One SKILL.md per game, starting wi",
     "id": "appleweed/game-skills-for-agents",
     "language": "\u2014",
@@ -32,7 +68,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 111,
-    "updated_at": "2026-09-11T19:23:32Z",
+    "updated_at": "2026-09-11T19:31:27Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68951,
-    "updated_at": "2026-09-11T19:28:47Z",
+    "updated_at": "2026-09-11T19:33:55Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T19:15:53Z",
     "url": "https://github.com/knitli/toolshed"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-11T19:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A standard for making Nix-flake-first Linux repos installable on any distribution",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T18:42:54Z",
     "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:42:52Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 1,
-    "updated_at": "2026-09-11T18:42:33Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:42:27Z",
-    "url": "https://github.com/allans4635/memctx"
   }
 ]
