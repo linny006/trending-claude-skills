@@ -1,12 +1,48 @@
 [
   {
-    "description": "Curated Claude Code plugins by Knitli",
-    "id": "knitli/toolshed",
-    "language": "TypeScript",
-    "name": "knitli/toolshed",
+    "description": "Agent skills that allow your AI agent to find, join, and play real multiplayer games. One SKILL.md per game, starting wi",
+    "id": "appleweed/game-skills-for-agents",
+    "language": "\u2014",
+    "name": "appleweed/game-skills-for-agents",
+    "stars": 0,
+    "updated_at": "2026-09-11T19:28:25Z",
+    "url": "https://github.com/appleweed/game-skills-for-agents"
+  },
+  {
+    "description": "",
+    "id": "apparna88/nibble",
+    "language": "Shell",
+    "name": "apparna88/nibble",
+    "stars": 0,
+    "updated_at": "2026-09-11T19:26:15Z",
+    "url": "https://github.com/apparna88/nibble"
+  },
+  {
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
     "stars": 1,
-    "updated_at": "2026-09-11T19:13:32Z",
-    "url": "https://github.com/knitli/toolshed"
+    "updated_at": "2026-09-11T19:23:19Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 111,
+    "updated_at": "2026-09-11T19:23:32Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Cross-model adversarial review and idea generation for Claude Code. A Claude session orchestrates and ratifies; OpenAI (",
+    "id": "raichominev/concilium",
+    "language": "Shell",
+    "name": "raichominev/concilium",
+    "stars": 2,
+    "updated_at": "2026-09-11T19:22:17Z",
+    "url": "https://github.com/raichominev/concilium"
   },
   {
     "description": "Too long; didn't read \u2014 for AI coding agents. A skill that makes Claude Code, Cursor, Codex, Gemini CLI and 13 more lead",
@@ -14,8 +50,89 @@
     "language": "Python",
     "name": "SurefireStudios/tldr",
     "stars": 0,
-    "updated_at": "2026-09-11T19:13:04Z",
+    "updated_at": "2026-09-11T19:22:13Z",
     "url": "https://github.com/SurefireStudios/tldr"
+  },
+  {
+    "description": "One installable marketplace of 194 Claude Code security skills, aggregated from Trail of Bits, Masriyan and trilwu and o",
+    "id": "gztes/security-for-platforms",
+    "language": "Python",
+    "name": "gztes/security-for-platforms",
+    "stars": 0,
+    "updated_at": "2026-09-11T19:22:01Z",
+    "url": "https://github.com/gztes/security-for-platforms"
+  },
+  {
+    "description": "Statistical timeseries forecasting in DuckDB",
+    "id": "DataZooDE/anofox-forecast",
+    "language": "C++",
+    "name": "DataZooDE/anofox-forecast",
+    "stars": 38,
+    "updated_at": "2026-09-11T19:19:53Z",
+    "url": "https://github.com/DataZooDE/anofox-forecast"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-09-11T19:19:52Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Collection of Claude Code and Claude Desktop skills for developer workflows, automation, and productivity",
+    "id": "mostafa-drz/claude-skills",
+    "language": "HTML",
+    "name": "mostafa-drz/claude-skills",
+    "stars": 4,
+    "updated_at": "2026-09-11T19:18:33Z",
+    "url": "https://github.com/mostafa-drz/claude-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68951,
+    "updated_at": "2026-09-11T19:28:47Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusa",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 135,
+    "updated_at": "2026-09-11T19:28:21Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Lead with the answer. Then prove it. Minto's Pyramid Principle for operators: an ELI5 article with diagrams, every claim",
+    "id": "wilsonwu-ai/pyramid-principle-for-operators",
+    "language": "Python",
+    "name": "wilsonwu-ai/pyramid-principle-for-operators",
+    "stars": 0,
+    "updated_at": "2026-09-11T19:16:09Z",
+    "url": "https://github.com/wilsonwu-ai/pyramid-principle-for-operators"
+  },
+  {
+    "description": "Curated Claude Code plugins by Knitli",
+    "id": "knitli/toolshed",
+    "language": "TypeScript",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-09-11T19:15:53Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-11T19:15:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A standard for making Nix-flake-first Linux repos installable on any distribution",
@@ -59,17 +176,8 @@
     "language": "Python",
     "name": "jackneil/claude-jacked",
     "stars": 1,
-    "updated_at": "2026-09-11T19:07:30Z",
+    "updated_at": "2026-09-11T19:21:28Z",
     "url": "https://github.com/jackneil/claude-jacked"
-  },
-  {
-    "description": "Cross-model adversarial review and idea generation for Claude Code. A Claude session orchestrates and ratifies; OpenAI (",
-    "id": "raichominev/concilium",
-    "language": "Shell",
-    "name": "raichominev/concilium",
-    "stars": 2,
-    "updated_at": "2026-09-11T19:06:33Z",
-    "url": "https://github.com/raichominev/concilium"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -77,7 +185,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 19,
-    "updated_at": "2026-09-11T19:04:14Z",
+    "updated_at": "2026-09-11T19:29:27Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -124,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T19:00:21Z",
     "url": "https://github.com/rdilruba/codebase-map"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-11T19:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68952,
-    "updated_at": "2026-09-11T19:00:01Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
@@ -284,7 +374,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30744,
-    "updated_at": "2026-09-11T19:11:19Z",
+    "updated_at": "2026-09-11T19:27:02Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -295,15 +385,6 @@
     "stars": 3,
     "updated_at": "2026-09-11T18:44:42Z",
     "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "One installable marketplace of 194 Claude Code security skills, aggregated from Trail of Bits, Masriyan and trilwu and o",
-    "id": "gztes/security-for-platforms",
-    "language": "Python",
-    "name": "gztes/security-for-platforms",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:44:30Z",
-    "url": "https://github.com/gztes/security-for-platforms"
   },
   {
     "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T18:42:27Z",
     "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-09-11T18:42:27Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:42:23Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:42:19Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-09-11T18:42:16Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:42:10Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Build AI skills that distill any person\u2019s thinking into reusable workflows and prompts",
-    "id": "gianguardant971/nuwa-skill",
-    "language": "\u2014",
-    "name": "gianguardant971/nuwa-skill",
-    "stars": 2,
-    "updated_at": "2026-09-11T18:42:01Z",
-    "url": "https://github.com/gianguardant971/nuwa-skill"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-09-11T18:41:57Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
-  },
-  {
-    "description": "Agent skill and official CLI releases for ContHunt, social content research for coding agents.",
-    "id": "Synthenova/conthunt-cli",
-    "language": "PowerShell",
-    "name": "Synthenova/conthunt-cli",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:41:52Z",
-    "url": "https://github.com/Synthenova/conthunt-cli"
-  },
-  {
-    "description": "Connect LINE to Claude Code with an MCP server for DMs, group chats, media downloads, and image replies",
-    "id": "coreyunfastened552/claude-line-channel",
-    "language": "TypeScript",
-    "name": "coreyunfastened552/claude-line-channel",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:41:38Z",
-    "url": "https://github.com/coreyunfastened552/claude-line-channel"
   }
 ]
