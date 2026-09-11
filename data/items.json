@@ -1,5 +1,32 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-11T08:17:08Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
+    "id": "wei18/apple-dev-skills",
+    "language": "Python",
+    "name": "wei18/apple-dev-skills",
+    "stars": 19,
+    "updated_at": "2026-09-11T08:15:38Z",
+    "url": "https://github.com/wei18/apple-dev-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-11T08:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills for making an AI-built application production ready: diagnose what is missing, then install only what fits.",
     "id": "TrustyCap-Technologies/trustycap-skills",
     "language": "JavaScript",
@@ -72,15 +99,6 @@
     "url": "https://github.com/OuFinx/mistok-chytalnia"
   },
   {
-    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
-    "id": "wei18/apple-dev-skills",
-    "language": "Python",
-    "name": "wei18/apple-dev-skills",
-    "stars": 19,
-    "updated_at": "2026-09-11T08:05:11Z",
-    "url": "https://github.com/wei18/apple-dev-skills"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
@@ -97,15 +115,6 @@
     "stars": 422,
     "updated_at": "2026-09-11T08:06:24Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-11T08:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -292,7 +301,7 @@
     "id": "Agents365-ai/drawio-skill",
     "language": "Python",
     "name": "Agents365-ai/drawio-skill",
-    "stars": 9225,
+    "stars": 9227,
     "updated_at": "2026-09-11T07:32:27Z",
     "url": "https://github.com/Agents365-ai/drawio-skill"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T07:27:15Z",
     "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-09-11T07:26:47Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
   }
 ]
