@@ -1,12 +1,75 @@
 [
   {
+    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
+    "id": "skills-agents-co/skills-and-agents-library",
+    "language": "JavaScript",
+    "name": "skills-agents-co/skills-and-agents-library",
+    "stars": 1,
+    "updated_at": "2026-09-11T02:45:04Z",
+    "url": "https://github.com/skills-agents-co/skills-and-agents-library"
+  },
+  {
+    "description": "",
+    "id": "jzl-maker/EA-SKILL",
+    "language": "Python",
+    "name": "jzl-maker/EA-SKILL",
+    "stars": 6,
+    "updated_at": "2026-09-11T02:43:45Z",
+    "url": "https://github.com/jzl-maker/EA-SKILL"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 79 agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, paid media, em",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 12,
+    "updated_at": "2026-09-11T02:42:08Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "A Claude skill that extracts invoices and proves the extraction is correct. Model extracts, code audits the arithmetic. ",
+    "id": "Jessmatth/invoice-auditor",
+    "language": "Python",
+    "name": "Jessmatth/invoice-auditor",
+    "stars": 0,
+    "updated_at": "2026-09-11T02:39:33Z",
+    "url": "https://github.com/Jessmatth/invoice-auditor"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68918,
+    "updated_at": "2026-09-11T02:39:17Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-11T02:33:02Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
     "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
     "id": "andresanemic/lore-plugin",
     "language": "JavaScript",
     "name": "andresanemic/lore-plugin",
     "stars": 7,
-    "updated_at": "2026-09-11T02:28:18Z",
+    "updated_at": "2026-09-11T02:30:50Z",
     "url": "https://github.com/andresanemic/lore-plugin"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-11T02:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall",
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T02:26:24Z",
     "url": "https://github.com/SELAT-AI/selat-plugins"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-11T02:25:37Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
@@ -43,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T02:27:19Z",
     "url": "https://github.com/afonsoft/skills"
-  },
-  {
-    "description": "A Claude skill that extracts invoices and proves the extraction is correct. Model extracts, code audits the arithmetic. ",
-    "id": "Jessmatth/invoice-auditor",
-    "language": "Python",
-    "name": "Jessmatth/invoice-auditor",
-    "stars": 0,
-    "updated_at": "2026-09-11T02:23:11Z",
-    "url": "https://github.com/Jessmatth/invoice-auditor"
   },
   {
     "description": "My collection of Claude skills",
@@ -79,15 +124,6 @@
     "stars": 434,
     "updated_at": "2026-09-11T02:18:08Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-11T02:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
@@ -185,7 +221,7 @@
     "language": "HTML",
     "name": "geml-spec/geml",
     "stars": 26,
-    "updated_at": "2026-09-11T01:56:46Z",
+    "updated_at": "2026-09-11T02:34:31Z",
     "url": "https://github.com/geml-spec/geml"
   },
   {
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-11T02:27:06Z",
+    "updated_at": "2026-09-11T02:42:40Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -409,44 +445,8 @@
     "id": "nowork-studio/notfair-plugin",
     "language": "TypeScript",
     "name": "nowork-studio/notfair-plugin",
-    "stars": 3707,
+    "stars": 3708,
     "updated_at": "2026-09-11T01:04:28Z",
     "url": "https://github.com/nowork-studio/notfair-plugin"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:57:59Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:57:26Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:56:59Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 3,
-    "updated_at": "2026-09-11T00:55:59Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   }
 ]
