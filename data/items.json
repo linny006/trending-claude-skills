@@ -5,8 +5,71 @@
     "language": "\u2014",
     "name": "Armitanemati/liquid-glass-claude-skill",
     "stars": 0,
-    "updated_at": "2026-09-11T12:42:13Z",
+    "updated_at": "2026-09-11T12:55:02Z",
     "url": "https://github.com/Armitanemati/liquid-glass-claude-skill"
+  },
+  {
+    "description": "The deckhands do the work, the officer of the watch runs the deck: parallel Claude subagents in git worktrees, coordinat",
+    "id": "jrabercrombie/watchbill",
+    "language": "Shell",
+    "name": "jrabercrombie/watchbill",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:54:17Z",
+    "url": "https://github.com/jrabercrombie/watchbill"
+  },
+  {
+    "description": "Agent skill: Generate one-page ATS-safe tech resumes from career files",
+    "id": "baberarjumand/technical-resume-generator_agent-skill",
+    "language": "Python",
+    "name": "baberarjumand/technical-resume-generator_agent-skill",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:53:30Z",
+    "url": "https://github.com/baberarjumand/technical-resume-generator_agent-skill"
+  },
+  {
+    "description": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f \u0441\u043a\u0438\u043b\u043b\u0430 stop-slop \u0434\u043b\u044f Claude: \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u043a\u0430\u043d\u0446\u0435\u043b\u044f\u0440\u0438\u0442, \u0432\u0432\u043e\u0434\u043d\u044b\u0435 \u043e\u0431\u043e\u0440\u043e\u0442\u044b \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0438 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430",
+    "id": "chipizubovdima/stop-slop-ru",
+    "language": "\u2014",
+    "name": "chipizubovdima/stop-slop-ru",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:50:37Z",
+    "url": "https://github.com/chipizubovdima/stop-slop-ru"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 111,
+    "updated_at": "2026-09-11T12:49:19Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 27,
+    "updated_at": "2026-09-11T12:47:34Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
+    "id": "ergrelet/windiff",
+    "language": "Rust",
+    "name": "ergrelet/windiff",
+    "stars": 391,
+    "updated_at": "2026-09-11T12:46:11Z",
+    "url": "https://github.com/ergrelet/windiff"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-11T12:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T12:35:38Z",
     "url": "https://github.com/Jsnnmsc/10000x-engineer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-11T12:30:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
@@ -45,30 +99,12 @@
     "url": "https://github.com/eai-org/agent-toolkit"
   },
   {
-    "description": "The deckhands do the work, the officer of the watch runs the deck: parallel Claude subagents in git worktrees, coordinat",
-    "id": "jrabercrombie/watchbill",
-    "language": "Shell",
-    "name": "jrabercrombie/watchbill",
-    "stars": 0,
-    "updated_at": "2026-09-11T12:26:53Z",
-    "url": "https://github.com/jrabercrombie/watchbill"
-  },
-  {
-    "description": "Agent skill: Generate one-page ATS-safe tech resumes from career files",
-    "id": "baberarjumand/technical-resume-generator_agent-skill",
-    "language": "Python",
-    "name": "baberarjumand/technical-resume-generator_agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-11T12:25:56Z",
-    "url": "https://github.com/baberarjumand/technical-resume-generator_agent-skill"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-11T12:34:02Z",
+    "updated_at": "2026-09-11T12:56:46Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "LaGrowthMachine/gtm-system",
     "stars": 37,
-    "updated_at": "2026-09-11T12:05:17Z",
+    "updated_at": "2026-09-11T12:55:35Z",
     "url": "https://github.com/LaGrowthMachine/gtm-system"
   },
   {
@@ -157,7 +193,7 @@
     "id": "coldteadotai/pr-lens",
     "language": "TypeScript",
     "name": "coldteadotai/pr-lens",
-    "stars": 1044,
+    "stars": 1045,
     "updated_at": "2026-09-11T11:59:57Z",
     "url": "https://github.com/coldteadotai/pr-lens"
   },
@@ -270,15 +306,6 @@
     "url": "https://github.com/bitjaru/styleseed"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 111,
-    "updated_at": "2026-09-11T12:28:32Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
     "id": "Samuellalight8026/spam-filter-advisor-skill",
     "language": "Python",
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-11T12:43:47Z",
+    "updated_at": "2026-09-11T12:52:45Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -364,7 +391,7 @@
     "id": "S1N6H/Bug-Bounty-Skills",
     "language": "Python",
     "name": "S1N6H/Bug-Bounty-Skills",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-09-11T11:34:53Z",
     "url": "https://github.com/S1N6H/Bug-Bounty-Skills"
   },
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-11T11:30:28Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:30:03Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
-    "id": "aitit-inc/leadace",
-    "language": "TypeScript",
-    "name": "aitit-inc/leadace",
-    "stars": 3,
-    "updated_at": "2026-09-11T11:29:40Z",
-    "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 3,
-    "updated_at": "2026-09-11T11:29:29Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
   }
 ]
