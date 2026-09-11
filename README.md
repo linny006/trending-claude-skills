@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-11 12:57 UTC
+> ⏰ Last updated: 2026-09-11 13:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Armitanemati/liquid-glass-claude-skill](https://github.com/Armitanemati/liquid-glass-claude-skill) | 0 | — | 2026-09-11 | Claude Skill (SKILL.md) for Liquid Glass and glassmorphism UI design: Apple-style layering, material tiers, accessible c |
-| 2 | [jrabercrombie/watchbill](https://github.com/jrabercrombie/watchbill) | 0 | Shell | 2026-09-11 | The deckhands do the work, the officer of the watch runs the deck: parallel Claude subagents in git worktrees, coordinat |
-| 3 | [baberarjumand/technical-resume-generator_agent-skill](https://github.com/baberarjumand/technical-resume-generator_agent-skill) | 0 | Python | 2026-09-11 | Agent skill: Generate one-page ATS-safe tech resumes from career files |
-| 4 | [chipizubovdima/stop-slop-ru](https://github.com/chipizubovdima/stop-slop-ru) | 0 | — | 2026-09-11 | Русская версия скилла stop-slop для Claude: убирает канцелярит, вводные обороты и другие признаки машинного текста |
-| 5 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 111 | Kotlin | 2026-09-11 | Helping the Agents Compose the Things |
-| 6 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 27 | Python | 2026-09-11 | A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py |
-| 7 | [ergrelet/windiff](https://github.com/ergrelet/windiff) | 391 | Rust | 2026-09-11 | Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions  |
-| 8 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 38 | Python | 2026-09-11 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 38 | Python | 2026-09-11 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [Armitanemati/liquid-glass-claude-skill](https://github.com/Armitanemati/liquid-glass-claude-skill) | 0 | — | 2026-09-11 | Claude Skill (SKILL.md) for Liquid Glass and glassmorphism UI design: Apple-style layering, material tiers, accessible c |
+| 3 | [jrabercrombie/watchbill](https://github.com/jrabercrombie/watchbill) | 0 | Shell | 2026-09-11 | The deckhands do the work, the officer of the watch runs the deck: parallel Claude subagents in git worktrees, coordinat |
+| 4 | [baberarjumand/technical-resume-generator_agent-skill](https://github.com/baberarjumand/technical-resume-generator_agent-skill) | 0 | Python | 2026-09-11 | Agent skill: Generate one-page ATS-safe tech resumes from career files |
+| 5 | [chipizubovdima/stop-slop-ru](https://github.com/chipizubovdima/stop-slop-ru) | 1 | — | 2026-09-11 | Русская версия скилла stop-slop для Claude: убирает канцелярит, вводные обороты и другие признаки машинного текста |
+| 6 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 111 | Kotlin | 2026-09-11 | Helping the Agents Compose the Things |
+| 7 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 27 | Python | 2026-09-11 | A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py |
+| 8 | [ergrelet/windiff](https://github.com/ergrelet/windiff) | 391 | Rust | 2026-09-11 | Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions  |
 | 9 | [Jsnnmsc/10000x-engineer](https://github.com/Jsnnmsc/10000x-engineer) | 1 | — | 2026-09-11 | Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an |
 | 10 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 175 | TypeScript | 2026-09-11 | Framework-aware code intelligence MCP server for Claude Code and Codex — 70.5% fewer input tokens to review a pull reque |
 | 11 | [eai-org/agent-toolkit](https://github.com/eai-org/agent-toolkit) | 46 | Shell | 2026-09-11 | Minimalistic, project-agnostic skills and rules for AI coding agents |
