@@ -1,11 +1,74 @@
 [
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 93643,
+    "updated_at": "2026-09-11T00:30:00Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "A curated collection of high-performance Agent Skills (SKILL.md) for Claude Code, Codex, Cursor, OpenCode, and Devin. Co",
+    "id": "afonsoft/skills",
+    "language": "Shell",
+    "name": "afonsoft/skills",
+    "stars": 2,
+    "updated_at": "2026-09-11T00:29:39Z",
+    "url": "https://github.com/afonsoft/skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-11T00:27:32Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Installable library of AI coding agents, skills, commands, guides & tools \u2014 the copy-paste mirror of agentscamp.com",
+    "id": "imtiazrayhan/agentscamp-library",
+    "language": "\u2014",
+    "name": "imtiazrayhan/agentscamp-library",
+    "stars": 1,
+    "updated_at": "2026-09-11T00:26:18Z",
+    "url": "https://github.com/imtiazrayhan/agentscamp-library"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-11T00:21:56Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-09-11T00:15:19Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-11T00:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 175,
-    "updated_at": "2026-09-11T00:15:01Z",
+    "updated_at": "2026-09-11T00:15:23Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -18,15 +81,6 @@
     "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
   },
   {
-    "description": "A curated collection of high-performance Agent Skills (SKILL.md) for Claude Code, Codex, Cursor, OpenCode, and Devin. Co",
-    "id": "afonsoft/skills",
-    "language": "Shell",
-    "name": "afonsoft/skills",
-    "stars": 2,
-    "updated_at": "2026-09-11T00:13:34Z",
-    "url": "https://github.com/afonsoft/skills"
-  },
-  {
     "description": "Design discipline skills for Claude Code \u2014 Apple-grade rules your agent can count",
     "id": "shumatsumonobu/vitruvian-design",
     "language": "\u2014",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T00:13:21Z",
     "url": "https://github.com/shumatsumonobu/vitruvian-design"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 93642,
-    "updated_at": "2026-09-11T00:12:55Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -117,15 +162,6 @@
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
   },
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-11T00:05:37Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T00:00:27Z",
     "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-11T00:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T23:55:42Z",
     "url": "https://github.com/eastindian-wallpepper214/claude-skills"
-  },
-  {
-    "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
-    "id": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "language": "Shell",
-    "name": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "stars": 0,
-    "updated_at": "2026-09-10T23:55:37Z",
-    "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
-  },
-  {
-    "description": "Explore 72 AI-powered skills across 6 departments for AlterLab FC training, learning, and workflow support",
-    "id": "prone-dc302/AlterLab-FC-Skills",
-    "language": "JavaScript",
-    "name": "prone-dc302/AlterLab-FC-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-10T23:55:35Z",
-    "url": "https://github.com/prone-dc302/AlterLab-FC-Skills"
-  },
-  {
-    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
-    "id": "schudarin/chudarin-figma-skills",
-    "language": "Shell",
-    "name": "schudarin/chudarin-figma-skills",
-    "stars": 0,
-    "updated_at": "2026-09-10T23:55:14Z",
-    "url": "https://github.com/schudarin/chudarin-figma-skills"
   }
 ]
