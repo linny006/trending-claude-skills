@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u77ed\u7ebf\u4fa0(duanxianxia.cn) \u975e\u5b98\u65b9 Python \u6570\u636e\u63a5\u53e3 + opencode skill\uff1a\u6da8\u505c\u64ad\u62a5/\u7ade\u4ef7\u5f02\u52a8/\u677f\u5757\u5f3a\u5ea6/\u8d44\u91d1\u6d41\u5411/\u9f99\u864e\u699c/\u8fde\u677f\u5929\u68af/\u60c5\u7eea\u6307\u6807\u7b49 30+ \u7aef\u70b9",
+    "id": "627-hub/duanxianxia-skill",
+    "language": "\u2014",
+    "name": "627-hub/duanxianxia-skill",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:59:06Z",
+    "url": "https://github.com/627-hub/duanxianxia-skill"
+  },
+  {
+    "description": "SKILL.md pack: Chinese official documents (GB-style \u516c\u6587) \u00b7 docx generation + WPS PDF + coordinate-level layout verificati",
+    "id": "mazihua-lgtm/gongwen-skill",
+    "language": "JavaScript",
+    "name": "mazihua-lgtm/gongwen-skill",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:56:14Z",
+    "url": "https://github.com/mazihua-lgtm/gongwen-skill"
+  },
+  {
+    "description": "Claude skill that converts HTML/CSS mockups, Figma exports, and UI screenshots into paste-ready Power Apps Canvas YAML (",
+    "id": "YKUNAKORN/power-app-yaml",
+    "language": "Python",
+    "name": "YKUNAKORN/power-app-yaml",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:55:44Z",
+    "url": "https://github.com/YKUNAKORN/power-app-yaml"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-11T10:55:37Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:53:08Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
+    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
+    "id": "bokyostudio/pg-practice-knowledgebase",
+    "language": "HTML",
+    "name": "bokyostudio/pg-practice-knowledgebase",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:52:19Z",
+    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:51:16Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "Convert Agent Skills (SKILL.md) format to OpenAI Codex plugin bundles \u2014 stdlib-only, enforces official manifest hard con",
+    "id": "chenhz01/zhengming-openai-plugins",
+    "language": "Python",
+    "name": "chenhz01/zhengming-openai-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:51:06Z",
+    "url": "https://github.com/chenhz01/zhengming-openai-plugins"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 6,
+    "updated_at": "2026-09-11T10:49:35Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 3,
+    "updated_at": "2026-09-11T10:48:26Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68938,
+    "updated_at": "2026-09-11T10:59:22Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-11T10:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "",
     "id": "SELAT-AI/selat-skills",
     "language": "JavaScript",
@@ -32,26 +140,8 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 422,
-    "updated_at": "2026-09-11T10:39:57Z",
+    "updated_at": "2026-09-11T10:59:21Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "\u77ed\u7ebf\u4fa0(duanxianxia.cn) \u975e\u5b98\u65b9 Python \u6570\u636e\u63a5\u53e3 + opencode skill\uff1a\u6da8\u505c\u64ad\u62a5/\u7ade\u4ef7\u5f02\u52a8/\u677f\u5757\u5f3a\u5ea6/\u8d44\u91d1\u6d41\u5411/\u9f99\u864e\u699c/\u8fde\u677f\u5929\u68af/\u60c5\u7eea\u6307\u6807\u7b49 30+ \u7aef\u70b9",
-    "id": "627-hub/duanxianxia-skill",
-    "language": "\u2014",
-    "name": "627-hub/duanxianxia-skill",
-    "stars": 0,
-    "updated_at": "2026-09-11T10:38:53Z",
-    "url": "https://github.com/627-hub/duanxianxia-skill"
-  },
-  {
-    "description": "Convert Agent Skills (SKILL.md) format to OpenAI Codex plugin bundles \u2014 stdlib-only, enforces official manifest hard con",
-    "id": "chenhz01/zhengming-openai-plugins",
-    "language": "Python",
-    "name": "chenhz01/zhengming-openai-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-11T10:37:27Z",
-    "url": "https://github.com/chenhz01/zhengming-openai-plugins"
   },
   {
     "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple gr",
@@ -81,24 +171,6 @@
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68936,
-    "updated_at": "2026-09-11T10:40:36Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-11T10:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -126,15 +198,6 @@
     "url": "https://github.com/SELAT-AI/selat-plugins"
   },
   {
-    "description": "SKILL.md pack: Chinese official documents (GB-style \u516c\u6587) \u00b7 docx generation + WPS PDF + coordinate-level layout verificati",
-    "id": "mazihua-lgtm/gongwen-skill",
-    "language": "JavaScript",
-    "name": "mazihua-lgtm/gongwen-skill",
-    "stars": 0,
-    "updated_at": "2026-09-11T10:25:21Z",
-    "url": "https://github.com/mazihua-lgtm/gongwen-skill"
-  },
-  {
     "description": "Claude skills for PxWebAPI v2 and v1. Main skill is towards Statistics Norway (SSB). Also Jupyter notebooks, javascript ",
     "id": "janbrus/pxwebapi-skills",
     "language": "Jupyter Notebook",
@@ -157,7 +220,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 93660,
+    "stars": 93659,
     "updated_at": "2026-09-11T10:23:00Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -239,7 +302,7 @@
     "language": "HTML",
     "name": "elieandraos/agentic-engineering",
     "stars": 0,
-    "updated_at": "2026-09-11T10:38:55Z",
+    "updated_at": "2026-09-11T10:56:38Z",
     "url": "https://github.com/elieandraos/agentic-engineering"
   },
   {
@@ -302,7 +365,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-11T10:38:06Z",
+    "updated_at": "2026-09-11T10:58:38Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T09:51:18Z",
     "url": "https://github.com/php-opcua/ai-skills"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:51:06Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:49:15Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Reusable Claude Code skills for matplotlib visualization and Google Sheets automation",
-    "id": "Pirat83/claude-code-skills",
-    "language": "Shell",
-    "name": "Pirat83/claude-code-skills",
-    "stars": 2,
-    "updated_at": "2026-09-11T09:47:27Z",
-    "url": "https://github.com/Pirat83/claude-code-skills"
-  },
-  {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 2,
-    "updated_at": "2026-09-11T09:47:53Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:46:02Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
-    "id": "ArcticFox2029/chamnan",
-    "language": "Python",
-    "name": "ArcticFox2029/chamnan",
-    "stars": 4,
-    "updated_at": "2026-09-11T09:46:03Z",
-    "url": "https://github.com/ArcticFox2029/chamnan"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-09-11T09:45:11Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   }
 ]
