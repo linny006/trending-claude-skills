@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 62,
+    "updated_at": "2026-09-11T16:12:27Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Declarative management of Agent Skills on Nix",
+    "id": "Kyure-A/agent-skills-nix",
+    "language": "Nix",
+    "name": "Kyure-A/agent-skills-nix",
+    "stars": 232,
+    "updated_at": "2026-09-11T16:10:57Z",
+    "url": "https://github.com/Kyure-A/agent-skills-nix"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 10,
+    "updated_at": "2026-09-11T16:10:21Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Skills for Claude Code that carry a house style for Java projects",
+    "id": "dmitriy-iliyov/claude-skills",
+    "language": "\u2014",
+    "name": "dmitriy-iliyov/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-11T16:08:48Z",
+    "url": "https://github.com/dmitriy-iliyov/claude-skills"
+  },
+  {
+    "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, win",
+    "id": "Crowd9/giveaway-skills",
+    "language": "Python",
+    "name": "Crowd9/giveaway-skills",
+    "stars": 2,
+    "updated_at": "2026-09-11T16:08:29Z",
+    "url": "https://github.com/Crowd9/giveaway-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68950,
+    "updated_at": "2026-09-11T16:14:34Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-11T16:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The loop for everything!",
     "id": "MadaraUchiha-314/the-loop",
     "language": "Python",
@@ -9,15 +72,6 @@
     "url": "https://github.com/MadaraUchiha-314/the-loop"
   },
   {
-    "description": "Agent skill that turns natural language, code, Terraform/K8s, SQL and OpenAPI sources into editable, tested draw.io arch",
-    "id": "Agents365-ai/drawio-skill",
-    "language": "Python",
-    "name": "Agents365-ai/drawio-skill",
-    "stars": 9234,
-    "updated_at": "2026-09-11T15:58:55Z",
-    "url": "https://github.com/Agents365-ai/drawio-skill"
-  },
-  {
     "description": "",
     "id": "SELAT-AI/selat-skills",
     "language": "JavaScript",
@@ -25,24 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T15:58:21Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68949,
-    "updated_at": "2026-09-11T15:59:32Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, win",
-    "id": "Crowd9/giveaway-skills",
-    "language": "Python",
-    "name": "Crowd9/giveaway-skills",
-    "stars": 2,
-    "updated_at": "2026-09-11T15:57:10Z",
-    "url": "https://github.com/Crowd9/giveaway-skills"
   },
   {
     "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
@@ -85,7 +121,7 @@
     "id": "suboss87/FDEOps",
     "language": "JavaScript",
     "name": "suboss87/FDEOps",
-    "stars": 500,
+    "stars": 501,
     "updated_at": "2026-09-11T15:49:01Z",
     "url": "https://github.com/suboss87/FDEOps"
   },
@@ -115,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T15:46:41Z",
     "url": "https://github.com/imtiazrayhan/agentscamp-library"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-11T15:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
@@ -158,7 +185,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-09-11T15:57:41Z",
+    "updated_at": "2026-09-11T16:14:20Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-11T14:49:56Z",
+    "updated_at": "2026-09-11T16:01:53Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T14:44:35Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-09-11T14:43:13Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Agent skills for making an AI-built application production ready: diagnose what is missing, then install only what fits.",
-    "id": "TrustyCap-Technologies/trustycap-skills",
-    "language": "JavaScript",
-    "name": "TrustyCap-Technologies/trustycap-skills",
-    "stars": 0,
-    "updated_at": "2026-09-11T14:42:07Z",
-    "url": "https://github.com/TrustyCap-Technologies/trustycap-skills"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-09-11T14:41:45Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   }
 ]
