@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "mkebiclioglu/formlabs-claude-skills",
     "stars": 0,
-    "updated_at": "2026-09-12T20:43:35Z",
+    "updated_at": "2026-09-12T20:58:24Z",
     "url": "https://github.com/mkebiclioglu/formlabs-claude-skills"
+  },
+  {
+    "description": "Skills for product design",
+    "id": "ommakes/Skills",
+    "language": "HTML",
+    "name": "ommakes/Skills",
+    "stars": 20,
+    "updated_at": "2026-09-12T20:56:47Z",
+    "url": "https://github.com/ommakes/Skills"
+  },
+  {
+    "description": "Reproducible requirements-quality review (ISO 29148 / INCOSE): deterministic linter + agent skill, Italian and English",
+    "id": "EnzinoBB/requirements-review",
+    "language": "Python",
+    "name": "EnzinoBB/requirements-review",
+    "stars": 0,
+    "updated_at": "2026-09-12T20:53:44Z",
+    "url": "https://github.com/EnzinoBB/requirements-review"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-09-12T20:53:02Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-12T20:51:19Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A fast local vector store for AI agents \u2014 index files once, keep it current as you save, and answer questions across all",
+    "id": "semlith/semlith",
+    "language": "Rust",
+    "name": "semlith/semlith",
+    "stars": 1,
+    "updated_at": "2026-09-12T20:47:11Z",
+    "url": "https://github.com/semlith/semlith"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-12T20:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -36,15 +90,6 @@
     "url": "https://github.com/jddavenportOpen/instinct-standing-doc"
   },
   {
-    "description": "A fast local vector store for AI agents \u2014 index files once, keep it current as you save, and answer questions across all",
-    "id": "semlith/semlith",
-    "language": "Rust",
-    "name": "semlith/semlith",
-    "stars": 1,
-    "updated_at": "2026-09-12T20:40:46Z",
-    "url": "https://github.com/semlith/semlith"
-  },
-  {
     "description": "Agent skill aggregator \u2014 index and retrieve SKILL.md from pluggable sources",
     "id": "cjohnhanson/almanac",
     "language": "Rust",
@@ -52,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T20:37:49Z",
     "url": "https://github.com/cjohnhanson/almanac"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-12T20:35:35Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Playwright for coding agents. Benchmark Claude Code, Codex, Gemini, and OpenCode on your own tasks - and test that your ",
@@ -117,7 +153,7 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "Give your AI agent the judgment most eval advice skips: when you actually need an eval or benchmark, how to build one th",
+    "description": "Teach your agent to work with evals: WHEN you actually need an eval or benchmark, HOW to build one that holds up, and ho",
     "id": "alexgreensh/eval-genius",
     "language": "Python",
     "name": "alexgreensh/eval-genius",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T20:03:40Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:03:37Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Build a tiny Claude Code clone in Python with agent loop, tools, permissions, and context management in ~800 lines",
-    "id": "Sleeknessbounder869/miniClaudeCode",
-    "language": "\u2014",
-    "name": "Sleeknessbounder869/miniClaudeCode",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:03:35Z",
-    "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
-  },
-  {
-    "description": "Explore a public Claude Code source snapshot for security research, supply-chain analysis, and CLI architecture review",
-    "id": "Angeliquetreated862/claude-code-src",
-    "language": "TypeScript",
-    "name": "Angeliquetreated862/claude-code-src",
-    "stars": 2,
-    "updated_at": "2026-09-12T20:03:32Z",
-    "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
-    "id": "Defiladeboarfish90/agent-memory",
-    "language": "TypeScript",
-    "name": "Defiladeboarfish90/agent-memory",
-    "stars": 2,
-    "updated_at": "2026-09-12T20:03:27Z",
-    "url": "https://github.com/Defiladeboarfish90/agent-memory"
   }
 ]
