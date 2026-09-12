@@ -1,5 +1,68 @@
 [
   {
+    "description": "Agentic skillset to automatically complete Canvas assignments based on your own writing samples",
+    "id": "98ping/chip",
+    "language": "JavaScript",
+    "name": "98ping/chip",
+    "stars": 1,
+    "updated_at": "2026-09-12T23:13:15Z",
+    "url": "https://github.com/98ping/chip"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-09-12T23:10:54Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-12T23:08:54Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Claude Code skills for content creators. Cut silence from video, normalize audio, remove filler words.",
+    "id": "AndersonAdelino/skills",
+    "language": "Python",
+    "name": "AndersonAdelino/skills",
+    "stars": 3,
+    "updated_at": "2026-09-12T23:03:47Z",
+    "url": "https://github.com/AndersonAdelino/skills"
+  },
+  {
+    "description": "Turn pull requests and code diffs into interactive HTML walkthroughs that explain the logical flow of a change.",
+    "id": "malav2110/explain-diff-html",
+    "language": "HTML",
+    "name": "malav2110/explain-diff-html",
+    "stars": 2,
+    "updated_at": "2026-09-12T23:03:47Z",
+    "url": "https://github.com/malav2110/explain-diff-html"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 4,
+    "updated_at": "2026-09-12T23:03:44Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-12T23:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -7,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-09-12T23:00:05Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Agentic skillset to automatically complete Canvas assignments based on your own writing samples",
-    "id": "98ping/chip",
-    "language": "JavaScript",
-    "name": "98ping/chip",
-    "stars": 1,
-    "updated_at": "2026-09-12T22:58:16Z",
-    "url": "https://github.com/98ping/chip"
   },
   {
     "description": "Routing rules for handing work from your agent system to Instinct: the doc, a Claude Code skill, and an AGENTS.md. Unoff",
@@ -36,24 +90,6 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-12T22:55:07Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 4,
-    "updated_at": "2026-09-12T22:49:03Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T22:46:37Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-12T22:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -112,7 +139,7 @@
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
-    "stars": 20,
+    "stars": 21,
     "updated_at": "2026-09-12T22:36:08Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T22:14:30Z",
     "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
-    "id": "Defiladeboarfish90/agent-memory",
-    "language": "TypeScript",
-    "name": "Defiladeboarfish90/agent-memory",
-    "stars": 2,
-    "updated_at": "2026-09-12T22:14:27Z",
-    "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-09-12T22:14:24Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-12T22:14:22Z",
-    "url": "https://github.com/martinambrus/haive"
   }
 ]
