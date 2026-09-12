@@ -1,11 +1,128 @@
 [
   {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-09-12T09:58:57Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30746,
+    "updated_at": "2026-09-12T09:58:39Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Gives coding agents the real source of your dependencies, not a guess.",
+    "id": "kaisers-io/refs",
+    "language": "TypeScript",
+    "name": "kaisers-io/refs",
+    "stars": 7,
+    "updated_at": "2026-09-12T09:58:23Z",
+    "url": "https://github.com/kaisers-io/refs"
+  },
+  {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 13,
+    "updated_at": "2026-09-12T09:57:16Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
+    "description": "Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP se",
+    "id": "mcpware/cross-code-organizer",
+    "language": "JavaScript",
+    "name": "mcpware/cross-code-organizer",
+    "stars": 375,
+    "updated_at": "2026-09-12T09:56:02Z",
+    "url": "https://github.com/mcpware/cross-code-organizer"
+  },
+  {
+    "description": "Validate a product idea before building it \u2014 measures supply and search demand, returns a red/yellow/green verdict. Glob",
+    "id": "xxdeye/red-ocean-scanner",
+    "language": "Python",
+    "name": "xxdeye/red-ocean-scanner",
+    "stars": 0,
+    "updated_at": "2026-09-12T09:53:09Z",
+    "url": "https://github.com/xxdeye/red-ocean-scanner"
+  },
+  {
+    "description": "Phone notifications and human-in-the-loop for Claude Cowork. Pushary skill, setup guide, and plugin manifest.",
+    "id": "Pushary/cowork-plugin",
+    "language": "\u2014",
+    "name": "Pushary/cowork-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-12T09:50:37Z",
+    "url": "https://github.com/Pushary/cowork-plugin"
+  },
+  {
+    "description": "Push notifications + human-in-the-loop for AI agents. Approve from your lock screen. Claude Code, Claude Cowork, Codex, ",
+    "id": "Pushary/pushary-skill",
+    "language": "\u2014",
+    "name": "Pushary/pushary-skill",
+    "stars": 1,
+    "updated_at": "2026-09-12T09:50:31Z",
+    "url": "https://github.com/Pushary/pushary-skill"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-12T09:50:17Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-09-12T09:46:43Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-12T09:45:44Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
+    "id": "wei18/apple-dev-skills",
+    "language": "Python",
+    "name": "wei18/apple-dev-skills",
+    "stars": 19,
+    "updated_at": "2026-09-12T09:45:18Z",
+    "url": "https://github.com/wei18/apple-dev-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-12T09:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Codex and Claude Code skill for effective engineering workflow scaffolding",
     "id": "xeonvs/codex-engineering-workflow",
     "language": "Python",
     "name": "xeonvs/codex-engineering-workflow",
     "stars": 1,
-    "updated_at": "2026-09-12T09:42:16Z",
+    "updated_at": "2026-09-12T09:46:13Z",
     "url": "https://github.com/xeonvs/codex-engineering-workflow"
   },
   {
@@ -63,15 +180,6 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
-    "description": "Skills for AI-agent-driven Swift / Apple-platform development \u2014 composable via git submodule; aggregates other specialis",
-    "id": "wei18/apple-dev-skills",
-    "language": "Python",
-    "name": "wei18/apple-dev-skills",
-    "stars": 19,
-    "updated_at": "2026-09-12T09:43:47Z",
-    "url": "https://github.com/wei18/apple-dev-skills"
-  },
-  {
     "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
     "id": "mimukit/skills",
     "language": "Shell",
@@ -108,15 +216,6 @@
     "url": "https://github.com/rokokol/contributing-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-12T09:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Too long; didn't read \u2014 for AI coding agents. A skill that makes Claude Code, Cursor, Codex, Gemini CLI and 16 more lead",
     "id": "SurefireStudios/tldr",
     "language": "Python",
@@ -131,7 +230,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-12T09:27:03Z",
+    "updated_at": "2026-09-12T09:53:01Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -140,7 +239,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-12T09:45:09Z",
+    "updated_at": "2026-09-12T09:56:24Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -151,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T09:15:15Z",
     "url": "https://github.com/lbyh0116/write-chinese-exam-essays"
-  },
-  {
-    "description": "Validate a product idea before building it \u2014 measures supply and search demand, returns a red/yellow/green verdict. Glob",
-    "id": "xxdeye/red-ocean-scanner",
-    "language": "Python",
-    "name": "xxdeye/red-ocean-scanner",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:13:28Z",
-    "url": "https://github.com/xxdeye/red-ocean-scanner"
   },
   {
     "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T09:02:34Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-12T09:01:19Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:01:10Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:01:05Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-09-12T09:01:04Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:00:46Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "AI Skills That Actually Do Things \u2014 \u4e2d\u6587\u512a\u5148\u7684 Claude Code / Codex agent skills \u5408\u96c6 \u00b7 Reusable bilingual skills for any LLM wo",
-    "id": "KerberosClaw/kc_ai_skills",
-    "language": "Python",
-    "name": "KerberosClaw/kc_ai_skills",
-    "stars": 79,
-    "updated_at": "2026-09-12T09:00:13Z",
-    "url": "https://github.com/KerberosClaw/kc_ai_skills"
-  },
-  {
-    "description": "Run Claude Code locally with TUI and Electron desktop support, plus flexible Anthropic/OpenAI-compatible API access and ",
-    "id": "briefless-orgasm922/claude-code-t8",
-    "language": "\u2014",
-    "name": "briefless-orgasm922/claude-code-t8",
-    "stars": 0,
-    "updated_at": "2026-09-12T08:59:55Z",
-    "url": "https://github.com/briefless-orgasm922/claude-code-t8"
-  },
-  {
-    "description": "Restore and run Claude Code source with full native modules, types, and internals for local use and MCP mode",
-    "id": "aymannaim822-create/claude-code-source",
-    "language": "\u2014",
-    "name": "aymannaim822-create/claude-code-source",
-    "stars": 0,
-    "updated_at": "2026-09-12T08:59:53Z",
-    "url": "https://github.com/aymannaim822-create/claude-code-source"
-  },
-  {
-    "description": "Build a tiny Claude Code clone in Python with agent loop, tools, permissions, and context management in ~800 lines",
-    "id": "Sleeknessbounder869/miniClaudeCode",
-    "language": "\u2014",
-    "name": "Sleeknessbounder869/miniClaudeCode",
-    "stars": 0,
-    "updated_at": "2026-09-12T08:59:44Z",
-    "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-12T08:59:35Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
