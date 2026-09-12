@@ -1,5 +1,32 @@
 [
   {
+    "description": "Reusable GitHub Copilot prompts for development workflows with Jira integration",
+    "id": "SilverAssist/agents-toolkit",
+    "language": "TypeScript",
+    "name": "SilverAssist/agents-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:47:46Z",
+    "url": "https://github.com/SilverAssist/agents-toolkit"
+  },
+  {
+    "description": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
+    "id": "NishikantaRay/Attic",
+    "language": "JavaScript",
+    "name": "NishikantaRay/Attic",
+    "stars": 4,
+    "updated_at": "2026-09-12T15:45:32Z",
+    "url": "https://github.com/NishikantaRay/Attic"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 39,
+    "updated_at": "2026-09-12T15:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud648\ud0dd\uc2a4 \uc138\ubb34 \uc791\uc5c5\uc744 AI\uc5d0\uac8c \ub9d0\ub85c \uc2dc\ud0a4\ub294 \ubb34\ub8cc \uc2a4\ud0ac 6\uc885 \u2014 \ubd80\uac00\uc138\u00b7\uc885\ud569\uc18c\ub4dd\uc138\u00b7\uc804\uc790\uc138\uae08\uacc4\uc0b0\uc11c (Claude/Codex/Aside)",
     "id": "lbiz-partners/hometax-doum",
     "language": "Shell",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68972,
-    "updated_at": "2026-09-12T15:44:15Z",
+    "updated_at": "2026-09-12T15:51:27Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "staskh/trading_skills",
     "stars": 364,
-    "updated_at": "2026-09-12T15:42:49Z",
+    "updated_at": "2026-09-12T15:46:20Z",
     "url": "https://github.com/staskh/trading_skills"
   },
   {
@@ -81,7 +108,7 @@
     "url": "https://github.com/sergeyklay/.agents"
   },
   {
-    "description": "Markdown to WeChat CLI | \u4e00\u952e\u6392\u7248\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u652f\u6301 40+ \u6392\u7248\u6837\u5f0f\u548c\u4e13\u4e1a\u4e3b\u9898 \u3001AI \u914d\u56fe \u3001\u6279\u91cf\u53d1\u5e03 \u3001\u591a\u8d26\u53f7\u7ba1\u7406",
+    "description": "Markdown to WeChat CLI | \u4e00\u952e\u6392\u7248\u53d1\u5e03\u5230\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u652f\u6301 40+ \u6392\u7248\u6837\u5f0f\u548c\u4e13\u4e1a\u4e3b\u9898 \u3001AI \u914d\u56fe \u3001\u6279\u91cf\u53d1\u5e03 \u3001\u591a\u8d26\u53f7\u7ba1\u7406\u3001\u591a\u5e73\u53f0\u53d1\u5e03",
     "id": "geekjourneyx/md2wechat-skill",
     "language": "Go",
     "name": "geekjourneyx/md2wechat-skill",
@@ -108,15 +135,6 @@
     "url": "https://github.com/aitit-inc/leadace"
   },
   {
-    "description": "Reusable GitHub Copilot prompts for development workflows with Jira integration",
-    "id": "SilverAssist/agents-toolkit",
-    "language": "TypeScript",
-    "name": "SilverAssist/agents-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-12T15:43:57Z",
-    "url": "https://github.com/SilverAssist/agents-toolkit"
-  },
-  {
     "description": "Not every change should be shipped. Not every passing review means a change is ready. Make your AI agents earn the word ",
     "id": "fbac/umbrella",
     "language": "Shell",
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T15:31:06Z",
     "url": "https://github.com/fbac/umbrella"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 39,
-    "updated_at": "2026-09-12T15:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A free cross-platform editorial standard for AI writing.",
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "slopstopper/plumb-line",
     "stars": 4,
-    "updated_at": "2026-09-12T15:25:40Z",
+    "updated_at": "2026-09-12T15:51:57Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T15:21:06Z",
     "url": "https://github.com/nerdstalker/ui-ux-fixer"
-  },
-  {
-    "description": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
-    "id": "NishikantaRay/Attic",
-    "language": "JavaScript",
-    "name": "NishikantaRay/Attic",
-    "stars": 4,
-    "updated_at": "2026-09-12T15:18:33Z",
-    "url": "https://github.com/NishikantaRay/Attic"
   },
   {
     "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u043e\u0440\u043d\u0435\u0432\u043e\u0439 \u0441\u0430\u0439\u0442 GitHub Pages: \u0432\u0438\u0437\u0438\u0442\u043a\u0430 \u0438 \u0441\u0441\u044b\u043b\u043a\u0438 \u043d\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u044b | Showcase of open-source AI skills and MCP servers by il",
@@ -203,7 +203,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30745,
-    "updated_at": "2026-09-12T15:12:25Z",
+    "updated_at": "2026-09-12T15:47:04Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-12T14:33:20Z",
+    "updated_at": "2026-09-12T15:50:55Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {

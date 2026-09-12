@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 15:45 UTC
+> ⏰ Last updated: 2026-09-12 15:52 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lbiz-partners/hometax-doum](https://github.com/lbiz-partners/hometax-doum) | 51 | Shell | 2026-09-12 | 홈택스 세무 작업을 AI에게 말로 시키는 무료 스킬 6종 — 부가세·종합소득세·전자세금계산서 (Claude/Codex/Aside) |
-| 2 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68972 | TypeScript | 2026-09-12 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| 3 | [aahl/skills](https://github.com/aahl/skills) | 156 | Python | 2026-09-12 | AAHL's Agent Skills. 汇集了多种实用的智能体技能，涵盖Home Assistant智能家居控制、微软Edge TTS和智谱GLM-TTS文本转语音、DuckDuckGo搜索、DeepWiki文档检索、加密货币行情、天气预 |
-| 4 | [staskh/trading_skills](https://github.com/staskh/trading_skills) | 364 | Python | 2026-09-12 | Claude powered advisor system for option traders |
-| 5 | [Open-Dev-Society/kitbash](https://github.com/Open-Dev-Society/kitbash) | 3 | TypeScript | 2026-09-12 | Tells your AI agent which parts of your idea already exist on GitHub, which to adapt, and which to just write — every re |
-| 6 | [beau-education/beau-plugin](https://github.com/beau-education/beau-plugin) | 1 | — | 2026-09-12 | Claude Plugin for Beau |
-| 7 | [SteveKinzey/claude-code-tools-installer](https://github.com/SteveKinzey/claude-code-tools-installer) | 0 | JavaScript | 2026-09-12 | Safe interactive macOS installer for a curated Claude Code tools stack |
-| 8 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-09-12 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
-| 9 | [sergeyklay/.agents](https://github.com/sergeyklay/.agents) | 5 | Python | 2026-09-12 | My personal, curated set of artifacts for AI coding agents |
-| 10 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3643 | Go | 2026-09-12 | Markdown to WeChat CLI \| 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 |
-| 11 | [skills-agents-co/skills-and-agents-library](https://github.com/skills-agents-co/skills-and-agents-library) | 1 | JavaScript | 2026-09-12 | Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra |
-| 12 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 3 | TypeScript | 2026-09-12 | AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in |
-| 13 | [SilverAssist/agents-toolkit](https://github.com/SilverAssist/agents-toolkit) | 1 | TypeScript | 2026-09-12 | Reusable GitHub Copilot prompts for development workflows with Jira integration |
-| 14 | [fbac/umbrella](https://github.com/fbac/umbrella) | 0 | Shell | 2026-09-12 | Not every change should be shipped. Not every passing review means a change is ready. Make your AI agents earn the word  |
-| 15 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 39 | Python | 2026-09-12 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 16 | [jposluns/cleanlanguage](https://github.com/jposluns/cleanlanguage) | 3 | Python | 2026-09-12 | A free cross-platform editorial standard for AI writing. |
-| 17 | [slopstopper/plumb-line](https://github.com/slopstopper/plumb-line) | 4 | Python | 2026-09-12 | Stop uncertain data becoming confident-looking results. Plumb-line propagates provenance, taint, and confidence through  |
-| 18 | [52Siriyue/douyin-video-read](https://github.com/52Siriyue/douyin-video-read) | 0 | Python | 2026-09-12 | Agent Skill：读取抖音视频内容。L1 拿元信息+官方章节要点，L2 用浏览器逐帧截图+字幕OCR生成完整讲稿。支持 WorkBuddy / Claude Code / Codex，浏览器与OCR后端可插拔。 |
-| 19 | [nerdstalker/ui-ux-fixer](https://github.com/nerdstalker/ui-ux-fixer) | 1 | — | 2026-09-12 | Claude Code skill (portable to any AI harness) that reviews UI/UX work through Luke Wroblewski's published design princi |
-| 20 | [NishikantaRay/Attic](https://github.com/NishikantaRay/Attic) | 4 | JavaScript | 2026-09-12 | Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't. |
+| 1 | [SilverAssist/agents-toolkit](https://github.com/SilverAssist/agents-toolkit) | 1 | TypeScript | 2026-09-12 | Reusable GitHub Copilot prompts for development workflows with Jira integration |
+| 2 | [NishikantaRay/Attic](https://github.com/NishikantaRay/Attic) | 4 | JavaScript | 2026-09-12 | Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't. |
+| 3 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 39 | Python | 2026-09-12 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 4 | [lbiz-partners/hometax-doum](https://github.com/lbiz-partners/hometax-doum) | 51 | Shell | 2026-09-12 | 홈택스 세무 작업을 AI에게 말로 시키는 무료 스킬 6종 — 부가세·종합소득세·전자세금계산서 (Claude/Codex/Aside) |
+| 5 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68972 | TypeScript | 2026-09-12 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 6 | [aahl/skills](https://github.com/aahl/skills) | 156 | Python | 2026-09-12 | AAHL's Agent Skills. 汇集了多种实用的智能体技能，涵盖Home Assistant智能家居控制、微软Edge TTS和智谱GLM-TTS文本转语音、DuckDuckGo搜索、DeepWiki文档检索、加密货币行情、天气预 |
+| 7 | [staskh/trading_skills](https://github.com/staskh/trading_skills) | 364 | Python | 2026-09-12 | Claude powered advisor system for option traders |
+| 8 | [Open-Dev-Society/kitbash](https://github.com/Open-Dev-Society/kitbash) | 3 | TypeScript | 2026-09-12 | Tells your AI agent which parts of your idea already exist on GitHub, which to adapt, and which to just write — every re |
+| 9 | [beau-education/beau-plugin](https://github.com/beau-education/beau-plugin) | 1 | — | 2026-09-12 | Claude Plugin for Beau |
+| 10 | [SteveKinzey/claude-code-tools-installer](https://github.com/SteveKinzey/claude-code-tools-installer) | 0 | JavaScript | 2026-09-12 | Safe interactive macOS installer for a curated Claude Code tools stack |
+| 11 | [M1LL4r3S-Droid/notion-sync-nexus](https://github.com/M1LL4r3S-Droid/notion-sync-nexus) | 0 | HTML | 2026-09-12 | Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting |
+| 12 | [sergeyklay/.agents](https://github.com/sergeyklay/.agents) | 5 | Python | 2026-09-12 | My personal, curated set of artifacts for AI coding agents |
+| 13 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3643 | Go | 2026-09-12 | Markdown to WeChat CLI \| 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布 |
+| 14 | [skills-agents-co/skills-and-agents-library](https://github.com/skills-agents-co/skills-and-agents-library) | 1 | JavaScript | 2026-09-12 | Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra |
+| 15 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 3 | TypeScript | 2026-09-12 | AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in |
+| 16 | [fbac/umbrella](https://github.com/fbac/umbrella) | 0 | Shell | 2026-09-12 | Not every change should be shipped. Not every passing review means a change is ready. Make your AI agents earn the word  |
+| 17 | [jposluns/cleanlanguage](https://github.com/jposluns/cleanlanguage) | 3 | Python | 2026-09-12 | A free cross-platform editorial standard for AI writing. |
+| 18 | [slopstopper/plumb-line](https://github.com/slopstopper/plumb-line) | 4 | Python | 2026-09-12 | Stop uncertain data becoming confident-looking results. Plumb-line propagates provenance, taint, and confidence through  |
+| 19 | [52Siriyue/douyin-video-read](https://github.com/52Siriyue/douyin-video-read) | 0 | Python | 2026-09-12 | Agent Skill：读取抖音视频内容。L1 拿元信息+官方章节要点，L2 用浏览器逐帧截图+字幕OCR生成完整讲稿。支持 WorkBuddy / Claude Code / Codex，浏览器与OCR后端可插拔。 |
+| 20 | [nerdstalker/ui-ux-fixer](https://github.com/nerdstalker/ui-ux-fixer) | 1 | — | 2026-09-12 | Claude Code skill (portable to any AI harness) that reviews UI/UX work through Luke Wroblewski's published design princi |
 | 21 | [ilyautov/ilyautov.github.io](https://github.com/ilyautov/ilyautov.github.io) | 1 | HTML | 2026-09-12 | Личный корневой сайт GitHub Pages: визитка и ссылки на проекты \| Showcase of open-source AI skills and MCP servers by il |
 | 22 | [kwoekel/woekel-works](https://github.com/kwoekel/woekel-works) | 0 | Python | 2026-09-12 | Practical Claude Code and Codex skills for safer, lighter operations. |
 | 23 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 30745 | TypeScript | 2026-09-12 | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco |
