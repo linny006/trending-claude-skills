@@ -1,21 +1,39 @@
 [
   {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-09-12T12:13:54Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
+    "description": "A fast local vector store for AI agents \u2014 index files once, keep it current as you save, and answer questions across all",
+    "id": "semlith/semlith",
+    "language": "Rust",
+    "name": "semlith/semlith",
+    "stars": 1,
+    "updated_at": "2026-09-12T12:29:38Z",
+    "url": "https://github.com/semlith/semlith"
   },
   {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-12T12:12:52Z",
-    "url": "https://github.com/TyrusRC/praetor"
+    "description": "AI \u4e2a\u4eba\u53d1\u5c55\u5b9a\u4f4d\u6559\u7ec3 Skill\uff1a\u4ece\u6df7\u4e71\u8868\u8fbe\u8d70\u5230\u53ef\u9a8c\u8bc1\u7684\u9636\u6bb5\u5224\u65ad\u4e0e\u884c\u52a8\u3002\u9002\u914d Codex\u3001Claude Code\u3001OpenClaw\u3001WorkBuddy \u7b49 Agent Skills \u8fd0\u884c\u73af\u5883\u3002",
+    "id": "renhuanyi/aren-personal-development-positioning",
+    "language": "\u2014",
+    "name": "renhuanyi/aren-personal-development-positioning",
+    "stars": 0,
+    "updated_at": "2026-09-12T12:28:58Z",
+    "url": "https://github.com/renhuanyi/aren-personal-development-positioning"
+  },
+  {
+    "description": "",
+    "id": "TonasMo/petshop-amigo",
+    "language": "TypeScript",
+    "name": "TonasMo/petshop-amigo",
+    "stars": 0,
+    "updated_at": "2026-09-12T12:25:00Z",
+    "url": "https://github.com/TonasMo/petshop-amigo"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-12T12:22:28Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
     "description": "Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP se",
@@ -23,8 +41,35 @@
     "language": "JavaScript",
     "name": "mcpware/cross-code-organizer",
     "stars": 375,
-    "updated_at": "2026-09-12T12:12:35Z",
+    "updated_at": "2026-09-12T12:22:23Z",
     "url": "https://github.com/mcpware/cross-code-organizer"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 5,
+    "updated_at": "2026-09-12T12:15:44Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 39,
+    "updated_at": "2026-09-12T12:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-09-12T12:13:54Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -68,7 +113,7 @@
     "language": "\u2014",
     "name": "EndlessBlueWJL/schengen-visa-guide",
     "stars": 29,
-    "updated_at": "2026-09-12T12:02:53Z",
+    "updated_at": "2026-09-12T12:26:46Z",
     "url": "https://github.com/EndlessBlueWJL/schengen-visa-guide"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T12:00:47Z",
     "url": "https://github.com/RubyEyedReaper/Odin-Skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 39,
-    "updated_at": "2026-09-12T12:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Graph RAG on SQLite for AI agents: vector retrieval + hand-curated wikilink graph + cross-encoder rerank, with a zero-to",
@@ -319,7 +355,7 @@
     "id": "eternityspring/reelbench-skills",
     "language": "JavaScript",
     "name": "eternityspring/reelbench-skills",
-    "stars": 249,
+    "stars": 250,
     "updated_at": "2026-09-12T11:26:22Z",
     "url": "https://github.com/eternityspring/reelbench-skills"
   },
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30745,
-    "updated_at": "2026-09-12T12:10:32Z",
+    "updated_at": "2026-09-12T12:20:14Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T11:06:14Z",
     "url": "https://github.com/DahanItamar/uilint"
-  },
-  {
-    "description": "Awesome Claude Code And Agent Tools",
-    "id": "cooler333/cool-claude-code",
-    "language": "Python",
-    "name": "cooler333/cool-claude-code",
-    "stars": 10,
-    "updated_at": "2026-09-12T11:05:22Z",
-    "url": "https://github.com/cooler333/cool-claude-code"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68963,
-    "updated_at": "2026-09-12T11:02:59Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-09-12T11:01:57Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
-    "id": "aitit-inc/leadace",
-    "language": "TypeScript",
-    "name": "aitit-inc/leadace",
-    "stars": 3,
-    "updated_at": "2026-09-12T11:01:40Z",
-    "url": "https://github.com/aitit-inc/leadace"
   }
 ]
