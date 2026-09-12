@@ -1,5 +1,113 @@
 [
   {
+    "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, win",
+    "id": "Crowd9/giveaway-skills",
+    "language": "Python",
+    "name": "Crowd9/giveaway-skills",
+    "stars": 2,
+    "updated_at": "2026-09-12T05:27:20Z",
+    "url": "https://github.com/Crowd9/giveaway-skills"
+  },
+  {
+    "description": "A Claude skill for building a GitHub profile README that fits the person: copy a style you like, turn a picture into an ",
+    "id": "DEOWL-kan/github-profile-studio",
+    "language": "Python",
+    "name": "DEOWL-kan/github-profile-studio",
+    "stars": 0,
+    "updated_at": "2026-09-12T05:27:17Z",
+    "url": "https://github.com/DEOWL-kan/github-profile-studio"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 19,
+    "updated_at": "2026-09-12T05:27:04Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "\u7092\u80a1/\u91cf\u5316\u4ea4\u6613/\u9009\u80a1 AI Skill \u5408\u96c6\uff1a\u6536\u5f55\u56fd\u5185\u5916 GitHub \u4e0a\u7684\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u3001\u9009\u80a1\u7b56\u7565 Agent Skills\uff0c\u9644\u7d22\u5f15\u4e0e\u5408\u89c4\u8f6c\u8f7d",
+    "id": "Serennity007/awesome-stock-quant-skills",
+    "language": "Python",
+    "name": "Serennity007/awesome-stock-quant-skills",
+    "stars": 5,
+    "updated_at": "2026-09-12T05:26:00Z",
+    "url": "https://github.com/Serennity007/awesome-stock-quant-skills"
+  },
+  {
+    "description": "Reusable framework for requirements work: BRD/NFR/ADR templates, quality rules, and agent skills that draft and review r",
+    "id": "YuliaMelekhova/analyst-toolkit",
+    "language": "\u2014",
+    "name": "YuliaMelekhova/analyst-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-12T05:25:17Z",
+    "url": "https://github.com/YuliaMelekhova/analyst-toolkit"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 435,
+    "updated_at": "2026-09-12T05:23:46Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Agent skill aggregator \u2014 index and retrieve SKILL.md from pluggable sources",
+    "id": "cjohnhanson/almanac",
+    "language": "Rust",
+    "name": "cjohnhanson/almanac",
+    "stars": 1,
+    "updated_at": "2026-09-12T05:29:02Z",
+    "url": "https://github.com/cjohnhanson/almanac"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68952,
+    "updated_at": "2026-09-12T05:28:45Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-12T05:26:42Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-09-12T05:15:17Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-12T05:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
+    "id": "Samuellalight8026/spam-filter-advisor-skill",
+    "language": "Python",
+    "name": "Samuellalight8026/spam-filter-advisor-skill",
+    "stars": 0,
+    "updated_at": "2026-09-12T05:15:09Z",
+    "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
+  },
+  {
     "description": "Run coding agents like Claude, ChatGPT, and Codex side-by-side with separate profiles per account on macOS, Windows, and",
     "id": "burnabyjudicial666/agent-profiles",
     "language": "Rust",
@@ -18,15 +126,6 @@
     "url": "https://github.com/thanhn3977/oh-story-claudecode"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68951,
-    "updated_at": "2026-09-12T05:13:38Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Search and manage AI coding sessions locally with full-text search across 7 tools.",
     "id": "Unstable-ascendingartery75/ai-session-search",
     "language": "TypeScript",
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T05:12:59Z",
     "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
-  },
-  {
-    "description": "A Claude skill for building a GitHub profile README that fits the person: copy a style you like, turn a picture into an ",
-    "id": "DEOWL-kan/github-profile-studio",
-    "language": "Python",
-    "name": "DEOWL-kan/github-profile-studio",
-    "stars": 0,
-    "updated_at": "2026-09-12T05:12:41Z",
-    "url": "https://github.com/DEOWL-kan/github-profile-studio"
   },
   {
     "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
@@ -70,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-09-12T05:11:19Z",
     "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, win",
-    "id": "Crowd9/giveaway-skills",
-    "language": "Python",
-    "name": "Crowd9/giveaway-skills",
-    "stars": 2,
-    "updated_at": "2026-09-12T05:10:32Z",
-    "url": "https://github.com/Crowd9/giveaway-skills"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -293,7 +374,7 @@
     "language": "Python",
     "name": "Ap6pack/outrider-recon",
     "stars": 12,
-    "updated_at": "2026-09-12T05:03:09Z",
+    "updated_at": "2026-09-12T05:29:32Z",
     "url": "https://github.com/Ap6pack/outrider-recon"
   },
   {
@@ -320,7 +401,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-12T05:02:47Z",
+    "updated_at": "2026-09-12T05:29:53Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T05:01:05Z",
     "url": "https://github.com/maduwanthasathsara0-hub/claude-proj-blueprint"
-  },
-  {
-    "description": "Extract, structure, and apply visual design identity as machine-readable Design DNA across tokens, style, and effects",
-    "id": "Tricholomaaurantiumknottiness355/design-dna",
-    "language": "\u2014",
-    "name": "Tricholomaaurantiumknottiness355/design-dna",
-    "stars": 4,
-    "updated_at": "2026-09-12T05:00:53Z",
-    "url": "https://github.com/Tricholomaaurantiumknottiness355/design-dna"
-  },
-  {
-    "description": "Build AI-friendly web interfaces with semantic HTML, ARIA, stable locators, and form best practices for better automatio",
-    "id": "avilaok8647/ai-friendly-web-design-skill",
-    "language": "JavaScript",
-    "name": "avilaok8647/ai-friendly-web-design-skill",
-    "stars": 1,
-    "updated_at": "2026-09-12T05:00:49Z",
-    "url": "https://github.com/avilaok8647/ai-friendly-web-design-skill"
-  },
-  {
-    "description": "Connect Claude Code to WeChat for terminal chat, with QR login and long-poll WeChat iLink Bot support",
-    "id": "goldiacogitative647/claude-plugin-weixin",
-    "language": "TypeScript",
-    "name": "goldiacogitative647/claude-plugin-weixin",
-    "stars": 0,
-    "updated_at": "2026-09-12T05:00:29Z",
-    "url": "https://github.com/goldiacogitative647/claude-plugin-weixin"
-  },
-  {
-    "description": "Build reusable AI agent skills for marketing and engineering tasks with on-demand, domain-specific guidance.",
-    "id": "hssh8917/cc-skills",
-    "language": "Shell",
-    "name": "hssh8917/cc-skills",
-    "stars": 2,
-    "updated_at": "2026-09-12T05:00:26Z",
-    "url": "https://github.com/hssh8917/cc-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-12T05:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Teach AI assistants to generate correct Unity and Jahro debugging code, with skills for commands, watchers, snapshots, l",
-    "id": "Logiiiii/unity-agent-skills",
-    "language": "\u2014",
-    "name": "Logiiiii/unity-agent-skills",
-    "stars": 3,
-    "updated_at": "2026-09-12T04:59:54Z",
-    "url": "https://github.com/Logiiiii/unity-agent-skills"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-12T04:59:53Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Enhance Claude Code CLI with undo, safety hooks, session resume, effort control, MCP tools, and multilingual i18n",
-    "id": "Caseous-kerrcell366/claude",
-    "language": "Python",
-    "name": "Caseous-kerrcell366/claude",
-    "stars": 2,
-    "updated_at": "2026-09-12T04:59:46Z",
-    "url": "https://github.com/Caseous-kerrcell366/claude"
-  },
-  {
-    "description": "Manage reusable Claude Code skills for PR review, security audits, and dependency checks to save time on real projects",
-    "id": "nariatrip191/my-claude-skills",
-    "language": "Python",
-    "name": "nariatrip191/my-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-12T04:59:05Z",
-    "url": "https://github.com/nariatrip191/my-claude-skills"
   }
 ]
