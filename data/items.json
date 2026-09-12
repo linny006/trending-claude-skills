@@ -1,19 +1,100 @@
 [
   {
+    "description": "Claude Plugin: Local Linear AI agent, your favorite harness",
+    "id": "mikhailkogan17/cycler",
+    "language": "JavaScript",
+    "name": "mikhailkogan17/cycler",
+    "stars": 0,
+    "updated_at": "2026-09-12T17:57:10Z",
+    "url": "https://github.com/mikhailkogan17/cycler"
+  },
+  {
+    "description": "Unofficial Agent Skill for Claude Code and other SKILL.md-compatible agents, driving ArvanCloud's APIs (CDN, DNS, IaaS, ",
+    "id": "erfnzdeh/arvancloud-agent-skill",
+    "language": "\u2014",
+    "name": "erfnzdeh/arvancloud-agent-skill",
+    "stars": 88,
+    "updated_at": "2026-09-12T17:52:01Z",
+    "url": "https://github.com/erfnzdeh/arvancloud-agent-skill"
+  },
+  {
+    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-b",
+    "id": "polar-bear-org/claude-skills",
+    "language": "Shell",
+    "name": "polar-bear-org/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-12T17:51:53Z",
+    "url": "https://github.com/polar-bear-org/claude-skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-12T17:49:03Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Your AI Just Started Praying 5 Times a Day \u2014 live Islamic sun times, full ritual posts, daily discipline loop for agent ",
+    "id": "magomed-esendirov/ai-agent-prays-5-times-a-day-skill",
+    "language": "Python",
+    "name": "magomed-esendirov/ai-agent-prays-5-times-a-day-skill",
+    "stars": 1,
+    "updated_at": "2026-09-12T17:47:37Z",
+    "url": "https://github.com/magomed-esendirov/ai-agent-prays-5-times-a-day-skill"
+  },
+  {
+    "description": "A knowledge base for coding agents, built from Markdown, backlinks, semantic search, and Git context.",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 13,
+    "updated_at": "2026-09-12T17:47:31Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 111,
+    "updated_at": "2026-09-12T17:46:44Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
     "description": "Print on your Formlabs printer from Claude Code. Plugin marketplace: MCP server + print-prep skills.",
     "id": "mkebiclioglu/formlabs-claude-skills",
     "language": "Python",
     "name": "mkebiclioglu/formlabs-claude-skills",
     "stars": 0,
-    "updated_at": "2026-09-12T17:44:35Z",
+    "updated_at": "2026-09-12T17:46:43Z",
     "url": "https://github.com/mkebiclioglu/formlabs-claude-skills"
+  },
+  {
+    "description": "The missing tool to sift your Claude Code sessions: regex search across all record types, recover files, extract images,",
+    "id": "wdhwg001/csift",
+    "language": "Rust",
+    "name": "wdhwg001/csift",
+    "stars": 31,
+    "updated_at": "2026-09-12T17:46:00Z",
+    "url": "https://github.com/wdhwg001/csift"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-12T17:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 93726,
+    "stars": 93728,
     "updated_at": "2026-09-12T17:42:32Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T17:38:51Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Unofficial Agent Skill for Claude Code and other SKILL.md-compatible agents, driving ArvanCloud's APIs (CDN, DNS, IaaS, ",
-    "id": "erfnzdeh/arvancloud-agent-skill",
-    "language": "\u2014",
-    "name": "erfnzdeh/arvancloud-agent-skill",
-    "stars": 88,
-    "updated_at": "2026-09-12T17:36:33Z",
-    "url": "https://github.com/erfnzdeh/arvancloud-agent-skill"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -117,15 +189,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-12T17:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -148,7 +211,7 @@
     "id": "sergebulaev/linkedin-skills",
     "language": "Python",
     "name": "sergebulaev/linkedin-skills",
-    "stars": 1992,
+    "stars": 1995,
     "updated_at": "2026-09-12T17:27:44Z",
     "url": "https://github.com/sergebulaev/linkedin-skills"
   },
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-12T17:05:42Z",
     "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
-    "id": "428alexander9/claude-skills-marketplace",
-    "language": "Python",
-    "name": "428alexander9/claude-skills-marketplace",
-    "stars": 3,
-    "updated_at": "2026-09-12T17:02:50Z",
-    "url": "https://github.com/428alexander9/claude-skills-marketplace"
-  },
-  {
-    "description": "Human + AI music production workflow for Suno - skills, templates, and tools",
-    "id": "bitwize-music-studio/claude-ai-music-skills",
-    "language": "Python",
-    "name": "bitwize-music-studio/claude-ai-music-skills",
-    "stars": 486,
-    "updated_at": "2026-09-12T17:43:04Z",
-    "url": "https://github.com/bitwize-music-studio/claude-ai-music-skills"
-  },
-  {
-    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
-    "id": "the-nam-shub/e5-real-skills",
-    "language": "TypeScript",
-    "name": "the-nam-shub/e5-real-skills",
-    "stars": 8,
-    "updated_at": "2026-09-12T17:00:34Z",
-    "url": "https://github.com/the-nam-shub/e5-real-skills"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-09-12T17:00:20Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
-    "id": "aliasunder/agent-plugins",
-    "language": "\u2014",
-    "name": "aliasunder/agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-12T16:59:34Z",
-    "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 19,
-    "updated_at": "2026-09-12T16:59:10Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-09-12T16:58:46Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
   }
 ]
