@@ -1,12 +1,84 @@
 [
   {
+    "description": "Are we present in search and AI answers? One audit surface for SEO, AEO, GEO, LLMO and Korean engines (Naver, Daum). Cra",
+    "id": "kindsusu/su-presence",
+    "language": "Python",
+    "name": "kindsusu/su-presence",
+    "stars": 0,
+    "updated_at": "2026-09-12T02:14:29Z",
+    "url": "https://github.com/kindsusu/su-presence"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 3,
+    "updated_at": "2026-09-12T02:13:28Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
     "description": "Too long; didn't read \u2014 for AI coding agents. A skill that makes Claude Code, Cursor, Codex, Gemini CLI and 13 more lead",
     "id": "SurefireStudios/tldr",
     "language": "Python",
     "name": "SurefireStudios/tldr",
     "stars": 3,
-    "updated_at": "2026-09-12T01:59:40Z",
+    "updated_at": "2026-09-12T02:10:10Z",
     "url": "https://github.com/SurefireStudios/tldr"
+  },
+  {
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. ",
+    "id": "K-Dense-AI/scientific-agent-skills",
+    "language": "Python",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "stars": 44477,
+    "updated_at": "2026-09-12T02:09:21Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "description": "Skills for product design",
+    "id": "ommakes/Skills",
+    "language": "HTML",
+    "name": "ommakes/Skills",
+    "stars": 20,
+    "updated_at": "2026-09-12T02:06:26Z",
+    "url": "https://github.com/ommakes/Skills"
+  },
+  {
+    "description": "6 \u5957\u5b9e\u6218\u6253\u78e8\u7684 AI Agent Skills \u5408\u96c6\uff08Claude Code / OpenCode / Codex / Cursor\uff09\uff1a\u521b\u59cb\u4eba IP \u6218\u7565 \u00b7 \u5185\u5bb9\u9884\u6d4b\u6821\u51c6 \u00b7 \u83b7\u5ba2\u95ed\u73af \u00b7 \u6df1\u5ea6\u9605\u8bfb \u00b7 Skill \u5de5\u7a0b \u00b7 \u89c6\u9891\u5236\u4f5c\u3002",
+    "id": "Huanyu-Hibiki/Huanyu-Skills",
+    "language": "TypeScript",
+    "name": "Huanyu-Hibiki/Huanyu-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-12T02:04:41Z",
+    "url": "https://github.com/Huanyu-Hibiki/Huanyu-Skills"
+  },
+  {
+    "description": "Self-contained agentic development harness for Claude Code \u2014 one command runs the full feature pipeline (plan \u2192 execute ",
+    "id": "jdanigo/hydraia",
+    "language": "JavaScript",
+    "name": "jdanigo/hydraia",
+    "stars": 8,
+    "updated_at": "2026-09-12T02:03:40Z",
+    "url": "https://github.com/jdanigo/hydraia"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 1,
+    "updated_at": "2026-09-12T02:01:14Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-12T02:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Evidence-bound business architecture engineering: strategy, value streams, capabilities and process architecture with de",
@@ -22,7 +94,7 @@
     "id": "eternityspring/reelbench-skills",
     "language": "HTML",
     "name": "eternityspring/reelbench-skills",
-    "stars": 182,
+    "stars": 187,
     "updated_at": "2026-09-12T01:56:22Z",
     "url": "https://github.com/eternityspring/reelbench-skills"
   },
@@ -63,24 +135,6 @@
     "url": "https://github.com/mcpware/cross-code-organizer"
   },
   {
-    "description": "6 \u5957\u5b9e\u6218\u6253\u78e8\u7684 AI Agent Skills \u5408\u96c6\uff08Claude Code / OpenCode / Codex / Cursor\uff09\uff1a\u521b\u59cb\u4eba IP \u6218\u7565 \u00b7 \u5185\u5bb9\u9884\u6d4b\u6821\u51c6 \u00b7 \u83b7\u5ba2\u95ed\u73af \u00b7 \u6df1\u5ea6\u9605\u8bfb \u00b7 Skill \u5de5\u7a0b \u00b7 \u89c6\u9891\u5236\u4f5c\u3002",
-    "id": "Huanyu-Hibiki/Huanyu-Skills",
-    "language": "TypeScript",
-    "name": "Huanyu-Hibiki/Huanyu-Skills",
-    "stars": 1,
-    "updated_at": "2026-09-12T01:50:25Z",
-    "url": "https://github.com/Huanyu-Hibiki/Huanyu-Skills"
-  },
-  {
-    "description": "Are we present in search and AI answers? One audit surface for SEO, AEO, GEO, LLMO and Korean engines (Naver, Daum). Cra",
-    "id": "kindsusu/su-presence",
-    "language": "Python",
-    "name": "kindsusu/su-presence",
-    "stars": 0,
-    "updated_at": "2026-09-12T01:49:30Z",
-    "url": "https://github.com/kindsusu/su-presence"
-  },
-  {
     "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, win",
     "id": "Crowd9/giveaway-skills",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-09-12T01:46:51Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-12T01:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u9762\u5411\u4e2d\u6587 Java/Spring \u751f\u6001\u7684 Agent Skills \u5957\u88c5\uff1a\u7f16\u7801\u89c4\u8303\u3001\u8d28\u91cf\u95e8\u7981\u3001\u5355\u5143\u6d4b\u8bd5\u3001Sa-Token/MyBatis-Plus \u6846\u67b6\u3001\u654f\u6377\u6d41\u7a0b\u3002\u652f\u6301 Claude Code \u63d2\u4ef6\u4e0e npx skills \u4e00\u952e\u5b89\u88c5\u3002",
@@ -214,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T01:21:58Z",
     "url": "https://github.com/johnisanerd/claude-skill-plan-hotel-stays"
-  },
-  {
-    "description": "Skills for product design",
-    "id": "ommakes/Skills",
-    "language": "HTML",
-    "name": "ommakes/Skills",
-    "stars": 20,
-    "updated_at": "2026-09-12T01:59:12Z",
-    "url": "https://github.com/ommakes/Skills"
-  },
-  {
-    "description": "Self-contained agentic development harness for Claude Code \u2014 one command runs the full feature pipeline (plan \u2192 execute ",
-    "id": "jdanigo/hydraia",
-    "language": "JavaScript",
-    "name": "jdanigo/hydraia",
-    "stars": 8,
-    "updated_at": "2026-09-12T01:19:07Z",
-    "url": "https://github.com/jdanigo/hydraia"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T00:41:57Z",
     "url": "https://github.com/benskamps/seo-superpower"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-12T00:34:05Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "38 slash commands that turn Claude Code into a real PDLC workflow \u2014 PRD \u2192 TDD \u2192 implement \u2192 review \u2192 ship. Hard contract",
-    "id": "kanfu-panda/pdlc-skills",
-    "language": "Shell",
-    "name": "kanfu-panda/pdlc-skills",
-    "stars": 13,
-    "updated_at": "2026-09-12T01:41:38Z",
-    "url": "https://github.com/kanfu-panda/pdlc-skills"
-  },
-  {
-    "description": "Playwright for coding agents. Benchmark Claude Code, Codex, Gemini, and OpenCode on your own tasks - and test that your ",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 128,
-    "updated_at": "2026-09-12T00:48:06Z",
-    "url": "https://github.com/UiPath/coder_eval"
   }
 ]
