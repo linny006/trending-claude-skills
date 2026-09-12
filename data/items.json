@@ -1,5 +1,50 @@
 [
   {
+    "description": "Too long; didn't read \u2014 for AI coding agents. A skill that makes Claude Code, Cursor, Codex, Gemini CLI and 16 more lead",
+    "id": "SurefireStudios/tldr",
+    "language": "Python",
+    "name": "SurefireStudios/tldr",
+    "stars": 5,
+    "updated_at": "2026-09-12T09:26:20Z",
+    "url": "https://github.com/SurefireStudios/tldr"
+  },
+  {
+    "description": "Navigable project documentation for Claude Code \u2014 a knowledge base your coding agent can pick up cold, instead of redisc",
+    "id": "x0c/doc-skills",
+    "language": "Python",
+    "name": "x0c/doc-skills",
+    "stars": 2,
+    "updated_at": "2026-09-12T09:25:48Z",
+    "url": "https://github.com/x0c/doc-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-12T09:27:03Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Everything published under your GitHub identity, approved card by card, and the homework before contributing upstream",
+    "id": "rokokol/contributing-skill",
+    "language": "Shell",
+    "name": "rokokol/contributing-skill",
+    "stars": 0,
+    "updated_at": "2026-09-12T09:20:33Z",
+    "url": "https://github.com/rokokol/contributing-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-12T09:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
@@ -7,6 +52,15 @@
     "stars": 23,
     "updated_at": "2026-09-12T09:14:57Z",
     "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "\u4e2d\u6587\u8003\u573a\u8bae\u8bba\u6587\u5199\u4f5c Skill\uff1a\u4ece\u6750\u6599\u63d0\u70bc\u7acb\u610f\u4e0e\u8bba\u8bc1\u5c42\u6b21\uff0c\u4fdd\u7559\u9ad8\u4e2d\u751f\u6587\u6c14\uff0c\u51cf\u5c11\u5957\u8bdd\u4e0e\u673a\u68b0\u5bf9\u4e3e | A skill for writing Chinese high-school exam argumentative essays (\u6750\u6599\u8bae\u8bba",
+    "id": "lbyh0116/write-chinese-exam-essays",
+    "language": "\u2014",
+    "name": "lbyh0116/write-chinese-exam-essays",
+    "stars": 0,
+    "updated_at": "2026-09-12T09:15:15Z",
+    "url": "https://github.com/lbyh0116/write-chinese-exam-essays"
   },
   {
     "description": "Validate a product idea before building it \u2014 measures supply and search demand, returns a red/yellow/green verdict. Glob",
@@ -261,15 +315,6 @@
     "url": "https://github.com/close-shellflower7762/e2e-tester"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-12T09:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI Skills That Actually Do Things \u2014 \u4e2d\u6587\u512a\u5148\u7684 Claude Code / Codex agent skills \u5408\u96c6 \u00b7 Reusable bilingual skills for any LLM wo",
     "id": "KerberosClaw/kc_ai_skills",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-12T08:58:31Z",
     "url": "https://github.com/soothing-carport96/anti-ai-slop-writing"
-  },
-  {
-    "description": "Agent Skill for Installing and Running Antigravity Within the Claude Sandbox for Web and Mobile Versions",
-    "id": "mokouliszt/antigravity-bridge-skill",
-    "language": "Shell",
-    "name": "mokouliszt/antigravity-bridge-skill",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:02:51Z",
-    "url": "https://github.com/mokouliszt/antigravity-bridge-skill"
-  },
-  {
-    "description": "Build a custom Home Assistant setup with automation templates, a mobile React dashboard, and Claude Code-assisted config",
-    "id": "psychological-ruble517/homeassistant-claude-kit",
-    "language": "\u2014",
-    "name": "psychological-ruble517/homeassistant-claude-kit",
-    "stars": 1,
-    "updated_at": "2026-09-12T08:58:19Z",
-    "url": "https://github.com/psychological-ruble517/homeassistant-claude-kit"
-  },
-  {
-    "description": "Build Claude Code skills for computational design, parametric modeling, simulation, BIM scripting, and fabrication in AE",
-    "id": "marcinfinitesimal533/Claude-skills-for-Computational-Designers",
-    "language": "Python",
-    "name": "marcinfinitesimal533/Claude-skills-for-Computational-Designers",
-    "stars": 2,
-    "updated_at": "2026-09-12T08:58:04Z",
-    "url": "https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers"
-  },
-  {
-    "description": "Run threat hunting workflows for agentic IDEs like Claude Code, OpenCode, and Gemini in one command",
-    "id": "3dcom2711/thrunt-god",
-    "language": "JavaScript",
-    "name": "3dcom2711/thrunt-god",
-    "stars": 0,
-    "updated_at": "2026-09-12T08:57:47Z",
-    "url": "https://github.com/3dcom2711/thrunt-god"
-  },
-  {
-    "description": "Build AI agent skills with dialectical methods and practical tools from classical materialist philosophy for clearer jud",
-    "id": "SanjithBolloju18/qiushi-skill",
-    "language": "JavaScript",
-    "name": "SanjithBolloju18/qiushi-skill",
-    "stars": 1,
-    "updated_at": "2026-09-12T08:57:47Z",
-    "url": "https://github.com/SanjithBolloju18/qiushi-skill"
   }
 ]
