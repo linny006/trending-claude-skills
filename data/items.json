@@ -1,5 +1,95 @@
 [
   {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-12T18:45:00Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "My collection of Claude skills",
+    "id": "oaustegard/claude-skills",
+    "language": "Python",
+    "name": "oaustegard/claude-skills",
+    "stars": 148,
+    "updated_at": "2026-09-12T18:40:57Z",
+    "url": "https://github.com/oaustegard/claude-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace: cc-changelog, fal-image-generator, llm-council and update-plugins.",
+    "id": "josefheld/claude-plugins",
+    "language": "Python",
+    "name": "josefheld/claude-plugins",
+    "stars": 1,
+    "updated_at": "2026-09-12T18:39:08Z",
+    "url": "https://github.com/josefheld/claude-plugins"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 155,
+    "updated_at": "2026-09-12T18:35:51Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-09-12T18:35:23Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Ballast doesn't make the ship faster. It stops it going over. Agent skills that encode when NOT to do something. Claude ",
+    "id": "Jawahars07/ballast",
+    "language": "TeX",
+    "name": "Jawahars07/ballast",
+    "stars": 0,
+    "updated_at": "2026-09-12T18:34:50Z",
+    "url": "https://github.com/Jawahars07/ballast"
+  },
+  {
+    "description": "Can you legally ship this agent skill? Resolves the SPDX license of any SKILL.md repo (MIT, AGPL, BUSL...), validates it",
+    "id": "Vortexeddev/skillcheck",
+    "language": "TypeScript",
+    "name": "Vortexeddev/skillcheck",
+    "stars": 1,
+    "updated_at": "2026-09-12T18:33:28Z",
+    "url": "https://github.com/Vortexeddev/skillcheck"
+  },
+  {
+    "description": "Local-first AI coding agent orchestrator with a terminal UI \u2014 isolated worktrees, a real build/lint/test gate, and polic",
+    "id": "ykocaman/baron",
+    "language": "Go",
+    "name": "ykocaman/baron",
+    "stars": 2,
+    "updated_at": "2026-09-12T18:32:07Z",
+    "url": "https://github.com/ykocaman/baron"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-12T18:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 93733,
+    "updated_at": "2026-09-12T18:29:49Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "YouTube and YouTube Shorts marketing skills for Claude Code and Codex: high-CTR titles, SEO descriptions, retention hook",
     "id": "sergebulaev/youtube-skills",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T18:29:22Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 93733,
-    "updated_at": "2026-09-12T18:29:49Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Print on your Formlabs printer from Claude Code. Plugin marketplace: MCP server + print-prep skills.",
@@ -99,15 +180,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Ballast doesn't make the ship faster. It stops it going over. Agent skills that encode when NOT to do something. Claude ",
-    "id": "Jawahars07/ballast",
-    "language": "TeX",
-    "name": "Jawahars07/ballast",
-    "stars": 0,
-    "updated_at": "2026-09-12T18:19:38Z",
-    "url": "https://github.com/Jawahars07/ballast"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -130,7 +202,7 @@
     "id": "sergebulaev/linkedin-skills",
     "language": "Python",
     "name": "sergebulaev/linkedin-skills",
-    "stars": 2001,
+    "stars": 2007,
     "updated_at": "2026-09-12T18:16:54Z",
     "url": "https://github.com/sergebulaev/linkedin-skills"
   },
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T18:16:40Z",
     "url": "https://github.com/SilverAssist/agents-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-12T18:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "staskh/trading_skills",
     "stars": 364,
-    "updated_at": "2026-09-12T18:20:50Z",
+    "updated_at": "2026-09-12T18:41:44Z",
     "url": "https://github.com/staskh/trading_skills"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-12T17:34:20Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-09-12T17:32:30Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "A fast local vector store for AI agents \u2014 index files once, keep it current as you save, and answer questions across all",
-    "id": "semlith/semlith",
-    "language": "Rust",
-    "name": "semlith/semlith",
-    "stars": 1,
-    "updated_at": "2026-09-12T17:32:11Z",
-    "url": "https://github.com/semlith/semlith"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 1,
-    "updated_at": "2026-09-12T17:31:16Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 52,
-    "updated_at": "2026-09-12T17:29:43Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-12T17:28:50Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-09-12T17:26:08Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-09-12T17:19:43Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
