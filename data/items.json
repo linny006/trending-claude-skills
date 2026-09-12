@@ -1,21 +1,39 @@
 [
   {
-    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
-    "id": "serpro69/claude-toolbox",
-    "language": "Shell",
-    "name": "serpro69/claude-toolbox",
-    "stars": 149,
-    "updated_at": "2026-09-12T14:59:59Z",
-    "url": "https://github.com/serpro69/claude-toolbox"
+    "description": "Practical Claude Code and Codex skills for safer, lighter operations.",
+    "id": "kwoekel/woekel-works",
+    "language": "Python",
+    "name": "kwoekel/woekel-works",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:13:08Z",
+    "url": "https://github.com/kwoekel/woekel-works"
   },
   {
-    "description": "Windows-first Agent Skill for long-running jobs: local queues, bounded logs, safe recovery, and artifact checks. Python ",
-    "id": "dhzyw/long-task-runner",
-    "language": "Python",
-    "name": "dhzyw/long-task-runner",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:57:43Z",
-    "url": "https://github.com/dhzyw/long-task-runner"
+    "description": "\ud648\ud0dd\uc2a4 \uc138\ubb34 \uc791\uc5c5\uc744 AI\uc5d0\uac8c \ub9d0\ub85c \uc2dc\ud0a4\ub294 \ubb34\ub8cc \uc2a4\ud0ac 6\uc885 \u2014 \ubd80\uac00\uc138\u00b7\uc885\ud569\uc18c\ub4dd\uc138\u00b7\uc804\uc790\uc138\uae08\uacc4\uc0b0\uc11c (Claude/Codex/Aside)",
+    "id": "lbiz-partners/hometax-doum",
+    "language": "Shell",
+    "name": "lbiz-partners/hometax-doum",
+    "stars": 51,
+    "updated_at": "2026-09-12T15:09:15Z",
+    "url": "https://github.com/lbiz-partners/hometax-doum"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-12T15:06:01Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
+    "id": "skills-agents-co/skills-and-agents-library",
+    "language": "JavaScript",
+    "name": "skills-agents-co/skills-and-agents-library",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:14:08Z",
+    "url": "https://github.com/skills-agents-co/skills-and-agents-library"
   },
   {
     "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
@@ -23,8 +41,62 @@
     "language": "HTML",
     "name": "geml-spec/geml",
     "stars": 26,
-    "updated_at": "2026-09-12T14:55:49Z",
+    "updated_at": "2026-09-12T15:04:39Z",
     "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-12T15:03:21Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
+    "id": "serpro69/claude-toolbox",
+    "language": "Shell",
+    "name": "serpro69/claude-toolbox",
+    "stars": 149,
+    "updated_at": "2026-09-12T15:04:08Z",
+    "url": "https://github.com/serpro69/claude-toolbox"
+  },
+  {
+    "description": "Agent skill aggregator \u2014 index and retrieve SKILL.md from pluggable sources",
+    "id": "cjohnhanson/almanac",
+    "language": "Rust",
+    "name": "cjohnhanson/almanac",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:04:47Z",
+    "url": "https://github.com/cjohnhanson/almanac"
+  },
+  {
+    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
+    "id": "gagip/gagip-dev",
+    "language": "Python",
+    "name": "gagip/gagip-dev",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:00:38Z",
+    "url": "https://github.com/gagip/gagip-dev"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 39,
+    "updated_at": "2026-09-12T15:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Windows-first Agent Skill for long-running jobs: local queues, bounded logs, safe recovery, and artifact checks. Python ",
+    "id": "dhzyw/long-task-runner",
+    "language": "Python",
+    "name": "dhzyw/long-task-runner",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:00:36Z",
+    "url": "https://github.com/dhzyw/long-task-runner"
   },
   {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
@@ -95,17 +167,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-12T14:47:09Z",
+    "updated_at": "2026-09-12T15:03:34Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 39,
-    "updated_at": "2026-09-12T14:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T14:12:38Z",
     "url": "https://github.com/royalpinto007/awesome-agent-skills"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-09-12T14:12:18Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Skill Heaven -- for real software engineers. Agent Plugin that treats your skills like RAM, not Storage. Summon skills w",
-    "id": "gaia-research/gaia-skill-heaven",
-    "language": "JavaScript",
-    "name": "gaia-research/gaia-skill-heaven",
-    "stars": 4,
-    "updated_at": "2026-09-12T14:10:40Z",
-    "url": "https://github.com/gaia-research/gaia-skill-heaven"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-09-12T14:10:14Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "My personal, curated set of artifacts for AI coding agents",
-    "id": "sergeyklay/.agents",
-    "language": "Python",
-    "name": "sergeyklay/.agents",
-    "stars": 5,
-    "updated_at": "2026-09-12T14:40:04Z",
-    "url": "https://github.com/sergeyklay/.agents"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2484,
-    "updated_at": "2026-09-12T14:06:12Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "Agent skill aggregator \u2014 index and retrieve SKILL.md from pluggable sources",
-    "id": "cjohnhanson/almanac",
-    "language": "Rust",
-    "name": "cjohnhanson/almanac",
-    "stars": 1,
-    "updated_at": "2026-09-12T14:52:15Z",
-    "url": "https://github.com/cjohnhanson/almanac"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-09-12T14:04:55Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
   }
 ]
