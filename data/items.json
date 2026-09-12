@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "Crowd9/giveaway-skills",
     "stars": 2,
-    "updated_at": "2026-09-12T01:14:52Z",
+    "updated_at": "2026-09-12T01:28:57Z",
     "url": "https://github.com/Crowd9/giveaway-skills"
+  },
+  {
+    "description": "Are we present in search and AI answers? One audit surface for SEO, AEO, GEO, LLMO and Korean engines (Naver, Daum). Cra",
+    "id": "kindsusu/su-presence",
+    "language": "Python",
+    "name": "kindsusu/su-presence",
+    "stars": 0,
+    "updated_at": "2026-09-12T01:28:11Z",
+    "url": "https://github.com/kindsusu/su-presence"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-12T01:25:30Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Claude/agent skill: plan an entire trip (flights, hotels, logistics) into a total-cost itinerary, powered by Apify Googl",
+    "id": "johnisanerd/claude-skill-plan-a-trip",
+    "language": "Python",
+    "name": "johnisanerd/claude-skill-plan-a-trip",
+    "stars": 0,
+    "updated_at": "2026-09-12T01:22:01Z",
+    "url": "https://github.com/johnisanerd/claude-skill-plan-a-trip"
+  },
+  {
+    "description": "Claude/agent skill: plan flights with ranked options and Google Flights price insights, powered by the Apify Google Flig",
+    "id": "johnisanerd/claude-skill-plan-flights",
+    "language": "Python",
+    "name": "johnisanerd/claude-skill-plan-flights",
+    "stars": 0,
+    "updated_at": "2026-09-12T01:21:59Z",
+    "url": "https://github.com/johnisanerd/claude-skill-plan-flights"
+  },
+  {
+    "description": "Claude/agent skill: plan hotel stays with a ranked hotel and rental comparison and an email-ready price table, powered b",
+    "id": "johnisanerd/claude-skill-plan-hotel-stays",
+    "language": "Python",
+    "name": "johnisanerd/claude-skill-plan-hotel-stays",
+    "stars": 0,
+    "updated_at": "2026-09-12T01:21:58Z",
+    "url": "https://github.com/johnisanerd/claude-skill-plan-hotel-stays"
+  },
+  {
+    "description": "Skills for product design",
+    "id": "ommakes/Skills",
+    "language": "HTML",
+    "name": "ommakes/Skills",
+    "stars": 20,
+    "updated_at": "2026-09-12T01:19:58Z",
+    "url": "https://github.com/ommakes/Skills"
+  },
+  {
+    "description": "Self-contained agentic development harness for Claude Code \u2014 one command runs the full feature pipeline (plan \u2192 execute ",
+    "id": "jdanigo/hydraia",
+    "language": "JavaScript",
+    "name": "jdanigo/hydraia",
+    "stars": 8,
+    "updated_at": "2026-09-12T01:19:07Z",
+    "url": "https://github.com/jdanigo/hydraia"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-09-12T01:18:43Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-12T01:18:14Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-12T01:15:16Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 38,
+    "updated_at": "2026-09-12T01:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Meta-skills for creating, reviewing, and maintaining production-quality Agent Skills.",
@@ -63,15 +162,6 @@
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
-    "description": "Skills for product design",
-    "id": "ommakes/Skills",
-    "language": "HTML",
-    "name": "ommakes/Skills",
-    "stars": 20,
-    "updated_at": "2026-09-12T01:09:12Z",
-    "url": "https://github.com/ommakes/Skills"
-  },
-  {
     "description": "Lightweight coding agent harness built in Rust for zero vendor lock-in. 7 MB,  Support Codex and grok subscriptions too",
     "id": "milisp/keke-agent",
     "language": "Rust",
@@ -79,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-09-12T01:07:59Z",
     "url": "https://github.com/milisp/keke-agent"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-12T01:13:35Z",
-    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -106,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-12T01:01:28Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 38,
-    "updated_at": "2026-09-12T01:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -162,24 +234,6 @@
     "url": "https://github.com/SurefireStudios/tldr"
   },
   {
-    "description": "Are we present in search and AI answers? One audit surface for SEO, AEO, GEO, LLMO and Korean engines (Naver, Daum). Cra",
-    "id": "kindsusu/su-presence",
-    "language": "Python",
-    "name": "kindsusu/su-presence",
-    "stars": 0,
-    "updated_at": "2026-09-12T00:50:11Z",
-    "url": "https://github.com/kindsusu/su-presence"
-  },
-  {
-    "description": "Self-contained agentic development harness for Claude Code \u2014 one command runs the full feature pipeline (plan \u2192 execute ",
-    "id": "jdanigo/hydraia",
-    "language": "Python",
-    "name": "jdanigo/hydraia",
-    "stars": 8,
-    "updated_at": "2026-09-12T00:50:16Z",
-    "url": "https://github.com/jdanigo/hydraia"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -203,7 +257,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30745,
-    "updated_at": "2026-09-12T01:11:13Z",
+    "updated_at": "2026-09-12T01:29:39Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-12T00:53:54Z",
+    "updated_at": "2026-09-12T01:22:16Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T00:00:00Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Claude Code skills for content creators. Cut silence from video, normalize audio, remove filler words.",
-    "id": "AndersonAdelino/skills",
-    "language": "Python",
-    "name": "AndersonAdelino/skills",
-    "stars": 3,
-    "updated_at": "2026-09-11T23:59:08Z",
-    "url": "https://github.com/AndersonAdelino/skills"
-  },
-  {
-    "description": "An open-source Claude skill that builds ATS-optimized resumes with a 100-point scoring rubric, candidate-type playbooks,",
-    "id": "saranya-sallagundla/resume-builder-skill",
-    "language": "Python",
-    "name": "saranya-sallagundla/resume-builder-skill",
-    "stars": 0,
-    "updated_at": "2026-09-12T00:00:53Z",
-    "url": "https://github.com/saranya-sallagundla/resume-builder-skill"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-11T23:58:17Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-11T23:58:09Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-09-11T23:57:36Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-11T23:57:30Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   }
 ]
