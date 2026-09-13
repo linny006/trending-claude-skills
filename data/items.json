@@ -1,11 +1,119 @@
 [
   {
+    "description": "Agent Skills for paid media: channel selection, budgets, audiences, creative, and measurement.",
+    "id": "mbfinotti/advertising-skills",
+    "language": "Python",
+    "name": "mbfinotti/advertising-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:10:10Z",
+    "url": "https://github.com/mbfinotti/advertising-skills"
+  },
+  {
+    "description": "Agent Skills for partner ecosystem operations: affiliate programs, influencer partnerships, channel alliances, joint GTM",
+    "id": "mbfinotti/partnerships-skills",
+    "language": "Python",
+    "name": "mbfinotti/partnerships-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:10:09Z",
+    "url": "https://github.com/mbfinotti/partnerships-skills"
+  },
+  {
+    "description": "Agent Skills for revenue operations: CRM data governance, pipeline and funnel management, lead routing and scoring, deal",
+    "id": "mbfinotti/revops-skills",
+    "language": "Python",
+    "name": "mbfinotti/revops-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:10:08Z",
+    "url": "https://github.com/mbfinotti/revops-skills"
+  },
+  {
+    "description": "Agent Skills for running a sales org and closing the deals in it: market sizing, ICP, quota and comp design, cold outbou",
+    "id": "mbfinotti/sales-skills",
+    "language": "Python",
+    "name": "mbfinotti/sales-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:10:07Z",
+    "url": "https://github.com/mbfinotti/sales-skills"
+  },
+  {
+    "description": "\ud83e\udead Agent Skills for technical event organizers: conferences, meetups, hackathons, speakers, and sponsorships.",
+    "id": "samber/dev-event-organizer-skills",
+    "language": "Python",
+    "name": "samber/dev-event-organizer-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:14:17Z",
+    "url": "https://github.com/samber/dev-event-organizer-skills"
+  },
+  {
+    "description": "\ud83d\udd01 Agent Skills for platform and SDK developer experience: API design, integrations, marketplace strategy, and onboarding",
+    "id": "samber/developer-platform-skills",
+    "language": "Python",
+    "name": "samber/developer-platform-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:14:21Z",
+    "url": "https://github.com/samber/developer-platform-skills"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f Agent Skills for DevRels: open source strategy, community programs, technical content, and developer GTM.",
+    "id": "samber/developer-relations-skills",
+    "language": "Python",
+    "name": "samber/developer-relations-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:14:19Z",
+    "url": "https://github.com/samber/developer-relations-skills"
+  },
+  {
+    "description": "17 modular skills that give Claude Code's everyday loop \u2014 brainstorm, plan, build, review, document \u2014 a fixed shape.",
+    "id": "matis-dev/m-skills",
+    "language": "Shell",
+    "name": "matis-dev/m-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:09:58Z",
+    "url": "https://github.com/matis-dev/m-skills"
+  },
+  {
+    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
+    "id": "crackcricketdash/Everything-Claude-Code-2026",
+    "language": "\u2014",
+    "name": "crackcricketdash/Everything-Claude-Code-2026",
+    "stars": 1,
+    "updated_at": "2026-09-13T21:09:31Z",
+    "url": "https://github.com/crackcricketdash/Everything-Claude-Code-2026"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/agent-tools",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/agent-tools",
+    "stars": 3,
+    "updated_at": "2026-09-13T21:06:16Z",
+    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
+  },
+  {
+    "description": "A writing skill for coding agents: plain, factual, no AI slop, no boasting",
+    "id": "pliablepixels/slop-mop",
+    "language": "\u2014",
+    "name": "pliablepixels/slop-mop",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:02:28Z",
+    "url": "https://github.com/pliablepixels/slop-mop"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-13T21:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
     "id": "skills-agents-co/skills-and-agents-library",
     "language": "Python",
     "name": "skills-agents-co/skills-and-agents-library",
     "stars": 1,
-    "updated_at": "2026-09-13T20:59:51Z",
+    "updated_at": "2026-09-13T21:12:52Z",
     "url": "https://github.com/skills-agents-co/skills-and-agents-library"
   },
   {
@@ -32,7 +140,7 @@
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 995,
-    "updated_at": "2026-09-13T20:52:26Z",
+    "updated_at": "2026-09-13T21:06:30Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -50,62 +158,8 @@
     "language": "JavaScript",
     "name": "niharnm/grok-bridge",
     "stars": 0,
-    "updated_at": "2026-09-13T20:50:22Z",
+    "updated_at": "2026-09-13T21:12:10Z",
     "url": "https://github.com/niharnm/grok-bridge"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/agent-tools",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/agent-tools",
-    "stars": 3,
-    "updated_at": "2026-09-13T20:49:42Z",
-    "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "Agent Skills for running a sales org and closing the deals in it: market sizing, ICP, quota and comp design, cold outbou",
-    "id": "mbfinotti/sales-skills",
-    "language": "Python",
-    "name": "mbfinotti/sales-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:47:16Z",
-    "url": "https://github.com/mbfinotti/sales-skills"
-  },
-  {
-    "description": "Agent Skills for revenue operations: CRM data governance, pipeline and funnel management, lead routing and scoring, deal",
-    "id": "mbfinotti/revops-skills",
-    "language": "Python",
-    "name": "mbfinotti/revops-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:47:13Z",
-    "url": "https://github.com/mbfinotti/revops-skills"
-  },
-  {
-    "description": "Agent Skills for partner ecosystem operations: affiliate programs, influencer partnerships, channel alliances, joint GTM",
-    "id": "mbfinotti/partnerships-skills",
-    "language": "Python",
-    "name": "mbfinotti/partnerships-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:47:12Z",
-    "url": "https://github.com/mbfinotti/partnerships-skills"
-  },
-  {
-    "description": "Agent Skills for paid media: channel selection, budgets, audiences, creative, and measurement.",
-    "id": "mbfinotti/advertising-skills",
-    "language": "Python",
-    "name": "mbfinotti/advertising-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:46:19Z",
-    "url": "https://github.com/mbfinotti/advertising-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-13T20:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -135,7 +189,7 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "Mechanical-check AI agent skills for tender/bidding compliance and ad-copy compliance: reproducible, zero-dependency. \u62db\u6295",
+    "description": "Mechanical-check AI agent skills for contracts, tender/bidding compliance and ad copy: every finding is recomputable evi",
     "id": "chenqg618/compliance-skills",
     "language": "JavaScript",
     "name": "chenqg618/compliance-skills",
@@ -151,33 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T20:42:34Z",
     "url": "https://github.com/ChrisAdkin8/newsletter-ai-skill"
-  },
-  {
-    "description": "Agent Skills for technical event operations: conferences, meetups, hackathons, speakers, and sponsorships.",
-    "id": "samber/dev-event-organizer-skills",
-    "language": "Python",
-    "name": "samber/dev-event-organizer-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:42:09Z",
-    "url": "https://github.com/samber/dev-event-organizer-skills"
-  },
-  {
-    "description": "Agent Skills for developer relations: open source strategy, community programs, technical content, and developer GTM.",
-    "id": "samber/developer-relations-skills",
-    "language": "Python",
-    "name": "samber/developer-relations-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:42:05Z",
-    "url": "https://github.com/samber/developer-relations-skills"
-  },
-  {
-    "description": "Agent Skills for platform and SDK developer experience: API design, integrations, marketplace strategy, and onboarding.",
-    "id": "samber/developer-platform-skills",
-    "language": "Python",
-    "name": "samber/developer-platform-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:42:03Z",
-    "url": "https://github.com/samber/developer-platform-skills"
   },
   {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T20:21:56Z",
     "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:21:50Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-13T20:21:32Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:21:24Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
   }
 ]
