@@ -1,21 +1,30 @@
 [
   {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "HTML",
+    "name": "geml-spec/geml",
+    "stars": 26,
+    "updated_at": "2026-09-13T03:13:11Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-13T03:12:56Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
     "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
     "id": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
     "language": "JavaScript",
     "name": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
     "stars": 4,
-    "updated_at": "2026-09-13T02:59:44Z",
+    "updated_at": "2026-09-13T03:10:31Z",
     "url": "https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer"
-  },
-  {
-    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
-    "id": "JanYork/llm-wiki-cli",
-    "language": "Rust",
-    "name": "JanYork/llm-wiki-cli",
-    "stars": 54,
-    "updated_at": "2026-09-13T02:59:20Z",
-    "url": "https://github.com/JanYork/llm-wiki-cli"
   },
   {
     "description": "fat_llama_fftw is a Python package for upscaling audio files to FLAC or WAV formats using advanced audio processing tech",
@@ -23,8 +32,35 @@
     "language": "Python",
     "name": "bkraad47/fat_llama_fftw",
     "stars": 14,
-    "updated_at": "2026-09-13T02:57:58Z",
+    "updated_at": "2026-09-13T03:10:18Z",
     "url": "https://github.com/bkraad47/fat_llama_fftw"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68984,
+    "updated_at": "2026-09-13T03:03:52Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
+    "id": "JanYork/llm-wiki-cli",
+    "language": "Rust",
+    "name": "JanYork/llm-wiki-cli",
+    "stars": 54,
+    "updated_at": "2026-09-13T03:02:10Z",
+    "url": "https://github.com/JanYork/llm-wiki-cli"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-13T03:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
@@ -36,15 +72,6 @@
     "url": "https://github.com/xr843/Master-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-13T02:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-09-13T02:44:00Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 68984,
-    "updated_at": "2026-09-13T02:58:03Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\u771f\u6b63\u6709\u7528\u7684\u9500\u552e\u8bdd\u672f\u4f53\u7cfb \u2014 AI Agent Skill\uff08\u8bdd\u672f\u751f\u6210/\u5f02\u8bae\u5904\u7406/\u9500\u552e\u966a\u7ec3/\u590d\u76d8\u5206\u6790\uff09",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-13T02:05:19Z",
     "url": "https://github.com/soothing-carport96/anti-ai-slop-writing"
-  },
-  {
-    "description": "Build a custom Home Assistant setup with automation templates, a mobile React dashboard, and Claude Code-assisted config",
-    "id": "psychological-ruble517/homeassistant-claude-kit",
-    "language": "\u2014",
-    "name": "psychological-ruble517/homeassistant-claude-kit",
-    "stars": 1,
-    "updated_at": "2026-09-13T02:05:16Z",
-    "url": "https://github.com/psychological-ruble517/homeassistant-claude-kit"
-  },
-  {
-    "description": "Build Claude Code skills for computational design, parametric modeling, simulation, BIM scripting, and fabrication in AE",
-    "id": "marcinfinitesimal533/Claude-skills-for-Computational-Designers",
-    "language": "Python",
-    "name": "marcinfinitesimal533/Claude-skills-for-Computational-Designers",
-    "stars": 2,
-    "updated_at": "2026-09-13T02:05:03Z",
-    "url": "https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers"
   }
 ]
