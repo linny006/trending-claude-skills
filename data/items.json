@@ -1,12 +1,12 @@
 [
   {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-13T08:14:42Z",
-    "url": "https://github.com/TyrusRC/praetor"
+    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews numb",
+    "id": "gosom/google-maps-scraper",
+    "language": "Go",
+    "name": "gosom/google-maps-scraper",
+    "stars": 5802,
+    "updated_at": "2026-09-13T08:27:34Z",
+    "url": "https://github.com/gosom/google-maps-scraper"
   },
   {
     "description": "My personal, curated set of artifacts for AI coding agents",
@@ -14,8 +14,71 @@
     "language": "Python",
     "name": "sergeyklay/.agents",
     "stars": 5,
-    "updated_at": "2026-09-13T08:13:34Z",
+    "updated_at": "2026-09-13T08:27:00Z",
     "url": "https://github.com/sergeyklay/.agents"
+  },
+  {
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
+    "language": "Python",
+    "name": "Ovid/paad",
+    "stars": 115,
+    "updated_at": "2026-09-13T08:23:44Z",
+    "url": "https://github.com/Ovid/paad"
+  },
+  {
+    "description": "\u72ec\u5b64\u83cc\u516c\u5f00 Agent Skills\uff08\u8fd0\u8425/\u4e00\u4eba\u516c\u53f8/AI\u4ea4\u4ed8/\u9762\u8bd5/\u5f97\u5230\u5927\u8111\u7b49\uff09",
+    "id": "dugujun3-cloud/dugujun-ai-skills",
+    "language": "Python",
+    "name": "dugujun3-cloud/dugujun-ai-skills",
+    "stars": 1,
+    "updated_at": "2026-09-13T08:29:57Z",
+    "url": "https://github.com/dugujun3-cloud/dugujun-ai-skills"
+  },
+  {
+    "description": "\u4e00\u5957\u5199\u7ed9 agent \u8bfb\u7684\u6c42\u804c\u65b9\u6cd5\u8bba\u3002\u4e0d\u662f\u6295\u9012\u811a\u672c\uff0c\u662f\u6bcf\u4e2a\u51b3\u7b56\u70b9\u4e0a\u7684\u5224\u65ad\u7eaa\u5f8b\u3002",
+    "id": "gilgameshcc/ai-native-jobhunt",
+    "language": "JavaScript",
+    "name": "gilgameshcc/ai-native-jobhunt",
+    "stars": 0,
+    "updated_at": "2026-09-13T08:19:28Z",
+    "url": "https://github.com/gilgameshcc/ai-native-jobhunt"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68992,
+    "updated_at": "2026-09-13T08:23:03Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A skill tool for Codex and Claude Code that converts images, PDFs, and image-based PPTX files into editable PowerPoint p",
+    "id": "DSY-Xueai/image2editable",
+    "language": "Python",
+    "name": "DSY-Xueai/image2editable",
+    "stars": 42,
+    "updated_at": "2026-09-13T08:17:07Z",
+    "url": "https://github.com/DSY-Xueai/image2editable"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-13T08:15:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 5,
+    "updated_at": "2026-09-13T08:14:42Z",
+    "url": "https://github.com/TyrusRC/praetor"
   },
   {
     "description": "Claude agent skill: build kinetic-typography / logo / brand promo motion graphics as code with Remotion (React) and ship",
@@ -34,15 +97,6 @@
     "stars": 149,
     "updated_at": "2026-09-13T08:13:01Z",
     "url": "https://github.com/serpro69/claude-toolbox"
-  },
-  {
-    "description": "A skill tool for Codex and Claude Code that converts images, PDFs, and image-based PPTX files into editable PowerPoint p",
-    "id": "DSY-Xueai/image2editable",
-    "language": "Python",
-    "name": "DSY-Xueai/image2editable",
-    "stars": 42,
-    "updated_at": "2026-09-13T08:07:04Z",
-    "url": "https://github.com/DSY-Xueai/image2editable"
   },
   {
     "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
@@ -85,9 +139,18 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 93764,
+    "stars": 93765,
     "updated_at": "2026-09-13T08:04:34Z",
     "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 481,
+    "updated_at": "2026-09-13T08:04:23Z",
+    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
@@ -153,15 +216,6 @@
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-13T08:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
     "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
     "language": "JavaScript",
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T07:59:56Z",
     "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews numb",
-    "id": "gosom/google-maps-scraper",
-    "language": "Go",
-    "name": "gosom/google-maps-scraper",
-    "stars": 5802,
-    "updated_at": "2026-09-13T07:59:28Z",
-    "url": "https://github.com/gosom/google-maps-scraper"
   },
   {
     "description": "Magyar \u00edr\u00e1sst\u00edlus-skill agenteknek: a kimenet ne hangozzon AI-nak. \u00cdr\u00e1s k\u00f6zben ad szab\u00e1lyokat, nem a k\u00e9sz sz\u00f6veget jav\u00edt",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T07:52:27Z",
     "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-09-13T07:52:12Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-13T07:52:07Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 1,
-    "updated_at": "2026-09-13T07:51:49Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-09-13T07:51:35Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-13T07:51:28Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
