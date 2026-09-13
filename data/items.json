@@ -1,12 +1,57 @@
 [
   {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 4,
+    "updated_at": "2026-09-13T02:44:00Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 68984,
+    "updated_at": "2026-09-13T02:38:23Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\u771f\u6b63\u6709\u7528\u7684\u9500\u552e\u8bdd\u672f\u4f53\u7cfb \u2014 AI Agent Skill\uff08\u8bdd\u672f\u751f\u6210/\u5f02\u8bae\u5904\u7406/\u9500\u552e\u966a\u7ec3/\u590d\u76d8\u5206\u6790\uff09",
+    "id": "iamhehezhong/sales-script-system",
+    "language": "\u2014",
+    "name": "iamhehezhong/sales-script-system",
+    "stars": 0,
+    "updated_at": "2026-09-13T02:38:22Z",
+    "url": "https://github.com/iamhehezhong/sales-script-system"
+  },
+  {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
     "id": "xr843/Master-skill",
     "language": "Python",
     "name": "xr843/Master-skill",
     "stars": 393,
-    "updated_at": "2026-09-13T02:26:09Z",
+    "updated_at": "2026-09-13T02:38:02Z",
     "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 3,
+    "updated_at": "2026-09-13T02:33:34Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-13T02:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T02:15:58Z",
     "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-13T02:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
@@ -387,15 +423,6 @@
     "url": "https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers"
   },
   {
-    "description": "\u771f\u6b63\u6709\u7528\u7684\u9500\u552e\u8bdd\u672f\u4f53\u7cfb \u2014 AI Agent Skill\uff08\u8bdd\u672f\u751f\u6210/\u5f02\u8bae\u5904\u7406/\u9500\u552e\u966a\u7ec3/\u590d\u76d8\u5206\u6790\uff09",
-    "id": "iamhehezhong/sales-script-system",
-    "language": "\u2014",
-    "name": "iamhehezhong/sales-script-system",
-    "stars": 0,
-    "updated_at": "2026-09-13T02:04:54Z",
-    "url": "https://github.com/iamhehezhong/sales-script-system"
-  },
-  {
     "description": "Run threat hunting workflows for agentic IDEs like Claude Code, OpenCode, and Gemini in one command",
     "id": "3dcom2711/thrunt-god",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T02:04:45Z",
     "url": "https://github.com/Pragmatical-transshipment598/claude-code-workflows"
-  },
-  {
-    "description": "Build, standardize, and validate reusable AI skills across models with a portable abstraction layer",
-    "id": "Pascalslawoffluidpressuresjalousie29/prompt-to-skill",
-    "language": "\u2014",
-    "name": "Pascalslawoffluidpressuresjalousie29/prompt-to-skill",
-    "stars": 2,
-    "updated_at": "2026-09-13T02:04:28Z",
-    "url": "https://github.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill"
-  },
-  {
-    "description": "Build pragmatic Go apps with an idiomatic, flat project layout guide for clean code, clear flow, and maintainable APIs",
-    "id": "chafingdishposition355/go-skills",
-    "language": "\u2014",
-    "name": "chafingdishposition355/go-skills",
-    "stars": 1,
-    "updated_at": "2026-09-13T02:04:21Z",
-    "url": "https://github.com/chafingdishposition355/go-skills"
-  },
-  {
-    "description": "Build Ozor AI video prompts and skills for product launches, ads, explainers, and more",
-    "id": "renalpelvisdeinocheirus70/ozor-skills",
-    "language": "\u2014",
-    "name": "renalpelvisdeinocheirus70/ozor-skills",
-    "stars": 2,
-    "updated_at": "2026-09-13T02:04:20Z",
-    "url": "https://github.com/renalpelvisdeinocheirus70/ozor-skills"
   }
 ]
