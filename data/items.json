@@ -1,5 +1,50 @@
 [
   {
+    "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
+    "id": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
+    "language": "JavaScript",
+    "name": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
+    "stars": 4,
+    "updated_at": "2026-09-13T02:59:44Z",
+    "url": "https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer"
+  },
+  {
+    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
+    "id": "JanYork/llm-wiki-cli",
+    "language": "Rust",
+    "name": "JanYork/llm-wiki-cli",
+    "stars": 54,
+    "updated_at": "2026-09-13T02:59:20Z",
+    "url": "https://github.com/JanYork/llm-wiki-cli"
+  },
+  {
+    "description": "fat_llama_fftw is a Python package for upscaling audio files to FLAC or WAV formats using advanced audio processing tech",
+    "id": "bkraad47/fat_llama_fftw",
+    "language": "Python",
+    "name": "bkraad47/fat_llama_fftw",
+    "stars": 14,
+    "updated_at": "2026-09-13T02:57:58Z",
+    "url": "https://github.com/bkraad47/fat_llama_fftw"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 393,
+    "updated_at": "2026-09-13T02:46:34Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-13T02:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68984,
-    "updated_at": "2026-09-13T02:38:23Z",
+    "updated_at": "2026-09-13T02:58:03Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -27,15 +72,6 @@
     "url": "https://github.com/iamhehezhong/sales-script-system"
   },
   {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 393,
-    "updated_at": "2026-09-13T02:38:02Z",
-    "url": "https://github.com/xr843/Master-skill"
-  },
-  {
     "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
     "id": "aitit-inc/leadace",
     "language": "TypeScript",
@@ -43,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-09-13T02:33:34Z",
     "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-13T02:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-13T02:05:03Z",
     "url": "https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers"
-  },
-  {
-    "description": "Run threat hunting workflows for agentic IDEs like Claude Code, OpenCode, and Gemini in one command",
-    "id": "3dcom2711/thrunt-god",
-    "language": "JavaScript",
-    "name": "3dcom2711/thrunt-god",
-    "stars": 0,
-    "updated_at": "2026-09-13T02:04:54Z",
-    "url": "https://github.com/3dcom2711/thrunt-god"
-  },
-  {
-    "description": "Build AI agent skills with dialectical methods and practical tools from classical materialist philosophy for clearer jud",
-    "id": "SanjithBolloju18/qiushi-skill",
-    "language": "JavaScript",
-    "name": "SanjithBolloju18/qiushi-skill",
-    "stars": 1,
-    "updated_at": "2026-09-13T02:04:47Z",
-    "url": "https://github.com/SanjithBolloju18/qiushi-skill"
-  },
-  {
-    "description": "Build Claude Code workflows, templates, and best practices for faster software development, testing, docs, and code revi",
-    "id": "Pragmatical-transshipment598/claude-code-workflows",
-    "language": "\u2014",
-    "name": "Pragmatical-transshipment598/claude-code-workflows",
-    "stars": 1,
-    "updated_at": "2026-09-13T02:04:45Z",
-    "url": "https://github.com/Pragmatical-transshipment598/claude-code-workflows"
   }
 ]
