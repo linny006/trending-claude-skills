@@ -1,5 +1,95 @@
 [
   {
+    "description": "Cross tools (Codex, Claude, Github Copilot, Cursor) AI Marketplace to install skills, agents, MCPs, hooks, commands, and",
+    "id": "Idov31/ai-marketplace",
+    "language": "TypeScript",
+    "name": "Idov31/ai-marketplace",
+    "stars": 1,
+    "updated_at": "2026-09-13T16:44:18Z",
+    "url": "https://github.com/Idov31/ai-marketplace"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-09-13T16:42:32Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-09-13T16:41:35Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
+    "id": "crackcricketdash/Everything-Claude-Code-2026",
+    "language": "\u2014",
+    "name": "crackcricketdash/Everything-Claude-Code-2026",
+    "stars": 1,
+    "updated_at": "2026-09-13T16:39:56Z",
+    "url": "https://github.com/crackcricketdash/Everything-Claude-Code-2026"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-13T16:44:47Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 5,
+    "updated_at": "2026-09-13T16:37:58Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-09-13T16:37:06Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "AI-powered operating system for designing, activating, aligning, and measuring enterprise 1:1 and 1:few ABM programs.",
+    "id": "barbarabasquill/ai-powered-abm-command-center",
+    "language": "\u2014",
+    "name": "barbarabasquill/ai-powered-abm-command-center",
+    "stars": 0,
+    "updated_at": "2026-09-13T16:36:12Z",
+    "url": "https://github.com/barbarabasquill/ai-powered-abm-command-center"
+  },
+  {
+    "description": "Official catalog of OOMOL app-skills: agent skills that let AI assistants operate third-party services via the oo CLI",
+    "id": "oomol-lab/skills",
+    "language": "TypeScript",
+    "name": "oomol-lab/skills",
+    "stars": 2,
+    "updated_at": "2026-09-13T16:30:16Z",
+    "url": "https://github.com/oomol-lab/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-13T16:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skills for Qualcomm QAIRT/QNN model deployment \u2014 ONNX to Hexagon HTP, AIMET quantization, eSDK cross-compila",
     "id": "dev-ansh-r/qualcomm-claude-skills",
     "language": "Shell",
@@ -22,9 +112,18 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 44723,
+    "stars": 44726,
     "updated_at": "2026-09-13T16:27:15Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 483,
+    "updated_at": "2026-09-13T16:26:57Z",
+    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Property-based testing skill for Claude Code and OpenCode: fast-check and Hypothesis, strongest property, honest generat",
@@ -63,15 +162,6 @@
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
   },
   {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-13T16:25:21Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
     "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
     "id": "aaamaxito-prog/deadeye",
     "language": "Swift",
@@ -97,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-09-13T16:24:20Z",
     "url": "https://github.com/ooooooooooooooooooop/agent-tools"
-  },
-  {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 4,
-    "updated_at": "2026-09-13T16:29:23Z",
-    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
@@ -176,7 +257,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30756,
-    "updated_at": "2026-09-13T16:20:21Z",
+    "updated_at": "2026-09-13T16:39:50Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -203,7 +284,7 @@
     "language": "Python",
     "name": "marcosathanasoulis/prompt-it",
     "stars": 0,
-    "updated_at": "2026-09-13T16:17:06Z",
+    "updated_at": "2026-09-13T16:38:49Z",
     "url": "https://github.com/marcosathanasoulis/prompt-it"
   },
   {
@@ -259,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T16:15:51Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-13T16:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T16:12:26Z",
     "url": "https://github.com/humbleteam/ascii-wireframes"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:12:25Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 3,
-    "updated_at": "2026-09-13T16:12:20Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-09-13T16:12:19Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-09-13T16:12:16Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-09-13T16:12:11Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:11:55Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-13T16:11:53Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:11:35Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
   }
 ]
