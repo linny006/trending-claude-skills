@@ -1,12 +1,12 @@
 [
   {
-    "description": "Run any GitHub repo safely \u2014 stack detection, supply-chain security gate, install, start & health-check. An Agent Skill ",
-    "id": "Jia-ben00/repo-runner",
-    "language": "Python",
-    "name": "Jia-ben00/repo-runner",
+    "description": "\u628a\u4e00\u53e5\u8bdd\u65c5\u884c\u9700\u6c42\u53d8\u6210\u624b\u673a\u7aef\u53ef\u6253\u5f00\u7684\u653b\u7565\u9875 + \u793e\u4ea4\u56fe\u6587\u5361\u7247\u3002\u4e24\u4e2a Claude Skill\uff1atrip-guide-builder / social-card-render",
+    "id": "calmsprite2001/ai-trip-guide-skills",
+    "language": "HTML",
+    "name": "calmsprite2001/ai-trip-guide-skills",
     "stars": 0,
-    "updated_at": "2026-09-13T10:18:49Z",
-    "url": "https://github.com/Jia-ben00/repo-runner"
+    "updated_at": "2026-09-13T10:28:57Z",
+    "url": "https://github.com/calmsprite2001/ai-trip-guide-skills"
   },
   {
     "description": "Gives coding agents the real source of your dependencies, not a guess.",
@@ -14,8 +14,62 @@
     "language": "TypeScript",
     "name": "kaisers-io/refs",
     "stars": 7,
-    "updated_at": "2026-09-13T10:18:30Z",
+    "updated_at": "2026-09-13T10:28:14Z",
     "url": "https://github.com/kaisers-io/refs"
+  },
+  {
+    "description": "Run any GitHub repo safely \u2014 stack detection, supply-chain security gate, install, start & health-check. An Agent Skill ",
+    "id": "Jia-ben00/repo-runner",
+    "language": "Python",
+    "name": "Jia-ben00/repo-runner",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:27:38Z",
+    "url": "https://github.com/Jia-ben00/repo-runner"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-09-13T10:25:21Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "BridgeNode \u2014 x402 pay-per-request AI inference. Agent skill and buyer-side examples for AI agents.",
+    "id": "bridgenode-ai/bridgenode-skill",
+    "language": "\u2014",
+    "name": "bridgenode-ai/bridgenode-skill",
+    "stars": 2,
+    "updated_at": "2026-09-13T10:23:40Z",
+    "url": "https://github.com/bridgenode-ai/bridgenode-skill"
+  },
+  {
+    "description": "\u8389\u5a05\u7684\u51cf\u6cd5 skill \u2014\u2014 \u6280\u80fd\u5e93\u7cbe\u7b80\u4e0e\u7ef4\u62a4\u7684\u65b9\u6cd5\u8bba\uff08\u5197\u4f59\u68c0\u6d4b \u00b7 \u62c6\u8584 \u00b7 \u5408\u5e76 \u00b7 \u5f52\u6863\u5224\u65ad\uff09\uff0c\u9002\u7528\u4e8e\u4efb\u4f55 SKILL.md \u4f53\u7cfb\u7684 agent\u3002\u4e2d\u6587\u3002",
+    "id": "feverZHONG/liya-subtraction-skill",
+    "language": "Python",
+    "name": "feverZHONG/liya-subtraction-skill",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:21:35Z",
+    "url": "https://github.com/feverZHONG/liya-subtraction-skill"
+  },
+  {
+    "description": "Open source, free, private, local, generative co-intelligence scaffold",
+    "id": "huximaxi/loci",
+    "language": "Rust",
+    "name": "huximaxi/loci",
+    "stars": 3,
+    "updated_at": "2026-09-13T10:21:16Z",
+    "url": "https://github.com/huximaxi/loci"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-13T10:20:29Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -36,15 +90,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-13T10:15:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Trello skill pack for Claude Code and Codex - boards, lists and cards, board digests and a due-date radar. A free tool b",
     "id": "dbhq-uk/trello-skill",
     "language": "Shell",
@@ -52,6 +97,24 @@
     "stars": 2,
     "updated_at": "2026-09-13T10:15:10Z",
     "url": "https://github.com/dbhq-uk/trello-skill"
+  },
+  {
+    "description": "\u8389\u5a05\u7684\u4eba\u683c\u6587\u4ef6\u65b9\u6cd5\u8bba \u2014\u2014 \u7ed9 AI agent \u5199\u8eab\u4efd\u6587\u4ef6\uff08SOUL.md \u7c7b\uff09\uff1a\u521b\u4f5c\u6d41\u7a0b / \u780d\u88c5\u9970\u7559\u884c\u4e3a / \u8eab\u4efd\u6587\u4ef6\u51cf\u6cd5\uff08de-bloat\uff09/ \u6f02\u79fb\u5bf9\u7167\u3002\u9644\u9601\u4e0b\u539f\u521b\u89d2\u8272\u8bbe\u5b9a\u5199\u4f5c\u6a21\u677f v1.2\u3002",
+    "id": "feverZHONG/liya-persona-authoring",
+    "language": "\u2014",
+    "name": "feverZHONG/liya-persona-authoring",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:11:54Z",
+    "url": "https://github.com/feverZHONG/liya-persona-authoring"
+  },
+  {
+    "description": "\u8389\u5a05\u7684\u9152\u9986\u5199\u5361\u65b9\u6cd5 \u2014\u2014 \u628a\u89d2\u8272\u8d44\u6599\u5199\u6210 SillyTavern \u89d2\u8272\u5361\uff08V2 \u683c\u5f0f / PList+Ali:Chat \u5199\u6cd5 / \u673a\u5236\u6e05\u5355 / \u4e09\u4e2a Python \u5de5\u5177 / \u4ece\u8d44\u6599\u5230\u6210\u54c1\u5361\u7684\u5b8c\u6574\u5b9e\u4f8b\uff09\u3002\u4e2d\u6587\u3002",
+    "id": "feverZHONG/liya-sillytavern-cards",
+    "language": "Python",
+    "name": "feverZHONG/liya-sillytavern-cards",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:11:51Z",
+    "url": "https://github.com/feverZHONG/liya-sillytavern-cards"
   },
   {
     "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
@@ -68,7 +131,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 68990,
-    "updated_at": "2026-09-13T10:11:40Z",
+    "updated_at": "2026-09-13T10:25:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T10:10:59Z",
     "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "\u628a\u4e00\u53e5\u8bdd\u65c5\u884c\u9700\u6c42\u53d8\u6210\u624b\u673a\u7aef\u53ef\u6253\u5f00\u7684\u653b\u7565\u9875 + \u793e\u4ea4\u56fe\u6587\u5361\u7247\u3002\u4e24\u4e2a Claude Skill\uff1atrip-guide-builder / social-card-render",
-    "id": "calmsprite2001/ai-trip-guide-skills",
-    "language": "HTML",
-    "name": "calmsprite2001/ai-trip-guide-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T10:09:57Z",
-    "url": "https://github.com/calmsprite2001/ai-trip-guide-skills"
   },
   {
     "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
@@ -162,15 +216,6 @@
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
   },
   {
-    "description": "Open source, free, private, local, generative co-intelligence scaffold",
-    "id": "huximaxi/loci",
-    "language": "Rust",
-    "name": "huximaxi/loci",
-    "stars": 3,
-    "updated_at": "2026-09-13T10:15:24Z",
-    "url": "https://github.com/huximaxi/loci"
-  },
-  {
     "description": "VS Code Agent skill for llama.cpp multi-model deployment on Windows",
     "id": "KAN-H/llama-cpp-windows-deployment-skill",
     "language": "Batchfile",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T10:07:03Z",
     "url": "https://github.com/KAN-H/llama-cpp-windows-deployment-skill"
-  },
-  {
-    "description": "BridgeNode \u2014 x402 pay-per-request AI inference. Agent skill and buyer-side examples for AI agents.",
-    "id": "bridgenode-ai/bridgenode-skill",
-    "language": "\u2014",
-    "name": "bridgenode-ai/bridgenode-skill",
-    "stars": 2,
-    "updated_at": "2026-09-13T10:06:09Z",
-    "url": "https://github.com/bridgenode-ai/bridgenode-skill"
   },
   {
     "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T09:57:52Z",
     "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-09-13T09:57:47Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-09-13T09:57:30Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-13T09:57:24Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 1,
-    "updated_at": "2026-09-13T09:57:07Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
   }
 ]
