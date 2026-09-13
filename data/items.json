@@ -1,21 +1,21 @@
 [
   {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
-    "name": "geml-spec/geml",
-    "stars": 26,
-    "updated_at": "2026-09-13T03:13:11Z",
-    "url": "https://github.com/geml-spec/geml"
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 2,
+    "updated_at": "2026-09-13T03:30:05Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 4,
-    "updated_at": "2026-09-13T03:12:56Z",
-    "url": "https://github.com/inkatze/planwright"
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-13T03:26:32Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
     "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
@@ -23,8 +23,71 @@
     "language": "JavaScript",
     "name": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
     "stars": 4,
-    "updated_at": "2026-09-13T03:10:31Z",
+    "updated_at": "2026-09-13T03:26:14Z",
     "url": "https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-13T03:23:14Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "HTML",
+    "name": "geml-spec/geml",
+    "stars": 26,
+    "updated_at": "2026-09-13T03:23:00Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusa",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 135,
+    "updated_at": "2026-09-13T03:22:46Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "\u65e5\u672c\u3067\u306e\u66ae\u3089\u3057\u3092\u624b\u4f1d\u3046AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u5411\u3051\u30b9\u30ad\u30eb\u96c6 - \u6c17\u8c61\u5e81\u30fb\u5185\u95a3\u5e9c\u30fb\u30ab\u30fc\u30ea\u30eb\u306e\u516c\u5f0f\u30c7\u30fc\u30bf\u3092\u4f7f\u3063\u305f\u30ed\u30b0\u30a4\u30f3\u4e0d\u8981\u306e\u7167\u4f1a\u30b9\u30ad\u30eb",
+    "id": "tahodev/kurashi-skill",
+    "language": "Shell",
+    "name": "tahodev/kurashi-skill",
+    "stars": 2,
+    "updated_at": "2026-09-13T03:16:37Z",
+    "url": "https://github.com/tahodev/kurashi-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-13T03:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u4e2d\u6587\u7206\u6b3e\u5199\u4f5c Claude Code Skill \u4e09\u4ef6\u5957 | A trio of Chinese copywriting skills for Claude Code: viral articles, ad copy, personal-b",
+    "id": "laoyang687/yyc.skill",
+    "language": "\u2014",
+    "name": "laoyang687/yyc.skill",
+    "stars": 0,
+    "updated_at": "2026-09-13T03:15:08Z",
+    "url": "https://github.com/laoyang687/yyc.skill"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-13T03:18:23Z",
+    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "fat_llama_fftw is a Python package for upscaling audio files to FLAC or WAV formats using advanced audio processing tech",
@@ -52,15 +115,6 @@
     "stars": 54,
     "updated_at": "2026-09-13T03:02:10Z",
     "url": "https://github.com/JanYork/llm-wiki-cli"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-13T03:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-13T02:06:14Z",
     "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Add self-learning voice notifications for Claude Code with edge-tts, phrase pools, priority queues, and anti-repeat hand",
-    "id": "Secondvisitation783/claude-voice-system",
-    "language": "\u2014",
-    "name": "Secondvisitation783/claude-voice-system",
-    "stars": 1,
-    "updated_at": "2026-09-13T02:06:12Z",
-    "url": "https://github.com/Secondvisitation783/claude-voice-system"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-09-13T02:06:08Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
-  },
-  {
-    "description": "Use Codex in Claude Code for code reviews and delegated tasks with background job control",
-    "id": "carolafortified787/codex-plugin-cc",
-    "language": "JavaScript",
-    "name": "carolafortified787/codex-plugin-cc",
-    "stars": 1,
-    "updated_at": "2026-09-13T02:05:56Z",
-    "url": "https://github.com/carolafortified787/codex-plugin-cc"
-  },
-  {
-    "description": "Explore Claude Code CLI source code for learning, analysis, and TypeScript Bun CLI tool design",
-    "id": "tapperisobar941/claude-code-cli",
-    "language": "\u2014",
-    "name": "tapperisobar941/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-09-13T02:05:49Z",
-    "url": "https://github.com/tapperisobar941/claude-code-cli"
-  },
-  {
-    "description": "Design and analyze modular software systems with Balanced Coupling to reduce technical debt and improve architecture",
-    "id": "ardellashuddery616/modularity",
-    "language": "HTML",
-    "name": "ardellashuddery616/modularity",
-    "stars": 0,
-    "updated_at": "2026-09-13T02:05:33Z",
-    "url": "https://github.com/ardellashuddery616/modularity"
-  },
-  {
-    "description": "Enforce human-like writing in AI output by blocking banned words, phrases, and patterns that trigger AI detectors",
-    "id": "soothing-carport96/anti-ai-slop-writing",
-    "language": "\u2014",
-    "name": "soothing-carport96/anti-ai-slop-writing",
-    "stars": 2,
-    "updated_at": "2026-09-13T02:05:19Z",
-    "url": "https://github.com/soothing-carport96/anti-ai-slop-writing"
   }
 ]
