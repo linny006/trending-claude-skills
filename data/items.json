@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:58:08Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "React-style MVU UI framework for C# desktop: pure C# components and hooks rendered to native WPF and Avalonia controls. ",
+    "id": "lukewire129/Nuri",
+    "language": "C#",
+    "name": "lukewire129/Nuri",
+    "stars": 5,
+    "updated_at": "2026-09-14T18:56:01Z",
+    "url": "https://github.com/lukewire129/Nuri"
+  },
+  {
+    "description": "A standard for making Nix-flake-first Linux repos installable on any distribution",
+    "id": "rokokol/huix-standard-skill",
+    "language": "Shell",
+    "name": "rokokol/huix-standard-skill",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:51:15Z",
+    "url": "https://github.com/rokokol/huix-standard-skill"
+  },
+  {
+    "description": "Write a project's README to a fixed set of structure, tone and formatting rules",
+    "id": "rokokol/create-readme-skill",
+    "language": "Shell",
+    "name": "rokokol/create-readme-skill",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:51:10Z",
+    "url": "https://github.com/rokokol/create-readme-skill"
+  },
+  {
+    "description": "Who we are, as opposed to what to do: a template for keeping an assistant's persona and dossiers out of the always-loade",
+    "id": "rokokol/companion-skill",
+    "language": "Shell",
+    "name": "rokokol/companion-skill",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:51:05Z",
+    "url": "https://github.com/rokokol/companion-skill"
+  },
+  {
+    "description": "Disclose an agent's share of a commit with Assisted-by / Generated-by",
+    "id": "rokokol/ai-commit-trailers-skill",
+    "language": "Shell",
+    "name": "rokokol/ai-commit-trailers-skill",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:50:51Z",
+    "url": "https://github.com/rokokol/ai-commit-trailers-skill"
+  },
+  {
+    "description": "A modern suite of AI agentic skills, subagent prompt templates, and software development lifecycle (SDLC) tools. Include",
+    "id": "garbsam97/agentic-skill-suite",
+    "language": "TypeScript",
+    "name": "garbsam97/agentic-skill-suite",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:53:42Z",
+    "url": "https://github.com/garbsam97/agentic-skill-suite"
+  },
+  {
+    "description": "Personal skills marketplace \u2014 add it once, install any plugin for terminal, devops... and whatever else comes up",
+    "id": "gfargo/skills",
+    "language": "TypeScript",
+    "name": "gfargo/skills",
+    "stars": 2,
+    "updated_at": "2026-09-14T18:50:34Z",
+    "url": "https://github.com/gfargo/skills"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 10,
+    "updated_at": "2026-09-14T18:47:35Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T18:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A Claude Code skill that audits and implements SEO, AEO, GEO, LLMO, and Naver optimization \u2014 then measures the results.",
     "id": "meenalsar008/advanced-seo-audit",
     "language": "\u2014",
@@ -32,7 +122,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 112,
-    "updated_at": "2026-09-14T18:39:14Z",
+    "updated_at": "2026-09-14T18:48:55Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -90,15 +180,6 @@
     "url": "https://github.com/geanruca/ctrl-clip"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T18:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u0421\u043a\u0438\u043b\u043b\u044b \u0434\u043b\u044f Claude. consilium \u2014 \u0441\u043e\u0441\u0442\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043c\u0443\u043b\u044c\u0442\u0438\u0430\u0433\u0435\u043d\u0442\u043d\u044b\u0439 \u0440\u0430\u0437\u0431\u043e\u0440: \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0435 \u0430\u0433\u0435\u043d\u0442\u044b, \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u043a\u0435\u043f\u0442\u0438\u043a, \u0440\u0435\u0435\u0441\u0442\u0440 \u043e\u0433",
     "id": "Andrey-Batrimenko/claude-skills",
     "language": "Shell",
@@ -124,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T18:22:10Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "A modern suite of AI agentic skills, subagent prompt templates, and software development lifecycle (SDLC) tools. Include",
-    "id": "garbsam97/agentic-skill-suite",
-    "language": "TypeScript",
-    "name": "garbsam97/agentic-skill-suite",
-    "stars": 0,
-    "updated_at": "2026-09-14T18:21:45Z",
-    "url": "https://github.com/garbsam97/agentic-skill-suite"
   },
   {
     "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-14T17:22:29Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Run coding agents like Claude, ChatGPT, and Codex side-by-side with separate profiles per account on macOS, Windows, and",
-    "id": "burnabyjudicial666/agent-profiles",
-    "language": "Rust",
-    "name": "burnabyjudicial666/agent-profiles",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:22:02Z",
-    "url": "https://github.com/burnabyjudicial666/agent-profiles"
-  },
-  {
-    "description": "Generate and optimize web novel writing workflows for long-form and short-form stories with AI agent integration and qua",
-    "id": "thanhn3977/oh-story-claudecode",
-    "language": "\u2014",
-    "name": "thanhn3977/oh-story-claudecode",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:21:41Z",
-    "url": "https://github.com/thanhn3977/oh-story-claudecode"
-  },
-  {
-    "description": "Search and manage AI coding sessions locally with full-text search across 7 tools.",
-    "id": "Unstable-ascendingartery75/ai-session-search",
-    "language": "TypeScript",
-    "name": "Unstable-ascendingartery75/ai-session-search",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:21:13Z",
-    "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
-  },
-  {
-    "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
-    "id": "Arindaag760/humanizer-cli",
-    "language": "JavaScript",
-    "name": "Arindaag760/humanizer-cli",
-    "stars": 1,
-    "updated_at": "2026-09-14T17:20:49Z",
-    "url": "https://github.com/Arindaag760/humanizer-cli"
-  },
-  {
-    "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
-    "id": "maurieunoccupied182/biks-claude-tools-loader",
-    "language": "\u2014",
-    "name": "maurieunoccupied182/biks-claude-tools-loader",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:19:56Z",
-    "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
-  },
-  {
-    "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
-    "id": "Scoundrelwildness456/i-have-adhd",
-    "language": "Python",
-    "name": "Scoundrelwildness456/i-have-adhd",
-    "stars": 5,
-    "updated_at": "2026-09-14T17:19:32Z",
-    "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-09-14T17:17:09Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-09-14T17:16:44Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
   }
 ]
