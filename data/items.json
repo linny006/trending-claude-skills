@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open source, free, private, local, generative co-intelligence scaffold",
+    "id": "huximaxi/loci",
+    "language": "Rust",
+    "name": "huximaxi/loci",
+    "stars": 3,
+    "updated_at": "2026-09-14T07:59:42Z",
+    "url": "https://github.com/huximaxi/loci"
+  },
+  {
+    "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
+    "id": "yacb2/aidex",
+    "language": "Shell",
+    "name": "yacb2/aidex",
+    "stars": 2,
+    "updated_at": "2026-09-14T07:59:05Z",
+    "url": "https://github.com/yacb2/aidex"
+  },
+  {
+    "description": "A Pok\u00e9mon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adv",
+    "id": "Shellishack/infinite-pokemon",
+    "language": "TypeScript",
+    "name": "Shellishack/infinite-pokemon",
+    "stars": 22,
+    "updated_at": "2026-09-14T07:58:18Z",
+    "url": "https://github.com/Shellishack/infinite-pokemon"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69023,
+    "updated_at": "2026-09-14T07:55:47Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "bro-skills - Spec-Driven Development CLI",
+    "id": "wedabro/bro-skills",
+    "language": "Python",
+    "name": "wedabro/bro-skills",
+    "stars": 2,
+    "updated_at": "2026-09-14T07:55:00Z",
+    "url": "https://github.com/wedabro/bro-skills"
+  },
+  {
+    "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, ",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "JavaScript",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 1261,
+    "updated_at": "2026-09-14T07:53:34Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "Flutter AI Skills and Rules for Claude, Codex, Cursor, and Other AI-Powered IDEs",
+    "id": "evanca/flutter-ai-rules",
+    "language": "Shell",
+    "name": "evanca/flutter-ai-rules",
+    "stars": 637,
+    "updated_at": "2026-09-14T07:51:38Z",
+    "url": "https://github.com/evanca/flutter-ai-rules"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T07:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
     "id": "redfox-data/redfox-community",
     "language": "Python",
@@ -112,7 +184,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 6667,
+    "stars": 6668,
     "updated_at": "2026-09-14T07:38:54Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -124,15 +196,6 @@
     "stars": 35,
     "updated_at": "2026-09-14T07:38:41Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, ",
-    "id": "plugin87/ux-ui-agent-skills",
-    "language": "JavaScript",
-    "name": "plugin87/ux-ui-agent-skills",
-    "stars": 1261,
-    "updated_at": "2026-09-14T07:38:26Z",
-    "url": "https://github.com/plugin87/ux-ui-agent-skills"
   },
   {
     "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
@@ -306,15 +369,6 @@
     "url": "https://github.com/Borda/AI-Rig"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69024,
-    "updated_at": "2026-09-14T07:40:49Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
     "id": "noman3271/caveman",
     "language": "Python",
@@ -331,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T07:30:42Z",
     "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T07:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
@@ -403,50 +448,5 @@
     "stars": 145,
     "updated_at": "2026-09-14T07:29:55Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-09-14T07:29:42Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-14T07:29:40Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 1,
-    "updated_at": "2026-09-14T07:29:19Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
-  },
-  {
-    "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
-    "id": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "language": "Shell",
-    "name": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "stars": 0,
-    "updated_at": "2026-09-14T07:28:52Z",
-    "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
-  },
-  {
-    "description": "Explore 72 AI-powered skills across 6 departments for AlterLab FC training, learning, and workflow support",
-    "id": "prone-dc302/AlterLab-FC-Skills",
-    "language": "JavaScript",
-    "name": "prone-dc302/AlterLab-FC-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T07:28:50Z",
-    "url": "https://github.com/prone-dc302/AlterLab-FC-Skills"
   }
 ]
