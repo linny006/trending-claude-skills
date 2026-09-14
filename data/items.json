@@ -1,11 +1,110 @@
 [
   {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/personal-ai",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/personal-ai",
+    "stars": 3,
+    "updated_at": "2026-09-14T01:59:27Z",
+    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+  },
+  {
+    "description": "Are we present in search and AI answers? One audit surface for SEO, AEO, GEO, LLMO and Korean engines (Naver, Daum). Cra",
+    "id": "kindsusu/su-presence",
+    "language": "Python",
+    "name": "kindsusu/su-presence",
+    "stars": 0,
+    "updated_at": "2026-09-14T01:56:55Z",
+    "url": "https://github.com/kindsusu/su-presence"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-09-14T01:56:12Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "A Pok\u00e9mon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adv",
+    "id": "Shellishack/infinite-pokemon",
+    "language": "TypeScript",
+    "name": "Shellishack/infinite-pokemon",
+    "stars": 5,
+    "updated_at": "2026-09-14T01:58:57Z",
+    "url": "https://github.com/Shellishack/infinite-pokemon"
+  },
+  {
+    "description": "Turn technical notes into clear, shareable diagrams. Bilingual HTML and optional PNG, with local rendering and browser l",
+    "id": "GODVvVZzz/text2html2png",
+    "language": "HTML",
+    "name": "GODVvVZzz/text2html2png",
+    "stars": 1,
+    "updated_at": "2026-09-14T01:52:50Z",
+    "url": "https://github.com/GODVvVZzz/text2html2png"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 436,
+    "updated_at": "2026-09-14T01:50:52Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Ciclo de desarrollo asistido por agentes para Claude Code, empaquetado como plugin instalable \u2014 con una app de ejemplo c",
+    "id": "rarango10/GoHarness",
+    "language": "TypeScript",
+    "name": "rarango10/GoHarness",
+    "stars": 0,
+    "updated_at": "2026-09-14T01:50:16Z",
+    "url": "https://github.com/rarango10/GoHarness"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "HTML",
+    "name": "geml-spec/geml",
+    "stars": 26,
+    "updated_at": "2026-09-14T01:49:39Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Open-source templates, skills, and frameworks for using AI as a personal systems architect.",
+    "id": "dkaleganov/personal-ai-systems",
+    "language": "Python",
+    "name": "dkaleganov/personal-ai-systems",
+    "stars": 0,
+    "updated_at": "2026-09-14T01:50:08Z",
+    "url": "https://github.com/dkaleganov/personal-ai-systems"
+  },
+  {
+    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
+    "id": "jasonm4130/claude-skills",
+    "language": "JavaScript",
+    "name": "jasonm4130/claude-skills",
+    "stars": 5,
+    "updated_at": "2026-09-14T01:47:13Z",
+    "url": "https://github.com/jasonm4130/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T01:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
     "id": "fabioc-aloha/Alex_Skill_Mall",
     "language": "Python",
     "name": "fabioc-aloha/Alex_Skill_Mall",
     "stars": 4,
-    "updated_at": "2026-09-14T01:44:43Z",
+    "updated_at": "2026-09-14T01:45:36Z",
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
   },
   {
@@ -25,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T01:43:46Z",
     "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
-    "description": "An educational, non-commercial Pok\u00e9mon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching sa",
-    "id": "Shellishack/infinite-pokemon",
-    "language": "TypeScript",
-    "name": "Shellishack/infinite-pokemon",
-    "stars": 4,
-    "updated_at": "2026-09-14T01:43:33Z",
-    "url": "https://github.com/Shellishack/infinite-pokemon"
-  },
-  {
-    "description": "Open-source templates, skills, and frameworks for using AI as a personal systems architect.",
-    "id": "dkaleganov/personal-ai-systems",
-    "language": "Python",
-    "name": "dkaleganov/personal-ai-systems",
-    "stars": 0,
-    "updated_at": "2026-09-14T01:42:58Z",
-    "url": "https://github.com/dkaleganov/personal-ai-systems"
   },
   {
     "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
@@ -180,24 +261,6 @@
     "url": "https://github.com/jesusda3699/claude-rtl-persian"
   },
   {
-    "description": "Are we present in search and AI answers? One audit surface for SEO, AEO, GEO, LLMO and Korean engines (Naver, Daum). Cra",
-    "id": "kindsusu/su-presence",
-    "language": "Python",
-    "name": "kindsusu/su-presence",
-    "stars": 0,
-    "updated_at": "2026-09-14T01:34:15Z",
-    "url": "https://github.com/kindsusu/su-presence"
-  },
-  {
-    "description": "Personal Claude Code plugin marketplace: 9 plugins for orchestration guards (workflow-model-guard), tiered deep research",
-    "id": "jasonm4130/claude-skills",
-    "language": "JavaScript",
-    "name": "jasonm4130/claude-skills",
-    "stars": 5,
-    "updated_at": "2026-09-14T01:39:21Z",
-    "url": "https://github.com/jasonm4130/claude-skills"
-  },
-  {
     "description": "Organize *many* obsidian knowledge bases at once with the help of claude-code. Ingest new sources, prioritize tasks, and",
     "id": "nathanaday/claude-atlas",
     "language": "Go",
@@ -259,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T01:30:28Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T01:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-14T01:27:12Z",
     "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-09-14T01:27:08Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-09-14T01:27:00Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-09-14T01:26:49Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-14T01:26:46Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 1,
-    "updated_at": "2026-09-14T01:26:29Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
-  },
-  {
-    "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
-    "id": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "language": "Shell",
-    "name": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "stars": 0,
-    "updated_at": "2026-09-14T01:25:59Z",
-    "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
   }
 ]
