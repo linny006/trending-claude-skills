@@ -1,5 +1,140 @@
 [
   {
+    "description": "A browser inside your terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "TypeScript",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 2939,
+    "updated_at": "2026-09-14T15:59:17Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
+  },
+  {
+    "description": "Agent-native CLI for ASU's SOL supercomputer",
+    "id": "Shu-Wan/solx",
+    "language": "Rust",
+    "name": "Shu-Wan/solx",
+    "stars": 3,
+    "updated_at": "2026-09-14T15:58:37Z",
+    "url": "https://github.com/Shu-Wan/solx"
+  },
+  {
+    "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, ",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "JavaScript",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 1280,
+    "updated_at": "2026-09-14T15:56:38Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "34 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 AI-\u0441\u043a\u0438\u043b\u043b\u0430 \u0434\u043b\u044f \u043c\u0430\u043b\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0420\u0424: \u043d\u0430\u043b\u043e\u0433\u0438 \u0423\u0421\u041d, \u0434\u0435\u043d\u044c\u0433\u0438, \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043a\u043e\u043d\u0442\u0440\u0430\u0433\u0435\u043d\u0442\u0430 \u043f\u043e \u0418\u041d\u041d. \u0427\u0438\u0441\u043b\u0430 \u0441\u0447\u0438\u0442\u0430\u044e\u0442\u0441\u044f \u043a\u043e\u0434\u043e\u043c, \u0434\u0430\u043d",
+    "id": "ilyautov/small-business-ru",
+    "language": "Python",
+    "name": "ilyautov/small-business-ru",
+    "stars": 15,
+    "updated_at": "2026-09-14T15:54:43Z",
+    "url": "https://github.com/ilyautov/small-business-ru"
+  },
+  {
+    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. 64 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0438, 21",
+    "id": "ilyautov/humanizer-ru",
+    "language": "Python",
+    "name": "ilyautov/humanizer-ru",
+    "stars": 348,
+    "updated_at": "2026-09-14T15:53:54Z",
+    "url": "https://github.com/ilyautov/humanizer-ru"
+  },
+  {
+    "description": "AI Agent \u6280\u80fd\u5e93\uff1aClaude Code / Agent Skills \u7684\u5f00\u53d1\u4e0e\u7ef4\u62a4\u4ed3\u5e93 \u2014\u2014 \u4ece\u9700\u6c42\u8bb0\u5f55\u5230\u53ef\u52a0\u8f7d\u7684 SKILL.md\uff0c\u542b\u8bbe\u8ba1\u8fc7\u7a0b\u3001\u8fed\u4ee3\u7559\u75d5\u4e0e\u9a8c\u8bc1\u8bc1\u636e\u3002Agent Skills for Claude Code: so",
+    "id": "heweidong-ecco/claude-agent-skills",
+    "language": "Python",
+    "name": "heweidong-ecco/claude-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:53:48Z",
+    "url": "https://github.com/heweidong-ecco/claude-agent-skills"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-09-14T15:53:40Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u043e\u0440\u043d\u0435\u0432\u043e\u0439 \u0441\u0430\u0439\u0442 GitHub Pages: \u0432\u0438\u0437\u0438\u0442\u043a\u0430 \u0438 \u0441\u0441\u044b\u043b\u043a\u0438 \u043d\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u044b | Showcase of open-source AI skills and MCP servers by il",
+    "id": "ilyautov/ilyautov.github.io",
+    "language": "HTML",
+    "name": "ilyautov/ilyautov.github.io",
+    "stars": 1,
+    "updated_at": "2026-09-14T15:52:21Z",
+    "url": "https://github.com/ilyautov/ilyautov.github.io"
+  },
+  {
+    "description": "MCP server and Claude skills for the OpenAI Ads (ChatGPT Ads) API \u2014 retries, response budgeting, and postcode-level loca",
+    "id": "devaimani/openai-ads-mcp",
+    "language": "Python",
+    "name": "devaimani/openai-ads-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:51:27Z",
+    "url": "https://github.com/devaimani/openai-ads-mcp"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 5,
+    "updated_at": "2026-09-14T15:49:30Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "A `Claude` native workflow.",
+    "id": "jay94ks/claude-native-workflow",
+    "language": "TypeScript",
+    "name": "jay94ks/claude-native-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:48:44Z",
+    "url": "https://github.com/jay94ks/claude-native-workflow"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-09-14T15:46:17Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "25+ KI-Skills f\u00fcr den deutschen Immobilienmarkt -- von der Objektpr\u00fcfung bis zur Anlage V. Strukturierte AI-Prompts f\u00fcr ",
+    "id": "immoJUMP/immo-agent-skills",
+    "language": "HTML",
+    "name": "immoJUMP/immo-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:45:51Z",
+    "url": "https://github.com/immoJUMP/immo-agent-skills"
+  },
+  {
+    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 3,
+    "updated_at": "2026-09-14T15:45:18Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T15:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
@@ -9,15 +144,6 @@
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
-    "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, ",
-    "id": "plugin87/ux-ui-agent-skills",
-    "language": "JavaScript",
-    "name": "plugin87/ux-ui-agent-skills",
-    "stars": 1280,
-    "updated_at": "2026-09-14T15:37:11Z",
-    "url": "https://github.com/plugin87/ux-ui-agent-skills"
-  },
-  {
     "description": "Agent skills repository",
     "id": "ooooooooooooooooooop/personal-ai",
     "language": "Python",
@@ -25,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-09-14T15:36:59Z",
     "url": "https://github.com/ooooooooooooooooooop/personal-ai"
-  },
-  {
-    "description": "25+ KI-Skills f\u00fcr den deutschen Immobilienmarkt -- von der Objektpr\u00fcfung bis zur Anlage V. Strukturierte AI-Prompts f\u00fcr ",
-    "id": "immoJUMP/immo-agent-skills",
-    "language": "HTML",
-    "name": "immoJUMP/immo-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T15:44:50Z",
-    "url": "https://github.com/immoJUMP/immo-agent-skills"
   },
   {
     "description": "Tsubaiso Intelligence Skill \u2014 PSA/IMA\uff08Salesforce\uff09\u696d\u52d9\u306e\u53c2\u7167\u30fb\u30c7\u30fc\u30bf\u6295\u5165\u30fb\u30e1\u30bf\u30c7\u30fc\u30bf\u69cb\u6210\u30fb\u5e33\u7968\u30fb\u4ed5\u69d8\u53ef\u8996\u5316\u30fb\u66f4\u65b0\u652f\u63f4\u30fb\u30ed\u30fc\u30ab\u30eb API \u64cd\u4f5c\u3068\u3001\u5c0e\u5165\uff0f\u30ed\u30fc\u30eb\u30a2\u30a6\u30c8\uff0fPoC\uff0f\u958b\u767a\u904b\u7528\u30e9\u30a4\u30d5\u30b5\u30a4\u30af",
@@ -54,22 +171,13 @@
     "url": "https://github.com/isatimur/excalidraw-skill-pack"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T15:30:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "AI Agent \u6280\u80fd\u5e93\uff1aClaude Code / Agent Skills \u7684\u5f00\u53d1\u4e0e\u7ef4\u62a4\u4ed3\u5e93 \u2014\u2014 \u4ece\u9700\u6c42\u8bb0\u5f55\u5230\u53ef\u52a0\u8f7d\u7684 SKILL.md\uff0c\u542b\u8bbe\u8ba1\u8fc7\u7a0b\u3001\u8fed\u4ee3\u7559\u75d5\u4e0e\u9a8c\u8bc1\u8bc1\u636e\u3002Agent Skills for Claude Code: so",
-    "id": "heweidong-ecco/claude-agent-skills",
-    "language": "Python",
-    "name": "heweidong-ecco/claude-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T15:28:58Z",
-    "url": "https://github.com/heweidong-ecco/claude-agent-skills"
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 489,
+    "updated_at": "2026-09-14T15:29:48Z",
+    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -99,15 +207,6 @@
     "url": "https://github.com/xr843/Master-skill"
   },
   {
-    "description": "\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u043e\u0440\u043d\u0435\u0432\u043e\u0439 \u0441\u0430\u0439\u0442 GitHub Pages: \u0432\u0438\u0437\u0438\u0442\u043a\u0430 \u0438 \u0441\u0441\u044b\u043b\u043a\u0438 \u043d\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u044b | Showcase of open-source AI skills and MCP servers by il",
-    "id": "ilyautov/ilyautov.github.io",
-    "language": "HTML",
-    "name": "ilyautov/ilyautov.github.io",
-    "stars": 1,
-    "updated_at": "2026-09-14T15:25:32Z",
-    "url": "https://github.com/ilyautov/ilyautov.github.io"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -135,15 +234,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "A `Claude` native workflow.",
-    "id": "jay94ks/claude-native-workflow",
-    "language": "TypeScript",
-    "name": "jay94ks/claude-native-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-14T15:22:43Z",
-    "url": "https://github.com/jay94ks/claude-native-workflow"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -151,15 +241,6 @@
     "stars": 52,
     "updated_at": "2026-09-14T15:19:43Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-14T15:19:36Z",
-    "url": "https://github.com/TyrusRC/praetor"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -234,15 +315,6 @@
     "url": "https://github.com/MrBinnacle/skills"
   },
   {
-    "description": "A browser inside your terminal",
-    "id": "zenbu-labs/terminal-browser",
-    "language": "Rust",
-    "name": "zenbu-labs/terminal-browser",
-    "stars": 2938,
-    "updated_at": "2026-09-14T15:39:28Z",
-    "url": "https://github.com/zenbu-labs/terminal-browser"
-  },
-  {
     "description": "Your own ByteDance, powered by Codex skills.",
     "id": "elan6666/your-bytedance-skills",
     "language": "Python",
@@ -277,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T14:51:00Z",
     "url": "https://github.com/zayvillion-dot/jedi-review"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:47:09Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
     "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
@@ -369,15 +432,6 @@
     "url": "https://github.com/datarobot-oss/datarobot-agent-skills"
   },
   {
-    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. 64 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0438, 21",
-    "id": "ilyautov/humanizer-ru",
-    "language": "Python",
-    "name": "ilyautov/humanizer-ru",
-    "stars": 348,
-    "updated_at": "2026-09-14T14:36:55Z",
-    "url": "https://github.com/ilyautov/humanizer-ru"
-  },
-  {
     "description": "6 \u5957\u5b9e\u6218\u6253\u78e8\u7684 AI Agent Skills \u5408\u96c6\uff08Claude Code / OpenCode / Codex / Cursor\uff09\uff1a\u521b\u59cb\u4eba IP \u6218\u7565 \u00b7 \u5185\u5bb9\u9884\u6d4b\u6821\u51c6 \u00b7 \u83b7\u5ba2\u95ed\u73af \u00b7 \u6df1\u5ea6\u9605\u8bfb \u00b7 Skill \u5de5\u7a0b \u00b7 \u89c6\u9891\u5236\u4f5c\u3002",
     "id": "Huanyu-Hibiki/Huanyu-Skills",
     "language": "TypeScript",
@@ -387,15 +441,6 @@
     "url": "https://github.com/Huanyu-Hibiki/Huanyu-Skills"
   },
   {
-    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
-    "id": "aitit-inc/leadace",
-    "language": "TypeScript",
-    "name": "aitit-inc/leadace",
-    "stars": 3,
-    "updated_at": "2026-09-14T14:34:37Z",
-    "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
     "description": "Agent skills for building software that works on the other five billion phones.",
     "id": "Kaguara/emerging-market-skills",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-14T14:49:15Z",
     "url": "https://github.com/Kaguara/emerging-market-skills"
-  },
-  {
-    "description": "Agent Skills for partner ecosystem operations: affiliate programs, influencer partnerships, channel alliances, joint GTM",
-    "id": "mbfinotti/partnerships-skills",
-    "language": "Python",
-    "name": "mbfinotti/partnerships-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:32:10Z",
-    "url": "https://github.com/mbfinotti/partnerships-skills"
-  },
-  {
-    "description": "Agent Skills for paid media: channel selection, budgets, audiences, creative, and measurement.",
-    "id": "mbfinotti/advertising-skills",
-    "language": "Python",
-    "name": "mbfinotti/advertising-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:32:10Z",
-    "url": "https://github.com/mbfinotti/advertising-skills"
-  },
-  {
-    "description": "Agent Skills for revenue operations: CRM data governance, pipeline and funnel management, lead routing and scoring, deal",
-    "id": "mbfinotti/revops-skills",
-    "language": "Python",
-    "name": "mbfinotti/revops-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:32:09Z",
-    "url": "https://github.com/mbfinotti/revops-skills"
-  },
-  {
-    "description": "Agent Skills for running a sales org and closing the deals in it: market sizing, ICP, quota and comp design, cold outbou",
-    "id": "mbfinotti/sales-skills",
-    "language": "Python",
-    "name": "mbfinotti/sales-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:32:07Z",
-    "url": "https://github.com/mbfinotti/sales-skills"
-  },
-  {
-    "description": "\ud83e\udead Agent Skills for technical event organizers: conferences, meetups, hackathons, speakers, and sponsorships.",
-    "id": "samber/dev-event-organizer-skills",
-    "language": "Python",
-    "name": "samber/dev-event-organizer-skills",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:32:07Z",
-    "url": "https://github.com/samber/dev-event-organizer-skills"
   }
 ]
