@@ -1,5 +1,86 @@
 [
   {
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
+    "id": "howard-lynn-ye/fin-skills",
+    "language": "Python",
+    "name": "howard-lynn-ye/fin-skills",
+    "stars": 1,
+    "updated_at": "2026-09-14T16:29:50Z",
+    "url": "https://github.com/howard-lynn-ye/fin-skills"
+  },
+  {
+    "description": "Too long; didn't read \u2014 for AI coding agents. A skill that makes Claude Code, Cursor, Codex, Gemini CLI and 16 more lead",
+    "id": "SurefireStudios/tldr",
+    "language": "Python",
+    "name": "SurefireStudios/tldr",
+    "stars": 5,
+    "updated_at": "2026-09-14T16:27:41Z",
+    "url": "https://github.com/SurefireStudios/tldr"
+  },
+  {
+    "description": "Hermes Skills: \u89c6\u9891\u8f6c\u6587\u5b57 / AI\u6587\u6848\u53bb\u5473 / \u6587\u6863OCR / \u7535\u5546\u7d20\u6750\u5de5\u574a (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio)",
+    "id": "jiawood2006/hermes-skills",
+    "language": "Python",
+    "name": "jiawood2006/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T16:27:35Z",
+    "url": "https://github.com/jiawood2006/hermes-skills"
+  },
+  {
+    "description": "MCP server and Claude skills for the OpenAI Ads (ChatGPT Ads) API \u2014 retries, response budgeting, and postcode-level loca",
+    "id": "devaimani/openai-ads-mcp",
+    "language": "Python",
+    "name": "devaimani/openai-ads-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-14T16:27:29Z",
+    "url": "https://github.com/devaimani/openai-ads-mcp"
+  },
+  {
+    "description": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 1\u0421-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u043b\u044f Claude Code: \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b, \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u041e\u041e\u041f \u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u044b, XML \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0445, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u0433\u0435\u0439\u0442\u044b \u0438",
+    "id": "Romandredan/1c-quality-gate",
+    "language": "JavaScript",
+    "name": "Romandredan/1c-quality-gate",
+    "stars": 25,
+    "updated_at": "2026-09-14T16:27:02Z",
+    "url": "https://github.com/Romandredan/1c-quality-gate"
+  },
+  {
+    "description": "A `Claude` native workflow.",
+    "id": "jay94ks/claude-native-workflow",
+    "language": "TypeScript",
+    "name": "jay94ks/claude-native-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-14T16:25:01Z",
+    "url": "https://github.com/jay94ks/claude-native-workflow"
+  },
+  {
+    "description": "Offline-first project management in a single HTML file \u2014 WBS \u00b7 CPM critical path \u00b7 risk register \u00b7 ADR \u00b7 kanban \u00b7 Excel/",
+    "id": "tohnee/weaveboard",
+    "language": "HTML",
+    "name": "tohnee/weaveboard",
+    "stars": 0,
+    "updated_at": "2026-09-14T16:24:47Z",
+    "url": "https://github.com/tohnee/weaveboard"
+  },
+  {
+    "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, ",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "JavaScript",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 1281,
+    "updated_at": "2026-09-14T16:20:34Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T16:15:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
     "id": "TyrusRC/praetor",
     "language": "Python",
@@ -9,15 +90,6 @@
     "url": "https://github.com/TyrusRC/praetor"
   },
   {
-    "description": "MCP server and Claude skills for the OpenAI Ads (ChatGPT Ads) API \u2014 retries, response budgeting, and postcode-level loca",
-    "id": "devaimani/openai-ads-mcp",
-    "language": "Python",
-    "name": "devaimani/openai-ads-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-14T16:12:58Z",
-    "url": "https://github.com/devaimani/openai-ads-mcp"
-  },
-  {
     "description": "Agent skill: turn any flat logo into a premium 3D spinning coin (React Three Fiber). One command, try it live in your br",
     "id": "hasuwini77/3d-logo-skill",
     "language": "\u2014",
@@ -25,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T16:08:10Z",
     "url": "https://github.com/hasuwini77/3d-logo-skill"
-  },
-  {
-    "description": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 1\u0421-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u043b\u044f Claude Code: \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b, \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u041e\u041e\u041f \u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u044b, XML \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0445, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u0433\u0435\u0439\u0442\u044b \u0438",
-    "id": "Romandredan/1c-quality-gate",
-    "language": "JavaScript",
-    "name": "Romandredan/1c-quality-gate",
-    "stars": 25,
-    "updated_at": "2026-09-14T16:08:02Z",
-    "url": "https://github.com/Romandredan/1c-quality-gate"
   },
   {
     "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
@@ -103,27 +166,18 @@
     "id": "zenbu-labs/terminal-browser",
     "language": "TypeScript",
     "name": "zenbu-labs/terminal-browser",
-    "stars": 2939,
+    "stars": 2940,
     "updated_at": "2026-09-14T16:01:12Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Claude skill: every role of an industrial project team \u2014 any sector, any country. Sector profiles created on demand.",
+    "id": "j2globalpartners/industrial-project-team",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T16:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, ",
-    "id": "plugin87/ux-ui-agent-skills",
-    "language": "JavaScript",
-    "name": "plugin87/ux-ui-agent-skills",
-    "stars": 1281,
-    "updated_at": "2026-09-14T15:56:38Z",
-    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+    "name": "j2globalpartners/industrial-project-team",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:59:25Z",
+    "url": "https://github.com/j2globalpartners/industrial-project-team"
   },
   {
     "description": "34 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 AI-\u0441\u043a\u0438\u043b\u043b\u0430 \u0434\u043b\u044f \u043c\u0430\u043b\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0420\u0424: \u043d\u0430\u043b\u043e\u0433\u0438 \u0423\u0421\u041d, \u0434\u0435\u043d\u044c\u0433\u0438, \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043a\u043e\u043d\u0442\u0440\u0430\u0433\u0435\u043d\u0442\u0430 \u043f\u043e \u0418\u041d\u041d. \u0427\u0438\u0441\u043b\u0430 \u0441\u0447\u0438\u0442\u0430\u044e\u0442\u0441\u044f \u043a\u043e\u0434\u043e\u043c, \u0434\u0430\u043d",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "heweidong-ecco/claude-agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-14T15:53:48Z",
+    "updated_at": "2026-09-14T16:27:41Z",
     "url": "https://github.com/heweidong-ecco/claude-agent-skills"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T15:52:21Z",
     "url": "https://github.com/ilyautov/ilyautov.github.io"
-  },
-  {
-    "description": "A `Claude` native workflow.",
-    "id": "jay94ks/claude-native-workflow",
-    "language": "TypeScript",
-    "name": "jay94ks/claude-native-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-14T15:48:44Z",
-    "url": "https://github.com/jay94ks/claude-native-workflow"
   },
   {
     "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
@@ -256,7 +301,7 @@
     "id": "reticlehq/reticle",
     "language": "TypeScript",
     "name": "reticlehq/reticle",
-    "stars": 492,
+    "stars": 494,
     "updated_at": "2026-09-14T15:29:48Z",
     "url": "https://github.com/reticlehq/reticle"
   },
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "jamditis/claude-skills-journalism",
     "stars": 393,
-    "updated_at": "2026-09-14T15:14:55Z",
+    "updated_at": "2026-09-14T16:17:04Z",
     "url": "https://github.com/jamditis/claude-skills-journalism"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T14:59:47Z",
     "url": "https://github.com/elan6666/your-bytedance-skills"
-  },
-  {
-    "description": "Battle-tested agent skills on judgment before action, distilled from real OSS work",
-    "id": "HelloWorldU/skill-collection",
-    "language": "\u2014",
-    "name": "HelloWorldU/skill-collection",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:55:09Z",
-    "url": "https://github.com/HelloWorldU/skill-collection"
-  },
-  {
-    "description": "Adversarial review tribunal for Claude Code \u2014 parallel attack lenses, findings tried by a skeptic, fixes re-attacked, ze",
-    "id": "zayvillion-dot/jedi-review",
-    "language": "Python",
-    "name": "zayvillion-dot/jedi-review",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:51:00Z",
-    "url": "https://github.com/zayvillion-dot/jedi-review"
-  },
-  {
-    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
-    "id": "synaptiai/synapti-marketplace",
-    "language": "Shell",
-    "name": "synaptiai/synapti-marketplace",
-    "stars": 6,
-    "updated_at": "2026-09-14T14:45:45Z",
-    "url": "https://github.com/synaptiai/synapti-marketplace"
-  },
-  {
-    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
-    "id": "Jsnnmsc/10000x-engineer",
-    "language": "\u2014",
-    "name": "Jsnnmsc/10000x-engineer",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:42:53Z",
-    "url": "https://github.com/Jsnnmsc/10000x-engineer"
-  },
-  {
-    "description": "Stop Claude from lying to you. A Claude Code skill that fact-checks every claim against real sources \u2014 code files, live ",
-    "id": "BAS-More/truth-shield",
-    "language": "JavaScript",
-    "name": "BAS-More/truth-shield",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:40:31Z",
-    "url": "https://github.com/BAS-More/truth-shield"
   }
 ]
