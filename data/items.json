@@ -1,5 +1,95 @@
 [
   {
+    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. 64 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0438, 21",
+    "id": "ilyautov/humanizer-ru",
+    "language": "Python",
+    "name": "ilyautov/humanizer-ru",
+    "stars": 348,
+    "updated_at": "2026-09-14T12:59:56Z",
+    "url": "https://github.com/ilyautov/humanizer-ru"
+  },
+  {
+    "description": "Remove AI traces from Italian text \u2014 opensource (MIT) skill for Claude. The \u00abIA-taliano\u00bb: English calques, nominal buroc",
+    "id": "ilyautov/humanizer-it",
+    "language": "Python",
+    "name": "ilyautov/humanizer-it",
+    "stars": 2,
+    "updated_at": "2026-09-14T12:59:36Z",
+    "url": "https://github.com/ilyautov/humanizer-it"
+  },
+  {
+    "description": "A small, verified, security-aware directory of Agent Skills (SKILL.md format).",
+    "id": "royalpinto007/awesome-agent-skills",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-14T12:58:40Z",
+    "url": "https://github.com/royalpinto007/awesome-agent-skills"
+  },
+  {
+    "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tool",
+    "id": "AIDevGTM/gtm-cofounder",
+    "language": "\u2014",
+    "name": "AIDevGTM/gtm-cofounder",
+    "stars": 278,
+    "updated_at": "2026-09-14T12:58:34Z",
+    "url": "https://github.com/AIDevGTM/gtm-cofounder"
+  },
+  {
+    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
+    "id": "galleonlabs/hypergrok-trading-desk",
+    "language": "Python",
+    "name": "galleonlabs/hypergrok-trading-desk",
+    "stars": 64,
+    "updated_at": "2026-09-14T12:58:08Z",
+    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-09-14T12:50:13Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-09-14T12:48:50Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "visualize, and report code coverage within llm sessions",
+    "id": "joshLong145/ambits",
+    "language": "Rust",
+    "name": "joshLong145/ambits",
+    "stars": 10,
+    "updated_at": "2026-09-14T12:48:07Z",
+    "url": "https://github.com/joshLong145/ambits"
+  },
+  {
+    "description": "A collection of skills for AI agents (Kiro, Cursor, Windsurf, Claude Code, and others). Each skill is a reusable module ",
+    "id": "fabricioctelles/skills",
+    "language": "Python",
+    "name": "fabricioctelles/skills",
+    "stars": 79,
+    "updated_at": "2026-09-14T12:46:26Z",
+    "url": "https://github.com/fabricioctelles/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T12:45:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
     "id": "isamubas/coffee_price_predictor",
     "language": "HTML",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-14T12:44:16Z",
+    "updated_at": "2026-09-14T12:50:25Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "chengzhi-c/natural-talk",
     "stars": 49,
-    "updated_at": "2026-09-14T12:43:56Z",
+    "updated_at": "2026-09-14T12:56:12Z",
     "url": "https://github.com/chengzhi-c/natural-talk"
   },
   {
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "bjcoombs/ai-native-toolkit",
     "stars": 30,
-    "updated_at": "2026-09-14T12:39:43Z",
+    "updated_at": "2026-09-14T12:54:12Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
   },
   {
@@ -99,15 +189,6 @@
     "url": "https://github.com/php-opcua/ai-skills"
   },
   {
-    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. 64 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0438, 21",
-    "id": "ilyautov/humanizer-ru",
-    "language": "Python",
-    "name": "ilyautov/humanizer-ru",
-    "stars": 347,
-    "updated_at": "2026-09-14T12:43:39Z",
-    "url": "https://github.com/ilyautov/humanizer-ru"
-  },
-  {
     "description": "\u7ed9\u670b\u53cb\u7684\u7f51\u7edc\u5c31\u4f4d\u51c6\u5907\u5305\uff08Agent Skill + \u624b\u518c\uff09\uff1a100\u5143\u5185\u53ef\u5237\u673a\u8def\u7531\u5668\u9009\u578b\u3001OpenWrt/ImmortalWrt \u5b98\u65b9\u56fa\u4ef6\u5237\u673a\u6d41\u7a0b\u3001\u6590\u8baf N1 \u7b49\u6676\u6668\u76d2\u5b50\u793e\u533a\u56fa\u4ef6\u8def\u7ebf\u3001\u65c1\u8def\u7531/\u5355\u81c2\u8def\u7531\u914d\u7f6e\u3001\u4ea4\u4ed8\u524d\u9a8c\u6536\u6e05\u5355\u3002\u53ea\u8986\u76d6\u8bbe\u5907\u4e0e\u7f51\u7edc\u5c42\u3002",
     "id": "wlkerwong-boop/china-router-kit",
     "language": "HTML",
@@ -124,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T12:32:55Z",
     "url": "https://github.com/wlkerwong-boop/china-network-diagnostics"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T12:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
-    "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 5,
-    "updated_at": "2026-09-14T12:30:35Z",
-    "url": "https://github.com/shortcuts/radin"
   },
   {
     "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
@@ -252,15 +315,6 @@
     "url": "https://github.com/nktznl/skillwise"
   },
   {
-    "description": "Remove AI traces from Italian text \u2014 opensource (MIT) skill for Claude. The \u00abIA-taliano\u00bb: English calques, nominal buroc",
-    "id": "ilyautov/humanizer-it",
-    "language": "Python",
-    "name": "ilyautov/humanizer-it",
-    "stars": 2,
-    "updated_at": "2026-09-14T12:11:01Z",
-    "url": "https://github.com/ilyautov/humanizer-it"
-  },
-  {
     "description": "A standard for CI that stays green for the right reasons",
     "id": "rokokol/ci-skill",
     "language": "Shell",
@@ -365,7 +419,7 @@
     "language": "Python",
     "name": "NocodeMrLi/mini-program-engineering-skill-suite",
     "stars": 62,
-    "updated_at": "2026-09-14T11:46:38Z",
+    "updated_at": "2026-09-14T12:57:48Z",
     "url": "https://github.com/NocodeMrLi/mini-program-engineering-skill-suite"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T11:38:59Z",
     "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30761,
-    "updated_at": "2026-09-14T11:37:56Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Keep Claude Code's always-loaded MEMORY.md from silently truncating: budget guard, orphan coverage, verbatim domain fold",
-    "id": "tonydzi/claude-memory-tidy",
-    "language": "Python",
-    "name": "tonydzi/claude-memory-tidy",
-    "stars": 0,
-    "updated_at": "2026-09-14T11:37:01Z",
-    "url": "https://github.com/tonydzi/claude-memory-tidy"
-  },
-  {
-    "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-09-14T11:36:41Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-09-14T11:33:26Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Hermes Skills: \u89c6\u9891\u8f6c\u6587\u5b57 / AI\u6587\u6848\u53bb\u5473 / \u6587\u6863OCR / \u7535\u5546\u7d20\u6750\u5de5\u574a (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio)",
-    "id": "jiawood2006/hermes-skills",
-    "language": "Python",
-    "name": "jiawood2006/hermes-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T11:33:14Z",
-    "url": "https://github.com/jiawood2006/hermes-skills"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-09-14T11:33:12Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   }
 ]
