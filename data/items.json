@@ -1,12 +1,21 @@
 [
   {
-    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
-    "id": "mykpono/ultimate-seo-geo",
+    "description": "Production-grade agent skills for Claude Code, Cursor and Codex: evidence research, product ops, QA, release gates and d",
+    "id": "MaciejZet/agent-skills",
     "language": "Python",
-    "name": "mykpono/ultimate-seo-geo",
-    "stars": 76,
-    "updated_at": "2026-09-14T21:28:17Z",
-    "url": "https://github.com/mykpono/ultimate-seo-geo"
+    "name": "MaciejZet/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:40:46Z",
+    "url": "https://github.com/MaciejZet/agent-skills"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 62,
+    "updated_at": "2026-09-14T21:40:45Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -14,8 +23,80 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 23,
-    "updated_at": "2026-09-14T21:23:16Z",
+    "updated_at": "2026-09-14T21:41:50Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
+    "id": "Diegocortes15/playwright-ai-framework",
+    "language": "TypeScript",
+    "name": "Diegocortes15/playwright-ai-framework",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:38:31Z",
+    "url": "https://github.com/Diegocortes15/playwright-ai-framework"
+  },
+  {
+    "description": "Ontology, semantic-layer, concept-design, and presentation Agent Skills.",
+    "id": "ontology-of-everything/concept-skills",
+    "language": "HTML",
+    "name": "ontology-of-everything/concept-skills",
+    "stars": 8,
+    "updated_at": "2026-09-14T21:36:02Z",
+    "url": "https://github.com/ontology-of-everything/concept-skills"
+  },
+  {
+    "description": "Community-maintained Huawei Cloud billing, cost estimation, controlled provisioning, and account onboarding Agent Skills",
+    "id": "concept-git/cloud-concept-skills",
+    "language": "Python",
+    "name": "concept-git/cloud-concept-skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:35:51Z",
+    "url": "https://github.com/concept-git/cloud-concept-skills"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-14T21:34:43Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-14T21:32:12Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Trie les skills de skills.sh par confiance sans LLM, puis fait expliquer un top 3 par un mod\u00e8le local \u2014 z\u00e9ro token factu",
+    "id": "gabriel-delavaud/skillscout",
+    "language": "Python",
+    "name": "gabriel-delavaud/skillscout",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:30:57Z",
+    "url": "https://github.com/gabriel-delavaud/skillscout"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T21:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
+    "id": "mykpono/ultimate-seo-geo",
+    "language": "Python",
+    "name": "mykpono/ultimate-seo-geo",
+    "stars": 76,
+    "updated_at": "2026-09-14T21:41:17Z",
+    "url": "https://github.com/mykpono/ultimate-seo-geo"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -23,7 +104,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-14T21:26:42Z",
+    "updated_at": "2026-09-14T21:44:07Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 112,
-    "updated_at": "2026-09-14T21:16:29Z",
+    "updated_at": "2026-09-14T21:32:07Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T21:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 1\u0421-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u043b\u044f Claude Code: \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b, \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u041e\u041e\u041f \u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u044b, XML \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0445, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u0433\u0435\u0439\u0442\u044b \u0438",
     "id": "Romandredan/1c-quality-gate",
     "language": "JavaScript",
@@ -115,15 +187,6 @@
     "stars": 5,
     "updated_at": "2026-09-14T21:08:17Z",
     "url": "https://github.com/Kayunangka/claude-skill"
-  },
-  {
-    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
-    "id": "Diegocortes15/playwright-ai-framework",
-    "language": "TypeScript",
-    "name": "Diegocortes15/playwright-ai-framework",
-    "stars": 0,
-    "updated_at": "2026-09-14T21:06:13Z",
-    "url": "https://github.com/Diegocortes15/playwright-ai-framework"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T20:19:56Z",
     "url": "https://github.com/RectangleStory/Superpowers_Multi_AI"
-  },
-  {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/cleanlanguage",
-    "language": "Python",
-    "name": "jposluns/cleanlanguage",
-    "stars": 3,
-    "updated_at": "2026-09-14T21:21:56Z",
-    "url": "https://github.com/jposluns/cleanlanguage"
-  },
-  {
-    "description": "AI skills for NMTC eligibility, bank-CDFI peer benchmarking & HMDA analysis \u2014 grounded in audited PyPI tools, not halluc",
-    "id": "Jaypatel1511/cdfi-superpowers",
-    "language": "Python",
-    "name": "Jaypatel1511/cdfi-superpowers",
-    "stars": 1,
-    "updated_at": "2026-09-14T20:14:21Z",
-    "url": "https://github.com/Jaypatel1511/cdfi-superpowers"
-  },
-  {
-    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
-    "id": "XiaoMaColtAI/math-modeling-skill",
-    "language": "Python",
-    "name": "XiaoMaColtAI/math-modeling-skill",
-    "stars": 1540,
-    "updated_at": "2026-09-14T20:11:54Z",
-    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
-  },
-  {
-    "description": "Skills for Claude Code that make it talk like a helpful human \u2014 short answers, no jargon",
-    "id": "diflowrin/plain-mode",
-    "language": "\u2014",
-    "name": "diflowrin/plain-mode",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:09:58Z",
-    "url": "https://github.com/diflowrin/plain-mode"
-  },
-  {
-    "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandb",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 129,
-    "updated_at": "2026-09-14T20:07:59Z",
-    "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 59,
-    "updated_at": "2026-09-14T20:06:44Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-09-14T20:03:47Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   }
 ]
