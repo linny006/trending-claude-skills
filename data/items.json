@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-14T15:38:28Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, ",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "JavaScript",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 1280,
+    "updated_at": "2026-09-14T15:37:11Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/personal-ai",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/personal-ai",
+    "stars": 3,
+    "updated_at": "2026-09-14T15:36:59Z",
+    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+  },
+  {
+    "description": "25+ KI-Skills f\u00fcr den deutschen Immobilienmarkt -- von der Objektpr\u00fcfung bis zur Anlage V. Strukturierte AI-Prompts f\u00fcr ",
+    "id": "immoJUMP/immo-agent-skills",
+    "language": "HTML",
+    "name": "immoJUMP/immo-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:44:50Z",
+    "url": "https://github.com/immoJUMP/immo-agent-skills"
+  },
+  {
+    "description": "Tsubaiso Intelligence Skill \u2014 PSA/IMA\uff08Salesforce\uff09\u696d\u52d9\u306e\u53c2\u7167\u30fb\u30c7\u30fc\u30bf\u6295\u5165\u30fb\u30e1\u30bf\u30c7\u30fc\u30bf\u69cb\u6210\u30fb\u5e33\u7968\u30fb\u4ed5\u69d8\u53ef\u8996\u5316\u30fb\u66f4\u65b0\u652f\u63f4\u30fb\u30ed\u30fc\u30ab\u30eb API \u64cd\u4f5c\u3068\u3001\u5c0e\u5165\uff0f\u30ed\u30fc\u30eb\u30a2\u30a6\u30c8\uff0fPoC\uff0f\u958b\u767a\u904b\u7528\u30e9\u30a4\u30d5\u30b5\u30a4\u30af",
+    "id": "tsubaiso/tsubaiso-intelligence",
+    "language": "Python",
+    "name": "tsubaiso/tsubaiso-intelligence",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:34:40Z",
+    "url": "https://github.com/tsubaiso/tsubaiso-intelligence"
+  },
+  {
+    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
+    "id": "isatimur/excalidraw-skill-pack",
+    "language": "TypeScript",
+    "name": "isatimur/excalidraw-skill-pack",
+    "stars": 4,
+    "updated_at": "2026-09-14T15:31:35Z",
+    "url": "https://github.com/isatimur/excalidraw-skill-pack"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T15:30:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI Agent \u6280\u80fd\u5e93\uff1aClaude Code / Agent Skills \u7684\u5f00\u53d1\u4e0e\u7ef4\u62a4\u4ed3\u5e93 \u2014\u2014 \u4ece\u9700\u6c42\u8bb0\u5f55\u5230\u53ef\u52a0\u8f7d\u7684 SKILL.md\uff0c\u542b\u8bbe\u8ba1\u8fc7\u7a0b\u3001\u8fed\u4ee3\u7559\u75d5\u4e0e\u9a8c\u8bc1\u8bc1\u636e\u3002Agent Skills for Claude Code: so",
     "id": "heweidong-ecco/claude-agent-skills",
     "language": "Python",
@@ -117,15 +180,6 @@
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T15:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
     "id": "jamditis/claude-skills-journalism",
     "language": "Python",
@@ -171,15 +225,6 @@
     "url": "https://github.com/specialone0007/review-skills"
   },
   {
-    "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, ",
-    "id": "plugin87/ux-ui-agent-skills",
-    "language": "JavaScript",
-    "name": "plugin87/ux-ui-agent-skills",
-    "stars": 1280,
-    "updated_at": "2026-09-14T15:03:10Z",
-    "url": "https://github.com/plugin87/ux-ui-agent-skills"
-  },
-  {
     "description": "Claude Skills",
     "id": "MrBinnacle/skills",
     "language": "Python",
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "zenbu-labs/terminal-browser",
     "stars": 2938,
-    "updated_at": "2026-09-14T15:00:46Z",
+    "updated_at": "2026-09-14T15:39:28Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
   },
   {
@@ -400,53 +445,8 @@
     "id": "samber/dev-event-organizer-skills",
     "language": "Python",
     "name": "samber/dev-event-organizer-skills",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-14T14:32:07Z",
     "url": "https://github.com/samber/dev-event-organizer-skills"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f Agent Skills for DevRels: open source strategy, community programs, technical content, and developer GTM.",
-    "id": "samber/developer-relations-skills",
-    "language": "Python",
-    "name": "samber/developer-relations-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:32:05Z",
-    "url": "https://github.com/samber/developer-relations-skills"
-  },
-  {
-    "description": "Reescrita de cr\u00edticas pol\u00edticas em linguagem indireta, com testes de interpreta\u00e7\u00e3o e resultados abertos. Experimental.",
-    "id": "lfamorim/fresta",
-    "language": "JavaScript",
-    "name": "lfamorim/fresta",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:31:26Z",
-    "url": "https://github.com/lfamorim/fresta"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-14T14:28:57Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "\ud83e\uddbe AI Skills for Requiems API",
-    "id": "bobadilla-tech/requiems-api-skills",
-    "language": "TypeScript",
-    "name": "bobadilla-tech/requiems-api-skills",
-    "stars": 2,
-    "updated_at": "2026-09-14T14:28:19Z",
-    "url": "https://github.com/bobadilla-tech/requiems-api-skills"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/personal-ai",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/personal-ai",
-    "stars": 3,
-    "updated_at": "2026-09-14T14:26:54Z",
-    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
   }
 ]
