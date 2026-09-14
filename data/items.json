@@ -1,5 +1,95 @@
 [
   {
+    "description": "Lean personal Claude Code skills pack \u2014 my conventions, task flow, and quality lenses. Requires the superpowers plugin.",
+    "id": "Endika/eskills",
+    "language": "Python",
+    "name": "Endika/eskills",
+    "stars": 0,
+    "updated_at": "2026-09-14T11:27:46Z",
+    "url": "https://github.com/Endika/eskills"
+  },
+  {
+    "description": "Claude skill: VK Ads campaign \u2014 audience matrix, reviewed creatives, paused launch. Docs in Russian.",
+    "id": "ai-hub-open/vk-ads-manager",
+    "language": "Python",
+    "name": "ai-hub-open/vk-ads-manager",
+    "stars": 2,
+    "updated_at": "2026-09-14T11:27:14Z",
+    "url": "https://github.com/ai-hub-open/vk-ads-manager"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 394,
+    "updated_at": "2026-09-14T11:26:35Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-09-14T11:25:13Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Ultimate Frontend Skills (UFS) for Claude Code and Codex. One route from brief to shipped page: a corpus of award-winnin",
+    "id": "ridelink0/ultimate-frontend-skills",
+    "language": "JavaScript",
+    "name": "ridelink0/ultimate-frontend-skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T11:23:48Z",
+    "url": "https://github.com/ridelink0/ultimate-frontend-skills"
+  },
+  {
+    "description": "Finds the Agent Skills your project is missing, and audits them before you trust them \u2014 npx skillwise",
+    "id": "nktznl/skillwise",
+    "language": "JavaScript",
+    "name": "nktznl/skillwise",
+    "stars": 0,
+    "updated_at": "2026-09-14T11:19:04Z",
+    "url": "https://github.com/nktznl/skillwise"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 10,
+    "updated_at": "2026-09-14T11:17:47Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Agent skills for product design: research, UI, design systems, accessibility, content and design QA.",
+    "id": "stritar/skills",
+    "language": "JavaScript",
+    "name": "stritar/skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T11:17:10Z",
+    "url": "https://github.com/stritar/skills"
+  },
+  {
+    "description": "Mini Program Engineering Skill Suite is an Agent Skill suite for evidence\u2011first mini\u2011program development. It helps agent",
+    "id": "NocodeMrLi/mini-program-engineering-skill-suite",
+    "language": "Python",
+    "name": "NocodeMrLi/mini-program-engineering-skill-suite",
+    "stars": 62,
+    "updated_at": "2026-09-14T11:20:31Z",
+    "url": "https://github.com/NocodeMrLi/mini-program-engineering-skill-suite"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T11:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
     "id": "PollyGlot/google-play-cli",
     "language": "Go",
@@ -25,24 +115,6 @@
     "stars": 12,
     "updated_at": "2026-09-14T11:11:37Z",
     "url": "https://github.com/tonydzi/clawrush"
-  },
-  {
-    "description": "Ultimate Frontend Skills (UFS) for Claude Code and Codex. One route from brief to shipped page: a corpus of award-winnin",
-    "id": "ridelink0/ultimate-frontend-skills",
-    "language": "JavaScript",
-    "name": "ridelink0/ultimate-frontend-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T11:11:05Z",
-    "url": "https://github.com/ridelink0/ultimate-frontend-skills"
-  },
-  {
-    "description": "Lean personal Claude Code skills pack \u2014 my conventions, task flow, and quality lenses. Requires the superpowers plugin.",
-    "id": "Endika/eskills",
-    "language": "Makefile",
-    "name": "Endika/eskills",
-    "stars": 0,
-    "updated_at": "2026-09-14T11:09:50Z",
-    "url": "https://github.com/Endika/eskills"
   },
   {
     "description": "\ud83c\udfaf Loadout \u2014 profile your project and gear up Claude Code with the right skills, MCP servers & hooks, in one command. A r",
@@ -99,24 +171,6 @@
     "url": "https://github.com/RankSpotAI/awesome-seo-agent-skills"
   },
   {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 10,
-    "updated_at": "2026-09-14T11:03:07Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Finds the Agent Skills your project is missing, and audits them before you trust them \u2014 npx skillwise",
-    "id": "nktznl/skillwise",
-    "language": "JavaScript",
-    "name": "nktznl/skillwise",
-    "stars": 0,
-    "updated_at": "2026-09-14T11:11:50Z",
-    "url": "https://github.com/nktznl/skillwise"
-  },
-  {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
     "id": "HsuanYuLee/polaris",
     "language": "Shell",
@@ -124,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-09-14T11:01:20Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T11:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -243,15 +288,6 @@
     "url": "https://github.com/schudarin/chudarin-figma-skills"
   },
   {
-    "description": "Claude skill: VK Ads campaign \u2014 audience matrix, reviewed creatives, paused launch. Docs in Russian.",
-    "id": "ai-hub-open/vk-ads-manager",
-    "language": "Python",
-    "name": "ai-hub-open/vk-ads-manager",
-    "stars": 2,
-    "updated_at": "2026-09-14T10:41:59Z",
-    "url": "https://github.com/ai-hub-open/vk-ads-manager"
-  },
-  {
     "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
     "id": "M1LL4r3S-Droid/notion-sync-nexus",
     "language": "HTML",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30762,
-    "updated_at": "2026-09-14T10:27:40Z",
+    "updated_at": "2026-09-14T11:25:12Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -409,44 +445,8 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 34299,
+    "stars": 34298,
     "updated_at": "2026-09-14T10:23:19Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
-  },
-  {
-    "description": "A collection of Agent Skills for docs & workflow tasks available for Claude Code and Codex",
-    "id": "Punpun1643/agents-skills",
-    "language": "Python",
-    "name": "Punpun1643/agents-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:22:34Z",
-    "url": "https://github.com/Punpun1643/agents-skills"
-  },
-  {
-    "description": "\u72ec\u5b64\u83cc\u516c\u5f00 Agent Skills\uff08\u8fd0\u8425/\u4e00\u4eba\u516c\u53f8/AI\u4ea4\u4ed8/\u9762\u8bd5/\u5f97\u5230\u5927\u8111\u7b49\uff09",
-    "id": "dugujun3-cloud/dugujun-ai-skills",
-    "language": "Python",
-    "name": "dugujun3-cloud/dugujun-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-09-14T10:17:39Z",
-    "url": "https://github.com/dugujun3-cloud/dugujun-ai-skills"
-  },
-  {
-    "description": "Agent Skills for the php-opcua ecosystem - auto-synced AI coding-assistant skills (SKILL.md) for every php-opcua package",
-    "id": "php-opcua/ai-skills",
-    "language": "\u2014",
-    "name": "php-opcua/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:13:02Z",
-    "url": "https://github.com/php-opcua/ai-skills"
-  },
-  {
-    "description": "A project-memory kit for .claude/: layout, ledgers, and the loop that keeps them true.",
-    "id": "nhhthong/clio",
-    "language": "Shell",
-    "name": "nhhthong/clio",
-    "stars": 2,
-    "updated_at": "2026-09-14T10:10:18Z",
-    "url": "https://github.com/nhhthong/clio"
   }
 ]
