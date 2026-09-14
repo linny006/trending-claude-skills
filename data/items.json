@@ -1,12 +1,21 @@
 [
   {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/personal-ai",
+    "description": "\u4ea4\u6613\u51b3\u7b56\u590d\u6838\uff1a\u4e94\u4e2a\u72ec\u7acb\u6280\u80fd\u4e0e\u4e00\u4f53\u7248\uff0c\u57fa\u4e8e\u7528\u6237\u6750\u6599\u6838\u5bf9\u89c4\u5219\u3001\u8ba1\u5212\u3001\u5f15\u7528\u548c\u6267\u884c\u3002Chinese-first trading decision review skills with an all-in-one entrypoint.",
+    "id": "catgrandfa/trade-review-skills",
     "language": "Python",
-    "name": "ooooooooooooooooooop/personal-ai",
-    "stars": 3,
-    "updated_at": "2026-09-14T01:59:27Z",
-    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+    "name": "catgrandfa/trade-review-skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T02:15:07Z",
+    "url": "https://github.com/catgrandfa/trade-review-skills"
+  },
+  {
+    "description": "Mechanical-check AI agent skills for contracts, tender/bidding compliance and ad copy: every finding is recomputable evi",
+    "id": "chenqg618/compliance-skills",
+    "language": "JavaScript",
+    "name": "chenqg618/compliance-skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T02:13:55Z",
+    "url": "https://github.com/chenqg618/compliance-skills"
   },
   {
     "description": "Are we present in search and AI answers? One audit surface for SEO, AEO, GEO, LLMO and Korean engines (Naver, Daum). Cra",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "kindsusu/su-presence",
     "stars": 0,
-    "updated_at": "2026-09-14T01:56:55Z",
+    "updated_at": "2026-09-14T02:05:54Z",
     "url": "https://github.com/kindsusu/su-presence"
+  },
+  {
+    "description": "A Pok\u00e9mon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adv",
+    "id": "Shellishack/infinite-pokemon",
+    "language": "TypeScript",
+    "name": "Shellishack/infinite-pokemon",
+    "stars": 6,
+    "updated_at": "2026-09-14T02:03:21Z",
+    "url": "https://github.com/Shellishack/infinite-pokemon"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/personal-ai",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/personal-ai",
+    "stars": 3,
+    "updated_at": "2026-09-14T02:02:41Z",
+    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-09-14T02:02:21Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T02:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
@@ -25,15 +70,6 @@
     "stars": 4,
     "updated_at": "2026-09-14T01:56:12Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "A Pok\u00e9mon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adv",
-    "id": "Shellishack/infinite-pokemon",
-    "language": "TypeScript",
-    "name": "Shellishack/infinite-pokemon",
-    "stars": 5,
-    "updated_at": "2026-09-14T01:58:57Z",
-    "url": "https://github.com/Shellishack/infinite-pokemon"
   },
   {
     "description": "Turn technical notes into clear, shareable diagrams. Bilingual HTML and optional PNG, with local rendering and browser l",
@@ -88,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-09-14T01:47:13Z",
     "url": "https://github.com/jasonm4130/claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T01:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T01:27:41Z",
     "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-09-14T01:27:22Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-09-14T01:27:15Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 3,
-    "updated_at": "2026-09-14T01:27:12Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
   }
 ]
