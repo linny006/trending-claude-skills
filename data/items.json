@@ -1,12 +1,84 @@
 [
   {
+    "description": "A Claude Code skill that audits and implements SEO, AEO, GEO, LLMO, and Naver optimization \u2014 then measures the results.",
+    "id": "meenalsar008/advanced-seo-audit",
+    "language": "\u2014",
+    "name": "meenalsar008/advanced-seo-audit",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:43:38Z",
+    "url": "https://github.com/meenalsar008/advanced-seo-audit"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:43:36Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:38:06Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 112,
-    "updated_at": "2026-09-14T18:29:41Z",
+    "updated_at": "2026-09-14T18:39:14Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:34:01Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Turn Plaud voice recordings \u2014 client meetings and brainstorms \u2014 into repo-aware briefs and conventional GitHub issues",
+    "id": "brett-buskirk/debrief",
+    "language": "Shell",
+    "name": "brett-buskirk/debrief",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:33:31Z",
+    "url": "https://github.com/brett-buskirk/debrief"
+  },
+  {
+    "description": "Official agent skills for PowerSync",
+    "id": "powersync-ja/agent-skills",
+    "language": "JavaScript",
+    "name": "powersync-ja/agent-skills",
+    "stars": 18,
+    "updated_at": "2026-09-14T18:35:56Z",
+    "url": "https://github.com/powersync-ja/agent-skills"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:30:51Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Diamond graph, sprint harness for multi-agent fan out building. ",
+    "id": "Curious-Keeper/sprint-harness",
+    "language": "Shell",
+    "name": "Curious-Keeper/sprint-harness",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:30:41Z",
+    "url": "https://github.com/Curious-Keeper/sprint-harness"
   },
   {
     "description": "\u29c9 Ctrl+click to copy Claude Code drafts to the clipboard without \u2502 pipes, > markers or commentary. Skill + plugin for Li",
@@ -14,8 +86,17 @@
     "language": "Shell",
     "name": "geanruca/ctrl-clip",
     "stars": 0,
-    "updated_at": "2026-09-14T18:26:30Z",
+    "updated_at": "2026-09-14T18:30:37Z",
     "url": "https://github.com/geanruca/ctrl-clip"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T18:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u0421\u043a\u0438\u043b\u043b\u044b \u0434\u043b\u044f Claude. consilium \u2014 \u0441\u043e\u0441\u0442\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043c\u0443\u043b\u044c\u0442\u0438\u0430\u0433\u0435\u043d\u0442\u043d\u044b\u0439 \u0440\u0430\u0437\u0431\u043e\u0440: \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0435 \u0430\u0433\u0435\u043d\u0442\u044b, \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u043a\u0435\u043f\u0442\u0438\u043a, \u0440\u0435\u0435\u0441\u0442\u0440 \u043e\u0433",
@@ -81,15 +162,6 @@
     "url": "https://github.com/afonsoft/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-14T18:15:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
     "id": "chris-peterson/beacon",
     "language": "Python",
@@ -149,7 +221,7 @@
     "language": "C#",
     "name": "Akash97p/agent-notify",
     "stars": 1,
-    "updated_at": "2026-09-14T18:03:40Z",
+    "updated_at": "2026-09-14T18:32:37Z",
     "url": "https://github.com/Akash97p/agent-notify"
   },
   {
@@ -158,7 +230,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 4,
-    "updated_at": "2026-09-14T18:07:35Z",
+    "updated_at": "2026-09-14T18:37:52Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T18:01:11Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-09-14T17:56:47Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
     "description": "Agent skill: turn any flat logo into a premium 3D spinning coin (React Three Fiber). One command, try it live in your br",
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 23,
-    "updated_at": "2026-09-14T18:28:14Z",
+    "updated_at": "2026-09-14T18:36:29Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T17:16:44Z",
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:16:01Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:15:18Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:14:45Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Portable, evidence-led sales skills for AI agents. Designed to work with coreyhaines31/marketingskills",
-    "id": "sumitake/agent-skills-sales",
-    "language": "Python",
-    "name": "sumitake/agent-skills-sales",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:14:45Z",
-    "url": "https://github.com/sumitake/agent-skills-sales"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 3,
-    "updated_at": "2026-09-14T17:14:11Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/cleanlanguage",
-    "language": "Python",
-    "name": "jposluns/cleanlanguage",
-    "stars": 3,
-    "updated_at": "2026-09-14T17:13:51Z",
-    "url": "https://github.com/jposluns/cleanlanguage"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-09-14T17:13:10Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
