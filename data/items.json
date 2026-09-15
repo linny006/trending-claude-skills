@@ -1,5 +1,86 @@
 [
   {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30777,
+    "updated_at": "2026-09-15T17:43:11Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Prove your AI work existed first. Free notary for AI agents \u2014 timestamped, Bitcoin-anchored, public ledger. Connect: htt",
+    "id": "Abracadabrastartup/deusproof-mcp",
+    "language": "Python",
+    "name": "Abracadabrastartup/deusproof-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-15T17:40:53Z",
+    "url": "https://github.com/Abracadabrastartup/deusproof-mcp"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-09-15T17:37:58Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
+    "id": "sergebulaev/linkedin-skills",
+    "language": "Python",
+    "name": "sergebulaev/linkedin-skills",
+    "stars": 2478,
+    "updated_at": "2026-09-15T17:35:39Z",
+    "url": "https://github.com/sergebulaev/linkedin-skills"
+  },
+  {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 4,
+    "updated_at": "2026-09-15T17:33:12Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "Discipline patches for coding agents \u2014 delegate instead of drowning, search before building, make installed skills actua",
+    "id": "yjhqwer/yjh-discipline",
+    "language": "Python",
+    "name": "yjhqwer/yjh-discipline",
+    "stars": 1,
+    "updated_at": "2026-09-15T17:33:00Z",
+    "url": "https://github.com/yjhqwer/yjh-discipline"
+  },
+  {
+    "description": "Open-source AI skill packs, calculation engines, CLI and MCP servers for US wealth management: tax, portfolio, complianc",
+    "id": "ai-theories/wealth-skills",
+    "language": "JavaScript",
+    "name": "ai-theories/wealth-skills",
+    "stars": 0,
+    "updated_at": "2026-09-15T17:32:05Z",
+    "url": "https://github.com/ai-theories/wealth-skills"
+  },
+  {
+    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
+    "id": "TerminallyLazy/Tree-Ring-Memory",
+    "language": "Rust",
+    "name": "TerminallyLazy/Tree-Ring-Memory",
+    "stars": 16,
+    "updated_at": "2026-09-15T17:32:13Z",
+    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-15T17:31:50Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "NestJS backend for a platform connecting installed doctors with replacement doctors in France, cutting administrative fr",
     "id": "lellis-medical-group/kineo-nest-backend",
     "language": "TypeScript",
@@ -25,15 +106,6 @@
     "stars": 129,
     "updated_at": "2026-09-15T17:30:15Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-15T17:30:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skill: prove a test can fail before trusting it \u2014 break the subject, confirm red for the right reason, resto",
@@ -108,6 +180,15 @@
     "url": "https://github.com/inkatze/planwright"
   },
   {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69074,
+    "updated_at": "2026-09-15T17:22:20Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -115,15 +196,6 @@
     "stars": 52,
     "updated_at": "2026-09-15T17:21:46Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69073,
-    "updated_at": "2026-09-15T17:22:20Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
@@ -198,24 +270,6 @@
     "url": "https://github.com/chris-peterson/beacon"
   },
   {
-    "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
-    "id": "TerminallyLazy/Tree-Ring-Memory",
-    "language": "Rust",
-    "name": "TerminallyLazy/Tree-Ring-Memory",
-    "stars": 16,
-    "updated_at": "2026-09-15T17:29:06Z",
-    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
-  },
-  {
-    "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
-    "id": "sergebulaev/linkedin-skills",
-    "language": "Python",
-    "name": "sergebulaev/linkedin-skills",
-    "stars": 2478,
-    "updated_at": "2026-09-15T17:09:38Z",
-    "url": "https://github.com/sergebulaev/linkedin-skills"
-  },
-  {
     "description": "Ledgerline \u2014 decision provenance for the whole product lifecycle that carries your team's context through every phase an",
     "id": "JasonHolderness-bl/ledgerline",
     "language": "\u2014",
@@ -230,7 +284,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-15T17:08:54Z",
+    "updated_at": "2026-09-15T17:43:50Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -315,21 +369,12 @@
     "url": "https://github.com/b33kman/special-education-due-process-complaint"
   },
   {
-    "description": "Prove your AI work existed first. Free notary for AI agents \u2014 timestamped, Bitcoin-anchored, public ledger. Connect: htt",
-    "id": "Abracadabrastartup/deusproof-mcp",
-    "language": "Python",
-    "name": "Abracadabrastartup/deusproof-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-15T16:57:43Z",
-    "url": "https://github.com/Abracadabrastartup/deusproof-mcp"
-  },
-  {
     "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
     "id": "synaptiai/synapti-marketplace",
     "language": "Shell",
     "name": "synaptiai/synapti-marketplace",
     "stars": 6,
-    "updated_at": "2026-09-15T17:20:25Z",
+    "updated_at": "2026-09-15T17:42:25Z",
     "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "MuscleOtter/rowan-fitness-skill",
     "stars": 1,
-    "updated_at": "2026-09-15T17:29:30Z",
+    "updated_at": "2026-09-15T17:39:32Z",
     "url": "https://github.com/MuscleOtter/rowan-fitness-skill"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Rust",
     "name": "semlith/semlith",
     "stars": 1,
-    "updated_at": "2026-09-15T17:27:40Z",
+    "updated_at": "2026-09-15T17:44:24Z",
     "url": "https://github.com/semlith/semlith"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T16:36:01Z",
     "url": "https://github.com/iDWong/dev-skills"
-  },
-  {
-    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
-    "id": "iDWong/pm-skills",
-    "language": "Python",
-    "name": "iDWong/pm-skills",
-    "stars": 1,
-    "updated_at": "2026-09-15T16:35:58Z",
-    "url": "https://github.com/iDWong/pm-skills"
-  },
-  {
-    "description": "Godmode Lite: free 4-layer execution protocol skill for Claude Code (context, execute, test, polish)",
-    "id": "Getgodmode/godmode-lite",
-    "language": "JavaScript",
-    "name": "Getgodmode/godmode-lite",
-    "stars": 0,
-    "updated_at": "2026-09-15T16:28:26Z",
-    "url": "https://github.com/Getgodmode/godmode-lite"
-  },
-  {
-    "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
-    "id": "yacb2/aidex",
-    "language": "Shell",
-    "name": "yacb2/aidex",
-    "stars": 2,
-    "updated_at": "2026-09-15T16:26:46Z",
-    "url": "https://github.com/yacb2/aidex"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 174,
-    "updated_at": "2026-09-15T17:05:29Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
-    "id": "rokokol/bash-best-practices-skill",
-    "language": "Shell",
-    "name": "rokokol/bash-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-09-15T16:25:26Z",
-    "url": "https://github.com/rokokol/bash-best-practices-skill"
   }
 ]
