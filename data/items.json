@@ -1,11 +1,137 @@
 [
   {
+    "description": "Mechanical-check AI agent skills for contracts, invoices, tender/bidding documents and ad copy: every finding is recompu",
+    "id": "chenqg618/compliance-skills",
+    "language": "JavaScript",
+    "name": "chenqg618/compliance-skills",
+    "stars": 0,
+    "updated_at": "2026-09-15T16:15:14Z",
+    "url": "https://github.com/chenqg618/compliance-skills"
+  },
+  {
+    "description": "\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a23 \u4e2a\u6280\u80fd / 4 \u4e2a plugin / \u5355\u4e00\u7f16\u6392\u5668 dev-master \u7ba1 13 \u9636\u6bb5\u6d41\u7a0b\uff08SRS \u771f\u6e90 \u2192 \u8bbe\u8ba1 \u2192 \u5b9e\u73b0 \u2192 \u6d4b\u8bd5 \u2192 \u4e0a\u7ebf\u5ba1\u8ba1 \u2192 \u53d1\u7248\uff09\u3002Claude Code / Codex / Cur",
+    "id": "iDWong/dev-skills",
+    "language": "Python",
+    "name": "iDWong/dev-skills",
+    "stars": 1,
+    "updated_at": "2026-09-15T16:12:14Z",
+    "url": "https://github.com/iDWong/dev-skills"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
+    "id": "iDWong/pm-skills",
+    "language": "Python",
+    "name": "iDWong/pm-skills",
+    "stars": 1,
+    "updated_at": "2026-09-15T16:12:11Z",
+    "url": "https://github.com/iDWong/pm-skills"
+  },
+  {
+    "description": "Open-source, versioned skills for Codex and AI agent workflows \u2014 composable, tested, and safety-focused.",
+    "id": "WardLu/skills",
+    "language": "Python",
+    "name": "WardLu/skills",
+    "stars": 1,
+    "updated_at": "2026-09-15T16:12:47Z",
+    "url": "https://github.com/WardLu/skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69072,
+    "updated_at": "2026-09-15T16:10:34Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "Python",
+    "name": "jposluns/cleanlanguage",
+    "stars": 3,
+    "updated_at": "2026-09-15T16:09:18Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "A Claude Code skill that analyzes your codebase and generates an evidence-based Threat Modeling Report using STRIDE, DRE",
+    "id": "millerlai/threat-modeling-master",
+    "language": "Shell",
+    "name": "millerlai/threat-modeling-master",
+    "stars": 0,
+    "updated_at": "2026-09-15T16:08:53Z",
+    "url": "https://github.com/millerlai/threat-modeling-master"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 537,
+    "updated_at": "2026-09-15T16:07:02Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 27,
+    "updated_at": "2026-09-15T16:06:08Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 174,
+    "updated_at": "2026-09-15T16:13:18Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-09-15T16:03:25Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "A `Claude` native workflow.",
+    "id": "jay94ks/claude-native-workflow",
+    "language": "TypeScript",
+    "name": "jay94ks/claude-native-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-15T16:02:55Z",
+    "url": "https://github.com/jay94ks/claude-native-workflow"
+  },
+  {
+    "description": "Due Process Complaint Drafter: a Claude plugin (Chat, Cowork, Claude Code) that drafts an IDEA special education due pro",
+    "id": "b33kman/special-education-due-process-complaint",
+    "language": "JavaScript",
+    "name": "b33kman/special-education-due-process-complaint",
+    "stars": 1,
+    "updated_at": "2026-09-15T16:02:27Z",
+    "url": "https://github.com/b33kman/special-education-due-process-complaint"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-15T16:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/",
     "id": "Ark0N/Codeman",
     "language": "TypeScript",
     "name": "Ark0N/Codeman",
     "stars": 757,
-    "updated_at": "2026-09-15T15:59:54Z",
+    "updated_at": "2026-09-15T16:01:17Z",
     "url": "https://github.com/Ark0N/Codeman"
   },
   {
@@ -18,24 +144,6 @@
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
-    "description": "\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a23 \u4e2a\u6280\u80fd / 4 \u4e2a plugin / \u5355\u4e00\u7f16\u6392\u5668 dev-master \u7ba1 13 \u9636\u6bb5\u6d41\u7a0b\uff08SRS \u771f\u6e90 \u2192 \u8bbe\u8ba1 \u2192 \u5b9e\u73b0 \u2192 \u6d4b\u8bd5 \u2192 \u4e0a\u7ebf\u5ba1\u8ba1 \u2192 \u53d1\u7248\uff09\u3002Claude Code / Codex / Cur",
-    "id": "iDWong/dev-skills",
-    "language": "Python",
-    "name": "iDWong/dev-skills",
-    "stars": 1,
-    "updated_at": "2026-09-15T15:56:37Z",
-    "url": "https://github.com/iDWong/dev-skills"
-  },
-  {
-    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
-    "id": "iDWong/pm-skills",
-    "language": "Python",
-    "name": "iDWong/pm-skills",
-    "stars": 1,
-    "updated_at": "2026-09-15T15:56:34Z",
-    "url": "https://github.com/iDWong/pm-skills"
-  },
-  {
     "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, ",
     "id": "plugin87/ux-ui-agent-skills",
     "language": "JavaScript",
@@ -43,24 +151,6 @@
     "stars": 1374,
     "updated_at": "2026-09-15T15:55:14Z",
     "url": "https://github.com/plugin87/ux-ui-agent-skills"
-  },
-  {
-    "description": "Mechanical-check AI agent skills for contracts, invoices, tender/bidding documents and ad copy: every finding is recompu",
-    "id": "chenqg618/compliance-skills",
-    "language": "JavaScript",
-    "name": "chenqg618/compliance-skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T15:50:45Z",
-    "url": "https://github.com/chenqg618/compliance-skills"
-  },
-  {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 537,
-    "updated_at": "2026-09-15T15:48:39Z",
-    "url": "https://github.com/suboss87/FDEOps"
   },
   {
     "description": "Bootstraps and reconciles AI coding-agent configuration \u2014 currently Codex and Claude Code \u2014 for any project, new or exis",
@@ -79,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T15:47:21Z",
     "url": "https://github.com/kugamon/gsc-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-15T15:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A `Claude` native workflow.",
-    "id": "jay94ks/claude-native-workflow",
-    "language": "TypeScript",
-    "name": "jay94ks/claude-native-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-15T15:41:16Z",
-    "url": "https://github.com/jay94ks/claude-native-workflow"
   },
   {
     "description": "Skills the Odin agent harness owns \u2014 decision scoring, roadmap planning, blueprint decomposition, mistake-to-gate harden",
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T15:34:49Z",
     "url": "https://github.com/Jaypatel1511/cdfi-superpowers"
-  },
-  {
-    "description": "Due Process Complaint Drafter: a Claude plugin (Chat, Cowork, Claude Code) that drafts an IDEA special education due pro",
-    "id": "b33kman/special-education-due-process-complaint",
-    "language": "JavaScript",
-    "name": "b33kman/special-education-due-process-complaint",
-    "stars": 1,
-    "updated_at": "2026-09-15T15:32:18Z",
-    "url": "https://github.com/b33kman/special-education-due-process-complaint"
   },
   {
     "description": "Find the leak. Keep the receipt. A portable AI skill for credential discovery and evidence-based triage.",
@@ -315,24 +378,6 @@
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69072,
-    "updated_at": "2026-09-15T15:33:16Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-09-15T14:52:26Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T14:50:46Z",
     "url": "https://github.com/dbhq-uk/outlook-graph-skill"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-09-15T14:49:31Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Claude Code plugin for premium three.js/WebGL work: skills with a slop checklist and technique library, audit commands, ",
-    "id": "JonathanBeck1/claude-studio-toolkit",
-    "language": "Python",
-    "name": "JonathanBeck1/claude-studio-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:48:40Z",
-    "url": "https://github.com/JonathanBeck1/claude-studio-toolkit"
-  },
-  {
-    "description": "Instagram marketing skills for Claude Code and Codex: captions, carousels, hooks, hashtag strategy, and a weekly plan. D",
-    "id": "sergebulaev/instagram-skills",
-    "language": "Python",
-    "name": "sergebulaev/instagram-skills",
-    "stars": 84,
-    "updated_at": "2026-09-15T14:48:00Z",
-    "url": "https://github.com/sergebulaev/instagram-skills"
-  },
-  {
-    "description": "Facebook Pages marketing skills for Claude Code and Codex: high-share posts, hooks, engagement replies, and a weekly pla",
-    "id": "sergebulaev/facebook-skills",
-    "language": "Python",
-    "name": "sergebulaev/facebook-skills",
-    "stars": 41,
-    "updated_at": "2026-09-15T14:48:04Z",
-    "url": "https://github.com/sergebulaev/facebook-skills"
-  },
-  {
-    "description": "TikTok marketing skills for Claude Code and Codex: 3-second video hooks, captions, trend mapping, and a weekly plan. Dra",
-    "id": "sergebulaev/tiktok-skills",
-    "language": "Python",
-    "name": "sergebulaev/tiktok-skills",
-    "stars": 35,
-    "updated_at": "2026-09-15T14:48:02Z",
-    "url": "https://github.com/sergebulaev/tiktok-skills"
   }
 ]
