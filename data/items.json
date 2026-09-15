@@ -1,5 +1,23 @@
 [
   {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30772,
+    "updated_at": "2026-09-15T12:45:59Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-15T12:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u795e\u7b14\u9a6c\u826f \u00b7 \u5199\u4f5cDNA\u84b8\u998f\u3002\u5c06\u81ea\u5df1\u516c\u4f17\u53f7/\u5c0f\u7ea2\u85af/X/twitter\u7684\u6587\u7ae0\u84b8\u998f\u6210\u5c5e\u4e8e\u4f60\u81ea\u5df1\u7684\u300c\u5199\u4f5c\u57fa\u56e0\u5305\u300d\u3002",
     "id": "konglong87/shenbi-maliang",
     "language": "Python",
@@ -88,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T12:32:01Z",
     "url": "https://github.com/iDWong/dev-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-15T12:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A 6-step coding workflow for Claude Code \u2014 Plan \u2192 Review \u2192 Finalize \u2192 Code \u2192 Deep Check \u2192 Audit. Run all at once or step",
@@ -439,14 +448,5 @@
     "stars": 62,
     "updated_at": "2026-09-15T11:27:00Z",
     "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "Self-driving agent loop for Claude Code. It turns an issue into a planned, verified, committed change, and lets you run,",
-    "id": "benman1/wiggum",
-    "language": "Shell",
-    "name": "benman1/wiggum",
-    "stars": 1,
-    "updated_at": "2026-09-15T11:26:45Z",
-    "url": "https://github.com/benman1/wiggum"
   }
 ]
