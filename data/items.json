@@ -1,10 +1,109 @@
 [
   {
+    "description": "17 modular skills that give Claude Code's everyday loop \u2014 brainstorm, plan, build, review, document \u2014 a fixed shape.",
+    "id": "matis-dev/m-skills",
+    "language": "Shell",
+    "name": "matis-dev/m-skills",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:13:12Z",
+    "url": "https://github.com/matis-dev/m-skills"
+  },
+  {
+    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
+    "id": "rokokol/bash-best-practices-skill",
+    "language": "Shell",
+    "name": "rokokol/bash-best-practices-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:12:53Z",
+    "url": "https://github.com/rokokol/bash-best-practices-skill"
+  },
+  {
+    "description": "No claim without a receipt. Agent skill that fact-checks any draft against live sources and returns an evidence ledger. ",
+    "id": "aliradid/citation-needed",
+    "language": "Python",
+    "name": "aliradid/citation-needed",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:08:29Z",
+    "url": "https://github.com/aliradid/citation-needed"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-15T20:07:47Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "How a good skill is written, and the gate that checks it",
+    "id": "rokokol/skill-authoring-skill",
+    "language": "Shell",
+    "name": "rokokol/skill-authoring-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:07:30Z",
+    "url": "https://github.com/rokokol/skill-authoring-skill"
+  },
+  {
+    "description": "26 Claude Code skills used daily on real projects: adversarial code review, shipping rituals, marketing asset pipelines,",
+    "id": "ucsandman/claude-skills",
+    "language": "JavaScript",
+    "name": "ucsandman/claude-skills",
+    "stars": 4,
+    "updated_at": "2026-09-15T20:06:31Z",
+    "url": "https://github.com/ucsandman/claude-skills"
+  },
+  {
+    "description": "A meeting becomes a scope tree a build can run against. Agent skills for Claude Code and Codex.",
+    "id": "vincenzo345/skills",
+    "language": "Python",
+    "name": "vincenzo345/skills",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:06:11Z",
+    "url": "https://github.com/vincenzo345/skills"
+  },
+  {
+    "description": "Steve Polito's Agent Skills",
+    "id": "stevepolitodesign/skills",
+    "language": "HTML",
+    "name": "stevepolitodesign/skills",
+    "stars": 2,
+    "updated_at": "2026-09-15T20:03:47Z",
+    "url": "https://github.com/stevepolitodesign/skills"
+  },
+  {
+    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
+    "id": "chris-peterson/beacon",
+    "language": "Python",
+    "name": "chris-peterson/beacon",
+    "stars": 1,
+    "updated_at": "2026-09-15T20:01:54Z",
+    "url": "https://github.com/chris-peterson/beacon"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-15T20:00:56Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-15T20:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
     "id": "sergebulaev/linkedin-skills",
     "language": "Python",
     "name": "sergebulaev/linkedin-skills",
-    "stars": 2486,
+    "stars": 2488,
     "updated_at": "2026-09-15T19:56:07Z",
     "url": "https://github.com/sergebulaev/linkedin-skills"
   },
@@ -45,24 +144,6 @@
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   },
   {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 145,
-    "updated_at": "2026-09-15T19:48:11Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "How a good skill is written, and the gate that checks it",
-    "id": "rokokol/skill-authoring-skill",
-    "language": "Shell",
-    "name": "rokokol/skill-authoring-skill",
-    "stars": 0,
-    "updated_at": "2026-09-15T19:58:26Z",
-    "url": "https://github.com/rokokol/skill-authoring-skill"
-  },
-  {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
     "id": "Borda/AI-Rig",
     "language": "Python",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T19:46:54Z",
     "url": "https://github.com/rokokol/huix-standard-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-15T19:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Set of skills for globalizing and localizing app",
@@ -131,7 +203,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-15T19:40:03Z",
+    "updated_at": "2026-09-15T20:06:47Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T19:34:02Z",
     "url": "https://github.com/semlith/semlith"
-  },
-  {
-    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
-    "id": "chris-peterson/beacon",
-    "language": "Python",
-    "name": "chris-peterson/beacon",
-    "stars": 1,
-    "updated_at": "2026-09-15T19:29:22Z",
-    "url": "https://github.com/chris-peterson/beacon"
   },
   {
     "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
@@ -374,7 +437,7 @@
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "stars": 2517,
-    "updated_at": "2026-09-15T18:59:41Z",
+    "updated_at": "2026-09-15T20:15:08Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 67,
     "updated_at": "2026-09-15T18:56:48Z",
     "url": "https://github.com/nota-america/forgecat-agent-profiles"
-  },
-  {
-    "description": "Skill Heaven -- for real software engineers. Agent Plugin that treats your skills like RAM, not Storage. Summon skills w",
-    "id": "gaia-research/gaia-skill-heaven",
-    "language": "JavaScript",
-    "name": "gaia-research/gaia-skill-heaven",
-    "stars": 4,
-    "updated_at": "2026-09-15T18:55:26Z",
-    "url": "https://github.com/gaia-research/gaia-skill-heaven"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-15T18:54:54Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/cleanlanguage",
-    "language": "Python",
-    "name": "jposluns/cleanlanguage",
-    "stars": 3,
-    "updated_at": "2026-09-15T19:55:53Z",
-    "url": "https://github.com/jposluns/cleanlanguage"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1600,
-    "updated_at": "2026-09-15T18:52:28Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-09-15T18:51:44Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-09-15T18:50:50Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-09-15T18:49:40Z",
-    "url": "https://github.com/JBSag/pm-artisan"
   }
 ]
