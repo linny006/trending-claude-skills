@@ -1,11 +1,83 @@
 [
   {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 12,
+    "updated_at": "2026-09-15T08:29:02Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "Open-source GEO / AEO skill for Claude. Audits how ChatGPT, Perplexity, Gemini, Google AI Overviews \u2014 plus DeepSeek, Dou",
+    "id": "xwmtzcp/ai-search-audit",
+    "language": "Python",
+    "name": "xwmtzcp/ai-search-audit",
+    "stars": 0,
+    "updated_at": "2026-09-15T08:27:19Z",
+    "url": "https://github.com/xwmtzcp/ai-search-audit"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-15T08:29:06Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69061,
+    "updated_at": "2026-09-15T08:24:45Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Mechanical-check AI agent skills for contracts, invoices, tender/bidding documents and ad copy: every finding is recompu",
+    "id": "chenqg618/compliance-skills",
+    "language": "JavaScript",
+    "name": "chenqg618/compliance-skills",
+    "stars": 0,
+    "updated_at": "2026-09-15T08:22:30Z",
+    "url": "https://github.com/chenqg618/compliance-skills"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-09-15T08:19:49Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 149,
+    "updated_at": "2026-09-15T08:16:28Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-15T08:15:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 112,
-    "updated_at": "2026-09-15T08:15:02Z",
+    "updated_at": "2026-09-15T08:22:22Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -45,21 +117,12 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
-    "id": "alfadur7/llm-wiki-newsroom",
-    "language": "Python",
-    "name": "alfadur7/llm-wiki-newsroom",
-    "stars": 149,
-    "updated_at": "2026-09-15T08:11:51Z",
-    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
-  },
-  {
     "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
     "stars": 24750,
-    "updated_at": "2026-09-15T08:14:14Z",
+    "updated_at": "2026-09-15T08:28:09Z",
     "url": "https://github.com/titanwings/distilly"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "Mechanical-check AI agent skills for contracts, invoices, tender/bidding documents and ad copy: every finding is recompu",
-    "id": "chenqg618/compliance-skills",
-    "language": "JavaScript",
-    "name": "chenqg618/compliance-skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T08:06:13Z",
-    "url": "https://github.com/chenqg618/compliance-skills"
-  },
-  {
     "description": "Send messages to Telegram, Slack, or Discord from Python.",
     "id": "seokhoonj/pushpush",
     "language": "Python",
@@ -153,15 +207,6 @@
     "url": "https://github.com/brocolriri/godot-guard"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-15T08:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Turn technical notes into clear, shareable diagrams. Bilingual HTML and optional PNG, with local rendering and browser l",
     "id": "GODVvVZzz/text2html2png",
     "language": "HTML",
@@ -187,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-09-15T07:54:41Z",
     "url": "https://github.com/ivuorinen/skills"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-15T08:03:57Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Condensed academic reading notes (\u6587\u732e\u901f\u89c8\u7b14\u8bb0) as Word files with real margin comments",
@@ -238,7 +274,7 @@
     "id": "plugin87/ux-ui-agent-skills",
     "language": "JavaScript",
     "name": "plugin87/ux-ui-agent-skills",
-    "stars": 1357,
+    "stars": 1358,
     "updated_at": "2026-09-15T07:49:27Z",
     "url": "https://github.com/plugin87/ux-ui-agent-skills"
   },
@@ -270,15 +306,6 @@
     "url": "https://github.com/int2t05/engineering-skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69062,
-    "updated_at": "2026-09-15T07:45:42Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\u4ea4\u6613\u51b3\u7b56\u590d\u6838\uff1a\u4e94\u4e2a\u72ec\u7acb\u6280\u80fd\u4e0e\u4e00\u4f53\u7248\uff0c\u57fa\u4e8e\u7528\u6237\u6750\u6599\u6838\u5bf9\u89c4\u5219\u3001\u8ba1\u5212\u3001\u5f15\u7528\u548c\u6267\u884c\u3002Chinese-first trading decision review skills with an all-in-one entrypoint.",
     "id": "catgrandfa/trade-review-skills",
     "language": "Python",
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T07:41:30Z",
     "url": "https://github.com/catgrandfa/trade-review-skills"
-  },
-  {
-    "description": "Open-source GEO / AEO skill for Claude. Audits how ChatGPT, Perplexity, Gemini, Google AI Overviews \u2014 plus DeepSeek, Dou",
-    "id": "xwmtzcp/ai-search-audit",
-    "language": "Python",
-    "name": "xwmtzcp/ai-search-audit",
-    "stars": 0,
-    "updated_at": "2026-09-15T07:35:37Z",
-    "url": "https://github.com/xwmtzcp/ai-search-audit"
   },
   {
     "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
@@ -355,7 +373,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 6723,
+    "stars": 6724,
     "updated_at": "2026-09-15T07:19:32Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -409,7 +427,7 @@
     "id": "reticlehq/reticle",
     "language": "TypeScript",
     "name": "reticlehq/reticle",
-    "stars": 603,
+    "stars": 605,
     "updated_at": "2026-09-15T07:13:35Z",
     "url": "https://github.com/reticlehq/reticle"
   },
@@ -430,23 +448,5 @@
     "stars": 27,
     "updated_at": "2026-09-15T07:11:48Z",
     "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "\u4e24\u4e2a\u4e2d\u6587 skill\uff08AI \u75d5\u8ff9\u5ba1\u8ba1 + \u53bb AI \u5473\u6539\u5199\uff09\u548c\u4e00\u4e2a\u8ba9\u5b83\u4eec\u4e92\u76f8\u5bf9\u6297\u7684\u5b9e\u9a8c\u53f0\uff0c\u91cd\u70b9\u6d4b\u8bef\u6740\u7387",
-    "id": "misakaikato/deai-arena",
-    "language": "Python",
-    "name": "misakaikato/deai-arena",
-    "stars": 0,
-    "updated_at": "2026-09-15T07:10:06Z",
-    "url": "https://github.com/misakaikato/deai-arena"
-  },
-  {
-    "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
-    "id": "Samuellalight8026/spam-filter-advisor-skill",
-    "language": "Python",
-    "name": "Samuellalight8026/spam-filter-advisor-skill",
-    "stars": 0,
-    "updated_at": "2026-09-15T07:09:18Z",
-    "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
   }
 ]
