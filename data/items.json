@@ -1,5 +1,77 @@
 [
   {
+    "description": "Due Process Complaint Drafter: a Claude Code plugin that drafts an IDEA special education due process complaint from sch",
+    "id": "b33kman/special-education-due-process-complaint",
+    "language": "JavaScript",
+    "name": "b33kman/special-education-due-process-complaint",
+    "stars": 0,
+    "updated_at": "2026-09-15T03:29:51Z",
+    "url": "https://github.com/b33kman/special-education-due-process-complaint"
+  },
+  {
+    "description": "\u4ea4\u6613\u51b3\u7b56\u590d\u6838\uff1a\u4e94\u4e2a\u72ec\u7acb\u6280\u80fd\u4e0e\u4e00\u4f53\u7248\uff0c\u57fa\u4e8e\u7528\u6237\u6750\u6599\u6838\u5bf9\u89c4\u5219\u3001\u8ba1\u5212\u3001\u5f15\u7528\u548c\u6267\u884c\u3002Chinese-first trading decision review skills with an all-in-one entrypoint.",
+    "id": "catgrandfa/trade-review-skills",
+    "language": "Python",
+    "name": "catgrandfa/trade-review-skills",
+    "stars": 0,
+    "updated_at": "2026-09-15T03:29:37Z",
+    "url": "https://github.com/catgrandfa/trade-review-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 5,
+    "updated_at": "2026-09-15T03:28:38Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "AWS Skills for Agents",
+    "id": "itsmostafa/aws-agent-skills",
+    "language": "Python",
+    "name": "itsmostafa/aws-agent-skills",
+    "stars": 1155,
+    "updated_at": "2026-09-15T03:26:47Z",
+    "url": "https://github.com/itsmostafa/aws-agent-skills"
+  },
+  {
+    "description": "Findy Team+ \u306e\u30c7\u30fc\u30bf\u3092\u4f7f\u3063\u3066\u958b\u767a\u30d7\u30ed\u30bb\u30b9\u3092\u8a3a\u65ad\u30fb\u6539\u5584\u3059\u308b\u3001Claude Code \u5411\u3051\u306e skill \u96c6\u3067\u3059\u3002",
+    "id": "Findy/team-plus-skills",
+    "language": "\u2014",
+    "name": "Findy/team-plus-skills",
+    "stars": 0,
+    "updated_at": "2026-09-15T03:25:17Z",
+    "url": "https://github.com/Findy/team-plus-skills"
+  },
+  {
+    "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
+    "id": "sichenai/sichen-skills",
+    "language": "Python",
+    "name": "sichenai/sichen-skills",
+    "stars": 1,
+    "updated_at": "2026-09-15T03:20:53Z",
+    "url": "https://github.com/sichenai/sichen-skills"
+  },
+  {
+    "description": "\u6296\u97f3KOL\u4f5c\u54c1\u83b7\u53d6\u5de5\u5177\uff0c\u8f93\u5165\u6296\u97f3ID\uff0c\u901a\u8fc7\u602a\u5947API\u5b9e\u65f6\u83b7\u53d6\u8d26\u53f7\u57fa\u7840\u4fe1\u606f\u548c\u4f5c\u54c1\u5185\u5bb9\u5217\u8868\uff08\u6700\u591a10000\u6761/\u6b21\uff09\u3002\u5f53\u7528\u6237\u63d0\u5230\"\u83b7\u53d6\u6296\u97f3\u4f5c\u54c1\"\u3001\"\u722c\u53d6\u6296\u97f3\u4f5c\u54c1\u5217\u8868\"\u3001\"\u67e5\u770b\u6296\u97f3\u89c6\u9891\"\u3001\"\u6296\u97f3\u5185\u5bb9\u91c7\u96c6\"\u3001\"\u6293\u53d6\u6296\u97f3\u4f5c\u54c1\"\u65f6\u4f7f\u7528\u3002\u63d0\u4f9b4\u4e2a\u80fd\u529b\uff1a\u2460\u5173",
+    "id": "why20261/douyin-content-insights",
+    "language": "JavaScript",
+    "name": "why20261/douyin-content-insights",
+    "stars": 0,
+    "updated_at": "2026-09-15T03:18:33Z",
+    "url": "https://github.com/why20261/douyin-content-insights"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-15T03:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
     "id": "Samuellalight8026/spam-filter-advisor-skill",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T03:13:48Z",
     "url": "https://github.com/chenqg618/compliance-skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
-    "id": "air-gapped/skills",
-    "language": "Python",
-    "name": "air-gapped/skills",
-    "stars": 5,
-    "updated_at": "2026-09-15T03:15:12Z",
-    "url": "https://github.com/air-gapped/skills"
   },
   {
     "description": "Generate and optimize web novel writing workflows for long-form and short-form stories with AI agent integration and qua",
@@ -342,24 +405,6 @@
     "url": "https://github.com/maduwanthasathsara0-hub/claude-proj-blueprint"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 40,
-    "updated_at": "2026-09-15T03:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
-    "id": "sichenai/sichen-skills",
-    "language": "Python",
-    "name": "sichenai/sichen-skills",
-    "stars": 1,
-    "updated_at": "2026-09-15T03:00:14Z",
-    "url": "https://github.com/sichenai/sichen-skills"
-  },
-  {
     "description": "Extract, structure, and apply visual design identity as machine-readable Design DNA across tokens, style, and effects",
     "id": "Tricholomaaurantiumknottiness355/design-dna",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T02:59:19Z",
     "url": "https://github.com/Caseous-kerrcell366/claude"
-  },
-  {
-    "description": "Teach AI assistants to generate correct Unity and Jahro debugging code, with skills for commands, watchers, snapshots, l",
-    "id": "Logiiiii/unity-agent-skills",
-    "language": "\u2014",
-    "name": "Logiiiii/unity-agent-skills",
-    "stars": 3,
-    "updated_at": "2026-09-15T02:59:17Z",
-    "url": "https://github.com/Logiiiii/unity-agent-skills"
-  },
-  {
-    "description": "Skills the Odin agent harness owns \u2014 decision scoring, roadmap planning, blueprint decomposition, mistake-to-gate harden",
-    "id": "RubyEyedReaper/Odin-Skills",
-    "language": "JavaScript",
-    "name": "RubyEyedReaper/Odin-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:58:35Z",
-    "url": "https://github.com/RubyEyedReaper/Odin-Skills"
-  },
-  {
-    "description": "Manage reusable Claude Code skills for PR review, security audits, and dependency checks to save time on real projects",
-    "id": "nariatrip191/my-claude-skills",
-    "language": "Python",
-    "name": "nariatrip191/my-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-15T02:58:27Z",
-    "url": "https://github.com/nariatrip191/my-claude-skills"
-  },
-  {
-    "description": "Guide GRC teams with Claude Skills for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST CSF, PCI DSS, TSA, and ISO 42001",
-    "id": "Jandyoverseas977/Claude-Skills-Governance-Risk-and-Compliance",
-    "language": "HTML",
-    "name": "Jandyoverseas977/Claude-Skills-Governance-Risk-and-Compliance",
-    "stars": 3,
-    "updated_at": "2026-09-15T02:58:24Z",
-    "url": "https://github.com/Jandyoverseas977/Claude-Skills-Governance-Risk-and-Compliance"
-  },
-  {
-    "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, ",
-    "id": "plugin87/ux-ui-agent-skills",
-    "language": "JavaScript",
-    "name": "plugin87/ux-ui-agent-skills",
-    "stars": 1327,
-    "updated_at": "2026-09-15T02:58:17Z",
-    "url": "https://github.com/plugin87/ux-ui-agent-skills"
   }
 ]
