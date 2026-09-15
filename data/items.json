@@ -1,12 +1,39 @@
 [
   {
-    "description": "Official Riffkit skill \u2014 riff a winning TikTok into your own short video from your AI agent (Claude Code, Cursor) or the",
-    "id": "riffkit/skill",
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/personal-ai",
     "language": "Python",
-    "name": "riffkit/skill",
-    "stars": 7,
-    "updated_at": "2026-09-15T11:29:23Z",
-    "url": "https://github.com/riffkit/skill"
+    "name": "ooooooooooooooooooop/personal-ai",
+    "stars": 3,
+    "updated_at": "2026-09-15T11:45:05Z",
+    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+  },
+  {
+    "description": "Free Claude skill: turn meeting transcripts into decisions, an action table with owners and due dates, and a follow-up e",
+    "id": "FairdraftStudio/call-notes-to-actions-skill",
+    "language": "\u2014",
+    "name": "FairdraftStudio/call-notes-to-actions-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:44:45Z",
+    "url": "https://github.com/FairdraftStudio/call-notes-to-actions-skill"
+  },
+  {
+    "description": "Ultimate Frontend Skills (UFS) for Claude Code and Codex. One route from brief to shipped page: a corpus of award-winnin",
+    "id": "ridelink0/ultimate-frontend-skills",
+    "language": "JavaScript",
+    "name": "ridelink0/ultimate-frontend-skills",
+    "stars": 2,
+    "updated_at": "2026-09-15T11:44:21Z",
+    "url": "https://github.com/ridelink0/ultimate-frontend-skills"
+  },
+  {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:43:36Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
   },
   {
     "description": "Forward deployed engineering skills for AI coding agents.",
@@ -14,8 +41,107 @@
     "language": "JavaScript",
     "name": "suboss87/FDEOps",
     "stars": 536,
-    "updated_at": "2026-09-15T11:28:55Z",
+    "updated_at": "2026-09-15T11:44:00Z",
     "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 35,
+    "updated_at": "2026-09-15T11:43:08Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Agent Skills for EUDI Wallet and European Business Wallet integrations: credential issuance (OpenID4VCI), verification (",
+    "id": "L3-iGrant/skills",
+    "language": "TypeScript",
+    "name": "L3-iGrant/skills",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:41:33Z",
+    "url": "https://github.com/L3-iGrant/skills"
+  },
+  {
+    "description": "Teach your agent to work with evals: WHEN you actually need an eval or benchmark, HOW to build one that holds up, and ho",
+    "id": "alexgreensh/eval-genius",
+    "language": "Python",
+    "name": "alexgreensh/eval-genius",
+    "stars": 2,
+    "updated_at": "2026-09-15T11:41:20Z",
+    "url": "https://github.com/alexgreensh/eval-genius"
+  },
+  {
+    "description": "Riffkit agent skills, named by what you want to make. Generated daily from riffkit.ai/SKILL.md.",
+    "id": "riffkit/skills",
+    "language": "Python",
+    "name": "riffkit/skills",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:40:52Z",
+    "url": "https://github.com/riffkit/skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-15T11:39:25Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Agent skill for authentic Arabic writing: strips English calques and translated phraseology (\u0627\u0644\u0639\u0631\u0646\u062c\u064a\u0629) from Arabic text.",
+    "id": "specailm5/anti-aranjiya-skill",
+    "language": "\u2014",
+    "name": "specailm5/anti-aranjiya-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:38:04Z",
+    "url": "https://github.com/specailm5/anti-aranjiya-skill"
+  },
+  {
+    "description": "Official Riffkit skill \u2014 riff a winning TikTok into your own short video from your AI agent (Claude Code, Cursor) or the",
+    "id": "riffkit/skill",
+    "language": "\u2014",
+    "name": "riffkit/skill",
+    "stars": 7,
+    "updated_at": "2026-09-15T11:36:32Z",
+    "url": "https://github.com/riffkit/skill"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:35:21Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "\u4e2d\u6587\u5199\u4f5c\u4e0e\u53bbAI\u8154\uff1a\u8d77\u8349\u3001\u6da6\u8272\u3001\u5ba1\u6821\uff0c\u91cd\u89c6\u6570\u5b57\u3001\u5f15\u8bed\u4e0e\u4f5c\u8005\u8bed\u6c14\u3002Chinese writing & editing skill for AI agents. Examples, install guide, MIT.",
+    "id": "Chase-Chen1999/chinese-writing-skill",
+    "language": "\u2014",
+    "name": "Chase-Chen1999/chinese-writing-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:31:04Z",
+    "url": "https://github.com/Chase-Chen1999/chinese-writing-skill"
+  },
+  {
+    "description": "\u795e\u7b14\u9a6c\u826f \u00b7 \u5199\u4f5cDNA\u84b8\u998f\u3002\u5c06\u81ea\u5df1\u516c\u4f17\u53f7/\u5c0f\u7ea2\u85af/X/twitter\u7684\u6587\u7ae0\u84b8\u998f\u6210\u5c5e\u4e8e\u4f60\u81ea\u5df1\u7684\u300c\u5199\u4f5c\u57fa\u56e0\u5305\u300d\u3002",
+    "id": "konglong87/shenbi-maliang",
+    "language": "Python",
+    "name": "konglong87/shenbi-maliang",
+    "stars": 2,
+    "updated_at": "2026-09-15T11:30:40Z",
+    "url": "https://github.com/konglong87/shenbi-maliang"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-15T11:30:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A `Claude` native workflow.",
@@ -54,15 +180,6 @@
     "url": "https://github.com/BENZEMA216/awesome-weread"
   },
   {
-    "description": "Ultimate Frontend Skills (UFS) for Claude Code and Codex. One route from brief to shipped page: a corpus of award-winnin",
-    "id": "ridelink0/ultimate-frontend-skills",
-    "language": "JavaScript",
-    "name": "ridelink0/ultimate-frontend-skills",
-    "stars": 2,
-    "updated_at": "2026-09-15T11:26:48Z",
-    "url": "https://github.com/ridelink0/ultimate-frontend-skills"
-  },
-  {
     "description": "Self-driving agent loop for Claude Code. It turns an issue into a planned, verified, committed change, and lets you run,",
     "id": "benman1/wiggum",
     "language": "Shell",
@@ -77,7 +194,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69069,
-    "updated_at": "2026-09-15T11:24:19Z",
+    "updated_at": "2026-09-15T11:39:43Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -88,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T11:24:15Z",
     "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
-  },
-  {
-    "description": "Teach your agent to work with evals: WHEN you actually need an eval or benchmark, HOW to build one that holds up, and ho",
-    "id": "alexgreensh/eval-genius",
-    "language": "Python",
-    "name": "alexgreensh/eval-genius",
-    "stars": 2,
-    "updated_at": "2026-09-15T11:23:34Z",
-    "url": "https://github.com/alexgreensh/eval-genius"
   },
   {
     "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple gr",
@@ -160,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-09-15T11:16:46Z",
     "url": "https://github.com/ice-lfernandes/claude-spring-architect"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-15T11:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
@@ -257,7 +356,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-15T11:22:46Z",
+    "updated_at": "2026-09-15T11:45:01Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -274,7 +373,7 @@
     "id": "pliablepixels/gap-trap",
     "language": "JavaScript",
     "name": "pliablepixels/gap-trap",
-    "stars": 74,
+    "stars": 77,
     "updated_at": "2026-09-15T11:01:30Z",
     "url": "https://github.com/pliablepixels/gap-trap"
   },
@@ -342,15 +441,6 @@
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-15T11:17:40Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
     "id": "reticlehq/reticle",
     "language": "TypeScript",
@@ -358,95 +448,5 @@
     "stars": 616,
     "updated_at": "2026-09-15T10:44:47Z",
     "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 10,
-    "updated_at": "2026-09-15T10:41:56Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Claude Plugin: Local Linear AI agent, your favorite harness",
-    "id": "mikhailkogan17/cycler",
-    "language": "JavaScript",
-    "name": "mikhailkogan17/cycler",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:41:35Z",
-    "url": "https://github.com/mikhailkogan17/cycler"
-  },
-  {
-    "description": "Skills that teach an agent to use the systems an Exorails environment exposes (PostgreSQL, SSH, Kubernetes, Redis, S3\u2026).",
-    "id": "thomasdseao/exorails-skills",
-    "language": "\u2014",
-    "name": "thomasdseao/exorails-skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:39:35Z",
-    "url": "https://github.com/thomasdseao/exorails-skills"
-  },
-  {
-    "description": "AI marketing agents for Claude Code - a B2B SaaS marketing team: 81 agents + 19 skills \u2014 SEO/AEO/GEO, content + editoria",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 13,
-    "updated_at": "2026-09-15T10:38:46Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
-    "id": "by-carlos/daikenja",
-    "language": "Python",
-    "name": "by-carlos/daikenja",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:35:42Z",
-    "url": "https://github.com/by-carlos/daikenja"
-  },
-  {
-    "description": "Condensed academic reading notes (\u6587\u732e\u901f\u89c8\u7b14\u8bb0) as Word files with real margin comments",
-    "id": "oli66666/literature-quick-review-note",
-    "language": "Python",
-    "name": "oli66666/literature-quick-review-note",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:32:01Z",
-    "url": "https://github.com/oli66666/literature-quick-review-note"
-  },
-  {
-    "description": "Alireza Rezvani CTO and AI enthusiast - Addicted to Claude Code and Openclaw",
-    "id": "alirezarezvani/alirezarezvani",
-    "language": "\u2014",
-    "name": "alirezarezvani/alirezarezvani",
-    "stars": 26,
-    "updated_at": "2026-09-15T10:29:54Z",
-    "url": "https://github.com/alirezarezvani/alirezarezvani"
-  },
-  {
-    "description": "A writing skill for coding agents: plain, factual, no AI slop, no boasting",
-    "id": "pliablepixels/slop-mop",
-    "language": "\u2014",
-    "name": "pliablepixels/slop-mop",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:29:35Z",
-    "url": "https://github.com/pliablepixels/slop-mop"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:29:11Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "\u0414\u043e\u043a\u0442\u0440\u0438\u043d\u0430 \u044d\u043a\u0441\u043f\u043b\u0443\u0430\u0442\u0430\u0446\u0438\u0438 Claude Code \u0432 \u0434\u043e\u043b\u0433\u043e\u0436\u0438\u0432\u0443\u0449\u0438\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445: \u0434\u0435\u043b\u0435\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435, \u0441\u0430\u043c\u043e\u0430\u0443\u0434\u0438\u0442, \u043f\u0435\u0442\u043b\u0438, \u0436\u0443\u0440\u043d\u0430\u043b\u044b \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 + 22 \u043f\u0435\u0440\u0435",
-    "id": "VibeEngineering-LLC/agent-ops-doctrine",
-    "language": "Python",
-    "name": "VibeEngineering-LLC/agent-ops-doctrine",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:21:09Z",
-    "url": "https://github.com/VibeEngineering-LLC/agent-ops-doctrine"
   }
 ]
