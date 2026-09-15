@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-15T10:45:02Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "A `Claude` native workflow.",
+    "id": "jay94ks/claude-native-workflow",
+    "language": "TypeScript",
+    "name": "jay94ks/claude-native-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:43:15Z",
+    "url": "https://github.com/jay94ks/claude-native-workflow"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-15T10:44:23Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30769,
+    "updated_at": "2026-09-15T10:42:38Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 10,
+    "updated_at": "2026-09-15T10:41:56Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Claude Plugin: Local Linear AI agent, your favorite harness",
+    "id": "mikhailkogan17/cycler",
+    "language": "JavaScript",
+    "name": "mikhailkogan17/cycler",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:41:35Z",
+    "url": "https://github.com/mikhailkogan17/cycler"
+  },
+  {
+    "description": "Skills that teach an agent to use the systems an Exorails environment exposes (PostgreSQL, SSH, Kubernetes, Redis, S3\u2026).",
+    "id": "thomasdseao/exorails-skills",
+    "language": "\u2014",
+    "name": "thomasdseao/exorails-skills",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:39:35Z",
+    "url": "https://github.com/thomasdseao/exorails-skills"
+  },
+  {
+    "description": "AI marketing agents for Claude Code - a B2B SaaS marketing team: 81 agents + 19 skills \u2014 SEO/AEO/GEO, content + editoria",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 13,
+    "updated_at": "2026-09-15T10:38:46Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69067,
+    "updated_at": "2026-09-15T10:35:54Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
+    "id": "by-carlos/daikenja",
+    "language": "Python",
+    "name": "by-carlos/daikenja",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:35:42Z",
+    "url": "https://github.com/by-carlos/daikenja"
+  },
+  {
+    "description": "Condensed academic reading notes (\u6587\u732e\u901f\u89c8\u7b14\u8bb0) as Word files with real margin comments",
+    "id": "oli66666/literature-quick-review-note",
+    "language": "Python",
+    "name": "oli66666/literature-quick-review-note",
+    "stars": 1,
+    "updated_at": "2026-09-15T10:32:01Z",
+    "url": "https://github.com/oli66666/literature-quick-review-note"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-15T10:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Alireza Rezvani CTO and AI enthusiast - Addicted to Claude Code and Openclaw",
     "id": "alirezarezvani/alirezarezvani",
     "language": "\u2014",
@@ -18,15 +126,6 @@
     "url": "https://github.com/pliablepixels/slop-mop"
   },
   {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 10,
-    "updated_at": "2026-09-15T10:29:27Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -40,7 +139,7 @@
     "id": "pliablepixels/gap-trap",
     "language": "JavaScript",
     "name": "pliablepixels/gap-trap",
-    "stars": 70,
+    "stars": 72,
     "updated_at": "2026-09-15T10:28:57Z",
     "url": "https://github.com/pliablepixels/gap-trap"
   },
@@ -108,15 +207,6 @@
     "url": "https://github.com/gagip/gagip-dev"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-15T10:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skills repository",
     "id": "ooooooooooooooooooop/personal-ai",
     "language": "Python",
@@ -124,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-09-15T10:12:16Z",
     "url": "https://github.com/ooooooooooooooooooop/personal-ai"
-  },
-  {
-    "description": "A `Claude` native workflow.",
-    "id": "jay94ks/claude-native-workflow",
-    "language": "TypeScript",
-    "name": "jay94ks/claude-native-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:10:36Z",
-    "url": "https://github.com/jay94ks/claude-native-workflow"
   },
   {
     "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
@@ -149,7 +230,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-15T10:06:25Z",
+    "updated_at": "2026-09-15T10:39:58Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -288,15 +369,6 @@
     "url": "https://github.com/BuildsbyMatt/mentionagent-claude-skill"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-15T10:23:54Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
     "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
@@ -351,21 +423,12 @@
     "url": "https://github.com/kamkate/dev-team-maturity-performance-skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69066,
-    "updated_at": "2026-09-15T10:30:10Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
     "stars": 24760,
-    "updated_at": "2026-09-15T10:27:19Z",
+    "updated_at": "2026-09-15T10:35:06Z",
     "url": "https://github.com/titanwings/distilly"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/lxie-leo/meshify"
   },
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-15T10:29:32Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "\ud83e\udde0 A powerful collection of agent skills to interact with the @Openapi\u00ae API marketplace \u2014 company data, official document",
     "id": "openapi/openapi-skills",
     "language": "Shell",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T09:31:35Z",
     "url": "https://github.com/openapi/openapi-skills"
-  },
-  {
-    "description": "You shipped it and nobody is buying. Install this and Claude Code diagnoses why, then hands you the proven moves that fi",
-    "id": "maxxthemate-png/why-isnt-it-selling",
-    "language": "Python",
-    "name": "maxxthemate-png/why-isnt-it-selling",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:29:39Z",
-    "url": "https://github.com/maxxthemate-png/why-isnt-it-selling"
-  },
-  {
-    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
-    "id": "elementalsouls/Claude-BugHunter",
-    "language": "Python",
-    "name": "elementalsouls/Claude-BugHunter",
-    "stars": 4496,
-    "updated_at": "2026-09-15T09:28:04Z",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter"
-  },
-  {
-    "description": "A Codex skill for reducing AI-generated writing patterns and turning drafts into clear, deliverable Markdown or DOCX doc",
-    "id": "Wattson-Law/avoid-over-ai-writing-skill",
-    "language": "Python",
-    "name": "Wattson-Law/avoid-over-ai-writing-skill",
-    "stars": 3,
-    "updated_at": "2026-09-15T09:24:43Z",
-    "url": "https://github.com/Wattson-Law/avoid-over-ai-writing-skill"
-  },
-  {
-    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
-    "id": "molefrog/moi",
-    "language": "TypeScript",
-    "name": "molefrog/moi",
-    "stars": 166,
-    "updated_at": "2026-09-15T09:18:52Z",
-    "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:17:53Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:17:38Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
   }
 ]
