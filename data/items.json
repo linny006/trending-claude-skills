@@ -1,5 +1,86 @@
 [
   {
+    "description": "Set of skills for globalizing and localizing app",
+    "id": "globalize-now/globalize-skills",
+    "language": "TypeScript",
+    "name": "globalize-now/globalize-skills",
+    "stars": 3,
+    "updated_at": "2026-09-15T19:42:57Z",
+    "url": "https://github.com/globalize-now/globalize-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 5,
+    "updated_at": "2026-09-15T19:42:39Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-15T19:40:59Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-15T19:40:03Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
+    "id": "elsoul/erpc-sdk",
+    "language": "JavaScript",
+    "name": "elsoul/erpc-sdk",
+    "stars": 2,
+    "updated_at": "2026-09-15T19:39:08Z",
+    "url": "https://github.com/elsoul/erpc-sdk"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30777,
+    "updated_at": "2026-09-15T19:39:12Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
+    "id": "XiaoMaColtAI/math-modeling-skill",
+    "language": "Python",
+    "name": "XiaoMaColtAI/math-modeling-skill",
+    "stars": 1556,
+    "updated_at": "2026-09-15T19:34:49Z",
+    "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
+  },
+  {
+    "description": "A fast local vector store for AI agents \u2014 index files once, keep it current as you save, and answer questions across all",
+    "id": "semlith/semlith",
+    "language": "Rust",
+    "name": "semlith/semlith",
+    "stars": 1,
+    "updated_at": "2026-09-15T19:34:02Z",
+    "url": "https://github.com/semlith/semlith"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-15T19:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
     "id": "chris-peterson/beacon",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "JavaScript",
     "name": "gtrabanco/agentic-workflow",
     "stars": 21,
-    "updated_at": "2026-09-15T19:27:56Z",
+    "updated_at": "2026-09-15T19:33:25Z",
     "url": "https://github.com/gtrabanco/agentic-workflow"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/a-aigner/notemd-skills"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-15T19:16:41Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -117,21 +189,12 @@
     "url": "https://github.com/gfargo/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-15T19:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
     "id": "arbiterForge/codeArbiter",
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-15T19:15:06Z",
+    "updated_at": "2026-09-15T19:42:49Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -252,15 +315,6 @@
     "url": "https://github.com/nota-america/forgecat-agent-profiles"
   },
   {
-    "description": "A fast local vector store for AI agents \u2014 index files once, keep it current as you save, and answer questions across all",
-    "id": "semlith/semlith",
-    "language": "Rust",
-    "name": "semlith/semlith",
-    "stars": 1,
-    "updated_at": "2026-09-15T19:04:09Z",
-    "url": "https://github.com/semlith/semlith"
-  },
-  {
     "description": "Skill Heaven -- for real software engineers. Agent Plugin that treats your skills like RAM, not Storage. Summon skills w",
     "id": "gaia-research/gaia-skill-heaven",
     "language": "JavaScript",
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "jposluns/cleanlanguage",
     "stars": 3,
-    "updated_at": "2026-09-15T19:09:29Z",
+    "updated_at": "2026-09-15T19:31:28Z",
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
@@ -382,18 +436,9 @@
     "id": "sergebulaev/linkedin-skills",
     "language": "Python",
     "name": "sergebulaev/linkedin-skills",
-    "stars": 2484,
+    "stars": 2486,
     "updated_at": "2026-09-15T18:47:29Z",
     "url": "https://github.com/sergebulaev/linkedin-skills"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30777,
-    "updated_at": "2026-09-15T18:46:17Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T18:46:07Z",
     "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-15T18:45:42Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-15T18:45:21Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache i",
-    "id": "ARahim3/cachebeat",
-    "language": "\u2014",
-    "name": "ARahim3/cachebeat",
-    "stars": 1,
-    "updated_at": "2026-09-15T18:44:30Z",
-    "url": "https://github.com/ARahim3/cachebeat"
-  },
-  {
-    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
-    "id": "mykpono/ultimate-seo-geo",
-    "language": "Python",
-    "name": "mykpono/ultimate-seo-geo",
-    "stars": 76,
-    "updated_at": "2026-09-15T18:43:27Z",
-    "url": "https://github.com/mykpono/ultimate-seo-geo"
-  },
-  {
-    "description": "Package manager for Claude Code skills and agents and other AI related resources",
-    "id": "mensfeld/craftdesk",
-    "language": "TypeScript",
-    "name": "mensfeld/craftdesk",
-    "stars": 66,
-    "updated_at": "2026-09-15T18:41:56Z",
-    "url": "https://github.com/mensfeld/craftdesk"
   }
 ]
