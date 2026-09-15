@@ -1,5 +1,131 @@
 [
   {
+    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
+    "id": "iDWong/pm-skills",
+    "language": "Python",
+    "name": "iDWong/pm-skills",
+    "stars": 1,
+    "updated_at": "2026-09-15T14:28:53Z",
+    "url": "https://github.com/iDWong/pm-skills"
+  },
+  {
+    "description": "A standard for CI that stays green for the right reasons",
+    "id": "rokokol/ci-skill",
+    "language": "Shell",
+    "name": "rokokol/ci-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:27:50Z",
+    "url": "https://github.com/rokokol/ci-skill"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-09-15T14:27:26Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 424,
+    "updated_at": "2026-09-15T14:26:20Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Skills the Odin agent harness owns \u2014 decision scoring, roadmap planning, blueprint decomposition, mistake-to-gate harden",
+    "id": "RubyEyedReaper/Odin-Skills",
+    "language": "JavaScript",
+    "name": "RubyEyedReaper/Odin-Skills",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:25:29Z",
+    "url": "https://github.com/RubyEyedReaper/Odin-Skills"
+  },
+  {
+    "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
+    "id": "sergebulaev/linkedin-skills",
+    "language": "Python",
+    "name": "sergebulaev/linkedin-skills",
+    "stars": 2462,
+    "updated_at": "2026-09-15T14:24:34Z",
+    "url": "https://github.com/sergebulaev/linkedin-skills"
+  },
+  {
+    "description": "Administer a 3x-ui panel over its HTTP API",
+    "id": "rokokol/3x-ui-admin-skill",
+    "language": "Python",
+    "name": "rokokol/3x-ui-admin-skill",
+    "stars": 1,
+    "updated_at": "2026-09-15T14:24:06Z",
+    "url": "https://github.com/rokokol/3x-ui-admin-skill"
+  },
+  {
+    "description": "Agent Skill (html-prototype-build): generate, annotate, review & deliver native HTML prototypes for Claude Code, Cursor ",
+    "id": "Lisuiwen/ai-html-annotation",
+    "language": "JavaScript",
+    "name": "Lisuiwen/ai-html-annotation",
+    "stars": 13,
+    "updated_at": "2026-09-15T14:23:43Z",
+    "url": "https://github.com/Lisuiwen/ai-html-annotation"
+  },
+  {
+    "description": "My personal, curated set of artifacts for AI coding agents",
+    "id": "sergeyklay/.agents",
+    "language": "Python",
+    "name": "sergeyklay/.agents",
+    "stars": 5,
+    "updated_at": "2026-09-15T14:21:17Z",
+    "url": "https://github.com/sergeyklay/.agents"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 537,
+    "updated_at": "2026-09-15T14:18:32Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-15T14:20:09Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Agent Skill\uff1a\u8bfb\u53d6\u6296\u97f3\u89c6\u9891\u4e0e\u56fe\u6587\u4f5c\u54c1\u5185\u5bb9\u3002L1 \u62ff\u5143\u4fe1\u606f+\u5b98\u65b9\u7ae0\u8282\u8981\u70b9\uff1bL2 \u89c6\u9891\u7528\u9010\u5e27\u622a\u56fe+\u5b57\u5e55OCR\u51fa\u8bb2\u7a3f\uff0c\u56fe\u6587\u5219\u6293\u8f6e\u64ad\u56fe\u3002\u81ea\u52a8\u533a\u5206 /video/ \u4e0e /note/ \u5e76\u6821\u9a8c\u9875\u9762\u8eab\u4efd\uff0c\u907f\u514d\u9759\u9ed8\u8bfb\u5230\u522b\u4eba\u7684\u4f5c\u54c1\u3002\u652f\u6301 WorkBu",
+    "id": "52Siriyue/douyin-video-read",
+    "language": "Python",
+    "name": "52Siriyue/douyin-video-read",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:18:12Z",
+    "url": "https://github.com/52Siriyue/douyin-video-read"
+  },
+  {
+    "description": "How a good skill is written, and the gate that checks it",
+    "id": "rokokol/skill-authoring-skill",
+    "language": "Shell",
+    "name": "rokokol/skill-authoring-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:16:38Z",
+    "url": "https://github.com/rokokol/skill-authoring-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-15T14:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A reusable research-onboarding skill for Claude, ChatGPT, Codex, and other instruction-following agents.",
     "id": "ljx-chase/research-field-onboarding",
     "language": "Python",
@@ -9,40 +135,13 @@
     "url": "https://github.com/ljx-chase/research-field-onboarding"
   },
   {
-    "description": "Agent Skill (html-prototype-build): generate, annotate, review & deliver native HTML prototypes for Claude Code, Cursor ",
-    "id": "Lisuiwen/ai-html-annotation",
-    "language": "JavaScript",
-    "name": "Lisuiwen/ai-html-annotation",
-    "stars": 13,
-    "updated_at": "2026-09-15T14:13:08Z",
-    "url": "https://github.com/Lisuiwen/ai-html-annotation"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69071,
-    "updated_at": "2026-09-15T14:12:46Z",
+    "updated_at": "2026-09-15T14:20:21Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 424,
-    "updated_at": "2026-09-15T14:13:51Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Administer a 3x-ui panel over its HTTP API",
-    "id": "rokokol/3x-ui-admin-skill",
-    "language": "Python",
-    "name": "rokokol/3x-ui-admin-skill",
-    "stars": 1,
-    "updated_at": "2026-09-15T14:08:29Z",
-    "url": "https://github.com/rokokol/3x-ui-admin-skill"
   },
   {
     "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T14:10:03Z",
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "My personal, curated set of artifacts for AI coding agents",
-    "id": "sergeyklay/.agents",
-    "language": "Python",
-    "name": "sergeyklay/.agents",
-    "stars": 5,
-    "updated_at": "2026-09-15T14:05:50Z",
-    "url": "https://github.com/sergeyklay/.agents"
   },
   {
     "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
@@ -133,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T14:00:32Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Skills the Odin agent harness owns \u2014 decision scoring, roadmap planning, blueprint decomposition, mistake-to-gate harden",
-    "id": "RubyEyedReaper/Odin-Skills",
-    "language": "JavaScript",
-    "name": "RubyEyedReaper/Odin-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:00:32Z",
-    "url": "https://github.com/RubyEyedReaper/Odin-Skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-15T14:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "math-skill\uff1a\u9762\u5411 AI \u4e0e\u5bc6\u7801\u5b66\u521b\u65b0\u7684\u6570\u5b66\u7814\u7a76\u64cd\u4f5c\u7cfb\u7edf",
@@ -279,31 +351,13 @@
     "url": "https://github.com/xeonvs/xeonvs-engineering"
   },
   {
-    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
-    "id": "iDWong/pm-skills",
-    "language": "Python",
-    "name": "iDWong/pm-skills",
-    "stars": 1,
-    "updated_at": "2026-09-15T13:45:54Z",
-    "url": "https://github.com/iDWong/pm-skills"
-  },
-  {
     "description": "Skill for Super Productivity Local REST API",
     "id": "rokokol/super-productivity-skill",
     "language": "Shell",
     "name": "rokokol/super-productivity-skill",
     "stars": 0,
-    "updated_at": "2026-09-15T13:44:47Z",
+    "updated_at": "2026-09-15T14:29:34Z",
     "url": "https://github.com/rokokol/super-productivity-skill"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-09-15T13:44:35Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
     "description": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dep",
@@ -311,7 +365,7 @@
     "language": "Java",
     "name": "ice-lfernandes/claude-spring-architect",
     "stars": 2,
-    "updated_at": "2026-09-15T13:43:48Z",
+    "updated_at": "2026-09-15T14:20:49Z",
     "url": "https://github.com/ice-lfernandes/claude-spring-architect"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T13:35:35Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-15T13:35:08Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Skills de IA em portugu\u00eas, por profiss\u00e3o. Dois packs: corretor de im\u00f3veis e prospec\u00e7\u00e3o B2B. 24 comandos que escrevem an\u00fa",
-    "id": "kapstanhq/oficina",
-    "language": "HTML",
-    "name": "kapstanhq/oficina",
-    "stars": 0,
-    "updated_at": "2026-09-15T13:32:47Z",
-    "url": "https://github.com/kapstanhq/oficina"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-15T13:58:05Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 537,
-    "updated_at": "2026-09-15T14:10:44Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "opencode-artes: 115 production-grade OpenCode skills for fullstack web development, localhost security auditing and AI a",
-    "id": "RMAzrim/opencode-artes",
-    "language": "Python",
-    "name": "RMAzrim/opencode-artes",
-    "stars": 1,
-    "updated_at": "2026-09-15T13:27:33Z",
-    "url": "https://github.com/RMAzrim/opencode-artes"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 27,
-    "updated_at": "2026-09-15T13:26:31Z",
-    "url": "https://github.com/Borda/AI-Rig"
   }
 ]
