@@ -1,5 +1,104 @@
 [
   {
+    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
+    "id": "jherrodthomas/robotics-skills-suite",
+    "language": "Python",
+    "name": "jherrodthomas/robotics-skills-suite",
+    "stars": 241,
+    "updated_at": "2026-09-16T11:44:03Z",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
+  },
+  {
+    "description": "Diamond graph, sprint harness for multi-agent fan out building. ",
+    "id": "Curious-Keeper/sprint-harness",
+    "language": "Shell",
+    "name": "Curious-Keeper/sprint-harness",
+    "stars": 0,
+    "updated_at": "2026-09-16T11:43:58Z",
+    "url": "https://github.com/Curious-Keeper/sprint-harness"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 394,
+    "updated_at": "2026-09-16T11:41:27Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 27,
+    "updated_at": "2026-09-16T11:41:21Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-09-16T11:39:26Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "SkillSync is an open source talent intelligence platform that automates skills matrix tracking, competency gap analysis,",
+    "id": "tomaszboloz/SkillSync",
+    "language": "TypeScript",
+    "name": "tomaszboloz/SkillSync",
+    "stars": 1,
+    "updated_at": "2026-09-16T11:38:13Z",
+    "url": "https://github.com/tomaszboloz/SkillSync"
+  },
+  {
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
+    "id": "OthmanAdi/planning-with-files",
+    "language": "Shell",
+    "name": "OthmanAdi/planning-with-files",
+    "stars": 26930,
+    "updated_at": "2026-09-16T11:34:54Z",
+    "url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
+    "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
+    "id": "yacb2/aidex",
+    "language": "Shell",
+    "name": "yacb2/aidex",
+    "stars": 2,
+    "updated_at": "2026-09-16T11:36:25Z",
+    "url": "https://github.com/yacb2/aidex"
+  },
+  {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-09-16T11:32:14Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
+  },
+  {
+    "description": "A `Claude` native workflow.",
+    "id": "jay94ks/claude-native-workflow",
+    "language": "TypeScript",
+    "name": "jay94ks/claude-native-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-16T11:31:24Z",
+    "url": "https://github.com/jay94ks/claude-native-workflow"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-16T11:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
@@ -7,6 +106,15 @@
     "stars": 23,
     "updated_at": "2026-09-16T11:28:09Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 670,
+    "updated_at": "2026-09-16T11:26:34Z",
+    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Free Claude skill for roofing contractors: summarize-inspection-notes turns field notes into a homeowner summary and an ",
@@ -27,15 +135,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 394,
-    "updated_at": "2026-09-16T11:29:51Z",
-    "url": "https://github.com/xr843/Master-skill"
-  },
-  {
     "description": "Riffkit agent skills, named by what you want to make. Generated daily from riffkit.ai/SKILL.md.",
     "id": "riffkit/skills",
     "language": "Python",
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T11:23:10Z",
     "url": "https://github.com/bartvanhoey/WritingSkillsInVsCode"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Shell",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 26930,
-    "updated_at": "2026-09-16T11:22:56Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
   },
   {
     "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
@@ -178,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T11:16:37Z",
     "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-16T11:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T11:09:16Z",
     "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-09-16T11:09:08Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-09-16T11:09:06Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 3,
-    "updated_at": "2026-09-16T11:09:04Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "A skill for Unity game code walkthroughs: module analysis, call flow, architecture, and code structure, without decompil",
-    "id": "eighthoursleep/unity-game-codebase-walkthrough-skill",
-    "language": "\u2014",
-    "name": "eighthoursleep/unity-game-codebase-walkthrough-skill",
-    "stars": 0,
-    "updated_at": "2026-09-16T11:09:04Z",
-    "url": "https://github.com/eighthoursleep/unity-game-codebase-walkthrough-skill"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-09-16T11:09:03Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-09-16T11:08:53Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-09-16T11:08:43Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-16T11:08:37Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 0,
-    "updated_at": "2026-09-16T11:08:18Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
   }
 ]
