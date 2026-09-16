@@ -1,5 +1,32 @@
 [
   {
+    "description": "Run Claude Code as a disciplined multi-agent TPM",
+    "id": "codercowboy/claude-tpm",
+    "language": "JavaScript",
+    "name": "codercowboy/claude-tpm",
+    "stars": 0,
+    "updated_at": "2026-09-16T19:59:51Z",
+    "url": "https://github.com/codercowboy/claude-tpm"
+  },
+  {
+    "description": "Shared project memory for Claude Code: notes that survive /clear and compaction, messages between sessions, token-free e",
+    "id": "krllx/longrun",
+    "language": "Python",
+    "name": "krllx/longrun",
+    "stars": 1,
+    "updated_at": "2026-09-16T19:59:38Z",
+    "url": "https://github.com/krllx/longrun"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-16T19:57:58Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Steve Polito's Agent Skills",
     "id": "stevepolitodesign/skills",
     "language": "HTML",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T19:52:56Z",
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Shared project memory for Claude Code: notes that survive /clear and compaction, messages between sessions, token-free e",
-    "id": "krllx/longrun",
-    "language": "Python",
-    "name": "krllx/longrun",
-    "stars": 1,
-    "updated_at": "2026-09-16T19:52:55Z",
-    "url": "https://github.com/krllx/longrun"
   },
   {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
@@ -207,15 +225,6 @@
     "url": "https://github.com/hraness/soulscrape"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-16T19:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -270,15 +279,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Run Claude Code as a disciplined multi-agent TPM",
-    "id": "codercowboy/claude-tpm",
-    "language": "JavaScript",
-    "name": "codercowboy/claude-tpm",
-    "stars": 0,
-    "updated_at": "2026-09-16T19:41:19Z",
-    "url": "https://github.com/codercowboy/claude-tpm"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-16T19:49:32Z",
+    "updated_at": "2026-09-16T19:58:19Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -436,7 +436,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 94043,
+    "stars": 94044,
     "updated_at": "2026-09-16T19:26:53Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
