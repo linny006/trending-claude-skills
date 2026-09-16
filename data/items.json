@@ -1,12 +1,66 @@
 [
   {
-    "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
-    "id": "ShulkwiSEC/bugbounty.sa",
+    "description": "Agent skill: turn any flat logo into a premium 3D spinning coin (React Three Fiber). One command, try it live in your br",
+    "id": "hasuwini77/3d-logo-skill",
+    "language": "\u2014",
+    "name": "hasuwini77/3d-logo-skill",
+    "stars": 1,
+    "updated_at": "2026-09-16T13:44:50Z",
+    "url": "https://github.com/hasuwini77/3d-logo-skill"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
     "language": "Python",
-    "name": "ShulkwiSEC/bugbounty.sa",
+    "name": "xr843/Master-skill",
+    "stars": 394,
+    "updated_at": "2026-09-16T13:44:41Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-16T13:42:38Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-16T13:42:14Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Mechanical-check AI agent skills for contracts, invoices, tender/bidding documents and ad copy: every finding is recompu",
+    "id": "chenqg618/compliance-skills",
+    "language": "JavaScript",
+    "name": "chenqg618/compliance-skills",
     "stars": 0,
-    "updated_at": "2026-09-16T13:30:02Z",
-    "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
+    "updated_at": "2026-09-16T13:41:50Z",
+    "url": "https://github.com/chenqg618/compliance-skills"
+  },
+  {
+    "description": "Skills the Odin agent harness owns \u2014 decision scoring, roadmap planning, blueprint decomposition, mistake-to-gate harden",
+    "id": "RubyEyedReaper/Odin-Skills",
+    "language": "Python",
+    "name": "RubyEyedReaper/Odin-Skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T13:41:35Z",
+    "url": "https://github.com/RubyEyedReaper/Odin-Skills"
+  },
+  {
+    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
+    "id": "elsoul/erpc-sdk",
+    "language": "JavaScript",
+    "name": "elsoul/erpc-sdk",
+    "stars": 2,
+    "updated_at": "2026-09-16T13:40:56Z",
+    "url": "https://github.com/elsoul/erpc-sdk"
   },
   {
     "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
@@ -14,8 +68,116 @@
     "language": "TypeScript",
     "name": "easyinplay/harnessed",
     "stars": 2,
-    "updated_at": "2026-09-16T13:28:28Z",
+    "updated_at": "2026-09-16T13:40:46Z",
     "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "Agent skills used at OpsCom Corp",
+    "id": "OpsComCorp/skills",
+    "language": "\u2014",
+    "name": "OpsComCorp/skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T13:39:45Z",
+    "url": "https://github.com/OpsComCorp/skills"
+  },
+  {
+    "description": "Claude Skill: review websites against GDPR, ePrivacy, the EU AI Act, the DSA and EU accessibility rules, with sourced fi",
+    "id": "gricyk/claude-skill-eu-web-compliance",
+    "language": "Python",
+    "name": "gricyk/claude-skill-eu-web-compliance",
+    "stars": 0,
+    "updated_at": "2026-09-16T13:43:36Z",
+    "url": "https://github.com/gricyk/claude-skill-eu-web-compliance"
+  },
+  {
+    "description": "Claude Code skills & plugins: git-flow skill for the gitflow branching model, installed via plugin marketplace.",
+    "id": "biancoenrico/claude-skills",
+    "language": "Shell",
+    "name": "biancoenrico/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T13:37:36Z",
+    "url": "https://github.com/biancoenrico/claude-skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1605,
+    "updated_at": "2026-09-16T13:37:38Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Seven portable review skills that make any coding agent file evidence-backed, severity-graded audits: bugs, security, te",
+    "id": "specialone0007/review-skills",
+    "language": "Python",
+    "name": "specialone0007/review-skills",
+    "stars": 1,
+    "updated_at": "2026-09-16T13:33:12Z",
+    "url": "https://github.com/specialone0007/review-skills"
+  },
+  {
+    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
+    "id": "alicekane437/cv-job-market-research",
+    "language": "\u2014",
+    "name": "alicekane437/cv-job-market-research",
+    "stars": 0,
+    "updated_at": "2026-09-16T13:30:55Z",
+    "url": "https://github.com/alicekane437/cv-job-market-research"
+  },
+  {
+    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
+    "id": "Loriabient5377/blahblahblah-skill",
+    "language": "\u2014",
+    "name": "Loriabient5377/blahblahblah-skill",
+    "stars": 0,
+    "updated_at": "2026-09-16T13:30:26Z",
+    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-16T13:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
+    "id": "aaamaxito-prog/deadeye",
+    "language": "Swift",
+    "name": "aaamaxito-prog/deadeye",
+    "stars": 0,
+    "updated_at": "2026-09-16T13:30:12Z",
+    "url": "https://github.com/aaamaxito-prog/deadeye"
+  },
+  {
+    "description": "Unofficial CLI/MCP server for bugbounty.sa (reports, programs, scope,flow-up) \u2699",
+    "id": "ShulkwiSEC/bugbounty.sa",
+    "language": "Python",
+    "name": "ShulkwiSEC/bugbounty.sa",
+    "stars": 0,
+    "updated_at": "2026-09-16T13:30:30Z",
+    "url": "https://github.com/ShulkwiSEC/bugbounty.sa"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30781,
+    "updated_at": "2026-09-16T13:29:58Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "A curated collection of AI SecOps 24 SKILL.md capabilities for security work offensive security, SOC and detection engin",
+    "id": "Garyson26/Trident-SecOps-Skills",
+    "language": "Shell",
+    "name": "Garyson26/Trident-SecOps-Skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T13:29:41Z",
+    "url": "https://github.com/Garyson26/Trident-SecOps-Skills"
   },
   {
     "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
@@ -90,15 +252,6 @@
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
-    "description": "Claude Skill: review websites against GDPR, ePrivacy, the EU AI Act, the DSA and EU accessibility rules, with sourced fi",
-    "id": "gricyk/claude-skill-eu-web-compliance",
-    "language": "Python",
-    "name": "gricyk/claude-skill-eu-web-compliance",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:25:58Z",
-    "url": "https://github.com/gricyk/claude-skill-eu-web-compliance"
-  },
-  {
     "description": "Optimizes the description frontmatter of a Claude Code / Agent Skill - the text that decides whether Claude invokes the ",
     "id": "netopsengineer/agent-skill-description-optimizer",
     "language": "Python",
@@ -133,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T13:24:13Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Seven portable review skills that make any coding agent file evidence-backed, severity-graded audits: bugs, security, te",
-    "id": "specialone0007/review-skills",
-    "language": "Python",
-    "name": "specialone0007/review-skills",
-    "stars": 1,
-    "updated_at": "2026-09-16T13:23:31Z",
-    "url": "https://github.com/specialone0007/review-skills"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -214,6 +358,15 @@
     "stars": 8,
     "updated_at": "2026-09-16T13:20:26Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently instal",
+    "id": "cbrock84/headcount",
+    "language": "Markdown",
+    "name": "cbrock84/headcount",
+    "stars": 1543,
+    "updated_at": "2026-09-16T13:20:15Z",
+    "url": "https://github.com/cbrock84/headcount"
   },
   {
     "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T13:19:02Z",
     "url": "https://github.com/mikhailkogan17/cycler"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:19:00Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:18:22Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-09-16T13:18:10Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:18:02Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:17:56Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:17:45Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:17:28Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 3,
-    "updated_at": "2026-09-16T13:17:19Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-09-16T13:17:18Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Claude Code skills & plugins: git-flow skill for the gitflow branching model, installed via plugin marketplace.",
-    "id": "biancoenrico/claude-skills",
-    "language": "Shell",
-    "name": "biancoenrico/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:17:17Z",
-    "url": "https://github.com/biancoenrico/claude-skills"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-09-16T13:17:15Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:17:08Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-09-16T13:16:54Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-16T13:16:49Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:16:34Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
-  },
-  {
-    "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
-    "id": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "language": "Shell",
-    "name": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:16:02Z",
-    "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
-  },
-  {
-    "description": "Explore 72 AI-powered skills across 6 departments for AlterLab FC training, learning, and workflow support",
-    "id": "prone-dc302/AlterLab-FC-Skills",
-    "language": "JavaScript",
-    "name": "prone-dc302/AlterLab-FC-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:15:58Z",
-    "url": "https://github.com/prone-dc302/AlterLab-FC-Skills"
   }
 ]
