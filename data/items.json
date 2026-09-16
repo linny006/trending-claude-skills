@@ -1,12 +1,138 @@
 [
   {
+    "description": "\u91d1\u8776\u4e91\u661f\u7a7a\u8d39\u7528/\u5dee\u65c5\u62a5\u9500\u5168\u6d41\u7a0b\u63d0\u4ea4 Skill\uff5c\u5458\u5de5\u53d1\u7968\u2192\u7533\u8bf7\u2192\u4e0b\u63a8\u62a5\u9500\u2192\u63d0\u4ea4\u5ba1\u6279\uff08expense/reimbursement flow\uff09",
+    "id": "LittleBeaverStudio/KingdeeExpenseFlow",
+    "language": "Python",
+    "name": "LittleBeaverStudio/KingdeeExpenseFlow",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:29:03Z",
+    "url": "https://github.com/LittleBeaverStudio/KingdeeExpenseFlow"
+  },
+  {
+    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
+    "id": "rokokol/bash-best-practices-skill",
+    "language": "Shell",
+    "name": "rokokol/bash-best-practices-skill",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:28:25Z",
+    "url": "https://github.com/rokokol/bash-best-practices-skill"
+  },
+  {
+    "description": "The last mile of the academic figure toolchain \u2014 a Claude Code skill that draws editable, paper-exact vector figures dir",
+    "id": "yushiran/Academic-Figure-Figma-CC-Skills",
+    "language": "JavaScript",
+    "name": "yushiran/Academic-Figure-Figma-CC-Skills",
+    "stars": 5,
+    "updated_at": "2026-09-16T08:27:17Z",
+    "url": "https://github.com/yushiran/Academic-Figure-Figma-CC-Skills"
+  },
+  {
+    "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
+    "id": "vaibhavarora14/job-application-agent",
+    "language": "JavaScript",
+    "name": "vaibhavarora14/job-application-agent",
+    "stars": 149,
+    "updated_at": "2026-09-16T08:28:29Z",
+    "url": "https://github.com/vaibhavarora14/job-application-agent"
+  },
+  {
+    "description": "\u6bcf\u5929\u91dd\u5c0d\u7279\u5b9a\u4e3b\u984c\u6293\u53d6 PubMed \u904e\u53bb 24 \u5c0f\u6642\u65b0\u589e\u7684\u6587\u7ae0\u7684 Claude Code skill",
+    "id": "didiowen/pubmed-daily-digest",
+    "language": "Python",
+    "name": "didiowen/pubmed-daily-digest",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:26:29Z",
+    "url": "https://github.com/didiowen/pubmed-daily-digest"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69086,
+    "updated_at": "2026-09-16T08:25:28Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
+    "id": "hraness/soulscrape",
+    "language": "TypeScript",
+    "name": "hraness/soulscrape",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:26:08Z",
+    "url": "https://github.com/hraness/soulscrape"
+  },
+  {
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:23:03Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "Mechanical-check AI agent skills for contracts, invoices, tender/bidding documents and ad copy: every finding is recompu",
+    "id": "chenqg618/compliance-skills",
+    "language": "JavaScript",
+    "name": "chenqg618/compliance-skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:22:48Z",
+    "url": "https://github.com/chenqg618/compliance-skills"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 6,
+    "updated_at": "2026-09-16T08:19:19Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-16T08:19:10Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
     "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
     "id": "YoniChechik/claude-code-config",
     "language": "Shell",
     "name": "YoniChechik/claude-code-config",
     "stars": 0,
-    "updated_at": "2026-09-16T08:13:46Z",
+    "updated_at": "2026-09-16T08:18:18Z",
     "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "When in Rome, commit as the Romans do. Agent skill + hook that makes AI commits, branches and PRs match the repo's own h",
+    "id": "aliradid/when-in-rome",
+    "language": "Python",
+    "name": "aliradid/when-in-rome",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:16:12Z",
+    "url": "https://github.com/aliradid/when-in-rome"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-16T08:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30780,
+    "updated_at": "2026-09-16T08:28:55Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "bro-skills - Spec-Driven Development CLI",
@@ -40,7 +166,7 @@
     "id": "zenstory-ai/drama-skills",
     "language": "Python",
     "name": "zenstory-ai/drama-skills",
-    "stars": 1958,
+    "stars": 1959,
     "updated_at": "2026-09-16T08:10:45Z",
     "url": "https://github.com/zenstory-ai/drama-skills"
   },
@@ -108,21 +234,12 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "When in Rome, commit as the Romans do. Agent skill + hook that makes AI commits, branches and PRs match the repo's own h",
-    "id": "aliradid/when-in-rome",
-    "language": "Python",
-    "name": "aliradid/when-in-rome",
-    "stars": 0,
-    "updated_at": "2026-09-16T08:05:37Z",
-    "url": "https://github.com/aliradid/when-in-rome"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-16T08:14:18Z",
+    "updated_at": "2026-09-16T08:25:32Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -180,15 +297,6 @@
     "url": "https://github.com/NYTC69/review-loop"
   },
   {
-    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
-    "id": "rokokol/bash-best-practices-skill",
-    "language": "Shell",
-    "name": "rokokol/bash-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-09-16T08:01:23Z",
-    "url": "https://github.com/rokokol/bash-best-practices-skill"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -198,15 +306,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-16T08:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -214,15 +313,6 @@
     "stars": 52,
     "updated_at": "2026-09-16T07:58:33Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69085,
-    "updated_at": "2026-09-16T08:09:45Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
@@ -279,15 +369,6 @@
     "url": "https://github.com/ayukyo/icode-skill"
   },
   {
-    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "JavaScript",
-    "name": "SteveKinzey/claude-code-tools-installer",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:50:25Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
     "description": "How a good skill is written, and the gate that checks it",
     "id": "rokokol/skill-authoring-skill",
     "language": "Shell",
@@ -297,13 +378,13 @@
     "url": "https://github.com/rokokol/skill-authoring-skill"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-16T08:09:51Z",
-    "url": "https://github.com/martinambrus/haive"
+    "description": "Agent Skill (html-prototype-build): generate, annotate, review & deliver native HTML prototypes for Claude Code, Cursor ",
+    "id": "Lisuiwen/ai-html-annotation",
+    "language": "JavaScript",
+    "name": "Lisuiwen/ai-html-annotation",
+    "stars": 14,
+    "updated_at": "2026-09-16T08:25:07Z",
+    "url": "https://github.com/Lisuiwen/ai-html-annotation"
   },
   {
     "description": "Azure apps that cost nothing when nobody's using them. A Claude Code skill pack \u2014 14 composable skills, 37+ documented g",
@@ -313,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T07:48:20Z",
     "url": "https://github.com/alexpizarro/azure-lean-stack-skills"
-  },
-  {
-    "description": "\u91d1\u8776\u4e91\u661f\u7a7a\u8d39\u7528/\u5dee\u65c5\u62a5\u9500\u5168\u6d41\u7a0b\u63d0\u4ea4 Skill\uff5c\u5458\u5de5\u53d1\u7968\u2192\u7533\u8bf7\u2192\u4e0b\u63a8\u62a5\u9500\u2192\u63d0\u4ea4\u5ba1\u6279\uff08expense/reimbursement flow\uff09",
-    "id": "LittleBeaverStudio/kingdee-expense-flow",
-    "language": "Python",
-    "name": "LittleBeaverStudio/kingdee-expense-flow",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:48:00Z",
-    "url": "https://github.com/LittleBeaverStudio/kingdee-expense-flow"
   },
   {
     "description": "\u91d1\u8776\u4e91\u661f\u7a7a\u591a\u8868\u5355\u636e/\u62a5\u8868\u5bfc\u51fa Skill\uff5c\u9500\u552e/\u5b58\u8d27/\u91c7\u8d2d/\u94f6\u884c\u6d41\u6c34/AR-AP\uff08Kingdee Cloud data exporter\uff09",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-16T07:40:14Z",
     "url": "https://github.com/LeonardLeroy/i-dont-believe-you"
-  },
-  {
-    "description": "Claude Code plugin: know your unknowns \u2014 blind-spot passes, domain primers, pre-implementation interviews, tweak-likelih",
-    "id": "ajitta/know-your-unknowns",
-    "language": "Python",
-    "name": "ajitta/know-your-unknowns",
-    "stars": 1,
-    "updated_at": "2026-09-16T07:38:02Z",
-    "url": "https://github.com/ajitta/know-your-unknowns"
-  },
-  {
-    "description": "Mechanical-check AI agent skills for contracts, invoices, tender/bidding documents and ad copy: every finding is recompu",
-    "id": "chenqg618/compliance-skills",
-    "language": "JavaScript",
-    "name": "chenqg618/compliance-skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:37:53Z",
-    "url": "https://github.com/chenqg618/compliance-skills"
-  },
-  {
-    "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple gr",
-    "id": "bitjaru/styleseed",
-    "language": "JavaScript",
-    "name": "bitjaru/styleseed",
-    "stars": 955,
-    "updated_at": "2026-09-16T07:37:34Z",
-    "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
-    "description": "Open-source Claude Code skills and Codex skills for AI-first work. Audit, re-engineer, and bootstrap projects with AI-fi",
-    "id": "techwolf-ai/ai-first-toolkit",
-    "language": "Python",
-    "name": "techwolf-ai/ai-first-toolkit",
-    "stars": 99,
-    "updated_at": "2026-09-16T07:52:34Z",
-    "url": "https://github.com/techwolf-ai/ai-first-toolkit"
-  },
-  {
-    "description": "\u6e17\u900f\u6d4b\u8bd5 / \u5b89\u5168\u7814\u7a76 / \u6f0f\u6d1e\u53d1\u73b0\u5168\u6d41\u7a0b Agent Skill\u3002",
-    "id": "enilmalus/Enil-ling-pesing",
-    "language": "\u2014",
-    "name": "enilmalus/Enil-ling-pesing",
-    "stars": 2,
-    "updated_at": "2026-09-16T07:36:32Z",
-    "url": "https://github.com/enilmalus/Enil-ling-pesing"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:33:56Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-09-16T07:32:57Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Build WordPress plugins with AI that don't ship vulnerabilities. A Claude skill covering all 18 Plugin Handbook chapters",
-    "id": "ararai1991/wp-plugin-skill",
-    "language": "Shell",
-    "name": "ararai1991/wp-plugin-skill",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:31:47Z",
-    "url": "https://github.com/ararai1991/wp-plugin-skill"
   }
 ]
