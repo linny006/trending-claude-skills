@@ -1,11 +1,65 @@
 [
   {
+    "description": "Explain how anything works like I'm 5 \u2014 built around cause and effect.",
+    "id": "prgmr99/eli5-flow",
+    "language": "TypeScript",
+    "name": "prgmr99/eli5-flow",
+    "stars": 0,
+    "updated_at": "2026-09-16T01:29:29Z",
+    "url": "https://github.com/prgmr99/eli5-flow"
+  },
+  {
+    "description": "\ud55c\uad6d \ubcc0\ub9ac\uc0ac \uc2e4\ubb34\ub97c \uc704\ud55c Claude \uc2a4\ud0ac \ubaa8\uc74c \u2014 \ubc1c\uba85\uc790 \ubbf8\ud305\ubd80\ud130 \ud55c\uad6d \ud2b9\ud5c8 \uba85\uc138\uc11c \uc791\uc131, docx \ucd9c\ub825\uae4c\uc9c0",
+    "id": "lsj4232/KR_PATENT_SKILL",
+    "language": "JavaScript",
+    "name": "lsj4232/KR_PATENT_SKILL",
+    "stars": 15,
+    "updated_at": "2026-09-16T01:28:34Z",
+    "url": "https://github.com/lsj4232/KR_PATENT_SKILL"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-16T01:27:48Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
+    "id": "Free-Soul/MemDreamer",
+    "language": "Python",
+    "name": "Free-Soul/MemDreamer",
+    "stars": 4,
+    "updated_at": "2026-09-16T01:27:28Z",
+    "url": "https://github.com/Free-Soul/MemDreamer"
+  },
+  {
+    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
+    "id": "Videoa7917/ClaudeSec",
+    "language": "\u2014",
+    "name": "Videoa7917/ClaudeSec",
+    "stars": 0,
+    "updated_at": "2026-09-16T01:26:45Z",
+    "url": "https://github.com/Videoa7917/ClaudeSec"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-16T01:26:29Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
     "id": "Machai-Kydoimos/dependabot-audit",
     "language": "Python",
     "name": "Machai-Kydoimos/dependabot-audit",
     "stars": 0,
-    "updated_at": "2026-09-16T01:26:07Z",
+    "updated_at": "2026-09-16T01:26:33Z",
     "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T01:16:52Z",
     "url": "https://github.com/square-lupus579/30x-seo"
-  },
-  {
-    "description": "Provide full Python API access to NotebookLM features, including advanced functions beyond the web interface, via CLI an",
-    "id": "patriarchal-boothose896/notebooklm-py",
-    "language": "Python",
-    "name": "patriarchal-boothose896/notebooklm-py",
-    "stars": 3,
-    "updated_at": "2026-09-16T01:16:39Z",
-    "url": "https://github.com/patriarchal-boothose896/notebooklm-py"
-  },
-  {
-    "description": "Enable multi-chain batch crypto payments, payroll, swaps, invoices, price feeds, and AI-powered transaction tools for Op",
-    "id": "extentadulthood280/spraay-payments",
-    "language": "Shell",
-    "name": "extentadulthood280/spraay-payments",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:16:36Z",
-    "url": "https://github.com/extentadulthood280/spraay-payments"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-09-16T01:16:24Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "\ud55c\uad6d \ubcc0\ub9ac\uc0ac \uc2e4\ubb34\ub97c \uc704\ud55c Claude \uc2a4\ud0ac \ubaa8\uc74c \u2014 \ubc1c\uba85\uc790 \ubbf8\ud305\ubd80\ud130 \ud55c\uad6d \ud2b9\ud5c8 \uba85\uc138\uc11c \uc791\uc131, docx \ucd9c\ub825\uae4c\uc9c0",
-    "id": "lsj4232/KR_PATENT_SKILL",
-    "language": "JavaScript",
-    "name": "lsj4232/KR_PATENT_SKILL",
-    "stars": 15,
-    "updated_at": "2026-09-16T01:16:12Z",
-    "url": "https://github.com/lsj4232/KR_PATENT_SKILL"
-  },
-  {
-    "description": "Convert Markdown or Word documents into clean, Claude-style presentations in HTML or PPTX with simple, minimal design an",
-    "id": "ibadbasit/skill_doc2ppt",
-    "language": "\u2014",
-    "name": "ibadbasit/skill_doc2ppt",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:16:07Z",
-    "url": "https://github.com/ibadbasit/skill_doc2ppt"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:15:19Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
   }
 ]
