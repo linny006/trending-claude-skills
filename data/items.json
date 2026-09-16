@@ -1,5 +1,149 @@
 [
   {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-09-16T09:42:49Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 112,
+    "updated_at": "2026-09-16T09:42:54Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 1,
+    "updated_at": "2026-09-16T09:41:57Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-16T09:41:17Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "",
+    "id": "naveedharri/benai-skills",
+    "language": "JavaScript",
+    "name": "naveedharri/benai-skills",
+    "stars": 62,
+    "updated_at": "2026-09-16T09:41:17Z",
+    "url": "https://github.com/naveedharri/benai-skills"
+  },
+  {
+    "description": "Agent Skill (html-prototype-build): generate, annotate, review & deliver native HTML prototypes for Claude Code, Cursor ",
+    "id": "Lisuiwen/ai-html-annotation",
+    "language": "JavaScript",
+    "name": "Lisuiwen/ai-html-annotation",
+    "stars": 14,
+    "updated_at": "2026-09-16T09:43:21Z",
+    "url": "https://github.com/Lisuiwen/ai-html-annotation"
+  },
+  {
+    "description": "Field-tested Figma skills for Claude Code and Codex: Plugin API gotchas, design process, DS audit, variable repair, flow",
+    "id": "schudarin/chudarin-figma-skills",
+    "language": "Shell",
+    "name": "schudarin/chudarin-figma-skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T09:39:43Z",
+    "url": "https://github.com/schudarin/chudarin-figma-skills"
+  },
+  {
+    "description": "Mechanical-check AI agent skills for contracts, invoices, tender/bidding documents and ad copy: every finding is recompu",
+    "id": "chenqg618/compliance-skills",
+    "language": "JavaScript",
+    "name": "chenqg618/compliance-skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T09:39:23Z",
+    "url": "https://github.com/chenqg618/compliance-skills"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 394,
+    "updated_at": "2026-09-16T09:38:34Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Claude Code \uc2a4\ud0ac \u2014 \uc2a4\ud06c\ub864 \uc2dc\ub124\ub9c8\ud2f1 \uc6d0\ud398\uc774\uc9c0 \uc6f9\uc0ac\uc774\ud2b8(\ud3ec\ud2b8\ud3f4\ub9ac\uc624\u00b7\uc6f9\uba85\ud568\u00b7\ucd08\ub300\uc7a5)",
+    "id": "manabout-town/cinematic-onepager-skill",
+    "language": "HTML",
+    "name": "manabout-town/cinematic-onepager-skill",
+    "stars": 0,
+    "updated_at": "2026-09-16T09:37:39Z",
+    "url": "https://github.com/manabout-town/cinematic-onepager-skill"
+  },
+  {
+    "description": "Claude Code \uc2a4\ud0ac \u2014 \uc2e4\uc81c \ud654\uba74 \ub179\ud654 \uae30\ubc18 \uc778\uc2a4\ud0c0 \ub9b4\uc2a4 \uc81c\uc791(\ub179\ud654\u00b7TTS\u00b7\ub80c\ub354\u00b7\ubbf9\uc2a4)\u00b7\uc5c5\ub85c\ub4dc",
+    "id": "manabout-town/insta-reel-skill",
+    "language": "JavaScript",
+    "name": "manabout-town/insta-reel-skill",
+    "stars": 0,
+    "updated_at": "2026-09-16T09:37:33Z",
+    "url": "https://github.com/manabout-town/insta-reel-skill"
+  },
+  {
+    "description": "Claude Code \uc2a4\ud0ac \u2014 \ub124\uc774\ubc84 \ube14\ub85c\uadf8 \ub9ac\uc11c\uce58\u00b7\uc791\uc131\u00b7Playwright \uc790\ub3d9 \ubc1c\ud589/\uc608\uc57d\ubc1c\ud589",
+    "id": "manabout-town/naver-blog-skill",
+    "language": "Python",
+    "name": "manabout-town/naver-blog-skill",
+    "stars": 0,
+    "updated_at": "2026-09-16T09:37:26Z",
+    "url": "https://github.com/manabout-town/naver-blog-skill"
+  },
+  {
+    "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+    "id": "redfox-data/redfox-community",
+    "language": "Python",
+    "name": "redfox-data/redfox-community",
+    "stars": 403,
+    "updated_at": "2026-09-16T09:37:14Z",
+    "url": "https://github.com/redfox-data/redfox-community"
+  },
+  {
+    "description": "Claude skill for premium, human-built websites. No AI defaults, no generic copy, phone first.",
+    "id": "samvanrooyen2022-sys/samanticlab-design",
+    "language": "Python",
+    "name": "samvanrooyen2022-sys/samanticlab-design",
+    "stars": 0,
+    "updated_at": "2026-09-16T09:34:41Z",
+    "url": "https://github.com/samvanrooyen2022-sys/samanticlab-design"
+  },
+  {
+    "description": "\u5c0f\u7ea2\u4e66\u300c\u514d\u8d39\u8bfe\u7a0b / \u8bc1\u4e66\u300d\u7b14\u8bb0\u751f\u4ea7 skill\uff1a\u4e24\u5217\u622a\u56fe\u62fc\u56fe\u3001\u8bc1\u4e66\u654f\u611f\u4fe1\u606f\u6253\u7801\uff08\u4e2d\u6587 OCR\uff09\u30013:4 \u7ad6\u7248\u5c01\u9762\u751f\u6210\u3002Content production for Xiaohongshu notes on free courses & c",
+    "id": "bonniegeng-max/free-course-share",
+    "language": "\u2014",
+    "name": "bonniegeng-max/free-course-share",
+    "stars": 1,
+    "updated_at": "2026-09-16T09:31:10Z",
+    "url": "https://github.com/bonniegeng-max/free-course-share"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-16T09:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
@@ -81,15 +225,6 @@
     "url": "https://github.com/a1964378/geo-mcp-servers"
   },
   {
-    "description": "Agent Skill (html-prototype-build): generate, annotate, review & deliver native HTML prototypes for Claude Code, Cursor ",
-    "id": "Lisuiwen/ai-html-annotation",
-    "language": "JavaScript",
-    "name": "Lisuiwen/ai-html-annotation",
-    "stars": 14,
-    "updated_at": "2026-09-16T09:23:08Z",
-    "url": "https://github.com/Lisuiwen/ai-html-annotation"
-  },
-  {
     "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
     "id": "triune-contemplation240/biks-claude-loader-update",
     "language": "HTML",
@@ -104,7 +239,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-16T09:22:35Z",
+    "updated_at": "2026-09-16T09:43:20Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -133,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T09:21:51Z",
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "",
-    "id": "naveedharri/benai-skills",
-    "language": "JavaScript",
-    "name": "naveedharri/benai-skills",
-    "stars": 62,
-    "updated_at": "2026-09-16T09:20:48Z",
-    "url": "https://github.com/naveedharri/benai-skills"
   },
   {
     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
@@ -187,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T09:18:03Z",
     "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
-  },
-  {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 394,
-    "updated_at": "2026-09-16T09:17:49Z",
-    "url": "https://github.com/xr843/Master-skill"
   },
   {
     "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
@@ -250,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T09:15:35Z",
     "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-16T09:15:33Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Train video world models with diffusion-forcing using this minimalist framework.",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T09:13:21Z",
     "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:12:53Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Skills for design engineers.",
-    "id": "jaeel29/skills",
-    "language": "Markdown",
-    "name": "jaeel29/skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:12:52Z",
-    "url": "https://github.com/jaeel29/skills"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-09-16T09:12:48Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 3,
-    "updated_at": "2026-09-16T09:12:44Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:12:41Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:12:38Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-09-16T09:12:38Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:12:24Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-09-16T09:12:19Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-16T09:12:12Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
-    "id": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "language": "Shell",
-    "name": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:11:27Z",
-    "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
-  },
-  {
-    "description": "Explore 72 AI-powered skills across 6 departments for AlterLab FC training, learning, and workflow support",
-    "id": "prone-dc302/AlterLab-FC-Skills",
-    "language": "JavaScript",
-    "name": "prone-dc302/AlterLab-FC-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:11:24Z",
-    "url": "https://github.com/prone-dc302/AlterLab-FC-Skills"
   }
 ]
