@@ -1,12 +1,93 @@
 [
   {
+    "description": "Slash commands for Claude Code \u2014 manage GitHub issues and pull requests, one focused workflow at a time.",
+    "id": "claude-contrib/claude-skills",
+    "language": "jq",
+    "name": "claude-contrib/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-16T00:44:25Z",
+    "url": "https://github.com/claude-contrib/claude-skills"
+  },
+  {
+    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
+    "id": "M1LL4r3S-Droid/notion-sync-nexus",
+    "language": "HTML",
+    "name": "M1LL4r3S-Droid/notion-sync-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-16T00:42:22Z",
+    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Kyo-so (Kyoso / \u5354\u594f) is an MCP-native, ACP-powered multi-agent review gate for AI coding workflows.",
+    "id": "hokupod/kyoso",
+    "language": "TypeScript",
+    "name": "hokupod/kyoso",
+    "stars": 3,
+    "updated_at": "2026-09-16T00:43:12Z",
+    "url": "https://github.com/hokupod/kyoso"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-09-16T00:36:19Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-16T00:44:43Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69079,
+    "updated_at": "2026-09-16T00:34:19Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-16T00:34:05Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
     "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
     "id": "SteveKinzey/claude-code-tools-installer",
     "language": "JavaScript",
     "name": "SteveKinzey/claude-code-tools-installer",
     "stars": 0,
-    "updated_at": "2026-09-16T00:30:07Z",
+    "updated_at": "2026-09-16T00:32:13Z",
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-09-16T00:31:23Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-16T00:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
@@ -54,15 +135,6 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69077,
-    "updated_at": "2026-09-16T00:18:37Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Explain how anything works like I'm 5 \u2014 built around cause and effect.",
     "id": "prgmr99/eli5-flow",
     "language": "TypeScript",
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T00:18:32Z",
     "url": "https://github.com/prgmr99/eli5-flow"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-16T00:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
@@ -360,15 +423,6 @@
     "url": "https://github.com/xr843/Master-skill"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-16T00:25:45Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
     "id": "lenamonj/jeffy-loop",
     "language": "Shell",
@@ -394,59 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-15T23:24:45Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:21:31Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-09-15T23:21:19Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
-  },
-  {
-    "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
-    "id": "Joshuadoroja33/Ronnier-skill",
-    "language": "PowerShell",
-    "name": "Joshuadoroja33/Ronnier-skill",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:20:51Z",
-    "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Build production-grade mobile apps faster with simulator-verified skills tested against top-grossing apps.",
-    "id": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "language": "\u2014",
-    "name": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:19:35Z",
-    "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Ship verified marketing copy with adversarial checks \u2014 every factual claim traced to fetched sources before it goes live",
-    "id": "mucinous-riposte867/evidence-based-copywriting",
-    "language": "Python",
-    "name": "mucinous-riposte867/evidence-based-copywriting",
-    "stars": 1,
-    "updated_at": "2026-09-15T23:19:31Z",
-    "url": "https://github.com/mucinous-riposte867/evidence-based-copywriting"
-  },
-  {
-    "description": "Generate publish-ready TikTok and Douyin vertical videos from a single content brief, powered by AI agents.",
-    "id": "Trudiemisanthropic314/tiktok-video-skill",
-    "language": "Python",
-    "name": "Trudiemisanthropic314/tiktok-video-skill",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:18:50Z",
-    "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
   }
 ]
