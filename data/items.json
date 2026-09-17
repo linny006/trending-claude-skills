@@ -1,5 +1,113 @@
 [
   {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-17T10:30:00Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-09-17T10:29:27Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "A `Claude` native workflow.",
+    "id": "jay94ks/claude-native-workflow",
+    "language": "TypeScript",
+    "name": "jay94ks/claude-native-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-17T10:28:20Z",
+    "url": "https://github.com/jay94ks/claude-native-workflow"
+  },
+  {
+    "description": "Tested guardrail hooks and repo-hygiene skills for Claude Code. Every skill ships with an eval transcript.",
+    "id": "Skillkeel/skillkeel-starter",
+    "language": "Python",
+    "name": "Skillkeel/skillkeel-starter",
+    "stars": 0,
+    "updated_at": "2026-09-17T10:28:17Z",
+    "url": "https://github.com/Skillkeel/skillkeel-starter"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-17T10:25:12Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-09-17T10:21:30Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
+    "id": "semlith/semlith",
+    "language": "Rust",
+    "name": "semlith/semlith",
+    "stars": 1,
+    "updated_at": "2026-09-17T10:19:47Z",
+    "url": "https://github.com/semlith/semlith"
+  },
+  {
+    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
+    "id": "LinklyAI/best-skills",
+    "language": "\u2014",
+    "name": "LinklyAI/best-skills",
+    "stars": 553,
+    "updated_at": "2026-09-17T10:19:21Z",
+    "url": "https://github.com/LinklyAI/best-skills"
+  },
+  {
+    "description": "The data pipeline behind LinklyAI/best-skills \u2014 a daily, cross-ecosystem ranking of AI agent skills",
+    "id": "LinklyAI/best-skills-runner",
+    "language": "TypeScript",
+    "name": "LinklyAI/best-skills-runner",
+    "stars": 1,
+    "updated_at": "2026-09-17T10:19:14Z",
+    "url": "https://github.com/LinklyAI/best-skills-runner"
+  },
+  {
+    "description": "Agent skill for HTML presentations: pick from three real design directions, then one single-file deck verified on projec",
+    "id": "MJorgin/preflight-decks",
+    "language": "Python",
+    "name": "MJorgin/preflight-decks",
+    "stars": 1,
+    "updated_at": "2026-09-17T10:15:30Z",
+    "url": "https://github.com/MJorgin/preflight-decks"
+  },
+  {
+    "description": "Claude Code skill: editorial-style single-page HTML research report generator (company research, due diligence, industry",
+    "id": "Kevin204816/research-html-report",
+    "language": "HTML",
+    "name": "Kevin204816/research-html-report",
+    "stars": 0,
+    "updated_at": "2026-09-17T10:15:16Z",
+    "url": "https://github.com/Kevin204816/research-html-report"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-17T10:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "",
     "id": "WikkyGao/requirement-analysis",
     "language": "Python",
@@ -34,15 +142,6 @@
     "stars": 13,
     "updated_at": "2026-09-17T10:11:20Z",
     "url": "https://github.com/hraness/wordcell"
-  },
-  {
-    "description": "Tested guardrail hooks and repo-hygiene skills for Claude Code. Every skill ships with an eval transcript.",
-    "id": "Skillkeel/skillkeel-starter",
-    "language": "Python",
-    "name": "Skillkeel/skillkeel-starter",
-    "stars": 0,
-    "updated_at": "2026-09-17T10:11:17Z",
-    "url": "https://github.com/Skillkeel/skillkeel-starter"
   },
   {
     "description": "Free Claude skill for writing honest, conversion-focused local service business pages.",
@@ -122,7 +221,7 @@
     "language": "Java",
     "name": "ice-lfernandes/claude-spring-architect",
     "stars": 3,
-    "updated_at": "2026-09-17T10:03:31Z",
+    "updated_at": "2026-09-17T10:30:06Z",
     "url": "https://github.com/ice-lfernandes/claude-spring-architect"
   },
   {
@@ -140,7 +239,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-17T10:03:02Z",
+    "updated_at": "2026-09-17T10:20:09Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -153,24 +252,6 @@
     "url": "https://github.com/Little-Grebe-Inc/drillr-skill"
   },
   {
-    "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
-    "id": "semlith/semlith",
-    "language": "Rust",
-    "name": "semlith/semlith",
-    "stars": 1,
-    "updated_at": "2026-09-17T10:08:49Z",
-    "url": "https://github.com/semlith/semlith"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-17T10:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -178,42 +259,6 @@
     "stars": 35,
     "updated_at": "2026-09-17T09:53:50Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Claude Code skill: editorial-style single-page HTML research report generator (company research, due diligence, industry",
-    "id": "Kevin204816/research-html-report",
-    "language": "HTML",
-    "name": "Kevin204816/research-html-report",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:53:10Z",
-    "url": "https://github.com/Kevin204816/research-html-report"
-  },
-  {
-    "description": "Agent skill for HTML presentations: pick from three real design directions, then one single-file deck verified on projec",
-    "id": "MJorgin/preflight-decks",
-    "language": "Python",
-    "name": "MJorgin/preflight-decks",
-    "stars": 1,
-    "updated_at": "2026-09-17T09:51:58Z",
-    "url": "https://github.com/MJorgin/preflight-decks"
-  },
-  {
-    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
-    "id": "LinklyAI/best-skills",
-    "language": "\u2014",
-    "name": "LinklyAI/best-skills",
-    "stars": 553,
-    "updated_at": "2026-09-17T09:50:19Z",
-    "url": "https://github.com/LinklyAI/best-skills"
-  },
-  {
-    "description": "The data pipeline behind LinklyAI/best-skills \u2014 a daily, cross-ecosystem ranking of AI agent skills",
-    "id": "LinklyAI/best-skills-runner",
-    "language": "TypeScript",
-    "name": "LinklyAI/best-skills-runner",
-    "stars": 1,
-    "updated_at": "2026-09-17T09:49:51Z",
-    "url": "https://github.com/LinklyAI/best-skills-runner"
   },
   {
     "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
@@ -234,15 +279,6 @@
     "url": "https://github.com/formify-e-sign/formify-skills"
   },
   {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:48:49Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
     "id": "nanocoai/nanoclaw",
     "language": "TypeScript",
@@ -256,7 +292,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69134,
+    "stars": 69135,
     "updated_at": "2026-09-17T09:42:51Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-17T09:38:20Z",
+    "updated_at": "2026-09-17T10:27:56Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -349,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T09:27:15Z",
     "url": "https://github.com/maxxthemate-png/why-isnt-it-selling"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-17T09:26:53Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-17T10:08:57Z",
+    "updated_at": "2026-09-17T10:27:39Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Viral video remake agent skill for Claude Code, Codex & OpenClaw: break a short video that worked into its hook, beats, ",
-    "id": "beatra-ai/viral-video-remake-skill",
-    "language": "Python",
-    "name": "beatra-ai/viral-video-remake-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:15:50Z",
-    "url": "https://github.com/beatra-ai/viral-video-remake-skill"
-  },
-  {
-    "description": "AI video generator agent skill for Claude Code, Codex & OpenClaw: generate, animate, edit, and extend short videos from ",
-    "id": "beatra-ai/ai-video-generator-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-video-generator-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:15:18Z",
-    "url": "https://github.com/beatra-ai/ai-video-generator-skill"
-  },
-  {
-    "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
-    "id": "vaibhavarora14/job-application-agent",
-    "language": "JavaScript",
-    "name": "vaibhavarora14/job-application-agent",
-    "stars": 150,
-    "updated_at": "2026-09-17T09:18:51Z",
-    "url": "https://github.com/vaibhavarora14/job-application-agent"
   }
 ]
