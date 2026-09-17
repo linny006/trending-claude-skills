@@ -1,12 +1,111 @@
 [
   {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-09-17T15:59:53Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "A complete working setup for Claude Code: 50 skills, 7 plugins, and one master prompt that makes them work together.",
+    "id": "hyperdargo/ClaudeSkillAndPluginsWithMasterPrompt",
+    "language": "JavaScript",
+    "name": "hyperdargo/ClaudeSkillAndPluginsWithMasterPrompt",
+    "stars": 0,
+    "updated_at": "2026-09-17T15:55:33Z",
+    "url": "https://github.com/hyperdargo/ClaudeSkillAndPluginsWithMasterPrompt"
+  },
+  {
+    "description": "Multi-model orchestration plugin for Claude Code: an Opus supervisor delegates coding tasks to Haiku/Sonnet subagents, c",
+    "id": "mefayed/boss-skill",
+    "language": "Shell",
+    "name": "mefayed/boss-skill",
+    "stars": 4,
+    "updated_at": "2026-09-17T15:55:40Z",
+    "url": "https://github.com/mefayed/boss-skill"
+  },
+  {
+    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
+    "id": "ramboz/jig",
+    "language": "Python",
+    "name": "ramboz/jig",
+    "stars": 6,
+    "updated_at": "2026-09-17T15:52:55Z",
+    "url": "https://github.com/ramboz/jig"
+  },
+  {
     "description": "\u8de8\u4f1a\u8bdd\u7684 AI \u6559\u5b66 skill\uff1a\u5148\u6d4b\u771f\u5b9e\u6c34\u5e73\uff0c\u753b\u77e5\u8bc6\u4f9d\u8d56\u56fe\uff0c\u9010\u8282\u70b9\u6559\u5b66\uff1b\u603b\u7ed3\u9a71\u52a8\u7684\u9ad8\u6548\u590d\u4e60\u3002\u9075\u5faa Agent Skills \u6807\u51c6\uff0c\u96f6\u5916\u90e8\u4f9d\u8d56\uff08\u7eaf Markdown + HTML\uff09",
     "id": "Arkkaz/agent-skill-hub",
     "language": "\u2014",
     "name": "Arkkaz/agent-skill-hub",
     "stars": 0,
-    "updated_at": "2026-09-17T15:42:11Z",
+    "updated_at": "2026-09-17T15:50:46Z",
     "url": "https://github.com/Arkkaz/agent-skill-hub"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-17T15:50:00Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Agent Skills for EUDI Wallet and European Business Wallet integrations: credential issuance (OpenID4VCI), verification (",
+    "id": "L3-iGrant/skills",
+    "language": "TypeScript",
+    "name": "L3-iGrant/skills",
+    "stars": 1,
+    "updated_at": "2026-09-17T15:48:58Z",
+    "url": "https://github.com/L3-iGrant/skills"
+  },
+  {
+    "description": "\u5e7b\u94f6\u91cf\u5316A\u80a1\u963f\u6cd5\u72d7AlphaHYQi\uff0c100%\u7531ai\u81ea\u4e3b\u9a71\u52a8\u7684\u5b9e\u76d8\u4ea4\u6613\u673a\u5668\u3002\u63a5\u5165\u81ea\u4ea7\u9f99\u867eiClaw\uff0c\u624b\u673a\u7aef\u4e00\u53e5\u8bdd\u63a7\u5236\u56db\u5927\u6a21\u578b\u540c\u65f6\u5e72\u6d3b\u3002\u83b7\u53d6\u65b9\u6cd5\uff1a\u524d\u5f80https://hyqibot.com/card-shop.html \u6350\u8d60\u76f8\u5e94\u671f\u9650\u7684\u670d\u52a1\u5361\u5373",
+    "id": "hyqibot/A-share-Ai",
+    "language": "\u2014",
+    "name": "hyqibot/A-share-Ai",
+    "stars": 127,
+    "updated_at": "2026-09-17T15:47:56Z",
+    "url": "https://github.com/hyqibot/A-share-Ai"
+  },
+  {
+    "description": "A specialized list of agentic skills that are designed to be mostly harness agnostic. Compatible with Claude Code, Codex",
+    "id": "dsatpm/factory-skills",
+    "language": "Python",
+    "name": "dsatpm/factory-skills",
+    "stars": 1,
+    "updated_at": "2026-09-17T15:47:11Z",
+    "url": "https://github.com/dsatpm/factory-skills"
+  },
+  {
+    "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
+    "id": "hraness/soulscrape",
+    "language": "TypeScript",
+    "name": "hraness/soulscrape",
+    "stars": 0,
+    "updated_at": "2026-09-17T15:45:41Z",
+    "url": "https://github.com/hraness/soulscrape"
+  },
+  {
+    "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandb",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 131,
+    "updated_at": "2026-09-17T15:45:29Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-17T15:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis.",
@@ -16,24 +115,6 @@
     "stars": 3,
     "updated_at": "2026-09-17T15:42:29Z",
     "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "Agent Skills for EUDI Wallet and European Business Wallet integrations: credential issuance (OpenID4VCI), verification (",
-    "id": "L3-iGrant/skills",
-    "language": "TypeScript",
-    "name": "L3-iGrant/skills",
-    "stars": 1,
-    "updated_at": "2026-09-17T15:40:59Z",
-    "url": "https://github.com/L3-iGrant/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-17T15:40:30Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -59,17 +140,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-17T15:38:52Z",
+    "updated_at": "2026-09-17T15:48:11Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
-    "id": "hraness/soulscrape",
-    "language": "TypeScript",
-    "name": "hraness/soulscrape",
-    "stars": 0,
-    "updated_at": "2026-09-17T15:44:47Z",
-    "url": "https://github.com/hraness/soulscrape"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -77,7 +149,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-17T15:35:22Z",
+    "updated_at": "2026-09-17T15:52:52Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -113,7 +185,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-17T15:28:32Z",
+    "updated_at": "2026-09-17T15:55:05Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -288,21 +360,12 @@
     "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
   },
   {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 145,
-    "updated_at": "2026-09-17T15:39:38Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
     "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
     "id": "SteveKinzey/claude-code-tools-installer",
     "language": "JavaScript",
     "name": "SteveKinzey/claude-code-tools-installer",
     "stars": 0,
-    "updated_at": "2026-09-17T15:08:02Z",
+    "updated_at": "2026-09-17T15:45:31Z",
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-17T15:02:16Z",
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T15:01:17Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-09-17T15:01:15Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 1,
-    "updated_at": "2026-09-17T15:01:01Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-09-17T15:00:53Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-09-17T15:00:52Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T15:00:51Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-09-17T15:00:48Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
   }
 ]
