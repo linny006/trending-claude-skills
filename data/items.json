@@ -1,5 +1,104 @@
 [
   {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:29:47Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Gamify your career progression with SkillForge, an RPG system that turns your professional journey into an epic adven",
+    "id": "kriid08/SkillForge",
+    "language": "JavaScript",
+    "name": "kriid08/SkillForge",
+    "stars": 1,
+    "updated_at": "2026-09-17T12:29:13Z",
+    "url": "https://github.com/kriid08/SkillForge"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-17T12:24:53Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:24:16Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 810,
+    "updated_at": "2026-09-17T12:23:15Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-09-17T12:23:04Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "Put a PDF in the post - a Claude Code and Codex skill for physical letters, printed in the UK and delivered by Royal Mai",
+    "id": "dbhq-uk/pennyblack-skill",
+    "language": "Python",
+    "name": "dbhq-uk/pennyblack-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:22:46Z",
+    "url": "https://github.com/dbhq-uk/pennyblack-skill"
+  },
+  {
+    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
+    "id": "elsoul/erpc-sdk",
+    "language": "JavaScript",
+    "name": "elsoul/erpc-sdk",
+    "stars": 2,
+    "updated_at": "2026-09-17T12:21:41Z",
+    "url": "https://github.com/elsoul/erpc-sdk"
+  },
+  {
+    "description": "Jira Cloud skill for Claude Code and Codex - create issues one at a time or in bulk, check the project key, issue type a",
+    "id": "dbhq-uk/jira-skill",
+    "language": "Shell",
+    "name": "dbhq-uk/jira-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:18:12Z",
+    "url": "https://github.com/dbhq-uk/jira-skill"
+  },
+  {
+    "description": "Send messages to Telegram, Slack, or Discord from Python.",
+    "id": "seokhoonj/pushpush",
+    "language": "Python",
+    "name": "seokhoonj/pushpush",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:17:31Z",
+    "url": "https://github.com/seokhoonj/pushpush"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-17T12:15:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -22,18 +121,9 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 94091,
+    "stars": 94093,
     "updated_at": "2026-09-17T12:12:52Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 809,
-    "updated_at": "2026-09-17T12:12:17Z",
-    "url": "https://github.com/suboss87/FDEOps"
   },
   {
     "description": "You say the job; the playbook runs. 143 agent skills + 55 commands for Cursor, Claude Code, Codex, Gemini. React / Next.",
@@ -43,15 +133,6 @@
     "stars": 9,
     "updated_at": "2026-09-17T12:11:25Z",
     "url": "https://github.com/kensaurus/cursor-kenji"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-09-17T12:11:22Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
     "description": "Six skills tell coding agents how to work. Two guards enforce the parts that should not depend on judgment.",
@@ -77,7 +158,7 @@
     "language": "Shell",
     "name": "Tykok/learning-with-claude",
     "stars": 1,
-    "updated_at": "2026-09-17T12:13:43Z",
+    "updated_at": "2026-09-17T12:17:01Z",
     "url": "https://github.com/Tykok/learning-with-claude"
   },
   {
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T12:04:21Z",
     "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-17T12:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
@@ -185,17 +257,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-17T12:11:03Z",
+    "updated_at": "2026-09-17T12:25:44Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Jira Cloud skill for Claude Code and Codex - create issues one at a time or in bulk, check the project key, issue type a",
-    "id": "dbhq-uk/jira-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/jira-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:54:40Z",
-    "url": "https://github.com/dbhq-uk/jira-skill"
   },
   {
     "description": "Spec Driven \u2014 orchestrator-first Agent Skills for spec-driven development. The orchestrator skill turns a PRD or idea in",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T11:35:19Z",
     "url": "https://github.com/fightingforsidewalk/.github"
-  },
-  {
-    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
-    "id": "eai-org/agent-toolkit",
-    "language": "Shell",
-    "name": "eai-org/agent-toolkit",
-    "stars": 46,
-    "updated_at": "2026-09-17T11:34:36Z",
-    "url": "https://github.com/eai-org/agent-toolkit"
-  },
-  {
-    "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
-    "id": "hraness/soulscrape",
-    "language": "TypeScript",
-    "name": "hraness/soulscrape",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:33:47Z",
-    "url": "https://github.com/hraness/soulscrape"
-  },
-  {
-    "description": "Claude Code \uc2a4\ud0ac \u2014 \ub124\uc774\ubc84 \ube14\ub85c\uadf8 \ub9ac\uc11c\uce58\u00b7\uc791\uc131\u00b7Playwright \uc790\ub3d9 \ubc1c\ud589/\uc608\uc57d\ubc1c\ud589",
-    "id": "manabout-town/naver-blog-skill",
-    "language": "Python",
-    "name": "manabout-town/naver-blog-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:32:00Z",
-    "url": "https://github.com/manabout-town/naver-blog-skill"
-  },
-  {
-    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
-    "id": "JBSag/pm-artisan",
-    "language": "HTML",
-    "name": "JBSag/pm-artisan",
-    "stars": 1,
-    "updated_at": "2026-09-17T11:29:32Z",
-    "url": "https://github.com/JBSag/pm-artisan"
-  },
-  {
-    "description": "Interactive drama script generator \u2014 turn novels & interactive fiction into short-video feed style clickable branch scri",
-    "id": "chenchang-7/juqing-tool",
-    "language": "HTML",
-    "name": "chenchang-7/juqing-tool",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:28:55Z",
-    "url": "https://github.com/chenchang-7/juqing-tool"
-  },
-  {
-    "description": "Put a PDF in the post - a Claude Code and Codex skill for physical letters, printed in the UK and delivered by Royal Mai",
-    "id": "dbhq-uk/pennyblack-skill",
-    "language": "Python",
-    "name": "dbhq-uk/pennyblack-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:28:37Z",
-    "url": "https://github.com/dbhq-uk/pennyblack-skill"
-  },
-  {
-    "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55 \u2192 \u4eba\u683c\u753b\u50cf\u4e0e\u5173\u7cfb\u6d1e\u5bdf\uff1a\u672c\u5730\u89e3\u5bc6\u3001\u884c\u4e3a\u7edf\u8ba1\u3001\u8bed\u8a00\u6a21\u5f0f\u3001\u62a2\u529f\u68c0\u6d4b\u3001\u5355\u6587\u4ef6 HTML \u62a5\u544a | Local-first personality & relationship insights from decrypted WeCh",
-    "id": "vibeinging/wechat-persona-insight",
-    "language": "Python",
-    "name": "vibeinging/wechat-persona-insight",
-    "stars": 1,
-    "updated_at": "2026-09-17T11:26:42Z",
-    "url": "https://github.com/vibeinging/wechat-persona-insight"
   }
 ]
