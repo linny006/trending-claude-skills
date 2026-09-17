@@ -1,12 +1,30 @@
 [
   {
-    "description": "LLM skill files for MIST and other upcoming tools",
-    "id": "mist-medical/skills",
+    "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
+    "id": "Junayedahmedd/gemini_cli_skill",
     "language": "\u2014",
-    "name": "mist-medical/skills",
-    "stars": 0,
-    "updated_at": "2026-09-17T04:10:40Z",
-    "url": "https://github.com/mist-medical/skills"
+    "name": "Junayedahmedd/gemini_cli_skill",
+    "stars": 3,
+    "updated_at": "2026-09-17T04:27:51Z",
+    "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "HTML",
+    "name": "vanducng/skills",
+    "stars": 8,
+    "updated_at": "2026-09-17T04:26:23Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 65,
+    "updated_at": "2026-09-17T04:25:05Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
   },
   {
     "description": "Get a local business found in its own city. Tears down the three businesses actually in the map pack field by field, sco",
@@ -14,7 +32,7 @@
     "language": "HTML",
     "name": "navinramharak-rgb/local-seo",
     "stars": 1,
-    "updated_at": "2026-09-17T04:08:35Z",
+    "updated_at": "2026-09-17T04:24:00Z",
     "url": "https://github.com/navinramharak-rgb/local-seo"
   },
   {
@@ -23,8 +41,80 @@
     "language": "HTML",
     "name": "navinramharak-rgb/website-audit",
     "stars": 1,
-    "updated_at": "2026-09-17T04:08:34Z",
+    "updated_at": "2026-09-17T04:23:59Z",
     "url": "https://github.com/navinramharak-rgb/website-audit"
+  },
+  {
+    "description": "16 agent skills for Claude Code and Codex \u2014 code review, test writing, docs, planning, codebase onboarding, repo evaluat",
+    "id": "wilbeibi/wilbeibi-skills",
+    "language": "Python",
+    "name": "wilbeibi/wilbeibi-skills",
+    "stars": 2,
+    "updated_at": "2026-09-17T04:20:57Z",
+    "url": "https://github.com/wilbeibi/wilbeibi-skills"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 62,
+    "updated_at": "2026-09-17T04:20:52Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Photo to anime agent skill for Claude Code, Codex & OpenClaw: restyle a photo as anime, manga, cartoon, watercolor, clay",
+    "id": "beatra-ai/photo-to-anime-skill",
+    "language": "Python",
+    "name": "beatra-ai/photo-to-anime-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:19:36Z",
+    "url": "https://github.com/beatra-ai/photo-to-anime-skill"
+  },
+  {
+    "description": "Concept-first HTML presentation director: hard concept gate, fixed-stage single-file chassis, scored critique loop, dual",
+    "id": "MJorgin/preflight-decks",
+    "language": "Python",
+    "name": "MJorgin/preflight-decks",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:18:35Z",
+    "url": "https://github.com/MJorgin/preflight-decks"
+  },
+  {
+    "description": "Agent-native shopping for extreme value: verifiable same-product price evidence, checkout, orders, delivery, and after-s",
+    "id": "filtalgo/Filtmall-Shopping-Skill",
+    "language": "JavaScript",
+    "name": "filtalgo/Filtmall-Shopping-Skill",
+    "stars": 344,
+    "updated_at": "2026-09-17T04:16:24Z",
+    "url": "https://github.com/filtalgo/Filtmall-Shopping-Skill"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-17T04:25:33Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 42,
+    "updated_at": "2026-09-17T04:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "LLM skill files for MIST and other upcoming tools",
+    "id": "mist-medical/skills",
+    "language": "\u2014",
+    "name": "mist-medical/skills",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:10:40Z",
+    "url": "https://github.com/mist-medical/skills"
   },
   {
     "description": "Organize *many* obsidian knowledge bases at once with the help of claude-code. Ingest new sources, prioritize tasks, and",
@@ -135,15 +225,6 @@
     "url": "https://github.com/YPares/rigup.nix"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 42,
-    "updated_at": "2026-09-17T04:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -166,7 +247,7 @@
     "id": "ficilcom/otame4-work-skills",
     "language": "Python",
     "name": "ficilcom/otame4-work-skills",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-17T03:57:35Z",
     "url": "https://github.com/ficilcom/otame4-work-skills"
   },
@@ -207,24 +288,6 @@
     "url": "https://github.com/chenchang-7/juqing-tool"
   },
   {
-    "description": "Concept-first HTML presentation director: hard concept gate, fixed-stage single-file chassis, scored critique loop, dual",
-    "id": "MJorgin/preflight-decks",
-    "language": "Python",
-    "name": "MJorgin/preflight-decks",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:50:39Z",
-    "url": "https://github.com/MJorgin/preflight-decks"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-17T04:09:32Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Multilingual voiceover agent skill for Claude Code, Codex & OpenClaw: create voice-over audio for each language from you",
     "id": "beatra-ai/multilingual-voiceover-skill",
     "language": "Python",
@@ -241,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-09-17T03:47:07Z",
     "url": "https://github.com/easyinplay/harnessed"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "HTML",
-    "name": "vanducng/skills",
-    "stars": 8,
-    "updated_at": "2026-09-17T03:48:14Z",
-    "url": "https://github.com/vanducng/skills"
   },
   {
     "description": "You say the job; the playbook runs. 143 agent skills + 55 commands for Cursor, Claude Code, Codex, Gemini. React / Next.",
@@ -277,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-09-17T03:38:29Z",
     "url": "https://github.com/ooooooooooooooooooop/personal-ai"
-  },
-  {
-    "description": "Agent-native shopping for extreme value: verifiable same-product price evidence, checkout, orders, delivery, and after-s",
-    "id": "filtalgo/Filtmall-Shopping-Skill",
-    "language": "JavaScript",
-    "name": "filtalgo/Filtmall-Shopping-Skill",
-    "stars": 342,
-    "updated_at": "2026-09-17T03:37:41Z",
-    "url": "https://github.com/filtalgo/Filtmall-Shopping-Skill"
   },
   {
     "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:11:43Z",
     "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:11:06Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:10:41Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:10:22Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:09:02Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:08:21Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
   }
 ]
