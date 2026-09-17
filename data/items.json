@@ -1,5 +1,113 @@
 [
   {
+    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "HTML",
+    "name": "vanducng/skills",
+    "stars": 8,
+    "updated_at": "2026-09-17T03:44:35Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "You say the job; the playbook runs. 143 agent skills + 55 commands for Cursor, Claude Code, Codex, Gemini. React / Next.",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 9,
+    "updated_at": "2026-09-17T03:42:03Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-09-17T03:42:03Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-17T03:40:09Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Organize *many* obsidian knowledge bases at once with the help of claude-code. Ingest new sources, prioritize tasks, and",
+    "id": "nathanaday/claude-atlas",
+    "language": "Go",
+    "name": "nathanaday/claude-atlas",
+    "stars": 0,
+    "updated_at": "2026-09-17T03:39:44Z",
+    "url": "https://github.com/nathanaday/claude-atlas"
+  },
+  {
+    "description": "3D model optimization toolkit for AI agents + CLI: mesh simplification, part splitting, texturing, format conversion, LO",
+    "id": "lxie-leo/meshify",
+    "language": "TypeScript",
+    "name": "lxie-leo/meshify",
+    "stars": 3,
+    "updated_at": "2026-09-17T03:40:48Z",
+    "url": "https://github.com/lxie-leo/meshify"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/personal-ai",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/personal-ai",
+    "stars": 3,
+    "updated_at": "2026-09-17T03:38:29Z",
+    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+  },
+  {
+    "description": "Agent-native shopping for extreme value: verifiable same-product price evidence, checkout, orders, delivery, and after-s",
+    "id": "filtalgo/Filtmall-Shopping-Skill",
+    "language": "JavaScript",
+    "name": "filtalgo/Filtmall-Shopping-Skill",
+    "stars": 339,
+    "updated_at": "2026-09-17T03:37:41Z",
+    "url": "https://github.com/filtalgo/Filtmall-Shopping-Skill"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 441,
+    "updated_at": "2026-09-17T03:36:53Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
+    "id": "hraness/soulscrape",
+    "language": "TypeScript",
+    "name": "hraness/soulscrape",
+    "stars": 0,
+    "updated_at": "2026-09-17T03:34:56Z",
+    "url": "https://github.com/hraness/soulscrape"
+  },
+  {
+    "description": "AI voiceover generator agent skill for Claude Code, Codex & OpenClaw: pick or reuse a voice, turn scripts into narration",
+    "id": "beatra-ai/ai-voiceover-generator-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-voiceover-generator-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T03:32:19Z",
+    "url": "https://github.com/beatra-ai/ai-voiceover-generator-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 42,
+    "updated_at": "2026-09-17T03:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
     "id": "simota/agent-skills",
     "language": "Python",
@@ -16,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T03:29:05Z",
     "url": "https://github.com/semlith/semlith"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "HTML",
-    "name": "vanducng/skills",
-    "stars": 8,
-    "updated_at": "2026-09-17T03:27:29Z",
-    "url": "https://github.com/vanducng/skills"
-  },
-  {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-09-17T03:26:20Z",
-    "url": "https://github.com/easyinplay/harnessed"
   },
   {
     "description": "Claude Code skills for SEO, content localization, and digital PR - built for TrueProfit's ecommerce workflow",
@@ -81,6 +171,15 @@
     "url": "https://github.com/aliasunder/agent-plugins"
   },
   {
+    "description": "Open-source AI fitness coaching skill for Claude and Codex: strength training, cardio, fat loss, nutrition and meal prep",
+    "id": "MuscleOtter/rowan-fitness-skill",
+    "language": "Python",
+    "name": "MuscleOtter/rowan-fitness-skill",
+    "stars": 2,
+    "updated_at": "2026-09-17T03:17:22Z",
+    "url": "https://github.com/MuscleOtter/rowan-fitness-skill"
+  },
+  {
     "description": "AI podcast voiceover agent skill for Claude Code, Codex & OpenClaw: turn an article, notes, or a finished script into a ",
     "id": "beatra-ai/ai-podcast-voiceover-skill",
     "language": "Python",
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:16:35Z",
     "url": "https://github.com/beatra-ai/ai-podcast-voiceover-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 42,
-    "updated_at": "2026-09-17T03:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A collection of Claude Code skills, with QA skills that end in a mandatory independent-subagent review pass.",
@@ -257,7 +347,7 @@
     "language": "Python",
     "name": "by-carlos/daikenja",
     "stars": 0,
-    "updated_at": "2026-09-17T03:02:58Z",
+    "updated_at": "2026-09-17T03:30:18Z",
     "url": "https://github.com/by-carlos/daikenja"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:00:32Z",
     "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-09-17T03:00:23Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:00:11Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-09-17T03:00:02Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:00:00Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 765,
-    "updated_at": "2026-09-17T02:59:59Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-09-17T02:59:22Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-17T02:59:02Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-09-17T02:58:39Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-09-17T02:58:30Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-09-17T02:58:29Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
   }
 ]
