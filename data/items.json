@@ -1,5 +1,122 @@
 [
   {
+    "description": "AI poster maker agent skill for Claude Code, Codex & OpenClaw: turn an event brief, a product photo, or brand references",
+    "id": "beatra-ai/ai-poster-maker-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-poster-maker-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T02:13:37Z",
+    "url": "https://github.com/beatra-ai/ai-poster-maker-skill"
+  },
+  {
+    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
+    "id": "Machai-Kydoimos/dependabot-audit",
+    "language": "Python",
+    "name": "Machai-Kydoimos/dependabot-audit",
+    "stars": 0,
+    "updated_at": "2026-09-17T02:11:36Z",
+    "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
+  },
+  {
+    "description": "Talking avatar video agent skill for Claude Code, Codex & OpenClaw: turn one portrait and a script or voice track into a",
+    "id": "beatra-ai/talking-avatar-video-skill",
+    "language": "Python",
+    "name": "beatra-ai/talking-avatar-video-skill",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:10:14Z",
+    "url": "https://github.com/beatra-ai/talking-avatar-video-skill"
+  },
+  {
+    "description": "Lyrics to song agent skill for Claude Code, Codex & OpenClaw: turn full lyrics, a rough draft, or a hook into a structur",
+    "id": "beatra-ai/lyrics-to-song-skill",
+    "language": "Python",
+    "name": "beatra-ai/lyrics-to-song-skill",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:09:47Z",
+    "url": "https://github.com/beatra-ai/lyrics-to-song-skill"
+  },
+  {
+    "description": "AI music generator agent skill for Claude Code, Codex & OpenClaw: turn a theme, lyrics, scene, or reference audio into s",
+    "id": "beatra-ai/ai-music-generator-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-music-generator-skill",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:09:23Z",
+    "url": "https://github.com/beatra-ai/ai-music-generator-skill"
+  },
+  {
+    "description": "AI product photography agent skill for Claude Code, Codex & OpenClaw: turn a real product photo into studio-quality ecom",
+    "id": "beatra-ai/ai-product-photography-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-product-photography-skill",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:08:58Z",
+    "url": "https://github.com/beatra-ai/ai-product-photography-skill"
+  },
+  {
+    "description": "AI media generator agent skill for Claude Code, Codex & OpenClaw: create AI images, video, music, and voice-over, and lo",
+    "id": "beatra-ai/ai-media-generator-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-media-generator-skill",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:08:35Z",
+    "url": "https://github.com/beatra-ai/ai-media-generator-skill"
+  },
+  {
+    "description": "AI logo maker agent skill for Claude Code, Codex & OpenClaw: turn a brand name, industry, or reference image into logo c",
+    "id": "beatra-ai/ai-logo-maker-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-logo-maker-skill",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:08:03Z",
+    "url": "https://github.com/beatra-ai/ai-logo-maker-skill"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-09-17T02:06:03Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 427,
+    "updated_at": "2026-09-17T02:05:32Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/personal-ai",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/personal-ai",
+    "stars": 3,
+    "updated_at": "2026-09-17T02:04:29Z",
+    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+  },
+  {
+    "description": "A knowledge base for coding agents, built from Markdown, backlinks, semantic search, and Git context.",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 13,
+    "updated_at": "2026-09-17T02:03:58Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 41,
+    "updated_at": "2026-09-17T02:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
     "id": "gilvangonzalez/technical-founding-gtm-toolkit",
     "language": "HTML",
@@ -72,15 +189,6 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 41,
-    "updated_at": "2026-09-17T01:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Personal skills marketplace \u2014 add it once, install any plugin for terminal, devops... and whatever else comes up",
     "id": "gfargo/skills",
     "language": "TypeScript",
@@ -131,7 +239,7 @@
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 29,
-    "updated_at": "2026-09-17T01:59:16Z",
+    "updated_at": "2026-09-17T02:05:51Z",
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
@@ -288,15 +396,6 @@
     "url": "https://github.com/Edward0l1/skill-flare-discover"
   },
   {
-    "description": "A knowledge base for coding agents, built from Markdown, backlinks, semantic search, and Git context.",
-    "id": "hraness/wordcell",
-    "language": "TypeScript",
-    "name": "hraness/wordcell",
-    "stars": 13,
-    "updated_at": "2026-09-17T01:59:50Z",
-    "url": "https://github.com/hraness/wordcell"
-  },
-  {
     "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
     "id": "arnoldalberto007-sys/Swift-UIKit-Components",
     "language": "HTML",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T01:09:17Z",
     "url": "https://github.com/BardarLTD/come-up-with-an-idea"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-09-17T01:07:55Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-09-17T01:03:03Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-09-17T01:02:37Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 atelier (design \u2192 build \u2192 review pipeline + writing craft) and atelier-typescript (Fast",
-    "id": "muzalee/claude-atelier",
-    "language": "TypeScript",
-    "name": "muzalee/claude-atelier",
-    "stars": 0,
-    "updated_at": "2026-09-17T01:02:35Z",
-    "url": "https://github.com/muzalee/claude-atelier"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-09-17T01:02:21Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-09-17T01:02:13Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T01:02:02Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-09-17T01:01:48Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
-    "id": "hraness/soulscrape",
-    "language": "TypeScript",
-    "name": "hraness/soulscrape",
-    "stars": 0,
-    "updated_at": "2026-09-17T01:00:23Z",
-    "url": "https://github.com/hraness/soulscrape"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-09-17T01:00:20Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-09-17T00:59:52Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
   }
 ]
