@@ -1,5 +1,176 @@
 [
   {
+    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
+    "id": "jherrodthomas/robotics-skills-suite",
+    "language": "Python",
+    "name": "jherrodthomas/robotics-skills-suite",
+    "stars": 241,
+    "updated_at": "2026-09-17T11:43:08Z",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
+  },
+  {
+    "description": "Capture academic papers (DOI, arXiv, OpenAlex id, or title) into a git-tracked literature corpus with a citation graph a",
+    "id": "jgsystemsconsulting/jgs-lit-memory",
+    "language": "Python",
+    "name": "jgsystemsconsulting/jgs-lit-memory",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:42:13Z",
+    "url": "https://github.com/jgsystemsconsulting/jgs-lit-memory"
+  },
+  {
+    "description": "DBHQ's Claude Code plugin marketplace - free, open-source skills for Claude Code and Codex. Add with: /plugin marketplac",
+    "id": "dbhq-uk/marketplace",
+    "language": "\u2014",
+    "name": "dbhq-uk/marketplace",
+    "stars": 2,
+    "updated_at": "2026-09-17T11:41:36Z",
+    "url": "https://github.com/dbhq-uk/marketplace"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-17T11:43:18Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Agent Skill: Word (.docx) files with Thai text that render correctly \u2014 Markdown in, one command builds and checks",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:41:03Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "Claude Code and Codex skill that runs a repository's open issues as parallel agents - one per issue, each in its own git",
+    "id": "dbhq-uk/buildwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/buildwork-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:40:36Z",
+    "url": "https://github.com/dbhq-uk/buildwork-skill"
+  },
+  {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:40:25Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
+  },
+  {
+    "description": "\u77ed\u7ebf\u4fa0(duanxianxia.cn) \u975e\u5b98\u65b9 Python \u6570\u636e\u63a5\u53e3 + opencode skill\uff1a\u6da8\u505c\u64ad\u62a5/\u7ade\u4ef7\u5f02\u52a8/\u677f\u5757\u5f3a\u5ea6/\u8d44\u91d1\u6d41\u5411/\u9f99\u864e\u699c/\u8fde\u677f\u5929\u68af/\u60c5\u7eea\u6307\u6807\u7b49 30+ \u7aef\u70b9",
+    "id": "627-hub/duanxianxia-skill",
+    "language": "Python",
+    "name": "627-hub/duanxianxia-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:40:05Z",
+    "url": "https://github.com/627-hub/duanxianxia-skill"
+  },
+  {
+    "description": "Independent block-confirmed settlement verification for agent payment rails (SKILL.md). No KYC, no account, escrow-paid,",
+    "id": "Aeliana139/settlement-verify",
+    "language": "\u2014",
+    "name": "Aeliana139/settlement-verify",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:39:54Z",
+    "url": "https://github.com/Aeliana139/settlement-verify"
+  },
+  {
+    "description": "Skills to make your AI coding agent an Arcjet security expert.",
+    "id": "arcjet/skills",
+    "language": "Python",
+    "name": "arcjet/skills",
+    "stars": 3,
+    "updated_at": "2026-09-17T11:37:03Z",
+    "url": "https://github.com/arcjet/skills"
+  },
+  {
+    "description": "This plugin makes your AI coding agent an Arcjet security expert.",
+    "id": "arcjet/arcjet-plugin",
+    "language": "Shell",
+    "name": "arcjet/arcjet-plugin",
+    "stars": 1,
+    "updated_at": "2026-09-17T11:41:57Z",
+    "url": "https://github.com/arcjet/arcjet-plugin"
+  },
+  {
+    "description": "Claude Code \uc2a4\ud0ac \u2014 \uc2a4\ud06c\ub864 \uc2dc\ub124\ub9c8\ud2f1 \uc6d0\ud398\uc774\uc9c0 \uc6f9\uc0ac\uc774\ud2b8(\ud3ec\ud2b8\ud3f4\ub9ac\uc624\u00b7\uc6f9\uba85\ud568\u00b7\ucd08\ub300\uc7a5)",
+    "id": "manabout-town/cinematic-onepager-skill",
+    "language": "HTML",
+    "name": "manabout-town/cinematic-onepager-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:35:38Z",
+    "url": "https://github.com/manabout-town/cinematic-onepager-skill"
+  },
+  {
+    "description": "Fighting For Sidewalk Venture Studio and Technology Lab",
+    "id": "fightingforsidewalk/.github",
+    "language": "\u2014",
+    "name": "fightingforsidewalk/.github",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:35:19Z",
+    "url": "https://github.com/fightingforsidewalk/.github"
+  },
+  {
+    "description": "Forward deployed engineering skills for AI coding agents.",
+    "id": "suboss87/FDEOps",
+    "language": "JavaScript",
+    "name": "suboss87/FDEOps",
+    "stars": 808,
+    "updated_at": "2026-09-17T11:42:44Z",
+    "url": "https://github.com/suboss87/FDEOps"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 46,
+    "updated_at": "2026-09-17T11:34:36Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
+    "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
+    "id": "hraness/soulscrape",
+    "language": "TypeScript",
+    "name": "hraness/soulscrape",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:33:47Z",
+    "url": "https://github.com/hraness/soulscrape"
+  },
+  {
+    "description": "Claude Code \uc2a4\ud0ac \u2014 \ub124\uc774\ubc84 \ube14\ub85c\uadf8 \ub9ac\uc11c\uce58\u00b7\uc791\uc131\u00b7Playwright \uc790\ub3d9 \ubc1c\ud589/\uc608\uc57d\ubc1c\ud589",
+    "id": "manabout-town/naver-blog-skill",
+    "language": "Python",
+    "name": "manabout-town/naver-blog-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:32:00Z",
+    "url": "https://github.com/manabout-town/naver-blog-skill"
+  },
+  {
+    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
+    "id": "rokokol/bash-best-practices-skill",
+    "language": "Shell",
+    "name": "rokokol/bash-best-practices-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:31:11Z",
+    "url": "https://github.com/rokokol/bash-best-practices-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-17T11:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
     "id": "JBSag/pm-artisan",
     "language": "HTML",
@@ -18,15 +189,6 @@
     "url": "https://github.com/molefrog/moi"
   },
   {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 808,
-    "updated_at": "2026-09-17T11:29:16Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
     "description": "Interactive drama script generator \u2014 turn novels & interactive fiction into short-video feed style clickable branch scri",
     "id": "chenchang-7/juqing-tool",
     "language": "HTML",
@@ -43,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T11:28:37Z",
     "url": "https://github.com/dbhq-uk/pennyblack-skill"
-  },
-  {
-    "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
-    "id": "hraness/soulscrape",
-    "language": "TypeScript",
-    "name": "hraness/soulscrape",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:27:36Z",
-    "url": "https://github.com/hraness/soulscrape"
   },
   {
     "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55 \u2192 \u4eba\u683c\u753b\u50cf\u4e0e\u5173\u7cfb\u6d1e\u5bdf\uff1a\u672c\u5730\u89e3\u5bc6\u3001\u884c\u4e3a\u7edf\u8ba1\u3001\u8bed\u8a00\u6a21\u5f0f\u3001\u62a2\u529f\u68c0\u6d4b\u3001\u5355\u6587\u4ef6 HTML \u62a5\u544a | Local-first personality & relationship insights from decrypted WeCh",
@@ -86,7 +239,7 @@
     "language": "TypeScript",
     "name": "michael-denyer/pstack-claude",
     "stars": 444,
-    "updated_at": "2026-09-17T11:27:06Z",
+    "updated_at": "2026-09-17T11:42:28Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
   {
@@ -117,15 +270,6 @@
     "url": "https://github.com/ice-lfernandes/claude-spring-architect"
   },
   {
-    "description": "DBHQ's Claude Code plugin marketplace - free, open-source skills for Claude Code and Codex. Add with: /plugin marketplac",
-    "id": "dbhq-uk/marketplace",
-    "language": "\u2014",
-    "name": "dbhq-uk/marketplace",
-    "stars": 2,
-    "updated_at": "2026-09-17T11:20:25Z",
-    "url": "https://github.com/dbhq-uk/marketplace"
-  },
-  {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
     "id": "xr843/Master-skill",
     "language": "Python",
@@ -135,15 +279,6 @@
     "url": "https://github.com/xr843/Master-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-17T11:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
     "id": "zeikar/dotfiles",
     "language": "Shell",
@@ -151,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T11:15:02Z",
     "url": "https://github.com/zeikar/dotfiles"
-  },
-  {
-    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
-    "id": "rokokol/bash-best-practices-skill",
-    "language": "Shell",
-    "name": "rokokol/bash-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:12:51Z",
-    "url": "https://github.com/rokokol/bash-best-practices-skill"
   },
   {
     "description": "",
@@ -187,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T11:10:02Z",
     "url": "https://github.com/manabout-town/insta-reel-skill"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-17T11:26:35Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -331,122 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-17T11:01:46Z",
     "url": "https://github.com/flieks/masterwork"
-  },
-  {
-    "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
-    "id": "Scoundrelwildness456/i-have-adhd",
-    "language": "Python",
-    "name": "Scoundrelwildness456/i-have-adhd",
-    "stars": 5,
-    "updated_at": "2026-09-17T11:01:27Z",
-    "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Claude skill for production-hardening practices whenever you're designing, writing, or reviewing your backend code. Feat",
-    "id": "AllanOps/Clean-Backend",
-    "language": "JavaScript",
-    "name": "AllanOps/Clean-Backend",
-    "stars": 9,
-    "updated_at": "2026-09-17T11:01:10Z",
-    "url": "https://github.com/AllanOps/Clean-Backend"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-09-17T11:00:10Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-09-17T10:59:20Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-09-17T10:58:53Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-09-17T10:57:56Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-09-17T10:57:27Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-17T10:56:59Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 3,
-    "updated_at": "2026-09-17T10:56:41Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-17T10:56:24Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-09-17T10:55:21Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "A reusable scaffold that gives you and Claude Code a persistent memory across sessions.",
-    "id": "AlessandroCaula/dot-claude",
-    "language": "\u2014",
-    "name": "AlessandroCaula/dot-claude",
-    "stars": 2,
-    "updated_at": "2026-09-17T10:55:11Z",
-    "url": "https://github.com/AlessandroCaula/dot-claude"
-  },
-  {
-    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
-    "id": "elsoul/erpc-sdk",
-    "language": "JavaScript",
-    "name": "elsoul/erpc-sdk",
-    "stars": 2,
-    "updated_at": "2026-09-17T10:54:59Z",
-    "url": "https://github.com/elsoul/erpc-sdk"
   }
 ]
