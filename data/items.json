@@ -1,5 +1,86 @@
 [
   {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T14:28:01Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "VS Code Agent skill for llama.cpp multi-model deployment on Windows",
+    "id": "KAN-H/llama-cpp-windows-deployment-skill",
+    "language": "Python",
+    "name": "KAN-H/llama-cpp-windows-deployment-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T14:23:30Z",
+    "url": "https://github.com/KAN-H/llama-cpp-windows-deployment-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-17T14:22:50Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Agent Skills for Claude Code, built and used in production: client-site pipeline, scroll-choreographed WebGL particle mo",
+    "id": "igdigitallab/claude-skills",
+    "language": "JavaScript",
+    "name": "igdigitallab/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-17T14:22:46Z",
+    "url": "https://github.com/igdigitallab/claude-skills"
+  },
+  {
+    "description": "Claude Skill (SKILL.md) for Liquid Glass and glassmorphism UI design: Apple-style layering, material tiers, accessible c",
+    "id": "Armitanemati/liquid-glass-claude-skill",
+    "language": "\u2014",
+    "name": "Armitanemati/liquid-glass-claude-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T14:24:54Z",
+    "url": "https://github.com/Armitanemati/liquid-glass-claude-skill"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f Claude Council \u2014 a Claude skill where 80 legendary minds (Buffett, Munger, Musk, Jobs, Einstein, Chanakya\u2026) debate yo",
+    "id": "SuperShary/claude-council",
+    "language": "PowerShell",
+    "name": "SuperShary/claude-council",
+    "stars": 0,
+    "updated_at": "2026-09-17T14:21:40Z",
+    "url": "https://github.com/SuperShary/claude-council"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 738,
+    "updated_at": "2026-09-17T14:18:42Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-17T14:16:01Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-17T14:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Skills the Odin agent harness owns \u2014 decision scoring, roadmap planning, blueprint decomposition, mistake-to-gate harden",
     "id": "RubyEyedReaper/Odin-Skills",
     "language": "Python",
@@ -23,17 +104,8 @@
     "language": "Go",
     "name": "danieljustus/symaira-eraseme",
     "stars": 8,
-    "updated_at": "2026-09-17T14:11:17Z",
+    "updated_at": "2026-09-17T14:19:18Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "VS Code Agent skill for llama.cpp multi-model deployment on Windows",
-    "id": "KAN-H/llama-cpp-windows-deployment-skill",
-    "language": "Python",
-    "name": "KAN-H/llama-cpp-windows-deployment-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T14:08:25Z",
-    "url": "https://github.com/KAN-H/llama-cpp-windows-deployment-skill"
   },
   {
     "description": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dep",
@@ -117,15 +189,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-17T14:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -144,21 +207,12 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T13:56:25Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-17T14:12:14Z",
+    "updated_at": "2026-09-17T14:26:26Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 52,
     "updated_at": "2026-09-17T13:51:30Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-17T14:06:58Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
@@ -306,6 +351,15 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30793,
+    "updated_at": "2026-09-17T14:24:19Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
     "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
     "language": "HTML",
@@ -331,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-09-17T13:30:19Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 737,
-    "updated_at": "2026-09-17T14:11:37Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Agent skill: turn any flat logo into a premium 3D spinning coin (React Three Fiber). One command, try it live in your br",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T13:14:48Z",
     "url": "https://github.com/beatra-ai/beatra-skills"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-09-17T13:14:41Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-17T13:13:45Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 145,
-    "updated_at": "2026-09-17T14:12:38Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-17T13:11:42Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-17T13:11:28Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   }
 ]
