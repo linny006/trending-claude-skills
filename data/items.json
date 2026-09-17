@@ -1,5 +1,185 @@
 [
   {
+    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-b",
+    "id": "polar-bear-org/claude-skills",
+    "language": "Shell",
+    "name": "polar-bear-org/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-17T18:28:47Z",
+    "url": "https://github.com/polar-bear-org/claude-skills"
+  },
+  {
+    "description": "Claude Code skill that turns study text/topics into cached summaries, flashcards, and quizzes as printable HTML.",
+    "id": "grabreu/cram-kit",
+    "language": "Python",
+    "name": "grabreu/cram-kit",
+    "stars": 0,
+    "updated_at": "2026-09-17T18:28:29Z",
+    "url": "https://github.com/grabreu/cram-kit"
+  },
+  {
+    "description": "\u8c01\u662f\u5367\u5e95 \u00b7 \u76f4\u64ad\u95f4\u88c1\u5224\u5de5\u5177\u5305 \u2014\u2014 \u9ed1\u677f\u89c4\u5219 / \u51fa\u9898\u65b9\u6cd5\u8bba / \u8bcd\u5e93\u9a8c\u8bc1 / \u7075\u611f\u6765\u6e90 / \u7ffb\u8f66\u5206\u6790 + \u8eab\u4efd\u5206\u914d\u5668 CLI\u3002\u4e2d\u6587\u3002",
+    "id": "feverZHONG/liya-spy-game",
+    "language": "Python",
+    "name": "feverZHONG/liya-spy-game",
+    "stars": 0,
+    "updated_at": "2026-09-17T18:26:26Z",
+    "url": "https://github.com/feverZHONG/liya-spy-game"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-17T18:25:32Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Universal Skill Engine & Offline Marketplace for Claude Code, Cursor, and Autonomous AI Agents. Indexes 23,300+ skills w",
+    "id": "DarkMatte09/SkillHub",
+    "language": "Go",
+    "name": "DarkMatte09/SkillHub",
+    "stars": 0,
+    "updated_at": "2026-09-17T18:25:11Z",
+    "url": "https://github.com/DarkMatte09/SkillHub"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-17T18:24:28Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-09-17T18:23:41Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 2,
+    "updated_at": "2026-09-17T18:24:55Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "\u7fa4\u804a\u5c0f\u6e38\u620f\u88c1\u5224\u5408\u96c6 \u2014\u2014 \u626b\u96f7 / \u4e94\u5b50\u68cb / \u5927\u8bdd\u9ab0 / \u9a97\u5b50\u724c / \u63b7\u9ab0\u51b3\u6597\uff1a\u72b6\u6001\u843d\u76d8\u8de8\u4f1a\u8bdd\u7eed\u5c40\u3001\u516c\u5e73\u53ef\u81ea\u8bc1\u3001\u5b57\u7b26\u76d8\u9762 + \u51fa\u56fe\uff0c\u4e00\u6761 game \u5165\u53e3 + \u516d\u4efd\u81ea\u6d4b\u3002",
+    "id": "feverZHONG/liya-chat-game-referee",
+    "language": "Python",
+    "name": "feverZHONG/liya-chat-game-referee",
+    "stars": 0,
+    "updated_at": "2026-09-17T18:22:39Z",
+    "url": "https://github.com/feverZHONG/liya-chat-game-referee"
+  },
+  {
+    "description": "\u6d77\u9f9f\u6c64\u63a8\u7406\u624b\u518c + \u6863\u6848\u6d41\u6c34\u7ebf \u2014\u2014 \u63a8\u7406\u65b9\u6cd5\u8bba\u3001\u63d0\u95ee\u7eaa\u5f8b\uff0c\u4ee5\u53ca turtle CLI\uff08\u5efa\u6863 / \u7ebf\u7d22 / \u5173\u5361\u5f52\u6863 / \u63d0\u4ea4\u5e76\u6570\u5b66\u53cd\u63a8 / \u590d\u76d8 + \u7d22\u5f15\u91cd\u5efa\uff09\u3002",
+    "id": "feverZHONG/liya-sea-turtle-soup",
+    "language": "Python",
+    "name": "feverZHONG/liya-sea-turtle-soup",
+    "stars": 0,
+    "updated_at": "2026-09-17T18:22:34Z",
+    "url": "https://github.com/feverZHONG/liya-sea-turtle-soup"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-09-17T18:21:20Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 3,
+    "updated_at": "2026-09-17T18:19:16Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "A meeting becomes a scope tree a build can run against. Agent skills for Claude Code and Codex.",
+    "id": "vincenzo345/skills",
+    "language": "Python",
+    "name": "vincenzo345/skills",
+    "stars": 0,
+    "updated_at": "2026-09-17T18:19:14Z",
+    "url": "https://github.com/vincenzo345/skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69144,
+    "updated_at": "2026-09-17T18:19:00Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Give your AI assistant a memory that compounds \u2014 plain markdown files, strict routing discipline, and an append-only tem",
+    "id": "joonlim-official/muse-memory",
+    "language": "Shell",
+    "name": "joonlim-official/muse-memory",
+    "stars": 0,
+    "updated_at": "2026-09-17T18:18:47Z",
+    "url": "https://github.com/joonlim-official/muse-memory"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 94121,
+    "updated_at": "2026-09-17T18:16:58Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 52,
+    "updated_at": "2026-09-17T18:16:41Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-09-17T18:16:09Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "116 \u0441\u043a\u0438\u043b\u043e\u0432 \u0438 40 \u043f\u0440\u0430\u0432\u0438\u043b \u0434\u043b\u044f Claude Code: \u0430\u0433\u0435\u043d\u0442 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0438\u0441\u0445\u043e\u0434\u043d\u0438\u043a\u0438 1\u0421 (\u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435, \u0444\u043e\u0440\u043c\u044b, \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f, \u0440\u043e\u043b\u0438, \u0421\u041a\u0414, \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
+    "id": "Desko77/claude-code-skills-1c",
+    "language": "Python",
+    "name": "Desko77/claude-code-skills-1c",
+    "stars": 65,
+    "updated_at": "2026-09-17T18:15:57Z",
+    "url": "https://github.com/Desko77/claude-code-skills-1c"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-17T18:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
     "id": "the-nam-shub/e5-real-skills",
     "language": "TypeScript",
@@ -36,24 +216,6 @@
     "url": "https://github.com/benman1/wiggum"
   },
   {
-    "description": "Give your AI assistant a memory that compounds \u2014 plain markdown files, strict routing discipline, and an append-only tem",
-    "id": "joonlim-official/muse-memory",
-    "language": "Shell",
-    "name": "joonlim-official/muse-memory",
-    "stars": 0,
-    "updated_at": "2026-09-17T18:11:32Z",
-    "url": "https://github.com/joonlim-official/muse-memory"
-  },
-  {
-    "description": "Claude Code skill that turns study text/topics into cached summaries, flashcards, and quizzes as printable HTML.",
-    "id": "grabreu/cram-kit",
-    "language": "Python",
-    "name": "grabreu/cram-kit",
-    "stars": 0,
-    "updated_at": "2026-09-17T18:08:06Z",
-    "url": "https://github.com/grabreu/cram-kit"
-  },
-  {
     "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
     "id": "hoangsonww/Claude-Code-Agent-Monitor",
     "language": "TypeScript",
@@ -77,7 +239,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-17T18:06:28Z",
+    "updated_at": "2026-09-17T18:16:55Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -104,7 +266,7 @@
     "language": "Python",
     "name": "sergeyklay/.agents",
     "stars": 5,
-    "updated_at": "2026-09-17T18:03:45Z",
+    "updated_at": "2026-09-17T18:29:41Z",
     "url": "https://github.com/sergeyklay/.agents"
   },
   {
@@ -151,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T18:01:12Z",
     "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-17T18:00:49Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
@@ -234,15 +387,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 94120,
-    "updated_at": "2026-09-17T17:54:02Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "Data-driven Dota 2 tier list installed as an in-game hero grid. Agent skill for Claude Code & Codex (or plain Python): t",
     "id": "Kocher1/dota2-meta-grid",
     "language": "Python",
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T17:45:21Z",
     "url": "https://github.com/hraness/soulscrape"
-  },
-  {
-    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
-    "id": "ramboz/jig",
-    "language": "Python",
-    "name": "ramboz/jig",
-    "stars": 6,
-    "updated_at": "2026-09-17T17:44:04Z",
-    "url": "https://github.com/ramboz/jig"
-  },
-  {
-    "description": "File what an agent notices as a tracked GitHub issue, reconcile the dependency graph, and keep a roadmap in git",
-    "id": "dbhq-uk/deskwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/deskwork-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:42:23Z",
-    "url": "https://github.com/dbhq-uk/deskwork-skill"
-  },
-  {
-    "description": "Push notifications + human-in-the-loop for AI agents. Approve from your lock screen. Claude Code, Claude Cowork, Codex, ",
-    "id": "Pushary/pushary-skill",
-    "language": "\u2014",
-    "name": "Pushary/pushary-skill",
-    "stars": 1,
-    "updated_at": "2026-09-17T17:39:18Z",
-    "url": "https://github.com/Pushary/pushary-skill"
-  },
-  {
-    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
-    "id": "nowork-studio/notfair-plugin",
-    "language": "TypeScript",
-    "name": "nowork-studio/notfair-plugin",
-    "stars": 3811,
-    "updated_at": "2026-09-17T17:37:25Z",
-    "url": "https://github.com/nowork-studio/notfair-plugin"
-  },
-  {
-    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
-    "id": "mykpono/ultimate-seo-geo",
-    "language": "Python",
-    "name": "mykpono/ultimate-seo-geo",
-    "stars": 77,
-    "updated_at": "2026-09-17T17:46:42Z",
-    "url": "https://github.com/mykpono/ultimate-seo-geo"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-09-17T17:35:15Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "Agent skill for Swedish digital accessibility documents \u2013 writes, updates and checks tillg\u00e4nglighetsredog\u00f6relser under D",
-    "id": "pattespatte/tillganglighetsredogorelse-skill",
-    "language": "Python",
-    "name": "pattespatte/tillganglighetsredogorelse-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:33:48Z",
-    "url": "https://github.com/pattespatte/tillganglighetsredogorelse-skill"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-09-17T17:32:48Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-09-17T17:32:39Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
-    "id": "Diegocortes15/playwright-ai-framework",
-    "language": "TypeScript",
-    "name": "Diegocortes15/playwright-ai-framework",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:31:58Z",
-    "url": "https://github.com/Diegocortes15/playwright-ai-framework"
-  },
-  {
-    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "JavaScript",
-    "name": "SteveKinzey/claude-code-tools-installer",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:31:48Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
-    "description": "AI\uc640 CS \uc5f0\uad6c\uc790\ub97c \uc704\ud55c \ud55c\uad6d\uc5b4 \ubb38\uccb4 \uc2a4\ud0ac. \ub17c\ubb38 \uc815\ub9ac, \uc2e4\ud5d8 \ub178\ud2b8, \uae30\uc220 \ubb38\uc11c\ub97c \ubc88\uc5ed\ud22c \uc5c6\ub294 \ud55c\uad6d\uc5b4\ub85c \uc4f0\uace0 \uae30\uc220 \uc6a9\uc5b4\ub294 \uc601\ubb38 \uadf8\ub300\ub85c \ub461\ub2c8\ub2e4. A Claude Code skill for AI/CS researche",
-    "id": "dongsukjang26/natural-korean-skills-for-research",
-    "language": "Python",
-    "name": "dongsukjang26/natural-korean-skills-for-research",
-    "stars": 1,
-    "updated_at": "2026-09-17T17:31:41Z",
-    "url": "https://github.com/dongsukjang26/natural-korean-skills-for-research"
-  },
-  {
-    "description": "A curated collection of Claude Code skills \u2014 code-review loop, local chat-history search, session end/resume, Gemini ima",
-    "id": "BryceEWatson/claude-global-skills",
-    "language": "Python",
-    "name": "BryceEWatson/claude-global-skills",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:31:41Z",
-    "url": "https://github.com/BryceEWatson/claude-global-skills"
-  },
-  {
-    "description": "The trust layer between AI and your data. Turns your database schema - messy joins, undocumented tables,  into a governe",
-    "id": "AgamiAI/agami-core",
-    "language": "Python",
-    "name": "AgamiAI/agami-core",
-    "stars": 29,
-    "updated_at": "2026-09-17T17:59:38Z",
-    "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "\u8389\u5a05\u7684\u9152\u9986\u5199\u5361\u65b9\u6cd5 \u2014\u2014 \u628a\u89d2\u8272\u8d44\u6599\u5199\u6210 SillyTavern \u89d2\u8272\u5361\uff08V2 \u683c\u5f0f / PList+Ali:Chat \u5199\u6cd5 / \u673a\u5236\u6e05\u5355 / \u4e09\u4e2a Python \u5de5\u5177 / \u4ece\u8d44\u6599\u5230\u6210\u54c1\u5361\u7684\u5b8c\u6574\u5b9e\u4f8b\uff09\u3002\u4e2d\u6587\u3002",
-    "id": "feverZHONG/liya-sillytavern-cards",
-    "language": "Python",
-    "name": "feverZHONG/liya-sillytavern-cards",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:27:36Z",
-    "url": "https://github.com/feverZHONG/liya-sillytavern-cards"
-  },
-  {
-    "description": "\u8389\u5a05\u7684\u4eba\u683c\u6587\u4ef6\u65b9\u6cd5\u8bba \u2014\u2014 \u7ed9 AI agent \u5199\u8eab\u4efd\u6587\u4ef6\uff08SOUL.md \u7c7b\uff09\uff1a\u521b\u4f5c\u6d41\u7a0b / \u780d\u88c5\u9970\u7559\u884c\u4e3a / \u8eab\u4efd\u6587\u4ef6\u51cf\u6cd5\uff08de-bloat\uff09/ \u6f02\u79fb\u5bf9\u7167\u3002\u9644\u9601\u4e0b\u539f\u521b\u89d2\u8272\u8bbe\u5b9a\u5199\u4f5c\u6a21\u677f v1.2\u3002",
-    "id": "feverZHONG/liya-persona-authoring",
-    "language": "\u2014",
-    "name": "feverZHONG/liya-persona-authoring",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:27:33Z",
-    "url": "https://github.com/feverZHONG/liya-persona-authoring"
   }
 ]
