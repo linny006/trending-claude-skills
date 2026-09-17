@@ -1,28 +1,109 @@
 [
   {
+    "description": "A browser inside your terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "TypeScript",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 3004,
+    "updated_at": "2026-09-17T06:08:24Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
+  },
+  {
+    "description": "Concept-first HTML presentation director: hard concept gate, fixed-stage single-file chassis, scored critique loop, dual",
+    "id": "MJorgin/preflight-decks",
+    "language": "Python",
+    "name": "MJorgin/preflight-decks",
+    "stars": 1,
+    "updated_at": "2026-09-17T06:08:12Z",
+    "url": "https://github.com/MJorgin/preflight-decks"
+  },
+  {
+    "description": "Shared project memory for Claude Code: notes that survive /clear and compaction, messages between sessions, token-free e",
+    "id": "krllx/longrun",
+    "language": "Python",
+    "name": "krllx/longrun",
+    "stars": 1,
+    "updated_at": "2026-09-17T06:07:44Z",
+    "url": "https://github.com/krllx/longrun"
+  },
+  {
+    "description": "Claude Code skills for working with Resvu. Build an admin-console workflow template from a form you already have, or fro",
+    "id": "resvu/skills",
+    "language": "Python",
+    "name": "resvu/skills",
+    "stars": 0,
+    "updated_at": "2026-09-17T06:05:57Z",
+    "url": "https://github.com/resvu/skills"
+  },
+  {
     "description": "150+ deterministic, fully-offline MCP tools & free AI-agent skills for cross-industry monthly checks (payroll, tax, invo",
     "id": "chenqg618/compliance-skills",
     "language": "JavaScript",
     "name": "chenqg618/compliance-skills",
     "stars": 0,
-    "updated_at": "2026-09-17T06:00:10Z",
+    "updated_at": "2026-09-17T06:05:54Z",
     "url": "https://github.com/chenqg618/compliance-skills"
   },
   {
-    "description": "A browser inside your terminal",
-    "id": "zenbu-labs/terminal-browser",
+    "description": "Not an assistant \u2014 a sage you consult in the shape of a Claude Code plugin. It knows your work, the work around you, and",
+    "id": "by-carlos/daikenja",
+    "language": "Python",
+    "name": "by-carlos/daikenja",
+    "stars": 0,
+    "updated_at": "2026-09-17T06:05:12Z",
+    "url": "https://github.com/by-carlos/daikenja"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
     "language": "TypeScript",
-    "name": "zenbu-labs/terminal-browser",
-    "stars": 3003,
-    "updated_at": "2026-09-17T06:00:03Z",
-    "url": "https://github.com/zenbu-labs/terminal-browser"
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-09-17T06:06:24Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "Turn a mockup into a dev-ready handoff spec: tokens, component states, accessibility notes, open questions",
+    "id": "humbleteam/design-handoff",
+    "language": "\u2014",
+    "name": "humbleteam/design-handoff",
+    "stars": 1,
+    "updated_at": "2026-09-17T06:01:19Z",
+    "url": "https://github.com/humbleteam/design-handoff"
+  },
+  {
+    "description": "WCAG 2.2 accessibility audit skill for Claude Code - severity-ranked findings with success-criterion citations",
+    "id": "humbleteam/accessibility-audit",
+    "language": "\u2014",
+    "name": "humbleteam/accessibility-audit",
+    "stars": 2,
+    "updated_at": "2026-09-17T06:01:03Z",
+    "url": "https://github.com/humbleteam/accessibility-audit"
+  },
+  {
+    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 3,
+    "updated_at": "2026-09-17T06:00:31Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-17T06:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
     "id": "reticlehq/reticle",
     "language": "TypeScript",
     "name": "reticlehq/reticle",
-    "stars": 686,
+    "stars": 687,
     "updated_at": "2026-09-17T05:59:42Z",
     "url": "https://github.com/reticlehq/reticle"
   },
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-17T05:59:11Z",
+    "updated_at": "2026-09-17T06:05:04Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 112,
-    "updated_at": "2026-09-17T05:59:56Z",
+    "updated_at": "2026-09-17T06:04:40Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T05:56:54Z",
     "url": "https://github.com/mediagyancy/wp-optimize"
-  },
-  {
-    "description": "Shared project memory for Claude Code: notes that survive /clear and compaction, messages between sessions, token-free e",
-    "id": "krllx/longrun",
-    "language": "Python",
-    "name": "krllx/longrun",
-    "stars": 1,
-    "updated_at": "2026-09-17T05:56:43Z",
-    "url": "https://github.com/krllx/longrun"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -149,7 +221,7 @@
     "language": "Rust",
     "name": "semlith/semlith",
     "stars": 1,
-    "updated_at": "2026-09-17T05:49:29Z",
+    "updated_at": "2026-09-17T06:04:22Z",
     "url": "https://github.com/semlith/semlith"
   },
   {
@@ -205,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T05:50:18Z",
     "url": "https://github.com/hraness/soulscrape"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 42,
-    "updated_at": "2026-09-17T05:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI marketing agents for Claude Code - B2B SaaS marketing team: 82 agents + 19 skills \u2014 SEO/AEO/GEO, content/editorial op",
@@ -347,7 +410,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-17T05:34:29Z",
+    "updated_at": "2026-09-17T06:01:26Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T05:07:59Z",
     "url": "https://github.com/mikhailkogan17/cycler"
-  },
-  {
-    "description": "AI audiobook generator agent skill for Claude Code, Codex & OpenClaw: turn a final manuscript or course text into ordere",
-    "id": "beatra-ai/ai-audiobook-generator-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-audiobook-generator-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T05:06:52Z",
-    "url": "https://github.com/beatra-ai/ai-audiobook-generator-skill"
-  },
-  {
-    "description": "AI Agent skills collection by geekjourneyx  for agent-compatible coding, creator, and automation workflows",
-    "id": "geekjourneyx/geekx-skills",
-    "language": "JavaScript",
-    "name": "geekjourneyx/geekx-skills",
-    "stars": 24,
-    "updated_at": "2026-09-17T05:06:17Z",
-    "url": "https://github.com/geekjourneyx/geekx-skills"
-  },
-  {
-    "description": "Team-ready Claude Code skill pack: 16 multi-account integrations for Rails + React Native + e-commerce. Trello, Linear, ",
-    "id": "tuannv14/claude-team-toolkit",
-    "language": "Shell",
-    "name": "tuannv14/claude-team-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-17T05:04:56Z",
-    "url": "https://github.com/tuannv14/claude-team-toolkit"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-09-17T05:03:50Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
-    "id": "Diegocortes15/playwright-ai-framework",
-    "language": "TypeScript",
-    "name": "Diegocortes15/playwright-ai-framework",
-    "stars": 0,
-    "updated_at": "2026-09-17T05:35:49Z",
-    "url": "https://github.com/Diegocortes15/playwright-ai-framework"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-09-17T05:03:20Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T05:02:54Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
   }
 ]
