@@ -1,5 +1,293 @@
 [
   {
+    "description": "150+ deterministic, fully-offline MCP tools & free AI-agent skills for cross-industry monthly checks (payroll, tax, invo",
+    "id": "chenqg618/compliance-skills",
+    "language": "JavaScript",
+    "name": "chenqg618/compliance-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:30:08Z",
+    "url": "https://github.com/chenqg618/compliance-skills"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Go",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 8,
+    "updated_at": "2026-09-18T14:27:09Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Steve Polito's Agent Skills",
+    "id": "stevepolitodesign/skills",
+    "language": "HTML",
+    "name": "stevepolitodesign/skills",
+    "stars": 2,
+    "updated_at": "2026-09-18T14:25:59Z",
+    "url": "https://github.com/stevepolitodesign/skills"
+  },
+  {
+    "description": "Jira and Confluence skill for Claude Code and Codex - raise and read issues after checking the project key, issue type a",
+    "id": "dbhq-uk/atlassian-skill",
+    "language": "Python",
+    "name": "dbhq-uk/atlassian-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:24:21Z",
+    "url": "https://github.com/dbhq-uk/atlassian-skill"
+  },
+  {
+    "description": "Agent skill that strips AI tells from prose and puts a human voice back, pitched at the reader it is for. British Englis",
+    "id": "dbhq-uk/verve-skill",
+    "language": "Python",
+    "name": "dbhq-uk/verve-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:24:15Z",
+    "url": "https://github.com/dbhq-uk/verve-skill"
+  },
+  {
+    "description": "Compiler-exact code search for Claude Code and Codex, over a SCIP index - definitions, references, callers and change im",
+    "id": "dbhq-uk/vela-skill",
+    "language": "C#",
+    "name": "dbhq-uk/vela-skill",
+    "stars": 6,
+    "updated_at": "2026-09-18T14:24:13Z",
+    "url": "https://github.com/dbhq-uk/vela-skill"
+  },
+  {
+    "description": "Trello skill pack for Claude Code and Codex - boards, lists and cards, board digests and a due-date radar. A free tool b",
+    "id": "dbhq-uk/trello-skill",
+    "language": "Shell",
+    "name": "dbhq-uk/trello-skill",
+    "stars": 2,
+    "updated_at": "2026-09-18T14:24:11Z",
+    "url": "https://github.com/dbhq-uk/trello-skill"
+  },
+  {
+    "description": "Put a PDF in the post - a Claude Code and Codex skill for physical letters, printed in the UK and delivered by Royal Mai",
+    "id": "dbhq-uk/pennyblack-skill",
+    "language": "Python",
+    "name": "dbhq-uk/pennyblack-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:24:09Z",
+    "url": "https://github.com/dbhq-uk/pennyblack-skill"
+  },
+  {
+    "description": "Microsoft 365 mail and calendar skill for Claude Code and Codex, plus PST archives into searchable markdown. A free tool",
+    "id": "dbhq-uk/outlook-skill",
+    "language": "Shell",
+    "name": "dbhq-uk/outlook-skill",
+    "stars": 2,
+    "updated_at": "2026-09-18T14:24:07Z",
+    "url": "https://github.com/dbhq-uk/outlook-skill"
+  },
+  {
+    "description": "Decision-research skill for Claude Code and Codex - every claim states how well it is supported, and says when the evide",
+    "id": "dbhq-uk/legwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/legwork-skill",
+    "stars": 3,
+    "updated_at": "2026-09-18T14:24:05Z",
+    "url": "https://github.com/dbhq-uk/legwork-skill"
+  },
+  {
+    "description": "imager - generate and edit images with OpenAI's GPT Image 2 from Claude Code and Codex. 27 style presets, platform sizin",
+    "id": "dbhq-uk/imager-skill",
+    "language": "Python",
+    "name": "dbhq-uk/imager-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:24:03Z",
+    "url": "https://github.com/dbhq-uk/imager-skill"
+  },
+  {
+    "description": "Put a second agent on the work - as an adversary or as a partner - and get back a result you can cite. Five patterns, th",
+    "id": "dbhq-uk/groupwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/groupwork-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:24:01Z",
+    "url": "https://github.com/dbhq-uk/groupwork-skill"
+  },
+  {
+    "description": "Git branch housekeeping skill for Claude Code and Codex - says which branches are finished and safe to delete where a sq",
+    "id": "dbhq-uk/gitview-skill",
+    "language": "Python",
+    "name": "dbhq-uk/gitview-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:23:59Z",
+    "url": "https://github.com/dbhq-uk/gitview-skill"
+  },
+  {
+    "description": "Garmin Connect health and fitness data for Claude Code and Codex - Body Battery, HRV, sleep, activities, VO2 max and tra",
+    "id": "dbhq-uk/garmin-skill",
+    "language": "Python",
+    "name": "dbhq-uk/garmin-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:23:57Z",
+    "url": "https://github.com/dbhq-uk/garmin-skill"
+  },
+  {
+    "description": "File what an agent notices as a tracked GitHub issue, reconcile the dependency graph, and keep a roadmap in git",
+    "id": "dbhq-uk/deskwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/deskwork-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:23:55Z",
+    "url": "https://github.com/dbhq-uk/deskwork-skill"
+  },
+  {
+    "description": "Claude Code and Codex skill that runs a repository's open issues as parallel agents - one per issue, each in its own git",
+    "id": "dbhq-uk/buildwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/buildwork-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:23:53Z",
+    "url": "https://github.com/dbhq-uk/buildwork-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69184,
+    "updated_at": "2026-09-18T14:29:14Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The DBHQ plugin marketplace for Claude Code and Codex - fifteen free, open-source agent skills, each documented at skill",
+    "id": "dbhq-uk/marketplace",
+    "language": "\u2014",
+    "name": "dbhq-uk/marketplace",
+    "stars": 2,
+    "updated_at": "2026-09-18T14:23:02Z",
+    "url": "https://github.com/dbhq-uk/marketplace"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-18T14:23:02Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Skills CLI for coding agents. Install, update, and link skills into your agent.",
+    "id": "osrim/niksi",
+    "language": "TypeScript",
+    "name": "osrim/niksi",
+    "stars": 8,
+    "updated_at": "2026-09-18T14:22:07Z",
+    "url": "https://github.com/osrim/niksi"
+  },
+  {
+    "description": "Agent Skill: chaos engineering on a diff. Disprove a ticket's steady-state invariants after green tests.",
+    "id": "avaxML/chaos-monkey-skill",
+    "language": "\u2014",
+    "name": "avaxML/chaos-monkey-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:21:23Z",
+    "url": "https://github.com/avaxML/chaos-monkey-skill"
+  },
+  {
+    "description": "Agent skill for Senzing entity resolution \u2014 data mapping, SDK code generation, documentation search, error troubleshooti",
+    "id": "Senzing/senzing-mcp-skill",
+    "language": "\u2014",
+    "name": "Senzing/senzing-mcp-skill",
+    "stars": 13,
+    "updated_at": "2026-09-18T14:21:00Z",
+    "url": "https://github.com/Senzing/senzing-mcp-skill"
+  },
+  {
+    "description": "Official business-registry data for AI agents - KYC/AML, beneficial owners (UBO), insolvency, credit risk and adverse-me",
+    "id": "Nolpak14/getregdata",
+    "language": "JavaScript",
+    "name": "Nolpak14/getregdata",
+    "stars": 6,
+    "updated_at": "2026-09-18T14:20:54Z",
+    "url": "https://github.com/Nolpak14/getregdata"
+  },
+  {
+    "description": "Eight portable review skills that make any coding agent file evidence-backed, severity-graded audits: bugs, security, te",
+    "id": "specialone0007/review-skills",
+    "language": "Python",
+    "name": "specialone0007/review-skills",
+    "stars": 1,
+    "updated_at": "2026-09-18T14:19:59Z",
+    "url": "https://github.com/specialone0007/review-skills"
+  },
+  {
+    "description": "Think a decision through, one question at a time. Explains the decision in plain English, then asks a single question wh",
+    "id": "dbhq-uk/headwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/headwork-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:19:36Z",
+    "url": "https://github.com/dbhq-uk/headwork-skill"
+  },
+  {
+    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
+    "id": "rokokol/bash-best-practices-skill",
+    "language": "Shell",
+    "name": "rokokol/bash-best-practices-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:18:55Z",
+    "url": "https://github.com/rokokol/bash-best-practices-skill"
+  },
+  {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 12,
+    "updated_at": "2026-09-18T14:18:44Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
+    "id": "sebin-gg/article-sweeper",
+    "language": "Python",
+    "name": "sebin-gg/article-sweeper",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:17:36Z",
+    "url": "https://github.com/sebin-gg/article-sweeper"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:17:19Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
+    "id": "JBSag/pm-artisan",
+    "language": "HTML",
+    "name": "JBSag/pm-artisan",
+    "stars": 1,
+    "updated_at": "2026-09-18T14:16:17Z",
+    "url": "https://github.com/JBSag/pm-artisan"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:15:30Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-18T14:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
     "id": "munexor/seo-opportunity-nexus",
     "language": "HTML",
@@ -7,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T14:14:52Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
-    "id": "sebin-gg/browser-article-sweeper",
-    "language": "Python",
-    "name": "sebin-gg/browser-article-sweeper",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:13:41Z",
-    "url": "https://github.com/sebin-gg/browser-article-sweeper"
   },
   {
     "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle",
@@ -27,24 +306,6 @@
     "url": "https://github.com/athola/claude-night-market"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-18T14:12:09Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
-    "id": "rokokol/bash-best-practices-skill",
-    "language": "Shell",
-    "name": "rokokol/bash-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:12:09Z",
-    "url": "https://github.com/rokokol/bash-best-practices-skill"
-  },
-  {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
     "id": "alexzvency-ship-it/claude-browser-automator",
     "language": "HTML",
@@ -52,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-09-18T14:10:56Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Jira and Confluence skill for Claude Code and Codex - raise and read issues after checking the project key, issue type a",
-    "id": "dbhq-uk/atlassian-skill",
-    "language": "Python",
-    "name": "dbhq-uk/atlassian-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:10:02Z",
-    "url": "https://github.com/dbhq-uk/atlassian-skill"
   },
   {
     "description": "Capture academic papers (DOI, arXiv, OpenAlex id, or title) into a git-tracked literature corpus with a citation graph a",
@@ -81,21 +333,12 @@
     "url": "https://github.com/ehteshambuildagents/automatedlinkedIn"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Go",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 8,
-    "updated_at": "2026-09-18T14:07:11Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-18T14:06:38Z",
+    "updated_at": "2026-09-18T14:25:55Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -171,15 +414,6 @@
     "url": "https://github.com/mahi05/bfs-audit-skill"
   },
   {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-18T13:58:45Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "TypeScript",
@@ -187,15 +421,6 @@
     "stars": 60,
     "updated_at": "2026-09-18T13:57:22Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69184,
-    "updated_at": "2026-09-18T14:10:09Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -223,230 +448,5 @@
     "stars": 73,
     "updated_at": "2026-09-18T13:47:06Z",
     "url": "https://github.com/thrixel/build-world"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:46:59Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:45:07Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Eight portable review skills that make any coding agent file evidence-backed, severity-graded audits: bugs, security, te",
-    "id": "specialone0007/review-skills",
-    "language": "Python",
-    "name": "specialone0007/review-skills",
-    "stars": 1,
-    "updated_at": "2026-09-18T13:43:53Z",
-    "url": "https://github.com/specialone0007/review-skills"
-  },
-  {
-    "description": "Quality, security, compatibility and publishing toolkit for AI Agent Skills - lint and validate SKILL.md, scan for secre",
-    "id": "letsloose501/skill-quality-suite",
-    "language": "Python",
-    "name": "letsloose501/skill-quality-suite",
-    "stars": 1,
-    "updated_at": "2026-09-18T13:42:52Z",
-    "url": "https://github.com/letsloose501/skill-quality-suite"
-  },
-  {
-    "description": "Decision-driven harness for coding agents, and humans.",
-    "id": "nevenincs/vaultspec-core",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-core",
-    "stars": 2,
-    "updated_at": "2026-09-18T13:43:38Z",
-    "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-18T14:13:22Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "78 GTM skills for Claude Code \u2014 7 GTM roles, 8 store loops, one shared setup skill. Lifecycle segmentation, deal scoring",
-    "id": "sidchaudhary/gtm-skills",
-    "language": "Python",
-    "name": "sidchaudhary/gtm-skills",
-    "stars": 1,
-    "updated_at": "2026-09-18T13:38:21Z",
-    "url": "https://github.com/sidchaudhary/gtm-skills"
-  },
-  {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 824,
-    "updated_at": "2026-09-18T13:36:47Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "Agent skill that strips AI tells from prose and puts a human voice back, pitched at the reader it is for. British Englis",
-    "id": "dbhq-uk/verve-skill",
-    "language": "Python",
-    "name": "dbhq-uk/verve-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:36:26Z",
-    "url": "https://github.com/dbhq-uk/verve-skill"
-  },
-  {
-    "description": "Compiler-exact code search for Claude Code and Codex, over a SCIP index - definitions, references, callers and change im",
-    "id": "dbhq-uk/vela-skill",
-    "language": "C#",
-    "name": "dbhq-uk/vela-skill",
-    "stars": 6,
-    "updated_at": "2026-09-18T13:36:23Z",
-    "url": "https://github.com/dbhq-uk/vela-skill"
-  },
-  {
-    "description": "Trello skill pack for Claude Code and Codex - boards, lists and cards, board digests and a due-date radar. A free tool b",
-    "id": "dbhq-uk/trello-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/trello-skill",
-    "stars": 2,
-    "updated_at": "2026-09-18T13:36:21Z",
-    "url": "https://github.com/dbhq-uk/trello-skill"
-  },
-  {
-    "description": "Put a PDF in the post - a Claude Code and Codex skill for physical letters, printed in the UK and delivered by Royal Mai",
-    "id": "dbhq-uk/pennyblack-skill",
-    "language": "Python",
-    "name": "dbhq-uk/pennyblack-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:36:18Z",
-    "url": "https://github.com/dbhq-uk/pennyblack-skill"
-  },
-  {
-    "description": "Microsoft 365 mail and calendar skill for Claude Code and Codex, plus PST archives into searchable markdown. A free tool",
-    "id": "dbhq-uk/outlook-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/outlook-skill",
-    "stars": 2,
-    "updated_at": "2026-09-18T13:36:15Z",
-    "url": "https://github.com/dbhq-uk/outlook-skill"
-  },
-  {
-    "description": "Decision-research skill for Claude Code and Codex - every claim states how well it is supported, and says when the evide",
-    "id": "dbhq-uk/legwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/legwork-skill",
-    "stars": 3,
-    "updated_at": "2026-09-18T13:36:13Z",
-    "url": "https://github.com/dbhq-uk/legwork-skill"
-  },
-  {
-    "description": "imager - generate and edit images with OpenAI's GPT Image 2 from Claude Code and Codex. 27 style presets, platform sizin",
-    "id": "dbhq-uk/imager-skill",
-    "language": "Python",
-    "name": "dbhq-uk/imager-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:36:10Z",
-    "url": "https://github.com/dbhq-uk/imager-skill"
-  },
-  {
-    "description": "Put a second agent on the work - as an adversary or as a partner - and get back a result you can cite. Five patterns, th",
-    "id": "dbhq-uk/groupwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/groupwork-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:36:07Z",
-    "url": "https://github.com/dbhq-uk/groupwork-skill"
-  },
-  {
-    "description": "Git branch housekeeping skill for Claude Code and Codex - says which branches are finished and safe to delete where a sq",
-    "id": "dbhq-uk/gitview-skill",
-    "language": "Python",
-    "name": "dbhq-uk/gitview-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:36:05Z",
-    "url": "https://github.com/dbhq-uk/gitview-skill"
-  },
-  {
-    "description": "Garmin Connect health and fitness data for Claude Code and Codex - Body Battery, HRV, sleep, activities, VO2 max and tra",
-    "id": "dbhq-uk/garmin-skill",
-    "language": "Python",
-    "name": "dbhq-uk/garmin-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:36:02Z",
-    "url": "https://github.com/dbhq-uk/garmin-skill"
-  },
-  {
-    "description": "File what an agent notices as a tracked GitHub issue, reconcile the dependency graph, and keep a roadmap in git",
-    "id": "dbhq-uk/deskwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/deskwork-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:35:59Z",
-    "url": "https://github.com/dbhq-uk/deskwork-skill"
-  },
-  {
-    "description": "Claude Code and Codex skill that runs a repository's open issues as parallel agents - one per issue, each in its own git",
-    "id": "dbhq-uk/buildwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/buildwork-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:35:57Z",
-    "url": "https://github.com/dbhq-uk/buildwork-skill"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:11:54Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
-    "description": "Discover agent rules and skill files from leading open source projects",
-    "id": "modem-dev/ossrules",
-    "language": "Python",
-    "name": "modem-dev/ossrules",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:32:26Z",
-    "url": "https://github.com/modem-dev/ossrules"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-18T13:31:32Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:32:07Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "Offline-first project management in a single HTML file \u2014 WBS \u00b7 CPM critical path \u00b7 risk register \u00b7 ADR \u00b7 kanban \u00b7 Excel/",
-    "id": "tohnee/weaveboard",
-    "language": "HTML",
-    "name": "tohnee/weaveboard",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:28:38Z",
-    "url": "https://github.com/tohnee/weaveboard"
   }
 ]
