@@ -1,12 +1,111 @@
 [
   {
+    "description": "Six skills tell coding agents how to work. Two guards enforce the parts that should not depend on judgment.",
+    "id": "Ezra144israel/agent-teamwork-kit",
+    "language": "Python",
+    "name": "Ezra144israel/agent-teamwork-kit",
+    "stars": 22,
+    "updated_at": "2026-09-18T14:45:05Z",
+    "url": "https://github.com/Ezra144israel/agent-teamwork-kit"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-09-18T14:43:53Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "A prose linter that sniffs out AI writing tells. Zero dependencies, countable rules plus one judgment model.",
+    "id": "DanRWilloughby/snifftest",
+    "language": "TypeScript",
+    "name": "DanRWilloughby/snifftest",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:43:34Z",
+    "url": "https://github.com/DanRWilloughby/snifftest"
+  },
+  {
+    "description": "Claude skill for working with CINECA Leonardo HPC: SLURM jobs, CPU/GPU partitions, filesystems, modules, data transfers,",
+    "id": "cizzoo/leonardo-hpc-skill",
+    "language": "\u2014",
+    "name": "cizzoo/leonardo-hpc-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:43:23Z",
+    "url": "https://github.com/cizzoo/leonardo-hpc-skill"
+  },
+  {
+    "description": "Agent Skill: chaos engineering on a diff. Disprove a ticket's steady-state invariants after green tests.",
+    "id": "avaxML/chaos-monkey-skill",
+    "language": "\u2014",
+    "name": "avaxML/chaos-monkey-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:42:17Z",
+    "url": "https://github.com/avaxML/chaos-monkey-skill"
+  },
+  {
+    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
+    "id": "rokokol/bash-best-practices-skill",
+    "language": "Shell",
+    "name": "rokokol/bash-best-practices-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:41:45Z",
+    "url": "https://github.com/rokokol/bash-best-practices-skill"
+  },
+  {
+    "description": "Agent Skills for plori: create and drive cloud AI agents in persistent environments.",
+    "id": "plori-ai/skills",
+    "language": "\u2014",
+    "name": "plori-ai/skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:40:26Z",
+    "url": "https://github.com/plori-ai/skills"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-18T14:39:04Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Agent skill: turn any flat logo into a premium 3D spinning coin (React Three Fiber). One command, try it live in your br",
+    "id": "hasuwini77/3d-logo-skill",
+    "language": "\u2014",
+    "name": "hasuwini77/3d-logo-skill",
+    "stars": 3,
+    "updated_at": "2026-09-18T14:36:33Z",
+    "url": "https://github.com/hasuwini77/3d-logo-skill"
+  },
+  {
     "description": "150+ deterministic, fully-offline MCP tools & free AI-agent skills for cross-industry monthly checks (payroll, tax, invo",
     "id": "chenqg618/compliance-skills",
     "language": "JavaScript",
     "name": "chenqg618/compliance-skills",
     "stars": 0,
-    "updated_at": "2026-09-18T14:30:08Z",
+    "updated_at": "2026-09-18T14:34:37Z",
     "url": "https://github.com/chenqg618/compliance-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69185,
+    "updated_at": "2026-09-18T14:38:54Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-18T14:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -144,15 +243,6 @@
     "url": "https://github.com/dbhq-uk/buildwork-skill"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69184,
-    "updated_at": "2026-09-18T14:29:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "The DBHQ plugin marketplace for Claude Code and Codex - fifteen free, open-source agent skills, each documented at skill",
     "id": "dbhq-uk/marketplace",
     "language": "\u2014",
@@ -178,15 +268,6 @@
     "stars": 8,
     "updated_at": "2026-09-18T14:22:07Z",
     "url": "https://github.com/osrim/niksi"
-  },
-  {
-    "description": "Agent Skill: chaos engineering on a diff. Disprove a ticket's steady-state invariants after green tests.",
-    "id": "avaxML/chaos-monkey-skill",
-    "language": "\u2014",
-    "name": "avaxML/chaos-monkey-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:21:23Z",
-    "url": "https://github.com/avaxML/chaos-monkey-skill"
   },
   {
     "description": "Agent skill for Senzing entity resolution \u2014 data mapping, SDK code generation, documentation search, error troubleshooti",
@@ -223,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T14:19:36Z",
     "url": "https://github.com/dbhq-uk/headwork-skill"
-  },
-  {
-    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
-    "id": "rokokol/bash-best-practices-skill",
-    "language": "Shell",
-    "name": "rokokol/bash-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:18:55Z",
-    "url": "https://github.com/rokokol/bash-best-practices-skill"
   },
   {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
@@ -277,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T14:15:30Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-18T14:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T14:02:34Z",
     "url": "https://github.com/alex-macra/claude-codex-skills-assembly"
-  },
-  {
-    "description": "Print on your Formlabs printer from Claude Code. Plugin marketplace: MCP server + print-prep skills.",
-    "id": "mkebiclioglu/formlabs-claude-skills",
-    "language": "Python",
-    "name": "mkebiclioglu/formlabs-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:01:40Z",
-    "url": "https://github.com/mkebiclioglu/formlabs-claude-skills"
-  },
-  {
-    "description": "Lints a Claude skill against a seven-gate quality floor and reports it gate by gate, with a specific fix for each miss.",
-    "id": "happypathworks/skill-audit",
-    "language": "Python",
-    "name": "happypathworks/skill-audit",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:01:06Z",
-    "url": "https://github.com/happypathworks/skill-audit"
-  },
-  {
-    "description": "Audit a Shopify app against Built for Shopify (BFS) requirements",
-    "id": "mahi05/bfs-audit-skill",
-    "language": "Shell",
-    "name": "mahi05/bfs-audit-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:00:50Z",
-    "url": "https://github.com/mahi05/bfs-audit-skill"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 60,
-    "updated_at": "2026-09-18T13:57:22Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-18T13:51:49Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Craft, encoded. 152 skills and 16 agents that hold an agent to a professional standard: writing, documents, engineering,",
-    "id": "Handsomeboy990/craft-suite",
-    "language": "Python",
-    "name": "Handsomeboy990/craft-suite",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:11:00Z",
-    "url": "https://github.com/Handsomeboy990/craft-suite"
-  },
-  {
-    "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
-    "id": "thrixel/build-world",
-    "language": "JavaScript",
-    "name": "thrixel/build-world",
-    "stars": 73,
-    "updated_at": "2026-09-18T13:47:06Z",
-    "url": "https://github.com/thrixel/build-world"
   }
 ]
