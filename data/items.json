@@ -1,5 +1,77 @@
 [
   {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69166,
+    "updated_at": "2026-09-18T03:43:32Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 2,
+    "updated_at": "2026-09-18T03:42:48Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "Mobile AI Skills, Agents and workflow to help you build mobile apps and games faster. A collection of AI skills, agents,",
+    "id": "salmanashraf/mobile-ai-agents",
+    "language": "JavaScript",
+    "name": "salmanashraf/mobile-ai-agents",
+    "stars": 26,
+    "updated_at": "2026-09-18T03:39:29Z",
+    "url": "https://github.com/salmanashraf/mobile-ai-agents"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-18T03:42:40Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "\u5b9e\u6218\u6c89\u6dc0\u7684 Claude \u6280\u80fd\u5408\u96c6\uff1a\u8bf4\u4eba\u8bdd/\u4ee3\u7801\u5347\u7ea7/\u5f00\u6e90\u9879\u76ee\u7814\u7a76/\u9879\u76ee\u5f00\u6e90/Obsidian\u7ef4\u62a4 | Battle-tested Claude Code skills: humanized writing, code renovation",
+    "id": "YiweiCreates/claude-skills",
+    "language": "Python",
+    "name": "YiweiCreates/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T03:37:13Z",
+    "url": "https://github.com/YiweiCreates/claude-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-18T03:35:14Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-09-18T03:34:03Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-18T03:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -126,15 +198,6 @@
     "url": "https://github.com/nota-america/forgecat-agent-profiles"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-18T03:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u5c31\u6d3b\u30fb\u8ee2\u8077\u30fb\u63a1\u7528\u3092\u652f\u63f4\u3059\u308b\u65e5\u672c\u8a9eAgent Skills\u3002ES\u30fb\u5c65\u6b74\u66f8\u30fb\u9762\u63a5\u5bfe\u7b56\u30fb\u4f01\u696d\u7814\u7a76\u30fb\u304a\u305f\u3081\u3057\u8ee2\u8077\u306b\u5bfe\u5fdc\u3002Japanese job search, career change and recruiting skills for Cla",
     "id": "ficilcom/otame4-work-skills",
     "language": "Python",
@@ -142,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-09-18T03:14:26Z",
     "url": "https://github.com/ficilcom/otame4-work-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69164,
-    "updated_at": "2026-09-18T03:29:30Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T03:11:20Z",
     "url": "https://github.com/HABUBUSS/everything-claude-code"
-  },
-  {
-    "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
-    "id": "getedgehq/skills",
-    "language": "Python",
-    "name": "getedgehq/skills",
-    "stars": 2,
-    "updated_at": "2026-09-18T03:11:14Z",
-    "url": "https://github.com/getedgehq/skills"
   },
   {
     "description": "Run the exact sandbox VM Anthropic uses for Claude code sessions, with tools, packages, and skills included, on your own",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T03:00:31Z",
     "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "Agent Skills for evidence-led visual reports, clear explainers, and HTML presentations, with optional publishing through",
-    "id": "arunai30/super-document-skills",
-    "language": "HTML",
-    "name": "arunai30/super-document-skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T03:00:28Z",
-    "url": "https://github.com/arunai30/super-document-skills"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T02:59:49Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-09-18T02:59:48Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-09-18T02:59:48Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "CHA (Cyclic Hostile Adversarial Harnessing) \u2014 Cross-checking LLM pipeline for deep code debugging",
-    "id": "jysvai/CHA",
-    "language": "JavaScript",
-    "name": "jysvai/CHA",
-    "stars": 1,
-    "updated_at": "2026-09-18T02:59:37Z",
-    "url": "https://github.com/jysvai/CHA"
   }
 ]
