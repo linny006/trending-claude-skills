@@ -1,5 +1,140 @@
 [
   {
+    "description": "Opencode agents and skills",
+    "id": "chris-hendrix/ai-hub",
+    "language": "Shell",
+    "name": "chris-hendrix/ai-hub",
+    "stars": 2,
+    "updated_at": "2026-09-18T20:44:34Z",
+    "url": "https://github.com/chris-hendrix/ai-hub"
+  },
+  {
+    "description": "A lightweight agent skillset for every step of the building process.",
+    "id": "mnguyenht/bld-package",
+    "language": "Python",
+    "name": "mnguyenht/bld-package",
+    "stars": 1,
+    "updated_at": "2026-09-18T20:44:11Z",
+    "url": "https://github.com/mnguyenht/bld-package"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-09-18T20:43:10Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "A knowledge base for coding agents, built from Markdown, backlinks, semantic search, and Git context.",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 13,
+    "updated_at": "2026-09-18T20:42:07Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 176,
+    "updated_at": "2026-09-18T20:42:23Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Review your iOS app the way App Review does, before they do. Walks a fresh install from splash to paywall and past the d",
+    "id": "utkuv/prereview",
+    "language": "Shell",
+    "name": "utkuv/prereview",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:41:20Z",
+    "url": "https://github.com/utkuv/prereview"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-18T20:36:20Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-09-18T20:37:28Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-09-18T20:34:54Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 40,
+    "updated_at": "2026-09-18T20:36:19Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Discover agent rules and skill files from leading open source projects",
+    "id": "modem-dev/ossrules",
+    "language": "Python",
+    "name": "modem-dev/ossrules",
+    "stars": 10,
+    "updated_at": "2026-09-18T20:32:22Z",
+    "url": "https://github.com/modem-dev/ossrules"
+  },
+  {
+    "description": "Propper shared agent skills for Claude Code",
+    "id": "mypropper/skills",
+    "language": "JavaScript",
+    "name": "mypropper/skills",
+    "stars": 1,
+    "updated_at": "2026-09-18T20:31:44Z",
+    "url": "https://github.com/mypropper/skills"
+  },
+  {
+    "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
+    "id": "soulmachine/skills",
+    "language": "Shell",
+    "name": "soulmachine/skills",
+    "stars": 3,
+    "updated_at": "2026-09-18T20:31:36Z",
+    "url": "https://github.com/soulmachine/skills"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-09-18T20:31:00Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-18T20:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "",
     "id": "SELAT-AI/selat-skills",
     "language": "JavaScript",
@@ -16,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T20:29:37Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Discover agent rules and skill files from leading open source projects",
-    "id": "modem-dev/ossrules",
-    "language": "Python",
-    "name": "modem-dev/ossrules",
-    "stars": 10,
-    "updated_at": "2026-09-18T20:29:00Z",
-    "url": "https://github.com/modem-dev/ossrules"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -45,33 +171,6 @@
     "url": "https://github.com/acevod/trading-guardian-binance-agent-os"
   },
   {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 40,
-    "updated_at": "2026-09-18T20:28:20Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
-    "description": "A lightweight agent skillset for every step of the building process.",
-    "id": "mnguyenht/bld-package",
-    "language": "Python",
-    "name": "mnguyenht/bld-package",
-    "stars": 1,
-    "updated_at": "2026-09-18T20:26:58Z",
-    "url": "https://github.com/mnguyenht/bld-package"
-  },
-  {
-    "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
-    "id": "soulmachine/skills",
-    "language": "Shell",
-    "name": "soulmachine/skills",
-    "stars": 3,
-    "updated_at": "2026-09-18T20:25:45Z",
-    "url": "https://github.com/soulmachine/skills"
-  },
-  {
     "description": "A planning skill for Claude or ChatGPT that asks before it plans. Three versions: claude.ai, engineers, and read-only fo",
     "id": "marcosathanasoulis/prompt-it",
     "language": "Python",
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T20:22:49Z",
     "url": "https://github.com/lin113311221/savault-skills"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-18T20:21:26Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "Quality, security, compatibility and publishing toolkit for AI Agent Skills - lint and validate SKILL.md, scan for secre",
@@ -135,31 +225,13 @@
     "url": "https://github.com/ProtonGiverFreeze64/Everything-Claude-Code"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-18T20:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
     "stars": 94192,
-    "updated_at": "2026-09-18T20:19:50Z",
+    "updated_at": "2026-09-18T20:37:59Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 176,
-    "updated_at": "2026-09-18T20:19:42Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Claude Code skill that curates a weekly agentic AI and LLM newsletter, checks it, and publishes it to a Hugo site from a",
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "Diegocortes15/playwright-ai-framework",
     "stars": 0,
-    "updated_at": "2026-09-18T20:24:21Z",
+    "updated_at": "2026-09-18T20:41:12Z",
     "url": "https://github.com/Diegocortes15/playwright-ai-framework"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T19:49:29Z",
     "url": "https://github.com/glichtenthal/agent-skills"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:48:52Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:47:59Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:46:48Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:46:21Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:46:19Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:46:15Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:45:47Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:45:11Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
