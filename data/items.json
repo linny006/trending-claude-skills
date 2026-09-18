@@ -1,11 +1,101 @@
 [
   {
+    "description": "16 advanced, customizable Claude Code skills for security operations teams: triage, detection engineering, threat huntin",
+    "id": "ftrout/secops-claude-skills",
+    "language": "Python",
+    "name": "ftrout/secops-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T12:14:15Z",
+    "url": "https://github.com/ftrout/secops-claude-skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-18T12:13:36Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-18T12:12:54Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/",
+    "id": "Ark0N/Codeman",
+    "language": "TypeScript",
+    "name": "Ark0N/Codeman",
+    "stars": 761,
+    "updated_at": "2026-09-18T12:11:46Z",
+    "url": "https://github.com/Ark0N/Codeman"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T12:08:57Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "Skills that teach an agent to use the systems an Exorails environment exposes (PostgreSQL, SSH, Kubernetes, Redis, S3\u2026).",
+    "id": "thomasdseao/exorails-skills",
+    "language": "\u2014",
+    "name": "thomasdseao/exorails-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T12:07:28Z",
+    "url": "https://github.com/thomasdseao/exorails-skills"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-09-18T12:05:44Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-18T12:13:53Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "SkillSync is an open source talent intelligence platform that automates skills matrix tracking, competency gap analysis,",
+    "id": "tomaszboloz/SkillSync",
+    "language": "Rust",
+    "name": "tomaszboloz/SkillSync",
+    "stars": 3,
+    "updated_at": "2026-09-18T12:03:03Z",
+    "url": "https://github.com/tomaszboloz/SkillSync"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-18T12:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
     "id": "danieljustus/symaira-eraseme",
     "language": "Go",
     "name": "danieljustus/symaira-eraseme",
     "stars": 8,
-    "updated_at": "2026-09-18T11:57:35Z",
+    "updated_at": "2026-09-18T12:07:36Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-18T11:56:58Z",
+    "updated_at": "2026-09-18T12:11:26Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -43,33 +133,6 @@
     "stars": 4,
     "updated_at": "2026-09-18T11:55:42Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/",
-    "id": "Ark0N/Codeman",
-    "language": "TypeScript",
-    "name": "Ark0N/Codeman",
-    "stars": 761,
-    "updated_at": "2026-09-18T11:56:41Z",
-    "url": "https://github.com/Ark0N/Codeman"
-  },
-  {
-    "description": "SkillSync is an open source talent intelligence platform that automates skills matrix tracking, competency gap analysis,",
-    "id": "tomaszboloz/SkillSync",
-    "language": "Rust",
-    "name": "tomaszboloz/SkillSync",
-    "stars": 3,
-    "updated_at": "2026-09-18T11:55:17Z",
-    "url": "https://github.com/tomaszboloz/SkillSync"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T11:53:52Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
     "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
@@ -108,13 +171,13 @@
     "url": "https://github.com/SUPER-NIUs/Delta-harmonica-tablature-generation-skill"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-18T11:58:23Z",
-    "url": "https://github.com/martinambrus/haive"
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69184,
+    "updated_at": "2026-09-18T12:12:06Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Fold your MacBook display for a soft, blurring desktop effect\u2014animated live at 60 fps with lid-angle smoothing on Apple ",
@@ -153,15 +216,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69183,
-    "updated_at": "2026-09-18T11:50:57Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly",
     "id": "Carlosdalv669/formify-skills",
     "language": "HTML",
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T11:46:26Z",
     "url": "https://github.com/Carlosdalv669/formify-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-18T11:45:53Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Run the exact sandbox VM Anthropic uses for Claude code sessions, with tools, packages, and skills included, on your own",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T11:40:51Z",
     "url": "https://github.com/HABUBUSS/everything-claude-code"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-18T11:56:10Z",
-    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Awesome Claude Code And Agent Tools",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T11:13:51Z",
     "url": "https://github.com/Josiecontrolling326/unifi-map"
-  },
-  {
-    "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
-    "id": "skeletonshorts029-png/open-code-review",
-    "language": "TypeScript",
-    "name": "skeletonshorts029-png/open-code-review",
-    "stars": 0,
-    "updated_at": "2026-09-18T11:13:21Z",
-    "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-09-18T11:13:18Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
-    "id": "isamubas/coffee_price_predictor",
-    "language": "HTML",
-    "name": "isamubas/coffee_price_predictor",
-    "stars": 0,
-    "updated_at": "2026-09-18T11:13:06Z",
-    "url": "https://github.com/isamubas/coffee_price_predictor"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-09-18T11:12:43Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
   }
 ]
