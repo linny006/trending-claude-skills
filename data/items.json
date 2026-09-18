@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-18T14:00:22Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-18T13:58:45Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 60,
+    "updated_at": "2026-09-18T13:57:22Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Audit a Shopify app against Built for Shopify (BFS) requirements",
+    "id": "mahi05/bfs-audit-skill",
+    "language": "Shell",
+    "name": "mahi05/bfs-audit-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T13:57:03Z",
+    "url": "https://github.com/mahi05/bfs-audit-skill"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-18T13:51:49Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Craft, encoded. 152 skills and 16 agents that hold an agent to a professional standard: writing, documents, engineering,",
+    "id": "Handsomeboy990/craft-suite",
+    "language": "Python",
+    "name": "Handsomeboy990/craft-suite",
+    "stars": 0,
+    "updated_at": "2026-09-18T13:55:42Z",
+    "url": "https://github.com/Handsomeboy990/craft-suite"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69183,
+    "updated_at": "2026-09-18T13:57:09Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
+    "id": "thrixel/build-world",
+    "language": "JavaScript",
+    "name": "thrixel/build-world",
+    "stars": 73,
+    "updated_at": "2026-09-18T13:47:06Z",
+    "url": "https://github.com/thrixel/build-world"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-09-18T13:46:59Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-18T13:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-18T13:45:07Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Eight portable review skills that make any coding agent file evidence-backed, severity-graded audits: bugs, security, te",
     "id": "specialone0007/review-skills",
     "language": "Python",
@@ -59,7 +158,7 @@
     "language": "Go",
     "name": "danieljustus/symaira-eraseme",
     "stars": 8,
-    "updated_at": "2026-09-18T13:37:54Z",
+    "updated_at": "2026-09-18T14:00:25Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -68,7 +167,7 @@
     "language": "HTML",
     "name": "vanducng/skills",
     "stars": 8,
-    "updated_at": "2026-09-18T13:38:22Z",
+    "updated_at": "2026-09-18T13:54:24Z",
     "url": "https://github.com/vanducng/skills"
   },
   {
@@ -194,17 +293,8 @@
     "language": "Python",
     "name": "sayam/thai-docx-skill",
     "stars": 0,
-    "updated_at": "2026-09-18T13:34:31Z",
+    "updated_at": "2026-09-18T14:00:25Z",
     "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-18T13:32:57Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "Discover agent rules and skill files from leading open source projects",
@@ -225,24 +315,6 @@
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-18T13:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Audit a Shopify app against Built for Shopify (BFS) requirements",
-    "id": "mahi05/bfs-audit-skill",
-    "language": "Shell",
-    "name": "mahi05/bfs-audit-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:44:26Z",
-    "url": "https://github.com/mahi05/bfs-audit-skill"
-  },
-  {
     "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
     "id": "aisenseapi/aisense-free-public-rest-apis",
     "language": "HTML",
@@ -250,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T13:32:07Z",
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69183,
-    "updated_at": "2026-09-18T13:36:20Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Offline-first project management in a single HTML file \u2014 WBS \u00b7 CPM critical path \u00b7 risk register \u00b7 ADR \u00b7 kanban \u00b7 Excel/",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T13:12:05Z",
     "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Ship verified marketing copy with adversarial checks \u2014 every factual claim traced to fetched sources before it goes live",
-    "id": "mucinous-riposte867/evidence-based-copywriting",
-    "language": "Python",
-    "name": "mucinous-riposte867/evidence-based-copywriting",
-    "stars": 1,
-    "updated_at": "2026-09-18T13:12:00Z",
-    "url": "https://github.com/mucinous-riposte867/evidence-based-copywriting"
-  },
-  {
-    "description": "Raw idea \u2192 evidence-backed build blueprint \u2192 ship epic by epic with Claude Code or Codex. Agentic engineering, not vibe ",
-    "id": "iniesohidham/idea-to-blueprint",
-    "language": "Python",
-    "name": "iniesohidham/idea-to-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:11:16Z",
-    "url": "https://github.com/iniesohidham/idea-to-blueprint"
-  },
-  {
-    "description": "Generate publish-ready TikTok and Douyin vertical videos from a single content brief, powered by AI agents.",
-    "id": "Trudiemisanthropic314/tiktok-video-skill",
-    "language": "Python",
-    "name": "Trudiemisanthropic314/tiktok-video-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:11:14Z",
-    "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
-  },
-  {
-    "description": "Curated modular agent skills for LLM-based assistants to extend AI capabilities and enable autonomous agents.",
-    "id": "graceupperclass437/agent-skills-collection",
-    "language": "Python",
-    "name": "graceupperclass437/agent-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:11:09Z",
-    "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:10:13Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
-  },
-  {
-    "description": "Export UniFi network topologies as zoomable vector diagrams and editable draw.io files using real device data.",
-    "id": "Josiecontrolling326/unifi-map",
-    "language": "Python",
-    "name": "Josiecontrolling326/unifi-map",
-    "stars": 1,
-    "updated_at": "2026-09-18T13:10:11Z",
-    "url": "https://github.com/Josiecontrolling326/unifi-map"
-  },
-  {
-    "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
-    "id": "skeletonshorts029-png/open-code-review",
-    "language": "TypeScript",
-    "name": "skeletonshorts029-png/open-code-review",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:09:41Z",
-    "url": "https://github.com/skeletonshorts029-png/open-code-review"
   }
 ]
