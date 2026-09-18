@@ -1,12 +1,129 @@
 [
   {
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 1,
+    "updated_at": "2026-09-18T08:13:26Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "A battle-tested Claude Code operating system for efficient, reliable, and focused software engineering. Includes global ",
+    "id": "fjerbi/claude-code-arsenal",
+    "language": "\u2014",
+    "name": "fjerbi/claude-code-arsenal",
+    "stars": 0,
+    "updated_at": "2026-09-18T08:12:33Z",
+    "url": "https://github.com/fjerbi/claude-code-arsenal"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-18T08:12:10Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
+    "id": "natthasath/natthasath-marketplace",
+    "language": "HTML",
+    "name": "natthasath/natthasath-marketplace",
+    "stars": 1,
+    "updated_at": "2026-09-18T08:11:56Z",
+    "url": "https://github.com/natthasath/natthasath-marketplace"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "HTML",
+    "name": "vanducng/skills",
+    "stars": 8,
+    "updated_at": "2026-09-18T08:10:34Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 746,
+    "updated_at": "2026-09-18T08:12:51Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "MCP server for Dreamina (Seedance 2.5): batch video generation from Claude \u2014 50 cinematic techniques, references, first/",
+    "id": "DanikVR/dreamina-seedance-mcp",
+    "language": "JavaScript",
+    "name": "DanikVR/dreamina-seedance-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-18T08:08:27Z",
+    "url": "https://github.com/DanikVR/dreamina-seedance-mcp"
+  },
+  {
+    "description": "\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u4e0e\u5ba1\u7a3f Claude Code plugin\u3002\u9898\u6750\u4e2d\u6027 \u2014 \u6821\u56ed\u9752\u6625\u3001\u60ac\u7591\u3001\u6b66\u4fa0\u3001\u79d1\u5e7b\u3001\u5386\u53f2\u3001\u90fd\u5e02\u7b49\u957f\u7bc7\u5747\u53ef\u3002\u5305\u542b 5 \u4e2a skill + 12 \u4e2a agent + 8 \u7bc7\u901a\u7528\u5199\u4f5c\u6280\u6cd5 reference\u3002",
+    "id": "chaserr/novel-craft",
+    "language": "\u2014",
+    "name": "chaserr/novel-craft",
+    "stars": 4,
+    "updated_at": "2026-09-18T08:07:25Z",
+    "url": "https://github.com/chaserr/novel-craft"
+  },
+  {
+    "description": "A collection of Agent Skills for AI coding agents \u2014 starting with Domain-Driven Design (DDD).",
+    "id": "salimramirez/agent-skills",
+    "language": "Java",
+    "name": "salimramirez/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-09-18T08:14:06Z",
+    "url": "https://github.com/salimramirez/agent-skills"
+  },
+  {
+    "description": "Turn a song's jianpu (numbered notation) into a Delta Force (\u4e09\u89d2\u6d32\u884c\u52a8) Nightwatch harmonica keyboard score, rendered as a P",
+    "id": "SUPER-NIUs/delta-harmonica-score",
+    "language": "Python",
+    "name": "SUPER-NIUs/delta-harmonica-score",
+    "stars": 0,
+    "updated_at": "2026-09-18T08:05:09Z",
+    "url": "https://github.com/SUPER-NIUs/delta-harmonica-score"
+  },
+  {
+    "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
+    "id": "SentiSenseApp/skills",
+    "language": "Python",
+    "name": "SentiSenseApp/skills",
+    "stars": 2,
+    "updated_at": "2026-09-18T08:04:01Z",
+    "url": "https://github.com/SentiSenseApp/skills"
+  },
+  {
+    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
+    "id": "Sylad/claude-code-codex",
+    "language": "HTML",
+    "name": "Sylad/claude-code-codex",
+    "stars": 0,
+    "updated_at": "2026-09-18T08:01:58Z",
+    "url": "https://github.com/Sylad/claude-code-codex"
+  },
+  {
     "description": "Small, sharp, agent-agnostic skills that keep an AI agent's work honest.",
     "id": "jovesun-lab/whetstone",
     "language": "HTML",
     "name": "jovesun-lab/whetstone",
     "stars": 8,
-    "updated_at": "2026-09-18T07:59:13Z",
+    "updated_at": "2026-09-18T08:01:49Z",
     "url": "https://github.com/jovesun-lab/whetstone"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-18T08:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
@@ -25,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-09-18T07:58:40Z",
     "url": "https://github.com/ooooooooooooooooooop/personal-ai"
-  },
-  {
-    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "JavaScript",
-    "name": "SteveKinzey/claude-code-tools-installer",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:59:24Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
   },
   {
     "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple gr",
@@ -99,15 +207,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
-    "id": "Sylad/claude-code-codex",
-    "language": "HTML",
-    "name": "Sylad/claude-code-codex",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:48:29Z",
-    "url": "https://github.com/Sylad/claude-code-codex"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -126,15 +225,6 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 746,
-    "updated_at": "2026-09-18T07:45:45Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "\u05db\u05dc \u05d4\u05e1\u05e7\u05d9\u05dc\u05d9\u05dd \u05e9\u05dc \u05d1\u05d9\u05df \u05e7\u05d5\u05d3\u05e9 \u05dc\u05e7\u05dc\u05d5\u05d3 \u05dc-Claude Code \u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05d3 - \u05d3\u05e3 \u05d4\u05e1\u05d1\u05e8 \u05d5\u05d4\u05ea\u05e7\u05e0\u05d4 \u05d1\u05d4\u05d3\u05d1\u05e7\u05d4 \u05d0\u05d7\u05ea \u05dc\u05db\u05dc \u05e1\u05e7\u05d9\u05dc",
     "id": "hiyabh/claude-skills",
     "language": "HTML",
@@ -142,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T07:45:38Z",
     "url": "https://github.com/hiyabh/claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-18T07:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -301,7 +382,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 6892,
+    "stars": 6894,
     "updated_at": "2026-09-18T07:08:58Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T07:07:35Z",
     "url": "https://github.com/dbhq-uk/pennyblack-skill"
-  },
-  {
-    "description": "Run the exact sandbox VM Anthropic uses for Claude code sessions, with tools, packages, and skills included, on your own",
-    "id": "devorochimaru/Wiggle",
-    "language": "JavaScript",
-    "name": "devorochimaru/Wiggle",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:07:34Z",
-    "url": "https://github.com/devorochimaru/Wiggle"
-  },
-  {
-    "description": "Claude Code and Codex skill that runs a repository's open issues as parallel agents - one per issue, each in its own git",
-    "id": "dbhq-uk/buildwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/buildwork-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:07:33Z",
-    "url": "https://github.com/dbhq-uk/buildwork-skill"
-  },
-  {
-    "description": "Git branch housekeeping skill for Claude Code and Codex - says which branches are finished and safe to delete where a sq",
-    "id": "dbhq-uk/gitview-skill",
-    "language": "Python",
-    "name": "dbhq-uk/gitview-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:07:31Z",
-    "url": "https://github.com/dbhq-uk/gitview-skill"
-  },
-  {
-    "description": "imager - generate and edit images with OpenAI's GPT Image 2 from Claude Code and Codex. 27 style presets, platform sizin",
-    "id": "dbhq-uk/imager-skill",
-    "language": "Python",
-    "name": "dbhq-uk/imager-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:07:30Z",
-    "url": "https://github.com/dbhq-uk/imager-skill"
-  },
-  {
-    "description": "Garmin Connect health and fitness data for Claude Code and Codex - Body Battery, HRV, sleep, activities, VO2 max and tra",
-    "id": "dbhq-uk/garmin-skill",
-    "language": "Python",
-    "name": "dbhq-uk/garmin-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:07:28Z",
-    "url": "https://github.com/dbhq-uk/garmin-skill"
-  },
-  {
-    "description": "Agent skill that strips AI tells from prose and puts a human voice back, pitched at the reader it is for. British Englis",
-    "id": "dbhq-uk/verve-skill",
-    "language": "Python",
-    "name": "dbhq-uk/verve-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:07:26Z",
-    "url": "https://github.com/dbhq-uk/verve-skill"
-  },
-  {
-    "description": "Decision-research skill for Claude Code and Codex - every claim states how well it is supported, and says when the evide",
-    "id": "dbhq-uk/legwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/legwork-skill",
-    "stars": 3,
-    "updated_at": "2026-09-18T07:07:24Z",
-    "url": "https://github.com/dbhq-uk/legwork-skill"
-  },
-  {
-    "description": "Trello skill pack for Claude Code and Codex - boards, lists and cards, board digests and a due-date radar. A free tool b",
-    "id": "dbhq-uk/trello-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/trello-skill",
-    "stars": 2,
-    "updated_at": "2026-09-18T07:07:22Z",
-    "url": "https://github.com/dbhq-uk/trello-skill"
-  },
-  {
-    "description": "Microsoft 365 mail and calendar skill for Claude Code and Codex, plus PST archives into searchable markdown. A free tool",
-    "id": "dbhq-uk/outlook-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/outlook-skill",
-    "stars": 2,
-    "updated_at": "2026-09-18T07:07:20Z",
-    "url": "https://github.com/dbhq-uk/outlook-skill"
   }
 ]
