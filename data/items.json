@@ -1,12 +1,129 @@
 [
   {
+    "description": "Open-source AI fitness coaching skill for Claude and Codex: strength training, cardio, fat loss, nutrition and meal prep",
+    "id": "MuscleOtter/rowan-fitness-skill",
+    "language": "Python",
+    "name": "MuscleOtter/rowan-fitness-skill",
+    "stars": 2,
+    "updated_at": "2026-09-18T18:30:01Z",
+    "url": "https://github.com/MuscleOtter/rowan-fitness-skill"
+  },
+  {
     "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
     "id": "mykpono/ultimate-seo-geo",
     "language": "Python",
     "name": "mykpono/ultimate-seo-geo",
     "stars": 77,
-    "updated_at": "2026-09-18T18:14:40Z",
+    "updated_at": "2026-09-18T18:29:58Z",
     "url": "https://github.com/mykpono/ultimate-seo-geo"
+  },
+  {
+    "description": "Package manager for Claude Code skills and agents and other AI related resources",
+    "id": "mensfeld/craftdesk",
+    "language": "TypeScript",
+    "name": "mensfeld/craftdesk",
+    "stars": 66,
+    "updated_at": "2026-09-18T18:29:41Z",
+    "url": "https://github.com/mensfeld/craftdesk"
+  },
+  {
+    "description": "Agent skill for research reports you can check: graded sources and citations that open the source at the exact supportin",
+    "id": "EnkrateiaLucca/research-report-skill",
+    "language": "HTML",
+    "name": "EnkrateiaLucca/research-report-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:28:51Z",
+    "url": "https://github.com/EnkrateiaLucca/research-report-skill"
+  },
+  {
+    "description": "Agent skills that take a product from idea to a live, self-hosted SaaS - build with MIT component registries, deploy & o",
+    "id": "takimdigital/expert-build-pack",
+    "language": "Python",
+    "name": "takimdigital/expert-build-pack",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:26:55Z",
+    "url": "https://github.com/takimdigital/expert-build-pack"
+  },
+  {
+    "description": "Let your agents send physical mail. Skills, CLI, MCP and API setup for AgentPostage.",
+    "id": "ctxrs/agentpostage",
+    "language": "JavaScript",
+    "name": "ctxrs/agentpostage",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:26:08Z",
+    "url": "https://github.com/ctxrs/agentpostage"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-18T18:24:28Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:23:55Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Go",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 8,
+    "updated_at": "2026-09-18T18:23:50Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "The mistake notebook for AI coding agents \u2014 recurring AI failures become escalating rules in one LESSONS.md. Works with ",
+    "id": "FridayKoi/lessons-md",
+    "language": "\u2014",
+    "name": "FridayKoi/lessons-md",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:20:02Z",
+    "url": "https://github.com/FridayKoi/lessons-md"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-18T18:19:30Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:18:11Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 52,
+    "updated_at": "2026-09-18T18:15:21Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-18T18:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Decision-driven harness for coding agents, and humans.",
@@ -72,15 +189,6 @@
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Go",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 8,
-    "updated_at": "2026-09-18T18:13:54Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
     "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
@@ -104,7 +212,7 @@
     "language": "TypeScript",
     "name": "Diegocortes15/playwright-ai-framework",
     "stars": 0,
-    "updated_at": "2026-09-18T18:09:51Z",
+    "updated_at": "2026-09-18T18:29:31Z",
     "url": "https://github.com/Diegocortes15/playwright-ai-framework"
   },
   {
@@ -194,17 +302,8 @@
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 1009,
-    "updated_at": "2026-09-18T18:04:26Z",
+    "updated_at": "2026-09-18T18:17:11Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-18T18:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -230,7 +329,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-18T18:03:51Z",
+    "updated_at": "2026-09-18T18:27:29Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -270,15 +369,6 @@
     "url": "https://github.com/the-nam-shub/e5-real-skills"
   },
   {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 145,
-    "updated_at": "2026-09-18T17:53:11Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
     "description": "Claude Skills for Perl SDET & Architecture",
     "id": "nigelhorne/claude",
     "language": "\u2014",
@@ -297,20 +387,11 @@
     "url": "https://github.com/Borda/AI-Rig"
   },
   {
-    "description": "Agent skills that take a product from idea to a live, self-hosted SaaS - build with MIT component registries, deploy & o",
-    "id": "takimdigital/expert-build-pack",
-    "language": "Python",
-    "name": "takimdigital/expert-build-pack",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:35:03Z",
-    "url": "https://github.com/takimdigital/expert-build-pack"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69190,
+    "stars": 69191,
     "updated_at": "2026-09-18T17:33:33Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T17:29:43Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:28:57Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-09-18T17:28:35Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
-  },
-  {
-    "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
-    "id": "Joshuadoroja33/Ronnier-skill",
-    "language": "PowerShell",
-    "name": "Joshuadoroja33/Ronnier-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:28:02Z",
-    "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 21,
-    "updated_at": "2026-09-18T17:56:26Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:37:46Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
-    "description": "Build production-grade mobile apps faster with simulator-verified skills tested against top-grossing apps.",
-    "id": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "language": "\u2014",
-    "name": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:26:33Z",
-    "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Ship verified marketing copy with adversarial checks \u2014 every factual claim traced to fetched sources before it goes live",
-    "id": "mucinous-riposte867/evidence-based-copywriting",
-    "language": "Python",
-    "name": "mucinous-riposte867/evidence-based-copywriting",
-    "stars": 1,
-    "updated_at": "2026-09-18T17:26:33Z",
-    "url": "https://github.com/mucinous-riposte867/evidence-based-copywriting"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-18T17:26:06Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "macOS dotfiles - Forgotten Art of Makefile",
-    "id": "kborovik/.dotfiles",
-    "language": "Vim Script",
-    "name": "kborovik/.dotfiles",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:25:42Z",
-    "url": "https://github.com/kborovik/.dotfiles"
   }
 ]
