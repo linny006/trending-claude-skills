@@ -1,5 +1,104 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-18T10:00:11Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Kindle-free AI agent skills for Amazon sellers \u2014 73 skills for review intelligence, VOC analysis, listing optimization a",
+    "id": "funewa/ARI-Skills",
+    "language": "Python",
+    "name": "funewa/ARI-Skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:59:40Z",
+    "url": "https://github.com/funewa/ARI-Skills"
+  },
+  {
+    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
+    "id": "rokokol/bash-best-practices-skill",
+    "language": "Shell",
+    "name": "rokokol/bash-best-practices-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:57:44Z",
+    "url": "https://github.com/rokokol/bash-best-practices-skill"
+  },
+  {
+    "description": "Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (\u7f51\u6587): \u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u5168\u6d41\u7a0b\uff0c\u957f\u7bc7\u77ed\u7bc7\u90fd\u652f\u6301 | 13 skills",
+    "id": "zenstory-ai/oh-story-claudecode",
+    "language": "JavaScript",
+    "name": "zenstory-ai/oh-story-claudecode",
+    "stars": 6960,
+    "updated_at": "2026-09-18T09:57:43Z",
+    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
+  },
+  {
+    "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
+    "id": "soulmachine/skills",
+    "language": "Shell",
+    "name": "soulmachine/skills",
+    "stars": 3,
+    "updated_at": "2026-09-18T09:56:23Z",
+    "url": "https://github.com/soulmachine/skills"
+  },
+  {
+    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
+    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
+    "language": "Python",
+    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:56:23Z",
+    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
+  },
+  {
+    "description": "Tested guardrail hooks and repo-hygiene skills for Claude Code. Every skill ships with an eval transcript.",
+    "id": "Skillkeel/skillkeel-starter",
+    "language": "Python",
+    "name": "Skillkeel/skillkeel-starter",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:56:09Z",
+    "url": "https://github.com/Skillkeel/skillkeel-starter"
+  },
+  {
+    "description": "\u5206\u6790\u5c0f\u7ea2\u4e66\u5404\u5782\u7c7b\u884c\u4e1a\u7b14\u8bb0\u6216\u89c6\u9891\u548c\u8fbe\u4eba\u8d8b\u52bf\uff0c\u8f93\u51fa\u5e02\u573a\u673a\u4f1a\u4e0e\u98ce\u9669\u3002\u5f53\u7528\u6237\u8be2\u95ee\u5c0f\u7ea2\u4e66\u5e02\u573a\u89c4\u6a21\u3001\u7c7b\u76ee\u589e\u957f\u6216\u8fbe\u4eba\u7ed3\u6784\u65f6\u4f7f\u7528\u3002\u652f\u6301\u56db\u5927\u80fd\u529b\uff1a(1) \u5173\u952e\u8bcd\u641c\u7d22\u7b14\u8bb0/\u89c6\u9891\uff0c\u53ef\u6309\u70b9\u8d5e\u6570\u3001\u8bc4\u8bba\u6570\u3001\u6536\u85cf\u6570\u3001\u53d1\u5e03\u65f6\u95f4\u3001\u5185\u5bb9\u7c7b\u578b\u7b5b\u9009\u6392\u5e8f\uff1b(2) \u535a\u4e3b\u4f5c\u54c1\u6293\u53d6\uff0c\u6309\u4e3b",
+    "id": "why20261/xiaohongshu-market-insight",
+    "language": "JavaScript",
+    "name": "why20261/xiaohongshu-market-insight",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:54:30Z",
+    "url": "https://github.com/why20261/xiaohongshu-market-insight"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587 Java/Spring \u751f\u6001\u7684 Agent Skills \u5957\u88c5\uff1a\u7f16\u7801\u89c4\u8303\u3001\u8d28\u91cf\u95e8\u7981\u3001\u5355\u5143\u6d4b\u8bd5\u3001Sa-Token/MyBatis-Plus \u6846\u67b6\u3001\u654f\u6377\u6d41\u7a0b\u3002\u652f\u6301 Claude Code \u63d2\u4ef6\u4e0e npx skills \u4e00\u952e\u5b89\u88c5\u3002",
+    "id": "BaixuanZhu/skills",
+    "language": "Java",
+    "name": "BaixuanZhu/skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:53:49Z",
+    "url": "https://github.com/BaixuanZhu/skills"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 27,
+    "updated_at": "2026-09-18T09:52:42Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-18T09:52:08Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skill for HTML presentations: pick from three real design directions, then one single-file deck verified on projec",
     "id": "MJorgin/preflight-decks",
     "language": "Python",
@@ -34,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T09:45:27Z",
     "url": "https://github.com/benman1/wiggum"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-18T09:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
@@ -90,15 +180,6 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
-    "id": "soulmachine/skills",
-    "language": "Shell",
-    "name": "soulmachine/skills",
-    "stars": 3,
-    "updated_at": "2026-09-18T09:38:10Z",
-    "url": "https://github.com/soulmachine/skills"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -115,33 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T09:37:03Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Tested guardrail hooks and repo-hygiene skills for Claude Code. Every skill ships with an eval transcript.",
-    "id": "Skillkeel/skillkeel-starter",
-    "language": "Python",
-    "name": "Skillkeel/skillkeel-starter",
-    "stars": 0,
-    "updated_at": "2026-09-18T09:36:11Z",
-    "url": "https://github.com/Skillkeel/skillkeel-starter"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-18T09:50:49Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 27,
-    "updated_at": "2026-09-18T09:34:01Z",
-    "url": "https://github.com/Borda/AI-Rig"
   },
   {
     "description": "15 Claude Code PM Skills 2026 - Generate DOCX XLSX PPTX Artifacts Instantly",
@@ -374,7 +428,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-18T09:07:42Z",
+    "updated_at": "2026-09-18T09:53:44Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-18T09:12:17Z",
     "url": "https://github.com/formify-e-sign/formify-skills"
-  },
-  {
-    "description": "Open source, free, private, local, generative co-intelligence scaffold",
-    "id": "huximaxi/loci",
-    "language": "Rust",
-    "name": "huximaxi/loci",
-    "stars": 3,
-    "updated_at": "2026-09-18T09:04:23Z",
-    "url": "https://github.com/huximaxi/loci"
-  },
-  {
-    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
-    "id": "elementalsouls/Claude-BugHunter",
-    "language": "Python",
-    "name": "elementalsouls/Claude-BugHunter",
-    "stars": 4531,
-    "updated_at": "2026-09-18T09:02:21Z",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter"
-  },
-  {
-    "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
-    "id": "simota/agent-skills",
-    "language": "Python",
-    "name": "simota/agent-skills",
-    "stars": 80,
-    "updated_at": "2026-09-18T09:01:12Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "You shipped it and nobody is buying. Install this and Claude Code diagnoses why, then hands you the proven moves that fi",
-    "id": "maxxthemate-png/why-isnt-it-selling",
-    "language": "Python",
-    "name": "maxxthemate-png/why-isnt-it-selling",
-    "stars": 0,
-    "updated_at": "2026-09-18T09:00:48Z",
-    "url": "https://github.com/maxxthemate-png/why-isnt-it-selling"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-09-18T09:00:38Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
-    "id": "shauryalowkeygotaura/brand-launchpad",
-    "language": "HTML",
-    "name": "shauryalowkeygotaura/brand-launchpad",
-    "stars": 1,
-    "updated_at": "2026-09-18T09:00:27Z",
-    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
   }
 ]
