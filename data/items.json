@@ -1,12 +1,120 @@
 [
   {
-    "description": "Plugin for Claude Code: sends each coding task to the cheapest model that can do it right, keeps your main chat lean, re",
-    "id": "mefayed/boss-skill",
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 94191,
+    "updated_at": "2026-09-18T20:14:34Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "A lightweight agent skillset for every step of the building process.",
+    "id": "mnguyenht/bld-package",
+    "language": "Python",
+    "name": "mnguyenht/bld-package",
+    "stars": 1,
+    "updated_at": "2026-09-18T20:14:25Z",
+    "url": "https://github.com/mnguyenht/bld-package"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 176,
+    "updated_at": "2026-09-18T20:14:42Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-18T20:14:17Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Claude Code skill that curates a weekly agentic AI and LLM newsletter, checks it, and publishes it to a Hugo site from a",
+    "id": "ChrisAdkin8/newsletter-ai-skill",
+    "language": "HTML",
+    "name": "ChrisAdkin8/newsletter-ai-skill",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:14:10Z",
+    "url": "https://github.com/ChrisAdkin8/newsletter-ai-skill"
+  },
+  {
+    "description": "An end-to-end test framework where a Jira ticket becomes a reviewed, TCMS-mirrored Playwright pull request \u2014 authored by",
+    "id": "Diegocortes15/playwright-ai-framework",
+    "language": "TypeScript",
+    "name": "Diegocortes15/playwright-ai-framework",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:13:23Z",
+    "url": "https://github.com/Diegocortes15/playwright-ai-framework"
+  },
+  {
+    "description": "Official Chili Piper Skills and ChatGPT GPTs for the Chili Piper MCP \u2014 meeting diagnostics, routing audits, no-show anal",
+    "id": "Chili-Piper/mcp-assets",
+    "language": "\u2014",
+    "name": "Chili-Piper/mcp-assets",
+    "stars": 8,
+    "updated_at": "2026-09-18T20:12:25Z",
+    "url": "https://github.com/Chili-Piper/mcp-assets"
+  },
+  {
+    "description": "Let your agents send physical mail. Skills, CLI, MCP and API setup for AgentPostage.",
+    "id": "ctxrs/agentpostage",
+    "language": "JavaScript",
+    "name": "ctxrs/agentpostage",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:10:15Z",
+    "url": "https://github.com/ctxrs/agentpostage"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
     "language": "Shell",
-    "name": "mefayed/boss-skill",
-    "stars": 4,
-    "updated_at": "2026-09-18T19:59:25Z",
-    "url": "https://github.com/mefayed/boss-skill"
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:08:16Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "A chest of shared AI-agent tooling: Spec Kit extensions, Claude Code plugins, and skills. Includes 'project' \u2014 GitHub Pr",
+    "id": "samykabu/sanduq",
+    "language": "HTML",
+    "name": "samykabu/sanduq",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:06:56Z",
+    "url": "https://github.com/samykabu/sanduq"
+  },
+  {
+    "description": "A risk-aware Claude Skill that sits between a user's trading request and Binance Agent OS MCP execution.",
+    "id": "acevod/trading-guardian-binance-agent-os",
+    "language": "\u2014",
+    "name": "acevod/trading-guardian-binance-agent-os",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:05:19Z",
+    "url": "https://github.com/acevod/trading-guardian-binance-agent-os"
+  },
+  {
+    "description": "A masterpiece of CLAUDE.md, maximize Claude Code proficiency",
+    "id": "Z-M-Huang/golden-CLAUDE.md",
+    "language": "\u2014",
+    "name": "Z-M-Huang/golden-CLAUDE.md",
+    "stars": 22,
+    "updated_at": "2026-09-18T20:03:27Z",
+    "url": "https://github.com/Z-M-Huang/golden-CLAUDE.md"
+  },
+  {
+    "description": "Statistical timeseries forecasting in DuckDB",
+    "id": "DataZooDE/anofox-forecast",
+    "language": "C++",
+    "name": "DataZooDE/anofox-forecast",
+    "stars": 39,
+    "updated_at": "2026-09-18T20:01:13Z",
+    "url": "https://github.com/DataZooDE/anofox-forecast"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +122,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 43,
-    "updated_at": "2026-09-18T19:59:10Z",
+    "updated_at": "2026-09-18T20:00:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Plugin for Claude Code: sends each coding task to the cheapest model that can do it right, keeps your main chat lean, re",
+    "id": "mefayed/boss-skill",
+    "language": "Shell",
+    "name": "mefayed/boss-skill",
+    "stars": 4,
+    "updated_at": "2026-09-18T19:59:25Z",
+    "url": "https://github.com/mefayed/boss-skill"
   },
   {
     "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
@@ -43,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T19:58:25Z",
     "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 176,
-    "updated_at": "2026-09-18T19:58:33Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Ship verified marketing copy with adversarial checks \u2014 every factual claim traced to fetched sources before it goes live",
@@ -162,15 +270,6 @@
     "url": "https://github.com/sa746062/web-perf-audit"
   },
   {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:52:04Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -198,15 +297,6 @@
     "url": "https://github.com/glichtenthal/agent-skills"
   },
   {
-    "description": "A chest of shared AI-agent tooling: Spec Kit extensions, Claude Code plugins, and skills. Includes 'project' \u2014 GitHub Pr",
-    "id": "samykabu/sanduq",
-    "language": "HTML",
-    "name": "samykabu/sanduq",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:49:08Z",
-    "url": "https://github.com/samykabu/sanduq"
-  },
-  {
     "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
     "id": "Videoa7917/ClaudeSec",
     "language": "\u2014",
@@ -223,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T19:47:59Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Statistical timeseries forecasting in DuckDB",
-    "id": "DataZooDE/anofox-forecast",
-    "language": "C++",
-    "name": "DataZooDE/anofox-forecast",
-    "stars": 39,
-    "updated_at": "2026-09-18T19:47:10Z",
-    "url": "https://github.com/DataZooDE/anofox-forecast"
   },
   {
     "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
@@ -259,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T19:46:19Z",
     "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Claude Code skill that curates a weekly agentic AI and LLM newsletter, checks it, and publishes it to a Hugo site from a",
-    "id": "ChrisAdkin8/newsletter-ai-skill",
-    "language": "HTML",
-    "name": "ChrisAdkin8/newsletter-ai-skill",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:52:00Z",
-    "url": "https://github.com/ChrisAdkin8/newsletter-ai-skill"
   },
   {
     "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
@@ -313,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T19:44:45Z",
     "url": "https://github.com/aymannaim822-create/claude-code-source"
-  },
-  {
-    "description": "A risk-aware Claude Skill that sits between a user's trading request and Binance Agent OS MCP execution.",
-    "id": "acevod/trading-guardian-binance-agent-os",
-    "language": "\u2014",
-    "name": "acevod/trading-guardian-binance-agent-os",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:44:26Z",
-    "url": "https://github.com/acevod/trading-guardian-binance-agent-os"
   },
   {
     "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-18T19:44:06Z",
     "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:44:02Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
-  },
-  {
-    "description": "Use Codex in Claude Code for code reviews and delegated tasks with background job control",
-    "id": "carolafortified787/codex-plugin-cc",
-    "language": "JavaScript",
-    "name": "carolafortified787/codex-plugin-cc",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:43:46Z",
-    "url": "https://github.com/carolafortified787/codex-plugin-cc"
-  },
-  {
-    "description": "Explore Claude Code CLI source code for learning, analysis, and TypeScript Bun CLI tool design",
-    "id": "tapperisobar941/claude-code-cli",
-    "language": "\u2014",
-    "name": "tapperisobar941/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:43:40Z",
-    "url": "https://github.com/tapperisobar941/claude-code-cli"
-  },
-  {
-    "description": "Design and analyze modular software systems with Balanced Coupling to reduce technical debt and improve architecture",
-    "id": "ardellashuddery616/modularity",
-    "language": "HTML",
-    "name": "ardellashuddery616/modularity",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:43:23Z",
-    "url": "https://github.com/ardellashuddery616/modularity"
-  },
-  {
-    "description": "Enforce human-like writing in AI output by blocking banned words, phrases, and patterns that trigger AI detectors",
-    "id": "soothing-carport96/anti-ai-slop-writing",
-    "language": "\u2014",
-    "name": "soothing-carport96/anti-ai-slop-writing",
-    "stars": 2,
-    "updated_at": "2026-09-18T19:43:04Z",
-    "url": "https://github.com/soothing-carport96/anti-ai-slop-writing"
-  },
-  {
-    "description": "Build a custom Home Assistant setup with automation templates, a mobile React dashboard, and Claude Code-assisted config",
-    "id": "psychological-ruble517/homeassistant-claude-kit",
-    "language": "\u2014",
-    "name": "psychological-ruble517/homeassistant-claude-kit",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:42:59Z",
-    "url": "https://github.com/psychological-ruble517/homeassistant-claude-kit"
-  },
-  {
-    "description": "Build AI agent skills with dialectical methods and practical tools from classical materialist philosophy for clearer jud",
-    "id": "SanjithBolloju18/qiushi-skill",
-    "language": "JavaScript",
-    "name": "SanjithBolloju18/qiushi-skill",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:42:44Z",
-    "url": "https://github.com/SanjithBolloju18/qiushi-skill"
   }
 ]
