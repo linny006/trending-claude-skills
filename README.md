@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-18 05:14 UTC
+> ⏰ Last updated: 2026-09-18 05:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [muzalee/claude-atelier](https://github.com/muzalee/claude-atelier) | 0 | TypeScript | 2026-09-18 | Claude Code plugin marketplace — atelier (design → build → review pipeline + writing craft) and atelier-typescript (Fast |
-| 2 | [sichenai/sichen-skills](https://github.com/sichenai/sichen-skills) | 2 | Python | 2026-09-18 | 经过真实项目验证的 Agent Skills（SKILL.md 开放标准）：model-connector（模型接入+免费API发现）、adversarial-review（AI审AI）、browser-login-reuse（登录态复用） |
-| 3 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-09-18 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 4 | [glichtenthal/agent-skills](https://github.com/glichtenthal/agent-skills) | 1 | HTML | 2026-09-18 | Judgment infrastructure for human-led AI: portable Claude and Codex skills. |
-| 5 | [draysen-yau/session-handoff](https://github.com/draysen-yau/session-handoff) | 0 | JavaScript | 2026-09-18 | Help your next AI chat pick up where this one left off with a portable skill that writes clear session handoff notes. |
-| 6 | [HABUBUSS/everything-claude-code](https://github.com/HABUBUSS/everything-claude-code) | 0 | JavaScript | 2026-09-18 | Discover production-ready Claude Code configs: agents, skills, hooks, commands, rules, and MCP setups from an Anthropic  |
-| 7 | [devorochimaru/Wiggle](https://github.com/devorochimaru/Wiggle) | 0 | JavaScript | 2026-09-18 | Run the exact sandbox VM Anthropic uses for Claude code sessions, with tools, packages, and skills included, on your own |
-| 8 | [suboss87/FDEOps](https://github.com/suboss87/FDEOps) | 824 | JavaScript | 2026-09-18 | Forward deployed engineering skills for AI coding agents. |
-| 9 | [Samuellalight8026/spam-filter-advisor-skill](https://github.com/Samuellalight8026/spam-filter-advisor-skill) | 0 | Python | 2026-09-18 | Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match. |
-| 10 | [burnabyjudicial666/agent-profiles](https://github.com/burnabyjudicial666/agent-profiles) | 0 | Rust | 2026-09-18 | Run coding agents like Claude, ChatGPT, and Codex side-by-side with separate profiles per account on macOS, Windows, and |
-| 11 | [thanhn3977/oh-story-claudecode](https://github.com/thanhn3977/oh-story-claudecode) | 0 | — | 2026-09-18 | Generate and optimize web novel writing workflows for long-form and short-form stories with AI agent integration and qua |
-| 12 | [Unstable-ascendingartery75/ai-session-search](https://github.com/Unstable-ascendingartery75/ai-session-search) | 0 | TypeScript | 2026-09-18 | Search and manage AI coding sessions locally with full-text search across 7 tools. |
-| 13 | [Arindaag760/humanizer-cli](https://github.com/Arindaag760/humanizer-cli) | 1 | JavaScript | 2026-09-18 | Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies. |
-| 14 | [maurieunoccupied182/biks-claude-tools-loader](https://github.com/maurieunoccupied182/biks-claude-tools-loader) | 0 | — | 2026-09-18 | Discover and install plugins for Claude Code through a release-oriented marketplace. |
-| 15 | [Scoundrelwildness456/i-have-adhd](https://github.com/Scoundrelwildness456/i-have-adhd) | 5 | Python | 2026-09-18 | Format text outputs into ADHD-friendly styles to improve focus and readability for any user. |
-| 16 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 43 | Python | 2026-09-18 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 43 | Python | 2026-09-18 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [muzalee/claude-atelier](https://github.com/muzalee/claude-atelier) | 0 | TypeScript | 2026-09-18 | Claude Code plugin marketplace — atelier (design → build → review pipeline + writing craft) and atelier-typescript (Fast |
+| 3 | [sichenai/sichen-skills](https://github.com/sichenai/sichen-skills) | 2 | Python | 2026-09-18 | 经过真实项目验证的 Agent Skills（SKILL.md 开放标准）：model-connector（模型接入+免费API发现）、adversarial-review（AI审AI）、browser-login-reuse（登录态复用） |
+| 4 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-09-18 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 5 | [glichtenthal/agent-skills](https://github.com/glichtenthal/agent-skills) | 1 | HTML | 2026-09-18 | Judgment infrastructure for human-led AI: portable Claude and Codex skills. |
+| 6 | [draysen-yau/session-handoff](https://github.com/draysen-yau/session-handoff) | 0 | JavaScript | 2026-09-18 | Help your next AI chat pick up where this one left off with a portable skill that writes clear session handoff notes. |
+| 7 | [HABUBUSS/everything-claude-code](https://github.com/HABUBUSS/everything-claude-code) | 0 | JavaScript | 2026-09-18 | Discover production-ready Claude Code configs: agents, skills, hooks, commands, rules, and MCP setups from an Anthropic  |
+| 8 | [devorochimaru/Wiggle](https://github.com/devorochimaru/Wiggle) | 0 | JavaScript | 2026-09-18 | Run the exact sandbox VM Anthropic uses for Claude code sessions, with tools, packages, and skills included, on your own |
+| 9 | [suboss87/FDEOps](https://github.com/suboss87/FDEOps) | 824 | JavaScript | 2026-09-18 | Forward deployed engineering skills for AI coding agents. |
+| 10 | [Samuellalight8026/spam-filter-advisor-skill](https://github.com/Samuellalight8026/spam-filter-advisor-skill) | 0 | Python | 2026-09-18 | Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match. |
+| 11 | [burnabyjudicial666/agent-profiles](https://github.com/burnabyjudicial666/agent-profiles) | 0 | Rust | 2026-09-18 | Run coding agents like Claude, ChatGPT, and Codex side-by-side with separate profiles per account on macOS, Windows, and |
+| 12 | [thanhn3977/oh-story-claudecode](https://github.com/thanhn3977/oh-story-claudecode) | 0 | — | 2026-09-18 | Generate and optimize web novel writing workflows for long-form and short-form stories with AI agent integration and qua |
+| 13 | [Unstable-ascendingartery75/ai-session-search](https://github.com/Unstable-ascendingartery75/ai-session-search) | 0 | TypeScript | 2026-09-18 | Search and manage AI coding sessions locally with full-text search across 7 tools. |
+| 14 | [Arindaag760/humanizer-cli](https://github.com/Arindaag760/humanizer-cli) | 1 | JavaScript | 2026-09-18 | Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies. |
+| 15 | [maurieunoccupied182/biks-claude-tools-loader](https://github.com/maurieunoccupied182/biks-claude-tools-loader) | 0 | — | 2026-09-18 | Discover and install plugins for Claude Code through a release-oriented marketplace. |
+| 16 | [Scoundrelwildness456/i-have-adhd](https://github.com/Scoundrelwildness456/i-have-adhd) | 5 | Python | 2026-09-18 | Format text outputs into ADHD-friendly styles to improve focus and readability for any user. |
 | 17 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-09-18 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
 | 18 | [Glad-oboedacaccia408/design.md](https://github.com/Glad-oboedacaccia408/design.md) | 1 | TypeScript | 2026-09-18 | Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h |
 | 19 | [Wang-Cankun/cankun-skills](https://github.com/Wang-Cankun/cankun-skills) | 2 | JavaScript | 2026-09-18 | Index of my agent skills — each skill lives in its own repo |
