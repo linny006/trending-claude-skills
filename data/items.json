@@ -1,5 +1,86 @@
 [
   {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-19T08:28:09Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 5,
+    "updated_at": "2026-09-19T08:27:13Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Claude Code skill: extracts reusable patterns from sessions and evaluates their value before saving",
+    "id": "shimo4228/learn-eval",
+    "language": "Python",
+    "name": "shimo4228/learn-eval",
+    "stars": 1,
+    "updated_at": "2026-09-19T08:23:26Z",
+    "url": "https://github.com/shimo4228/learn-eval"
+  },
+  {
+    "description": "MCP tool schemas + agent skills: 71,929 tokens -> 581 (-99.2%, measured). mcptoon syncs them to every agent. A zero-depe",
+    "id": "activeing123/mcptoon",
+    "language": "HTML",
+    "name": "activeing123/mcptoon",
+    "stars": 202,
+    "updated_at": "2026-09-19T08:19:01Z",
+    "url": "https://github.com/activeing123/mcptoon"
+  },
+  {
+    "description": "Tested guardrail hooks and repo-hygiene skills for Claude Code. Every skill ships with an eval transcript.",
+    "id": "Skillkeel/skillkeel-starter",
+    "language": "Python",
+    "name": "Skillkeel/skillkeel-starter",
+    "stars": 0,
+    "updated_at": "2026-09-19T08:19:00Z",
+    "url": "https://github.com/Skillkeel/skillkeel-starter"
+  },
+  {
+    "description": "150+ deterministic, fully-offline MCP tools & free AI-agent skills for cross-industry monthly checks (payroll, tax, invo",
+    "id": "chenqg618/compliance-skills",
+    "language": "JavaScript",
+    "name": "chenqg618/compliance-skills",
+    "stars": 0,
+    "updated_at": "2026-09-19T08:17:51Z",
+    "url": "https://github.com/chenqg618/compliance-skills"
+  },
+  {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "JavaScript",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 21,
+    "updated_at": "2026-09-19T08:15:39Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "Claude Code plugin: run several Claude sessions as a small dev team (reviewer, coordinator, builders) with a merge gate,",
+    "id": "fayerman-source/agent-team",
+    "language": "Python",
+    "name": "fayerman-source/agent-team",
+    "stars": 0,
+    "updated_at": "2026-09-19T08:15:32Z",
+    "url": "https://github.com/fayerman-source/agent-team"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-19T08:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude ",
     "id": "JayPokale/Chisle",
     "language": "JavaScript",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T08:09:26Z",
     "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
-    "description": "Tested guardrail hooks and repo-hygiene skills for Claude Code. Every skill ships with an eval transcript.",
-    "id": "Skillkeel/skillkeel-starter",
-    "language": "Python",
-    "name": "Skillkeel/skillkeel-starter",
-    "stars": 0,
-    "updated_at": "2026-09-19T08:08:48Z",
-    "url": "https://github.com/Skillkeel/skillkeel-starter"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -189,15 +261,6 @@
     "url": "https://github.com/shimo4228/rules-distill"
   },
   {
-    "description": "Claude Code skill: extracts reusable patterns from sessions and evaluates their value before saving",
-    "id": "shimo4228/learn-eval",
-    "language": "Python",
-    "name": "shimo4228/learn-eval",
-    "stars": 1,
-    "updated_at": "2026-09-19T08:03:48Z",
-    "url": "https://github.com/shimo4228/learn-eval"
-  },
-  {
     "description": "Audit always-loaded behavioral rules for quality \u2014 residency cost model, 7 verdicts incl. Demote-to-skill / Dissolve. AK",
     "id": "shimo4228/rules-stocktake",
     "language": "Shell",
@@ -257,7 +320,7 @@
     "language": "Shell",
     "name": "OthmanAdi/planning-with-files",
     "stars": 26985,
-    "updated_at": "2026-09-19T08:02:24Z",
+    "updated_at": "2026-09-19T08:19:59Z",
     "url": "https://github.com/OthmanAdi/planning-with-files"
   },
   {
@@ -268,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T08:02:12Z",
     "url": "https://github.com/seokhoonj/fisis"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-19T08:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skill: turn any flat logo into a premium 3D spinning coin (React Three Fiber). One command, try it live in your br",
@@ -351,15 +405,6 @@
     "url": "https://github.com/dbhq-uk/atlassian-skill"
   },
   {
-    "description": "MCP tool schemas + agent skills: 71,929 tokens -> 581 (-99.2%, measured). mcptoon syncs them to every agent. A zero-depe",
-    "id": "activeing123/mcptoon",
-    "language": "HTML",
-    "name": "activeing123/mcptoon",
-    "stars": 202,
-    "updated_at": "2026-09-19T07:54:42Z",
-    "url": "https://github.com/activeing123/mcptoon"
-  },
-  {
     "description": "International Justice and tribunals",
     "id": "jeannesulzer/international-criminal-tribunals-skills",
     "language": "Python",
@@ -374,7 +419,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 729,
-    "updated_at": "2026-09-19T07:51:25Z",
+    "updated_at": "2026-09-19T08:22:55Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T07:41:38Z",
     "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-09-19T07:41:26Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
-  },
-  {
-    "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
-    "id": "Joshuadoroja33/Ronnier-skill",
-    "language": "PowerShell",
-    "name": "Joshuadoroja33/Ronnier-skill",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:40:56Z",
-    "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Reusable skills for AI coding agents.",
-    "id": "transitive-bullshit/skills",
-    "language": "Shell",
-    "name": "transitive-bullshit/skills",
-    "stars": 2,
-    "updated_at": "2026-09-19T07:39:48Z",
-    "url": "https://github.com/transitive-bullshit/skills"
-  },
-  {
-    "description": "Build production-grade mobile apps faster with simulator-verified skills tested against top-grossing apps.",
-    "id": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "language": "\u2014",
-    "name": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:39:40Z",
-    "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Ship verified marketing copy with adversarial checks \u2014 every factual claim traced to fetched sources before it goes live",
-    "id": "mucinous-riposte867/evidence-based-copywriting",
-    "language": "Python",
-    "name": "mucinous-riposte867/evidence-based-copywriting",
-    "stars": 1,
-    "updated_at": "2026-09-19T07:39:40Z",
-    "url": "https://github.com/mucinous-riposte867/evidence-based-copywriting"
   }
 ]
