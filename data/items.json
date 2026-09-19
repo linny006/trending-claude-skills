@@ -1,5 +1,50 @@
 [
   {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/claude-chart-dashboard",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/claude-chart-dashboard",
+    "stars": 1,
+    "updated_at": "2026-09-19T04:57:46Z",
+    "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
+  },
+  {
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
+    "id": "bjcoombs/ai-native-toolkit",
+    "language": "Python",
+    "name": "bjcoombs/ai-native-toolkit",
+    "stars": 30,
+    "updated_at": "2026-09-19T04:55:08Z",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
+    "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
+    "id": "glichtenthal/agent-skills",
+    "language": "HTML",
+    "name": "glichtenthal/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-19T04:53:28Z",
+    "url": "https://github.com/glichtenthal/agent-skills"
+  },
+  {
+    "description": "MCP server for Google Ads, Meta Ads, GA4, TikTok Ads, and LinkedIn Ads. Manage 300+ ad operations from Claude, ChatGPT, ",
+    "id": "markifact/markifact-mcp",
+    "language": "Shell",
+    "name": "markifact/markifact-mcp",
+    "stars": 48,
+    "updated_at": "2026-09-19T04:48:51Z",
+    "url": "https://github.com/markifact/markifact-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-19T04:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
     "id": "savanna0425/skillhot",
     "language": "JavaScript",
@@ -41,7 +86,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-19T04:44:15Z",
+    "updated_at": "2026-09-19T04:54:52Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -52,24 +97,6 @@
     "stars": 11,
     "updated_at": "2026-09-19T04:37:52Z",
     "url": "https://github.com/NovaCode37/claude-security-skills"
-  },
-  {
-    "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
-    "id": "glichtenthal/agent-skills",
-    "language": "HTML",
-    "name": "glichtenthal/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-19T04:37:12Z",
-    "url": "https://github.com/glichtenthal/agent-skills"
-  },
-  {
-    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
-    "id": "bjcoombs/ai-native-toolkit",
-    "language": "Python",
-    "name": "bjcoombs/ai-native-toolkit",
-    "stars": 30,
-    "updated_at": "2026-09-19T04:40:11Z",
-    "url": "https://github.com/bjcoombs/ai-native-toolkit"
   },
   {
     "description": "Agent skill for deploying and operating web apps on Keelson (keelson.run) with the Keelson CLI.",
@@ -90,22 +117,13 @@
     "url": "https://github.com/tronghieu/agent-skills"
   },
   {
-    "description": "VexJoy AI Agent with Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the",
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
     "id": "notque/vexjoy-agent",
     "language": "Python",
     "name": "notque/vexjoy-agent",
     "stars": 420,
     "updated_at": "2026-09-19T04:30:49Z",
     "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-19T04:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "150+ deterministic, fully-offline MCP tools & free AI-agent skills for cross-industry monthly checks (payroll, tax, invo",
@@ -270,15 +288,6 @@
     "url": "https://github.com/tykisgod/quick-question"
   },
   {
-    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
-    "id": "raghuramsirigiri/claude-chart-dashboard",
-    "language": "JavaScript",
-    "name": "raghuramsirigiri/claude-chart-dashboard",
-    "stars": 1,
-    "updated_at": "2026-09-19T04:03:37Z",
-    "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
-  },
-  {
     "description": "AI marketing agents for Claude Code - B2B SaaS marketing team: 82 agents + 19 skills \u2014 SEO/AEO/GEO, content/editorial op",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T03:46:37Z",
     "url": "https://github.com/dbhq-uk/buildwork-skill"
-  },
-  {
-    "description": "Jira and Confluence skill for Claude Code and Codex - raise and read issues after checking the project key, issue type a",
-    "id": "dbhq-uk/atlassian-skill",
-    "language": "Python",
-    "name": "dbhq-uk/atlassian-skill",
-    "stars": 0,
-    "updated_at": "2026-09-19T03:46:35Z",
-    "url": "https://github.com/dbhq-uk/atlassian-skill"
   }
 ]
