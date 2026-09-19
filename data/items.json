@@ -1,5 +1,95 @@
 [
   {
+    "description": "Connect NotebookLM research with Claude to generate structured content from URLs, PDFs, and trending topics for multi-pl",
+    "id": "jakubs2623/notebooklm-skill",
+    "language": "Python",
+    "name": "jakubs2623/notebooklm-skill",
+    "stars": 7,
+    "updated_at": "2026-09-19T09:32:08Z",
+    "url": "https://github.com/jakubs2623/notebooklm-skill"
+  },
+  {
+    "description": "Provide and maintain a community-driven collection of standardized Agent Skills for Claude AI using the SKILL.md format",
+    "id": "Marine-softdrink524/claude-skills",
+    "language": "\u2014",
+    "name": "Marine-softdrink524/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-19T09:31:38Z",
+    "url": "https://github.com/Marine-softdrink524/claude-skills"
+  },
+  {
+    "description": "Provides tools to streamline computational chemistry and drug discovery workflows using Claude Code integration.",
+    "id": "TUKU-DEV3/ALKYL",
+    "language": "\u2014",
+    "name": "TUKU-DEV3/ALKYL",
+    "stars": 0,
+    "updated_at": "2026-09-19T09:31:26Z",
+    "url": "https://github.com/TUKU-DEV3/ALKYL"
+  },
+  {
+    "description": "Manage DNS records and automate VPS operations with tools supporting multiple cloud providers and streamlined server mai",
+    "id": "ammar2211332-jpg/my-claude-skills",
+    "language": "\u2014",
+    "name": "ammar2211332-jpg/my-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-19T09:30:50Z",
+    "url": "https://github.com/ammar2211332-jpg/my-claude-skills"
+  },
+  {
+    "description": "Read the Korea Exchange (KRX) Open API: indices, stocks, ETP, bonds, derivatives, commodities, ESG",
+    "id": "seokhoonj/krx-openapi",
+    "language": "Python",
+    "name": "seokhoonj/krx-openapi",
+    "stars": 1,
+    "updated_at": "2026-09-19T09:30:57Z",
+    "url": "https://github.com/seokhoonj/krx-openapi"
+  },
+  {
+    "description": "Enable efficient bug bounty hunting across Web2 and Web3 with a tool that supports full recon to detailed reporting.",
+    "id": "Mikacr1138/claude-bug-bounty",
+    "language": "Python",
+    "name": "Mikacr1138/claude-bug-bounty",
+    "stars": 3,
+    "updated_at": "2026-09-19T09:30:44Z",
+    "url": "https://github.com/Mikacr1138/claude-bug-bounty"
+  },
+  {
+    "description": "Enable AI agents to retain memory across sessions using persistent storage designed for continuous context retention.",
+    "id": "unvulcanised-watercress762/mem9",
+    "language": "TypeScript",
+    "name": "unvulcanised-watercress762/mem9",
+    "stars": 3,
+    "updated_at": "2026-09-19T09:30:43Z",
+    "url": "https://github.com/unvulcanised-watercress762/mem9"
+  },
+  {
+    "description": "Provide ready-to-use Claude Code commands, subagents, hooks, skills, and configs to simplify setup and speed up developm",
+    "id": "halflength-ampleness75/claude-code-recipes",
+    "language": "Shell",
+    "name": "halflength-ampleness75/claude-code-recipes",
+    "stars": 2,
+    "updated_at": "2026-09-19T09:30:42Z",
+    "url": "https://github.com/halflength-ampleness75/claude-code-recipes"
+  },
+  {
+    "description": "Map and manage human skills with a structured system designed to track learning and development alongside AI capabilitie",
+    "id": "Alfietechtime/human-skill-tree",
+    "language": "\u2014",
+    "name": "Alfietechtime/human-skill-tree",
+    "stars": 0,
+    "updated_at": "2026-09-19T09:30:42Z",
+    "url": "https://github.com/Alfietechtime/human-skill-tree"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-19T09:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Serve real-time and historical Indian stock data from NSE and BSE using Model Context Protocol for easy market analysis ",
     "id": "shamu0509/nse-bse-mcp",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "HTML",
     "name": "aisenseapi/aisense-free-public-rest-apis",
     "stars": 0,
-    "updated_at": "2026-09-19T09:30:01Z",
+    "updated_at": "2026-09-19T09:30:22Z",
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T09:15:39Z",
     "url": "https://github.com/seokhoonj/fred-client"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-19T09:15:22Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-19T09:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
-    "id": "aitit-inc/leadace",
-    "language": "TypeScript",
-    "name": "aitit-inc/leadace",
-    "stars": 3,
-    "updated_at": "2026-09-19T09:15:07Z",
-    "url": "https://github.com/aitit-inc/leadace"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-09-19T09:13:56Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
-    "id": "Junayedahmedd/gemini_cli_skill",
-    "language": "\u2014",
-    "name": "Junayedahmedd/gemini_cli_skill",
-    "stars": 3,
-    "updated_at": "2026-09-19T09:12:38Z",
-    "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 48,
-    "updated_at": "2026-09-19T09:11:36Z",
-    "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 420,
-    "updated_at": "2026-09-19T09:10:11Z",
-    "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
-    "description": "A collection of Claude Code skills, with QA skills that end in a mandatory independent-subagent review pass.",
-    "id": "xtieume/testcase",
-    "language": "Python",
-    "name": "xtieume/testcase",
-    "stars": 3,
-    "updated_at": "2026-09-19T09:25:28Z",
-    "url": "https://github.com/xtieume/testcase"
-  },
-  {
-    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
-    "id": "Mann1988/awesome-claude-skills",
-    "language": "Python",
-    "name": "Mann1988/awesome-claude-skills",
-    "stars": 65,
-    "updated_at": "2026-09-19T09:09:52Z",
-    "url": "https://github.com/Mann1988/awesome-claude-skills"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 1,
-    "updated_at": "2026-09-19T09:06:10Z",
-    "url": "https://github.com/mimukit/skills"
   }
 ]
