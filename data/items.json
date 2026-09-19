@@ -1,5 +1,122 @@
 [
   {
+    "description": "Claude Code skill to create and refresh the Claude Capabilities Dashboard",
+    "id": "ANDRS-Projects/claude-setup-dashboard",
+    "language": "\u2014",
+    "name": "ANDRS-Projects/claude-setup-dashboard",
+    "stars": 1,
+    "updated_at": "2026-09-19T12:28:18Z",
+    "url": "https://github.com/ANDRS-Projects/claude-setup-dashboard"
+  },
+  {
+    "description": "A lightweight domain knowledge accumulation system for Claude Code",
+    "id": "ANDRS-Projects/claude-domain-memory",
+    "language": "\u2014",
+    "name": "ANDRS-Projects/claude-domain-memory",
+    "stars": 1,
+    "updated_at": "2026-09-19T12:28:13Z",
+    "url": "https://github.com/ANDRS-Projects/claude-domain-memory"
+  },
+  {
+    "description": "Discover agent rules and skill files from leading open source projects",
+    "id": "modem-dev/ossrules",
+    "language": "Python",
+    "name": "modem-dev/ossrules",
+    "stars": 24,
+    "updated_at": "2026-09-19T12:27:19Z",
+    "url": "https://github.com/modem-dev/ossrules"
+  },
+  {
+    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
+    "id": "ergrelet/windiff",
+    "language": "Rust",
+    "name": "ergrelet/windiff",
+    "stars": 390,
+    "updated_at": "2026-09-19T12:26:14Z",
+    "url": "https://github.com/ergrelet/windiff"
+  },
+  {
+    "description": "Claude Code skill: let Claude watch a screen recording \u2014 keyframes plus a timestamped transcript of your narration, proc",
+    "id": "FarisAlsaif/video-context",
+    "language": "Python",
+    "name": "FarisAlsaif/video-context",
+    "stars": 0,
+    "updated_at": "2026-09-19T12:23:29Z",
+    "url": "https://github.com/FarisAlsaif/video-context"
+  },
+  {
+    "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
+    "id": "NYTC69/review-loop",
+    "language": "Python",
+    "name": "NYTC69/review-loop",
+    "stars": 3,
+    "updated_at": "2026-09-19T12:23:11Z",
+    "url": "https://github.com/NYTC69/review-loop"
+  },
+  {
+    "description": "Save a secret: a small window opens that Claude cannot see, you paste there, it lands in 1Password. Read it back: any it",
+    "id": "lucas-saldanha-werneck/Claude-1Password",
+    "language": "Shell",
+    "name": "lucas-saldanha-werneck/Claude-1Password",
+    "stars": 2,
+    "updated_at": "2026-09-19T12:19:49Z",
+    "url": "https://github.com/lucas-saldanha-werneck/Claude-1Password"
+  },
+  {
+    "description": "Summarize YouTube videos with an LLM \u2014 Gemini, OpenAI, Claude, or local Ollama.",
+    "id": "seokhoonj/tubeless",
+    "language": "Python",
+    "name": "seokhoonj/tubeless",
+    "stars": 0,
+    "updated_at": "2026-09-19T12:19:17Z",
+    "url": "https://github.com/seokhoonj/tubeless"
+  },
+  {
+    "description": "\ud83e\ude84 Install, review, and share agent skills.",
+    "id": "osrim/niksi",
+    "language": "TypeScript",
+    "name": "osrim/niksi",
+    "stars": 8,
+    "updated_at": "2026-09-19T12:18:23Z",
+    "url": "https://github.com/osrim/niksi"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-19T12:24:45Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "\u4e00\u4e2a\u5f00\u6e90\u7684 Claude Skill\uff1a\u4ece\u4f60\u5df2\u6709\u7684\u771f\u5b9e\u5185\u5bb9\u91cc\uff0c\u62bd\u51fa\u4e00\u4efd\u80fd\u6307\u5bfc\u521b\u4f5c\u3001\u5e76\u4e14\u80fd\u62ff\u65b0\u6587\u7ae0\u9a8c\u8bc1\u51c6\u786e\u5ea6\u7684\u4e2a\u4eba\u753b\u50cf\u3002",
+    "id": "zhangleo-1983/ip-portrait",
+    "language": "\u2014",
+    "name": "zhangleo-1983/ip-portrait",
+    "stars": 1,
+    "updated_at": "2026-09-19T12:16:00Z",
+    "url": "https://github.com/zhangleo-1983/ip-portrait"
+  },
+  {
+    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
+    "id": "Jsnnmsc/10000x-engineer",
+    "language": "\u2014",
+    "name": "Jsnnmsc/10000x-engineer",
+    "stars": 1,
+    "updated_at": "2026-09-19T12:15:48Z",
+    "url": "https://github.com/Jsnnmsc/10000x-engineer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-19T12:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Personal collection of Claude Code skills for development workflows",
     "id": "technicalpickles/pickled-claude-plugins",
     "language": "Python",
@@ -32,7 +149,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-19T12:03:00Z",
+    "updated_at": "2026-09-19T12:29:13Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -52,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-09-19T12:00:30Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-19T12:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Send messages to Telegram, Slack, or Discord from Python.",
@@ -90,15 +198,6 @@
     "url": "https://github.com/seokhoonj/opendart-client"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-19T12:11:34Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "5 free Claude Code skills for the business side of freelancing: business context, meeting notes to actions, invoices, we",
     "id": "rickbauer327-cell/solo-stack-starter",
     "language": "\u2014",
@@ -115,15 +214,6 @@
     "stars": 52,
     "updated_at": "2026-09-19T11:48:22Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "A lightweight domain knowledge accumulation system for Claude Code",
-    "id": "ANDRS-Projects/claude-domain-memory",
-    "language": "\u2014",
-    "name": "ANDRS-Projects/claude-domain-memory",
-    "stars": 1,
-    "updated_at": "2026-09-19T11:55:16Z",
-    "url": "https://github.com/ANDRS-Projects/claude-domain-memory"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T11:35:42Z",
     "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:35:39Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-09-19T11:35:23Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-09-19T11:34:48Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:34:44Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-19T11:34:21Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:34:15Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-09-19T11:34:08Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:33:53Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-09-19T11:33:43Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:33:41Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
   }
 ]
