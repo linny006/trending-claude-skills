@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 65,
+    "updated_at": "2026-09-19T13:14:00Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. 64 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0438, 21",
+    "id": "ilyautov/humanizer-ru",
+    "language": "Python",
+    "name": "ilyautov/humanizer-ru",
+    "stars": 365,
+    "updated_at": "2026-09-19T13:13:44Z",
+    "url": "https://github.com/ilyautov/humanizer-ru"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 428,
+    "updated_at": "2026-09-19T13:11:26Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "My collection of Claude skills",
+    "id": "oaustegard/claude-skills",
+    "language": "Python",
+    "name": "oaustegard/claude-skills",
+    "stars": 148,
+    "updated_at": "2026-09-19T13:09:24Z",
+    "url": "https://github.com/oaustegard/claude-skills"
+  },
+  {
+    "description": "An agent skill that reads a photo the way Sherlock Holmes reads a stranger (\u798f\u5c14\u6469\u65af): observe first, deduce second, every c",
+    "id": "Oldcircle/holmes-skill",
+    "language": "TypeScript",
+    "name": "Oldcircle/holmes-skill",
+    "stars": 0,
+    "updated_at": "2026-09-19T13:09:04Z",
+    "url": "https://github.com/Oldcircle/holmes-skill"
+  },
+  {
+    "description": "A simple set of skills optimized for general-purpose software development across tech stacks.",
+    "id": "stevepolitodesign/skills",
+    "language": "HTML",
+    "name": "stevepolitodesign/skills",
+    "stars": 3,
+    "updated_at": "2026-09-19T13:08:56Z",
+    "url": "https://github.com/stevepolitodesign/skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-19T13:05:26Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Pre-flight security audit for Claude Code skills -  46 checks, DO-NOT-INSTALL gate, SVG badges. Free forever",
+    "id": "Leelaloo/skill-doctor",
+    "language": "Python",
+    "name": "Leelaloo/skill-doctor",
+    "stars": 0,
+    "updated_at": "2026-09-19T13:05:03Z",
+    "url": "https://github.com/Leelaloo/skill-doctor"
+  },
+  {
+    "description": "Agent Skill that lets Claude (Code/Desktop) and Cursor edit real video \u2014 auto-edit, clipping, subtitles, avatars, publis",
+    "id": "Vossy/claude-video-editing-skill",
+    "language": "\u2014",
+    "name": "Vossy/claude-video-editing-skill",
+    "stars": 0,
+    "updated_at": "2026-09-19T13:04:34Z",
+    "url": "https://github.com/Vossy/claude-video-editing-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-19T13:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
     "id": "samuel85194-ux/tycana-claude-hivemind",
     "language": "HTML",
@@ -99,15 +189,6 @@
     "url": "https://github.com/fabricioctelles/skills"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-19T12:55:38Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "Claude Code skill to create and refresh the Claude Capabilities Dashboard",
     "id": "ANDRS-Projects/claude-setup-dashboard",
     "language": "\u2014",
@@ -135,13 +216,13 @@
     "url": "https://github.com/IonDen/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "A skill for long horizen coding tasks, to improve the experience for non-top-tier models.",
+    "id": "inxups/route-recovery",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-19T12:45:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "inxups/route-recovery",
+    "stars": 0,
+    "updated_at": "2026-09-19T12:42:18Z",
+    "url": "https://github.com/inxups/route-recovery"
   },
   {
     "description": "claude skills \u96c6\u5408",
@@ -157,7 +238,7 @@
     "id": "modem-dev/ossrules",
     "language": "Python",
     "name": "modem-dev/ossrules",
-    "stars": 24,
+    "stars": 25,
     "updated_at": "2026-09-19T12:37:09Z",
     "url": "https://github.com/modem-dev/ossrules"
   },
@@ -266,7 +347,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-19T12:58:23Z",
+    "updated_at": "2026-09-19T13:07:47Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T11:45:50Z",
     "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:45:12Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:44:44Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:44:33Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 113,
-    "updated_at": "2026-09-19T11:57:53Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Agent skill: turn any flat logo into a premium 3D spinning coin (React Three Fiber). One command, try it live in your br",
-    "id": "hasuwini77/3d-logo-skill",
-    "language": "\u2014",
-    "name": "hasuwini77/3d-logo-skill",
-    "stars": 3,
-    "updated_at": "2026-09-19T11:43:12Z",
-    "url": "https://github.com/hasuwini77/3d-logo-skill"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:42:54Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plu",
-    "id": "codenamev/ai-software-architect",
-    "language": "JavaScript",
-    "name": "codenamev/ai-software-architect",
-    "stars": 77,
-    "updated_at": "2026-09-19T11:44:31Z",
-    "url": "https://github.com/codenamev/ai-software-architect"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:42:17Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-09-19T11:42:11Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
   }
 ]
