@@ -1,12 +1,66 @@
 [
   {
+    "description": "Stop context rot. Your main agent hands off the digging - searches, logs, whole files - and gets back only the conclusio",
+    "id": "humeicw/dirty-work",
+    "language": "\u2014",
+    "name": "humeicw/dirty-work",
+    "stars": 0,
+    "updated_at": "2026-09-19T05:05:13Z",
+    "url": "https://github.com/humeicw/dirty-work"
+  },
+  {
+    "description": "\u4f18\u5148\u7ea7\u6559\u7ec3 \u00b7 \u6e29\u548c\u4e0d\u538b\u8feb\u7684\u4e2a\u4eba\u6210\u957f\u6559\u7ec3 skill\uff1a\u4ece\u6df7\u4e71\u91cc\u6536\u655b\u51fa\u6b64\u523b\u6700\u8be5\u4f18\u5148\u7684 1\u20133 \u4ef6\u4e8b\uff0c\u843d\u5230\u4eca\u5929\u5c31\u80fd\u5f00\u59cb\u7684\u6700\u5c0f\u52a8\u4f5c\u3002A gentle coach skill that turns overwhelm into 1\u20133 priori",
+    "id": "bonniegeng-max/priority-coach",
+    "language": "Python",
+    "name": "bonniegeng-max/priority-coach",
+    "stars": 1,
+    "updated_at": "2026-09-19T05:04:25Z",
+    "url": "https://github.com/bonniegeng-max/priority-coach"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-09-19T05:04:15Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Eight security skills for Claude Code with no dependencies: standard library only, tested, and usable as a CI step. Secr",
+    "id": "NovaCode37/claude-security-skills",
+    "language": "Python",
+    "name": "NovaCode37/claude-security-skills",
+    "stars": 11,
+    "updated_at": "2026-09-19T05:03:35Z",
+    "url": "https://github.com/NovaCode37/claude-security-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-19T05:01:31Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-19T05:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
-    "id": "raghuramsirigiri/claude-chart-dashboard",
+    "id": "raghuramsirigiri/raghuram-skills",
     "language": "JavaScript",
-    "name": "raghuramsirigiri/claude-chart-dashboard",
+    "name": "raghuramsirigiri/raghuram-skills",
     "stars": 1,
     "updated_at": "2026-09-19T04:57:46Z",
-    "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
+    "url": "https://github.com/raghuramsirigiri/raghuram-skills"
   },
   {
     "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
@@ -36,15 +90,6 @@
     "url": "https://github.com/markifact/markifact-mcp"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-19T04:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
     "id": "savanna0425/skillhot",
     "language": "JavaScript",
@@ -67,8 +112,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69198,
-    "updated_at": "2026-09-19T04:43:13Z",
+    "stars": 69197,
+    "updated_at": "2026-09-19T05:06:32Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -86,17 +131,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-19T04:54:52Z",
+    "updated_at": "2026-09-19T05:05:55Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Eight security skills for Claude Code with no dependencies: standard library only, tested, and usable as a CI step. Secr",
-    "id": "NovaCode37/claude-security-skills",
-    "language": "Python",
-    "name": "NovaCode37/claude-security-skills",
-    "stars": 11,
-    "updated_at": "2026-09-19T04:37:52Z",
-    "url": "https://github.com/NovaCode37/claude-security-skills"
   },
   {
     "description": "Agent skill for deploying and operating web apps on Keelson (keelson.run) with the Keelson CLI.",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T04:26:38Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Stop context rot. Your main agent hands off the digging - searches, logs, whole files - and gets back only the conclusio",
-    "id": "humeicw/dirty-work",
-    "language": "\u2014",
-    "name": "humeicw/dirty-work",
-    "stars": 0,
-    "updated_at": "2026-09-19T04:25:43Z",
-    "url": "https://github.com/humeicw/dirty-work"
   },
   {
     "description": "\u672a\u6765\u65e5\u8bb0 \u00b7 \u6bcf\u5929\u4e09\u5206\u949f\uff1a\u5148\u63cf\u4e00\u53e5\u5f15\u5bfc\u53e5\uff0c\u518d\u7528\u8fc7\u53bb\u65f6\u5199\u4e0b\u5e0c\u671b\u53d1\u751f\u7684\u4e8b\u300249 \u5929\u4e00\u8f6e\u7684\u6696\u7eb8\u624b\u8d26\uff0c\u5355\u6587\u4ef6\u79bb\u7ebf\u53ef\u7528\uff0c\u53ef\u9009\u7aef\u5230\u7aef\u52a0\u5bc6\u8de8\u8bbe\u5907\u540c\u6b65\u3002A three-minute daily journaling skill \u2014 trace a guid",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "sayam/thai-docx-skill",
     "stars": 0,
-    "updated_at": "2026-09-19T03:57:20Z",
+    "updated_at": "2026-09-19T05:03:17Z",
     "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T03:46:43Z",
     "url": "https://github.com/dbhq-uk/garmin-skill"
-  },
-  {
-    "description": "Claude Code and Codex skill that checks whether a repository still agrees with itself - dead links, orphans, stale docs,",
-    "id": "dbhq-uk/dovetail-skill",
-    "language": "Python",
-    "name": "dbhq-uk/dovetail-skill",
-    "stars": 3,
-    "updated_at": "2026-09-19T03:46:40Z",
-    "url": "https://github.com/dbhq-uk/dovetail-skill"
-  },
-  {
-    "description": "File what an agent notices as a tracked GitHub issue, reconcile the dependency graph, and keep a roadmap in git",
-    "id": "dbhq-uk/deskwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/deskwork-skill",
-    "stars": 0,
-    "updated_at": "2026-09-19T03:46:38Z",
-    "url": "https://github.com/dbhq-uk/deskwork-skill"
-  },
-  {
-    "description": "Claude Code and Codex skill that runs a repository's open issues as parallel agents - one per issue, each in its own git",
-    "id": "dbhq-uk/buildwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/buildwork-skill",
-    "stars": 0,
-    "updated_at": "2026-09-19T03:46:37Z",
-    "url": "https://github.com/dbhq-uk/buildwork-skill"
   }
 ]
