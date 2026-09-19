@@ -1,11 +1,56 @@
 [
   {
+    "description": "API platform info for agents-skills",
+    "id": "api-evangelist/agents-skills",
+    "language": "HTML",
+    "name": "api-evangelist/agents-skills",
+    "stars": 0,
+    "updated_at": "2026-09-19T21:23:53Z",
+    "url": "https://github.com/api-evangelist/agents-skills"
+  },
+  {
+    "description": "Universal AI agent skill for optimizing web applications to 100/100 on PageSpeed Insights, Lighthouse 13+, Core Web Vita",
+    "id": "alexlivre/pagespeed-optimizer-alexlivre",
+    "language": "JavaScript",
+    "name": "alexlivre/pagespeed-optimizer-alexlivre",
+    "stars": 0,
+    "updated_at": "2026-09-19T21:23:49Z",
+    "url": "https://github.com/alexlivre/pagespeed-optimizer-alexlivre"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-19T21:21:55Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Ferramentas pequenas para a camada de agentes de IA: detecta skill envenenada e da validade temporal a base RAG. Zero de",
+    "id": "Abner-Machado/agent-layer",
+    "language": "JavaScript",
+    "name": "Abner-Machado/agent-layer",
+    "stars": 2,
+    "updated_at": "2026-09-19T21:15:46Z",
+    "url": "https://github.com/Abner-Machado/agent-layer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-19T21:15:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
     "id": "danieljustus/symaira-eraseme",
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 8,
-    "updated_at": "2026-09-19T21:14:10Z",
+    "updated_at": "2026-09-19T21:16:21Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "AN0099/toothpaste-kit",
     "stars": 1,
-    "updated_at": "2026-09-19T21:08:53Z",
+    "updated_at": "2026-09-19T21:20:43Z",
     "url": "https://github.com/AN0099/toothpaste-kit"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T21:08:12Z",
     "url": "https://github.com/axxx75/YASAI"
-  },
-  {
-    "description": "Universal AI agent skill for optimizing web applications to 100/100 on PageSpeed Insights, Lighthouse 13+, Core Web Vita",
-    "id": "alexlivre/pagespeed-optimizer-alexlivre",
-    "language": "JavaScript",
-    "name": "alexlivre/pagespeed-optimizer-alexlivre",
-    "stars": 0,
-    "updated_at": "2026-09-19T21:09:27Z",
-    "url": "https://github.com/alexlivre/pagespeed-optimizer-alexlivre"
   },
   {
     "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T21:03:38Z",
     "url": "https://github.com/sohaibdevv/Claude-Code-Workflow-Guide"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-19T21:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -196,15 +223,6 @@
     "stars": 177,
     "updated_at": "2026-09-19T20:41:34Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-19T20:41:19Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "Decision-driven harness for coding agents, and humans.",
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "notque/vexjoy-agent",
     "stars": 421,
-    "updated_at": "2026-09-19T20:58:12Z",
+    "updated_at": "2026-09-19T21:17:06Z",
     "url": "https://github.com/notque/vexjoy-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T19:57:16Z",
     "url": "https://github.com/Carlosdalv669/formify-skills"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-09-19T19:56:58Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-09-19T19:56:26Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
   }
 ]
