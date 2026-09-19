@@ -1,12 +1,48 @@
 [
   {
-    "description": "AI marketing agents for Claude Code - B2B SaaS marketing team: 82 agents + 19 skills \u2014 SEO/AEO/GEO, content/editorial op",
-    "id": "shalintripathi/saas-marketing-agents",
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 9,
+    "updated_at": "2026-09-19T04:13:47Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 3,
+    "updated_at": "2026-09-19T04:14:57Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Agent skills for source-grounded novel-to-game adaptation (\u5c0f\u8bf4\u6539\u7f16\u6e38\u620f / story to game): cited design docs, target-runtime bu",
+    "id": "zenstory-ai/novel-to-game",
     "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 14,
-    "updated_at": "2026-09-19T03:59:30Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+    "name": "zenstory-ai/novel-to-game",
+    "stars": 787,
+    "updated_at": "2026-09-19T04:12:46Z",
+    "url": "https://github.com/zenstory-ai/novel-to-game"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-09-19T04:12:42Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69198,
+    "updated_at": "2026-09-19T04:11:29Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -14,7 +50,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-19T03:59:44Z",
+    "updated_at": "2026-09-19T04:13:28Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -23,8 +59,71 @@
     "language": "Python",
     "name": "bjcoombs/ai-native-toolkit",
     "stars": 30,
-    "updated_at": "2026-09-19T03:58:46Z",
+    "updated_at": "2026-09-19T04:13:56Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
+    "description": "MCP server that suggests repository-specific AI agent skills.",
+    "id": "sator-imaging/suggest-skills",
+    "language": "TypeScript",
+    "name": "sator-imaging/suggest-skills",
+    "stars": 0,
+    "updated_at": "2026-09-19T04:10:00Z",
+    "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 176,
+    "updated_at": "2026-09-19T04:10:12Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "\u672a\u6765\u65e5\u8bb0 \u00b7 \u6bcf\u5929\u4e09\u5206\u949f\uff1a\u5148\u63cf\u4e00\u53e5\u5f15\u5bfc\u53e5\uff0c\u518d\u7528\u8fc7\u53bb\u65f6\u5199\u4e0b\u5e0c\u671b\u53d1\u751f\u7684\u4e8b\u300249 \u5929\u4e00\u8f6e\u7684\u6696\u7eb8\u624b\u8d26\uff0c\u5355\u6587\u4ef6\u79bb\u7ebf\u53ef\u7528\uff0c\u53ef\u9009\u7aef\u5230\u7aef\u52a0\u5bc6\u8de8\u8bbe\u5907\u540c\u6b65\u3002A three-minute daily journaling skill \u2014 trace a guid",
+    "id": "bonniegeng-max/future-journal",
+    "language": "HTML",
+    "name": "bonniegeng-max/future-journal",
+    "stars": 0,
+    "updated_at": "2026-09-19T04:05:09Z",
+    "url": "https://github.com/bonniegeng-max/future-journal"
+  },
+  {
+    "description": "The control plane for game-dev agents \u2014 close the loop with verified compile, test, and cross-model review across Unity,",
+    "id": "tykisgod/quick-question",
+    "language": "Python",
+    "name": "tykisgod/quick-question",
+    "stars": 11,
+    "updated_at": "2026-09-19T04:04:06Z",
+    "url": "https://github.com/tykisgod/quick-question"
+  },
+  {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/claude-chart-dashboard",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/claude-chart-dashboard",
+    "stars": 1,
+    "updated_at": "2026-09-19T04:03:37Z",
+    "url": "https://github.com/raghuramsirigiri/claude-chart-dashboard"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-19T04:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI marketing agents for Claude Code - B2B SaaS marketing team: 82 agents + 19 skills \u2014 SEO/AEO/GEO, content/editorial op",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 14,
+    "updated_at": "2026-09-19T03:59:30Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
     "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
@@ -198,15 +297,6 @@
     "url": "https://github.com/modem-dev/ossrules"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-19T03:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
     "id": "semlith/semlith",
     "language": "Rust",
@@ -261,15 +351,6 @@
     "url": "https://github.com/aliasunder/vault-onboarding"
   },
   {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 9,
-    "updated_at": "2026-09-19T03:38:12Z",
-    "url": "https://github.com/using-system/oddyssey"
-  },
-  {
     "description": "Watch RSS feeds and listing pages, match topics you define, and send an LLM-summarized digest by email or chat.",
     "id": "seokhoonj/newswatcher",
     "language": "Python",
@@ -301,18 +382,9 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 7083,
+    "stars": 7084,
     "updated_at": "2026-09-19T03:34:26Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Agent skills for source-grounded novel-to-game adaptation (\u5c0f\u8bf4\u6539\u7f16\u6e38\u620f / story to game): cited design docs, target-runtime bu",
-    "id": "zenstory-ai/novel-to-game",
-    "language": "Markdown",
-    "name": "zenstory-ai/novel-to-game",
-    "stars": 787,
-    "updated_at": "2026-09-19T03:47:31Z",
-    "url": "https://github.com/zenstory-ai/novel-to-game"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -365,7 +437,7 @@
     "language": "Python",
     "name": "specialone0007/review-skills",
     "stars": 1,
-    "updated_at": "2026-09-19T03:15:49Z",
+    "updated_at": "2026-09-19T04:10:57Z",
     "url": "https://github.com/specialone0007/review-skills"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 52,
     "updated_at": "2026-09-19T03:14:55Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 60,
-    "updated_at": "2026-09-19T03:12:26Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Agent-ready daily gold & macro data from xaudaily.com (JSON schema xaudaily.readings/v1): COMEX gold + Shanghai Au99.99,",
-    "id": "Wangxian111/xaudaily-gold-data",
-    "language": "Python",
-    "name": "Wangxian111/xaudaily-gold-data",
-    "stars": 0,
-    "updated_at": "2026-09-19T03:09:27Z",
-    "url": "https://github.com/Wangxian111/xaudaily-gold-data"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69199,
-    "updated_at": "2026-09-19T03:07:56Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Look before you build. A Claude Code skill that finds the skill or repo that already exists - installed skills, a verifi",
-    "id": "nohseongmin/claude-skill-finder",
-    "language": "Python",
-    "name": "nohseongmin/claude-skill-finder",
-    "stars": 1,
-    "updated_at": "2026-09-19T02:59:16Z",
-    "url": "https://github.com/nohseongmin/claude-skill-finder"
-  },
-  {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-19T02:58:12Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
-    "description": "Stop your main agent from stuffing its own context with search results, logs and file dumps. It delegates the digging, g",
-    "id": "humeicw/dirty-work",
-    "language": "\u2014",
-    "name": "humeicw/dirty-work",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:57:50Z",
-    "url": "https://github.com/humeicw/dirty-work"
-  },
-  {
-    "description": "Method-driven agent skills for knowledge work: strategy, research, critical thinking, data analysis, docs, slides. Works",
-    "id": "tronghieu/agent-skills",
-    "language": "Python",
-    "name": "tronghieu/agent-skills",
-    "stars": 68,
-    "updated_at": "2026-09-19T02:56:15Z",
-    "url": "https://github.com/tronghieu/agent-skills"
-  },
-  {
-    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 8,
-    "updated_at": "2026-09-19T02:52:49Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
   }
 ]
