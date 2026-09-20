@@ -1,5 +1,113 @@
 [
   {
+    "description": "MCP tool schemas + agent skills: 71,929 tokens -> 581 (-99.2%, measured). mcptoon syncs them to every agent. A zero-depe",
+    "id": "activeing123/mcptoon",
+    "language": "HTML",
+    "name": "activeing123/mcptoon",
+    "stars": 202,
+    "updated_at": "2026-09-20T02:44:37Z",
+    "url": "https://github.com/activeing123/mcptoon"
+  },
+  {
+    "description": "Official catalog of OOMOL app-skills: agent skills that let AI assistants operate third-party services via the oo CLI",
+    "id": "oomol-lab/skills",
+    "language": "TypeScript",
+    "name": "oomol-lab/skills",
+    "stars": 2,
+    "updated_at": "2026-09-20T02:44:04Z",
+    "url": "https://github.com/oomol-lab/skills"
+  },
+  {
+    "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
+    "id": "WYRE-AI/msp-claude-plugins",
+    "language": "Astro",
+    "name": "WYRE-AI/msp-claude-plugins",
+    "stars": 46,
+    "updated_at": "2026-09-20T02:43:22Z",
+    "url": "https://github.com/WYRE-AI/msp-claude-plugins"
+  },
+  {
+    "description": "AgentNotify is a local Windows human-attention broker for autonomous coding agents. Agents send a small authenticated re",
+    "id": "Akash97p/agent-notify",
+    "language": "C#",
+    "name": "Akash97p/agent-notify",
+    "stars": 1,
+    "updated_at": "2026-09-20T02:42:13Z",
+    "url": "https://github.com/Akash97p/agent-notify"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:40:07Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "Cyber Celestial Path \u2014Offline, reproducible BaZi (Four Pillars) and Huangli Agent Skill with deterministic local calcula",
+    "id": "yabbadabbadoo951028-design/bazi-agent-skills",
+    "language": "Python",
+    "name": "yabbadabbadoo951028-design/bazi-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:38:33Z",
+    "url": "https://github.com/yabbadabbadoo951028-design/bazi-agent-skills"
+  },
+  {
+    "description": "Open build standards for back-office workflows, as installable Agent Skills. Ordered checks, object schemas, a conforman",
+    "id": "digitalgym/aipathway-standards",
+    "language": "TypeScript",
+    "name": "digitalgym/aipathway-standards",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:37:37Z",
+    "url": "https://github.com/digitalgym/aipathway-standards"
+  },
+  {
+    "description": "Lints a Claude skill against a seven-gate quality floor and reports it gate by gate, with a specific fix for each miss.",
+    "id": "happypathworks/skill-audit",
+    "language": "Python",
+    "name": "happypathworks/skill-audit",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:37:35Z",
+    "url": "https://github.com/happypathworks/skill-audit"
+  },
+  {
+    "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 2,
+    "updated_at": "2026-09-20T02:34:47Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-09-20T02:31:10Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-20T02:30:53Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-20T02:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
     "id": "fabioc-aloha/Alex_Skill_Mall",
     "language": "Python",
@@ -45,15 +153,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-20T02:30:10Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
     "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
     "id": "hraness/soulscrape",
     "language": "TypeScript",
@@ -72,15 +171,6 @@
     "url": "https://github.com/hraness/wordcell"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-20T02:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "OpenTelemetry plugins for Claude Code and GitHub Copilot CLI \u2014 a marketplace that runs itself: open an issue, the reposi",
     "id": "using-system/otelyssey",
     "language": "Python",
@@ -88,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T02:12:30Z",
     "url": "https://github.com/using-system/otelyssey"
-  },
-  {
-    "description": "Open build standards for back-office workflows, as installable Agent Skills. Ordered checks, object schemas, a conforman",
-    "id": "digitalgym/aipathway-standards",
-    "language": "\u2014",
-    "name": "digitalgym/aipathway-standards",
-    "stars": 0,
-    "updated_at": "2026-09-20T02:12:10Z",
-    "url": "https://github.com/digitalgym/aipathway-standards"
   },
   {
     "description": "General Skills Development Pipeline - Claude Code & Codex",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T01:43:26Z",
     "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-20T01:43:10Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:43:00Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-09-20T01:42:54Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:42:53Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:42:39Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-09-20T01:42:31Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:42:30Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:41:50Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:41:31Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
   }
 ]
