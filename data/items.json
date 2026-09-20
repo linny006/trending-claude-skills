@@ -1,5 +1,95 @@
 [
   {
+    "description": "A reusable, Markdown-first multi-agent software engineering framework for Claude Code with adaptive workflows, artifact-",
+    "id": "Quirkybrain/claude-code-swe-framework",
+    "language": "\u2014",
+    "name": "Quirkybrain/claude-code-swe-framework",
+    "stars": 0,
+    "updated_at": "2026-09-20T15:14:52Z",
+    "url": "https://github.com/Quirkybrain/claude-code-swe-framework"
+  },
+  {
+    "description": "Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor ",
+    "id": "michael-denyer/pstack-claude",
+    "language": "TypeScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 504,
+    "updated_at": "2026-09-20T15:14:12Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": "Skill Dash uses Jev to judge Claude Code and Codex skills and plugins: usefulness, redundancy, clarity, duplicates, safe",
+    "id": "48Nauts-Operator/skill-dash",
+    "language": "Python",
+    "name": "48Nauts-Operator/skill-dash",
+    "stars": 1,
+    "updated_at": "2026-09-20T15:12:00Z",
+    "url": "https://github.com/48Nauts-Operator/skill-dash"
+  },
+  {
+    "description": "A collection of agents skills",
+    "id": "padosoft/skills",
+    "language": "Python",
+    "name": "padosoft/skills",
+    "stars": 1,
+    "updated_at": "2026-09-20T15:11:32Z",
+    "url": "https://github.com/padosoft/skills"
+  },
+  {
+    "description": "\ud83d\ude80 \u7cbe\u9009 Claude Skills\u3001Agent Skills\u3001LLM Skills \u53ca AI \u667a\u80fd\u4f53\u5f00\u53d1\u8d44\u6e90\u5217\u8868\uff08\u4e2d\u6587\uff09\u3002A curated list of awesome Claude / Agent / LLM Skills.",
+    "id": "yzfly/awesome-skills-zh",
+    "language": "\u2014",
+    "name": "yzfly/awesome-skills-zh",
+    "stars": 47,
+    "updated_at": "2026-09-20T15:11:16Z",
+    "url": "https://github.com/yzfly/awesome-skills-zh"
+  },
+  {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 5,
+    "updated_at": "2026-09-20T15:10:37Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-09-20T15:09:52Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "\ud648\ud0dd\uc2a4 \uc138\ubb34 \uc791\uc5c5\uc744 AI\uc5d0\uac8c \ub9d0\ub85c \uc2dc\ud0a4\ub294 \ubb34\ub8cc \uc2a4\ud0ac 6\uc885 \u2014 \ubd80\uac00\uc138\u00b7\uc885\ud569\uc18c\ub4dd\uc138\u00b7\uc804\uc790\uc138\uae08\uacc4\uc0b0\uc11c (Claude/Codex/Aside)",
+    "id": "lbiz-partners/hometax-doum",
+    "language": "Python",
+    "name": "lbiz-partners/hometax-doum",
+    "stars": 53,
+    "updated_at": "2026-09-20T15:15:12Z",
+    "url": "https://github.com/lbiz-partners/hometax-doum"
+  },
+  {
+    "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
+    "id": "sebin-gg/article-sweeper",
+    "language": "Python",
+    "name": "sebin-gg/article-sweeper",
+    "stars": 1,
+    "updated_at": "2026-09-20T15:03:22Z",
+    "url": "https://github.com/sebin-gg/article-sweeper"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-20T15:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
     "id": "haoming-luo/agentfem",
     "language": "Python",
@@ -18,24 +108,6 @@
     "url": "https://github.com/vanducng/skills"
   },
   {
-    "description": "Skill Dash uses Jev to judge Claude Code and Codex skills and plugins: usefulness, redundancy, clarity, duplicates, safe",
-    "id": "48Nauts-Operator/skill-dash",
-    "language": "Python",
-    "name": "48Nauts-Operator/skill-dash",
-    "stars": 0,
-    "updated_at": "2026-09-20T14:57:16Z",
-    "url": "https://github.com/48Nauts-Operator/skill-dash"
-  },
-  {
-    "description": "Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor ",
-    "id": "michael-denyer/pstack-claude",
-    "language": "TypeScript",
-    "name": "michael-denyer/pstack-claude",
-    "stars": 504,
-    "updated_at": "2026-09-20T14:56:51Z",
-    "url": "https://github.com/michael-denyer/pstack-claude"
-  },
-  {
     "description": "Build, validate, secure, and maintain Claude Skills \u2014 a plugin superseding Anthropic's shipped skill-creator with spec-c",
     "id": "EONRaider/SkillArtisan",
     "language": "Python",
@@ -45,15 +117,6 @@
     "url": "https://github.com/EONRaider/SkillArtisan"
   },
   {
-    "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
-    "id": "sebin-gg/article-sweeper",
-    "language": "Python",
-    "name": "sebin-gg/article-sweeper",
-    "stars": 1,
-    "updated_at": "2026-09-20T14:53:44Z",
-    "url": "https://github.com/sebin-gg/article-sweeper"
-  },
-  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T14:48:21Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-20T14:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source AI agent skills for tai chi sword (\u592a\u6781\u5251) \u2014 selection, safety, technique, legal travel/ownership, health benef",
@@ -248,7 +302,7 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 8,
-    "updated_at": "2026-09-20T14:47:35Z",
+    "updated_at": "2026-09-20T15:05:42Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -268,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T14:21:21Z",
     "url": "https://github.com/fjerbi/claude-code-arsenal"
-  },
-  {
-    "description": "A collection of agents skills",
-    "id": "padosoft/skills",
-    "language": "Python",
-    "name": "padosoft/skills",
-    "stars": 1,
-    "updated_at": "2026-09-20T14:17:11Z",
-    "url": "https://github.com/padosoft/skills"
   },
   {
     "description": "Claude Skill for researching Japanese law across the houki MCP family \u2014 statute, ordinance, tax notice and amendment his",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 429,
-    "updated_at": "2026-09-20T14:06:16Z",
+    "updated_at": "2026-09-20T15:06:10Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T13:51:52Z",
     "url": "https://github.com/KarpelesPublishing/the-art-and-science-of-forecasting"
-  },
-  {
-    "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
-    "id": "Samuellalight8026/spam-filter-advisor-skill",
-    "language": "Python",
-    "name": "Samuellalight8026/spam-filter-advisor-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:51:25Z",
-    "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
-  },
-  {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 408,
-    "updated_at": "2026-09-20T13:50:29Z",
-    "url": "https://github.com/xr843/Master-skill"
-  },
-  {
-    "description": "Run coding agents like Claude, ChatGPT, and Codex side-by-side with separate profiles per account on macOS, Windows, and",
-    "id": "burnabyjudicial666/agent-profiles",
-    "language": "Rust",
-    "name": "burnabyjudicial666/agent-profiles",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:50:05Z",
-    "url": "https://github.com/burnabyjudicial666/agent-profiles"
-  },
-  {
-    "description": "Generate and optimize web novel writing workflows for long-form and short-form stories with AI agent integration and qua",
-    "id": "thanhn3977/oh-story-claudecode",
-    "language": "\u2014",
-    "name": "thanhn3977/oh-story-claudecode",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:49:46Z",
-    "url": "https://github.com/thanhn3977/oh-story-claudecode"
-  },
-  {
-    "description": "Search and manage AI coding sessions locally with full-text search across 7 tools.",
-    "id": "Unstable-ascendingartery75/ai-session-search",
-    "language": "TypeScript",
-    "name": "Unstable-ascendingartery75/ai-session-search",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:49:18Z",
-    "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
   }
 ]
