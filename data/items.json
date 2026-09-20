@@ -1,5 +1,68 @@
 [
   {
+    "description": "OpenTelemetry plugins for Claude Code and GitHub Copilot CLI \u2014 a marketplace that runs itself: open an issue, the reposi",
+    "id": "using-system/otelyssey",
+    "language": "Python",
+    "name": "using-system/otelyssey",
+    "stars": 19,
+    "updated_at": "2026-09-20T12:03:48Z",
+    "url": "https://github.com/using-system/otelyssey"
+  },
+  {
+    "description": "Build, validate, secure, and maintain Claude Skills \u2014 a plugin superseding Anthropic's shipped skill-creator with spec-c",
+    "id": "EONRaider/SkillArtisan",
+    "language": "Python",
+    "name": "EONRaider/SkillArtisan",
+    "stars": 1,
+    "updated_at": "2026-09-20T12:03:29Z",
+    "url": "https://github.com/EONRaider/SkillArtisan"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-09-20T12:03:28Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:01:32Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Multi-domain agent skills collection for AI coding agents (Claude, Cursor, Copilot, OpenCode, and more). Covers programm",
+    "id": "natuleadan/skills",
+    "language": "Python",
+    "name": "natuleadan/skills",
+    "stars": 2,
+    "updated_at": "2026-09-20T12:00:36Z",
+    "url": "https://github.com/natuleadan/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-20T12:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:00:12Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
     "id": "danieljustus/symaira-eraseme",
     "language": "Rust",
@@ -16,15 +79,6 @@
     "stars": 11,
     "updated_at": "2026-09-20T11:59:07Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Multi-domain agent skills collection for AI coding agents (Claude, Cursor, Copilot, OpenCode, and more). Covers programm",
-    "id": "natuleadan/skills",
-    "language": "Python",
-    "name": "natuleadan/skills",
-    "stars": 2,
-    "updated_at": "2026-09-20T11:59:44Z",
-    "url": "https://github.com/natuleadan/skills"
   },
   {
     "description": "\u8ba9 AI \u50cf\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u4e00\u6837\u5de5\u4f5c\uff1a\u9762\u5411 AI Agent \u7684\u6d4b\u8bd5\u5de5\u7a0b Skill \u6846\u67b6\u2014\u201411 Skills + \u5171\u4eab\u77e5\u8bc6\u5e93 + \u7c7b\u578b\u51b3\u7b56\u77e9\u9635\uff08Claude Code / dsh \u7b49 Agent \u53ef\u7528\uff09",
@@ -50,7 +104,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 115,
-    "updated_at": "2026-09-20T11:52:13Z",
+    "updated_at": "2026-09-20T12:05:13Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/sowadalmughni/spec-driven-dev"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-20T11:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
     "id": "tonydzi/clawrush",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 12,
     "updated_at": "2026-09-20T11:44:16Z",
     "url": "https://github.com/tonydzi/clawrush"
-  },
-  {
-    "description": "OpenTelemetry plugins for Claude Code and GitHub Copilot CLI \u2014 a marketplace that runs itself: open an issue, the reposi",
-    "id": "using-system/otelyssey",
-    "language": "Python",
-    "name": "using-system/otelyssey",
-    "stars": 16,
-    "updated_at": "2026-09-20T11:44:11Z",
-    "url": "https://github.com/using-system/otelyssey"
   },
   {
     "description": "Help your next AI chat pick up where this one left off with a portable skill that writes clear session handoff notes.",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T11:41:46Z",
     "url": "https://github.com/burnabyjudicial666/agent-profiles"
-  },
-  {
-    "description": "Build, validate, secure, and maintain Claude Skills \u2014 a plugin superseding Anthropic's shipped skill-creator with spec-c",
-    "id": "EONRaider/SkillArtisan",
-    "language": "Python",
-    "name": "EONRaider/SkillArtisan",
-    "stars": 1,
-    "updated_at": "2026-09-20T11:42:26Z",
-    "url": "https://github.com/EONRaider/SkillArtisan"
   },
   {
     "description": "Generate and optimize web novel writing workflows for long-form and short-form stories with AI agent integration and qua",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T11:32:09Z",
     "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:32:07Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:32:00Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Build AI skills that distill any person\u2019s thinking into reusable workflows and prompts",
-    "id": "gianguardant971/nuwa-skill",
-    "language": "\u2014",
-    "name": "gianguardant971/nuwa-skill",
-    "stars": 2,
-    "updated_at": "2026-09-20T11:31:52Z",
-    "url": "https://github.com/gianguardant971/nuwa-skill"
   }
 ]
