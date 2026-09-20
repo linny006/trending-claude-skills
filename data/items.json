@@ -1,12 +1,21 @@
 [
   {
-    "description": "My Nix system configs!",
-    "id": "malob/nix-config",
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
     "language": "Python",
-    "name": "malob/nix-config",
-    "stars": 464,
-    "updated_at": "2026-09-20T04:27:57Z",
-    "url": "https://github.com/malob/nix-config"
+    "name": "OKHP3/skillz",
+    "stars": 3,
+    "updated_at": "2026-09-20T04:43:52Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "\u65e5\u672c\u3067\u306e\u66ae\u3089\u3057\u3092\u624b\u4f1d\u3046AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u5411\u3051\u30b9\u30ad\u30eb\u96c6 - \u6c17\u8c61\u5e81\u30fb\u5185\u95a3\u5e9c\u30fb\u30ab\u30fc\u30ea\u30eb\u306e\u516c\u5f0f\u30c7\u30fc\u30bf\u3092\u4f7f\u3063\u305f\u30ed\u30b0\u30a4\u30f3\u4e0d\u8981\u306e\u7167\u4f1a\u30b9\u30ad\u30eb",
+    "id": "tahodev/kurashi-skill",
+    "language": "Python",
+    "name": "tahodev/kurashi-skill",
+    "stars": 2,
+    "updated_at": "2026-09-20T04:42:51Z",
+    "url": "https://github.com/tahodev/kurashi-skill"
   },
   {
     "description": "\ud648\ud0dd\uc2a4 \uc138\ubb34 \uc791\uc5c5\uc744 AI\uc5d0\uac8c \ub9d0\ub85c \uc2dc\ud0a4\ub294 \ubb34\ub8cc \uc2a4\ud0ac 6\uc885 \u2014 \ubd80\uac00\uc138\u00b7\uc885\ud569\uc18c\ub4dd\uc138\u00b7\uc804\uc790\uc138\uae08\uacc4\uc0b0\uc11c (Claude/Codex/Aside)",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "lbiz-partners/hometax-doum",
     "stars": 53,
-    "updated_at": "2026-09-20T04:25:04Z",
+    "updated_at": "2026-09-20T04:42:29Z",
     "url": "https://github.com/lbiz-partners/hometax-doum"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:41:27Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "\u7528\u4e8e\u9762\u8bd5\u590d\u76d8\uff1a\u5c06\u9762\u8bd5\u6587\u5b57\u7a3f\u8f6c\u6362\u6210 Markdown \u683c\u5f0f\u7684\u7ed3\u6784\u5316\u7684\u590d\u76d8\u6587\u6863 \u2014\u2014 \u95ee\u9898\u5217\u8868\u3001\u95ee\u9898\u6df1\u610f\u3001\u9762\u8bd5\u7ed3\u679c\u5206\u6790\u3001\u9519\u8bef\u7b54\u6848\u7ea0\u6b63\u3001\u9762\u8bd5\u603b\u7ed3",
+    "id": "TheaWu7/interview-review-skill",
+    "language": "\u2014",
+    "name": "TheaWu7/interview-review-skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T04:38:44Z",
+    "url": "https://github.com/TheaWu7/interview-review-skill"
+  },
+  {
+    "description": "\u53f0\u7063\u65e5\u5e38\u751f\u6d3b\u67e5\u8a62\u7684 AI \u4ee3\u7406\u6280\u80fd\u96c6(\u5b98\u65b9\u516c\u958b\u8cc7\u6599\u30fb\u514d\u767b\u5165\u514d\u91d1\u9470)/ AI-agent skills for daily life in Taiwan - keyless official open data",
+    "id": "tahodev/baodao-skill",
+    "language": "Python",
+    "name": "tahodev/baodao-skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T04:38:32Z",
+    "url": "https://github.com/tahodev/baodao-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-20T04:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "My Nix system configs!",
+    "id": "malob/nix-config",
+    "language": "Python",
+    "name": "malob/nix-config",
+    "stars": 464,
+    "updated_at": "2026-09-20T04:27:57Z",
+    "url": "https://github.com/malob/nix-config"
   },
   {
     "description": "Index of my agent skills \u2014 each skill lives in its own repo",
@@ -63,15 +117,6 @@
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-20T04:15:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -88,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-09-20T04:13:50Z",
     "url": "https://github.com/saitarrun/Sdlc-ai-workflow"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
-    "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 3,
-    "updated_at": "2026-09-20T04:08:47Z",
-    "url": "https://github.com/OKHP3/skillz"
   },
   {
     "description": "Orie Steele's agent skills. one-shot: choose how to attack a problem, take one approval, then run to the end.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T03:35:40Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-09-20T03:35:11Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:35:02Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-20T03:34:43Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:34:39Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
   }
 ]
