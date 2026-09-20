@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-20 17:00 UTC
+> ⏰ Last updated: 2026-09-20 17:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tonydzi/second-brain-starter-kit](https://github.com/tonydzi/second-brain-starter-kit) | 6 | Python | 2026-09-20 | Claude Code as a second brain: 100 battle-tested skills, a working CRM engine, vault templates and the handover map. Met |
-| 2 | [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory) | 8 | Python | 2026-09-20 | Graph RAG on SQLite for AI agents: vector retrieval + hand-curated wikilink graph + cross-encoder rerank, with a zero-to |
-| 3 | [tonydzi/clawrush](https://github.com/tonydzi/clawrush) | 12 | Python | 2026-09-20 | C(H+A)RM build diary — a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to |
-| 4 | [tonydzi/awesome-verified-agents](https://github.com/tonydzi/awesome-verified-agents) | 1 | — | 2026-09-20 | Tools that produce evidence about what an AI agent actually did — gates, attestation, output verification, benchmarks. I |
-| 5 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-09-20 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 6 | [tonydzi/agent-leash](https://github.com/tonydzi/agent-leash) | 2 | — | 2026-09-20 | LEASH-8: an 8-domain control model for AI agents with delegated authority. Scorecard, approval-design checklist, plan-vs |
-| 7 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-09-20 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 8 | [tonydzi/llm-spend-audit](https://github.com/tonydzi/llm-spend-audit) | 0 | Python | 2026-09-20 | Your agent setup charges rent on every session, before it does any work. Three stdlib-only instruments: what your wiring |
-| 9 | [shitianfang/jev-use](https://github.com/shitianfang/jev-use) | 10 | JavaScript | 2026-09-20 | Claude Code / Codex / pi plugin that hands agent steps needing no text output to Jev (TypeSafe's judgment model) — measu |
-| 10 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-09-20 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 11 | [rcptrkr/qa-skills](https://github.com/rcptrkr/qa-skills) | 0 | — | 2026-09-20 |  |
-| 12 | [onlymuneeb38-glitch/ios-agent-skills-evaluator](https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator) | 3 | HTML | 2026-09-20 | iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models |
-| 13 | [EONRaider/SkillArtisan](https://github.com/EONRaider/SkillArtisan) | 1 | Python | 2026-09-20 | Build, validate, secure, and maintain Claude Skills — a plugin superseding Anthropic's shipped skill-creator with spec-c |
-| 14 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-09-20 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
-| 15 | [MAX-786/claude-3d-harness](https://github.com/MAX-786/claude-3d-harness) | 4 | Python | 2026-09-20 | One entry point for Claude Code over pinned open-source Blender skill libraries: registry, workflows, profiles, single B |
-| 16 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 115 | Kotlin | 2026-09-20 | Helping the Agents Compose the Things |
-| 17 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 44 | Python | 2026-09-20 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 18 | [0xc000022070/agentic-flake](https://github.com/0xc000022070/agentic-flake) | 1 | Nix | 2026-09-20 | Composable agent skills and project-scoped environments for Nix.  |
-| 19 | [padosoft/skills](https://github.com/padosoft/skills) | 1 | Python | 2026-09-20 | A collection of agents skills |
-| 20 | [takimdigital/deckhand](https://github.com/takimdigital/deckhand) | 1 | Python | 2026-09-20 | Deckhand — bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de |
-| 21 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-09-20 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
-| 22 | [sebin-gg/article-sweeper](https://github.com/sebin-gg/article-sweeper) | 1 | Python | 2026-09-20 | Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file,  |
-| 23 | [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS) | 11 | Python | 2026-09-20 | Self-hosted agentic OS — a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord |
-| 24 | [saurav-shakya/NeoynGPT-video-to-code](https://github.com/saurav-shakya/NeoynGPT-video-to-code) | 5 | JavaScript | 2026-09-20 | world's  first Video to code harness skill |
-| 25 | [sven-ericmolzahn/iphone-duo-skill](https://github.com/sven-ericmolzahn/iphone-duo-skill) | 4 | Swift | 2026-09-20 | Agent skill for adapting iOS apps to iPhone Duo (Apple's folding iPhone): SDK-verified APIs, measured metrics, compile-c |
-| 26 | [jtapes/claude-bus](https://github.com/jtapes/claude-bus) | 1 | JavaScript | 2026-09-20 | Message bus skill for Claude Code agents: file inboxes for projects and subagents, background wake-ups, cron schedule an |
-| 27 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 52 | HTML | 2026-09-20 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
-| 28 | [scott-garvin/claude-code-guardrails](https://github.com/scott-garvin/claude-code-guardrails) | 0 | JavaScript | 2026-09-20 | Reusable Claude Code skills that let AI agents work safely on production systems. |
-| 29 | [gilvangonzalez/technical-founding-gtm-toolkit](https://github.com/gilvangonzalez/technical-founding-gtm-toolkit) | 4 | HTML | 2026-09-20 | The Complete AI & Technical Founder GTM Toolkit 2026 – Pricing, PLG & Enterprise Sales |
-| 30 | [semlith/semlith](https://github.com/semlith/semlith) | 1 | Rust | 2026-09-20 | A fast local vector store and code graph for AI agents — index your files once, keep it current as you save, and answer  |
-| 31 | [williamhorschak-dev/claude-legal-skills](https://github.com/williamhorschak-dev/claude-legal-skills) | 0 | Python | 2026-09-20 | Claude skills for Wisconsin legal research, citation checking, and court filing drafting, by William Horschak |
-| 32 | [MadaraUchiha-314/the-loop](https://github.com/MadaraUchiha-314/the-loop) | 5 | Python | 2026-09-20 | The loop for everything! |
-| 33 | [crackcricketdash/Everything-Claude-Code-2026](https://github.com/crackcricketdash/Everything-Claude-Code-2026) | 1 | — | 2026-09-20 | ⭐️ Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers |
-| 34 | [viibhutisharma30/jetpack-compose-remediation-kit](https://github.com/viibhutisharma30/jetpack-compose-remediation-kit) | 0 | HTML | 2026-09-20 | Modern Jetpack Compose Fixer 2026 – Debug Errors & Boost Android UI Performance |
-| 35 | [shortcuts/radin](https://github.com/shortcuts/radin) | 5 | Shell | 2026-09-20 | 🐀 the agentic stack for those who have to save tokens |
-| 36 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 3 | HTML | 2026-09-20 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
-| 37 | [bjcoombs/ai-native-toolkit](https://github.com/bjcoombs/ai-native-toolkit) | 31 | Python | 2026-09-20 | Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del |
-| 38 | [jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) | 517 | — | 2026-09-20 | A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic |
-| 39 | [jaywavfeng/tiered-agent-orchestrator](https://github.com/jaywavfeng/tiered-agent-orchestrator) | 1 | Python | 2026-09-20 | Use strong models for decisions, economy models for execution, and repository-backed state for long-running engineering. |
-| 40 | [jqueryscript/awesome-agent-skills](https://github.com/jqueryscript/awesome-agent-skills) | 5 | — | 2026-09-20 | A curated list of high-star Agent Skills on GitHub for coding agents and AI workflows. |
-| 41 | [Machai-Kydoimos/dependabot-audit](https://github.com/Machai-Kydoimos/dependabot-audit) | 0 | Python | 2026-09-20 | Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock |
-| 42 | [capsrock/iphone-duo-skill](https://github.com/capsrock/iphone-duo-skill) | 2 | — | 2026-09-20 | A Claude skill for adapting iOS apps to iPhone Duo: resizable layout, the fold, vertical bars, and the Xcode 27.1 requir |
-| 43 | [capsrock/ios-simulator-automation-skill](https://github.com/capsrock/ios-simulator-automation-skill) | 1 | — | 2026-09-20 | A Claude skill for driving and verifying the Xcode 27 iOS Simulator without opening Device Hub: which tool to use for ta |
-| 44 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-09-20 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 45 | [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 15012 | Python | 2026-09-20 | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection |
-| 46 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 177 | TypeScript | 2026-09-20 | Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi |
-| 47 | [ammawla/encode-toolkit](https://github.com/ammawla/encode-toolkit) | 20 | Python | 2026-09-20 | MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit — search, download, track, and  |
-| 48 | [kaisers-io/refs](https://github.com/kaisers-io/refs) | 7 | TypeScript | 2026-09-20 | Gives coding agents the real source of your dependencies, not a guess. |
-| 49 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-09-20 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 50 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 429 | Python | 2026-09-20 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
+| 1 | [67even/paynow-integration-skill](https://github.com/67even/paynow-integration-skill) | 0 | Python | 2026-09-20 | Claude skill for the Paynow Zimbabwe payment gateway: PHP/Laravel, Node.js/Express and raw HTTP, plus a corrected API re |
+| 2 | [tobihagemann/turbo](https://github.com/tobihagemann/turbo) | 404 | Python | 2026-09-20 | Reusable workflows for planning, building, reviewing, and shipping with Claude Code and Codex. |
+| 3 | [Georgi45/pdf-design](https://github.com/Georgi45/pdf-design) | 4 | JavaScript | 2026-09-20 | Your AI makes PDFs that look like printed websites. This Agent Skill fixes it: designed, full-bleed reports, proposals a |
+| 4 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 1 | HTML | 2026-09-20 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
+| 5 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 0 | HTML | 2026-09-20 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
+| 6 | [Mao-jh/ziwei-forge](https://github.com/Mao-jh/ziwei-forge) | 0 | Python | 2026-09-20 | 紫微斗数排盘·十四主星与四化｜有人要排紫微斗数命盘或问自己的命宫在哪里 / 要核对某个出生时间的十二宫干支与五行局 / 要看某个盘的主星、辅星落在哪一宫｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clon |
+| 7 | [Mao-jh/zeri-forge](https://github.com/Mao-jh/zeri-forge) | 0 | Python | 2026-09-20 | 择日·搬家结婚开业吉日查询｜要挑个搬家的好日子 / 要挑结婚/领证的日子 / 要挑开业/开张的日子｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 8 | [Mao-jh/xlsx-split-forge](https://github.com/Mao-jh/xlsx-split-forge) | 0 | Python | 2026-09-20 | Excel拆分·按部门按条件拆成多个文件｜要把一张 Excel 按部门/地区/公司/月份拆成多个文件 / 要把一个多工作表的工作簿拆成多个单表文件 / 要把很大的表按行数切成几份方便发出去｜按次付费 AI Skill（¥1.99/次，无订阅 |
+| 9 | [Mao-jh/xlsx-merge](https://github.com/Mao-jh/xlsx-merge) | 0 | Python | 2026-09-20 | 多个Excel工作簿合并为一个｜要把几个月的月报合成一份年表 / 几个部门各交一份要对成一张总表 / 同一个表被拆成了好几个文件要接起来｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 10 | [Mao-jh/web-table](https://github.com/Mao-jh/web-table) | 0 | Python | 2026-09-20 | 网页表格导出·网页数据变表格｜这个页面的数据要导成表 / 榜单/列表/报表只能一条条复制 / 网页上的数字要拿去做统计｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 11 | [Mao-jh/triage-forge](https://github.com/Mao-jh/triage-forge) | 0 | Python | 2026-09-20 | 一堆文件自动归类｜下载目录/桌面/素材盘堆了几百上千个文件要整理 / 要按年份月份把照片归档 / 要把扫描件按类型分开放｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 12 | [Mao-jh/tree-forge](https://github.com/Mao-jh/tree-forge) | 0 | Python | 2026-09-20 | 项目目录树与体积统计·一键导出结构树｜要写 README 里的项目结构章节 / 要找出一个仓库里最大的几个文件 / 要知道空间被什么类型占掉了（依赖/图片/日志）｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收 |
+| 13 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 177 | TypeScript | 2026-09-20 | Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi |
+| 14 | [Mao-jh/subtitle-forge](https://github.com/Mao-jh/subtitle-forge) | 0 | Python | 2026-09-20 | 字幕批量处理·SRT/VTT/ASS 互转与时间轴平移｜字幕比画面整体早/晚了几秒要统一挪 / 两段视频的字幕要接成一条 / 下载的字幕是乱码或时间戳有重叠｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，cl |
+| 15 | [Mao-jh/std-replace-check](https://github.com/Mao-jh/std-replace-check) | 0 | Python | 2026-09-20 | 国标现行状态核验｜合同或图纸上写的标准号要核实现行有效性 / 引的这一版还有效吗 / GB/T 1.1-2009 还有效吗｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 16 | [Mao-jh/skillpack-lint](https://github.com/Mao-jh/skillpack-lint) | 0 | Python | 2026-09-20 | Skill 包发布前体检·frontmatter与编码规范化｜要发布自己写的 Skill 但不确定格式对不对 / 上一次提交被平台打回、不知道具体哪里不合规 / 从别人仓库抄来一个 skill 想改改再发｜按次付费 AI Skill（¥1. |
+| 17 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-09-20 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
+| 18 | [Mao-jh/rename-forge](https://github.com/Mao-jh/rename-forge) | 0 | Python | 2026-09-20 | 批量重命名·文件批量改名·加序号换词｜要给一批照片/扫描件/素材按顺序编号 / 要把文件名里统一出现的词删掉或换掉 / 要让一批文件的名字风格统一（去掉空格、统一大小写）｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝  |
+| 19 | [Mao-jh/quick-launch-forge](https://github.com/Mao-jh/quick-launch-forge) | 0 | Python | 2026-09-20 | 一键打开常用文件夹·桌面启动入口生成｜要把每天都要打开的文件夹做成一个双击就开的入口 / 要一个桌面上的启动面板，点一下就打开那几个常用目录 / 要把常用网址和常用文件夹放在一起，一次点开｜按次付费 AI Skill（¥1.99/次，无订阅 |
+| 20 | [Mao-jh/qr-forge](https://github.com/Mao-jh/qr-forge) | 0 | Python | 2026-09-20 | 二维码生成·文字变二维码图片｜要把一个链接/口令/报名地址做成二维码给同事或客户扫 / 做活动物料、工牌、桌牌、收据上要贴二维码 / 把这个链接做成二维码｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clo |
+| 21 | [Mao-jh/porter-fetch](https://github.com/Mao-jh/porter-fetch) | 0 | Python | 2026-09-20 | 下载加速·下载能力强化｜下载太慢了 / 下载老是断 / 下了一半没了要重来｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 22 | [Mao-jh/plot-forge](https://github.com/Mao-jh/plot-forge) | 0 | Python | 2026-09-20 | 数据变图表图片｜要给报告、方案、汇报材料配一张图 / 手上有一列数据要变成柱状图/折线图/饼图 / 这几组数据画个图｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 23 | [Mao-jh/pdf-split-forge](https://github.com/Mao-jh/pdf-split-forge) | 0 | Python | 2026-09-20 | PDF分割·按页拆分PDF·每N页一份或抽指定页｜一份 PDF 要按页拆成几份 / 只要这个大 PDF 里的其中几页 / 每 10 页拆一份方便分发｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone  |
+| 24 | [Mao-jh/pdf-qc](https://github.com/Mao-jh/pdf-qc) | 0 | Python | 2026-09-20 | PDF 检查·PDF 能不能直接发｜即将把 PDF 发给客户、投标、交稿、上传系统之前 / 要把打印稿或扫描件当可检索文档交出去 / 打开看没问题、发出去才出事｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收， |
+| 25 | [Mao-jh/pdf-merge-forge](https://github.com/Mao-jh/pdf-merge-forge) | 0 | Python | 2026-09-20 | PDF合并·多份PDF按顺序合并成一个文件｜把几份 PDF 合并成一个文件 / 合同/报告分了好几份要合成一份发出去 / 扫描件分几次扫的，要拼成一份｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone |
+| 26 | [Mao-jh/pdf-image-text](https://github.com/Mao-jh/pdf-image-text) | 0 | Python | 2026-09-20 | PDF 提取文字·PDF和图片文字提取｜把 PDF 里的字提出来 / 这份 PDF 复制不出文字 / 扫描件想转成能编辑的文字｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 27 | [Mao-jh/office-guard](https://github.com/Mao-jh/office-guard) | 0 | Python | 2026-09-20 | 文档安全检查·别人发来的文档先检查｜要在一个干净环境或客户机器上打开外部文档 / 收到一封邮件的附件要拆开看 / 这个文件安全吗｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 28 | [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) | 792 | Markdown | 2026-09-20 | Agent skills for source-grounded novel-to-game adaptation (小说改编游戏 / story to game): cited design docs, target-runtime bu |
+| 29 | [Mao-jh/mp4-doctor](https://github.com/Mao-jh/mp4-doctor) | 0 | Python | 2026-09-20 | 视频修复·视频打开是黑屏·修好｜视频上传后一直转圈、要等整片下完才开始播 / 视频能打开但画面全黑或错位、拖动进度条没反应 / 能打开但画面全黑/错位/拖不动进度条｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI  |
+| 30 | [Mao-jh/merge-dedupe](https://github.com/Mao-jh/merge-dedupe) | 0 | Python | 2026-09-20 | Excel合并·表格合并去重·几份材料并成一份｜同一份内容分散在几个文件里要合并成一份对外发的版本 / 这几份合并一下 / 两个版本哪个对｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 31 | [Mao-jh/md-toc-forge](https://github.com/Mao-jh/md-toc-forge) | 0 | Python | 2026-09-20 | Markdown 批量加目录·多篇合并成一篇｜一堆笔记缺目录要补齐 / 目录里的条目和正文对不上了要刷新 / 要把系列文章合并成一本手册｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 32 | [Mao-jh/liuyao-forge](https://github.com/Mao-jh/liuyao-forge) | 0 | Python | 2026-09-20 | 六爻金钱卦装卦·摇卦与六亲六神世应旬空｜要用六爻/金钱卦摇一卦 / 要装卦：六亲、六神、世应分别是哪些 / 要看某卦的世爻在第几爻、应爻在哪｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 33 | [Mao-jh/invoice-extract](https://github.com/Mao-jh/invoice-extract) | 0 | Python | 2026-09-20 | 提取PDF电子发票发票号码｜要把一批发票 PDF 的号码登进台账/报销表/抵扣勾选表 / 月底要按发票号码对账 / 把发票号码提取出来｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 34 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-09-20 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
+| 35 | [Mao-jh/image-meta-guard](https://github.com/Mao-jh/image-meta-guard) | 0 | Python | 2026-09-20 | 图片隐私·发图前清掉照片里的位置｜即将把照片或截图发给客户、发到群里、发到公开平台之前 / 要把带坐标的样张、带真名的文档截图对外交付 / 这张图里有没有位置信息｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收 |
+| 36 | [Mao-jh/gongwen-contract](https://github.com/Mao-jh/gongwen-contract) | 0 | Python | 2026-09-20 | 公文格式·公文合同规范成稿｜写一份通知/请示/报告/函 / 起草一份服务合同/采购合同/租赁合同/保密协议 / 这份合同有没有坑｜按次付费 AI Skill（¥2.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 37 | [Mao-jh/folder-forge](https://github.com/Mao-jh/folder-forge) | 0 | Python | 2026-09-20 | 按日期批量建文件夹｜要按天/周/月/季/年建一整套归档或日志目录 / 用户给了一份名字清单要照着建目录 / 帮我建一年的文件夹｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 38 | [Mao-jh/file-watchdog](https://github.com/Mao-jh/file-watchdog) | 0 | Python | 2026-09-20 | 误删文件·改坏的文件还原回去｜即将批量改名、批量替换、批量删除或让工具扫一遍改文件之前 / 改完之后要核对到底哪些文件被删了、哪些被大幅改写 / 我刚才改坏了能还原吗｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI |
+| 39 | [Mao-jh/exe-forge](https://github.com/Mao-jh/exe-forge) | 0 | Python | 2026-09-20 | exe打包·把你的应用打包成exe｜把网页应用变成桌面程序 / 打包成 exe / 发给朋友能直接运行的程序｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 40 | [Mao-jh/excel-formula-forge](https://github.com/Mao-jh/excel-formula-forge) | 0 | Python | 2026-09-20 | Excel表格函数公式·Excel公式助手·说人话给公式｜Excel 里按条件求和怎么写公式 / 两个表之间怎么把数据对过来 / 怎么把一列里的重复值去重列出来｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收， |
+| 41 | [Mao-jh/encoding-fix](https://github.com/Mao-jh/encoding-fix) | 0 | Python | 2026-09-20 | 文件名乱码一键修好｜本来就是这种感觉的名字 / 文件名乱码怎么办 / 解压出来名字都是问号｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 42 | [Mao-jh/dup-sweep](https://github.com/Mao-jh/dup-sweep) | 0 | Python | 2026-09-20 | 重复文件揪出来·不删只隔离｜照片/素材/备份盘里存了一堆副本想清一清 / 同一份文件在多个文件夹各存了一份，想知道到底重复了多少 / 磁盘空间不够，想先看看重复文件占了多少｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 |
+| 43 | [Mao-jh/doc-trio](https://github.com/Mao-jh/doc-trio) | 0 | Python | 2026-09-20 | 文档格式转换·文档格式一条龙｜出一份正式文档 / 同一份内容要 Word 和 PDF 两份 / 顺便给份 Excel｜按次付费 AI Skill（¥2.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 44 | [Mao-jh/doc-digest](https://github.com/Mao-jh/doc-digest) | 0 | Python | 2026-09-20 | 长文档摘要·长文档读薄·PDF提炼摘要｜这份 PDF 两百页到底讲了什么 / 把这份报告提炼成几页 / 论文太长帮我读薄｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 45 | [Mao-jh/deliverable-sweep](https://github.com/Mao-jh/deliverable-sweep) | 0 | Python | 2026-09-20 | 一批文件交付前全查｜一整批办公文件即将交付给客户或上级之前 / 把材料打包发出去之前要统一检查一遍 / 这批文件能发吗｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 46 | [Mao-jh/bazi-forge](https://github.com/Mao-jh/bazi-forge) | 0 | Python | 2026-09-20 | 八字排盘·生辰四柱五行十神｜有人问自己的八字或四柱是什么 / 要给新生儿排盘 / 要核对某个生日对应的干支与五行｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 47 | [Mao-jh/batch-print](https://github.com/Mao-jh/batch-print) | 0 | Python | 2026-09-20 | 通用批量打印文件｜要把一整个文件夹里的 PDF/Word/图片一次打出来 / 要把这批材料按名字顺序打成一摞（手工右键打印顺序乱） / 要指定打到哪台打印机｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，cl |
+| 48 | [Mao-jh/ai-usage-report](https://github.com/Mao-jh/ai-usage-report) | 0 | Python | 2026-09-20 | Token 用量·我的AI使用报告｜我的AI使用报告 / 这个月我到底用 AI 干了啥 / 帮我统计一下我的 AI 使用情况｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
+| 49 | [abbyuraffi-netizen/maxvision-claude-forge](https://github.com/abbyuraffi-netizen/maxvision-claude-forge) | 0 | HTML | 2026-09-20 | n8n Claude Code Marketplace 2026 ⚡ Production-Grade Skills for GTM & Workflow Automation |
+| 50 | [Mao-jh/table-clean](https://github.com/Mao-jh/table-clean) | 0 | Python | 2026-09-20 | 表格清洗·Excel清洗乱表变干净｜把多个月度报表合成一份 / 几个部门的表对不上要合并 / 去掉重复行｜按次付费 AI Skill（¥1.99/次，无订阅），已内置支付宝 AI 收，clone 即装 |
 <!-- TRACKER_TABLE_END -->
 
 ---
