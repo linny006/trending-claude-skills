@@ -1,11 +1,65 @@
 [
   {
+    "description": "OpenTelemetry plugins for Claude Code and GitHub Copilot CLI \u2014 a marketplace that runs itself: open an issue, the reposi",
+    "id": "using-system/otelyssey",
+    "language": "Python",
+    "name": "using-system/otelyssey",
+    "stars": 1,
+    "updated_at": "2026-09-20T02:12:30Z",
+    "url": "https://github.com/using-system/otelyssey"
+  },
+  {
+    "description": "Open build standards for back-office workflows, as installable Agent Skills. Ordered checks, object schemas, a conforman",
+    "id": "digitalgym/aipathway-standards",
+    "language": "\u2014",
+    "name": "digitalgym/aipathway-standards",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:12:10Z",
+    "url": "https://github.com/digitalgym/aipathway-standards"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-09-20T02:08:50Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
+    "description": "PMP-grade AI project management skill: markdown-driven PMO covering requirements, risks, milestones, costs, daily & week",
+    "id": "qiusuo0226/chrono-pm-skill",
+    "language": "Python",
+    "name": "qiusuo0226/chrono-pm-skill",
+    "stars": 4,
+    "updated_at": "2026-09-20T02:08:03Z",
+    "url": "https://github.com/qiusuo0226/chrono-pm-skill"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-09-20T02:01:21Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-20T02:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "DJI \u4e0a\u4e91\u6280\u80fd\u5305\uff1a\u822a\u7ebf\u6587\u4ef6(WPML/KMZ)\u751f\u6210\u6821\u9a8c + \u5927\u7586\u4e0a\u4e91 API(MQTT)\u5bf9\u63a5\u3002Agent skills for DJI wayline files and cloud API.",
     "id": "wsadexq/refactored-system",
     "language": "Python",
     "name": "wsadexq/refactored-system",
     "stars": 5,
-    "updated_at": "2026-09-20T01:59:36Z",
+    "updated_at": "2026-09-20T02:00:42Z",
     "url": "https://github.com/wsadexq/refactored-system"
   },
   {
@@ -27,7 +81,7 @@
     "url": "https://github.com/fightingforsidewalk/.github"
   },
   {
-    "description": "A file-based mailbox and operating model for running one project across several Claude chats. Plain Markdown, no server,",
+    "description": "A file-based mailbox and operating model for running one project across several AI chats and agents. Plain Markdown, no ",
     "id": "fightingforsidewalk/skill-claude-relay",
     "language": "Python",
     "name": "fightingforsidewalk/skill-claude-relay",
@@ -36,7 +90,7 @@
     "url": "https://github.com/fightingforsidewalk/skill-claude-relay"
   },
   {
-    "description": "A Claude skill for keeping a project tracker updated: one Markdown record, script-only edits, and a sync check that fail",
+    "description": "One record as the truth, every derived view patched from it, and a check that fails loudly when they disagree. Plain Mar",
     "id": "fightingforsidewalk/skill-canonical-tracker",
     "language": "Python",
     "name": "fightingforsidewalk/skill-canonical-tracker",
@@ -63,7 +117,7 @@
     "url": "https://github.com/Carlosdalv669/formify-skills"
   },
   {
-    "description": "A working contract between a planning chat, a coding agent, and a human who never has to read a diff",
+    "description": "A working contract between a planning chat, a coding agent, and a human who never has to read a diff: bounded tasks, pre",
     "id": "fightingforsidewalk/claude-code-discipline",
     "language": "\u2014",
     "name": "fightingforsidewalk/claude-code-discipline",
@@ -185,17 +239,8 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-20T01:45:48Z",
+    "updated_at": "2026-09-20T02:14:57Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-20T01:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
@@ -324,15 +369,6 @@
     "url": "https://github.com/Selleparental3533/figshare-skill"
   },
   {
-    "description": "PMP-grade AI project management skill: markdown-driven PMO covering requirements, risks, milestones, costs, daily & week",
-    "id": "qiusuo0226/chrono-pm-skill",
-    "language": "Python",
-    "name": "qiusuo0226/chrono-pm-skill",
-    "stars": 4,
-    "updated_at": "2026-09-20T01:41:58Z",
-    "url": "https://github.com/qiusuo0226/chrono-pm-skill"
-  },
-  {
     "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
     "id": "noman3271/caveman",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T01:40:31Z",
     "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-20T01:40:27Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Resolve file-based context for AI agent DAG workflows with token budgets, zero dependencies.",
-    "id": "Anserinaecrotalariasagitallis995/context-packet",
-    "language": "TypeScript",
-    "name": "Anserinaecrotalariasagitallis995/context-packet",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:40:11Z",
-    "url": "https://github.com/Anserinaecrotalariasagitallis995/context-packet"
-  },
-  {
-    "description": "Track Claude Code CLI state with a clean spinner word registry built in vanilla JavaScript and CSS3",
-    "id": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "language": "Shell",
-    "name": "Haloufde9815/CLAUDE-SPINNER-WORDS",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:39:41Z",
-    "url": "https://github.com/Haloufde9815/CLAUDE-SPINNER-WORDS"
-  },
-  {
-    "description": "Explore 72 AI-powered skills across 6 departments for AlterLab FC training, learning, and workflow support",
-    "id": "prone-dc302/AlterLab-FC-Skills",
-    "language": "JavaScript",
-    "name": "prone-dc302/AlterLab-FC-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:39:38Z",
-    "url": "https://github.com/prone-dc302/AlterLab-FC-Skills"
   }
 ]
