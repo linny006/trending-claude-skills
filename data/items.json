@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Enhance programming workflows with a curated library of agent skills for tasks like code review, debugging, and plann",
+    "id": "izyanrajwani/agent-skills-library",
+    "language": "TypeScript",
+    "name": "izyanrajwani/agent-skills-library",
+    "stars": 4,
+    "updated_at": "2026-09-20T03:14:49Z",
+    "url": "https://github.com/izyanrajwani/agent-skills-library"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-20T03:11:39Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
+    "id": "Junayedahmedd/gemini_cli_skill",
+    "language": "\u2014",
+    "name": "Junayedahmedd/gemini_cli_skill",
+    "stars": 3,
+    "updated_at": "2026-09-20T03:09:56Z",
+    "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 65,
+    "updated_at": "2026-09-20T03:07:19Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "MCP tool schemas + agent skills: 71,929 tokens -> 581 (-99.2%, measured). mcptoon syncs them to every agent. A zero-depe",
+    "id": "activeing123/mcptoon",
+    "language": "HTML",
+    "name": "activeing123/mcptoon",
+    "stars": 202,
+    "updated_at": "2026-09-20T03:06:16Z",
+    "url": "https://github.com/activeing123/mcptoon"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 3,
+    "updated_at": "2026-09-20T03:14:48Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-20T03:13:27Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 2,
+    "updated_at": "2026-09-20T03:03:20Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
+    "id": "AN0099/toothpaste-kit",
+    "language": "Python",
+    "name": "AN0099/toothpaste-kit",
+    "stars": 1,
+    "updated_at": "2026-09-20T03:09:26Z",
+    "url": "https://github.com/AN0099/toothpaste-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-20T03:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A reusable meta-prompt that turns any use case into a high-quality, ready-to-use LLM prompt \u2014 Claude-first, with Gemini/",
     "id": "hmbseaotter/meta-prompt-toolkit",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 150,
     "updated_at": "2026-09-20T02:55:33Z",
     "url": "https://github.com/oaustegard/claude-skills"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-20T02:54:06Z",
-    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Cyber Celestial Path \u2014Offline, reproducible BaZi (Four Pillars) and Huangli Agent Skill with deterministic local calcula",
@@ -52,24 +133,6 @@
     "stars": 3,
     "updated_at": "2026-09-20T02:47:54Z",
     "url": "https://github.com/zeikar/hyperclaude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-20T02:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "MCP tool schemas + agent skills: 71,929 tokens -> 581 (-99.2%, measured). mcptoon syncs them to every agent. A zero-depe",
-    "id": "activeing123/mcptoon",
-    "language": "HTML",
-    "name": "activeing123/mcptoon",
-    "stars": 202,
-    "updated_at": "2026-09-20T02:44:37Z",
-    "url": "https://github.com/activeing123/mcptoon"
   },
   {
     "description": "Official catalog of OOMOL app-skills: agent skills that let AI assistants operate third-party services via the oo CLI",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T02:37:35Z",
     "url": "https://github.com/happypathworks/skill-audit"
-  },
-  {
-    "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
-    "id": "getedgehq/skills",
-    "language": "Python",
-    "name": "getedgehq/skills",
-    "stars": 2,
-    "updated_at": "2026-09-20T02:34:47Z",
-    "url": "https://github.com/getedgehq/skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T01:49:21Z",
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:47:46Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:47:40Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 145,
-    "updated_at": "2026-09-20T02:50:15Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:45:10Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:45:02Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:44:20Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
   }
 ]
