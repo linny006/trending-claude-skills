@@ -1,12 +1,102 @@
 [
   {
+    "description": "MCP server for AI hallucination detection & agent safety \u2014 verify claims, guard prompts, gate CUA actions",
+    "id": "fredyee/hallucc-mcp",
+    "language": "TypeScript",
+    "name": "fredyee/hallucc-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:45:05Z",
+    "url": "https://github.com/fredyee/hallucc-mcp"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Rust",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 8,
+    "updated_at": "2026-09-20T08:44:25Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:43:55Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "Every great bug bounty skill on GitHub, one repo, refreshed daily \u2014 auto-harvested, deduplicated, and credited to every ",
+    "id": "S1N6H/Bug-Bounty-Skills",
+    "language": "Python",
+    "name": "S1N6H/Bug-Bounty-Skills",
+    "stars": 10,
+    "updated_at": "2026-09-20T08:41:10Z",
+    "url": "https://github.com/S1N6H/Bug-Bounty-Skills"
+  },
+  {
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
+    "language": "Python",
+    "name": "Ovid/paad",
+    "stars": 118,
+    "updated_at": "2026-09-20T08:40:43Z",
+    "url": "https://github.com/Ovid/paad"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 115,
+    "updated_at": "2026-09-20T08:40:31Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "OpenTelemetry plugins for Claude Code and GitHub Copilot CLI \u2014 a marketplace that runs itself: open an issue, the reposi",
+    "id": "using-system/otelyssey",
+    "language": "Python",
+    "name": "using-system/otelyssey",
+    "stars": 1,
+    "updated_at": "2026-09-20T08:39:10Z",
+    "url": "https://github.com/using-system/otelyssey"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69215,
+    "updated_at": "2026-09-20T08:44:13Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
+    "id": "semlith/semlith",
+    "language": "Rust",
+    "name": "semlith/semlith",
+    "stars": 1,
+    "updated_at": "2026-09-20T08:43:35Z",
+    "url": "https://github.com/semlith/semlith"
+  },
+  {
     "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
     "id": "hanzhangzzz/agent-skills-zh",
     "language": "Python",
     "name": "hanzhangzzz/agent-skills-zh",
     "stars": 2,
-    "updated_at": "2026-09-20T08:28:35Z",
+    "updated_at": "2026-09-20T08:35:09Z",
     "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-20T08:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
@@ -72,30 +162,12 @@
     "url": "https://github.com/sergeyklay/.agents"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Rust",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 8,
-    "updated_at": "2026-09-20T08:22:43Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69215,
-    "updated_at": "2026-09-20T08:25:24Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
     "id": "arbiterForge/codeArbiter",
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-20T08:21:03Z",
+    "updated_at": "2026-09-20T08:38:07Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -117,15 +189,6 @@
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-20T08:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u4e13\u4e3a\u73b0\u4ee3 AI Agent\uff08\u5982 Claude Code, OpenAI Codex, Cursor, Windsurf, Trae, Antigravity \u7b49\uff09\u6253\u9020\u7684 Windows Shell \u547d\u4ee4\u884c\u6267\u884c\u4e0e\u811a\u672c\u5de5\u7a0b\u5316\u901a\u7528\u6807\u51c6\u89c4\u8303\u3002",
     "id": "ItQianChen/windows-scripting-standards-skill",
     "language": "PowerShell",
@@ -142,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T08:12:51Z",
     "url": "https://github.com/98ping/chip"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 115,
-    "updated_at": "2026-09-20T08:25:00Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T07:37:22Z",
     "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "Unofficial Claude Code skills adapted from Anthropic's The AI-Native SDLC playbook \u2014 the committed-artifact chain from i",
-    "id": "asaf-shitrit/ai-native-sdlc-skills",
-    "language": "\u2014",
-    "name": "asaf-shitrit/ai-native-sdlc-skills",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:35:51Z",
-    "url": "https://github.com/asaf-shitrit/ai-native-sdlc-skills"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 1,
-    "updated_at": "2026-09-20T07:34:49Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:34:45Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:34:02Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:33:58Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-09-20T07:33:45Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
   }
 ]
