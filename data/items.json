@@ -1,5 +1,68 @@
 [
   {
+    "description": "A reusable meta-prompt that turns any use case into a high-quality, ready-to-use LLM prompt \u2014 Claude-first, with Gemini/",
+    "id": "hmbseaotter/meta-prompt-toolkit",
+    "language": "Python",
+    "name": "hmbseaotter/meta-prompt-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:55:44Z",
+    "url": "https://github.com/hmbseaotter/meta-prompt-toolkit"
+  },
+  {
+    "description": "My collection of Claude skills",
+    "id": "oaustegard/claude-skills",
+    "language": "Python",
+    "name": "oaustegard/claude-skills",
+    "stars": 150,
+    "updated_at": "2026-09-20T02:55:33Z",
+    "url": "https://github.com/oaustegard/claude-skills"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-20T02:54:06Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Cyber Celestial Path \u2014Offline, reproducible BaZi (Four Pillars) and Huangli Agent Skill with deterministic local calcula",
+    "id": "yabbadabbadoo951028-design/bazi-agent-skills",
+    "language": "Python",
+    "name": "yabbadabbadoo951028-design/bazi-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:51:09Z",
+    "url": "https://github.com/yabbadabbadoo951028-design/bazi-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "WikkyGao/requirement-analysis",
+    "language": "Python",
+    "name": "WikkyGao/requirement-analysis",
+    "stars": 11,
+    "updated_at": "2026-09-20T02:48:20Z",
+    "url": "https://github.com/WikkyGao/requirement-analysis"
+  },
+  {
+    "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous m",
+    "id": "zeikar/hyperclaude",
+    "language": "JavaScript",
+    "name": "zeikar/hyperclaude",
+    "stars": 3,
+    "updated_at": "2026-09-20T02:47:54Z",
+    "url": "https://github.com/zeikar/hyperclaude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 43,
+    "updated_at": "2026-09-20T02:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "MCP tool schemas + agent skills: 71,929 tokens -> 581 (-99.2%, measured). mcptoon syncs them to every agent. A zero-depe",
     "id": "activeing123/mcptoon",
     "language": "HTML",
@@ -45,15 +108,6 @@
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
   },
   {
-    "description": "Cyber Celestial Path \u2014Offline, reproducible BaZi (Four Pillars) and Huangli Agent Skill with deterministic local calcula",
-    "id": "yabbadabbadoo951028-design/bazi-agent-skills",
-    "language": "Python",
-    "name": "yabbadabbadoo951028-design/bazi-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-20T02:38:33Z",
-    "url": "https://github.com/yabbadabbadoo951028-design/bazi-agent-skills"
-  },
-  {
     "description": "Open build standards for back-office workflows, as installable Agent Skills. Ordered checks, object schemas, a conforman",
     "id": "digitalgym/aipathway-standards",
     "language": "TypeScript",
@@ -88,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T02:31:10Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-20T02:30:53Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 43,
-    "updated_at": "2026-09-20T02:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-20T02:20:34Z",
+    "updated_at": "2026-09-20T02:50:15Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T01:44:20Z",
     "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:44:20Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:44:05Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:43:31Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:43:26Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
   }
 ]
