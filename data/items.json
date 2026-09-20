@@ -1,5 +1,113 @@
 [
   {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69215,
+    "updated_at": "2026-09-20T08:58:17Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
+    "id": "semlith/semlith",
+    "language": "Rust",
+    "name": "semlith/semlith",
+    "stars": 1,
+    "updated_at": "2026-09-20T08:58:28Z",
+    "url": "https://github.com/semlith/semlith"
+  },
+  {
+    "description": "Agent skill for adapting iOS apps to iPhone Duo (Apple's folding iPhone): SDK-verified APIs, measured metrics, compile-c",
+    "id": "sven-ericmolzahn/iphone-duo-skill",
+    "language": "Swift",
+    "name": "sven-ericmolzahn/iphone-duo-skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:57:13Z",
+    "url": "https://github.com/sven-ericmolzahn/iphone-duo-skill"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:56:31Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 1,
+    "updated_at": "2026-09-20T08:56:30Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 2,
+    "updated_at": "2026-09-20T08:55:13Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:53:06Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-20T08:51:09Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 1\u0421-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u043b\u044f Claude Code: \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b, \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u041e\u041e\u041f \u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u044b, XML \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0445, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u0433\u0435\u0439\u0442\u044b \u0438",
+    "id": "Romandredan/1c-quality-gate",
+    "language": "JavaScript",
+    "name": "Romandredan/1c-quality-gate",
+    "stars": 25,
+    "updated_at": "2026-09-20T08:47:29Z",
+    "url": "https://github.com/Romandredan/1c-quality-gate"
+  },
+  {
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "id": "yusufkaraaslan/Skill_Seekers",
+    "language": "Python",
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "stars": 15011,
+    "updated_at": "2026-09-20T08:47:03Z",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-20T08:45:55Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-20T08:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "MCP server for AI hallucination detection & agent safety \u2014 verify claims, guard prompts, gate CUA actions",
     "id": "fredyee/hallucc-mcp",
     "language": "TypeScript",
@@ -14,17 +122,8 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 8,
-    "updated_at": "2026-09-20T08:44:25Z",
+    "updated_at": "2026-09-20T08:56:27Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T08:43:55Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
     "description": "Every great bug bounty skill on GitHub, one repo, refreshed daily \u2014 auto-harvested, deduplicated, and credited to every ",
@@ -63,24 +162,6 @@
     "url": "https://github.com/using-system/otelyssey"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69215,
-    "updated_at": "2026-09-20T08:44:13Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
-    "id": "semlith/semlith",
-    "language": "Rust",
-    "name": "semlith/semlith",
-    "stars": 1,
-    "updated_at": "2026-09-20T08:43:35Z",
-    "url": "https://github.com/semlith/semlith"
-  },
-  {
     "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
     "id": "hanzhangzzz/agent-skills-zh",
     "language": "Python",
@@ -88,24 +169,6 @@
     "stars": 2,
     "updated_at": "2026-09-20T08:35:09Z",
     "url": "https://github.com/hanzhangzzz/agent-skills-zh"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-20T08:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
-    "id": "getedgehq/skills",
-    "language": "Python",
-    "name": "getedgehq/skills",
-    "stars": 2,
-    "updated_at": "2026-09-20T08:28:27Z",
-    "url": "https://github.com/getedgehq/skills"
   },
   {
     "description": "meoo cli \u662f\u79d2\u609f\uff08Meoo\uff09\u5b98\u65b9\u63a8\u51fa\u7684\u547d\u4ee4\u884c\u5de5\u5177\uff0c\u8ba9 Claude Code\u3001Codex\u3001Cursor\u3001Qoder\u7b49\u672c\u5730 agent \u5728\u5e2e\u4f60\u5199\u5b8c\u524d\u7aef\u4ee3\u7801\u540e\uff0c\u80fd\u76f4\u63a5\u63a5\u7ba1\u300c\u6570\u636e\u5e93\u3001\u7528\u6237\u767b\u5f55\u3001\u6587\u4ef6\u5b58\u50a8\u3001\u90e8\u7f72\u4e0a\u7ebf\u300d\u7684\u6240\u6709\u4e91\u7aef\u5de5\u4f5c\u2014\u2014\u4f60\u53ea\u9700\u8981",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T08:25:55Z",
     "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
-    "description": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 1\u0421-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u043b\u044f Claude Code: \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b, \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u041e\u041e\u041f \u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u044b, XML \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0445, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u0433\u0435\u0439\u0442\u044b \u0438",
-    "id": "Romandredan/1c-quality-gate",
-    "language": "JavaScript",
-    "name": "Romandredan/1c-quality-gate",
-    "stars": 25,
-    "updated_at": "2026-09-20T08:25:42Z",
-    "url": "https://github.com/Romandredan/1c-quality-gate"
   },
   {
     "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
@@ -162,15 +216,6 @@
     "url": "https://github.com/sergeyklay/.agents"
   },
   {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 145,
-    "updated_at": "2026-09-20T08:38:07Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
     "description": "Claude Code / Codex skills that turn a video into a Chinese narration recap (\u89c6\u9891\u89e3\u8bf4): scene detection, ASR, VLM, script, T",
     "id": "zenstory-ai/video-recap-skills",
     "language": "Python",
@@ -178,15 +223,6 @@
     "stars": 525,
     "updated_at": "2026-09-20T08:18:42Z",
     "url": "https://github.com/zenstory-ai/video-recap-skills"
-  },
-  {
-    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
-    "id": "yusufkaraaslan/Skill_Seekers",
-    "language": "Python",
-    "name": "yusufkaraaslan/Skill_Seekers",
-    "stars": 15011,
-    "updated_at": "2026-09-20T08:15:28Z",
-    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
   },
   {
     "description": "\u4e13\u4e3a\u73b0\u4ee3 AI Agent\uff08\u5982 Claude Code, OpenAI Codex, Cursor, Windsurf, Trae, Antigravity \u7b49\uff09\u6253\u9020\u7684 Windows Shell \u547d\u4ee4\u884c\u6267\u884c\u4e0e\u811a\u672c\u5de5\u7a0b\u5316\u901a\u7528\u6807\u51c6\u89c4\u8303\u3002",
@@ -241,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-09-20T08:03:09Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-20T08:23:31Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Claude Code plugin: know your unknowns \u2014 blind-spot passes, domain primers, pre-implementation interviews, tweak-likelih",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T07:39:07Z",
     "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
-    "id": "Poetic-squamouscell685/aahl-web-scraper",
-    "language": "HTML",
-    "name": "Poetic-squamouscell685/aahl-web-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:39:04Z",
-    "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-09-20T07:37:28Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:37:22Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
   }
 ]
