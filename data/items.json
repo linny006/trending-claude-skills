@@ -1,12 +1,30 @@
 [
   {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
+    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
+    "id": "takimdigital/deckhand",
     "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 3,
-    "updated_at": "2026-09-20T04:43:52Z",
-    "url": "https://github.com/OKHP3/skillz"
+    "name": "takimdigital/deckhand",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:59:16Z",
+    "url": "https://github.com/takimdigital/deckhand"
+  },
+  {
+    "description": "General Skills Development Pipeline - Claude Code & Codex",
+    "id": "huangwb8/skills",
+    "language": "Python",
+    "name": "huangwb8/skills",
+    "stars": 48,
+    "updated_at": "2026-09-20T04:59:11Z",
+    "url": "https://github.com/huangwb8/skills"
+  },
+  {
+    "description": "Custom Claude skills I Built",
+    "id": "FishTankTech/Tool-ClaudeSkills",
+    "language": "\u2014",
+    "name": "FishTankTech/Tool-ClaudeSkills",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:55:54Z",
+    "url": "https://github.com/FishTankTech/Tool-ClaudeSkills"
   },
   {
     "description": "\u65e5\u672c\u3067\u306e\u66ae\u3089\u3057\u3092\u624b\u4f1d\u3046AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u5411\u3051\u30b9\u30ad\u30eb\u96c6 - \u6c17\u8c61\u5e81\u30fb\u5185\u95a3\u5e9c\u30fb\u30ab\u30fc\u30ea\u30eb\u306e\u516c\u5f0f\u30c7\u30fc\u30bf\u3092\u4f7f\u3063\u305f\u30ed\u30b0\u30a4\u30f3\u4e0d\u8981\u306e\u7167\u4f1a\u30b9\u30ad\u30eb",
@@ -14,8 +32,62 @@
     "language": "Python",
     "name": "tahodev/kurashi-skill",
     "stars": 2,
-    "updated_at": "2026-09-20T04:42:51Z",
+    "updated_at": "2026-09-20T04:54:26Z",
     "url": "https://github.com/tahodev/kurashi-skill"
+  },
+  {
+    "description": "\u53f0\u7063\u65e5\u5e38\u751f\u6d3b\u67e5\u8a62\u7684 AI \u4ee3\u7406\u6280\u80fd\u96c6(\u5b98\u65b9\u516c\u958b\u8cc7\u6599\u30fb\u514d\u767b\u5165\u514d\u91d1\u9470)/ AI-agent skills for daily life in Taiwan - keyless official open data",
+    "id": "tahodev/baodao-skill",
+    "language": "Python",
+    "name": "tahodev/baodao-skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T04:52:04Z",
+    "url": "https://github.com/tahodev/baodao-skill"
+  },
+  {
+    "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
+    "id": "sichenai/sichen-skills",
+    "language": "Python",
+    "name": "sichenai/sichen-skills",
+    "stars": 2,
+    "updated_at": "2026-09-20T04:51:41Z",
+    "url": "https://github.com/sichenai/sichen-skills"
+  },
+  {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/raghuram-skills",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/raghuram-skills",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:48:54Z",
+    "url": "https://github.com/raghuramsirigiri/raghuram-skills"
+  },
+  {
+    "description": "\u7528\u4e8e\u9762\u8bd5\u590d\u76d8\uff1a\u5c06\u9762\u8bd5\u6587\u5b57\u7a3f\u8f6c\u6362\u6210 Markdown \u683c\u5f0f\u7684\u7ed3\u6784\u5316\u7684\u590d\u76d8\u6587\u6863 \u2014\u2014 \u95ee\u9898\u5217\u8868\u3001\u95ee\u9898\u6df1\u610f\u3001\u9762\u8bd5\u7ed3\u679c\u5206\u6790\u3001\u9519\u8bef\u7b54\u6848\u7ea0\u6b63\u3001\u9762\u8bd5\u603b\u7ed3",
+    "id": "TheaWu7/interview-review-skill",
+    "language": "\u2014",
+    "name": "TheaWu7/interview-review-skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T04:45:46Z",
+    "url": "https://github.com/TheaWu7/interview-review-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-20T04:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 3,
+    "updated_at": "2026-09-20T04:43:52Z",
+    "url": "https://github.com/OKHP3/skillz"
   },
   {
     "description": "\ud648\ud0dd\uc2a4 \uc138\ubb34 \uc791\uc5c5\uc744 AI\uc5d0\uac8c \ub9d0\ub85c \uc2dc\ud0a4\ub294 \ubb34\ub8cc \uc2a4\ud0ac 6\uc885 \u2014 \ubd80\uac00\uc138\u00b7\uc885\ud569\uc18c\ub4dd\uc138\u00b7\uc804\uc790\uc138\uae08\uacc4\uc0b0\uc11c (Claude/Codex/Aside)",
@@ -34,33 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T04:41:27Z",
     "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "\u7528\u4e8e\u9762\u8bd5\u590d\u76d8\uff1a\u5c06\u9762\u8bd5\u6587\u5b57\u7a3f\u8f6c\u6362\u6210 Markdown \u683c\u5f0f\u7684\u7ed3\u6784\u5316\u7684\u590d\u76d8\u6587\u6863 \u2014\u2014 \u95ee\u9898\u5217\u8868\u3001\u95ee\u9898\u6df1\u610f\u3001\u9762\u8bd5\u7ed3\u679c\u5206\u6790\u3001\u9519\u8bef\u7b54\u6848\u7ea0\u6b63\u3001\u9762\u8bd5\u603b\u7ed3",
-    "id": "TheaWu7/interview-review-skill",
-    "language": "\u2014",
-    "name": "TheaWu7/interview-review-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T04:38:44Z",
-    "url": "https://github.com/TheaWu7/interview-review-skill"
-  },
-  {
-    "description": "\u53f0\u7063\u65e5\u5e38\u751f\u6d3b\u67e5\u8a62\u7684 AI \u4ee3\u7406\u6280\u80fd\u96c6(\u5b98\u65b9\u516c\u958b\u8cc7\u6599\u30fb\u514d\u767b\u5165\u514d\u91d1\u9470)/ AI-agent skills for daily life in Taiwan - keyless official open data",
-    "id": "tahodev/baodao-skill",
-    "language": "Python",
-    "name": "tahodev/baodao-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T04:38:32Z",
-    "url": "https://github.com/tahodev/baodao-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-20T04:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "My Nix system configs!",
@@ -86,17 +131,8 @@
     "language": "Shell",
     "name": "markifact/markifact-mcp",
     "stars": 48,
-    "updated_at": "2026-09-20T04:24:42Z",
+    "updated_at": "2026-09-20T04:46:52Z",
     "url": "https://github.com/markifact/markifact-mcp"
-  },
-  {
-    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
-    "id": "takimdigital/deckhand",
-    "language": "Python",
-    "name": "takimdigital/deckhand",
-    "stars": 1,
-    "updated_at": "2026-09-20T04:21:43Z",
-    "url": "https://github.com/takimdigital/deckhand"
   },
   {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-20T04:28:02Z",
+    "updated_at": "2026-09-20T04:56:20Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T03:36:46Z",
     "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:36:39Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:35:58Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T03:35:52Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-09-20T03:35:40Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
   }
 ]
