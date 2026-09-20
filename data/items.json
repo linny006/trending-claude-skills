@@ -1,5 +1,86 @@
 [
   {
+    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "HTML",
+    "name": "vanducng/skills",
+    "stars": 8,
+    "updated_at": "2026-09-20T18:28:41Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69224,
+    "updated_at": "2026-09-20T18:27:38Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Curated Claude Code plugin marketplace \u2014 opinionated, production-ready skills for AI-assisted work, focused on craft, ri",
+    "id": "fernando-bertholdo/4-successful-AI-life",
+    "language": "Shell",
+    "name": "fernando-bertholdo/4-successful-AI-life",
+    "stars": 2,
+    "updated_at": "2026-09-20T18:27:08Z",
+    "url": "https://github.com/fernando-bertholdo/4-successful-AI-life"
+  },
+  {
+    "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit \u2014 search, download, track, and ",
+    "id": "ammawla/encode-toolkit",
+    "language": "Python",
+    "name": "ammawla/encode-toolkit",
+    "stars": 20,
+    "updated_at": "2026-09-20T18:26:23Z",
+    "url": "https://github.com/ammawla/encode-toolkit"
+  },
+  {
+    "description": "Claude skill for the Paynow Zimbabwe payment gateway: PHP/Laravel, Node.js/Express and raw HTTP, plus a corrected API re",
+    "id": "67even/paynow-integration-skill",
+    "language": "Python",
+    "name": "67even/paynow-integration-skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T18:22:46Z",
+    "url": "https://github.com/67even/paynow-integration-skill"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-20T18:21:51Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.",
+    "id": "dembrandt/dembrandt-skills",
+    "language": "JavaScript",
+    "name": "dembrandt/dembrandt-skills",
+    "stars": 56,
+    "updated_at": "2026-09-20T18:20:59Z",
+    "url": "https://github.com/dembrandt/dembrandt-skills"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 177,
+    "updated_at": "2026-09-20T18:17:10Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-20T18:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills by Majd Ghithan. First: laravel-filament \u2014 version-aware best practices for Filament v1-v5 with upgrade gui",
     "id": "majdghithan/agent-skills",
     "language": "Python",
@@ -13,7 +94,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 94333,
+    "stars": 94332,
     "updated_at": "2026-09-20T18:13:09Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-20T18:12:21Z",
+    "updated_at": "2026-09-20T18:18:26Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "slopstopper/plumb-line",
     "stars": 4,
-    "updated_at": "2026-09-20T18:04:42Z",
+    "updated_at": "2026-09-20T18:29:40Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -115,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T18:05:30Z",
     "url": "https://github.com/williamhorschak-dev/legal-ai-skills"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-20T18:03:51Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -167,17 +239,8 @@
     "language": "TypeScript",
     "name": "romankurnovskii/etemaro",
     "stars": 54,
-    "updated_at": "2026-09-20T18:14:12Z",
+    "updated_at": "2026-09-20T18:17:01Z",
     "url": "https://github.com/romankurnovskii/etemaro"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-20T18:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
@@ -223,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T17:58:26Z",
     "url": "https://github.com/HABUBUSS/everything-claude-code"
-  },
-  {
-    "description": "Claude skill for the Paynow Zimbabwe payment gateway: PHP/Laravel, Node.js/Express and raw HTTP, plus a corrected API re",
-    "id": "67even/paynow-integration-skill",
-    "language": "Python",
-    "name": "67even/paynow-integration-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:57:57Z",
-    "url": "https://github.com/67even/paynow-integration-skill"
   },
   {
     "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
@@ -288,15 +342,6 @@
     "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69223,
-    "updated_at": "2026-09-20T17:53:06Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -331,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T17:52:36Z",
     "url": "https://github.com/takimdigital/deckhand"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 177,
-    "updated_at": "2026-09-20T18:10:31Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-20T17:47:51Z",
     "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "Companion for The Art and Science of Forecasting: 27 runnable chapter notebooks, AI skills for every chapter, the Comple",
-    "id": "KarpelesPublishing/the-art-and-science-of-forecasting",
-    "language": "Jupyter Notebook",
-    "name": "KarpelesPublishing/the-art-and-science-of-forecasting",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:47:26Z",
-    "url": "https://github.com/KarpelesPublishing/the-art-and-science-of-forecasting"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-09-20T17:46:52Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:46:10Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:46:04Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
   }
 ]
