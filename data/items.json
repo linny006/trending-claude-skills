@@ -1,12 +1,84 @@
 [
   {
+    "description": "Claude Code / Codex skills that turn a video into a Chinese narration recap (\u89c6\u9891\u89e3\u8bf4): scene detection, ASR, VLM, script, T",
+    "id": "zenstory-ai/video-recap-skills",
+    "language": "Python",
+    "name": "zenstory-ai/video-recap-skills",
+    "stars": 526,
+    "updated_at": "2026-09-20T12:14:55Z",
+    "url": "https://github.com/zenstory-ai/video-recap-skills"
+  },
+  {
     "description": "OpenTelemetry plugins for Claude Code and GitHub Copilot CLI \u2014 a marketplace that runs itself: open an issue, the reposi",
     "id": "using-system/otelyssey",
     "language": "Python",
     "name": "using-system/otelyssey",
-    "stars": 19,
-    "updated_at": "2026-09-20T12:03:48Z",
+    "stars": 21,
+    "updated_at": "2026-09-20T12:14:53Z",
     "url": "https://github.com/using-system/otelyssey"
+  },
+  {
+    "description": "AiFinPay agent skills: pay for x402-gated APIs as an agent (aifinpay) and charge agents for your API as a merchant (aifi",
+    "id": "AiFinPay/skill",
+    "language": "JavaScript",
+    "name": "AiFinPay/skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:14:41Z",
+    "url": "https://github.com/AiFinPay/skill"
+  },
+  {
+    "description": "A curated bundle of 38 Claude Skills for quantitative, qualitative, experimental & mixed-methods research in business, f",
+    "id": "Nero1688/claude-academic-skills",
+    "language": "Python",
+    "name": "Nero1688/claude-academic-skills",
+    "stars": 8,
+    "updated_at": "2026-09-20T12:14:17Z",
+    "url": "https://github.com/Nero1688/claude-academic-skills"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:12:12Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Pixel-faithful HTML mockups from a reference screenshot - census first, then render",
+    "id": "humbleteam/html-mockup",
+    "language": "\u2014",
+    "name": "humbleteam/html-mockup",
+    "stars": 1,
+    "updated_at": "2026-09-20T12:11:22Z",
+    "url": "https://github.com/humbleteam/html-mockup"
+  },
+  {
+    "description": "Motion & design judgment skills for Claude Code \u2014 distilled from the past 11 years of production UX motion work in an 18",
+    "id": "kjooncho/ux-motion-skills",
+    "language": "\u2014",
+    "name": "kjooncho/ux-motion-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:08:50Z",
+    "url": "https://github.com/kjooncho/ux-motion-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-20T12:08:30Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-20T12:05:27Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Build, validate, secure, and maintain Claude Skills \u2014 a plugin superseding Anthropic's shipped skill-creator with spec-c",
@@ -45,15 +117,6 @@
     "url": "https://github.com/natuleadan/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-20T12:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
     "id": "Hefrock/agent-skills",
     "language": "Python",
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-20T11:59:07Z",
+    "updated_at": "2026-09-20T12:06:54Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -104,7 +167,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 115,
-    "updated_at": "2026-09-20T12:05:13Z",
+    "updated_at": "2026-09-20T12:12:25Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
     "stars": 94310,
-    "updated_at": "2026-09-20T11:59:45Z",
+    "updated_at": "2026-09-20T12:07:49Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -185,17 +248,8 @@
     "language": "Python",
     "name": "using-system/oddyssey",
     "stars": 9,
-    "updated_at": "2026-09-20T11:43:19Z",
+    "updated_at": "2026-09-20T12:12:37Z",
     "url": "https://github.com/using-system/oddyssey"
-  },
-  {
-    "description": "Claude Code / Codex skills that turn a video into a Chinese narration recap (\u89c6\u9891\u89e3\u8bf4): scene detection, ASR, VLM, script, T",
-    "id": "zenstory-ai/video-recap-skills",
-    "language": "Python",
-    "name": "zenstory-ai/video-recap-skills",
-    "stars": 526,
-    "updated_at": "2026-09-20T11:43:12Z",
-    "url": "https://github.com/zenstory-ai/video-recap-skills"
   },
   {
     "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T11:32:40Z",
     "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:32:39Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 1,
-    "updated_at": "2026-09-20T11:32:20Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-09-20T11:32:18Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:32:15Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-09-20T11:32:10Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:32:09Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
   }
 ]
