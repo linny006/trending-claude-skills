@@ -1,12 +1,84 @@
 [
   {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:15:03Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2570,
+    "updated_at": "2026-09-21T19:15:01Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Hooks, rules, skills, and instructions for use with Claude Code",
+    "id": "chancegraff/rules-for-claude",
+    "language": "HTML",
+    "name": "chancegraff/rules-for-claude",
+    "stars": 4,
+    "updated_at": "2026-09-21T19:14:48Z",
+    "url": "https://github.com/chancegraff/rules-for-claude"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-09-21T19:14:00Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Reusable Claude Code extension registry. skills, subagents, slash commands, and hooks for engineering, git, testing, and",
+    "id": "KhaledSaeed18/dotclaude",
+    "language": "TypeScript",
+    "name": "KhaledSaeed18/dotclaude",
+    "stars": 5,
+    "updated_at": "2026-09-21T19:13:44Z",
+    "url": "https://github.com/KhaledSaeed18/dotclaude"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:10:54Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "Session continuity memory for Claude Desktop",
+    "id": "balaka/bro",
     "language": "Shell",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 27047,
-    "updated_at": "2026-09-21T19:00:07Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
+    "name": "balaka/bro",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:10:21Z",
+    "url": "https://github.com/balaka/bro"
+  },
+  {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "JavaScript",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 21,
+    "updated_at": "2026-09-21T19:08:54Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T19:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
@@ -14,7 +86,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 4,
-    "updated_at": "2026-09-21T19:00:11Z",
+    "updated_at": "2026-09-21T19:05:35Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -23,8 +95,17 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 8,
-    "updated_at": "2026-09-21T19:00:10Z",
+    "updated_at": "2026-09-21T19:13:12Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
+    "id": "OthmanAdi/planning-with-files",
+    "language": "Shell",
+    "name": "OthmanAdi/planning-with-files",
+    "stars": 27047,
+    "updated_at": "2026-09-21T19:00:07Z",
+    "url": "https://github.com/OthmanAdi/planning-with-files"
   },
   {
     "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
@@ -36,21 +117,12 @@
     "url": "https://github.com/thrixel/build-world"
   },
   {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 21,
-    "updated_at": "2026-09-21T18:57:28Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
     "description": "Claude Code plugin: run several Claude sessions as a small dev team (reviewer, coordinator, builders) with a merge gate,",
     "id": "fayerman-source/agent-team",
     "language": "JavaScript",
     "name": "fayerman-source/agent-team",
     "stars": 0,
-    "updated_at": "2026-09-21T18:56:10Z",
+    "updated_at": "2026-09-21T19:07:34Z",
     "url": "https://github.com/fayerman-source/agent-team"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T18:55:57Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T18:55:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Eight SEO and GEO agent skills for WordPress: AI crawler log forensics, page citability scoring, brand visibility in AI ",
@@ -95,7 +158,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-21T18:50:17Z",
+    "updated_at": "2026-09-21T19:13:57Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69258,
-    "updated_at": "2026-09-21T18:41:16Z",
+    "updated_at": "2026-09-21T19:09:24Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T18:40:27Z",
     "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Session continuity memory for Claude Desktop",
-    "id": "balaka/bro",
-    "language": "Shell",
-    "name": "balaka/bro",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:39:52Z",
-    "url": "https://github.com/balaka/bro"
   },
   {
     "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T18:30:32Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Restore and run Claude Code source with full native modules, types, and internals for local use and MCP mode",
-    "id": "aymannaim822-create/claude-code-source",
-    "language": "\u2014",
-    "name": "aymannaim822-create/claude-code-source",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:30:28Z",
-    "url": "https://github.com/aymannaim822-create/claude-code-source"
-  },
-  {
-    "description": "Run Claude Code locally with TUI and Electron desktop support, plus flexible Anthropic/OpenAI-compatible API access and ",
-    "id": "briefless-orgasm922/claude-code-t8",
-    "language": "\u2014",
-    "name": "briefless-orgasm922/claude-code-t8",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:30:28Z",
-    "url": "https://github.com/briefless-orgasm922/claude-code-t8"
-  },
-  {
-    "description": "Build a custom Home Assistant setup with automation templates, a mobile React dashboard, and Claude Code-assisted config",
-    "id": "psychological-ruble517/homeassistant-claude-kit",
-    "language": "\u2014",
-    "name": "psychological-ruble517/homeassistant-claude-kit",
-    "stars": 1,
-    "updated_at": "2026-09-21T18:30:08Z",
-    "url": "https://github.com/psychological-ruble517/homeassistant-claude-kit"
-  },
-  {
-    "description": "Build a tiny Claude Code clone in Python with agent loop, tools, permissions, and context management in ~800 lines",
-    "id": "Sleeknessbounder869/miniClaudeCode",
-    "language": "\u2014",
-    "name": "Sleeknessbounder869/miniClaudeCode",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:29:51Z",
-    "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:29:50Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Explore a public Claude Code source snapshot for security research, supply-chain analysis, and CLI architecture review",
-    "id": "Angeliquetreated862/claude-code-src",
-    "language": "TypeScript",
-    "name": "Angeliquetreated862/claude-code-src",
-    "stars": 2,
-    "updated_at": "2026-09-21T18:29:45Z",
-    "url": "https://github.com/Angeliquetreated862/claude-code-src"
   }
 ]
