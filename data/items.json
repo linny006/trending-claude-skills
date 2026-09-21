@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Gamify your career progression with SkillForge, an RPG system that turns your professional journey into an epic adven",
+    "id": "kriid08/SkillForge",
+    "language": "JavaScript",
+    "name": "kriid08/SkillForge",
+    "stars": 1,
+    "updated_at": "2026-09-21T03:14:22Z",
+    "url": "https://github.com/kriid08/SkillForge"
+  },
+  {
+    "description": "Ultimate Frontend Skills (UFS) for Claude Code and Codex. One route from brief to shipped page: a corpus of award-winnin",
+    "id": "ridelink0/ultimate-frontend-skills",
+    "language": "JavaScript",
+    "name": "ridelink0/ultimate-frontend-skills",
+    "stars": 5,
+    "updated_at": "2026-09-21T03:09:45Z",
+    "url": "https://github.com/ridelink0/ultimate-frontend-skills"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-21T03:09:29Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Rivendell\u2019s publicly available toolkit for discovering, configuring, and backtesting trading strategies with historical ",
+    "id": "Rivendell-investment/edgepilot-research-claude",
+    "language": "JavaScript",
+    "name": "Rivendell-investment/edgepilot-research-claude",
+    "stars": 0,
+    "updated_at": "2026-09-21T03:08:53Z",
+    "url": "https://github.com/Rivendell-investment/edgepilot-research-claude"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-09-21T03:08:30Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T03:00:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud55c\uad6d \ubcc0\ub9ac\uc0ac \uc2e4\ubb34\ub97c \uc704\ud55c Claude \uc2a4\ud0ac \ubaa8\uc74c \u2014 \ubc1c\uba85\uc790 \ubbf8\ud305\ubd80\ud130 \ud55c\uad6d \ud2b9\ud5c8 \uba85\uc138\uc11c \uc791\uc131, docx \ucd9c\ub825\uae4c\uc9c0",
     "id": "lsj4232/KR_PATENT_SKILL",
     "language": "JavaScript",
@@ -23,7 +77,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 4,
-    "updated_at": "2026-09-21T02:59:45Z",
+    "updated_at": "2026-09-21T03:00:58Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T02:45:35Z",
     "url": "https://github.com/JOwen-ster/agent-skill-installer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T02:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Bring the beads issue-tracker workflow to AI coding agents \u2014 always-on bash installer (AGENTS.md injection) or on-demand",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "notque/vexjoy-agent",
     "stars": 421,
-    "updated_at": "2026-09-21T02:05:51Z",
+    "updated_at": "2026-09-21T03:13:01Z",
     "url": "https://github.com/notque/vexjoy-agent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T01:44:42Z",
     "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:44:12Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:43:47Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 3,
-    "updated_at": "2026-09-21T01:43:11Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-09-21T01:42:13Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:41:30Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
   }
 ]
