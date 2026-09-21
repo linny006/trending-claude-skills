@@ -1,12 +1,57 @@
 [
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
+    "description": "Claude Code plugin and CLI that makes Claude write like a careful colleague: no machine-sounding prose, and your own voi",
+    "id": "pablogiaccaglia/writing-register",
     "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-21T16:28:29Z",
-    "url": "https://github.com/curie-eng/curie"
+    "name": "pablogiaccaglia/writing-register",
+    "stars": 0,
+    "updated_at": "2026-09-21T16:44:29Z",
+    "url": "https://github.com/pablogiaccaglia/writing-register"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-21T16:40:41Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
+    "id": "chenweil/skillcaddy",
+    "language": "JavaScript",
+    "name": "chenweil/skillcaddy",
+    "stars": 25,
+    "updated_at": "2026-09-21T16:38:58Z",
+    "url": "https://github.com/chenweil/skillcaddy"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 429,
+    "updated_at": "2026-09-21T16:37:16Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-09-21T16:39:09Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Ultimate Frontend Skills (UFS) for Claude Code and Codex. One route from brief to shipped page: a corpus of award-winnin",
+    "id": "ridelink0/ultimate-frontend-skills",
+    "language": "JavaScript",
+    "name": "ridelink0/ultimate-frontend-skills",
+    "stars": 5,
+    "updated_at": "2026-09-21T16:35:38Z",
+    "url": "https://github.com/ridelink0/ultimate-frontend-skills"
   },
   {
     "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
@@ -14,8 +59,26 @@
     "language": "TypeScript",
     "name": "travsteward/openwriter",
     "stars": 30,
-    "updated_at": "2026-09-21T16:25:43Z",
+    "updated_at": "2026-09-21T16:33:42Z",
     "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T16:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-21T16:30:54Z",
+    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Agent Skills by mr-kelly",
@@ -23,7 +86,7 @@
     "language": "JavaScript",
     "name": "mr-kelly/skills",
     "stars": 5,
-    "updated_at": "2026-09-21T16:24:56Z",
+    "updated_at": "2026-09-21T16:32:38Z",
     "url": "https://github.com/mr-kelly/skills"
   },
   {
@@ -41,7 +104,7 @@
     "language": "JavaScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 1012,
-    "updated_at": "2026-09-21T16:24:35Z",
+    "updated_at": "2026-09-21T16:38:32Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T16:22:09Z",
     "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 429,
-    "updated_at": "2026-09-21T16:30:10Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "Build production-grade mobile apps faster with simulator-verified skills tested against top-grossing apps.",
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-21T16:19:29Z",
+    "updated_at": "2026-09-21T16:44:11Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T16:15:38Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T16:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-21T16:09:16Z",
     "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:09:16Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
-    "id": "Defiladeboarfish90/agent-memory",
-    "language": "TypeScript",
-    "name": "Defiladeboarfish90/agent-memory",
-    "stars": 2,
-    "updated_at": "2026-09-21T16:09:16Z",
-    "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Add self-learning voice notifications for Claude Code with edge-tts, phrase pools, priority queues, and anti-repeat hand",
-    "id": "Secondvisitation783/claude-voice-system",
-    "language": "\u2014",
-    "name": "Secondvisitation783/claude-voice-system",
-    "stars": 1,
-    "updated_at": "2026-09-21T16:09:11Z",
-    "url": "https://github.com/Secondvisitation783/claude-voice-system"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:09:08Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-09-21T16:08:59Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
   }
 ]
