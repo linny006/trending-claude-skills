@@ -1,11 +1,119 @@
 [
   {
+    "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
+    "id": "sichenai/sichen-skills",
+    "language": "Python",
+    "name": "sichenai/sichen-skills",
+    "stars": 2,
+    "updated_at": "2026-09-21T06:15:06Z",
+    "url": "https://github.com/sichenai/sichen-skills"
+  },
+  {
+    "description": "AI \u957f\u7bc7\u5c0f\u8bf4\u521b\u4f5c\u5de5\u4f5c\u6d41\uff1a\u7528\u300c5 \u9636\u6bb5 + 9 \u6280\u80fd + 7 \u6b65\u5faa\u73af\u300d\u628a AI \u9501\u8fdb\u7ed3\u6784\u5316\u6d41\u7a0b\uff0c\u89e3\u51b3\u5d29\u4eba\u8bbe\u3001\u4e22\u4f0f\u7b14\u3001\u524d\u540e\u77db\u76fe | Structured LLM novel-writing workflow",
+    "id": "FBX-Dev/novel-writing-workflow",
+    "language": "\u2014",
+    "name": "FBX-Dev/novel-writing-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-21T06:14:19Z",
+    "url": "https://github.com/FBX-Dev/novel-writing-workflow"
+  },
+  {
+    "description": "Flint \u00b7 local-skills-hub \u2014 a local-first personal AI skills asset manager. Centralize, tag, deduplicate skills, and depl",
+    "id": "lcy362/flint",
+    "language": "TypeScript",
+    "name": "lcy362/flint",
+    "stars": 26,
+    "updated_at": "2026-09-21T06:14:05Z",
+    "url": "https://github.com/lcy362/flint"
+  },
+  {
+    "description": "AI coding workflow for Claude Code, Codex and CodeBuddy: ticket-based development, resumable steps, evidence-based verif",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-09-21T06:12:58Z",
+    "url": "https://github.com/ayukyo/icode-skill"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-21T06:12:54Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69236,
+    "updated_at": "2026-09-21T06:13:26Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code \u7528\u306e Skill \u96c6\u3002\u8a2d\u8a08\u306e\u89e3\u8aac\u30da\u30fc\u30b8\u3001\u8def\u7dda\u56f3\u3001\u696d\u52d9\u30d5\u30ed\u30fc\u3068ER\u56f3\u306e\u8a2d\u8a08\u56f3\u3001\u80cc\u666f\u4ed8\u304dPDF\u3001\u633f\u7d75\u5165\u308aA4\u518a\u5b50\u3092 HTML \u3067\u4f5c\u308a\u3001\u30d8\u30c3\u30c9\u30ec\u30b9 Chrome \u3067\u63cf\u753b\u3092\u78ba\u304b\u3081\u3066\u304b\u3089\u6e21\u3059\u3002",
+    "id": "shikigami-ai-works/claude-html-skills",
+    "language": "Python",
+    "name": "shikigami-ai-works/claude-html-skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T06:12:22Z",
+    "url": "https://github.com/shikigami-ai-works/claude-html-skills"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-09-21T06:10:54Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Claude Code Skill that turns any idea into a cinematic, model-ready video prompt \u2014 Sora \u00b7 Kling \u00b7 Veo \u00b7 Seedance. 21 gen",
+    "id": "jnMetaCode/ai-shortfilm-prompts",
+    "language": "Python",
+    "name": "jnMetaCode/ai-shortfilm-prompts",
+    "stars": 432,
+    "updated_at": "2026-09-21T06:05:36Z",
+    "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-09-21T06:05:09Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-09-21T06:01:39Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T06:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
     "id": "Neetx/ai-research-radar",
     "language": "\u2014",
     "name": "Neetx/ai-research-radar",
     "stars": 4,
-    "updated_at": "2026-09-21T05:59:38Z",
+    "updated_at": "2026-09-21T06:00:13Z",
     "url": "https://github.com/Neetx/ai-research-radar"
   },
   {
@@ -70,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-09-21T05:47:09Z",
     "url": "https://github.com/ashutoshswamy/lowkey-effort"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T05:45:52Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-21T05:32:56Z",
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:32:08Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:32:07Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 1,
-    "updated_at": "2026-09-21T05:31:50Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-09-21T05:31:45Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:31:44Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:31:37Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:31:36Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-09-21T05:31:34Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:31:27Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Build AI skills that distill any person\u2019s thinking into reusable workflows and prompts",
-    "id": "gianguardant971/nuwa-skill",
-    "language": "\u2014",
-    "name": "gianguardant971/nuwa-skill",
-    "stars": 2,
-    "updated_at": "2026-09-21T05:31:22Z",
-    "url": "https://github.com/gianguardant971/nuwa-skill"
-  },
-  {
-    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
-    "id": "takimdigital/deckhand",
-    "language": "Python",
-    "name": "takimdigital/deckhand",
-    "stars": 1,
-    "updated_at": "2026-09-21T05:31:35Z",
-    "url": "https://github.com/takimdigital/deckhand"
   }
 ]
