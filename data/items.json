@@ -1,5 +1,59 @@
 [
   {
+    "description": "Pixasso: multidisciplinary design-research Agent Skill for UI, UX, motion, and creative frontend craft",
+    "id": "Erebuzzz/pixasso",
+    "language": "TypeScript",
+    "name": "Erebuzzz/pixasso",
+    "stars": 1,
+    "updated_at": "2026-09-21T19:25:14Z",
+    "url": "https://github.com/Erebuzzz/pixasso"
+  },
+  {
+    "description": "Reusable Claude Code extension registry. skills, subagents, slash commands, and hooks for engineering, git, testing, and",
+    "id": "KhaledSaeed18/dotclaude",
+    "language": "TypeScript",
+    "name": "KhaledSaeed18/dotclaude",
+    "stars": 5,
+    "updated_at": "2026-09-21T19:24:35Z",
+    "url": "https://github.com/KhaledSaeed18/dotclaude"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Rust",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 8,
+    "updated_at": "2026-09-21T19:27:56Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
+    "id": "gtrabanco/agentic-workflow",
+    "language": "JavaScript",
+    "name": "gtrabanco/agentic-workflow",
+    "stars": 21,
+    "updated_at": "2026-09-21T19:21:51Z",
+    "url": "https://github.com/gtrabanco/agentic-workflow"
+  },
+  {
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 8,
+    "updated_at": "2026-09-21T19:18:37Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T19:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -36,15 +90,6 @@
     "url": "https://github.com/Edward0l1/skill-flare-discover"
   },
   {
-    "description": "Reusable Claude Code extension registry. skills, subagents, slash commands, and hooks for engineering, git, testing, and",
-    "id": "KhaledSaeed18/dotclaude",
-    "language": "TypeScript",
-    "name": "KhaledSaeed18/dotclaude",
-    "stars": 5,
-    "updated_at": "2026-09-21T19:13:44Z",
-    "url": "https://github.com/KhaledSaeed18/dotclaude"
-  },
-  {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
     "id": "Ford-1/postgresql-mcp-connector",
     "language": "HTML",
@@ -63,22 +108,13 @@
     "url": "https://github.com/balaka/bro"
   },
   {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 21,
-    "updated_at": "2026-09-21T19:08:54Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T19:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "AI has opinions. Humans have proof. An agent skill that split tests every material website change on real visitors inste",
+    "id": "SiteSpot/human-web-feedback-loop",
+    "language": "\u2014",
+    "name": "SiteSpot/human-web-feedback-loop",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:00:18Z",
+    "url": "https://github.com/SiteSpot/human-web-feedback-loop"
   },
   {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
@@ -86,17 +122,8 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 4,
-    "updated_at": "2026-09-21T19:05:35Z",
+    "updated_at": "2026-09-21T19:17:44Z",
     "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Rust",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 8,
-    "updated_at": "2026-09-21T19:13:12Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
     "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
@@ -122,7 +149,7 @@
     "language": "JavaScript",
     "name": "fayerman-source/agent-team",
     "stars": 0,
-    "updated_at": "2026-09-21T19:07:34Z",
+    "updated_at": "2026-09-21T19:21:59Z",
     "url": "https://github.com/fayerman-source/agent-team"
   },
   {
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69258,
-    "updated_at": "2026-09-21T19:09:24Z",
+    "updated_at": "2026-09-21T19:29:56Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T18:31:59Z",
     "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Enforce human-like writing in AI output by blocking banned words, phrases, and patterns that trigger AI detectors",
-    "id": "soothing-carport96/anti-ai-slop-writing",
-    "language": "\u2014",
-    "name": "soothing-carport96/anti-ai-slop-writing",
-    "stars": 2,
-    "updated_at": "2026-09-21T18:31:48Z",
-    "url": "https://github.com/soothing-carport96/anti-ai-slop-writing"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:31:38Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-21T18:30:32Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
