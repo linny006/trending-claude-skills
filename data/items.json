@@ -1,5 +1,158 @@
 [
   {
+    "description": "Automatically detect and disable irrelevant Claude Code skills per project to save tokens and streamline your tech workf",
+    "id": "mrdenox109-nyx/skill-manager",
+    "language": "Python",
+    "name": "mrdenox109-nyx/skill-manager",
+    "stars": 5,
+    "updated_at": "2026-09-21T07:14:20Z",
+    "url": "https://github.com/mrdenox109-nyx/skill-manager"
+  },
+  {
+    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-09-21T07:14:41Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "\ud83d\udcdd Manage and organize Obsidian vaults with CLI tools for notes, tasks, tags, templates, and knowledge graph analysis.",
+    "id": "wizzy15/obsidian-skill",
+    "language": "\u2014",
+    "name": "wizzy15/obsidian-skill",
+    "stars": 5,
+    "updated_at": "2026-09-21T07:12:41Z",
+    "url": "https://github.com/wizzy15/obsidian-skill"
+  },
+  {
+    "description": "\ud83e\udde9 Integrate Eliza plugins into OpenClaw by wrapping actions, providers, and services for smooth agent ecosystem interope",
+    "id": "windows150/openclaw-adapter",
+    "language": "TypeScript",
+    "name": "windows150/openclaw-adapter",
+    "stars": 1,
+    "updated_at": "2026-09-21T07:12:13Z",
+    "url": "https://github.com/windows150/openclaw-adapter"
+  },
+  {
+    "description": "\ud83d\udd0d Discover user pain points on social media with AI-driven clustering and analysis for targeted business opportunities a",
+    "id": "zykooooooooo/SeekMoney-ai",
+    "language": "TypeScript",
+    "name": "zykooooooooo/SeekMoney-ai",
+    "stars": 8,
+    "updated_at": "2026-09-21T07:11:57Z",
+    "url": "https://github.com/zykooooooooo/SeekMoney-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Enable seamless multi-agent development with Claude Code using skills, agents, hooks, and orchestration scripts in one",
+    "id": "kenzoprime/claude-pipeline",
+    "language": "\u2014",
+    "name": "kenzoprime/claude-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-21T07:11:54Z",
+    "url": "https://github.com/kenzoprime/claude-pipeline"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform research papers into executable code with Sherlock AI Plugin, your essential tool for efficient literature ",
+    "id": "lyx2022518/sherlock-ai-plugin",
+    "language": "TypeScript",
+    "name": "lyx2022518/sherlock-ai-plugin",
+    "stars": 3,
+    "updated_at": "2026-09-21T07:11:16Z",
+    "url": "https://github.com/lyx2022518/sherlock-ai-plugin"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Automate processes with Openclaw, a containerized solution for seamless AI integration using Docker for easy setup an",
+    "id": "Eliott0557/openclaw",
+    "language": "JavaScript",
+    "name": "Eliott0557/openclaw",
+    "stars": 1,
+    "updated_at": "2026-09-21T07:10:56Z",
+    "url": "https://github.com/Eliott0557/openclaw"
+  },
+  {
+    "description": "\ud83e\udd16 Connect DingTalk with OpenClaw Gateway for AI-driven chat responses and session management using a bot or DEAP Agent i",
+    "id": "ALI-FAHD/dingtalk-moltbot-connector",
+    "language": "TypeScript",
+    "name": "ALI-FAHD/dingtalk-moltbot-connector",
+    "stars": 3,
+    "updated_at": "2026-09-21T07:10:27Z",
+    "url": "https://github.com/ALI-FAHD/dingtalk-moltbot-connector"
+  },
+  {
+    "description": "\ud83d\udcb0 Optimize your Claude API usage to save 50-90% on costs with batching techniques and efficient request management.",
+    "id": "Louishin/claude-api-cost-optimization",
+    "language": "Python",
+    "name": "Louishin/claude-api-cost-optimization",
+    "stars": 4,
+    "updated_at": "2026-09-21T07:10:17Z",
+    "url": "https://github.com/Louishin/claude-api-cost-optimization"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Gamify your career progression with SkillForge, an RPG system that turns your professional journey into an epic adven",
+    "id": "kriid08/SkillForge",
+    "language": "JavaScript",
+    "name": "kriid08/SkillForge",
+    "stars": 1,
+    "updated_at": "2026-09-21T07:05:57Z",
+    "url": "https://github.com/kriid08/SkillForge"
+  },
+  {
+    "description": "Jev (TypeSafe System One) inner loop for ego-browser \u2014 one ~0.4s typed decision per DOM step instead of an LLM turn. Age",
+    "id": "ZephyrDeng/ego-jev",
+    "language": "JavaScript",
+    "name": "ZephyrDeng/ego-jev",
+    "stars": 1,
+    "updated_at": "2026-09-21T07:05:05Z",
+    "url": "https://github.com/ZephyrDeng/ego-jev"
+  },
+  {
+    "description": "Claude Code \u7528\u306e Skill \u96c6\u3002\u8a2d\u8a08\u306e\u89e3\u8aac\u30da\u30fc\u30b8\u3001\u8def\u7dda\u56f3\u3001\u696d\u52d9\u30d5\u30ed\u30fc\u3068ER\u56f3\u306e\u8a2d\u8a08\u56f3\u3001\u80cc\u666f\u4ed8\u304dPDF\u3001\u633f\u7d75\u5165\u308aA4\u518a\u5b50\u3092 HTML \u3067\u4f5c\u308a\u3001\u30d8\u30c3\u30c9\u30ec\u30b9 Chrome \u3067\u63cf\u753b\u3092\u78ba\u304b\u3081\u3066\u304b\u3089\u6e21\u3059\u3002",
+    "id": "shikigami-ai-works/claude-html-skills",
+    "language": "Python",
+    "name": "shikigami-ai-works/claude-html-skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T07:03:45Z",
+    "url": "https://github.com/shikigami-ai-works/claude-html-skills"
+  },
+  {
+    "description": "\u6296\u97f3\u89c6\u9891\u84b8\u998f Skill\uff1a\u94fe\u63a5 \u2192 \u65e0\u6c34\u5370\u4e0b\u8f7d \u2192 NVIDIA Omni \u539f\u751f\u89c6\u9891\u7406\u89e3 \u2192 \u5e26\u65f6\u95f4\u6233\u8bc1\u636e\u7684\u77e5\u8bc6\u5361\u7247\uff0c\u76f4\u63a5\u843d\u76d8 Markdown/Wiki",
+    "id": "3378925604-a11y/douyin-video-distiller",
+    "language": "Python",
+    "name": "3378925604-a11y/douyin-video-distiller",
+    "stars": 2,
+    "updated_at": "2026-09-21T07:02:33Z",
+    "url": "https://github.com/3378925604-a11y/douyin-video-distiller"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-09-21T07:00:53Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-21T07:00:29Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T07:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A Claude Code skill for building interactive HTML presentations",
     "id": "jonasster/stepped-presentations",
     "language": "HTML",
@@ -81,15 +234,6 @@
     "url": "https://github.com/tobihagemann/turbo"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T06:51:26Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A planning skill for Claude or ChatGPT that asks before it plans. Three versions: claude.ai, engineers, and read-only fo",
     "id": "marcosathanasoulis/prompt-it",
     "language": "Python",
@@ -148,7 +292,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69240,
+    "stars": 69239,
     "updated_at": "2026-09-21T06:41:22Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T06:21:30Z",
     "url": "https://github.com/rjs-zzz/planning-suite"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 35,
-    "updated_at": "2026-09-21T06:20:41Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Small, sharp, agent-agnostic skills that keep an AI agent's work honest.",
-    "id": "jovesun-lab/whetstone",
-    "language": "HTML",
-    "name": "jovesun-lab/whetstone",
-    "stars": 8,
-    "updated_at": "2026-09-21T06:20:04Z",
-    "url": "https://github.com/jovesun-lab/whetstone"
-  },
-  {
-    "description": "\uad6c\uc870\uc801 \ubb38\uc81c\ud574\uacb0 Claude Skill \u2014 6\ub2e8\uacc4 \uc6cc\ud06c\ud50c\ub85c\uc6b0 + 5\uc778 \ube44\ud310\uc801 \uac80\ud1a0",
-    "id": "rjs-zzz/problem-solver",
-    "language": "\u2014",
-    "name": "rjs-zzz/problem-solver",
-    "stars": 0,
-    "updated_at": "2026-09-21T06:19:16Z",
-    "url": "https://github.com/rjs-zzz/problem-solver"
-  },
-  {
-    "description": "Flint \u00b7 local-skills-hub \u2014 a local-first personal AI skills asset manager. Centralize, tag, deduplicate skills, and depl",
-    "id": "lcy362/flint",
-    "language": "TypeScript",
-    "name": "lcy362/flint",
-    "stars": 26,
-    "updated_at": "2026-09-21T06:19:12Z",
-    "url": "https://github.com/lcy362/flint"
-  },
-  {
-    "description": "AI \u957f\u7bc7\u5c0f\u8bf4\u521b\u4f5c\u5de5\u4f5c\u6d41\uff1a\u7528\u300c5 \u9636\u6bb5 + 9 \u6280\u80fd + 7 \u6b65\u5faa\u73af\u300d\u628a AI \u9501\u8fdb\u7ed3\u6784\u5316\u6d41\u7a0b\uff0c\u89e3\u51b3\u5d29\u4eba\u8bbe\u3001\u4e22\u4f0f\u7b14\u3001\u524d\u540e\u77db\u76fe | Structured LLM novel-writing workflow",
-    "id": "FBX-Dev/novel-writing-workflow",
-    "language": "\u2014",
-    "name": "FBX-Dev/novel-writing-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-21T06:17:37Z",
-    "url": "https://github.com/FBX-Dev/novel-writing-workflow"
-  },
-  {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 5,
-    "updated_at": "2026-09-21T06:15:42Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
-    "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
-    "id": "sichenai/sichen-skills",
-    "language": "Python",
-    "name": "sichenai/sichen-skills",
-    "stars": 2,
-    "updated_at": "2026-09-21T06:15:06Z",
-    "url": "https://github.com/sichenai/sichen-skills"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-09-21T06:12:54Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Claude Code \u7528\u306e Skill \u96c6\u3002\u8a2d\u8a08\u306e\u89e3\u8aac\u30da\u30fc\u30b8\u3001\u8def\u7dda\u56f3\u3001\u696d\u52d9\u30d5\u30ed\u30fc\u3068ER\u56f3\u306e\u8a2d\u8a08\u56f3\u3001\u80cc\u666f\u4ed8\u304dPDF\u3001\u633f\u7d75\u5165\u308aA4\u518a\u5b50\u3092 HTML \u3067\u4f5c\u308a\u3001\u30d8\u30c3\u30c9\u30ec\u30b9 Chrome \u3067\u63cf\u753b\u3092\u78ba\u304b\u3081\u3066\u304b\u3089\u6e21\u3059\u3002",
-    "id": "shikigami-ai-works/claude-html-skills",
-    "language": "Python",
-    "name": "shikigami-ai-works/claude-html-skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T06:12:22Z",
-    "url": "https://github.com/shikigami-ai-works/claude-html-skills"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-09-21T06:10:54Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Claude Code Skill that turns any idea into a cinematic, model-ready video prompt \u2014 Sora \u00b7 Kling \u00b7 Veo \u00b7 Seedance. 21 gen",
-    "id": "jnMetaCode/ai-shortfilm-prompts",
-    "language": "Python",
-    "name": "jnMetaCode/ai-shortfilm-prompts",
-    "stars": 432,
-    "updated_at": "2026-09-21T06:05:36Z",
-    "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-09-21T06:05:09Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-09-21T06:01:39Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
-    "id": "Neetx/ai-research-radar",
-    "language": "\u2014",
-    "name": "Neetx/ai-research-radar",
-    "stars": 4,
-    "updated_at": "2026-09-21T06:00:13Z",
-    "url": "https://github.com/Neetx/ai-research-radar"
-  },
-  {
-    "description": "\u7092\u80a1/\u91cf\u5316\u4ea4\u6613/\u9009\u80a1 AI Skill \u5408\u96c6\uff1a\u6536\u5f55\u56fd\u5185\u5916 GitHub \u4e0a\u7684\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u3001\u9009\u80a1\u7b56\u7565 Agent Skills\uff0c\u9644\u7d22\u5f15\u4e0e\u5408\u89c4\u8f6c\u8f7d",
-    "id": "Serennity007/awesome-stock-quant-skills",
-    "language": "Python",
-    "name": "Serennity007/awesome-stock-quant-skills",
-    "stars": 7,
-    "updated_at": "2026-09-21T05:55:36Z",
-    "url": "https://github.com/Serennity007/awesome-stock-quant-skills"
-  },
-  {
-    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
-    "id": "raghuramsirigiri/raghuram-skills",
-    "language": "JavaScript",
-    "name": "raghuramsirigiri/raghuram-skills",
-    "stars": 1,
-    "updated_at": "2026-09-21T05:53:21Z",
-    "url": "https://github.com/raghuramsirigiri/raghuram-skills"
   }
 ]
