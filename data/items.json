@@ -1,12 +1,12 @@
 [
   {
-    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
-    "id": "elementalsouls/Claude-BugHunter",
+    "description": "AI coding workflow for Claude Code, Codex and CodeBuddy: ticket-based development, resumable steps, evidence-based verif",
+    "id": "ayukyo/icode-skill",
     "language": "Python",
-    "name": "elementalsouls/Claude-BugHunter",
-    "stars": 4594,
-    "updated_at": "2026-09-21T09:59:54Z",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-09-21T10:14:47Z",
+    "url": "https://github.com/ayukyo/icode-skill"
   },
   {
     "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
@@ -14,8 +14,107 @@
     "language": "Rust",
     "name": "ratel-ai/ratel",
     "stars": 441,
-    "updated_at": "2026-09-21T09:59:26Z",
+    "updated_at": "2026-09-21T10:11:34Z",
     "url": "https://github.com/ratel-ai/ratel"
+  },
+  {
+    "description": "Auto dlmm Meteora bot system",
+    "id": "romankurnovskii/etemaro",
+    "language": "TypeScript",
+    "name": "romankurnovskii/etemaro",
+    "stars": 55,
+    "updated_at": "2026-09-21T10:10:32Z",
+    "url": "https://github.com/romankurnovskii/etemaro"
+  },
+  {
+    "description": "AI agent skills for marketing, sales, finance, ecommerce, PPC, and reporting analysis with live Coupler.io data.",
+    "id": "coupler-io/skills",
+    "language": "JavaScript",
+    "name": "coupler-io/skills",
+    "stars": 33,
+    "updated_at": "2026-09-21T10:10:01Z",
+    "url": "https://github.com/coupler-io/skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-21T10:10:14Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Bionic reading for Claude Code: bolds the leading part of each word in Claude's streamed replies so your eyes move faste",
+    "id": "abullard1/claude-bionify",
+    "language": "Python",
+    "name": "abullard1/claude-bionify",
+    "stars": 19,
+    "updated_at": "2026-09-21T10:07:53Z",
+    "url": "https://github.com/abullard1/claude-bionify"
+  },
+  {
+    "description": "A simple set of skills optimized for general-purpose software development across tech stacks.",
+    "id": "stevepolitodesign/skills",
+    "language": "JavaScript",
+    "name": "stevepolitodesign/skills",
+    "stars": 3,
+    "updated_at": "2026-09-21T10:07:24Z",
+    "url": "https://github.com/stevepolitodesign/skills"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 2,
+    "updated_at": "2026-09-21T10:08:20Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "AI architect for GTM and martech. I design and ship production agentic systems for B2B sales and marketing: lead scrapin",
+    "id": "saurabhshuklagrowisto/saurabh-ai-systems",
+    "language": "Python",
+    "name": "saurabhshuklagrowisto/saurabh-ai-systems",
+    "stars": 0,
+    "updated_at": "2026-09-21T10:05:23Z",
+    "url": "https://github.com/saurabhshuklagrowisto/saurabh-ai-systems"
+  },
+  {
+    "description": "Audits coding prompts against your actual repo: stale line numbers, miscounts, guesses stated as facts, risky side effec",
+    "id": "4ndychu/vibe-to-spec",
+    "language": "\u2014",
+    "name": "4ndychu/vibe-to-spec",
+    "stars": 1,
+    "updated_at": "2026-09-21T10:05:12Z",
+    "url": "https://github.com/4ndychu/vibe-to-spec"
+  },
+  {
+    "description": "A production-grade engineering toolkit for AI-assisted software development. Contains 100 specialized skill workflows, 1",
+    "id": "NafisRayan/100x-Agent-Toolkit",
+    "language": "JavaScript",
+    "name": "NafisRayan/100x-Agent-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-21T10:03:49Z",
+    "url": "https://github.com/NafisRayan/100x-Agent-Toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T10:00:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
+    "id": "elementalsouls/Claude-BugHunter",
+    "language": "Python",
+    "name": "elementalsouls/Claude-BugHunter",
+    "stars": 4594,
+    "updated_at": "2026-09-21T09:59:54Z",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
   },
   {
     "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 23,
-    "updated_at": "2026-09-21T09:57:25Z",
+    "updated_at": "2026-09-21T10:13:57Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -178,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T09:53:54Z",
     "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "AI architect for GTM and martech. I design and ship production agentic systems for B2B sales and marketing: lead scrapin",
-    "id": "saurabhshuklagrowisto/saurabh-ai-systems",
-    "language": "Python",
-    "name": "saurabhshuklagrowisto/saurabh-ai-systems",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:53:44Z",
-    "url": "https://github.com/saurabhshuklagrowisto/saurabh-ai-systems"
   },
   {
     "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
@@ -329,7 +419,7 @@
     "language": "Python",
     "name": "hanzhangzzz/agent-skills-zh",
     "stars": 2,
-    "updated_at": "2026-09-21T09:45:37Z",
+    "updated_at": "2026-09-21T10:09:41Z",
     "url": "https://github.com/hanzhangzzz/agent-skills-zh"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-21T09:45:23Z",
     "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:45:20Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:45:18Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T09:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Add self-learning voice notifications for Claude Code with edge-tts, phrase pools, priority queues, and anti-repeat hand",
-    "id": "Secondvisitation783/claude-voice-system",
-    "language": "\u2014",
-    "name": "Secondvisitation783/claude-voice-system",
-    "stars": 1,
-    "updated_at": "2026-09-21T09:45:15Z",
-    "url": "https://github.com/Secondvisitation783/claude-voice-system"
-  },
-  {
-    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
-    "id": "Defiladeboarfish90/agent-memory",
-    "language": "TypeScript",
-    "name": "Defiladeboarfish90/agent-memory",
-    "stars": 2,
-    "updated_at": "2026-09-21T09:45:14Z",
-    "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-09-21T09:45:07Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
-  },
-  {
-    "description": "Use Codex in Claude Code for code reviews and delegated tasks with background job control",
-    "id": "carolafortified787/codex-plugin-cc",
-    "language": "JavaScript",
-    "name": "carolafortified787/codex-plugin-cc",
-    "stars": 1,
-    "updated_at": "2026-09-21T09:44:56Z",
-    "url": "https://github.com/carolafortified787/codex-plugin-cc"
-  },
-  {
-    "description": "Explore Claude Code CLI source code for learning, analysis, and TypeScript Bun CLI tool design",
-    "id": "tapperisobar941/claude-code-cli",
-    "language": "\u2014",
-    "name": "tapperisobar941/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:44:50Z",
-    "url": "https://github.com/tapperisobar941/claude-code-cli"
-  },
-  {
-    "description": "Design and analyze modular software systems with Balanced Coupling to reduce technical debt and improve architecture",
-    "id": "ardellashuddery616/modularity",
-    "language": "HTML",
-    "name": "ardellashuddery616/modularity",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:44:34Z",
-    "url": "https://github.com/ardellashuddery616/modularity"
-  },
-  {
-    "description": "Enforce human-like writing in AI output by blocking banned words, phrases, and patterns that trigger AI detectors",
-    "id": "soothing-carport96/anti-ai-slop-writing",
-    "language": "\u2014",
-    "name": "soothing-carport96/anti-ai-slop-writing",
-    "stars": 2,
-    "updated_at": "2026-09-21T09:44:19Z",
-    "url": "https://github.com/soothing-carport96/anti-ai-slop-writing"
   }
 ]
