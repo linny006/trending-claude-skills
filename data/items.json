@@ -1,12 +1,48 @@
 [
   {
-    "description": "Add styled, burned-in captions to a video from the command line or an AI agent. Renders locally in your own Chrome.",
-    "id": "auto-subtitles/cli",
-    "language": "JavaScript",
-    "name": "auto-subtitles/cli",
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69256,
+    "updated_at": "2026-09-21T14:45:03Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-21T14:44:43Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 5,
+    "updated_at": "2026-09-21T14:44:39Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS team: 83 agents, 19 skills \u2014 SEO/AEO/GEO, content/editorial ops, customer",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 14,
+    "updated_at": "2026-09-21T14:42:07Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Open-source AI agent skills for tai chi sword (\u592a\u6781\u5251) \u2014 selection, safety, technique, legal travel/ownership, health benef",
+    "id": "Jackxu1978/tai-chi-sword-skills",
+    "language": "\u2014",
+    "name": "Jackxu1978/tai-chi-sword-skills",
     "stars": 0,
-    "updated_at": "2026-09-21T14:29:38Z",
-    "url": "https://github.com/auto-subtitles/cli"
+    "updated_at": "2026-09-21T14:40:07Z",
+    "url": "https://github.com/Jackxu1978/tai-chi-sword-skills"
   },
   {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
@@ -14,8 +50,17 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 8,
-    "updated_at": "2026-09-21T14:28:52Z",
+    "updated_at": "2026-09-21T14:38:43Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Claude Code plugin for people who describe what they want and let Claude build it: brand identity, product planning, pla",
+    "id": "mike-coulbourn/claude-vibes",
+    "language": "Python",
+    "name": "mike-coulbourn/claude-vibes",
+    "stars": 41,
+    "updated_at": "2026-09-21T14:38:28Z",
+    "url": "https://github.com/mike-coulbourn/claude-vibes"
   },
   {
     "description": "Spec Driven \u2014 orchestrator-first Agent Skills for spec-driven development. The orchestrator skill turns a PRD or idea in",
@@ -23,8 +68,62 @@
     "language": "Shell",
     "name": "afonsoft/skills",
     "stars": 7,
-    "updated_at": "2026-09-21T14:28:07Z",
+    "updated_at": "2026-09-21T14:38:28Z",
     "url": "https://github.com/afonsoft/skills"
+  },
+  {
+    "description": "Discover agent rules and skill files from leading open source projects",
+    "id": "modem-dev/ossrules",
+    "language": "Python",
+    "name": "modem-dev/ossrules",
+    "stars": 30,
+    "updated_at": "2026-09-21T14:36:48Z",
+    "url": "https://github.com/modem-dev/ossrules"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-09-21T14:36:19Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Turn GitHub stars and installed agent skills into tiered, diagram-backed explainers - an agent skill for Claude Code, Co",
+    "id": "baichuanjiang2-cell/explain-hub",
+    "language": "HTML",
+    "name": "baichuanjiang2-cell/explain-hub",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:36:08Z",
+    "url": "https://github.com/baichuanjiang2-cell/explain-hub"
+  },
+  {
+    "description": "An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills -  bench",
+    "id": "Ar9av/PaperOrchestra",
+    "language": "Python",
+    "name": "Ar9av/PaperOrchestra",
+    "stars": 662,
+    "updated_at": "2026-09-21T14:33:07Z",
+    "url": "https://github.com/Ar9av/PaperOrchestra"
+  },
+  {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:32:43Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "ThinkRun \u2014 screen recorder for AI coding agents. Record a bug or session once and hand Claude Code or Cursor structured ",
+    "id": "dundas/thinkrun",
+    "language": "TypeScript",
+    "name": "dundas/thinkrun",
+    "stars": 2,
+    "updated_at": "2026-09-21T14:32:26Z",
+    "url": "https://github.com/dundas/thinkrun"
   },
   {
     "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
@@ -32,8 +131,35 @@
     "language": "Python",
     "name": "sebin-gg/article-sweeper",
     "stars": 1,
-    "updated_at": "2026-09-21T14:27:18Z",
+    "updated_at": "2026-09-21T14:33:53Z",
     "url": "https://github.com/sebin-gg/article-sweeper"
+  },
+  {
+    "description": "\u4e00\u5957\u5199\u7ed9 agent \u8bfb\u7684\u6c42\u804c\u65b9\u6cd5\u8bba\u3002\u4e0d\u662f\u6295\u9012\u811a\u672c\uff0c\u662f\u6bcf\u4e2a\u51b3\u7b56\u70b9\u4e0a\u7684\u5224\u65ad\u7eaa\u5f8b\u3002",
+    "id": "gilgameshcc/ai-native-jobhunt",
+    "language": "JavaScript",
+    "name": "gilgameshcc/ai-native-jobhunt",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:31:08Z",
+    "url": "https://github.com/gilgameshcc/ai-native-jobhunt"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T14:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Add styled, burned-in captions to a video from the command line or an AI agent. Renders locally in your own Chrome.",
+    "id": "auto-subtitles/cli",
+    "language": "JavaScript",
+    "name": "auto-subtitles/cli",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:29:38Z",
+    "url": "https://github.com/auto-subtitles/cli"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -52,24 +178,6 @@
     "stars": 3,
     "updated_at": "2026-09-21T14:27:11Z",
     "url": "https://github.com/jtapes/claude-bus"
-  },
-  {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-21T14:27:07Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
-    "description": "ThinkRun \u2014 screen recorder for AI coding agents. Record a bug or session once and hand Claude Code or Cursor structured ",
-    "id": "dundas/thinkrun",
-    "language": "TypeScript",
-    "name": "dundas/thinkrun",
-    "stars": 2,
-    "updated_at": "2026-09-21T14:29:07Z",
-    "url": "https://github.com/dundas/thinkrun"
   },
   {
     "description": "A knowledge base for coding agents, built from Markdown, backlinks, semantic search, and Git context.",
@@ -108,21 +216,12 @@
     "url": "https://github.com/maravil5768/Wonder-Pill"
   },
   {
-    "description": "Claude Code plugin for people who describe what they want and let Claude build it: brand identity, product planning, pla",
-    "id": "mike-coulbourn/claude-vibes",
-    "language": "Python",
-    "name": "mike-coulbourn/claude-vibes",
-    "stars": 41,
-    "updated_at": "2026-09-21T14:23:31Z",
-    "url": "https://github.com/mike-coulbourn/claude-vibes"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-21T14:23:19Z",
+    "updated_at": "2026-09-21T14:44:05Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -243,15 +342,6 @@
     "url": "https://github.com/Andreasuar2549/resume-studio"
   },
   {
-    "description": "Claude Skills",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:25:45Z",
-    "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
     "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
     "id": "sa746062/web-perf-audit",
     "language": "Python",
@@ -277,24 +367,6 @@
     "stars": 60,
     "updated_at": "2026-09-21T14:16:55Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T14:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-21T14:14:40Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T14:11:22Z",
     "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:11:00Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Restore and run Claude Code source with full native modules, types, and internals for local use and MCP mode",
-    "id": "aymannaim822-create/claude-code-source",
-    "language": "\u2014",
-    "name": "aymannaim822-create/claude-code-source",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:10:06Z",
-    "url": "https://github.com/aymannaim822-create/claude-code-source"
-  },
-  {
-    "description": "Run Claude Code locally with TUI and Electron desktop support, plus flexible Anthropic/OpenAI-compatible API access and ",
-    "id": "briefless-orgasm922/claude-code-t8",
-    "language": "\u2014",
-    "name": "briefless-orgasm922/claude-code-t8",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:10:06Z",
-    "url": "https://github.com/briefless-orgasm922/claude-code-t8"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-21T14:09:47Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Build a tiny Claude Code clone in Python with agent loop, tools, permissions, and context management in ~800 lines",
-    "id": "Sleeknessbounder869/miniClaudeCode",
-    "language": "\u2014",
-    "name": "Sleeknessbounder869/miniClaudeCode",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:09:44Z",
-    "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:09:39Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Explore a public Claude Code source snapshot for security research, supply-chain analysis, and CLI architecture review",
-    "id": "Angeliquetreated862/claude-code-src",
-    "language": "TypeScript",
-    "name": "Angeliquetreated862/claude-code-src",
-    "stars": 2,
-    "updated_at": "2026-09-21T14:09:38Z",
-    "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:09:37Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
   }
 ]
