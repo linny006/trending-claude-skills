@@ -1,5 +1,59 @@
 [
   {
+    "description": "A rulebook for what an AI agent may do without asking a person, and a manual for writing up failures so two engineers de",
+    "id": "PKusch/remit",
+    "language": "Python",
+    "name": "PKusch/remit",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:10:18Z",
+    "url": "https://github.com/PKusch/remit"
+  },
+  {
+    "description": "A branch-aware Codex skill that saves compact project context, relevant skills, blockers, and next actions so you can st",
+    "id": "HouseAlone/handshake-skill",
+    "language": "Python",
+    "name": "HouseAlone/handshake-skill",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:09:38Z",
+    "url": "https://github.com/HouseAlone/handshake-skill"
+  },
+  {
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 421,
+    "updated_at": "2026-09-21T02:05:51Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "A simple desktop app for deterministic agent skill installation.",
+    "id": "JOwen-ster/agent-skill-installer",
+    "language": "Svelte",
+    "name": "JOwen-ster/agent-skill-installer",
+    "stars": 1,
+    "updated_at": "2026-09-21T02:03:49Z",
+    "url": "https://github.com/JOwen-ster/agent-skill-installer"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 52,
+    "updated_at": "2026-09-21T02:02:33Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T02:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u4e2d\u56fd\u6cd5\u6761\u4e0e\u6cd5\u5f8b\u6cd5\u89c4\u68c0\u7d22 Agent Skill\uff5cChinese legal research Agent Skill for retrieving and verifying Chinese laws from official sourc",
     "id": "ZongziForu/cn-law-hub",
     "language": "Python",
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T01:45:57Z",
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T01:45:48Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T01:37:42Z",
     "url": "https://github.com/avilaok8647/ai-friendly-web-design-skill"
-  },
-  {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 783,
-    "updated_at": "2026-09-21T01:37:36Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "Connect Claude Code to WeChat for terminal chat, with QR login and long-poll WeChat iLink Bot support",
-    "id": "goldiacogitative647/claude-plugin-weixin",
-    "language": "TypeScript",
-    "name": "goldiacogitative647/claude-plugin-weixin",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:37:22Z",
-    "url": "https://github.com/goldiacogitative647/claude-plugin-weixin"
-  },
-  {
-    "description": "Build reusable AI agent skills for marketing and engineering tasks with on-demand, domain-specific guidance.",
-    "id": "hssh8917/cc-skills",
-    "language": "Shell",
-    "name": "hssh8917/cc-skills",
-    "stars": 2,
-    "updated_at": "2026-09-21T01:37:20Z",
-    "url": "https://github.com/hssh8917/cc-skills"
-  },
-  {
-    "description": "Enhance Claude Code CLI with undo, safety hooks, session resume, effort control, MCP tools, and multilingual i18n",
-    "id": "Caseous-kerrcell366/claude",
-    "language": "Python",
-    "name": "Caseous-kerrcell366/claude",
-    "stars": 2,
-    "updated_at": "2026-09-21T01:37:09Z",
-    "url": "https://github.com/Caseous-kerrcell366/claude"
-  },
-  {
-    "description": "Teach AI assistants to generate correct Unity and Jahro debugging code, with skills for commands, watchers, snapshots, l",
-    "id": "Logiiiii/unity-agent-skills",
-    "language": "\u2014",
-    "name": "Logiiiii/unity-agent-skills",
-    "stars": 3,
-    "updated_at": "2026-09-21T01:36:52Z",
-    "url": "https://github.com/Logiiiii/unity-agent-skills"
   }
 ]
