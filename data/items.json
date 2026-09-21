@@ -1,5 +1,77 @@
 [
   {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-21T04:27:50Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 30,
+    "updated_at": "2026-09-21T04:27:34Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "AI coding workflow for Claude Code, Codex and CodeBuddy: ticket-based development, resumable steps, evidence-based verif",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 3,
+    "updated_at": "2026-09-21T04:25:51Z",
+    "url": "https://github.com/ayukyo/icode-skill"
+  },
+  {
+    "description": "Claude skills that make the output look and read right by default: branded Word and PowerPoint, a logic-and-slop prose r",
+    "id": "dzivkovi/claude-skills",
+    "language": "Python",
+    "name": "dzivkovi/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-21T04:24:17Z",
+    "url": "https://github.com/dzivkovi/claude-skills"
+  },
+  {
+    "description": "A collection of Claude Code skills, with QA skills that end in a mandatory independent-subagent review pass.",
+    "id": "xtieume/testcase",
+    "language": "Python",
+    "name": "xtieume/testcase",
+    "stars": 3,
+    "updated_at": "2026-09-21T04:20:39Z",
+    "url": "https://github.com/xtieume/testcase"
+  },
+  {
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 421,
+    "updated_at": "2026-09-21T04:19:41Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Skill cho AI coding agent: bi\u00ean t\u1eadp v\u0103n ti\u1ebfng Vi\u1ec7t b\u1ecf d\u1ea5u v\u0103n AI \u2014 danh m\u1ee5c d\u1ea5u hi\u1ec7u c\u00f3 ngu\u1ed3n tr\u00edch d\u1eabn + m\u00e1y qu\u00e9t deter",
+    "id": "cuongducle/viet-humanize",
+    "language": "Python",
+    "name": "cuongducle/viet-humanize",
+    "stars": 0,
+    "updated_at": "2026-09-21T04:16:13Z",
+    "url": "https://github.com/cuongducle/viet-humanize"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T04:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit \u2014 search, download, track, and ",
     "id": "ammawla/encode-toolkit",
     "language": "Python",
@@ -14,17 +86,8 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 178,
-    "updated_at": "2026-09-21T04:12:16Z",
+    "updated_at": "2026-09-21T04:25:52Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 30,
-    "updated_at": "2026-09-21T04:09:58Z",
-    "url": "https://github.com/travsteward/openwriter"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -34,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T04:09:57Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "AI coding workflow for Claude Code, Codex and CodeBuddy: ticket-based development, resumable steps, evidence-based verif",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-09-21T04:07:27Z",
-    "url": "https://github.com/ayukyo/icode-skill"
   },
   {
     "description": "Jev (TypeSafe System One) inner loop for ego-browser \u2014 one ~0.4s typed decision per DOM step instead of an LLM turn. Age",
@@ -79,15 +133,6 @@
     "stars": 764,
     "updated_at": "2026-09-21T04:02:03Z",
     "url": "https://github.com/Ark0N/Codeman"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T04:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "houki MCP family \u3092\u6a2a\u65ad\u3057\u3066\u65e5\u672c\u306e\u6cd5\u4ee4\u30fb\u901a\u9054\u3092\u8abf\u3079\u308b\u3068\u304d\u306e\u884c\u52d5\u6307\u91dd\u3092 Claude \u306b\u4e0e\u3048\u308b Claude Skill\u3002 Claude Skill for researching Japanese law across th",
@@ -142,24 +187,6 @@
     "stars": 4,
     "updated_at": "2026-09-21T03:55:18Z",
     "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 421,
-    "updated_at": "2026-09-21T04:07:30Z",
-    "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-21T04:15:02Z",
-    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T03:32:05Z",
     "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-09-21T03:31:59Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-09-21T03:31:54Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-09-21T03:31:51Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
   }
 ]
