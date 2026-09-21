@@ -1,5 +1,149 @@
 [
   {
+    "description": "Add styled, burned-in captions to a video from the command line or an AI agent. Renders locally in your own Chrome.",
+    "id": "auto-subtitles/cli",
+    "language": "JavaScript",
+    "name": "auto-subtitles/cli",
+    "stars": 0,
+    "updated_at": "2026-09-21T13:29:13Z",
+    "url": "https://github.com/auto-subtitles/cli"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69251,
+    "updated_at": "2026-09-21T13:27:31Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Optimizes the description frontmatter of a Claude Code / Agent Skill - the text that decides whether Claude invokes the ",
+    "id": "netopsengineer/agent-skill-description-optimizer",
+    "language": "Python",
+    "name": "netopsengineer/agent-skill-description-optimizer",
+    "stars": 2,
+    "updated_at": "2026-09-21T13:27:23Z",
+    "url": "https://github.com/netopsengineer/agent-skill-description-optimizer"
+  },
+  {
+    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
+    "id": "takimdigital/deckhand",
+    "language": "Python",
+    "name": "takimdigital/deckhand",
+    "stars": 1,
+    "updated_at": "2026-09-21T13:26:45Z",
+    "url": "https://github.com/takimdigital/deckhand"
+  },
+  {
+    "description": "Pixasso: multidisciplinary design-research Agent Skill for UI, UX, motion, and creative frontend craft",
+    "id": "Erebuzzz/pixasso",
+    "language": "TypeScript",
+    "name": "Erebuzzz/pixasso",
+    "stars": 1,
+    "updated_at": "2026-09-21T13:26:16Z",
+    "url": "https://github.com/Erebuzzz/pixasso"
+  },
+  {
+    "description": "An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills -  bench",
+    "id": "Ar9av/PaperOrchestra",
+    "language": "Python",
+    "name": "Ar9av/PaperOrchestra",
+    "stars": 662,
+    "updated_at": "2026-09-21T13:26:08Z",
+    "url": "https://github.com/Ar9av/PaperOrchestra"
+  },
+  {
+    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
+    "id": "crackcricketdash/Everything-Claude-Code-2026",
+    "language": "\u2014",
+    "name": "crackcricketdash/Everything-Claude-Code-2026",
+    "stars": 1,
+    "updated_at": "2026-09-21T13:23:56Z",
+    "url": "https://github.com/crackcricketdash/Everything-Claude-Code-2026"
+  },
+  {
+    "description": "How a good skill is written, and the gate that checks it",
+    "id": "rokokol/skill-authoring-skill",
+    "language": "Shell",
+    "name": "rokokol/skill-authoring-skill",
+    "stars": 0,
+    "updated_at": "2026-09-21T13:22:24Z",
+    "url": "https://github.com/rokokol/skill-authoring-skill"
+  },
+  {
+    "description": "Set of skills for globalizing and localizing app",
+    "id": "globalize-now/globalize-skills",
+    "language": "TypeScript",
+    "name": "globalize-now/globalize-skills",
+    "stars": 3,
+    "updated_at": "2026-09-21T13:19:31Z",
+    "url": "https://github.com/globalize-now/globalize-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-21T13:17:42Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "My personal directory of AI Agent skills",
+    "id": "tkolleh/skills",
+    "language": "Python",
+    "name": "tkolleh/skills",
+    "stars": 1,
+    "updated_at": "2026-09-21T13:17:41Z",
+    "url": "https://github.com/tkolleh/skills"
+  },
+  {
+    "description": "A reusable research-onboarding skill for Claude, ChatGPT, Codex, and other instruction-following agents.",
+    "id": "ljx-chase/research-field-onboarding",
+    "language": "Python",
+    "name": "ljx-chase/research-field-onboarding",
+    "stars": 64,
+    "updated_at": "2026-09-21T13:17:32Z",
+    "url": "https://github.com/ljx-chase/research-field-onboarding"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-21T13:17:15Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "A curated, continuously-updated vault of Claude Skills and agent skills \u2014 organized by category, with a single script to",
+    "id": "vetrns/skills-vault",
+    "language": "Shell",
+    "name": "vetrns/skills-vault",
+    "stars": 6,
+    "updated_at": "2026-09-21T13:17:12Z",
+    "url": "https://github.com/vetrns/skills-vault"
+  },
+  {
+    "description": "Agentic gaming payments on Fraxtal.",
+    "id": "minxydev/FraxPlay",
+    "language": "TypeScript",
+    "name": "minxydev/FraxPlay",
+    "stars": 0,
+    "updated_at": "2026-09-21T13:15:29Z",
+    "url": "https://github.com/minxydev/FraxPlay"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T13:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A collection of Claude Code skills, with QA skills that end in a mandatory independent-subagent review pass.",
     "id": "xtieume/testcase",
     "language": "Python",
@@ -117,15 +261,6 @@
     "url": "https://github.com/Senzing/senzing-mcp-skill"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69249,
-    "updated_at": "2026-09-21T13:10:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "",
     "id": "LevNas/ccmemo",
     "language": "Python",
@@ -135,15 +270,6 @@
     "url": "https://github.com/LevNas/ccmemo"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T13:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Curated Claude Code plugins by Knitli",
     "id": "knitli/toolshed",
     "language": "TypeScript",
@@ -151,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T12:59:54Z",
     "url": "https://github.com/knitli/toolshed"
-  },
-  {
-    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
-    "id": "takimdigital/deckhand",
-    "language": "Python",
-    "name": "takimdigital/deckhand",
-    "stars": 1,
-    "updated_at": "2026-09-21T12:58:42Z",
-    "url": "https://github.com/takimdigital/deckhand"
   },
   {
     "description": "A small, verified, security-aware directory of Agent Skills (SKILL.md format).",
@@ -297,15 +414,6 @@
     "url": "https://github.com/NafisRayan/100x-Agent-Toolkit"
   },
   {
-    "description": "Add styled, burned-in captions to a video from the command line or an AI agent. Renders locally in your own Chrome.",
-    "id": "auto-subtitles/cli",
-    "language": "JavaScript",
-    "name": "auto-subtitles/cli",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:26:03Z",
-    "url": "https://github.com/auto-subtitles/cli"
-  },
-  {
     "description": "",
     "id": "jbordoe/claude-skills",
     "language": "Shell",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T12:15:39Z",
     "url": "https://github.com/eighthoursleep/unity-game-codebase-walkthrough-skill"
-  },
-  {
-    "description": "Claude Code skill: resume a project where it stopped after a token limit or new session, backed by a PROGRESS.md per pro",
-    "id": "Chinorab/session-resume",
-    "language": "\u2014",
-    "name": "Chinorab/session-resume",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:15:34Z",
-    "url": "https://github.com/Chinorab/session-resume"
-  },
-  {
-    "description": "Utsuri transforms code changes into evidence-based, human-readable visual reviews. It connects Git hunks, intent, real-b",
-    "id": "hokupod/utsuri",
-    "language": "JavaScript",
-    "name": "hokupod/utsuri",
-    "stars": 2,
-    "updated_at": "2026-09-21T12:10:19Z",
-    "url": "https://github.com/hokupod/utsuri"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-09-21T12:08:38Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "AI coding workflow for Claude Code, Codex and CodeBuddy: ticket-based development, resumable steps, evidence-based verif",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-09-21T12:03:28Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "Ultimate Frontend Skills (UFS) for Claude Code and Codex. One route from brief to shipped page: a corpus of award-winnin",
-    "id": "ridelink0/ultimate-frontend-skills",
-    "language": "JavaScript",
-    "name": "ridelink0/ultimate-frontend-skills",
-    "stars": 5,
-    "updated_at": "2026-09-21T12:00:14Z",
-    "url": "https://github.com/ridelink0/ultimate-frontend-skills"
-  },
-  {
-    "description": "\ud83e\uddbe AI Skills for Requiems API",
-    "id": "bobadilla-tech/requiems-api-skills",
-    "language": "TypeScript",
-    "name": "bobadilla-tech/requiems-api-skills",
-    "stars": 2,
-    "updated_at": "2026-09-21T11:59:17Z",
-    "url": "https://github.com/bobadilla-tech/requiems-api-skills"
-  },
-  {
-    "description": "A prompt architect for Claude: any raw prompt in, an optimized prompt with the right agent loop, skills, and model out. ",
-    "id": "thanospapage/thanos",
-    "language": "\u2014",
-    "name": "thanospapage/thanos",
-    "stars": 1,
-    "updated_at": "2026-09-21T11:59:12Z",
-    "url": "https://github.com/thanospapage/thanos"
-  },
-  {
-    "description": "Brainstorm product ideas and have a different model grade them. Whoever proposed an idea never decides whether it surviv",
-    "id": "CodeDTX/pde-loop",
-    "language": "Python",
-    "name": "CodeDTX/pde-loop",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:58:38Z",
-    "url": "https://github.com/CodeDTX/pde-loop"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:58:08Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-09-21T11:57:53Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
-  },
-  {
-    "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
-    "id": "Joshuadoroja33/Ronnier-skill",
-    "language": "PowerShell",
-    "name": "Joshuadoroja33/Ronnier-skill",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:57:34Z",
-    "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "AI Corner Store \ud83c\udfea \u2014 a small, curated shop of AI skills, plugins, and bundles for Claude. One folder per release, each in",
-    "id": "sorensensig/ai-corner-store",
-    "language": "Python",
-    "name": "sorensensig/ai-corner-store",
-    "stars": 9,
-    "updated_at": "2026-09-21T11:57:00Z",
-    "url": "https://github.com/sorensensig/ai-corner-store"
   }
 ]
