@@ -1,12 +1,102 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 429,
+    "updated_at": "2026-09-21T15:14:42Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-21T15:13:53Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Spec Driven \u2014 orchestrator-first Agent Skills for spec-driven development. The orchestrator skill turns a PRD or idea in",
+    "id": "afonsoft/skills",
+    "language": "Shell",
+    "name": "afonsoft/skills",
+    "stars": 7,
+    "updated_at": "2026-09-21T15:13:49Z",
+    "url": "https://github.com/afonsoft/skills"
+  },
+  {
+    "description": "taxue \u7684\u4e13\u4e1a\u6295\u8d44\u5206\u6790 skill",
+    "id": "taxueseek/fund-investment-guide",
+    "language": "Python",
+    "name": "taxueseek/fund-investment-guide",
+    "stars": 20,
+    "updated_at": "2026-09-21T15:11:51Z",
+    "url": "https://github.com/taxueseek/fund-investment-guide"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69256,
+    "updated_at": "2026-09-21T15:11:28Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Claude skill: read PDFs as clean markdown instead of page images. 3-10x fewer tokens, section search, and warnings for p",
     "id": "habib049/pdf-to-clean-text",
     "language": "Python",
     "name": "habib049/pdf-to-clean-text",
     "stars": 0,
-    "updated_at": "2026-09-21T15:00:09Z",
+    "updated_at": "2026-09-21T15:10:13Z",
     "url": "https://github.com/habib049/pdf-to-clean-text"
+  },
+  {
+    "description": "Claude-type skills for institutional equity research \u2014 25 AI agent skills with SEC   filings, XBRL financials, earnings ",
+    "id": "agentii-ai/agentii-investment-intelligence",
+    "language": "Python",
+    "name": "agentii-ai/agentii-investment-intelligence",
+    "stars": 203,
+    "updated_at": "2026-09-21T15:09:44Z",
+    "url": "https://github.com/agentii-ai/agentii-investment-intelligence"
+  },
+  {
+    "description": "Deterministic code quality gate for AI coding agents (Claude Code, Codex, pi): git hooks that block test tampering, hold",
+    "id": "smixs/code-quality-skill",
+    "language": "TypeScript",
+    "name": "smixs/code-quality-skill",
+    "stars": 0,
+    "updated_at": "2026-09-21T15:09:20Z",
+    "url": "https://github.com/smixs/code-quality-skill"
+  },
+  {
+    "description": "An audit team for data products: ten heroes, a summoner, and a villain who audits the auditors. A Claude skill.",
+    "id": "cruce5/reconcilers",
+    "language": "JavaScript",
+    "name": "cruce5/reconcilers",
+    "stars": 0,
+    "updated_at": "2026-09-21T15:08:23Z",
+    "url": "https://github.com/cruce5/reconcilers"
+  },
+  {
+    "description": "Add styled, burned-in captions to a video from the command line or an AI agent. Renders locally in your own Chrome.",
+    "id": "auto-subtitles/cli",
+    "language": "JavaScript",
+    "name": "auto-subtitles/cli",
+    "stars": 0,
+    "updated_at": "2026-09-21T15:06:34Z",
+    "url": "https://github.com/auto-subtitles/cli"
+  },
+  {
+    "description": "",
+    "id": "LevNas/ccmemo",
+    "language": "Python",
+    "name": "LevNas/ccmemo",
+    "stars": 4,
+    "updated_at": "2026-09-21T15:06:36Z",
+    "url": "https://github.com/LevNas/ccmemo"
   },
   {
     "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
@@ -14,8 +104,44 @@
     "language": "Python",
     "name": "sebin-gg/article-sweeper",
     "stars": 1,
-    "updated_at": "2026-09-21T14:59:57Z",
+    "updated_at": "2026-09-21T15:06:03Z",
     "url": "https://github.com/sebin-gg/article-sweeper"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 5,
+    "updated_at": "2026-09-21T15:02:17Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Rust",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 8,
+    "updated_at": "2026-09-21T15:01:04Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills -  bench",
+    "id": "Ar9av/PaperOrchestra",
+    "language": "Python",
+    "name": "Ar9av/PaperOrchestra",
+    "stars": 662,
+    "updated_at": "2026-09-21T15:01:00Z",
+    "url": "https://github.com/Ar9av/PaperOrchestra"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T15:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skills repository",
@@ -32,7 +158,7 @@
     "language": "Shell",
     "name": "tikoci/routeros-skills",
     "stars": 63,
-    "updated_at": "2026-09-21T14:57:34Z",
+    "updated_at": "2026-09-21T15:11:34Z",
     "url": "https://github.com/tikoci/routeros-skills"
   },
   {
@@ -45,21 +171,12 @@
     "url": "https://github.com/baichuanjiang2-cell/explain-hub"
   },
   {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-21T14:55:58Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-21T14:58:41Z",
+    "updated_at": "2026-09-21T15:00:52Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -108,6 +225,15 @@
     "url": "https://github.com/Jsnnmsc/10000x-engineer"
   },
   {
+    "description": "Composable, evidence-grounded research Skills for Codex and Claude Code, powered by an extensible Reasoning DNA runtime.",
+    "id": "1second1/personal-research-skills",
+    "language": "Python",
+    "name": "1second1/personal-research-skills",
+    "stars": 1,
+    "updated_at": "2026-09-21T14:48:25Z",
+    "url": "https://github.com/1second1/personal-research-skills"
+  },
+  {
     "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
     "id": "NYTC69/review-loop",
     "language": "Python",
@@ -115,24 +241,6 @@
     "stars": 3,
     "updated_at": "2026-09-21T14:48:21Z",
     "url": "https://github.com/NYTC69/review-loop"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69256,
-    "updated_at": "2026-09-21T14:46:57Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T14:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -162,24 +270,6 @@
     "url": "https://github.com/Jackxu1978/tai-chi-sword-skills"
   },
   {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Rust",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 8,
-    "updated_at": "2026-09-21T14:49:22Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Spec Driven \u2014 orchestrator-first Agent Skills for spec-driven development. The orchestrator skill turns a PRD or idea in",
-    "id": "afonsoft/skills",
-    "language": "Shell",
-    "name": "afonsoft/skills",
-    "stars": 7,
-    "updated_at": "2026-09-21T14:38:28Z",
-    "url": "https://github.com/afonsoft/skills"
-  },
-  {
     "description": "Discover agent rules and skill files from leading open source projects",
     "id": "modem-dev/ossrules",
     "language": "Python",
@@ -196,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-09-21T14:36:19Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills -  bench",
-    "id": "Ar9av/PaperOrchestra",
-    "language": "Python",
-    "name": "Ar9av/PaperOrchestra",
-    "stars": 662,
-    "updated_at": "2026-09-21T14:33:07Z",
-    "url": "https://github.com/Ar9av/PaperOrchestra"
   },
   {
     "description": "Claude Skills",
@@ -232,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T14:31:08Z",
     "url": "https://github.com/gilgameshcc/ai-native-jobhunt"
-  },
-  {
-    "description": "Add styled, burned-in captions to a video from the command line or an AI agent. Renders locally in your own Chrome.",
-    "id": "auto-subtitles/cli",
-    "language": "JavaScript",
-    "name": "auto-subtitles/cli",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:29:38Z",
-    "url": "https://github.com/auto-subtitles/cli"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -302,7 +374,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-21T14:45:56Z",
+    "updated_at": "2026-09-21T15:13:24Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T14:20:34Z",
     "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:19:42Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
-  },
-  {
-    "description": "Export UniFi network topologies as zoomable vector diagrams and editable draw.io files using real device data.",
-    "id": "Josiecontrolling326/unifi-map",
-    "language": "Python",
-    "name": "Josiecontrolling326/unifi-map",
-    "stars": 1,
-    "updated_at": "2026-09-21T14:19:37Z",
-    "url": "https://github.com/Josiecontrolling326/unifi-map"
-  },
-  {
-    "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
-    "id": "skeletonshorts029-png/open-code-review",
-    "language": "TypeScript",
-    "name": "skeletonshorts029-png/open-code-review",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:19:06Z",
-    "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:18:45Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:17:41Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-09-21T14:17:24Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 60,
-    "updated_at": "2026-09-21T14:16:55Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 4,
-    "updated_at": "2026-09-21T14:14:28Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
   }
 ]
