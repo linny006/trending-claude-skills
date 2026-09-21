@@ -1,5 +1,95 @@
 [
   {
+    "description": "Skill cho AI coding agent: bi\u00ean t\u1eadp v\u0103n ti\u1ebfng Vi\u1ec7t b\u1ecf d\u1ea5u v\u0103n AI \u2014 danh m\u1ee5c d\u1ea5u hi\u1ec7u c\u00f3 ngu\u1ed3n tr\u00edch d\u1eabn + m\u00e1y qu\u00e9t deter",
+    "id": "cuongducle/viet-humanize",
+    "language": "Python",
+    "name": "cuongducle/viet-humanize",
+    "stars": 0,
+    "updated_at": "2026-09-21T04:57:35Z",
+    "url": "https://github.com/cuongducle/viet-humanize"
+  },
+  {
+    "description": "Message bus skill for Claude Code agents: file inboxes for projects and subagents, background wake-ups, cron schedule an",
+    "id": "jtapes/claude-bus",
+    "language": "JavaScript",
+    "name": "jtapes/claude-bus",
+    "stars": 3,
+    "updated_at": "2026-09-21T04:56:08Z",
+    "url": "https://github.com/jtapes/claude-bus"
+  },
+  {
+    "description": "Fast CLI for Google Play Console, for developers optimized for your agentic development flows",
+    "id": "tamtom/play-console-cli",
+    "language": "Go",
+    "name": "tamtom/play-console-cli",
+    "stars": 236,
+    "updated_at": "2026-09-21T04:54:43Z",
+    "url": "https://github.com/tamtom/play-console-cli"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69235,
+    "updated_at": "2026-09-21T04:52:04Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-21T04:54:57Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Deterministic readiness checker for the MCP 2026-07-28 specification break - a graded web probe and an agent skill over ",
+    "id": "AlpayC/mcp-migration-check",
+    "language": "TypeScript",
+    "name": "AlpayC/mcp-migration-check",
+    "stars": 5,
+    "updated_at": "2026-09-21T04:48:31Z",
+    "url": "https://github.com/AlpayC/mcp-migration-check"
+  },
+  {
+    "description": "The loop for everything!",
+    "id": "MadaraUchiha-314/the-loop",
+    "language": "Python",
+    "name": "MadaraUchiha-314/the-loop",
+    "stars": 5,
+    "updated_at": "2026-09-21T04:47:59Z",
+    "url": "https://github.com/MadaraUchiha-314/the-loop"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-21T04:46:03Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 1,
+    "updated_at": "2026-09-21T04:45:44Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-21T04:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
     "id": "yngbrll/vb-winforms-toolkit",
     "language": "HTML",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T04:42:02Z",
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69234,
-    "updated_at": "2026-09-21T04:40:33Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
@@ -117,15 +198,6 @@
     "url": "https://github.com/dzivkovi/claude-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-21T04:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
     "id": "patrickserrano/lacquer",
     "language": "Go",
@@ -162,21 +234,12 @@
     "url": "https://github.com/notque/vexjoy-agent"
   },
   {
-    "description": "Skill cho AI coding agent: bi\u00ean t\u1eadp v\u0103n ti\u1ebfng Vi\u1ec7t b\u1ecf d\u1ea5u v\u0103n AI \u2014 danh m\u1ee5c d\u1ea5u hi\u1ec7u c\u00f3 ngu\u1ed3n tr\u00edch d\u1eabn + m\u00e1y qu\u00e9t deter",
-    "id": "cuongducle/viet-humanize",
-    "language": "Python",
-    "name": "cuongducle/viet-humanize",
-    "stars": 0,
-    "updated_at": "2026-09-21T04:16:13Z",
-    "url": "https://github.com/cuongducle/viet-humanize"
-  },
-  {
     "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit \u2014 search, download, track, and ",
     "id": "ammawla/encode-toolkit",
     "language": "Python",
     "name": "ammawla/encode-toolkit",
     "stars": 20,
-    "updated_at": "2026-09-21T04:15:04Z",
+    "updated_at": "2026-09-21T04:52:15Z",
     "url": "https://github.com/ammawla/encode-toolkit"
   },
   {
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 178,
-    "updated_at": "2026-09-21T04:43:08Z",
+    "updated_at": "2026-09-21T04:48:55Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -196,6 +259,15 @@
     "stars": 2,
     "updated_at": "2026-09-21T04:09:57Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques",
+    "id": "coldteadotai/pr-lens",
+    "language": "TypeScript",
+    "name": "coldteadotai/pr-lens",
+    "stars": 1238,
+    "updated_at": "2026-09-21T04:07:25Z",
+    "url": "https://github.com/coldteadotai/pr-lens"
   },
   {
     "description": "Jev (TypeSafe System One) inner loop for ego-browser \u2014 one ~0.4s typed decision per DOM step instead of an LLM turn. Age",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T03:41:14Z",
     "url": "https://github.com/burnabyjudicial666/agent-profiles"
-  },
-  {
-    "description": "Search and manage AI coding sessions locally with full-text search across 7 tools.",
-    "id": "Unstable-ascendingartery75/ai-session-search",
-    "language": "TypeScript",
-    "name": "Unstable-ascendingartery75/ai-session-search",
-    "stars": 0,
-    "updated_at": "2026-09-21T03:40:27Z",
-    "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
-  },
-  {
-    "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
-    "id": "Arindaag760/humanizer-cli",
-    "language": "JavaScript",
-    "name": "Arindaag760/humanizer-cli",
-    "stars": 1,
-    "updated_at": "2026-09-21T03:40:05Z",
-    "url": "https://github.com/Arindaag760/humanizer-cli"
-  },
-  {
-    "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
-    "id": "maurieunoccupied182/biks-claude-tools-loader",
-    "language": "\u2014",
-    "name": "maurieunoccupied182/biks-claude-tools-loader",
-    "stars": 0,
-    "updated_at": "2026-09-21T03:39:30Z",
-    "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
-  },
-  {
-    "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
-    "id": "Scoundrelwildness456/i-have-adhd",
-    "language": "Python",
-    "name": "Scoundrelwildness456/i-have-adhd",
-    "stars": 5,
-    "updated_at": "2026-09-21T03:38:52Z",
-    "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
-    "id": "nowork-studio/notfair-plugin",
-    "language": "TypeScript",
-    "name": "nowork-studio/notfair-plugin",
-    "stars": 3835,
-    "updated_at": "2026-09-21T03:38:37Z",
-    "url": "https://github.com/nowork-studio/notfair-plugin"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-09-21T03:38:01Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-09-21T03:36:48Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-09-21T03:36:25Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
   }
 ]
