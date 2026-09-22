@@ -1,12 +1,75 @@
 [
   {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-22T13:45:10Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "A Claude skill that searches all your past chats from any new chat, in Claude Code and the Claude app, and saves the bes",
+    "id": "dBlueSk/claude-chat-navigator",
     "language": "Python",
-    "name": "sayam/thai-docx-skill",
+    "name": "dBlueSk/claude-chat-navigator",
     "stars": 0,
-    "updated_at": "2026-09-22T13:30:20Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
+    "updated_at": "2026-09-22T13:41:54Z",
+    "url": "https://github.com/dBlueSk/claude-chat-navigator"
+  },
+  {
+    "description": "Skills to make your AI coding agent an Arcjet security expert.",
+    "id": "arcjet/skills",
+    "language": "Python",
+    "name": "arcjet/skills",
+    "stars": 3,
+    "updated_at": "2026-09-22T13:41:33Z",
+    "url": "https://github.com/arcjet/skills"
+  },
+  {
+    "description": "",
+    "id": "Pippit-dev/cli",
+    "language": "JavaScript",
+    "name": "Pippit-dev/cli",
+    "stars": 9,
+    "updated_at": "2026-09-22T13:39:58Z",
+    "url": "https://github.com/Pippit-dev/cli"
+  },
+  {
+    "description": "A standard for Nix: what the formatter cannot check, and a checker that holds it",
+    "id": "rokokol/nix-best-practices-skill",
+    "language": "\u2014",
+    "name": "rokokol/nix-best-practices-skill",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:36:58Z",
+    "url": "https://github.com/rokokol/nix-best-practices-skill"
+  },
+  {
+    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
+    "id": "dimitritholen/1337-claude",
+    "language": "Shell",
+    "name": "dimitritholen/1337-claude",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:35:39Z",
+    "url": "https://github.com/dimitritholen/1337-claude"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 27,
+    "updated_at": "2026-09-22T13:35:29Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-09-22T13:38:58Z",
+    "url": "https://github.com/easyinplay/harnessed"
   },
   {
     "description": "What a code comment says and what it must not, with a checker that reads comments out of the syntax tree",
@@ -14,8 +77,44 @@
     "language": "Shell",
     "name": "rokokol/code-comments-skill",
     "stars": 0,
-    "updated_at": "2026-09-22T13:27:36Z",
+    "updated_at": "2026-09-22T13:34:28Z",
     "url": "https://github.com/rokokol/code-comments-skill"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-22T13:33:34Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-09-22T13:31:33Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T13:30:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:30:20Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
     "description": "Optimizes the description frontmatter of a Claude Code / Agent Skill - the text that decides whether Claude invokes the ",
@@ -90,15 +189,6 @@
     "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
-    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
-    "id": "dimitritholen/1337-claude",
-    "language": "Shell",
-    "name": "dimitritholen/1337-claude",
-    "stars": 0,
-    "updated_at": "2026-09-22T13:16:47Z",
-    "url": "https://github.com/dimitritholen/1337-claude"
-  },
-  {
     "description": "Claude skill to work efficiently with the Pyqcm library",
     "id": "pyqcm-project/pyqcm-skill",
     "language": "\u2014",
@@ -106,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T13:15:33Z",
     "url": "https://github.com/pyqcm-project/pyqcm-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T13:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-22T13:14:16Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "My personal, curated set of artifacts for AI coding agents",
@@ -149,7 +221,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69280,
-    "updated_at": "2026-09-22T13:10:56Z",
+    "updated_at": "2026-09-22T13:43:32Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -160,15 +232,6 @@
     "stars": 52,
     "updated_at": "2026-09-22T13:10:02Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 27,
-    "updated_at": "2026-09-22T13:04:57Z",
-    "url": "https://github.com/Borda/AI-Rig"
   },
   {
     "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-22T13:20:31Z",
+    "updated_at": "2026-09-22T13:39:24Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -193,7 +256,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24962,
+    "stars": 24963,
     "updated_at": "2026-09-22T13:02:48Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -284,17 +347,8 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-22T13:27:41Z",
+    "updated_at": "2026-09-22T13:40:33Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-09-22T12:33:00Z",
-    "url": "https://github.com/easyinplay/harnessed"
   },
   {
     "description": "Decision-research skill for Claude Code and Codex - every claim states how well it is supported, and says when the evide",
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-22T12:11:17Z",
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
-    "id": "zeikar/dotfiles",
-    "language": "Shell",
-    "name": "zeikar/dotfiles",
-    "stars": 1,
-    "updated_at": "2026-09-22T12:10:59Z",
-    "url": "https://github.com/zeikar/dotfiles"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 815,
-    "updated_at": "2026-09-22T13:17:42Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
-    "id": "crackcricketdash/Everything-Claude-Code-2026",
-    "language": "\u2014",
-    "name": "crackcricketdash/Everything-Claude-Code-2026",
-    "stars": 1,
-    "updated_at": "2026-09-22T12:05:30Z",
-    "url": "https://github.com/crackcricketdash/Everything-Claude-Code-2026"
-  },
-  {
-    "description": "\ud83d\uddfa\ufe0f One prompt, any codebase \u2192 architecture map. An agent skill that generates Mermaid diagrams, a traced core flow, and ",
-    "id": "wenshuocui50-droid/repo-cartographer",
-    "language": "\u2014",
-    "name": "wenshuocui50-droid/repo-cartographer",
-    "stars": 1,
-    "updated_at": "2026-09-22T12:04:28Z",
-    "url": "https://github.com/wenshuocui50-droid/repo-cartographer"
-  },
-  {
-    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
-    "id": "molefrog/moi",
-    "language": "TypeScript",
-    "name": "molefrog/moi",
-    "stars": 169,
-    "updated_at": "2026-09-22T11:59:27Z",
-    "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
-    "id": "nullphase-net/enfurbish",
-    "language": "TypeScript",
-    "name": "nullphase-net/enfurbish",
-    "stars": 1,
-    "updated_at": "2026-09-22T11:57:41Z",
-    "url": "https://github.com/nullphase-net/enfurbish"
   }
 ]
