@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-09-22T12:28:08Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "AgentX is the inventory manager for your agents. View, manage, and sync skills, MCPs and plugins across machines. Availa",
+    "id": "grundmanise/agentx",
+    "language": "Go",
+    "name": "grundmanise/agentx",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:27:19Z",
+    "url": "https://github.com/grundmanise/agentx"
+  },
+  {
+    "description": "Shared skills, rules, commands, subagents, and output styles for Claude Code, Cursor, and Codex.",
+    "id": "stijnvanhulle/agents",
+    "language": "JavaScript",
+    "name": "stijnvanhulle/agents",
+    "stars": 1,
+    "updated_at": "2026-09-22T12:26:45Z",
+    "url": "https://github.com/stijnvanhulle/agents"
+  },
+  {
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 1,
+    "updated_at": "2026-09-22T12:29:17Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "visualize, and report code coverage within llm sessions",
+    "id": "joshLong145/ambits",
+    "language": "Rust",
+    "name": "joshLong145/ambits",
+    "stars": 16,
+    "updated_at": "2026-09-22T12:26:06Z",
+    "url": "https://github.com/joshLong145/ambits"
+  },
+  {
+    "description": "Public Repository for Agent Skills",
+    "id": "spShashankGit/skills",
+    "language": "\u2014",
+    "name": "spShashankGit/skills",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:26:03Z",
+    "url": "https://github.com/spShashankGit/skills"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:17:34Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "Agents, skills, and starter kits for Microsoft Discovery \u2014 the AI for Science platform.",
+    "id": "timothymeyers/discovery-tools",
+    "language": "Python",
+    "name": "timothymeyers/discovery-tools",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:17:05Z",
+    "url": "https://github.com/timothymeyers/discovery-tools"
+  },
+  {
+    "description": "You say the job; the playbook runs. 143 agent skills + 55 commands for Cursor, Claude Code, Codex, Gemini. React / Next.",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 9,
+    "updated_at": "2026-09-22T12:16:40Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T12:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\udfea Open-source runtime that ships any LangGraph or Google ADK agent as a production-ready FastAPI service. Bundled , AG-U",
     "id": "Idun-Group/idun-agent-platform",
     "language": "Python",
@@ -34,33 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T12:10:59Z",
     "url": "https://github.com/zeikar/dotfiles"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-22T12:14:03Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
-    "description": "You say the job; the playbook runs. 143 agent skills + 55 commands for Cursor, Claude Code, Codex, Gemini. React / Next.",
-    "id": "kensaurus/cursor-kenji",
-    "language": "JavaScript",
-    "name": "kensaurus/cursor-kenji",
-    "stars": 9,
-    "updated_at": "2026-09-22T12:11:35Z",
-    "url": "https://github.com/kensaurus/cursor-kenji"
-  },
-  {
-    "description": "Agents, skills, and starter kits for Microsoft Discovery \u2014 the AI for Science platform.",
-    "id": "timothymeyers/discovery-tools",
-    "language": "Python",
-    "name": "timothymeyers/discovery-tools",
-    "stars": 0,
-    "updated_at": "2026-09-22T12:08:17Z",
-    "url": "https://github.com/timothymeyers/discovery-tools"
   },
   {
     "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
@@ -108,15 +171,6 @@
     "url": "https://github.com/fabricioctelles/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T12:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
     "id": "molefrog/moi",
     "language": "TypeScript",
@@ -124,15 +178,6 @@
     "stars": 169,
     "updated_at": "2026-09-22T11:59:27Z",
     "url": "https://github.com/molefrog/moi"
-  },
-  {
-    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "JavaScript",
-    "name": "SteveKinzey/claude-code-tools-installer",
-    "stars": 1,
-    "updated_at": "2026-09-22T11:58:58Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
   },
   {
     "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
@@ -157,9 +202,18 @@
     "id": "harshaneel/humanize",
     "language": "HTML",
     "name": "harshaneel/humanize",
-    "stars": 490,
+    "stars": 491,
     "updated_at": "2026-09-22T11:56:09Z",
     "url": "https://github.com/harshaneel/humanize"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "Python",
+    "name": "titanwings/distilly",
+    "stars": 24958,
+    "updated_at": "2026-09-22T11:54:24Z",
+    "url": "https://github.com/titanwings/distilly"
   },
   {
     "description": "Find out which of your agent rules actually fire. An agentic coding harness for Claude Code and Codex: one checkout of r",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "JakeSelby/agent-harness",
     "stars": 14,
-    "updated_at": "2026-09-22T12:08:29Z",
+    "updated_at": "2026-09-22T12:30:12Z",
     "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
@@ -202,7 +256,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 94447,
+    "stars": 94450,
     "updated_at": "2026-09-22T11:45:52Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -216,21 +270,12 @@
     "url": "https://github.com/ibrohimislam/zoom-out"
   },
   {
-    "description": "Shared skills, rules, commands, subagents, and output styles for Claude Code, Cursor, and Codex.",
-    "id": "stijnvanhulle/agents",
-    "language": "JavaScript",
-    "name": "stijnvanhulle/agents",
-    "stars": 1,
-    "updated_at": "2026-09-22T11:43:37Z",
-    "url": "https://github.com/stijnvanhulle/agents"
-  },
-  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-22T12:06:47Z",
+    "updated_at": "2026-09-22T12:22:11Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T11:19:01Z",
     "url": "https://github.com/iDWong/dev-skills"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:18:06Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-22T11:17:48Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:17:41Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:15:20Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "Claude Code plugin that ships skills for building apps on top of the SUQO SDKs.",
-    "id": "suqo-ai/suqo-claude-plugins",
-    "language": "TypeScript",
-    "name": "suqo-ai/suqo-claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:15:08Z",
-    "url": "https://github.com/suqo-ai/suqo-claude-plugins"
   }
 ]
