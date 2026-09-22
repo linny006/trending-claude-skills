@@ -1,12 +1,147 @@
 [
   {
+    "description": "An agent skill that disagrees with you, on purpose, with evidence. Risk first, pre mortem always, verdict changes only o",
+    "id": "Alisson-P/ysat",
+    "language": "\u2014",
+    "name": "Alisson-P/ysat",
+    "stars": 0,
+    "updated_at": "2026-09-22T18:14:50Z",
+    "url": "https://github.com/Alisson-P/ysat"
+  },
+  {
+    "description": "Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.",
+    "id": "dembrandt/dembrandt-skills",
+    "language": "JavaScript",
+    "name": "dembrandt/dembrandt-skills",
+    "stars": 56,
+    "updated_at": "2026-09-22T18:13:04Z",
+    "url": "https://github.com/dembrandt/dembrandt-skills"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 178,
+    "updated_at": "2026-09-22T18:12:31Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2582,
+    "updated_at": "2026-09-22T18:11:46Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 8,
+    "updated_at": "2026-09-22T18:11:44Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-09-22T18:10:58Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Karvey \u2014 m\u00e9todo spec-driven development agn\u00f3stico de stack (Af\u00e1n, selknam). Plugin de Claude Code. \u00a9 HainTech, Apache 2.",
+    "id": "MauricioQuezadaHaintech/karvey",
+    "language": "Shell",
+    "name": "MauricioQuezadaHaintech/karvey",
+    "stars": 0,
+    "updated_at": "2026-09-22T18:15:14Z",
+    "url": "https://github.com/MauricioQuezadaHaintech/karvey"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 444,
+    "updated_at": "2026-09-22T18:08:59Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 60,
+    "updated_at": "2026-09-22T18:08:59Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+    "id": "nowork-studio/notfair-plugin",
+    "language": "TypeScript",
+    "name": "nowork-studio/notfair-plugin",
+    "stars": 3844,
+    "updated_at": "2026-09-22T18:08:44Z",
+    "url": "https://github.com/nowork-studio/notfair-plugin"
+  },
+  {
+    "description": "Claude Code skill: a live context meter button in the VS Code chat composer, one click runs /context",
+    "id": "warodan/vscode-claude-chat-context-meter",
+    "language": "JavaScript",
+    "name": "warodan/vscode-claude-chat-context-meter",
+    "stars": 1,
+    "updated_at": "2026-09-22T18:07:37Z",
+    "url": "https://github.com/warodan/vscode-claude-chat-context-meter"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-09-22T18:03:42Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-22T18:03:26Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
+    "id": "dimitritholen/1337-claude",
+    "language": "Shell",
+    "name": "dimitritholen/1337-claude",
+    "stars": 0,
+    "updated_at": "2026-09-22T18:03:19Z",
+    "url": "https://github.com/dimitritholen/1337-claude"
+  },
+  {
     "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
     "id": "iDWong/pm-skills",
     "language": "Python",
     "name": "iDWong/pm-skills",
     "stars": 2,
-    "updated_at": "2026-09-22T17:58:23Z",
+    "updated_at": "2026-09-22T18:00:31Z",
     "url": "https://github.com/iDWong/pm-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T18:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Find out which of your agent rules actually fire. An agentic coding harness for Claude Code and Codex: one checkout of r",
@@ -14,7 +149,7 @@
     "language": "Python",
     "name": "JakeSelby/agent-harness",
     "stars": 14,
-    "updated_at": "2026-09-22T17:57:54Z",
+    "updated_at": "2026-09-22T18:13:08Z",
     "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
@@ -34,15 +169,6 @@
     "stars": 8,
     "updated_at": "2026-09-22T17:56:28Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
-    "id": "lenamonj/jeffy-loop",
-    "language": "Shell",
-    "name": "lenamonj/jeffy-loop",
-    "stars": 8,
-    "updated_at": "2026-09-22T17:56:26Z",
-    "url": "https://github.com/lenamonj/jeffy-loop"
   },
   {
     "description": "Agent skills for managing multi-step tasks as GitHub issues. Create, implement, update, and   close execution plans that",
@@ -97,15 +223,6 @@
     "stars": 14,
     "updated_at": "2026-09-22T17:45:45Z",
     "url": "https://github.com/hraness/wordcell"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T17:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skill + Agent + Model + Thinking depth \u2014 auto-routed before any tool fires. One SKILL.md for Claude Code. 90% routing ac",
@@ -169,15 +286,6 @@
     "stars": 78,
     "updated_at": "2026-09-22T17:30:54Z",
     "url": "https://github.com/mykpono/ultimate-seo-geo"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2582,
-    "updated_at": "2026-09-22T17:29:18Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
@@ -261,24 +369,6 @@
     "url": "https://github.com/Sharmeen-Fatima/General-Agents-Crash-Course-6-Projects"
   },
   {
-    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 444,
-    "updated_at": "2026-09-22T17:56:43Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 60,
-    "updated_at": "2026-09-22T16:47:50Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
     "description": "Build interactive 3D worlds with high-quality assets from Thrixel and your AI agent of choice.",
     "id": "thrixel/build-world",
     "language": "JavaScript",
@@ -313,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T17:23:38Z",
     "url": "https://github.com/grundmanise/agentx"
-  },
-  {
-    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
-    "id": "dimitritholen/1337-claude",
-    "language": "Shell",
-    "name": "dimitritholen/1337-claude",
-    "stars": 0,
-    "updated_at": "2026-09-22T16:35:43Z",
-    "url": "https://github.com/dimitritholen/1337-claude"
   },
   {
     "description": "A small, inspectable handoff protocol for Claude Code \u2194 Codex implementation work.",
@@ -367,86 +448,5 @@
     "stars": 491,
     "updated_at": "2026-09-22T16:24:12Z",
     "url": "https://github.com/harshaneel/humanize"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-09-22T16:23:33Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "AI coding workflow for Claude Code, Codex and CodeBuddy: ticket-based development, resumable steps, evidence-based verif",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 3,
-    "updated_at": "2026-09-22T16:20:54Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "Make TikToks, Reels and Shorts in code: natural AI narration, word-by-word captions, and real 1080x1920 Remotion renders",
-    "id": "SDuarteCorredor/vertical-video-kit",
-    "language": "Python",
-    "name": "SDuarteCorredor/vertical-video-kit",
-    "stars": 1,
-    "updated_at": "2026-09-22T16:18:07Z",
-    "url": "https://github.com/SDuarteCorredor/vertical-video-kit"
-  },
-  {
-    "description": "An agent skill that disagrees with you, on purpose, with evidence. Risk first, pre mortem always, verdict changes only o",
-    "id": "Alisson-P/ysat",
-    "language": "\u2014",
-    "name": "Alisson-P/ysat",
-    "stars": 0,
-    "updated_at": "2026-09-22T16:15:27Z",
-    "url": "https://github.com/Alisson-P/ysat"
-  },
-  {
-    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. 64 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0438, 21",
-    "id": "ilyautov/humanizer-ru",
-    "language": "Python",
-    "name": "ilyautov/humanizer-ru",
-    "stars": 374,
-    "updated_at": "2026-09-22T16:13:59Z",
-    "url": "https://github.com/ilyautov/humanizer-ru"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 27,
-    "updated_at": "2026-09-22T16:08:50Z",
-    "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-22T17:55:22Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
-    "id": "akovalion/paranoid-qa",
-    "language": "Python",
-    "name": "akovalion/paranoid-qa",
-    "stars": 13,
-    "updated_at": "2026-09-22T16:06:43Z",
-    "url": "https://github.com/akovalion/paranoid-qa"
-  },
-  {
-    "description": "bridge.ai/beacon: At-a-glance awareness across concurrent Claude Code sessions \u2014 a terminal-agnostic fleet dashboard plu",
-    "id": "chris-peterson/beacon",
-    "language": "Python",
-    "name": "chris-peterson/beacon",
-    "stars": 1,
-    "updated_at": "2026-09-22T16:03:20Z",
-    "url": "https://github.com/chris-peterson/beacon"
   }
 ]
