@@ -1,11 +1,101 @@
 [
   {
+    "description": "A small, inspectable handoff protocol for Claude Code \u2194 Codex implementation work.",
+    "id": "m1amgn/agents-collab-cli",
+    "language": "JavaScript",
+    "name": "m1amgn/agents-collab-cli",
+    "stars": 0,
+    "updated_at": "2026-09-22T15:59:50Z",
+    "url": "https://github.com/m1amgn/agents-collab-cli"
+  },
+  {
+    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
+    "id": "alexgreensh/repo-forensics",
+    "language": "Python",
+    "name": "alexgreensh/repo-forensics",
+    "stars": 177,
+    "updated_at": "2026-09-22T15:55:38Z",
+    "url": "https://github.com/alexgreensh/repo-forensics"
+  },
+  {
+    "description": "An agent skill that disagrees with you, on purpose, with evidence. Risk first, pre mortem always, verdict changes only o",
+    "id": "Alisson-P/ysat",
+    "language": "\u2014",
+    "name": "Alisson-P/ysat",
+    "stars": 0,
+    "updated_at": "2026-09-22T15:54:27Z",
+    "url": "https://github.com/Alisson-P/ysat"
+  },
+  {
+    "description": "Reusable workflows for planning, building, reviewing, and shipping with Claude Code and Codex.",
+    "id": "tobihagemann/turbo",
+    "language": "Python",
+    "name": "tobihagemann/turbo",
+    "stars": 405,
+    "updated_at": "2026-09-22T15:53:53Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-22T15:52:44Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Claude Agent Skill: interviews the client before writing a project brief for development. Turns a vague idea into proble",
+    "id": "time2map/claude-brief-interview",
+    "language": "\u2014",
+    "name": "time2map/claude-brief-interview",
+    "stars": 0,
+    "updated_at": "2026-09-22T15:52:17Z",
+    "url": "https://github.com/time2map/claude-brief-interview"
+  },
+  {
+    "description": "Scout is a job-search agent that runs inside Claude Code: it searches job sources, filters postings against one candidat",
+    "id": "selfishprimate/scout",
+    "language": "Python",
+    "name": "selfishprimate/scout",
+    "stars": 0,
+    "updated_at": "2026-09-22T15:50:43Z",
+    "url": "https://github.com/selfishprimate/scout"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 50,
+    "updated_at": "2026-09-22T15:49:40Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
+    "description": "Jev (TypeSafe System One) inner loop for ego-browser \u2014 one ~0.4s typed decision per DOM step instead of an LLM turn. Age",
+    "id": "ZephyrDeng/ego-jev",
+    "language": "JavaScript",
+    "name": "ZephyrDeng/ego-jev",
+    "stars": 4,
+    "updated_at": "2026-09-22T15:46:19Z",
+    "url": "https://github.com/ZephyrDeng/ego-jev"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T15:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69284,
-    "updated_at": "2026-09-22T15:44:39Z",
+    "updated_at": "2026-09-22T15:58:48Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -72,15 +162,6 @@
     "url": "https://github.com/nowespojrzenie/HEXAGRAM"
   },
   {
-    "description": "A small, inspectable handoff protocol for Claude Code \u2194 Codex implementation work.",
-    "id": "m1amgn/agents-collab-cli",
-    "language": "JavaScript",
-    "name": "m1amgn/agents-collab-cli",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:39:49Z",
-    "url": "https://github.com/m1amgn/agents-collab-cli"
-  },
-  {
     "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
     "id": "eduair94/cambio-uruguay",
     "language": "TypeScript",
@@ -88,24 +169,6 @@
     "stars": 7,
     "updated_at": "2026-09-22T15:39:16Z",
     "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "Claude Agent Skill: interviews the client before writing a project brief for development. Turns a vague idea into proble",
-    "id": "time2map/claude-brief-interview",
-    "language": "\u2014",
-    "name": "time2map/claude-brief-interview",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:39:05Z",
-    "url": "https://github.com/time2map/claude-brief-interview"
-  },
-  {
-    "description": "Scout is a job-search agent that runs inside Claude Code: it searches job sources, filters postings against one candidat",
-    "id": "selfishprimate/scout",
-    "language": "Python",
-    "name": "selfishprimate/scout",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:39:03Z",
-    "url": "https://github.com/selfishprimate/scout"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -142,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T15:35:32Z",
     "url": "https://github.com/Rivendell-investment/edgepilot-research-claude"
-  },
-  {
-    "description": "An agent skill that disagrees with you, on purpose, with evidence. Risk first, pre mortem always, verdict changes only o",
-    "id": "Alisson-P/ysat",
-    "language": "\u2014",
-    "name": "Alisson-P/ysat",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:32:49Z",
-    "url": "https://github.com/Alisson-P/ysat"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T15:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
@@ -284,7 +329,7 @@
     "language": "JavaScript",
     "name": "SteveKinzey/claude-code-tools-installer",
     "stars": 1,
-    "updated_at": "2026-09-22T15:18:30Z",
+    "updated_at": "2026-09-22T15:53:11Z",
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T15:09:02Z",
     "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
-    "id": "howard-lynn-ye/fin-skills",
-    "language": "Python",
-    "name": "howard-lynn-ye/fin-skills",
-    "stars": 1,
-    "updated_at": "2026-09-22T15:07:38Z",
-    "url": "https://github.com/howard-lynn-ye/fin-skills"
-  },
-  {
-    "description": "Plugin with opinionated set of Claude Code agents nad skills",
-    "id": "lklimek/claudius",
-    "language": "Python",
-    "name": "lklimek/claudius",
-    "stars": 1,
-    "updated_at": "2026-09-22T15:07:27Z",
-    "url": "https://github.com/lklimek/claudius"
-  },
-  {
-    "description": "A standard for Nix: what the formatter cannot check, and a checker that holds it",
-    "id": "rokokol/nix-best-practices-skill",
-    "language": "Shell",
-    "name": "rokokol/nix-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:07:26Z",
-    "url": "https://github.com/rokokol/nix-best-practices-skill"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:06:42Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:05:48Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
   }
 ]
