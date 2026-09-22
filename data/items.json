@@ -1,5 +1,104 @@
 [
   {
+    "description": "Claude Code skill: is this the whole thing, or one expression of something bigger? Blocks narrow fixes before you call t",
+    "id": "ibrohimislam/zoom-out",
+    "language": "JavaScript",
+    "name": "ibrohimislam/zoom-out",
+    "stars": 1,
+    "updated_at": "2026-09-22T11:45:07Z",
+    "url": "https://github.com/ibrohimislam/zoom-out"
+  },
+  {
+    "description": "Shared skills, rules, commands, subagents, and output styles for Claude Code, Cursor, and Codex.",
+    "id": "stijnvanhulle/agents",
+    "language": "JavaScript",
+    "name": "stijnvanhulle/agents",
+    "stars": 1,
+    "updated_at": "2026-09-22T11:43:37Z",
+    "url": "https://github.com/stijnvanhulle/agents"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-22T11:43:24Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 115,
+    "updated_at": "2026-09-22T11:42:38Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
+    "id": "iDWong/pm-skills",
+    "language": "Python",
+    "name": "iDWong/pm-skills",
+    "stars": 2,
+    "updated_at": "2026-09-22T11:41:13Z",
+    "url": "https://github.com/iDWong/pm-skills"
+  },
+  {
+    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
+    "id": "jherrodthomas/robotics-skills-suite",
+    "language": "Python",
+    "name": "jherrodthomas/robotics-skills-suite",
+    "stars": 241,
+    "updated_at": "2026-09-22T11:40:07Z",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
+  },
+  {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-09-22T11:37:04Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-22T11:35:45Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-09-22T11:33:34Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
+    "id": "filippolmt/skills",
+    "language": "HTML",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-09-22T11:30:14Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T11:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -18,22 +117,13 @@
     "url": "https://github.com/riffkit/skills"
   },
   {
-    "description": "Claude Code skill: is this the whole thing, or one expression of something bigger? Blocks narrow fixes before you call t",
-    "id": "ibrohimislam/zoom-out",
-    "language": "JavaScript",
-    "name": "ibrohimislam/zoom-out",
-    "stars": 1,
-    "updated_at": "2026-09-22T11:27:25Z",
-    "url": "https://github.com/ibrohimislam/zoom-out"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 115,
-    "updated_at": "2026-09-22T11:30:11Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
+    "description": "",
+    "id": "sheoraninfosec/Handwritten-Infographic-Claude-Skill",
+    "language": "Python",
+    "name": "sheoraninfosec/Handwritten-Infographic-Claude-Skill",
+    "stars": 0,
+    "updated_at": "2026-09-22T11:27:40Z",
+    "url": "https://github.com/sheoraninfosec/Handwritten-Infographic-Claude-Skill"
   },
   {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
@@ -43,15 +133,6 @@
     "stars": 6190,
     "updated_at": "2026-09-22T11:26:55Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
-    "id": "iDWong/pm-skills",
-    "language": "Python",
-    "name": "iDWong/pm-skills",
-    "stars": 2,
-    "updated_at": "2026-09-22T11:26:04Z",
-    "url": "https://github.com/iDWong/pm-skills"
   },
   {
     "description": "Tested guardrail hooks and repo-hygiene skills for Claude Code. Every skill ships with an eval transcript.",
@@ -106,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-09-22T11:20:28Z",
     "url": "https://github.com/Carlosdalv669/formify-skills"
+  },
+  {
+    "description": "\ud83d\uddfa\ufe0f One prompt, any codebase \u2192 architecture map. An agent skill that generates Mermaid diagrams, a traced core flow, and ",
+    "id": "wenshuocui50-droid/repo-cartographer",
+    "language": "\u2014",
+    "name": "wenshuocui50-droid/repo-cartographer",
+    "stars": 1,
+    "updated_at": "2026-09-22T11:20:07Z",
+    "url": "https://github.com/wenshuocui50-droid/repo-cartographer"
   },
   {
     "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
@@ -187,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T11:15:20Z",
     "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T11:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code plugin that ships skills for building apps on top of the SUQO SDKs.",
@@ -292,7 +373,7 @@
     "id": "sergebulaev/linkedin-skills",
     "language": "Python",
     "name": "sergebulaev/linkedin-skills",
-    "stars": 3092,
+    "stars": 3095,
     "updated_at": "2026-09-22T11:05:11Z",
     "url": "https://github.com/sergebulaev/linkedin-skills"
   },
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T11:01:49Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-09-22T11:00:53Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:00:40Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-22T11:25:53Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-22T11:00:03Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-09-22T10:59:50Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-09-22T10:59:41Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-09-22T10:59:21Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-09-22T10:59:17Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-09-22T10:59:04Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
   }
 ]
