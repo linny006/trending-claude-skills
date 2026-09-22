@@ -1,12 +1,48 @@
 [
   {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
+    "id": "dimitritholen/1337-claude",
+    "language": "Shell",
+    "name": "dimitritholen/1337-claude",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:57:46Z",
+    "url": "https://github.com/dimitritholen/1337-claude"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
+    "id": "iDWong/pm-skills",
     "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1614,
-    "updated_at": "2026-09-22T12:45:07Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+    "name": "iDWong/pm-skills",
+    "stars": 2,
+    "updated_at": "2026-09-22T12:56:06Z",
+    "url": "https://github.com/iDWong/pm-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 5,
+    "updated_at": "2026-09-22T12:55:31Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-22T12:53:45Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 22,
+    "updated_at": "2026-09-22T12:52:52Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
   },
   {
     "description": "Claude skill to work efficiently with the Pyqcm library",
@@ -14,8 +50,44 @@
     "language": "\u2014",
     "name": "pyqcm-project/pyqcm-skill",
     "stars": 0,
-    "updated_at": "2026-09-22T12:43:46Z",
+    "updated_at": "2026-09-22T12:51:57Z",
     "url": "https://github.com/pyqcm-project/pyqcm-skill"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 429,
+    "updated_at": "2026-09-22T12:50:15Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 27,
+    "updated_at": "2026-09-22T12:50:12Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T12:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1614,
+    "updated_at": "2026-09-22T12:45:07Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
     "description": "A suite of skills to build better skills \u2014 from creation through install, audit, release, regression testing, and sedime",
@@ -54,21 +126,12 @@
     "url": "https://github.com/ontology-of-everything/concept-skills"
   },
   {
-    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
-    "id": "dimitritholen/1337-claude",
-    "language": "Shell",
-    "name": "dimitritholen/1337-claude",
-    "stars": 0,
-    "updated_at": "2026-09-22T12:39:59Z",
-    "url": "https://github.com/dimitritholen/1337-claude"
-  },
-  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-22T12:44:18Z",
+    "updated_at": "2026-09-22T12:59:22Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -117,21 +180,12 @@
     "url": "https://github.com/eyesecurity/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T12:30:20Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AgentX is the inventory manager for your agents. View, manage, and sync skills, MCPs and plugins across machines. Availa",
     "id": "grundmanise/agentx",
     "language": "Go",
     "name": "grundmanise/agentx",
     "stars": 0,
-    "updated_at": "2026-09-22T12:31:02Z",
+    "updated_at": "2026-09-22T12:48:43Z",
     "url": "https://github.com/grundmanise/agentx"
   },
   {
@@ -252,15 +306,6 @@
     "url": "https://github.com/wenshuocui50-droid/repo-cartographer"
   },
   {
-    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
-    "id": "iDWong/pm-skills",
-    "language": "Python",
-    "name": "iDWong/pm-skills",
-    "stars": 2,
-    "updated_at": "2026-09-22T12:04:25Z",
-    "url": "https://github.com/iDWong/pm-skills"
-  },
-  {
     "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
     "id": "molefrog/moi",
     "language": "TypeScript",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "titanwings/distilly",
     "stars": 24961,
-    "updated_at": "2026-09-22T11:54:24Z",
+    "updated_at": "2026-09-22T12:47:56Z",
     "url": "https://github.com/titanwings/distilly"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "JakeSelby/agent-harness",
     "stars": 14,
-    "updated_at": "2026-09-22T12:41:38Z",
+    "updated_at": "2026-09-22T12:50:11Z",
     "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
@@ -346,7 +391,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 94450,
+    "stars": 94453,
     "updated_at": "2026-09-22T11:45:52Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T11:30:14Z",
     "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-22T11:28:42Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Riffkit agent skills, named by what you want to make. Generated daily from riffkit.ai/SKILL.md.",
-    "id": "riffkit/skills",
-    "language": "Python",
-    "name": "riffkit/skills",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:27:47Z",
-    "url": "https://github.com/riffkit/skills"
-  },
-  {
-    "description": "",
-    "id": "sheoraninfosec/Handwritten-Infographic-Claude-Skill",
-    "language": "Python",
-    "name": "sheoraninfosec/Handwritten-Infographic-Claude-Skill",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:27:40Z",
-    "url": "https://github.com/sheoraninfosec/Handwritten-Infographic-Claude-Skill"
-  },
-  {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6190,
-    "updated_at": "2026-09-22T11:26:55Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Tested guardrail hooks and repo-hygiene skills for Claude Code. Every skill ships with an eval transcript.",
-    "id": "Skillkeel/skillkeel-starter",
-    "language": "Python",
-    "name": "Skillkeel/skillkeel-starter",
-    "stars": 1,
-    "updated_at": "2026-09-22T11:25:53Z",
-    "url": "https://github.com/Skillkeel/skillkeel-starter"
   }
 ]
