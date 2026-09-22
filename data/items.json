@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 817,
+    "updated_at": "2026-09-22T17:15:09Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-09-22T17:14:22Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69285,
+    "updated_at": "2026-09-22T17:04:11Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-22T17:02:05Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T17:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "General Agent, Claude Code, ChatGPT, the features the projects and plagins, connectors uses",
     "id": "Sharmeen-Fatima/General-Agents-Crash-Course-6-Projects",
     "language": "\u2014",
@@ -18,30 +63,12 @@
     "url": "https://github.com/mykpono/ultimate-seo-geo"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69285,
-    "updated_at": "2026-09-22T16:56:44Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-22T16:55:33Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
     "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
     "id": "boshu2/agentops",
     "language": "Go",
     "name": "boshu2/agentops",
     "stars": 444,
-    "updated_at": "2026-09-22T16:50:14Z",
+    "updated_at": "2026-09-22T17:09:50Z",
     "url": "https://github.com/boshu2/agentops"
   },
   {
@@ -63,30 +90,12 @@
     "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T16:46:57Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 817,
-    "updated_at": "2026-09-22T16:45:02Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-22T16:48:55Z",
+    "updated_at": "2026-09-22T17:12:17Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-22T16:58:25Z",
+    "updated_at": "2026-09-22T17:14:10Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T15:40:19Z",
     "url": "https://github.com/nowespojrzenie/HEXAGRAM"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-09-22T15:39:16Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
