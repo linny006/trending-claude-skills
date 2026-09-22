@@ -1,5 +1,77 @@
 [
   {
+    "description": "Organize *many* obsidian knowledge bases at once with the help of claude-code. Ingest new sources, prioritize tasks, and",
+    "id": "nathanaday/atlas-obsidian",
+    "language": "Go",
+    "name": "nathanaday/atlas-obsidian",
+    "stars": 0,
+    "updated_at": "2026-09-22T08:11:42Z",
+    "url": "https://github.com/nathanaday/atlas-obsidian"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
+    "id": "iDWong/pm-skills",
+    "language": "Python",
+    "name": "iDWong/pm-skills",
+    "stars": 2,
+    "updated_at": "2026-09-22T08:11:07Z",
+    "url": "https://github.com/iDWong/pm-skills"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-09-22T08:10:52Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69279,
+    "updated_at": "2026-09-22T08:08:26Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-22T08:09:39Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1617,
+    "updated_at": "2026-09-22T08:04:15Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Engineering skills for Claude Code, how development work is conducted, how a codebase is assessed.",
+    "id": "LeadcodeDev/skills",
+    "language": "\u2014",
+    "name": "LeadcodeDev/skills",
+    "stars": 0,
+    "updated_at": "2026-09-22T08:00:40Z",
+    "url": "https://github.com/LeadcodeDev/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T08:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -67,18 +139,9 @@
     "id": "ShrugYu/game-client-to-server-reverse",
     "language": "Python",
     "name": "ShrugYu/game-client-to-server-reverse",
-    "stars": 9,
+    "stars": 11,
     "updated_at": "2026-09-22T07:47:15Z",
     "url": "https://github.com/ShrugYu/game-client-to-server-reverse"
-  },
-  {
-    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
-    "id": "iDWong/pm-skills",
-    "language": "Python",
-    "name": "iDWong/pm-skills",
-    "stars": 2,
-    "updated_at": "2026-09-22T07:47:13Z",
-    "url": "https://github.com/iDWong/pm-skills"
   },
   {
     "description": "\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a23 \u4e2a\u6280\u80fd / 4 \u4e2a plugin / \u5355\u4e00\u7f16\u6392\u5668 dev-master \u7ba1 13 \u9636\u6bb5\u6d41\u7a0b\uff08SRS \u771f\u6e90 \u2192 \u8bbe\u8ba1 \u2192 \u5b9e\u73b0 \u2192 \u6d4b\u8bd5 \u2192 \u4e0a\u7ebf\u5ba1\u8ba1 \u2192 \u53d1\u7248\uff09\u3002Claude Code / Codex / Cur",
@@ -88,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T07:46:54Z",
     "url": "https://github.com/iDWong/dev-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69279,
-    "updated_at": "2026-09-22T07:45:30Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T07:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
@@ -151,15 +196,6 @@
     "stars": 56,
     "updated_at": "2026-09-22T07:36:31Z",
     "url": "https://github.com/ARahim3/cachebeat"
-  },
-  {
-    "description": "Engineering skills for Claude Code, how development work is conducted, how a codebase is assessed.",
-    "id": "LeadcodeDev/skills",
-    "language": "\u2014",
-    "name": "LeadcodeDev/skills",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:56:12Z",
-    "url": "https://github.com/LeadcodeDev/skills"
   },
   {
     "description": "Flint \u00b7 local-skills-hub \u2014 a local-first personal AI skills asset manager. Centralize, tag, deduplicate skills, and depl",
@@ -310,7 +346,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 7080,
+    "stars": 7082,
     "updated_at": "2026-09-22T07:25:09Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -358,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T07:21:54Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Organize *many* obsidian knowledge bases at once with the help of claude-code. Ingest new sources, prioritize tasks, and",
-    "id": "nathanaday/atlas-obsidian",
-    "language": "Go",
-    "name": "nathanaday/atlas-obsidian",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:21:39Z",
-    "url": "https://github.com/nathanaday/atlas-obsidian"
   },
   {
     "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T07:20:22Z",
     "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "6\ub2e8\uacc4 \uae30\ud68d \uccb4\uc778(\ud658\uacbd\ubd84\uc11d\u2192\ubaa9\ud45c\u2192\uc804\ub7b5\u2192\ud0c0\ub2f9\uc131\u2192\ub85c\ub4dc\ub9f5\u2192\ud658\ub958) + \uad00\uc81c Orchestrator \u2014 Q-Gate \uac80\uc99d\uacfc \ub2e8\uacc4 \uac04 \uc790\ub3d9 \ud68c\uadc0 \ud1b5\uc81c\ub97c \uac16\ucd98 Claude Skill 7\uc885 \uc138\ud2b8",
-    "id": "rjs-zzz/planning-suite",
-    "language": "Python",
-    "name": "rjs-zzz/planning-suite",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:20:12Z",
-    "url": "https://github.com/rjs-zzz/planning-suite"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:20:02Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Run Claude Code locally with TUI and Electron desktop support, plus flexible Anthropic/OpenAI-compatible API access and ",
-    "id": "briefless-orgasm922/claude-code-t8",
-    "language": "\u2014",
-    "name": "briefless-orgasm922/claude-code-t8",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:19:14Z",
-    "url": "https://github.com/briefless-orgasm922/claude-code-t8"
   }
 ]
