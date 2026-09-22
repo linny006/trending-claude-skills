@@ -1,12 +1,21 @@
 [
   {
-    "description": "HR AI transformation toolkit: vetted use cases, governance verified weekly against primary sources, a tested MCP server,",
-    "id": "ellehelvig/hr-ai-transformation-playbook",
-    "language": "Python",
-    "name": "ellehelvig/hr-ai-transformation-playbook",
-    "stars": 2,
-    "updated_at": "2026-09-22T22:43:30Z",
-    "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 115,
+    "updated_at": "2026-09-22T22:55:04Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-09-22T22:51:37Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
   },
   {
     "description": "A standard for Nix: what the formatter cannot check, and a checker that holds it",
@@ -14,8 +23,35 @@
     "language": "Shell",
     "name": "rokokol/nix-best-practices-skill",
     "stars": 0,
-    "updated_at": "2026-09-22T22:41:52Z",
+    "updated_at": "2026-09-22T22:47:52Z",
     "url": "https://github.com/rokokol/nix-best-practices-skill"
+  },
+  {
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 1,
+    "updated_at": "2026-09-22T22:47:53Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 45,
+    "updated_at": "2026-09-22T22:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "HR AI transformation toolkit: vetted use cases, governance verified weekly against primary sources, a tested MCP server,",
+    "id": "ellehelvig/hr-ai-transformation-playbook",
+    "language": "Python",
+    "name": "ellehelvig/hr-ai-transformation-playbook",
+    "stars": 2,
+    "updated_at": "2026-09-22T22:55:31Z",
+    "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
   },
   {
     "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
@@ -45,15 +81,6 @@
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-09-22T22:36:39Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
     "id": "24bsc244-svg/pdlc-forge",
     "language": "HTML",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 141,
-    "updated_at": "2026-09-22T22:42:34Z",
+    "updated_at": "2026-09-22T22:50:50Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -189,15 +216,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 45,
-    "updated_at": "2026-09-22T22:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
     "id": "Gonadotrophic-tangent41/ux-ui-skills",
     "language": "\u2014",
@@ -250,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T22:27:30Z",
     "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 115,
-    "updated_at": "2026-09-22T22:40:18Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-22T22:18:26Z",
     "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:18:19Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
   }
 ]
