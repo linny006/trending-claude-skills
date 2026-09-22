@@ -1,5 +1,95 @@
 [
   {
+    "description": "Skill + Agent + Model + Thinking depth \u2014 auto-routed before any tool fires. One SKILL.md for Claude Code. 90% routing ac",
+    "id": "hussi9/skill-router",
+    "language": "Python",
+    "name": "hussi9/skill-router",
+    "stars": 23,
+    "updated_at": "2026-09-22T17:44:10Z",
+    "url": "https://github.com/hussi9/skill-router"
+  },
+  {
+    "description": "Build, validate, secure, and maintain Claude Skills \u2014 a plugin superseding Anthropic's shipped skill-creator with spec-c",
+    "id": "EONRaider/SkillArtisan",
+    "language": "Python",
+    "name": "EONRaider/SkillArtisan",
+    "stars": 1,
+    "updated_at": "2026-09-22T17:44:32Z",
+    "url": "https://github.com/EONRaider/SkillArtisan"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
+    "id": "iDWong/pm-skills",
+    "language": "Python",
+    "name": "iDWong/pm-skills",
+    "stars": 2,
+    "updated_at": "2026-09-22T17:43:43Z",
+    "url": "https://github.com/iDWong/pm-skills"
+  },
+  {
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 1,
+    "updated_at": "2026-09-22T17:41:14Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-09-22T17:39:35Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-09-22T17:36:18Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor ",
+    "id": "michael-denyer/pstack-claude",
+    "language": "TypeScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 530,
+    "updated_at": "2026-09-22T17:35:56Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": "Claude Code skill for writing git commit messages \u2014 diff-aware, convention-matching, attribution-free.",
+    "id": "Suuunboy/commit-message-skill",
+    "language": "\u2014",
+    "name": "Suuunboy/commit-message-skill",
+    "stars": 1,
+    "updated_at": "2026-09-22T17:33:45Z",
+    "url": "https://github.com/Suuunboy/commit-message-skill"
+  },
+  {
+    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
+    "id": "mykpono/ultimate-seo-geo",
+    "language": "Python",
+    "name": "mykpono/ultimate-seo-geo",
+    "stars": 78,
+    "updated_at": "2026-09-22T17:30:54Z",
+    "url": "https://github.com/mykpono/ultimate-seo-geo"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T17:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
@@ -9,20 +99,11 @@
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
-    "description": "Build, validate, secure, and maintain Claude Skills \u2014 a plugin superseding Anthropic's shipped skill-creator with spec-c",
-    "id": "EONRaider/SkillArtisan",
-    "language": "Python",
-    "name": "EONRaider/SkillArtisan",
-    "stars": 1,
-    "updated_at": "2026-09-22T17:28:49Z",
-    "url": "https://github.com/EONRaider/SkillArtisan"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69285,
+    "stars": 69287,
     "updated_at": "2026-09-22T17:29:08Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -59,17 +140,8 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-22T17:28:36Z",
+    "updated_at": "2026-09-22T17:40:00Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T17:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
@@ -108,15 +180,6 @@
     "url": "https://github.com/Sharmeen-Fatima/General-Agents-Crash-Course-6-Projects"
   },
   {
-    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
-    "id": "mykpono/ultimate-seo-geo",
-    "language": "Python",
-    "name": "mykpono/ultimate-seo-geo",
-    "stars": 78,
-    "updated_at": "2026-09-22T16:58:49Z",
-    "url": "https://github.com/mykpono/ultimate-seo-geo"
-  },
-  {
     "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
     "id": "boshu2/agentops",
     "language": "Go",
@@ -124,15 +187,6 @@
     "stars": 444,
     "updated_at": "2026-09-22T17:17:26Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
-    "id": "iDWong/pm-skills",
-    "language": "Python",
-    "name": "iDWong/pm-skills",
-    "stars": 2,
-    "updated_at": "2026-09-22T16:48:26Z",
-    "url": "https://github.com/iDWong/pm-skills"
   },
   {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "JakeSelby/agent-harness",
     "stars": 14,
-    "updated_at": "2026-09-22T16:50:13Z",
+    "updated_at": "2026-09-22T17:36:06Z",
     "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-22T17:21:20Z",
+    "updated_at": "2026-09-22T17:44:11Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T15:40:19Z",
     "url": "https://github.com/nowespojrzenie/HEXAGRAM"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-22T15:38:27Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Shell",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 27069,
-    "updated_at": "2026-09-22T15:38:19Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
-  },
-  {
-    "description": "Rivendell\u2019s publicly available toolkit for discovering, configuring, and backtesting trading strategies with historical ",
-    "id": "Rivendell-investment/edgepilot-research-claude",
-    "language": "JavaScript",
-    "name": "Rivendell-investment/edgepilot-research-claude",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:35:32Z",
-    "url": "https://github.com/Rivendell-investment/edgepilot-research-claude"
-  },
-  {
-    "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
-    "id": "laolaoshiren/claude-code-skills-zh",
-    "language": "Python",
-    "name": "laolaoshiren/claude-code-skills-zh",
-    "stars": 867,
-    "updated_at": "2026-09-22T15:29:41Z",
-    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
-  },
-  {
-    "description": "Una skill per Claude Code che valuta curriculum vitae in modo confrontabile, tracciabile e non discriminatorio",
-    "id": "matteobaccan/cv-review",
-    "language": "Python",
-    "name": "matteobaccan/cv-review",
-    "stars": 1,
-    "updated_at": "2026-09-22T15:26:00Z",
-    "url": "https://github.com/matteobaccan/cv-review"
-  },
-  {
-    "description": "Official Plutonium Skill for signed AI integration security assessments",
-    "id": "plutosecurity/plutonium-skill",
-    "language": "Python",
-    "name": "plutosecurity/plutonium-skill",
-    "stars": 2,
-    "updated_at": "2026-09-22T15:25:07Z",
-    "url": "https://github.com/plutosecurity/plutonium-skill"
   }
 ]
