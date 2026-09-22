@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-22 20:00 UTC
+> ⏰ Last updated: 2026-09-22 20:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [iDWong/pm-skills](https://github.com/iDWong/pm-skills) | 2 | Python | 2026-09-22 | 产品经理全生命周期技能库：52 个技能 / 9 个 plugin / 13 阶段单一流程。Claude Code · Codex · Cursor 三端可装。 |
-| 2 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 27072 | Shell | 2026-09-22 | Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery |
-| 3 | [JakeSelby/agent-harness](https://github.com/JakeSelby/agent-harness) | 14 | Python | 2026-09-22 | Find out which of your agent rules actually fire. An agentic coding harness for Claude Code and Codex: one checkout of r |
-| 4 | [justin-gpt/signal-to-sequence](https://github.com/justin-gpt/signal-to-sequence) | 0 | — | 2026-09-22 | Build guide, prompts and persona copywriting skill templates: turn a buying-signal list into a 1:1 multichannel outbound |
-| 5 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69293 | TypeScript | 2026-09-22 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| 6 | [mridulthareja/dashboard-skill](https://github.com/mridulthareja/dashboard-skill) | 0 | Python | 2026-09-22 | Anti-slop agent skill for SaaS dashboard UI: admin panels, analytics, CRM, data tables, app shells. Install: npx skills  |
-| 7 | [SELAT-AI/selat-plugins](https://github.com/SELAT-AI/selat-plugins) | 1 | Shell | 2026-09-22 | Official SELAT plugins — discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall |
-| 8 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 44 | Python | 2026-09-22 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 44 | Python | 2026-09-22 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [iDWong/pm-skills](https://github.com/iDWong/pm-skills) | 2 | Python | 2026-09-22 | 产品经理全生命周期技能库：52 个技能 / 9 个 plugin / 13 阶段单一流程。Claude Code · Codex · Cursor 三端可装。 |
+| 3 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 27072 | Shell | 2026-09-22 | Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery |
+| 4 | [JakeSelby/agent-harness](https://github.com/JakeSelby/agent-harness) | 14 | Python | 2026-09-22 | Find out which of your agent rules actually fire. An agentic coding harness for Claude Code and Codex: one checkout of r |
+| 5 | [justin-gpt/signal-to-sequence](https://github.com/justin-gpt/signal-to-sequence) | 0 | — | 2026-09-22 | Build guide, prompts and persona copywriting skill templates: turn a buying-signal list into a 1:1 multichannel outbound |
+| 6 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69293 | TypeScript | 2026-09-22 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 7 | [mridulthareja/dashboard-skill](https://github.com/mridulthareja/dashboard-skill) | 0 | Python | 2026-09-22 | Anti-slop agent skill for SaaS dashboard UI: admin panels, analytics, CRM, data tables, app shells. Install: npx skills  |
+| 8 | [SELAT-AI/selat-plugins](https://github.com/SELAT-AI/selat-plugins) | 1 | Shell | 2026-09-22 | Official SELAT plugins — discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall |
 | 9 | [MauricioQuezadaHaintech/karvey](https://github.com/MauricioQuezadaHaintech/karvey) | 0 | HTML | 2026-09-22 | Karvey — método spec-driven development agnóstico de stack (Afán, selknam). Plugin de Claude Code. © HainTech, Apache 2. |
 | 10 | [transcendr/slopware-skills](https://github.com/transcendr/slopware-skills) | 37 | — | 2026-09-22 | Free, portable AI agent skills and plugins for Codex, Claude Code, and Agent Skills clients by Slopware Engineer (@aieng |
 | 11 | [vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent) | 150 | JavaScript | 2026-09-22 | Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions. |
