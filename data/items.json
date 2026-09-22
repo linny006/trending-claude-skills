@@ -1,5 +1,59 @@
 [
   {
+    "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 3,
+    "updated_at": "2026-09-22T08:30:05Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 from PRDs and postmortems to appealing a di",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1384,
+    "updated_at": "2026-09-22T08:25:30Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 811,
+    "updated_at": "2026-09-22T08:28:57Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Manifest-driven, contract-tested skills for coding agents - one install for Claude Code and Codex. doctor-verified workf",
+    "id": "yuanhaorannnnnn/agent-skills",
+    "language": "Python",
+    "name": "yuanhaorannnnnn/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-22T08:17:56Z",
+    "url": "https://github.com/yuanhaorannnnnn/agent-skills"
+  },
+  {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 22,
+    "updated_at": "2026-09-22T08:16:15Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T08:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Organize *many* obsidian knowledge bases at once with the help of claude-code. Ingest new sources, prioritize tasks, and",
     "id": "nathanaday/atlas-obsidian",
     "language": "Go",
@@ -31,7 +85,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69279,
+    "stars": 69280,
     "updated_at": "2026-09-22T08:08:26Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-22T08:09:39Z",
+    "updated_at": "2026-09-22T08:23:53Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T08:00:40Z",
     "url": "https://github.com/LeadcodeDev/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T08:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -106,6 +151,15 @@
     "stars": 66,
     "updated_at": "2026-09-22T07:54:22Z",
     "url": "https://github.com/mensfeld/craftdesk"
+  },
+  {
+    "description": "",
+    "id": "Pippit-dev/cli",
+    "language": "JavaScript",
+    "name": "Pippit-dev/cli",
+    "stars": 9,
+    "updated_at": "2026-09-22T07:52:03Z",
+    "url": "https://github.com/Pippit-dev/cli"
   },
   {
     "description": "Agent skills repository",
@@ -346,7 +400,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 7082,
+    "stars": 7084,
     "updated_at": "2026-09-22T07:25:09Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -374,7 +428,7 @@
     "language": "Python",
     "name": "WardLu/skills",
     "stars": 1,
-    "updated_at": "2026-09-22T07:57:45Z",
+    "updated_at": "2026-09-22T08:15:27Z",
     "url": "https://github.com/WardLu/skills"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T07:21:54Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.",
-    "id": "alexgreensh/repo-forensics",
-    "language": "Python",
-    "name": "alexgreensh/repo-forensics",
-    "stars": 177,
-    "updated_at": "2026-09-22T07:23:01Z",
-    "url": "https://github.com/alexgreensh/repo-forensics"
-  },
-  {
-    "description": "\uad6c\uc870\uc801 \ubb38\uc81c\ud574\uacb0 Claude Skill \u2014 6\ub2e8\uacc4 \uc6cc\ud06c\ud50c\ub85c\uc6b0 + 5\uc778 \ube44\ud310\uc801 \uac80\ud1a0",
-    "id": "rjs-zzz/problem-solver",
-    "language": "Python",
-    "name": "rjs-zzz/problem-solver",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:20:55Z",
-    "url": "https://github.com/rjs-zzz/problem-solver"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-22T07:20:36Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:20:30Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:20:27Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-09-22T07:20:22Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
   }
 ]
