@@ -1,21 +1,120 @@
 [
   {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-22T20:58:38Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "My collection of Claude skills",
+    "id": "oaustegard/claude-skills",
+    "language": "Python",
+    "name": "oaustegard/claude-skills",
+    "stars": 150,
+    "updated_at": "2026-09-22T20:58:08Z",
+    "url": "https://github.com/oaustegard/claude-skills"
+  },
+  {
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 423,
+    "updated_at": "2026-09-22T20:53:22Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 178,
+    "updated_at": "2026-09-22T20:52:15Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
     "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
     "id": "eduair94/cambio-uruguay",
     "language": "TypeScript",
     "name": "eduair94/cambio-uruguay",
     "stars": 7,
-    "updated_at": "2026-09-22T20:44:19Z",
+    "updated_at": "2026-09-22T20:50:48Z",
     "url": "https://github.com/eduair94/cambio-uruguay"
   },
   {
-    "description": "\u4ea7\u54c1\u7ecf\u7406\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a52 \u4e2a\u6280\u80fd / 9 \u4e2a plugin / 13 \u9636\u6bb5\u5355\u4e00\u6d41\u7a0b\u3002Claude Code \u00b7 Codex \u00b7 Cursor \u4e09\u7aef\u53ef\u88c5\u3002",
-    "id": "iDWong/pm-skills",
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-22T20:54:25Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Agent skills loaded by coding agents \u2014 write skills, design interfaces, migrate brands.",
+    "id": "A70III/atelier",
+    "language": "Shell",
+    "name": "A70III/atelier",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:50:30Z",
+    "url": "https://github.com/A70III/atelier"
+  },
+  {
+    "description": "\u500b\u4eba\u958b\u767a\u306e\u30ea\u30dd\u30b8\u30c8\u30ea\u3092\u307e\u305f\u3050\u4f5c\u6cd5\u3092\u307e\u3068\u3081\u305f Claude Code \u306e\u30b9\u30ad\u30eb\u96c6",
+    "id": "finalize/skills",
+    "language": "Shell",
+    "name": "finalize/skills",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:48:43Z",
+    "url": "https://github.com/finalize/skills"
+  },
+  {
+    "description": "Build and run a digital persona of yourself, your alter ego. Built from your own words",
+    "id": "alter-persona/alter",
+    "language": "TypeScript",
+    "name": "alter-persona/alter",
+    "stars": 3,
+    "updated_at": "2026-09-22T20:48:15Z",
+    "url": "https://github.com/alter-persona/alter"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 818,
+    "updated_at": "2026-09-22T20:59:42Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Claude Code skill: structured job search with tailored resumes and cover letters, final-click form filling, and a tracke",
+    "id": "lutfitek/2026-job-hunt",
     "language": "Python",
-    "name": "iDWong/pm-skills",
-    "stars": 2,
-    "updated_at": "2026-09-22T20:43:46Z",
-    "url": "https://github.com/iDWong/pm-skills"
+    "name": "lutfitek/2026-job-hunt",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:47:37Z",
+    "url": "https://github.com/lutfitek/2026-job-hunt"
+  },
+  {
+    "description": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factori",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 444,
+    "updated_at": "2026-09-22T20:56:01Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 44,
+    "updated_at": "2026-09-22T20:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, con",
@@ -41,26 +140,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-22T20:43:48Z",
+    "updated_at": "2026-09-22T20:52:08Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "My collection of Claude skills",
-    "id": "oaustegard/claude-skills",
-    "language": "Python",
-    "name": "oaustegard/claude-skills",
-    "stars": 150,
-    "updated_at": "2026-09-22T20:41:00Z",
-    "url": "https://github.com/oaustegard/claude-skills"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 178,
-    "updated_at": "2026-09-22T20:39:44Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Karvey \u2014 m\u00e9todo spec-driven development agn\u00f3stico de stack (Af\u00e1n, selknam). Plugin de Claude Code. \u00a9 HainTech, Apache 2.",
@@ -117,15 +198,6 @@
     "url": "https://github.com/hraness/wordcell"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 44,
-    "updated_at": "2026-09-22T20:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Han: AI skills and agents for \"Solo\" product engineers and small teams",
     "id": "testdouble/han",
     "language": "Shell",
@@ -162,29 +234,11 @@
     "url": "https://github.com/Barbhuiya12/launch-kit"
   },
   {
-    "description": "Agent skills loaded by coding agents \u2014 write skills, design interfaces, migrate brands.",
-    "id": "A70III/atelier",
-    "language": "Shell",
-    "name": "A70III/atelier",
-    "stars": 0,
-    "updated_at": "2026-09-22T20:17:29Z",
-    "url": "https://github.com/A70III/atelier"
-  },
-  {
-    "description": "Build and run a digital persona of yourself, your alter ego. Built from your own words",
-    "id": "alter-persona/alter",
-    "language": "TypeScript",
-    "name": "alter-persona/alter",
-    "stars": 3,
-    "updated_at": "2026-09-22T20:11:46Z",
-    "url": "https://github.com/alter-persona/alter"
-  },
-  {
     "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
     "id": "OthmanAdi/planning-with-files",
     "language": "Shell",
     "name": "OthmanAdi/planning-with-files",
-    "stars": 27072,
+    "stars": 27073,
     "updated_at": "2026-09-22T20:07:42Z",
     "url": "https://github.com/OthmanAdi/planning-with-files"
   },
@@ -286,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T19:31:33Z",
     "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u6280\u80fd\u5e93\uff1a23 \u4e2a\u6280\u80fd / 4 \u4e2a plugin / \u5355\u4e00\u7f16\u6392\u5668 dev-master \u7ba1 13 \u9636\u6bb5\u6d41\u7a0b\uff08SRS \u771f\u6e90 \u2192 \u8bbe\u8ba1 \u2192 \u5b9e\u73b0 \u2192 \u6d4b\u8bd5 \u2192 \u4e0a\u7ebf\u5ba1\u8ba1 \u2192 \u53d1\u7248\uff09\u3002Claude Code / Codex / Cur",
-    "id": "iDWong/dev-skills",
-    "language": "Vue",
-    "name": "iDWong/dev-skills",
-    "stars": 1,
-    "updated_at": "2026-09-22T19:30:09Z",
-    "url": "https://github.com/iDWong/dev-skills"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T19:20:44Z",
     "url": "https://github.com/lazybean3/hinge"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:20:21Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:19:23Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:18:37Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:18:02Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:16:21Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
