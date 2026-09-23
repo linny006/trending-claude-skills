@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u5c31\u6d3b\u30fb\u8ee2\u8077\u30fb\u63a1\u7528\u3092\u652f\u63f4\u3059\u308b\u65e5\u672c\u8a9eAgent Skills\u3002ES\u30fb\u5c65\u6b74\u66f8\u30fb\u9762\u63a5\u5bfe\u7b56\u30fb\u4f01\u696d\u7814\u7a76\u30fb\u304a\u305f\u3081\u3057\u8ee2\u8077\u306b\u5bfe\u5fdc\u3002Japanese job search, career change and recruiting skills for Cla",
+    "id": "ficilcom/otame4-work-skills",
+    "language": "Python",
+    "name": "ficilcom/otame4-work-skills",
+    "stars": 3,
+    "updated_at": "2026-09-23T04:12:50Z",
+    "url": "https://github.com/ficilcom/otame4-work-skills"
+  },
+  {
+    "description": "Find out which of your agent rules actually fire. An agentic coding harness for Claude Code and Codex: one checkout of r",
+    "id": "JakeSelby/agent-harness",
+    "language": "Python",
+    "name": "JakeSelby/agent-harness",
+    "stars": 15,
+    "updated_at": "2026-09-23T04:09:28Z",
+    "url": "https://github.com/JakeSelby/agent-harness"
+  },
+  {
+    "description": "One-command setup for a full VS Code Copilot Chat agent-skills stack on Windows - 254 bundled skills (281 on disk), 18 C",
+    "id": "JZKK720/cubecloud-skills-bundle-kit",
+    "language": "HTML",
+    "name": "JZKK720/cubecloud-skills-bundle-kit",
+    "stars": 3,
+    "updated_at": "2026-09-23T04:04:43Z",
+    "url": "https://github.com/JZKK720/cubecloud-skills-bundle-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 45,
+    "updated_at": "2026-09-23T04:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Deterministic code quality gate for AI coding agents (Claude Code, Codex, pi): git hooks that block test tampering, hold",
     "id": "smixs/code-quality",
     "language": "TypeScript",
@@ -36,15 +72,6 @@
     "url": "https://github.com/YPares/rigup.nix"
   },
   {
-    "description": "Find out which of your agent rules actually fire. An agentic coding harness for Claude Code and Codex: one checkout of r",
-    "id": "JakeSelby/agent-harness",
-    "language": "Python",
-    "name": "JakeSelby/agent-harness",
-    "stars": 15,
-    "updated_at": "2026-09-23T03:58:13Z",
-    "url": "https://github.com/JakeSelby/agent-harness"
-  },
-  {
     "description": "Navigable project documentation for Claude Code, Cursor, and Codex \u2014 a knowledge base your coding agent can pick up cold",
     "id": "x0c/agent-doc-skills",
     "language": "Python",
@@ -63,21 +90,12 @@
     "url": "https://github.com/eduair94/cambio-uruguay"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 45,
-    "updated_at": "2026-09-23T03:45:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A knowledge base for coding agents, built from Markdown, backlinks, semantic search, and Git context.",
     "id": "hraness/wordcell",
     "language": "TypeScript",
     "name": "hraness/wordcell",
     "stars": 15,
-    "updated_at": "2026-09-23T03:44:27Z",
+    "updated_at": "2026-09-23T04:14:14Z",
     "url": "https://github.com/hraness/wordcell"
   },
   {
@@ -113,7 +131,7 @@
     "language": "JavaScript",
     "name": "AgentGameLab/mneme",
     "stars": 7,
-    "updated_at": "2026-09-23T03:41:37Z",
+    "updated_at": "2026-09-23T04:07:19Z",
     "url": "https://github.com/AgentGameLab/mneme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T03:28:31Z",
     "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-09-23T03:28:30Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 3,
-    "updated_at": "2026-09-23T03:28:29Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
   }
 ]
