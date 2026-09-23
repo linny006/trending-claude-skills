@@ -1,12 +1,57 @@
 [
   {
-    "description": "A knowledge base for coding agents, built from Markdown, backlinks, semantic search, and Git context.",
-    "id": "hraness/wordcell",
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-09-23T19:29:34Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "Open-source AI design system builder. Load it into Claude, ChatGPT, Codex or Cursor: it interviews you, recommends sourc",
+    "id": "ckryptickunal/OpenDesigner",
+    "language": "Python",
+    "name": "ckryptickunal/OpenDesigner",
+    "stars": 0,
+    "updated_at": "2026-09-23T19:28:35Z",
+    "url": "https://github.com/ckryptickunal/OpenDesigner"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 1,
+    "updated_at": "2026-09-23T19:28:34Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-23T19:27:10Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing know",
+    "id": "undefined-ui/second-brain-os",
+    "language": "HTML",
+    "name": "undefined-ui/second-brain-os",
+    "stars": 271,
+    "updated_at": "2026-09-23T19:25:17Z",
+    "url": "https://github.com/undefined-ui/second-brain-os"
+  },
+  {
+    "description": "A Claude skill that takes your AI-built website from localhost to a live domain, with contact forms that actually arrive",
+    "id": "dannymccabe/ship-it-safely",
     "language": "TypeScript",
-    "name": "hraness/wordcell",
-    "stars": 15,
-    "updated_at": "2026-09-23T19:14:46Z",
-    "url": "https://github.com/hraness/wordcell"
+    "name": "dannymccabe/ship-it-safely",
+    "stars": 0,
+    "updated_at": "2026-09-23T19:22:56Z",
+    "url": "https://github.com/dannymccabe/ship-it-safely"
   },
   {
     "description": "TAVIS turns any video into a Claude skill. TikTok, YouTube or any link, a learning card that flags sponsors, risks and h",
@@ -14,8 +59,53 @@
     "language": "Python",
     "name": "valezion7/turn-any-videos-into-skills",
     "stars": 0,
-    "updated_at": "2026-09-23T19:12:05Z",
+    "updated_at": "2026-09-23T19:19:38Z",
     "url": "https://github.com/valezion7/turn-any-videos-into-skills"
+  },
+  {
+    "description": "Karvey \u2014 m\u00e9todo spec-driven development agn\u00f3stico de stack (Af\u00e1n, selknam). Plugin de Claude Code. \u00a9 HainTech, Apache 2.",
+    "id": "MauricioQuezadaHaintech/karvey",
+    "language": "HTML",
+    "name": "MauricioQuezadaHaintech/karvey",
+    "stars": 0,
+    "updated_at": "2026-09-23T19:17:18Z",
+    "url": "https://github.com/MauricioQuezadaHaintech/karvey"
+  },
+  {
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
+    "id": "OthmanAdi/planning-with-files",
+    "language": "Shell",
+    "name": "OthmanAdi/planning-with-files",
+    "stars": 27090,
+    "updated_at": "2026-09-23T19:16:29Z",
+    "url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
+    "description": "Agent Skill for building, editing, and publishing CAPI survey forms end-to-end",
+    "id": "meanregressive/capi-form-lifecycle",
+    "language": "Python",
+    "name": "meanregressive/capi-form-lifecycle",
+    "stars": 0,
+    "updated_at": "2026-09-23T19:16:03Z",
+    "url": "https://github.com/meanregressive/capi-form-lifecycle"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 46,
+    "updated_at": "2026-09-23T19:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A knowledge base for coding agents, built from Markdown, backlinks, semantic search, and Git context.",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 15,
+    "updated_at": "2026-09-23T19:17:07Z",
+    "url": "https://github.com/hraness/wordcell"
   },
   {
     "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
@@ -81,31 +171,13 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 46,
-    "updated_at": "2026-09-23T19:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Personal collection of Claude Code skills for development workflows",
     "id": "technicalpickles/pickled-claude-plugins",
     "language": "Python",
     "name": "technicalpickles/pickled-claude-plugins",
     "stars": 10,
-    "updated_at": "2026-09-23T18:59:36Z",
+    "updated_at": "2026-09-23T19:16:03Z",
     "url": "https://github.com/technicalpickles/pickled-claude-plugins"
-  },
-  {
-    "description": "Karvey \u2014 m\u00e9todo spec-driven development agn\u00f3stico de stack (Af\u00e1n, selknam). Plugin de Claude Code. \u00a9 HainTech, Apache 2.",
-    "id": "MauricioQuezadaHaintech/karvey",
-    "language": "HTML",
-    "name": "MauricioQuezadaHaintech/karvey",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:59:13Z",
-    "url": "https://github.com/MauricioQuezadaHaintech/karvey"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -115,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T18:58:58Z",
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
-    "id": "OthmanAdi/planning-with-files",
-    "language": "Shell",
-    "name": "OthmanAdi/planning-with-files",
-    "stars": 27091,
-    "updated_at": "2026-09-23T18:55:50Z",
-    "url": "https://github.com/OthmanAdi/planning-with-files"
   },
   {
     "description": "Multi-tasking upgrade! Store durable knowledge in all your projects and connect them together. Let agents work using the",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-23T18:30:42Z",
     "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 827,
-    "updated_at": "2026-09-23T18:50:20Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:30:20Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 9303,
-    "updated_at": "2026-09-23T18:30:14Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-23T18:31:11Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Build WordPress plugins with AI that don't ship vulnerabilities. A Claude skill covering all 18 Plugin Handbook chapters",
-    "id": "ararai1991/wp-plugin-skill",
-    "language": "Shell",
-    "name": "ararai1991/wp-plugin-skill",
-    "stars": 3,
-    "updated_at": "2026-09-23T18:24:14Z",
-    "url": "https://github.com/ararai1991/wp-plugin-skill"
-  },
-  {
-    "description": "Forward deployed engineering skills for AI coding agents.",
-    "id": "suboss87/FDEOps",
-    "language": "JavaScript",
-    "name": "suboss87/FDEOps",
-    "stars": 889,
-    "updated_at": "2026-09-23T18:22:45Z",
-    "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-09-23T18:22:38Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
