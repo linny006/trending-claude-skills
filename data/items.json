@@ -1,12 +1,84 @@
 [
   {
+    "description": "MCP server that suggests repository-specific AI agent skills.",
+    "id": "sator-imaging/suggest-skills",
+    "language": "TypeScript",
+    "name": "sator-imaging/suggest-skills",
+    "stars": 0,
+    "updated_at": "2026-09-23T06:25:34Z",
+    "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
+    "id": "CrossRead/scholion",
+    "language": "Python",
+    "name": "CrossRead/scholion",
+    "stars": 3,
+    "updated_at": "2026-09-23T06:24:36Z",
+    "url": "https://github.com/CrossRead/scholion"
+  },
+  {
+    "description": "You say the job; the playbook runs. 143 agent skills + 55 commands for Cursor, Claude Code, Codex, Gemini. React / Next.",
+    "id": "kensaurus/cursor-kenji",
+    "language": "JavaScript",
+    "name": "kensaurus/cursor-kenji",
+    "stars": 9,
+    "updated_at": "2026-09-23T06:23:00Z",
+    "url": "https://github.com/kensaurus/cursor-kenji"
+  },
+  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69308,
-    "updated_at": "2026-09-23T06:14:55Z",
+    "stars": 69309,
+    "updated_at": "2026-09-23T06:22:11Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Agent skill for adapting iOS apps to iPhone Duo (Apple's folding iPhone): SDK-verified APIs, measured metrics, compile-c",
+    "id": "sven-ericmolzahn/iphone-duo-skill",
+    "language": "Swift",
+    "name": "sven-ericmolzahn/iphone-duo-skill",
+    "stars": 10,
+    "updated_at": "2026-09-23T06:22:10Z",
+    "url": "https://github.com/sven-ericmolzahn/iphone-duo-skill"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 115,
+    "updated_at": "2026-09-23T06:24:53Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Organize *many* obsidian knowledge bases at once with the help of claude-code. Ingest new sources, prioritize tasks, and",
+    "id": "nathanaday/atlas-obsidian",
+    "language": "Go",
+    "name": "nathanaday/atlas-obsidian",
+    "stars": 0,
+    "updated_at": "2026-09-23T06:20:28Z",
+    "url": "https://github.com/nathanaday/atlas-obsidian"
+  },
+  {
+    "description": "Plugin with opinionated set of Claude Code agents nad skills",
+    "id": "lklimek/claudius",
+    "language": "Python",
+    "name": "lklimek/claudius",
+    "stars": 1,
+    "updated_at": "2026-09-23T06:19:29Z",
+    "url": "https://github.com/lklimek/claudius"
+  },
+  {
+    "description": "A knowledge base for coding agents, built from Markdown, backlinks, semantic search, and Git context.",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 15,
+    "updated_at": "2026-09-23T06:25:56Z",
+    "url": "https://github.com/hraness/wordcell"
   },
   {
     "description": "Find out which of your agent rules actually fire. An agentic coding harness for Claude Code and Codex: one checkout of r",
@@ -14,8 +86,26 @@
     "language": "Python",
     "name": "JakeSelby/agent-harness",
     "stars": 15,
-    "updated_at": "2026-09-23T06:14:57Z",
+    "updated_at": "2026-09-23T06:19:38Z",
     "url": "https://github.com/JakeSelby/agent-harness"
+  },
+  {
+    "description": "A Claude Code skill that answers research questions from source documents and checks every quote against the source.",
+    "id": "sshah03/use-citations",
+    "language": "Python",
+    "name": "sshah03/use-citations",
+    "stars": 1,
+    "updated_at": "2026-09-23T06:18:09Z",
+    "url": "https://github.com/sshah03/use-citations"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 45,
+    "updated_at": "2026-09-23T06:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -25,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-09-23T06:13:31Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 115,
-    "updated_at": "2026-09-23T06:11:14Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "You say the job; the playbook runs. 143 agent skills + 55 commands for Cursor, Claude Code, Codex, Gemini. React / Next.",
-    "id": "kensaurus/cursor-kenji",
-    "language": "JavaScript",
-    "name": "kensaurus/cursor-kenji",
-    "stars": 9,
-    "updated_at": "2026-09-23T06:10:56Z",
-    "url": "https://github.com/kensaurus/cursor-kenji"
   },
   {
     "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
@@ -106,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-09-23T06:00:42Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 45,
-    "updated_at": "2026-09-23T06:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, con",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T05:40:59Z",
     "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-23T05:40:47Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation.",
-    "id": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "language": "Python",
-    "name": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "stars": 1,
-    "updated_at": "2026-09-23T05:39:59Z",
-    "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
-    "id": "Poetic-squamouscell685/aahl-web-scraper",
-    "language": "HTML",
-    "name": "Poetic-squamouscell685/aahl-web-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-23T05:39:55Z",
-    "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-23T05:38:52Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-23T05:38:25Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-09-23T05:38:23Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-09-23T05:38:16Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
   }
 ]
