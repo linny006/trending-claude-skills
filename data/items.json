@@ -1,5 +1,131 @@
 [
   {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 7,
+    "updated_at": "2026-09-23T00:29:53Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
+  },
+  {
+    "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, win",
+    "id": "Crowd9/giveaway-skills",
+    "language": "Python",
+    "name": "Crowd9/giveaway-skills",
+    "stars": 2,
+    "updated_at": "2026-09-23T00:27:42Z",
+    "url": "https://github.com/Crowd9/giveaway-skills"
+  },
+  {
+    "description": "An operating model for HR AI adoption: prioritized use cases, governance templates, a literacy curriculum, an ROI calcul",
+    "id": "ellehelvig/hr-ai-transformation-playbook",
+    "language": "Python",
+    "name": "ellehelvig/hr-ai-transformation-playbook",
+    "stars": 2,
+    "updated_at": "2026-09-23T00:23:13Z",
+    "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
+  },
+  {
+    "description": "my approach to building software, embodied in an agent-centric toolkit",
+    "id": "csepulv/michi",
+    "language": "Shell",
+    "name": "csepulv/michi",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:22:55Z",
+    "url": "https://github.com/csepulv/michi"
+  },
+  {
+    "description": "Stress-test a business idea before you build it: a 4-agent Claude council (Believer, Skeptic, Investor, Judge).",
+    "id": "fizzexual/worth-idea",
+    "language": "\u2014",
+    "name": "fizzexual/worth-idea",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:21:12Z",
+    "url": "https://github.com/fizzexual/worth-idea"
+  },
+  {
+    "description": "Portable agent skills and plugins for Salesforce API investigation, narrated shell demonstrations, and GitHub contributi",
+    "id": "j-256/agent-skills",
+    "language": "JavaScript",
+    "name": "j-256/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-23T00:21:02Z",
+    "url": "https://github.com/j-256/agent-skills"
+  },
+  {
+    "description": "Test Agent Skills across Claude Code, Codex, and OpenCode with repeatable fixtures, output checks, and a live run dashbo",
+    "id": "j-256/stream-eval",
+    "language": "Python",
+    "name": "j-256/stream-eval",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:20:57Z",
+    "url": "https://github.com/j-256/stream-eval"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-23T00:20:51Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:19:48Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 314,
+    "updated_at": "2026-09-23T00:18:20Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-09-23T00:17:27Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "Claude Code skills for AI product managers: evidence-first build decisions, eval plans, agent trust reviews. First skill",
+    "id": "vishalhabib99/ai-pm-skills",
+    "language": "\u2014",
+    "name": "vishalhabib99/ai-pm-skills",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:20:23Z",
+    "url": "https://github.com/vishalhabib99/ai-pm-skills"
+  },
+  {
+    "description": "GUI-based editor for Claude Code settings.json \u2014 standalone HTML with Alpine.js + Tailwind CSS",
+    "id": "mrspot-dev/claude-settings-editor",
+    "language": "HTML",
+    "name": "mrspot-dev/claude-settings-editor",
+    "stars": 5,
+    "updated_at": "2026-09-23T00:16:41Z",
+    "url": "https://github.com/mrspot-dev/claude-settings-editor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 45,
+    "updated_at": "2026-09-23T00:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills repository",
     "id": "ooooooooooooooooooop/personal-ai",
     "language": "Python",
@@ -16,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T00:11:55Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Claude Code skills for AI product managers: evidence-first build decisions, eval plans, agent trust reviews. First skill",
-    "id": "vishalhabib99/ai-pm-skills",
-    "language": "\u2014",
-    "name": "vishalhabib99/ai-pm-skills",
-    "stars": 0,
-    "updated_at": "2026-09-23T00:11:20Z",
-    "url": "https://github.com/vishalhabib99/ai-pm-skills"
   },
   {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
@@ -77,7 +194,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 179,
-    "updated_at": "2026-09-23T00:09:07Z",
+    "updated_at": "2026-09-23T00:29:44Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -104,7 +221,7 @@
     "language": "Python",
     "name": "JakeSelby/agent-harness",
     "stars": 15,
-    "updated_at": "2026-09-23T00:14:12Z",
+    "updated_at": "2026-09-23T00:29:43Z",
     "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
@@ -133,24 +250,6 @@
     "stars": 2,
     "updated_at": "2026-09-23T00:00:35Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 45,
-    "updated_at": "2026-09-23T00:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "GUI-based editor for Claude Code settings.json \u2014 standalone HTML with Alpine.js + Tailwind CSS",
-    "id": "mrspot-dev/claude-settings-editor",
-    "language": "HTML",
-    "name": "mrspot-dev/claude-settings-editor",
-    "stars": 5,
-    "updated_at": "2026-09-22T23:59:42Z",
-    "url": "https://github.com/mrspot-dev/claude-settings-editor"
   },
   {
     "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T23:26:44Z",
     "url": "https://github.com/Alisson-P/ysat"
-  },
-  {
-    "description": "HR for your agent's skills: sources them on GitHub, screens them end to end, interviews rivals blind on a bench, and sta",
-    "id": "lopes061/skill-recruiter",
-    "language": "JavaScript",
-    "name": "lopes061/skill-recruiter",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:25:21Z",
-    "url": "https://github.com/lopes061/skill-recruiter"
-  },
-  {
-    "description": "Organize *many* obsidian knowledge bases at once with the help of claude-code. Ingest new sources, prioritize tasks, and",
-    "id": "nathanaday/atlas-obsidian",
-    "language": "Go",
-    "name": "nathanaday/atlas-obsidian",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:23:39Z",
-    "url": "https://github.com/nathanaday/atlas-obsidian"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-22T23:23:09Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 54,
-    "updated_at": "2026-09-22T23:20:42Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-22T23:19:43Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-09-22T23:48:25Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "An operating model for HR AI adoption: prioritized use cases, governance templates, a literacy curriculum, an ROI calcul",
-    "id": "ellehelvig/hr-ai-transformation-playbook",
-    "language": "Python",
-    "name": "ellehelvig/hr-ai-transformation-playbook",
-    "stars": 2,
-    "updated_at": "2026-09-23T00:14:17Z",
-    "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
-  },
-  {
-    "description": "Agent skill for querying a docs-mcp-server (Grounded Docs MCP Server) documentation index well. Works with Claude Code, ",
-    "id": "allenwalker3/docs-mcp-server-skills",
-    "language": "\u2014",
-    "name": "allenwalker3/docs-mcp-server-skills",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:13:45Z",
-    "url": "https://github.com/allenwalker3/docs-mcp-server-skills"
-  },
-  {
-    "description": "Audits whether a finished artifact \u2014 a deck, a PDF, a screenshot, a page \u2014 actually follows the design system it was sup",
-    "id": "santiagocardonao/design-system-adherence",
-    "language": "Python",
-    "name": "santiagocardonao/design-system-adherence",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:10:34Z",
-    "url": "https://github.com/santiagocardonao/design-system-adherence"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 314,
-    "updated_at": "2026-09-23T00:05:33Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 115,
-    "updated_at": "2026-09-22T23:10:13Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   }
 ]
