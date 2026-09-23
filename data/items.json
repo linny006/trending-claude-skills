@@ -1,12 +1,201 @@
 [
   {
+    "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+    "id": "redfox-data/redfox-community",
+    "language": "Python",
+    "name": "redfox-data/redfox-community",
+    "stars": 411,
+    "updated_at": "2026-09-23T08:44:17Z",
+    "url": "https://github.com/redfox-data/redfox-community"
+  },
+  {
+    "description": "Write a project's README to a fixed set of structure, tone and formatting rules",
+    "id": "rokokol/create-readme-skill",
+    "language": "Shell",
+    "name": "rokokol/create-readme-skill",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:43:31Z",
+    "url": "https://github.com/rokokol/create-readme-skill"
+  },
+  {
+    "description": "How a good skill is written, and the gate that checks it",
+    "id": "rokokol/skill-authoring-skill",
+    "language": "Shell",
+    "name": "rokokol/skill-authoring-skill",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:43:26Z",
+    "url": "https://github.com/rokokol/skill-authoring-skill"
+  },
+  {
+    "description": "What a code comment says and what it must not, with a checker that reads comments out of the syntax tree",
+    "id": "rokokol/code-comments-skill",
+    "language": "Shell",
+    "name": "rokokol/code-comments-skill",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:43:18Z",
+    "url": "https://github.com/rokokol/code-comments-skill"
+  },
+  {
+    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
+    "id": "dimitritholen/1337-claude",
+    "language": "Shell",
+    "name": "dimitritholen/1337-claude",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:42:42Z",
+    "url": "https://github.com/dimitritholen/1337-claude"
+  },
+  {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 12,
+    "updated_at": "2026-09-23T08:41:14Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "\u6d88\u9664\u4e2d\u6587\u5199\u4f5c\u4e2d\u7684AI\u75d5\u8ff9 \u2014 Claude Code / agent skill",
+    "id": "LuoHaomin/stop-slop-zh",
+    "language": "\u2014",
+    "name": "LuoHaomin/stop-slop-zh",
+    "stars": 1,
+    "updated_at": "2026-09-23T08:40:53Z",
+    "url": "https://github.com/LuoHaomin/stop-slop-zh"
+  },
+  {
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
+    "id": "serpro69/claude-toolbox",
+    "language": "Shell",
+    "name": "serpro69/claude-toolbox",
+    "stars": 149,
+    "updated_at": "2026-09-23T08:41:22Z",
+    "url": "https://github.com/serpro69/claude-toolbox"
+  },
+  {
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
+    "language": "Python",
+    "name": "Ovid/paad",
+    "stars": 122,
+    "updated_at": "2026-09-23T08:40:28Z",
+    "url": "https://github.com/Ovid/paad"
+  },
+  {
+    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
+    "id": "rokokol/bash-best-practices-skill",
+    "language": "Shell",
+    "name": "rokokol/bash-best-practices-skill",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:39:00Z",
+    "url": "https://github.com/rokokol/bash-best-practices-skill"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-09-23T08:36:44Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
     "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
     "id": "StanimirTenev/baton",
     "language": "Python",
     "name": "StanimirTenev/baton",
     "stars": 0,
-    "updated_at": "2026-09-23T08:29:33Z",
+    "updated_at": "2026-09-23T08:35:46Z",
     "url": "https://github.com/StanimirTenev/baton"
+  },
+  {
+    "description": "My software engineering practice, distilled into reusable skills and workflows for Codex, Claude Code, and AI coding age",
+    "id": "xeonvs/xeonvs-engineering",
+    "language": "Python",
+    "name": "xeonvs/xeonvs-engineering",
+    "stars": 1,
+    "updated_at": "2026-09-23T08:35:42Z",
+    "url": "https://github.com/xeonvs/xeonvs-engineering"
+  },
+  {
+    "description": "Codex and Claude Code skill for effective engineering workflow scaffolding",
+    "id": "xeonvs/codex-engineering-workflow",
+    "language": "Python",
+    "name": "xeonvs/codex-engineering-workflow",
+    "stars": 1,
+    "updated_at": "2026-09-23T08:35:34Z",
+    "url": "https://github.com/xeonvs/codex-engineering-workflow"
+  },
+  {
+    "description": "Quality, security, compatibility and publishing toolkit for AI Agent Skills - lint and validate SKILL.md, scan for secre",
+    "id": "letsloose501/skill-quality-suite",
+    "language": "Python",
+    "name": "letsloose501/skill-quality-suite",
+    "stars": 2,
+    "updated_at": "2026-09-23T08:34:53Z",
+    "url": "https://github.com/letsloose501/skill-quality-suite"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-23T08:44:21Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "The world's most advanced AI-powered research paper creation framework \u2014 built for the top 0.0001%",
+    "id": "AdilShamim8/claude-research-excellence",
+    "language": "HTML",
+    "name": "AdilShamim8/claude-research-excellence",
+    "stars": 6,
+    "updated_at": "2026-09-23T08:32:29Z",
+    "url": "https://github.com/AdilShamim8/claude-research-excellence"
+  },
+  {
+    "description": "A small, inspectable handoff protocol for Claude Code \u2194 Codex implementation work.",
+    "id": "m1amgn/agents-collab-cli",
+    "language": "JavaScript",
+    "name": "m1amgn/agents-collab-cli",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:32:11Z",
+    "url": "https://github.com/m1amgn/agents-collab-cli"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 5,
+    "updated_at": "2026-09-23T08:31:40Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69313,
+    "updated_at": "2026-09-23T08:42:30Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 45,
+    "updated_at": "2026-09-23T08:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30836,
+    "updated_at": "2026-09-23T08:29:21Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "Agent skills repository",
@@ -18,15 +207,6 @@
     "url": "https://github.com/ooooooooooooooooooop/personal-ai"
   },
   {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 5,
-    "updated_at": "2026-09-23T08:28:25Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
     "description": "Polish Commercial Legal \u2014 Claude skill do redakcji i analizy um\u00f3w wed\u0142ug prawa polskiego. B2B IT, ugody, prawo cywilne. ",
     "id": "apiotrowski-afk/commercial-legal-pl",
     "language": "Python",
@@ -34,15 +214,6 @@
     "stars": 166,
     "updated_at": "2026-09-23T08:29:11Z",
     "url": "https://github.com/apiotrowski-afk/commercial-legal-pl"
-  },
-  {
-    "description": "My software engineering practice, distilled into reusable skills and workflows for Codex, Claude Code, and AI coding age",
-    "id": "xeonvs/xeonvs-engineering",
-    "language": "Python",
-    "name": "xeonvs/xeonvs-engineering",
-    "stars": 1,
-    "updated_at": "2026-09-23T08:28:18Z",
-    "url": "https://github.com/xeonvs/xeonvs-engineering"
   },
   {
     "description": "\u8f93\u5165\u5173\u952e\u8bcd\u3001\u5feb\u624b\u8d26\u53f7\u4e3b\u9875\u94fe\u63a5\uff0c\u81ea\u52a8\u62c9\u53d6\u5782\u7c7b\u4f5c\u54c1\u3001\u8d26\u53f7\u4f5c\u54c1\u5e76\u89e3\u6790\u65e0\u6c34\u5370\u4e0b\u8f7d\u94fe\u63a5\uff0c\u652f\u6301\u4e00\u952e\u6279\u91cf\u4e0b\u8f7d\u5230\u672c\u5730\u3002\u652f\u6301\u4e09\u5927\u80fd\u529b\uff1a(1) \u5173\u952e\u8bcd\u641c\u7d22\u89c6\u9891\uff0c\u53ef\u6309\u70b9\u8d5e\u6570\u3001\u53d1\u5e03\u65f6\u95f4\u3001\u89c6\u9891\u65f6\u957f\u7b5b\u9009\u6392\u5e8f\uff1b(2) \u8fbe\u4eba\u4f5c\u54c1\u6293\u53d6\uff0c\u6309\u4e3b\u9875\u94fe\u63a5\u83b7\u53d6\u516c\u5f00\u4f5c\u54c1\u5217\u8868\uff1b(3) \u89c6",
@@ -59,26 +230,8 @@
     "language": "Python",
     "name": "cucupac/shellbrain",
     "stars": 13,
-    "updated_at": "2026-09-23T08:27:09Z",
+    "updated_at": "2026-09-23T08:31:37Z",
     "url": "https://github.com/cucupac/shellbrain"
-  },
-  {
-    "description": "Codex and Claude Code skill for effective engineering workflow scaffolding",
-    "id": "xeonvs/codex-engineering-workflow",
-    "language": "Python",
-    "name": "xeonvs/codex-engineering-workflow",
-    "stars": 1,
-    "updated_at": "2026-09-23T08:23:46Z",
-    "url": "https://github.com/xeonvs/codex-engineering-workflow"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69312,
-    "updated_at": "2026-09-23T08:22:02Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "",
@@ -88,51 +241,6 @@
     "stars": 9,
     "updated_at": "2026-09-23T08:22:02Z",
     "url": "https://github.com/Pippit-dev/cli"
-  },
-  {
-    "description": "What a code comment says and what it must not, with a checker that reads comments out of the syntax tree",
-    "id": "rokokol/code-comments-skill",
-    "language": "Shell",
-    "name": "rokokol/code-comments-skill",
-    "stars": 0,
-    "updated_at": "2026-09-23T08:18:46Z",
-    "url": "https://github.com/rokokol/code-comments-skill"
-  },
-  {
-    "description": "Write a project's README to a fixed set of structure, tone and formatting rules",
-    "id": "rokokol/create-readme-skill",
-    "language": "Shell",
-    "name": "rokokol/create-readme-skill",
-    "stars": 0,
-    "updated_at": "2026-09-23T08:18:42Z",
-    "url": "https://github.com/rokokol/create-readme-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 45,
-    "updated_at": "2026-09-23T08:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
-    "id": "rokokol/bash-best-practices-skill",
-    "language": "Shell",
-    "name": "rokokol/bash-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-09-23T08:14:31Z",
-    "url": "https://github.com/rokokol/bash-best-practices-skill"
-  },
-  {
-    "description": "The world's most advanced AI-powered research paper creation framework \u2014 built for the top 0.0001%",
-    "id": "AdilShamim8/claude-research-excellence",
-    "language": "HTML",
-    "name": "AdilShamim8/claude-research-excellence",
-    "stars": 6,
-    "updated_at": "2026-09-23T08:14:20Z",
-    "url": "https://github.com/AdilShamim8/claude-research-excellence"
   },
   {
     "description": "EPLAN Electric P8 2026  2027 + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. E",
@@ -207,15 +315,6 @@
     "url": "https://github.com/CometWeb-io/agent-skills"
   },
   {
-    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
-    "id": "serpro69/claude-toolbox",
-    "language": "Shell",
-    "name": "serpro69/claude-toolbox",
-    "stars": 149,
-    "updated_at": "2026-09-23T08:06:11Z",
-    "url": "https://github.com/serpro69/claude-toolbox"
-  },
-  {
     "description": "Package manager for Claude Code skills and agents and other AI related resources",
     "id": "mensfeld/craftdesk",
     "language": "TypeScript",
@@ -261,15 +360,6 @@
     "url": "https://github.com/dinhanhthi/coding-friend"
   },
   {
-    "description": "How a good skill is written, and the gate that checks it",
-    "id": "rokokol/skill-authoring-skill",
-    "language": "Shell",
-    "name": "rokokol/skill-authoring-skill",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:58:44Z",
-    "url": "https://github.com/rokokol/skill-authoring-skill"
-  },
-  {
     "description": "Kyo-so (Kyoso / \u5354\u594f) is an MCP-native, ACP-powered multi-agent review gate for AI coding workflows.",
     "id": "hokupod/kyoso",
     "language": "TypeScript",
@@ -277,15 +367,6 @@
     "stars": 3,
     "updated_at": "2026-09-23T07:58:28Z",
     "url": "https://github.com/hokupod/kyoso"
-  },
-  {
-    "description": "A small, inspectable handoff protocol for Claude Code \u2194 Codex implementation work.",
-    "id": "m1amgn/agents-collab-cli",
-    "language": "JavaScript",
-    "name": "m1amgn/agents-collab-cli",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:57:37Z",
-    "url": "https://github.com/m1amgn/agents-collab-cli"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -302,17 +383,8 @@
     "language": "Python",
     "name": "zenstory-ai/oh-story-claudecode",
     "stars": 7069,
-    "updated_at": "2026-09-23T07:55:34Z",
+    "updated_at": "2026-09-23T08:31:20Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-09-23T07:54:19Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
     "description": "General Skills Development Pipeline - Claude Code & Codex",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T07:45:59Z",
     "url": "https://github.com/rokokol/contributing-skill"
-  },
-  {
-    "description": "23 AI skills for Amazon sellers \u2014 product research, competitor monitoring, listing optimization. Works with WorkBuddy / ",
-    "id": "wangcy9629-cpu/sorftime-amazon-seller-skills",
-    "language": "Python",
-    "name": "wangcy9629-cpu/sorftime-amazon-seller-skills",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:44:12Z",
-    "url": "https://github.com/wangcy9629-cpu/sorftime-amazon-seller-skills"
-  },
-  {
-    "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
-    "id": "indocindesertplant48/claude-vault",
-    "language": "TypeScript",
-    "name": "indocindesertplant48/claude-vault",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:40:47Z",
-    "url": "https://github.com/indocindesertplant48/claude-vault"
-  },
-  {
-    "description": "Fold your MacBook display for a soft, blurring desktop effect\u2014animated live at 60 fps with lid-angle smoothing on Apple ",
-    "id": "lazybean3/hinge",
-    "language": "\u2014",
-    "name": "lazybean3/hinge",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:40:20Z",
-    "url": "https://github.com/lazybean3/hinge"
-  },
-  {
-    "description": "Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly",
-    "id": "Carlosdalv669/formify-skills",
-    "language": "HTML",
-    "name": "Carlosdalv669/formify-skills",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:40:18Z",
-    "url": "https://github.com/Carlosdalv669/formify-skills"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:39:57Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:39:05Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:37:37Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:37:21Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
   }
 ]
