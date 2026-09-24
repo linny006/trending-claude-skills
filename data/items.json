@@ -1,5 +1,122 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-24T12:43:59Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "\ud83d\ude80 Monitor your Claude Code sessions effortlessly on macOS with real-time status updates and quick access features for a ",
+    "id": "zenithpd/agent-sessions",
+    "language": "Rust",
+    "name": "zenithpd/agent-sessions",
+    "stars": 7,
+    "updated_at": "2026-09-24T12:43:24Z",
+    "url": "https://github.com/zenithpd/agent-sessions"
+  },
+  {
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
+    "id": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "language": "Python",
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "stars": 2,
+    "updated_at": "2026-09-24T12:41:45Z",
+    "url": "https://github.com/Shada01245/the-unofficial-swift-programming-language-skill"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
+    "id": "thairns/claude-rubycritic-skill",
+    "language": "\u2014",
+    "name": "thairns/claude-rubycritic-skill",
+    "stars": 0,
+    "updated_at": "2026-09-24T12:41:32Z",
+    "url": "https://github.com/thairns/claude-rubycritic-skill"
+  },
+  {
+    "description": "Universal Multi-Agent Swarm Plugin with specialized skills for Antigravity (AGY), Claude Code, and Cursor IDE. Modern 20",
+    "id": "roedyrustam/vibes-plug",
+    "language": "Python",
+    "name": "roedyrustam/vibes-plug",
+    "stars": 69,
+    "updated_at": "2026-09-24T12:42:52Z",
+    "url": "https://github.com/roedyrustam/vibes-plug"
+  },
+  {
+    "description": "OPUS-ET-AGENT: An agentic workflow for cryo-ET that turns raw movies into molecular sociology",
+    "id": "alncat/opus-et-agent",
+    "language": "Python",
+    "name": "alncat/opus-et-agent",
+    "stars": 0,
+    "updated_at": "2026-09-24T12:38:15Z",
+    "url": "https://github.com/alncat/opus-et-agent"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm",
+    "id": "428alexander9/claude-skills-marketplace",
+    "language": "Python",
+    "name": "428alexander9/claude-skills-marketplace",
+    "stars": 3,
+    "updated_at": "2026-09-24T12:38:07Z",
+    "url": "https://github.com/428alexander9/claude-skills-marketplace"
+  },
+  {
+    "description": "App Store ASO skill for Claude Code \u2014 field-tested methodology + free scripts (autosuggest, ASC analysis, metadata valid",
+    "id": "Muxxik/app-store-aso",
+    "language": "Python",
+    "name": "Muxxik/app-store-aso",
+    "stars": 0,
+    "updated_at": "2026-09-24T12:34:05Z",
+    "url": "https://github.com/Muxxik/app-store-aso"
+  },
+  {
+    "description": "Claude skill to work efficiently with the Pyqcm library",
+    "id": "pyqcm-project/pyqcm-skill",
+    "language": "\u2014",
+    "name": "pyqcm-project/pyqcm-skill",
+    "stars": 0,
+    "updated_at": "2026-09-24T12:31:56Z",
+    "url": "https://github.com/pyqcm-project/pyqcm-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69363,
+    "updated_at": "2026-09-24T12:45:08Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A rulebook for what an AI agent may do without asking a person, and a manual for writing up failures so two engineers de",
+    "id": "PKusch/remit",
+    "language": "Python",
+    "name": "PKusch/remit",
+    "stars": 0,
+    "updated_at": "2026-09-24T12:31:14Z",
+    "url": "https://github.com/PKusch/remit"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-24T12:35:30Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-24T12:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Cite Holmes - deep research skill that interrogates its own citations",
     "id": "docsor1212/cite-holmes",
     "language": "Python",
@@ -25,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-09-24T12:26:50Z",
     "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "OPUS-ET-AGENT: An agentic workflow for cryo-ET that turns raw movies into molecular sociology",
-    "id": "alncat/opus-et-agent",
-    "language": "Python",
-    "name": "alncat/opus-et-agent",
-    "stars": 0,
-    "updated_at": "2026-09-24T12:26:30Z",
-    "url": "https://github.com/alncat/opus-et-agent"
   },
   {
     "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
@@ -63,15 +171,6 @@
     "url": "https://github.com/whystrohm/shotkit"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-24T12:29:20Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
     "id": "aitit-inc/leadace",
     "language": "TypeScript",
@@ -90,15 +189,6 @@
     "url": "https://github.com/twominutereports/marketing-skills"
   },
   {
-    "description": "Claude skill to work efficiently with the Pyqcm library",
-    "id": "pyqcm-project/pyqcm-skill",
-    "language": "\u2014",
-    "name": "pyqcm-project/pyqcm-skill",
-    "stars": 0,
-    "updated_at": "2026-09-24T12:21:56Z",
-    "url": "https://github.com/pyqcm-project/pyqcm-skill"
-  },
-  {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
     "id": "inkatze/planwright",
     "language": "Shell",
@@ -108,15 +198,6 @@
     "url": "https://github.com/inkatze/planwright"
   },
   {
-    "description": "A rulebook for what an AI agent may do without asking a person, and a manual for writing up failures so two engineers de",
-    "id": "PKusch/remit",
-    "language": "Python",
-    "name": "PKusch/remit",
-    "stars": 0,
-    "updated_at": "2026-09-24T12:20:53Z",
-    "url": "https://github.com/PKusch/remit"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T12:20:26Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-24T12:27:01Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
@@ -162,24 +234,6 @@
     "url": "https://github.com/7wiligh7/xiaomi-product-methodology"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69363,
-    "updated_at": "2026-09-24T12:15:42Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-24T12:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skills (SKILL.md) for Claude Code and OpenAI Codex. agent-optimiser audits Claude Code subagents: tool allowlists,",
     "id": "IonDen/skills",
     "language": "Python",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T12:13:11Z",
     "url": "https://github.com/docsor1212/paper-polisher-pro"
-  },
-  {
-    "description": "Universal Multi-Agent Swarm Plugin with specialized skills for Antigravity (AGY), Claude Code, and Cursor IDE. Modern 20",
-    "id": "roedyrustam/vibes-plug",
-    "language": "Python",
-    "name": "roedyrustam/vibes-plug",
-    "stars": 69,
-    "updated_at": "2026-09-24T12:12:12Z",
-    "url": "https://github.com/roedyrustam/vibes-plug"
   },
   {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
@@ -356,7 +401,7 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 8,
-    "updated_at": "2026-09-24T12:06:33Z",
+    "updated_at": "2026-09-24T12:41:41Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T11:53:37Z",
     "url": "https://github.com/FarisAlsaif/video-context"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-09-24T11:53:27Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2594,
-    "updated_at": "2026-09-24T11:53:13Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "Claude Code skill: a live context meter button in the VS Code chat composer, one click runs /context",
-    "id": "warodan/vscode-claude-chat-context-meter",
-    "language": "JavaScript",
-    "name": "warodan/vscode-claude-chat-context-meter",
-    "stars": 1,
-    "updated_at": "2026-09-24T11:52:17Z",
-    "url": "https://github.com/warodan/vscode-claude-chat-context-meter"
-  },
-  {
-    "description": "Claude Code skill (works in any agent): calls the OpenAI Codex CLI for a second opinion, a task, or an image",
-    "id": "warodan/hey-codex",
-    "language": "Shell",
-    "name": "warodan/hey-codex",
-    "stars": 0,
-    "updated_at": "2026-09-24T11:51:49Z",
-    "url": "https://github.com/warodan/hey-codex"
-  },
-  {
-    "description": "Eight security skills for Claude Code with no dependencies: standard library only, tested, and usable as a CI step. Secr",
-    "id": "NovaCode37/claude-security-skills",
-    "language": "Python",
-    "name": "NovaCode37/claude-security-skills",
-    "stars": 11,
-    "updated_at": "2026-09-24T11:49:57Z",
-    "url": "https://github.com/NovaCode37/claude-security-skills"
   }
 ]
