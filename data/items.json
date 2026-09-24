@@ -1,12 +1,93 @@
 [
   {
+    "description": "\u8b93 AI \u51fa\u4e00\u4efd\u539f\u5275\u7684\u5b78\u6e2c\u6a21\u64ec\u8003\uff1a\u547d\u984c\u3001\u89e3\u984c\u9a57\u7b97\u3001\u5957\u7528\u5927\u8003\u6b63\u5f0f\u7248\u9762\uff0c\u4ea4\u4ed8\u984c\u76ee\u8207\u7b54\u6848\u8a73\u89e3\u5169\u4efd PDF\u3002\u652f\u63f4 Claude\u3001ChatGPT\u3001Gemini\uff1b\u5b78\u6e2c\u4e03\u79d1\u53ef\u7528\uff0c\u6703\u8003\u8207\u5206\u79d1\u6e2c\u9a57\u898f\u5283\u4e2d\u3002",
+    "id": "niansia/taiwan-exam",
+    "language": "Python",
+    "name": "niansia/taiwan-exam",
+    "stars": 0,
+    "updated_at": "2026-09-24T14:28:22Z",
+    "url": "https://github.com/niansia/taiwan-exam"
+  },
+  {
+    "description": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in",
+    "id": "aitit-inc/leadace",
+    "language": "TypeScript",
+    "name": "aitit-inc/leadace",
+    "stars": 3,
+    "updated_at": "2026-09-24T14:25:46Z",
+    "url": "https://github.com/aitit-inc/leadace"
+  },
+  {
+    "description": "A professional Claude skillset for designing, building, and optimizing high-quality websites \u2014 from UX and visual design",
+    "id": "CGWebDev2003/cg-web-skills",
+    "language": "JavaScript",
+    "name": "CGWebDev2003/cg-web-skills",
+    "stars": 0,
+    "updated_at": "2026-09-24T14:23:02Z",
+    "url": "https://github.com/CGWebDev2003/cg-web-skills"
+  },
+  {
+    "description": "Skills de IA em portugu\u00eas, por profiss\u00e3o: corretor de im\u00f3veis, prospec\u00e7\u00e3o e busca de vaga. Plugins do Claude Code que gu",
+    "id": "kapstanhq/oficina",
+    "language": "JavaScript",
+    "name": "kapstanhq/oficina",
+    "stars": 0,
+    "updated_at": "2026-09-24T14:25:30Z",
+    "url": "https://github.com/kapstanhq/oficina"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69363,
+    "updated_at": "2026-09-24T14:27:20Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
     "id": "haoming-luo/agentfem",
     "language": "Python",
     "name": "haoming-luo/agentfem",
     "stars": 16,
-    "updated_at": "2026-09-24T14:16:14Z",
+    "updated_at": "2026-09-24T14:21:12Z",
     "url": "https://github.com/haoming-luo/agentfem"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b \u0434\u043b\u044f Claude Code: \u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0439 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u0447\u0438\u0442\u0430\u0442\u0435\u043b\u0435\u0439 (UGC). \u041f\u0440\u0430\u0432\u0438\u0442 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0438 \u0442\u043e\u043a\u0441\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u0433\u043e\u043b\u043e\u0441 \u0433\u0435\u0440\u043e\u044f \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442.",
+    "id": "igsubb-collab/marshak",
+    "language": "\u2014",
+    "name": "igsubb-collab/marshak",
+    "stars": 0,
+    "updated_at": "2026-09-24T14:21:08Z",
+    "url": "https://github.com/igsubb-collab/marshak"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-24T14:20:05Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Skills para Claude Code escritas desde cero y revisadas l\u00ednea a l\u00ednea. Empieza con caveman: respuestas m\u00ednimas, sin verb",
+    "id": "Leksgg/claude-skills",
+    "language": "Python",
+    "name": "Leksgg/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-24T14:18:55Z",
+    "url": "https://github.com/Leksgg/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-24T14:17:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Public agent skill for display.dev \u2014 publish HTML or Markdown behind company auth from your AI assistant. Works across C",
@@ -32,17 +113,8 @@
     "language": "Python",
     "name": "SuhaasNv/whole-team",
     "stars": 0,
-    "updated_at": "2026-09-24T14:12:15Z",
+    "updated_at": "2026-09-24T14:27:59Z",
     "url": "https://github.com/SuhaasNv/whole-team"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-24T14:11:54Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "Standards for AI agents: portable code, web launch checklist and a Brazilian Portuguese humanizer. Works in Claude and C",
@@ -81,15 +153,6 @@
     "url": "https://github.com/tobihagemann/turbo"
   },
   {
-    "description": "A professional Claude skillset for designing, building, and optimizing high-quality websites \u2014 from UX and visual design",
-    "id": "CGWebDev2003/cg-web-skills",
-    "language": "\u2014",
-    "name": "CGWebDev2003/cg-web-skills",
-    "stars": 0,
-    "updated_at": "2026-09-24T14:16:21Z",
-    "url": "https://github.com/CGWebDev2003/cg-web-skills"
-  },
-  {
     "description": "Message bus skill for Claude Code agents: file inboxes for projects and subagents, background wake-ups, cron schedule an",
     "id": "jtapes/claude-bus",
     "language": "JavaScript",
@@ -104,7 +167,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-24T14:14:04Z",
+    "updated_at": "2026-09-24T14:26:30Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/wyzz973/paper-figure-pipeline"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69363,
-    "updated_at": "2026-09-24T14:17:21Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dep",
     "id": "ice-lfernandes/claude-spring-architect",
     "language": "Java",
@@ -135,15 +189,6 @@
     "url": "https://github.com/ice-lfernandes/claude-spring-architect"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-24T14:00:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
     "id": "isatimur/excalidraw-skill-pack",
     "language": "TypeScript",
@@ -151,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-09-24T13:56:27Z",
     "url": "https://github.com/isatimur/excalidraw-skill-pack"
-  },
-  {
-    "description": "Skills de IA em portugu\u00eas, por profiss\u00e3o. Dois packs: corretor de im\u00f3veis e prospec\u00e7\u00e3o B2B. 24 comandos que escrevem an\u00fa",
-    "id": "kapstanhq/oficina",
-    "language": "JavaScript",
-    "name": "kapstanhq/oficina",
-    "stars": 0,
-    "updated_at": "2026-09-24T13:54:16Z",
-    "url": "https://github.com/kapstanhq/oficina"
   },
   {
     "description": "Navigable project documentation for Claude Code, Cursor, and Codex \u2014 a knowledge base your coding agent can pick up cold",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 2,
-    "updated_at": "2026-09-24T13:53:42Z",
+    "updated_at": "2026-09-24T14:22:31Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T13:19:26Z",
     "url": "https://github.com/powersoftware-app/powersoftware-agent-skills"
-  },
-  {
-    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
-    "id": "davepoon/buildwithclaude",
-    "language": "Python",
-    "name": "davepoon/buildwithclaude",
-    "stars": 3537,
-    "updated_at": "2026-09-24T13:19:10Z",
-    "url": "https://github.com/davepoon/buildwithclaude"
-  },
-  {
-    "description": "Explore and debug Codex, Claude Code, Pi, and Hermes agent traces locally with real-time token usage and cost tracking.",
-    "id": "Gamboasusana748/agent-monitor",
-    "language": "TypeScript",
-    "name": "Gamboasusana748/agent-monitor",
-    "stars": 0,
-    "updated_at": "2026-09-24T13:19:07Z",
-    "url": "https://github.com/Gamboasusana748/agent-monitor"
-  },
-  {
-    "description": "Build kinetic-typography and logo promos as code with Remotion, shipping MP4s in 9:16 and 16:9 from one React codebase.",
-    "id": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "language": "TypeScript",
-    "name": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "stars": 0,
-    "updated_at": "2026-09-24T13:18:48Z",
-    "url": "https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics"
-  },
-  {
-    "description": "Track developer roadmaps offline with progress tracking, spaced repetition, and career analytics\u2014no account or internet ",
-    "id": "Itzzni9454/skill-trail",
-    "language": "TypeScript",
-    "name": "Itzzni9454/skill-trail",
-    "stars": 0,
-    "updated_at": "2026-09-24T13:18:45Z",
-    "url": "https://github.com/Itzzni9454/skill-trail"
   }
 ]
