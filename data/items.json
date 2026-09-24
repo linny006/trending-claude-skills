@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
+    "id": "konglong87/superPM",
+    "language": "JavaScript",
+    "name": "konglong87/superPM",
+    "stars": 69,
+    "updated_at": "2026-09-24T08:15:40Z",
+    "url": "https://github.com/konglong87/superPM"
+  },
+  {
+    "description": "",
+    "id": "Pippit-dev/cli",
+    "language": "JavaScript",
+    "name": "Pippit-dev/cli",
+    "stars": 9,
+    "updated_at": "2026-09-24T08:14:46Z",
+    "url": "https://github.com/Pippit-dev/cli"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-24T08:12:56Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "A gated, evidence-based pre-release QA campaign for any product you can drive and query \u2014 rules plus an Android harness.",
+    "id": "DesarrolloAntonio/qa-campaign",
+    "language": "Python",
+    "name": "DesarrolloAntonio/qa-campaign",
+    "stars": 1,
+    "updated_at": "2026-09-24T08:15:05Z",
+    "url": "https://github.com/DesarrolloAntonio/qa-campaign"
+  },
+  {
+    "description": "One transcript in, a month of content out. 9 Claude skills that turn a podcast or webinar into reels, a YouTube kit, an ",
+    "id": "rohitabrahamgeorge/podcast-repurposing-engine",
+    "language": "Shell",
+    "name": "rohitabrahamgeorge/podcast-repurposing-engine",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:07:38Z",
+    "url": "https://github.com/rohitabrahamgeorge/podcast-repurposing-engine"
+  },
+  {
+    "description": "A full SEO content team as Claude skills. Plan, write, QA, interlink and track competitor comparison clusters, plus a Se",
+    "id": "rohitabrahamgeorge/seo-content-team",
+    "language": "\u2014",
+    "name": "rohitabrahamgeorge/seo-content-team",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:07:22Z",
+    "url": "https://github.com/rohitabrahamgeorge/seo-content-team"
+  },
+  {
+    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor",
+    "id": "fcakyon/claude-codex-settings",
+    "language": "Python",
+    "name": "fcakyon/claude-codex-settings",
+    "stars": 1153,
+    "updated_at": "2026-09-24T08:06:14Z",
+    "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "description": "Message bus skill for Claude Code agents: file inboxes for projects and subagents, background wake-ups, cron schedule an",
+    "id": "jtapes/claude-bus",
+    "language": "JavaScript",
+    "name": "jtapes/claude-bus",
+    "stars": 3,
+    "updated_at": "2026-09-24T08:09:51Z",
+    "url": "https://github.com/jtapes/claude-bus"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-24T08:11:10Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 12,
+    "updated_at": "2026-09-24T08:03:04Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 428,
+    "updated_at": "2026-09-24T08:02:31Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-24T08:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (\u7f51\u6587): \u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u5168\u6d41\u7a0b\uff0c\u957f\u7bc7\u77ed\u7bc7\u90fd\u652f\u6301 | 13 skills",
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "Python",
@@ -14,17 +122,8 @@
     "language": "Go",
     "name": "patrickserrano/lacquer",
     "stars": 3,
-    "updated_at": "2026-09-24T07:58:18Z",
+    "updated_at": "2026-09-24T08:11:14Z",
     "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
-    "id": "konglong87/superPM",
-    "language": "JavaScript",
-    "name": "konglong87/superPM",
-    "stars": 69,
-    "updated_at": "2026-09-24T07:56:52Z",
-    "url": "https://github.com/konglong87/superPM"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -63,20 +162,11 @@
     "url": "https://github.com/nhhthong/clio"
   },
   {
-    "description": "Message bus skill for Claude Code agents: file inboxes for projects and subagents, background wake-ups, cron schedule an",
-    "id": "jtapes/claude-bus",
-    "language": "JavaScript",
-    "name": "jtapes/claude-bus",
-    "stars": 3,
-    "updated_at": "2026-09-24T07:49:43Z",
-    "url": "https://github.com/jtapes/claude-bus"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69354,
+    "stars": 69355,
     "updated_at": "2026-09-24T07:49:11Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -86,26 +176,8 @@
     "language": "TypeScript",
     "name": "aby-studio-works/garelier",
     "stars": 0,
-    "updated_at": "2026-09-24T07:48:23Z",
+    "updated_at": "2026-09-24T08:05:27Z",
     "url": "https://github.com/aby-studio-works/garelier"
-  },
-  {
-    "description": "One transcript in, a month of content out. 9 Claude skills that turn a podcast or webinar into reels, a YouTube kit, an ",
-    "id": "rohitabrahamgeorge/podcast-repurposing-engine",
-    "language": "Shell",
-    "name": "rohitabrahamgeorge/podcast-repurposing-engine",
-    "stars": 0,
-    "updated_at": "2026-09-24T07:46:49Z",
-    "url": "https://github.com/rohitabrahamgeorge/podcast-repurposing-engine"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-24T07:55:00Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "BA skills for the Plausible BA ",
@@ -115,15 +187,6 @@
     "stars": 5,
     "updated_at": "2026-09-24T07:45:45Z",
     "url": "https://github.com/plausibleba/ba-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-24T07:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Role-specialized engineering squad skills for AI coding agents.",
@@ -180,15 +243,6 @@
     "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-24T08:00:07Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "\u8b93 AI \u51fa\u4e00\u4efd\u539f\u5275\u7684\u5b78\u6e2c\u6a21\u64ec\u8003\uff1a\u547d\u984c\u3001\u89e3\u984c\u9a57\u7b97\u3001\u5957\u7528\u5927\u8003\u6b63\u5f0f\u7248\u9762\uff0c\u4ea4\u4ed8\u984c\u76ee\u8207\u7b54\u6848\u8a73\u89e3\u5169\u4efd PDF\u3002\u652f\u63f4 Claude\u3001ChatGPT\u3001Gemini\uff1b\u5b78\u6e2c\u4e03\u79d1\u53ef\u7528\uff0c\u6703\u8003\u8207\u5206\u79d1\u6e2c\u9a57\u898f\u5283\u4e2d\u3002",
     "id": "niansia/taiwan-exam",
     "language": "Python",
@@ -234,15 +288,6 @@
     "url": "https://github.com/ayiii-a/algorithm-tutor"
   },
   {
-    "description": "A collection of mainly my own productivity plugins for Claude Code.",
-    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
-    "language": "Shell",
-    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
-    "stars": 12,
-    "updated_at": "2026-09-24T07:23:18Z",
-    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
-  },
-  {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
     "id": "alexzvency-ship-it/claude-browser-automator",
     "language": "HTML",
@@ -283,7 +328,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 7166,
+    "stars": 7167,
     "updated_at": "2026-09-24T07:20:02Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -310,7 +355,7 @@
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 36,
+    "stars": 37,
     "updated_at": "2026-09-24T07:19:13Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T07:16:12Z",
     "url": "https://github.com/thomaslimited/game-shipping-skills"
-  },
-  {
-    "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
-    "id": "maurieunoccupied182/biks-claude-tools-loader",
-    "language": "\u2014",
-    "name": "maurieunoccupied182/biks-claude-tools-loader",
-    "stars": 0,
-    "updated_at": "2026-09-24T07:15:52Z",
-    "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
-  },
-  {
-    "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
-    "id": "Scoundrelwildness456/i-have-adhd",
-    "language": "Python",
-    "name": "Scoundrelwildness456/i-have-adhd",
-    "stars": 5,
-    "updated_at": "2026-09-24T07:15:28Z",
-    "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-24T07:14:37Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-09-24T07:14:31Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-09-24T07:13:06Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
   }
 ]
