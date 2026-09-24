@@ -1,5 +1,95 @@
 [
   {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/personal-ai",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/personal-ai",
+    "stars": 3,
+    "updated_at": "2026-09-24T06:12:54Z",
+    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+  },
+  {
+    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
+    "id": "mickzijdel/dev-hooks",
+    "language": "Python",
+    "name": "mickzijdel/dev-hooks",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:12:43Z",
+    "url": "https://github.com/mickzijdel/dev-hooks"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 22,
+    "updated_at": "2026-09-24T06:11:59Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-24T06:11:01Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Persistent, semantic news intelligence layer for AI agents \u2014 built on GNews (106k+ monthly PyPI). Python lib + MCP serve",
+    "id": "ranahaani/gnews-agent",
+    "language": "Python",
+    "name": "ranahaani/gnews-agent",
+    "stars": 8,
+    "updated_at": "2026-09-24T06:07:39Z",
+    "url": "https://github.com/ranahaani/gnews-agent"
+  },
+  {
+    "description": "Claude Code plugin that ships skills for building apps on top of the SUQO SDKs.",
+    "id": "suqo-ai/suqo-claude-plugins",
+    "language": "TypeScript",
+    "name": "suqo-ai/suqo-claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:07:28Z",
+    "url": "https://github.com/suqo-ai/suqo-claude-plugins"
+  },
+  {
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 425,
+    "updated_at": "2026-09-24T06:08:56Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69350,
+    "updated_at": "2026-09-24T06:10:30Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Skills de IA em portugu\u00eas, por profiss\u00e3o. Dois packs: corretor de im\u00f3veis e prospec\u00e7\u00e3o B2B. 24 comandos que escrevem an\u00fa",
+    "id": "kapstanhq/oficina",
+    "language": "JavaScript",
+    "name": "kapstanhq/oficina",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:00:53Z",
+    "url": "https://github.com/kapstanhq/oficina"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-24T06:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
     "id": "Neetx/ai-research-radar",
     "language": "\u2014",
@@ -54,33 +144,6 @@
     "url": "https://github.com/niansia/taiwan-exam"
   },
   {
-    "description": "Skills de IA em portugu\u00eas, por profiss\u00e3o. Dois packs: corretor de im\u00f3veis e prospec\u00e7\u00e3o B2B. 24 comandos que escrevem an\u00fa",
-    "id": "kapstanhq/oficina",
-    "language": "JavaScript",
-    "name": "kapstanhq/oficina",
-    "stars": 0,
-    "updated_at": "2026-09-24T05:58:56Z",
-    "url": "https://github.com/kapstanhq/oficina"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/personal-ai",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/personal-ai",
-    "stars": 3,
-    "updated_at": "2026-09-24T05:55:06Z",
-    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69349,
-    "updated_at": "2026-09-24T05:54:38Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\u7092\u80a1/\u91cf\u5316\u4ea4\u6613/\u9009\u80a1 AI Skill \u5408\u96c6\uff1a\u6536\u5f55\u56fd\u5185\u5916 GitHub \u4e0a\u7684\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u3001\u9009\u80a1\u7b56\u7565 Agent Skills\uff0c\u9644\u7d22\u5f15\u4e0e\u5408\u89c4\u8f6c\u8f7d",
     "id": "Serennity007/awesome-stock-quant-skills",
     "language": "Python",
@@ -90,15 +153,6 @@
     "url": "https://github.com/Serennity007/awesome-stock-quant-skills"
   },
   {
-    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 425,
-    "updated_at": "2026-09-24T05:53:39Z",
-    "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
     "description": "\u5199\u597d\u7684 skill \u600e\u4e48\u53d1\u51fa\u53bb\uff1a\u5ba1\u4ee3\u7801 \u2192 \u8fc7\u8d28\u91cf\u68c0\u67e5 \u2192 \u5199 README \u4e0e SKILL.md \u2192 \u53d1 GitHub + SkillHub \u2192 \u6536\u53cd\u9988\u3002Publish AI agent skills to GitHub & SkillH",
     "id": "totwo2/reskill",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T05:49:02Z",
     "url": "https://github.com/totwo2/reskill"
-  },
-  {
-    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
-    "id": "mickzijdel/dev-hooks",
-    "language": "Python",
-    "name": "mickzijdel/dev-hooks",
-    "stars": 0,
-    "updated_at": "2026-09-24T05:48:17Z",
-    "url": "https://github.com/mickzijdel/dev-hooks"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -151,15 +196,6 @@
     "stars": 7,
     "updated_at": "2026-09-24T05:45:13Z",
     "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-24T05:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-24T05:25:10Z",
     "url": "https://github.com/getedgehq/skills"
-  },
-  {
-    "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
-    "id": "Scoundrelwildness456/i-have-adhd",
-    "language": "Python",
-    "name": "Scoundrelwildness456/i-have-adhd",
-    "stars": 5,
-    "updated_at": "2026-09-24T05:24:55Z",
-    "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-24T05:24:25Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-09-24T05:22:56Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-09-24T05:22:42Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   }
 ]
