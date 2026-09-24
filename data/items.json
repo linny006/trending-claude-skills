@@ -1,21 +1,48 @@
 [
   {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-09-24T11:45:00Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-24T11:44:29Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-24T11:42:11Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
+    "id": "easyinplay/harnessed",
+    "language": "TypeScript",
+    "name": "easyinplay/harnessed",
+    "stars": 2,
+    "updated_at": "2026-09-24T11:42:04Z",
+    "url": "https://github.com/easyinplay/harnessed"
+  },
+  {
     "description": "A programmable typesetter for the web",
     "id": "drnachio/postext",
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 5,
-    "updated_at": "2026-09-24T11:29:53Z",
+    "updated_at": "2026-09-24T11:40:11Z",
     "url": "https://github.com/drnachio/postext"
-  },
-  {
-    "description": "A design agent for Figma. A plugin for Claude Code: seven skills so the agent works in your file from your components an",
-    "id": "schudarin/chudarin-design-skills",
-    "language": "Shell",
-    "name": "schudarin/chudarin-design-skills",
-    "stars": 4,
-    "updated_at": "2026-09-24T11:28:53Z",
-    "url": "https://github.com/schudarin/chudarin-design-skills"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -23,8 +50,80 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-24T11:28:49Z",
+    "updated_at": "2026-09-24T11:39:43Z",
     "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-24T11:42:19Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Engineering workflow system for AI coding agents \u2014 mandatory planning, TDD, verification, review, and intelligent codeba",
+    "id": "datit309/supergraph",
+    "language": "Shell",
+    "name": "datit309/supergraph",
+    "stars": 22,
+    "updated_at": "2026-09-24T11:39:21Z",
+    "url": "https://github.com/datit309/supergraph"
+  },
+  {
+    "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 ",
+    "id": "jherrodthomas/robotics-skills-suite",
+    "language": "Python",
+    "name": "jherrodthomas/robotics-skills-suite",
+    "stars": 241,
+    "updated_at": "2026-09-24T11:38:52Z",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite"
+  },
+  {
+    "description": "An agent-native business validation suite: 9 evidence-gated stages + SWOT, Five Forces, premortem & red-team lenses, ren",
+    "id": "ldphuong-vn/validate-suite",
+    "language": "HTML",
+    "name": "ldphuong-vn/validate-suite",
+    "stars": 0,
+    "updated_at": "2026-09-24T11:38:03Z",
+    "url": "https://github.com/ldphuong-vn/validate-suite"
+  },
+  {
+    "description": "A design agent for Figma. A plugin for Claude Code: seven skills so the agent works in your file from your components an",
+    "id": "schudarin/chudarin-design-skills",
+    "language": "Shell",
+    "name": "schudarin/chudarin-design-skills",
+    "stars": 4,
+    "updated_at": "2026-09-24T11:31:47Z",
+    "url": "https://github.com/schudarin/chudarin-design-skills"
+  },
+  {
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 1,
+    "updated_at": "2026-09-24T11:38:45Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "A Claude skill that teaches founders how to find customers, and an agent that keeps finding them on a schedule you set.",
+    "id": "Amaan-creates/agentic-gtm",
+    "language": "HTML",
+    "name": "Amaan-creates/agentic-gtm",
+    "stars": 0,
+    "updated_at": "2026-09-24T11:30:40Z",
+    "url": "https://github.com/Amaan-creates/agentic-gtm"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-24T11:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A collection of mainly my own productivity plugins for Claude Code.",
@@ -34,15 +133,6 @@
     "stars": 12,
     "updated_at": "2026-09-24T11:28:19Z",
     "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-24T11:22:13Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "\u884c\u7a0b\u4f53\u68c0 / itinerary-doctor\uff1a\u628a\u4e00\u4efd\u5df2\u5b58\u5728\u7684\u884c\u7a0b\u53d8\u6210\u80fd\u843d\u5730\u7684\u884c\u7a0b\u2014\u2014\u67e5\u65f6\u4ee4\u3001\u9884\u7ea6\u3001\u5c01\u8def\u4e0e\u6bcf\u65e5\u9a7e\u9a76\u5f3a\u5ea6\uff0c\u5728\u5df2\u8ba2\u673a\u7968\u9152\u5e97\u7684\u7ea6\u675f\u4e0b\u7ed9\u51fa\u9000\u6539\u51b3\u7b56\uff0c\u4ea7\u51fa\u5355\u6587\u4ef6\u4ea4\u4e92\u8def\u7ebf\u56fe\u4e0e\u6d77\u62a5\u3002An agent skill that audits a",
@@ -61,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-09-24T11:18:50Z",
     "url": "https://github.com/shortcuts/radin"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-24T11:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Explore and debug Codex, Claude Code, Pi, and Hermes agent traces locally with real-time token usage and cost tracking.",
@@ -252,15 +333,6 @@
     "url": "https://github.com/sa746062/web-perf-audit"
   },
   {
-    "description": "A Claude skill that teaches founders how to find customers, and an agent that keeps finding them on a schedule you set.",
-    "id": "Amaan-creates/agentic-gtm",
-    "language": "HTML",
-    "name": "Amaan-creates/agentic-gtm",
-    "stars": 0,
-    "updated_at": "2026-09-24T11:06:08Z",
-    "url": "https://github.com/Amaan-creates/agentic-gtm"
-  },
-  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T11:01:36Z",
     "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Claude Opus 5.5 directs and renders films in JavaScript: brief \u2192 sound (file, YouTube, generated, or AI voiceover) \u2192 dir",
-    "id": "klsoen/opus-js-animations",
-    "language": "JavaScript",
-    "name": "klsoen/opus-js-animations",
-    "stars": 2,
-    "updated_at": "2026-09-24T11:01:25Z",
-    "url": "https://github.com/klsoen/opus-js-animations"
-  },
-  {
-    "description": "Run Claude Code locally with TUI and Electron desktop support, plus flexible Anthropic/OpenAI-compatible API access and ",
-    "id": "briefless-orgasm922/claude-code-t8",
-    "language": "\u2014",
-    "name": "briefless-orgasm922/claude-code-t8",
-    "stars": 0,
-    "updated_at": "2026-09-24T11:00:49Z",
-    "url": "https://github.com/briefless-orgasm922/claude-code-t8"
-  },
-  {
-    "description": "Restore and run Claude Code source with full native modules, types, and internals for local use and MCP mode",
-    "id": "aymannaim822-create/claude-code-source",
-    "language": "\u2014",
-    "name": "aymannaim822-create/claude-code-source",
-    "stars": 0,
-    "updated_at": "2026-09-24T11:00:47Z",
-    "url": "https://github.com/aymannaim822-create/claude-code-source"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-24T11:00:37Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-24T11:00:31Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Build a tiny Claude Code clone in Python with agent loop, tools, permissions, and context management in ~800 lines",
-    "id": "Sleeknessbounder869/miniClaudeCode",
-    "language": "\u2014",
-    "name": "Sleeknessbounder869/miniClaudeCode",
-    "stars": 0,
-    "updated_at": "2026-09-24T11:00:27Z",
-    "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
-  },
-  {
-    "description": "Explore a public Claude Code source snapshot for security research, supply-chain analysis, and CLI architecture review",
-    "id": "Angeliquetreated862/claude-code-src",
-    "language": "TypeScript",
-    "name": "Angeliquetreated862/claude-code-src",
-    "stars": 2,
-    "updated_at": "2026-09-24T11:00:19Z",
-    "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-09-24T11:00:13Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
   }
 ]
