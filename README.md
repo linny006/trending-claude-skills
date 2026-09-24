@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-24 16:44 UTC
+> ⏰ Last updated: 2026-09-24 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 7090 | Python | 2026-09-24 | Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (网文): 扫榜、拆文、写作、去AI味、封面全流程，长篇短篇都支持 \| 13 skills |
-| 2 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-09-24 | Project orchestration and AI agentic workflow utility. |
-| 3 | [skills-agents-co/skills-and-agents-library](https://github.com/skills-agents-co/skills-and-agents-library) | 1 | JavaScript | 2026-09-24 | Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra |
-| 4 | [428alexander9/claude-skills-marketplace](https://github.com/428alexander9/claude-skills-marketplace) | 3 | Python | 2026-09-24 | 🛠️ Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm |
-| 5 | [haoming-luo/agentfem](https://github.com/haoming-luo/agentfem) | 16 | Python | 2026-09-24 | AI-native open-source finite-element platform connecting engineering, computation, data, and AI. |
-| 6 | [CGWebDev2003/cg-web-skills](https://github.com/CGWebDev2003/cg-web-skills) | 0 | JavaScript | 2026-09-24 | A professional Claude skillset for designing, building, and optimizing high-quality websites — from UX and visual design |
-| 7 | [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | 3854 | TypeScript | 2026-09-24 | Open-source SEO, GEO, and marketing skills for AI agents. |
-| 8 | [opascope/skills](https://github.com/opascope/skills) | 0 | Python | 2026-09-24 | Work-process skills for Claude Code and Codex CLI. Each skill states one promise and ships the checks that would catch i |
-| 9 | [SELAT-AI/selat-skills](https://github.com/SELAT-AI/selat-skills) | 2 | JavaScript | 2026-09-24 |  |
-| 10 | [ooooooooooooooooooop/personal-ai](https://github.com/ooooooooooooooooooop/personal-ai) | 3 | Python | 2026-09-24 | Agent skills repository |
-| 11 | [arbiterForge/codeArbiter](https://github.com/arbiterForge/codeArbiter) | 145 | Python | 2026-09-24 | When you can't trust yourself with your code base, trust Arbiter.  |
-| 12 | [LeadcodeDev/skills](https://github.com/LeadcodeDev/skills) | 0 | — | 2026-09-24 | Engineering skills for Claude Code, how development work is conducted, how a codebase is assessed. |
-| 13 | [alternative-intelligence-cp/claude-skills](https://github.com/alternative-intelligence-cp/claude-skills) | 1 | Python | 2026-09-24 | A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a |
-| 14 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 47 | Python | 2026-09-24 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 47 | Python | 2026-09-24 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 7090 | Python | 2026-09-24 | Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (网文): 扫榜、拆文、写作、去AI味、封面全流程，长篇短篇都支持 \| 13 skills |
+| 3 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-09-24 | Project orchestration and AI agentic workflow utility. |
+| 4 | [skills-agents-co/skills-and-agents-library](https://github.com/skills-agents-co/skills-and-agents-library) | 1 | JavaScript | 2026-09-24 | Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra |
+| 5 | [428alexander9/claude-skills-marketplace](https://github.com/428alexander9/claude-skills-marketplace) | 3 | Python | 2026-09-24 | 🛠️ Transform Claude into a System Architect, generating detailed project documentation for AI-assisted software developm |
+| 6 | [haoming-luo/agentfem](https://github.com/haoming-luo/agentfem) | 16 | Python | 2026-09-24 | AI-native open-source finite-element platform connecting engineering, computation, data, and AI. |
+| 7 | [CGWebDev2003/cg-web-skills](https://github.com/CGWebDev2003/cg-web-skills) | 0 | JavaScript | 2026-09-24 | A professional Claude skillset for designing, building, and optimizing high-quality websites — from UX and visual design |
+| 8 | [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | 3854 | TypeScript | 2026-09-24 | Open-source SEO, GEO, and marketing skills for AI agents. |
+| 9 | [opascope/skills](https://github.com/opascope/skills) | 0 | Python | 2026-09-24 | Work-process skills for Claude Code and Codex CLI. Each skill states one promise and ships the checks that would catch i |
+| 10 | [SELAT-AI/selat-skills](https://github.com/SELAT-AI/selat-skills) | 2 | JavaScript | 2026-09-24 |  |
+| 11 | [ooooooooooooooooooop/personal-ai](https://github.com/ooooooooooooooooooop/personal-ai) | 3 | Python | 2026-09-24 | Agent skills repository |
+| 12 | [arbiterForge/codeArbiter](https://github.com/arbiterForge/codeArbiter) | 145 | Python | 2026-09-24 | When you can't trust yourself with your code base, trust Arbiter.  |
+| 13 | [LeadcodeDev/skills](https://github.com/LeadcodeDev/skills) | 0 | — | 2026-09-24 | Engineering skills for Claude Code, how development work is conducted, how a codebase is assessed. |
+| 14 | [alternative-intelligence-cp/claude-skills](https://github.com/alternative-intelligence-cp/claude-skills) | 1 | Python | 2026-09-24 | A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a |
 | 15 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-09-24 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
 | 16 | [Growth-Today/claude-skills](https://github.com/Growth-Today/claude-skills) | 4 | Python | 2026-09-24 | Claude Skills for go-to-market teams — ready-to-install HubSpot, Salesforce, LinkedIn & outbound skills. AI-native GTM e |
 | 17 | [dbhq-uk/legwork-skill](https://github.com/dbhq-uk/legwork-skill) | 3 | Python | 2026-09-24 | Decision-research skill for Claude Code and Codex - every claim states how well it is supported, and says when the evide |
