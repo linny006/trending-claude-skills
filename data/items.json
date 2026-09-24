@@ -1,12 +1,57 @@
 [
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
+    "description": "\u8b93 AI \u51fa\u4e00\u4efd\u539f\u5275\u7684\u5b78\u6e2c\u6a21\u64ec\u8003\uff1a\u547d\u984c\u3001\u89e3\u984c\u9a57\u7b97\u3001\u5957\u7528\u5927\u8003\u6b63\u5f0f\u7248\u9762\uff0c\u4ea4\u4ed8\u984c\u76ee\u8207\u7b54\u6848\u8a73\u89e3\u5169\u4efd PDF\u3002\u652f\u63f4 Claude\u3001ChatGPT\u3001Gemini\uff1b\u5b78\u6e2c\u4e03\u79d1\u53ef\u7528\uff0c\u6703\u8003\u8207\u5206\u79d1\u6e2c\u9a57\u898f\u5283\u4e2d\u3002",
+    "id": "niansia/taiwan-exam",
+    "language": "Python",
+    "name": "niansia/taiwan-exam",
+    "stars": 0,
+    "updated_at": "2026-09-24T04:00:03Z",
+    "url": "https://github.com/niansia/taiwan-exam"
+  },
+  {
+    "description": "Una br\u00fajula necesaria para perderle el miedo a trabajar \"junto\" a Claude Code (u otros agentes) y desarrollar con confia",
+    "id": "OrcaCl/suplemento-estrella",
+    "language": "Shell",
+    "name": "OrcaCl/suplemento-estrella",
+    "stars": 0,
+    "updated_at": "2026-09-24T03:59:30Z",
+    "url": "https://github.com/OrcaCl/suplemento-estrella"
+  },
+  {
+    "description": "Claude Skills for Sri Lankan business law, built on primary sources and version-controlled.",
+    "id": "entwoh/srilanka-business-law-skills",
+    "language": "Python",
+    "name": "entwoh/srilanka-business-law-skills",
+    "stars": 5,
+    "updated_at": "2026-09-24T03:56:53Z",
+    "url": "https://github.com/entwoh/srilanka-business-law-skills"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
     "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-24T03:43:52Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
+    "name": "reticlehq/reticle",
+    "stars": 828,
+    "updated_at": "2026-09-24T03:55:16Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "The animated diagram editor AI agents can draw on. Animated technical diagrams (architecture, sequence, BPMN, cloud icon",
+    "id": "drawcms/drawcms",
+    "language": "TypeScript",
+    "name": "drawcms/drawcms",
+    "stars": 1,
+    "updated_at": "2026-09-24T03:54:23Z",
+    "url": "https://github.com/drawcms/drawcms"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-09-24T03:54:11Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
   },
   {
     "description": "Elite B2B Sales Claude Agent Skills (SKILL.md), textbooks & interactive tools styled after Anthropic",
@@ -14,8 +59,53 @@
     "language": "JavaScript",
     "name": "lancewc/sales-claude-skills",
     "stars": 0,
-    "updated_at": "2026-09-24T03:43:41Z",
+    "updated_at": "2026-09-24T03:54:05Z",
     "url": "https://github.com/lancewc/sales-claude-skills"
+  },
+  {
+    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
+    "id": "bokyostudio/pg-practice-knowledgebase",
+    "language": "HTML",
+    "name": "bokyostudio/pg-practice-knowledgebase",
+    "stars": 0,
+    "updated_at": "2026-09-24T03:51:43Z",
+    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-24T03:46:55Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 92,
+    "updated_at": "2026-09-24T03:46:09Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-24T03:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-24T03:43:52Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
@@ -106,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T03:30:47Z",
     "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-24T03:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Run coding agents like Claude, ChatGPT, and Codex side-by-side with separate profiles per account on macOS, Windows, and",
@@ -232,15 +313,6 @@
     "stars": 4,
     "updated_at": "2026-09-24T03:23:14Z",
     "url": "https://github.com/jahidulislamseo/antigravity-ai-skills"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-24T03:38:44Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
@@ -376,77 +448,5 @@
     "stars": 162,
     "updated_at": "2026-09-24T03:20:12Z",
     "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "Reverse-engineer Claude Code CLI in Bun for a fast, local command-line tool with clear source structure and telemetry co",
-    "id": "deadgirlbad-source/claude-code-reverse",
-    "language": "\u2014",
-    "name": "deadgirlbad-source/claude-code-reverse",
-    "stars": 0,
-    "updated_at": "2026-09-24T03:19:45Z",
-    "url": "https://github.com/deadgirlbad-source/claude-code-reverse"
-  },
-  {
-    "description": "Build production patterns for AI coding agents from Claude Code source analysis and harness engineering practice.",
-    "id": "dinho-afsn/agentic-harness-patterns-skill",
-    "language": "\u2014",
-    "name": "dinho-afsn/agentic-harness-patterns-skill",
-    "stars": 1,
-    "updated_at": "2026-09-24T03:19:40Z",
-    "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/personal-ai",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/personal-ai",
-    "stars": 3,
-    "updated_at": "2026-09-24T03:19:34Z",
-    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
-  },
-  {
-    "description": "Claude Code / Codex skill that runs your job search: screens postings against your pay and schedule limits, writes cover",
-    "id": "mitchasegura-ux/job-hunt",
-    "language": "Python",
-    "name": "mitchasegura-ux/job-hunt",
-    "stars": 0,
-    "updated_at": "2026-09-24T03:19:31Z",
-    "url": "https://github.com/mitchasegura-ux/job-hunt"
-  },
-  {
-    "description": "Recover and reset Claude Code in Python with a faithful CLI port that preserves core logic and removes the UI layer",
-    "id": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "language": "\u2014",
-    "name": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "stars": 1,
-    "updated_at": "2026-09-24T03:19:20Z",
-    "url": "https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset"
-  },
-  {
-    "description": "Preserve a TypeScript Claude Code source snapshot for security research, supply-chain analysis, and archival reference",
-    "id": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "language": "\u2014",
-    "name": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "stars": 0,
-    "updated_at": "2026-09-24T03:19:18Z",
-    "url": "https://github.com/stuffinesslamedh281/claude-code-snapshot-backup"
-  },
-  {
-    "description": "Recover Claude Code source for TypeScript and React UI analysis and reuse",
-    "id": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "language": "\u2014",
-    "name": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "stars": 2,
-    "updated_at": "2026-09-24T03:19:17Z",
-    "url": "https://github.com/cacodaemonic-impulseexplosive956/claude_code_src"
-  },
-  {
-    "description": "Coordinate agent brainstorming to generate research proposals and manage future experiment and review workflows",
-    "id": "Daisybastioned440/lite-research-agents",
-    "language": "Python",
-    "name": "Daisybastioned440/lite-research-agents",
-    "stars": 2,
-    "updated_at": "2026-09-24T03:18:50Z",
-    "url": "https://github.com/Daisybastioned440/lite-research-agents"
   }
 ]
