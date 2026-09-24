@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
+    "id": "haoming-luo/agentfem",
+    "language": "Python",
+    "name": "haoming-luo/agentfem",
+    "stars": 16,
+    "updated_at": "2026-09-24T17:43:46Z",
+    "url": "https://github.com/haoming-luo/agentfem"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Rust",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 8,
+    "updated_at": "2026-09-24T17:43:26Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Let Claude edit Google Docs: text, tables, smart chips, comments. No Google Cloud project or OAuth - runs on your own Ap",
+    "id": "jarrodjohnson-gif/claude-google-docs",
+    "language": "JavaScript",
+    "name": "jarrodjohnson-gif/claude-google-docs",
+    "stars": 0,
+    "updated_at": "2026-09-24T17:37:10Z",
+    "url": "https://github.com/jarrodjohnson-gif/claude-google-docs"
+  },
+  {
+    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
+    "id": "crackcricketdash/Everything-Claude-Code-2026",
+    "language": "\u2014",
+    "name": "crackcricketdash/Everything-Claude-Code-2026",
+    "stars": 1,
+    "updated_at": "2026-09-24T17:35:01Z",
+    "url": "https://github.com/crackcricketdash/Everything-Claude-Code-2026"
+  },
+  {
+    "description": "Agent skills for Claude Code and Codex: code review, test writing, TLA+ modeling, docs, codebase onboarding, research, v",
+    "id": "wilbeibi/wilbeibi-skills",
+    "language": "Python",
+    "name": "wilbeibi/wilbeibi-skills",
+    "stars": 2,
+    "updated_at": "2026-09-24T17:34:46Z",
+    "url": "https://github.com/wilbeibi/wilbeibi-skills"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-09-24T17:34:25Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-09-24T17:32:42Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 22,
+    "updated_at": "2026-09-24T17:31:34Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Turns Claude Code into a learning loop: quizzes you on your own diffs, tracks weak spots per developer.",
+    "id": "Tykok/learning-with-claude",
+    "language": "Shell",
+    "name": "Tykok/learning-with-claude",
+    "stars": 1,
+    "updated_at": "2026-09-24T17:31:01Z",
+    "url": "https://github.com/Tykok/learning-with-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-24T17:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills repository",
     "id": "ooooooooooooooooooop/personal-ai",
     "language": "Python",
@@ -9,12 +99,21 @@
     "url": "https://github.com/ooooooooooooooooooop/personal-ai"
   },
   {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 170,
+    "updated_at": "2026-09-24T17:28:47Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-24T17:29:05Z",
+    "updated_at": "2026-09-24T17:38:59Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -32,7 +131,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69366,
-    "updated_at": "2026-09-24T17:29:05Z",
+    "updated_at": "2026-09-24T17:45:08Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -261,15 +360,6 @@
     "url": "https://github.com/archubbuck/workspace-architect"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-24T17:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
     "id": "Free-Soul/MemDreamer",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T17:10:55Z",
     "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Run Claude Code locally with TUI and Electron desktop support, plus flexible Anthropic/OpenAI-compatible API access and ",
-    "id": "briefless-orgasm922/claude-code-t8",
-    "language": "\u2014",
-    "name": "briefless-orgasm922/claude-code-t8",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:09:59Z",
-    "url": "https://github.com/briefless-orgasm922/claude-code-t8"
-  },
-  {
-    "description": "Restore and run Claude Code source with full native modules, types, and internals for local use and MCP mode",
-    "id": "aymannaim822-create/claude-code-source",
-    "language": "\u2014",
-    "name": "aymannaim822-create/claude-code-source",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:09:58Z",
-    "url": "https://github.com/aymannaim822-create/claude-code-source"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:09:38Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Build a tiny Claude Code clone in Python with agent loop, tools, permissions, and context management in ~800 lines",
-    "id": "Sleeknessbounder869/miniClaudeCode",
-    "language": "\u2014",
-    "name": "Sleeknessbounder869/miniClaudeCode",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:09:37Z",
-    "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
-  },
-  {
-    "description": "Explore a public Claude Code source snapshot for security research, supply-chain analysis, and CLI architecture review",
-    "id": "Angeliquetreated862/claude-code-src",
-    "language": "TypeScript",
-    "name": "Angeliquetreated862/claude-code-src",
-    "stars": 2,
-    "updated_at": "2026-09-24T17:09:29Z",
-    "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:09:26Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:09:21Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
-  },
-  {
-    "description": "Add self-learning voice notifications for Claude Code with edge-tts, phrase pools, priority queues, and anti-repeat hand",
-    "id": "Secondvisitation783/claude-voice-system",
-    "language": "\u2014",
-    "name": "Secondvisitation783/claude-voice-system",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:09:21Z",
-    "url": "https://github.com/Secondvisitation783/claude-voice-system"
-  },
-  {
-    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
-    "id": "Defiladeboarfish90/agent-memory",
-    "language": "TypeScript",
-    "name": "Defiladeboarfish90/agent-memory",
-    "stars": 2,
-    "updated_at": "2026-09-24T17:09:20Z",
-    "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:09:11Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
   }
 ]
