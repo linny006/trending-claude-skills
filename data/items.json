@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:14:49Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Agent tools and skills to read docx/xlsx/pdfs",
+    "id": "mickzijdel/readoc",
+    "language": "Python",
+    "name": "mickzijdel/readoc",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:14:22Z",
+    "url": "https://github.com/mickzijdel/readoc"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-24T06:13:07Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "An Agent Skill for building a dated working model of a person from authorized sources, with evidence, counterevidence, a",
+    "id": "hraness/soulscrape",
+    "language": "TypeScript",
+    "name": "hraness/soulscrape",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:13:03Z",
+    "url": "https://github.com/hraness/soulscrape"
+  },
+  {
     "description": "Agent skills repository",
     "id": "ooooooooooooooooooop/personal-ai",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 22,
-    "updated_at": "2026-09-24T06:11:59Z",
+    "updated_at": "2026-09-24T06:14:26Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -34,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-09-24T06:11:01Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Production-grade workflow framework for AI coding agents that automatically inspect, ground, validate, and generate proj",
+    "id": "ZxWyvern/unity-workflow-kit",
+    "language": "Python",
+    "name": "ZxWyvern/unity-workflow-kit",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:07:33Z",
+    "url": "https://github.com/ZxWyvern/unity-workflow-kit"
   },
   {
     "description": "Persistent, semantic news intelligence layer for AI agents \u2014 built on GNews (106k+ monthly PyPI). Python lib + MCP serve",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T06:00:53Z",
     "url": "https://github.com/kapstanhq/oficina"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-24T06:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T05:26:28Z",
     "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
-  },
-  {
-    "description": "Agent skills for Claude Code, Codex and other agents",
-    "id": "andreeeeaaaaas/skills",
-    "language": "\u2014",
-    "name": "andreeeeaaaaas/skills",
-    "stars": 0,
-    "updated_at": "2026-09-24T05:26:24Z",
-    "url": "https://github.com/andreeeeaaaaas/skills"
-  },
-  {
-    "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
-    "id": "Arindaag760/humanizer-cli",
-    "language": "JavaScript",
-    "name": "Arindaag760/humanizer-cli",
-    "stars": 2,
-    "updated_at": "2026-09-24T05:26:00Z",
-    "url": "https://github.com/Arindaag760/humanizer-cli"
-  },
-  {
-    "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
-    "id": "maurieunoccupied182/biks-claude-tools-loader",
-    "language": "\u2014",
-    "name": "maurieunoccupied182/biks-claude-tools-loader",
-    "stars": 0,
-    "updated_at": "2026-09-24T05:25:20Z",
-    "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
-  },
-  {
-    "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
-    "id": "getedgehq/skills",
-    "language": "Python",
-    "name": "getedgehq/skills",
-    "stars": 3,
-    "updated_at": "2026-09-24T05:25:10Z",
-    "url": "https://github.com/getedgehq/skills"
   }
 ]
