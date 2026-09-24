@@ -1,5 +1,104 @@
 [
   {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-09-24T06:45:03Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
+    "id": "haoming-luo/agentfem",
+    "language": "Python",
+    "name": "haoming-luo/agentfem",
+    "stars": 16,
+    "updated_at": "2026-09-24T06:43:10Z",
+    "url": "https://github.com/haoming-luo/agentfem"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/personal-ai",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/personal-ai",
+    "stars": 3,
+    "updated_at": "2026-09-24T06:43:00Z",
+    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+  },
+  {
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 425,
+    "updated_at": "2026-09-24T06:41:23Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Repository for the Packt Publishing book titled \"Claude Visual Bible\" by Mark J. Price",
+    "id": "markjprice/claude-vb",
+    "language": "HTML",
+    "name": "markjprice/claude-vb",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:37:35Z",
+    "url": "https://github.com/markjprice/claude-vb"
+  },
+  {
+    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-09-24T06:37:17Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 85 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, customer academy, paid ",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 14,
+    "updated_at": "2026-09-24T06:37:09Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antig",
+    "id": "dinhanhthi/coding-friend",
+    "language": "TypeScript",
+    "name": "dinhanhthi/coding-friend",
+    "stars": 3,
+    "updated_at": "2026-09-24T06:36:58Z",
+    "url": "https://github.com/dinhanhthi/coding-friend"
+  },
+  {
+    "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+    "id": "redfox-data/redfox-community",
+    "language": "Python",
+    "name": "redfox-data/redfox-community",
+    "stars": 411,
+    "updated_at": "2026-09-24T06:36:02Z",
+    "url": "https://github.com/redfox-data/redfox-community"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:33:40Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-24T06:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u8b93 AI \u51fa\u4e00\u4efd\u539f\u5275\u7684\u5b78\u6e2c\u6a21\u64ec\u8003\uff1a\u547d\u984c\u3001\u89e3\u984c\u9a57\u7b97\u3001\u5957\u7528\u5927\u8003\u6b63\u5f0f\u7248\u9762\uff0c\u4ea4\u4ed8\u984c\u76ee\u8207\u7b54\u6848\u8a73\u89e3\u5169\u4efd PDF\u3002\u652f\u63f4 Claude\u3001ChatGPT\u3001Gemini\uff1b\u5b78\u6e2c\u4e03\u79d1\u53ef\u7528\uff0c\u6703\u8003\u8207\u5206\u79d1\u6e2c\u9a57\u898f\u5283\u4e2d\u3002",
     "id": "niansia/taiwan-exam",
     "language": "Python",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "JakeSelby/agent-harness",
     "stars": 15,
-    "updated_at": "2026-09-24T06:28:11Z",
+    "updated_at": "2026-09-24T06:34:19Z",
     "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
@@ -41,17 +140,8 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-24T06:28:03Z",
+    "updated_at": "2026-09-24T06:44:22Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Repository for the Packt Publishing book titled \"Claude Visual Bible\" by Mark J. Price",
-    "id": "markjprice/claude-vb",
-    "language": "HTML",
-    "name": "markjprice/claude-vb",
-    "stars": 0,
-    "updated_at": "2026-09-24T06:27:43Z",
-    "url": "https://github.com/markjprice/claude-vb"
   },
   {
     "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
@@ -72,20 +162,11 @@
     "url": "https://github.com/lilialla/awesome-legal-ai-zh"
   },
   {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/personal-ai",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/personal-ai",
-    "stars": 3,
-    "updated_at": "2026-09-24T06:25:38Z",
-    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69349,
+    "stars": 69351,
     "updated_at": "2026-09-24T06:25:06Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -144,15 +225,6 @@
     "url": "https://github.com/zime-skills/global"
   },
   {
-    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 425,
-    "updated_at": "2026-09-24T06:24:03Z",
-    "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
     "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
     "id": "mickzijdel/dev-hooks",
     "language": "Python",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T06:15:28Z",
     "url": "https://github.com/mickzijdel/dev-hooks"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-24T06:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -270,15 +333,6 @@
     "url": "https://github.com/reticlehq/reticle"
   },
   {
-    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 85 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, customer academy, paid ",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 14,
-    "updated_at": "2026-09-24T05:57:48Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
     "description": " AI Security Research Radar \u2014 AI for security and security for AI",
     "id": "Neetx/ai-security-research-radar",
     "language": "\u2014",
@@ -331,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T05:46:47Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
-    "id": "haoming-luo/agentfem",
-    "language": "Python",
-    "name": "haoming-luo/agentfem",
-    "stars": 16,
-    "updated_at": "2026-09-24T05:46:30Z",
-    "url": "https://github.com/haoming-luo/agentfem"
   },
   {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-24T05:38:00Z",
     "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "AI agent skills for resumable project control. Garelier (Garage + Atelier) organizes PM, knowledge, review, and executio",
-    "id": "aby-studio-works/garelier",
-    "language": "TypeScript",
-    "name": "aby-studio-works/garelier",
-    "stars": 0,
-    "updated_at": "2026-09-24T05:37:36Z",
-    "url": "https://github.com/aby-studio-works/garelier"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 54,
-    "updated_at": "2026-09-24T05:36:13Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor",
-    "id": "fcakyon/claude-codex-settings",
-    "language": "Python",
-    "name": "fcakyon/claude-codex-settings",
-    "stars": 1152,
-    "updated_at": "2026-09-24T05:46:00Z",
-    "url": "https://github.com/fcakyon/claude-codex-settings"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-24T05:34:26Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "CUQU\u627e\u642d\u5b50\u5b98\u65b9 Agent Skill\uff1a\u8ba9\u4efb\u610f AI Agent\uff08Claude Code/Codex/Cursor/WorkBuddy\uff09\u4ee3\u7528\u6237\u627e\u540c\u57ce\u7ebf\u4e0b\u5c40\u3001\u62a5\u540d\u3001\u652f\u4ed8\u3001\u53d1\u5c40\u3002MCP Streamable HTTP + \u4e2a\u4eba API Ke",
-    "id": "cuqu-net/cuqu-skill",
-    "language": "Python",
-    "name": "cuqu-net/cuqu-skill",
-    "stars": 0,
-    "updated_at": "2026-09-24T06:18:21Z",
-    "url": "https://github.com/cuqu-net/cuqu-skill"
   }
 ]
