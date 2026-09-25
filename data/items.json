@@ -1,11 +1,92 @@
 [
   {
+    "description": "Open-source Claude Code skills from Bamboo DCM \u2014 AI-native private credit infrastructure platform",
+    "id": "bamboo-DCM/library",
+    "language": "Python",
+    "name": "bamboo-DCM/library",
+    "stars": 0,
+    "updated_at": "2026-09-25T23:14:49Z",
+    "url": "https://github.com/bamboo-DCM/library"
+  },
+  {
+    "description": "Claude skills, prompts, and marketing workflows I build",
+    "id": "siddarthnandakumar1995/marketing-skills",
+    "language": "\u2014",
+    "name": "siddarthnandakumar1995/marketing-skills",
+    "stars": 0,
+    "updated_at": "2026-09-25T23:14:20Z",
+    "url": "https://github.com/siddarthnandakumar1995/marketing-skills"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 183,
+    "updated_at": "2026-09-25T23:12:50Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 7,
+    "updated_at": "2026-09-25T23:11:05Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
+  },
+  {
+    "description": "Teach your agent to write like you. /me init builds a style profile from your own writing.",
+    "id": "ddutchie/write-like-me",
+    "language": "Shell",
+    "name": "ddutchie/write-like-me",
+    "stars": 1,
+    "updated_at": "2026-09-25T23:11:59Z",
+    "url": "https://github.com/ddutchie/write-like-me"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-25T23:09:31Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 37,
+    "updated_at": "2026-09-25T23:06:05Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Agent skill: see how often a Shopify brand shows up when AI shopping agents search all of Shopify, vs competitors. By Th",
+    "id": "hovtgc/agent-aeo-checker",
+    "language": "Python",
+    "name": "hovtgc/agent-aeo-checker",
+    "stars": 0,
+    "updated_at": "2026-09-25T23:01:46Z",
+    "url": "https://github.com/hovtgc/agent-aeo-checker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-25T23:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Image deep research for Claude Code and Codex: find licensed reference images with every URL verified, render real websi",
     "id": "ridelink0/image-deep-research",
     "language": "JavaScript",
     "name": "ridelink0/image-deep-research",
     "stars": 0,
-    "updated_at": "2026-09-25T22:59:23Z",
+    "updated_at": "2026-09-25T23:02:21Z",
     "url": "https://github.com/ridelink0/image-deep-research"
   },
   {
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "ivuorinen/skills",
     "stars": 3,
-    "updated_at": "2026-09-25T22:49:44Z",
+    "updated_at": "2026-09-25T23:12:06Z",
     "url": "https://github.com/ivuorinen/skills"
   },
   {
@@ -144,21 +225,12 @@
     "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-25T22:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
     "id": "JakeSelby/agent-harness",
     "language": "Python",
     "name": "JakeSelby/agent-harness",
     "stars": 20,
-    "updated_at": "2026-09-25T22:45:02Z",
+    "updated_at": "2026-09-25T23:13:11Z",
     "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
@@ -189,15 +261,6 @@
     "url": "https://github.com/dogum/procedural-art"
   },
   {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 183,
-    "updated_at": "2026-09-25T22:49:26Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "Eval-gated executive portfolio briefs: tone-blind severity rubric, watermelon-reporting detection, per-claim citations, ",
     "id": "sheldongomes1/portfolio-brief-gate",
     "language": "Python",
@@ -212,7 +275,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-25T22:55:18Z",
+    "updated_at": "2026-09-25T23:08:44Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "wshobson/agents",
     "stars": 39975,
-    "updated_at": "2026-09-25T22:40:06Z",
+    "updated_at": "2026-09-25T23:12:45Z",
     "url": "https://github.com/wshobson/agents"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T22:10:55Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-09-25T22:10:07Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
-    "id": "dimitritholen/1337-claude",
-    "language": "Shell",
-    "name": "dimitritholen/1337-claude",
-    "stars": 0,
-    "updated_at": "2026-09-25T22:11:44Z",
-    "url": "https://github.com/dimitritholen/1337-claude"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-09-25T22:07:50Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-25T22:06:58Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-09-25T22:06:55Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-25T22:06:14Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-25T22:04:52Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
   }
 ]
