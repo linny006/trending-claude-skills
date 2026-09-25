@@ -1,5 +1,113 @@
 [
   {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-25T11:44:57Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
+    "id": "illodev/drawn-by-code",
+    "language": "JavaScript",
+    "name": "illodev/drawn-by-code",
+    "stars": 4,
+    "updated_at": "2026-09-25T11:44:18Z",
+    "url": "https://github.com/illodev/drawn-by-code"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-25T11:43:40Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Riffkit agent skills, named by what you want to make. Generated daily from riffkit.ai/SKILL.md.",
+    "id": "riffkit/skills",
+    "language": "Python",
+    "name": "riffkit/skills",
+    "stars": 0,
+    "updated_at": "2026-09-25T11:43:22Z",
+    "url": "https://github.com/riffkit/skills"
+  },
+  {
+    "description": "Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor ",
+    "id": "michael-denyer/pstack-claude",
+    "language": "TypeScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 584,
+    "updated_at": "2026-09-25T11:40:59Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": "Tanino \u2014 il consigliere dell'imprenditore per gestire dipendenti e collaboratori. Skill per Claude, by Studio121.",
+    "id": "studio121-develop/tanino",
+    "language": "Shell",
+    "name": "studio121-develop/tanino",
+    "stars": 0,
+    "updated_at": "2026-09-25T11:37:30Z",
+    "url": "https://github.com/studio121-develop/tanino"
+  },
+  {
+    "description": "Self-hosted shared memory infrastructure for AI agents with versioned knowledge and conflict-safe writes.",
+    "id": "rementum/rementum",
+    "language": "TypeScript",
+    "name": "rementum/rementum",
+    "stars": 2,
+    "updated_at": "2026-09-25T11:35:19Z",
+    "url": "https://github.com/rementum/rementum"
+  },
+  {
+    "description": "Agent Skill \u2014 single entry for auditing self-authored Claude Code assets when a new Claude model takes a role: a runtime",
+    "id": "shimo4228/generation-audit",
+    "language": "Shell",
+    "name": "shimo4228/generation-audit",
+    "stars": 0,
+    "updated_at": "2026-09-25T11:35:15Z",
+    "url": "https://github.com/shimo4228/generation-audit"
+  },
+  {
+    "description": "Message bus skill for Claude Code agents: file inboxes for projects and subagents, background wake-ups, cron schedule an",
+    "id": "jtapes/claude-bus",
+    "language": "JavaScript",
+    "name": "jtapes/claude-bus",
+    "stars": 3,
+    "updated_at": "2026-09-25T11:34:35Z",
+    "url": "https://github.com/jtapes/claude-bus"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 64,
+    "updated_at": "2026-09-25T11:32:20Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-25T11:31:36Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-25T11:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "My collection of Claude skills",
     "id": "oaustegard/claude-skills",
     "language": "Python",
@@ -18,12 +126,21 @@
     "url": "https://github.com/lenamonj/jeffy-loop"
   },
   {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
+    "id": "ratel-ai/ratel",
+    "language": "Rust",
+    "name": "ratel-ai/ratel",
+    "stars": 452,
+    "updated_at": "2026-09-25T11:28:31Z",
+    "url": "https://github.com/ratel-ai/ratel"
+  },
+  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-25T11:28:06Z",
+    "updated_at": "2026-09-25T11:43:56Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -81,24 +198,6 @@
     "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-25T11:24:12Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
-    "id": "illodev/drawn-by-code",
-    "language": "JavaScript",
-    "name": "illodev/drawn-by-code",
-    "stars": 4,
-    "updated_at": "2026-09-25T11:20:20Z",
-    "url": "https://github.com/illodev/drawn-by-code"
-  },
-  {
     "description": "Jarvis: one lead agent you talk to, a fleet of workers that builds. A Superset plugin with usage-aware model routing acr",
     "id": "gorock007/superset-jarvis",
     "language": "Shell",
@@ -113,7 +212,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-25T11:30:02Z",
+    "updated_at": "2026-09-25T11:43:10Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -135,15 +234,6 @@
     "url": "https://github.com/nikolajhh2008-svg/aba-setup"
   },
   {
-    "description": "Tanino \u2014 il consigliere dell'imprenditore per gestire dipendenti e collaboratori. Skill per Claude, by Studio121.",
-    "id": "studio121-develop/tanino",
-    "language": "Shell",
-    "name": "studio121-develop/tanino",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:18:03Z",
-    "url": "https://github.com/studio121-develop/tanino"
-  },
-  {
     "description": "",
     "id": "SELAT-AI/selat-skills",
     "language": "JavaScript",
@@ -151,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-09-25T11:17:25Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-25T11:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -171,13 +252,13 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 145,
-    "updated_at": "2026-09-25T11:28:52Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 853,
+    "updated_at": "2026-09-25T11:10:19Z",
+    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "paper-rewriter \u2014 Agent Skill (SKILL.md open format)",
@@ -205,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-09-25T11:05:49Z",
     "url": "https://github.com/dbhq-uk/dovetail-skill"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 852,
-    "updated_at": "2026-09-25T11:10:19Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T10:56:37Z",
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "Compiler-exact code search for Claude Code and Codex, over a SCIP index - definitions, references, callers and change im",
-    "id": "dbhq-uk/vela-skill",
-    "language": "C#",
-    "name": "dbhq-uk/vela-skill",
-    "stars": 6,
-    "updated_at": "2026-09-25T11:06:34Z",
-    "url": "https://github.com/dbhq-uk/vela-skill"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19464,
-    "updated_at": "2026-09-25T10:55:03Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-09-25T10:55:01Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-09-25T10:54:57Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "Official Riffkit skill \u2014 riff a winning TikTok into your own short video from your AI agent (Claude Code, Cursor) or the",
-    "id": "riffkit/skill",
-    "language": "\u2014",
-    "name": "riffkit/skill",
-    "stars": 7,
-    "updated_at": "2026-09-25T10:54:13Z",
-    "url": "https://github.com/riffkit/skill"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 1,
-    "updated_at": "2026-09-25T10:52:14Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T10:51:57Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Use strong models for decisions, economy models for execution, and repository-backed state for long-running engineering.",
-    "id": "jaywavfeng/agent-project-manager",
-    "language": "Python",
-    "name": "jaywavfeng/agent-project-manager",
-    "stars": 1,
-    "updated_at": "2026-09-25T10:50:30Z",
-    "url": "https://github.com/jaywavfeng/agent-project-manager"
   }
 ]
