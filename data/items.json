@@ -1,12 +1,201 @@
 [
   {
+    "description": "Compiler-exact code search for Claude Code and Codex, over a SCIP index - definitions, references, callers and change im",
+    "id": "dbhq-uk/vela-skill",
+    "language": "C#",
+    "name": "dbhq-uk/vela-skill",
+    "stars": 6,
+    "updated_at": "2026-09-25T09:44:57Z",
+    "url": "https://github.com/dbhq-uk/vela-skill"
+  },
+  {
     "description": "Trello skill pack for Claude Code and Codex - boards, lists and cards, board digests and a due-date radar. A free tool b",
     "id": "dbhq-uk/trello-skill",
     "language": "Shell",
     "name": "dbhq-uk/trello-skill",
     "stars": 2,
-    "updated_at": "2026-09-25T09:29:05Z",
+    "updated_at": "2026-09-25T09:44:01Z",
     "url": "https://github.com/dbhq-uk/trello-skill"
+  },
+  {
+    "description": "\ud83e\udde0 A portable home for reusable AI agent skills shared across Codex and Claude Code\u2014single-source, validation-first, and ",
+    "id": "reagin/agent-skills",
+    "language": "\u2014",
+    "name": "reagin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:43:18Z",
+    "url": "https://github.com/reagin/agent-skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-25T09:44:57Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Put a second agent on the work - as an adversary or as a partner - and get back a result you can cite. Five patterns, th",
+    "id": "dbhq-uk/groupwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/groupwork-skill",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:40:10Z",
+    "url": "https://github.com/dbhq-uk/groupwork-skill"
+  },
+  {
+    "description": "\u5feb\u624b\u9ad8\u8d5e\u89c6\u9891\u641c\u7d22\u5de5\u5177\u3002\u652f\u6301\u5173\u952e\u8bcd\u83b7\u53d6\u5feb\u624b\u5b9e\u65f6\u9ad8\u8d5e\u89c6\u9891\u6570\u636e\uff0c\u52a9\u529b\u521b\u4f5c\u8005\u53d1\u73b0\u70ed\u95e8\u8d8b\u52bf\u3001\u83b7\u53d6\u521b\u4f5c\u7075\u611f\u3002",
+    "id": "why20261/kuaishou-video-search",
+    "language": "JavaScript",
+    "name": "why20261/kuaishou-video-search",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:39:48Z",
+    "url": "https://github.com/why20261/kuaishou-video-search"
+  },
+  {
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
+    "id": "elementalsouls/Claude-BugHunter",
+    "language": "Python",
+    "name": "elementalsouls/Claude-BugHunter",
+    "stars": 4657,
+    "updated_at": "2026-09-25T09:39:08Z",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "description": "\u8b93 AI \u51fa\u4e00\u4efd\u539f\u5275\u7684\u5b78\u6e2c\u6a21\u64ec\u8003\uff1a\u547d\u984c\u3001\u89e3\u984c\u9a57\u7b97\u3001\u5957\u7528\u5927\u8003\u6b63\u5f0f\u7248\u9762\uff0c\u4ea4\u4ed8\u984c\u76ee\u8207\u7b54\u6848\u8a73\u89e3\u5169\u4efd PDF\u3002\u652f\u63f4 Claude\u3001ChatGPT\u3001Gemini\uff1b\u5b78\u6e2c\u4e03\u79d1\u53ef\u7528\uff0c\u6703\u8003\u8207\u5206\u79d1\u6e2c\u9a57\u898f\u5283\u4e2d\u3002",
+    "id": "niansia/taiwan-exam",
+    "language": "Python",
+    "name": "niansia/taiwan-exam",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:38:36Z",
+    "url": "https://github.com/niansia/taiwan-exam"
+  },
+  {
+    "description": "Claude Code skills that turn a running app into a branded PDF guide, a narrated demo GIF and a launch video. MIT.",
+    "id": "prafullakalu/Satva-COE-skills-agents",
+    "language": "JavaScript",
+    "name": "prafullakalu/Satva-COE-skills-agents",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:38:30Z",
+    "url": "https://github.com/prafullakalu/Satva-COE-skills-agents"
+  },
+  {
+    "description": "Git branch housekeeping skill for Claude Code and Codex - says which branches are finished and safe to delete where a sq",
+    "id": "dbhq-uk/gitview-skill",
+    "language": "Python",
+    "name": "dbhq-uk/gitview-skill",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:44:21Z",
+    "url": "https://github.com/dbhq-uk/gitview-skill"
+  },
+  {
+    "description": "You shipped it and nobody is buying. Install this and Claude Code diagnoses why, then hands you the proven moves that fi",
+    "id": "maxxthemate-png/why-isnt-it-selling",
+    "language": "Python",
+    "name": "maxxthemate-png/why-isnt-it-selling",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:37:12Z",
+    "url": "https://github.com/maxxthemate-png/why-isnt-it-selling"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 22,
+    "updated_at": "2026-09-25T09:37:04Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Turns Claude Code into a learning loop: quizzes you on your own diffs, tracks weak spots per developer.",
+    "id": "Tykok/learning-with-claude",
+    "language": "Shell",
+    "name": "Tykok/learning-with-claude",
+    "stars": 1,
+    "updated_at": "2026-09-25T09:36:52Z",
+    "url": "https://github.com/Tykok/learning-with-claude"
+  },
+  {
+    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
+    "id": "shauryalowkeygotaura/brand-launchpad",
+    "language": "HTML",
+    "name": "shauryalowkeygotaura/brand-launchpad",
+    "stars": 1,
+    "updated_at": "2026-09-25T09:36:41Z",
+    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
+  },
+  {
+    "description": "Microsoft 365 mail and calendar skill for Claude Code and Codex, plus PST archives into searchable markdown. A free tool",
+    "id": "dbhq-uk/outlook-skill",
+    "language": "Shell",
+    "name": "dbhq-uk/outlook-skill",
+    "stars": 2,
+    "updated_at": "2026-09-25T09:36:19Z",
+    "url": "https://github.com/dbhq-uk/outlook-skill"
+  },
+  {
+    "description": "Jira and Confluence skill for Claude Code and Codex - raise and read issues after checking the project key, issue type a",
+    "id": "dbhq-uk/atlassian-skill",
+    "language": "Python",
+    "name": "dbhq-uk/atlassian-skill",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:36:16Z",
+    "url": "https://github.com/dbhq-uk/atlassian-skill"
+  },
+  {
+    "description": "Claude Code and Codex skill that runs a repository's open issues as parallel agents - one per issue, each in its own git",
+    "id": "dbhq-uk/buildwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/buildwork-skill",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:34:58Z",
+    "url": "https://github.com/dbhq-uk/buildwork-skill"
+  },
+  {
+    "description": "A Better, Verifiable, Snapshot-Based Multi-Edit Tool Plugin For Claude Code",
+    "id": "subashc2023/ultra-edit",
+    "language": "Rust",
+    "name": "subashc2023/ultra-edit",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:34:20Z",
+    "url": "https://github.com/subashc2023/ultra-edit"
+  },
+  {
+    "description": "imager - generate and edit images with OpenAI's GPT Image 2 from Claude Code and Codex. 27 style presets, platform sizin",
+    "id": "dbhq-uk/imager-skill",
+    "language": "Python",
+    "name": "dbhq-uk/imager-skill",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:43:12Z",
+    "url": "https://github.com/dbhq-uk/imager-skill"
+  },
+  {
+    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
+    "id": "dimitritholen/1337-claude",
+    "language": "Shell",
+    "name": "dimitritholen/1337-claude",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:31:48Z",
+    "url": "https://github.com/dimitritholen/1337-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-25T09:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Sniff your Markdown drafts against house rules with local regex checks and optional AI judgment calls.",
+    "id": "Spirounkempt95/snifftest",
+    "language": "TypeScript",
+    "name": "Spirounkempt95/snifftest",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:29:22Z",
+    "url": "https://github.com/Spirounkempt95/snifftest"
   },
   {
     "description": "Claude Code and Codex skill that checks whether a repository still agrees with itself - dead links, orphans, stale docs,",
@@ -14,7 +203,7 @@
     "language": "Python",
     "name": "dbhq-uk/dovetail-skill",
     "stars": 3,
-    "updated_at": "2026-09-25T09:29:04Z",
+    "updated_at": "2026-09-25T09:41:28Z",
     "url": "https://github.com/dbhq-uk/dovetail-skill"
   },
   {
@@ -25,42 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T09:28:41Z",
     "url": "https://github.com/richawo/yaps-plugins"
-  },
-  {
-    "description": "Put a second agent on the work - as an adversary or as a partner - and get back a result you can cite. Five patterns, th",
-    "id": "dbhq-uk/groupwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/groupwork-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:28:20Z",
-    "url": "https://github.com/dbhq-uk/groupwork-skill"
-  },
-  {
-    "description": "Claude Code and Codex skill that runs a repository's open issues as parallel agents - one per issue, each in its own git",
-    "id": "dbhq-uk/buildwork-skill",
-    "language": "Python",
-    "name": "dbhq-uk/buildwork-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:27:57Z",
-    "url": "https://github.com/dbhq-uk/buildwork-skill"
-  },
-  {
-    "description": "Jira and Confluence skill for Claude Code and Codex - raise and read issues after checking the project key, issue type a",
-    "id": "dbhq-uk/atlassian-skill",
-    "language": "Python",
-    "name": "dbhq-uk/atlassian-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:27:25Z",
-    "url": "https://github.com/dbhq-uk/atlassian-skill"
-  },
-  {
-    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
-    "id": "dimitritholen/1337-claude",
-    "language": "Shell",
-    "name": "dimitritholen/1337-claude",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:27:23Z",
-    "url": "https://github.com/dimitritholen/1337-claude"
   },
   {
     "description": "\u2692\ufe0f La forja de skills y plugins para Claude Code de Diego Reyes. Marketing, pauta, estrategia y productividad.",
@@ -81,13 +234,13 @@
     "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
-    "description": "Compiler-exact code search for Claude Code and Codex, over a SCIP index - definitions, references, callers and change im",
-    "id": "dbhq-uk/vela-skill",
-    "language": "C#",
-    "name": "dbhq-uk/vela-skill",
-    "stars": 6,
-    "updated_at": "2026-09-25T09:28:56Z",
-    "url": "https://github.com/dbhq-uk/vela-skill"
+    "description": "Claude Code skills that audit any Instagram account: engagement, genuine vs internal likes, and an expert review of cont",
+    "id": "Murtadha-Najem/instagram-account-audit",
+    "language": "Python",
+    "name": "Murtadha-Najem/instagram-account-audit",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:26:48Z",
+    "url": "https://github.com/Murtadha-Najem/instagram-account-audit"
   },
   {
     "description": "\u6296\u97f3\u9ad8\u8d5e\u89c6\u9891\u641c\u7d22\u5de5\u5177\u3002\u652f\u6301\u5173\u952e\u8bcd\u83b7\u53d6\u6296\u97f3\u5b9e\u65f6\u9ad8\u8d5e\u89c6\u9891\u6570\u636e\uff0c\u52a9\u529b\u521b\u4f5c\u8005\u53d1\u73b0\u70ed\u95e8\u8d8b\u52bf\u3001\u83b7\u53d6\u521b\u4f5c\u7075\u611f\u3002",
@@ -108,24 +261,6 @@
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
-    "description": "Claude Code skills that audit any Instagram account: engagement, genuine vs internal likes, and an expert review of cont",
-    "id": "murtadha203/instagram-account-audit",
-    "language": "Python",
-    "name": "murtadha203/instagram-account-audit",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:26:48Z",
-    "url": "https://github.com/murtadha203/instagram-account-audit"
-  },
-  {
-    "description": "imager - generate and edit images with OpenAI's GPT Image 2 from Claude Code and Codex. 27 style presets, platform sizin",
-    "id": "dbhq-uk/imager-skill",
-    "language": "Python",
-    "name": "dbhq-uk/imager-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:25:27Z",
-    "url": "https://github.com/dbhq-uk/imager-skill"
-  },
-  {
     "description": "Agent skills (SKILL.md) for Claude Code and OpenAI Codex. agent-optimiser audits Claude Code subagents: tool allowlists,",
     "id": "IonDen/skills",
     "language": "Python",
@@ -133,33 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T09:24:54Z",
     "url": "https://github.com/IonDen/skills"
-  },
-  {
-    "description": "Git branch housekeeping skill for Claude Code and Codex - says which branches are finished and safe to delete where a sq",
-    "id": "dbhq-uk/gitview-skill",
-    "language": "Python",
-    "name": "dbhq-uk/gitview-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:30:00Z",
-    "url": "https://github.com/dbhq-uk/gitview-skill"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 22,
-    "updated_at": "2026-09-25T09:24:09Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Microsoft 365 mail and calendar skill for Claude Code and Codex, plus PST archives into searchable markdown. A free tool",
-    "id": "dbhq-uk/outlook-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/outlook-skill",
-    "stars": 2,
-    "updated_at": "2026-09-25T09:23:28Z",
-    "url": "https://github.com/dbhq-uk/outlook-skill"
   },
   {
     "description": "File what an agent notices as a tracked GitHub issue, reconcile the dependency graph, and keep a roadmap in git",
@@ -180,15 +288,6 @@
     "url": "https://github.com/pablogiaccaglia/writing-register"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-25T09:23:58Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
     "id": "heymegabyte/claude-skills",
     "language": "TypeScript",
@@ -196,15 +295,6 @@
     "stars": 22,
     "updated_at": "2026-09-25T09:17:58Z",
     "url": "https://github.com/heymegabyte/claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-25T09:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skill that builds timed, offline HTML mock exams for professional IT certifications (Databricks, Microsoft, AWS a",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T09:02:01Z",
     "url": "https://github.com/a1964378/geo-mcp-servers"
-  },
-  {
-    "description": "Garmin Connect health and fitness data for Claude Code and Codex - Body Battery, HRV, sleep, activities, VO2 max and tra",
-    "id": "dbhq-uk/garmin-skill",
-    "language": "Python",
-    "name": "dbhq-uk/garmin-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:02:00Z",
-    "url": "https://github.com/dbhq-uk/garmin-skill"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:01:55Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 243,
-    "updated_at": "2026-09-25T09:01:36Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
-  },
-  {
-    "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
-    "id": "Poetic-squamouscell685/aahl-web-scraper",
-    "language": "HTML",
-    "name": "Poetic-squamouscell685/aahl-web-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:00:53Z",
-    "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation.",
-    "id": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "language": "Python",
-    "name": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "stars": 1,
-    "updated_at": "2026-09-25T09:00:50Z",
-    "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Skills related to Data Engineering Work for Claude Code",
-    "id": "AltimateAI/data-engineering-skills",
-    "language": "\u2014",
-    "name": "AltimateAI/data-engineering-skills",
-    "stars": 124,
-    "updated_at": "2026-09-25T09:00:42Z",
-    "url": "https://github.com/AltimateAI/data-engineering-skills"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-09-25T08:59:17Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-09-25T08:59:14Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "International Justice and tribunals",
-    "id": "jeannesulzer/international-criminal-tribunals-skills",
-    "language": "Python",
-    "name": "jeannesulzer/international-criminal-tribunals-skills",
-    "stars": 4,
-    "updated_at": "2026-09-25T08:57:28Z",
-    "url": "https://github.com/jeannesulzer/international-criminal-tribunals-skills"
-  },
-  {
-    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. 64 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0438, 21",
-    "id": "ilyautov/humanizer-ru",
-    "language": "Python",
-    "name": "ilyautov/humanizer-ru",
-    "stars": 388,
-    "updated_at": "2026-09-25T08:56:47Z",
-    "url": "https://github.com/ilyautov/humanizer-ru"
   }
 ]
