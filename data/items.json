@@ -1,5 +1,113 @@
 [
   {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-25T03:45:09Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
+    "id": "takimdigital/deckhand-skill",
+    "language": "Python",
+    "name": "takimdigital/deckhand-skill",
+    "stars": 1,
+    "updated_at": "2026-09-25T03:44:08Z",
+    "url": "https://github.com/takimdigital/deckhand-skill"
+  },
+  {
+    "description": "Claude Agent Skill: precise, monochrome, editable draw.io architecture & connection diagrams \u2014 generated from Python, li",
+    "id": "wangchongyu/drawio-architecture-diagrams",
+    "language": "Python",
+    "name": "wangchongyu/drawio-architecture-diagrams",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:43:46Z",
+    "url": "https://github.com/wangchongyu/drawio-architecture-diagrams"
+  },
+  {
+    "description": "Stop context rot. Your main agent hands off the digging - searches, logs, whole files - and gets back only the conclusio",
+    "id": "humeicw/dirty-work",
+    "language": "\u2014",
+    "name": "humeicw/dirty-work",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:41:38Z",
+    "url": "https://github.com/humeicw/dirty-work"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-25T03:41:18Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "OmniRed: Multi-AI offensive security skills library for Claude, ChatGPT, Gemini & Microsoft Copilot \u2014 with unique MCP, L",
+    "id": "sunilgentyala/OmniRed",
+    "language": "PowerShell",
+    "name": "sunilgentyala/OmniRed",
+    "stars": 5,
+    "updated_at": "2026-09-25T03:41:11Z",
+    "url": "https://github.com/sunilgentyala/OmniRed"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-09-25T03:37:58Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-25T03:37:40Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2594,
+    "updated_at": "2026-09-25T03:44:53Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Publication-ready research figures from a single command: forest plots, KM curves with risk tables, PRISMA 2020, ROC wit",
+    "id": "docsor1212/academic-figures",
+    "language": "Python",
+    "name": "docsor1212/academic-figures",
+    "stars": 1,
+    "updated_at": "2026-09-25T03:31:49Z",
+    "url": "https://github.com/docsor1212/academic-figures"
+  },
+  {
+    "description": "Skills I keep around for Claude Code and Codex, mostly prompts I got tired of retyping. Take one folder, or let the rout",
+    "id": "wilbeibi/wilbeibi-skills",
+    "language": "Python",
+    "name": "wilbeibi/wilbeibi-skills",
+    "stars": 2,
+    "updated_at": "2026-09-25T03:31:16Z",
+    "url": "https://github.com/wilbeibi/wilbeibi-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-25T03:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Skill cho AI coding agent: bi\u00ean t\u1eadp v\u0103n ti\u1ebfng Vi\u1ec7t b\u1ecf d\u1ea5u v\u0103n AI \u2014 danh m\u1ee5c d\u1ea5u hi\u1ec7u c\u00f3 ngu\u1ed3n tr\u00edch d\u1eabn + m\u00e1y qu\u00e9t deter",
     "id": "cuongducle/viet-humanize",
     "language": "Python",
@@ -59,7 +167,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-25T03:29:07Z",
+    "updated_at": "2026-09-25T03:44:13Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -106,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T03:16:02Z",
     "url": "https://github.com/caucasianwalnutkennedy79/fake-foreign-health-audit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-25T03:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
@@ -243,15 +342,6 @@
     "url": "https://github.com/sa746062/web-perf-audit"
   },
   {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-09-25T03:26:50Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
     "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
     "id": "Free-Soul/MemDreamer",
     "language": "Python",
@@ -259,15 +349,6 @@
     "stars": 4,
     "updated_at": "2026-09-25T03:07:31Z",
     "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2594,
-    "updated_at": "2026-09-25T03:07:02Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
     "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T03:03:31Z",
     "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-25T03:03:20Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Explore a public Claude Code source snapshot for security research, supply-chain analysis, and CLI architecture review",
-    "id": "Angeliquetreated862/claude-code-src",
-    "language": "TypeScript",
-    "name": "Angeliquetreated862/claude-code-src",
-    "stars": 2,
-    "updated_at": "2026-09-25T03:03:12Z",
-    "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-25T03:03:10Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Add self-learning voice notifications for Claude Code with edge-tts, phrase pools, priority queues, and anti-repeat hand",
-    "id": "Secondvisitation783/claude-voice-system",
-    "language": "\u2014",
-    "name": "Secondvisitation783/claude-voice-system",
-    "stars": 1,
-    "updated_at": "2026-09-25T03:03:08Z",
-    "url": "https://github.com/Secondvisitation783/claude-voice-system"
-  },
-  {
-    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
-    "id": "Defiladeboarfish90/agent-memory",
-    "language": "TypeScript",
-    "name": "Defiladeboarfish90/agent-memory",
-    "stars": 2,
-    "updated_at": "2026-09-25T03:03:07Z",
-    "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-09-25T03:03:05Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-09-25T03:02:57Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
-  },
-  {
-    "description": "Use Codex in Claude Code for code reviews and delegated tasks with background job control",
-    "id": "carolafortified787/codex-plugin-cc",
-    "language": "JavaScript",
-    "name": "carolafortified787/codex-plugin-cc",
-    "stars": 1,
-    "updated_at": "2026-09-25T03:02:48Z",
-    "url": "https://github.com/carolafortified787/codex-plugin-cc"
-  },
-  {
-    "description": "Explore Claude Code CLI source code for learning, analysis, and TypeScript Bun CLI tool design",
-    "id": "tapperisobar941/claude-code-cli",
-    "language": "\u2014",
-    "name": "tapperisobar941/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-09-25T03:02:43Z",
-    "url": "https://github.com/tapperisobar941/claude-code-cli"
   }
 ]
