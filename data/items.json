@@ -1,12 +1,120 @@
 [
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-09-25T12:29:41Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "38 slash commands that turn your AI coding agent (Claude Code, Codex, \u2026) into a real PDLC workflow \u2014 PRD \u2192 TDD \u2192 impleme",
+    "id": "kanfu-panda/pdlc-skills",
+    "language": "Shell",
+    "name": "kanfu-panda/pdlc-skills",
+    "stars": 16,
+    "updated_at": "2026-09-25T12:29:01Z",
+    "url": "https://github.com/kanfu-panda/pdlc-skills"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-09-25T12:28:31Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 1,
+    "updated_at": "2026-09-25T12:28:18Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Decision-research skill for Claude Code and Codex - every claim states how well it is supported, and says when the evide",
+    "id": "dbhq-uk/legwork-skill",
     "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-09-25T12:16:33Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
+    "name": "dbhq-uk/legwork-skill",
+    "stars": 3,
+    "updated_at": "2026-09-25T12:28:09Z",
+    "url": "https://github.com/dbhq-uk/legwork-skill"
+  },
+  {
+    "description": "Claude Code plugins and skills \u2014 install with /plugin marketplace add Sakalya100/claude-skills",
+    "id": "Sakalya100/claude-skills",
+    "language": "Shell",
+    "name": "Sakalya100/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-25T12:26:48Z",
+    "url": "https://github.com/Sakalya100/claude-skills"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-09-25T12:26:09Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-25T12:25:10Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-25T12:27:52Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
+    "id": "illodev/drawn-by-code",
+    "language": "JavaScript",
+    "name": "illodev/drawn-by-code",
+    "stars": 4,
+    "updated_at": "2026-09-25T12:22:12Z",
+    "url": "https://github.com/illodev/drawn-by-code"
+  },
+  {
+    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
+    "id": "crackcricketdash/Everything-Claude-Code-2026",
+    "language": "\u2014",
+    "name": "crackcricketdash/Everything-Claude-Code-2026",
+    "stars": 1,
+    "updated_at": "2026-09-25T12:21:07Z",
+    "url": "https://github.com/crackcricketdash/Everything-Claude-Code-2026"
+  },
+  {
+    "description": "humanizer-ru: \u043e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 AI-\u0442\u0435\u043a\u0441\u0442 \u0434\u043b\u044f Claude Code, Cursor, Codex \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. 64 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0430 \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0438, 21",
+    "id": "ilyautov/humanizer-ru",
+    "language": "Python",
+    "name": "ilyautov/humanizer-ru",
+    "stars": 388,
+    "updated_at": "2026-09-25T12:21:17Z",
+    "url": "https://github.com/ilyautov/humanizer-ru"
+  },
+  {
+    "description": "Claude Code plugin + zero-dependency CLI for TypeSafe's Jev: judge items in bulk with calibrated yes/no, pick-one and ru",
+    "id": "Shakibuzzaman3104/claude-jev-funnel",
+    "language": "Python",
+    "name": "Shakibuzzaman3104/claude-jev-funnel",
+    "stars": 0,
+    "updated_at": "2026-09-25T12:18:22Z",
+    "url": "https://github.com/Shakibuzzaman3104/claude-jev-funnel"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +122,26 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 48,
-    "updated_at": "2026-09-25T12:15:13Z",
+    "updated_at": "2026-09-25T12:17:35Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-09-25T12:27:32Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Claude Code marketplace: review, critique and delegation bridges to Codex, Grok Build, Cursor, Devin, GitHub Copilot, An",
+    "id": "devohmycode/agent-bridges-cc",
+    "language": "JavaScript",
+    "name": "devohmycode/agent-bridges-cc",
+    "stars": 0,
+    "updated_at": "2026-09-25T12:15:48Z",
+    "url": "https://github.com/devohmycode/agent-bridges-cc"
   },
   {
     "description": "An evaluator for product and business ideas: where your idea breaks, with sources, and your first step tomorrow.",
@@ -34,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T12:12:02Z",
     "url": "https://github.com/Azgoum/tests-exploratoires-agentiques"
-  },
-  {
-    "description": "Claude Code plugin + zero-dependency CLI for TypeSafe's Jev: judge items in bulk with calibrated yes/no, pick-one and ru",
-    "id": "Shakibuzzaman3104/claude-jev-funnel",
-    "language": "Python",
-    "name": "Shakibuzzaman3104/claude-jev-funnel",
-    "stars": 0,
-    "updated_at": "2026-09-25T12:11:08Z",
-    "url": "https://github.com/Shakibuzzaman3104/claude-jev-funnel"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -70,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T12:06:42Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-25T12:13:34Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 5,
-    "updated_at": "2026-09-25T12:16:32Z",
-    "url": "https://github.com/mr-kelly/skills"
   },
   {
     "description": "A free Claude skill that checks your P&L against what Amazon, Shopify and TikTok Shop actually recorded and paid you.",
@@ -135,15 +234,6 @@
     "url": "https://github.com/Studio-121-Srls/tanino"
   },
   {
-    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
-    "id": "illodev/drawn-by-code",
-    "language": "JavaScript",
-    "name": "illodev/drawn-by-code",
-    "stars": 4,
-    "updated_at": "2026-09-25T12:00:51Z",
-    "url": "https://github.com/illodev/drawn-by-code"
-  },
-  {
     "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
     "id": "ArcticFox2029/chamnan",
     "language": "Python",
@@ -158,7 +248,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-25T12:16:47Z",
+    "updated_at": "2026-09-25T12:23:47Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -187,15 +277,6 @@
     "stars": 11,
     "updated_at": "2026-09-25T11:45:20Z",
     "url": "https://github.com/isheng-eqi/media-crawler-easy"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 145,
-    "updated_at": "2026-09-25T12:08:47Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T11:18:09Z",
     "url": "https://github.com/nikolajhh2008-svg/aba-setup"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-09-25T11:17:25Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-25T11:14:32Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 854,
-    "updated_at": "2026-09-25T12:10:56Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "imager - a Claude Code and Codex skill that generates and edits images with OpenAI's GPT Image models (gpt-image-2.5-fla",
-    "id": "dbhq-uk/imager-skill",
-    "language": "Python",
-    "name": "dbhq-uk/imager-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:08:35Z",
-    "url": "https://github.com/dbhq-uk/imager-skill"
-  },
-  {
-    "description": "paper-rewriter \u2014 Agent Skill (SKILL.md open format)",
-    "id": "docsor1212/paper-rewriter",
-    "language": "Python",
-    "name": "docsor1212/paper-rewriter",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:06:46Z",
-    "url": "https://github.com/docsor1212/paper-rewriter"
-  },
-  {
-    "description": "The DBHQ plugin marketplace for Claude Code and Codex - fifteen free, open-source agent skills, each documented at skill",
-    "id": "dbhq-uk/marketplace",
-    "language": "\u2014",
-    "name": "dbhq-uk/marketplace",
-    "stars": 2,
-    "updated_at": "2026-09-25T11:06:01Z",
-    "url": "https://github.com/dbhq-uk/marketplace"
-  },
-  {
-    "description": "Claude Code and Codex skill that checks whether a repository still agrees with itself - dead links, orphans, stale docs,",
-    "id": "dbhq-uk/dovetail-skill",
-    "language": "Python",
-    "name": "dbhq-uk/dovetail-skill",
-    "stars": 3,
-    "updated_at": "2026-09-25T11:05:49Z",
-    "url": "https://github.com/dbhq-uk/dovetail-skill"
-  },
-  {
-    "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
-    "id": "indocindesertplant48/claude-vault",
-    "language": "TypeScript",
-    "name": "indocindesertplant48/claude-vault",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:02:15Z",
-    "url": "https://github.com/indocindesertplant48/claude-vault"
-  },
-  {
-    "description": "Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly",
-    "id": "Carlosdalv669/formify-skills",
-    "language": "HTML",
-    "name": "Carlosdalv669/formify-skills",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:01:49Z",
-    "url": "https://github.com/Carlosdalv669/formify-skills"
   }
 ]
