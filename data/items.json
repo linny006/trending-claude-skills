@@ -1,12 +1,147 @@
 [
   {
+    "description": "An evaluator for product and business ideas: where your idea breaks, with sources, and your first step tomorrow.",
+    "id": "paulmorphic/pitch-polynomial",
+    "language": "\u2014",
+    "name": "paulmorphic/pitch-polynomial",
+    "stars": 0,
+    "updated_at": "2026-09-25T12:14:38Z",
+    "url": "https://github.com/paulmorphic/pitch-polynomial"
+  },
+  {
+    "description": "TEXA (Tests EXploratoires Agentiques) \u2014 skill Claude Code : tests exploratoires guid\u00e9s par persona via Playwright MCP, r",
+    "id": "Azgoum/tests-exploratoires-agentiques",
+    "language": "\u2014",
+    "name": "Azgoum/tests-exploratoires-agentiques",
+    "stars": 0,
+    "updated_at": "2026-09-25T12:12:02Z",
+    "url": "https://github.com/Azgoum/tests-exploratoires-agentiques"
+  },
+  {
+    "description": "Claude Code plugin + zero-dependency CLI for TypeSafe's Jev: judge items in bulk with calibrated yes/no, pick-one and ru",
+    "id": "Shakibuzzaman3104/claude-jev-funnel",
+    "language": "Python",
+    "name": "Shakibuzzaman3104/claude-jev-funnel",
+    "stars": 0,
+    "updated_at": "2026-09-25T12:11:08Z",
+    "url": "https://github.com/Shakibuzzaman3104/claude-jev-funnel"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-25T12:10:51Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "One command \u2192 a whole AI team for your project: Master orchestrator + specialists + memory for Claude Code",
+    "id": "alekseevdenis1995-ai/mastermind",
+    "language": "PowerShell",
+    "name": "alekseevdenis1995-ai/mastermind",
+    "stars": 2,
+    "updated_at": "2026-09-25T12:09:59Z",
+    "url": "https://github.com/alekseevdenis1995-ai/mastermind"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-25T12:06:42Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-25T12:13:34Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
     "description": "Agent Skills by mr-kelly",
     "id": "mr-kelly/skills",
     "language": "JavaScript",
     "name": "mr-kelly/skills",
     "stars": 5,
-    "updated_at": "2026-09-25T11:57:25Z",
+    "updated_at": "2026-09-25T12:14:18Z",
     "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "A free Claude skill that checks your P&L against what Amazon, Shopify and TikTok Shop actually recorded and paid you.",
+    "id": "ShubhashSharma/profit-truth-audit",
+    "language": "Python",
+    "name": "ShubhashSharma/profit-truth-audit",
+    "stars": 0,
+    "updated_at": "2026-09-25T12:05:14Z",
+    "url": "https://github.com/ShubhashSharma/profit-truth-audit"
+  },
+  {
+    "description": "Awesome Claude Code And Agent Tools",
+    "id": "cooler333/awesome-claude-code",
+    "language": "Python",
+    "name": "cooler333/awesome-claude-code",
+    "stars": 13,
+    "updated_at": "2026-09-25T12:04:50Z",
+    "url": "https://github.com/cooler333/awesome-claude-code"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
+    "language": "Python",
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 555,
+    "updated_at": "2026-09-25T12:04:01Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-25T12:01:19Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Tanino \u2014 il consigliere dell'imprenditore per gestire dipendenti e collaboratori. Skill per Claude, by Studio121.",
+    "id": "Studio-121-Srls/tanino",
+    "language": "Python",
+    "name": "Studio-121-Srls/tanino",
+    "stars": 0,
+    "updated_at": "2026-09-25T12:01:22Z",
+    "url": "https://github.com/Studio-121-Srls/tanino"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-09-25T12:12:05Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
+    "id": "illodev/drawn-by-code",
+    "language": "JavaScript",
+    "name": "illodev/drawn-by-code",
+    "stars": 4,
+    "updated_at": "2026-09-25T12:00:51Z",
+    "url": "https://github.com/illodev/drawn-by-code"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-25T12:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
@@ -23,17 +158,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-25T11:52:06Z",
+    "updated_at": "2026-09-25T12:10:33Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-25T11:53:27Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
@@ -54,15 +180,6 @@
     "url": "https://github.com/GangJaeYu/harness_loop_full_korean"
   },
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 22,
-    "updated_at": "2026-09-25T11:57:14Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
     "description": " Claude Code Skill\uff1aB\u7ad9/\u5c0f\u7ea2\u4e66/\u6296\u97f3/\u5feb\u624b/\u5fae\u535a/\u8d34\u5427/\u77e5\u4e4e \u591a\u5e73\u53f0\u793e\u5a92\u8bc4\u8bba\u91c7\u96c6\u722c\u866b\u3002\u626b\u7801\u767b\u5f55\uff0c\u81ea\u52a8\u751f\u6210 HTML   \u62a5\u544a+CSV\uff0c\u652f\u6301\u5173\u952e\u8bcd\u641c\u7d22/\u6307\u5b9a\u94fe\u63a5/\u521b\u4f5c\u8005\u4e3b\u9875\u4e09\u79cd\u6a21\u5f0f",
     "id": "isheng-eqi/media-crawler-easy",
     "language": "Python",
@@ -72,31 +189,13 @@
     "url": "https://github.com/isheng-eqi/media-crawler-easy"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-25T11:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
     "id": "arbiterForge/codeArbiter",
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-25T11:52:29Z",
+    "updated_at": "2026-09-25T12:08:47Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
-    "id": "illodev/drawn-by-code",
-    "language": "JavaScript",
-    "name": "illodev/drawn-by-code",
-    "stars": 4,
-    "updated_at": "2026-09-25T11:44:18Z",
-    "url": "https://github.com/illodev/drawn-by-code"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -124,15 +223,6 @@
     "stars": 584,
     "updated_at": "2026-09-25T11:40:59Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
-  },
-  {
-    "description": "Tanino \u2014 il consigliere dell'imprenditore per gestire dipendenti e collaboratori. Skill per Claude, by Studio121.",
-    "id": "Studio-121-Srls/tanino",
-    "language": "Shell",
-    "name": "Studio-121-Srls/tanino",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:37:30Z",
-    "url": "https://github.com/Studio-121-Srls/tanino"
   },
   {
     "description": "Self-hosted shared memory infrastructure for AI agents with versioned knowledge and conflict-safe writes.",
@@ -176,7 +266,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-25T11:55:46Z",
+    "updated_at": "2026-09-25T12:11:25Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -302,7 +392,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 854,
-    "updated_at": "2026-09-25T11:10:19Z",
+    "updated_at": "2026-09-25T12:10:56Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T11:01:49Z",
     "url": "https://github.com/Carlosdalv669/formify-skills"
-  },
-  {
-    "description": "Fold your MacBook display for a soft, blurring desktop effect\u2014animated live at 60 fps with lid-angle smoothing on Apple ",
-    "id": "lazybean3/hinge",
-    "language": "\u2014",
-    "name": "lazybean3/hinge",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:01:48Z",
-    "url": "https://github.com/lazybean3/hinge"
-  },
-  {
-    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
-    "id": "alternative-intelligence-cp/claude-skills",
-    "language": "Python",
-    "name": "alternative-intelligence-cp/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-25T11:01:32Z",
-    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:01:30Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:00:50Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:00:17Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-09-25T11:00:01Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Extract design tokens - colors, type, spacing, shadows - from a URL, screenshot, or CSS into CSS variables and JSON.",
-    "id": "humbleteam/extract-design-tokens",
-    "language": "\u2014",
-    "name": "humbleteam/extract-design-tokens",
-    "stars": 1,
-    "updated_at": "2026-09-25T10:59:51Z",
-    "url": "https://github.com/humbleteam/extract-design-tokens"
-  },
-  {
-    "description": "Pixel-faithful HTML mockups from a reference screenshot - census first, then render",
-    "id": "humbleteam/html-mockup",
-    "language": "\u2014",
-    "name": "humbleteam/html-mockup",
-    "stars": 1,
-    "updated_at": "2026-09-25T10:59:36Z",
-    "url": "https://github.com/humbleteam/html-mockup"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-09-25T10:58:32Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "Microsoft 365 mail and calendar skill for Claude Code and Codex, plus PST archives into searchable markdown. A free tool",
-    "id": "dbhq-uk/outlook-skill",
-    "language": "Shell",
-    "name": "dbhq-uk/outlook-skill",
-    "stars": 2,
-    "updated_at": "2026-09-25T10:58:12Z",
-    "url": "https://github.com/dbhq-uk/outlook-skill"
   }
 ]
