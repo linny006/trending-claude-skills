@@ -1,5 +1,86 @@
 [
   {
+    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing know",
+    "id": "undefined-ui/second-brain-os",
+    "language": "HTML",
+    "name": "undefined-ui/second-brain-os",
+    "stars": 432,
+    "updated_at": "2026-09-25T02:13:54Z",
+    "url": "https://github.com/undefined-ui/second-brain-os"
+  },
+  {
+    "description": "Transcription, captions, speech, translation, audio, image and video tools for AI agents. 14 skills powered by the local",
+    "id": "richawo/yaps-plugins",
+    "language": "JavaScript",
+    "name": "richawo/yaps-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-25T02:12:53Z",
+    "url": "https://github.com/richawo/yaps-plugins"
+  },
+  {
+    "description": "A film crew for your AI video prompts: director, DP, gaffer, editor & script supervisor turn a one-line idea into a shot",
+    "id": "HEOJUNFO/ai-film-crew",
+    "language": "\u2014",
+    "name": "HEOJUNFO/ai-film-crew",
+    "stars": 0,
+    "updated_at": "2026-09-25T02:12:45Z",
+    "url": "https://github.com/HEOJUNFO/ai-film-crew"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-09-25T02:09:48Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, an",
+    "id": "agamm/claude-code-owasp",
+    "language": "\u2014",
+    "name": "agamm/claude-code-owasp",
+    "stars": 366,
+    "updated_at": "2026-09-25T02:07:56Z",
+    "url": "https://github.com/agamm/claude-code-owasp"
+  },
+  {
+    "description": "Agent skills repository",
+    "id": "ooooooooooooooooooop/personal-ai",
+    "language": "Python",
+    "name": "ooooooooooooooooooop/personal-ai",
+    "stars": 4,
+    "updated_at": "2026-09-25T02:06:43Z",
+    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+  },
+  {
+    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
+    "id": "takimdigital/deckhand-skill",
+    "language": "JavaScript",
+    "name": "takimdigital/deckhand-skill",
+    "stars": 1,
+    "updated_at": "2026-09-25T02:06:06Z",
+    "url": "https://github.com/takimdigital/deckhand-skill"
+  },
+  {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 22,
+    "updated_at": "2026-09-25T02:04:03Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 47,
+    "updated_at": "2026-09-25T02:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI humanizer skill for Claude Code, Codex and Cursor. Removes AI slop and the signs of AI writing, then measures the rew",
     "id": "ilien-dev/quiron",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 4,
-    "updated_at": "2026-09-25T01:59:32Z",
+    "updated_at": "2026-09-25T02:05:54Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T01:57:33Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Agent skills repository",
-    "id": "ooooooooooooooooooop/personal-ai",
-    "language": "Python",
-    "name": "ooooooooooooooooooop/personal-ai",
-    "stars": 4,
-    "updated_at": "2026-09-25T01:56:53Z",
-    "url": "https://github.com/ooooooooooooooooooop/personal-ai"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -81,31 +153,13 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "Transcription, captions, speech, translation, audio, image and video tools for AI agents. 14 skills powered by the local",
-    "id": "richawo/yaps-plugins",
-    "language": "JavaScript",
-    "name": "richawo/yaps-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:47:00Z",
-    "url": "https://github.com/richawo/yaps-plugins"
-  },
-  {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
     "id": "arbiterForge/codeArbiter",
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-25T01:46:53Z",
+    "updated_at": "2026-09-25T02:10:54Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "A film crew for your AI video prompts: director, DP, gaffer, editor & script supervisor turn a one-line idea into a shot",
-    "id": "HEOJUNFO/ai-film-crew",
-    "language": "\u2014",
-    "name": "HEOJUNFO/ai-film-crew",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:46:42Z",
-    "url": "https://github.com/HEOJUNFO/ai-film-crew"
   },
   {
     "description": "\u6cd5\u4ee4\u30fb\u8ad6\u6587\u3092\u3001\u7701\u7565\u305b\u305a1\u6761\u305a\u3064\u30fb1\u6bb5\u843d\u305a\u3064\u5bfe\u8a71\u3067\u8aad\u307f\u89e3\u304fClaude\u7528\u30b9\u30ad\u30eb\u300c\u7c92\u8aad\u307f(\u3064\u3076\u3088\u307f)\u300d",
@@ -117,21 +171,12 @@
     "url": "https://github.com/RT2231/tsubuyomi"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 47,
-    "updated_at": "2026-09-25T01:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
     "id": "JakeSelby/agent-harness",
     "language": "Python",
     "name": "JakeSelby/agent-harness",
     "stars": 17,
-    "updated_at": "2026-09-25T01:58:28Z",
+    "updated_at": "2026-09-25T02:14:07Z",
     "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T01:20:35Z",
     "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:20:17Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:19:25Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Real mountains, glass and paintings made with code and real elevation data. No image model. Two Claude skills.",
-    "id": "dogum/procedural-art",
-    "language": "Python",
-    "name": "dogum/procedural-art",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:18:17Z",
-    "url": "https://github.com/dogum/procedural-art"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:18:12Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:17:30Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
