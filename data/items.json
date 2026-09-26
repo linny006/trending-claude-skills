@@ -1,5 +1,131 @@
 [
   {
+    "description": "unfk-image rewrites the hidden metadata inside your JPEGs, TIFFs, PNGs, and HEIC files \u2014 the Make/Model, lens, focal len",
+    "id": "vonspurter/unfk-image",
+    "language": "\u2014",
+    "name": "vonspurter/unfk-image",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:29:39Z",
+    "url": "https://github.com/vonspurter/unfk-image"
+  },
+  {
+    "description": "Agent skills taken from a working stack, written to the Agent Skills specification. First: obsidian-vault-maintenance.",
+    "id": "mikemcg87/agent-skills",
+    "language": "\u2014",
+    "name": "mikemcg87/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:26:45Z",
+    "url": "https://github.com/mikemcg87/agent-skills"
+  },
+  {
+    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
+    "id": "illodev/drawn-by-code",
+    "language": "JavaScript",
+    "name": "illodev/drawn-by-code",
+    "stars": 5,
+    "updated_at": "2026-09-26T00:24:47Z",
+    "url": "https://github.com/illodev/drawn-by-code"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-26T00:29:18Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 145,
+    "updated_at": "2026-09-26T00:25:02Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-26T00:23:42Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Vast.ai python and cli api client",
+    "id": "vast-ai/vast-cli",
+    "language": "Python",
+    "name": "vast-ai/vast-cli",
+    "stars": 221,
+    "updated_at": "2026-09-26T00:22:09Z",
+    "url": "https://github.com/vast-ai/vast-cli"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 3,
+    "updated_at": "2026-09-26T00:22:06Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-09-26T00:21:58Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-26T00:20:15Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 446,
+    "updated_at": "2026-09-26T00:19:52Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/raghuram-skills",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/raghuram-skills",
+    "stars": 1,
+    "updated_at": "2026-09-26T00:18:04Z",
+    "url": "https://github.com/raghuramsirigiri/raghuram-skills"
+  },
+  {
+    "description": "Turn pull requests and code diffs into interactive HTML walkthroughs that explain the logical flow of a change.",
+    "id": "malav2110/explain-diff-html",
+    "language": "HTML",
+    "name": "malav2110/explain-diff-html",
+    "stars": 7,
+    "updated_at": "2026-09-26T00:17:44Z",
+    "url": "https://github.com/malav2110/explain-diff-html"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T00:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
     "id": "crackcricketdash/Everything-Claude-Code-2026",
     "language": "\u2014",
@@ -9,21 +135,12 @@
     "url": "https://github.com/crackcricketdash/Everything-Claude-Code-2026"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-26T00:14:30Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
     "id": "JakeSelby/agent-harness",
     "language": "Python",
     "name": "JakeSelby/agent-harness",
     "stars": 20,
-    "updated_at": "2026-09-26T00:07:58Z",
+    "updated_at": "2026-09-26T00:26:36Z",
     "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
@@ -45,15 +162,6 @@
     "url": "https://github.com/MohammedAlshami/openabstracts"
   },
   {
-    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 446,
-    "updated_at": "2026-09-26T00:13:57Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
     "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
     "id": "davepoon/buildwithclaude",
     "language": "Python",
@@ -72,15 +180,6 @@
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T00:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
     "id": "sayam/thai-docx-skill",
     "language": "Python",
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T00:07:10Z",
     "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
-    "description": "unfk-image rewrites the hidden metadata inside your JPEGs, TIFFs, PNGs, and HEIC files \u2014 the Make/Model, lens, focal len",
-    "id": "vonspurter/unfk-image",
-    "language": "\u2014",
-    "name": "vonspurter/unfk-image",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:56:57Z",
-    "url": "https://github.com/vonspurter/unfk-image"
   },
   {
     "description": "The system your AI agents are missing \u2014 synced instructions, workflow skills, hardened secrets, and autonomous loops acr",
@@ -274,7 +364,7 @@
     "id": "alexgreensh/anidoodle",
     "language": "TypeScript",
     "name": "alexgreensh/anidoodle",
-    "stars": 275,
+    "stars": 277,
     "updated_at": "2026-09-25T23:46:34Z",
     "url": "https://github.com/alexgreensh/anidoodle"
   },
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T23:42:46Z",
     "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-25T23:42:28Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:42:24Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-09-25T23:42:20Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-09-25T23:42:18Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:42:03Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-09-25T23:41:56Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:41:53Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Claude Code skill: turn a script and one photo into a publish-ready AI presenter (talking-head) video with fal.ai. Lip s",
-    "id": "AlexisAMZ/claude-presenter-video",
-    "language": "Python",
-    "name": "AlexisAMZ/claude-presenter-video",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:41:24Z",
-    "url": "https://github.com/AlexisAMZ/claude-presenter-video"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 21,
-    "updated_at": "2026-09-26T00:00:51Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-09-25T23:41:11Z",
-    "url": "https://github.com/noman3271/caveman"
   }
 ]
