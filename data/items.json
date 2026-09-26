@@ -1,12 +1,129 @@
 [
   {
-    "description": "Claude paints with code \u2014 a Claude Code skill for procedural painting in three styles: Chinese ink wash (\u6c34\u58a8), watercolou",
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-26T02:30:09Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-09-26T02:28:42Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/agent-harness",
+    "language": "Python",
+    "name": "JakeSelby/agent-harness",
+    "stars": 20,
+    "updated_at": "2026-09-26T02:27:09Z",
+    "url": "https://github.com/JakeSelby/agent-harness"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-09-26T02:26:32Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-26T02:25:47Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 CLI \u043d\u0430 TypeScript/Bun: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0418\u0418-\u0441\u0442\u0438\u043b\u044c \u0432 \u0440\u0443\u0441\u0441\u043a\u0438\u0445 \u0442\u0435\u043a\u0441\u0442\u0430\u0445 (\u043a\u0430\u043d\u0446\u0435\u043b\u044f\u0440\u0438\u0442, \u043a\u0430\u043b\u044c\u043a\u0438, \u0448\u0442\u0430\u043c\u043f\u044b),",
+    "id": "ormeilu/avoid-ai-writing-russian",
+    "language": "Python",
+    "name": "ormeilu/avoid-ai-writing-russian",
+    "stars": 13,
+    "updated_at": "2026-09-26T02:24:16Z",
+    "url": "https://github.com/ormeilu/avoid-ai-writing-russian"
+  },
+  {
+    "description": "\u4ece\u6e38\u620f\u5ba2\u6237\u7aef\u53cd\u63a8\u670d\u52a1\u7aef\u534f\u8bae\u5e76\u590d\u73b0\u53ef\u90e8\u7f72\u670d\u52a1\u7aef (Agent Skill)\u3002Unity/UE/Cocos, IL2CPP/Lua/JS\u2026",
+    "id": "ShrugYu/game-client-to-server-reverse",
+    "language": "Python",
+    "name": "ShrugYu/game-client-to-server-reverse",
+    "stars": 18,
+    "updated_at": "2026-09-26T02:21:43Z",
+    "url": "https://github.com/ShrugYu/game-client-to-server-reverse"
+  },
+  {
+    "description": "Claude paints with code \u2014 a Claude Code skill for procedural illustration in six styles: Chinese ink wash (\u6c34\u58a8), watercol",
     "id": "cloveric/claude-drawing-skill",
     "language": "Python",
     "name": "cloveric/claude-drawing-skill",
     "stars": 0,
-    "updated_at": "2026-09-26T02:08:54Z",
+    "updated_at": "2026-09-26T02:21:12Z",
     "url": "https://github.com/cloveric/claude-drawing-skill"
+  },
+  {
+    "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, con",
+    "id": "LetA-Tech/mellions-coxen",
+    "language": "Go",
+    "name": "LetA-Tech/mellions-coxen",
+    "stars": 1,
+    "updated_at": "2026-09-26T02:20:26Z",
+    "url": "https://github.com/LetA-Tech/mellions-coxen"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-26T02:19:22Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "16 Claude Code skills for SEO automation: technical audits, topical maps, backlink outreach, parasite SEO, local SEO & G",
+    "id": "abouchard11/midnight-seo-skills",
+    "language": "Shell",
+    "name": "abouchard11/midnight-seo-skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T02:19:12Z",
+    "url": "https://github.com/abouchard11/midnight-seo-skills"
+  },
+  {
+    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
+    "id": "KijitoAI/kijito-tools",
+    "language": "JavaScript",
+    "name": "KijitoAI/kijito-tools",
+    "stars": 0,
+    "updated_at": "2026-09-26T02:18:07Z",
+    "url": "https://github.com/KijitoAI/kijito-tools"
+  },
+  {
+    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-09-26T02:21:51Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T02:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Your agent says \"done\" and it is not. A gated multi-agent circuit for Claude Code: whoever implements does not verify, t",
@@ -27,15 +144,6 @@
     "url": "https://github.com/nahiddotai/operator-powers"
   },
   {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T02:10:44Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -52,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-26T02:02:58Z",
     "url": "https://github.com/gfargo/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T02:01:57Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Move a development environment to a new machine: an Agent Skill plus a tiny CLI that encrypts the backup with your passp",
@@ -86,7 +185,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19472,
-    "updated_at": "2026-09-26T01:59:11Z",
+    "updated_at": "2026-09-26T02:18:40Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -117,15 +216,6 @@
     "url": "https://github.com/ridelink0/ultimate-frontend-skills"
   },
   {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/agent-harness",
-    "language": "Python",
-    "name": "JakeSelby/agent-harness",
-    "stars": 20,
-    "updated_at": "2026-09-26T01:57:28Z",
-    "url": "https://github.com/JakeSelby/agent-harness"
-  },
-  {
     "description": "Skill que busca posts de vaga no LinkedIn pelo seu pr\u00f3prio Chrome, faz a triagem (red flags, nota de fit 0\u201310), escreve ",
     "id": "renanmachad/claude-code-linkedin-automation",
     "language": "Python",
@@ -133,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T01:52:32Z",
     "url": "https://github.com/renanmachad/claude-code-linkedin-automation"
-  },
-  {
-    "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, con",
-    "id": "LetA-Tech/mellions-coxen",
-    "language": "Go",
-    "name": "LetA-Tech/mellions-coxen",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:51:44Z",
-    "url": "https://github.com/LetA-Tech/mellions-coxen"
   },
   {
     "description": "Skill invocation runner: install an Agent Skill in a fresh fixture, invoke an agent harness headlessly, and report what ",
@@ -196,15 +277,6 @@
     "stars": 5,
     "updated_at": "2026-09-26T01:43:55Z",
     "url": "https://github.com/illodev/drawn-by-code"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-26T02:12:23Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T01:36:20Z",
     "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:33:54Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:33:48Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:33:10Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:33:08Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:32:53Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-09-26T01:32:32Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:32:23Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:32:15Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
   }
 ]
