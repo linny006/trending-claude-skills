@@ -1,5 +1,86 @@
 [
   {
+    "description": "Claude Code skills + subagents: grilling, handoffs, kanban workflow, pair (manager+implementer), and an unattended orche",
+    "id": "KrishP147/skills",
+    "language": "Python",
+    "name": "KrishP147/skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T04:58:59Z",
+    "url": "https://github.com/KrishP147/skills"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance Claude Code with Gemini CLI for better code generation, reviews, testing, documentation, and architecture anal",
+    "id": "Junayedahmedd/gemini_cli_skill",
+    "language": "\u2014",
+    "name": "Junayedahmedd/gemini_cli_skill",
+    "stars": 3,
+    "updated_at": "2026-09-26T04:56:18Z",
+    "url": "https://github.com/Junayedahmedd/gemini_cli_skill"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 66,
+    "updated_at": "2026-09-26T04:53:54Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "Work-process skills for Claude Code and Codex CLI. Each skill states one promise and ships the checks that would catch i",
+    "id": "opascope/skills",
+    "language": "Python",
+    "name": "opascope/skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T04:52:23Z",
+    "url": "https://github.com/opascope/skills"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 21,
+    "updated_at": "2026-09-26T04:58:41Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 85 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, customer academy, paid ",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 15,
+    "updated_at": "2026-09-26T04:51:36Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Claude Code skill: is this the whole thing, or one expression of something bigger? Blocks narrow fixes before you call t",
+    "id": "ibrohimislam/zoom-out",
+    "language": "JavaScript",
+    "name": "ibrohimislam/zoom-out",
+    "stars": 1,
+    "updated_at": "2026-09-26T04:48:02Z",
+    "url": "https://github.com/ibrohimislam/zoom-out"
+  },
+  {
+    "description": "A training and eating plan that checks its own work before you see it. Refuses to guess, catches its own mistakes, and w",
+    "id": "rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete",
+    "language": "Python",
+    "name": "rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete",
+    "stars": 2,
+    "updated_at": "2026-09-26T04:46:51Z",
+    "url": "https://github.com/rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T04:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
     "id": "0xc000022070/agentic-flake",
     "language": "Nix",
@@ -14,17 +95,8 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 2,
-    "updated_at": "2026-09-26T04:43:23Z",
+    "updated_at": "2026-09-26T04:52:22Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Claude Code skill: is this the whole thing, or one expression of something bigger? Blocks narrow fixes before you call t",
-    "id": "ibrohimislam/zoom-out",
-    "language": "JavaScript",
-    "name": "ibrohimislam/zoom-out",
-    "stars": 1,
-    "updated_at": "2026-09-26T04:40:46Z",
-    "url": "https://github.com/ibrohimislam/zoom-out"
   },
   {
     "description": "Claude Code skill: decides first whether a book's site is a funnel or a companion, then sequences launch channels and em",
@@ -90,24 +162,6 @@
     "url": "https://github.com/NFTYoginis/book-production-skills"
   },
   {
-    "description": "Claude Code skills + subagents: grilling, handoffs, kanban workflow, pair (manager+implementer), and an unattended orche",
-    "id": "KrishP147/skills",
-    "language": "Python",
-    "name": "KrishP147/skills",
-    "stars": 0,
-    "updated_at": "2026-09-26T04:38:50Z",
-    "url": "https://github.com/KrishP147/skills"
-  },
-  {
-    "description": "Work-process skills for Claude Code and Codex CLI. Each skill states one promise and ships the checks that would catch i",
-    "id": "opascope/skills",
-    "language": "Python",
-    "name": "opascope/skills",
-    "stars": 0,
-    "updated_at": "2026-09-26T04:37:18Z",
-    "url": "https://github.com/opascope/skills"
-  },
-  {
     "description": "Claude Code skills for engineering, research, and patent work where a plausible answer isn't good enough. Built-in check",
     "id": "hemapriyan-rk/claude-rigor-skills",
     "language": "TeX",
@@ -115,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T04:32:27Z",
     "url": "https://github.com/hemapriyan-rk/claude-rigor-skills"
-  },
-  {
-    "description": "A training and eating plan that checks its own work before you see it. Refuses to guess, catches its own mistakes, and w",
-    "id": "rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 2,
-    "updated_at": "2026-09-26T04:31:37Z",
-    "url": "https://github.com/rishabhrawat35/diet-workout-plan-as-if-you-were-an-athlete"
   },
   {
     "description": "Cite Holmes - deep research skill that interrogates its own citations",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "sayam/thai-docx-skill",
     "stars": 0,
-    "updated_at": "2026-09-26T04:38:59Z",
+    "updated_at": "2026-09-26T04:54:56Z",
     "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
@@ -153,15 +198,6 @@
     "url": "https://github.com/RootCawsLLC/pmo-assistant"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T04:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "You say the job; the playbook runs. 143 agent skills + 55 commands for Cursor, Claude Code, Codex, Gemini. React / Next.",
     "id": "kensaurus/cursor-kenji",
     "language": "JavaScript",
@@ -169,15 +205,6 @@
     "stars": 9,
     "updated_at": "2026-09-26T04:26:32Z",
     "url": "https://github.com/kensaurus/cursor-kenji"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/agent-harness",
-    "language": "Python",
-    "name": "JakeSelby/agent-harness",
-    "stars": 20,
-    "updated_at": "2026-09-26T04:39:40Z",
-    "url": "https://github.com/JakeSelby/agent-harness"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "semlith/semlith",
     "stars": 1,
-    "updated_at": "2026-09-26T04:15:47Z",
+    "updated_at": "2026-09-26T04:57:25Z",
     "url": "https://github.com/semlith/semlith"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T03:38:42Z",
     "url": "https://github.com/cloveric/claude-drawing-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:38:40Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "\u5c0f\u7ea2\u4e66\u7528\u6237\u9700\u6c42\u6d1e\u5bdf\u4e0e\u4ea7\u54c1\u673a\u4f1a\u5206\u6790\u6280\u80fd\uff0c\u9002\u7528\u4e8e\u57fa\u4e8e\u5c0f\u7ea2\u4e66\u516c\u5f00\u6570\u636e\u7684\u65b0\u4ea7\u54c1\u5f00\u53d1\u3001\u8425\u9500\u7b56\u5212\u3001\u54c1\u7c7b\u5207\u5165\u524d\u7684\u5e02\u573a\u5206\u6790\uff1b\u9002\u7528\u4e8e\u57fa\u4e8e\u6570\u636e\u5206\u6790\u7684\u6d1e\u5bdf\u5230\u521b\u4e1a\u843d\u5730\u6846\u67b6\uff1a\u7528\u6237\u753b\u50cf\u8bc6\u522b\u3001\u60c5\u7eea\u52a8\u673a\u6316\u6398\u3001\u6d1e\u5bdf\u8f6c\u673a\u4f1a\u3001\u521b\u4e1a\u843d\u5730\uff1b\u5e2e\u4f60\u5feb\u901f\u7406\u89e3\u76ee\u6807\u7528\u6237\u3001\u6316\u6398\u60c5\u7eea\u52a8\u673a\u3001\u628a\u6d1e\u5bdf",
-    "id": "why20261/xiaohongshu-user-insight",
-    "language": "JavaScript",
-    "name": "why20261/xiaohongshu-user-insight",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:38:24Z",
-    "url": "https://github.com/why20261/xiaohongshu-user-insight"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:37:15Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
   }
 ]
