@@ -1,11 +1,128 @@
 [
   {
+    "description": "Claude Code skills for modding S.T.A.L.K.E.R.: Shadow of Chernobyl - workspace setup, build, in-game test loop, Lua, NPC",
+    "id": "webpnk/stalker-soc-skills",
+    "language": "PowerShell",
+    "name": "webpnk/stalker-soc-skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:44:40Z",
+    "url": "https://github.com/webpnk/stalker-soc-skills"
+  },
+  {
+    "description": "A comprehensive logo-design skill for Claude: principles, process, SVG craft, testing tools and a 1,400+ logo reference ",
+    "id": "kaankiziltug/logo-design-skill",
+    "language": "HTML",
+    "name": "kaankiziltug/logo-design-skill",
+    "stars": 1,
+    "updated_at": "2026-09-26T20:44:29Z",
+    "url": "https://github.com/kaankiziltug/logo-design-skill"
+  },
+  {
+    "description": "Claude skill that gives a verdict on a chess position: reads a board diagram or FEN, runs Stockfish, and returns the bes",
+    "id": "PavelKurochka/chess-verdict",
+    "language": "Python",
+    "name": "PavelKurochka/chess-verdict",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:43:35Z",
+    "url": "https://github.com/PavelKurochka/chess-verdict"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-26T20:43:27Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
+    "id": "PollyGlot/google-play-cli",
+    "language": "Go",
+    "name": "PollyGlot/google-play-cli",
+    "stars": 10,
+    "updated_at": "2026-09-26T20:42:00Z",
+    "url": "https://github.com/PollyGlot/google-play-cli"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69460,
+    "updated_at": "2026-09-26T20:40:41Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
+    "id": "hraness/oh",
+    "language": "TypeScript",
+    "name": "hraness/oh",
+    "stars": 3,
+    "updated_at": "2026-09-26T20:42:47Z",
+    "url": "https://github.com/hraness/oh"
+  },
+  {
+    "description": "Optimized GitHub skill for coding agents: fewer tool calls, less context burned, lower cost, faster answers. One bounded",
+    "id": "AVGVSTVS96/better-github-skill",
+    "language": "TypeScript",
+    "name": "AVGVSTVS96/better-github-skill",
+    "stars": 50,
+    "updated_at": "2026-09-26T20:36:26Z",
+    "url": "https://github.com/AVGVSTVS96/better-github-skill"
+  },
+  {
+    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 15,
+    "updated_at": "2026-09-26T20:35:04Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "team-os \u2014 95 agentes e 108 skills em 10 squads (Dev, Sites, Social, Traffic, PM, Sales, Brand, Finance, Legal, SEO) para",
+    "id": "joaoguirunas/team-os",
+    "language": "Python",
+    "name": "joaoguirunas/team-os",
+    "stars": 3,
+    "updated_at": "2026-09-26T20:35:16Z",
+    "url": "https://github.com/joaoguirunas/team-os"
+  },
+  {
+    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
+    "id": "illodev/drawn-by-code",
+    "language": "JavaScript",
+    "name": "illodev/drawn-by-code",
+    "stars": 9,
+    "updated_at": "2026-09-26T20:33:35Z",
+    "url": "https://github.com/illodev/drawn-by-code"
+  },
+  {
+    "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
+    "id": "hraness/soulscrape",
+    "language": "TypeScript",
+    "name": "hraness/soulscrape",
+    "stars": 1,
+    "updated_at": "2026-09-26T20:31:36Z",
+    "url": "https://github.com/hraness/soulscrape"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T20:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Textbutler is an AI butler for the iMessage, WhatsApp, and Beeper chats you choose. It runs on your Mac and answers as a",
     "id": "hraness/textbutler",
     "language": "TypeScript",
     "name": "hraness/textbutler",
     "stars": 5,
-    "updated_at": "2026-09-26T20:30:01Z",
+    "updated_at": "2026-09-26T20:34:42Z",
     "url": "https://github.com/hraness/textbutler"
   },
   {
@@ -18,12 +135,21 @@
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
+    "description": "A paper library in plain text: one Markdown file per paper, a Unix CLI, an editable lineage graph, made for AI agents.",
+    "id": "LarryLiZimo/pp-papers",
+    "language": "HTML",
+    "name": "LarryLiZimo/pp-papers",
+    "stars": 1,
+    "updated_at": "2026-09-26T20:29:46Z",
+    "url": "https://github.com/LarryLiZimo/pp-papers"
+  },
+  {
     "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
     "id": "slopstopper/plumb-line",
     "language": "Python",
     "name": "slopstopper/plumb-line",
     "stars": 4,
-    "updated_at": "2026-09-26T20:28:31Z",
+    "updated_at": "2026-09-26T20:42:53Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -50,7 +176,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-26T20:29:50Z",
+    "updated_at": "2026-09-26T20:44:32Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -61,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T20:27:04Z",
     "url": "https://github.com/byensitmagnus/agent-mission-control"
-  },
-  {
-    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
-    "id": "illodev/drawn-by-code",
-    "language": "JavaScript",
-    "name": "illodev/drawn-by-code",
-    "stars": 9,
-    "updated_at": "2026-09-26T20:26:52Z",
-    "url": "https://github.com/illodev/drawn-by-code"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -95,7 +212,7 @@
     "language": "Python",
     "name": "IonDen/skills",
     "stars": 1,
-    "updated_at": "2026-09-26T20:21:47Z",
+    "updated_at": "2026-09-26T20:37:59Z",
     "url": "https://github.com/IonDen/skills"
   },
   {
@@ -108,24 +225,6 @@
     "url": "https://github.com/nzanepro/tvr-skills-rv"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69460,
-    "updated_at": "2026-09-26T20:19:36Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
-    "id": "PollyGlot/google-play-cli",
-    "language": "Go",
-    "name": "PollyGlot/google-play-cli",
-    "stars": 10,
-    "updated_at": "2026-09-26T20:28:24Z",
-    "url": "https://github.com/PollyGlot/google-play-cli"
-  },
-  {
     "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
     "id": "nullphase-net/enfurbish",
     "language": "TypeScript",
@@ -133,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T20:17:48Z",
     "url": "https://github.com/nullphase-net/enfurbish"
-  },
-  {
-    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
-    "id": "hraness/oh",
-    "language": "TypeScript",
-    "name": "hraness/oh",
-    "stars": 3,
-    "updated_at": "2026-09-26T20:28:22Z",
-    "url": "https://github.com/hraness/oh"
   },
   {
     "description": "\u65e5\u672c\u3067\u306e\u66ae\u3089\u3057\u3092\u624b\u4f1d\u3046AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u5411\u3051\u30b9\u30ad\u30eb\u96c6 - \u6c17\u8c61\u5e81\u30fb\u5185\u95a3\u5e9c\u30fb\u30ab\u30fc\u30ea\u30eb\u306e\u516c\u5f0f\u30c7\u30fc\u30bf\u3092\u4f7f\u3063\u305f\u30ed\u30b0\u30a4\u30f3\u4e0d\u8981\u306e\u7167\u4f1a\u30b9\u30ad\u30eb",
@@ -160,15 +250,6 @@
     "stars": 28,
     "updated_at": "2026-09-26T20:15:26Z",
     "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T20:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -257,7 +338,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-26T20:29:19Z",
+    "updated_at": "2026-09-26T20:41:25Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T19:55:09Z",
     "url": "https://github.com/demovela/agent-skill"
-  },
-  {
-    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a",
-    "id": "wshobson/agents",
-    "language": "Python",
-    "name": "wshobson/agents",
-    "stars": 40003,
-    "updated_at": "2026-09-26T19:54:17Z",
-    "url": "https://github.com/wshobson/agents"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-09-26T19:53:32Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
-    "id": "gtrabanco/agentic-workflow",
-    "language": "JavaScript",
-    "name": "gtrabanco/agentic-workflow",
-    "stars": 21,
-    "updated_at": "2026-09-26T19:53:29Z",
-    "url": "https://github.com/gtrabanco/agentic-workflow"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 22,
-    "updated_at": "2026-09-26T19:53:02Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
-    "description": "ADHD-friendly responses for Claude Code: length scales with your decisions, not the agent's effort.",
-    "id": "fercreek/focus-adhd",
-    "language": "Shell",
-    "name": "fercreek/focus-adhd",
-    "stars": 0,
-    "updated_at": "2026-09-26T19:47:40Z",
-    "url": "https://github.com/fercreek/focus-adhd"
-  },
-  {
-    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
-    "id": "dimitritholen/1337-claude",
-    "language": "Shell",
-    "name": "dimitritholen/1337-claude",
-    "stars": 0,
-    "updated_at": "2026-09-26T19:46:14Z",
-    "url": "https://github.com/dimitritholen/1337-claude"
-  },
-  {
-    "description": "A comprehensive logo-design skill for Claude: principles, process, SVG craft, testing tools and a 1,432-logo reference l",
-    "id": "kaankiziltug/logo-design-skill",
-    "language": "HTML",
-    "name": "kaankiziltug/logo-design-skill",
-    "stars": 1,
-    "updated_at": "2026-09-26T19:45:57Z",
-    "url": "https://github.com/kaankiziltug/logo-design-skill"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-09-26T19:43:48Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-26T19:43:02Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
