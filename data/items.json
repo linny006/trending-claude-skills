@@ -1,12 +1,120 @@
 [
   {
+    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
+    "id": "PollyGlot/google-play-cli",
+    "language": "Go",
+    "name": "PollyGlot/google-play-cli",
+    "stars": 10,
+    "updated_at": "2026-09-26T18:14:52Z",
+    "url": "https://github.com/PollyGlot/google-play-cli"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 3,
+    "updated_at": "2026-09-26T18:14:00Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-26T18:13:55Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-09-26T18:13:48Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
     "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
     "id": "SteveKinzey/claude-code-tools-installer",
     "language": "JavaScript",
     "name": "SteveKinzey/claude-code-tools-installer",
     "stars": 1,
-    "updated_at": "2026-09-26T17:59:05Z",
+    "updated_at": "2026-09-26T18:13:29Z",
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "Evidence-based Apple HIG skill for Claude Code \u2014 SwiftUI/AppKit/UIKit on iOS & macOS 26\u201327 (Liquid Glass), Apple-style w",
+    "id": "Okle42/hig42_design",
+    "language": "CSS",
+    "name": "Okle42/hig42_design",
+    "stars": 0,
+    "updated_at": "2026-09-26T18:13:50Z",
+    "url": "https://github.com/Okle42/hig42_design"
+  },
+  {
+    "description": "Claude skill that gives a verdict on a chess position: reads a board diagram or FEN, runs Stockfish, and returns the bes",
+    "id": "PavelKurochka/chess-verdict",
+    "language": "Python",
+    "name": "PavelKurochka/chess-verdict",
+    "stars": 0,
+    "updated_at": "2026-09-26T18:12:03Z",
+    "url": "https://github.com/PavelKurochka/chess-verdict"
+  },
+  {
+    "description": "Free ESPN fantasy hockey draft assistant that rescores projections for your league, models how each rival owner drafts, ",
+    "id": "WiredBuilder/espn-fantasy-hockey-draft-assistant",
+    "language": "Python",
+    "name": "WiredBuilder/espn-fantasy-hockey-draft-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-26T18:12:17Z",
+    "url": "https://github.com/WiredBuilder/espn-fantasy-hockey-draft-assistant"
+  },
+  {
+    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 15,
+    "updated_at": "2026-09-26T18:13:08Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-09-26T18:07:25Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 22,
+    "updated_at": "2026-09-26T18:10:43Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 11,
+    "updated_at": "2026-09-26T18:02:43Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T18:00:52Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Empirical research into how agent platforms implement Agent Skill loading, management, and presentation. Benchmark skill",
@@ -27,15 +135,6 @@
     "url": "https://github.com/illodev/drawn-by-code"
   },
   {
-    "description": "Free ESPN fantasy hockey draft assistant that rescores projections for your league, models how each rival owner drafts, ",
-    "id": "WiredBuilder/espn-fantasy-hockey-draft-assistant",
-    "language": "Python",
-    "name": "WiredBuilder/espn-fantasy-hockey-draft-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:56:59Z",
-    "url": "https://github.com/WiredBuilder/espn-fantasy-hockey-draft-assistant"
-  },
-  {
     "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
     "id": "StanimirTenev/baton",
     "language": "Python",
@@ -49,7 +148,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69451,
+    "stars": 69452,
     "updated_at": "2026-09-26T17:55:06Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -59,7 +158,7 @@
     "language": "Shell",
     "name": "nitinjain999/platform-skills",
     "stars": 45,
-    "updated_at": "2026-09-26T17:54:35Z",
+    "updated_at": "2026-09-26T18:02:34Z",
     "url": "https://github.com/nitinjain999/platform-skills"
   },
   {
@@ -86,7 +185,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-26T17:59:22Z",
+    "updated_at": "2026-09-26T18:08:51Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -97,15 +196,6 @@
     "stars": 8,
     "updated_at": "2026-09-26T17:52:50Z",
     "url": "https://github.com/the-nam-shub/e5-real-skills"
-  },
-  {
-    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
-    "id": "PollyGlot/google-play-cli",
-    "language": "Go",
-    "name": "PollyGlot/google-play-cli",
-    "stars": 10,
-    "updated_at": "2026-09-26T17:58:44Z",
-    "url": "https://github.com/PollyGlot/google-play-cli"
   },
   {
     "description": "Fire your AI setup coach: a Claude Code plugin that audits and fixes its own setup for non-coders. Read-only audit, diff",
@@ -142,15 +232,6 @@
     "stars": 28,
     "updated_at": "2026-09-26T17:47:37Z",
     "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T17:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u8389\u5a05\u7684\u9152\u9986\u5199\u5361\u65b9\u6cd5 \u2014\u2014 \u628a\u89d2\u8272\u8d44\u6599\u5199\u6210 SillyTavern \u89d2\u8272\u5361\uff08V2 \u683c\u5f0f / PList+Ali:Chat \u5199\u6cd5 / \u673a\u5236\u6e05\u5355 / \u4e09\u4e2a Python \u5de5\u5177 / \u4ece\u8d44\u6599\u5230\u6210\u54c1\u5361\u7684\u5b8c\u6574\u5b9e\u4f8b\uff09\u3002\u4e2d\u6587\u3002",
@@ -193,7 +274,7 @@
     "id": "MbappeWU/explorable",
     "language": "HTML",
     "name": "MbappeWU/explorable",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-26T17:38:34Z",
     "url": "https://github.com/MbappeWU/explorable"
   },
@@ -203,7 +284,7 @@
     "language": "TypeScript",
     "name": "hraness/soulscrape",
     "stars": 1,
-    "updated_at": "2026-09-26T17:37:34Z",
+    "updated_at": "2026-09-26T18:12:58Z",
     "url": "https://github.com/hraness/soulscrape"
   },
   {
@@ -252,15 +333,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
-    "id": "hraness/wordcell",
-    "language": "TypeScript",
-    "name": "hraness/wordcell",
-    "stars": 15,
-    "updated_at": "2026-09-26T17:36:16Z",
-    "url": "https://github.com/hraness/wordcell"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -275,7 +347,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-26T18:00:38Z",
+    "updated_at": "2026-09-26T18:12:59Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -295,15 +367,6 @@
     "stars": 427,
     "updated_at": "2026-09-26T17:26:47Z",
     "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-26T17:26:39Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a",
@@ -356,7 +419,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-26T17:21:17Z",
+    "updated_at": "2026-09-26T18:09:46Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-26T17:19:03Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:16:54Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-09-26T17:16:26Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-09-26T17:15:04Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-09-26T17:14:08Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-09-26T17:12:31Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Craft, encoded. 152 skills and 16 agents that hold an agent to a professional standard: writing, documents, engineering,",
-    "id": "Handsomeboy990/craft-suite",
-    "language": "TypeScript",
-    "name": "Handsomeboy990/craft-suite",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:09:38Z",
-    "url": "https://github.com/Handsomeboy990/craft-suite"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:03:34Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
   }
 ]
