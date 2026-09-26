@@ -1,5 +1,113 @@
 [
   {
+    "description": "Portable agent orchestration skill for Claude Code, Codex, Cursor, Grok and Kimi: route coding tasks, scope subagents, r",
+    "id": "byensitmagnus/agent-mission-control",
+    "language": "Python",
+    "name": "byensitmagnus/agent-mission-control",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:25:22Z",
+    "url": "https://github.com/byensitmagnus/agent-mission-control"
+  },
+  {
+    "description": "Claude skill that gives a verdict on a chess position: reads a board diagram or FEN, runs Stockfish, and returns the bes",
+    "id": "PavelKurochka/chess-verdict",
+    "language": "Python",
+    "name": "PavelKurochka/chess-verdict",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:25:16Z",
+    "url": "https://github.com/PavelKurochka/chess-verdict"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-26T19:24:23Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
+    "id": "PollyGlot/google-play-cli",
+    "language": "Go",
+    "name": "PollyGlot/google-play-cli",
+    "stars": 10,
+    "updated_at": "2026-09-26T19:24:26Z",
+    "url": "https://github.com/PollyGlot/google-play-cli"
+  },
+  {
+    "description": "\u4e09\u65b9\u5bf9\u6297\u5f0f\u4ee3\u7801\u8bc4\u5ba1 Agent Skill\uff1a\u84dd\u519b(\u654c\u610f\u5ba1\u67e5) \u2192 \u7b2c\u4e09\u65b9(\u72ec\u7acb\u590d\u6838) \u2192 \u4e2d\u7acb\u88c1\u5b9a\uff0c\u6bcf\u6761\u7ed3\u8bba\u5e26\u8bc1\u636e\u94fe\u3002\u5b89\u88c5\uff1anpx skills add RevolutionLA/adversarial-review \u00b7 Tri-role ",
+    "id": "RevolutionLA/adversarial-review",
+    "language": "JavaScript",
+    "name": "RevolutionLA/adversarial-review",
+    "stars": 2,
+    "updated_at": "2026-09-26T19:22:31Z",
+    "url": "https://github.com/RevolutionLA/adversarial-review"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-26T19:21:48Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Image deep research for Claude Code and Codex: licensed reference images, website contact sheets, moodboards.",
+    "id": "ridelink0/image-deep-research",
+    "language": "JavaScript",
+    "name": "ridelink0/image-deep-research",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:19:19Z",
+    "url": "https://github.com/ridelink0/image-deep-research"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 22,
+    "updated_at": "2026-09-26T19:25:18Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
+    "id": "icepower-385/Everything-Claude-Code",
+    "language": "\u2014",
+    "name": "icepower-385/Everything-Claude-Code",
+    "stars": 1,
+    "updated_at": "2026-09-26T19:17:28Z",
+    "url": "https://github.com/icepower-385/Everything-Claude-Code"
+  },
+  {
+    "description": "Agent skill for Novelist: AI agents commission complete original novels, audiobooks and printed books, paying with x402 ",
+    "id": "mds-main/novelist-agent-skill",
+    "language": "\u2014",
+    "name": "mds-main/novelist-agent-skill",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:16:27Z",
+    "url": "https://github.com/mds-main/novelist-agent-skill"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 162,
+    "updated_at": "2026-09-26T19:15:47Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T19:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -13,7 +121,7 @@
     "id": "illodev/drawn-by-code",
     "language": "JavaScript",
     "name": "illodev/drawn-by-code",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-09-26T19:14:18Z",
     "url": "https://github.com/illodev/drawn-by-code"
   },
@@ -23,7 +131,7 @@
     "language": "TypeScript",
     "name": "hraness/wordcell",
     "stars": 15,
-    "updated_at": "2026-09-26T19:13:56Z",
+    "updated_at": "2026-09-26T19:20:44Z",
     "url": "https://github.com/hraness/wordcell"
   },
   {
@@ -32,17 +140,8 @@
     "language": "TypeScript",
     "name": "karnstack/reins",
     "stars": 24,
-    "updated_at": "2026-09-26T19:14:29Z",
+    "updated_at": "2026-09-26T19:25:59Z",
     "url": "https://github.com/karnstack/reins"
-  },
-  {
-    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
-    "id": "PollyGlot/google-play-cli",
-    "language": "Go",
-    "name": "PollyGlot/google-play-cli",
-    "stars": 10,
-    "updated_at": "2026-09-26T19:12:58Z",
-    "url": "https://github.com/PollyGlot/google-play-cli"
   },
   {
     "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
@@ -52,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T19:07:55Z",
     "url": "https://github.com/hraness/soulscrape"
-  },
-  {
-    "description": "Portable agent orchestration skill for Claude Code, Codex, Cursor, Grok and Kimi: route coding tasks, scope subagents, r",
-    "id": "byensitmagnus/agent-mission-control",
-    "language": "Python",
-    "name": "byensitmagnus/agent-mission-control",
-    "stars": 0,
-    "updated_at": "2026-09-26T19:07:26Z",
-    "url": "https://github.com/byensitmagnus/agent-mission-control"
   },
   {
     "description": "\u6570\u5b66\u5efa\u6a21\u6280\u80fd - \u9762\u5411 CUMCM\u3001MCM/ICM \u7b49\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u7684\u4e09\u9636\u6bb5\u5de5\u4f5c\u6d41\uff1a\u5efa\u6a21\u5206\u6790\u3001Python/MATLAB \u7f16\u7a0b\u4e0e DOCX \u8bba\u6587\u751f\u6210\u3002\u5305\u542b\u4e30\u5bcc\u7684\u7b97\u6cd5\u8d44\u6e90\u5e93(\u4f18\u5316/\u9884\u6d4b/\u8bc4\u4ef7/\u56fe\u8bba/\u673a\u5668\u5b66\u4e60\u7b49)\u3001\u89d2\u8272\u6307\u5bfc\u6587\u6863\u3001\u8bba\u6587\u6a21\u677f\u548c\u5b9e\u7528\u5de5\u5177",
@@ -106,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T19:00:46Z",
     "url": "https://github.com/xsyetopz/dotclaude"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T19:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open Agent Skills (EN+RU) for digital signage: menu boards for caf\u00e9s and restaurants, TV slideshows, screen design, widg",
@@ -189,15 +270,6 @@
     "url": "https://github.com/fabianoallex/pascal-skills-faa"
   },
   {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 22,
-    "updated_at": "2026-09-26T19:12:56Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -214,15 +286,6 @@
     "stars": 28,
     "updated_at": "2026-09-26T18:50:00Z",
     "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "Claude skill that gives a verdict on a chess position: reads a board diagram or FEN, runs Stockfish, and returns the bes",
-    "id": "PavelKurochka/chess-verdict",
-    "language": "Python",
-    "name": "PavelKurochka/chess-verdict",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:49:14Z",
-    "url": "https://github.com/PavelKurochka/chess-verdict"
   },
   {
     "description": "Ask your coding agent how anything works. Get back a page you can play with: live, draggable simulations in one HTML fil",
@@ -283,7 +346,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 94730,
+    "stars": 94732,
     "updated_at": "2026-09-26T18:37:33Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -360,15 +423,6 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "Agent skill for Novelist: AI agents commission complete original novels, audiobooks and printed books, paying with x402 ",
-    "id": "mds-main/novelist-agent-skill",
-    "language": "\u2014",
-    "name": "mds-main/novelist-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:18:50Z",
-    "url": "https://github.com/mds-main/novelist-agent-skill"
-  },
-  {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
     "id": "JhoseWolf/sageox-hivemind-engine",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T18:13:48Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "JavaScript",
-    "name": "SteveKinzey/claude-code-tools-installer",
-    "stars": 1,
-    "updated_at": "2026-09-26T18:16:26Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
-    "description": "Evidence-based Apple HIG skill for Claude Code \u2014 SwiftUI/AppKit/UIKit on iOS & macOS 26\u201327 (Liquid Glass), Apple-style w",
-    "id": "Okle42/hig42_design",
-    "language": "CSS",
-    "name": "Okle42/hig42_design",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:13:50Z",
-    "url": "https://github.com/Okle42/hig42_design"
-  },
-  {
-    "description": "Free ESPN fantasy hockey draft assistant that rescores projections for your league, models how each rival owner drafts, ",
-    "id": "WiredBuilder/espn-fantasy-hockey-draft-assistant",
-    "language": "Python",
-    "name": "WiredBuilder/espn-fantasy-hockey-draft-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:12:17Z",
-    "url": "https://github.com/WiredBuilder/espn-fantasy-hockey-draft-assistant"
-  },
-  {
-    "description": "Agent skills for evidence-based media research, market-specific public relations, marketing, and outreach drafting",
-    "id": "shy-tangerine/publicist-skills",
-    "language": "Python",
-    "name": "shy-tangerine/publicist-skills",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:08:07Z",
-    "url": "https://github.com/shy-tangerine/publicist-skills"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-09-26T18:07:25Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-26T18:02:43Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   }
 ]
