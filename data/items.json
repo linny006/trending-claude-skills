@@ -1,5 +1,149 @@
 [
   {
+    "description": "",
+    "id": "fmschulz/omics-skills",
+    "language": "Python",
+    "name": "fmschulz/omics-skills",
+    "stars": 9,
+    "updated_at": "2026-09-26T15:44:07Z",
+    "url": "https://github.com/fmschulz/omics-skills"
+  },
+  {
+    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
+    "id": "PollyGlot/google-play-cli",
+    "language": "Go",
+    "name": "PollyGlot/google-play-cli",
+    "stars": 10,
+    "updated_at": "2026-09-26T15:44:02Z",
+    "url": "https://github.com/PollyGlot/google-play-cli"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69444,
+    "updated_at": "2026-09-26T15:44:02Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:43:50Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
+    "id": "illodev/drawn-by-code",
+    "language": "JavaScript",
+    "name": "illodev/drawn-by-code",
+    "stars": 6,
+    "updated_at": "2026-09-26T15:43:43Z",
+    "url": "https://github.com/illodev/drawn-by-code"
+  },
+  {
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a",
+    "id": "wshobson/agents",
+    "language": "Python",
+    "name": "wshobson/agents",
+    "stars": 39998,
+    "updated_at": "2026-09-26T15:45:06Z",
+    "url": "https://github.com/wshobson/agents"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-09-26T15:42:07Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-09-26T15:39:32Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-26T15:44:22Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 22,
+    "updated_at": "2026-09-26T15:38:36Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 CLI \u043d\u0430 TypeScript/Bun: \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0438 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0418\u0418-\u0441\u0442\u0438\u043b\u044c \u0432 \u0440\u0443\u0441\u0441\u043a\u0438\u0445 \u0442\u0435\u043a\u0441\u0442\u0430\u0445 (\u043a\u0430\u043d\u0446\u0435\u043b\u044f\u0440\u0438\u0442, \u043a\u0430\u043b\u044c\u043a\u0438, \u0448\u0442\u0430\u043c\u043f\u044b),",
+    "id": "ormeilu/avoid-ai-writing-russian",
+    "language": "Python",
+    "name": "ormeilu/avoid-ai-writing-russian",
+    "stars": 13,
+    "updated_at": "2026-09-26T15:36:16Z",
+    "url": "https://github.com/ormeilu/avoid-ai-writing-russian"
+  },
+  {
+    "description": "Stop babysitting your coding agent. One Agent Skill for Claude Code, Codex, Cursor, Grok and Kimi: the lead works direct",
+    "id": "byensitmagnus/agent-mission-control",
+    "language": "Python",
+    "name": "byensitmagnus/agent-mission-control",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:36:46Z",
+    "url": "https://github.com/byensitmagnus/agent-mission-control"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-26T15:34:12Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 435,
+    "updated_at": "2026-09-26T15:33:05Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T15:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Single source of truth for AI coding agent configuration \u2014 skills, commands and rules shared across OpenCode and Pi.",
+    "id": "jjmartres/ai-coding-agents",
+    "language": "TypeScript",
+    "name": "jjmartres/ai-coding-agents",
+    "stars": 48,
+    "updated_at": "2026-09-26T15:30:15Z",
+    "url": "https://github.com/jjmartres/ai-coding-agents"
+  },
+  {
     "description": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dep",
     "id": "ice-lfernandes/claude-spring-architect",
     "language": "Java",
@@ -18,24 +162,6 @@
     "url": "https://github.com/mds-main/novelist-agent-skill"
   },
   {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 435,
-    "updated_at": "2026-09-26T15:25:10Z",
-    "url": "https://github.com/xr843/Master-skill"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 22,
-    "updated_at": "2026-09-26T15:25:46Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
     "description": "Skills and agents for Claude and Gemini",
     "id": "AnaCataVC/amiga-ia",
     "language": "JavaScript",
@@ -52,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-09-26T15:17:01Z",
     "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T15:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
@@ -90,15 +207,6 @@
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69444,
-    "updated_at": "2026-09-26T15:14:31Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and de",
     "id": "Likenttt/garmin-connect-plugin-for-dsh",
     "language": "TypeScript",
@@ -117,21 +225,12 @@
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
-    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
-    "id": "illodev/drawn-by-code",
-    "language": "JavaScript",
-    "name": "illodev/drawn-by-code",
-    "stars": 6,
-    "updated_at": "2026-09-26T15:11:55Z",
-    "url": "https://github.com/illodev/drawn-by-code"
-  },
-  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "Python",
     "name": "ellmos-ai/skills",
     "stars": 6,
-    "updated_at": "2026-09-26T15:20:53Z",
+    "updated_at": "2026-09-26T15:38:35Z",
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
@@ -151,15 +250,6 @@
     "stars": 11,
     "updated_at": "2026-09-26T15:10:42Z",
     "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a",
-    "id": "wshobson/agents",
-    "language": "Python",
-    "name": "wshobson/agents",
-    "stars": 39996,
-    "updated_at": "2026-09-26T15:16:19Z",
-    "url": "https://github.com/wshobson/agents"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -203,7 +293,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-26T15:23:59Z",
+    "updated_at": "2026-09-26T15:42:21Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -241,24 +331,6 @@
     "stars": 8,
     "updated_at": "2026-09-26T14:56:55Z",
     "url": "https://github.com/vanducng/skills"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-26T15:28:13Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Single source of truth for AI coding agent configuration \u2014 skills, commands and rules shared across OpenCode and Pi.",
-    "id": "jjmartres/ai-coding-agents",
-    "language": "TypeScript",
-    "name": "jjmartres/ai-coding-agents",
-    "stars": 48,
-    "updated_at": "2026-09-26T15:29:48Z",
-    "url": "https://github.com/jjmartres/ai-coding-agents"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -376,77 +448,5 @@
     "stars": 15,
     "updated_at": "2026-09-26T14:37:40Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Karvey \u2014 m\u00e9todo spec-driven development agn\u00f3stico de stack (Af\u00e1n, selknam). Plugin de Claude Code. \u00a9 HainTech, Apache 2.",
-    "id": "MauricioQuezadaHaintech/karvey",
-    "language": "HTML",
-    "name": "MauricioQuezadaHaintech/karvey",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:51:08Z",
-    "url": "https://github.com/MauricioQuezadaHaintech/karvey"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-09-26T14:35:55Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "An audit team for data products: ten heroes, a summoner, and a villain who audits the auditors. A Claude skill.",
-    "id": "cruce5/reconcilers",
-    "language": "JavaScript",
-    "name": "cruce5/reconcilers",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:34:31Z",
-    "url": "https://github.com/cruce5/reconcilers"
-  },
-  {
-    "description": "visualize, and report code coverage within llm sessions",
-    "id": "joshLong145/ambits",
-    "language": "Rust",
-    "name": "joshLong145/ambits",
-    "stars": 17,
-    "updated_at": "2026-09-26T15:09:35Z",
-    "url": "https://github.com/joshLong145/ambits"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-26T14:29:12Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:22:59Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "A simple set of skills optimized for general-purpose software development across tech stacks.",
-    "id": "stevepolitodesign/skills",
-    "language": "JavaScript",
-    "name": "stevepolitodesign/skills",
-    "stars": 3,
-    "updated_at": "2026-09-26T14:22:57Z",
-    "url": "https://github.com/stevepolitodesign/skills"
-  },
-  {
-    "description": "Evidence-led qualitative analysis skill with five method-specific workflows and Markdown + HTML reporting",
-    "id": "thePlannerIvan/planners-quali-box",
-    "language": "JavaScript",
-    "name": "thePlannerIvan/planners-quali-box",
-    "stars": 13,
-    "updated_at": "2026-09-26T14:21:08Z",
-    "url": "https://github.com/thePlannerIvan/planners-quali-box"
   }
 ]
