@@ -1,5 +1,122 @@
 [
   {
+    "description": "Reusable Claude Code skills for branch/worktree-based PR workflow, design docs, acceptance tests, and doc maintenance.",
+    "id": "kompiro/hane",
+    "language": "Shell",
+    "name": "kompiro/hane",
+    "stars": 0,
+    "updated_at": "2026-09-26T06:28:06Z",
+    "url": "https://github.com/kompiro/hane"
+  },
+  {
+    "description": "Claude Code plugins and skills: a Remotion promo video pipeline, production deploy pipelines, Codex loops, Google Stitch",
+    "id": "tomerhayundev/skills",
+    "language": "JavaScript",
+    "name": "tomerhayundev/skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T06:27:22Z",
+    "url": "https://github.com/tomerhayundev/skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 94708,
+    "updated_at": "2026-09-26T06:24:31Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Claude Code and Codex frontend skills for cinematic websites: art direction, WebGL, parallax, three.js, audit.",
+    "id": "ridelink0/ultimate-frontend-skills",
+    "language": "JavaScript",
+    "name": "ridelink0/ultimate-frontend-skills",
+    "stars": 6,
+    "updated_at": "2026-09-26T06:24:27Z",
+    "url": "https://github.com/ridelink0/ultimate-frontend-skills"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 21,
+    "updated_at": "2026-09-26T06:26:11Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-26T06:22:49Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "A Claude skill for teaching yourself anything: learning that survives the cold test.",
+    "id": "romanprigodskii/indelible",
+    "language": "Python",
+    "name": "romanprigodskii/indelible",
+    "stars": 1,
+    "updated_at": "2026-09-26T06:22:47Z",
+    "url": "https://github.com/romanprigodskii/indelible"
+  },
+  {
+    "description": "Claude Code skills for music production \u2014 song analysis (tempo/key/stems/chords/lyrics), bass-to-MIDI transcription (CRE",
+    "id": "PerIPan/music-workflow-skills",
+    "language": "Python",
+    "name": "PerIPan/music-workflow-skills",
+    "stars": 3,
+    "updated_at": "2026-09-26T06:19:53Z",
+    "url": "https://github.com/PerIPan/music-workflow-skills"
+  },
+  {
+    "description": "Time tracking, project management and daily priorities in Notion, run by Claude. Tells you what's most urgent, what to d",
+    "id": "rohitabrahamgeorge/northstar",
+    "language": "\u2014",
+    "name": "rohitabrahamgeorge/northstar",
+    "stars": 0,
+    "updated_at": "2026-09-26T06:18:54Z",
+    "url": "https://github.com/rohitabrahamgeorge/northstar"
+  },
+  {
+    "description": "Zissa Wiki \u2014 an LLM-maintained research knowledge base in plain markdown, maintained by any AI agent (Claude, Codex, Gem",
+    "id": "MetamusicX/zissa-wiki",
+    "language": "Python",
+    "name": "MetamusicX/zissa-wiki",
+    "stars": 57,
+    "updated_at": "2026-09-26T06:18:25Z",
+    "url": "https://github.com/MetamusicX/zissa-wiki"
+  },
+  {
+    "description": "One-command setup for a full VS Code Copilot Chat agent-skills stack on Windows - 254 bundled skills (281 on disk), 18 C",
+    "id": "JZKK720/cubecloud-skills-bundle-kit",
+    "language": "HTML",
+    "name": "JZKK720/cubecloud-skills-bundle-kit",
+    "stars": 3,
+    "updated_at": "2026-09-26T06:17:30Z",
+    "url": "https://github.com/JZKK720/cubecloud-skills-bundle-kit"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-26T06:16:22Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T06:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
     "id": "filippolmt/skills",
     "language": "HTML",
@@ -16,51 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T06:13:43Z",
     "url": "https://github.com/cldr-steven-matison/NiFiandAi"
-  },
-  {
-    "description": "A Claude skill for teaching yourself anything: learning that survives the cold test.",
-    "id": "romanprigodskii/indelible",
-    "language": "Python",
-    "name": "romanprigodskii/indelible",
-    "stars": 1,
-    "updated_at": "2026-09-26T06:13:17Z",
-    "url": "https://github.com/romanprigodskii/indelible"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 21,
-    "updated_at": "2026-09-26T06:14:18Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
-    "description": "Claude Code and Codex frontend skills for cinematic websites: art direction, WebGL, parallax, three.js, audit.",
-    "id": "ridelink0/ultimate-frontend-skills",
-    "language": "JavaScript",
-    "name": "ridelink0/ultimate-frontend-skills",
-    "stars": 6,
-    "updated_at": "2026-09-26T06:06:22Z",
-    "url": "https://github.com/ridelink0/ultimate-frontend-skills"
-  },
-  {
-    "description": "Claude Code plugins and skills: a Remotion promo video pipeline, production deploy pipelines, Codex loops, Google Stitch",
-    "id": "tomerhayundev/skills",
-    "language": "Shell",
-    "name": "tomerhayundev/skills",
-    "stars": 0,
-    "updated_at": "2026-09-26T06:05:42Z",
-    "url": "https://github.com/tomerhayundev/skills"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T06:04:39Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
     "description": "Distill any crowd text (comments, survey open-ends, interviews, feedback, issue threads) into an evidence-cited action g",
@@ -99,15 +171,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T06:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Image deep research for Claude Code and Codex: licensed reference images, website contact sheets, moodboards.",
     "id": "ridelink0/image-deep-research",
     "language": "JavaScript",
@@ -133,15 +196,6 @@
     "stars": 13,
     "updated_at": "2026-09-26T05:55:29Z",
     "url": "https://github.com/smixs/code-quality"
-  },
-  {
-    "description": "Zissa Wiki \u2014 an LLM-maintained research knowledge base in plain markdown, operated via Claude Code. Implements Karpathy'",
-    "id": "MetamusicX/zissa-wiki",
-    "language": "Python",
-    "name": "MetamusicX/zissa-wiki",
-    "stars": 57,
-    "updated_at": "2026-09-26T06:07:59Z",
-    "url": "https://github.com/MetamusicX/zissa-wiki"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19473,
-    "updated_at": "2026-09-26T06:10:20Z",
+    "updated_at": "2026-09-26T06:24:39Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -261,15 +315,6 @@
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
-    "description": "Claude Code skills for music production \u2014 song analysis (tempo/key/stems/chords/lyrics), bass-to-MIDI transcription (CRE",
-    "id": "PerIPan/music-workflow-skills",
-    "language": "Python",
-    "name": "PerIPan/music-workflow-skills",
-    "stars": 3,
-    "updated_at": "2026-09-26T05:45:31Z",
-    "url": "https://github.com/PerIPan/music-workflow-skills"
-  },
-  {
     "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
     "id": "mblode/agent-skills",
     "language": "Python",
@@ -277,15 +322,6 @@
     "stars": 129,
     "updated_at": "2026-09-26T05:45:05Z",
     "url": "https://github.com/mblode/agent-skills"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 94707,
-    "updated_at": "2026-09-26T06:01:01Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "ego lite skill \u2014 each DOM step decided in ~0.4s, no LLM turn",
@@ -409,44 +445,8 @@
     "id": "illodev/drawn-by-code",
     "language": "JavaScript",
     "name": "illodev/drawn-by-code",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-09-26T05:29:59Z",
     "url": "https://github.com/illodev/drawn-by-code"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:29:47Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:29:32Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Claude Code skill: writes & improves human-facing READMEs \u2014 the single canonical entrance for humans, search, and AI Ove",
-    "id": "shimo4228/readme-writer",
-    "language": "Python",
-    "name": "shimo4228/readme-writer",
-    "stars": 1,
-    "updated_at": "2026-09-26T05:28:29Z",
-    "url": "https://github.com/shimo4228/readme-writer"
-  },
-  {
-    "description": "Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness \u2014 open Agent Skills standard, not Claude-",
-    "id": "shimo4228/claude-harness",
-    "language": "Python",
-    "name": "shimo4228/claude-harness",
-    "stars": 3,
-    "updated_at": "2026-09-26T05:28:26Z",
-    "url": "https://github.com/shimo4228/claude-harness"
   }
 ]
