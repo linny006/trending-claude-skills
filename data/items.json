@@ -1,11 +1,74 @@
 [
   {
+    "description": "Claude paints with code \u2014 a Claude Code skill for procedural painting in three styles: Chinese ink wash (\u6c34\u58a8), watercolou",
+    "id": "cloveric/claude-drawing-skill",
+    "language": "Python",
+    "name": "cloveric/claude-drawing-skill",
+    "stars": 0,
+    "updated_at": "2026-09-26T02:08:54Z",
+    "url": "https://github.com/cloveric/claude-drawing-skill"
+  },
+  {
+    "description": "Your agent says \"done\" and it is not. A gated multi-agent circuit for Claude Code: whoever implements does not verify, t",
+    "id": "cRolandoJr/ai-loop-skill",
+    "language": "\u2014",
+    "name": "cRolandoJr/ai-loop-skill",
+    "stars": 0,
+    "updated_at": "2026-09-26T02:07:09Z",
+    "url": "https://github.com/cRolandoJr/ai-loop-skill"
+  },
+  {
+    "description": "AI skills to operate and grow. Twenty-eight practical powers for non-technical operators.",
+    "id": "nahiddotai/operator-powers",
+    "language": "TypeScript",
+    "name": "nahiddotai/operator-powers",
+    "stars": 1,
+    "updated_at": "2026-09-26T02:04:41Z",
+    "url": "https://github.com/nahiddotai/operator-powers"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-26T02:10:44Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-09-26T02:03:13Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Personal skills marketplace \u2014 add it once, install any plugin for terminal, devops... and whatever else comes up",
+    "id": "gfargo/skills",
+    "language": "TypeScript",
+    "name": "gfargo/skills",
+    "stars": 2,
+    "updated_at": "2026-09-26T02:02:58Z",
+    "url": "https://github.com/gfargo/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T02:01:57Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Move a development environment to a new machine: an Agent Skill plus a tiny CLI that encrypts the backup with your passp",
     "id": "FutrixDev/envrelay-skill",
     "language": "Python",
     "name": "FutrixDev/envrelay-skill",
     "stars": 0,
-    "updated_at": "2026-09-26T02:01:04Z",
+    "updated_at": "2026-09-26T02:05:44Z",
     "url": "https://github.com/FutrixDev/envrelay-skill"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-26T02:00:43Z",
     "url": "https://github.com/letsloose501/skill-quality-suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T02:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
@@ -54,21 +108,12 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "Claude paints with code \u2014 a Claude Code skill for procedural painting in three styles: Chinese ink wash (\u6c34\u58a8), watercolou",
-    "id": "cloveric/claude-drawing-skill",
-    "language": "Python",
-    "name": "cloveric/claude-drawing-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:56:41Z",
-    "url": "https://github.com/cloveric/claude-drawing-skill"
-  },
-  {
     "description": "Ultimate Frontend Skills (UFS) for Claude Code and Codex. One route from brief to shipped page: a corpus of award-winnin",
     "id": "ridelink0/ultimate-frontend-skills",
     "language": "JavaScript",
     "name": "ridelink0/ultimate-frontend-skills",
     "stars": 6,
-    "updated_at": "2026-09-26T01:54:35Z",
+    "updated_at": "2026-09-26T02:12:14Z",
     "url": "https://github.com/ridelink0/ultimate-frontend-skills"
   },
   {
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-26T02:01:40Z",
+    "updated_at": "2026-09-26T02:12:23Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T01:40:53Z",
     "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:58:40Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
     "description": "Claude Code plugins for UK professionals \u2014 property investors, solicitors, and business owners. Real Land Registry, Righ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T01:32:15Z",
     "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-09-26T01:32:01Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:31:50Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-09-26T01:31:45Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:31:31Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
   }
 ]
