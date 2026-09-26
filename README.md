@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-26 07:43 UTC
+> ⏰ Last updated: 2026-09-26 07:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sharsh21/jira-cli](https://github.com/sharsh21/jira-cli) | 1 | TypeScript | 2026-09-26 | A small Jira Cloud CLI, plus a Claude Code skill that logs your coding sessions to Jira. |
-| 2 | [JakeSelby/model-citizen](https://github.com/JakeSelby/model-citizen) | 21 | Python | 2026-09-26 | The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan |
-| 3 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | 511 | Python | 2026-09-26 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen |
-| 4 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 23 | Python | 2026-09-26 | Engineering best practices that AI coding agents actually apply — 40+ skills, from secure coding and cloud to compliance |
-| 5 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 2883 | JavaScript | 2026-09-26 | Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering,  |
-| 6 | [using-system/oddyssey](https://github.com/using-system/oddyssey) | 9 | Python | 2026-09-26 | CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta |
-| 7 | [Neetx/ai-security-research-radar](https://github.com/Neetx/ai-security-research-radar) | 4 | — | 2026-09-26 |  AI Security Research Radar — AI for security and security for AI |
-| 8 | [SteveKinzey/claude-code-tools-installer](https://github.com/SteveKinzey/claude-code-tools-installer) | 1 | JavaScript | 2026-09-26 | Safe interactive macOS installer for a curated Claude Code tools stack |
-| 9 | [PerIPan/music-workflow-skills](https://github.com/PerIPan/music-workflow-skills) | 3 | Python | 2026-09-26 | Claude Code skills for music production — song analysis (tempo/key/stems/chords/lyrics), bass-to-MIDI transcription (CRE |
-| 10 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-09-26 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
-| 11 | [indocindesertplant48/claude-vault](https://github.com/indocindesertplant48/claude-vault) | 0 | TypeScript | 2026-09-26 | Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work. |
-| 12 | [Carlosdalv669/formify-skills](https://github.com/Carlosdalv669/formify-skills) | 0 | HTML | 2026-09-26 | Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly |
-| 13 | [lazybean3/hinge](https://github.com/lazybean3/hinge) | 0 | — | 2026-09-26 | Fold your MacBook display for a soft, blurring desktop effect—animated live at 60 fps with lid-angle smoothing on Apple  |
-| 14 | [sayam/thai-docx-skill](https://github.com/sayam/thai-docx-skill) | 0 | Python | 2026-09-26 | An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more. |
-| 15 | [crabbuild/compass](https://github.com/crabbuild/compass) | 162 | Rust | 2026-09-26 | Native, local-first knowledge graph engine for code and project artifacts—inspired by Graphify, built in Rust, and evolv |
-| 16 | [fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete](https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete) | 0 | Python | 2026-09-26 | Generate a personalized athlete-grade diet and workout plan locally—no account, no internet needed. |
-| 17 | [alicekane437/cv-job-market-research](https://github.com/alicekane437/cv-job-market-research) | 0 | — | 2026-09-26 | Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps. |
-| 18 | [SalvatoreSalernods/collega-api-google](https://github.com/SalvatoreSalernods/collega-api-google) | 0 | Shell | 2026-09-26 | Skill per Claude Code: collega una nuova API Google (Search Console, Tag Manager, Business Profile, YouTube Data…) alle  |
-| 19 | [Loriabient5377/blahblahblah-skill](https://github.com/Loriabient5377/blahblahblah-skill) | 0 | — | 2026-09-26 | Compress any long Claude response into an emoji-tagged list you can scan in five seconds. |
-| 20 | [aaamaxito-prog/deadeye](https://github.com/aaamaxito-prog/deadeye) | 0 | Swift | 2026-09-26 | Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions. |
-| 21 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 48 | Python | 2026-09-26 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-09-26 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 48 | Python | 2026-09-26 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [sharsh21/jira-cli](https://github.com/sharsh21/jira-cli) | 1 | TypeScript | 2026-09-26 | A small Jira Cloud CLI, plus a Claude Code skill that logs your coding sessions to Jira. |
+| 4 | [JakeSelby/model-citizen](https://github.com/JakeSelby/model-citizen) | 21 | Python | 2026-09-26 | The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan |
+| 5 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | 511 | Python | 2026-09-26 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen |
+| 6 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 23 | Python | 2026-09-26 | Engineering best practices that AI coding agents actually apply — 40+ skills, from secure coding and cloud to compliance |
+| 7 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 2883 | JavaScript | 2026-09-26 | Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering,  |
+| 8 | [using-system/oddyssey](https://github.com/using-system/oddyssey) | 9 | Python | 2026-09-26 | CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta |
+| 9 | [Neetx/ai-security-research-radar](https://github.com/Neetx/ai-security-research-radar) | 4 | — | 2026-09-26 |  AI Security Research Radar — AI for security and security for AI |
+| 10 | [SteveKinzey/claude-code-tools-installer](https://github.com/SteveKinzey/claude-code-tools-installer) | 1 | JavaScript | 2026-09-26 | Safe interactive macOS installer for a curated Claude Code tools stack |
+| 11 | [PerIPan/music-workflow-skills](https://github.com/PerIPan/music-workflow-skills) | 3 | Python | 2026-09-26 | Claude Code skills for music production — song analysis (tempo/key/stems/chords/lyrics), bass-to-MIDI transcription (CRE |
+| 12 | [indocindesertplant48/claude-vault](https://github.com/indocindesertplant48/claude-vault) | 0 | TypeScript | 2026-09-26 | Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work. |
+| 13 | [Carlosdalv669/formify-skills](https://github.com/Carlosdalv669/formify-skills) | 0 | HTML | 2026-09-26 | Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly |
+| 14 | [lazybean3/hinge](https://github.com/lazybean3/hinge) | 0 | — | 2026-09-26 | Fold your MacBook display for a soft, blurring desktop effect—animated live at 60 fps with lid-angle smoothing on Apple  |
+| 15 | [sayam/thai-docx-skill](https://github.com/sayam/thai-docx-skill) | 0 | Python | 2026-09-26 | An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more. |
+| 16 | [crabbuild/compass](https://github.com/crabbuild/compass) | 162 | Rust | 2026-09-26 | Native, local-first knowledge graph engine for code and project artifacts—inspired by Graphify, built in Rust, and evolv |
+| 17 | [fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete](https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete) | 0 | Python | 2026-09-26 | Generate a personalized athlete-grade diet and workout plan locally—no account, no internet needed. |
+| 18 | [alicekane437/cv-job-market-research](https://github.com/alicekane437/cv-job-market-research) | 0 | — | 2026-09-26 | Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps. |
+| 19 | [SalvatoreSalernods/collega-api-google](https://github.com/SalvatoreSalernods/collega-api-google) | 0 | Shell | 2026-09-26 | Skill per Claude Code: collega una nuova API Google (Search Console, Tag Manager, Business Profile, YouTube Data…) alle  |
+| 20 | [Loriabient5377/blahblahblah-skill](https://github.com/Loriabient5377/blahblahblah-skill) | 0 | — | 2026-09-26 | Compress any long Claude response into an emoji-tagged list you can scan in five seconds. |
+| 21 | [aaamaxito-prog/deadeye](https://github.com/aaamaxito-prog/deadeye) | 0 | Swift | 2026-09-26 | Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions. |
 | 22 | [elsoul/erpc-sdk](https://github.com/elsoul/erpc-sdk) | 2 | JavaScript | 2026-09-26 | ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents. |
 | 23 | [TrueFurina/comment-distillery](https://github.com/TrueFurina/comment-distillery) | 1 | Python | 2026-09-26 | Distill any crowd text (comments, survey open-ends, interviews, feedback, issue threads) into an evidence-cited action g |
 | 24 | [Gonadotrophic-tangent41/ux-ui-skills](https://github.com/Gonadotrophic-tangent41/ux-ui-skills) | 0 | — | 2026-09-26 | Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design. |
