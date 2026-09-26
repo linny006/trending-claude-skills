@@ -1,5 +1,113 @@
 [
   {
+    "description": "Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antig",
+    "id": "dinhanhthi/coding-friend",
+    "language": "TypeScript",
+    "name": "dinhanhthi/coding-friend",
+    "stars": 3,
+    "updated_at": "2026-09-26T12:44:54Z",
+    "url": "https://github.com/dinhanhthi/coding-friend"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-09-26T12:44:43Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 94721,
+    "updated_at": "2026-09-26T12:41:49Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Ciclo de desarrollo asistido por agentes para Claude Code, empaquetado como plugin instalable \u2014 con una app de ejemplo c",
+    "id": "rarango10/GoHarness",
+    "language": "JavaScript",
+    "name": "rarango10/GoHarness",
+    "stars": 2,
+    "updated_at": "2026-09-26T12:38:39Z",
+    "url": "https://github.com/rarango10/GoHarness"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-26T12:38:33Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 183,
+    "updated_at": "2026-09-26T12:37:22Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Language-agnostic AI workflow plugins for Claude Code and Codex. Every workflow is a skill.",
+    "id": "tony/skills",
+    "language": "Python",
+    "name": "tony/skills",
+    "stars": 3,
+    "updated_at": "2026-09-26T12:36:28Z",
+    "url": "https://github.com/tony/skills"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 37,
+    "updated_at": "2026-09-26T12:35:42Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Turns Claude Code into a learning loop: quizzes you on your own diffs, tracks weak spots per developer.",
+    "id": "Tykok/learning-with-claude",
+    "language": "Shell",
+    "name": "Tykok/learning-with-claude",
+    "stars": 1,
+    "updated_at": "2026-09-26T12:35:02Z",
+    "url": "https://github.com/Tykok/learning-with-claude"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-09-26T12:33:33Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Skills for Claude to work with UK planning applications \u2014 retrieve documents from council portals, triage the grounds, a",
+    "id": "SeagullTwo/uk-planning-skills",
+    "language": "\u2014",
+    "name": "SeagullTwo/uk-planning-skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T12:32:09Z",
+    "url": "https://github.com/SeagullTwo/uk-planning-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T12:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills for Claude Code, Codex and other agents",
     "id": "andreeeeaaaaas/skills",
     "language": "Python",
@@ -9,29 +117,11 @@
     "url": "https://github.com/andreeeeaaaaas/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T12:29:27Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 94721,
-    "updated_at": "2026-09-26T12:23:39Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "Claude Code skill: a background Playwright browser for screenshots (desktop/tablet/mobile), frontend health checks, visu",
     "id": "AndyShiu/claude-skill-playwright-browser",
     "language": "JavaScript",
     "name": "AndyShiu/claude-skill-playwright-browser",
-    "stars": 7,
+    "stars": 11,
     "updated_at": "2026-09-26T12:23:33Z",
     "url": "https://github.com/AndyShiu/claude-skill-playwright-browser"
   },
@@ -90,24 +180,6 @@
     "url": "https://github.com/leymish01-oss/claude-code-founder-skills-sample"
   },
   {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 5,
-    "updated_at": "2026-09-26T12:29:09Z",
-    "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-26T12:29:51Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
     "id": "scenario-labs/skills",
     "language": "Python",
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "malkreide/mcp-audit-skill",
     "stars": 1,
-    "updated_at": "2026-09-26T12:04:54Z",
+    "updated_at": "2026-09-26T12:41:11Z",
     "url": "https://github.com/malkreide/mcp-audit-skill"
   },
   {
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 427,
-    "updated_at": "2026-09-26T12:04:32Z",
+    "updated_at": "2026-09-26T12:44:26Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -252,15 +324,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Ciclo de desarrollo asistido por agentes para Claude Code, empaquetado como plugin instalable \u2014 con una app de ejemplo c",
-    "id": "rarango10/GoHarness",
-    "language": "JavaScript",
-    "name": "rarango10/GoHarness",
-    "stars": 2,
-    "updated_at": "2026-09-26T11:57:19Z",
-    "url": "https://github.com/rarango10/GoHarness"
-  },
-  {
     "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
     "id": "jabrena/plinth",
     "language": "Java",
@@ -292,7 +355,7 @@
     "id": "zenstory-ai/oh-story-claudecode",
     "language": "Python",
     "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 7117,
+    "stars": 7118,
     "updated_at": "2026-09-26T11:54:17Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
@@ -320,7 +383,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-26T12:21:30Z",
+    "updated_at": "2026-09-26T12:44:45Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 197,
     "updated_at": "2026-09-26T11:45:49Z",
     "url": "https://github.com/GetBindu/awesome-claude-code-and-skills"
-  },
-  {
-    "description": "PSYINT \u2014 The tooling project for psychic and spiritual counterintelligence. Open-source tools to detect and audit disinf",
-    "id": "lemur47/si-protocols",
-    "language": "Python",
-    "name": "lemur47/si-protocols",
-    "stars": 1,
-    "updated_at": "2026-09-26T11:44:05Z",
-    "url": "https://github.com/lemur47/si-protocols"
-  },
-  {
-    "description": "Language-agnostic AI workflow plugins for Claude Code and Codex. Every workflow is a skill.",
-    "id": "tony/skills",
-    "language": "Python",
-    "name": "tony/skills",
-    "stars": 3,
-    "updated_at": "2026-09-26T11:42:56Z",
-    "url": "https://github.com/tony/skills"
-  },
-  {
-    "description": "Single source of truth for AI coding agent configuration \u2014 skills, commands and rules shared across OpenCode and Pi.",
-    "id": "jjmartres/ai-coding-agents",
-    "language": "TypeScript",
-    "name": "jjmartres/ai-coding-agents",
-    "stars": 48,
-    "updated_at": "2026-09-26T11:41:47Z",
-    "url": "https://github.com/jjmartres/ai-coding-agents"
-  },
-  {
-    "description": "Awesome Claude Code And Agent Tools",
-    "id": "cooler333/awesome-claude-code",
-    "language": "Python",
-    "name": "cooler333/awesome-claude-code",
-    "stars": 13,
-    "updated_at": "2026-09-26T11:40:15Z",
-    "url": "https://github.com/cooler333/awesome-claude-code"
-  },
-  {
-    "description": "Fast CLI for Google Play Console, for developers optimized for your agentic development flows",
-    "id": "tamtom/play-console-cli",
-    "language": "Go",
-    "name": "tamtom/play-console-cli",
-    "stars": 241,
-    "updated_at": "2026-09-26T11:40:13Z",
-    "url": "https://github.com/tamtom/play-console-cli"
-  },
-  {
-    "description": "Push notifications + human-in-the-loop for AI agents. Approve from your lock screen. Claude Code, Claude Cowork, Codex, ",
-    "id": "Pushary/pushary-skill",
-    "language": "\u2014",
-    "name": "Pushary/pushary-skill",
-    "stars": 1,
-    "updated_at": "2026-09-26T11:39:36Z",
-    "url": "https://github.com/Pushary/pushary-skill"
-  },
-  {
-    "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
-    "id": "semlith/semlith",
-    "language": "Rust",
-    "name": "semlith/semlith",
-    "stars": 1,
-    "updated_at": "2026-09-26T12:19:14Z",
-    "url": "https://github.com/semlith/semlith"
   }
 ]
