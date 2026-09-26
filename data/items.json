@@ -1,5 +1,149 @@
 [
   {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 9,
+    "updated_at": "2026-09-26T21:30:06Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "\ud83e\ude84 Install, review, and share agent skills.",
+    "id": "osrim/niksi",
+    "language": "TypeScript",
+    "name": "osrim/niksi",
+    "stars": 8,
+    "updated_at": "2026-09-26T21:29:55Z",
+    "url": "https://github.com/osrim/niksi"
+  },
+  {
+    "description": "Claude Code plugin and Agent Skills for media review in RV / OpenRV / Autodesk RV: labelled flipbooks of renders and com",
+    "id": "nzanepro/tvr-skills-rv",
+    "language": "Python",
+    "name": "nzanepro/tvr-skills-rv",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:28:37Z",
+    "url": "https://github.com/nzanepro/tvr-skills-rv"
+  },
+  {
+    "description": "Lifecharts turns the chapters of your life into one timeline you can share as a link or embed on your own site.",
+    "id": "hraness/lifecharts",
+    "language": "JavaScript",
+    "name": "hraness/lifecharts",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:28:20Z",
+    "url": "https://github.com/hraness/lifecharts"
+  },
+  {
+    "description": "Sendsets: the cold email API for AI agents. Remote MCP server, Claude Code plugin, agent skills (SKILL.md), CLI and Open",
+    "id": "AddisonHoff/sendsets",
+    "language": "Shell",
+    "name": "AddisonHoff/sendsets",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:28:12Z",
+    "url": "https://github.com/AddisonHoff/sendsets"
+  },
+  {
+    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 15,
+    "updated_at": "2026-09-26T21:27:51Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "Practical plugins for Claude Code, maintained by auYeCoding.",
+    "id": "auYeCoding/radish-plugins",
+    "language": "JavaScript",
+    "name": "auYeCoding/radish-plugins",
+    "stars": 3,
+    "updated_at": "2026-09-26T21:26:45Z",
+    "url": "https://github.com/auYeCoding/radish-plugins"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 22,
+    "updated_at": "2026-09-26T21:26:34Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "Connect an agent here. 342 skills (Cursor, Claude Code & Codex), 107 research papers, 201 ML notebooks, 9 textbooks, 18 ",
+    "id": "adriannoes/awesome-agentic-ai",
+    "language": "Jupyter Notebook",
+    "name": "adriannoes/awesome-agentic-ai",
+    "stars": 61,
+    "updated_at": "2026-09-26T21:26:33Z",
+    "url": "https://github.com/adriannoes/awesome-agentic-ai"
+  },
+  {
+    "description": "Project starting kit: method documents, GitHub scaffolding, and specification-to-board scripts. Stack-agnostic core, one",
+    "id": "romain-nicod/kickoff",
+    "language": "Python",
+    "name": "romain-nicod/kickoff",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:25:43Z",
+    "url": "https://github.com/romain-nicod/kickoff"
+  },
+  {
+    "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
+    "id": "hraness/soulscrape",
+    "language": "TypeScript",
+    "name": "hraness/soulscrape",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:24:10Z",
+    "url": "https://github.com/hraness/soulscrape"
+  },
+  {
+    "description": "Textbutler is an AI butler for the iMessage, WhatsApp, and Beeper chats you choose. It runs on your Mac and answers as a",
+    "id": "hraness/textbutler",
+    "language": "TypeScript",
+    "name": "hraness/textbutler",
+    "stars": 5,
+    "updated_at": "2026-09-26T21:24:09Z",
+    "url": "https://github.com/hraness/textbutler"
+  },
+  {
+    "description": "Portable, source-auditable Agent Skills for repository engineering, orchestrated delivery, and semantic workflows \u2014 for ",
+    "id": "hraness/skillpack",
+    "language": "JavaScript",
+    "name": "hraness/skillpack",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:23:45Z",
+    "url": "https://github.com/hraness/skillpack"
+  },
+  {
+    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
+    "id": "illodev/drawn-by-code",
+    "language": "JavaScript",
+    "name": "illodev/drawn-by-code",
+    "stars": 9,
+    "updated_at": "2026-09-26T21:22:07Z",
+    "url": "https://github.com/illodev/drawn-by-code"
+  },
+  {
+    "description": "The Master Order: skill para Claude Code de desarrollo por especificaciones, tareas y metas. Por Gast\u00f3n Portuesi \u00b7 Dev D",
+    "id": "devdealerar/the-master-order",
+    "language": "HTML",
+    "name": "devdealerar/the-master-order",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:17:52Z",
+    "url": "https://github.com/devdealerar/the-master-order"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T21:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
     "id": "WYRE-AI/msp-claude-plugins",
     "language": "Astro",
@@ -22,18 +166,9 @@
     "id": "hraness/oh",
     "language": "TypeScript",
     "name": "hraness/oh",
-    "stars": 3,
-    "updated_at": "2026-09-26T21:13:12Z",
+    "stars": 4,
+    "updated_at": "2026-09-26T21:24:25Z",
     "url": "https://github.com/hraness/oh"
-  },
-  {
-    "description": "Lifecharts turns the chapters of your life into one timeline you can share as a link or embed on your own site.",
-    "id": "hraness/lifecharts",
-    "language": "JavaScript",
-    "name": "hraness/lifecharts",
-    "stars": 0,
-    "updated_at": "2026-09-26T21:13:09Z",
-    "url": "https://github.com/hraness/lifecharts"
   },
   {
     "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
@@ -50,17 +185,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-26T21:12:39Z",
+    "updated_at": "2026-09-26T21:29:40Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
-    "id": "illodev/drawn-by-code",
-    "language": "JavaScript",
-    "name": "illodev/drawn-by-code",
-    "stars": 9,
-    "updated_at": "2026-09-26T21:10:45Z",
-    "url": "https://github.com/illodev/drawn-by-code"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -68,7 +194,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-26T21:10:02Z",
+    "updated_at": "2026-09-26T21:25:05Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -79,33 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T21:09:39Z",
     "url": "https://github.com/winsley-jeune/harborrank-skills"
-  },
-  {
-    "description": "Sendsets: the cold email API for AI agents. Remote MCP server, Claude Code plugin, agent skills (SKILL.md), CLI and Open",
-    "id": "AddisonHoff/sendsets",
-    "language": "Shell",
-    "name": "AddisonHoff/sendsets",
-    "stars": 0,
-    "updated_at": "2026-09-26T21:08:40Z",
-    "url": "https://github.com/AddisonHoff/sendsets"
-  },
-  {
-    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
-    "id": "hraness/wordcell",
-    "language": "TypeScript",
-    "name": "hraness/wordcell",
-    "stars": 15,
-    "updated_at": "2026-09-26T21:08:20Z",
-    "url": "https://github.com/hraness/wordcell"
-  },
-  {
-    "description": "Textbutler is an AI butler for the iMessage, WhatsApp, and Beeper chats you choose. It runs on your Mac and answers as a",
-    "id": "hraness/textbutler",
-    "language": "TypeScript",
-    "name": "hraness/textbutler",
-    "stars": 5,
-    "updated_at": "2026-09-26T21:14:54Z",
-    "url": "https://github.com/hraness/textbutler"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -130,7 +229,7 @@
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 183,
+    "stars": 182,
     "updated_at": "2026-09-26T21:03:41Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
@@ -153,15 +252,6 @@
     "url": "https://github.com/Borda/AI-Rig"
   },
   {
-    "description": "The Master Order: skill para Claude Code de desarrollo por especificaciones, tareas y metas. Por Gast\u00f3n Portuesi \u00b7 Dev D",
-    "id": "devdealerar/the-master-order",
-    "language": "HTML",
-    "name": "devdealerar/the-master-order",
-    "stars": 0,
-    "updated_at": "2026-09-26T21:08:03Z",
-    "url": "https://github.com/devdealerar/the-master-order"
-  },
-  {
     "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
     "id": "filippolmt/skills",
     "language": "HTML",
@@ -169,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T21:01:38Z",
     "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T21:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "And if you gaze long enough into Veil, you'll notice Veil gazing back into you.",
@@ -207,15 +288,6 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "Project starting kit: method documents, GitHub scaffolding, and specification-to-board scripts. Stack-agnostic core, one",
-    "id": "romain-nicod/kickoff",
-    "language": "Python",
-    "name": "romain-nicod/kickoff",
-    "stars": 1,
-    "updated_at": "2026-09-26T21:13:36Z",
-    "url": "https://github.com/romain-nicod/kickoff"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -223,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T20:56:55Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Claude Code plugin and Agent Skills for media review in RV / OpenRV / Autodesk RV: labelled flipbooks of renders and com",
-    "id": "nzanepro/tvr-skills-rv",
-    "language": "Python",
-    "name": "nzanepro/tvr-skills-rv",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:55:55Z",
-    "url": "https://github.com/nzanepro/tvr-skills-rv"
   },
   {
     "description": "Claude Code plugins and skills: a Remotion promo video pipeline, production deploy pipelines, Codex loops, Google Stitch",
@@ -259,15 +322,6 @@
     "stars": 90,
     "updated_at": "2026-09-26T20:49:56Z",
     "url": "https://github.com/walidboulanouar/Ay-Skills"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 9,
-    "updated_at": "2026-09-26T20:49:24Z",
-    "url": "https://github.com/using-system/oddyssey"
   },
   {
     "description": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dep",
@@ -319,7 +373,7 @@
     "id": "kaankiziltug/logo-design-skill",
     "language": "HTML",
     "name": "kaankiziltug/logo-design-skill",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-26T20:44:29Z",
     "url": "https://github.com/kaankiziltug/logo-design-skill"
   },
@@ -346,7 +400,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69462,
+    "stars": 69465,
     "updated_at": "2026-09-26T20:40:41Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -367,15 +421,6 @@
     "stars": 3,
     "updated_at": "2026-09-26T20:35:16Z",
     "url": "https://github.com/joaoguirunas/team-os"
-  },
-  {
-    "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
-    "id": "hraness/soulscrape",
-    "language": "TypeScript",
-    "name": "hraness/soulscrape",
-    "stars": 1,
-    "updated_at": "2026-09-26T20:31:36Z",
-    "url": "https://github.com/hraness/soulscrape"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-26T21:12:19Z",
     "url": "https://github.com/slopstopper/plumb-line"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:27:11Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-09-26T20:27:07Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-26T21:09:00Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-09-26T20:24:00Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-26T20:22:07Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
