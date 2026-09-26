@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-26 12:29 UTC
+> ⏰ Last updated: 2026-09-26 12:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,15 +43,15 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [andreeeeaaaaas/skills](https://github.com/andreeeeaaaaas/skills) | 1 | Python | 2026-09-26 | Agent skills for Claude Code, Codex and other agents |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 94721 | TypeScript | 2026-09-26 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
-| 3 | [AndyShiu/claude-skill-playwright-browser](https://github.com/AndyShiu/claude-skill-playwright-browser) | 7 | JavaScript | 2026-09-26 | Claude Code skill: a background Playwright browser for screenshots (desktop/tablet/mobile), frontend health checks, visu |
-| 4 | [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | 0 | HTML | 2026-09-26 | A comprehensive logo-design skill for Claude: principles, process, SVG craft, testing tools and a 1,432-logo reference l |
-| 5 | [AnotherSava/claude-code-common](https://github.com/AnotherSava/claude-code-common) | 1 | Python | 2026-09-26 | Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a |
-| 6 | [lannerk/FRAME-Development-Model](https://github.com/lannerk/FRAME-Development-Model) | 0 | Shell | 2026-09-26 | split AI collaboration into four seats that are independent of each other and check each other — execution, review, over |
-| 7 | [KKenny0/Tracework](https://github.com/KKenny0/Tracework) | 2 | Python | 2026-09-26 | Agentic coding decision replay：记录为什么，把 session signals 逐层收口成可核验的周报、月报和路线图。 |
-| 8 | [SalvatoreSalernods/collega-api-google](https://github.com/SalvatoreSalernods/collega-api-google) | 0 | Shell | 2026-09-26 | Skill per Claude Code: collega una nuova API Google (Search Console, Tag Manager, Business Profile, YouTube Data…) alle  |
-| 9 | [leymish01-oss/claude-code-founder-skills-sample](https://github.com/leymish01-oss/claude-code-founder-skills-sample) | 0 | — | 2026-09-26 | 3 free Claude Code skills for founders: launch readiness, pricing experiments, support replies. Each with a worked examp |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 48 | Python | 2026-09-26 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 48 | Python | 2026-09-26 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 94721 | TypeScript | 2026-09-26 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
+| 4 | [AndyShiu/claude-skill-playwright-browser](https://github.com/AndyShiu/claude-skill-playwright-browser) | 7 | JavaScript | 2026-09-26 | Claude Code skill: a background Playwright browser for screenshots (desktop/tablet/mobile), frontend health checks, visu |
+| 5 | [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | 0 | HTML | 2026-09-26 | A comprehensive logo-design skill for Claude: principles, process, SVG craft, testing tools and a 1,432-logo reference l |
+| 6 | [AnotherSava/claude-code-common](https://github.com/AnotherSava/claude-code-common) | 1 | Python | 2026-09-26 | Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a |
+| 7 | [lannerk/FRAME-Development-Model](https://github.com/lannerk/FRAME-Development-Model) | 0 | Shell | 2026-09-26 | split AI collaboration into four seats that are independent of each other and check each other — execution, review, over |
+| 8 | [KKenny0/Tracework](https://github.com/KKenny0/Tracework) | 2 | Python | 2026-09-26 | Agentic coding decision replay：记录为什么，把 session signals 逐层收口成可核验的周报、月报和路线图。 |
+| 9 | [SalvatoreSalernods/collega-api-google](https://github.com/SalvatoreSalernods/collega-api-google) | 0 | Shell | 2026-09-26 | Skill per Claude Code: collega una nuova API Google (Search Console, Tag Manager, Business Profile, YouTube Data…) alle  |
+| 10 | [leymish01-oss/claude-code-founder-skills-sample](https://github.com/leymish01-oss/claude-code-founder-skills-sample) | 0 | — | 2026-09-26 | 3 free Claude Code skills for founders: launch readiness, pricing experiments, support replies. Each with a worked examp |
 | 11 | [mr-kelly/skills](https://github.com/mr-kelly/skills) | 5 | JavaScript | 2026-09-26 | Agent Skills by mr-kelly |
 | 12 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-09-26 | Project orchestration and AI agentic workflow utility. |
 | 13 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | 536 | Python | 2026-09-26 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen |
