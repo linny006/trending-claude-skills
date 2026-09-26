@@ -1,12 +1,39 @@
 [
   {
-    "description": "Claude Code plugins and skills: a Remotion promo video pipeline, production deploy pipelines, Codex loops, Google Stitch",
-    "id": "tomerhayundev/skills",
-    "language": "Shell",
-    "name": "tomerhayundev/skills",
+    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
+    "id": "filippolmt/skills",
+    "language": "HTML",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-09-26T06:15:08Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "The nifi-and-ai Claude skill \u2014 build, deploy, and debug Apache NiFi 2.x / MiNiFi / EFM data flows",
+    "id": "cldr-steven-matison/NiFiandAi",
+    "language": "\u2014",
+    "name": "cldr-steven-matison/NiFiandAi",
     "stars": 0,
-    "updated_at": "2026-09-26T05:59:44Z",
-    "url": "https://github.com/tomerhayundev/skills"
+    "updated_at": "2026-09-26T06:13:43Z",
+    "url": "https://github.com/cldr-steven-matison/NiFiandAi"
+  },
+  {
+    "description": "A Claude skill for teaching yourself anything: learning that survives the cold test.",
+    "id": "romanprigodskii/indelible",
+    "language": "Python",
+    "name": "romanprigodskii/indelible",
+    "stars": 1,
+    "updated_at": "2026-09-26T06:13:17Z",
+    "url": "https://github.com/romanprigodskii/indelible"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 21,
+    "updated_at": "2026-09-26T06:14:18Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
     "description": "Claude Code and Codex frontend skills for cinematic websites: art direction, WebGL, parallax, three.js, audit.",
@@ -14,8 +41,71 @@
     "language": "JavaScript",
     "name": "ridelink0/ultimate-frontend-skills",
     "stars": 6,
-    "updated_at": "2026-09-26T05:59:27Z",
+    "updated_at": "2026-09-26T06:06:22Z",
     "url": "https://github.com/ridelink0/ultimate-frontend-skills"
+  },
+  {
+    "description": "Claude Code plugins and skills: a Remotion promo video pipeline, production deploy pipelines, Codex loops, Google Stitch",
+    "id": "tomerhayundev/skills",
+    "language": "Shell",
+    "name": "tomerhayundev/skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T06:05:42Z",
+    "url": "https://github.com/tomerhayundev/skills"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-26T06:04:39Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "Distill any crowd text (comments, survey open-ends, interviews, feedback, issue threads) into an evidence-cited action g",
+    "id": "TrueFurina/comment-distillery",
+    "language": "Python",
+    "name": "TrueFurina/comment-distillery",
+    "stars": 1,
+    "updated_at": "2026-09-26T06:04:26Z",
+    "url": "https://github.com/TrueFurina/comment-distillery"
+  },
+  {
+    "description": "Claude Code skills for engineering, research, and patent work where a plausible answer isn't good enough. Built-in check",
+    "id": "hemapriyan-rk/claude-rigor-skills",
+    "language": "TeX",
+    "name": "hemapriyan-rk/claude-rigor-skills",
+    "stars": 1,
+    "updated_at": "2026-09-26T06:04:05Z",
+    "url": "https://github.com/hemapriyan-rk/claude-rigor-skills"
+  },
+  {
+    "description": "Open build standards for back-office workflows, as installable Agent Skills. Ordered checks, object schemas, a conforman",
+    "id": "digitalgym/aipathway-standards",
+    "language": "TypeScript",
+    "name": "digitalgym/aipathway-standards",
+    "stars": 0,
+    "updated_at": "2026-09-26T06:03:34Z",
+    "url": "https://github.com/digitalgym/aipathway-standards"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-26T06:03:02Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T06:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Image deep research for Claude Code and Codex: licensed reference images, website contact sheets, moodboards.",
@@ -36,15 +126,6 @@
     "url": "https://github.com/takimdigital/deckhand-skill"
   },
   {
-    "description": "Claude Code skills for engineering, research, and patent work where a plausible answer isn't good enough. Built-in check",
-    "id": "hemapriyan-rk/claude-rigor-skills",
-    "language": "TeX",
-    "name": "hemapriyan-rk/claude-rigor-skills",
-    "stars": 1,
-    "updated_at": "2026-09-26T05:56:39Z",
-    "url": "https://github.com/hemapriyan-rk/claude-rigor-skills"
-  },
-  {
     "description": "Deterministic code quality gate for AI coding agents (Claude Code, Codex, pi): git hooks that block test tampering, hold",
     "id": "smixs/code-quality",
     "language": "TypeScript",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "MetamusicX/zissa-wiki",
     "stars": 57,
-    "updated_at": "2026-09-26T05:54:58Z",
+    "updated_at": "2026-09-26T06:07:59Z",
     "url": "https://github.com/MetamusicX/zissa-wiki"
   },
   {
@@ -99,15 +180,6 @@
     "url": "https://github.com/calelamb/jevskillz"
   },
   {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 21,
-    "updated_at": "2026-09-26T05:56:29Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19473,
-    "updated_at": "2026-09-26T05:50:39Z",
+    "updated_at": "2026-09-26T06:10:20Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T05:50:28Z",
     "url": "https://github.com/paulmorphic/pitch-polynomial"
-  },
-  {
-    "description": "Distill any crowd text (comments, survey open-ends, interviews, feedback, issue threads) into an evidence-cited action g",
-    "id": "TrueFurina/comment-distillery",
-    "language": "Python",
-    "name": "TrueFurina/comment-distillery",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:49:51Z",
-    "url": "https://github.com/TrueFurina/comment-distillery"
   },
   {
     "description": "MCP server for Statable, privacy-first cookieless web analytics. Query traffic, goals and funnels from Claude, Cursor, C",
@@ -207,15 +270,6 @@
     "url": "https://github.com/PerIPan/music-workflow-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T05:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
     "id": "mblode/agent-skills",
     "language": "Python",
@@ -230,7 +284,7 @@
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
     "stars": 94707,
-    "updated_at": "2026-09-26T05:58:06Z",
+    "updated_at": "2026-09-26T06:01:01Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -286,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T05:35:26Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:48:40Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
     "description": "Claude Code skills + subagents: grilling, handoffs, kanban workflow, pair (manager+implementer), and an unattended orche",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-26T05:28:26Z",
     "url": "https://github.com/shimo4228/claude-harness"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:28:06Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:27:33Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:27:32Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "A rejection-driven workflow for turning unstable work into stable artifacts.",
-    "id": "phykn/loopy",
-    "language": "\u2014",
-    "name": "phykn/loopy",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:26:44Z",
-    "url": "https://github.com/phykn/loopy"
-  },
-  {
-    "description": "Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation.",
-    "id": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "language": "Python",
-    "name": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "stars": 1,
-    "updated_at": "2026-09-26T05:26:29Z",
-    "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
   }
 ]
