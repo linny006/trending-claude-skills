@@ -1,12 +1,102 @@
 [
   {
+    "description": "Safe interactive macOS installer for a curated Claude Code tools stack",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 1,
+    "updated_at": "2026-09-26T17:59:05Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "Empirical research into how agent platforms implement Agent Skill loading, management, and presentation. Benchmark skill",
+    "id": "agent-ecosystem/agent-skill-implementation",
+    "language": "Go",
+    "name": "agent-ecosystem/agent-skill-implementation",
+    "stars": 5,
+    "updated_at": "2026-09-26T17:59:04Z",
+    "url": "https://github.com/agent-ecosystem/agent-skill-implementation"
+  },
+  {
+    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
+    "id": "illodev/drawn-by-code",
+    "language": "JavaScript",
+    "name": "illodev/drawn-by-code",
+    "stars": 8,
+    "updated_at": "2026-09-26T17:57:56Z",
+    "url": "https://github.com/illodev/drawn-by-code"
+  },
+  {
     "description": "Free ESPN fantasy hockey draft assistant that rescores projections for your league, models how each rival owner drafts, ",
-    "id": "WiredBuilder/espn-fantasy-hockey-draft-board",
+    "id": "WiredBuilder/espn-fantasy-hockey-draft-assistant",
     "language": "Python",
-    "name": "WiredBuilder/espn-fantasy-hockey-draft-board",
+    "name": "WiredBuilder/espn-fantasy-hockey-draft-assistant",
     "stars": 0,
-    "updated_at": "2026-09-26T17:45:00Z",
-    "url": "https://github.com/WiredBuilder/espn-fantasy-hockey-draft-board"
+    "updated_at": "2026-09-26T17:56:59Z",
+    "url": "https://github.com/WiredBuilder/espn-fantasy-hockey-draft-assistant"
+  },
+  {
+    "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
+    "id": "StanimirTenev/baton",
+    "language": "Python",
+    "name": "StanimirTenev/baton",
+    "stars": 0,
+    "updated_at": "2026-09-26T17:55:25Z",
+    "url": "https://github.com/StanimirTenev/baton"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69451,
+    "updated_at": "2026-09-26T17:55:06Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
+    "id": "nitinjain999/platform-skills",
+    "language": "Shell",
+    "name": "nitinjain999/platform-skills",
+    "stars": 45,
+    "updated_at": "2026-09-26T17:54:35Z",
+    "url": "https://github.com/nitinjain999/platform-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-26T17:54:29Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Five Claude skills that turn a brief into an on-brand storyboard, prompts for ten image and video generators, and checke",
+    "id": "whystrohm/shotkit",
+    "language": "Python",
+    "name": "whystrohm/shotkit",
+    "stars": 21,
+    "updated_at": "2026-09-26T17:53:53Z",
+    "url": "https://github.com/whystrohm/shotkit"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-26T17:59:22Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 8,
+    "updated_at": "2026-09-26T17:52:50Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
   },
   {
     "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
@@ -14,8 +104,53 @@
     "language": "Go",
     "name": "PollyGlot/google-play-cli",
     "stars": 10,
-    "updated_at": "2026-09-26T17:44:47Z",
+    "updated_at": "2026-09-26T17:58:44Z",
     "url": "https://github.com/PollyGlot/google-play-cli"
+  },
+  {
+    "description": "Fire your AI setup coach: a Claude Code plugin that audits and fixes its own setup for non-coders. Read-only audit, diff",
+    "id": "aixlife/fire-your-ai-setup-coach",
+    "language": "Python",
+    "name": "aixlife/fire-your-ai-setup-coach",
+    "stars": 0,
+    "updated_at": "2026-09-26T17:52:07Z",
+    "url": "https://github.com/aixlife/fire-your-ai-setup-coach"
+  },
+  {
+    "description": "Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add.",
+    "id": "devohmycode/skills-atlas",
+    "language": "TypeScript",
+    "name": "devohmycode/skills-atlas",
+    "stars": 0,
+    "updated_at": "2026-09-26T17:51:43Z",
+    "url": "https://github.com/devohmycode/skills-atlas"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-09-26T17:48:47Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 28,
+    "updated_at": "2026-09-26T17:47:37Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T17:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u8389\u5a05\u7684\u9152\u9986\u5199\u5361\u65b9\u6cd5 \u2014\u2014 \u628a\u89d2\u8272\u8d44\u6599\u5199\u6210 SillyTavern \u89d2\u8272\u5361\uff08V2 \u683c\u5f0f / PList+Ali:Chat \u5199\u6cd5 / \u673a\u5236\u6e05\u5355 / \u4e09\u4e2a Python \u5de5\u5177 / \u4ece\u8d44\u6599\u5230\u6210\u54c1\u5361\u7684\u5b8c\u6574\u5b9e\u4f8b\uff09\u3002\u4e2d\u6587\u3002",
@@ -36,24 +171,6 @@
     "url": "https://github.com/Shaisolaris/solaris-dev-shop"
   },
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-26T17:43:13Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69451,
-    "updated_at": "2026-09-26T17:42:56Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
     "id": "Hefrock/agent-skills",
     "language": "Python",
@@ -70,15 +187,6 @@
     "stars": 17,
     "updated_at": "2026-09-26T17:40:51Z",
     "url": "https://github.com/joshLong145/ambits"
-  },
-  {
-    "description": "Five Claude skills that turn a brief into an on-brand storyboard, prompts for ten image and video generators, and checke",
-    "id": "whystrohm/shotkit",
-    "language": "Python",
-    "name": "whystrohm/shotkit",
-    "stars": 21,
-    "updated_at": "2026-09-26T17:39:31Z",
-    "url": "https://github.com/whystrohm/shotkit"
   },
   {
     "description": "Ask your coding agent how anything works. Get back a page you can play with: live, draggable simulations in one HTML fil",
@@ -153,15 +261,6 @@
     "url": "https://github.com/hraness/wordcell"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T17:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -176,17 +275,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-26T17:42:07Z",
+    "updated_at": "2026-09-26T18:00:38Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add.",
-    "id": "devohmycode/skills-atlas",
-    "language": "TypeScript",
-    "name": "devohmycode/skills-atlas",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:27:30Z",
-    "url": "https://github.com/devohmycode/skills-atlas"
   },
   {
     "description": "The nifi-and-ai Claude skill \u2014 build, deploy, and debug Apache NiFi 2.x / MiNiFi / EFM data flows",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T17:03:34Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-09-26T17:02:07Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-09-26T17:01:53Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Lifecharts turns the chapters of your life into one timeline you can share as a link or embed on your own site.",
-    "id": "hraness/lifecharts",
-    "language": "JavaScript",
-    "name": "hraness/lifecharts",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:01:22Z",
-    "url": "https://github.com/hraness/lifecharts"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:58:52Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:58:26Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-09-26T16:58:10Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-26T16:58:01Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:56:31Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:56:15Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:55:43Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   }
 ]
