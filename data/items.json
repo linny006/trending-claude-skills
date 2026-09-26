@@ -1,5 +1,50 @@
 [
   {
+    "description": "Take the reins of your real browser",
+    "id": "karnstack/reins",
+    "language": "TypeScript",
+    "name": "karnstack/reins",
+    "stars": 24,
+    "updated_at": "2026-09-26T19:29:43Z",
+    "url": "https://github.com/karnstack/reins"
+  },
+  {
+    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
+    "id": "PollyGlot/google-play-cli",
+    "language": "Go",
+    "name": "PollyGlot/google-play-cli",
+    "stars": 10,
+    "updated_at": "2026-09-26T19:30:01Z",
+    "url": "https://github.com/PollyGlot/google-play-cli"
+  },
+  {
+    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
+    "id": "illodev/drawn-by-code",
+    "language": "JavaScript",
+    "name": "illodev/drawn-by-code",
+    "stars": 9,
+    "updated_at": "2026-09-26T19:29:28Z",
+    "url": "https://github.com/illodev/drawn-by-code"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:29:17Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-26T19:26:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Portable agent orchestration skill for Claude Code, Codex, Cursor, Grok and Kimi: route coding tasks, scope subagents, r",
     "id": "byensitmagnus/agent-mission-control",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 11,
     "updated_at": "2026-09-26T19:24:23Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
-    "id": "PollyGlot/google-play-cli",
-    "language": "Go",
-    "name": "PollyGlot/google-play-cli",
-    "stars": 10,
-    "updated_at": "2026-09-26T19:24:26Z",
-    "url": "https://github.com/PollyGlot/google-play-cli"
   },
   {
     "description": "\u4e09\u65b9\u5bf9\u6297\u5f0f\u4ee3\u7801\u8bc4\u5ba1 Agent Skill\uff1a\u84dd\u519b(\u654c\u610f\u5ba1\u67e5) \u2192 \u7b2c\u4e09\u65b9(\u72ec\u7acb\u590d\u6838) \u2192 \u4e2d\u7acb\u88c1\u5b9a\uff0c\u6bcf\u6761\u7ed3\u8bba\u5e26\u8bc1\u636e\u94fe\u3002\u5b89\u88c5\uff1anpx skills add RevolutionLA/adversarial-review \u00b7 Tri-role ",
@@ -99,15 +135,6 @@
     "url": "https://github.com/crabbuild/compass"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-26T19:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -117,31 +144,13 @@
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
-    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
-    "id": "illodev/drawn-by-code",
-    "language": "JavaScript",
-    "name": "illodev/drawn-by-code",
-    "stars": 9,
-    "updated_at": "2026-09-26T19:14:18Z",
-    "url": "https://github.com/illodev/drawn-by-code"
-  },
-  {
     "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
     "id": "hraness/wordcell",
     "language": "TypeScript",
     "name": "hraness/wordcell",
     "stars": 15,
-    "updated_at": "2026-09-26T19:20:44Z",
+    "updated_at": "2026-09-26T19:29:13Z",
     "url": "https://github.com/hraness/wordcell"
-  },
-  {
-    "description": "Take the reins of your real browser",
-    "id": "karnstack/reins",
-    "language": "TypeScript",
-    "name": "karnstack/reins",
-    "stars": 24,
-    "updated_at": "2026-09-26T19:25:59Z",
-    "url": "https://github.com/karnstack/reins"
   },
   {
     "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "using-system/oddyssey",
     "stars": 9,
-    "updated_at": "2026-09-26T19:05:40Z",
+    "updated_at": "2026-09-26T19:29:17Z",
     "url": "https://github.com/using-system/oddyssey"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 53,
     "updated_at": "2026-09-26T18:13:55Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-09-26T18:13:48Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   }
 ]
