@@ -1,12 +1,57 @@
 [
   {
-    "description": "Open Agent Skills (EN+RU) for digital signage: menu boards for caf\u00e9s and restaurants, TV slideshows, screen design, widg",
-    "id": "prtvbiz-design/prtv-skills",
-    "language": "HTML",
-    "name": "prtvbiz-design/prtv-skills",
+    "description": "Agent skills for developers building NSW Government digital services: Australian Government Style Manual checks, WCAG au",
+    "id": "digitalnsw/nswds-skills",
+    "language": "JavaScript",
+    "name": "digitalnsw/nswds-skills",
     "stars": 0,
-    "updated_at": "2026-09-27T15:00:04Z",
-    "url": "https://github.com/prtvbiz-design/prtv-skills"
+    "updated_at": "2026-09-27T15:14:19Z",
+    "url": "https://github.com/digitalnsw/nswds-skills"
+  },
+  {
+    "description": "Open-source AI design system builder. Load it into Claude, ChatGPT, Codex or Cursor: it interviews you, recommends sourc",
+    "id": "ckryptickunal/OpenDesigner",
+    "language": "Python",
+    "name": "ckryptickunal/OpenDesigner",
+    "stars": 0,
+    "updated_at": "2026-09-27T15:13:29Z",
+    "url": "https://github.com/ckryptickunal/OpenDesigner"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-09-27T15:14:13Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "A retrieval wiki built to be read by a model at run time: a page contract, a validator, and two skills that navigate and",
+    "id": "huxwaitt/claude-wiki",
+    "language": "PowerShell",
+    "name": "huxwaitt/claude-wiki",
+    "stars": 0,
+    "updated_at": "2026-09-27T15:11:39Z",
+    "url": "https://github.com/huxwaitt/claude-wiki"
+  },
+  {
+    "description": "A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and de",
+    "id": "Likenttt/garmin-connect-plugin-for-dsh",
+    "language": "TypeScript",
+    "name": "Likenttt/garmin-connect-plugin-for-dsh",
+    "stars": 22,
+    "updated_at": "2026-09-27T15:11:28Z",
+    "url": "https://github.com/Likenttt/garmin-connect-plugin-for-dsh"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 427,
+    "updated_at": "2026-09-27T15:09:49Z",
+    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
@@ -14,8 +59,62 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69569,
-    "updated_at": "2026-09-27T14:59:27Z",
+    "updated_at": "2026-09-27T15:11:09Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Gideon \u2014 offensive & defensive security skills for Claude Code & Codex. OWASP API + LLM Top 10, MITRE ATLAS, STRIDE/PAST",
+    "id": "noahfranklin/gideon",
+    "language": "Python",
+    "name": "noahfranklin/gideon",
+    "stars": 0,
+    "updated_at": "2026-09-27T15:07:49Z",
+    "url": "https://github.com/noahfranklin/gideon"
+  },
+  {
+    "description": "A Claude Code plugin of three routed skills for in-session reward moments and lifecycle retention in games and consumer ",
+    "id": "ajitta/Game-Engagement-Retention-Skills",
+    "language": "Shell",
+    "name": "ajitta/Game-Engagement-Retention-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-27T15:07:44Z",
+    "url": "https://github.com/ajitta/Game-Engagement-Retention-Skills"
+  },
+  {
+    "description": "AI Agent \u6280\u80fd\u805a\u5408\u4ed3\uff1a29 \u4e2a\u751f\u4ea7\u7ea7 SKILL.md\uff08\u8de8\u5de5\u5177 + DSH \u517c\u5bb9\uff09\uff5c29 production-grade AI agent skills, cross-tool & DeepSeek Harness compati",
+    "id": "xingtu1996/xingtu-skills",
+    "language": "Python",
+    "name": "xingtu1996/xingtu-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T15:06:33Z",
+    "url": "https://github.com/xingtu1996/xingtu-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-27T15:04:13Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Open Agent Skills (EN+RU) for digital signage: menu boards for caf\u00e9s and restaurants, TV slideshows, screen design, widg",
+    "id": "prtvbiz-design/prtv-skills",
+    "language": "HTML",
+    "name": "prtvbiz-design/prtv-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T15:03:32Z",
+    "url": "https://github.com/prtvbiz-design/prtv-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-27T15:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
@@ -43,15 +142,6 @@
     "stars": 54,
     "updated_at": "2026-09-27T14:55:25Z",
     "url": "https://github.com/OutlineDriven/outline-driven-development"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-09-27T14:55:37Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques",
@@ -99,24 +189,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-27T14:57:40Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "AI Agent \u6280\u80fd\u805a\u5408\u4ed3\uff1a29 \u4e2a\u751f\u4ea7\u7ea7 SKILL.md\uff08\u8de8\u5de5\u5177 + DSH \u517c\u5bb9\uff09\uff5c29 production-grade AI agent skills, cross-tool & DeepSeek Harness compati",
-    "id": "xingtu1996/xingtu-skills",
-    "language": "Python",
-    "name": "xingtu1996/xingtu-skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T14:50:06Z",
-    "url": "https://github.com/xingtu1996/xingtu-skills"
-  },
-  {
     "description": "Skills and agents for Claude and Gemini",
     "id": "AnaCataVC/amiga-ia",
     "language": "JavaScript",
@@ -160,15 +232,6 @@
     "stars": 16,
     "updated_at": "2026-09-27T14:48:24Z",
     "url": "https://github.com/liustack/pptwise"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-27T14:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Refactoriser avec Claude Code sans rien casser : une photo de la page avant et apr\u00e8s chaque changement, compar\u00e9e au pixe",
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 23,
-    "updated_at": "2026-09-27T14:59:42Z",
+    "updated_at": "2026-09-27T15:13:35Z",
     "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
@@ -248,7 +311,7 @@
     "language": "TypeScript",
     "name": "bislink360/styled-markdown",
     "stars": 0,
-    "updated_at": "2026-09-27T14:58:42Z",
+    "updated_at": "2026-09-27T15:13:20Z",
     "url": "https://github.com/bislink360/styled-markdown"
   },
   {
@@ -295,15 +358,6 @@
     "stars": 11,
     "updated_at": "2026-09-27T14:36:15Z",
     "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "A Claude Code plugin of three routed skills for in-session reward moments and lifecycle retention in games and consumer ",
-    "id": "ajitta/Game-Engagement-Retention-Skills",
-    "language": "Shell",
-    "name": "ajitta/Game-Engagement-Retention-Skills",
-    "stars": 1,
-    "updated_at": "2026-09-27T14:35:24Z",
-    "url": "https://github.com/ajitta/Game-Engagement-Retention-Skills"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T14:20:56Z",
     "url": "https://github.com/mtangoz/grill"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-27T14:19:07Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 5,
-    "updated_at": "2026-09-27T14:17:29Z",
-    "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 247,
-    "updated_at": "2026-09-27T14:41:29Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
-  },
-  {
-    "description": "Tsubaiso Intelligence Skill \u2014 PSA/IMA\uff08Salesforce\uff09\u696d\u52d9\u306e\u53c2\u7167\u30fb\u30c7\u30fc\u30bf\u6295\u5165\u30fb\u30e1\u30bf\u30c7\u30fc\u30bf\u69cb\u6210\u30fb\u5e33\u7968\u30fb\u4ed5\u69d8\u53ef\u8996\u5316\u30fb\u66f4\u65b0\u652f\u63f4\u30fb\u30ed\u30fc\u30ab\u30eb API \u64cd\u4f5c\u3068\u3001\u5c0e\u5165\uff0f\u30ed\u30fc\u30eb\u30a2\u30a6\u30c8\uff0fPoC\uff0f\u958b\u767a\u904b\u7528\u30e9\u30a4\u30d5\u30b5\u30a4\u30af",
-    "id": "tsubaiso/tsubaiso-intelligence",
-    "language": "Python",
-    "name": "tsubaiso/tsubaiso-intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-27T14:17:17Z",
-    "url": "https://github.com/tsubaiso/tsubaiso-intelligence"
-  },
-  {
-    "description": "A marketplace of agentic workflows for Claude Code. Featuring devteam: a three-layer development pipeline that carries a",
-    "id": "alternative-intelligence-cp/claude-skills",
-    "language": "Python",
-    "name": "alternative-intelligence-cp/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-27T14:16:59Z",
-    "url": "https://github.com/alternative-intelligence-cp/claude-skills"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-27T14:16:55Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   }
 ]
